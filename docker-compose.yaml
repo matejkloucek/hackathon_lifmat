@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:15
+    env_file:
+      - backend/.env
+    ports:
+      - 5432:5432
+    volumes:
+      - lifmat_postgres_15:/var/lib/postgresql/data/
+
+volumes:
+  lifmat_postgres_15:
+  database:
+    driver: local
