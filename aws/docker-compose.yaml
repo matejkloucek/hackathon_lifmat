@@ -1,0 +1,16 @@
+services:
+  db:
+    container_name: db
+    image: postgres:15
+    expose:
+      - 5432
+    env_file:
+      - aws/.env
+    ports:
+      - 5432:5432
+    restart: always
+    volumes:
+      - lifmat_postgres_15:/var/lib/postgresql/data/
+
+volumes:
+  lifmat_postgres_15:

@@ -14,3 +14,8 @@ setup-db:
 	docker-compose rm -f db || true
 	docker volume rm $(ROOT_FOLDER_NAME)_lifmat_postgres || true
 	docker-compose up -d db
+
+docker-run:
+	docker-compose stop || true
+	docker-compose rm -f || true
+	docker-compose up -d
