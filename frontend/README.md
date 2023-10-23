@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-
 ### `yarn install`
 
 Run this before the first run of the application or anytime any of the dependencies change.
