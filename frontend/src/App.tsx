@@ -1,11 +1,15 @@
 import React from 'react';
-import {Stack} from "@mui/material";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {MainPage} from "./components/MainPage";
 
 function App() {
   return (
-    <Stack>
-      Hello world
-    </Stack>
+      <BrowserRouter>
+        <Routes>
+          <Route path={"*"} element={<MainPage/>}/>
+        </Routes>
+      </BrowserRouter>
+
   );
 }
 
