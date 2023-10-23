@@ -1,15 +1,14 @@
-import React from 'react';
-import {BrowserRouter, Route, Routes} from "react-router-dom";
-import {MainPage} from "./components/MainPage";
+import React from "react";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { MainPage } from "./components/MainPage";
 
 function App() {
   return (
-      <BrowserRouter>
-        <Routes>
-          <Route path={"*"} element={<MainPage/>}/>
-        </Routes>
-      </BrowserRouter>
-
+    <BrowserRouter>
+      <Routes>
+        <Route path={"*"} element={<MainPage />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
