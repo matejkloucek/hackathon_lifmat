@@ -1,0 +1,72 @@
+{
+  "nazev_pripravku": "Ardeaelytosol conc. natriumhydrogenfosfát 8,7%",
+  "slozeni": [
+    {
+      "nazev": "Natrii hydrogenophosphas dodecahydricus",
+      "mnozstvi": 71.6,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii dihydrogenophosphas dihydricus",
+      "mnozstvi": 15.6,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Dihydrát dinatrium-edetátu"
+    },
+    {
+      "nazev": "Voda na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hyperfosfatémie"
+    },
+    {
+      "nazev_kontraindikace": "Hypernatrémie"
+    },
+    {
+      "nazev_kontraindikace": "Oligurie"
+    },
+    {
+      "nazev_kontraindikace": "Anurie"
+    },
+    {
+      "nazev_kontraindikace": "Insuficience ledvin (retence fosfátu)"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Kalcium",
+      "druh_interakce": "Nelze míchat s fosfátovými přípravky"
+    },
+    {
+      "nazev_latky": "Magnesium",
+      "druh_interakce": "Nelze míchat s fosfátovými přípravky"
+    }
+  ],
+  "tehotenstvi": [
+    "Použití přípravku během těhotenství a laktace není kontraindikováno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "Vzácně (>1/10000 a < 1/1000)"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Vzácně (>1/10000 a < 1/1000)"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "Vzácně (>1/10000 a < 1/1000)"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "Vzácně (>1/10000 a < 1/1000)"
+    }
+  ],
+  "inkompatibility": "Přípravek nesmí být smíchán s roztoky obsahující kalcium a magnesium."
+}

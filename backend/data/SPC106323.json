@@ -1,0 +1,87 @@
+{
+  "nazev_pripravku": "BRONCHIPRET TYMIÁN A PRVOSENKA potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "Thymi extractum siccum",
+      "mnozstvi": 160,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Primulae extractum siccum",
+      "mnozstvi": 60,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Monohydrát laktózy"
+    },
+    {
+      "nazev": "Usušená tekutá glukóza"
+    },
+    {
+      "nazev": "Koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "Mikrokrystalická celulóza"
+    },
+    {
+      "nazev": "Dimetikon"
+    },
+    {
+      "nazev": "Magnesium-stearát"
+    },
+    {
+      "nazev": "Hypromelóza"
+    },
+    {
+      "nazev": "Aroma máty peprné"
+    },
+    {
+      "nazev": "Povidon"
+    },
+    {
+      "nazev": "Krospovidon"
+    },
+    {
+      "nazev": "Polyakrylátová disperse 30%"
+    },
+    {
+      "nazev": "Propylenglykol"
+    },
+    {
+      "nazev": "Mastek"
+    },
+    {
+      "nazev": "Sodná sůl sacharinu"
+    },
+    {
+      "nazev": "Barviva: riboflavin (E101), chlorofyl (E141), oxid titaničitý (E171)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky nebo na další rostliny z čeledi hluchavkovitých, břízu, pelyněk, celer nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Interakce s jinými léky nejsou dosud známy."
+    }
+  ],
+  "tehotenstvi": [
+    "Bezpečnost v průběhu těhotenství a v období laktace nebyla prokázána. Vzhledem k nedostatku uspokojivých údajů se užívání v průběhu těhotenství a v období laktace nedoporučuje."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Hypersenzitivní reakce, jako např. dyspnoe, kopřivka, svědění, otok obličeje, úst a/nebo hltanu.",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Gastrointestinální poruchy jako křeče, nauzea, zvracení, průjem.",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

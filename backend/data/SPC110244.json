@@ -1,0 +1,91 @@
+{
+  "nazev_pripravku": "Imazol krémpasta",
+  "slozeni": [
+    {
+      "nazev": "Clotrimazolum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Butylhydroxyanisol (E320)",
+      "mnozstvi": 0.5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Cetylstearylalkohol",
+      "mnozstvi": 57.0,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Fenethylalkohol"
+    },
+    {
+      "nazev": "Oxid titaničitý (E171)"
+    },
+    {
+      "nazev": "Tekutý parafin"
+    },
+    {
+      "nazev": "Oktyldodekanol"
+    },
+    {
+      "nazev": "Glycerol-monostearát"
+    },
+    {
+      "nazev": "Polysorbát 20"
+    },
+    {
+      "nazev": "Dihydrát dinatrium-edetátu"
+    },
+    {
+      "nazev": "Čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Amfotericin",
+      "druh_interakce": "Redukce účinnosti"
+    },
+    {
+      "nazev_latky": "Nystatin",
+      "druh_interakce": "Redukce účinnosti"
+    },
+    {
+      "nazev_latky": "Natamycin",
+      "druh_interakce": "Redukce účinnosti"
+    },
+    {
+      "nazev_latky": "Deodoranty a kosmetické výrobky",
+      "druh_interakce": "Možné snížení účinnosti"
+    }
+  ],
+  "tehotenstvi": [
+    "Imazol krémpasta se může používat po dobu těhotenství."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Místní kožní reakce (zčervenání, pálení a štípání)",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Alergické kožní reakce",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hypersenzitivní reakce v podobě podráždění kůže, očí a sliznic",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Místní kožní reakce (např. kontaktní dermatitida)",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

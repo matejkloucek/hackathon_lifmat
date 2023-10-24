@@ -1,0 +1,156 @@
+{
+  "nazev_pripravku": "Torecan 6,5 mg obalené tablety",
+  "slozeni": [
+    {
+      "nazev": "thiethylperazinum",
+      "mnozstvi": 6.5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktózy",
+      "mnozstvi": 68.70,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sacharóza",
+      "mnozstvi": 38.045,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "kukuřičný škrob"
+    },
+    {
+      "nazev": "mastek"
+    },
+    {
+      "nazev": "kyselina stearová"
+    },
+    {
+      "nazev": "želatina"
+    },
+    {
+      "nazev": "arabská klovatina"
+    },
+    {
+      "nazev": "oxid titaničitý (E171)"
+    },
+    {
+      "nazev": "voskové leštidlo"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku, fenothiaziny nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Těžší pokles funkcí CNS, a/nebo komatózní stavy. Klinicky významná hypotenze. Torecan se nesmí podávat dětem a dospívajícím do 15 let (vzhledem k riziku extrapyramidových nežádoucích účinků) a u dětí a dospívajících se symptomy Reyova syndromu (z důvodu jejich podobnosti s nežádoucími účinky přípravku Torecan a v důsledku toho možnosti přehlédnutí diagnózy)."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "trankvilizéry",
+      "druh_interakce": "potencování účinku na CNS"
+    },
+    {
+      "nazev_latky": "opiáty",
+      "druh_interakce": "potencování účinku na CNS"
+    },
+    {
+      "nazev_latky": "anestetika",
+      "druh_interakce": "potencování účinku na CNS"
+    },
+    {
+      "nazev_latky": "hypnotika",
+      "druh_interakce": "potencování účinku na CNS"
+    },
+    {
+      "nazev_latky": "alkohol",
+      "druh_interakce": "potencování účinku na CNS"
+    },
+    {
+      "nazev_latky": "tricyklická antidepresiva",
+      "druh_interakce": "potencování účinku a toxicita thiethylperazinu"
+    },
+    {
+      "nazev_latky": "adrenalin",
+      "druh_interakce": "zeslabení účinků"
+    },
+    {
+      "nazev_latky": "bromokriptin",
+      "druh_interakce": "snížení inhibičního účinku na sekreci prolaktinu"
+    },
+    {
+      "nazev_latky": "inhibitory MAO",
+      "druh_interakce": "podpora rozvoje nepříznivých účinků inhibitorů MAO"
+    },
+    {
+      "nazev_latky": "prokarbazin",
+      "druh_interakce": "podpora rozvoje nepříznivých účinků fenothiazinů"
+    }
+  ],
+  "tehotenstvi": [
+    "Torecan by neměl být používán během těhotenství."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "závratě",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "somnolence",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "neklid",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "gynekomastie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "křeče",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "extrapyramidové účinky",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "neprůhlednost oční čočky nebo zastřené vidění",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "hypotenze",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "periferní edémy končetin nebo tváře",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "anorexie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "sucho v ústech",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "neuralgie trigeminu",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "tachykardie",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "cholestatická žloutenka",
+      "frekvence_vyskytu": "velmi vzácné"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

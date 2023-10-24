@@ -1,0 +1,149 @@
+{
+  "nazev_pripravku": "AGOLUTIN",
+  "slozeni": [
+    {
+      "nazev": "Progesteronum",
+      "mnozstvi": 30,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "olejový roztok",
+      "mnozstvi": 1,
+      "jednotky": "ml"
+    },
+    {
+      "nazev": "pomocné látky",
+      "mnozstvi": "",
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Benzylalkohol"
+    },
+    {
+      "nazev": "Benzyl-benzoat"
+    },
+    {
+      "nazev": "Slunečnicový olej na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Děložní krvácení před vyloučením organické příčiny"
+    },
+    {
+      "nazev_kontraindikace": "Dysfunkční děložní krvácení bez současné aplikace estrogenů"
+    },
+    {
+      "nazev_kontraindikace": "Tromboflebitida"
+    },
+    {
+      "nazev_kontraindikace": "Tromboembolická choroba"
+    },
+    {
+      "nazev_kontraindikace": "Plicní embolie i v anamnéze"
+    },
+    {
+      "nazev_kontraindikace": "Akutní a chronické onemocnění jater"
+    },
+    {
+      "nazev_kontraindikace": "Kojení"
+    },
+    {
+      "nazev_kontraindikace": "Alergie na léčivou látku nebo kteroukoliv složku přípravku"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Antikonvulziva",
+      "druh_interakce": "zvyšují metabolismus progestagenů"
+    },
+    {
+      "nazev_latky": "Přípravky proti infekcím",
+      "druh_interakce": "zvyšují metabolismus progestagenů"
+    },
+    {
+      "nazev_latky": "Ritonavir a nelfinavir",
+      "druh_interakce": "silné inhibitory nebo induktory"
+    },
+    {
+      "nazev_latky": "Bylinné přípravky obsahující třezalku tečkovou",
+      "druh_interakce": "indukce metabolismu progestagenů"
+    }
+  ],
+  "tehotenstvi": [
+    "Není indikován během těhotenství. Pokud během léčby přípravkem AGOLUTIN žena otěhotní, je třeba léčbu neprodleně přerušit."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Nauzea",
+      "frekvence_vyskytu": "velmi časté"
+    },
+    {
+      "nazev": "Vomitus",
+      "frekvence_vyskytu": "velmi časté"
+    },
+    {
+      "nazev": "Změny tělesné hmotnosti",
+      "frekvence_vyskytu": "velmi časté"
+    },
+    {
+      "nazev": "Nervozita",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Křeče",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Poruchy spánku",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Sklon k depresím",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Bomelasma",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Chloasma",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Kandidóza",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Urtikarie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Změny libida",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Napětí prsů",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Pruritus vulvae",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Hyperpyrexie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Lokální dráždění",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Edém",
+      "frekvence_vyskytu": "méně časté"
+    }
+  ],
+  "inkompatibility": "Oxidující látky, alkálie a světlo způsobují rozklad progesteronu."
+}

@@ -1,0 +1,33 @@
+{
+  "nazev_pripravku": "Heřmánkový čaj 1,5 g/sáček",
+  "slozeni": [
+    {
+      "nazev": "Matricariae flos",
+      "mnozstvi": 1.5,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na rostliny z čeledi Asteraceae (hvězdnicovité)."
+    },
+    {
+      "nazev_kontraindikace": "Použití heřmánkového květu je kontraindikováno při celkových koupelích v případě otevřených ran, rozsáhlých poranění kůže, akutních onemocnění kůže, horečky, těžkých infekcí, vážných oběhových poruchách a při nedostatečné činnosti srdce. Použití při částečných koupelích je kontraindikováno v případě otevřených ran, rozsáhlých poranění kůže, akutních onemocnění kůže, při horečce a těžkých infekcích."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "CYP450",
+      "druh_interakce": "U pacientů po transplantaci ledvin dlouhodobě užívající vysoké dávky (okolo 2 měsíců) byly hlášeny interakce založené na účincích souvisejících s CYP450."
+    }
+  ],
+  "tehotenstvi": ["Bezpečnost během těhotenství a kojení byla stanovena. Před kojením by měly být bradavky očištěny od přípravků obsahujících heřmánek pro kožní použití, aby se zabránilo navození citlivosti dítěte."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Hypersenzitivní reakce na heřmánek zahrnující těžké alergické reakce (dyspnoea, Quinckeho onemocnění, cévní kolaps, anafylaktický šok) následně po mukózním kontaktu s tekutým heřmánkovým přípravkem.",
+      "frekvence_vyskytu": "Frekvence výskytu není známa (z dostupných údajů nelze určit)."
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

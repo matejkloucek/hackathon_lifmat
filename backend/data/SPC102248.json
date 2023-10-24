@@ -1,0 +1,47 @@
+{
+  "nazev_pripravku": "VIDISIC",
+  "slozeni": [
+    {
+      "nazev": "carbomerum 980",
+      "mnozstvi": "2",
+      "jednotky": "mg/g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "cetrimid"
+    },
+    {
+      "nazev": "sorbitol"
+    },
+    {
+      "nazev": "voda na injekci"
+    },
+    {
+      "nazev": "hydroxid sodný"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na karbomer nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Nejsou doposud známy."
+    }
+  ],
+  "tehotenstvi": ["Přípravek Vidisic lze používat v období těhotenství a kojení po lékařském posouzení jeho rizika/přínosu."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Hypersenzitivní reakce",
+      "frekvence_vyskytu": "v ojedinělých případech"
+    },
+    {
+      "nazev": "Slabé pálení očí, zčervenání, pocit cizího tělíska v oku anebo poškodit rohovkový epitel",
+      "frekvence_vyskytu": "u pacientů citlivých na cetrimid"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

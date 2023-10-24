@@ -1,0 +1,62 @@
+{
+  "nazev_pripravku": "Acyclostad 50 mg/g krém",
+  "slozeni": [
+    {
+      "nazev": "Aciclovirum",
+      "mnozstvi": 50,
+      "jednotky": "mg"
+    },
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Cetylalkohol",
+    },
+    {
+      "nazev": "Dimetikon"
+    },
+    {
+      "nazev": "Propylenglykol",
+    },
+    {
+      "nazev": "Glyceromakrogol-stearát"
+    },
+    {
+      "nazev": "Tekutý parafín"
+    },
+    {
+      "nazev": "Bílá vazelína"
+    },
+    {
+      "nazev": "Čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku, valaciklovir nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": null
+    }
+  ],
+  "tehotenstvi": [
+    "Převáží-li očekávaný terapeutický efekt možné riziko, může být použití tohoto léčivého přípravku indikováno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Okamžitá hypersenzitivní reakce včetně angioedému",
+      "frekvence_vyskytu": "Velmi vzácné"
+    },
+    {
+      "nazev": "Přechodné pálení nebo píchání, mírný pocit suchosti nebo olupování kůže, svědění",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Erytém, kontaktní dermatitida po aplikaci",
+      "frekvence_vyskytu": "Vzácné"
+    }
+  ],
+  "inkompatibility": "Nejsou dostupné odpovídající informace."
+}

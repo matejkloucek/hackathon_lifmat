@@ -1,0 +1,56 @@
+{
+  "nazev_pripravku": "Azelastin COMOD 0,5 mg/ml oční kapky, roztok",
+  "slozeni": [
+    {
+      "nazev": "Azelastini hydrochloridum",
+      "mnozstvi": "0,50",
+      "jednotky": "mg/ml"
+    },
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Dihydrát dinatrium-edetátu"
+    },
+    {
+      "nazev": "Hypromelóza"
+    },
+    {
+      "nazev": "Sorbitol"
+    },
+    {
+      "nazev": "Hydroxid sodný"
+    },
+    {
+      "nazev": "Voda na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Nebyly provedeny interakční studie s přípravkem Azelastin COMOD."
+    }
+  ],
+  "tehotenstvi": [
+    "Pro stanovení bezpečnosti azelastinu během těhotenství u člověka nejsou k dispozici dostatečné informace. Při vysokých perorálních dávkách prokázal azelastin při pokusech na zvířatech indukci nežádoucích účinků (fetální úmrtí, retardace růstu a malformace kostí). Lokální aplikace do oka vede k minimální systémové expozici s hladinami v plasmě v rozmezí pikogramů. Je však třeba opatrnosti, pokud je Azelastin COMOD používán během těhotenství."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Alergické reakce (například vyrážka nebo svědění).",
+      "frekvence_vyskytu": "Velmi vzácné"
+    },
+    {
+      "nazev": "Hořká pachuť.",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Mírné přechodné podráždění oka.",
+      "frekvence_vyskytu": "Časté"
+    }
+  ],
+  "inkompatibility": "Nejsou známy."
+}

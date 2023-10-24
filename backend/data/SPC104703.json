@@ -1,0 +1,91 @@
+{
+  "nazev_pripravku": "CUROSURF",
+  "slozeni": [
+    {
+      "nazev": "phospholipida pulmonis suis",
+      "mnozstvi": 80,
+      "jednotky": "mg/ml"
+    },
+    {
+      "nazev": "hydrofobní proteiny o nízké molekulární hmotnosti",
+      "mnozstvi": 0.9,
+      "jednotky": "mg/ml"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "chlorid sodný"
+    },
+    {
+      "nazev": "voda na injekci"
+    },
+    {
+      "nazev": "hydrogenuhličitan sodný"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Neuplatňuje se."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Sepse",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Intrakraniální hemoragie",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Bradykardie",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Hypotenze",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Bronchopulmonální dysplazie",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Pneumotorax",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Pulmonální hemoragie",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Hyperoxie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Neonatální cyanóza",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Apnoe",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Abnormální elektroencefalogram",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Komplikace tracheální intubace",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Nejsou známy."
+}

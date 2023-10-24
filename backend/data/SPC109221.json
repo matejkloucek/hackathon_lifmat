@@ -1,0 +1,92 @@
+{
+  "nazev_pripravku": "Hydrocortison Léčiva 10 mg/g mast",
+  "slozeni": [
+    {
+      "nazev": "hydrocortisoni acetas",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "methylparaben",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "propylenglykol",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "cetylstearylalkohol",
+      "mnozstvi": null,
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "monoacylglyceroly nasycených vyšších mastných kyselin"
+    },
+    {
+      "nazev": "ethoxylované alkoholy C₁₂–C₁₆"
+    },
+    {
+      "nazev": "trolamin"
+    },
+    {
+      "nazev": "kyselina stearová"
+    },
+    {
+      "nazev": "bílý vosk"
+    },
+    {
+      "nazev": "čištěná voda"
+    },
+    {
+      "nazev": "tvrdý parafin"
+    },
+    {
+      "nazev": "tekutý parafin"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Masťová forma není vhodná u akutních mokvajících forem, u plísňových a jiných infekčních onemocnění, na otevřené rány, do oka a v místě očkování. Mast se nesmí aplikovat na prsy před kojením."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "antibiotika ve formě zásypů a mastí",
+      "druh_interakce": "snížení účinnosti"
+    }
+  ],
+  "tehotenstvi": [
+    "V těhotenství se doporučuje jen krátkodobá aplikace co nejmenšího množství na co nejmenší plochy bez okluze."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "atrofie kůže",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "teleangiektazie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "trvalý erytém",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "strie (zvláště u žen)",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "rozmazané vidění",
+      "frekvence_vyskytu": "frekvence méně časté není známo"
+    },
+    {
+      "nazev": "projevy hypersenzitivity",
+      "frekvence_vyskytu": "frekvence méně časté není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

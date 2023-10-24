@@ -1,0 +1,83 @@
+{
+  "nazev_pripravku": "Triamcinolon S Léčiva 1mg/g + 30mg/g mast",
+  "slozeni": [
+    {
+      "nazev": "triamcinoloni acetonidum",
+      "mnozstvi": 1,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "acidum salicylicum",
+      "mnozstvi": 30,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Ceresin"
+    },
+    {
+      "nazev": "tuk z ovčí vlny"
+    },
+    {
+      "nazev": "bílá vazelína"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Pacienti, u kterých podání kyseliny acetylsalicylové indukovalo astmatický záchvat, kopřivku nebo příznaky alergické rýmy. Infekční onemocnění kůže (zejména herpes simplex, herpes zoster, varicella, tuberkulóza kůže, luetické kožní projevy, pyodermie), dermatomykózy a parazitární dermatózy, rosacea, periorální dermatitida, příznaky kortikosteroidy vyvolané kožní atrofie."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "N/A"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek se v těhotenství a v období kojení nemá používat, jeho případnou krátkodobou aplikaci na malé plochy je nutno individuálně posoudit. Teratogenní účinky nebyly u lidí pozorovány."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "lokální reakce v místě aplikace přípravku",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "sekundární infekce",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "hypersenzitivita",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "kontaktní alergie",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "rozmazané vidění",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "kožní atrofie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "fotosenzitivita",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "poruchy pigmentace",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "hypertrichóza",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "steroidní akné",
+      "frekvence_vyskytu": "velmi vzácné"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

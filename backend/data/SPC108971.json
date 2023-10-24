@@ -1,0 +1,55 @@
+{
+  "nazev_pripravku": "Naxyl 10 mg vaginální tablety",
+  "slozeni": [
+    {
+      "nazev": "dequalinii dichloridum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "monohydrát laktosy"
+    },
+    {
+      "nazev": "mikrokrystalická celulosa"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Ulcerace vaginálního epitelu a děložního čípku. Mladé dívky, které ještě neměly první menstruaci, a tudíž nedosáhly pohlavní dospělosti, přípravek Naxyl nesmí používat."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "mýdla, spermicidy nebo vaginální sprchy",
+      "druh_interakce": "snížení antimikrobiální aktivity dekvalinium-dichloridu"
+    },
+    {
+      "nazev_latky": "nelatexové kondomy a jiné intravaginální prostředky",
+      "druh_interakce": "nejsou k dispozici"
+    }
+  ],
+  "tehotenstvi": [
+    "Naxyl má být během těhotenství používán pouze tehdy, je-li to nezbytně nutné.",
+    "Vaginální tablety nemají být používány během 12 hodin před porodem, aby byla minimalizována expozice novorozence dekvalinium-dichloridu."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "vaginální kandidóza",
+      "frekvence_vyskytu": "časté (≥1/100 až <1/10)"
+    },
+    {
+      "nazev": "vaginální výtok, vulvovaginální pruritus, pocit vulvovaginálního pálení",
+      "frekvence_vyskytu": "méně časté (≥1/1000 až <1/100)"
+    },
+    {
+      "nazev": "alergické reakce s příznaky, jako je kopřivka, erytém, exantém, otok, vyrážka nebo svědění",
+      "frekvence_vyskytu": "Celkové poruchy a reakce v místě aplikace"
+    }
+  ],
+  "inkompatibility": "Naxyl nesmí být mísen s mýdly a dalšími anionickými povrchově aktivními látkami."
+}

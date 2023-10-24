@@ -1,0 +1,93 @@
+{
+  "nazev_pripravku": "Formano 12 mikrogramů prášek k inhalaci v tvrdé tobolce",
+  "slozeni": [
+    {
+      "nazev": "Formoterol fumaras",
+      "mnozstvi": 12,
+      "jednotky": "mikrogramy"
+    },
+    {
+      "nazev": "Monohydrát laktózy",
+      "mnozstvi": 23.99,
+      "jednotky": "miligramy"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Želatina"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku, obecně na beta-2 agonisty nebo na laktózu (která obsahuje malé množství mléčných proteinů) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "O léčbě formoterolem je možné uvažovat ve všech fázích těhotenství, pokud je nutná ke zvládnutí astmatu a pokud je předpokládaná prospěšnost pro matku větší než možné riziko pro plod. Možné riziko pro člověka není známo."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Palpitace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Tachykardie",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Srdeční arytmie, např. fibrilace síní, supraventrikulární tachykardie, extrasystoly",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Nevolnost, oropharyngeální podráždění",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Reakce z přecitlivělosti, např. bronchospazmus, exantém, kopřivka, svědění, závažná hypotenze, angioedém",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Periferní edém",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Hypokalémie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Hyperglykémie, hyperkalémie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Svalové křeče, myalgie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Bolesti hlavy, třes",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Úzkost, nervozita, nespavost, závratě",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Agitovanost, neklid, poruchy spánku",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Změny v krevním tlaku",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Zvlášť závažný bronchospasmus",
+      "frekvence_vyskytu": "méně časté"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

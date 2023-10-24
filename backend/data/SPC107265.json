@@ -1,0 +1,122 @@
+{
+  "nazev_pripravku": "NEPHROTECT",
+  "slozeni": [
+    {
+      "nazev": "isoleucinum",
+      "mnozstvi": 5.80,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "leucinum",
+      "mnozstvi": 12.80,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "lysini acetas",
+      "mnozstvi": 16.90,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "methioninum",
+      "mnozstvi": 2.00,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "phenylalaninum",
+      "mnozstvi": 3.50,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "threoninum",
+      "mnozstvi": 8.20,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "tryptophanum",
+      "mnozstvi": 3.00,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "valinum",
+      "mnozstvi": 8.70,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "argininum",
+      "mnozstvi": 8.20,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "histidinum",
+      "mnozstvi": 9.80,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "alaninum",
+      "mnozstvi": 6.20,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "acetylcysteinum",
+      "mnozstvi": 0.54,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "glycinum",
+      "mnozstvi": 5.31,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "prolinum",
+      "mnozstvi": 3.00,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "serinum",
+      "mnozstvi": 7.60,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "tyrosinum",
+      "mnozstvi": 0.60,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "glycyltyrosinum",
+      "mnozstvi": 3.16,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Kyselina octová 98 %"
+    },
+    {
+      "nazev": "Kyselina jablečná"
+    },
+    {
+      "nazev": "Voda na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Vrozené poruchy metabolizmu aminokyselin. Těžká renální insuficience bez přístupu na hemofiltraci nebo dialýzu. Akutní šok. Všeobecné kontraindikace infuzní terapie: akutní edém plic, hyperhydratace, dekompenzovaná srdeční insuficience a hypotonická dehydratace. Těžká jaterní insuficience."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Nejsou k dispozici žádná klinická data k určení bezpečnosti použití přípravku Nephrotect v období těhotenství a laktace. Nejsou k dispozici studie na vývojovou a reprodukční toxicitu u zvířat. Lékař má zvážit, zda prospěch léčby odpovídá riziku použití přípravku Nephrotect u těhotných a kojících žen."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Jestliže je přípravek používán tak, jak je doporučeno, nejsou známy.",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "K přípravku Nephrotect se mohou přidávat pouze přípravky nezbytné pro parenterální výživu, jako jsou energetické nosiče, elektrolyty, stopové prvky a vitaminy, pro které byla dokumentována kompatibilita. Směs musí být dobře promíchána. Viz bod 6.4"
+}
