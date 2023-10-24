@@ -1,0 +1,114 @@
+{
+  "nazev_pripravku": "Ardeaelytosol D 1/1 infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": "4,00",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": "2,67",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii lactas",
+      "mnozstvi": "5,94",
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hyperkalémie"
+    },
+    {
+      "nazev_kontraindikace": "Těžká alkalóza"
+    },
+    {
+      "nazev_kontraindikace": "Hypoxémie"
+    },
+    {
+      "nazev_kontraindikace": "Celková nebo regionální laktátémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperhydratace"
+    },
+    {
+      "nazev_kontraindikace": "Renální selhávání (oligurie, anurie)"
+    },
+    {
+      "nazev_kontraindikace": "Dekompenzovaná srdeční nedostatečnost"
+    },
+    {
+      "nazev_kontraindikace": "Plicní a mozkový edém"
+    },
+    {
+      "nazev_kontraindikace": "Těžší stupeň hypertenze"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Nesteroidní antiflogistika",
+      "druh_interakce": "Zvyšování hladiny kalia"
+    },
+    {
+      "nazev_latky": "Beta-blokátory",
+      "druh_interakce": "Zvyšování hladiny kalia"
+    },
+    {
+      "nazev_latky": "Heparin",
+      "druh_interakce": "Zvyšování hladiny kalia"
+    },
+    {
+      "nazev_latky": "Inhibitory ACE",
+      "druh_interakce": "Zvyšování hladiny kalia"
+    },
+    {
+      "nazev_latky": "Blokátory účinku aldosteronu",
+      "druh_interakce": "Zvyšování hladiny kalia"
+    },
+    {
+      "nazev_latky": "Srdeční glykosidy (např. digoxin)",
+      "druh_interakce": "Zvyšování hladiny kalia"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Ardeaelytosol D 1/1 je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperkalémie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatrémie*",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Akutní hyponatremická encefalopatie*",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Přípravek je kompatibilní s většinou běžně používaných léčiv. Nejsou známy žádné fyzikálně-chemické inkompatibility, kromě roztoků obsahujících oxidující látky a vykazujících rozdílné pH."
+}

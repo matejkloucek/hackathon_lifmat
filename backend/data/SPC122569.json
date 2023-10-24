@@ -1,0 +1,40 @@
+{
+  "nazev_pripravku": "Infadolan 1 600 IU/g + 300 IU/g mast",
+  "slozeni": [
+    {
+      "nazev": "retinoli acetas",
+      "mnozstvi": 1066.5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "ergocalciferolum",
+      "mnozstvi": 0.0075,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "tuk z ovčí vlny"
+    },
+    {
+      "nazev": "bílý vosk"
+    },
+    {
+      "nazev": "bílá vazelína"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivé látky nebo pomocné látky uvedené v bodě 6.1"
+    }
+  ],
+  "negativni_interakce": [],
+  "tehotenstvi": ["Infadolan lze používat v těhotenství a v období kojení. Při lokální aplikaci se vitamin A nevstřebává."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "alergické kožní reakce (kožní vyrážka, svědění, pálení)",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Zvolený masťový základ není vhodné ředit nebo míchat s jiným masťovým základem."
+}

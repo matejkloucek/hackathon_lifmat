@@ -1,0 +1,56 @@
+{
+  "nazev_pripravku": "Alkeran 50 mg prášek a rozpouštědlo pro injekční/infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "melphalanum",
+      "mnozstvi": 50,
+      "jednotky": "mg"
+    },
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "sodík"
+    },
+    {
+      "nazev": "ethanol"
+    },
+    {
+      "nazev": "propylenglykol"
+    },
+    {
+      "nazev": "kyselina chlorovodíková 35%"
+    },
+    {
+      "nazev": "povidon"
+    },
+    {
+      "nazev": "dihydrát citronanu sodného"
+    },
+    {
+      "nazev": "voda na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Kojení."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "kyseliny nalidixové",
+      "druh_interakce": "Souběžné podání kyseliny nalidixové s vysokou i.v. dávkou melfalanu bylo příčinou úmrtí u pediatrické populace následkem hemoragické enterokolitidy."
+    },
+    {
+      "nazev_latky": "busulfan",
+      "druh_interakce": "U dětské populace bylo u režimu busulfan-melfalan hlášeno, že podávání melfalanu méně než 24 hodin po poslední perorální dávce busulfanu může mít vliv na rozvoj toxicit."
+    },
+    {
+      "nazev_latky": "cyklosporin",
+      "druh_interakce": "U pacientů, kteří podstoupili transplantaci kostní dřeně podmíněnou vysokou i.v. dávkou melfalanu a jimž byl poté podán cyklosporin k prevenci reakce štěpu proti hostiteli, bylo popsáno narušení renální funkce."
+    }
+  ],
+  "tehotenstvi": ["Jestliže je některý z partnerů léčen přípravkem Alkeran, je třeba – stejně jako při každé jiné cytotoxické terapii – zajistit účinnou antikoncepci. V průběhu těhotenství, zejména v prvním trimestru, je třeba se, pokud možno, vyhnout podávání melfalanu. V každém jednotlivém případě je nutné zvážit poměr mezi potenciálním ohrožením plodu a očekávaným přínosem pro matku."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Sekundární akutní myeloidní leukémie a myelodysplastický syndrom (viz bod 4.4)",
+     

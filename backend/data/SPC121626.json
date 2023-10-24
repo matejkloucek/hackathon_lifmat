@@ -1,0 +1,75 @@
+{
+  "nazev_pripravku": "VERTIMED tablety",
+  "slozeni": [
+    {
+      "nazev": "betahistini dihydrochloridum",
+      "mnozstvi": "8 mg / 16 mg / 24 mg",
+      "jednotky": "tableta"
+    },
+    {
+      "nazev": "monohydrát laktosy",
+      "mnozstvi": "50 mg / 100 mg / 150 mg",
+      "jednotky": "tableta"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "kukuřičný škrob"
+    },
+    {
+      "nazev": "mikrokrystalická celulosa (E 460)"
+    },
+    {
+      "nazev": "bezvodá kyselina citronová (E 330)"
+    },
+    {
+      "nazev": "povidon K25 (E 1201)"
+    },
+    {
+      "nazev": "krospovidon typ A (E 1202)"
+    },
+    {
+      "nazev": "hydrogenovaný rostlinný olej"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    },
+    {
+      "nazev_kontraindikace": "Feochromocytom"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "antihistaminika",
+      "druh_interakce": "možná ovlivnění účinnosti obou léků"
+    }
+  ],
+  "tehotenstvi": [
+    "O podávání betahistinu těhotným ženám nejsou k dispozici dostatečné údaje. Studie na zvířatech nenaznačují přímé nebo nepřímé škodlivé účinky na reprodukční toxicitu při klinicky relevantní terapeutické expozici (viz bod 5.3). Jako preventivní opatření se doporučuje neužívat betahistin během těhotenství."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "nauzea a dyspepsie",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "hypersenzitivní reakce, např. anafylaxe",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Mírné gastrointestinální obtíže (např. zvracení, bolest břicha, nadýmání). Těm se dá vyhnout užíváním betahistinu během jídla nebo po něm, nebo snížením dávky.",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Projevy přecitlivělosti kůže a podkožní tkáně, zvláště angioneurotický edém, kopřivka, vyrážka a pruritus.",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

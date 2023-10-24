@@ -1,0 +1,164 @@
+{
+  "nazev_pripravku": "Ardeaelytosol RL 1/1 infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": 6,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": 0.3,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Calcii chloridum hexahydricum",
+      "mnozstvi": 0.4,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii lactas",
+      "mnozstvi": 3.1,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypertonická dehydratace"
+    },
+    {
+      "nazev_kontraindikace": "Hyperkalémie"
+    },
+    {
+      "nazev_kontraindikace": "Hypernatrémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperchlorémie"
+    },
+    {
+      "nazev_kontraindikace": "Hypoxémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperlaktátémie"
+    },
+    {
+      "nazev_kontraindikace": "Těžká metabolická alkalóza"
+    },
+    {
+      "nazev_kontraindikace": "Hyperhydratace"
+    },
+    {
+      "nazev_kontraindikace": "Renální selhávání (oligurie, anurie)"
+    },
+    {
+      "nazev_kontraindikace": "Dekompenzovaná srdeční nedostatečnost"
+    },
+    {
+      "nazev_kontraindikace": "Plicní a mozkový edém"
+    },
+    {
+      "nazev_kontraindikace": "Těžší stupeň hypertenze"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Chlorpropamid",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Klofibrát",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Karbamazepin",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Vinkristin",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Selektivní inhibitory zpětného vychytávání serotoninu",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Methyltenamfetamin",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Ifosfamid",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Antipsychotika",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Narkotika",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "NSAID",
+      "druh_interakce": "Zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "Cyklofosfamid",
+      "druh_interakce": "Zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "Desmopresin",
+      "druh_interakce": "Analogie vazopresinu"
+    },
+    {
+      "nazev_latky": "Oxytocin",
+      "druh_interakce": "Analogie vazopresinu"
+    },
+    {
+      "nazev_latky": "Vazopresin",
+      "druh_interakce": "Analogie vazopresinu"
+    },
+    {
+      "nazev_latky": "Terlipresin",
+      "druh_interakce": "Analogie vazopresinu"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Ardeaelytosol RL 1/1 je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperlaktátémie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatrémie*",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Akutní hyponatremická encefalopatie*",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Roztok obsahuje vápenaté ionty; po přidání fosforečnanů, uhličitanů, hydrogenuhličitanů nebo šťavelanů může dojít, zejména při delším stání, k tvorbě sraženin."
+}

@@ -1,0 +1,154 @@
+{
+  "nazev_pripravku": "Ardeaelytosol R 1/1 infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": "8.60",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": "0.30",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Calcii chloridum hexahydricum",
+      "mnozstvi": "0.50",
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Acidóza"
+    },
+    {
+      "nazev_kontraindikace": "Hypertonická dehydratace"
+    },
+    {
+      "nazev_kontraindikace": "Hypernatrémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperchlorémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperhydratace"
+    },
+    {
+      "nazev_kontraindikace": "Renální selhávání (oligurie až anurie)"
+    },
+    {
+      "nazev_kontraindikace": "Dekompenzovaná srdeční nedostatečnost"
+    },
+    {
+      "nazev_kontraindikace": "Plicní a mozkový edém"
+    },
+    {
+      "nazev_kontraindikace": "Těžší stupeň hypertenze"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Nesteroidní antirevmatika",
+      "druh_interakce": "Zvyšuje riziko hypernatrémie"
+    },
+    {
+      "nazev_latky": "Alfablokátory",
+      "druh_interakce": "Zvyšuje riziko hypernatrémie"
+    },
+    {
+      "nazev_latky": "Chlorpropamid",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Klofibrát",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Karbamazepin",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Vinkristin",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Selektivní inhibitory zpětného vychytávání serotoninu",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Methyltenamfetamin",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Ifosfamid",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Antipsychotika",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Narkotika",
+      "druh_interakce": "Zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "NSAID",
+      "druh_interakce": "Zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "Cyklofosfamid",
+      "druh_interakce": "Zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "Desmopresin",
+      "druh_interakce": "Analogie vazopresinu"
+    },
+    {
+      "nazev_latky": "Oxytocin",
+      "druh_interakce": "Analogie vazopresinu"
+    },
+    {
+      "nazev_latky": "Vazopresin",
+      "druh_interakce": "Analogie vazopresinu"
+    },
+    {
+      "nazev_latky": "Terlipresin",
+      "druh_interakce": "Analogie vazopresinu"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Ardeaelytosol R 1/1 je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatrémie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Akutní hyponatremická encefalopatie",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Přípravek je kompatibilní s většinou běžně používaných léčiv. Obsahuje vápenaté ionty; po přidání fosfátů, uhličitanů, hydrogenuhličitanů nebo šťavelanů může dojít, zejména při delším stání, k tvorbě sraženin."
+}

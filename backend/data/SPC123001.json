@@ -1,0 +1,90 @@
+{
+  "nazev_pripravku": "Ardeaelytosol EL 2/3 infuzní roztok, Ardeaelytosol EL 1/3 infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": "3,60 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": "0,20 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "Calcii chloridum hexahydricum",
+      "mnozstvi": "0,37 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "Magnesii chloridum hexahydricum",
+      "mnozstvi": "0,13 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "Natrii lactas",
+      "mnozstvi": "",
+      "jednotky": ""
+    },
+    {
+      "nazev": "Glucosum",
+      "mnozstvi": "16,67 g",
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "disiřičitan sodný"
+    },
+    {
+      "nazev": "monohydrát kyseliny citronové"
+    },
+    {
+      "nazev": "voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypotonická dehydratace"
+    },
+    {
+      "nazev_kontraindikace": "Hypotonická hyperhydratace"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Ardeaelytosol EL 2/3 (EL 1/3) je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména při podání v kombinaci s oxytocinem, z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8)."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatrémie*",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatremická encefalopatie*",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Při kombinaci přípravku Ardeaelytosol EL 2/3 (EL 1/3) s jinými přípravky je nutno sledovat rozdíl v pH. Při smíchání s přípravky obsahujícími oxaláty, fosforečnany nebo bikarbonáty může dojít ke vzniku precipitátu."
+}

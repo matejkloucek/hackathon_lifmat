@@ -1,0 +1,69 @@
+{
+  "nazev_pripravku": "Sinupret obalené tablety",
+  "slozeni": [
+    {
+      "nazev": "Gentianae radix",
+      "mnozstvi": 6,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Primulae flos",
+      "mnozstvi": 18,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Rumicis herba",
+      "mnozstvi": 18,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Sambuci flos",
+      "mnozstvi": 18,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Verbenae herba",
+      "mnozstvi": 18,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "monohydrát laktózy"
+    },
+    {
+      "nazev": "sacharóza"
+    },
+    {
+      "nazev": "sorbitol"
+    },
+    {
+      "nazev": "tekutá glukóza"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Těhotenství: Analýza retrospektivní surveillance při užívání Sinupretu obalených tablet a Sinupretu perorálních kapek u 762 těhotných žen neprokázala žádný teratogenní potenciál nebo embryotoxicitu. Studie na zvířatech neprokázaly ani přímý ani nepřímý škodlivý vliv s ohledem na reprodukční toxicitu (viz bod 5.3). Z bezpečnostních důvodů má být Sinupret podáván v průběhu těhotenství pouze po přísném zhodnocení rizika a přínosu ošetřujícím lékařem."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Gastrointestinální potíže (např. abdominální bolesti, nauzea).",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Hypersenzitivní kožní reakce (např. exantém, erytém, pruritus).",
+      "frekvence_vyskytu": "Vzácné"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

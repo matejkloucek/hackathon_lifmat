@@ -1,0 +1,144 @@
+{
+  "nazev_pripravku": "Ardeaelytosol H 2/3 infuzní roztok Ardeaelytosol H 1/2 infuzní roztok Ardeaelytosol H 1/3 infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": "4.00",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": "0.27",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Calcii chloridum hexahydricum",
+      "mnozstvi": "0.13",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Magnesiii chloridum hexahydricum",
+      "mnozstvi": "0.13",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii lactas",
+      "mnozstvi": "2.02",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Glucosum",
+      "mnozstvi": "16.67",
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky":[
+    {
+      "nazev": "disiřičitan sodný"
+    },
+    {
+      "nazev": "monohydrát kyseliny citronové"
+    },
+    {
+      "nazev": "voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+       "nazev_kontraindikace": "Hypotonická dehydratace"
+    },
+    {
+       "nazev_kontraindikace": "Hypotonická hyperhydratace"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "chlorpropamid",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "klofibrát",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "karbamazepin",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "vinkristin",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "selektivní inhibitory zpětného vychytávání serotoninu",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "methyltenamfetamin",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "ifosfamid",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "antipsychotika",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "narkotika",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "NSAID",
+      "druh_interakce": "zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "cyklofosfamid",
+      "druh_interakce": "zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "desmopresin",
+      "druh_interakce": "analogy vazopresinu"
+    },
+    {
+      "nazev_latky": "oxytocin",
+      "druh_interakce": "analogy vazopresinu"
+    },
+    {
+      "nazev_latky": "vazopresin",
+      "druh_interakce": "analogy vazopresinu"
+    },
+    {
+      "nazev_latky": "terlipresin",
+      "druh_interakce": "analogy vazopresinu"
+    }
+  ],
+  "tehotenstvi": ["nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména při podání v kombinaci s oxytocinem, z důvodu rizika hyponatrémie"],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Hyponatrémie",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Hyponatremická encefalopatie",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Při smíchání s přípravky obsahujícími oxaláty, fosforečnany nebo bikarbonáty může dojít ke vzniku precipitátu."
+}

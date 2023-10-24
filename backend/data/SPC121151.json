@@ -1,0 +1,67 @@
+{
+  "nazev_pripravku": "SÉDATIF PC sublingvální tablety",
+  "slozeni": [
+    {
+      "nazev": "Aconitum napellus",
+      "mnozstvi": 6,
+      "jednotky": "CH"
+    },
+    {
+      "nazev": "Belladonna",
+      "mnozstvi": 6,
+      "jednotky": "CH"
+    },
+    {
+      "nazev": "Calendula officinalis",
+      "mnozstvi": 6,
+      "jednotky": "CH"
+    },
+    {
+      "nazev": "Chelidonium majus",
+      "mnozstvi": 6,
+      "jednotky": "CH"
+    },
+    {
+      "nazev": "Abrus precatorius",
+      "mnozstvi": 6,
+      "jednotky": "CH"
+    },
+    {
+      "nazev": "Viburnum opulus",
+      "mnozstvi": 6,
+      "jednotky": "CH"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Monohydrát laktózy"
+    },
+    {
+      "nazev": "Sodná sůl kroskarmelózy"
+    },
+    {
+      "nazev": "Magnesium-stearát"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látka uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Tento léčivý přípravek může být užíván během těhotenství a kojení."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Žádné nežádoucí účinky se neočekávají.",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

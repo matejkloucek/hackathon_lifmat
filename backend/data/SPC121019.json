@@ -1,0 +1,52 @@
+{
+  "nazev_pripravku": "Nano-Albumon 1 mg kit pro radiofarmakum",
+  "slozeni": [
+    {
+      "nazev": "Seroalbuminum humanum aggregatum",
+      "mnozstvi": 1,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Dihydrát chloridu cínatého (II)"
+    },
+    {
+      "nazev": "Dihydrogenfosforečnan sodný a hydrogenfosforečnan sodný"
+    },
+    {
+      "nazev": "Glukóza"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Přecitlivělost na léčivou látku, na kteroukoli pomocnou látku nebo na některou ze složek značeného  radiofarmaka."
+    },
+    {
+      "nazev_kontraindikace": "Použití  (⁹⁹ᵐTc)-koloidních  částic  lidského  albuminu  je kontraindikováno u osob v anamnéze s přecitlivělosti na přípravky obsahující lidský albumin."
+    },
+    {
+      "nazev_kontraindikace": "Během těhotenství je lymfoscintigrafie zahrnující pánev přísně kontraindikována kvůli akumulaci radiofarmaka v lymfatických uzlinách."
+    },
+    {
+      "nazev_kontraindikace": "Lymfoscintigrafie je kontraindikována u pacientů s kompletní blokádou lymfatického systému."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Jodované kontrastní látky",
+      "druh_interakce": "mohou interferovat s lymfatickým zobrazením pomocí přípravku (⁹⁹ᵐTc)-NANO-ALBUMON kit."
+    }
+  ],
+  "tehotenstvi": [
+    "Subkutánní podání přípravku (⁹⁹ᵐTc)-NANO-ALBUMON kit pro lymfoscintigrafii je přísně kontraindikováno během těhotenství kvůli jeho možnému hromadění v pánevních lymfatických uzlinách.",
+    "Radionuklidové procedury prováděné u těhotných žen rovněž zahrnují radiační dávku na plod. Proto by v průběhu těhotenství měla být prováděna jen naléhavá vyšetření, kdy předpokládaný přínos vysoce převažuje riziko způsobené matce a plodu. Intravenózní dávka 500 MBq (⁹⁹ᵐTc)-NANO-ALBUMON kitu vede k odhadované expozici dělohy 0,9 mGy. Expozice dělohy vyšší než 0,5 mGy je považována za potenciální riziko pro plod."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Alergické reakce (včetně velmi vzácné život ohrožující anafylaxe).",
+      "frekvence_vyskytu": "Frekvence není známa (nelze odhadnout z dostupných údajů)"
+    }
+  ],
+  "inkompatibility": "Nejsou známé."
+}

@@ -1,0 +1,121 @@
+{
+  "nazev_pripravku": "Ardeaelytosol H 1/1 infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": 6,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": 0.4,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Calcii chloridum hexahydricum",
+      "mnozstvi": 0.2,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Magnesii chloridum hexahydricum",
+      "mnozstvi": 0.2,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii lactas",
+      "mnozstvi": 3.03,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypertonická dehydratace"
+    },
+    {
+      "nazev_kontraindikace": "Hyperkalémie"
+    },
+    {
+      "nazev_kontraindikace": "Hypernatrémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperchlorémie"
+    },
+    {
+      "nazev_kontraindikace": "Hypoxémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperlaktátemie"
+    },
+    {
+      "nazev_kontraindikace": "Těžká metabolická alkalóza"
+    },
+    {
+      "nazev_kontraindikace": "Hyperhydratace"
+    },
+    {
+      "nazev_kontraindikace": "Renální selhávání (oligurie až anurie)"
+    },
+    {
+      "nazev_kontraindikace": "Dekompenzovaná srdeční nedostatečnost"
+    },
+    {
+      "nazev_kontraindikace": "Plicní a mozkový edém"
+    },
+    {
+      "nazev_kontraindikace": "Těžší stupeň hypertenze"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Léčiva vedoucí ke zvýšenému účinku vazopresinu",
+      "druh_interakce": "Zvýšený účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "Diuretika",
+      "druh_interakce": "Zvýšené riziko hyponatrémie"
+    },
+    {
+      "nazev_latky": "Antiepileptika",
+      "druh_interakce": "Zvýšené riziko hyponatrémie"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Ardeaelytosol H 1/1 je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperlaktátemie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatrémie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Akutní hyponatremická encefalopatie",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Roztok obsahuje vápenaté a hořečnaté ionty; po přidání fosforečnanů, uhličitanů, hydrogenuhličitanů nebo šťavelanů může dojít, zejména při delším stání, k tvorbě precipitátu. Při kombinaci přípravku Ardeaelytosol H 1/1 s jinými přípravky je nutné sledovat rozdíl v pH."
+}

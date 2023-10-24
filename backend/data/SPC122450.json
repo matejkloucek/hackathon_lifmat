@@ -1,0 +1,87 @@
+{
+  "nazev_pripravku": "AMBROSAN 60 mg tablety",
+  "slozeni": [
+    {
+      "nazev": "ambroxoli hydrochloridum",
+      "mnozstvi": 60,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktosy",
+      "mnozstvi": 109,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Granulovaná mikrokrystalická celulosa"
+    },
+    {
+      "nazev": "Kopovidon"
+    },
+    {
+      "nazev": "Magnesium-stearát"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "antitusiky",
+      "druh_interakce": "nebezpečná blokáda sekrece kvůli inhibici kašlacího reflexu"
+    },
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "None"
+    },
+    {
+      "nazev_latky": "amoxicilin, cefuroxim, erythromycin",
+      "druh_interakce": "zvýšení koncentrace antibiotik v bronchopulmonálním sekretu a ve sputu"
+    }
+  ],
+  "tehotenstvi": [
+    "Ambroxol-hydrochlorid prochází přes placentární bariéru. Studie na zvířatech nenaznačují přímé ani nepřímé škodlivé účinky na průběh těhotenství, embryonální/fetální vývoj, porod nebo postnatální vývoj. Rozsáhlé klinické zkušenosti po 28. týdnu těhotenství neprokázaly škodlivé účinky na plod. Přesto by měly být dodržovány obecné zásady užívání léků během těhotenství. Zvláště v 1. trimestru není užívání přípravků obsahujících ambroxol-hydrochlorid doporučeno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "hypersenzitivní reakce",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "anafylaktické reakce včetně anafylaktického šoku, angioedému a pruritu",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "dyspnoe (příznak hypersenzitivní reakce)",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "nauzea",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "dyspepsie, zvracení, průjem a bolesti břicha",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "sialorea",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "vyrážka, kopřivka",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "závažné nežádoucí kožní reakce (včetně erythema multiforme, Stevensova- Johnsonova syndromu/toxické epidermální nekrolýzy a akutní generalizované exantematózní pustulózy)",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "horečka, slizniční reakce",
+      "frekvence_vyskytu": "méně časté"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

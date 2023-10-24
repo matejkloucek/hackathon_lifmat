@@ -1,0 +1,134 @@
+{
+  "nazev_pripravku": "Ardeaelytosol R 1/2 infuzní roztok, Ardeaelytosol R 1/3 infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": 4.30,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": 0.15,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Calcii chloridum hexahydricum",
+      "mnozstvi": 0.25,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Glucosum",
+      "mnozstvi": 25.00,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypotonická dehydratace"
+    },
+    {
+      "nazev_kontraindikace": "Hypotonická hyperhydratace"
+    },
+    {
+      "nazev_kontraindikace": "Acidóza"
+    },
+    {
+      "nazev_kontraindikace": "Dekompenzovaná srdeční činnost"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "chlorpropamid",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "klofibrát",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "karbamazepin",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "vinkristin",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "selektivní inhibitory zpětného vychytávání serotoninu",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "methyltenamfetamin",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "ifosfamid",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "antipsychotika",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "narkotika",
+      "druh_interakce": "zvyšuje účinek vazopresinu"
+    },
+    {
+      "nazev_latky": "NSAID",
+      "druh_interakce": "zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "cyklofosfamid",
+      "druh_interakce": "zesiluje působení vazopresinu"
+    },
+    {
+      "nazev_latky": "desmopresin",
+      "druh_interakce": "analogy vazopresinu"
+    },
+    {
+      "nazev_latky": "oxytocin",
+      "druh_interakce": "analogy vazopresinu"
+    },
+    {
+      "nazev_latky": "vazopresin",
+      "druh_interakce": "analogy vazopresinu"
+    },
+    {
+      "nazev_latky": "terlipresin",
+      "druh_interakce": "analogy vazopresinu"
+    }
+  ],
+  "tehotenstvi": ["Nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména při podání v kombinaci s oxytocinem, z důvodu rizika hyponatrémie."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatrémie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatremická encefalopatie",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Aditiva, u kterých je známa inkompatibilita, by neměla být používána. Nejsou známy žádné fyzikálně-chemické inkompatibility kromě roztoků obsahujících oxidující látky a vykazujících rozdílné pH. Roztok obsahuje vápenaté ionty; po přidání fosfátů, uhličitanů, hydrogenuhličitanů nebo šťavelanů může dojít, zejména při delším stání, k tvorbě sraženin."
+}
