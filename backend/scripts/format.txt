@@ -1,0 +1,35 @@
+return a json file in czech:
+{
+  "nazev_pripravku": "",
+  "slozeni": [  // section 2
+    {
+      "nazev": "",
+      "mnozstvi": "",  // int
+      "jednotky": "",
+    }
+  ],
+  "ostatni_latky:[  // section 6.1 and section 2 bez mnozstvi
+    {
+      "nazev": "",
+    }
+  ],
+  "kontraindikace": [  // section 4.3
+    {
+       "nazev_kontraindikace": "",
+    }
+  ],
+  "negativni_interakce": [  // section 4.5, just negative!
+    {
+      "nazev_latky": "",  // name or "None"
+      "druh_interakce": "",
+    }
+  ]
+  "tehotenstvi": [""],  // section 4.6
+  "nezadouci_ucinky": [  // section 4.8
+    {
+      "nazev": "",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": ""  // section 6.2
+}
