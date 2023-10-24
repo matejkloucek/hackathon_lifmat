@@ -13,6 +13,20 @@ app_config = dotenv_values(".env")
 def create_app():
     flask_app = Flask(__name__)
 
+    def enable_cors():
+        @flask_app.after_request
+        def add_headers(response):
+            allowed_origins = {
+                'http://localhost:3000',  # localhost development
+                #'https://127.0.0.1:9090'  # proxy on staging, support for swagger
+            }
+            origin = request.headers.get('origin')
+            if origin in allowed_origins:
+                response.headers.add('Access-Control-Allow-Origin', origin)
+                response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+                response.headers.add('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE')
+            return response
+
     # setup db
     setup_db(flask_app)
 
