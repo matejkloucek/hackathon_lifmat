@@ -3,5 +3,7 @@ import axios from "axios";
 
 export const getHello = async () => {
   console.log("getHello called");
-  await axios.get('http://localhost:8080/hello/');
+  await axios.get('http://localhost:8080/hello/').then((response) => {
+    console.log(response);
+  });
 };
