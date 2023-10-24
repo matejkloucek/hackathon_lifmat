@@ -1,0 +1,70 @@
+{
+  "nazev_pripravku": "Algesal, krém",
+  "slozeni": [
+    {
+      "nazev": "Diethylamini salicylas",
+      "mnozstvi": "5",
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Myrtecainum",
+      "mnozstvi": "0,5",
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "glyceromakrogol-ricinoleát"
+    },
+    {
+      "nazev": "ethylenglykol-monopalmitostearát"
+    },
+    {
+      "nazev": "glycerol-monostearát 40-50"
+    },
+    {
+      "nazev": "cetylstearyl alkohol"
+    },
+    {
+      "nazev": "kyselina chlorovodíková"
+    },
+    {
+      "nazev": "makrogol stearát 300"
+    },
+    {
+      "nazev": "lehký tekutý parafin"
+    },
+    {
+      "nazev": "glyceromakrogol-linoleát"
+    },
+    {
+      "nazev": "složené levandulové aroma"
+    },
+    {
+      "nazev": "čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku, na látky s podobným účinkem nebo na jiné látky (např. lokální anestetika). Přípravek nesmí být aplikován na sliznice, do očí, na porušenou kůži, tj. na popáleniny, exsudativní kožní onemocnění, exémy, infikované nebo otevřené rány nebo rány pod okluzivním obvazem."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "deriváty salicylátu",
+      "druh_interakce": "zvyšuje antikoagulační účinek heparinu a orálních antikoagulancií"
+    }
+  ],
+  "tehotenstvi": [
+    "U těhotných žen je třeba se vyvarovat dlouhodobější aplikace na velké plochy.",
+    "Salicyláty přecházejí do mateřského mléka jen v malé koncentraci. Poškození kojence nebylo dosud popsáno.",
+    "Přípravek nesmí být aplikován na prsní bradavky a jejich okolí."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "kontaktní alergie",
+      "frekvence_vyskytu": "ojediněle"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

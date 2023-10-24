@@ -6,9 +6,6 @@ import time
 # openai.api_key = "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"
 # openai.api_key = "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"
 
-
-start_time = time.time()
-
 def get_completion(prompt, model="gpt-3.5-turbo-0301"):
     messages = [{"role": "user", "content": prompt}]
     response = openai.ChatCompletion.create(
@@ -31,10 +28,11 @@ def main():
 
     onlyfiles = [f for f in listdir(source_folder_path) if isfile(join(source_folder_path, f))]
     for file_name in onlyfiles[2:3]:
+        start_time = time.time()
         source_file = source_folder_path + '/' + file_name
         json_name = file_name.replace('txt', 'json')
         final_file = final_folder_path + "/" + json_name
-        print("loading file")
+        print("loading file: ", file_name)
         with open(source_file, 'r', encoding='utf-8') as f:
             document = f.read()
         print("file loaded, len of file =", len(document.split(' ')))
@@ -56,3 +54,6 @@ def main():
         end_time = time.time()
         execution_time = end_time - start_time
         print(f"Execution time: {execution_time:.2f} seconds")
+
+if __name__ == "__main__":
+    main()
