@@ -50,9 +50,14 @@ def shortify_file(input_path):
                     # print("broke")
                     break
                 if current_section is not None:
-                    # if '\n' in line:
-                    #     line = line.replace('\n', '')
-                    if line != '\n' and "www" not in line and "Praha" not in line and "Státní ústav" not in line and "Strana " not in line:
+                    if (
+                            line != '\n' and
+                            "www" not in line and
+                            "Praha" not in line and
+                            "Státní ústav" not in line and
+                            "Strana " not in line and
+                            "Hlášení podezření" not in line
+                    ):
                         current_content.append(line)
 
         # Store the last chapter
