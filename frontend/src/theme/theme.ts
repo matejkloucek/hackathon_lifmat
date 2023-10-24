@@ -44,8 +44,8 @@ export const appTheme: ThemeOptions = createTheme({
       main: Colors.primary,
     },
     secondary: {
-      main: Colors.grey500,
-      contrastText: Colors.grey800,
+      main: Colors.white,
+      contrastText: Colors.white,
     },
     success: {
       main: Colors.success,
