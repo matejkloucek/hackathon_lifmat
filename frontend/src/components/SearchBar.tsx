@@ -2,8 +2,13 @@ import { Autocomplete, Button, Stack, TextField } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import { ChangeEvent, useState } from "react";
 import { postQuery } from "../services/postQuery";
+import { DrugsAndIngredients } from "../model/DrugsAndIngredients";
 
-export const SearchBar = () => {
+type Props = {
+  options: DrugsAndIngredients[];
+};
+
+export const SearchBar = (props: Props) => {
   const [searchQuery, setSearchQuery] = useState<string>("");
 
   const handleTextFieldChange = (event: ChangeEvent<HTMLInputElement>) => {
@@ -23,8 +28,7 @@ export const SearchBar = () => {
   return (
     <Stack direction={"row"}>
       <Autocomplete
-        options={top100Films.map((option) => option.title)}
-        freeSolo
+        options={props.options.map((option) => option.name)}
         onChange={handleAutocompleteChange}
         renderInput={(params) => (
           <TextField

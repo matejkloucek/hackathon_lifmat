@@ -4,8 +4,22 @@ import { Border } from "../theme/utils";
 import { Colors } from "../theme/colors";
 import { getHello } from "../services/getHello";
 import { SearchBar } from "./SearchBar";
+import { useEffect, useState } from "react";
+import { getAllDrugs } from "../services/getAllDrugs";
+import { DrugsAndIngredients } from "../model/DrugsAndIngredients";
 
 export const MainPage = () => {
+  const [drugsAndIngredients, setDrugsAndIngredients] = useState<DrugsAndIngredients[]>([]);
+  useEffect(() => {
+    console.log("Loading all drugs");
+    loadAllDrugs();
+  }, []);
+
+  const loadAllDrugs = async () => {
+    const response = await getAllDrugs();
+    setDrugsAndIngredients(response);
+  };
+
   const handleClick = async () => {
     await getHello();
   };
@@ -14,7 +28,7 @@ export const MainPage = () => {
     <>
       <PageHeader />
       <Stack alignItems={"center"} marginTop={2}>
-        <SearchBar />
+        <SearchBar options={drugsAndIngredients} />
         <Stack
           border={Border.Grey.Thick}
           width={"50%"}
