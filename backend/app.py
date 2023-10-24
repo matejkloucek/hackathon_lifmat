@@ -6,6 +6,7 @@ from flask_restx import Api
 from backend.exceptions.error_handler import register_error_handlers
 
 from backend.apis.hello_api import hello_api
+from backend.apis.drugs_api import drugs_api
 
 app_config = dotenv_values(".env")
 
@@ -44,10 +45,20 @@ def create_app():
 
 def setup_db(flask_app):
     flask_app.config['SQLALCHEMY_DATABASE_URI'] = app_config["SQLALCHEMY_DATABASE_URI"]
-    from backend.database.db_schema import db
+    from backend.database.db_schema import db, Medicine, ActiveIngredient
     db.init_app(flask_app)
     with flask_app.app_context():
         db.create_all()  # creates all new tables from schema
+
+        # seed with data
+        active_ingredient = ActiveIngredient(name="Metronidazol")
+        medicine1 = Medicine(sukl_code=100, name="Paralen", contraindications=[],
+                             adverse_effects=["bolest hlavy"])
+        medicine2 = Medicine(sukl_code=208, name="Blablalek", contraindications=[],
+                             adverse_effects=["smrt"])
+        db.session.add_all([active_ingredient, medicine1, medicine2])
+        db.session.commit()
+
 
 
 def enable_cors():
@@ -67,6 +78,7 @@ def enable_cors():
 
 def add_namespaces(api: Api):
     api.add_namespace(hello_api)
+    api.add_namespace(drugs_api)
 
 
 app = create_app()
