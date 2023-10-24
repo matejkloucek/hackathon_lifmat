@@ -22,7 +22,7 @@ def clean_data(json_file):
 
 
 def main():
-    openai.api_key = "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"
+    openai.api_key = ""
 
     prompt_file = "C:/Users/katka/Downloads/SPC_gpt_translated/format.txt"
     source_folder_path = "C:/Users/katka/Downloads/SPC_cleaned"
