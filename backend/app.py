@@ -7,6 +7,8 @@ from backend.exceptions.error_handler import register_error_handlers
 
 from backend.apis.hello_api import hello_api
 from backend.apis.drugs_api import drugs_api
+from backend.apis.medicine_api import medicine_api
+from backend.apis.active_ingredient_api import active_ingredient_api
 
 app_config = dotenv_values(".env")
 
@@ -79,6 +81,8 @@ def enable_cors():
 def add_namespaces(api: Api):
     api.add_namespace(hello_api)
     api.add_namespace(drugs_api)
+    api.add_namespace(medicine_api)
+    api.add_namespace(active_ingredient_api)
 
 
 app = create_app()

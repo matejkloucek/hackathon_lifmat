@@ -18,7 +18,7 @@ drugs_and_active_ingredients_dto_model = drugs_api.model('DrugsAndActiveIngredie
 
 
 @drugs_api.route('/all')
-class HelloWorld(Resource):
+class DrugsApi(Resource):
     @drugs_api.response(200, "Success", model=drugs_and_active_ingredients_dto_model)
     def get(self):
         """
