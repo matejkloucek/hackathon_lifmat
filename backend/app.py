@@ -1,6 +1,6 @@
 from dotenv import dotenv_values
 
-from flask import Flask
+from flask import Flask, request
 from flask_restx import Api
 
 from backend.exceptions.error_handler import register_error_handlers
@@ -16,6 +16,10 @@ def create_app():
     # setup db
     setup_db(flask_app)
 
+    # enable cors
+    with flask_app.app_context():
+        enable_cors()
+
     api = Api(flask_app)
     add_namespaces(api)
 
@@ -30,6 +34,21 @@ def setup_db(flask_app):
     db.init_app(flask_app)
     with flask_app.app_context():
         db.create_all()  # creates all new tables from schema
+
+
+def enable_cors():
+    @app.after_request
+    def add_headers(response):
+        allowed_origins = {
+            'http://localhost:4200',  # localhost development
+            'https://127.0.0.1:9090'  # proxy on staging, support for swagger
+        }
+        origin = request.headers.get('origin')
+        if origin in allowed_origins:
+            response.headers.add('Access-Control-Allow-Origin', origin)
+            response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+            response.headers.add('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE')
+        return response
 
 
 def add_namespaces(api: Api):
