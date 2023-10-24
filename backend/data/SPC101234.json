@@ -1,0 +1,50 @@
+{
+  "nazev_pripravku": "BRAIN - SPECT kit",
+  "slozeni": [
+    {
+      "nazev": "exametazimum",
+      "mnozstvi": "0,30",
+      "jednotky": "mg lahvička"
+    },
+    {
+      "nazev": "sodík",
+      "mnozstvi": "0,52",
+      "jednotky": "mg lahvička"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "dihydrát chloridu cínatého"
+    },
+    {
+      "nazev": "dekahydrát difosforečnanu sodného"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Přecitlivělost na léčivou látku, na kteroukoli pomocnou látku nebo na kteroukoli ze složek značeného přípravku."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Žádné studie interakce nebyly provedeny a žádné interakce nebyly do dnešního dne hlášeny."
+    }
+  ],
+  "tehotenstvi": "Během těhotenství by měla být prováděna pouze naléhavá vyšetření, kdy předpokládaný přínos převáží riziko způsobené matce a plodu.",
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Mírná přecitlivělost",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Bolest hlavy, závrať, parestezie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Návaly horka, nevolnost, zvracení, astenické stavy",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Tento přípravek nesmí být smíchán s jinými léčivými přípravky s výjimkou přípravků uvedených v tomto bodě a v bodě 6.6. a 12.."
+}

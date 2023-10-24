@@ -1,0 +1,43 @@
+{
+  "nazev_pripravku": "SENTI – SCINT kit",
+  "slozeni": [
+    {
+      "nazev": "Seroalbuminum humanum colloidalis",
+      "mnozstvi": "1,0",
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Dihydrát chloridu cínatého"
+    },
+    {
+      "nazev": "Dihydrogenfosforečnan sodný"
+    },
+    {
+      "nazev": "Hydrogenfosforečnan sodný"
+    },
+    {
+      "nazev": "Glukóza"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Přecitlivělost na léčivou látku, na kteroukoli pomocnou látku nebo na kteroukoli ze složek značeného přípravku uvedených v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Jodované kontrastní látky",
+      "druh_interakce": "Interference s scintigrafií za použití (⁹⁹ᵐTc)-SENTI-SCINT kit"
+    }
+  ],
+  "tehotenstvi": "Ženy ve fertilním věku by měly být testovány na těhotenství před aplikací radiofarmaka. Během těhotenství by měla být prováděna jen nezbytná vyšetření, kdy pravděpodobný přínos daleko převýší riziko způsobené matce a plodu. Kojení by mělo být přerušeno na 12 hodin a odsáté mléko zlikvidováno před podáním radiofarmaku kojící matce.",
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Alergické reakce, případně anafylaktické reakce",
+      "frekvence_vyskytu": "Vzácné"
+    }
+  ],
+  "inkompatibility": "Žádné nejsou známé. Tento léčivý přípravek nesmí být smíchán s jinými léčivými přípravky s výjimkou přípravků uvedených v bodech 6.6 a 12."
+}
