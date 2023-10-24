@@ -1,0 +1,60 @@
+{
+  "nazev_pripravku": "CARBOSORB",
+  "slozeni": [
+    {
+      "nazev": "carbo activatus",
+      "mnozstvi": 320,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sacharóza",
+      "mnozstvi": 268,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "celulosa mikrokrystalická"
+    },
+    {
+      "nazev": "glycerol 85%"
+    },
+    {
+      "nazev": "želatina"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "sodná sůl karboxymethylškrobu"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "sacharosa"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Ileus či zvýšené riziko obstrukce střev. Riziko gastrointestinálního krvácení. V případech, kdy začernění sliznice GIT není žádoucí, např. před endoskopickým vyšetřením gastrointestinálního traktu."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "jiné perorální léky",
+      "druh_interakce": "vstřebání může být významně omezeno"
+    }
+  ],
+  "tehotenstvi": [
+    "Z hlediska klinických zkušeností není užívání přípravku v těhotenství a v období kojení kontraindikováno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Černé zbarvení stolice, které může maskovat krvácení do trávicího traktu.",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Vyšší dávky aktivního uhlí můžou způsobit nauzeu, zvracení a mechanickou zácpu.",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

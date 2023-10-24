@@ -1,0 +1,118 @@
+{
+  "nazev_pripravku": "Ardeaelytosol conc. L-argininchlorid 21% koncentrát pro infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "arginini hydrochloridum",
+      "mnozstvi": "210,0",
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Metabolická acidóza"
+    },
+    {
+      "nazev_kontraindikace": "Hyperargininémie při těžké dědičné poruše metabolismu - argininémii z deficitu arginázy (ARG1D)"
+    },
+    {
+      "nazev_kontraindikace": "Lysinová intoleranci a dibazické acidurii"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "kalium šetřící diuretiky",
+      "druh_interakce": "hyperkalémie"
+    },
+    {
+      "nazev_latky": "hypotenzivně působící látky",
+      "druh_interakce": "možná interakce"
+    }
+  ],
+  "tehotenstvi": [
+    "Použití přípravku během těhotenství a laktace není kontraindikováno v případě, že nelze použít jiný přípravek k úpravě acidobazické rovnováhy. Léčivá látka prochází placentární bariérou.",
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "hyperkalémie",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "hyperurémie",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "metabolická acidóza",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "nauzea",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "zvracení",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "převodnění",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "edémy",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "otok mozku",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "anafylaktická reakce",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "snížená citlivost (v končetinách)",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "brnění, štípání kolem úst",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "zčervenání (flushing)",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "hypotenze",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "rash",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "otoky",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "pálení nebo bolest v místě aplikace",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "nekróza okolní tkáně při extravazaci",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Nejsou známy žádné fyzikální a chemické inkompatibility kromě roztoků vykazujících rozdílné pH."
+}

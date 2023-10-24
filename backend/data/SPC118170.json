@@ -1,0 +1,172 @@
+{
+  "nazev_pripravku": "Memolan 20 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "Memantini hydrochloridum",
+      "mnozstvi": 20,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Memantinum",
+      "mnozstvi": 16.62,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Mikrokrystalická celulóza"
+    },
+    {
+      "nazev": "Koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "Sodná sůl kroskarmelosy"
+    },
+    {
+      "nazev": "Mastek"
+    },
+    {
+      "nazev": "Magnesium-stearát"
+    },
+    {
+      "nazev": "Hypromelosa"
+    },
+    {
+      "nazev": "Hyprolosa"
+    },
+    {
+      "nazev": "Oxid titaničitý (E 171)"
+    },
+    {
+      "nazev": "Červený oxid železitý (E 172)"
+    },
+    {
+      "nazev": "Černý oxid železitý (E 172)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "L-dopa",
+      "druh_interakce": "Zvýšení účinku"
+    },
+    {
+      "nazev_latky": "Dopaminergní agonisty",
+      "druh_interakce": "Zvýšení účinku"
+    },
+    {
+      "nazev_latky": "Anticholinergika",
+      "druh_interakce": "Zvýšení účinku"
+    },
+    {
+      "nazev_latky": "Barbituráty",
+      "druh_interakce": "Snížení účinku"
+    },
+    {
+      "nazev_latky": "Neuroleptika",
+      "druh_interakce": "Snížení účinku"
+    },
+    {
+      "nazev_latky": "Myorelaxancia (Dantrolen, Baklofen)",
+      "druh_interakce": "Ovlivnění účinku"
+    },
+    {
+      "nazev_latky": "Amantadin",
+      "druh_interakce": "Riziko farmakotoxické psychózy"
+    },
+    {
+      "nazev_latky": "Ketamin, Dextromethorfan",
+      "druh_interakce": "Riziko farmakotoxické psychózy"
+    },
+    {
+      "nazev_latky": "Fenytoin",
+      "druh_interakce": "Možné riziko"
+    },
+    {
+      "nazev_latky": "Cimetidin, Ranitidin, Prokainamid, Chinidin, Chinin, Nikotin",
+      "druh_interakce": "Možná interakce"
+    },
+    {
+      "nazev_latky": "Hydrochlorothiazid",
+      "druh_interakce": "Snížení hladiny v séru"
+    },
+    {
+      "nazev_latky": "Warfarin",
+      "druh_interakce": "Zvýšení INR hodnot"
+    }
+  ],
+  "tehotenstvi": [
+    "Memantin se nemá v těhotenství užívat, pokud to není zcela nezbytné."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Závratě",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Bolest hlavy",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Zácpa",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Somnolence",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Hypertenze",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Mykotické infekce",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Přecitlivělost na přípravek",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Zmatenost",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Halucinace",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Psychotické reakce",
+      "frekvence_vyskytu": "Ojedinělá hlášení z postmarketingových studií."
+    },
+    {
+      "nazev": "Dyspnoe",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Zvracení",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Pankreatitida",
+      "frekvence_vyskytu": "Ojedinělá hlášení z postmarketingových studií."
+    },
+    {
+      "nazev": "Zvýšené hodnoty jaterních testů",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Hepatitida",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Únava",
+      "frekvence_vyskytu": "Časté"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

@@ -1,0 +1,62 @@
+{
+  "nazev_pripravku": "PROSPAN 7 mg/ml Sirup",
+  "slozeni": [
+    {
+      "nazev": "Hederae helicis folii extractum siccum",
+      "mnozstvi": "700",
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "ethanol",
+      "mnozstvi": "30",
+      "jednotky": "%"
+    },
+    {
+      "nazev": "krystalizující sorbitol 70%",
+      "mnozstvi": "550",
+      "jednotky": "mg/ml"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Kalium-sorbát"
+    },
+    {
+      "nazev": "bezvodá kyselina citronová"
+    },
+    {
+      "nazev": "xanthanová klovatina"
+    },
+    {
+      "nazev": "třešňové aroma"
+    },
+    {
+      "nazev": "čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Nejsou k dispozici žádné údaje o bezpečnosti užívání léčivého přípravku během těhotenství a kojení. Léčivý přípravek je možné během těhotenství a kojení užívat pouze ze závažných důvodů a po konzultaci s lékařem."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Velmi vzácně se mohou objevit běžné alergické reakce.",
+      "frekvence_vyskytu": "Velmi vzácné"
+    },
+    {
+      "nazev": "Velmi vzácně se může vyvinout průjem vyvolaný obsahem sorbitolu v přípravku.",
+      "frekvence_vyskytu": "Velmi vzácné"
+    }
+  ],
+  "inkompatibility": "Nejsou známy."
+}

@@ -1,0 +1,94 @@
+{
+  "nazev_pripravku": "EMLA 25 mg/g + 25 mg/g krém",
+  "slozeni": [
+    {
+      "nazev": "lidocainum",
+      "mnozstvi": 25,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "prilocainum",
+      "mnozstvi": 25,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Karbomer 974 P"
+    },
+    {
+      "nazev": "glyceromakrogol-hydroxystearát"
+    },
+    {
+      "nazev": "hydroxid sodný"
+    },
+    {
+      "nazev": "čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Známá přecitlivělost na lidokain a/nebo prilokain nebo lokální anestetika amidového typu nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Prilokain",
+      "druh_interakce": "zvyšování tvorby methemoglobinu u pacientů léčených současně jinými léčivy známými jako induktory tvorby methemoglobinu (např. sulfonamidy, nitrofurantoin, fenytoin, fenobarbital)"
+    },
+    {
+      "nazev_latky": "Lidokain",
+      "druh_interakce": "dosažení potenciálně toxických plazmatických koncentrací lidokainu, pokud je lidokain podáván opakovaně ve vysokých dávkách po delší dobu"
+    }
+  ],
+  "tehotenstvi": [
+    "Ačkoliv je topická aplikace spojena pouze s nízkou mírou systémové absorpce, je třeba při použití přípravku EMLA u těhotných žen opatrnosti, neboť existují pouze omezené údaje o použití přípravku EMLA u těhotných žen."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Pocit pálení",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Svědění v místě aplikace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Erytém v místě aplikace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Edém v místě aplikace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Horkost v místě aplikace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Zblednutí v místě aplikace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Methemoglobinemie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Hypersenzitivita",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Iritace rohovky",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Purpura",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Petechie",
+      "frekvence_vyskytu": "vzácné"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

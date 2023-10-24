@@ -1,0 +1,43 @@
+{
+  "nazev_pripravku": "Anbinex",
+  "slozeni": [
+    {
+      "nazev": "Antithrombinum III",
+      "mnozstvi": "500 IU nebo 1000 IU",
+      "jednotky": "v jedné injekční lahvičce"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Mannitol"
+    },
+    {
+      "nazev": "Chlorid sodný"
+    },
+    {
+      "nazev": "Dihydrát natrium-citrátu"
+    },
+    {
+      "nazev": "Voda na injekci (rozpouštědlo)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Heparin",
+      "druh_interakce": "substituce antitrombinu v průběhu podávání heparinu v terapeutických dávkách zvyšuje riziko krvácení."
+    }
+  ],
+  "tehotenstvi": ["Zkušenosti týkající se bezpečnosti produktů obsahujících lidský antitrombin pro těhotné ženy jsou omezené. Anbinex by se měl podávat těhotným a kojícím ženám s deficitem antitrombinu pouze v jasně indikovaných případech, s přihlédnutím k tomu, že těhotenství přináší zvýšené riziko tromboembolických událostí u těchto pacientek."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Při podávání přípravku byly vzácně pozorované příznaky přecitlivělosti organismu nebo alergických reakcí (angioedém, bolest v místě zavedení infúze, zimnice, zčervenání, kopřivka, bolest hlavy, vyrážka, hypotenze, letargie, nausea, neklid, tachykardie, tlak na hrudi, mravenčení, zvracení, těžké dýchání), které se mohou v některých případech rozvinout do podoby těžké anafylaxe (včetně šoku). Vzácně se vyskytla zvýšená teplota.",
+      "frekvence_vyskytu": "vzácně"
+    }
+  ],
+  "inkompatibility": "Tento léčivý přípravek nesmí být mísen s žádnými dalšími léčivými přípravky."
+}

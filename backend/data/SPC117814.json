@@ -1,0 +1,153 @@
+{
+  "nazev_pripravku": "Lannatam 0,4 mg tvrdé tobolky s řízeným uvolňováním",
+  "slozeni": [
+    {
+      "nazev": "tamsulosini hydrochloridum",
+      "mnozstvi": 0.4,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "mikrokrystalická celulosa"
+    },
+    {
+      "nazev": "Disperze kopolymeru MA/EA 1:1 30%"
+    },
+    {
+      "nazev": "Polysorbát 80"
+    },
+    {
+      "nazev": "Natrium-lauryl-sulfát"
+    },
+    {
+      "nazev": "Triethyl-citrát"
+    },
+    {
+      "nazev": "Mastek"
+    },
+    {
+      "nazev": "Želatina"
+    },
+    {
+      "nazev": "Indigokarmín"
+    },
+    {
+      "nazev": "Oxid titaničitý"
+    },
+    {
+      "nazev": "Žlutý oxid železitý"
+    },
+    {
+      "nazev": "Červený oxid železitý"
+    },
+    {
+      "nazev": "Černý oxid železitý"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku, včetně lékem vyvolaného angioedému, nebo na kteroukoli pomocnou látku uvedenou v bodu 6.1; ortostatická hypotenze v anamnéze; těžká porucha funkce jater."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "cimetidin",
+      "druh_interakce": "zvyšuje plazmatické koncentrace tamsulosinu"
+    },
+    {
+      "nazev_latky": "furosemid",
+      "druh_interakce": "snižuje plazmatické koncentrace tamsulosinu"
+    },
+    {
+      "nazev_latky": "ketokonazol",
+      "druh_interakce": "silný inhibitor CYP3A4, zvyšuje expozici tamsulosinu"
+    },
+    {
+      "nazev_latky": "paroxetin",
+      "druh_interakce": "silný inhibitor CYP2D6, zvyšuje AUC tamsulosinu"
+    }
+  ],
+  "tehotenstvi": [
+    "Lannatam není indikován pro použití u žen."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "závratě",
+      "frekvence_vyskytu": "velmi časté"
+    },
+    {
+      "nazev": "poruchy ejakulace včetně retrográdní ejakulace a selhání ejakulace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "palpitace",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "ortostatická hypotenze",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "rinitida",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "zácpa, průjem, nauzea, zvracení",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "vyrážka, pruritus, kopřivka",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "astenie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "synkopa",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "angioedém",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Stevens-Johnsonův syndrom",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "priapismus",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "rozmazané vidění",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "porucha vidění",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "fibrilace síní, arytmie, tachykardie",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "epistaxe, dyspnoe",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "sucho v ústech",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "erythema multiforme, exfoliativní dermatitida",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

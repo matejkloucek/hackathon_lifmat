@@ -1,0 +1,90 @@
+{
+  "nazev_pripravku": "FORVEL 0,4 mg/ml injekční/infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "naloxoni hydrochloridum",
+      "mnozstvi": 0.4,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sodík",
+      "mnozstvi": 3.38,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "chlorid sodný"
+    },
+    {
+      "nazev": "dihydrát dinatrium-edetátu"
+    },
+    {
+      "nazev": "kyselina chlorovodíková"
+    },
+    {
+      "nazev": "voda na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "opioidy a agonisty opioidů",
+      "druh_interakce": "účinek naloxon-hydrochloridu je dán interakcí s těmito látkami"
+    },
+    {
+      "nazev_latky": "barbituráty a trankvilizéry",
+      "druh_interakce": "při standardní dávce naloxon-hydrochloridu nedochází k interakcím s těmito látkami"
+    },
+    {
+      "nazev_latky": "alkohol",
+      "druh_interakce": "data o interakci s alkoholem nejsou jednoznačná"
+    },
+    {
+      "nazev_latky": "buprenorfin",
+      "druh_interakce": "při podávání naloxon-hydrochloridu pacientům, kteří dostali buprenorfin jako analgetikum, může být obnovena kompletní analgezie"
+    }
+  ],
+  "tehotenstvi": [
+    "Těhotné ženy by měly přípravek používat pouze v případě, že je to nezbytně nutné"
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "alergické reakce",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "závrať",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "třes",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "hypertenze",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "srdeční arytmie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "edém plic",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "nauzea",
+      "frekvence_vyskytu": "velmi časté"
+    },
+    {
+      "nazev": "zvracení",
+      "frekvence_vyskytu": "časté"
+    }
+  ],
+  "inkompatibility": "Doporučuje se infuze naloxonu nemísit s přípravky obsahujícími hydrogensiřičitan nebo disiřičitan, anionty s dlouhým řetězcem nebo vysokou molekulovou hmotností nebo s alkalickými roztoky. Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky než těmi, které jsou uvedeny v bodě 6.6."
+}

@@ -1,0 +1,47 @@
+{
+  "nazev_pripravku": "Mivacron 2 mg/ml injekční roztok",
+  "slozeni": [
+    {
+      "nazev": "Mivacurii chloridum",
+      "mnozstvi": "2,14",
+      "jednotky": "mg v 1 ml roztoku"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Roztok kyseliny chlorovodíkové (1 mol/l)",
+    },
+    {
+      "nazev": "Voda na injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Přípravek je kontraindikován také u pacientů, o nichž je známo, že jsou homozygotními nositeli atypického genu plazmatické cholinesterázy (viz bod 4.4)."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Inhalační anestetika (enfluran, isofluran, sevofluran, halothan)",
+      "druh_interakce": "potenciace neuromuskulární blokády vyvolané mivakuriem"
+    },
+    {
+      "nazev_latky": "Léky, které mohou snížit aktivitu plazmatické cholinesterázy",
+      "druh_interakce": "prodloužení účinku neuromuskulární blokády vyvolané mivakuriem"
+    }
+  ],
+  "tehotenstvi": [
+    "Mivakurium se nesmí používat během těhotenství, pokud očekávaný klinický přínos pro matku nepřeváží jakékoli možné riziko pro plod."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Závažné anafylaktické nebo anafylaktoidní reakce",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "Návaly, erytém, kopřivka, hypotenze, přechodná tachykardie a bronchospasmus spojené s podáním mivakuria",
+      "frekvence_vyskytu": "méně časté"
+    }
+  ],
+  "inkompatibility": "Roztok obsahující mivakurium je kyselý (s hodnotou pH přibližně 4,5) a nesmí se mísit ve stejné injekční stříkačce ani podávat stejnou jehlou současně s vysoce alkalickými roztoky, např. s roztoky barbiturátů."
+}

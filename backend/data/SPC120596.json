@@ -1,0 +1,143 @@
+{
+  "nazev_pripravku": "NeuroMax forte 100 mg/200 mg/0,2 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "thiamini hydrochloridum (vitamin B1)",
+      "mnozstvi": 100,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "pyridoxini hydrochloridum (vitamin B6)",
+      "mnozstvi": 200,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "cyanocobalaminum (vitamin B12)",
+      "mnozstvi": 0.2,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "ethylcelulosa"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "mikrokrystalická celulosa"
+    },
+    {
+      "nazev": "modifikovaný škrob"
+    },
+    {
+      "nazev": "monohydrát kyseliny citronové"
+    },
+    {
+      "nazev": "kyselina stearová"
+    },
+    {
+      "nazev": "natrium-citrát"
+    },
+    {
+      "nazev": "koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "hypromelosa"
+    },
+    {
+      "nazev": "makrogol 4000"
+    },
+    {
+      "nazev": "polydextrosa"
+    },
+    {
+      "nazev": "oxid titaničitý"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 tohoto přípravku. Přípravek není určen dětem mladším 4 let."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Doxifluridin a fluorouracil",
+      "druh_interakce": "snižují účinky thiaminu"
+    },
+    {
+      "nazev_latky": "Alkohol",
+      "druh_interakce": "zhoršuje vstřebávání thiaminu"
+    },
+    {
+      "nazev_latky": "Cholinergní látky a lokální anestetika",
+      "druh_interakce": "zesilují účinek thiaminu"
+    },
+    {
+      "nazev_latky": "Levodopa",
+      "druh_interakce": "snižuje účinky pyridoxinu"
+    },
+    {
+      "nazev_latky": "Hydralazin a fenytoin",
+      "druh_interakce": "snižují účinnost pyridoxinu"
+    },
+    {
+      "nazev_latky": "Isoniazid, cykloserin, erytropoetin, perorální kontraceptiva obsahující estrogeny a dlouhodobě podávaný theofylin",
+      "druh_interakce": "snižují biologickou dostupnost pyridoxinu"
+    },
+    {
+      "nazev_latky": "Penicilamin",
+      "druh_interakce": "způsobuje anemii či periferní neuritidu v důsledku jeho antagonizmu s pyridoxinem anebo zvyšuje renální vylučování pyridoxinu"
+    },
+    {
+      "nazev_latky": "Tricyklická antidepresiva",
+      "druh_interakce": "zvyšují účinnost tricyklických antidepresiv jako jsou nortriptylin, imipramin, desipramin, a to zvláště u starších pacientů"
+    },
+    {
+      "nazev_latky": "Inhibitory MAO",
+      "druh_interakce": "snižují hladinu pyridoxinu"
+    },
+    {
+      "nazev_latky": "Fluorouracil a doxorubicin",
+      "druh_interakce": "snižují výskyt nežádoucích účinků při chemoterapii"
+    },
+    {
+      "nazev_latky": "Tetracykliny",
+      "druh_interakce": "nesmí být užívány zároveň s vitaminy B řady"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek NeuroMax forte je vzhledem k vysokému obsahu vitaminu B6 - pyridoxinu kontraindikován u těhotných a kojících žen (viz bod 4.3)."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Hypersenzitivita",
+      "frekvence_vyskytu": "může se objevit"
+    },
+    {
+      "nazev": "Pálení žáhy a nauzea",
+      "frekvence_vyskytu": "zcela výjimečně"
+    },
+    {
+      "nazev": "Hypersenzitivní reakce, rash, zarudnutí kůže či jiné kožní reakce spojené se svěděním a kopřivka",
+      "frekvence_vyskytu": "zcela výjimečně"
+    },
+    {
+      "nazev": "Záchvaty silného pocení a tachykardie",
+      "frekvence_vyskytu": "v ojedinělých případech"
+    },
+    {
+      "nazev": "Akné a kopřivka",
+      "frekvence_vyskytu": "může se objevit"
+    },
+    {
+      "nazev": "Mírné formy polycytemie a periferních trombóz",
+      "frekvence_vyskytu": "výjimečně"
+    },
+    {
+      "nazev": "Syndrom pyridoxinové závislosti",
+      "frekvence_vyskytu": "při dlouhodobém podávání vysokých dávek pyridoxinu"
+    }
+  ],
+  "inkompatibility": "Nejsou známy"
+}

@@ -1,0 +1,62 @@
+{
+  "nazev_pripravku": "Hidrasec pro děti 30 mg granule pro perorální suspenzi",
+  "slozeni": [
+    {
+      "nazev": "racecadotrilum",
+      "mnozstvi": 30,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sacharosa",
+      "mnozstvi": 2.9,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "Polyakrylátová disperze 30%"
+    },
+    {
+      "nazev": "Meruňkové aroma"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "sacharosa"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Tento léčivý přípravek obsahuje sacharosu. Pacienti se vzácnou dědičnou nesnášenlivostí fruktosy, syndromem malabsorpce glukosy-galaktosy nebo deficitem sacharázo-isomaltázy by neměli tento léčivý přípravek užívat."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "ACE inhibitory",
+      "druh_interakce": "zvyšování rizika angioedému"
+    },
+    {
+      "nazev_latky": "loperamid nebo nifuroxazid",
+      "druh_interakce": "bez vlivu na kinetiku racekadotrilu u lidí"
+    }
+  ],
+  "tehotenstvi": [
+    "Adekvátní údaje o podávání racekadotrilu těhotným ženám nejsou k dispozici. Studie na zvířatech nenaznačují přímé ani nepřímé škodlivé účinky na průběh těhotenství, fertilitu, embryonální/fetální vývoj, porod nebo postnatální vývoj. Protože však nejsou k dispozici specifické klinické studie, neměl by být racekadotril těhotným ženám podáván."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "tonsilitis",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "vyrážka, erytém",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "erythema multiforme, edém jazyka, edém obličeje, edém rtů, edém očních víček, angioedém, kopřivka, erythema nodosum, papulózní vyrážka, prurigo, pruritus",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

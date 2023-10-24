@@ -1,0 +1,129 @@
+{
+  "nazev_pripravku": "OsvaRen 435 mg / 235 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "Calcii acetas",
+      "mnozstvi": 435,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "magnesii subcarbonas ponderosus",
+      "mnozstvi": 235,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "předbobtnalý škrob (kukuřičný)"
+    },
+    {
+      "nazev": "kukuřičný škrob"
+    },
+    {
+      "nazev": "sacharóza"
+    },
+    {
+      "nazev": "želatina"
+    },
+    {
+      "nazev": "sodná sůl kroskarmelózy"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "čištěný ricinový olej"
+    },
+    {
+      "nazev": "hypromelóza"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypofosfatemie"
+    },
+    {
+      "nazev_kontraindikace": "hyperkalcemie s klinickými příznaky nebo bez nich"
+    },
+    {
+      "nazev_kontraindikace": "plazmatickou hladinou magnesia větší než 2 mmol/l a/nebo se symptomy hypermagnesemie"
+    },
+    {
+      "nazev_kontraindikace": "AV-blokádou III. stupně"
+    },
+    {
+      "nazev_kontraindikace": "myastenií gravis"
+    },
+    {
+      "nazev_kontraindikace": "hypersenzitivitou na léčivou látku(y) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "antibiotika (jako jsou tetracykliny, doxycyklin, norfloxacin, některé cefalosporiny, jako je cefpodoxim, cefuroxim a některé chinolony (inhibitory gyrázy) jako je ciprofloxacin), bisfosfonátů, fluoridů, ketokonazolu, přípravků s estramustinem, anticholinergik, zinku, urso- a chenodeoxycholové kyseliny a halofantrinu",
+      "druh_interakce": "ovlivňuje absorpci"
+    },
+    {
+      "nazev_latky": "železo",
+      "druh_interakce": "může ovlivnit absorpci"
+    },
+    {
+      "nazev_latky": "digoxin",
+      "druh_interakce": "mohou adsorbovat v gastrointestinálním traktu"
+    },
+    {
+      "nazev_latky": "nitrofurantoin",
+      "druh_interakce": "může dojít k adsorpci"
+    },
+    {
+      "nazev_latky": "penicilamin",
+      "druh_interakce": "může být snížena gastrointestinální absorpce"
+    },
+    {
+      "nazev_latky": "levothyroxin",
+      "druh_interakce": "kombinace s uhličitanem hořečnatým, hydroxidem a hydroxidem hlinitým může vést k vyšší absorpci"
+    },
+    {
+      "nazev_latky": "vápník",
+      "druh_interakce": "zvyšuje absorpci s vitamínem D a jeho deriváty, snižuje vylučování s thiazidovými diuretiky, zvyšuje citlivost na glykosidy"
+    },
+    {
+      "nazev_latky": "estrogeny",
+      "druh_interakce": "zvyšuje absorpci vápníku"
+    },
+    {
+      "nazev_latky": "adrenalin",
+      "druh_interakce": "může vést k těžkým arytmiím"
+    },
+    {
+      "nazev_latky": "kalciové antagonisty",
+      "druh_interakce": "může být snížen účinek"
+    }
+  ],
+  "tehotenstvi": [
+    "OsvaRen lze v těhotenství používat pouze tehdy, když klinický stav ženy vyžaduje léčbu kalcium-acetátem a uhličitanem hořečnatým."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Měkká stolice",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Gastrointestinální podráždění jako nauzea, anorexie, pocity plnosti, říhání a zácpa, průjem",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Hyperkalcemie asymptomatická i symptomatická, asymptomatická hypermagnesemie",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Středně těžká až těžká symptomatická hyperkalcemie, symptomatická hypermagnesemie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Hyperkalemie, poruchy kostní mineralizace vyvolané magnesiem",
+      "frekvence_vyskytu": "velmi vzácné"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

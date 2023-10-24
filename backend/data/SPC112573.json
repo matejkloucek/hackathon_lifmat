@@ -1,0 +1,71 @@
+{
+  "nazev_pripravku": "CARBOCIT",
+  "slozeni": [
+    {
+      "nazev": "carbo activatus",
+      "mnozstvi": 320,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "bismuthi subgallas",
+      "mnozstvi": 25,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "acidum citricum monohydricum",
+      "mnozstvi": 3,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Sacharosa"
+    },
+    {
+      "nazev": "Celulosa mikrokrystalická"
+    },
+    {
+      "nazev": "Glycerol 85%"
+    },
+    {
+      "nazev": "Želatina"
+    },
+    {
+      "nazev": "Mastek"
+    },
+    {
+      "nazev": "Magnesium-stearát"
+    },
+    {
+      "nazev": "Sodná sůl karboxymethylškrobu"
+    },
+    {
+      "nazev": "Citronová silice"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky (sloučenina vizmutu, kyselina citrónová) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Ileus či zvýšené riziko obstrukce střev. Riziko gastrointestinálního krvácení. V případech, kdy začernění sliznice GIT není žádoucí, např. před endoskopickým vyšetřením gastrointestinálního traktu."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "jiné perorální léčivé přípravky",
+      "druh_interakce": "vstřebání může být významně omezeno"
+    }
+  ],
+  "tehotenstvi": [
+    "Pro nedostatek zkušeností se užívání přípravku Carbocit v průběhu těhotenství a v období laktace nedoporučuje."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Černé zbarvení stolice, které může maskovat krvácení do trávicího traktu.",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Vyšší dávky přípravku mohou vyvolat nauzeu, zvracení nebo způsobit mechanickou zácpu.",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

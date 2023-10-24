@@ -1,0 +1,50 @@
+{
+  "nazev_pripravku": "OTIPAX",
+  "slozeni": [
+    {
+      "nazev": "phenazonum",
+      "mnozstvi": 40,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "lidocaini hydrochloridum monohydricum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "thiosíran sodný"
+    },
+    {
+      "nazev": "bezvodý ethanol"
+    },
+    {
+      "nazev": "glycerol"
+    },
+    {
+      "nazev": "čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku(y) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1, porušení bubínku infekčního nebo traumatického původu (perforovaný bubínek). Tento přípravek není určen pro novorozence (do 1 měsíce věku)."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Tento přípravek by proto měl být u těhotných žen používán pouze tehdy, když potenciální přínos pro matku opravňuje potenciální riziko pro plod."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "V ojedinělých případech existuje riziko lokální reakce ve formě alergie, podráždění nebo překrvení zvukovodu.",
+      "frekvence_vyskytu": "Ojediněle"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

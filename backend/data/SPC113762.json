@@ -1,0 +1,64 @@
+{
+  "nazev_pripravku": "Hidrasec 100 mg tvrdé tobolky",
+  "slozeni": [
+    {
+      "nazev": "racecadotrilum",
+      "mnozstvi": 100,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktosy",
+      "mnozstvi": 41,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Předbobtnalý kukuřičný škrob"
+    },
+    {
+      "nazev": "Magnesium-stearát"
+    },
+    {
+      "nazev": "Koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "Žlutý oxid železitý (E172)"
+    },
+    {
+      "nazev": "Oxid titaničitý (E171)"
+    },
+    {
+      "nazev": "Želatina"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "ACE inhibitory",
+      "druh_interakce": "zvyšování rizika angioedému"
+    }
+  ],
+  "tehotenstvi": [
+    "Adekvátní údaje o podávání racekadotrilu těhotným ženám nejsou k dispozici. Protože nejsou k dispozici specifické klinické studie, neměl by být racekadotril těhotným ženám podáván."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "vyrážka, erytém",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "erythema multiforme, edém jazyka, edém obličeje, edém rtů, edém očních víček, angioedém, kopřivka, erythema nodosum, papulózní vyrážka, prurigo, pruritus, toxická kožní erupce",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

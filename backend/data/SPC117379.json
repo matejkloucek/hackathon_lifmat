@@ -1,0 +1,108 @@
+{
+  "nazev_pripravku": "STUGERON 25 mg tablety",
+  "slozeni": [
+    {
+      "nazev": "cinnarizinum",
+      "mnozstvi": 25,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktosy",
+      "mnozstvi": 175,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "povidon"
+    },
+    {
+      "nazev": "kukuřičný a bramborový škrob"
+    },
+    {
+      "nazev": "monohydrát laktosy"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "mastek"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "alkohol",
+      "druh_interakce": "zesílení tlumivého centrálního účinku"
+    },
+    {
+      "nazev_latky": "látky tlumící CNS",
+      "druh_interakce": "zesílení tlumivého centrálního účinku"
+    },
+    {
+      "nazev_latky": "tricyklická antidepresiva",
+      "druh_interakce": "zesílení tlumivého centrálního účinku"
+    },
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "falešně negativní výsledky kožních testů na přecitlivělost"
+    }
+  ],
+  "tehotenstvi": [
+    "Cinarizin se smí podávat v těhotenství pouze tehdy, jestliže očekávaný léčebný prospěch převáží možné riziko pro plod."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "únavnost",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "gastrointestinální potíže",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "bolesti hlavy",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "sucho v ústech",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "přibývání na hmotnosti",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "pocení",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "alergické reakce",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "lichen planus",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "příznaky připomínající lupus erythematodes",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "cholestatický ikterus",
+      "frekvence_vyskytu": "ojedinělý"
+    },
+    {
+      "nazev": "extrapyramidové příznaky",
+      "frekvence_vyskytu": "vyskytly se u pacientů vyššího věku v průběhu dlouhodobé terapie"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

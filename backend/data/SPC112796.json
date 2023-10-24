@@ -1,0 +1,46 @@
+{
+  "nazev_pripravku": "CAMILIA perorální roztok v jednodávkovém obalu",
+  "slozeni": [
+    {
+      "nazev": "Chamomilla vulgaris 9 CH",
+      "mnozstvi": 333.3,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Phytolacca decandra 5 CH",
+      "mnozstvi": 333.3,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Rheum 5 CH",
+      "mnozstvi": 333.3,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky tohoto přípravku."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": None
+      "druh_interakce": "Neočekává se"
+    }
+  ],
+  "tehotenstvi": [
+    "Není relevantní"
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Žádné",
+      "frekvence_vyskytu": "Neočekávají se"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se"
+}

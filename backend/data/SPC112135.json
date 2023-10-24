@@ -1,0 +1,63 @@
+{
+  "nazev_pripravku": "CARBOTOX",
+  "slozeni": [
+    {
+      "nazev": "carbo activatus",
+      "mnozstvi": 320,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "natrii thiosulfas",
+      "mnozstvi": 25,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Sacharosa"
+    },
+    {
+      "nazev": "Celulosa mikrokrystalická"
+    },
+    {
+      "nazev": "Glycerol 85%"
+    },
+    {
+      "nazev": "Želatina"
+    },
+    {
+      "nazev": "Mastek"
+    },
+    {
+      "nazev": "Magnesium–stearát"
+    },
+    {
+      "nazev": "Sodná sůl karboxymethylškrobu"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky (thiosíran sodný) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Ileus či zvýšené riziko obstrukce střev. Riziko gastrointestinálního krvácení. V případech, kdy začernění sliznice GIT není žádoucí, např. před endoskopickým vyšetřením gastrointestinálního traktu."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "jiné perorální léky",
+      "druh_interakce": "vstřebání může být významně omezeno"
+    }
+  ],
+  "tehotenstvi": [
+    "Z hlediska klinických zkušeností není užívání přípravku v průběhu těhotenství a v období kojení kontraindikováno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Černé zbarvení stolice, které může maskovat krvácení do trávicího traktu.",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Vyšší dávky aktivního uhlí mohou vyvolat nauzeu, zvracení nebo způsobit mechanickou zácpu.",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

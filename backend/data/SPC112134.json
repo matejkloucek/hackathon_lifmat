@@ -1,0 +1,44 @@
+{
+  "nazev_pripravku": "CARBOSORB",
+  "slozeni": [
+    {
+      "nazev": "Carbo activatus (adsorpční uhlí)",
+      "mnozstvi": 25,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Nepodává se dětem do 3 let."
+    },
+    {
+      "nazev_kontraindikace": "Nepodává se při absenci zvuků ve střevech pro zvýšené riziko obstrukce v zažívacím traktu."
+    },
+    {
+      "nazev_kontraindikace": "Nepodává se při požití leptavých látek."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Jiné perorální léky",
+      "druh_interakce": "Omezení vstřebávání"
+    }
+  ],
+  "tehotenstvi": ["Nejsou kontraindikovány."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Černé zbarvení stolice",
+      "frekvence_vyskytu": "Velmi často"
+    },
+    {
+      "nazev": "Snížení vstřebávání současně podávaných perorálních léků",
+      "frekvence_vyskytu": "Často"
+    },
+    {
+      "nazev": "Zvracení nebo mechanická zácpa a následně ileus při vyšších dávkách",
+      "frekvence_vyskytu": "Méně často"
+    }
+  ],
+  "inkompatibility": "Nejsou dosud dokumentované."
+}

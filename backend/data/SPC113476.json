@@ -1,0 +1,59 @@
+{
+  "nazev_pripravku": "Dexa-Gentamicin 0,3 mg/g + 5,0 mg/g oční mast",
+  "slozeni": [
+    {
+      "nazev": "dexamethasonum",
+      "mnozstvi": 0.3,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "gentamicini sulfas",
+      "mnozstvi": 5.0,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "tuk z ovčí vlny (lanolin)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku(y) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1, poranění a vředy rohovky, virové infekce (např. herpes simplex nebo zoster) nebo mykózy oka, tuberkulóza a glaukom."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Inhibitory CYP3A4 (včetně ritonaviru a kobicistatu)",
+      "druh_interakce": "mohou snížit clearance dexamethasonu vedoucí ke zvýšenému účinku dexamethasonu a adrenální supresi / vzniku Cushingova syndromu. Této kombinaci je třeba se vyhnout, pokud přínos nepřeváží zvýšené riziko systémových nežádoucích účinků v důsledku léčby kortikosteroidy,  přičemž  má  být  pacient  sledován  vzhledem  k  systémovým  nežádoucím  účinkům kortikosteroidů."
+    },
+    {
+      "nazev_latky": "Jakýkoli jiný přípravek v očních kapkách",
+      "druh_interakce": "může Dexa-Gentamicin, oční mast předčasně odplavit. Používá-li pacient kromě masti Dexa-Gentamicinu ještě nějaké oční kapky, musí být mezi použitím obou přípravků časový odstup nejméně 30 minut."
+    }
+  ],
+  "tehotenstvi": ["Teratogenní účinky po lokálním podání dexamethasonu ani gentamicinu u pokusných zvířat popsány nebyly; použité dávky jsou minimální (3krát denně 0,1 mg gentamicinu-sulfátu a 0,006 mg dexamethasonu), absorpce gentamicinu je i po perorálním podání nízká. Protože doposud neexistují poznatky o škodlivém působení přípravku Dexa-Gentamicin, oční mast na plod, u těhotných a kojících žen může být přípravek používán pouze v přísně indikovaných případech a při zvážení všech rizik. Dexamethason se může v oku systematicky resorbovat a během kojení přecházet do mateřského mléka."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Cushingův syndrom, adrenální suprese",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "hypersenzitivní reakce (kontaktní alergické reakce) projevující se svěděním, otokem víček nebo dermatitidou očních víček (svědění, otoky, podráždění, slzení očí)",
+      "frekvence_vyskytu": "Velmi vzácné"
+    },
+    {
+      "nazev": "přechodné mírné pálení v očích",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "alergickém reakce",
+      "frekvence_vyskytu": "Velmi vzácné"
+    },
+    {
+      "nazev": "rozmazané vidění",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

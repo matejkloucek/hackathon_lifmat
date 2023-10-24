@@ -1,0 +1,45 @@
+{
+  "nazev_pripravku": "Leuco-Scint 0,18 mg kit pro radiofarmakum",
+  "slozeni": [
+    {
+      "nazev": "exametazimum",
+      "mnozstvi": 0.18,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "dihydrát chloridu cínatého (II)"
+    },
+    {
+      "nazev": "Dekahydrát difosforečnanu sodného"
+    },
+    {
+      "nazev": "ACD-A roztok"
+    },
+    {
+      "nazev": "6% Hydroxyethylškrob"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "N/A"
+    }
+  ],
+  "tehotenstvi": [
+    "Radionuklidová vyšetření prováděná u těhotných žen, zahrnují také radiační dávku pro plod. Proto by měla být během těhotenství prováděna pouze naléhavá vyšetření, v případech, kdy pravděpodobný přínos výrazně převýší riziko vzniklé pro matku a plod."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "mírná hypersenzitivity doložené rozvojem erytémové kopřivky (vyrážky)",
+      "frekvence_vyskytu": "velmi málo"
+    }
+  ],
+  "inkompatibility": "Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v návodu na přípravu radiofarmaka a způsobem v něm uvedeném, viz bod 12."
+}

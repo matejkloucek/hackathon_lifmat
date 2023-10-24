@@ -1,0 +1,87 @@
+{
+  "nazev_pripravku": "Septolete menthol 1mg pastilky",
+  "slozeni": [
+    {
+      "nazev": "Benzalkonii chloridum",
+      "mnozstvi": 1,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktosy",
+      "mnozstvi": 218.1,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "usušená tekutá glukosa",
+      "mnozstvi": 174.5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sorbitol",
+      "mnozstvi": 152.7,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sacharosa",
+      "mnozstvi": 622.66,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "monohydrát laktosy silice máty peprné"
+    },
+    {
+      "nazev": "blahovičníková silice"
+    },
+    {
+      "nazev": "levomenthol"
+    },
+    {
+      "nazev": "tekutý parafin"
+    },
+    {
+      "nazev": "thymol"
+    },
+    {
+      "nazev": "glycerol (E422)"
+    },
+    {
+      "nazev": "protipěnivá emulze DC 1510"
+    },
+    {
+      "nazev": "panenský ricinový olej"
+    },
+    {
+      "nazev": "magnesium – stearát (E572)"
+    },
+    {
+      "nazev": "sacharosa"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Není známo, že by přípravek ovlivňoval účinky jiných léků."
+    }
+  ],
+  "tehotenstvi": [
+    "Užívání přípravku Septolete menthol během těhotenství a v době kojení se nedoporučuje vzhledem k nedostatku informací."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "gastrointestinální poruchy",
+      "frekvence_vyskytu": "vzácné: gastrointestinální poruchy, jako je nevolnost a průjem, se mohou vyskytnout zvláště při dávkách vyšších než předepsaných."
+    },
+    {
+      "nazev": "reakce z přecitlivělosti",
+      "frekvence_vyskytu": "velmi vzácné: podráždění a kožní vyrážka."
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

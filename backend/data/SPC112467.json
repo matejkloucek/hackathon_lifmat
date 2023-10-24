@@ -1,0 +1,127 @@
+{
+  "nazev_pripravku": "Urapidil Stragen 30 mg tvrdé tobolky s prodlouženým uvolňováním\nUrapidil Stragen 60 mg tvrdé tobolky s prodlouženým uvolňováním",
+  "slozeni": [
+    {
+      "nazev": "urapidilum",
+      "mnozstvi": "30 mg / 60 mg",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "sacharosa",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "kukuřičný škrob",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "hypromelosa",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "kyselina fumarová",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "ethylcelulosa",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "kopolymer MA/MMA 1:2",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "ftalát hypromelosy",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    },
+    {
+      "nazev": "dibutyl-sebakát",
+      "mnozstvi": "neuvedeno",
+      "jednotky": "tobolka"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "želatina"
+    },
+    {
+      "nazev": "oxid titaničitý"
+    },
+    {
+      "nazev": "sodná sůl erythrosinu (E127)"
+    },
+    {
+      "nazev": "chinolinová žluť (E104)"
+    },
+    {
+      "nazev": "indigokarmín (E132)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Urapidil Stragen se nesmí užívat v případě aortální stenózy nebo při arteriovenózním zkratu (kromě hemodynamicky neaktivního dialyzačního zkratu)."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "blokátory alfa-receptorů, vazodilátory, jiná antihypertenziva, alkohol",
+      "druh_interakce": "zesílení antihypertenzního účinku"
+    },
+    {
+      "nazev_latky": "baclofen",
+      "druh_interakce": "zvýšení antihypertenzního účinku urapidilu"
+    },
+    {
+      "nazev_latky": "cimetidin",
+      "druh_interakce": "zpomalení vstřebávání urapidilu"
+    },
+    {
+      "nazev_latky": "imipramin, neuroleptika, amifostin, kortikoidy",
+      "druh_interakce": "riziko ortostatické hypotenze"
+    }
+  ],
+  "tehotenstvi": [
+    "Urapidil Stragen se během těhotenství nedoporučuje. Dosud nejsou k dispozici dostačující informace týkající se podávání urapidilu těhotným ženám."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Palpitace; tachykardie; bradykardie;pocit tlaku nebo bolesti na hrudi (podobné angině pectoris)",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Nauzea",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Závrať, bolest hlavy",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Zvracení; průjem; suchá ústa",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Únava",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Edém",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Reverzibilní zvýšení specifických jaterních enzymů, trombocytopenie*",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "Ortostatická dysregulace",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Příznaky

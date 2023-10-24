@@ -1,0 +1,56 @@
+{
+  "nazev_pripravku": "Oxid dusnatý Messer 800 ppm (V/V) medicinální plyn, stlačený",
+  "slozeni": [
+    {
+      "nazev": "Nitrogenii oxidum (NO)",
+      "mnozstvi": 800,
+      "jednotky": "ppm (V/V)"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Dusík"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Novorozenci závislí na pravolevém nebo významném levopravém cévním zkratu."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Nitroprusid sodný a nitroglycerin",
+      "druh_interakce": "zvyšují riziko rozvoje methemoglobinemie"
+    },
+    {
+      "nazev_latky": "Prilokain",
+      "druh_interakce": "může vyvolat methemoglobinemii"
+    }
+  ],
+  "tehotenstvi": [
+    "Údaje o podávání oxidu dusnatého těhotným ženám nejsou dostatečné. Potenciální riziko pro člověka není známé."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Trombocytopenie",
+      "frekvence_vyskytu": "Velmi časté"
+    },
+    {
+      "nazev": "Hypotenze, atelektáza",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Methemoglobinémie",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Bolest hlavy, závrať, hypoxie, dyspnoe",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Sucho v krku",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "V přítomnosti kyslíku tvoří NO rychle NO2, viz bod 4.5."
+}

@@ -1,0 +1,81 @@
+{
+  "nazev_pripravku": "Bromhexin Galmed 12 mg/ml perorální kapky, roztok",
+  "slozeni": [
+    {
+      "nazev": "Bromhexini hydrochloridum",
+      "mnozstvi": 12,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Propylenglykol"
+    },
+    {
+      "nazev": "Silice máty peprné"
+    },
+    {
+      "nazev": "Monohydrát kyseliny citronové"
+    },
+    {
+      "nazev": "Čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Antitusika",
+      "druh_interakce": "Potlačení kašlacího reflexu a nadměrné hromadění sekretu v dýchacích cestách"
+    },
+    {
+      "nazev_latky": "Přípravky, které vyvolávají podráždění sliznice trávicího traktu",
+      "druh_interakce": "Vzájemné zvýšení dráždivých účinků na žaludeční sliznici"
+    }
+  ],
+  "tehotenstvi": [
+    "S použitím bromhexin-hydrochloridu během těhotenství u lidí nejsou žádné nebo omezené zkušenosti. Tento přípravek se proto musí užívat v těhotenství pouze po důkladném posouzení poměru rizika a přínosu lékařem a užívání v prvním trimestru se nedoporučuje."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Hypersenzitivní reakce",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Nausea",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Bolesti břicha",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Zvracení",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Průjem",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "Vyrážka",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Kopřivka",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Závažné nežádoucí kožní reakce (včetně erythema multiforme, Stevens-Johnsonova syndromu/toxické epidermální nekrolýzy a akutní generalizované exantematózní pustulózy; viz také bod 4.4)",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Horečka",
+      "frekvence_vyskytu": "Méně časté"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

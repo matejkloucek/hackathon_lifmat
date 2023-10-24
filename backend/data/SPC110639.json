@@ -1,0 +1,78 @@
+{
+  "nazev_pripravku": "Igantet 250 IU injekční roztok v předplněné injekční stříkačce\nIgantet 500 IU injekční roztok v předplněné injekční stříkačce",
+  "slozeni": [
+    {
+      "nazev": "Immunoglobulinum humanum tetanicum",
+      "mnozstvi": "250 IU / 500 IU",
+      "jednotky": "předplněná injekční stříkačka"
+    },
+    {
+      "nazev": "Proteinum humanum",
+      "mnozstvi": "160 mg / 320 mg",
+      "jednotky": "předplněná injekční stříkačka"
+    },
+    {
+      "nazev": "IgG1",
+      "mnozstvi": "64,8 %",
+      "jednotky": "předplněná injekční stříkačka"
+    },
+    {
+      "nazev": "IgG2",
+      "mnozstvi": "26,2 %",
+      "jednotky": "předplněná injekční stříkačka"
+    },
+    {
+      "nazev": "IgG3",
+      "mnozstvi": "4,4 %",
+      "jednotky": "předplněná injekční stříkačka"
+    },
+    {
+      "nazev": "IgG4",
+      "mnozstvi": "4,6 %",
+      "jednotky": "předplněná injekční stříkačka"
+    },
+    {
+      "nazev": "IgA",
+      "mnozstvi": "max. 1000 mikrogramů/ml",
+      "jednotky": "předplněná injekční stříkačka"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "sodík"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Přecitlivělost na kteroukoliv z pomocných látek. Přecitlivělost na lidské imunoglobuliny."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "živé oslabené virové vakcíny",
+      "druh_interakce": "Interference s vývojem imunitní odpovědi na živé a oslabené virové vakcíny"
+    },
+    {
+      "nazev_latky": "pasivně přenesené protilátky",
+      "druh_interakce": "Přechodný vzestup různých pasivně přenesených protilátek v krvi pacienta"
+    }
+  ],
+  "tehotenstvi": [
+    "Bezpečnost podávání tohoto přípravku v průběhu těhotenství nebyla ověřená v kontrolovaných klinických studiích, a proto je nutná opatrnost při jeho podávání těhotným ženám a kojícím matkám. Klinické zkušenosti s imunoglobuliny ukazují, že se není třeba obávat škodlivých účinků na průběh těhotenství, na plod a novorozence."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "lokální bolest a zvýšená citlivost",
+      "frekvence_vyskytu": "často"
+    },
+    {
+      "nazev": "horečka, kožní reakce a zimnice",
+      "frekvence_vyskytu": "méně často"
+    },
+    {
+      "nazev": "nevolnost, zvracení, pokles krevního tlaku, tachykardie a alergické nebo anafylaktické reakce včetně šoku",
+      "frekvence_vyskytu": "vzácně"
+    }
+  ],
+  "inkompatibility": "Tento přípravek nesmí být mísen s jinými léky."
+}

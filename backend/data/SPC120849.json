@@ -1,0 +1,90 @@
+{
+  "nazev_pripravku": "Atropin-POS 5 mg/ml oční kapky, roztok",
+  "slozeni": [
+    {
+      "nazev": "atropini sulfas monohydricus",
+      "mnozstvi": "5,0",
+      "jednotky": "mg/1 ml"
+    },
+    {
+      "nazev": "benzalkonium-chlorid",
+      "mnozstvi": "0,05",
+      "jednotky": "mg/ml"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "chlorid sodný"
+    },
+    {
+      "nazev": "voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo jiná anticholinergika nebo kteroukoli pomocnou látku uvedenou v bodu 6.1. Novorozenci a kojenci do 3 měsíců věku. Primární formy glaukomu, glaukom s uzavřeným úhlem, rhinitis sicca."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "amantadin, chinidin, prokainamid, disopyramid, metoklopramid, antihistaminika, tricyklická a tetracyklická antidepresiva, pethidin, methylfenidát, některé antiparkinsoniky a neuroleptika",
+      "druh_interakce": "zintenzívnění anticholinergních účinků atropinu"
+    },
+    {
+      "nazev_latky": "pilokarpin, fysostigmin",
+      "druh_interakce": "oslabení až zrušení účinků atropinu"
+    },
+    {
+      "nazev_latky": "cisaprid",
+      "druh_interakce": "úplné vymizení účinku cisapridu"
+    },
+    {
+      "nazev_latky": "fenothiaziny, levodopa",
+      "druh_interakce": "snížená vstřebatelnost"
+    }
+  ],
+  "tehotenstvi": ["Atropin-POS 0,5 % by se v graviditě, zvláště ve třetím trimestru, měl používat pouze, pokud je to bezpodmínečně nutné a jen pod lékařským dohledem. Atropin přestupuje do mateřského mléka jen v nepatrném množství, přesto by však mohl u kojence vyvolat anticholinergní účinky."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "alergické reakce v oblasti očních víček a spojivky (včetně pocitu pálení očí, edému víček), urtikarie, anafylaktický šok",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "psychické změny, příznaky jako podrážděnost, nervozita, zmatenost, halucinace, agresivní chování, řečové abnormality",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "insomnie, ataxie",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "poruchy akomodace, zvýšená citlivost na světlo z důvodu mydriázy, zvýšení nitroočního tlaku u vyjádřené nebo latentní primární chronické formy glaukomu, akutní glaukom, zvýšené slzení, keratitida, konjunktivitida, ekzém očních víček",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "tachykardie, angina pektoris, hypertenze",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "sucho v ústech, dysfagie, gastroezofageální reflux, poruchy peristaltiky, při dlouhodobé léčbě může inhibovaná salivace vyvolat parotitidu",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "snížená perspirace, erytém, suchá kůže, pruritus, exantém",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "svalová slabost, poruchy svalové koordinace",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "porucha močení",
+      "frekvence_vyskytu": "nepřesná"
+    },
+    {
+      "nazev": "zvýšení tělesné teploty, u kojenců se mohou vyvinout život ohrožující stavy, jako jsou křeče, závratě, vysoká horečka a kóma",
+      "frekvence_vyskytu": "nepřesná"
+    }
+  ],
+  "inkompatibility": "Nejsou známy."
+}

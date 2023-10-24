@@ -1,0 +1,55 @@
+{
+  "nazev_pripravku": "Cavinton 5 mg/ml koncentrát pro infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "vinpocetinum",
+      "mnozstvi": 5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sorbitol",
+      "mnozstvi": 80,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "benzylalkohol",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "disiřičitan sodný",
+      "mnozstvi": 1,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "kyselina askorbová"
+    },
+    {
+      "nazev": "kyselina vinná"
+    },
+    {
+      "nazev": "voda na injekci do 2 ml"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Akutní fáze hemoragického iktu, závažná arytmie, krvácivé stavy a těžká forma ischemické choroby srdeční. Těhotenství a kojení."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Interakce vinpocetinu s jinými léčivými přípravky nebyly dosud popsány. Předpokládá se, že by mohl vzácně zesilovat účinky léčivých přípravků, které rozšiřují cévy nebo snižují krevní tlak."
+    }
+  ],
+  "tehotenstvi": ["Během těhotenství a kojení je podání vinpocetinu kontraindikováno."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Přípravek Cavinton v infuzi je obvykle dobře snášen, někdy však může vyvolat přechodně kardiovaskulární poruchy (mírná hypotenze, tachykardie nebo extrasystoly), vzácně gastrointestinální potíže (pyróza, bolesti břicha nebo nauzea), velmi mírné poruchy CNS (insomnie, závratě, bolesti hlavy) a kožní alergické reakce (ekzantém). Zdá se, že nežádoucí účinky nejeví závislost na dávce.",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Infuzní roztok vinpocetinu je chemicky inkompatibilní s heparinem, proto se s ním nesmí mísit v jedné stříkačce nebo infuzní soupravě, ani se vinpocetin nesmí injekčně podávat pacientovi léčenému heparinem."
+}

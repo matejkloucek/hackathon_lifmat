@@ -1,0 +1,81 @@
+{
+  "nazev_pripravku": "Memolan 10 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "Memantini hydrochloridum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Laktosa",
+      "mnozstvi": 82.75,
+      "jednotky": "mg"
+    },
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Mikrokrystalická celulosa",
+    },
+    {
+      "nazev": "Povidon K 30",
+    },
+    {
+      "nazev": "Koloidní bezvodý oxid křemičitý",
+    },
+    {
+      "nazev": "Magnesium-stearát",
+    },
+    {
+      "nazev": "Mastek",
+    },
+    {
+      "nazev": "Hypromelosa",
+    },
+    {
+      "nazev": "Oxid titaničitý (E 171)"
+    },
+    {
+      "nazev": "Makrogol 400"
+    },
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "L-dopa, dopaminergní agonisty, anticholinergika, barbituráty, neuroleptika, myorelaxancia dantrolen, baklofen",
+      "druh_interakce": "zvýšení účinku"
+    },
+    {
+      "nazev_latky": "Amantadin, ketamin, dextromethorfan",
+      "druh_interakce": "riziko farmakotoxické psychózy"
+    },
+    {
+      "nazev_latky": "Cimetidin, ranitidin, prokainamid, chinidin, chinin, nikotin",
+      "druh_interakce": "možné zvýšení plazmatických hladin"
+    },
+    {
+      "nazev_latky": "Hydrochlorothiazid",
+      "druh_interakce": "snížení hladiny hydrochlorothiazidu v séru"
+    }
+  ],
+  "tehotenstvi": [
+    "Memantin se nemá v těhotenství užívat, pokud to není zcela nezbytné."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Závratě",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Bolest hlavy",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Zácpa",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "naz

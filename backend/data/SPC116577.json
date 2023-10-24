@@ -1,0 +1,63 @@
+{
+  "nazev_pripravku": "Curatoderm",
+  "slozeni": [
+    {
+      "nazev": "Tacalcitolum monohydricum",
+      "mnozstvi": "4,17",
+      "jednotky": "mg na 1 g masti"
+    },
+    {
+      "nazev": "Butylhydroxytoluen (E 321)",
+      "mnozstvi": "",
+      "jednotky": "pomocná látka v bílé vazelíně"
+    },
+    {
+      "nazev": "Tekutý parafin",
+      "mnozstvi": "",
+      "jednotky": "pomocná látka"
+    },
+    {
+      "nazev": "Diisopropyl-adipát",
+      "mnozstvi": "",
+      "jednotky": "pomocná látka"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Butylhydroxytoluen (E 321)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    },
+    {
+      "nazev_kontraindikace": "Hyperklalcemie a všechna onemocnění, které souvisí se změnami metabolismu vápníku."
+    },
+    {
+      "nazev_kontraindikace": "Drobnopapulózní nebo pustulózní lupénka (psoriasis punctata a psoriasis pustulosa)."
+    },
+    {
+      "nazev_kontraindikace": "Závažné onemocnění jater, ledvin či srdce, jelikož existuje zvýšené riziko vzniku či vážných klinických následků hyperkalcemie."
+    },
+    {
+      "nazev_kontraindikace": "Při léčbě přípravkem Curatoderm nesmějí být užívány přípravky obsahující více než 500 IU vitamínu D."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Kyselina salicylová",
+      "druh_interakce": "rozkládá léčivou látku přípravku"
+    }
+  ],
+  "tehotenstvi": [
+    "Nejsou zkušenosti s použitím přípravku Curatoderm v těhotenství. Studie na zvířatech neprokázaly embryotoxické účinky u potkanů a králíků (viz bod 5.3). Potenciální riziko pro člověka není známo. Proto nemá být přípravek Curatoderm během těhotenství používán."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Podráždění kůže (např. pálení, erytém), svědění, kontaktní dermatitida, zhoršení psoriázy.",
+      "frekvence_vyskytu": "Méně časté ((≥1/1000 až < 1/100))"
+    }
+  ],
+  "inkompatibility": "Tacalcitol nesmí být používán současně s kyselinou salicylovou. Ultrafialové světlo včetně slunečního způsobuje odbourání léčivé látky."
+}

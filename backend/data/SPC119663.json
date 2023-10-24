@@ -1,0 +1,94 @@
+{
+  "nazev_pripravku": "Accusol 35 Potassium 2 mmol/l roztok pro hemofiltraci, hemodialýzu a hemodiafiltraci",
+  "slozeni": [
+    {
+      "nazev": "Calcii chloridum dihydricum",
+      "mnozstvi": 0.343,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Magnesii chloridum hexahydricum",
+      "mnozstvi": 0.136,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii chloridum",
+      "mnozstvi": 7.52,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Kalii chloridum",
+      "mnozstvi": 0.199,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Glucosum monohydricum",
+      "mnozstvi": 1.47,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii hydrogenocarbonas",
+      "mnozstvi": 13.4,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda pro injekci"
+    },
+    {
+      "nazev": "Kyselina chlorovodíková 25% (k úpravě pH)"
+    },
+    {
+      "nazev": "Hydroxid sodný (k úpravě pH)"
+    },
+    {
+      "nazev": "Dihydrát hydrogenfosforečnanu sodného"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypokalemie v případě, že nedošlo k simultánní suplementaci draslíkem."
+    },
+    {
+      "nazev_kontraindikace": "Metabolická alkalóza."
+    },
+    {
+      "nazev_kontraindikace": "Selhání funkce ledvin se zvýšeným hyperkatabolismem v případech, kdy uremické příznaky již nelze potlačit hemofiltrací."
+    },
+    {
+      "nazev_kontraindikace": "Nedostatečný tok krve z cévního přístupu."
+    },
+    {
+      "nazev_kontraindikace": "V případě vysokého rizika krvácení následkem systémové antikoagulace."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "srdeční glykosidy",
+      "druh_interakce": "zvýšené riziko arytmií na základě hypokalemie"
+    },
+    {
+      "nazev_latky": "Vitamin D a léčivé přípravky obsahující vápník",
+      "druh_interakce": "zvýšení rizika vzniku hyperkalemie"
+    },
+    {
+      "nazev_latky": "Další substituce hydrogenuhličitanu sodného",
+      "druh_interakce": "zvýšení rizika vzniku metabolické alkalózy"
+    }
+  ],
+  "tehotenstvi": [
+    "S používáním přípravku Accusol 35 během těhotenství a kojení nejsou žádné klinické ani preklinické zkušenosti. Přípravek Accusol 35 může být podán těhotným nebo kojícím ženám jen tehdy, pokud je to nezbytně nutné."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Hypoglykemie NOS",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Metabolická alkalóza, nerovnováha elektrolytů anebo tekutin",
+      "frekvence_vyskytu": "méně časté"
+    }
+  ],
+  "inkompatibility": "Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6."
+}
