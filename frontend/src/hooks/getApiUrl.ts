@@ -1,1 +1,1 @@
-export const getApiUrl = (): string => "abc";
+export const getApiUrl = (): string => "http://localhost:8080/";

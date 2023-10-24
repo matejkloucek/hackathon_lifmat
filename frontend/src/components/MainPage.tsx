@@ -2,11 +2,11 @@ import { Button, Stack, Typography } from "@mui/material";
 import { PageHeader } from "./PageHeader";
 import { Border } from "../theme/utils";
 import { Colors } from "../theme/colors";
-import { postTest } from "../services/postTest";
+import { getHello } from "../services/getHello";
 
 export const MainPage = () => {
   const handleClick = async () => {
-    await postTest();
+    await getHello();
   };
 
   return (
