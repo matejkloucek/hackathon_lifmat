@@ -21,4 +21,6 @@ export const Colors = {
   blueGrey600: "#CACED8",
   green: "#6FC204",
   greenDarker: "#5da204",
+  borderColor: "#B7B7B7",
+  tableBorder: "#E0E0E0",
 };

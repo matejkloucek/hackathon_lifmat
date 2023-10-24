@@ -73,7 +73,7 @@ export const appTheme: ThemeOptions = createTheme({
     },
   },
   shape: {
-    borderRadius: 6,
+    borderRadius: 0,
   },
 });
 
