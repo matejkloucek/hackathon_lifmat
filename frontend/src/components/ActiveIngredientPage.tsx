@@ -1,11 +1,12 @@
 import { ActiveIngredientDetail } from "../model/ActiveIngredientDetail";
-import { Dialog, IconButton, Stack, Typography } from "@mui/material";
+import { Button, Dialog, IconButton, Stack, Typography } from "@mui/material";
 import { Border, FontWeight } from "../theme/utils";
 import { Colors } from "../theme/colors";
 import { MedicineDetailBox } from "./MedicineDetailBox";
 import QRCode from "qrcode.react";
 import { useState } from "react";
 import LinkIcon from "@mui/icons-material/Link";
+import { Link } from "react-router-dom";
 
 type Props = {
   activeIngredient: ActiveIngredientDetail;
@@ -113,6 +114,11 @@ export const ActiveIngredientPage = ({ activeIngredient }: Props) => {
       <Dialog open={dialogOpen} onClose={handleClose}>
         <Stack padding={2} width={"300px"} height={"300px"} alignItems={"center"} justifyContent={"center"}>
           <QRCode value={pdfPath} size={250} />
+          <Link to={pdfPath}>
+            <Button variant={"contained"}>
+              <Typography fontWeight={FontWeight.Bold}>OPEN</Typography>
+            </Button>
+          </Link>
         </Stack>
       </Dialog>
     </Stack>
