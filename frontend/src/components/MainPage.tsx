@@ -7,6 +7,7 @@ import { DrugsAndIngredients } from "../model/DrugsAndIngredients";
 import { getDrugDetail } from "../services/getDrugDetail";
 import { Medicine } from "../model/Medicine";
 import { InitialLoadPage } from "./InitialLoadPage";
+import { MedicinePage } from "./MedicinePage";
 
 export const MainPage = () => {
   const [drugsAndIngredients, setDrugsAndIngredients] = useState<DrugsAndIngredients[]>([]);
@@ -27,6 +28,8 @@ export const MainPage = () => {
     if (firstLoad) {
       setFirstLoad(false);
     }
+    setDrugDetail(null);
+    // todo: separate cases for drugs and ingredients
     setLoading(true);
     const response = await getDrugDetail(drug.id);
     console.log("Response:", response);
@@ -50,18 +53,7 @@ export const MainPage = () => {
             {loading && <CircularProgress />}
           </Box>
         )}
-        {/*<Stack*/}
-        {/*  border={Border.Grey.Thick}*/}
-        {/*  width={"50%"}*/}
-        {/*  minWidth={"400px"}*/}
-        {/*  bgcolor={Colors.grey50}*/}
-        {/*  padding={2}*/}
-        {/*  marginTop={3}*/}
-        {/*>*/}
-        {/*  <Typography>*/}
-        {/*    {drugDetail?.name}*/}
-        {/*  </Typography>*/}
-        {/*</Stack>*/}
+        {drugDetail && <MedicinePage medicine={drugDetail} />}
       </Stack>
     </>
   );
