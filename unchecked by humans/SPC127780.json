@@ -1,0 +1,61 @@
+{
+  "nazev_pripravku": "COLINFANT NEW BORN",
+  "slozeni": [
+    {
+      "nazev": "Escherichia coli cryodesiccata (O83:K24:H31)",
+      "mnozstvi": "0,8 x 10⁸ až 1,6 x 10⁸",
+      "jednotky": "bakterií"
+    },
+    {
+      "nazev": "sacharosa",
+      "mnozstvi": "100 mg",
+      "jednotky": ""
+    },
+    {
+      "nazev": "odtučněné sušené mléko",
+      "mnozstvi": "150 mg",
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Hydrogenfosforečnan sodný"
+    },
+    {
+      "nazev": "Dihydrogenfosforečnan draselný"
+    },
+    {
+      "nazev": "Chlorid sodný"
+    },
+    {
+      "nazev": "Chlorid amonný"
+    },
+    {
+      "nazev": "Sacharóza"
+    },
+    {
+      "nazev": "Odtučněné sušené mléko"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Přecitlivělost na léčivou látku nebo na kteroukoli další složku tohoto přípravku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Žádné",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Není relevantní. Přípravek je určen pro podávání dětem do jednoho roku věku."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Častější a řidší stolice",
+      "frekvence_vyskytu": "Ojediněle"
+    }
+  ],
+  "inkompatibility": "Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivých přípravek mísen s jinými léčivými přípravky."
+}

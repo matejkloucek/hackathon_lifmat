@@ -1,0 +1,48 @@
+{
+  "nazev_pripravku": "ELENIUM 10 mg obalené tablety",
+  "slozeni": [
+    {
+      "nazev": "chlordiazepoxidum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktózy",
+      "mnozstvi": null,
+      "jednotky": null
+    },
+    {
+      "nazev": "sacharóza",
+      "mnozstvi": null,
+      "jednotky": null
+    },
+    {
+      "nazev": "sodík",
+      "mnozstvi": 0.014,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "bramborový škrob"
+    },
+    {
+      "nazev": "želatina"
+    },
+    {
+      "nazev": "polysorbát 80"
+    },
+    {
+      "nazev": "mastek"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "sodná sůl karboxymethylškrobu (typ A)"
+    },
+    {
+      "nazev": "polyvinylalkohol"
+    },
+    {
+      "nazev

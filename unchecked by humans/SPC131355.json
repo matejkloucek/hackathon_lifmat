@@ -1,0 +1,227 @@
+{
+  "nazev_pripravku": "AFLUDITEN 25 mg/ml injekční roztok",
+  "slozeni": [
+    {
+      "nazev": "fluphenazini decanoas",
+      "mnozstvi": 25,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "benzylalkohol",
+      "mnozstvi": 15,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sezamový olej",
+      "mnozstvi": null,
+      "jednotky": "injekce"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Benzylalkohol"
+    },
+    {
+      "nazev": "Sezamový olej"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Přecitlivělost na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    },
+    {
+      "nazev_kontraindikace": "Poškození nebo jen podezření na organické poškození mozku"
+    },
+    {
+      "nazev_kontraindikace": "Podávání vysokých dávek látek s tlumivým působením na centrální nervovou soustavu (alkohol, barbituráty, narkotika, hypnotika)"
+    },
+    {
+      "nazev_kontraindikace": "Při kómatozních nebo těžkých depresivních stavech"
+    },
+    {
+      "nazev_kontraindikace": "Při extrapyramidových poruchách"
+    },
+    {
+      "nazev_kontraindikace": "Poškození jater"
+    },
+    {
+      "nazev_kontraindikace": "Krevní dyskrazie"
+    },
+    {
+      "nazev_kontraindikace": "Podávání dětem do 12 let"
+    },
+    {
+      "nazev_kontraindikace": "Gravidita"
+    },
+    {
+      "nazev_kontraindikace": "Laktace"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "alkohol",
+      "druh_interakce": "zvyšování útlumu CNS"
+    },
+    {
+      "nazev_latky": "hypnotika",
+      "druh_interakce": "zvyšování útlumu CNS"
+    },
+    {
+      "nazev_latky": "sedativa",
+      "druh_interakce": "zvyšování útlumu CNS"
+    },
+    {
+      "nazev_latky": "analgetika",
+      "druh_interakce": "zvyšování útlumu CNS"
+    },
+    {
+      "nazev_latky": "adrenalin",
+      "druh_interakce": "antagonizace účinku"
+    },
+    {
+      "nazev_latky": "sympatomimetika",
+      "druh_interakce": "antagonizace účinku"
+    },
+    {
+      "nazev_latky": "guanetidin",
+      "druh_interakce": "antagonizace účinku"
+    },
+    {
+      "nazev_latky": "klonidin",
+      "druh_interakce": "antagonizace účinku"
+    },
+    {
+      "nazev_latky": "L-dopa",
+      "druh_interakce": "zeslabení účinnosti"
+    },
+    {
+      "nazev_latky": "antikonvulziva",
+      "druh_interakce": "zeslabení účinnosti"
+    },
+    {
+      "nazev_latky": "tricyklická antidepresiva",
+      "druh_interakce": "zeslabení biotransformace"
+    },
+    {
+      "nazev_latky": "lithium",
+      "druh_interakce": "neurotoxicita"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek se neordinuje v graviditě, protože nebyla prověřena jeho bezpečnost."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Pseudoparkinsonizmus",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Dystonie",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Dyskineze",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Akatizie",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Okulogyrické krize",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Opistotonus",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Hyperreflexe",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Neuroleptický maligní syndrom",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Tardivní dyskineze",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Ospalost",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Letargie",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Hypotenze",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Kolísání krevního tlaku",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Nauzea",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Nechutenství",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Salivace",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Pocení",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Polyurie",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Sucho v ústech",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Bolesti hlavy",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Pseudodeprese",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Zácpa",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Neostré vidění",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Glaukom",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Paralytický ileus",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Tachykardie",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Ucpaný nos",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev": "Změna tělesné hmotnosti",
+      "frekvence_vyskytu": ""
+    },
+    {
+      "nazev":

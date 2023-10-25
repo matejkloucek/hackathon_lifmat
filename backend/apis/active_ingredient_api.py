@@ -24,7 +24,8 @@ medicine_for_active_ingredient = active_ingredient_api.model("MedicineForActiveI
                                                  "active_ingredients": fields.List(fields.Nested(
                                                      active_ingredient)),
                                                  "dosage": fields.Float(required=False),
-                                                 "units": fields.String(required=False)
+                                                 "units": fields.String(required=False),
+                                                 "pdf_dropbox_link": fields.String(required=False)
                                             })
 
 active_ingredient_detail_dto = active_ingredient_api.model("ActiveIngredientDetailOutDto",

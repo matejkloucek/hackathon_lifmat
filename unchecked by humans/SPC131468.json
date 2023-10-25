@@ -1,0 +1,178 @@
+{
+  "nazev_pripravku": "Ketokonazol Dr.Max 20 mg/g šampon",
+  "slozeni": [
+    {
+      "nazev": "ketoconazolum",
+      "mnozstvi": 20,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Natrium-lauromakrogol-sulfát"
+    },
+    {
+      "nazev": "Dinatrium-lauromakrogol-sulfosukcinát"
+    },
+    {
+      "nazev": "Diolamid kyseliny kokosové"
+    },
+    {
+      "nazev": "Kvarternizovaný hydroxypropylkolagen"
+    },
+    {
+      "nazev": "Makrogol-5500-methylglukoso-dioleát"
+    },
+    {
+      "nazev": "Chlorid sodný"
+    },
+    {
+      "nazev": "Hydroxid sodný"
+    },
+    {
+      "nazev": "Koncentrovaná kyselina chlorovodíková"
+    },
+    {
+      "nazev": "Imidomočovina"
+    },
+    {
+      "nazev": "Azorubin (E122)"
+    },
+    {
+      "nazev": "Čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Nebyly provedeny žádné studie interakcí s jinými léčivými přípravky."
+    },
+    {
+      "nazev_latky": "lokální kortikosteroidy",
+      "druh_interakce": "Při použití šamponu bezprostředně po dlouhodobé léčbě lokálními kortikosteroidy se mohou vyskytnout symptomy podráždění kůže. Pacientům, kteří byli dlouhodobě léčeni lokálními kortikosteroidy, se při současném  použití  šamponu  Ketokonazol  Dr.Max  doporučuje  postupné  vysazování  léčby kortikosteroidy v průběhu 2 až 3 týdnů, aby se zabránilo případnému rebound efektu. Pacienti, kteří užívají současně systémové kortikosteroidy déle než 3 týdny, je nesmí vysadit náhle; léčba kortikosteroidy musí být vysazována postupně."
+    }
+  ],
+  "tehotenstvi": [
+    "Těhotenství: Údaje o podávání ketokonazolu těhotným ženám jsou omezené nebo nejsou k dispozici. Systémová expozice ketokonazolu je zanedbatelná při lokální aplikaci na vlasatou část hlavy, a proto se žádné účinky na těhotenství neočekávají. Ketokonazol Dr.Max lze v těhotenství používat."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "folikulitida",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "rýma",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "hypersenzitivita",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "angioedém",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "urtikarie",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "ztráta chuti k jídlu",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "dysgeuzie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "parestezie",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "podráždění očí",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "zvýšené slzení",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "bodavý pocit v oku",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "pocit svědění a pálení",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "suchá pokožka",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "abnormální struktura vlasů",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "seborea/akné",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "teleangiektazie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "alopecie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "erytematózní vyrážka",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "kontaktní dermatitida",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "olupování pokožky",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "vlasy se mohou začít nadměrně vysušovat nebo mastit",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "změna barvy vlasů (především u chemicky poškozených nebo šedivých vlasů)",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "lokální reakce",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "pustuly v místě aplikace",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "lokální podráždění",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "erytém a pruritus v místě aplikace",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "citlivost pokožky",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "podráždění pokožky hlavy",
+      "frekvence_vyskytu": "velmi vzácné"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

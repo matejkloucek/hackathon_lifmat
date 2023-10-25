@@ -1,0 +1,80 @@
+{
+  "nazev_pripravku": "Ardeaelytosol conc. natriumhydrogenkarbonát 4,2% koncentrát pro infuzní roztok / Ardeaelytosol conc. natriumhydrogenkarbonát 8,4% koncentrát pro infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Natrii hydrogenocarbonas",
+      "mnozstvi": 42.0,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Natrii hydrogenocarbonas",
+      "mnozstvi": 84.0,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Ledová kyselina octová"
+    },
+    {
+      "nazev": "Dihydrát dinatrium-edetátu"
+    },
+    {
+      "nazev": "Voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Metabolická alkalóza"
+    },
+    {
+      "nazev_kontraindikace": "Respirační acidóza"
+    },
+    {
+      "nazev_kontraindikace": "Hypokalémie"
+    },
+    {
+      "nazev_kontraindikace": "Hypernatrémie (nad 150 mmol/l)"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Efedrin / Pseudoefedrin / Chinidin",
+      "druh_interakce": "Zvýšení účinnosti a toxicity (snížení renálního vylučování)"
+    },
+    {
+      "nazev_latky": "Chlorpropamid / Lithium / Salicyláty / Barbituráty",
+      "druh_interakce": "Snížení účinnosti a toxicity (zvýšení renálního vylučování)"
+    },
+    {
+      "nazev_latky": "Kardioglykosidy",
+      "druh_interakce": "Zvýšení účinnosti a toxicity (pokles kalémie)"
+    }
+  ],
+  "tehotenstvi": [
+    "Vyžaduje-li to stav pacientky, tak použití přípravku během těhotenství a laktace není kontraindikováno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Rozvrat iontové rovnováhy",
+      "frekvence_vyskytu": "vzácně s frekvencí výskytu >1/10000 a < 1/1000"
+    },
+    {
+      "nazev": "Metabolická alkalóza",
+      "frekvence_vyskytu": "vzácně s frekvencí výskytu >1/10000 a < 1/1000"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "vzácně s frekvencí výskytu >1/10000 a < 1/1000"
+    },
+    {
+      "nazev": "Kardiální dekompenzace",
+      "frekvence_vyskytu": "vzácně s frekvencí výskytu >1/10000 a < 1/1000"
+    },
+    {
+      "nazev": "Hyperhydratace",
+      "frekvence_vyskytu": "vzácně s frekvencí výskytu >1/10000 a < 1/1000"
+    }
+  ],
+  "inkompatibility": "Do infuze s hydrogenkarbonátem nelze přidávat hydrokortizon a theofilinové přípravky. Vzhledem k alkalické reakci nelze mísit s přípravky s obsahem Ca²⁺, Mg²⁺ a fosfátů."
+}

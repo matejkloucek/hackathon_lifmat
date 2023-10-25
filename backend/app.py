@@ -2,6 +2,8 @@ import os
 import json
 
 from dotenv import dotenv_values
+from dropbox import DropboxOAuth2FlowNoRedirect, Dropbox
+from dropbox.exceptions import ApiError as DropboxApiError
 
 from flask import Flask, request
 from flask_restx import Api
@@ -73,7 +75,8 @@ def setup_db(flask_app):
         # read json
         parsed_medicine_names = []
         for spc_json_filename in os.scandir("data"):
-            with open(spc_json_filename, 'r') as fd:
+            print(spc_json_filename.path)
+            with open(spc_json_filename.path, 'r') as fd:
                 data = json.load(fd)
 
             # get medicine name
@@ -161,9 +164,45 @@ def setup_db(flask_app):
                                            ) for ingredient, dosage, units in active_ingredients_entities])
             db.session.add(medicine_entity)
 
+    def import_dropbox_pdfs():
+        dropbox_api_key = app_config['DROPBOX_API_KEY']
+        dropbox_api_secret = app_config['DROPBOX_API_SECRET']
+
+        auth_flow = DropboxOAuth2FlowNoRedirect(dropbox_api_key, dropbox_api_secret)
+        authorize_url = auth_flow.start()
+        print("1. Go to: " + authorize_url)
+        print("2. Click \"Allow\" (you might have to log in first).")
+        print("3. Copy the authorization code.")
+        auth_code = input("Enter the authorization code here: ").strip()
+
+        try:
+            oauth_result = auth_flow.finish(auth_code)
+        except Exception as e:
+            print('Error: %s' % (e,))
+            exit(1)
+
+        # Initialize the Dropbox client
+        dbx = Dropbox(oauth2_access_token=oauth_result.access_token)
+
+        medicines = Medicine.query.all()
+        for medicine in medicines:
+            file_path = f'/SPC{medicine.sukl_code}.pdf'
+
+            try:
+                shared_link = dbx.sharing_create_shared_link(file_path)
+            except DropboxApiError as e:
+                continue
+
+            print(shared_link.url)
+            medicine.pdf_dropbox_link = shared_link.url
+
+        db.session.commit()
+
+
     # uncomment if empty db
     #with flask_app.app_context():
-        #import_data()
+       # import_data()
+        #import_dropbox_pdfs()
 
 
 def enable_cors():

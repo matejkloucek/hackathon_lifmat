@@ -1,0 +1,73 @@
+{
+  "nazev_pripravku": "Alpicort 2 mg/ml + 4 mg/ml kožní roztok",
+  "slozeni": [
+    {
+      "nazev": "prednisolon",
+      "mnozstvi": 0.2,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "kyselina salicylová",
+      "mnozstvi": 0.4,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "propylenglykol"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1, kojenci a malé děti do 3 let, aplikace na sliznicích, v ústech, v očích nebo v jejich okolí, v oblasti genitálií, resp. vnitřně, plané neštovice, specifická kožní onemocnění (tuberkulóza, příjice), zánětlivé reakce na očkování, mykóza a bakteriální kožní infekce, periorální dermatitida a rosacea"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "zesilování účinnosti jiných zevně aplikovaných léčivých látek"
+    }
+  ],
+  "tehotenstvi": [
+    "V těhotenství by se neměl Alpicort používat vzhledem k obsahu kyseliny salicylové, s výjimkou aplikace na velmi malé plochy (menší než 5 cm²). Při dlouhodobé léčbě kortikoidy během těhotenství nelze vyloučit růstové poruchy u plodu. Prednisolon vedl při pokusech na zvířatech ke vzniku rozštěpu patra (viz bod 5.3). Zvýšené riziko výskytu rozštěpu u lidských plodů při podávání kortikoidů během prvního trimestru je předmětem diskuse. Pokud se kortikoidy podávají ke konci těhotenství, hrozí plodu nebezpečí atrofie kůry nadledvin, která by si mohla postupně vyžádat substituční léčbu novorozence."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "alergický kontaktní ekzém",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "atrofie kůže",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "teleangiektázie",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "strie",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "steroidní akné",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "periorální dermatitida",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "zvýšené ochlupení těla",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "podráždění v místě aplikace (např. pálení, zčervenání)",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "rozmazané vidění",
+      "frekvence_vyskytu": "není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

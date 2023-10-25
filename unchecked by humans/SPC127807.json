@@ -1,0 +1,123 @@
+{
+  "nazev_pripravku": "MILTEN 5 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "finasteridum",
+      "mnozstvi": 5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktosy",
+      "mnozstvi": 97.5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sodík",
+      "mnozstvi": 0.64,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "mikrokrystalická celulosa"
+    },
+    {
+      "nazev": "sodná sůl karboxymethylškrobu (typ A)"
+    },
+    {
+      "nazev": "předbobtnalý kukuřičný škrob"
+    },
+    {
+      "nazev": "sodná sůl dokusátu magnesium-stearát"
+    },
+    {
+      "nazev": "hypromelosa 2910/6 (E 464)"
+    },
+    {
+      "nazev": "hyprolosa (E 463)"
+    },
+    {
+      "nazev": "oxid titaničitý (E 171)"
+    },
+    {
+      "nazev": "mastek (E 553b)"
+    },
+    {
+      "nazev": "hlinitý lak indigokarmínu (E 132)"
+    },
+    {
+      "nazev": "žlutý oxid železitý (E 172)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Těhotenství – ženy, které jsou těhotné nebo ženy ve fertilním věku."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Klinicky významné lékové interakce nebyly zjištěny."
+    }
+  ],
+  "tehotenstvi": ["Finasterid je kontraindikován u žen, které jsou těhotné nebo mohou být potenciálně těhotné."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "impotence",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "snížení libida",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "deprese",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "úzkost",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "palpitace",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "vyrážka",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "pruritus",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "urtikarie",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "poruchy ejakulace",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "citlivost prsů",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "zvětšení prsů",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "bolestivost varlat",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "erektilní dysfunkce",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "snížený objem ejakulátu",
+      "frekvence_vyskytu": "Časté"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

@@ -1,0 +1,103 @@
+{
+  "nazev_pripravku": "CARDILAN tablety",
+  "slozeni": [
+    {
+      "nazev": "Kalii hydrogenoaspartas hemihydricus",
+      "mnozstvi": 0.175,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Magnesii hydrogenoaspartas tetrahydricus",
+      "mnozstvi": 0.175,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "sodík"
+    },
+    {
+      "nazev": "natrium-benzoát"
+    },
+    {
+      "nazev": "Koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "methylovaný oxid křemičitý"
+    },
+    {
+      "nazev": "krospovidon typ A"
+    },
+    {
+      "nazev": "sodná sůl karboxymethylškrobu (typ C)"
+    },
+    {
+      "nazev": "mastek"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "přecitlivělost na léčivou látku nebo na některou z pomocných látek"
+    },
+    {
+      "nazev_kontraindikace": "hypermagnezémie"
+    },
+    {
+      "nazev_kontraindikace": "hyperkalémie"
+    },
+    {
+      "nazev_kontraindikace": "akutní renální insuficience v anurické fázi"
+    },
+    {
+      "nazev_kontraindikace": "terminální oligurické fázi chronické renální insuficience"
+    },
+    {
+      "nazev_kontraindikace": "metabolická acidóza"
+    },
+    {
+      "nazev_kontraindikace": "AV blokáda vyššího stupně"
+    },
+    {
+      "nazev_kontraindikace": "Addisonova nemoc"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "ACE-inhibitory",
+      "druh_interakce": "potencování účinku"
+    },
+    {
+      "nazev_latky": "kalium šetřící diuretik (spironolakton, amilorid)",
+      "druh_interakce": "potencování účinku"
+    }
+  ],
+  "tehotenstvi": [
+    "Pro nedostatek klinických studií u těhotných a kojících žen je nutno zvážit riziko podávání přípravku a jeho terapeutický užitek pro tyto skupiny pacientů."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "nevolnost",
+      "frekvence_vyskytu": "vzácně (možnost výskytu u 1-10 pacientů z 10 000 léčených pacientů)"
+    },
+    {
+      "nazev": "průjem",
+      "frekvence_vyskytu": "vzácně (možnost výskytu u 1-10 pacientů z 10 000 léčených pacientů)"
+    },
+    {
+      "nazev": "alergické kožní reakce",
+      "frekvence_vyskytu": "vzácně (možnost výskytu u 1-10 pacientů z 10 000 léčených pacientů)"
+    },
+    {
+      "nazev": "renální poškození",
+      "frekvence_vyskytu": "není známo (z dostupných údajů nelze určit)"
+    },
+    {
+      "nazev": "zvýšená hladina draslíku a hořčíku",
+      "frekvence_vyskytu": "není známo (z dostupných údajů nelze určit)"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

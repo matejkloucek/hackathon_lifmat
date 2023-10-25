@@ -19,7 +19,8 @@ def get_active_ingredient_detail(active_ingredient_id: int):
                                 "dosage": ingredient_with_dosage.dosage,
                                 "units": ingredient_with_dosage.units
                                 } for ingredient_with_dosage
-                               in medicine_with_dosage.medicine.active_ingredients_with_dosage]
+                               in medicine_with_dosage.medicine.active_ingredients_with_dosage],
+                           "pdf_dropbox_link": medicine_with_dosage.medicine.pdf_dropbox_link
                            }
                           for medicine_with_dosage
                           in active_ingredient_entity.medicines_with_dosage]}

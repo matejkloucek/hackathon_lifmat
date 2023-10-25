@@ -1,0 +1,84 @@
+{
+  "nazev_pripravku": "SOLCOSERYL",
+  "slozeni": [
+    {
+      "nazev": "Vitulinae sanguinis fractio deproteinata",
+      "mnozstvi": 2.125,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "lauromacrogolum 450",
+      "mnozstvi": 10.0,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "methylparaben"
+    },
+    {
+      "nazev": "propylparaben"
+    },
+    {
+      "nazev": "menthol"
+    },
+    {
+      "nazev": "želatina"
+    },
+    {
+      "nazev": "pektin"
+    },
+    {
+      "nazev": "polyethylen"
+    },
+    {
+      "nazev": "tekutý parafin"
+    },
+    {
+      "nazev": "sodná sůl karmelózy"
+    },
+    {
+      "nazev": "silice máty peprné"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku (pasta obsahuje parabeny)."
+    },
+    {
+      "nazev_kontraindikace": "Děti do dvou let věku: U kojenců a batolat do dvou let věku může silice máty peprné a levomentol vyvolat spasmy hrtanu, jejichž důsledkem jsou závažné dýchací obtíže."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Nejsou dosud známé."
+    }
+  ],
+  "tehotenstvi": [
+    "Ženy, které jsou nebo by chtěly být těhotné nebo kojí, by se měly o použití ústní pasty Solcoseryl poradit s lékařem. Studie na zvířatech neprokázaly riziko pro plod, ale u lidí nebyly provedeny."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Poruchy imunitního systému",
+      "frekvence_vyskytu": "Velmi vzácné: hypersenzitivita"
+    },
+    {
+      "nazev": "Poruchy nervového systému",
+      "frekvence_vyskytu": "Není známo: porucha chuti"
+    },
+    {
+      "nazev": "Respirační, hrudní a mediastinální poruchy",
+      "frekvence_vyskytu": "Velmi vzácné: dušnost, bronchospasmus"
+    },
+    {
+      "nazev": "Celkové poruchy a reakce v místě aplikace",
+      "frekvence_vyskytu": "Není známo: reakce v místě aplikace (např. otok, erytém, parestézie, pálení)"
+    },
+    {
+      "nazev": "Pediatrická populace",
+      "frekvence_vyskytu": "Četnost není známa: U kojenců a batolat mladších dvou let může způsobit laryngospasmus (viz bod 4.3)."
+    }
+  ],
+  "inkompatibility": "Nejsou známy."
+}

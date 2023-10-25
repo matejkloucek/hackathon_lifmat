@@ -1,0 +1,112 @@
+{
+  "nazev_pripravku": "DEOXYMYKOIN 100 mg tablety",
+  "slozeni": [
+    {
+      "nazev": "doxycyclini hyclas",
+      "mnozstvi": 115.4,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "mannitol"
+    },
+    {
+      "nazev": "polysorbát 80"
+    },
+    {
+      "nazev": "kukuřičný škrob"
+    },
+    {
+      "nazev": "povidon 25"
+    },
+    {
+      "nazev": "kalcium-stearát"
+    },
+    {
+      "nazev": "mastek"
+    },
+    {
+      "nazev": "sodná sůl karboxymethylškrobu"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na doxycyklin, jiné tetracykliny nebo na kteroukoli pomocnou látku přípravku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "methoxyfluran",
+      "druh_interakce": "selhání funkce ledvin"
+    },
+    {
+      "nazev_latky": "perorální antidiabetika",
+      "druh_interakce": "zesílení účinku"
+    },
+    {
+      "nazev_latky": "dikumarolová antikoagulancia",
+      "druh_interakce": "zesílení účinku"
+    },
+    {
+      "nazev_latky": "beta-laktamová antibiotika",
+      "druh_interakce": "snížení antibakteriální účinnosti"
+    },
+    {
+      "nazev_latky": "digoxin nebo deriváty digoxinu",
+      "druh_interakce": "zvýšení koncentrace v plazmě"
+    },
+    {
+      "nazev_latky": "cyklosporin A",
+      "druh_interakce": "zvýšení plazmatické koncentrace"
+    },
+    {
+      "nazev_latky": "theofylin",
+      "druh_interakce": "zvýšení nežádoucích účinků v gastrointestinálním ústrojí"
+    }
+  ],
+  "tehotenstvi": ["Kontraindikováno"],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "nauzea",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "zvracení",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "průjem",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "meteorizmus",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "sucho v ústech",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "poškození chrupu",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "vyrážka",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "fotosenzitivní reakce",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "zabarvení nehtů",
+      "frekvence_vyskytu": "velmi vzácné"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

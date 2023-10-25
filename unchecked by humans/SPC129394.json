@@ -1,0 +1,138 @@
+{
+  "nazev_pripravku": "Cefixime InnFarm 400 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "Cefiximum trihydricum",
+      "mnozstvi": 400,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "mikrokrystalická celulóza"
+    },
+    {
+      "nazev": "dihydrát hydrogenfosforečnanu vápenatého částečně předbobtnalý kukuřičný škrob"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "hypromelóza 2910/5"
+    },
+    {
+      "nazev": "makrogol 400"
+    },
+    {
+      "nazev": "oxid titaničitý E171"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku, jiná cefalosporinová antibiotika nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Předchozí, okamžitá a/nebo závažná hypersenzitivní reakce na penicilin nebo na jakékoliv betalaktamové antibiotikum."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "aminoglykosidová antibiotika, kolistin, polymyxin a viomycin",
+      "druh_interakce": "potenciálně nefrotoxické látky"
+    },
+    {
+      "nazev_latky": "nifedipin",
+      "druh_interakce": "zvyšování biologické dostupnosti cefiximu"
+    },
+    {
+      "nazev_latky": "antikoagulační terapie",
+      "druh_interakce": "zvýšení protrombinového času"
+    }
+  ],
+  "tehotenstvi": [
+    "Nejsou k dispozici žádná adekvátní data o použití cefiximu u těhotných žen. Studie na zvířatech nenaznačují přímé ani nepřímé škodlivé účinky na průběh těhotenství, embryonální/fetální vývoj, porod nebo postnatální vývoj (viz bod 5.3). Jako preventivní opatření se přípravek Cefixime InnFarm nemá používat u těhotných matek, pokud to není považováno lékařem za nezbytné."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Bakteriální superinfekce, mykotická superinfekce",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Eosinofilie",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Hypersenzitivita",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Anorexie",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Kolitida související s antibiotiky",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Leukopenie, agranulocytóza, pancytopenie, trombocytopenie, hemolytická anemie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Anafylaktický šok, sérová nemoc",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Trombocytóza, neutropenie",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "Bolest hlavy",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Bolest břicha, nauzea, zvracení",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Vertigo",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Nadýmání",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Psychomotorická hyperaktivita",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Hepatitida, cholestatická žloutenka",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Vyrážka",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "Angioneurotický edém, pruritus",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Mukozitida, pyrexie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "Intersticiální nefritida",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "Léková vyrážka s eosinofilií a systémovými příznaky (DRESS), erythema multiforme",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "Pozitivní přímý a nepřímý Coombsův test",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "Zvýšení jaterních enzymů",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "Zvýšení hladiny

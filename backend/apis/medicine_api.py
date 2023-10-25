@@ -23,6 +23,7 @@ medicine_basic_out_dto = medicine_api.model("MedicineBasicOutDto",
                                                                                required=True),
                                                  "active_ingredients": fields.List(fields.Nested(
                                                     active_ingredient_for_medicine_dto)),
+                                                 "pdf_dropbox_link": fields.String(required=False)
                                             })
 
 medicine_detail_out_dto = medicine_api.model("MedicineDetailOutDto",
@@ -39,7 +40,8 @@ medicine_detail_out_dto = medicine_api.model("MedicineDetailOutDto",
                                                  )),
                                                  "alternative_medicines": fields.List(fields.Nested(
                                                      medicine_basic_out_dto
-                                                 ))
+                                                 )),
+                                                 "pdf_dropbox_link": fields.String(required=False)
                                              })
 
 medicine_random_out_dto = medicine_api.model("MedicineRandomOutDto",

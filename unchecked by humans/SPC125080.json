@@ -1,0 +1,34 @@
+{
+  "nazev_pripravku": "Voda na injekci Kabi",
+  "slozeni": [
+    {
+      "nazev": "Aqua pro injectione",
+      "mnozstvi": "1g / 1 ml",
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": ""
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Nesmí se podávat samostatně"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Nejsou známy",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": ["Rizika při použití u těhotných a kojících žen jsou dána povahou přidávaných léčiv."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Intravenózní injekce mohou způsobit hemolýzu",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Aditiva mohou být inkompatibilní"
+}

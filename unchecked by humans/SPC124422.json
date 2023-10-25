@@ -1,0 +1,147 @@
+{
+  "nazev_pripravku": "Mictonetten 5 mg obalené tablety",
+  "slozeni": [
+    {
+      "nazev": "propiverini hydrochloridum",
+      "mnozstvi": 5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát glukózy",
+      "mnozstvi": 0.31,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktózy",
+      "mnozstvi": 34,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "sacharóza",
+      "mnozstvi": 24.5,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "celulozový prášek"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "mastek"
+    },
+    {
+      "nazev": "kaolín"
+    },
+    {
+      "nazev": "uhličitan vápenatý"
+    },
+    {
+      "nazev": "oxid titaničitý (E 171)"
+    },
+    {
+      "nazev": "arabská klovatina"
+    },
+    {
+      "nazev": "koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "makrogol 6000"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "přecitlivělost na léčivou látku nebo na kteroukoliv pomocnou látku přípravku, obstrukce střeva, významný stupeň obstrukce v odtoku moči z měchýře, myasthenia gravis, intestinální atonie, těžká colitis ulcerosa, toxické megakolon, nekontrolovaný glaukom s uzavřeným úhlem, střední nebo těžká porucha funkce jater, tachyarytmie"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "tricyklických antidepresiv (např. imipramin), trankvilizérů (např. benzodiazepiny), anticholinergik (jsou-li podávána systémově), amantadinu, neuroleptik (např. fenothiazinů) a agonistů beta-adrenoceptoru (beta-sympatomimetik)",
+      "druh_interakce": "zvýšení účinků"
+    },
+    {
+      "nazev_latky": "cholinergik",
+      "druh_interakce": "snížení účinků"
+    },
+    {
+      "nazev_latky": "isoniazid",
+      "druh_interakce": "pokles krevního tlaku"
+    },
+    {
+      "nazev_latky": "metoklopramid",
+      "druh_interakce": "účinek prokinetik se může snížit"
+    },
+    {
+      "nazev_latky": "jiné léčivé látky, metabolizované cytochromem P450 3A4 (CYP3A4)",
+      "druh_interakce": "farmakokinetické interakce"
+    }
+  ],
+  "tehotenstvi": [
+    "Propiverin se během těhotenství nedoporučuje."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "hypersenzitivita",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "neklid, zmatenost",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "halucinace",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "bolesti hlavy",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "tremor, závrať, poruchy chuti",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "poruchy řeči",
+      "frekvence_vyskytu": "není známo"
+    },
+    {
+      "nazev": "poruchy akomodace, zhoršení zraku",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "tachykardie",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "palpitace",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "snížený krevní tlak s ospalostí, zrudnutí",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "sucho v ústech",
+      "frekvence_vyskytu": "velmi časté"
+    },
+    {
+      "nazev": "obstipace, bolest břicha, dyspepsie",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "nauzea/zvracení",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "svědění",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "vyrážka",
+      "frekvence_vyskytu": "vzácné"
+    },
+    {
+      "nazev": "retence moči, symptomy močového měchýře a močové trubice",
+      "frekvence_vyskytu": "méně

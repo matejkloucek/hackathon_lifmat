@@ -32,8 +32,10 @@ def get_medicine_detail(medicine_id: int):
                                             "units": ingredient_with_dosage.units
                                             } for ingredient_with_dosage
                                            in medicine.active_ingredients_with_dosage],
+                                       "pdf_dropbox_link": medicine.pdf_dropbox_link
                                        } for medicine
-                                      in get_alternative_medicines(medicine_entity)]
+                                      in get_alternative_medicines(medicine_entity)],
+            "pdf_dropbox_link": medicine_entity.pdf_dropbox_link
             }
 
 

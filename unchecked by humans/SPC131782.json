@@ -1,0 +1,77 @@
+{
+  "nazev_pripravku": "Morysa 10 mg potahované tablety, Morysa 20 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "Memantini hydrochloridum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Memantini hydrochloridum",
+      "mnozstvi": 20,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Sodík",
+      "mnozstvi": 0.704,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "Sodík",
+      "mnozstvi": 1.408,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Mikrokrystalická celulosa"
+    },
+    {
+      "nazev": "Koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "Sodná sůl kroskarmelosy"
+    },
+    {
+      "nazev": "Hypromelosa 2910"
+    },
+    {
+      "nazev": "Mastek"
+    },
+    {
+      "nazev": "Magnesium-stearát"
+    },
+    {
+      "nazev": "Makrogol 400"
+    },
+    {
+      "nazev": "Oxid titaničitý (E171)"
+    },
+    {
+      "nazev": "Žlutý oxid železitý (E172)"
+    },
+    {
+      "nazev": "Červený oxid železitý (E172)"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "L-dopa, dopaminergní agonisté, anticholinergika, barbituráty, neuroleptika, myorelaxancia dantrolen, baklofen",
+      "druh_interakce": "Zvýšení účinku"
+    },
+    {
+      "nazev_latky": "Amantadin, ketamin, dextromethorfan",
+      "druh_interakce": "Riziko farmakotoxické psychózy"
+    },
+    {
+      "nazev_latky": "Cimetidin, ranitidin, prokainamid, chinidin, chinin, nikotin",
+      "druh_interakce": "Možné riziko zvýšení plazmatických hladin"
+    },
+    {
+      "nazev_latky": "Hydrochlorothiazid (HTC)",
+      "dru

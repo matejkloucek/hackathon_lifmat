@@ -1,0 +1,41 @@
+{
+  "nazev_pripravku": "Vzduch medicinální syntetický Linde medicinální plyn, stlačený",
+  "slozeni": [
+    {
+      "nazev": "Oxygenum",
+      "mnozstvi": "21,0 – 22,4",
+      "jednotky": "% V/V"
+    },
+    {
+      "nazev": "Pomocné látky",
+      "mnozstvi": "",
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Dusík"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Neexistují žádné absolutní kontraindikace"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Vzduch medicinální syntetický může být používán během těhotenství."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "None",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

@@ -1,0 +1,97 @@
+{
+  "nazev_pripravku": "Claritine 10 mg tablety",
+  "slozeni": [
+    {
+      "nazev": "loratadinum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktózy",
+      "mnozstvi": 71.3,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "kukuřičný škrob",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "magnézium-stearát",
+      "mnozstvi": null,
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "monohydrát laktózy"
+    },
+    {
+      "nazev": "kukuřičný škrob"
+    },
+    {
+      "nazev": "magnézium-stearát"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "alkohol",
+      "druh_interakce": "žádné potencující účinky"
+    },
+    {
+      "nazev_latky": "inhibitory CYP3A4 nebo CYP2D6",
+      "druh_interakce": "možné zvýšení hladin loratadinu a zvýšený výskyt nežádoucích účinků"
+    }
+  ],
+  "tehotenstvi": [
+    "Nedoporučuje se užívání přípravku Claritine během těhotenství."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "velmi časté (≥ 1/10)"
+    },
+    {
+      "nazev": "nervozita",
+      "frekvence_vyskytu": "velmi časté (≥ 1/10)"
+    },
+    {
+      "nazev": "únava",
+      "frekvence_vyskytu": "velmi časté (≥ 1/10)"
+    },
+    {
+      "nazev": "somnolence",
+      "frekvence_vyskytu": "časté (≥ 1/100 až < 1/10)"
+    },
+    {
+      "nazev": "zvýšená chuť k jídlu",
+      "frekvence_vyskytu": "časté (≥ 1/100 až < 1/10)"
+    },
+    {
+      "nazev": "bolest hlavy",
+      "frekvence_vyskytu": "méně časté (≥ 1/1 000 až < 1/100)"
+    },
+    {
+      "nazev": "insomnie",
+      "frekvence_vyskytu": "méně časté (≥ 1/1 000 až < 1/100)"
+    },
+    {
+      "nazev": "vyrážka",
+      "frekvence_vyskytu": "velmi vzácné (< 1/10 000)"
+    },
+    {
+      "nazev": "alopecie",
+      "frekvence_vyskytu": "velmi vzácné (< 1/10 000)"
+    },
+    {
+      "nazev": "únava",
+      "frekvence_vyskytu": "velmi vzácné (< 1/10 000)"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

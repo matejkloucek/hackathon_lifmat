@@ -35,6 +35,7 @@ class Medicine(db.Model):
     name = Column(TEXT, nullable=False)
     contraindications = Column(ARRAY(TEXT), nullable=False)
     adverse_effects = Column(ARRAY(TEXT), nullable=False)
+    pdf_dropbox_link = Column(TEXT, nullable=True)
     negative_interactions_1 = db.relationship(
         "Medicine",
         secondary=medicine_interaction,
