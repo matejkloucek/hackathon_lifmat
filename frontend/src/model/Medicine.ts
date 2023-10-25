@@ -1,5 +1,6 @@
 import { ActiveIngredient } from "./ActiveIngredient";
 import { NegativeInteractions } from "./NegativeInteractions";
+import { AlternativeMedicine } from "./AlternativeMedicine";
 
 export type Medicine = {
   id: number;
@@ -7,6 +8,7 @@ export type Medicine = {
   suklCode: number;
   contraindications: string[];
   adverseEffects: string[];
+  alternativeMedicines: AlternativeMedicine[];
   activeIngredients: ActiveIngredient[];
   negativeInteractions: NegativeInteractions[];
 };
