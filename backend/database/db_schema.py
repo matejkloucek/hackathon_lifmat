@@ -1,7 +1,7 @@
 from flask_sqlalchemy import SQLAlchemy
 
 from sqlalchemy.schema import Column, ForeignKey
-from sqlalchemy.types import INTEGER, TEXT, ARRAY
+from sqlalchemy.types import INTEGER, TEXT, ARRAY, FLOAT
 
 db = SQLAlchemy()
 
@@ -35,9 +35,15 @@ class Medicine(db.Model):
     name = Column(TEXT, nullable=False)
     contraindications = Column(ARRAY(TEXT), nullable=False)
     adverse_effects = Column(ARRAY(TEXT), nullable=False)
-    negative_interactions = db.relationship("Medicine", secondary=medicine_interaction,
-                                            primaryjoin=medicine_interaction.c.medicine_1_id == id,
-                                            secondaryjoin=medicine_interaction.c.medicine_2_id == id)
+    negative_interactions_1 = db.relationship(
+        "Medicine",
+        secondary=medicine_interaction,
+        primaryjoin=(medicine_interaction.c.medicine_1_id == id),
+        secondaryjoin=(medicine_interaction.c.medicine_2_id == id),
+        backref=db.backref('negative_interactions_2', lazy='dynamic'),
+        lazy='dynamic'
+    )
+
     active_ingredients_with_dosage = db.relationship('ActiveIngredientInMedicine', backref='medicine')
 
 
@@ -45,7 +51,7 @@ class ActiveIngredientInMedicine(db.Model):
     id = Column(INTEGER, primary_key=True, autoincrement=True, nullable=False)
     active_ingredient_id = Column(INTEGER, ForeignKey('active_ingredient.id'))
     medicine_id = Column(INTEGER, ForeignKey('medicine.id'))
-    dosage = Column(INTEGER, nullable=True)
+    dosage = Column(FLOAT, nullable=True)
     units = Column(TEXT, nullable=True)
 
 

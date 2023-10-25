@@ -24,10 +24,10 @@
   ],
   "ostatni_latky": [
     {
-      "nazev": "Monohydrát kyseliny citronové",
+      "nazev": "Monohydrát kyseliny citronové"
     },
     {
-      "nazev": "Voda pro injekci",
+      "nazev": "Voda pro injekci"
     }
   ],
   "kontraindikace": [
@@ -144,5 +144,5 @@
       "nazev": "Hyponatremická encefalopatie",
       "frekvence_vyskytu": "Není známo"
     }
-  ],
-  "inkompatibility": "Nepodává se infuzní soupravou současně s pl
+  ]
+}

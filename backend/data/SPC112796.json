@@ -29,7 +29,7 @@
   ],
   "negativni_interakce": [
     {
-      "nazev_latky": None
+      "nazev_latky": null,
       "druh_interakce": "Neočekává se"
     }
   ],
