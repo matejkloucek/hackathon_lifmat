@@ -1,0 +1,371 @@
+Sp. zn. sukls117225/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Regiocit roztok pro hemofiltraci
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Složení:
+Natrii chloridum            5,03 g/l
+Natrii citras               5,29 g/l
+
+Natrium, Na⁺              140 mmol/l
+Chloridum, Cl⁻             86 mmol/l
+Citras, C6H5O ³⁻             18 mmol/l
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Roztok pro hemofiltraci
+Roztok je sterilní, čirý, bezbarvý a bez přítomnosti bakteriálních endotoxinů.
+
+Teoretická osmolarita: 244 mosmol/l
+pH ≈ 7,4
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Přípravek Regiocit je určen jako náhradní roztok pro kontinuální náhradu funkce ledvin (CRRT) za použití regionální citrátové antikoagulace. Citrát je důležitý především v případech, kdy je systémová antikoagulace heparinem kontraindikována, např. u pacientů se zvýšeným rizikem krvácení.
+
+U pediatrických pacientů je přípravek Regiocit indikován ve všech věkových skupinách pod podmínkou, že je použité vybavení přizpůsobeno tělesné hmotnosti dítěte.
+
+4.2  Dávkování a způsob podání
+Dávkování
+Rychlost podávání přípravku Regiocit závisí na cílené dávce citrátu a předepsaném průtoku krve (BFR). Při předepisování přípravku Regiocit je nutné uvážit rychlosti průtoku odpadního a dalších terapeutických roztoků,  požadavky  pacienta  na  odstranění  tekutin,  další  příjem  a výdej  tekutin  a požadovanou acidobazickou a elektrolytovou rovnováhu. Pouze lékař se zkušenostmi s léky pro akutní péči a CRRT (kontinuální náhradou funkce ledvin) smí předepsat a stanovit podávání přípravku Regiocit (dávku, rychlost infuze a kumulativní objem).
+
+Rychlost infuze přípravku Regiocit před filtrem musí být předepsána a uzpůsobena podle rychlosti průtoku
+krve pro dosažení cílové koncentrace citrátu v krvi 3 až 4 mmol/l krve.
+
+
+
+
+1
+
+Rychlost průtoku antikoagulantu v mimotělním okruhu je třeba titrovat, aby bylo dosaženo koncentrace ionizovaného kalcia za filtrem v rozmezí 0,25 až 0,35 mmol/l. Pacientovu systémovou koncentraci ionizovaného kalcia je třeba udržovat v normálním fyziologickém rozmezí úpravou kalciových doplňků.
+
+Citrát rovněž působí jako zdroj pufru (kvůli přeměně na hydrogenuhličitan); rychlost infuze přípravku Regiocit musí být zvážena ve vztahu k rychlosti podávání pufru z jiných zdrojů (např. dialyzát a/nebo náhradní roztok). Přípravek Regiocit musí být používán spolu s dialyzačním/náhradním roztokem s příslušnou koncentrací hydrogenuhličitanu.
+
+Vždy je nutné podávat samostatnou infuzi kalcia. Při zastavení antikoagulace upravte nebo zastavte infuzi
+kalcia podle lékařského předpisu.
+
+Sledování krevního ionizovaného kalcia (iCa) za filtrem, systémového krevního iCa a celkových hladin kalcia v krvi ve spojení s dalšími laboratorními a klinickými parametry je nezbytné pro stanovení vhodného dávkování přípravku Regiocit na základě požadované úrovně antikoagulace (viz bod 4.4).
+
+Plazmatické hladiny sodíku, hořčíku, draslíku a fosfátu mají být pravidelně sledovány a podle potřeby doplněny.
+
+Rychlosti průtoku přípravku Regiocit u dospělých a dospívajících:
+•  Při kontinuální veno-venózní hemofiltraci
+o 1–2,5 l/h s rychlostí průtoku krve mezi 100 a 200 ml/min.
+•  Při kontinuální veno-venózní hemodiafiltraci
+o 1–2 l/h s rychlostí průtoku krve mezi 100 a 200 ml/min.
+Pediatrická populace:
+U novorozenců a kojenců (ve věku 0 až 23 měsíců) má mít přípravek Regiocit cílovou dávku 3 mmol citrátu na litr průtoku krve v kontinuální veno-venózní hemofiltraci nebo hemodiafiltraci. U dětí (ve věku 2 až 11 let) je třeba dávku upravit podle tělesné hmotnosti pacienta i rychlosti průtoku krve.
+
+Zvláštní skupiny pacientů:
+U starších pacientů není v porovnání s dospělými nutná žádná specifická úprava dávkování.
+
+Porucha funkce jater nebo šok:
+U pacientů s mírnou až středně těžkou poruchou funkce jater (např. Child-Pugh skóre ≤12) může být zapotřebí snížit dávku. V případě poruchy funkce jater (zahrnuje např. jaterní cirhózu) je třeba počáteční startovací dávku citrátu snížit, neboť jeho metabolismus může být nedostatečný (viz bod 4.4). Doporučuje se časté sledování hromadění citrátu. Přípravek Regiocit nesmí být podáván pacientům se závažně sníženou funkcí jater nebo šokem se svalovou hypoperfuzí (např. stavy, jako je septický šok a laktátová acidóza) kvůli omezenému metabolismu citrátu (viz bod 4.3).
+Způsob podání
+Intravenózní podání. Přípravek Regiocit se musí používat pouze s vhodným mimotělním zařízením pro náhradu funkce ledvin určeným k CRRT v predilučním režimu s použitím specializované pumpy pro citrátovou antikoagulaci, kde se rychlost průtoku roztoku automaticky přizpůsobí cílové dávce nastavené obsluhou (mmol citrátu/l krve).
+
+Přípravek Regiocit smí být používán pouze lékařem kompetentním podat regionální citrátovou antikoagulaci
+v CRRT nebo pod jeho dohledem.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Těžká porucha funkce jater.
+Šok se svalovou hypoperfuzí.
+
+
+
+2
+
+4.4  Zvláštní upozornění a opatření pro použití
+Přípravek Regiocit není určen k přímé intravenózní infuzi. Smí se používat pouze predilučně s vhodným mimotělním zařízením pro náhradu funkce ledvin určeným k CRRT. Dialyzační přístroj musí být vhodný k citrátové antikoagulaci.
+Pro lepší komfort pacienta je možné přípravek Regiocit ohřát na teplotu 37 °C. Ohřívání roztoku před použitím je třeba provádět pouze pomocí suchého tepla. Roztoky se nemají ohřívat ve vodě ani v mikrovlnné troubě z důvodu možného poškození nebo diskomfortu pacienta. Před podáním má být přípravek Regiocit vizuálně zkotrolován, zda neobsahuje částice a zda nedošlo ke změně zabarvení, kdykoli to roztok a jeho obal umožňují. Roztok nepodávejte, pokud není čirý a svary jsou porušeny.
+Použijte pouze v případě, že jsou přebal a vak s roztokem nepoškozené. Použití kontaminovaného roztoku může vést k sepsi a šoku.
+Vzhledem ke složení přípravku Regiocit musí mít další roztoky použité k léčbě odpovídající koncentraci
+hydrogenuhličitanu.
+Přípravek Regiocit obsahuje citrát, který může ovlivnit pacientovu elektrolytovou a acidobazickou rovnováhu. Před léčbou a během ní je nutné důkladně sledovat pacientův hemodynamický stav, bilanci tekutin, glykemii, rovnováhu elektrolytů a acidobazickou rovnováhu.
+
+Pečlivě sledujte hladinu sodíku, hořčíku, draslíku, fosfátu a vápníku. Několikrát během dne je nutné vyhodnotit koncentraci v krvi a další potřeby pacienta, a to včetně zhodnocení příjmu infuzí a celkového výdeje. K doplnění jakékoli ztráty může být zapotřebí infuze elektrolytů (viz body 4.8 a 4.9).
+
+Přípravek Regiocit neobsahuje kalcium a může vést k systémové ionizované hypokalcemii v důsledku ztráty
+kalcia vázaného na citrát v odpadním roztoku a/nebo v případě systémového hromadění citrátu.
+Přípravek Regiocit neobsahuje hořčík. Použití přípravku Regiocit může mít za následek hypomagnesemii způsobenou ztrátami v odpadním roztoku CRRT. Pacient má být sledován z důvodu případné nutnosti infuze hořčíku.
+Přípravek Regiocit neobsahuje glukózu. Podávání přípravku Regiocit může vést k hypoglykemii. Glykemie se má pravidelně sledovat.
+Přípravek Regiocit neobsahuje draslík. Před léčbou a během léčby CRRT musí být sledována koncentrace
+draslíku v séru.
+Hromadění citrátu z důvodu metabolického selhání:
+Zvláštní pozornost je třeba věnovat pacientům se selháním jater (zahrnuje např. jaterní cirhózu nebo akutní selhání jater) nebo šokem (viz body 4.2 a 4.3), neboť metabolismus citrátu u nich může být významně snížen a tito pacienti mohou být vystaveni jeho hromadění. Pokud je u těchto pacientů použita hemofiltrace, doporučuje se častější sledování hromadění citrátu.  Pokud játra a kosterní svaly přestanou citrát metabolizovat, nedochází k tvorbě hydrogenuhličitanu a citrát se může hromadit. Dochází pak k metabolické acidóze a ionizované hypokalcemii. Hromadění citrátu lze zjistit sledováním koncentrace ionizovaného kalcia,  celkového  kalcia  a hydrogenuhličitanu  v krvi.  Pokud  se  citrát  hromadí,  poměr  celkového a ionizovaného kalcia v krvi roste. Pokud poměr celkového/ionizovaného kalcia vzroste nad 2,3, citrátový pufr je třeba snížit nebo zastavit. Aby se metabolická acidóza napravila, je třeba nahradit hydrogenuhličitan. V CRRT lze pokračovat bez antikoagulace nebo lze zvážit jiný typ antikoagulace.
+
+Hromadění citrátu z důvodu nevhodné infuze:
+Nevhodná infuze příliš velkého množství citrátu (viz také bod 4.9) způsobuje akutní hypokalcemii a metabolickou alkalózu a může pacienta vystavit neurologickým a srdečním komplikacím. Léčba sestává z přerušení infuze citrátu a podání infuze kalcia.
+
+
+
+
+3
+
+Systémová hypokalcemie (nízká hladina ionizovaného kalcia) může vzniknout v důsledku dvou různých mechanismů:
+•  Nedostatečnou kompenzací ztrát kalcia s citrátem přes filtr (nízká hladina ionizovaného kalcia a nízká hladina celkového kalcia), která vyžaduje úpravu rychlosti průtoku roztoku kalcia za účelem jeho doplnění.
+•  Hromadění  citrátu  v důsledku  špatného  metabolismu  v játrech  a svalech  (vysoký  poměr celkového/ionizovaného kalcia), což vyžaduje částečný nebo úplný přechod z přípravku Regiocit na náhradní roztok bez citrátu (kontinuální veno-venózní hemofiltrace) nebo kombinaci snížení či zastavení rychlosti průtoku přípravku Regiocit a zvýšení rychlosti průtoku dialyzátu, aby se zvýšilo odstraňování citrátu (kontinuální veno-venózní hemodiafiltrace).
+
+Systémová hyperkalcemie
+K vysoké hladině celkového kalcia s vysokou hladinou ionizovaného kalcia může dojít důsledkem nadměrné perfuze náhradního roztoku s kalciem. Tato situace vyžaduje snížení rychlosti průtoku roztoku s kalciem.
+Výsledkem hromadění kalcium-citrátu vzhledem k nadměrné rychlosti průtoku citrátu nebo neschopnosti metabolizovat jeho dostatečné množství je vysoká hladina celkového kalcia s vysokým poměrem celkového kalcia k ionizovanému kalciu. Tato situace má vést ke snížení nebo přerušení infuze s citrátem.
+
+Metabolická acidóza
+Pokud játra a kosterní svaly nedokážou zajistit adekvátní metabolismus kyseliny citronové, může docházet k hromadění citrátu, což se může projevit při jaterní cirhóze nebo akutním selhání jater. V těchto případech se kyselina citronová hromadí, což vede ke vzniku metabolické acidózy. U těchto pacientů také roste klasické aniontové okno, což odráží zvýšení hladiny ionizovaného citrátu. Ve většině případů se také hromadí laktát.
+Metabolickou acidózu v důsledku selhání metabolizace kyseliny citronové lze časně diagnostikovat rutinním sledováním metabolismu.
+Pokud se během léčby přípravkem Regiocit začne hromadit citrát a/nebo se rozvine či zhorší metabolická acidóza, může být nutné snížit rychlost infuze nebo její podávání zastavit.
+
+Metabolická alkalóza
+Někteří pacienti vyžadují a dobře snášejí vysoké rychlosti infuze citrátu, které slouží k tomu, aby se hladiny ionizovaného kalcia v mimotělním okruhu udržely v požadovaném rozmezí. Přípravek Regiocit obsahuje citrát, který přispívá k celkovému zatížení pufru. Přídavný hydrogenuhličitan sodný (nebo zdroj pufru) obsažený v roztocích CRRT nebo v jiných roztocích podávaných během léčby může zvýšit riziko metabolické alkalózy. Metabolická alkalóza může nastat, pokud čistá rychlost podávání citrátu překračuje rychlost potřebnou k udržení acidobazické rovnováhy (viz bod 4.2).
+
+Tu lze zvládnout snížením rychlosti průtoku krve, čímž se umožní snížení rychlosti infuze citrátu pacientovi. Metabolickou alkalózu lze rovněž zvládnout zvýšením rychlosti průtoku dialyzátu (čímž se také udržuje dávka při CRRT) a infuzí 0,9% chloridu sodného postfiltračně nebo změnou složení roztoku CRRT. Hromadění citrátu s metabolickou alkalózou a hypokalcemií se rovněž může objevit, pokud pacient dostal velký objem krevních produktů obsahujících citrát a dávka pro CRRT je příliš nízká.
+
+U pacientů s metabolickou alkalózou se mají pravidelně sledovat hladiny kalcia v krvi, protože tento stav může zesílit hypokalcemii.
+
+Použití u pacientů s poruchou funkce jater
+Metabolismus citrátu (na hydrogenuhličitan) může být u pacientů s poruchou funkce jater snížen, což má za následek hromadění citrátu. Pokud je přípravek Regiocit podáván pacientům s mírnou až středně těžkou poruchou funkce jater (např. Child-Pugh skóre ≤12), je pro zabránění elektrolytové a/nebo acidobazické nerovnováze důležité provádět časté sledování pH, elektrolytů, poměru celkového/ionizovaného kalcia a systémového ionizovaného kalcia (viz bod 4.2). Regiocit nemá být používán u pacientů s těžkou poruchou funkce jater (viz bod 4.3).
+
+
+
+4
+
+Hemodynamický stav a bilance tekutin
+V průběhu celé procedury má být sledován hemodynamický stav pacienta a bilance tekutin.
+•  V případě hypervolemie může být zvýšena rychlost čisté ultrafiltrace předepsané pro zařízení CRRT a/nebo může být snížena rychlost podávání roztoků jiných, než jsou náhradní roztoky, a/nebo dialyzačního roztoku.
+•  V případě hypovolemie může být snížena rychlost čisté ultrafiltrace předepsané pro zařízení CRRT a/nebo může být zvýšena rychlost podávání roztoků jiných, než jsou náhradní roztoky, a/nebo dialyzačního roztoku.
+
+Hypoosmolarita/hypotonicita
+Přípravek Regiocit je hypoosmolární/hypotonický ve srovnání se standardními CRRT náhradními roztoky a má být používán s opatrností u pacientů s traumatickým poraněním mozku, mozkovým edémem nebo zvýšeným intrakraniálním tlakem.
+
+Je třeba důsledně dodržovat návod k použití. Nesprávné použití přístupových portů nebo jiné omezení průtoku tekutin může vést k nesprávnému úbytku tělesné hmotnosti pacienta a přístroj může spustit varovná hlášení. Pokračování v léčbě bez vyřešení původní příčiny může vést k poranění pacienta nebo jeho smrti.
+Použijte pouze v případě, že je roztok čirý a neobsahuje žádné viditelné částice.
+CRRT vede k odstranění sodíku úměrně obsahu sodíku v plazmě. Aby se zabránilo poklesu hladiny sodíku v krvi pacienta (hyponatremie), musí být součástí celkové kontroly tekutin a elektrolytů vyrovnávání sodíkových ztrát (viz bod 4.8). Podávání dialyzačních tekutin v rámci CRRT i těch mimo předpis CRRT vyžaduje důkladné vyhodnocení.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Koncentrace filtrovatelných/dialyzovatelných léků v krvi se může během léčby snížit kvůli jejich odstranění mimotělním filtrem. Pokud je u léků odstraněných během léčby zapotřebí znovu dosáhnout požadovaných krevních koncentrací, použije se odpovídající nápravná léčba.
+
+Mezi konstituenty přípravku Regiocit nejsou očekávány žádné farmakodynamické lékové interakce. Interakce lze očekávat pouze v případě neadekvátního nebo nesprávného léčebného použití roztoku (viz body 4.4 a 4.9).
+
+Jsou však možné následující interakce s léčivými přípravky obsahujícími:
+• vitamin D a další analoga vitaminu D, stejně jako léčivé přípravky obsahující kalcium (např. chlorid vápenatý nebo kalcium-glukonát používané k udržení homeostázy kalcia u pacientů s CCRT, kteří dostávají citátovou antikoagulaci), mohou zvýšit riziko hyperkalcemie a mít za následek snížení antikoagulačního účinku.
+• hydrogenuhličitan sodný, který může zvyšovat riziko vysoké koncentrace hydrogenuhličitanu v krvi
+(metabolická alkalóza – viz bod 4.8).
+
+4.6  Fertilita, těhotenství a kojení
+Fertilita:
+Nejsou očekávány žádné účinky na fertilitu, neboť sodík, chlorid a citrát jsou normálními složkami těla.
+
+Těhotenství a kojení:
+Nejsou zdokumentovány žádné klinické údaje o použití přípravku Regiocit během těhotenství a kojení. Přípravek Regiocit smí být podáván těhotným a kojícím ženám pouze v případě jednoznačné potřeby.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Není známo, že by přípravek Regiocit ovlivňoval schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+5
+
+K nežádoucím účinkům může dojít vlivem podání roztoku Regiocit nebo dialyzační léčby. Zvláštní opatření
+pro použití byla popsána v bodě 4.4.
+Následující nežádoucí účinky byly popsány v publikované literatuře (velmi časté (≥1/10), časté (≥1/100 až
+<1/10), méně časté (≥1/1000 až <1/100), vzácné (≥1/10000 až <1/1000), velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit):
+
+Poruchy metabolismu a výživy
+
+Časté
+
+
+
+
+
+
+Není známo
+
+
+Cévní poruchy
+Elektrolytová nerovnováha, např. hypomagnesemie (viz bod 4.4), hypokalcemie (viz body 4.4. a 4.9), hyperkalcemie (viz bod 4.4), hyponatremie  (viz  bod  4.4),  hypokalemie  (viz  bod  4.4), hypofosfatemie (viz bod 4.4)
+Poruchy acidobazické rovnováhy zahrnující metabolickou acidózu
+(viz body 4.4 a 4.9) a metabolickou alkalózu (viz body 4.4, 4.5 a 4.9) Retence tekutin
+Nerovnováha tekutin, např. dehydratace (viz bod 4.4)
+Není známo        Hypotenze*
+Gastrointestinální poruchy
+Není známo        Nauzea*
+Zvracení*
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Není známo        Svalové spazmy*
+* Nežádoucí účinky související s dialyzační léčbou.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Nežádoucí podání příliš vysokých objemů náhradních roztoků může vést k předávkování, což může u pacienta způsobit život ohrožující situaci. V souvislosti s předávkováním tekutinami může dojít k plicnímu edému a městnavému srdečnímu selhání a vlivem přetížení citrátem v krevním řečišti k hypokalcemii (viz bod 4.4) a metabolické alkalóze (viz bod 4.4). Tuto nerovnováhu je nutné neprodleně napravit zastavením objemu náhradního roztoku a intravenózním podáním kalcia. Pečlivé doplnění kalcia může zvrátit účinky předávkování. Riziko může být sníženo pečlivým sledováním pacienta během léčby.
+
+U pacientů s poruchou citrátového metabolismu (selhání jater nebo šok) se může předávkování projevit jako hromadění citrátu, metabolická acidóza (viz bod 4.4), systémová celková hyperkalcemie (viz bod 4.4) a hypokalcemie  ionizovaného  kalcia  (viz  body 4.4  a 4.8)  spolu  se  zvýšeným  poměrem  celkového kalcia/ionizovaného kalcia.
+Podávání přípravku Regiocit má proto být sníženo nebo zastaveno.
+
+
+
+6
+
+Aby se metabolická acidóza napravila, je třeba nahradit hydrogenuhličitan. V kontinuální náhradě funkce
+ledvin lze pokračovat bez antikoagulace nebo se musí zvážit jiný typ antikoagulace.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Hemofiltrační roztoky ATC kód: B05ZB
+
+Citrát umožňuje antikoagulaci svou schopností vytvářet komplexy s ionizovaným kalciem, čímž zablokuje koagulační kaskádu. U přípravku Regiocit byla koncentrace sodíku nastavena na 140 mmol/l, jelikož kriticky nemocní pacienti jsou náchylní k rozvoji těžké hyponatremie. Chlorid je nastaven na hladinu potřebnou k rovnováze kationtů, neboť roztok neobsahuje hydrogenuhličitan. Sodík a chlorid jsou normálními složkami lidského těla a jsou považovány za farmakologicky neaktivní. Citrát je normální metabolit lidského těla, který působí jako první meziprodukt Krebsova cyklu. Regiocit je zbaven draslíku a glukózy. Při použití přípravku Regiocit v terapeutické dávce se neočekávají žádné toxické účinky.
+
+5.2  Farmakokinetické vlastnosti
+Citrát je normální metabolit lidského těla a meziprodukt Krebsova cyklu. Tato fyziologická dráha je schopna zpracovat velké množství kyseliny citronové, dokud se vyskytuje v nízkých koncentracích. Krebsův cyklus probíhá v mitochondriích a všechny buňky obsahující tyto buněčné organely mohou citrát metabolizovat. Tkáně bohaté na mitochondrie (např. játra, kosterní svaly a ledviny) mají proto vyšší kapacitu k vytváření a eliminaci citrátu.
+Absorpce a distribuce
+Absorpce a distribuce sodíku a chloridů závisí na klinickém a metabolickém stavu pacienta a reziduální funkci jeho ledvin. Extracelulární citrát se může transportovat z krve do buněk přes cytoplazmatickou membránu prostřednictvím skupiny proteinů, tj. pomocí transportérů citrátu v cytoplazmatické membráně (PMCT), a poté je metabolizován v různých orgánech a tkáních.
+
+Biotransformace
+Jak již bylo zmíněno výše, citrát je u člověka meziproduktem v hlavní metabolické dráze zvané Krebsův cyklus. Citrát se rychle metabolizuje především v játrech, ale může být metabolizován rovněž jinými orgány/tkáněmi.
+
+Eliminace
+Nadbytek cirkulujícího citrátu se běžně vylučuje ledvinami.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neexistují žádné relevantní předklinické údaje vztahující se ke klinické bezpečnosti kromě údajů obsažených
+v jiných bodech tohoto souhrnu údajů o přípravku.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Voda pro injekci
+Zředěná kyselina chlorovodíková (k úpravě pH) E 507
+
+6.2  Inkompatibility
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+Lékař je zodpovědný za stanovení kompatibility přidávaných léků s tímto léčivým přípravkem kontrolou, zda nedošlo ke změně barvy roztoku a/nebo možné precipitaci. Před přidáním dalšího přípravku ověřte, že je v tomto přípravku rozpustný a stabilní.
+
+
+7
+
+6.3  Doba použitelnosti
+18 měsíců
+
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání. Chraňte před mrazem.
+
+6.5  Druh obalu a obsah balení
+Balení  představuje  jednokomorový  vak  vyrobený  z vícevrstvého  filmu  obsahujícího  polyolefiny a elastomery. Vak je vybaven injekčním konektorem (nebo jehlovou spojkou) a konektorem luer k připojení vhodné linky s hemofiltračním roztokem nebo linky pumpy před krví (pre-blood pump line) Vak obsahuje 5 000 ml roztoku a je zabalen v průhledném přebalu vyrobeném z polymerního filmu. Jedna krabice obsahuje dva vaky a jednu příbalovou informaci.
+Velikost balení: 2 x 5 000 ml v krabici
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Roztok lze zlikvidovat vylitím do odpadních vod, aniž by došlo k poškození životního prostředí.
+
+Je třeba postupovat podle následujícího návodu k použití:
+
+Při manipulaci a aplikaci pacientovi je nutné dodržovat aseptickou techniku. Přebal z vaku sundejte až bezprostředně před jeho použitím. Používejte pouze v případě, že přebal není poškozen, všechny svary jsou neporušené a roztok je čirý. Vak silně stiskněte a ověřte, že neprosakuje. Pokud zjistíte netěsnost, ihned roztok zlikvidujte, jelikož již nelze zaručit sterilitu přípravku. Aby se zabránilo mikrobiální kontaminaci, má být roztok použit ihned po otevření.
+
+I. Pokud použijete konektor typu luer, nejprve odstraňte jeho kryt (otočením a tahem). Připojte zástrčku typu luer lock (male luer lock) na lince pumpy před krví k zásuvce konektoru typu luer (female luer connector) na vaku (zatlačte na ni a zároveň jí otáčejte). Ujistěte se, že na sebe oba díly přesně nasedají a spojení je utaženo. Konektor je nyní otevřený. Ověřte, zda může tekutina volně téct. Po odpojení linky pumpy před krví od konektoru typu luer se konektor uzavře a roztok přestane téct. Konektor luer je bezjehlový port, který lze čistit.
+
+II. Pokud použijete injekční konektor (nebo jehlovou spojku), nejprve odstraňte jeho kryt. Zaveďte hrot jehly přes pryžovou přepážku. Ověřte, zda může tekutina volně téct.
+
+Před přidáním látky nebo léku zkontrolujte, zda jsou v přípravku Regiocit rozpustné a stabilní a že rozsah pH
+je vyhovující. Aditiva, o kterých je známo nebo určeno, že jsou inkompatibilní, nesmí být přidávána. Pročtěte si návod k použití léčiv, která se mají přidávat, a další relevantní odbornou literaturu.
+Nepoužívejte, pokud dojde po přidání ke změně zabarvení a/nebo vzniku sraženin, nerozpustných komplexů nebo krystalů.
+Po přidání aditiv roztok důkladně promíchejte. Přidávání a míchání aditiv musí být vždy provedeno ještě před připojením vaku s roztokem k mimotělnímu okruhu.
+Roztok je určen pouze k jednorázovému použití. Veškerý nepoužitý roztok zlikvidujte.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Baxter Holding B.V. Kobaltweg 49
+3542 CE Utrecht Nizozemsko
+
+
+
+8
+
+8.  REGISTRAČNÍ ČÍSLO/ČÍSLA
+
+87/081/15-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 25. 2. 2015
+Datum posledního prodloužení registrace:
+
+
+10.  DATUM REVIZE TEXTU
+28. 5. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9

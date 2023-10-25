@@ -1,0 +1,368 @@
+sp.zn. sukls147226/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+OctreoScan 111 MBq/ml,
+Kit pro radiofarmakum
+(Katalogové číslo Curium Netherlands: DRN 4920)
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+2.1 Obecný popis
+Fyzikální charakteristiky ¹¹¹In:
+Indium(¹¹¹In) se přeměňuje s poločasem 2,83 dní na stabilní kadmium (¹¹¹Cd). Charakteristika emitovaného záření:
+záření gama:       172 keV   (90 % relat.zastoupení) 247 keV   (94 % relat.zastoupení)
+rentgenové záření:   23 - 26 keV
+
+2.2 Kvalitativní a kvantitativní složení
+Přípravek OctreoScan se skládá ze dvou lahviček, které není možno použít odděleně.
+Lahvička 4920/A obsahuje:
+Indii (¹¹¹In) chloridum         122 MBq/1,1 ml k datu a hodině kalibrace
+
+Lahvička 4920/B obsahuje:
+Pentetreotidum              10 µg
+
+Po přípravě dle návodu roztok obsahuje ¹¹¹In-pentetreotid. Pomocné látky se známým účinkem: sodík (1,2 mg/ml) Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Kit pro radiofarmakum. Kit obsahuje dvě lahvičky:
+
+Lahvička A: Prekurzor radiofarmaka. Čirý, bezbarvý roztok. Lahvička B: Prášek pro přípravu injekčního roztoku. Bílý lyofilizát.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+Indium-(¹¹¹In) pentetreotid se specificky váže na somatostatinové receptory. OctreoScan je indikován pro diagnostiku, sledování a upřesnění lokalizace gastro-entero-pankreatických neuroendokrinních
+
+
+SmPC_Octreoscan_147226-19            1/9
+
+(GEP) nádorů a karcinoidů s přítomností somatostatinových receptorů. Tumory bez somatostatinových receptorů nelze zobrazit.
+U části pacientů s GEP tumory a karcinoidy neumožňuje nízká hustota receptorů zobrazení přípravkem OctreoScan. Obzvláště asi u 50 % pacientů s inzulinomy není možné tumor zobrazit.
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dospělí a starší pacienti
+Pro SPECT závisí dávka na použitém zařízení. Obecně bývá dávka pro dospělého s tělesnou hmotností 70 kg 110 - 220 MBq jedinou intravenózní injekcí dostačující. Použití jiných aktivit musí být zdůvodněno.
+
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin je potřeba pečlivě zvážit aplikovanou aktivitu, jelikož je u nich možnost zvýšeného rizika radiační zátěže, viz bod 4.4.
+
+Pediatrická populace
+Jsou omezené zkušenosti s podáním pediatrickým pacientům; je-li aplikace dítěti nezbytná, aktivitu k aplikaci je nutné snížit podle tělesné hmotnosti nebo povrchu těla. Je výhodné použít doporučení Pediatric Task Group EANM:
+3 kg = 0,1        4 kg = 0,14        6 kg = 0,19        8 kg = 0,23
+10 kg = 0,27       12 kg = 0,32       14 kg = 0,36       16 kg = 0,40
+18 kg = 0,44       20 kg = 0,46       22 kg = 0,50       24 kg = 0,53
+26 kg = 0,56       28 kg = 0,58       30 kg = 0,62       32 kg = 0,65
+34 kg = 0,68       36 kg = 0,71       38 kg = 0,73       40 kg = 0,76
+42 kg = 0,78       44 kg = 0,80       46 kg = 0,82 4       48 kg = 0,85
+50 kg = 0,88       52-54kg= 0,90      56-58kg= 0,92      60-62kg= 0,96
+64-66kg= 0,98      68 kg = 0,99
+
+
+Způsob podání
+Léčivý přípravek je určen k jednorázovému podání. Intravenózní podání. Tento léčivý přípravek musí být před podáním pacientovi rekonstituován.
+
+Aplikaci je nutné provádět se zvláštní opatrností a vyvarovat se paravazální depozice aktivity. Návod pro přípravu pacienta – viz bod 4.4.
+Akvizice zobrazení
+Scintigrafické zobrazení se provádí asi za 24 hodin po aplikaci. Pokud je aktivita v břišní oblasti taková, že nelze s jistotou odlišit aktivitu ve střevním obsahu od vychytání v tumoru, je vhodné provést zobrazení ještě po 48 hodinách.
+Ve slezině, játrech, ledvinách a močovém měchýři nastává fyziologické vychytání. U většiny pacientů je patrná štítná žláza, hypofýza a střeva.
+
+4.3 Kontraindikace
+Hypersensitivita na účinnou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Možné hypersenzitivní či anafylaktické reakce
+
+
+
+SmPC_Octreoscan_147226-19            2/9
+
+V případě výskytu hypersenzitivní či anafylaktické reakce musí být aplikace tohoto léčivého přípravku okamžitě přerušena a je-li to nutné, má být zahájena intravenózní léčba takové reakce. Pro zajištění odpovídající léčby musejí být okamžitě k dispozici prostředky pro akutní zásah, např. tracheální trubice či prostředky pro podporu dýchacích funkcí.
+
+Individuální zvážení poměru přínosu a rizika
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+Porucha funkce ledvin
+U těchto pacientů je potřeba pečlivě zvážit aplikovanou aktivitu, jelikož je možné, že budou vystaveni vyšší expoziční zátěži.
+Nedoporučuje se aplikace pacientům se závažným selháním ledvin, které jsou hlavní eliminační cestou indium-(¹¹¹In) pentetreotidu z organismu. V takovém případě dochází ke zvýšení absorbované dávky (efektivní dávkový ekvivalent 1,9E-01 mSv/MBq). Aplikace je možná pouze v případě, že očekávaný přínos vyšetření převýší možná rizika. Scintigramy v dostačující kvalitě je možné získat po provedení hemodialýzy, kdy může být zvýšená aktivita pozadí alespoň částečně odstraněna. I po provedení dialýzy je přesto možné zaznamenat v játrech, slezině, střevech i krevním oběhu zvýšenou aktivitu než je obvyklé.
+
+Pediatrická populace
+Pro informace o pediatrické populaci viz bod 4.2.
+Indikaci je třeba důkladně zvážit, protože účinná dávka na MBq je vyšší než u dospělých (viz bod 11.).
+
+Vzhledem k možným rizikům v souvislosti s ionizujícím zářením by neměl být indium-(¹¹¹In) pentetreotid aplikován dětem mladším 18 let, pokud předpokládaný přínos vyšetření nepřevýší možná rizika.
+
+Příprava pacienta
+Pacient má být před zahájením vyšetření dobře hydratován a během prvních hodin po vyšetření má být vyzván k častému močení za účelem snížení radiace.
+Pokud pacient netrpí průjmy, je nezbytné podat laxativa, aby bylo možné odlišit aktivitu v lézích od aktivity ve střevním obsahu.
+
+Indium-(¹¹¹In) pentetreotid nenavázaný na receptory a aktivita india (¹¹¹In) navázaná na nepeptidové struktury se rychle vylučuje ledvinami. V zájmu urychlení vylučování a tím snížení aktivity pozadí a v zájmu snížení absorbované dávky pro ledviny a močový měchýř, se pacientovi doporučuje dostatečný příjem tekutin 2 - 3 dny po aplikaci.
+
+Na základě empirických poznatků se doporučuje dočasně vysadit terapii oktreotidem, aby nemohlo dojít k případné blokádě somatostatinových receptorů, přestože tato nutnost nebyla prokázána.
+U některých pacientů může vysazení terapie oktreotidem způsobit návrat předchozích obtíží. To je možné obzvláště u inzulinomů, kde je nutné uvážit nebezpečí náhlé hypoglykémie, a u pacientů s karcinoidy. Je-li možné terapii oktreotidem přerušit, je doporučeno 3denní vysazení.
+
+Interpretace výsledku procedury
+Pozitivní výsledek scintigrafie indium-(¹¹¹In) pentetreotidem odráží spíše pouze přítomnost zvýšené hustoty somatostatinových receptorů než maligní proces. Zvýšené vychytávání diagnostika není specifické pouze pro GEP tumory a karcinoidy. Pozitivní výsledek scintigrafie vyžaduje zvážit možnost přítomnosti jiné choroby s vysokou hustotou somatostatinových receptorů. Zvýšená hustota somatostatinových receptorů se může vyskytovat u následujících patologických procesů: u tumorů vzniklých z tkání embryonálně vyvinutých z neurální trubice (paragangliomy, medulární karcinomy štítné žlázy, neuroblastomy, feochromocytomy), tumorů hypofýzy, endokrinních tumorů plic (malobuněčný karcinom plic), meningiomů, karcinomů prsu, lymfoproliferativních chorob (maligní
+
+
+SmPC_Octreoscan_147226-19            3/9
+
+lymfogranulomy, nehodgkinské lymfomy). Vedle toho je nutné pamatovat na skutečnost, že vychytání diagnostika se může objevit v oblastech, kde je zvýšená kumulace lymfocytů (subakutní záněty).
+
+Po proceduře
+Po dobu 36 hodin po podání injekce přípravku je potřeba zamezit blízkému kontaktu s těhotnými ženami a malými dětmi.
+Zvláštní upozornění
+Přechodnou inhibicí sekrece glukagonu může aplikace indium-(¹¹¹In) pentetreotidu způsobit hypoglykémii u diabetických pacientů užívajících vysoké dávky inzulínu.
+Tento přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce, tj. v podstatě je „bez sodíku“.
+Opatření vztahující se k ohrožení životního prostředí jsou uvedena v bodě 6.6.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Dosud nebyly popsány.
+
+4.6 Fertilita, těhotenství a kojení
+Ženy ve fertilním věku
+Pokud je nezbytné aplikovat radioaktivní látku ženám ve fertilním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou, pokud se neprokáže opak. Kde trvá nejistota, radiační zátěž pacientky musí být minimalizována při zachování klinického přínosu vyšetření. Je nutno uvážit alternativní metodiky bez ionizujícího záření.
+Těhotenství
+Nejsou k dispozici údaje k hodnocení možných rizik při aplikace v těhotenství. Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se nezbytná vyšetření provádějí v případě, že předpokládaný přínos vyšetření významně převáží možná rizika pro matku a plod.
+Kojení
+Před aplikací kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Je-li aplikace nezbytná, nenínutné přerušit kojení. Po dobu 36 hodin po podání je nicméně potřeba zamezit blízkému kontaktu s malými dětmi.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Indium-(¹¹¹In) pentetreotid nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Nežádoucí účinky ve spojitosti s aplikací OctreoScanu jsou méně časté. Nebyly pozorovány žádné specifické reakce, pouze symptomy připomínající vazovagální reakce nebo anafylaktoidní vedlejší účinky léků. Vysazení terapie oktreotidem jako příprava pro provedení scintigrafického vyšetření může způsobit těžké reakce spočívající obecně v návratu příznaků předcházejících terapii.
+
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+
+
+
+SmPC_Octreoscan_147226-19            4/9
+
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a
+s možným vznikem dědičných poškození. Vzhledem k tomu, že při podání maximální doporučené aktivity 220 MBq je efektivní dávka 12 mSv měly by se tyto nežádoucí účinky projevit jen s nízkou pravděpodobností.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+Předávkování je vzhledem k lékové formě (balení jako jedna dávka) nepravděpodobné. Vyloučení indium-(¹¹¹In) pentetreotidu nenavázaného na receptory a india-111 navázaného na nepeptidické struktury může být v ledvinách urychleno dostatečným příjmem tekutin.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: diagnostická radiofarmaka, detekce nádorů, indium-(¹¹¹In) pentetreotid ATC kód: V09I B01
+Mechanismus účinku
+OctreoScan je vázán na somatostatinové receptory v tkáních, kde - v závislosti na onemocnění - vykazuje povrch buněk zvýšenou hustotu těchto receptorů, než je tomu za fyziologických podmínek. Scintigrafický nález bude negativní, není-li v daném případě zvýšena hustota somatostatinových receptorů.
+Prevalence zvýšeného počtu receptorů v tumorózní tkáni u GEP tumorů a karcinoidů je poměrně vysoká.
+
+Farmakodynamické účinky
+Existuje pouze omezené množství studií zabývajících se farmakodynamikou přípravku. Biologická účinnost pentetreotidu in vitro dosahuje asi 30 % účinnosti somatostatinu. Biologická aktivita in vivo při studiích na krysách je nižší než u odpovídajícího množství oktreotidu. Intravenózní aplikace 20 µg pentetreotidu způsobila u některých pacientů měřitelný, ale omezený pokles hladin gastrinu a glukagonu v séru s dobou trvání kratší než 24 hodin.
+
+5.2 Farmakokinetické vlastnosti
+Vychytávání v orgánech
+Indium-(¹¹¹In) pentetreotid se vychytává v játrech (asi 2 % za 24 hodin) a ve slezině (asi 2,5 % za 24 hodin). Vychytání ve štítné žláze a v hypofýze je možné, ale není reprodukovatelné. Akumulace v ledvinách je zčásti způsobena probíhající eliminací močí a zčásti zpožděnou exkrecí ledvinami.
+Eliminace
+Přibližně 80 % i.v. podaného indium-(¹¹¹In) pentetreotidu se vyloučí ledvinami během 24 hodin (90 % během 48 hodin). U pacientů s normální funkcí střev představuje vylučování žlučovým měchýřem a následně stolicí asi 2 % aplikované aktivity.
+
+
+
+SmPC_Octreoscan_147226-19            5/9
+
+Do 6 hodin po aplikaci se močí vylučuje především samotný indium-(¹¹¹In) pentetreotid. Následně se zvyšuje množství vyloučené aktivity navázané na nepeptidové struktury.
+
+Poločas rozpadu
+Indium(¹¹¹In) se přeměňuje s poločasem 2,83 dní na stabilní kadmium (¹¹¹Cd).
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Účinky v neklinických studiích byly pozorovány pouze při expozicích dostatečně převyšujících maximální expozici u člověka, což svědčí o malém významu při klinickém použití.
+Nebyly prováděny studie karcinogenního potenciálu, embryotoxicity, ani vlivu pentetreotidu na fertilitu.
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Připravený roztok obsahuje dihydrát natrium-citrátu, monohydrát kyseliny citrónové, inositol, gentisovou kyselinu, hexahydrát chloridu železitého, roztok kyseliny chlorovodíkové 0,02 mol/l, vodu pro injekci. pH připraveného roztoku je 3,8 - 4,3.
+Roztok neobsahuje konzervační látky.
+
+6.2 Inkompatibility
+
+Nejsou známy.
+OctreoScan může být po označení naředěn 0,9% roztokem chloridu sodného.
+Roztok k injekční aplikaci nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 12.
+
+6.3 Doba použitelnosti
+Doba použitelnosti lahvičky A a lahvičky B přípravku OctreoScan je 24 hodin po datu a hodině kalibrace. Datum a hodina kalibrace a datum a hodina exspirace jsou uvedeny na olověném kontejneru a v průvodních dokladech.
+Po označení je nutné roztok použít do 6 hodin. Po označení uchovávejte při teplotě do 15-25°C v rámci doby použitelnosti roztoku za podmínek pro RA látky.
+6.4 Zvláštní opatření pro uchovávání
+
+Lahvičku A a B skladujte při 15-25°C (obyčejná teplota).
+Žádné zvláštní požadavky nejsou specifikovány. Pouze nutno zajistit patřičné stínění emitovaného záření.
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+
+6.5 Druh obalu a obsah balení
+OctreoScan je dodáván v balení obsahujícím dvě lahvičky:
+Lahvička A: 10ml lahvička z křemenného skla třídy I, s bromobutylovou pryžovou zátkou s teflonovým potahem a olověným stíněním obsahující 1,1 ml roztoku chloridu inditého-(¹¹¹In) odpovídající aktivitě 122 MBq k datu a hodině kalibrace.
+Lahvička B: 10ml skleněná lahvička třídy I, s bromobutylovou pryžovou zátkou a oranžovým odtrhovacím víčkem obsahující 10 mikrogramů pentetreotidu.
+
+
+
+
+SmPC_Octreoscan_147226-19            6/9
+
+Lahvičky se nesmějí použít samostatně. Obě lahvičky jsou uzavřeny hliníkovým uzávěrem a jsou umístěny v uzavřeném plechovém obalu.
+
+6.6 Zvláštní opatření pro likvidaci přípravku
+Všeobecná upozornění
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na pracovištích k tomu určených. Při skladování, přípravě a aplikaci radiofarmak a likvidaci odpadu je nutno dbát jak zásad ochrany zdraví před ionizujícím zářením vyplývajících z příslušných předpisů a vyhlášek, tak pokynů místních orgánů hygienické služby.
+Příprava radiofarmak musí být v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP. Je nutné dodržovat zásady aseptické práce a správné výrobní praxe pro radiofarmaka.
+
+Obsah obou lahviček je výhradně určen k přípravě roztoku indium (¹¹¹In)–pentetreotidu a není možné jej přímo aplikovat pacientovi bez předchozí přípravy.
+
+Informace k rekonstituci a přípravě radiofarmaka viz bod 12.
+
+V případě jakéhokoliv poškození lahvičky není možné přípravek použít.
+Postup při aplikaci radiofarmaka musí zabezpečit zamezení kontaminace radiofarmakem a nadbytečné ozáření personálu. Nutné je používat vhodné ochranné pomůcky a stínění.
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné předpisy pro ochranu zdraví před ionizujícím zářením.
+Pokyny pro likvidaci
+Všechen nespotřebovaný přípravek nebo odpad musí být zlikvidován v souladu s příslušnými předpisy týkajícími se radioaktivního materiálu.
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+
+8. REGISTRAČNÍ ČÍSLO
+
+88/143/94-C
+
+
+9. DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+
+16.2.1994 / 27.10.2010
+
+10. DATUM REVIZE TEXTU
+15. 5. 2019
+
+
+
+
+SmPC_Octreoscan_147226-19            7/9
+
+11. DOZIMETRIE
+Níže uvedené dozimetrické údaje byly vypočteny metodikou MIRD. Informace uvedené níže jsou v souladu s ICRP 106 a byly vypočteny v souladu s následujícími předpoklady:
+V souladu s biokinetickým modelem popsaným v ICRP 106 se předpokládá, že indium(111In) pentetreotid je okamžitě po intravenózním podání vychytáván játry, slezinou, ledvinami a štítnou žlázou, přičemž se předpokládá, že zbytek je homogenně rozdělen do ostatních částí těla.
+Experimentálně bylo zjištěno, že retenční údaje mohou být nejlépe popsány mono- nebo bi- exponenciální funkcí. Biokinetické údaje pocházejí od pacientů s karcinoidem nebo endokrinními tumory v gastrointestinálním traktu. Vychytávání v nádorové tkáni přítomné v daném orgánu tak může být zahrnuto v publikovaných hodnotách pro tyto orgány. Nejdůležitější exkreční cestou je vylučování ledvinami a méně než 2 % jsou vyloučeny stolicí. Pozorovaná 85% exkrece močí během 24 hodin je
+v souladu s modelem. Zanedbatelná exkrece gastrointestinálním traktem není v modelu zahrnuta, jelikož její příspěvek pro absorbovanou aktivitu je za normálních okolností zanedbatelný.
+
+Orgán(y)                 Fs         T1/2            a          Ãs/A0
+
+Játra                  0.06       2 h
+2.5 d
+70 d
+0.40
+0.30
+0.30
+2.59 h
+Slezina                 0.05       2.5 d         1.00        2.30 h
+Ledviny                0.06       2.5 d         1.00        2.76 h
+Štítná žláza              0.001      2.5 d         1.00        2.76 min
+
+Jiné orgány a tkáně          0.829       3 h
+2.5 d
+0.90
+0.10
+6.90 h
+
+Močový měchýř            1.00
+Dospělí a dětí nad 15 let 10 let
+5 let a 1 rok
+Fs       frakční distribuce do orgánů nebo tkání
+T1/2      biologický poločas pro vychytávání nebo eliminaci
+1.65 h
+1.40 h
+54.3 min
+a       frakce Fs zachycená nebo eliminovaná za příslušný poločas. Záporné hodnoty značí vychytávání. Ãs/A0     kumulovaná aktivita v orgánu nebo tkáni na jednotku aplikované aktivity
+Orgán              Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq) dospělí      15 let      10 let      5 let       1 rok
+Nadledviny         0.058       0.075      0.11       0.17       0.29
+Močový měchýř      0.20       0.25       0.37       0.46       0.56
+Povrch kostí        0.027      0.033      0.050      0.075      0.14
+Mozek           0.0096      0.012      0.020       0.032      0.057
+Prsa            0.012       0.015       0.023       0.037       0.067
+Žlučník           0.052       0.063      0.092       0.14       0.22
+GIT
+Žaludek           0.043       0.050      0.077       0.11       0.18
+Tenké střevo        0.029      0.037      0.059      0.090      0.15
+Tlusté střevo        0.029      0.035      0.055      0.086      0.14
+(horní část         0.030       0.037      0.058       0.094      0.15
+(dolní část         0.027       0.033      0.052       0.075      0.12
+Srdce            0.025       0.032       0.048       0.070       0.12
+Ledviny          0.41       0.49       0.67       0.96       1.6
+Játra            0.10       0.13       0.20       0.27       0.48
+Plíce            0.023       0.030       0.044       0.067       0.12
+Svaly            0.020       0.026       0.038       0.056       0.10
+Jícen            0.014       0.018       0.027       0.043       0.077
+Vaječníky         0.027       0.035      0.053       0.080      0.13
+Slinivka břišní       0.072      0.088      0.13       0.20       0.32
+Červená kostní dřeň     0.022      0.026      0.039      0.053      0.085
+SmPC_Octreoscan_147226-19            8/9
+
+Kůže            0.011       0.013       0.021       0.032       0.059
+Slezina           0.57       0.79       1.2        1.8        3.1
+Varlata           0.017       0.022       0.037       0.054       0.087
+Brzlík            0.014       0.018       0.027       0.043       0.077
+Štítná žláza         0.075       0.12       0.18       0.37       0.68
+Děloha           0.039       0.049       0.077       0.11       0.16
+Ostatní orgány       0.024      0.032      0.049      0.080      0.13
+
+Efektivní dávkový ekvivalent (mSv/MBq)
+0.054      0.071      0.11       0.16       0.26
+
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAKA
+Návod k přípravě
+Přípravek k injekčnímu podání (indium-(¹¹¹In) pentetreotid) připravte přidáním obsahu lahvičky A (chlorid inditý-(¹¹¹In), roztok) k obsahu lahvičky B (pentetreotid, lyofilizát). Pro přenos roztoku chloridu inditého-(¹¹¹In) použijte zásadně injekční jehlu Sterican (0,90 x 70), která je součástí každé dodávky přípravku. Následuje inkubace po dobu 30 minut. Poté je možné produkt naředit 2-3 ml 0,9
+% roztoku chloridu sodného, je-li vyžadováno aplikovat roztok ve větším objemu. Z tohoto roztoku je možné odebrat malé množství pro kontrolu účinnosti značení dle postupu popsaného níže.
+Upozornění: Pro přípravu injekčního roztoku použijte zásadně roztok chloridu inditého-(¹¹¹In) dodaný v balení spolu s lyofilizátem pentetreotidu !
+
+Kontrola kvality značení
+Radiochemická čistota připraveného roztoku jako stanovení množství india-111 navázaného
+na peptidové a nepeptidové struktury se určuje pomocí chromatografie na silikagelu na skleněných vláknech. Připravte dobře vysušený chromatografický proužek asi 10 cm dlouhý a 2,5 cm široký a vytvořte značky pro start (2 cm), 6 cm a 9 cm. Naneste 5-10 µl připraveného radioaktivního roztoku indium-(¹¹¹In) pentetreotidu na start. Vyvíjejte v čerstvě připraveném roztoku dihydrátu natrium- citrátu 0,1 M upraveného na pH 5 kyselinou chlorovodíkovou. Asi za 2-3 minuty soustava dosáhne značky 9 cm. Přestřihněte proužek na značce 6 cm a měřte aktivitu horní a dolní části. Indium-111 navázané na nepeptidové struktury se pohybuje k čelu.
+
+Dolní část chromatogramu má obsahovat více než 98 % celkové aktivity chromatogramu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SmPC_Octreoscan_147226-19            9/9

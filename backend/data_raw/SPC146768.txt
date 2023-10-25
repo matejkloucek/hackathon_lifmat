@@ -1,0 +1,784 @@
+Sp zn. sukls47220/2019, sukls47224/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Cefepim MIP 1 g prášek pro injekční/infuzní roztok Cefepim MIP 2 g prášek pro injekční/infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Cefepim MIP 1 g prášek pro injekční/infuzní roztok:
+Jedna injekční lahvička obsahuje cefepimi dihydrochloridum monohydricum odpovídající cefepimum 1 g.
+
+Cefepim MIP 2 g prášek pro injekční/infuzní roztok:
+Jedna injekční lahvička obsahuje cefepimi dihydrochloridum monohydricum odpovídající cefepimum 2 g.
+
+Úplný seznam pomocných látek viz bod 6.1
+
+3.  LÉKOVÁ FORMA
+Prášek pro injekční/infuzní roztok Bílý až světle žlutý prášek.
+pH rekonstituovaného roztoku je 4,0-7,0.
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Přípravek Cefepim MIP je indikován k léčbě závažných infekcí uvedených níže způsobených patogeny citlivými na cefepim (viz body 4.4 a 5.1).
+
+U dospělých a dětí starších 12 let věku a s tělesnou hmotností ≥ 40 kg:
+• Pneumonie
+• Komplikované infekce močových cest (včetně pyelonefritidy)
+• Komplikované intraabdominální infekce
+• Peritonitida související s dialýzou u pacientů na CAPD
+
+U dospělých:
+• Akutní infekce žlučových cest
+
+U dětí ve věku od 2 měsíců do 12 let a s tělesnou hmotností ≤ 40 kg:
+• Pneumonie
+• Komplikované infekce močových cest (včetně pyelonefritidy)
+• Bakteriální meningitida (viz bod 4.4)
+
+Léčba pacientů s bakteriemií, která se objevuje v souvislosti s jakoukoliv výše uvedenou infekcí nebo existuje podezření na takovou souvislost.
+
+Cefepim se může používat při empirické léčbě dospělých, dospívajících a dětí od 2 měsíců do 12 let s febrilní neutropenií, u níž je podezření, že je důsledkem bakteriální infekce. U pacientů s vysokým rizikem závažných infekcí (např. pacienti s nedávnou transplantací kostní dřeně, hypotenzí při vyšetření, s
+probíhající hematologickou malignitou nebo závažnou nebo prolongovanou neutropenií), může být
+antimikrobiální monoterapie nevhodná. Neexistuje dostatek údajů pro podporu účinnosti monoterapie cefepimem u takových pacientů. Může být vhodná kombinovaná terapie s aminoglykosidy nebo glykopeptidovými antibiotiky při zohlednění individuálního profilu rizika pacienta.
+
+Cefepim se má podávat společně s dalšími antimikrobiálními látkami, kdykoliv by možný rozsah kauzálních bakterií nezapadal do spektra účinku.
+
+1
+
+Pozornost je třeba věnovat oficiálním doporučením týkajícím se vhodného použití antibakteriálních léků.
+
+4.2  Dávkování a způsob podání
+Po rekonstituci cefepimu může být podáván intravenózně jako pomalá injekce po dobu 3 až 5 minut nebo jako krátká infuze během asi 30 minut.
+Dávkování a způsob podání se řídí charakterem a závažností infekce, citlivostí patogenu, funkcí ledvin a celkovou konstitucí pacienta.
+
+Dávkování u pacientů s normální funkcí ledvin:
+
+Dospělí a dospívající s tělesnou hmotností větší než 40 kg (přibližně více než 12 let):
+Jednotlivé dávky a dávkovací interval
+
+Závažné infekce:
+• Bakteriemie
+• Pneumonie
+• Komplikované infekce močových cest (včetně
+pyelonefritidy)
+• Akutní infekce žlučových cest 2,0 g každých 12 hodin
+Velmi závažné infekce:
+• Komplikované intraabdominální infekce
+• Empirická léčba pacientů s febrilní neutropenií
+
+
+
+2,0 g každých 8 hodin
+
+Kojenci a děti (ve věku od 1 měsíce do 12 let anebo s tělesnou hmotností ≤ 40 kg s normální funkcí ledvin)
+Jednotlivé dávky (mg/kg tělesné hmotnosti), dávkovací interval a trvání léčby
+
+Závažné infekce:
+• Pneumonie
+• Komplikované infekce močových cest (včetně pyelonefritidy)
+Velmi závažné infekce:
+• Bakteriemie
+• Bakteriální meningitida
+• Empirická léčba pacientů s febrilní neutropenií
+
+
+Děti starší než 2 měsíce, tělesná hmotnost ≤ 40 kg:
+
+
+Děti od 1 do méně než 2 měsíců věku:
+50 mg/kg každých 12 hodin
+Závažnější infekce:
+50 mg/kg každých 8 hodin po
+dobu 10 dnů
+30 mg/kg každých 12 hodin
+Závažnější infekce:
+30 mg/kg každých 8 hodin po
+dobu 10 dnů
+50 mg/kg každých 8 hodin po
+dobu 7-10 dnů
+
+
+30 mg/kg každých 8 hodin po
+dobu 7-10 dnů
+
+Zkušenosti u dětí mladších než 2 měsíce jsou omezené. Doporučené dávkování 30 mg/kg každých 12 nebo 8 hodin bylo odvozeno z farmakokinetických údajů dětí starších než 2 měsíce a jsou považovány za vhodné pro děti od 1 do méně než 2 měsíců.
+
+Pro děti s tělesnou hmotností > 40 kg je platné doporučené dávkování pro dospělé.
+Pro pacienty starší než 12 let s tělesnou hmotností < 40 kg je platné doporučené dávkování pro mladší pacienty s tělesnou hmotností < 40 kg.
+Maximální doporučená denní dávka 2 g každých 8 hodin jako pro dospělé s se nemá překračovat.
+
+
+Dávkování u pacientů s poruchou funkce ledvin:
+U pacientů s poruchou funkce ledvin by se měla dávka cefepimu upravit, aby se kompenzovala pomalejší
+rychlost eliminace ledvinami.
+
+Dospělí a dospívající (>12 let a tělesná hmotnost více než 40 kg ):
+Pro pacienty s lehkou až středně těžkou poruchou funkce ledvin se doporučuje iniciální dávka 2,0 g
+cefepimu.
+
+2
+
+Následující tabulka uvádí následnou udržovací dávku:
+
+Clearance kreatininu [ml/min]
+
+
+
+
+
+
+
+
+> 50 (obvyklá dávka, není nutná úprava)
+30-50
+11-29
+≤ 10
+Doporučená udržovací dávka:
+Jednotlivé dávky a interval podávání
+Závažné infekce:
+• Bakteriemie
+• Pneumonie
+• Komplikované infekce močových cest (včetně pyelonefritidy)
+• Akutní infekce žlučových cest 2 g po 12 hodinách
+
+2 g po 24 hodinách
+1 g po 24 hodinách
+0,5 g po 24 hodinách
+
+
+Velmi závažné infekce:
+• Komplikované
+intraabdominální infekce
+• Empirická léčba pacientů s febrilní neutropenií
+
+
+2 g po 8 hodinách
+
+2 g po 12 hodinách
+2 g po 24 hodinách
+1 g po 24 hodinách
+
+Pacienti na dialýze:
+U pacientů podstupujících hemodialýzu bude během 3 hodin trvající dialýzy eliminováno asi 68 %
+celkového objemu cefepimu přítomného v těle na začátku dialýzy. Farmakokinetické modelování naznačuje, že je u těchto pacientů nutná redukce dávky. Doporučuje se následující dávkování:
+Jedna úvodní dávka 1 g v první den léčby cefepimem následovaná 500 mg denně s výjimkou febrilní neutropenie, pro kterou je doporučená dávka 1 g denně.
+
+V den dialýzy se má cefepim podávat po proběhnutí dialýzy. Pokud je to možné, má se cefepim podávat ve stejnou dobu každý den.
+
+U pacientů, kteří podstupují kontinuální ambulantní peritoneální dialýzu (CAPD) je doporučeno následující dávkování:
+• 1 g cefepimu každých 48 hodin v případě závažných infekcí (bakteriemie, pneumonie, komplikovaná infekce močových cest (včetně pyelonefritidy), akutní infekce žlučových cest)
+• 2 g cefepimu každých 48 hodin v případě velmi závažných infekcí (břišní infekce, peritonitida, empirická léčba pacientů s febrilní neutropenií)
+
+Kojenci od 1 měsíce a děti do 12 let věku s tělesnou hmotností ≤ 40 kg
+
+Dávka 50 mg/kg pro pacienty mezi 2 měsíci a 12 lety (viz bod 5.2) a dávka 30 mg/kg pro kojence ve věku od 1 do 2 měsíců jsou srovnatelné s dávkou 2 g u dospělých včetně stejného prodloužení dávkovacího intervalu, jak ukazuje tabulka dole.
+
+Děti od 2 měsíců do 40 kg tělesné hmotnosti (asi 12 let)
+Jednotlivé dávky (mg/kg tělesné hmotnosti) a dávkovací interval
+
+Clearance kreatininu [ml/min]
+
+
+
+
+> 50 (obvyklá dávka, není nutná úprava)
+30-50
+11-29
+≤ 10
+Závažné infekce
+• Pneumonie
+• Komplikované infekce močových cest (včetně pyelonefritidy)
+50 mg/kg po 12 hodinách
+
+50 mg/kg po 24 hodinách
+25 mg/kg po 24 hodinách
+12,5 mg/kg po 24 hodinách
+Velmi závažné infekce:
+• Bakteriemie
+• Bakteriální meningitida
+• Empirická léčba pacientů s febrilní neutropenií
+50 mg/kg po 8 hodinách
+
+50 mg/kg po 12 hodinách
+50 mg/kg po 24 hodinách
+25 mg/kg po 24 hodinách
+
+
+
+
+
+3
+
+Kojenci od 1 do méně než 2 měsíců věku
+Jednotlivé dávky (mg/kg tělesné hmotnosti) a dávkovací interval
+
+Clearance kreatininu [ml/min]
+
+
+
+
+> 50 (obvyklá dávka, není nutná úprava)
+30-50
+11-29
+≤ 10
+Závažné infekce
+• Pneumonie
+• Komplikované infekce močových cest (včetně pyelonefritidy)
+30 mg/kg po 12 hodinách
+
+30 mg/kg po 24 hodinách
+15 mg/kg po 24 hodinách
+7,5 mg/kg po 24 hodinách
+Velmi závažné infekce:
+• Bakteriemie
+• Bakteriální meningitida
+• Empirická léčba pacientů s febrilní neutropenií
+30 mg/kg po 8 hodinách
+
+30 mg/kg po 12 hodinách
+30 mg/kg po 24 hodinách
+15 mg/kg po 24 hodinách
+
+Porucha funkce jater:
+U pacientů s poruchou funkce jater není nutná žádná úprava dávky (viz bod 5.2).
+
+Starší pacienti:
+Vzhledem k tomu, že u starších pacientů je zvýšené riziko snížené funkce ledvin, má se zvolit dávka s opatrností a funkce ledvin pacienta se má monitorovat. Pokud je funkce ledvin snížená, doporučuje se úprava dávkování (viz bod 4.4).
+
+Trvání léčby:
+Obvyklé trvání léčby je 7 až 10 dnů. Obecně se nemá cefepim podávat méně než 7 dnů a nikoliv déle než 14 dnů. Pro empirickou léčbu febrilní neutropenie je obvyklé trvání terapie 7 dnů nebo do ústupu neutropenie.
+
+Způsob podání:
+Po odpovídající rekonstituci je možné cefepim podávat přímou intravenózní injekcí po dobu 3 až 5 minut nebo injekčně do kanyly infuzního setu, popkud pacient dostává kompatibilní intravenózní roztoky nebo
+intravenózní infuzí po dobu 30 minut. Informace o inkompatibilitách a pokyny pro rekonstituci léčivého přípravku před podáním naleznete v bodech 6.2 a 6.6.
+
+4.3  Kontraindikace
+Cefepim je kontraindikován u pacientů, kteří měli předchozí hypersenzitivní reakce na cefepim nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. či na jiné cefalosporiny nebo na jiná beta-laktamová antibiotika (např. peniciliny, monobaktamy a karbapenemy).
+V důsledku jeho obsahu argininu je tento přípravek dále kontraindikován u pacientů s hypersenzitivitou na
+arginin a acidózou. V případě hyperkalemie je proto doporučována obezřetnost.
+
+4.4  Zvláštní upozornění a opatření pro použití Varování
+Hypersenzitivní reakce
+Podobně jako u všech beta-laktamových antibiotik byly hlášeny závažné a občas fatální hypersenzitivní reakce. V případě závažné hypersenzitivní reakce je nutné léčbu cefepimem okamžitě ukončit a zahájit adekvátní nouzová opatření.
+Před zahájením léčby je třeba se důkladně vyptat, aby bylo možné určit, zda pacient prodělal v minulosti hypersenzitivní reakce na cefepim, beta-laktamy nebo na jiné léčivé přípravky. V 10 % případů existuje zkřížená reaktivita s hypersenzitivitou na penicilin a cefalosporiny.
+Cefepim se má podávat s opatrností pacientům s anamnézou astmatu nebo alergickou diatézou. Pacienty je třeba důkladně monitorovat během prvního podání.
+Dojde-li k alergické reakci, musí být léčba okamžitě přerušena. Závažné hypersenzitivní reakce mohou vyžadovat podání epinefrinu (adrenalinu) a další podpůrnou léčbu.
+
+
+
+
+
+
+4
+
+Antibakteriální aktivita cefepimu
+Vzhledem k relativně omezenému spektru antibakteriální aktivity cefepimu není vhodný pro léčbu některých typů infekcí, dokud není patogen identifikován a není známa jeho citlivost, nebo pokud neexistuje velmi
+silné podezření, že patogen bude velmi pravděpodobně pro léčbu cefepimem vhodný (viz bod 5.1).
+
+Porucha ledvin
+U pacientů s poruchou funkce ledvin (clearance kreatininu ≤ 50 ml/min) nebo jiné stavy, které mohou narušovat renální funkci, se dávkování cefepimu má upravit tak, aby se kompenzovala pomalejší rychlost
+eliminace ledvinami. Vzhledem k tomu, že se vysoké a prolongované sérové koncentrace antibiotika mohou objevit v důsledku obvyklého dávkování u pacientů s renální insuficiencí nebo jiných stavů, které mohou narušovat funkci ledvin, má se udržovací dávka snížit, pokud se takovým pacientům cefepim podává.
+Následné dávkování se má stanovit dle stupně poruchy funkce ledvin, závažnosti infekce a citlivosti na kauzální organismy (viz body 4.2 a 5.2). Během post-marketingového sledování byly hlášeny následující závažné nežádoucí účinky: reverzibilní encefalopatie (porucha vědomí, zahrnující zmatenost, halucinace, stupor a kóma), myoklonus, křeče (včetně nekonvulzivního status epilepticus) a/nebo renální selhání (viz
+bod 4.8). Většina případů se objevila u pacientů s poruchou funkce ledvin, kteří dostávali dávky cefepimu, které převyšovaly doporučení.
+Obecně příznaky neurotoxicity ustoupily po ukončení podávání cefepimu a/nebo po hemodialýze, nicméně v některých případech zahrnovaly fatální výsledek.
+
+Funkci ledvin je třeba důkladně monitorovat, pokud se spolu s cefepimem podávají léky s nefrotoxickým potenciálem, jako jsou aminoglykosidy a účinná diuretika.
+
+Zvláštní opatření pro použití
+Průjem spojený s infekcí Clostridium difficile (CDAD) byl hlášený při použití téměř všech antibakteriálních látek, včetně cefepimu, a může mít závažnost od mírného průjmu až po fatální kolitidu. Na CDAD je třeba myslet u všech pacientů, kteří mají průjem po použití antibiotik. Je nutná důkladná zdravotní anamnéza,
+protože případ CDAD byl hlášen až dva měsíce po podání antibakteriálních léků. Pokud je podezření na CDAD nebo je tato diagnóza potvrzena, bude nutné ukončit probíhající léčbu antibiotiky, které nepůsobí proti C. difficile.
+
+Podobně jako jiná antibiotika může použití cefepimu způsobovat přerůstání necitlivých organismů. Pokud se
+v průběhu léčby objeví superinfekce, je třeba přijmout příslušná opatření.
+
+Geriatrické použití
+Z více než 6 400 dospělých pacientů léčených cefepimen v klinických studiích bylo 35 % ve věku 65 let nebo více, zatímco 16 % bylo ve věku 75 let nebo více. U geriatrických pacientů v klinických studiích, kteří dostávali obvyklou doporučenou dávku pro dospělé, byla klinická účinnost a bezpečnost srovnatelná s
+klinickou účinností a bezpečností u negeriatrických dospělých pacientů, pokud neměli pacienti renální insuficienci. Bylo pozorováno mírné prodloužení eliminačního poločasu a snížená renální clearance ve srovnání s nálezy u mladších osob. Úprava dávkování se doporučuje, pokud je narušená funkce ledvin (viz bod 4.2 Dávkování a způsob podání a 5.2 Farmakokinetické vlastnosti).
+O cefepimu je známo, že se významně vylučuje ledvinami a riziko toxických reakcí na tento lék může být vyšší u pacientů s poruchou funkce ledvin. Vzhledem k tomu, že starší pacienti mají vyšší pravděpodobnost snížené funkce ledvin, je třeba opatrnosti při volbě dávky a je třeba sledovat funkce ledvin (viz bod 4.8
+Nežádoucí účinky a 5.2 Farmakokinetické vlastnosti). Závažné nežádoucí účinky zahrnující reverzibilní
+encefalopatii (porucha vědomí, zahrnující zmatenost, halucinace, stupor a kóma), myoklonus, křeče (včetně nekonvulzivního status epilepticus) a/nebo renální selhání se objevily u geriatrických pacientů s renální insuficiencí v důsledku obvyklé dávky cefepimu (viz bod 4.8 Nežádoucí účinky).
+
+Interference se sérologickými testy
+U pacientů léčených cefepimem dvakrát denně byl popsán pozitivní Coombsův test, aniž by se prokázala hemolýza.
+Cefalosporinová antibiotika mohou způsobit falešně pozitivní reakci na glukózu v moči v testech založených na redukci mědi (Benediktův či Fehlingův roztok nebo test s tabletami Clinitest), ale ne v případě použití
+
+5
+
+enzymatických testů (glukózooxidáové testy) na glykosurii. Z tohoto důvodu se doporučuje použít glukózové testy na bázi enzymatické reakce glukózooxidázy.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Nebyly provedeny žádné studie interakce.
+Případy pozitivity Coombsova testu bez důkazu hemolýzy byly zjištěny u pacientů léčených cefepimem
+dvakrát denně (viz bod 4.8).
+Výsledek stanovení glukózy z moči může být falešně pozitivní, proto se doporučuje glukózo-oxidázová
+metoda.
+Současná léčba bakteriostatickými antibiotiky může interferovat s působením beta-laktamových antibiotik.
+
+4.6  Fertilita, těhotenství a kojení
+Fertilita
+Žádné zhoršení fertility nebylo u potkanů pozorováno. Žádné údaje o vlivu cefepimu na lidskou fertilitu
+nejsou k dispozici.
+
+Těhotenství
+V reprodukčních studiích na myších, potkanech a králících nebyly zjištěno žádné poškození plodu, nicméně nejsou k dispozici žádné adekvátní a dobře kontrolované studie u těhotných žen. Vzhledem k tomu, že reprodukční studie u zvířat nejsou vždy prediktivní pro odpověď u člověka, měl by se tento lék používat
+během těhotenství pouze v případě, že je to jasně nutné.
+
+Kojení
+Cefepim se vylučuje do lidského mateřského mléka ve velmi nízkých koncentracích. Je třeba opatrnosti, pokud se cefepim podává kojícím ženám. Kojenec se pak má důkladně monitorovat.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Účinky léčivého přípravku na schopnost řídit a obsluhovat stroje nebyly hodnoceny. Možné nežádoucí
+reakce, jako je změna stavu vědomí, závratě, zmatenost nebo halucinace však mohou změnit schopnost řídit a používat stroje (viz body 4.4, 4.8 a 4.9).
+
+4.8  Nežádoucí účinky
+Nežádoucí účinky jsou klasifikovány do následujících kategorií dle třídy orgánových systémů, MedDRA terminologie a MedDRA frekvencí: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1000 až
+< 1/100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (≤ 1/10 000) a není známo (z dostupných údajů
+nelze určit).
+V každé skupině frekvence jsou nežádoucí účinky uvedeny v pořadí klesající závažnosti.
+
+Tabulka: Nežádoucí lékové účinky hlášené během klinické nebo postmarketingové zkušenosti
+
+
+Třída orgánového systému
+Infekce a infestace
+Frekvence
+Méně časté
+MedDRA terminologie
+Orální kandidóza, vaginální infekce
+
+
+
+Poruchy krve a lymfatického systému
+Vzácné
+Velmi časté Časté
+
+Méně časté Není známo
+Kandidóza
+Pozitivní Coombsův test
+
+Prodloužený protrombinový čas, prodloužený parciální
+tromboplastinový čas,
+anemie, eosinofilie Trombocytopenie, leukopenie, neutropenie
+Aplastická anemieᵃ, hemolytická
+anemieᵃ, agranulocytóza
+
+6
+
+Poruchy imunitního systému
+
+Poruchy metabolismu a
+výživy
+Psychiatrické poruchy
+Poruchy nervového systému
+Vzácné
+Není známo Není známo
+
+Není známo Méně časté Vzácné
+
+Není známo
+Anafylaktická reakce, angioedém Anafylaktický šok
+Falešně pozitivní nález glukózy v moči -
+
+Stav zmatenosti, halucinace Bolesti hlavy
+Křeče, parestézie, dysgeuzie,
+závratě
+Kóma, stupor, encefalopatie, změna stavu vědomí, myoklonus
+
+
+Cévní poruchy
+
+
+Respirační, hrudní a mediastinální poruchy
+Gastrointestinální poruchy
+
+
+
+
+Poruchy jater a žlučových cest
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+Poruchy ledvin a močových cest
+
+
+Poruchy reprodukčního systému a
+prsu
+
+Celkové poruchy a
+reakce v místě aplikace
+
+
+Vyšetření
+Časté Vzácné
+Není známo Vzácné
+
+Časté
+Méně časté
+
+Vzácné
+Není známo Časté
+
+
+Časté
+Méně časté Není známo
+
+
+Méně časté
+
+Není známo Vzácné
+
+Časté
+
+
+Méně časté Vzácné Časté
+Flebitida v místě aplikace infuze Vazodilatace
+Hemoragieᵃ Dyspnoe
+
+Průjem
+Pseudomembranózní kolitida, kolitida, nauzea, zvracení
+Bolesti břicha, zácpa
+Gastrointestinální onemocnění Zvýšení alaninaminotransferázy, zvýšení aspartátaminotransferázy, snížení hladiny bilirubinu v krvi Vzácné
+Erytém, urtikarie, pruritus
+Toxická epidermální nekrolýzaᵃ , Stevens- Johnsonův syndromᵃ, erythema multiformeᵃ
+Zvýšení močoviny v krvi, zvýšení
+kreatininu v krvi
+Selhání ledvin, toxická nefropatieᵃ Genitální pruritus
+
+Reakce v místě aplikace infuze, bolesti v
+místě
+injekce, zánět v místě injekce Teploty, zánět v místě infuze Zimnice
+Zvýšení alkalické fosfatázy
+ᵃ Nežádoucí účinky obecně akceptované jako související s jiným
+i látkami v této třídě.
+
+
+Pediatrie
+Bezpečnostní profil cefepimu u kojenců a dětí je podobný jako u dospělých. Nejčastějším hlášeným nežádoucím účinkem souvisejícím s cefepimem v klinických studiích byla vyrážka.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili
+podezření na nežádoucí účinky na adresu: Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+
+
+7
+
+4.9  Předávkování
+Při závažném předávkování, zejména u pacientů s poruchou funkce ledvin, pomůže hemodialýza odstranit cefepim z organizmu. Peritoneální dialýza není účinná. Náhodné předávkování se objevilo při podávání vysokých dávek pacientům s poruchou funkce ledvin (viz body 4.2 Dávkování a způsob podání a 4.4 Zvláštní upozornění a opatření pro použití). Příznaky předávkování zahrnují encefalopatii (poruchy vědomí včetně zmatenosti, halucinací, stuporu a kómatu), myoklonii, záchvaty křečí (viz bod 4.8).
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: cefalosporiny IV. generace, ATC kód: J01DE01 Mechanismus účinku:
+Mechanismus účinku cefepimu je založen na inhibici syntézy buněčné stěny (v růstové fázi) v důsledku inhibice proteinů vázajících penicilin (PBP), například transpeptidáz. To vede k baktericidnímu působení.
+
+FD/FK vztah
+Účinnost je významně závislá na časovém intervalu, při němž hladiny léku překročí minimální inhibiční koncentraci (MIK) daného patogenu.
+
+Mechanismus rezistence
+Cefepim má nízkou afinitu pro chromozomálně kódované beta-laktamázy a je vysoce rezistentní na hydrolýzu většinou beta-laktamáz.
+Bakteriální rezistence na cefepim může být důsledkem jednoho nebo více následujících mechanismů:
+• snížená afinita k proteinům vázajícím penicilin pro cefepim,
+• produkce beta-laktamáz, které jsou schopné hydrolyzovat efektivně cefepim (například několik chromozomálně zprostředkovaných beta-laktamáz s rozšířeným spektrem),
+• impermeabilita zevní membrány, která omezuje přístup cefepimu k proteinům vázajícím penicilin u -
+gramnegativních organizmů, efluxní pumpy pro léčivé látky.
+
+Existuje částečná nebo kompletní zkřížená rezistence mezi cefepimem a dalšími cefalosporiny a peniciliny.
+
+Hodnocení cefepimu se provádí pomocí standardních dilučních sérií. Následující minimální inhibiční koncentrace byly stanoveny pro citlivé a rezistentní kmeny:
+Hraniční hodnoty EUCAST (Evropský výbor pro testování antimikrobiální citlivosti) (2014-01-01)
+
+
+Patogen Enterobacteriaceae Pseudomonas spp. Staphylococcus spp.
+Streptococcus skupina A, B, C a G
+Streptococcus pneumoniae Viridující streptokoky Haemophilus influenzae Moraxella catarrhalis
+FK/FD hraniční hodnoty (nesouvisející s
+druhem)⁵
+citlivý
+≤ 1 mg/l
+≤ 8 mg/l ¹ poznámka² poznámka³
+≤ 1 mg/l ⁴
+≤ 0,5 mg/l
+≤ 0,25 mg/l ⁴
+≤ 4 mg/l
+≤ 4 mg/l
+rezistentní
+> 4 mg/l
+> 8 mg/l
+poznámka² poznámka³
+> 2 mg/l
+> 0,5 mg/l
+> 0,25 mg/l
+> 4 mg/l
+> 8 mg/l
+
+1 Hraniční hodnoty se týkají vysokodávkové terapie.
+2 Citlivost stafylokoků na cefalosporiny je odvozena z citlivosti cefoxitinu s výjimkou ceftazidimu,
+cefiximu a ceftibutenu, které nemají stanoveny hraniční hodnoty a nemají se používat pro stafylokokové
+infekce.
+3 Citlivost streptokoků skupin A, B, C a G na cefalosporiny je odvozena z citlivosti benzylpenicilinu.
+
+
+8
+
+4  Izoláty s hodnotami MIK nad hraničními hodnotami citlivosti jsou velmi vzácné nebo nebyly dosud hlášeny. Identifikace a testy antimikrobiální citlivosti na jakýchkoliv takových izolátech musí být opakovány a pokud je výsledek potvrzen, odešle se izolát do referenční laboratoře. Dokud nejsou k dispozici důkazy týkající se klinické odpovědi pro potvrzené izoláty s hodnotami MIK nad současné hraniční hodnoty rezistence, mají se hlásit jako rezistentní.
+5 Hraniční hodnoty se týkají denní intravenózní dávky 2 g x 2 a vysoké dávky alespoň 2 g x 3.
+
+
+Citlivost
+Prevalence rezistence jednotlivých bakteriálních kmenů se může lišit v jednotlivých oblastech a v čase. Doporučuje se proto před zahájením léčby získat lokální informace o citlivosti kmenů.
+Cefepim je obvykle účinný proti následujícím mikroorganismům in vitro (stav k prosinci 2012).
+
+Obecně citlivé druhy
+Aerobní - grampozitivní mikroorganismy
+Stafylococcus aureus (citlivý na methicilin)
+Streptococcus pneumoniae (včetně kmenů rezistentních na penicilin) °
+Streptococcus pyogenes °
+Aerobní gramnegativní mikroorganismy
+Citrobacter freundii Enterobacter aerogenes Haemophilus influenzae Moraxella catarrhalis ° Morganella morganii Proteus mirabilis %
+Proteus vulgaris ° Serratia liquefaciens ° Serratia marcescens
+Druhy, u nichž může být problémem získaná rezistence
+Aerobní grampozitivní mikroorganismy
+Staphylococcus aureus ³ Staphylococcus epidermidis ⁺ Staphylococcus haemolyticus ⁺ Staphylococcus hominis ⁺
+Aerobní gramnegativní mikroorganismy
+Acinetobacter baumannii Enterobacter cloacae Escherichia coli % Klebsiella oxytoca % Klebsiella pneumoniae % Pseudomonas aeruginosa
+Přirozeně rezistentní druhy
+Aerobní grampozitivní mikroorganismy
+Enterococcus spp. Listeria monocytogenes
+Stafylococcus aureus (methicilin rezistentní) Aerobní gramnegativní mikroorganismy Stenotrophomonas maltophilia
+Anaerobní mikroorganizmy Bacteroides fragilis Clostridium difficile
+Jiné mikroorganizmy
+Chlamydia spp.
+Chlamydophila spp.
+9
+
+Legionella spp.
+Mycoplasma spp.
+°  Nebyly k dispozici žádné aktuální údaje v době publikace této tabulky. Citlivost se uvádí v primární literatuře, standardní práci a terapeutických doporučeních.
+⁺ Výskyt rezistence je více než 50 % v minimálně jednom regionu.
+% Kmeny s beta-laktamázami s rozšířeným spektrem (ESBL) jsou vždy rezistentní.
+³ V ambulantním provozu je výskyt rezistence < 10 %.
+
+5.2  Farmakokinetické vlastnosti
+Farmakokinetické vlastnosti cefepimu jsou lineární v rámci rozsahu od 250 mg do 2 g i.v. Neliší se s ohledem na trvání léčby.
+
+Absorpce
+Po intravenózním podání 2 g po dobu 30 minut zdravým dobrovolníkům byly vrcholové plazmatické
+koncentrace (Cmax) 126 - 193 μg/ml.
+
+Distribuce
+Cefepim se dobře distribuuje v tělesných tekutinách a tkáních. V rozmezí od 250 mg do 2 g se relativní tkáňová distribuce cefepimu neliší v souvislosti s podávanou dávkou. Průměrný distribuční objem
+ustáleného stavu je 18 litrů. Nejsou důkazy o jakékoliv akumulaci u zdravých subjektů, kterým byly podány dávky do 2 g i.v. při 8hodinových intervalech v průběhu 9 dnů. Vazba cefepimu na sérové proteiny je < 19
+% a není závislá na sérových koncentracích. Průměrný poločas eliminace je asi 2 hodiny.
+
+Biotransformace
+Cefepim je metabolizován pouze v malé míře. Primární močový metabolit je N-methylpyrrolidin- oxid,
+terciární amin, a představuje asi jen 7 % dávky.
+
+Eliminace
+Průměrná celotělová clearance je 120 ml/min. Průměrná renální clearance cefepimu je 110 ml/min. To ukazuje, že se cefepim téměř výlučně eliminuje prostřednictvím renálních mechanismů, zejména
+glomerulární filtrací. Močové vstřebávání nezměněného cefepimu je asi 85 % dávky, což vede k vysokým močovým koncentracím cefepimu. Po intravenózním podání 500 mg cefepimu nebyl cefepim již
+detekovatelný po 12 hodinách v plazmě a po 16 hodinách v moči.
+
+Starší pacienti
+Distribuce cefepimu byla hodnocena u starších mužů a žen (> 65 let). Bezpečnost a účinnost u starších
+pacientů je srovnatelná pro dospělé, zatímco mírné prodloužení poločasu eliminace a nižší hodnoty renální clearance byly pozorovány u starších pacientů. Úprava dávky je nutná, pokud je současně přítomná porucha funkce ledvin (viz bod 4.2. Dávkování a způsob podání (Dospělí s poruchou funkce ledvin a 4.4. Zvláštní
+upozornění a opatření pro použití/Starší pacienti).
+
+Pediatrická populace
+Farmakokinetika s ohledem na jednotlivé a vícenásobné dávky cefepimu byla hodnocena u pacientů ve věku mezi 2 měsíci a 16 roky, kteří dostávali dávky 50 mg/kg podaných prostřednictvím i.v. infuze. Více dávek bylo podáváno každých 8 nebo 12 hodin po dobu alespoň 48 hodin.
+Průměrné plazmatické koncentrace cefepimu po první dávce byly podobné koncentracím v ustáleném stavu a při podání dalších dávek byla pozorována mírná akumulace.
+Hodnoty dalších farmakokinetických parametrů u kojenců a dětí stanovené po první dávce a v ustáleném stavu se neliší, bez ohledu na plán dávkování (každých 12 hodin nebo každých 8 hodin). Nebyly žádné
+rozdíly ve farmakokinetických hodnotách mezi pacienty různých věkových skupin ani mezi muži a ženami. Po podání jedné i.v. dávky byla průměrná celotělová clearance 3,3 ml/min/kg a distribuční objem byl 0,3 l/kg. Celkový průměrný poločas eliminace byl 1,7 hodin. Podíl cefepimu zjištěného v nezměněné formě v moči byl 60,4 % podané dávky a renální clearance byla hlavní cestou eliminace s průměrnou hodnotou 2,0 ml/min/kg.
+
+
+10
+
+Porucha funkce ledvin:
+Studie u objektů s různým stupněm renální insuficience ukázaly významné prodloužení poločasu eliminace. Existuje lineární vztah mezi individuální tělesnou clearance a clearance kreatininu s poruchou funkce ledvin. Průměrný poločas eliminace u dialyzovaných pacientů je 13 hodin (hemodialýza) a 19 hodin pro kontinuální ambulantní peritoneální dialýzu.
+
+Porucha funkce jater
+Při jednorázovém podání 1 g je kinetika cefepimu u pacientů s cystickou fibrózou a jaterní dysfunkcí nezměněná. Proto není nutná žádná úprava dávky.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+I když nebyly provedeny žádné dlouhodobé studie na zvířatech hodnotící karcinogenní potenciál, hodnocení
+in vivo a in vitro ukázalo, že cefepim není genotoxický.
+Studie na zvířatech ukázaly, že denní dávky do 10násobku doporučené dávky u člověka nemají žádný přímý vliv nebo nepřímé škodlivé účinky na reprodukci, embryonální nebo fetální vývoj, trvání gestace nebo peri- či postnatální vývoj.
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+arginin
+
+6.2  Inkompatibility
+Roztoky přípravku Cefepim MIP se nesmí mísit s následujícími antibiotiky: metronidazol, vankomycin, gentamicin, tobramycin-sulfát a netilmicin-sulfát, protože se mohou objevit fyzikální nebo chemické inkompatibility. Pokud by byla taková souběžná léčba indikována, musí se látky podat odděleně.
+Všechny parenterální přípravky se mají vizuálně zkontrolovat na přítomnost částic před podáním.
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky mimo těch, které jsou uvedeny v bodu
+6.6.
+
+6.3  Doba použitelnosti
+27 měsíců
+
+Doba použitelnosti připraveného roztoku
+Chemická a fyzikální stabilita připraveného roztoku byla prokázána po dobu 2 hodin při teplotě 25 °C a 24 hodin při teplotě 2 °C - 8 °C. Z mikrobiologického hlediska má být přípravek použit okamžitě. Pokud není použit okamžitě, doba použitelnosti a podmínky uchovávání přípravku před použitím jsou v odpovědnosti uživatele.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 30 °C. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+Podmínky pro uchovávání po rekonstituci viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+Cefepim MIP 1 g se dodává v 15ml injekčních lahvičkách z bezbarvého skla třídy I zavřených
+bromobutylovým pryžovým uzávěrem a odklápěcím víčkem a obsahujících bílý až světle žlutý prášek.
+Cefepim MIP 2 g se dodává v 50ml injekčních lahvičkách z bezbarvého skla třídy II zavřených bromobutylovým pryžovým uzávěrem a odklápěcím víčkem.
+
+Velikosti balení: balení s 1, 5 nebo 10 lahvičkami. Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Příprava roztoku pro intravenózní injekci
+
+
+11
+
+Obsah lahvičky se rozpustí v 10 ml rozpouštědla tak, jak je uvedeno v tabulce níže. Připravený roztok se
+aplikuje pomalou injekcí během 3 až 5 minut - buď přímo do žíly nebo přímo do kanyly infuzního systému, zatímco pacient dostává infuzi s kompatibilním intravenózním roztokem.
+
+Příprava roztoku pro intravenózní infuzi
+Pro intravenózní infuzi rozpusťte 1 g nebo 2 g roztoku cefepimu, jak je uvedeno výše pro přímé intravenózní podání a přidejte požadované množství výsledného roztoku do nádoby s jedním z kompatibilních
+intravenózních roztoků (doporučený finální objem: asi 40-50 ml). Připravený roztok by se měl podávat asi
+30 minut.
+
+Následující tabulka obsahuje pokyny pro rekonstituci:
+
+Dávkování a způsob podání
+1 g i.v.
+2 g i.v.
+Přidané rozpouštědlo (ml)
+
+10,0
+10,0
+Výsledný objem (ml)
+
+11,4
+12,8
+Koncentrace
+(přibližně, v mg/ml)
+90
+160
+
+Kompatibilita s intravenózními roztoky
+Následující rozpouštědla jsou vhodná pro přípravu roztoku:
+• voda na injekci
+• roztok glukózy 50 mg/ml (5 %)
+• roztok chloridu sodného 9 mg/ml (0,9 %)
+
+Rekonstituce nebo ředění se má provádět za aseptických podmínek. Přidejte doporučený objem rekonstituovaného roztoku a jemně protřepejte, dokud se obsah lahvičky zcela nerozpustí.
+Pouze pro jedno použití. Veškerý zbývající roztok je třeba vyhodit. Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Viz bod 6.2, kde jsou uvedeny inkompatibility.
+Před použitím lahvičku zkontrolujte. Roztok se smí používat pouze v případě, pokud neobsahuje žádné částice.
+Používejte pouze čiré roztoky.
+Podobně jako jiné cefalosporiny je možné, že roztoky cefepimu mohou mít žlutou až jantarovou barvu v závislosti na podmínkách uchovávání. Toto však nemá žádný vliv na účinek přípravku.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+MIP Pharma GmbH Kirkeler Str. 41
+66440 Blieskastel
+Německo
+Telefon: 0049 (0) 6842 9609 0
+Fax: 0049 (0) 6842 9609 355
+
+8.  REGISTRAČNÍ ČÍSLO (ČÍSLA)
+
+Cefepim MIP 1 g: 15/146/15-C Cefepim MIP 2 g: 15/147/15-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 25. 3. 2015
+Datum posledního prodloužení registrace: 9. 5. 2019
+
+
+
+12
+
+10.  DATUM REVIZE TEXTU
+
+11. 9. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13

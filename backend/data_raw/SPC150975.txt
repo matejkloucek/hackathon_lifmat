@@ -1,0 +1,289 @@
+sp.zn. sukls48273/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Fludeoxythymidin (18F) RadioMedic 1 – 8 GBq injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Léčivá látka
+Fludeoxythymidinum (¹⁸F) 1 - 8 GBq k datu a hodině kalibrace
+Fyzikální charakteristika
+Fluor-(¹⁸F) má poločas 110 minut. Přeměňuje se emisí pozitronu (β+max = 633 keV, 97%) a záchytem elektronu (3%) na stabilní kyslík (¹⁸O). Pozitron zaniká anihilací za emise dvou fotonů gama s energií 511 keV (194 %), vzájemně opačně orientovaných.
+
+Složka pomocných látek se známým účinkem:
+Přípravek obsahuje maximálně 80 mg ethanolu v jednom mililitru.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Injekční roztok. Čirý bezbarvý nebo žlutě zbarvený roztok, prostý částic.
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+Fludeoxythymidin (18F) RadioMedic je diagnostické radiofarmakum, které je určeno především pro topografickou diagnostiku maligních nádorů pomocí pozitronové emisní tomografie (PET) a stanovení stupně mitotické aktivity jejich buněk.
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dospělí
+Nominální aktivita pro dospělého pacienta o hmotnosti 70 kg je doporučována v rozmezí 150 - 600 MBq fludeoxythymidinu (¹⁸F) (dávku je třeba upravit v závislosti na tělesné hmotnosti, na typu použité zobrazovací techniky, klinické otázce a stavu pacienta). Přípravek se podává přímou intravenózní injekcí.
+Pediatrická populace
+Aplikovanou aktivitu u dětí s malou tělesnou hmotností je třeba snížit.
+
+Způsob podání
+Jedna lahvička je použitelná pro jednu nebo pro více aplikací.
+Aplikovanou aktivitu není nutné redukovat u různých onemocnění. Přípravek se podává přímou intravenózní injekcí. Aplikace je jednorázová. Vyšetření se provádí za 15 - 30 minut po intravenózním podání.
+
+
+1/6
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Používat a aplikovat přípravek obsahující (¹⁸F) pacientům může jen osoba, která je držitelem příslušného povolení vydaného Státním úřadem pro jadernou bezpečnost, přitom musí být dodržovány zásady bezpečnosti práce s radionuklidovými zdroji záření a opatření snižující radiační zátěž pacientů i personálu.
+Individuální posouzení poměru risk/benefit
+U všech pacientů musí být vystavení ionizujícímu záření odůvodněné na základě očekávaného diagnostického přínosu. Pokaždé musí být podána co možná nejnižší aktivita, kterou lze získat požadovanou diagnostickou informaci.
+Porucha funkce ledvin
+U pacientů se sníženou funkcí ledvin je nutné velmi pečlivě určit indikaci, protože u těchto pacientů může dojít ke zvýšené radiační zátěži.
+Pediatrická populace
+Aplikovanou aktivitu u dětí s malou tělesnou hmotností je třeba snížit.
+Příprava pacienta
+Pacient musí být instruován, aby před a po vyšetření zvýšil příjem tekutin a často močil pro snížení radiační zátěže močových cest; pokud není ošetřujícím lékařem nařízena restrikce tekutin.
+Po proceduře
+Doporučuje se, aby se pacienti v prvních 12 hodinách po podání injekce vyhýbali přímému kontaktu s malými dětmi.
+Zvláštní upozornění
+Tento přípravek obsahuje méně než 1 mmol (23 mg) sodíku v injekci, to znamená, že je v podstatě
+„bez sodíku“.
+Tento léčivý přípravek obsahuje 400 mg alkoholu (ethanolu) v maximální aplikovatelné dávce (5 ml), což odpovídá 80 mg/ml (8 % w/v).
+Množství alkoholu v maximální dávce tohoto léčivého přípravku odpovídá 10 ml piva nebo 4 ml vína. Takto malé množství alkoholu v tomto léčivém přípravku nemá žádné znatelné účinky.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly provedeny žádné studie interakcí.
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Je-li uvažováno o podání radioaktivního léčiva ženě, která může otěhotnět, vždy je nutné se přesvědčit, jestli je, či není těhotná.
+Každá žena, u níž došlo k vynechání menstruace, by měla být potenciálně považována za těhotnou, není-li prokázán opak. O užití u žen s pozitivním těhotenským testem musí rozhodnout lékař na základě očekávaného přínosu vyšetření při maximálním snížení rizika pro plod. Je-li odhad dávky plodu menší než 1 mSv, je podání radiofarmaka ve zdůvodněných případech akceptovatelné. V takovém případě by měla být zvážena možnost použití metody nezahrnující ionizační záření.
+
+Těhotenství
+Nejsou známy žádné informace o podání fludeoxythymidinu (¹⁸F) těhotným ženám.
+
+
+2/6
+
+Kojení
+Před aplikací přípravku Fludeoxythymidin (18F) RadioMedic kojícím ženám je nutné uvážit, zda je možné  vyšetření  odložit  na dobu, kdy bude  kojení  ukončeno. V případě,  že je vyšetření fludeoxythymidinem (¹⁸F) nutné, je třeba kojení přerušit po dobu minimálně 12 hodin a mléko, které se v prsu vytvoří, je nutno odsát a znehodnotit. Mateřské mléko je možné odsát před podáním fludeoxythymidinu (¹⁸F) a uschovat pro pozdější použití.
+Z důvodu ochrany před ionizujícím zářením je doporučeno vyhýbat se kontaktu mezi matkou a malými dětmi po dobu 12 hodin po aplikaci fludeoxythymidinu (¹⁸F).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Fludeoxythymidin (18F) RadioMedic nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky po podání fludeoxythymidinu (¹⁸F) nebyly popsány.
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné vzhledem k přínosu vyšetření. Tabulka v bodě 11 obsahuje dozimetrické údaje, kde jsou uvedeny absorbované dávky v nejvíce ozářených orgánech pro standardního pacienta. Vždy je třeba zhodnotit velikost efektivní dávky v důsledku aplikace uvedeného radiofarmaka ve vztahu k radiační zátěži jednotlivých orgánů. Tyto údaje jsou důležité i vzhledem k tomu, že dané radiofarmakum patří v nukleární medicíně k látkám s nezanedbatelnou radiační zátěží pro pacienta.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Na základě dávek používaných k diagnostickým účelům je předávkování ve farmakologickém smyslu nepravděpodobné.
+Riziko předávkování fludeoxythymidinem (¹⁸F) souvisí pouze s vystavením nadměrnému ozáření.
+V takovém případě je třeba dávku, kterou pacient absorboval redukovat zvýšeným vylučováním radionuklidu prostřednictvím forsírované diurézy a častým vyprazdňováním močového měchýře.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: diagnostická radiofarmaka, ATC kód: V09 Mechanismus účinku
+Fludeoxythymidin (¹⁸F) je akumulován v buňkách maligních nádorů podle stupně mitotické aktivity (a tudíž stupně malignity), což je vhodné pro diagnostiku těchto nádorů.
+
+Farmakodynamické účinky
+Vzhledem ke koncentracím léčivé látky při diagnostických vyšetřeních nevykazuje fludeoxythymidin (¹⁸F) žádné farmakodynamické vlastnosti.
+
+3/6
+
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Fludeoxythymidin (¹⁸F) se během 10 minut po intravenózní aplikaci rychle vychytává v cílových tkáních a po dobu 60 minut zůstává jeho akumulace stabilní. Nejvyšší akumulace fludeoxythymidinu (¹⁸F) je v kostní dřeni, v ledvinách, v močovém měchýři, v játrech a v nádorové tkáni s vysokým stupněm proliferace.
+Fludeoxythymidin (¹⁸F) jako analog thymidinu je v buňkách fosforylován thymidinkinázou 1 (TK1) na fludeoxythymidin (¹⁸F) - monofosfát, jehož množství proporcionálně odpovídá aktivitě TK1. Koncentrace TK1 je vysoká v rychle se dělících buňkách a v nádorové tkáni, odpovídá syntéze DNA a stupni mitotické aktivity buněk. Fludeoxythymidin (¹⁸F) -monofosfát je pouze minimálně (méně než v 1%) inkorporován do DNA, není metabolizován fosfohydrolázami a je v buňkách akumulován. Vychytávání fludeoxythymidinu (¹⁸F) je přímo úměrné stupni syntézy DNA a odráží tedy buněčnou proliferaci.
+Eliminace
+Fludeoxythymidin (¹⁸F) je metabolizován v játrech na fludeoxythymidin (¹⁸F) - glukuronid, který je transportován do krve a vylučován ledvinami. Průměrně 70 % aktivity fludeoxythymidinu (¹⁸F) zůstává 60 minut po aplikaci nemetabolizováno.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+V předklinických studiích nebyly zaznamenány žádné nežádoucí účinky.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+voda pro injekci, dihydrát natrium-citrátu, kyselina askorbová, hydroxid sodný, ethanol, izotonický infuzní roztok chloridu sodného
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 12.
+
+6.3  Doba použitelnosti
+
+Maximálně 12 hodin od konce výroby.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25°C. Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem. Uchovávejte v souladu s požadavky platných předpisů pro uchovávání radioaktivních látek. Chraňte před mrazem.
+6.5  Druh obalu a obsah balení
+
+Injekční lahvička pro opakovaný odběr uzavřená pryžovým uzávěrem a hliníkovou objímkou (zapertlovaná). Kontejner z vhodně stínícího materiálu.
+Velikost balení:
+1,0 GBq; 1,25 GBq; 1,5 GBq; 1,75 GBq; 2,0 GBq; 2,25 GBq; 2,5 GBq; 3,0 GBq; 3,5 GBq; 4,0 GBq;
+4,5 GBq; 5,0 GBq; 6,0 GBq; 7,0 GBq; 8,0 GBq /lahvička. Na trhu nemusí být všechny velikosti balení.
+
+
+4/6
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecná upozornění
+Radioaktivní léčiva mohou přijímat, používat a podávat jenom osoby, které k tomu byly oprávněné příslušnými úřady. Příjem, skladování, používání, výdej a likvidace odpadu těchto produktů podléhají příslušným zplnomocněním a předpisům příslušných úřadů.
+
+Radiofarmaka se musí připravovat takovým způsobem, aby byly dodrženy jak požadavky radiační ochrany, tak farmaceutické jakosti.
+
+Fludeoxythymidin (18F) RadioMedic by měl být skladován a mělo by s ním být zacházeno v příslušném stínícím obalu, aby bylo dosaženo maximální možné ochrany pacientů a zdravotnických pracovníků. Je doporučena osobní ochrana proti β+ záření a anihilačním fotonům a to použitím vhodného stínění zvláště při práci s lahvičkami a injekčními stříkačkami.
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vnějšího ozáření, tak riziko kontaminace stopami moči, zvratků apod. Při zacházení s obaly a nepoužitým přípravkem je nutné dbát zásad radiační ochrany před ionizujícím zářením, které vyplývají z příslušných předpisů a vyhlášek v platném znění.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+RadioMedic s.r.o.
+Husinec-Řež 289, 250 68 Řež , Česká republika
+Tel.: 266 173 253
+Fax: 220 940 151
+e-mail: info@radiomedic.cz
+
+8.   REGISTRAČNÍ ČÍSLO
+
+88/078/08-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 6. 2. 2008
+Datum posledního prodloužení registrace: 19. 12. 2012
+
+10.  DATUM REVIZE TEXTU
+
+3. 12. 2019
+
+11.  DOZIMETRIE
+Dávková konstanta gama pro ¹⁸F = 154 µG.m².GBq⁻¹.h⁻¹ Energie Egama = 511 keV
+Poločas rozpadu ¹⁸F = 110 min
+
+
+
+
+
+
+
+
+
+5/6
+
+Absorbovaná dávka u dospělého pacienta o hmotnosti 70 kg.*
+
+
+Orgán
+Nadledvinka Mozek
+Prsa
+Stěna žlučníku
+Dolní část tlustého střeva Tenké střevo
+Žaludek
+Horní část tlustého střeva Srdeční stěna
+Ledviny Játra Plíce Sval
+Vaječníky Slinivka
+Červená kostní dřeň Povrch kostí
+Kůže Slezina Varlata Brzlík Štítná žláza
+Stěna močového měchýře Děloha
+Čočky
+Efektivní dávka
+Absorbovaná dávka¹⁾ [mGy/MBq]
+0,0190
+0,0038
+0,0073
+0,0168
+0,0135
+0,0150
+0,0134
+0,0122
+0,0257
+0,0357
+0,0499
+0,0104
+0,0185
+0,0160
+0,0200
+0,0260
+0,0164
+0,0044
+0,0206
+0,0146
+0,0113
+0,0106
+0,1190
+0,0185
+0,0092
+0,0281 mSv/MBq
+Absorbovaná dávka [mGy/400 MBq]
+7,6
+1,5
+2,9
+6,7
+5,4
+6,0
+5,4
+4,9
+10,3
+14,3
+20,0
+4,2
+7,4
+6,4
+8,0
+10,4
+6,6
+1,8
+8,3
+5,8
+4,5
+4,2
+47,6
+7,4
+3,7
+11,3 mSv/400 MBq
+
+¹⁾ na jednotkovou aplikovanou aktivitu
+* Podle publikace ¹⁸F-Fluorothymidine Radiation Dosimetry in Human PET Imaging Studies. J Nucl Med 44, 1482-1488, 2003
+
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Přípravek je určen k přímému intravenóznímu podání pacientům. Jedna lahvička je použitelná pro jednu nebo pro více aplikací. V případě potřeby je možné zředit léčivý přípravek injekčním roztokem 0,9% chloridu sodného nebo sterilizovanou vodou pro injekci na požadovanou objemovou aktivitu v souladu s dávkováním a způsobem podání.
+Příprava radiofarmak musí být v souladu s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením a musí splňovat požadavky správné výrobní praxe.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+
+
+
+6/6

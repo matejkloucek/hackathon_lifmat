@@ -1,0 +1,401 @@
+sp.zn. sukls249359/2017
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Mivacron 2 mg/ml
+injekční roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Mivacurii chloridum 2,14 mg, což odpovídá mivacurium 2 mg v 1 ml roztoku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Injekční roztok
+Popis přípravku: čirý bezbarvý, nejvýše slabě nažloutlý roztok prakticky prostý částic.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Mivacron se používá jako součást celkové anestezie k relaxaci kosterního svalstva a usnadnění tracheální intubace a mechanické ventilace u dospělých, dětí a kojenců ve věku od 2 měsíců.
+
+4.2  Dávkování a způsob podání
+Dávkování ve formě injekce u dospělých pacientů
+Mivakurium se podává intravenózní injekcí. Průměrná dávka potřebná k dosažení 95% potlačení záškubu musculus adductor pollicis jako reakce na stimulaci ulnárního nervu (ED95) u dospělých osob, jimž byla podána celková anestezie, je 0,07 mg/kg (rozmezí 0,06 až 0,09 mg/kg).
+Pro tracheální intubaci jsou doporučena tato dávkování:
+I. Dávka 0,2 mg/kg podaná během 30 sekund navodí dobré až vynikající podmínky pro tracheální intubaci za 2 až 2,5 minuty.
+II. Dávka 0,25 mg/kg podaná v dílčích dávkách (0,15 mg/kg a po 30 sekundách 0,1 mg/kg) navodí dobré až vynikající podmínky pro tracheální intubaci za 1,5 až 2 minuty po ukončení aplikace první dávky.
+
+Doporučená počáteční dávka podávaná ve formě bolusu dospělým pacientům je 0,07 až 0,25 mg/kg.
+Trvání neuromuskulární blokády závisí na dávce; dávky 0,07; 0,15; 0,20 a 0,25 mg/kg způsobují
+klinicky účinnou blokádu na dobu přibližně 13, 16, 20 a 23 minut. Dávky do 0,15 mg/kg se aplikují po dobu 5 až 15 sekund. Vyšší dávky by měly být aplikovány po dobu 30 sekund, aby se snížila na
+minimum možnost výskytu nežádoucích kardiovaskulárních účinků.
+
+Úplnou blokádu lze prodloužit podáváním udržovací dávky mivakuria. Dávka 0,1 mg/kg podaná
+během celkové anestezie prodlouží klinicky účinnou blokádu vždy přibližně o 15 minut. Opakované dávky nevedou ke kumulaci účinku neuromuskulární blokády.
+Neuromuskulární blokáda vyvolaná mivakuriem je potencována anestezií navozenou isofluranem nebo enfluranem. Jestliže je při anestezii vedené isofluranem nebo enfluranem dosaženo
+1/10
+
+rovnovážného stavu, měla by být doporučená úvodní dávka mivakuria snížena až o 25 %. Zdá se, že halothan má na účinek mivakuria pouze minimální potencující vliv a nejspíše není třeba dávku mivakuria snižovat.
+
+Spontánního zotavení je dosaženo přibližně během 15 minut, a to nezávisle na velikosti podané dávky.
+Neuromuskulární blokádu navozenou mivakuriem lze rychle zrušit standardními dávkami inhibitorů cholinesterázy. Protože však spontánní zotavení po podání mivakuria probíhá rychle, není zrušení neuromuskulární blokády obvykle zapotřebí, neboť doba potřebná k zotavení se tím zkrátí o pouhých 5 až 6 minut.
+
+Dávkování infuzí u dospělých pacientů
+K udržení neuromuskulární blokády lze použít kontinuální infuzi mivakuria. Při časných projevech spontánního zotavení po podání úvodní dávky mivakuria se doporučuje podávat infuzi rychlostí 8 až 10 μg/kg/min (0,5 až 0,6 mg/kg/h).
+Počáteční rychlost infuze je třeba upravit podle odpovědi pacienta na stimulaci periferního nervu
+a podle klinických kritérií.
+Rychlost infuze je nutné upravovat přibližně po 1 μg/kg/min (0,06 mg/kg/h). Obecně platí, že před každou změnou je nutné danou rychlost infuze zachovat alespoň po dobu 3 minut.
+Průměrně udrží u dospělých pacientů v intravenózní anestezii dlouhodobě 89 až 99% neuromuskulární blokádu infuze o rychlosti 6 až 7 μg/kg/min. Během rovnovážného stavu anestezie isofluranem nebo enfluranem je nutné zvážit možnost snížení rychlosti infuze mivakuria až o 40 %. Klinická studie prokázala, že během anestezie sevofluranem je nutné snížit rychlost infuze mivakuria až o 50 %. Při
+podání halothanu může být vyžadována menší redukce rychlosti infuze mivakuria.
+
+Spontánní zotavení po infuzi mivakuria nezávisí na délce infuze a je srovnatelné se zotavením po jednotlivé injekční dávce.
+V souvislosti s kontinuální infuzí mivakuria nebyla pozorována tachyfylaxe ani kumulativní neuromuskulární blokáda.
+Injekce Mivacron (2 mg/ml) lze používat k infuzi v neředěné formě. Injekce Mivacron jsou kompatibilní s těmito infuzními roztoky:
+- infuzní roztok 0,9% chloridu sodného;
+- infuzní roztok 5% glukózy;
+- infuzní roztok 0,18% chloridu sodného a 4% glukózy;
+- infuzní roztok Ringer-laktátu.
+
+Pediatrická populace
+Dávkování u dětí ve věku od 7 měsíců do 12 let
+Ve srovnání s dospělými je podávání mivakuria dětem ve věku od 7 měsíců do 12 let charakterizováno vyšší hodnotou ED95 (přibližně 0,1 mg/kg), rychlejším nástupem účinku, kratším klinickým trváním
+účinku a rychlejším spontánním zotavením.
+Doporučená úvodní dávka pro děti ve věku od 7 měsíců do 12 let je 0,1 až 0,2 mg/kg formou bolusu podaného po dobu 5 až 15 sekund. Podání dávky 0,2 mg/kg během vyvážené intravenózní nebo halothanové anestezie vyvolá klinicky účinnou blokádu po dobu v průměru 9 minut.
+
+Pro tracheální intubaci dětí ve věku od 7 měsíců do 12 let se doporučuje dávka 0,2 mg/kg. Maximální blokády je dosaženo přibližně do 2 minut po aplikaci této dávky; v té době by měla být intubace
+snadno proveditelná.
+
+U dětí je obvykle třeba podávat udržovací dávky častěji než u dospělých. Dostupné údaje naznačují, že udržovací dávka 0,1 mg/kg zajistí během intravenózní nebo halothanové anestezie dostatečně klinicky účinnou neuromuskulární blokádu na dalších přibližně 6 až 9 minut.
+
+
+2/10
+
+Dávkování infuzí: Děti zpravidla potřebují vyšší rychlost infuze než dospělí. Během halothanové
+anestezie u dětí ve věku od 7 do 23 měsíců je k udržení 89% až 99% neuromuskulární blokády potřebná rychlost infuze přibližně 11 μg/kg/min (přibližně 0,7 mg/kg/h) [s rozmezím 3 až
+26 μg/kg/min (přibližně 0,2 až 1,6 mg/kg/h)].
+Během halothanové nebo intravenózní anestezie u dětí ve věku od 2 do 12 let je k udržení 89% až 99% neuromuskulární blokády potřebná rychlost infuze přibližně 13 až 14 μg/kg/min (přibližně 0,8 mg/kg/h) [s rozmezím 5 až 31 μg/kg/min (přibližně 0,3 až 1,9 mg/kg/h)].
+Neuromuskulární blokáda vyvolaná mivakuriem je potencovaná inhalačními anestetiky. Klinická
+studie prokázala, že u dětí ve věku od 2 do 12 let by měla být během anestezie sevofluranem rychlost infuze mivakuria snížena až o 70 %.
+
+Od začátku do úplného spontánního zotavení je potřeba přibližně 10 minut.
+
+Dávkování u dětí ve věku od 2 do 6 měsíců
+Mivakurium má u dětí ve věku od 2 do 6 měsíců podobnou hodnotu ED95 jako u dospělých (přibližně 0,07 mg/kg), ale rychlejší nástup účinku, kratší klinické trvání účinku a rychlejší spontánní zotavení než u dospělých.
+Doporučená úvodní dávka pro děti ve věku od 2 do 6 měsíců je 0,1 až 0,15 mg/kg formou bolusu
+podaného po dobu 5 až 15 sekund. Během vyvážené halothanové anestezie působí dávka 0,15 mg/kg
+klinicky účinnou blokádu na dobu 9 minut.
+Pro tracheální intubaci dětí ve věku od 2 do 6 měsíců se doporučuje dávka 0,15 mg/kg. Maximální blokády se dosáhne přibližně do 1,4 minuty po aplikaci této dávky; v té době by měla být intubace snadno proveditelná.
+
+U dětí ve věku od 2 do 6 měsíců je obvykle třeba podávat udržovací dávky častěji než u dospělých. Dostupné údaje ukazují, že během halothanové anestezie udržovací dávka 0,1 mg/kg zajistí dostatečně klinicky účinnou neuromuskulární blokádu na dalších přibližně 7 minut.
+
+Dávkování infuzí: Děti ve věku od 2 do 6 měsíců zpravidla potřebují vyšší rychlost infuze než dospělí. Během halothanové anestezie u dětí ve věku od 2 do 6 měsíců je k udržení 89% až 99%
+neuromuskulární blokády potřebná rychlost infuze přibližně 11 μg/kg/min (přibližně 0,7 mg/kg/h) [s rozmezím 4 až 24 μg/kg/min (přibližně 0,2 až 1,5 mg/kg/h)].
+
+Od začátku do úplného spontánního zotavení je potřeba přibližně 10 minut.
+Dávkování u novorozenců a kojenců ve věku do 2 měsíců
+Bezpečnost a účinnost mivakuria u novorozenců a kojenců mladších než 2 měsíce nebyly dosud stanoveny. Nelze dát žádné doporučení týkající se dávkování.
+Dávkování u starších osob
+Je-li starším pacientům podána jednorázová dávka mivakuria ve formě bolusu, je doba nástupu účinku, délka trvání účinku a čas potřebný k zotavení o 20 až 30 % delší ve srovnání s mladšími
+pacienty. Starší pacienti mohou vyžadovat nižší nebo méně časté udržovací dávky. U starších pacientů může být též vyžadována nižší infuzní rychlost.
+
+Dávkování u pacientů s kardiovaskulárním onemocněním
+U pacientů s klinicky významným kardiovaskulárním onemocněním by měla být počáteční dávka mivakuria podána po dobu 60 sekund. Tímto způsobem bylo pacientům v kardiovaskulární chirurgii mivakurium aplikováno s minimálním hemodynamickým účinkem.
+
+Dávkování u pacientů s poruchou funkce ledvin
+U pacientů s terminálním selháním ledvin vyvolá dávka mivakuria 0,15 mg/kg klinicky efektivní
+blokádu trvající přibližně 1,5x déle než u pacientů s normální funkcí ledvin. Proto by měla být dávka upravena podle individuální klinické odpovědi.
+
+3/10
+
+K prodloužené nebo zesílené neuromuskulární blokádě může dojít též u pacientů s akutním nebo chronickým renálním selháním v důsledku snížených hladin plazmatické cholinesterázy (viz bod 4.4).
+
+Dávkování u pacientů s poruchou funkce jater
+U pacientů s terminálním selháním funkce jater je klinicky účinná blokáda vyvolaná dávkou
+0,15 mg/kg přibližně třikrát delší než u pacientů s normální funkcí jater. Souvisí to s výrazně sníženou aktivitou plazmatické cholinesterázy u těchto pacientů. Proto musí být dávka upravena podle
+individuální klinické odpovědi.
+
+Dávkování u pacientů se sníženou aktivitou plazmatické cholinesterázy
+Mivakurium je metabolizováno plazmatickou cholinesterázou. Aktivita plazmatické cholinesterázy může být snížena při genetických abnormalitách plazmatické cholinesterázy (např. u heterozygotních nebo homozygotních pacientů s atypickým genem pro plazmatickou cholinesterázu) nebo při různých patologických stavech (viz bod 4.4) nebo při podávání některých léčivých přípravků (viz bod 4.5).
+U pacientů se sníženou aktivitou plazmatické cholinesterázy je nutné mít na zřeteli možnost
+prodloužené neuromuskulární blokády. Mírné snížení (tj. do 20 % pod dolní hranici normálního rozmezí) nemá klinicky významný vliv na délku blokády (viz body 4.3 a 4.4).
+
+Dávkování u obézních pacientů
+U obézních pacientů vážících nejméně o 30 % více, než je ideální hmotnost v poměru k výšce, je nutné počáteční dávku mivakuria vypočítat podle ideální, nikoli skutečné tělesné hmotnosti.
+Monitorování
+Během podání mivakuria je doporučeno, stejně jako u jiných léčiv vyvolávajících neuromuskulární blokádu, monitorovat neuromuskulární funkce, aby mohlo být dávkování individuálně upraveno.
+Při nástupu účinku mivakuria není pozorován významný pokles při stimulaci technikou train-of-four (TOF). Většinou je možné provést tracheální intubaci ještě před úplným vymizením odpovědi musculus adductor pollicis na stimulaci TOF.
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Přípravek je kontraindikován také u pacientů, o nichž je známo, že jsou homozygotními nositeli atypického genu plazmatické cholinesterázy (viz bod 4.4).
+4.4  Zvláštní upozornění a opatření pro použití
+
+Mivakurium (stejně jako všechna ostatní léčiva pro neuromuskulární blokádu) paralyzuje svaly respiračního traktu i ostatní kosterní svaly, ale nemá žádný účinek na vědomí. Mivakurium smí být podáváno pouze zkušeným anesteziologem nebo osobou pod jeho přímým dohledem; k dispozici musí být příslušné vybavení pro endotracheální intubaci a řízenou ventilaci.
+
+K prodloužené a zvýrazněné neuromuskulární blokádě po podání mivakuria může dojít sekundárně
+v důsledku snížené aktivity plazmatické cholinesterázy při následujících stavech:
+• jako fyziologická odchylka v těhotenství a šestinedělí (viz bod 4.6);
+• genetické změny plazmatické cholinesterázy (viz níže a bod 4.3);
+• těžký generalizovaný tetanus, tuberkulóza a další těžké nebo chronické infekce;
+• chronické zneschopňující onemocnění, malignita, chronická anemie a malnutrice;
+• myxedém a kolagenózy;
+• dekompenzované srdeční onemocnění;
+• peptický vřed;
+• popáleniny (viz níže);
+• terminální jaterní selhání (viz bod 4.2);
+• akutní, chronické a terminální renální selhání (viz bod 4.2);
+• iatrogenní příčiny: po výměně plazmy, po plazmaferéze, kardiopulmonárním bypassu a v důsledku současně podávané terapie (viz bod 4.5).
+
+4/10
+
+Právě tak jako v případě suxamethonia/sukcinylcholinu jsou homozygotní pacienti s atypickým genem pro plazmatickou cholinesterázu (1 z 2 500 pacientů) velmi citliví na neuromuskulární blokádu vyvolanou mivakuriem. U tří takových dospělých pacientů vyvolala malá dávka mivakuria 0,03 mg/kg (přibližně ED10-20 u genotypicky normálních pacientů) úplnou neuromuskulární blokádu po dobu 26 až 128 minut.
+U heterozygotních pacientů s atypickým genem pro plazmatickou cholinesterázu je klinicky účinná délka blokády vyvolaná dávkou mivakuria 0,15 mg/kg přibližně o 10 minut delší než u kontrolních pacientů.
+
+Jakmile začalo probíhat spontánní zotavení, byla u těchto pacientů neuromuskulární blokáda zrušena obvyklými dávkami neostigminu.
+U pacientů s popáleninami může dojít k rozvoji rezistence na nedepolarizující neuromuskulární blokátory a tito pacienti pak mohou potřebovat vyšší dávky. Přesto mohou zároveň vykazovat
+sníženou aktivitu plazmatické cholinesterázy, což naopak vyžaduje snížení dávky. Proto je nutné pacientům s popáleninami podat zkušební dávku mivakuria 0,015 až 0,020 mg/kg a další dávkování upravit podle výsledků monitorování blokády neurostimulátorem.
+
+Mivakurium je nutné podávat opatrně pacientům s anamnézou zvýšené citlivosti na účinky histaminu, např. pacientům s astmatem. Pokud se mivakurium aplikuje v této skupině pacientů, musí jeho aplikace trvat 60 sekund.
+Podává-li se mivakurium pacientům, u kterých se v minulosti vyskytla hypersenzitivní reakce na jiné
+blokátory nervosvalového přenosu, je nutná zvláštní opatrnost, protože mezi blokátory nervosvalového přenosu byla popsána zkřížená reaktivita ve zvýšené míře (více než 50 %).
+
+Také u pacientů, u nichž je nebezpečí poklesu arteriálního tlaku, např. u pacientů s hypovolémií, by měla aplikace mivakuria trvat 60 sekund.
+Rychlé podání mivakuria v dávce 0,2 mg/kg a vyšší (3x ED95 a více) injekcí ve formě bolusu vedlo u dospělých osob k uvolňováním histaminu. Pomalé podání dávky 0,2 mg/kg nebo rozdělené podání dávky 0,25 mg/kg (viz bod 4.2) snižuje na minimum kardiovaskulární účinek těchto dávek.
+V klinických studiích u dětí nedošlo při rychlém podání bolusu v dávce 0,2 mg/kg k nežádoucím kardiovaskulárním reakcím.
+Mivakurium podané v doporučené dávce nevyvolává významnou vagovou blokádu a nemá ganglioplegický účinek. Doporučené dávky mivakuria tedy nemají klinicky významné účinky na srdeční frekvenci a nemají vliv na bradykardii vyvolanou mnoha anestetiky nebo perioperační vagovou stimulací.
+
+Stejně jako u jiných nedepolarizujících neuromuskulárních blokátorů lze očekávat zvýšenou citlivost
+na mivakurium u pacientů s myasthenia gravis, s jinými formami neuromuskulárních onemocnění a u kachektických pacientů. Těžké poruchy acidobazické rovnováhy a rovnováhy elektrolytů v séru mohou zvýšit nebo snížit citlivost pacientů na mivakurium.
+
+Roztok mivakuria je kyselý (s hodnotou pH přibližně 4,5) a nesmí se mísit ve stejné injekční stříkačce ani podávat stejnou jehlou současně se silně alkalickými roztoky (například roztoky barbiturátů). Bylo prokázáno, že mivakurium je kompatibilní s perioperačně běžně užívanými léčivy ve formě kyselých roztoků, např. fentanylem, alfentanilem, sufentanilem, droperidolem a midazolamem. Pokud se
+k podávání mivakuria používá stejná zavedená jehla nebo kanyla jako pro jiná anestetika, jejichž kompatibilita nebyla doložena, doporučuje se po každém podání léčiva kanylu propláchnout fyziologickým roztokem.
+Studie u prasat náchylných k maligní hypertermii ukázaly, že mivakurium tento syndrom nevyvolává. Působení mivakuria u pacientů náchylných k maligní hypertermii dosud nebylo zkoumáno.
+
+5/10
+
+Nejsou k dispozici žádné údaje o dlouhodobém používání mivakuria u uměle ventilovaných pacientů na jednotce intenzivní péče.
+Použití u novorozenců a kojenců ve věku do 2 měsíců se nedoporučuje z důvodu omezeného množství údajů (viz také bod 4.2).
+
+Zrušení neuromuskulární blokády
+Podobně jako u jiných léčivých přípravků vyvolávajících neuromuskulární blokádu by měly být
+antagonizující léčivé přípravky podány až po zjištění známek spontánního odeznívání blokády. Ke
+zhodnocení obnovení svalové síly je doporučeno před zrušením a po zrušení neuromuskulárního bloku použít periferní nervový stimulátor.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Neuromuskulární blokádu vyvolanou mivakuriem může potencovat současné použití inhalačních anestetik, např. enfluranu, isofluranu, sevofluranu a halothanu.
+Mivakurium bylo bezpečně aplikováno po tracheální intubaci usnadněné suxamethoniem. Před
+aplikací mivakuria by měly být patrné známky odeznívání účinku suxamethonia.
+Jako u všech nedepolarizujících neuromuskulárních blokátorů se může zvýšit stupeň a/nebo prodloužit trvání nedepolarizační neuromuskulární blokády, takže potřeba infuze může být nižší v důsledku interakce:
+-   s antibiotiky včetně aminoglykosidů, polymyxinů, spektinomycinu, tetracyklinů, linkomycinu
+a klindamycinu;
+-   s antiarytmiky: propranololem, blokátory kalciového kanálu, lidokainem, prokainamidem
+a chinidinem;
+-   s diuretiky: furosemidem a snad i thiazidy, mannitolem a acetazolamidem;
+-   se solemi hořčíku;
+-  s ketaminem;
+-   se solemi lithia;
+-   s ganglioplegiky: trimetafanem a hexamethoniem.
+
+Léky, které mohou snížit aktivitu plazmatické cholinesterázy, mohou také prodloužit účinek
+neuromuskulární blokády vyvolané mivakuriem. K těmto látkám patří antimitotické látky, inhibitory MAO, jodid ekothiofátu, pankuronium, organofosfáty, inhibitory cholinesterázy, některé hormony, bambuterol a selektivní inhibitory zpětného vychytávání serotoninu.
+
+V ojedinělých případech mohou některé léčivé přípravky zhoršit nebo odmaskovat latentní myasthenia gravis nebo dokonce indukovat myastenický syndrom s případným následným zvýšením citlivosti na mivakurium. K těmto přípravkům patří některá antibiotika, betablokátory (propranolol, oxprenolol), antiarytmika (prokainamid, chinidin), antirevmatika (chlorochin, D-penicilamin), trimetafan, chlorpromazin, steroidy, fenytoin a lithium.
+Podání kombinace nedepolarizujících léčivých přípravků působících neuromuskulární blokádu
+a mivakuria může vyvolat nadměrný stupeň neuromuskulární blokády, vyšší než by se dalo očekávat od ekvipotentní celkové dávky mivakuria. Výsledný synergický efekt léků je velmi variabilní
+v závislosti na užité kombinaci.
+
+K prodloužení účinku neuromuskulární blokády nedepolarizujících látek se nesmí aplikovat
+depolarizující myorelaxancia jako je suxamethonium-chlorid, protože výsledkem by mohla být delší
+a složitá blokáda, která by se obtížně rušila inhibitory cholinesterázy.
+
+4.6  Fertilita, těhotenství a kojení
+
+Fertilita:
+Studie vlivu na fertilitu nebyly provedeny.
+
+
+6/10
+
+Těhotenství:
+Mivakurium se nesmí používat během těhotenství, pokud očekávaný klinický přínos pro matku nepřeváží jakékoli možné riziko pro plod.
+Hladina plazmatické cholinesterázy během těhotenství klesá. Mivakurium bylo použito k udržení neuromuskulární blokády během císařského řezu, ale pro nižší hladinu plazmatické cholinesterázy bylo nutné snížit rychlost infuze. Další snížení rychlosti infuze při císařském řezu může být nutné po předchozí aplikaci síranu hořečnatého, a to pro potencující vliv hořčíku.
+
+Kojení
+Není známo, zda se mivakurium vylučuje do mateřského mléka.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Mivakurium je vždy podáváno při celkové anestézii, a proto platí obvyklá upozornění týkající se schopnosti řídit a obsluhovat stroje platná pro pacienty po celkové anestezii.
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky seřazené dle systémově-orgánové klasifikace a frekvence jsou uvedeny níže. Frekvence nežádoucích účinků je následující:
+Velmi časté ≥ 1/10, časté ≥ 1/100, < 1/10, méně časté ≥ 1/1 000, < 1/100, vzácné ≥ 1/10 000,
+< 1/1 000, velmi vzácné < 1/10 000 včetně izolovaných hlášení.
+
+Poruchy imunitního systému
+Velmi vzácné:        Závažné anafylaktické nebo anafylaktoidní reakce. Závažné
+anafylaktické nebo anafylaktoidní reakce byly hlášeny
+u pacientů, kterým byl podáván mivakurium-chlorid v kombinaci s jedním nebo více anestetiky.
+Srdeční poruchy
+Méně časté:         Přechodná tachykardie*
+Cévní poruchy
+Velmi časté:         Návaly*
+Méně časté:          Hypotenze* Respirační, hrudní a mediastinální poruchy Méně časté:          Bronchospasmus Poruchy kůže a podkožní tkáně
+Méně časté:         Erytém*, kopřivka*
+*Návaly, erytém, kopřivka, hypotenze, přechodná tachykardie a bronchospasmus spojené s podáním mivakuria jsou přisuzovány uvolňování histaminu. Tyto účinky jsou závislé na velikosti dávky a častěji se vyskytují po počáteční rychle podané dávce 0,2 mg/kg a vyšší. Jestliže je mivakurium-chlorid aplikován po dobu 30 až 60 sekund nebo rozdělen do dávek aplikovaných po dobu 30 sekund, jsou tyto nežádoucí účinky méně časté.
+Profil bezpečnosti u dětí je podobný profilu bezpečnosti u dospělých. Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+
+7/10
+
+Známky předávkování
+K hlavním známkám předávkování neuromuskulárními blokátory patří dlouhodobá svalová paralýza a její důsledky. Může se však také zvýšit riziko hemodynamických nežádoucích účinků, zvláště poklesu krevního tlaku.
+
+Postup při předávkování
+Až do obnovení dostatečného spontánního dýchání je nezbytné udržet průchodné dýchací cesty
+a zajistit řízenou ventilaci.
+Je zapotřebí úplná sedace, protože vědomí není ovlivněno.
+Jakmile se objeví známky spontánního zotavování, lze je uspíšit podáváním anticholinesteráz spolu s atropinem nebo glykopyrolátem. Kardiovaskulární podporu lze poskytnout správným polohováním pacienta a podle potřeby podáváním tekutin nebo vazopresorických přípravků.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Periferně působící myorelaxancia, jiné kvarterní amoniové sloučeniny,
+ATC kód: M03AC10.
+
+Mivakurium je vysoce selektivní krátkodobé nedepolarizující myorelaxans s rychlým zotavením. Mivakurium-chlorid je směsí tří stereoizomerů, v níž 92 až 96 % představují trans-trans a cis-trans stereoizomery. Studie u koček prokázaly, že se neliší účinek obou stereoizomerů mezi sebou ani
+v porovnání se směsí mivakurium-chloridu. Podle výsledků těchto studií se odhaduje, že ve srovnání s uvedenými dvěma stereoizomery způsobuje izomer cis-cis neuromuskulární blokádu z jedné desetiny.
+
+5.2  Farmakokinetické vlastnosti
+
+Biotransformace
+Enzymatická hydrolýza plazmatickou cholinesterázou představuje primární mechanismus deaktivace mivakuria za vzniku kvarterního alkoholu a kvarterního monoesterového metabolitu. Farmakologické studie u koček a psů ukázaly, že metabolity mají nevýznamné neuromuskulární, vegetativní nebo kardiovaskulární účinky v koncentracích vyšších, než byly pozorovány u člověka.
+Zrušení neuromuskulární blokády mivakuria závisí hlavně na hydrolýze plazmatickou
+pseudocholinesterázou, která je v lidské plazmě přítomna ve vysoké koncentraci.
+
+Eliminace
+Zdá se, že mivakurium je eliminováno více cestami (např. hydrolýzou jaterními esterázami, vylučováním do žluči a vylučováním ledvinami).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Mutagenita
+Mivakurium bylo hodnoceno ve čtyřech krátkodobých testech mutagenity. Mutagenita nebyla zjištěna ani v Amesově salmonelovém testu, ani v testu buněk lymfomu u myší, ani v testu s lidskými lymfocyty, ani v in vivo cytogenetickém testu v kostní dřeni potkanů.
+Kancerogenita
+Nejsou k dispozici žádné informace o případném kancerogenním účinku mivakuria.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+
+8/10
+
+Roztok kyseliny chlorovodíkové (1 mol/l) Voda na injekci
+
+6.2  Inkompatibility
+
+Roztok obsahující mivakurium je kyselý (s hodnotou pH přibližně 4,5) a nesmí se mísit ve stejné injekční stříkačce ani podávat stejnou jehlou současně s vysoce alkalickými roztoky, např. s roztoky barbiturátů.
+6.3  Doba použitelnosti
+
+18 měsíců.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Přípravek uchovávejte při teplotě do 25 °C. Uchovávejte vnitřní obal v krabičce, aby byl přípravek chráněn před světlem.
+Chraňte před mrazem.
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba
+a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele
+a normálně by doba neměla být delší než 24 hodin při 2 až 8 °C, pokud rekonstituce/ředění (atd.) neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.5  Druh obalu a obsah balení
+Odlamovací ampule z bezbarvého skla. Velikost balení:
+5x 5 ml;
+5x 10 ml.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Protože přípravek neobsahuje žádnou antimikrobiální konzervační přísadu, je nutné injekce používat za přísně aseptických podmínek a ředění provádět bezprostředně před použitím. Nespotřebované zbytky roztoku v otevřených ampulkách je třeba zlikvidovat.
+Mivakurium je kompatibilní s některými běžně perioperačně používanými léčivými přípravky podávanými ve formě kyselých roztoků, např. fentanylem, alfentanilem, sufentanilem, droperidolem a midazolamem.
+Pokud se k podávání mivakuria používá stejná zavedená jehla nebo kanyla jako pro jiná anestetika, jejichž kompatibilita nebyla doložena, doporučuje se po každém podání léčiva kanylu propláchnout fyziologickým roztokem.
+Injekce Mivacron jsou kompatibilní s těmito infuzními roztoky:
+- infuzní roztok chloridu sodného (0,9%);
+- infuzní roztok glukózy (5%);
+- infuzní roztok chloridu sodného (0,18%) a glukózy (4%);
+- infuzní roztok Ringer-laktátu.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Aspen Pharma Trading Limited,
+
+9/10
+
+3016 Lake Drive,
+Citywest Business Campus, Dublin 24, Irsko
+
+
+8.  REGISTRAČNÍ ČÍSLO
+63/591/97-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 9. 7. 1997
+Datum posledního prodloužení registrace: 1. 4. 2015
+
+10.  DATUM REVIZE TEXTU
+
+8. 11. 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/10

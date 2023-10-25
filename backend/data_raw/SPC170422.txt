@@ -1,0 +1,368 @@
+Sp. zn. sukls255770/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Binabic 50 mg potahované tablety
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna potahovaná tableta obsahuje bicalutamidum 50 mg. Pomocné látky se známým účinkem:
+jedna tableta obsahuje 62,7 mg monohydrátu laktózy. Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Potahovaná tableta.
+Popis přípravku: bílé, kulaté, bikonvexní potahované tablety o průměru 6,5 mm.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Léčba pokročilého karcinomu prostaty v kombinaci s analogy hormonů uvolňujících luteinizační hormon, tzv. LHRH nebo chirurgickou kastrací.
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dospělí muži včetně starších pacientů: jedna potahovaná tableta 50 mg jednou denně.
+Léčba bikalutamidem má být zahájena alespoň 3 dny před spuštěním terapie LHRH analogy nebo ve stejné době, kdy byla provedena kastrace.
+Pediatrická populace
+Přípravek Binabic 50 mg není určen k léčbě dětí a dospívajících.
+Porucha funkce ledvin: Úprava dávkování u pacientů s poruchou funkce ledvin není nutná.
+
+Porucha funkce jater: U pacientů s mírnou poruchou funkce jater není zapotřebí úprava dávkování. U
+pacientů se středně těžkou až těžkou poruchou funkce jater může docházet ke zvýšenému hromadění léčivé látky (viz bod 4.4).
+Způsob podání
+Způsob podání: perorální.
+Doporučuje se spolknout tabletu celou a po polknutí zapít tekutinou.
+4.3 Kontraindikace
+
+Binabic 50 mg je kontraindikován u žen a dětí (viz bod 4.6).
+Binabic 50 mg je kontraindikován u pacientů se známou hypersenzitivitou na léčivou látku nebo kteroukoli pomocnou látku.
+
+1
+
+Přípravek Binabic 50 mg nesmí být podáván současně s terfenadinem, astemizolem anebo cisapridem. Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Léčba má být zahájena pod dozorem lékaře specialisty a v průběhu léčby má být pacient pravidelně kontrolován.
+
+Bikalutamid je metabolizován převážně v játrech. Výsledky klinického výzkumu ukazují, že vylučování
+bikalumatidu u pacientů s těžkou poruchou funkce jater může být zpomaleno, což může vést ke zvýšenému hromadění přípravku v organizmu. Proto u pacientům se středně těžkou nebo těžkou poruchou funkce jater má být přípravek Binabic 50 mg používán s opatrností.
+Mají být prováděna opakovaná kontrolní vyšetření, tak aby byly včas odhaleny případné změny jaterních funkcí. Očekává se, že změny se ve většině případů vyskytnou v průběhu prvních 6 měsíců léčby bikalutamidem. Závažné jaterní změny a selhání jater byly při léčbě bikalutamidem pozorovány vzácně, hlášeny byly i fatální případy (viz bod 4.8.). V těchto případech je nutné léčbu bikalutamidem přerušit.
+U pacientů léčených LHRH agonisty bylo pozorováno snížení tolerance glukózy. To se může projevit jako diabetes nebo ztráta kontroly glykémie u diabetiků. Je proto třeba zvážit monitorování glykémie u pacientů užívajících bikalutamid v kombinaci s LHRH agonisty.
+
+Bylo zjištěno, že bikalutamid inhibuje cytochrom P450 (CYP 3A4), proto je zapotřebí opatrnost při
+souběžném podávání léčivých přpíravků metabolizovaných převážně prostřednictvím CYP 3A4 (viz body
+4.3 a 4.5).
+
+Androgen-deprivační léčba může prodlužovat QT interval.
+
+Před zahájením léčby přípravkem Binabic by měl lékař zvážit poměr přínosů a rizik, včetně rizika Torsade de pointes, u pacientů s rizikovými faktory pro prodloužení QT intervalu v anamnéze a u pacientů souběžně užívajících léčivé přípravky, které mohou prodlužovat QT interval (viz bod 4.5).
+Přípravek Binabic 50 mg obsahuje laktózu
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo
+malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+
+Přípravek Binabic 50 mg obsahuje sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jedné tabletě, to znamená, že je
+v podstatě „bez sodíku“.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Mezi bikalutamidem a LHRH analogy nebyly zjištěny žádné farmakologické či farmakokinetické interakce.
+
+Ve studiích in vitro bylo zjištěno, že R-enantiomer bikalutamidu působí především jako inhibitor CYP3A4, se slabším inhibičním účinkem na aktivitu izoenzymů CYP2C9, CYP2C19 a CYP2D6.
+Klinické studie s antipyrinem jako markerem aktivity cytochromu P450 neprokázaly interakční potenciál bikalutamidu, avšak střední expozice (AUC) midazolamu se zvýšila téměř o 80 % při současném podávání bikalutamidu po dobu 28 dní.
+
+U přípravků s úzkým terapeutickým indexem, může být takový nárůst klinicky významný. Z tohoto důvodu je kontraindikováno podávání bikalutamidu současně s terfenadinem, astemizolem a cisapridem (viz bod 4.3) a zvýšené opatrnosti je zapotřebí při současném podávání bikalutamidu s přípravky jako je cyklosporin
+anebo inhibitory kalciových kanálů. Pokud dojde k projevům zvýšeného účinku nebo navýšení nežádoucích účinků těchto látek, je zapotřebí snížit jejich dávkování. U pacientů užívajících cyklosporin se doporučuje
+pečlivá kontrola jeho plazmatických hladin a klinického stavu pacienta při zahájení a při ukončení léčby
+bikalutamidem.
+
+2
+
+Při současném podávání bikalutamidu s léčivými přípravky, například ketokonazolem nebo cimetidinem, které mohou inhibovat oxidaci léčivých přípravků, je zapotřebí zvýšená opatrnost. Inhibice oxidačních pochodů by mohla zvýšit plazmatické hladiny bikalutamidu, což by teoreticky mohlo vést ke zvýšení výskytu nežádoucích účinků.
+
+Studie in vitro prokázaly, že bikalutamid může vytěsňovat warfarin (kumarinové antikoagulans), z jeho vazby na bílkovinu. Proto se po zahájení léčby bikalutamidem u pacientů, kteří již užívají kumarinová antikoagulancia, doporučuje pečlivá kontrola hodnot protrombinového času.
+
+Kvůli souvislosti androgen-deprivační léčby a prodloužení QT intervalu by měla být pečlivě zvážena
+souběžná léčba přípravkem Binabic s léčivými přípravky, o kterých je známo, že prodlužují QT interval, a léčba přípravky, které mohou vyvolat Torsade de pointes, jako antiarytmika třídy I A (např. chinidin,
+disopyramid), třídy III (např. amiodaron, sotalol, dofetilid, ibutilid), metadon, moxifloxacin, antipsychotika a další (viz bod 4.4.).
+
+4.6 Fertilita, těhotenství a kojení
+
+Bikalutamid je kontraindikován u žen a nesmí být podáván těhotným a kojícím ženám.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Není pravděpodobné, že bikalutamid ovlivňuje schopnost pacientů řídit nebo obsluhovat stroje. Nicméně je třeba poznamenat, že se může příležitostně vyskytnout somnolence (viz bod 4.8). Tito pacienti mají dávat zvýšený pozor.
+
+4.8 Nežádoucí účinky
+
+V tomto bodě jsou nežádoucí účinky definovány následovně: Velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1000 až <1/100), vzácné (≥1/10000 až <1/1000), velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit).
+
+TAB. 1: Frekvence nežádoucích účinků
+
+Třídy orgánových systémů
+Poruchy krve a lymfatického systému
+Poruchy imunitního systému
+
+
+Poruchy metabolismu a výživy Psychiatrické poruchy
+
+Poruchy nervového systému
+
+
+Srdeční poruchy
+Frekvence
+Velmi časté Méně časté
+Časté Časté
+
+Velmi časté Časté
+Časté
+
+
+Není známo
+Nežádoucí účinek
+Anémie
+
+Hypersenzitivita Angioedém Kopřivka
+Snížená chuť k jídlu Snížené libido
+Deprese
+Závrať
+Somnolence
+Infarkt myokardu (byly hlášeny i fatální příhody)⁴
+Srdeční selhání⁴
+prodloužení QT intervalu (viz
+bod 4.4 a 4.5)
+Cévní poruchy           Velmi časté            Návaly horka
+
+
+3
+
+Respirační, hrudní a mediastinální poruchy
+
+Gastrointestinální poruchy
+
+
+
+
+
+Poruchy jater a žlučových cest
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+Poruchy ledvin a močových cest Poruchy reprodukčního systému
+a prsu
+Méně časté
+
+
+Velmi časté
+
+
+Časté Časté
+Vzácné Časté
+
+Velmi časté Velmi časté Časté
+Intersticiální plicní
+onemocnění⁵ (hlášeny byly i
+fatální případy)
+Bolest břicha Zácpa Nauzea
+Dyspepsie Flatulence
+Hepatotoxicita
+Žloutenka
+Zvýšená hladina transamináz¹
+Jaterní selhání² (hlášeny byly i
+fatální případy)
+Alopecie
+Hirsutismus/opětovný růst vlasů Suchost kůže
+Pruritus, vyrážka
+Hematurie
+Gynekomastie a citlivost prsů³ Erektilní dysfunkce
+
+Celkové poruchy a reakce v
+místě aplikace
+
+
+Vyšetření
+Velmi časté
+
+Časté Časté
+Asténie Edém
+Bolest na hrudi
+Nárůst hmotnosti
+1. Jaterní změny byly vzácně závažné, často byly přechodné a vymizely či se zlepšily s pokračující terapií nebo po ukončení terapie.
+2. Uvedeno jako nežádoucí účinek po revizi postmarketingových údajů. Frekvence byla určena na základě výskytu hlášených nežádoucích účinků jaterního selhání u pacientů léčených otevřeně bikalutamidem ve
+studiích EPC s dávkou 150 mg.
+
+3. Může být redukováno současně provedenou kastrací.
+
+4. Pozorováno ve farmako-epidemiologických studiích léčby karcinomu prostaty LHRH agonisty a
+antiandrogeny. Riziko se jevilo vyšší při použití bikalutamidu v dávce 50 mg v kombinaci s LHRH agonisty, ale nebylo vyšší při použití bikalutamidu v dávce 150 mg v monoterapii karcinomu prostaty.
+5. Uvedeno jako nežádoucí účinek po revizi postmarketingových údajů. Frekvence byla určena na základě výskytu hlášených nežádoucích účinků intersticiální pneumonie u pacientů léčených během
+randomizovaného období léčby ve studiích EPC s dávkou 150 mg.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili
+podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+
+4
+
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+Dosud nebyl hlášen žádný případ předávkování. Neexistuje žádné specifické antidotum, léčba případného předávkování má být symptomatická. Dialýza nemusí být účinná vzhledem k tomu, že bikalutamid vykazuje vysokou míru vazby na bílkoviny a v moči se jako volný a nezměněný nenachází. Je indikována celková podpůrná léčba s častou kontrolou základních životních funkcí.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antagonisté hormonů a příbuzná léčiva, antiandrogeny.
+ATC skupina: L02BB03
+
+Bikalutamid je nesteroidní antiandrogen, který nemá žádnou další endokrinní aktivitu. Váže se na androgenní receptory, bez schopnosti aktivovat expresi genů, a tím inhibuje androgenní stimulaci. Výsledkem inhibice je regrese nádorů prostaty. Přerušení léčby bikalutamidem může u některých pacientů vést ke vzniku syndromu z vysazení antiandrogenu.
+Bikalutamid je racemát jehož antiandrogenní účinek je téměř výlučně spojen s jeho R enantiomerem.
+
+5.2 Farmakokinetické vlastnosti
+
+Absorpce
+Bikalutamid se po perorálním podání dobře vstřebává. Nebyl zjištěn žádný klinicky významný vliv potravy
+na biologickou dostupnost bikalutamidu.
+
+Distribuce
+(S)-enantiomer bikalutamidu je vylučován rychle ve srovnání s jeho (R)-enantiomerem. Poločas plazmatické
+eliminace (R)-enantiomeru činí přibližně 1 týden.
+Při pravidelném podávání přípravku jednou denně je koncentrace (R)- enantiomeru v plazmě ve srovnání
+s (S)- enantiomerem přibližně desetinásobná, což je způsobeno jeho dlouhým eliminačním poločasem.
+Dávkování bikalutamidu 50 mg denně navodí ustálenou koncentraci (R)-enantiomeru v hodnotě přibližně 9 mikrogramů/ml. Z celkového počtu enantiomerů přítomných v plazmě v rovnovážném stavu připadá 99 % na (R)- enantiomer, který má dominantní podíl na léčebném efektu.
+Biotransformace a eliminace
+Farmakokinetika (R)-enantiomeru není ovlivněna věkem, poruchou funkce ledvin ani mírnou či středně
+těžkou poruchou funkce jater. Bylo prokázáno, že u pacientů s těžkou poruchou funkce jater je vylučování
+(R)-enantiomeru z plasmy zpomaleno.
+Bikalutamid se z velké míry váže na bílkoviny: (racemát z 96 %, (R)-enantiomer z více než 99 %) a je cestou oxidace a glukuronidace rychle metabolizován: Jeho metabolity jsou přibližně stejným dílem vylučovány ledvinami a žlučí.
+V klinické studii byla ve spermatu mužů, kteří užívali bikalutamid v dávce 150 mg, zjištěna průměrná koncentrace (R)-enantiomeru v hodnotě 4,9 mikrogramů/ml. Množství bikalutamidu, která se případně může při pohlavním styku přenést na ženu, je malé a pohybuje se okolo 0,3 mikrogramů/kg, což je menší než
+množství nezbytné pro vyvolání změn u potomků laboratorních zvířat.
+
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Bikalutamid působí u zvířat jako účinný antagonista androgenních receptorů a induktor oxidáz se smíšenou funkcí. Změny v cílových orgánech včetně indukce tumoru u zvířat jsou zjevně spojeny s těmito účinky.
+
+5
+
+Žádný z těchto účinků zjištěných v rámci preklinického hodnocení nemá prokazatelně vztah k léčbě pacientů
+s karcinomem prostaty.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Jádro tablety:
+Monohydrát laktózy
+Povidon K-25
+Sodná sůl karboxymethyl škrobu (typ A)
+Magnesium-stearát
+
+Potahová vrstva tablety:
+Potahová soustava Opadry OY-S-9622 bílá:
+Hypromelóza (E464) Oxid titaničitý (E171) Propylenglykol
+
+6.2 Inkompatibility
+Neuplatňuje se.
+
+6.3 Doba použitelnosti
+
+5 let
+
+6.4 Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5 Druh obalu a velikost balení
+PVC/PVDC/Al blistr, krabička.
+Velikost balení: 28 a 30 potahovaných tablet v jedné krabičce. Na trhu nemusí být všechny velikosti balení.
+6.6. Zvláštní opatření pro likvidaci přípravku (a zacházení s ním)
+
+Žádné zvláštní požadavky.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Vipharm S.A.
+ul. A. i F. Radziwiłłów 9
+05-850 Ożarów Mazowiecki
+Polsko
+
+
+8. REGISTRAČNÍ ČÍSLO(A)
+
+44/569/08-C
+
+
+6
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 17.12.2008
+Datum posledního prodloužení registrace: 19.11.2013
+
+10. DATUM REVIZE TEXTU
+
+08.01.2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7

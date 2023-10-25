@@ -1,0 +1,587 @@
+Sp. zn. sukls80391/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Rocuronium B. Braun 10 mg/ml injekční/infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jeden ml injekčního/infuzního roztoku obsahuje rocuronii bromidum 10 mg. Jedna ampulka s 5 ml obsahuje rocuronii bromidum 50 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Injekční/infuzní roztok
+
+Čirý, bezbarvý až slabě hnědožlutý roztok pH roztoku: 3,8 až 4,2
+Osmolalita: 270 – 310 mosm/kg
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Rokuronium-bromid je u dospělých a pediatrických pacientů (od donošených novorozenců po dospívající, 0 až < 18 let) určen jako doplněk k celkové anestézii pro usnadnění tracheální intubace v průběhu rutinního uvedení do narkózy a zajištění relaxace kosterního svalstva během chirurgického zákroku.
+U dospělých je rokuronium bromid také indikován k usnadnění tracheální intubace v průběhu rychlého uvedení do narkózy a je rovněž určen ke krátkodobému použití jako doplněk na jednotce intenzivní péče (JIP) k usnadnění intubace a při mechanické ventilaci.
+Viz také bod 4.2 a 5.1
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Jako u ostatních neuromuskulárních blokátorů, musí být dávka rokuronium-bromidu pro každého pacienta individuální. Při určení dávky je nutné vzít v úvahu způsob anestézie a předpokládanou délku výkonu, způsob sedace a předpokládanou délku mechanické ventilace, možné interakce s ostatními, současně podávanými, léčivými přípravky a stav pacienta. Pro vyhodnocování neuromuskulárního bloku a jeho zotavení, se doporučuje použití odpovídající monitorovací techniky.
+
+Chirurgické výkony
+Inhalační anestetika zesilují neuromuskulárně-blokující účinek rokuronium-bromidu. Tento zesilující účinek se stává klinicky relevantní v průběhu anestézie, při dosažení určité koncentrace prchavých látek v tkáních. Během dlouhotrvajících výkonů (přesahujících 1 hodinu) vedených v inhalační anestézii musí být následně provedeny úpravy pomocí podání malých udržovacích dávek v co nejdelších intervalech nebo pomocí nižší rychlosti infuze rokuronia-bromidu.
+Dospělí
+1
+
+Následující doporučení pro dospělé lze považovat za obecný návod dávkování k tracheální intubaci a svalové relaxaci pro chirurgické výkony od krátkých až po dlohotrvající a pro použití na jednotce intenzivní péče.
+Tento léčivý přípravek je určen pouze k jednorázovému použití.
+
+Tracheální intubace:
+Standardní dávka k intubaci během rutinní anestézie je 0,6 mg rokuronia-bromidu na kg tělesné hmotnosti, s kterou jsou dosaženy odpovídající podmínky k intubaci během 60 sekund téměř u všech pacientů. Dávka 1,0 mg rokuronium-bromidu na kg tělesné hmotnosti je doporučena k usnadnění tracheální intubace  v urgentních případech vyžadujících rychlý úvod do anestézie bez předchozí přípravy (rapid sequence induction of anaesthesia), po níž jsou rovněž navozeny patřičné podmínky pro intubaci v průběhu 60 sekund téměř u všech pacientů. Jestliže se použije pro rychlý úvod do anestézie bez předchozí přípravy (rapid sequence induction of anaesthsia) dávka 0,6 rokuronia- bromidu na kg tělesné hmotnosti, doporučuje se intubace pacienta 90 sekund po podání rokuronium- bromidu.
+
+Udržovací dávky:
+Doporučená udržovací dávka je 0,15 mg rokuronium-bromidu na kg tělesné hmotnosti. V případě dlouho trvající inhalační anestézie by měla být snížena na 0,075 - 0,1 mg rokuronium-bromidu na kg tělesné hmotnosti.
+Udržovací dávky je nejlépe podat ve chvíli, kdy se intenzita záškubu vrátí k 25% kontrolní intenzity
+nebo jsou-li přítomny 2-3 odpovědi na serii 4 stimulací. (Train-of-four stimulation (TOF)).
+
+Kontinuální infuze:
+Je-li rokuronium-bromid podáván v kontinuální infuzi, doporučuje se základní dávka 0,6 mg rokuronium-bromidu na kg tělesné hmotnosti a když dochází k zotavování neuromuskulárního bloku, začít s podáním infuze. Rychlost infuze by měla být upravena tak, aby udržovala intenzitu záškubů na 10% kontrolní úrovně nebo udržovala počet odpovědí na TOF mezi 1-2.
+U dospělých s intravenózní anestézií, k udržení požadované úrovně neuromuskulárního bloku je rozmezí rychlosti infuze od 0,3-0,6 mg/kg/hodinu. Při inhalační anestézii se rychlost infuze pohybuje mezi 0,3-0,4 mg/kg/hod.
+Nutný je kontinuální monitoring neuromuskulárního bloku, jelikož požadavky na rychlost infuze se liší podle použitého způsobu anestézie a od pacienta k pacientovi.
+Dávkování u těhotných pacientek:
+U pacientek, které podstupují císařský řez se doporučuje pouze použití dávky rokuronium-bromidu 0,6 mg na kg tělesné hmotnosti, jelikož dávky 1,0 mg nebyly u této skupiny pacientek zkoumány.
+Reversibilita neuromuskulárního bloku vyvolaná neuromuskulárními blokátory může být potlačena nebo neuspokojivá u pacientek, kterým jsou kvůli těhotenské toxémii podávány soli magnézia, protože soli magnézia prohlubují neuromuskulární blokádu. Tudíž, u těchto pacientek dávkování rokuronia by mělo být sníženo a titrováno podle odpovědi v podobě intenzity záškubů.
+Pediatrická populace
+Pro novorozence (0 až 27 dní), kojence (28 dnů až 2 měsíce), batolata (> 3 měsíce až 23 měsíců), děti (2 -11 let) a dospívající (12 až ≤ 17 let) jsou doporučená intubační dávka během rutinní anestézie a udržovací dávky stejné jako u dospělých.
+Doba působení jednorázové intubační dávky však bude delší u norovorozenců a kojenců než u dětí
+(viz bod 5.1).
+Rychlost kontinuální infuze v pediatrii, s výjimkou dětí, je stejná jako u dospělých. U dětí může být zapotřebí vyšší rychlost infuze.
+Proto je pro děti doporučena stejná počáteční rychlost jako u dospělých a ta by následně měla být upravena tak, aby udržovala v průběhu výkonu intenzitu odpovědí na 10% kontrolní hodnoty nebo na počtu 1-2 reakcí na TOF.
+
+Zkušenosti s rokuronium-bromidem během rychlé sekvenční indukce u pediatrických pacientů jsou omezené.
+
+
+2
+
+Z toho důvodu se použití rokuronium-bromidu k usnadnění intubace při rychlé sekvenční indukci u dětských pacientů nedoporučuje.
+
+Starší pacienti a pacienti s onemocněním jater a/nebo žlučového traktu a/nebo renální poruchou: Standardní intubační dávka pro pacienty starší nebo s onemocněním jater a/nebo žlučového traktu a/nebo renální poruchou během rutinní anestézie je 0,6 rokuronium-bromidu na kg tělesné hmotnosti. Dávka 0,6 mg na kg tělesné hmotnosti by měla být zvážena při rychlém úvodu do anestézie u pacientů, u nichž se očekává delší trvání výkonu, avšak adekvátní podmínky k intubaci nemusí být nastoleny během 90-ti sekund po podání rokuronium-bromidu. Bez ohledu na použitý postup anestézie, doporučené udržovací dávky pro tyto pacienty jsou 0,075-0,1 mg rokuronium-bromidu na kg tělesné hmotnosti a doporučená rychlost infuze je 0,3-0,4 mg/kg/hod (viz také Kontinuální infuze).
+Pacienti s nadváhou a obézní pacienti:
+Při použití u pacientů s nadváhou nebo obézních (pacienti s tělesnou hmotností přesahující 30% a více ideální tělesnou hmotnost) by dávky měly být sníženy s ohledem na množství aktivní tělesné hmoty.
+Úkony v rámci intenzivní péče Tracheální intubace
+Při tracheální intubaci by měly být použity stejné dávky, jako jsou popsány pro chirurgické výkony.
+Způsob podání Intravenózní podání
+Rokuronium-bromid se podává intravenózně, buď jako injekční bolus nebo v kontinuální infuzi (další informace též v bodě 6.6).
+4.3  Kontraindikace
+Rokuronium-bromid je kontraindikován u pacientů s hypersenzitivitou na rokuronium nebo na
+bromidové ionty nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+Rokuronium-bromid musí být podáván pouze zkušeným pracovníkem, který je dobře obeznámen s používáním látek způsobujících neuromuskulární blokádu. Patřičné přístrojové i personální vybavení k endotracheální intubaci a umělému dýchání musí být dostupné k okamžitému použití.
+
+Jelikož rokuronium-bromid vyvolává paralýzu dýchacích svalů, musí být u pacientů, kterým je tato léčivá látka podána, zajištěno podpůrné dýchání dokud se neobnoví spontánní dýchání. Jako u všech neuromuskulárních blokátorů je nutné počítat s možnými potížemi při intubaci, hlavně když jsou použity jako část postupu rychlého úvodu do anestézie.
+Jako u všech látek způsobujících neuromuskulární blokádu, byla u rokuronia hlášena reziduální zbytková kurarizace. Aby se předešlo komplikacím vyplývajícím z reziduální kurarizace, doporučuje se extubovat pacienta pouze po dostatečném zotavení se z neuromuskulárního bloku. Ostatní faktory, které mohou způsobit reziduální kurarizaci v pooperační fázi po extubaci (jako jsou lékové interakce a pacientův stav), musí být rovněž vzaty do úvahy. Nejsou-li používány jako část standardní klinické praxe, mělo by se zvážit použití látek s opačným účinkem (jako je sugammadex nebo inhibitory acetylcholinesterázy), obzvláště v případech, u nich je vyšší pravděpodobnost objevení se reziduální kurarizace.
+Nejdůležitější je, ujistit se před opuštěním operačního sálu, že pacient po anestézii dýchá spontánně, dostatečně hluboko a pravidelně.
+
+Po podání látek působících neuromuskulární blokádu se mohou objevit anafylaktické reakce (viz níže). Vždy musí být přijata preventivní opatření k léčbě takových reakcí. Zvláštní pozornost je vyžadována zejména u případů s předešlou anafylaktickou reakcí na látky působící neuromuskulární blokádu, jelikož byla u látek způsobujících neuromuskulární blokádu hlášena zkřížená alergická reaktivita.
+3
+
+Hladiny dávek rokuronium-bromidu vyšší než 0,9 mg/kg tělesné hmotnosti mohou zvýšit srdeční akci; tento účinek by mohl působit proti bradykardii vyvolanou ostatními anestetiky nebo stimulací vagu.
+
+Obecně, následně po dlouhotrvajícím  podávání myorelaxancií  na JIP, byly  známy případy prodloužené paralýzy a/nebo slabosti kosterních svalů. Aby bylo zabráněno možnému prodloužení neuromuskulární blokády a/nebo předávkování, doporučuje se jednoznačně během použití svalových relaxancií monitorování neuromuskulárního přenosu. Navíc, pacient by měl mít zajištěnu přiměřenou analgezii a sedaci. Dále, účinek svalových relaxancií by měl být titrován pro každého pacienta individuálně. To by se mělo dít pod dohledem zkušeného klinického pracovníka, který je dobře obeznámen s účinky přípravku a vybaven patřičnou neuromuskulární monitorovací technikou.
+Po  dlouhotrvajícím  současném  použití  non-depolarizujících  neuromuskulárních  blokátorů a kortikosteroidů byly pravidelně hlášeny myopatie. Doba současného podávání by měla být zkrácena na co nejkratší možnou dobu (viz bod 4.5).
+
+Je-li pro intubaci používáno suxamethonium, je podávání rokuronia třeba oddálit do doby, než se
+pacient klinicky zcela zotaví z neuromuskulární blokády vyvolané suxamethoniem.
+
+Následující podmínky mohou ovlivnit farmakokinetiku a/nebo farmakodynamiku rokuronia-bromidu:
+Onemocnění jater a/nebo žlučových cest a poruchy ledvin
+Rokuronium-bromid je vylučován močí a žlučí. Tudíž, mělo by být s opatrností použito u pacientů s klinickými známkami onemocnění jater a/nebo žlučových cest a/nebo ledvinným postižením. V této skupině pacientů byl při dávce 0,6 mg rokuronium-bromidu na kg tělesné hmotnosti pozorován jeho prodloužený účinek.
+Prodloužení doby cirkulace
+Stavy spojené s prodloužením doby oběhu jako jsou kardiovaskulární onemocnění, vyšší věk a edematózní stavy vyústí ve zvýšení distribučního objemu a mohou přispět k pomalejšímu nástupu účinku. Při snížené plazmatické clearance může rovněž docházet k prodloužení doby účinku.
+Neuromuskulární onemocnění
+Jako jiné neuromuskulárně-blokující látky, rokuronium-bromid by měl být použit u pacientů po poliomyelitidě nebo s neuromuskulárním onemocněním s extrémní opatrností, jelikož odpověď na neuromuskulární blokátory může být v těchto případech výrazně změněna. Závažnost a způsob změny jsou velmi různorodé. U pacientů s myastenia gravis nebo s myastenickým syndromem (Eaton- Lambert), mohou malé dávky rokuronium-bromidu mít pronikavý účinek a rokuronium-bromid by měl být titrován na základě reakce na něj.
+Hypotermie
+U zákroků v podchlazeném stavu, je neuromuskulárně-blokující účinek rokuronium-bromidu zvýšen
+a doba účinku prodloužena.
+Obezita
+U obézních pacientů může rokuronium-bromid vykazovat, jako ostatní neuromuskulární blokátory, prodloužení doby působení a oddálení spontánního probuzení, pokud jsou podávané dávky vypočítány na aktuální tělesnou hmotnost.
+Popáleniny
+Pacienti s popáleninami jsou známi tím, že dochází k rozvoji rezistence na non-depolarizující neuromuskulární blokátory. Doporučuje se titrace dávky podle reakce.
+Okolnosti, které mohou zvýšit účinek rokuronium-bromidu
+Hypokalémie (např. po těžkém zvracení, průjmech nebo léčbě diuretiky), hypermagnezinémie, hypokalcémie, (po masivních transfuzích), hypoproteinémie, dehydratace, acidóza, hyperkapnie a kachexie.
+Tam, kde je to možné, by tudíž těžká porucha elektrolytů, změněné pH krve nebo dehydratace měly být korigovány.
+
+4
+
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v dávce, tj. je v zásadě „sodíku prostý“.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+U následujících léčivých přípravků bylo prokázáno, že ovlivňují stupeň a/nebo trvání účinku non- depolarizujících neuromuskulárních blokátorů:
+
+Účinek ostatních léčivých přípravků na rokuronium-bromid Zesilující účinek:
+▪  halogenovaná volatilní anestetika zesilují neuromuskulárně blokující účinek rokuronium-bromidu. Účinek se stává zjevný pouze při podávání udržovacích dávek (viz bod 4.2). Mohlo by také dojít k inhibici reverze blokády inhibitory acetylcholinesterázy.
+▪  vysoké  dávky:  thiopentalu,  methohexitalu,  ketaminu,  fentanylu,  gammahydroxybutyrátu,
+etomidatu a propofolu
+▪  po intubaci suxamethoniem (viz bod 4.4)
+▪  dlouhotrvající současné používání kortikosteroidů a rokuronium-bromidu na JIP může vyústit
+v prodloužení neuromuskulárního bloku nebo myopatii (viz body 4.4 a 4.8).
+
+Ostatní léčivé přípravky:
+-  antibiotika: aminoglykosidy, linkosamidy (např. linkomycin a klindamycin), polypeptidová
+antibiotika, acylamino-penicilínová antibiotika, tetracyklíny, vysoké dávky metronidazolu,
+-  diuretika, chinidin, a jeho isomery chininu, protamin, adrenergní blokátory, soli magnézia, blokátory vápníkových kanálů, soli lithia a lokální anestetika (lidokain i.v., epidurální bupivakain) a akutní podání fenytoinu nebo betablokátorů.
+
+Při pooperačním podání následujících léčiv byla hlášena rekurarizace: aminoglykosidy, linkosamid, polypeptidová a acylaminopenicilinová antibiotika, chinidin, chinin a soli magnézia (viz bod 4.4).
+Oslabující účinek:
+▪  neostigmin, edrofonium, pyridostigmin, aminopyridinové deriváty
+▪  předchozí chronické podávání fenytoinu nebo karbamazepinu
+▪  inhibitory proteáz
+Proměnlivý účinek:
+▪  Podání jiných non-depolarizujících neuromuskulárních blokátorů v kombinaci s rokuronium- bromidem může způsobit oslabení nebo zesílení neuromuskulárního bloku, v závislosti na způsobu podání a použitém neuromuskulárním blokátoru.
+▪  Suxamethonium podané po užití rokuronium-bromidu může neuromuskulárně blokující účinek
+rokuronia-bromidu zesílit nebo oslabit.
+
+Účinek rokuronia na ostatní léky:
+Kombinované použití s lidokainem může vést k rychlejšímu nástupu účinku lidokainu.
+Pediatrická populace
+Nebyly provedeny žádné konvenční studie interakcí. U pediatrických pacientů je zapotřebí vzít v úvahu shora uvedené interakce pro dospělé a příslušná zvláštní upozornění a opatření pro použití (viz bod 4.4).
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání rokuronium-bromidu těhotným ženám jsou omezené. Studie reprodukční toxicity na zvířatech nenaznačují přímé nebo nepřímé škodlivé účinky (viz bod 5.3).
+Rokuronium-bromid může být podán těhotným ženám pouze tehdy, je-li striktně požadován a ošetřující lékař rozhodne, že přínos převažuje riziko.
+Císařský řez
+5
+
+U pacientek podstupujících císařský řez lze rokuronium-bromid použít jako součást techniky rychlé sekvenční indukce za předpokladu, že se nepředpokládají intubační obtíže a je podána dostatečná dávka anestetika, nebo po intubaci pomocí suxamethonia. Bylo prokázáno, že použití rokuronium- bromidu během císařského řezu je v dávce 0,6 mg/kg tělesné hmotnosti bezpečné. Neovlivňuje Apgar skóre, svalový tonus plodu nebo jeho kardiorespirační adaptaci.
+Ze vzorků pupečníkové krve je patrné, že dochází pouze k omezenému placentárnímu přenosu
+rokuronium-bromidu, který nevede ke klinicky zjevným nežádoucím reakcím u novorozenců.
+
+Poznámka 1: dávka 1,0 mg/kg byla zkoumána při rychlém úvodu do anestézie, ale ne u pacientek
+podstupujících císařský řez.
+
+Poznámka 2: reversibilita neuromuskulární blokády vyvolané neuromuskulárními blokátory může být potlačena nebo neuspokojivá u pacientek, kterým jsou kvůli těhotenské toxémii podávány soli magnézia, protože soli magnézia prohlubují neuromuskulární blokádu. U těchto pacientek by proto dávkování rokuronium-bromidu mělo být sníženo a rokuronium-bromid by měl být titrován podle intenzity záškubů.
+Kojení
+Není známo, zda se rokuronium-bromid/metabolity vylučují do lidského mateřského mléka. Jiné léčivé přípravky této třídy vykazují v malém množství přechod do mateřského mléka a u kojených dětí nízkou  resorpci.  Studie  na  zvířatech  prokázaly  přestup  rokuronium-bromidu  do mléka v bezvýznamném množství.
+Je třeba rozhodnout, zda přerušit kojení nebo ukončit/nezahajovat léčbu rokuronium-bromidem, přičemž je nutné uvážit přínos kojení pro dítě a přínos léčby pro ženu.
+
+Fertilita
+K dispozici nejsou žádné údaje o vlivu rokuronium-bromidu na fertilitu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Rokuronium-bromid má výrazný vliv na schopnost řídit a obsluhovat stroje. Nedoporučuje se obsluha potenciálně nebezpečných strojů nebo řízení automobilu během prvních 24 hodin po plném zotavení neuromuskulární blokády způsobené rokuronium-bromidem. Protože se rokuronium-bromid používá jako pomocný prostředek při celkové anestezii, je u ambulantních pacientů zapotřebí přijmout obvyklá bezpečnostní opatření uplatňovaná po celkové anestezii.
+
+4.8  Nežádoucí účinky
+
+Četnost nežádoucích účinků je klasifikována do následujících kategorií:
+
+Méně časté/vzácné   (>1/10 000 až <1/100)
+Velmi vzácné      (<1/10 000)
+Není známo       (z dostupných údajů nelze určit četnost)
+Četnosti se odhadují na základě postmarketingového sledování a údajů z literatury.
+Data z postmarketingového sledování nemohou poskytnout přesné údaje o výskytu. Z tohoto důvodu byla frekvence hlášení rozdělena do tří a nikoli pěti kategorií.
+Nejčastější nežádoucí účinek je bolest a/nebo reakce kolem místa vpichu, změny vitálních funkcí a prolongovaný neuromuskulární blok. Během postmarketingového sledování je nejčastěji hlášeným závažným nežádoucím účinkem „anafylaktická a anafylaktoidní reakce“ a související příznaky. Viz rovněž vysvětlení níže.
+
+
+Poruchy imunitního systému
+Velmi vzácné:
+•  Hypersenzitivita
+•  Anafylaktická reakce*
+6
+
+•  Anafylaktoidní reakce*
+•  Anafylaktický šok
+•  Anafylaktoidní šok
+Poruchy nervového systému
+Velmi vzácné:
+•  Flacidní paralýza
+Srdeční poruchy
+Méně časté/vzácné:
+•  Tachykardie
+Není známo:
+•  Kounisův syndrom
+
+Cévní poruchy
+Méně časté/vzácné:
+•  Hypotenze
+Velmi vzácné:
+•  Oběhový kolaps a šok
+•  Návaly horka se zarudnutím
+Respirační, hrudní a mediastinální poruchy
+Velmi vzácné:
+•  Bronchospazmus
+Není známo:
+•  Apnoe
+•  Respirační selhání
+
+Poruchy kůže a podkoží
+Velmi vzácné:
+•  Vyrážka, erytomatózní vyrážka
+•  Angioneurotický edém
+•  Kopřivka
+•  Svědění
+•  Exantém
+Poruchy svalové a kosterní soustavy, pojivové tkáně a kostí
+Není známo:
+•   Slabost kosterních svalů (po dlouhodobém užívání na JIP)
+•   Steroidní myopatie (po dlouhodobém užívání na JIP) (viz bod 4.4)
+Celkové poruchy a reakce v místě aplikace
+Velmi vzácné:
+•   Otok obličeje
+Méně časté/vzácné
+•   Neúčinnost přípravku
+•   Snížení účinnosti přípravku/terapeutické odpovědi
+•   Zvýšení účinnosti přípravku/terapeutické odpovědi
+•   Bolest a/nebo místní reakce v místě aplikace
+
+Vyšetření
+Velmi vzácné:
+•   Zvýšená hladina histaminu*
+Poranění, otravy a procedurální komplikace
+7
+
+Velmi vzácné:
+•   Komplikace s dýchacími cestami při anestézii
+Méně časté/vzácné:
+•   Prodloužení neuromuskulární blokády*
+•   Prodloužené zotavení z anestézie
+Pediatrická populace
+Meta analýza 11 klinických studií u pediatrických pacientů (n=704) s rokuronium-bromidem (až do
+1 mg/kg) ukázala, že jako nežádoucí reakce léčiva se projevila tachykardie s frekvencí výskytu 1,4 %.
+
+
+*Doplňující informace o nežádoucích účincích:
+Anafylaktické reakce
+Přestože byl jejich výskyt velmi vzácný, byly po podání neuromuskulárních blokátorů, včetně rokuronium-bromidu,    hlášeny    závažné    anafylaktické/anafylaktoidní    reakce. Anafylatickými/anafylaktoidními reakcemi jsou: bronchospasmus, kardiovaskulární změny (např. hypotenze, tachykardie, oběhový kolaps - šok) a kožní změny (např. angioedém, urtikarie). Tyto reakce byly v některých případech fatální. Kvůli možné závažnosti těchto reakcí se musí jejich vznik vždy předpokládat a je nutné přijmout potřebná opatření.
+Lokální reakce v místě vpichu
+Během rychlého úvodu do anestézie byla zaznamenána bolestivost injekce, zvláště u pacientů, kteří ještě zcela nepozbyli vědomí a převážně při použití propofolu jako indukčního agens. V klinických studiích bolestivá injekce byla zaznamenána u 16 % pacientů, kteří podstoupili rychlý úvod do anestézie propofolem a méně než u 0,5% pacientů, u kterých byl rychlý úvod do anestézie indukován fentanylem a thiopentalem.
+Zvýšení hladiny histaminu
+Jelikož je o neuromuskulárních blokátorech známé, že jsou schopné vyvolat uvolňování histaminu jak lokálně v místě aplikace tak systémově, je nutné při podávání těchto léků vzít v úvahu možnost vzniku svědění  a  erytematózní  reakce  v místě  vpichu  a/nebo  generalizovaných  histaminoidních (anafylaktoidních) reakcí (viz rovněž anafylaktické reakce výše).
+V klinických studiích bylo po rychlém podání 0,3-0,9 mg/kg tělesné hmotnosti v podobě injekčního bolusu následně pozorováno pouze lehké zvýšení průměrné hladiny histaminu.
+Prodloužení neuromuskulárního bloku
+Nejčastější nežádoucí reakcí na non-depolarizující blokátory jako třídu, představuje prodloužení farmakologického působení látky přesahující potřebný časový interval. Projevy mohou být různé, od slabosti kosterního svalstva, prohloubení a prodloužení paralýzy kosterních svalů až k respiračnímu selhání nebo apnoe.
+Myopatie
+Po použití různých neuromuskulárních blokátorů na JIP v kombinaci s kortikosteroidy byla hlášena
+myopatie (viz bod 4.4).
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+
+8
+
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování Příznaky
+Hlavním příznakem předávkování je prolongovaná neuromuskulární blokáda.
+Ve studiích na zvířatech se těžké deprese kardiovaskulárních funkcí, v konečném výsledku vedoucí ke kardiálnímu kolapsu, neobjevily, dokud nebyla podána kumulativní dávka 750 x ED90 (135 mg na kg tělesné hmotnosti)
+
+Léčba
+V případě předávkování a prodloužení neuromuskulárního bloku, je nutné u pacienta pokračovat
+s podporou ventilace a v sedaci. Existují dvě možnosti pro zvrácení neuromuskulární blokády:
+(1) U dospělých lze použít sugammadex ke zvrácení intenzivní (rozsáhlé) a hluboké blokády. Dávka sugammadexu, kterou je nutné podat, závisí na úrovni neuromuskulární blokády. (2) Jakmile začne spontánní  zotavení,  lze  použít  inhibitor  acetylcholinesterázy  (např.  neostigmin,  edrofonium, pyridostigmin) nebo sugammadex, přičemž je třeba je podávat v přiměřené dávce. Jestliže podání látky inhibující acetylcholinesterázu v procesu odstranění neuromuskulárního účinku rokuronium- bromidu selže, je nutné pokračovat v umělém dýchání do doby obnovení spontánního dýchání. Opakované dávky inhibitoru acetylcholinesterázy mohou být nebezpečné.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: myorelaxancia, periferně působící, jiné kvartérní amoniové sloučeniny, ATC kód: M03AC09
+Farmakodynamické účinky
+Rokuronium-bromid je non-depolarizující neuromuskulární blokátor, působící přechodně, s rychlým nástupem, který má všechny charakteristické, (kurareformní), farmakologické vlastnosti léčivých přípravků této třídy. Působí kompetitivně na nikotin-cholinové receptory na motorické destičce. ED90 (dávka, požadovaná k potlačení 90% reakcí palce na stimulaci ulnárního nervu) během vyvážené anestézie je přibližně 0,3 mg na kg tělesné hmotnosti.
+Klinická účinnost a bezpečnost
+Rutinní postup
+Během 60 vteřin po intravenózním podání dávky 0,6 rokuronium-bromidu na kg tělesné hmotnosti
+(2 x  ED90 při vyvážené anestézii) jsou adekvátní podmínky pro intubaci dosaženy téměř u všech pacientů. V 80 % jsou podmínky k intubaci u těchto pacientů považovány za výborné. Celková svalová paralýza, potřebná pro jakýkoli typ výkonu je nastolena během 2 minut. Klinická délka (doba dokud nedojde ke spontánní úpravě na 25% kontrolních hodnot) je u této dávky 30-40 minut. Celková délka (doba dokud není spontánně upravena kontrolní hodnota na 90%) je 50 minut. Průměrná doba spontánní úpravy intenzity záškubů na 25 až 75% (index zotavení) po injekčním bolusu dávky
+0,6 mg rokuronium-bromidu je 14 minut.
+Při nižších dávkách, 0,3-0,45 rokuronium-bromidu na kg tělesné hmotnosti (1-1,5 x 2 x ED90), je nástup účinku pomalejší a doba působení kratší (13-26 minut). Po podání 0,45 mg rokuronium- bromidu na kg tělesné hmotnosti jsou přijatelné podmínky pro intubaci dosaženy po 90 sekundách.
+
+
+Urgentní intubace
+
+
+9
+
+Během rychlého úvodu do anestézie, jež je prováděna propofolem nebo fentanyl/thiopentalem, jsou adekvátní podmínky pro intubaci po podání dávky 1,0 mg rokuronium-bromidu na kg tělesné hmotnosti dosaženy během 60 sekund u 93% pacientů, respektive u 96%. Z těch je 70% považováno za výborné. Klinická délka, v níž neuromuskulární blok může být bezpečně anulován, se u této dávky blíží 1 hodině. Po podání dávky rokuronium-bromidu 0,6 mg na kg tělesné hmotnosti, adekvátních podmínek k intubaci je dosaženo během 60 sekund u 81% pacientů respektive u 75% pacientů, u nichž bylo použito rychlého úvodu do anestézie propofolem nebo fentanyl/thiopentalem.
+
+Dávky vyšší než 1,0 mg rokuronium-bromidu na kg tělesné hmotnosti zjevně nezlepšují podmínky
+k intubaci; délka účinku však je prodloužena. Dávky vyšší než 4 x ED90 nebyly zkoumány.
+Intenzivní péče
+Použití rokuronia na jednotce intenzivní péče bylo sledováno ve dvou otevřených klinických studiích. Celkem 95 dospělým pacientům bylo podáno jako počáteční dávka 0,6 rokuronium-bromidu/kg tělesné hmotnosti a následně, jakmile se intenzita odpovědi vrátila na 10% kontrolní hodnoty nebo se znovu objevily 1-2 reakce na TOF, bylo pokračováno kontinuální infuzí 0,2 – 0,5 mg/kg v průběhu 1 hodiny. Dávky byly titrovány individuálně. V následujících hodinách byly dávky snižovány dle pravidelného monitorování TOF stimulace. Bylo sledováno podávání v časovém období až 7 dnů.
+Bylo dosaženo adekvátní neuromuskulární blokády, ale mezi pacienty byla pozorována vysoká variabilita v hodinové rychlosti infuze a v prodloužené době zotavování z neuromuskulární blokády.
+Doba k zotavení poměru TOF na 0,7 nekoreluje signifikantně s celkovým trváním infuze rokuronia. Po kontinuální infuzi trvající 20 hodin nebo více se medián (rozmezí) doby mezi návratem T2 na sérii
+4 stimulací a zotavením se na poměr 0,7 se pohybuje mezi 0,8 a 12,5 hodin u pacientů bez
+multiorgánového selhání a 1,2-25,5 hodin u pacientů s multiorgánovým selháním.
+Pediatrická populace
+Průměrná doba nástupu účinku u kojenců, batolat a dětí při intubační dávce 0,6 mg/kg je mírně kratší než u dospělých. Porovnání v rámci pediatrických věkových skupin ukázalo, že průměrná doba nástupu účinku u novorozenců a dospívajících (1 minuta) je mírně delší než u kojenců, batolat a dětí (0,4, 0,6 a 0,8 minut v jednotlivých případech).
+Trvání relaxace a doba zotavení je u dětí ve srovnání s kojenci a dospělými kratší. Porovnání v rámci pediatrických věkových skupin ukázalo, že průměrná doba do opakovaného výskytu T3 se prodloužila u novorozenců a kojenců (56,7 a 60,7 minuty v prvním a druhém případě) při porovnání s batolaty, dětmi a dospívajícími (45,3, 37,6 a 42,9 minut v jednotlivých případech).
+Průměrná (SD) doba do nástupu účinku a klinické trvání po počáteční intubační dávce 0,6 mg/kg rokuronium bromidu* během anestézie sevofluranem/oxidem dusným a isofluranem/oxidem dusným (udržovací) u skupiny pediatrických pacientů (PP)
+
+
+
+
+
+Novorozenci (0-27 dnů) n=10
+Kojenci (28 dnů-2 měsíce) n=11
+Batolata (3 měsíce-23 měsíců) n=30
+Děti (2-11 let) n=34
+Dospívající (12-17 let) n=31
+Doba do maximálního blokování **
+(min)
+0,98 (0,62)
+
+0,44 (0,19) n=10
+0,59 (0,27) n=28
+0,84 (0,29) n=34
+0,98 (0,38)
+Doba opakovaného objevení se
+T3 ** (min)
+56,69 (37,04)
+n=9
+60,71 (16,52) n=11
+45,46 (12,94) n=27
+37,58 (11,82)
+
+42,90 (15,83) n=30
+* Dávka rokuronium-bromidu podaná během 5 sekund.
+** Počítáno od konce podání intubační dávky rokuronium-bromidu.
+Zvláštní populace
+10
+
+Při anestézii enfluranem a isofluranem může být trvání účinku udržovacích dávek 0,15 mg rokuronium-bromidu na kg tělesné hmotnosti někdy u geriatrických pacientů a pacientů s hepatálním nebo renálním onemocněním delší (asi 20 minut), než při intravenózní anestézii u pacientů bez poškození funkcí vylučovacích orgánů (asi 13 minut). Nebyla pozorována žádná kumulace účinku (progresivní navýšení délky působení) při dodržování doporučených udržovacích dávek.
+Kardiochirurgie
+U pacientů podstupujících kardiochirurgický zákrok je nejčastější kardiovaskulární změnou během nástupu maximální blokády, po podání dávky 0,6-0,9 mg rokuronium-bromidu na kg tělesné hmotnosti, lehké a klinicky nevýznamné zvýšení srdeční akce až o 9% a zvýšení středního arteriálního tlaku až o 16% oproti kontrolním hodnotám.
+Antagonisté
+Podání inhibitorů acetylcholinesterázy jako jsou neostigmin, pyridostigmin nebo edrofonium působí na účinek rokuronium-bromidu antagonisticky.
+5.2  Farmakokinetické vlastnosti
+Distribuce a eliminace
+Po intravenózním podání rokuronium-bromidu v podobě jednorázového bolusu je časový průběh plazmatické koncentrace exponenciální, ve 3 fázích. U normálních dospělých, průměrný (95%Cl) eliminační poločas je 73 (66-80) minut, distribuční objem (zjistitelný) za podmínek rovnovážného stavu je 203 (193-214) ml/kg a plazmatická clearance je 3,7 (3,5-3,9)ml/kg/min.
+Je-li podán v kontinuální infuzi k usnadnění mechanické ventilace po dobu 20 hodin nebo delší, jsou průměrný eliminační poločas a průměrný (nalezený) distribuční objem v ustáleném stavu zvýšeny. V kontrolovaných studiích byla nalezena mezi pacienty vysoká variabilita, v závislosti na povaze a rozsahu (vícečetném) orgánového selhání a individuálních charakteristikách pacienta. U pacientů s multiorgánovým selháním byl zjištěn průměrný (±SD) eliminační poločas 21,5 (±3,3) hodiny, distribuční objem (prokazatelný) v ustáleném stavu 1,5 (±0,8) l·kg⁻¹ a plazmatická clearance
+2,1 (±0,8) ml/kg/min.
+Rokuronium-bromid je vylučován v moči a žluči. Vylučování močí dosahuje během 12-24 hodin 40%. Po injekci radioizotopu rokuronium-bromidu, je po 9 dnech v moči průměrně 47% a ve stolici 43% označené látky. Přibližně 50% znovu nabude podoby rokuronium-bromidu.
+
+Biotransformace
+V plazmě nebyly detekovány žádné metabolity.
+
+Pediatrická populace
+Zjištěný distribuční objem je u kojenců (3-12 měsíců) vyšší ve srovnání se staršími dětmi (1- 8 let) a dospělými. U dětí ve věku 3 - 8 let, je clearance vyšší a eliminační poločas je asi o 20 minut kratší ve srovnání s dospělými a dětmi mladšími 3 let.
+
+
+Farmakokinetika (PK) rokuronium-bromidu u pediatrických pacientů (n=146) s věkovým rozmezím od 0 do 17 let byla hodnocena pomocí populační analýzy sdružených farmakokinetických datových množin ze dvou klinických studií anestézie prováděné sevofluranem (indukce) a isofluranem/oxidem dusným (udržování). Ukázalo se, že všechny farmakokinetické parametry byly lineárně přímo úměrné k tělesné hmotnosti, což ilustrovala i podobná clearance (CL; l/kg/h). Distribuční objem (l/kg) a poločas eliminace (h) klesají s věkem (roky). Farmakokinetické parametry typických pediatrických pacientů v každé věkové skupině jsou shrnuty níže:
+
+
+
+
+Odhadované PK parametry rokuronium bromidu u typických pediatrických pacientů během použití oxidu dusného (indukce) a isofluranu/oxidu dusného (udržovací anestézie).
+
+11
+
+Věková skupina pacientů
+
+
+PK parametry CL (l/kg/h)
+Distribuční
+objem (l/kg)
+Donošení
+novorozenci (0 - 27 dnů)
+
+0,31 (0,07)
+
+0,42 (0,06)
+Kojenci
+
+(28 dnů až 2
+měsíce)
+0,30 (0,08)
+
+0,31 (0,03)
+Batolata
+
+(3   -  23
+měsíců)
+0,33 (0,10)
+
+0,23 (0,03)
+Děti
+
+(2 – 11 let)
+
+0,35 (0,09)
+
+0,18 (0,02)
+Dospívající
+
+(12 - 17 let)
+
+0,29 (0,14)
+
+0,18 (0,01)
+
+
+t½β (h)
+1,1 (0,2)
+0,9 (0,3)
+0,8 (0,2)
+0,7 (0,2)
+0,8 (0,3)
+
+Geriatričtí pacienti a pacienti s dysfunkcí ledvin
+Plazmatická clearance je u geriatrických pacientů a u pacientů s renální dysfunkcí, ve srovnání s mladšími pacienty s normální renální funkcí, lehce snížena. U pacientů s jaterním onemocněním je průměrný eliminační poločas prodloužen o 30 minut a průměrná plazmatická clearance snížena na 1 ml/kg/min. (Viz také bod 4.2).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity a reprodukční a vývojové toxicity neodhalily žádné zvláštní riziko pro člověka.
+Studie kancerogenního potenciálu rokuronium-bromidu nebyly prováděny.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Glukonolakton
+Trihydrát natrium-acetátu Dihydrát natrium-citrátu Voda pro injekci
+
+6.2  Inkompatibility
+
+Fyzikální  inkompatibilita  rokuronium-bromidu  byla  prokázána  po  jeho  přidání  k roztokům obsahujícím následující léčivé látky: amphotericin, amoxicilin, azathioprin, cefazolin, cloxacilin, dexamethason, diazepam, enoximon, erythromycin, famotidin, furosemid, natrium-hydrokortison- sukcinát,  inzulin,  intralipid,  methohexital,  methylprednisolon,  natrium-prednisolon-sukcinát, thiopental, trimethoprim a vancomycin.
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky kromě těch, které jsou uvedeny
+v bodu 6.6.
+6.3  Doba použitelnosti
+
+Neotevřená ampulka: 18 měsíců
+
+Po prvním otevření: Tento přípravek musí být spotřebován okamžitě po otevření ampulky.
+
+Po zředění:
+
+12
+
+Chemická a fyzikální stabilita 5,0 mg/ml a 0,1 mg/ml roztoku (zředěného infuzními roztoky chloridu sodného 9 mg/ml (0,9%) a glukosy 50 mg/ml (5%)) byla prokázána po dobu 24 hodin při pokojové teplotě a denním světle pro sklo, PE a PVC.
+Z mikrobiologického hlediska by měl být roztok použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání před použitím jsou v zodpovědnosti uživatele a normálně by neměly při teplotě 2-8°C přesáhnout 24 hodin, pokud ředění neproběhlo za aseptických, validovaných podmínek.
+6.4  Zvláštní opatření pro uchovávání
+
+Neuchovávejte při teplotě nad 25°C.
+
+Podmínky uchovávání léčivého přípravku po naředění viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+
+Polyethylenové (LDPE) ampulky, obsah 5 ml
+Velikost balení:
+20 ampulek, každá obsahuje 5 ml.
+
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý přípravek musí být zlikvidován.
+
+Roztok musí být před podáním vizuálně zkontrolován. Podat lze pouze čirý roztok, prakticky bez
+přítomnosti částic.
+
+Přípravek Rocuronium B. Braun je kompatibilní s: infuzními roztoky chloridu sodného 9 mg/ml (0,9%) a glukosy 50 mg/ml (5%).
+Je-li rokuronium-bromid podáván stejnou infuzní soupravou s ostatními léčivými přípravky, je důležité mezi podáním rokuronium-bromidu a léčivých přípravků, u kterých byla prokázána inkompatibilita s rokuronium-bromidem nebo u kterých kompatibilita nebyla stanovena, infuzní soupravu patřičně propláchnout (např. infuzním roztokem chloridu sodného 9 mg/ml (0,9%)).
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+LDPE ampulky jsou navrženy tak, aby je bylo možné použít se stříkačkami Luer Lock a Luer fit.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+B. Braun Melsungen AG
+Carl-Braun-Strasse 1                Poštovní adresa:
+34212 Melsungen, Německo            34209 Melsungen, Německo
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+63/499/08-C
+
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+13
+
+Datum první registrace: 3. 9. 2008
+Datum posledního prodloužení registrace: 4. 1. 2012
+
+10.  DATUM REVIZE TEXTU
+
+28. 2. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

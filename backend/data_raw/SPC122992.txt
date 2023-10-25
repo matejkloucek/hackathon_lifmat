@@ -1,0 +1,175 @@
+sp.zn. sukls62825/2018
+
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Ardeaelytosol D 1/1 infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+1000 ml infuzního roztoku obsahuje:
+Natrii chloridum        4,00 g
+Kalii chloridum        2,67 g
+Natrii lactas          5,94 g
+Obsah elektrolytů:
+Na⁺ [mmol/l]         121,3
+K⁺ [mmol/l]          35,8
+Cl⁻ [mmol/l]          104,2
+Laktát (C3H5O ⁻) [mmol/l]   52,9
+Osmotický tlak [kPa]     695
+pH               4,8-6,5
+Seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+Infuzní roztok
+Popis přípravku: čirý, bezbarvý roztok
+4.  KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+K doplnění ztráty tělesných tekutin zejména u stavů spojených s hypokalémií a acidózou nebo
+sklonem k acidóze.
+Při ztrátách draslíku způsobených především ztrátami žaludečního a střevního sekretu včetně žluče
+a pankreatické šťávy (drenáží, sondou, průjmem apod.).
+Při ztrátách kalia po dlouhodobém podávání perorálních diuretik bez kaliumprotektivního účinku a bez suplementace kalia.
+4.2. Dávkování a způsob podání
+Dávkování je přísně individuální a řídí se stavem pacienta. Rychlost podání je obvykle kolem 4 ml/kg/hod., max. rychlost podání draslíku nemá překročit 20 mmol/hod. (podle některých novějších zdrojů 40 mmol/hod.), obvykle se nedoporučuje překračovat celkovou denní dávku 150 – 200 mmol K⁺ /24 hod.
+Průměrná denní dávka roztoku Ardeaelytosol D 1/1 se udává 500 - 1000 ml.
+Přípravek je vhodný pro dospělé i děti bez omezení věku. Způsob podání:
+Nitrožilní kapénková infuze v uzavřeném systému.
+4.3. Kontraindikace
+Hyperkalémie, těžká alkalóza, hypoxémie, celková nebo regionální laktátémie.
+
+Hyperhydratace, renální selhávání (oligurie, anurie), dekompenzovaná srdeční nedostatečnost, plicní
+a mozkový edém, těžší stupeň hypertenze.
+
+4.4. Zvláštní upozornění a opatření pro použití
+Vzhledem  k  přítomnosti  laktátu  je  přípravek  vhodný  jen  u nemocných  s  normoxémií,
+s nepoškozenými jaterními funkcemi a dostatečným průtokem krve játry.
+Před podáním a během něj může být nutné monitorovat bilanci tekutin, sérových elektrolytů
+a acidobazickou rovnováhu.
+Po dobu terapie je nutné kontrolovat hladinu draslíku v séru.
+Zvláště pečlivě je třeba monitorovat hladinu sérového sodíku, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8).
+Infuze o velkém objemu je nutné u pacientů se srdečním či plicním selháním a u pacientů s neosmotickým uvolňováním vazopresinu (včetně SIADH) podávat za specifického sledování z důvodu rizika hyponatrémie (viz dále).
+Hyponatrémie
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku).
+Zvláštní riziko závažného a život ohrožujícího edému mozku způsobeného akutní hyponatrémií existuje u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální compliance (např. meningitida, intrakraniální krvácení, kontuze mozku a otok mozku).
+Je nutné udržovat přiměřenou rychlost infuze. Je nutná zvýšená opatrnost při současné terapii srdečními glykosidy.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Přípravek je nutno podávat velmi opatrně při současné terapii léky, které vedou ke zvyšování hladiny kalia – nesteroidní antiflogistika, beta-blokátory, heparin, inhibitory ACE, blokátory účinku aldosteronu.
+Dále je nutná zvýšená opatrnost při současné terapii srdečními glykosidy (např. digoxinem), protože také vedou, jako výše uvedená léčiva, ke zvyšování hladiny kalia v krvi. Současný vyšší přívod kalcia ovlivňuje rovnováhu mezi ionty vápníku a draslíku, což může mít za následek poruchy srdečního rytmu.
+Léčiva vedoucí ke zvýšenému účinku vazopresinu
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2, 4.4 a 4.8).
+• Mezi léčiva stimulující uvolnění vazopresinu se řadí:
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání
+serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika.
+• Mezi léčiva zesilující působení vazopresinu se řadí:
+chlorpropamid, NSAID, cyklofosfamid.
+• Mezi analogy vazopresinu se řadí:
+desmopresin, oxytocin, vazopresin, terlipresin.
+Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a antiepileptika, např. oxkarbazepin.
+4.6. Fertilita, těhotenství a kojení
+Přípravek Ardeaelytosol D 1/1 je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem (viz bod 4.4, 4.5 a 4.8).
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Přípravek Ardeaelytosol D 1/1 je podáván pouze v lékařských zařízeních, proto posuzování vlivu
+přípravku na schopnost řídit nebo obsluhovat stroje zde není relevantní.
+
+4.8. Nežádoucí účinky
+U přípravku Ardeaelytosol D 1/1 nejsou přímé nežádoucí účinky uváděny, existuje zde možnost obecných nežádoucích účinků spojených s neadekvátně vedenou infuzní terapií.
+Frekvence nežádoucích účinků, uvedených níže, je definována podle následující konvence:
+Velmi časté (≥ 1/10); časté (≥ 1/100, < 1/10); méně časté (≥ 1/1000, < 1/100); vzácné (≥ 1/10 000,
+< 1/1000); velmi vzácné (< 1/10 000); není známo (z dostupných údajů nelze určit).
+
+
+Třída orgánových systémů podle databáze MedDRA
+Poruchy krve a lymfatického systému
+
+Poruchy metabolismu a výživy Poruchy nervového systému
+Srdeční poruchy
+
+Poruchy ledvin a močových cest
+Typ nežádoucího účinku
+Rozvrat iontové rovnováhy Hyperkalémie
+Hyponatrémie*
+Akutní hyponatremická
+encefalopatie*
+Edémy
+Kardiální dekompenzace
+Hyperhydratace
+Frekvence výskytu
+Není známo Není známo Není známo
+Není známo
+
+Není známo Není známo Není známo
+*Hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie, (viz body 4.2, 4.4 a 4.5).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9. Předávkování
+Při  předávkování  může  vzniknout  hyperkalémie  spojená  s poruchami  srdečního  rytmu, hyperlaktátémie.
+Neadekvátně vedená infuzní terapie může dále vést k poruchám iontové rovnováhy, hyperhydrataci, hyponatrémii, edémům, kardiovaskulární dekompenzaci. V takovém případě je třeba přerušit infuzi a případně podat diuretika.
+Nebyl hlášen žádný případ předávkování.
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: infundabilium, ATC kód: B05BB01 (Intravenózní roztoky - roztoky
+ovlivňující rovnováhu elektrolytů - elektrolyty).
+Základní izoosmotický elektrolytový roztok se zvýšeným obsahem kalia a mléčnanu.
+
+Vzhledem ke zvýšenému obsahu laktátu působí po podání mírně alkalizačně.
+
+5.2. Farmakokinetické vlastnosti
+a) Všeobecná informace – aktivní metabolity nevznikají
+b) Charakteristika léčivých látek – jedná se o jednoduché anorganické soli – ionty organismu vlastní.
+Jsou rozpustné ve vodě, nerozpustné v tucích
+c) Charakteristika po podání u pacientů – jde o přípravek podávaný nitrožilně. Po i.v. podání setrvává v krevním řečišti pouze několik desítek minut, snadno uniká extravaskulárně.
+Plně disociované ionty se v organizmu distribuují dle koncentračních gradientů v extracelulární
+tekutině, volná voda se distribuuje dle koncentračního spádu ve všech kompartmentech.
+Iontová rovnováha je závislá na vylučování jednotlivých iontů ledvinami a podléhá zejména mineralokortikoidní regulaci. Vodní homeostáza je řízena antidiuretickým hormonem.
+Laktát se při nepoškozených jaterních buňkách a při jejich dostatečném zásobení kyslíkem mění na
+pyruvát a dále na bikarbonát.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Jedná se o přípravek dlouhodobě používaný („dobře zavedené léčebné použití“), u něhož při zavádění do terapie nebyly prováděny předklinické studie.
+Z literatury nejsou známy žádné nežádoucí účinky. Přípravek používaný podle doporučeného způsobu použití je zcela bezpečný.
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Voda pro injekci
+6.2. Inkompatibility
+Přípravek je kompatibilní s většinou běžně používaných léčiv. Nejsou známy žádné fyzikálně- chemické inkompatibility, kromě roztoků obsahujících oxidující látky a vykazujících rozdílné pH.
+
+6.3. Doba použitelnosti
+V neporušeném obalu 3 roky.
+Doba použitelnosti po prvním otevření:
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 48 hodin při 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při 2 až 8 °C, pokud otevření neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4. Zvláštní opatření pro uchovávání
+Chraňte před mrazem.
+6.5. Druh obalu a obsah balení
+Skleněná infuzní láhev s pryžovou zátkou a kovovým uzávěrem, kartonová krabice. Velikost balení: 1x 80 ml, 1x 100 ml, 1x 250 ml, 1x 500 ml
+20x 80 ml, 20x 100 ml, 10x 250 ml, 10x 500 ml
+Na trhu nemusí být všechny velikosti balení.
+
+6.6. Zvláštní opatření pro likvidaci přípravku (a pro zacházení s ním)
+Výdej léčivého přípravku je vázán na lékařský předpis.
+
+Podává se zpravidla infuzní soupravou do periferní žíly.
+Parenterální přípravky je nutno před podáním vizuálně zkontrolovat. Pokud jsou viditelné pevné částice, nebo byl-li obal porušen, přípravek se nesmí aplikovat.
+Přípravek je určen pouze k jednorázovému použití.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+ARDEAPHARMA, a.s., Třeboňská 229, 373 63 Ševětín, Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO
+76/785/95-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 11. 10. 1995
+Datum posledního prodloužení registrace: 8. 2. 2017
+
+10. DATUM REVIZE TEXTU
+13. 4. 2018

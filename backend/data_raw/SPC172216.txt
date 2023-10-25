@@ -1,0 +1,826 @@
+Sp. zn. sukls240960/2019, sukls240961/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Abiraterone G.L. Pharma 250 mg tablety Abiraterone G.L. Pharma 500 mg potahované tablety
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tableta obsahuje abirateroni acetas 250 mg.
+
+Pomocné látky se známým účinkem
+Jedna tableta obsahuje 180 mg laktosy.
+
+Jedna tableta obsahuje abirateroni acetas 500 mg.
+
+Pomocné látky se známým účinkem
+Jedna tableta obsahuje 241 mg laktosy a 12 mg sodíku. Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+
+Tableta.
+Bílé až téměř bílé oválné tablety, přibližně 16 mm dlouhé a 9,5 mm široké s vyraženým „ATN“ na jedné straně a „250“ na straně druhé.
+Potahovaná tableta.
+Nachové oválné potahované tablety, přibližně 19 mm dlouhé a 11 mm široké s vyraženým
+„A7TN“ na jedné straně a „500“ na straně druhé.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Přípravek Abiraterone G.L. Pharma je indikován spolu s prednisonem nebo prednisolonem:
+•   k léčbě nově diagnostikovaného, vysoce rizikového metastazujícího hormonálně senzitivního karcinomu prostaty (metastatic hormone sensitive prostate cancer, mHSPC) u dospělých mužů v kombinaci s androgen-deprivační léčbou (ADT) (viz bod 5.1)
+•   k léčbě metastazujícího karcinomu prostaty rezistentního na kastraci (metastatic castration resistant prostate cancer, mCRPC) u dospělých mužů, kteří jsou asymptomatičtí nebo mírně symptomatičtí po selhání androgen-deprivační léčby a u nichž dosud nebyla chemoterapie klinicky indikována (viz bod 5.1);
+•   k léčbě mCRPC u dospělých mužů, jejichž onemocnění progredovalo při chemoterapeutickém režimu založeném na docetaxelu nebo po něm.
+4.2  Dávkování a způsob podání
+Tento přípravek je předepisován lékařem se specializací v příslušném oboru. Dávkování
+Doporučená dávka je 1 000 mg (čtyři 250mg tablety nebo dvě 500mg tablety) jako jednorázová denní dávka, která se nesmí užít s jídlem (viz „Způsob podání“ níže). Užívání tablet s jídlem zvyšuje systémovou expozici abirateronu (viz body 4.5 a 5.2).
+
+Dávkování prednisonu nebo prednisolonu
+Při mHSPC se Abiraterone G.L. Pharma užívá s 5 mg prednisonu nebo prednisolonu denně. Při mCRPC se Abiraterone G.L. Pharma užívá s 10 mg prednisonu nebo prednisolonu denně.
+U pacientů bez chirurgické kastrace musí léková kastrace pomocí analog hormonu uvolňujícího luteinizační hormon (LHRH) během léčby pokračovat.
+Doporučené sledování
+Před zahájením léčby, každé dva týdny během prvních tří měsíců léčby a dále jednou měsíčně je nutno měřit hodnoty transamináz v séru. Jednou měsíčně je nutno kontrolovat krevní tlak, hladinu draslíku v séru a retenci tekutin. Pacienty se závažným rizikem městnavého srdečního selhání je však nutno během prvních tří měsíců léčby monitorovat každé 2 týdny a dále měsíčně (viz bod 4.4).
+U pacientů s preexistující hypokalemií nebo u pacientů, u kterých se během léčby přípravkem Abiraterone G.L. Pharma vyvine hypokalemie, je nutno zvážit udržování hladin draslíku na ≥ 4,0 mmol/l.
+U pacientů, u kterých se vyvinou toxicity stupně ≥ 3, včetně hypertenze, hypokalemie, edému a jiných nemineralokortikoidních toxicit, je nutno léčbu ukončit a zahájit potřebná léčebná opatření. Léčbu přípravkem Abiraterone G.L. Pharma nelze obnovit, dokud se příznaky toxicity nezlepší na stupeň 1 nebo k počátečním hodnotám.
+V případě vynechání dávky buď přípravku Abiraterone G.L. Pharma nebo prednisonu či prednisolonu se v léčbě pokračuje další den obvyklou denní dávkou.
+Hepatotoxicita
+U pacientů, u nichž se během léčby vyvine hepatotoxicita [zvýšení alaninaminotransferázy (ALT) nebo aspartátaminotransferázy (AST) nad 5násobek horní hranice normálu (ULN)], je nutno okamžitě přerušit léčbu (viz bod 4.4). Obnovení léčby po návratu funkčních jaterních testů k výchozímu stavu u pacienta může být provedeno sníženou dávkou 500 mg (dvě 250mg tablety nebo jedna500 mg tableta) jednou denně. U pacientů, u nichž byla léčba znovu zahájena, je nutno monitorovat transaminázy alespoň jednou za dva týdny po dobu tří měsíců a dále jednou za měsíc. Objeví-li se hepatotoxicita i u snížené dávky 500 mg denně, má být léčba ukončena.
+Objeví-li se závažná hepatotoxicita (ALT nebo AST 20násobná oproti ULN) kdykoli během léčby, je nutno léčbu ukončit a u těchto pacientů nemá být léčba znovu zahájena.
+Porucha funkce jater
+U pacientů s již existující lehkou poruchou funkce jater, Child-Pugh třídy A, není nutná úprava dávky.
+Ukázalo se, že středně těžká porucha funkce jater (Child-Pugh třídy B) zvyšuje systémovou expozici abirateronu po jednorázovém perorálním podání 1 000 mg abirateron-acetátu přibližně čtyřikrát (viz bod 5.2). Neexistují údaje o klinické bezpečnosti a účinnosti opakovaných dávek abirateron-acetátu po podání pacientům se středně těžkou nebo těžkou poruchou funkce jater (Child- Pugh třídy B nebo C). Nelze předpokládat žádnou úpravu dávky. U pacientů se středně těžkou poruchou funkce jater je nutno užití přípravku Abiraterone G.L. Pharma důkladně posoudit, přínos má jasně převažovat možné riziko (viz body 4.2 a 5.2). Pacientům s těžkou poruchou funkce jater se přípravek Abiraterone G.L. Pharma nesmí podávat (viz body 4.3, 4.4 a 5.2).
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin není nutná úprava dávky (viz bod 5.2). U pacientů s karcinomem prostaty a těžkou poruchou funkce ledvin však nejsou žádné klinické zkušenosti. U těchto pacientů je nutná opatrnost (viz bod 4.4).
+Pediatrická populace
+Neexistuje žádné relevantní použití přípravku Abiraterone G.L. Pharma u pediatrické populace.
+Způsob podání
+Přípravek Abiraterone G.L. Pharma je určen k perorálnímu podání.
+Tablety se užívají alespoň jednu hodinu před nebo alespoň dvě hodiny po jídle. Tablety se polykají celé a zapíjejí se vodou.
+
+4.3  Kontraindikace
+
+-   Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-   Těhotné ženy nebo ženy, které mohou otěhotnět (viz bod 4.6).
+-   Těžká porucha funkce jater [Child-Pugh třídy C (viz body 4.2, 4.4 a 5.2)].
+-   Přípravek Abiraterone G.L. Pharma s prednisonem nebo prednisolonem je kontraindikován v
+kombinaci s Ra-223.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Hypertenze, hypokalemie, retence tekutin a srdeční selhání způsobené vzestupem mineralokortikoidů Abiraterone G.L. Pharma může způsobit hypertenzi, hypokalemii a retenci tekutin (viz bod 4.8) jako důsledek zvýšených hladin mineralokortikoidů, které se objeví na základě inhibice CYP17 (viz bod 5.1). Při současném podání s kortikoidem dojde ke snížení vylučování adrenokortikotropního hormonu (ACTH), což má za následek snížení incidence a závažnosti těchto nežádoucích účinků. Opatrnost je nutná při léčbě pacientů, u nichž může zvýšení krevního tlaku, hypokalemie (např. u pacientů užívajících srdeční glykosidy) nebo retence tekutin (např. u pacientů se srdečním selháním, závažnou nebo nestabilní anginou pectoris, recentním infarktem myokardu nebo komorovou arytmií a u pacientů s těžkou poruchou funkce ledvin) negativně ovlivnit jejich základní onemocnění.
+Přípravek Abiraterone G.L.Pharma je nutno užívat s opatrností u pacientů s anamnézou kardiovaskulárního onemocnění. Studie fáze 3 u přípravku Abiraterone G.L. Pharma vyloučila pacienty s nekontrolovanou hypertenzí, klinicky významným onemocněním srdce, které se manifestovalo jako infarkt myokardu nebo arteriální trombotické příhody v posledních 6 měsících, pacienty se závažnou nebo nestabilní anginou nebo srdečním selháním třídy III nebo IV (studie 301) podle New York Heart Association (NYHA) nebo srdečním selháním třídy II až IV (studie 3011 a 302) nebo se snížením ejekční frakce pod 50 %. Ze studií 3011 a 302 byli vyloučeni pacienti s fibrilací síní nebo dalšími srdečními arytmiemi vyžadujícími podávání léčiv. Bezpečnost u pacientů s ejekční frakcí levé komory (LVEF) < 50 % nebo srdečního selhání třídy III nebo IV NYHA (ve studii 301) nebo srdečního selhání třídy II až IV (ve studiích 3011 a 302) nebyla stanovena (viz body 4.8 a 5.1).
+Před zahájením léčby pacientů s významným rizikem městnavého srdečního selhání (např.
+s anamnézou srdečního selhání, nekontrolované hypertenze nebo srdečních příhod, jako například ischemická choroba srdeční) je nutno zvážit zhodnocení srdečních funkcí (např. echokardiogram). Před zahájením léčby přípravkem Abiraterone G.L. Pharma je nutno léčit srdeční selhání a optimalizovat funkci srdce. Je nutno upravit a kontrolovat hypertenzi, hypokalemii a retenci tekutin. Během léčby je nutno monitorovat krevní tlak, sérové hladiny draslíku, retenci tekutin (přírůstek tělesné hmotnosti, periferní otoky) a další známky a příznaky městnavého srdečního selhání každé 2 týdny během 3 měsíců a dále měsíčně, a abnormality korigovat. U pacientů s hypokalemií bylo pozorováno prodloužení QT intervalu v souvislosti s léčbou přípravkem Abiraterone G.L. Pharma. Provede se vyšetření funkce srdce, jak je klinicky indikováno, zahájí se vhodná léčba, a je-li přítomen klinicky významný pokles funkce srdce (viz bod 4.2), zváží se ukončení léčby tímto přípravkem.
+Hepatotoxicita a porucha funkce jater
+V kontrolovaných klinických studiích se vyskytla významná zvýšení hodnot jaterních enzymů, což vedlo k ukončení léčby nebo změnám dávkování (viz bod 4.8). Před zahájením léčby, každé dva týdny během prvních tří měsíců léčby a dále jednou měsíčně je nutno měřit hodnoty transamináz v séru.
+Objeví-li se klinické příznaky, které ukazují na hepatotoxicitu, je nutno okamžitě stanovit transaminázy v séru. Pokud kdykoli dojde ke zvýšení ALT nebo AST nad 5násobek ULN, je nutno léčbu přerušit a pečlivě sledovat funkci jater. Obnovení léčby lze provést po navrácení jaterních testů pacienta k výchozím hodnotám a s podáváním nižší dávky (viz bod 4.2).
+Vyvine-li se u pacientů kdykoli během léčby závažná hepatotoxicita (ALT nebo AST odpovídající 20násobku ULN), je nutno léčbu ukončit a u těchto pacientů se nemá léčba znovu zahajovat.
+Pacienti s aktivní nebo symptomatickou virovou hepatitidou byli z klinických studií vyloučeni; neexistují tedy údaje, které by použití přípravku Abiraterone G.L. Pharma v této populaci podporovaly.
+
+Nejsou dostupné údaje o klinické bezpečnosti a účinnosti opakovaných dávek abirateron-acetátu při podání pacientům se středně těžkou nebo těžkou poruchou funkce jater (Child-Pugh třídy B nebo C). U pacientů se středně těžkou poruchou funkce jater je nutno užití přípravku Abiraterone G.L. Pharma důkladně posoudit, přínos má jasně převažovat možné riziko (viz body 4.2 a 5.2). Pacientům s těžkou poruchou funkce jater se přípravek Abiraterone G.L. Pharma nesmí podávat (viz body 4.2, 4.3 a 5.2).
+
+Během postmarketingového sledování byly vzácně hlášeny případy akutního selhání jater a fulminantní hepatitidy, některé s fatálními následky (viz bod 4.8).
+Ukončení léčby kortikosteroidy a zvládání stresových situací
+Je-li ukončeno podávání prednisonu nebo prednisolonu, je nutná opatrnost a pacienty je nutno monitorovat, zda se u nich nerozvíjí adrenokortikální insuficience. Pokračuje-li se v léčbě přípravkem Abiraterone G.L. Pharma po vysazení kortikosteroidů, je nutno pacienty sledovat, zda se u nich neobjeví příznaky zvýšené hladiny mineralokortikoidů (viz informace výše).
+U pacientů, kterým je podáván prednison nebo prednisolon a kteří jsou vystaveni neobvyklému stresu, může být indikováno zvýšené dávkování kortikosteroidů před stresovou situací, během ní i po ní.
+Kostní denzita
+U mužů s metastazujícím pokročilým karcinomem prostaty se může vyskytnout snížená kostní denzita. Podávání přípravku Abiraterone G.L. Pharma v kombinaci s glukokortikoidy může tento účinek zvýšit.
+Předchozí podávání ketokonazolu
+U pacientů, kterým byl k léčbě karcinomu prostaty dříve podáván ketokonazol, lze očekávat snížený výskyt odpovědí.
+Hyperglykemie
+Užívání glukokortikoidů může zvyšovat hyperglykemii, proto je u pacientů s diabetem nutno často měřit glykemii.
+Hypoglykemie
+Při podávání přípravku Abiraterone G.L. Pharma v kombinaci s prednisonem/prednisolonem pacientům s preexistujícím diabetem užívajícím pioglitazon nebo repaglinid (viz bod 4.5) byly hlášeny případy hypoglykemie; proto je u pacientů s diabetem nutno často měřit glykemii.
+Užívání s chemoterapií
+Bezpečnost a účinnost současného užívání přípravku Abiraterone G.L. Pharma s cytotoxickou
+chemoterapií nebyly stanoveny (viz bod 5.1).
+Potenciální rizika
+U mužů s metastazujícím karcinomem prostaty, včetně pacientů léčených přípravkem Abiraterone
+G.L. Pharma, se mohou objevit anemie a sexuální dysfunkce.
+Účinky na kosterní svalstvo
+U pacientů léčených přípravkem Abiraterone G.L. Pharma byly hlášeny případy myopatie a rhabdomyolýzy. Většina případů se vyvinula během prvních 6 měsíců léčby a ustoupila po ukončení podávání přípravku Abiraterone G.L. Pharma.
+U pacientů léčených současně přípravky, o kterých je známo, že jsou spojeny s
+myopatií/rhabdomyolýzou, se doporučuje opatrnost.
+Interakce s jinými léčivými přípravky
+Z důvodu rizika snížené expozice abirateronem (viz bod 4.5) je nutné vyvarovat se během léčby podávání silných induktorů CYP3A4, ledaže by nebyla k dispozici jiná alternativní terapeutická léčba.
+Kombinace abirateronu a prednisonu/prednisolonu s Ra-223
+Léčba abirateronem a prednisonem/prednisolonem v kombinaci s Ra-223 je kontraindikována (viz bod 4.3) z důvodu zvýšeného rizika fraktur a sklonu ke zvýšené mortalitě mezi asymptomatickými nebo mírně symptomatickými pacienty s karcinomem prostaty, což bylo pozorováno v klinických studiích.
+
+Následnou léčbu Ra-223 se doporučuje nezahajovat alespoň 5 dní po poslední dávce přípravku
+Abiraterone G.L. Pharma v kombinaci s prednisonem/prednisolonem.
+
+Pomocné látky
+Tento léčivý přípravek obsahuje laktózu. Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+Abiraterone G.L. Pharma 250 mg tablety
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v dávce obsahující čtyři 250mg tablety, to znamená, že je v podstatě „bez sodíku“.
+Abiraterone G.L. Pharma 500 mg potahované tablety
+Tento léčivý přípravek obsahuje 24 mg sodíku v dávce obsahující dvě 500mg potahované tablety. To odpovídá 1 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Vliv potravy na abirateron-acetát
+Podání s jídlem významně zvyšuje absorpci abirateron-acetátu. Účinnost a bezpečnost při podávání s jídlem nebyla stanovena, proto se nesmí tento přípravek užívat s jídlem (viz body 4.2 a 5.2).
+Interakce s jinými léčivými přípravky
+Potenciál jiných léčivých přípravků ovlivňovat expozice abirateron-acetátu
+V klinické studii farmakokinetických interakcí u zdravých dobrovolníků, kteří byli předléčeni rifampicinem, silným induktorem CYP3A4, v dávce 600 mg denně po dobu 6 dní, po které následovala jednorázová dávka 1 000 mg abirateron-acetátu, se průměrná plazmatická AUC∞ abirateronu snížila o 55 %.
+Během léčby je nutno se vyvarovat podávání silných induktorů CYP3A4 (např. fenytoinu, karbamazepinu, rifampicinu, rifabutinu, rifapentinu, fenobarbitalu, třezalce tečkované [Hypericum perforatum]), ledaže by nebyla k dispozici jiná alternativní léčba.
+V samostatné klinické studii farmakokinetických interakcí u zdravých dobrovolníků nemělo současné podávání ketokonazolu, silného inhibitoru CYP3A4, klinicky významný účinek na farmakokinetiku abirateronu.
+Potenciál ovlivňovat expozice jiných léčivých přípravků
+Abirateron je inhibitorem jaterních léky metabolizujících enzymů CYP2D6 a CYP2C8. Ve studii, kde se stanovovaly účinky abirateron-acetátu (podaného spolu s prednisonem) na jednorázovou dávku dextromethorfanu, který je substrátem CYP2D6, byla systémová expozice (AUC) dextromethorfanu zvýšena přibližně 2,9násobně. AUC24 dextrorfanu, aktivního metabolitu dextromethorfanu, byla zvýšena přibližně o 33 %.
+Opatrnost je nutná při současném podávání s léčivými přípravky aktivovanými nebo metabolizovanými CYP2D6, zejména s léčivými přípravky, které mají úzkou terapeutickou šíři. Je nutno zvážit snížení dávek léčivých přípravků metabolizovaných CYP2D6 s úzkou terapeutickou šíří. Příkladem léčivých přípravků metabolizovaných CYP2D6 jsou metoprolol, propranolol, desipramin, venlafaxin, haloperidol, risperidon, propafenon, flekainid, kodein, oxykodon a tramadol (poslední tři léčivé látky potřebují CYP2D6 k vytvoření svých účinných analgetických metabolitů).
+V klinické studii lékových interakcí týkajících se CYP2C8 u zdravých jedinců byla systémová expozice AUC pioglitazonu zvýšena o 46 % a AUC aktivních metabolitů pioglitazonu MIII a MIV byla u každého snížena o 10 %, pokud byl pioglitazon podáván společně s jednorázovou dávkou
+1 000 mg abirateron-acetátu.
+
+U pacientů mají být sledovány známky toxicity související se substrátem CYP2C8 s úzkým terapeutickým indexem, jsou-li užívány současně. Příklady léčivých přípravků metabolizovaných pomocí CYP2C8 zahrnují pioglitazon a repaglinid (viz bod 4.4).
+Údaje získané in vitro ukázaly, že hlavní metabolity abirateron-sulfát a N-oxid abirateron-sulfát inhibují jaterní transportér OATP1B1 a v důsledku toho může dojít ke zvýšení koncentrace léčivých látek vylučovaných OATP1B1. Nejsou k dispozici žádné klinické údaje, které by potvrdily interakce s tímto transportérem.
+Užívání s přípravky, které prodlužují QT interval
+Vzhledem k tomu, že androgen-deprivační léčba může prodlužovat QT interval, je doporučena opatrnost, pokud je přípravek Abiraterone G.L. Pharma užíván spolu s léčivými přípravky, které prodlužují interval QT nebo s léčivými přípravky, které mohou indukovat torsades de pointes, jako jsou antiarytmika třídy IA (např.chinidin, disopyramid) nebo třídy III (např. amiodaron, sotalol, dofetilid, ibutilid), methadon, moxifloxacin, antipsychotika atd.
+
+Užívání se spironolaktonem
+Spironolakton se váže na androgenní receptory a může zvyšovat hladiny prostatického specifického antigenu (PSA). Užívání s přípravkem Abiraterone G.L. Pharma se nedoporučuje (viz bod 5.1).
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Neexistují údaje o podávání přípravku Abiraterone G.L. Pharma v těhotenství a tento přípravek není určen k podávání ženám ve fertilním věku.
+Antikoncepce u mužů a žen
+Není známo, zda jsou abirateron nebo jeho metabolity přítomny ve spermatu. Při sexuální aktivitě s těhotnou ženou musí pacient použít kondom. Při sexuální aktivitě s ženou ve fertilním věku musí pacient použít kondom a zároveň další účinnou antikoncepční metodu. Studie na zvířatech ukázaly reprodukční toxicitu (viz bod 5.3).
+Těhotenství
+Přípravek Abiraterone G.L. Pharma není určen ženám a je kontraindikována u těhotných žen
+nebo u žen, které by mohly otěhotnět (viz body 4.3 a 5.3).
+Kojení
+Přípravek Abiraterone G.L. Pharma není určen k podávání ženám.
+Fertilita
+Abirateron ovlivňoval fertilitu u samců i samic potkanů, ale tyto účinky byly plně reverzibilní (viz bod
+5.3).
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Abiraterone G.L. Pharma nemá žádný nebo má zanedbatelný vliv na schopnost řídit a
+obsluhovat stroje.
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+V analýze nežádoucích účinků sdružených studií fáze 3 s abirateron-acetátem byly nežádoucími účinky pozorovanými u ≥ 10 % pacientů: periferní otok, hypokalemie, hypertenze, infekce močových cest a zvýšení alaninaminotransferázy a/nebo zvýšení aspartátaminotransferázy.
+Další závažné nežádoucí účinky zahrnují srdeční onemocnění, hepatotoxicitu, fraktury a alergickou alveolitidu.
+Abiraterone G.L. Pharma může způsobit hypertenzi, hypokalemii a retenci tekutin; jedná se o farmakodynamický následek jeho mechanismu účinku. Ve studiích fáze 3 byly předpokládané mineralokortikoidní nežádoucí účinky pozorovány častěji u pacientů léčených abirateron-acetátem než u pacientů léčených placebem: hypokalemie 18 % vs. 8 %, hypertenze 22 % vs. 16 % a retence tekutin
+
+(periferní otok) 23 % vs. 17 %. U pacientů léčených abirateron-acetátem oproti pacientům léčeným placebem: hypokalemie stupňů 3 a 4 dle CTCAE (Obecná terminologická kritéria nežádoucích účinků, verze 4.0) byla pozorována u 6 % vs. 1% pacientů, hypertenze stupňů 3 a 4 dle CTCAE (verze 4.0) byla pozorována u 7 % vs. 5 % pacientů a retence tekutin (periferní edém) stupňů 3 a 4 dle CTCAE (verze 4.0) byla pozorována u 1 % vs. 1 % pacientů.
+Mineralokortikoidní účinky byly většinou lékařsky úspěšně zvládnutelné. Současné podávání kortikosteroidů incidenci a závažnost těchto nežádoucích účinků snižuje (viz bod 4.4).
+Tabulkový seznam nežádoucích účinků
+Ve studiích u pacientů s pokročilým metastazujícím karcinomem prostaty, kterým byl podáván analog LHRH nebo pacientů dříve léčených orchiektomií, byl abirateron-acetát podáván v dávce 1 000 mg denně v kombinaci s nízkou dávkou prednisonu nebo prednisolonu (buď 5 nebo 10 mg denně v závislosti na indikaci).
+Nežádoucí účinky pozorované v klinických studiích a během postmarketingového sledování jsou uvedeny dále dle kategorií četnosti. Kategorie četnosti jsou definovány jako: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1000); velmi vzácné (< 1/10 000) a není známo (z dostupných údajů nelze určit).
+V každé skupině četnosti jsou nežádoucí účinky uvedeny s klesající závažností.
+Tabulka 1: Nežádoucí účinky zjištěné v klinických hodnoceních a postmarketingovém sledování
+
+Třídy orgánových systémů
+Infekce a infestace
+
+Poruchy imunitního systému Endokrinní poruchy
+Poruchy metabolismu a výživy
+
+Srdeční poruchy
+
+
+
+
+Cévní poruchy
+Respirační, hrudní a mediastinální poruchy
+
+Gastrointestinální poruchy Poruchy jater a žlučových cest
+
+
+Poruchy kůže a podkožní tkáně Poruchy svalové a kosterní soustavy a pojivové tkáně
+Poruchy ledvin a močových cest
+Celkové poruchy a reakce v místě aplikace Poranění, otravy a procedurální komplikace
+Nežádoucí účinek a frekvence Velmi časté: infekce močových cest Časté: sepse
+Není známo: anafylaktické reakce Méně časté: adrenální insuficience Velmi časté: hypokalemie
+Časté: hypertriglyceridemie
+Časté: srdeční selhání*, angina pectoris, fibrilace síní, tachykardie
+Méně časté: jiné arytmie
+Není známo: infarkt myokardu, prodloužení QT
+intervalu (viz body 4.4 a 4.5) Velmi časté: hypertenze Vzácné: alergická alveolitidaa
+Velmi časté: průjem Časté: dyspepsie
+Velmi časté: zvýšení ALT a/nebo zvýšení AST b
+Vzácné: fulminantní hepatitida, akutní selhání
+jater
+Časté: vyrážka
+Méně časté: myopatie, rhabdomyolýza
+
+Časté: hematurie
+Velmi časté: periferní edém Časté: fraktury**
+* Srdeční selhání zahrnuje také městnavé srdeční selhání, dysfunkci levé komory a snížení ejekční frakce
+** Fraktury zahrnují osteoporózu a všechny zlomeniny s výjimkou patologických fraktur
+a Spontánní hlášení z postmarketingového sledování
+b Zvýšení alaninaminotransferázy a/nebo aspartátaminotransferázy zahrnuje zvýšení ALT, zvýšení AST a abnormální jaterní funkce.
+
+U pacientů léčených abirateron-acetátem se vyskytly následující nežádoucí účinky CTCAE (verze 4.0) stupně 3 závažnosti: hypokalemie 5 %, infekce močových cest 2 %, zvýšení alaninaminotrasferázy a/nebo aspartátaminotransferázy 4 %, hypertenze 6 %, fraktury 2 %, periferní otok, srdeční selhání a fibrilace síní, vše s frekvencí 1 %. Hypertriglyceridemie a angina pectoris CTCAE (verze 4.0) stupně 3 se vyskytly u < 1 % pacientů. Infekce močových cest, zvýšení
+
+alaninaminotrasferázy a/nebo aspartátaminotransferázy, hypokalemie, srdeční selhání, fibrilace síní a
+fraktury CTCAE (verze 4.0) stupně 4 se vyskytly u < 1 % pacientů.
+U hormonálně senzitivní populace byla pozorována vyšší incidence hypertenze a hypokalemie (studie 3011). U hormonálně senzitivní populace (studie 3011) byla hypertenze hlášena u 36,7 % pacientů v porovnání s 11,8 % a 20,2 % ve studiích 301 a 302.
+U hormonálně senzitivní populace (studie 3011) byla hypokalemie pozorována u 20,4 % pacientů v porovnání s 19,2 % a 14,9 % ve studiích 301 a 302.
+
+Incidence a závažnost nežádoucích účinků byla vyšší v podskupině pacientů s výchozím stupněm výkonnostního stavu ECOG2 a rovněž u starších pacientů (≥ 75 let).
+Popis vybraných nežádoucích účinků
+Kardiovaskulární účinky
+Ze všech tří studií fáze 3 byli vyloučeni pacienti s nekontrolovanou hypertenzí, klinicky významným onemocněním srdce, které se klinicky manifestovalo jako infarkt myokardu nebo arteriální trombotické příhody v předchozích 6 měsících, pacienti se závažnou nebo nestabilní anginou pectoris nebo selháváním srdce NYHA třídy III nebo IV (studie 301) nebo třídy II až IV (studie 3011 a 302) nebo s naměřenou ejekční frakcí < 50 %. Všichni zahrnutí pacienti (jak pacienti s aktivní medikací tak i pacienti na placebu) byli zároveň léčeni androgen-deprivační léčbou zejména s použitím analogů LHRH, což bylo spojeno s diabetem, infarktem myokardu, cerebrovaskulární příhodou a náhlou srdeční smrtí. Výskyt kardiovaskulárních nežádoucích účinků ve studiích fáze 3 u pacientů užívajících abirateron-acetát byl ve srovnání s placebem následující: fibrilace síní 2,6 % vs. 2,0 %, tachykardie 1,9 % vs. 1,0 %, angina pectoris 1,7 % vs. 0,8 %, srdeční selhání 0,7 % vs. 0,2 % a arytmie 0,7 % vs. 0,5 %.
+Hepatotoxicita
+U pacientů léčených abirateron-acetátem byla hlášena hepatotoxicita se zvýšením ALT, AST a celkového bilirubinu. Napříč klinickými studiemi fáze 3 byla hepatotoxicita stupně 3 a 4 (např. zvýšení ALT nebo AST > 5násobek horní hranice normálu nebo zvýšení bilirubinu > 1,5násobek horní hranice normálu) hlášena u 6 % pacientů léčených abirateron-acetátem, typicky během prvních 3 měsíců po zahájení léčby. Ve studii 3011 byla hepatotoxicita stupně 3 nebo 4 pozorována u 8,4 % pacientů léčených abirateron-acetátem. U deseti pacientů, kteří dostávali abirateron-acetát, bylo kvůli hepatotoxicitě podávání ukončeno; dva měli hepatotoxicitu stupně 2, šest mělo hepatotoxicitu stupně 3 a dva měli hepatotoxicitu stupně 4. Žádný pacient ve studii 3011na hepatotoxicitu nezemřel. Ve studiích fáze 3 bylo zhoršení jaterních testů pravděpodobnější u pacientů, jejichž jaterní testy byly zvýšeny již na počátku, ve srovnání s pacienty, jejichž jaterní testy byly na počátku normální. Došlo-li ke zvýšení ALT nebo AST na > 5násobek horní hranice normálu nebo ke zvýšení bilirubinu na > 3násobek horní hranice normálu, bylo podávání abirateron-acetátu ukončeno nebo přerušeno. Ve dvou případech došlo k významnému zvýšení hodnot výsledků jaterních testů (viz bod 4.4). U těchto dvou pacientů s normální funkcí jater na počátku léčby došlo ke zvýšení ALT nebo AST na 15 až 40násobek horní hranice normálu a ke zvýšení bilirubinu na 2 až 6násobek horní hranice normálu. Po ukončení léčby došlo u obou pacientů k normalizaci jaterních testů a jeden z pacientů byl znovu léčen bez opakovaného zvýšení jejich hodnot. Ve studii 302 byla zvýšení ALT nebo AST stupně 3 nebo 4 pozorována u 35 (6,5 %) pacientů léčených abirateron-acetátem.
+Zvýšené hladiny aminotransferáz se vrátily k normálu u všech kromě 3 pacientů (2 s novými
+mnohočetnými metastázami v játrech a 1 se zvýšením AST přibližně 3 týdny po poslední dávce abirateron-acetátu). Ve studiích fáze 3 byla ukončení léčby kvůli zvýšením ALT nebo AST nebo abnormálním jaterním funkcím hlášena u 1,1 % pacientů léčených abirateron-acetátem a u 0,6 % pacientů léčených placebem; kvůli hepatotoxicitě nebyla hlášena žádná úmrtí.
+V klinických studiích bylo riziko hepatotoxicity omezeno vyloučením pacientů s výchozí hepatitidou nebo významnými abnormalitami v jaterních testech. Ze studie 3011 byli vyloučeni pacienti s výchozími hodnotami ALT a AST > 2,5násobek horní hranice normálu, bilirubinu > 1,5násobek horní hranice normálu a pacienti s aktivní nebo symptomatickou virovou hepatitidou nebo s chronickým onemocněním jater, ascitem nebo krvácivými poruchami sekundárními k dysfunkci jater. Ze studie 301 byli vyloučeni pacienti s výchozí hodnotou ALT a AST ≥ 2,5násobek horní hranice normálu bez přítomnosti metastáz v játrech a pacientů s výchozí hodnotou ALT a AST 5násobek horní hranice normálu, pokud v játrech byly přítomny metastázy. Pro studii 302 nebyli pacienti s metastázami v játrech vhodní a pacienti s výchozí hodnotou ALT a AST ≥ 2,5násobek horní hranice normálu byli
+
+ze studie vyloučeni. Objevující se zvýšení jaterních testů u pacientů v klinických studiích bylo rázně řešeno požadavkem přerušení léčby a povolením jejího obnovení po návratu jaterních testů na výchozí hodnoty (viz bod 4.2). U pacientů s ALT nebo AST > 20násobek horní hranice normálu nebyla léčba znovu zahájena. Bezpečnost opětovného zahájení léčby u takovýchto pacientů není známa. Mechanismus hepatotoxicity nebyl vysvětlen.
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Zkušenosti s předávkováním u člověka jsou omezené.
+
+Specifické antidotum neexistuje. V případě předávkování je nutno ukončit podávání a zahájit obecná podpůrná opatření včetně monitorování arytmií, hypokalemie a známek a příznaků retence tekutin. Je také nutno vyšetřit funkci jater.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: hormonální léčiva používaná v onkologii, jiní antagonisté hormonů a příbuzné látky, ATC kód: L02BX03
+Mechanismus účinku
+Abirateron-acetát (Abiraterone G.L.Pharma) se in vivo metabolizuje na abirateron, inhibitor biosyntézy androgenů. Abirateron selektivně inhibuje enzym 17α-hydroxylázu/C17, 20-lyázu (CYP17). Tento enzym je exprimován a je nutný pro biosyntézu androgenů ve tkáních varlat, nadledvin a v nádorové tkáni prostaty. CYP17 katalyzuje přeměnu pregnenolonu a progesteronu na prekurzory testosteronu, DHEA, resp. androstendionu 17α-hydroxylací a štěpením vazby C17, 20. Inhibice CYP17 vede též ke zvýšené produkci mineralokortikoidů nadledvinami (viz bod 4.4).
+Androgen-senzitivní karcinom prostaty reaguje na léčbu, která snižuje hladiny androgenů. Androgen-deprivační terapie, jako je léčba analogy LHRH nebo orchiektomie, snižují produkci androgenů ve varlatech, ale neovlivňují produkci androgenů nadledvinami nebo v tumoru. Léčba přípravkem Abiraterone G.L.Pharma, je-li podána s analogy LHRH (nebo s orchiektomií), snižuje hladinu testosteronu v séru na nedetekovatelné hodnoty (za použití komerčních metod stanovení).
+Farmakodynamické účinky
+Abiraterone G.L. Pharma snižuje testosteron a jiné androgeny v séru na hladiny nižší, než které jsou dosaženy samotnými analogy LHRH nebo orchiektomií. To je způsobeno selektivní inhibicí enzymu CYP17 potřebného k biosyntéze androgenů. U pacientů s karcinomem prostaty slouží jako specifický biomarker PSA. Ve fázi 3 klinické studie u pacientů, u kterých selhala předchozí léčba taxany, došlo k poklesu hladin PSA alespoň o 50 % oproti výchozímu stavu u 38 % pacientů léčených abirateron-acetátem ve srovnání s 10 % pacientů léčených placebem.
+Klinická účinnost a bezpečnost
+Účinnost byla stanovena ve třech randomizovaných placebem kontrolovaných multicentrických studiích fáze 3 (studie 3011, 302 a 301) u pacientů s mHSPC a mCRPC. Do studie 3011 byli zařazeni pacienti, u kterých byl nově diagnostikován (do 3 měsíců od randomizace) mHSPC, kteří měli vysoce rizikové prognostické faktory. Vysoce riziková prognóza byla definována jako přítomnost alespoň 2 z následujících 3 rizikových faktorů: (1) Gleasonovo skóre ≥ 8; (2) přítomnost 3 nebo více lézí na
+
+kostním skenu; (3) přítomnost měřitelné viscerální (kromě onemocnění lymfatických uzlin) metastázy. V aktivním rameni se abirateron-acetát podával v dávce 1000 mg denně v kombinaci s nízkou dávkou prednisonu 5 mg jednou denně vedle ADT (agonista LHRH nebo orchiektomie), což byla standardní léčba. Pacienti v kontrolním rameni dostávali ADT a placebo místo abirateron-acetátu a prednisonu.
+Ve studii 302 byli zahrnuti pacienti bez předchozí léčby docetaxelem; zatímco ve studii 301 byli zahrnuti pacienti, kteří dostávali dříve docetaxel. Pacienti užívali analog LHRH nebo podstoupili orchiektomii. V rameni s aktivní léčbou byl abirateron-acetát podáván v dávce 1 000 mg denně v kombinaci s nízkou dávkou prednisonu nebo prednisolonu 5 mg dvakrát denně. Kontrolní skupinu tvořili pacienti, kteří dostávali placebo a nízkou dávku prednisonu nebo prednisolonu 5 mg dvakrát denně.
+
+Změny v sérových koncentracích PSA samy o sobě ne vždy předpovídají klinický přínos. Ve všech studiích bylo tedy doporučeno, aby pacienti dostávali léčbu až do dosažení kritérií pro ukončení, jak jsou specifikována pro každé hodnocení dále.
+Ve všech studiích nebylo užívání se spironolaktonem povoleno, protože spironolakton se váže na androgenní receptor a může zvyšovat hladiny PSA.
+Studie 3011 (pacienti s nově diagnostikovaným, vysoce rizikovým mHSPC)
+Ve studii 3011 (n = 1199) byl medián věku zařazených pacientů 67 let. Rozdělení počtu pacientů léčených abirateron-acetátem podle příslušnosti k rasové skupině byl následující: kavkazská 832 (69,4
+%), Asijská 246 (20,5 %), černá nebo afroamerická 25 (2,1 %), jiná 80 (6,7 %), neznámá/nehlášená 13 (1,1 %) a Američané indiánského původu nebo původní obyvatelé Aljašky 3 (0,3 %).U 97 % pacientů byl výkonnostní stav dle ECOG 0 nebo 1. Pacienti se známými mozkovými metastázami, s nekontrolovanou hypertenzí, klinicky významným srdečním onemocněním nebo srdečním selháním třídy II – IV dle NYHA nebyli zařazováni. Pacienti, kteří byli dříve léčeni farmakoterapeuticky, radiační terapií nebo chirurgicky z důvodu metastazujícího karcinomu prostaty nebyli zařazeni s výjimkou ADT po dobu až 3 měsíců nebo 1 cyklu paliativní radiace nebo chirurgické terapie z důvodu léčby příznaků vyplývajících z metastazujícího onemocnění. Primárními cílovými parametry studie byly celkové přežití (OS) a přežití bez radiografické progrese nemoci (rPFS). Medián výchozího skóre bolesti, měřeno pomocí Brief Pain Inventory Short Form (BPI-SF), byl v obou skupinách (v aktivní léčebné skupině a ve skupině s placebem) 2,0. Vedle primárních cílových parametrů studie byl léčebný přínos také hodnocen na základě doby do skeletální příhody (skeletal-related event, SRE), doby do následné léčby karcinomu prostaty, doby do zahájení chemoterapie, doby do progrese bolesti a doby do progrese PSA. V léčbě se pokračovalo do progrese nemoci, odvolání souhlasu, výskytu nepřijatelné toxicity nebo úmrtí.
+Přežití bez radiografické progrese bylo definováno jako doba od randomizace do výskytu radiografické progrese nebo úmrtí z jakékoli příčiny. Radiografická progrese zahrnovala progresi podle skenu kostí (podle modifikovaného PCWG2) nebo progresi lézí měkkých tkání podle CT nebo NMR (podle RECIST 1.1).
+Mezi léčebnými skupinami byl pozorován významný rozdíl v rPFS (viz tabulka 2 a obrázek 1).
+
+Tabulka 2: Přežití bez radiografické progrese – stratifikovaná analýza; populace podle léčebného záměru (studie PCR3011)
+
+
+Randomizované subjekty Příhoda
+Cenzorováno
+AA-P 597
+239 (40,0 %)
+358 (60,0 %)
+Placebo 602
+354 (58,8 %)
+248 (41,2 %)
+
+
+Doba do příhody (měsíce) Medián (95%
+Interval spolehlivosti)
+Rozmezí
+Hodnota pa
+Poměr rizik (95% interval
+spolehlivosti)b
+
+33,02 (29,57; NE)
+(0,0+; 41,0+)
+
+< 0,0001
+0,466 (0,394;
+0,550)
+
+
+14,78 (14,69; 18,27)
+(0,0+; 40,6+)
+Poznámka: += cenzorované pozorování, NE=neodhadnutelné. Radiografická progrese a úmrtí jsou v definici příhody rPFS
+zahrnuty. AA-P= subjekty, které dostávaly abirateron-acetát a prednison.
+
+a  Hodnota p pochází z log-rank testu stratifikovaného podle skóre stavu výkonnosti dle ECOG (0/1 nebo 2) a viscerální léze (nepřítomné nebo přítomné).
+b Poměr rizik pochází ze stratifikovaného proporčního modelu rizik. Poměr rizik <1 je ve prospěch AA-P.
+
+
+
+Obrázek 1: Kaplan-Meierova křivka přežití bez radiografické progrese; populace podle léčebného záměru (studie PCR3011)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ohrožené subjekty
+Abirateron-acetát
+Placebo
+Měsíce od randomizace
+
+
+
+
+Abirateron-acetát      Placebo
+
+Bylo pozorováno statisticky významné zlepšení OS ve prospěch AA-P plus ADT při 34% snížení rizika úmrtí v porovnání s placebem plus ADT (poměr rizik = 0,66; 95% interval spolehlivosti: 0,56, 0,78; p < 0,0001) (viz tabulka 3 a obrázek 2).
+Tabulka 3:   Celkové přežití pacientů léčených abirateron-acetátem nebo placebem ve
+studií PCR3011 (analýza všech zařazených pacientů)
+Abirateron-acetát v kombinaci    Placebo
+Celkové přežití              s prednisonem         (n = 602)
+(n = 597)
+Úmrtí (%)                275 (46 %)         343 (57 %)
+Medián přežití (měsíce)               53,3             36,5
+(95% interval spolehlivosti)           (48,2; NE)          (33,5; 40,0)
+Poměr rizik (95% interval spolehlivosti)1               0,66 (0,56; 0,78) NE = nebylo stanoveno
+1 Poměr rizik pochází ze stratifikovaného proporčního modelu rizik. Poměr rizik < 1 je ve prospěch
+abirateron-acetátu v kombinaci s prednisonem.
+
+
+
+Obrázek 2: Kaplan-Meierova křivka celkového přežití; populace podle léčebného záměru (analýza ve
+studii PCR3011)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analýzy podskupin konzistentně upřednostňují léčbu abirateron-acetátem. Léčebné účinky AA- P na rPFS a OS u všech předem definovaných podskupin byly příznivé a konzistentní v celé hodnocené populaci, s výjimkou podskupiny se skóre 2 dle ECOG, kde nebyl pozorován žádný trend k přínosu, nicméně malá velikost vzorku (n=40) omezuje jakékoli smysluplné závěry.
+Vedle pozorovaných zlepšení celkového přežití a rPFS byly u léčby abirateron-acetátem vs. placebo prokázány přínosy ve všech prospektivně definovaných sekundárních cílových parametrech studie.
+Studie 302 (pacienti bez předchozí chemoterapie)
+Tato studie zahrnovala pacienty, kteří dříve nedostávali chemoterapii a kteří byli asymptomatičtí nebo mírně symptomatičtí a u nichž chemoterapie dosud nebyla klinicky indikována. Skóre 0 – 1 na Brief Pain Inventory-Short Form (BPI-SF) nejhorší bolesti během posledních 24 hodin bylo považováno za asymptomatické a skóre 2 – 3 za mírně symptomatické.
+Ve studii 302 (n = 1 088) byl u pacientů léčených abirateron-acetátem a prednisonem nebo prednisolonem medián věku 71 let a u pacientů léčených placebem a prednisonem nebo prednisolonem byl medián věku 70 let. Počet pacientů léčených abirateron-acetátem byl podle rasy 520 bělochů (95,4 %), 15 černochů (2,8 %), 4 Asiaté (0,7 %) a 6 ostatních (1,1 %). Eastern Cooperative Oncology Group (ECOG) skóre bylo 0 u 76 % pacientů a 1 u 24 % pacientů v obou ramenech. Padesát procent pacientů mělo pouze metastázy v kostech, dalších 31 % pacientů mělo metastázy v kostech a měkkých tkáních nebo lymfatických uzlinách a 19 % pacientů mělo metastázy pouze v měkkých tkáních nebo lymfatických uzlinách. Pacienti s viscerálními metastázami byli vyloučeni. Společnými primárními cílovými parametry bylo celkové přežití a přežití bez radiografické progrese (rPFS). Navíc k hodnocení společných primárních cílových parametrů byl přínos hodnocen také za použití doby do použití opioidu pro nádorovou bolest, doby do zahájení cytotoxické chemoterapie, doby do zhoršení ECOG skóre o ≥ 1 stupeň a doby do progrese PSA založené na kritériích Prostate Cancer Working Group-2 (PCWG2). Podání
+
+léčby ve studii bylo ukončeno v době jednoznačné klinické progrese. Léčbu bylo také možno ukončit v době potvrzené radiografické progrese, podle uvážení zkoušejícího.
+
+Přežití bez radiografické progrese (rPFS) bylo hodnoceno s použitím sekvenčního zobrazovacího sledování tak, jak jsou definována kritérii PCWG2 (pro kostní léze) a modifikovanými kritérii Response Evaluation Criteria In Solid Tumors (RECIST) (pro léze měkkých tkání). Analýza rPFS používala centrální vyhodnocování radiografické progrese.
+V plánované rPFS analýze bylo 401 příhod, 150 (28 %) pacientů léčených abirateron-acetátem a 251 (46 %) pacientů léčených placebem mělo radiografický průkaz progrese nebo zemřeli. Byl pozorován významný rozdíl mezi rPFS mezi skupinami léčby (viz tabulka 4 a obrázek 3).
+Tabulka 4: Studie 302: Přežití bez radiografické progrese u pacientů léčených buď abirateron-acetátem nebo placebem v kombinaci s prednisonem nebo prednisolonem a analogem LHRH nebo předchozí orchiektomií
+Abirateron-
+
+
+
+Přežití bez radiografické progrese (rPFS) Progrese nebo úmrtí Medián rPFS v měsících (95% CI)
+hodnota p* Poměr rizik** (95% CI)
+NE = nebylo stanoveno
+acetát
+(n = 546)
+
+
+150 (28 %)
+Nedosaženo
+(11,66; NE)
+
+
+
+
+
+
+
+< 0,0001
+0,425 (0,347; 0,522)
+Placebo (n = 542)
+
+251 (46 %)
+8,3
+(8,12; 8,54)
+* p-hodnota je odvozena z log-rank testu stratifikovaného podle výchozího ECOG skóre (0 nebo 1)
+** Poměr rizik < 1je ve prospěch abirateron-acetátu
+
+Obrázek 3: Kaplan Meierovy křivky přežití bez radiografické progrese u pacientů léčených buď abirateron-acetátem nebo placebem v kombinaci s prednisonem nebo prednisolonem a analogem LHRH nebo předchozí orchiektomií
+100
+
+
+
+
+
+80
+
+
+
+
+
+60
+
+
+
+
+
+40
+
+
+
+
+
+20
+
+
+
+
+
+0
+0      3      6      9      12      15      18 Měsíce od randomizace
+
+AA     546        489         340        164         46         12         0
+Placebo  542        400         204         90         30         3         0
+Placebo   AA
+AA = abirateron-acetát
+
+Avšak údaje pacientů byly sbírány až do druhé průběžné analýzy celkového přežití (Overall survival = OS). Radiografické hodnocení rPFS provedené zkoušejícím následně po analýze senzitivity je uvedeno v tabulce 5 a na obrázku 4.
+Šest set sedm (607) pacientů mělo radiografickou progresi nebo zemřelo: 271 (50 %) ve skupině s abirateron-acetátem a 336 (62 %) ve skupině s placebem. Léčba abirateron-acetátem snižovala riziko radiografické progrese nebo úmrtí o 47 % ve srovnání s placebem (poměr rizik = 0,530; 95% CI: [0,451 - 0,623]; p < 0,0001). Medián rPFS byl 16,5 měsíce ve skupině s abirateron-acetátem a 8,3 měsíce ve skupině s placebem.
+Tabulka 5: Studie 302: Přežití bez radiografické progrese u pacientů léčených buď abirateron-acetátem nebo placebem v kombinaci s prednisonem nebo prednisolonem a analogem LHRH nebo předchozí orchiektomií (při druhé průběžné analýze hodnocení OS zkoušejícím)
+Abirateron
+
+
+
+Přežití bez radiografické progrese (rPFS) Progrese nebo úmrtí Medián rPFS v měsících (95% CI)
+hodnota p* Poměr rizik** (95% CI)
+-acetát (n = 546)
+
+271 (50 %)
+16,5
+(13,80; 16,79)
+
+
+
+
+
+
+
+< 0,0001
+0,530 (0,451; 0,623)
+Placebo (n = 542)
+
+336 (62 %)
+8,3
+(8,05; 9,43)
+* p-hodnota je odvozena z log-rank testu stratifikovaného podle výchozího ECOG skóre (0 nebo 1)
+** Poměr rizik < 1je ve prospěch abirateron-acetátu
+
+
+Obrázek 4: Kaplan Meierovy křivky přežití bez radiografické progrese u pacientů léčených buď abirateron-acetátem nebo placebem v kombinaci s prednisonem nebo prednisolonem a analogem LHRH nebo předchozí orchiektomií (při druhé průběžné analýze hodnocení OS zkoušejícím)
+
+AA = Abirateron-acetát
+
+Plánovaná předběžná analýza (interim analysis, IA) OS byla provedena po 333 pozorovaných úmrtích. Studie byla na základě pozorovaného významného klinického přínosu odslepena a pacientům ve skupině s placebem byla nabídnuta léčba abirateron-acetátem. Celkové přežití bylo delší u abirateron-acetátu než u placeba s 25% snížením rizika úmrtí (poměr rizik = 0,752; 95% CI: [0,606; 0,934], p=0,0097), ale data k celkovému přežití nebyla dostatečně zralá a průběžné výsledky nedosáhly předem specifikovanou hodnotu statistické významnosti (viz tabulka 4). Přežití bylo po této předběžné analýze dále sledováno.
+Po zaznamenání 741 úmrtí byla provedena plánovaná konečná analýza celkového přežití (medián sledování byl 49 měsíců). Zemřelo šedesát pět procent (354 z 546) pacientů léčených abirateron- acetátem ve srovnání se 71 % (387 z 542) pacientů léčených placebem. Byl prokázán statisticky významný přínos v celkovém přežití ve prospěch skupiny léčené abirateron-acetátem se snížením rizika úmrtí o 19,4 % (HR=0,806; 95% CI: [0,697; 0,931], p=0,0033) a zlepšením mediánu celkového přežití o 4,4 měsíce (abirateron-acetát 34,7 měsíce, placebo 30,3 měsíců) (viz tabulka 6 a obrázek 5). Toto zlepšení bylo prokázáno navzdory tomu, že 44 % pacientů v rameni s placebem užívalo abirateron-acetát jako následnou léčbu.
+Tabulka 6: Studie 302: Celkové přežití pacientů léčených buď abirateron-acetátem nebo placebem v kombinaci s prednisonem nebo prednisolonem a analogem LHRH nebo předchozí orchiektomií
+
+
+Předběžná analýza celkového přežití
+Úmrtí (%) Medián přežití (měsíce)
+(95% CI)
+hodnota p*
+Abirateron-acetát (n = 546)
+
+147 (27 %)
+Nedosaženo
+(NE, NE)
+
+
+
+
+
+
+
+0,0097
+Placebo (n = 542)
+
+186 (34 %)
+27,2
+(25,95; NE)
+
+Poměr rizik**
+(95% CI)
+Závěrečná analýza celkového přežití
+Úmrtí (%) Medián přežití (měsíce)
+(95% CI)
+hodnota p* Poměr rizik** (95% CI)
+NE = nebylo stanoveno
+0,752 (0,606; 0,934)
+
+
+354 (65 %)            387 (71 %)
+34,7 (32,7; 36,8)         30,3 (28,7; 33,3)
+
+0,0033
+0,806 (0,697; 0,931)
+* p-hodnota je odvozena z log-rank testu stratifikovaného podle výchozího ECOG skóre (0 nebo 1)
+** Poměr rizik < 1 je ve prospěch abirateron-acetátu
+
+Obrázek 5: Kaplan Meierovy křivky přežití u pacientů léčených buď abirateron-acetátem nebo placebem v kombinaci s prednisonem nebo prednisolonem a analogem LHRH nebo předchozí orchiektomií, závěrečná analýza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Měsíce od randomizace
+
+
+
+AA – abirateron-acetát
+
+Navíc k pozorovaným zlepšením celkového přežití a rPFS byl u léčby abirateron-acetátem oproti placebu
+prokázán přínos ve všech měřených sekundárních cílových parametrech, jak je uvedeno dále:
+Doba do progrese založená na kritériích PCWG2: Medián doby do progrese PSA byl 11,1 měsíce u pacientů dostávajících abirateron-acetát a 5,6 měsíce u pacientů dostávajících placebo [poměr rizik = 0,488; 95% CI: (0,420; 0,568), p < 0,0001]. Doba do PSA progrese byla při léčbě abirateron-acetátem přibližně dvojnásobná (poměr rizik = 0,488). Podíl pacientů s potvrzenou PSA odpovědí byl vyšší ve skupině s abirateron-acetátem než ve skupině s placebem (62 % vs. 24 %; p < 0,0001). U pacientů s měřitelným onemocněním měkkých tkání byly při léčbě abirateron-acetátem pozorovány významně vyšší počty kompletních nebo parciálních odpovědí nádoru.
+Doba do použití opiodu kvůli nádorové bolesti: Medián doby do použití opioidu kvůli bolesti spojené s nádorem prostaty byl v době konečné analýzy 33,4 měsíce u pacientů dostávajících abirateron-acetát a 23,4 měsíce u pacientů dostávajících placebo [poměr rizik = 0,721 95%CI: [0,614; 0,846], p = 0,0001).
+Doba do zahájení cytotoxické chemoterapie: Medián doby do zahájení cytotoxické léčby byl u pacientů užívajících abirateron-acetát 25,2 měsíce a 16,8 měsíce u pacientů dostávajících placebo [poměr rizik = 0,580; 95%CI: (0,487; 0,691), p < 0,0001].
+
+Doba do zhoršení skóre ECOG o ≥ 1 bod: Medián doby do zhoršení skóre ECOG o ≥ 1 bod byl u pacientů dostávajících abirateron-acetát 12,3 měsíce a 10,9 měsíce u pacientů dostávajících placebo [poměr rizik = 0,821; 95%CI: (0,714; 0,943), p = 0,0053].
+Následující studované cílové parametry prokázaly statisticky významnou výhodu ve prospěch léčby abirateron-acetátem:
+Objektivní odpověď: Objektivní odpověď byla definována jako podíl pacientů s měřitelným onemocněním, kteří dosáhli kompletní nebo parciální odpovědi podle RECIST kritérií (pro hodnocení lymfatických uzlin jako cílových lézí byla vyžadována počáteční velikost ≥ 2 cm). Podíl pacientů s měřitelným onemocněním na počátku, kteří měli objektivní odpověď, byl ve skupině s abirateron- acetátem 36 % a ve skupině s placebem 16 % (p < 0,0001).
+Bolest: Léčba abirateron-acetátem významně snižovala riziko progrese průměrné intenzity bolesti o 18 % ve srovnání s placebem (p = 0,0490). Medián doby do progrese byl 26,7 měsíce ve skupině s abirateron-acetátem a 18,4 měsíce ve skupině s placebem.
+Doba do snížení FACT-P (celkové skóre): Léčba abirateron-acetátem snižovala ve srovnání s placebem riziko snížení FACT-P (celkové skóre) o 22 % (p = 0,0028). Medián doby do snížení FACT- P (celkové skóre) byl 12,7 měsíce ve skupině s abirateron-acetátem a 8,3 měsíce ve skupině s placebem.
+Studie 301 (pacienti, kteří dříve dostávali chemoterapii)
+Studie 301 zahrnovala pacienty, kteří byli dříve léčeni docetaxelem. Nebylo požadováno, aby pacienti dosáhli progrese během léčby docetaxelem, protože toxicita této chemoterapie může vést k vysazení. Pacienti dostávali ve studii léčbu až do doby, než byla pozorována progrese PSA (potvrzený 25% vzestup nad pacientův výchozí stav/nadir) zároveň s protokolem definovanou radiologickou progresí a symptomatickou nebo klinickou progresí. Z této studie byli vyloučeni pacienti s předchozí léčbou karcinomu prostaty ketokonazolem. Primárním cílovým parametrem účinnosti bylo celkové přežití.
+Medián věku pacientů zahrnutých do studie byl 69 let (rozpětí 39 – 95). Počet pacientů léčených abirateron-acetátem podle rasy byl následující: 737 bělochů (93,2 %), 28 černochů (3,5 %), 11 Asiatů (1,4 %) a 14 ostatních (1,8 %). Jedenáct procent zahrnutých pacientů mělo ECOG skóre 2; u 70 % existoval radiologický průkaz progrese onemocnění buď se zvýšením PSA, nebo bez něj; 70 % dostávalo v minulosti cytotoxickou chemoterapii a 30 % podstoupilo dvě chemoterapie. Metastázy v játrech byly přítomny u 11 % pacientů léčených abirateron-acetátem.
+Podle plánované analýzy provedené po 552 pozorovaných úmrtích zemřelo ve skupině léčené abirateron-acetátem 42 % (333 ze 797) pacientů ve srovnání s placebem, kde zemřelo 55 % (219 z 398). U pacientů léčených abirateron-acetátem bylo pozorováno statisticky významné zlepšení mediánu celkového přežití (viz tabulka 7).
+
+Tabulka 7: Celkové přežití pacientů léčených buď abirateron-acetátem nebo placebem
+v kombinaci s prednisonem nebo prednisolonem a zároveň analogem LHRH nebo předchozí orchiektomií
+
+
+
+Primární analýza přežití
+Úmrtí (%)
+Medián přežití (měsíce)
+(95% CI)
+p hodnotaa
+abirateron-
+acetát
+(n = 797)
+
+333 (42 %)
+14,8 (14,1; 15,4)
+
+
+
+
+
+
+< 0,0001
+Placebo (n = 398)
+
+219 (55 %)
+10,9 (10,2; 12,0)
+
+Poměr rizik (95% CI)b
+0,646 (0,543; 0,768)
+
+Aktualizovaná analýza přežití
+Úmrtí (%)
+Medián přežití (měsíce)
+(95% CI)
+Poměr rizik (95% CI)b
+
+501 (63 %)
+15,8
+(14,8; 17,0)
+
+274 (69 %)
+11,2
+(10,4; 13,1)
+0,740 (0,638; 0,859)
+a  p-hodnota je odvozena z log-rank testu stratifikovaného podle ECOG skóre účinnosti (0 - 1 vs. 2), skóre bolesti (chybějící vs. přítomna), počtu předchozích chemoterapeutických režimů (1 vs. 2), a typu progrese onemocnění (pouze PSA vs. radiografická).
+b Poměr rizik je odvozen ze stratifikovaného proporcionálního modelu rizika. Poměr rizik < 1 je ve prospěch abirateron-
+acetátu.
+
+Ve všech časových bodech vyhodnocení po několika úvodních měsících léčby přežívalo více pacientů léčených abirateron-acetátem ve srovnání s pacienty léčenými placebem (viz obrázek 6).
+Obrázek 6: Kaplan Meierovy křivky přežití pro pacienty léčené buď abirateron-acetátem nebo placebem v kombinaci s prednisonem nebo prednisolonem a zároveň analogem LHRH nebo předchozí orchiektomií
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AA = abirateron-acetát
+
+Analýza přežití u podskupin ukázala přínos léčby abirateron-acetátem pro přežití (viz obrázek 7).
+Obrázek 7: Celkové přežití podle podskupin: poměr rizik a 95% interval spolehlivosti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AA = abirateron-acetát; BPI = Brief Pain Inventory (dotazník bolesti); C.I. = interval spolehlivosti; ECOG = skóre účinnosti východní pracovní onkologické skupiny; HR = poměr rizik; NE = nelze vyhodnotit
+Navíc k pozorovanému zlepšení celkového přežití byly všechny sekundární cílové parametry studie lepší pro abirateron-acetát a zlepšení bylo po úpravě pro opakované testování statisticky signifikantní:
+U pacientů dostávajících abirateron-acetát se objevil významně vyšší celkový počet odpovědí týkající se PSA (definováno jako 50% snížení oproti výchozímu stavu), a to 38 % oproti placebu, kde byl podíl odpovědi 10 %, p < 0,0001.
+Medián doby do progrese PSA byl 10,2 měsíce u pacientů léčených abirateron-acetátem a 6,6 měsíce u pacientů léčených placebem [HR = 0,580; 95% CI: (0,462; 0,728), p < 0,0001].
+Medián přežití bez radiologické progrese byl 5,6 měsíce u pacientů léčených abirateron-acetátem a
+3,6 měsíce u pacientů, kteří dostávali placebo [HR = 0,673; 95% CI: (0,585; 0,776), p < 0,0001].
+Bolest
+Podíl pacientů se zmírněním bolesti byl statisticky významně vyšší ve skupině s abirateron-acetátem oproti skupině s placebem (44 % vs. 27 %, p = 0,0002). Pacient se zmírněním bolesti byl definován jako ten, u kterého došlo během 24 hodin alespoň ke 30% zmírnění od výchozího stavu dle BPI-SF skóre intenzity nejhorší bolesti, aniž by tomuto pacientovi byla podávána další analgetika, přičemž toto zlepšení bylo pozorováno ve dvou po sobě jdoucích vyhodnoceních s odstupem čtyř týdnů. Úleva od bolesti byla hodnocena pouze u pacientů s výchozím skóre bolesti ≥ 4 a nejméně jedním skóre bolesti po zahájení léčby (n = 512).
+
+Ke zhoršení bolesti po 6 měsících (22 % vs. 28 %), po 12 měsících (30 % vs. 38 %) a po 18 měsících (35 % vs. 46 %) došlo u menšího podílu pacientů léčených abirateron-acetátem oproti placebu. Zhoršení bolesti bylo definováno jako zvýšení BPI-SF skóre intenzity nejhorší bolesti oproti výchozímu stavu o ≥ 30 % během předchozích 24 hodin, aniž došlo ke snížení podávání analgetik a které bylo pozorováno ve dvou po sobě jdoucích návštěvách. Doba do progrese bolesti u 25. percentilu byla 7,4 měsíce ve skupině s abirateron-acetátem oproti 4,7 měsíce ve skupině s placebem.
+
+Skeletální účinky
+Nižší podíl skeletálních účinků se projevil u skupiny pacientů léčených abirateron-acetátem oproti skupině s placebem po 6 měsících (18 % vs. 28 %), po 12 měsících (30 % vs. 40 %) a po 18 měsících (35 % vs. 40 %). Doba do prvního skeletálního účinku na 25. percentilu u skupiny s abirateron- acetátem (9,9 měsíce) byla dvojnásobná oproti kontrolní skupině (4,9 měsíce). Skeletální účinek byl definován jako patologická fraktura, komprese páteře, paliativní radiace kostí nebo chirurgie kostí.
+Pediatrická populace
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s referenčním přípravkem obsahujícím abirateron-acetát u všech podskupin pediatrické populace u pokročilého karcinomu prostaty. Informace o pediatrickém použití viz bod 4.2.
+5.2  Farmakokinetické vlastnosti
+
+Farmakokinetika abirateronu a abirateron-acetátu po perorálním podání abirateron-acetátu byla studována u zdravých subjektů, pacientů s metastazujícím pokročilým karcinomem prostaty a u subjektů bez zhoubného nádoru s poruchou funkce jater nebo ledvin. Abirateron-acetát je in vivo rychle metabolizován na abirateron, inhibitor biosyntézy androgenů (viz bod 5.1).
+Absorpce
+Po perorálním podání abirateron-acetátu nalačno je doba do dosažení maximální koncentrace abirateronu v plazmě přibližně 2 hodiny.
+Podání abirateron-acetátu s potravou vede ve srovnání s podáním nalačno až k 10násobnému (AUC) a až 17násobnému (Cmax) vzestupu průměrné hodnoty systémové expozice abirateronu v závislosti na obsahu tuku v potravě. Při obvyklém složení a obsahu potravy může podání abirateron-acetátu vést k velmi variabilním expozicím. Proto se abirateron-acetát nesmí užívat spolu s jídlem. Je nutno ho užívat alespoň jednu hodinu před nebo alespoň dvě hodiny po jídle. Tablety se polykají celé, zapíjejí se vodou (viz bod 4.2).
+Distribuce
+Vazba 14C-abirateronu na lidské plazmatické bílkoviny je 99,8 %. Zdánlivý distribuční objem je přibližně 5 630 l, což ukazuje, že abirateron je extenzivně distribuován do periferních tkání.
+Biotransformace
+Po perorálním podání 14C-abirateron-acetátu v tobolce se abirateron-acetát hydrolyzuje na abirateron; ten je potom dále metabolizován, včetně sulfatace, hydroxylace a oxidace, převážně v játrech. Většina cirkulující radioaktivity (přibližně 92 %) je nalezena ve formě metabolitů abirateronu.
+Z 15 detekovatelných metabolitů jsou 2 metabolity hlavní, abirateron-sulfát a N-oxid abirateron-sulfátu, z nichž každý vykazuje přibližně 43 % celkové radioaktivity.
+Eliminace
+Průměrný plazmatický poločas abirateronu na základě stanovení u zdravých subjektů je přibližně 15 hodin. Po perorálním podání 1 000 mg 14C-abirateron-acetátu se přibližně 88 % radioaktivity objeví ve stolici a přibližně 5 % v moči. Hlavní sloučeniny přítomné ve stolici jsou nezměněný abirateron-acetát a abirateron (přibližně 55 %, resp. 22 % podané dávky).
+
+Porucha funkce jater
+Farmakokinetika abirateron-acetátu byla zkoumána u subjektů s lehkou nebo středně těžkou poruchou funkce jater (Child-Pugh tříd A a B) a u zdravých kontrolních subjektů. Systémová expozice abirateronu po jednorázovém perorálním podání dávky 1 000 mg se u pacientů s lehkou poruchou funkce jater zvýšila přibližně o 11 % a u pacientů se středně těžkou poruchou funkce jater přibližně o 260 %. Průměrný poločas abirateronu je prodloužen přibližně na 18 hodin u pacientů s lehkou poruchou funkce jater a na 19 hodin u pacientů se středně těžkou poruchou funkce jater.
+V další studii byla zkoumána farmakokinetika abirateronu u subjektů s již existující těžkou (n = 8) poruchou funkce jater (Child- Pugh třída C) a v kontrolní skupině u 8 zdravých subjektů s normální funkcí jater. AUC abirateronu se zvýšilo přibližně o 600 % a podíl volného léčiva se zvýšil o 80 % u subjektů s těžkou poruchou funkce jater ve srovnání s jedinci s normální funkcí jater.
+U pacientů s lehkou poruchou funkce jater není nutná úprava dávkování.
+U pacientů se středně těžkou poruchou funkce jater je nutno užití abirateron-acetátu důkladně posoudit, přínos má jasně převažovat možné riziko (viz body 4.2 a 4.4). Pacientům s těžkou poruchou funkce jater se abirateron-acetát nesmí podávat (viz body 4.2, 4.3 a 4.4).
+U pacientů, u kterých vznikne hepatotoxicita během léčby, může být nutné léčbu přerušit nebo dávku
+upravit (viz body 4.2 a 4.4).
+Porucha funkce ledvin
+Farmakokinetika abirateron-acetátu byla srovnávána u pacientů s onemocněním ledvin v terminálním stadiu stabilizovaných na hemodialýze proti kontrolním subjektům s normální funkcí ledvin.
+Systémová expozice abirateronu po jednorázovém perorálním podání dávky 1 000 mg se u pacientů s onemocněním ledvin v terminálním stadiu na hemodialýze nezvýšila. Podání u pacientů s poruchou funkce ledvin, včetně těžké poruchy funkce ledvin, nevyžaduje snížení dávky (viz bod 4.2). U pacientů s karcinomem prostaty a s těžkou poruchou funkce ledvin však není klinická zkušenost.
+U těchto pacientů se doporučuje opatrnost.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Ve všech studiích toxicity na zvířatech byly hladiny cirkulujícího testosteronu výrazně sníženy.
+V důsledku toho byly pozorovány snížené hmotnosti orgánů, morfologické a/nebo histopatologické změny reprodukčních orgánů, nadledvin, hypofýzy a mléčných žláz. Všechny změny byly úplně nebo částečně reverzibilní. Změny na reprodukčních orgánech a na orgánech citlivých na androgeny jsou konzistentní s farmakologií abirateronu. Všechny hormonální změny související s léčbou se znormalizovaly nebo se zdálo, že se normalizují po 4týdenním rekonvalescenčním období.
+Ve studiích fertility jak u samců tak i samic potkanů snižoval abirateron-acetát fertilitu, což bylo kompletně reverzibilní mezi 4. až 16. týdnem po ukončení jeho podávání.
+Ve studiích vývojové toxicity u potkanů ovlivňoval abirateron-acetát březost, včetně snížení hmotnosti plodu a přežití. Byly pozorovány účinky na externí pohlavní orgány, ačkoli abirateron-acetát nebyl teratogenní.
+V těchto studiích fertility a vývojové toxicity provedených u potkanů byly všechny účinky spojené
+s farmakologickou aktivitou abirateronu.
+Kromě změn na reprodukčních orgánech pozorovaných ve studiích toxicity na zvířatech neukazují předklinické údaje založené na konvenčních studiích bezpečnosti, toxicity po opakovaném podání, genotoxicity a kancerogenního potenciálu na zvláštní riziko pro člověka. Abirateron-acetát nebyl kancerogenní v 6měsíční studii u transgenních myší (Tg.rasH2). Ve 24měsíční studii kancerogenity u potkanů zvýšil abirateron-acetát incidenci nádorů z intersticiálních buněk varlat. Tento nález je dáván
+
+do souvislosti s farmakologickým působením abirateronu a je považován za specifický pro potkany.
+Abirateron-acetát nebyl kancerogenní u samic potkanů.
+Léčivá látka abirateron představuje riziko pro životní prostředí zejména pro vodní toky a ryby.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Abiraterone G.L. Pharma 250 mg tablety
+Monohydrát laktosy Mikrokrystalická celulosa Sodná sůl kroskarmelosy Povidon
+Natrium-lauryl-sulfát
+Koloidní bezvodý oxid křemičitý
+Magnesium-stearát
+Abiraterone G.L. Pharma 500 mg potahované tablety
+Jádro tablety Monohydrát laktosy Mikrokrystalická celulosa Sodná sůl kroskarmelosy Hypromelosa
+Natrium-lauryl-sulfát
+Koloidní bezvodý oxid křemičitý
+Magnesium-stearát
+
+Potahová vrstva tablety (potahová soustava Opadry II 85F90093 fialová)
+Polyvinylalkohol Oxid titaničitý (E 171) Makrogol
+Mastek
+Červený oxid železitý (E 172) Černý oxid železitý (E 172)
+6.2  Inkompatibility
+
+Neuplatňuje se.
+6.3  Doba použitelnosti
+
+2 roky.
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+6.5  Druh obalu a obsah balení
+Abiraterone G.L. Pharma 250 mg tablety
+Kulaté bílé HDPE lahvičky uzavřené polypropylenovým dětským bezpečnostním uzávěrem. Balení obsahuje jednu lahvičku se 120 tabletami.
+
+Abiraterone G.L. Pharma 500 mg potahované tablety PVC/PVDC/Al blistr
+Balení s blistry obsahuje 56, 56x1, 60 nebo 60x1 potahovaných tablet.
+Kulaté bílé HDPE lahvičky uzavřené polypropylenovým dětským bezpečnostním uzávěrem.
+Balení obsahuje jednu lahvičku se 60 potahovanými tabletami.
+
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Vzhledem k mechanismu účinku může tento léčivý přípravek poškodit vyvíjející se plod; proto těhotné ženy a ženy, které mohou být těhotné, nemají zacházet s přípravkem bez ochrany, např. rukavic.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky. Tento léčivý přípravek může představovat riziko pro vodní prostředí (viz bod 5.3)
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+G.L. Pharma GmbH Schlossplatz 1
+8502 Lannach Rakousko
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+Abiraterone G.L. Pharma 250 mg tablety: 44/322/19-C
+Abiraterone G.L. Pharma 500 mg potahované tablety: 44/323/19-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 18. 5. 2021
+10.  DATUM REVIZE TEXTU
+
+18. 5. 2021

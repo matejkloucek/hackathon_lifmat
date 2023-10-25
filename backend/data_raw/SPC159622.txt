@@ -1,0 +1,260 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+
+
+ANCOTIL 500 mg, tablety
+Souhrn údajů o přípravku
+
+
+1. NÁZEV PŘÍPRAVKU
+ANCOTIL 500 mg, tablety
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Flucytosin 500 mg v jedné tabletě
+Úplný seznam pomocných látek, viz kapitola 6.1.
+
+3. LÉKOVÁ FORMA
+Tableta.
+4. KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Závažné systémové mykózy způsobené citlivými patogeny, jako alternativa nebo při přechodu z parenterální léčby zejména: kandidózy, kryptokokózy, chromomykózy (chromoblastomykózy) a některé formy aspergilóz.
+
+Kombinace s jiným antimykotikem:
+Flucytosin je nutné užívat v kombinaci, aby se co nejvíce zabránilo selekci rezistentních mutací, zejména při léčbě kandidózy a kryptokokózy.
+Působení s amfotericinem B je často synergické a není antagonistické.
+
+
+4.2 Dávkování a způsob podání
+Perorální užití.
+Dávkování
+Dávkování se pohybuje v rozmezí 100 až 200 mg/kg denně podle povahy infekce, její lokalizace a citlivosti vyvolávajícího původce.
+Denní dávkování musí být rozděleno na 3 nebo 4 perorální dávky.
+
+Užívání u pacientů s renální insuficiencí
+Dávky budou podávány v co nejdelších intervalech podle následujícího dávkovacího schématu
+
+Clearence kreatininu
+DOPORUČENÁ DÁVKA
+INTERVAL
+
+
+˃40 ml/min
+20˂CI˂40 ml/min
+10˂CI˂20 ml/min
+25–50 mg/kg
+25–50 mg/kg
+25–50 mg/kg
+Po 6 hodinách
+Po 12 hodinách
+Po 24 hodinách
+
+CI˂10 ml/min
+Dávka 25 mg/kg, následně monitorace hladiny v plazmě 12 hodin po počáteční dávce a před další dávkou
+
+Pacienti na dialýze
+Protože je flucytosin dialyzovatelný, musí být dávka tohoto léčiva po každé dialýze znovu podána. U anurických pacientů nebo u pacientů po nefrektomii na hemodialýze nesmí být počáteční dávka v žádném případě podána před další dialýzou.
+
+Jaterní insuficience
+U pacientů s jaterní insuficiencí nebylo podávání flucytosinu studováno. Ačkoliv se neočekává, že by jaterní insuficience měla významný efekt na farmakokinetiku flucytosinu, je nezbytná důsledná kontrola pacientů s jaterní insuficiencí, léčených přípravkem ANCOTIL 500 mg, tablety (viz kapitola 4.4 a kapitola 5.2).
+
+Kombinace s dalšími antimykotiky
+Kombinace flucytosinu a amfotericinu B je synergická: v některých případech umožňuje snížení dávek, čímž snižuje riziko sekundární resistence na flucytosin.
+Při této kombinaci je nezbytná důsledná kontrola funkce ledvin (viz kapitola 4.4).
+Není zjevný antagonismus s imidazolovými deriváty.
+
+
+Starší osoby
+Vzhledem k tomu, že klinické údaje o použití flucytosinu u starších osob jsou omezené, může být tento léčivý přípravek u těchto pacientů použit pouze v případě, že očekávaný přínos převáží potenciální rizika. U této populace musí být věnována zvláštní pozornost renálním funkcím.
+
+Pediatrická populace
+Dostupné údaje nejsou dostačující k tomu, aby mohlo být doporučeno dávkování, založené
+na přesvědčivých údajích u dětí, včetně novorozenců a předčasně narozených.
+U dětí nesmí být flucytosin užíván jako lék prvního volby nebo jako monoterapie. Flucytosin musí být užíván v kombinaci s dalšími vhodnými antimykotiky, pokud jiná léčiva nejsou k dispozici nebo nebudou pravděpodobně účinné.
+
+4.3. Kontraindikace
+Při přecitlivělosti na léčivou látku nebo na některou z pomocných látek, uvedených v kapitole 6.1. Při kojení (viz kapitola 4.6).
+Při známém deficitu dihydropyrimidin dehydrogenázy (DHD) (viz kapitola 4.4.).
+Kombinace s ireverzibilními inhibitory dihydropyrimidin dehydrogenázy (DPD) jako brivudin, sorivudin
+a jejich analogy nebo uracilem, reverzibilním inhibitorem DPD, jsou kontraindikovány (viz kapitola 4.4.).
+
+4.4. Zvláštní upozornění a opatření pro použití
+Léčba tímto léčivým přípravkem by měla být podávána po identifikaci mykotického kmene a vyhodnocení jeho citlivosti na flucytosin, vzhledem k možné primární rezistenci. Léčba by měla pokračovat za pravidelného lékařského dohledu.
+Zvláštní sledování
+Doporučuje se provádět vyšetření krevního obrazu a jaterní testy (ALT, AST, alkalická fosfatáza) před zahájením léčby a poté pravidelně po celou dobu léčby.
+Pacienti s jaterní insuficiencí mohou být léčeni flucytosinem, ale je nutná důsledná klinická a biologická kontrola jaterních funkcí (ALT, AST a alkalická fosfatáza) spojená se sledováním hladiny flucytosinu v krevní plazmě.
+Tento léčivý přípravek by měl být používán s opatrností u pacientů s útlumem aktivity kostní dřeně nebo krevní dyskrazií a také u pacientů léčených imunosupresivy nebo cytostatiky; vzhledem k vysokému riziku hematologického poškození musí být prováděna častější klinická a biologická monitorace krevního obrazu spojená se sledováním plazmatických hladin flucytosinu.
+Opatření vztahující se k renálním funkcím
+Eliminace tohoto léčivého přípravku je výhradně renální cestou, je proto nezbytné v případě renální insuficience nebo při kombinaci s dalším nefrotoxickým lékem, který může ovlivnit renální funkce, pravidelně kontrolovat clearance kreatininu a dávkování upravit i dle clearance kreatininu (viz kapitola 4.2.).
+Přibližně 65 % až 75 % flucytosinu přítomného v organismu je eliminováno hemodialýzou.
+Proto u pacientů na dilaýze je nutné opakovat podání léku po každé dialýze.
+Interference s biologickými měřeními
+Hodnota kreatininu: flucytosin může ovlivnit enzymatický (dvoustupňový) test stanovení hladiny kreatininu a vést k falešně pozitivním výsledkům azotémie (množství nebílkovinného dusíku v krvi). Proto jsou doporučovány jiné metody měření hladiny kreatininu.
+Deficit dihydropyrimidin dehydrogenázy (DPD)
+Flucytosin je metabolizován na fluorouracil.
+Dihydropyrimidin dehydrogenáza (DPD) je klíčový enzym podílející se na metabolismu a eliminaci fluorouracilu.
+Riziko systémové toxicity je zvýšeno, pokud je přípravek ANCOTIL 500 mg, tablety užíván pacienty, kteří mají deficit DPD. Stanovení aktivity DPD by mělo být zváženo, jestliže je systémová toxicita potvrzena nebo na ni existuje podezření.
+Pokud existuje podezření na systémovou toxicitu, mělo by se zvážit přerušení léčby.
+Je třeba dodržovat interval nejméně 4 týdnů mezi léčbou přípravkem ANCOTIL 500 mg, tablety a léčbou sorivudinem a dalšími inhibitory DPD jako je brivudin.
+Sledování plazmatických hladin flucytosinu během léčby:
+Sérové hladiny flucytosinu musí být sledovány, aby se odpovídajícím způsobem upravilo dávkování. Sérová hladina flucytosinu v ustáleném stavu by měla být v průměru 35 až 70 µg / ml.
+
+Citlivost  nejcitlivějších  kmenů  in  vitro  je  charakterizována  minimální  inhibiční  koncentrací mezi 10 a 25 μg/ml. Nicméně hodnotám nižším než 25 μg/ml by se mělo zabránit z důvodu zvýšeného rizika rozvoje rezistence při nízkých koncentracích. Zvýšeným hladinám v séru nad 100 μg/ml by se mělo zabránit z důvodu zvýšeného rizika hematologické toxicity.
+
+Antikoncepce u mužů a žen
+Flucytosin je částečně metabolizován na 5-fluorouracil, který je genotoxický a je považován za potenciální teratogenní látku u lidí. Ženy v plodném věku musí užívat souběžně s léčbou flucytosinem a následně až měsíc po ukončení léčby účinnou antikoncepci. Pacienti mužského pohlaví (nebo jejich partnerky v plodném věku) musí užívat účinnou antikoncepci během léčby a ještě až 3 měsíce po jejím ukončení (viz kapitola 4.6).
+Dětská populace
+Flucytosine má nízký terapeutický index a je zde riziko potencionální toxicity při zvýšených
+systémových koncentracích.
+Z důvodu prodloužené eliminace flucytosinu u dětských pacientů, zvláště u novorozenců, a předčasně narozených dětí, může vést podávání flucytosinu k překročení optimálních hladin v séru. Sledování hladin flucytosinu v plazmě dle místních (nebo národních) pokynů pro antimykotickou léčbu a upravování dávkování dle potřeby je nezbytné, aby se zabránilo nadměrné expozici flucytosinu.
+Během léčby dětských pacientů musí být pravidelně kontrolován krevní obraz a renální funkce, aby byla sledována koncentrace a clearance kreatininu.
+Tablety nejsou vhodné pro děti, které nejsou schopné spolknout pevné lékové formy.
+4.5. Interakce s jinými léčivými přípravky a další formy interakcí
+Kontraindikované kombinace (viz kapitola 4.3)
+Nukleosidová antivirová léčiva k léčbě herpetických infekcí (například brivudin, sorivudin a jejich analoga) nebo uracil jsou silnými inhibitory dihydropyrimidin dehydrogenázy (DPD), enzymu, který metabolizuje fluorouracil (viz kapitoly 4.4 a 4.5).
+Protože  je  fluorouracil  metabolitem  flucytosinu,  je  kombinace  fluorouracilu  s léčivým přípravkem ANCOTIL 500 mg, tablety kontraindikována (viz kapitola 4.3).
+
+Kombinace vyžadující pozornost při užívání
+V kombinaci se Zidovudinem existuje riziko zvýšené hematologické toxicity (aditivní myelotoxický
+efekt). Doporučuje se častější kontrola krevního obrazu.
+
+V kombinaci s Ganciclovirem, Valganciclovirem, cytostatiky a imunosupresivy (cyclosporin, everolimus, sirolimus, takrolimus, temsirolimus) existuje riziko zvýšení hematologické toxicity.
+
+4.6. Fertilita, těhotenství a kojení
+Antikoncepce u mužů a žen
+Flucytosin je částečně metabolizován na 5-fluorouracil, který je genotoxický a je považován
+za potenciální teratogen u lidí.
+Ženy v plodném věku musí užívat účinnou antikoncepci během léčby flucytosinem a ještě až 1 měsíc po jejím ukončení. Pacienti mužského pohlaví (nebo jejich partnerky v plodném věku) musí užívat účinnou antikoncepci během léčby a ještě až 3 měsíce po jejím ukončení (viz kapitola 5.3).
+
+Těhotenství
+Provedené studie na zvířatech prokázaly toxicitu flucytosinu a jednoho z jeho metabolitů
+5-fuorouracil) na reprodukci (teratogenita a embryotoxicita) (viz kapitola 5.3).
+U lidí prochází flucytosin přes placentu.
+Data týkající se užívání flucytosinu u těhotných žen jsou velmi omezená.
+Embryonální ani fetální toxicita nemůže být vyloučena, zvláště v případě užívání léku v prvním trimestru těhotenství. Proto by neměl být přípravek ANCOTIL 500 mg, tablety užíván během těhotenství a u žen v plodném věku bez účinné antikoncepce, pokud to není nezbytně nutné v případě život ohrožujících infekcí a v případě, kdy neexistuje účinná alternativa léčby.
+Pokud je přípravek ANCOTIL 500 mg, tablety podáván během těhotenství, musí být pacientka upozorněna na riziko teratogenity přípravku ANCOTIL 500 mg, tablety a musí být prováděno pečlivé prenatální a postnatální sledování. Navíc, pokud je přípravek ANCOTIL 500 mg, tablety užíván až do porodu, musí být s ohledem na bezpečnostní profil flucytosinu prováděno neonatologické sledování (hematologické a hepatologické).
+
+Kojení
+Neexistují údaje o vylučování flucytosinu do mateřského mléka.
+Kojení je kontraindikováno během léčby flucytosinem (viz kapitola 4.3).
+
+4.7. Účinky na schopnost řízení motorových vozidel a obsluhování strojů
+Bez významu.
+4.8. Nežádoucí účinky
+
+Hodnocení výskytu nežádoucích účinků vychází z této klasifikace jejich frekvence:
+
+
+Velmi časté Časté
+Méně časté Vzácné
+Velmi vzácné Není známo
+(≥ 1/10)
+(≥ 1/100 do < 1/10)
+(≥ 1/1000 do < 1/100) (≥ 1/10000 do < 1/1000) (< 1/10000)
+(z dostupných údajů nelze určit)
+
+Gastrointestinální poruchy:
+Časté: žaludeční nevolnosti, průjem, zvracení, bolest břicha. Není známo: ulcerózní kolitida.
+
+Hematologické poruchy:
+Hematologické poruchy (leukopenie, trombocytopenie), nejčastěji mírné a přechodné a častěji u pacientů s renální insuficiencí nebo při zvýšených hladinách flucytosinu v séru nad 100 μg/ml. Závažnější poškození (aplazie, agranulocytóza), potenciálně ireverzibilní, které mohou výjimečně vést k úmrtí, což bylo někdy zaznamenáno nejčastěji u pacientů podstupujících léčbu s myelotoxickým účinkem.
+Není známo: eozinofilie
+
+Poruchy jater a žlučových cest:
+Časté: zvýšené hladiny transamináz (AST, ALT) a alkalické fosfatázy ustupující po ukončení léčby. Není známo: akutní hepatitidy, jaterní cytolýza někdy s fatálním vývojem.
+
+Srdeční poruchy:
+Není známo: srdeční problémy, většinou ischemické povahy, myokardiální toxicita, poruchy funkce
+komor, zástava srdce, tachykardie, arytmie.
+
+Poruchy imunitního systému:
+Kopřivka, přecitlivělost (hypersenzitivita).
+
+Poruchy metabolismu a výživy:
+Není známo: hypokalémie.
+
+Poruchy psychiatrické:
+Není známo: zmatenost, halucinace.
+
+Poruchy nervového systému:
+Není známo: bolesti hlavy, útlum, křeče, parestézie, periferní neuropatie.
+Poruchy sluchu a rovnováhy:
+Není známo: závratě.
+
+Poruchy respirační a hrudní:
+Není známo: dyspnoe, bolest na hrudi, zástava dechu, akutní respirační nedostatečnosti.
+
+Poruchy kůže a podkožní tkáně:
+Není známo: svědění, makulopapulózní erytém, fotosensibilita, Lyellův syndrom.
+
+Poruchy ledvin a močových cest:
+Není známo: renální insuficience, zvýšení kreatininémie a krevní urey.
+
+Všeobecné poruchy a anomálie během podání:
+Není známo: horečka.
+
+Hlášení nežádoucích vedlejších účinků
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9. Předávkování
+V případě předávkování, které může být zejména důsledkem nedostatečné funkce ledvin, lze očekávat zvýraznění vedlejších účinků, zvláště hematologických. Je proto třeba pečlivě sledovat krevní obraz.
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antimykotikum k systémovému užití, kód ATC: J02AX01: Jiná antimykotika pro systémovou aplikaci - flucytosin.
+Účinek: fungistatický u člověka při terapeutických dávkách
+Přirozené spektrum: Candida sérotyp A, Cryptococcus neoformans, původci chromomykóz, v menší míře kmen Aspergillus.
+Mechanismus účinku
+Buňky patogenů citlivých na přípravek ANCOTIL 500 mg, tablety mohou absorbovat flucytosin (5-FC), který je následně metabolizován na 5-fluorouracil (5-FU) specifickou cytosin deaminázou. Množství 5- FU včleněné do RNA patogenu je úměrné citlivosti patogenu.
+Možná rezistence z důvodu:
+•  Primární rezistence. Citlivost patogenu můžeme hodnotit pouze in vitro
+•  Riziko získané rezistence během léčby. Je doporučena kombinace s jiným antimykotikem.
+Kmeny původně citlivé na ANCOTIL 500 mg, tablety mohou získat rezistenci během léčby. Je proto doporučeno hodnotit citlivost těchto kmenů před léčbou a rovněž během léčby. (Metoda popsaná Shadomym a Spellerem je velmi vhodná). Doporučuje se použití 5-FC disků.
+U některých druhů patogenů byla pozorována synergie in vitro a in vivo při použití kombinace ANCOTIL
+500 mg, tablety s amfotericinem B, zvláště výrazná v případě organismů se sníženou citlivostí
+na ANCOTIL 500 mg, tablety.
+
+5.2. Farmakokinetické vlastnosti
+Absorpce
+Při perorálním podání je léčivo absorbováno z 90 % v trávicím traktu a vytváří stejnou koncentraci jaká je pozorována u krátkodobých intravenózních infuzí se stejnou dávkou léčiva. Po jednorázovém intravenózním podání jsou maximální koncentrace v séru přibližně stejné, v µg/ml jako dávky v mg/kg.
+Distribuce
+Distribuční objem je mezi 0,5 a 1 l/kg. Tento léčivý přípravek je distribuován po celém organismu,
+včetně mozkomíšního moku, vzhledem k nízké vazbě na plazmatické proteiny (<5 %).
+Koncentrace tohoto léku jsou vždy vyšší v moči než v krevní plazmě u pacientů s normální renální funkcí.
+Metabolismus
+Více jak 90 % dávky flucytosinu se nachází v nezměněné formě v moči. Flucytosin je metabolizován (pravděpodobně střevními bakteriemi) na 5-fluorouracil (5-FU). Poměr plazmatických koncentrací 5- FU/5-FC je nízký.
+Eliminace
+Plazmatický poločas je od 3 do 6 hodin.  Eliminace je rychlá a probíhá renální cestou, zejména glomerulární filtrací v nezměněné formě.
+U pacientů s poškozenou funkcí ledvin je plazmatický poločas prodloužen, proto musí být dávkování
+upraveno podle clearence kreatininu (viz kapitola 4.2).
+Flucytosin je dialyzovatelný.
+Děti
+Dostupné údaje o farmakokinetice flucytosinu u dětských pacientů jsou omezené a ukazují, že plazmatický poločas flucytosinu je delší u dětí než u dospělých (4 hodiny proti 7 hodinám), zvláště pak u novorozenců. Farmakokinetická studie u novorozenců ukázala, že plazmatický poločas flucytosinu byl dvakrát vyšší než u dospělých, i když byly maximální koncentrace srovnatelné. Distribuční objem flucytosinu se navíc vzhledem k jeho vysoké rozpustnosti blíží celkovému objemu vody v těle. V retorspektivní studii s 391 dětskými pacienty 65 % reziduálních koncentrací flucytosinu překročilo interval normálních referenčních hodnot.
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Studie in vitro o mutagenním potencionálu flucytosinu jsou negativní. Není žádná studie o možném karcinogenním účinku ANCOTIL 500 mg, tablety. Flucytosin je teratogenní a embryotoxický u krys, při orálních nebo parenterálních dávkách minimálně 40 mg/kg denně (240 mg/m² nebo 0,043krát denní dávky u člověka).  5-fluorouracil, metabolit flucytosinu, je genotoxický u myší a in vitro, embryotoxický a teratogenní u myši a krys a je klasifikován jako potencionální teratogen u člověka. Malformace (abnormality nervového systému, patra, kostry, ocasu, končetin) jsou pozorovány u většiny druhů (včetně krysy a syrského křečka). Embryotoxické účinky (malý plod, resorpce) jsou pozorovány u opice léčené 5-fluorouracilem. Flucytosin a 5-fluorouracil procházejí placentární bariérou.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Kukuřičný škrob, mikrokrystalická celulóza, hydratovaný vysrážený oxid křemičitý, polyvidon, stearan hořečnatý.
+
+6.2. Inkompatibility
+Bez významu.
+6.3. Doba použitelnosti
+2 roky.
+6.4. Zvláštní opatření pro uchovávání
+Uchovávat při teplotě nižší než 25ᵒC a chránit před vlhkostí.
+6.5. Druh obalu a obsah balení
+100 tablet v lahvičce (polyetylen) s uzávěrem z polyetylenu.
+
+6.6. Zvláštní opatření pro likvidaci přípravku a zacházení s ním
+Nejsou zvláštní požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+MEDA PHARMA
+40-44 RUE WASHINGTON
+75508 PARIS
+
+8. ČÍSLO/ČÍSLA ROZHODNUTÍ O REGISTRACI
+* 34009 317 964 3 5: 100 tablet v lahvičce (polyetylen).
+Aktualizace ke dni 28. 11. 2019.

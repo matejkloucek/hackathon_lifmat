@@ -1,0 +1,346 @@
+sp.zn. sukls113349/2021
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Primene 10% infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden litr přípravku obsahuje:
+Léčivé látky:
+Isoleucinum                  6,70 g
+Leucinum                  10,00 g
+Valinum                    7,60 g
+Lysinum                   11,00 g
+Methioninum                 2,40 g
+Phenylalaninum                 4,20 g
+Threoninum                   3,70 g
+Tryptophanum                  2,00 g
+Argininum                    8,40 g
+Histidinum                    3,80 g
+Alaninum                    8,00 g
+Acidum asparticum               6,00 g
+Cysteinum                    1,90 g
+Acidum glutamicum              10,00 g
+Glycinum                    4,00 g
+Prolinum                     3,00 g
+Serinum                     4,00 g
+Tyrosinum                    0,45 g
+Ornithini hydrochloridum            3,17 g
+Taurinum                     0,60 g
+
+Nitrogenum tot.                 15 g/l
+Aminoacida                   100 g/l
+Chlorida                     19 mmol/l
+
+Úplný seznam pomocných látek viz. bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Infuzní roztok.
+Čirý, bezbarvý nebo téměř bezbarvý roztok
+Osmolarita                    780 mosm/l
+pH                          5,5
+
+
+4. KLINICKÉ ÚDAJE
+
+
+1
+
+4.1 Terapeutické indikace
+
+Parenterální výživa kojenců a dětí, zralých či nedonošených novorozenců eutrofických či hypotrofických, u nichž je perorální nebo enterální výživa vyloučená, nedostatečná či kontraindikovaná.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+♦  Zahájení parenterální nutrice a její délka trvání podobně jako dávkování (dávka a rychlost
+infuze) závisí na:
+• tělesné hmotnosti, věku a klinickém stavu dítěte (katabolismu bílkovin)
+• požadavcích na dusík
+• schopnosti metabolizovat složky přípravku Primene
+• přidané výživě poskytované parenterálně anebo enterálně
+Obvykle 1,5 - 3,5 g aminokyselin/kg/24 hodin (t.j. 0,23 - 0,53 g dusíku/kg/24 hodin), tj. 15 až 30
+ml přípravku Primene na kg t.hm. za 24 hodin.
+Rychlost průtoku a délka podávání:
+Rychlost průtoku je třeba přizpůsobit dávkování, vlastnostem infundovaného roztoku, celkovému příjmu tekutin za 24 hodin a požadované délce podávání infuze.
+Rychlost infuze nemá překročit 0,05 ml/kg/min.
+♦   Doporučené rychlosti průtoku:
+- Novorozenci a kojenci: 24 hodinová kontinuální infuze
+- Děti:          24 hodinová kontinuální infuze nebo periodická infuze (více než 12 hodin za den)
+Rychlost infuze má být během první hodiny postupně zvyšována. Způsob podání
+♦Přípravek Primene je určen k intravenóznímu podání.
+♦ Přípravek Primene není určen k náhradě tekutin a objemu.
+♦ Přípravek Primene může být podle individuálních potřeb součástí výživových směsí obsahujících vitamíny a stopové prvky a další složky (včetně glukózy a lipidů), čímž se
+v režimu parenterální výživy splní nutriční potřeby a zabrání rozvoji deficitů a komplikacím
+(viz Inkompatibility).
+Přípravek Primene je obvykle podáván s takovým zdrojem energie, který odpovídá potřebám dítěte, a to buď souběžně, nebo ve směsi.
+♦ Pokud se zvažuje periferní podání, je třeba vzít v úvahu osmolaritu konkrétního infuzního
+roztoku.
+♦ při použití u novorozenců a dětí mladších 2 let je roztok (ve vacích a aplikačních setech) třeba chránit před světlem, dokud není podání dokončeno (viz body 4.4, 6.3 a 6.6).
+
+Silně hypertonické parenterální nutriční roztoky (>900 mosm/l) se mají podávat centrálním žilním katétrem, jehož hrot je umístěn do velké centrální žíly.
+
+
+2
+
+Pokud lékař uzná za vhodné, může být parenterální nutriční roztok podáván do periferie u pacientů všech věkových kategorií, jestliže osmolarita roztoku bude ≤ 900 msm/l.
+
+
+4.3 Kontraindikace
+Podávání přípravku Primene je kontraindikováno u pacientů s:
+•  hypersenzitivou na léčivou látku(y) nebo kteroukoli pomocnou látku uvedenou v bodě
+6.1
+•  s vrozenou poruchou metabolismu jedné nebo více aminokyselin
+
+4.4. Zvláštní upozornění a opatření pro použití
+
+Je nutno pečlivě sledovat průběh infuze, klinický stav dítěte a biochemické laboratorní parametry.
+
+Alergické/hypersenzitivní reakce
+Anafylaktické/anafylaktoidní reakce a jiné hypersenzitivní/infuzní reakce byly hlášeny u roztoků aminokyselin, které byly podávány jako součást parenterální nutrice (viz bod 4.8). Pokud se známky a symptomy této reakce rozvinou, infuze musí být okamžitě zastavena.
+
+Precipitáty u pacientů dostávajících parenterální nutrici
+U pacientů dostávajících parenterální výživu byly hlášeny pulmonální vaskulární precipitáty (viz bod. 4.8). V některých případech došlo k úmrtí. Přidáním nadměrného množství vápníku a fosfátu se zvyšuje riziko vzniku precipitátů fosforečnanu vápenatého. Precipitáty byly popsány, i když v roztoku fosfátové soli nebyly přítomny. Byly také hlášeny precipitáty distálně od in-line filtru a suspektní in vivo precipitátová formace.
+Pokud se objeví příznaky plicních obtíží, má se infuze zastavit a zahájit lékařské vyšetření.
+Precipitáty se mají pravidelně kontrolovat kromě roztoku také navíc v infuzním setu a katétru.
+Infekční komplikace
+K infekci a sepsi se může dojít v důsledku intravenózních katétrů používaných k podávání parenterálních roztoků, jejich špatnou údržbou nebo znečištěnými roztoky.
+Imunosuprese a další faktory, jako je hyperglykémie, malnutrice anebo aktuální stav onemocnění, mohou pacienty predisponovat k infekčním komplikacím.
+Důsledné symptomatické sledování a sledování výsledků laboratorních testů horečky/třesavky, leukocytózy, technických komplikací v místě aplikace a hyperglykémie napomáhá odhalit časnou infekci.
+Výskyt septických komplikací lze snížit zvýšeným důrazem na aseptickou techniku při umísťování katétru a jeho údržbě, a také při přípravě nutričního přípravku.
+Refeeding Syndrom u pacientů na parenterální výživě
+Obnovení výživy těžce podvyživených pacientů může mít za následek refeeding syndrom, který je charakterizován intracelulárním přesunem draslíku, fosforu a horčíku, protože pacient se stává anabolickým. Může se také rozvinout deficit thiaminu a retence kapalin. Těmto komplikacím lze předejít pečlivým sledováním a pomalým zvyšováním přijmu živin, čímž se zabrání nadměrné výživě.
+
+Hypertonické roztoky
+Hypertonické infuzní roztoky mohou způsobit podráždění žíly, její poškození a trombózu, pokud jsou podávány do periferní žíly (viz bod 4.8).
+
+
+3
+
+Všeobecná kontrola
+Sledování má být přiměřené klinické situaci a stavu pacienta a mělo by obsahovat stanovení rovnováhy vody a elektrolytů, sérové osmolarity, acidobazické rovnováhy, hladiny glukózy a amoniaku v krvi a funkce jater a ledvin.
+
+Vliv na metabolismus
+Pokud není příjem živin upraven dle požadavků pacienta nebo metabolická kapacita kterékoli výživové složky není přesně stanovena, mohou se objevit metabolické komplikace. Nežádoucí metabolické efekty mohou mít příčinu v neadekvátní nebo nadměrné výživě, nebo v nesprávném složení směsi pro daného pacienta.
+Poruch funkce jater (viz bod. 4.8).
+Je známo, že u některých pacientů na parenterální výživě se mohou vyskytnout hepatobiliární komplikace (zahrnující cholestázu, jaterní steatózu, fibrózu a cirhózu, které by mohly vést
+k selhání jater, stejně jako cholecystitidu a cholelithiázu), které se mají náležitě monitorovat. Etiologie těchto poruch je považována za multifaktorovou a může být u jednotlivých pacientů různá. Pacienti s abnormálními laboratorními parametry nebo jinými příznaky hepatobiliárních poruch by měli být včas posouzeni odborným lékařem - hepatologem, aby identifikoval možnou příčinnou souvislost a přispívající faktory a možná terapeutická a profylaktická opatření.
+Roztok aminokyselin je nutno podávat opatrně u pacientů s pre-existujícím onemocněním jater nebo hepatální insuficiencí. U těchto pacientů je třeba pečlivě sledovat hodnoty funkce jater a pacienty kontrolovat na případné symptomy hyperamonémie.
+
+U pacientů dostávajících roztoky aminokyselin se mohou objevit zvýšené hladiny amoniaku v krvi a hyperamonémie (viz bod. 4.8). U těchto pacientů to může poukazovat na přítomnou kongenitální poruchu metabolismu aminokyselin (viz bod 4.3) nebo insuficienci jater.
+U novorozenců a dětí mladších 2let by se měl amoniak v krvi měřit častěji, aby se stanovila hyperamomémie. Možné příznaky ( letargie, podrážděnost, špatná výživa, hyperventilace a křeče), které mohou mít za následek komplikace včetně zpomalení vývoje a mentálního poškození, může být obtížné u této věkové kategorie stanovit. V závislosti na rozsahu a etiologii může hyperamonémie vyžadovat okamžitou intervenci.
+
+Porucha funkce ledvin
+Azotémie byla hlášena u parenterálních roztoků obsahujících aminokyseliny a může se objevit zejména při poruše funkce ledvin (viz bod. 4.8).
+Podávejte s opatrností u pacientů s renální insuficiencí (např, urémie). Tolerance na dusík se může pozměnit, a proto se musí dávkování přizpůsobit. U těchto pacientů se má pečlivě sledovat stav tekutin a elektrolytů.
+
+Další opatření
+•  Vystavení roztoků pro intravenózní parenterální výživu světlu, zejména po přidání příměsi se stopovými prvky a/nebo vitaminy, může mít v důsledku tvorby peroxidů a dalších produktů rozkladu nežádoucí účinky na klinické výsledky u novorozenců. Při použití u novorozenců a dětí mladších 2 let je přípravek Primene
+
+
+
+4
+
+třeba chránit před okolním světlem, dokud není podání dokončeno (viz body 4.2, 6.3 a 6.6).
+•  U parenterální výživy se mohou objevit reakce v místě aplikace, které zahrnují tromboflebitidu v místě aplikace a venózní iritaci podobně jako závažné reakce (s např. nekrózou a puchýři) v souvislosti s extravazací, (viz bod 4.8). Pacienti mají být příslušně sledováni.
+•  Závažné poruchy vody a elektrolytů, závažný stav přetížení tekutinami a těžké metabolické poruchy by se měly upravit před infuzí.
+•  Používejte s opatrností u pacientů s edémem plic a srdečním selháním. Stav tekutin se má pečlivě kontrolovat.
+•  Nepřipojujte lahev do série, aby se zabránilo vzduchové embolii následkem možného zbytkového vzduchu v primárním obalu.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly provedeny žádné studie interakcí.
+4.6 Fertilita, těhotenství a kojení
+
+Nejsou k dispozici dostatečné údaje týkající se použití přípravku Primene u těhotných a kojících žen nebo účincích na fertilitu. Lékař by měl před podáním přípravku Primene pečlivě zvážit potenciální rizika a přínosy pro každého konkrétního pacienta.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Neexistují informace o účincích přípravku Primene na schopnost řídit a obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Následující nežádoucí účinky byly stanoveny z poregistračních hlášení přípravku Primene podávaného jako součást parenterální výživy. Frekvence nežádoucích účinků uvedených v tomto bodu nemohou být odhadnuty z dostupných dat.
+
+
+
+Třída orgánových systémů
+Poruchy imunitního systému
+Tabulka nežádoucích účinků Upřednostňovaný termín MedDRA
+
+Hypersensitivní reakce manifestovaná:
+•  Otokem obličeje
+•  Otokem očního víčka
+•  Vyrážkou
+
+Frekvencea
+
+není známo
+a: Frekvence je definována jako velmi častá (≥1/10); častá (≥1/100 až <1/10); méně častá (≥1/1000 až <1/100): vzácná (≥1/10000 až <1/1000); velmi vzácná (<1/10000); a není známo (z dostupných údajů nelze určit).
+
+Popis vybraných nežádoucích účinků:
+Následující skupinové nežádoucí účinky léčivých přípravků (ADRs) hlášené v souvislosti s
+parenterálními přípravky aminokyselin; frekvence těchto nežádoucích účinků není známa:
+•  Azotemie, hyperamonemie
+
+
+
+
+
+5
+
+Skupinové nežádoucí účinky hlášené v souvislosti s parenterálními přípravky, u nichž složka aminokyselin může mít kauzální nebo přispívající roli; frekvence těchto nežádoucích účinků není známa:
+•  Anafylaktické/anafylaktoidní reakce zahrnující kožní, gastrointestinální a závažné oběhové (šokové) a respirační manifestace podobně jako ostatní hypersenzitivní/infuzní reakce včetně pyrexie, zimnice, hypotenze, hypertenze, atralgie, myalgie, urtikarie, pruritu, erytému a bolesti hlavy.
+•  Selhání jater, cirhóza jater, fibróza jater, cholestáza, steatóza jater, zvýšený krevní
+bilirubin, zvýšené jaterní enzymy; cholecystitida, cholelithiáza.
+•  Metabolická acidóza
+•  Pulmonální vaskulární precipitáty(viz bod 4.4)
+•  Nekróza, puchýře, otok, zjizvení, změna zabarvení kůže v místě aplikace spojeném
+s extravazací (viz také reakce v místě aplikace v bodu 4.4)
+•  Tromboflebitida v místě aplikace; venózní iritace (flebitida v místě aplikace, bolest, erytém, horkost, otok, indurace).
+Roztoky aminokyselin mohou rychle přivodit deficit acetátu kyseliny listové a ten je pak třeba vyrovnat substitucí.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+V případě nevhodného podání (předávkování anebo rychlost infuze vyšší než doporučená) se mohou objevit hypervolémie, porucha elektrolytů, acidóza anebo azotémie. V těchto situacích musí být infuze ihned zastavena. Je-li to z lékařského hlediska vhodné, měla by se zahájit intervence k prevenci klinických komplikací.
+
+Neexistuje žádné specifické antidotum pro případ předávkování. Bezpečnostní postupy by měly zahrnovat vhodná nápravná opatření.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: roztoky pro parenterální výživu, aminokyseliny ATC kód: B05BA01
+Přípravek Primene je roztok 20 L-aminokyselin sestavený tak, aby kvalitativně a kvantitativně odpovídal potřebám bílkovin u dětí:
+•  přítomnost všech pro děti esenciálních nebo podmíněně esenciálních aminokyselin
+•  relativně vysoký obsah lysinu
+
+
+6
+
+•  přítomnost taurinu
+•  relativně nízký obsah methioninu
+•  snížený obsah fenylalaninu a prolinu
+
+
+8 esenciálních aminokyselin celkové aminokyseliny větvené aminokyseliny celkové aminokyseliny
+
+=   47,5 %
+
+
+=   24 %
+Klinické studie prokázaly, že v kombinaci s vyváženým dodáváním energie umožňuje přípravek Primene uspokojivý růst dítěte ve smyslu jeho výšky a váhy a rovněž uspokojivý psychomotorický vývoj dítěte.
+Přípravek Primene záměrně neobsahuje elektrolyty, aby jeho podání nenarušovalo specifickou elektrolytovou léčbu.
+5.2 Farmakokinetické vlastnosti
+
+Přípravek Primene je podáván intravenózně, a je proto ihned dostupný v krevním řečišti.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti přípravku
+
+Neuvádí se.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+kyselina jablečná,(L- forma) voda pro injekci
+
+6.2 Inkompatibility
+Aditiva mohou být nekompatibilní.
+
+K tomu roztoku nemají být přídávána další léčiva ani jiné látky bez předchozího ověření kompatibility a stability.
+
+Nadměrný přídavek vápníku a fosforu zvyšuje riziko vzniku vápenato-fosfátových precipitátů
+(viz bod 4.4).
+
+6.3 Doba použitelnosti
+2 roky
+Při použití u novorozenců a dětí mladších 2 let je roztok (ve vacích a aplikačních setech) třeba chránit před světlem, dokud není podání dokončeno (viz body 4.2, 4.4 a 6.6).
+
+
+
+7
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Uchovávejte lahve v kartonu, aby byl přípravek chráněn před světlem.
+6.5 Druh obalu a obsah balení
+
+Skleněná láhev s pryžovou zátkou, hliníkovým uzávěrem a plastovým krytem., karton.
+Velikost balení: 20 x 100 ml, 10 x 250 ml
+6.6 Zvlástní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Vizuálně zkontrolujte láhev zda nemá praskliny. Zkontrolujte zabarvení výsledného roztoku a výskyt částic. Použijte pouze čirý roztok.
+Musí být dodrženy aseptické podmínky. Nevyužitý podíl přípravku Primene je třeba zlikvidovat a nemá se následně použít pro další mísení.
+
+Jestliže se do láhve přidají aditiva:
+•  Ujistěte se o stabilitě a kompatibilitě aditiv. Poraďte se s lékárníkem.
+•  Musí být dodrženy aseptické podmínky. Připravte na láhvi místo vpichu.
+•  Propíchněte zátku a aplikujte aditiva pomocí jehly nebo zdravotnickým prostředkem pro
+rekonstituci /transfer setem, podle potřeby.
+•  Důkladně promíchejte obsah láhve s aditivy.
+•  Zkontrolujte zabarvení výsledného roztoku a výskyt částic.
+•  Zkontrolujte neporušenost láhve. Používejte pouze v případě, že láhev není poškozena a roztok je čirý.
+•  Zajistěte, aby byly dodrženy řádné požadavky na uchováváním aditiv.
+Podání infuze:
+Před použitím nechte roztok zahřát na pokojovou teplotu. Musí být dodrženy aseptické podmínky.
+Pouze pro jednorázové použití.
+Zkontrolujte neporušenost láhve. Používejte pouze v případě, že láhev není poškozena a roztok je čirý.
+Částečně použitou láhev znovu nepřipojujte.
+Během podávání směsí obsahujících přípravek Primene a stopové prvky (včetně mědi, železa a
+zinku) je nutné použít koncový filtr. k odstranění viditelných pevných částic, které byly
+v infuzním setu u některých směsí pozorovány. Pro roztoky parenterální výživy 2 v 1 (sacharidy a aminokyseliny) použijte ≤1,2 mikrometrový filtr k odstranění častic. Pro roztoky parenterální výživy 3 v 1 (lipidy, sacharidy a aminokyseliny) použijte 1,2 mikrometrový filtr k odstranění častic. Jakékoli zavedené regulační nebo místní zásady, které mohou být přísnější, nahrazují tyto pokyny.
+Proveďte vizuální kontrolu parenterálního roztoku, zda není zakalen či neobsahuje precipitát, infuzního setu, katetru a in line filtru po smíchání, před podáním a pravidelně v průběhu podávání. Pokud pozorujete změnu barvy na filtru proveďte tam, kde to je klinicky indikováno, kontrolu hladin mědi (nebo jiných stopových prvků) v krvi.
+
+Při použití u novorozenců a dětí mladších 2 let chraňte před světlem, dokud není podání
+
+
+8
+
+dokončeno. Vystavení přípravku Primene okolnímu světlu, zejména po přidání příměsi se stopovými prvky a/nebo vitaminy, vede k tvorbě peroxidů a dalších produktů rozkladu, čemuž lze zamezit ochranou před světlem (viz body 4.2, 4.4 a 6.3).
+Nepřipojujte láhev do série, aby se zabránilo vzduchové embolii následkem možného zbytkového
+vzduchu v primárním obalu.
+Přípravek Primene nesmí být podán stejným katétrem společně s krví nebo krevními komponenty, ačkoli existuje dokumentace o tom, že je to bezpečné.
+Veškerý nepoužitý přípravek nebo odpad a všechny použité zdravotnické prostředky musí být zlikvidovány v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+BAXTER CZECH spol. s r.o.
+Karla Engliše 3201/6 150 00 Praha 5 Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+76/642/95-C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 2.8.1995
+Datum posledního prodloužení registrace: 10.2.2016
+
+10. DATUM REVIZE TEXTU
+
+24. 5. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9

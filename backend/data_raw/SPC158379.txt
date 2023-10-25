@@ -1,0 +1,2366 @@
+Sp.zn. sukls335937/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Pulmocis 2 mg kit pro radiofarmakum
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna lahvička obsahuje albuminum humanum macroaggregatum 2 mg (makrosalbum).
+
+Počet makroagregátů v jedné lahvičce je v rozsahu 2 x 10⁶ až 4 x 10⁶. Distribuce částic v označeném přípravku je následující: více než 95 % částic má velikost v rozsahu 10 až 100 mikrometrů.
+
+Přípravek je vyroben z lidského sérového albuminu od dárců. Radionuklid není součástí tohoto kitu.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Kit pro radiofarmakum
+Bílé pelety
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+Po označení roztokem technecistanu sodného (⁹⁹ᵐTc), je získaná suspenze makroagregátů albuminu značeného techneciem(⁹⁹ᵐTc) indikována u dospělých a pediatrické populace pro:
+
+- scintigrafii plicní perfuze
+Pro diagnostiku nebo vyloučení plicní embolie u pacientů se symptomy plicní embolie a pro sledování vývoje plicní embolie;
+
+Pro vyšetření probíhající souběžně s terapiemi, které vedou k významnému snížení regionální perfuze plic, jako předoperační vyšetření lokální plicní perfuze před (částečnou) resekcí plic, předoperační vyšetření a sledování pokroku po transplantaci plic a předléčebná vyšetření pro plánování pomocné radiační terapie;
+V kombinaci s ventilační scintigrafií pro počáteční hodnocení a sledování pacientů se závažnými obstrukčními a/nebo omezujícími plicními nemocemi;
+
+Pro diagnostiku a kvantifikaci plicních pravolevých zkratů.
+
+- radionuklidovou venografii
+Jako alternativa k dopplerovské ultrasonografii pro radionuklidovou venografii dolních končetin v kombinaci se scintigrafií plicní perfuze u pacientů s podezřením na hlubokou žilní trombózu dolní končetiny a plicní embolii.
+
+4.2  Dávkování a způsob podání
+
+Tento léčivý přípravek smí být podáván výhradně oprávněnou osobou (viz bod „Obecná upozornění“ v bodě 6.6)
+Dávkování
+Dospělí
+Doporučená intravenózně podávaná aktivita dospělým osobám s hmotností 70 kg je v rozmezí 40 a 150 MBq, se střední hodnotou 100 MBq pro planární perfuzní scintigrafii plic a maximálně 200 MBq pro perfuzní scintigrafii plic s pomocí jednofotonové emisní výpočetní tomografie (SPECT).
+Průměrný doporučený počet částic pro dospělé má být v rozmezí 100 000 až 300 000. Při jednom podání nesmí být překročen maximální počet částic 700 000. Minimální počet částic na jednu podanou dávku má být 100 000, aby se dosáhlo optimální kvality obrazu.
+
+Výpočet množství částic, které mají být podány, viz bod 12.
+
+U dospělých a starších pacientů se závažným kardiovaskulárním onemocněním, s plicní hypertenzí doprovázenou respirační nedostatečností, u pacientů s pravolevým zkratem nebo s transplantací jedné plíce se má počet částic snížit na rozmezí od 100 000 do 200 000.
+Porucha funkce ledvin / porucha funkce jater
+Je nutné pečlivě zvážit aktivitu, která má být podána, protože u těchto pacientů je možná zvýšená expozice záření.
+Pediatrická populace
+Použití u dětí a dospívajících musí být pečlivě zváženo na základě klinických potřeb a posouzení poměru rizika a přínosu u této skupiny pacientů.
+Pediatrická pracovní skupina EANM (2016) doporučuje výpočet aktivity podávané pediatrické populaci na základě tělesné hmotnosti podle tabulky 1.
+
+Aktivita podávaná dětem a dospívajícím může být vypočtena vynásobením základní aktivity (pro účely výpočtu) násobky podle tělesné hmotnosti, jak je uvedeno v tabulce níže.
+A[MBq]podávaná= základní aktivita X násobek
+Základní aktivita je 5,6 MBq. U velmi malých dětí (do 1 roku) je nutná minimální aktivita 10 MBq,
+aby získané snímky měly dostatečnou kvalitu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2/16
+
+Tabulka 1: Korekční faktory podle tělesné hmotnosti pro pediatrickou populaci podle dávkové karty
+EANM- 2016:
+
+
+Tělesná hmotnost [kg] 3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Násobek
+
+1
+1,14
+1,71
+2,14
+2,71
+3,14
+3,57
+4,00
+4,43
+4,86
+Tělesná hmotnost [kg] 22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+Násobek
+
+5,29
+5,71
+6,14
+6,43
+6,86
+7,29
+7,72
+8,00
+8,43
+8,86
+Tělesná hmotnost [kg] 42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+Násobek
+
+9,14
+9,57
+10,00
+10,29
+10,71
+11,29
+12,00
+12,71
+13,43
+14,00
+
+Počet částic má být udržován na co nejnižší úrovni, aby nedošlo k embolizaci více než 0,1 % všech plicních kapilár. Počet částic, které mají být podány dětem a dospívajícím, se doporučuje vypočítat podle doporučení Evropské asociace nukleární medicíny (EANM) pro scintigrafii plic u dětí (2007):
+
+
+Tělesná
+hmotnost
+<10 kg
+10-20 kg
+20-35 kg
+35-50 kg
+Maximální počet částic, který má být podán
+
+10 000-50 000
+50 000-150 000
+150 000-300 000
+300 000-500 000
+V případě známého závažného snížení plicního vaskulárního řečiště (o více než 50 %) nebo podezření na něj se má úměrně snížit počet částic, který má být podán.
+Pro vyhodnocení pravolevého zkratu má být počet podávaných částic snížen na 10 000 - 20 000.
+
+Způsob podání
+Pro vícenásobné použití
+Tento léčivý přípravek má být před podáním pacientovi rekonstituován.
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 12.
+Opatření, která mají být přijata před manipulací nebo podáváním tohoto léčivého přípravku
+Obsah injekční stříkačky musí být před injekčním podáním znovu opatrně promíchán krouživým pohybem, aby se dosáhlo rovnoměrné distribuce částic a aby se zabránilo tvorbě agregátů větších rozměrů. Aby došlo k rozptýlení všech přítomných komplexů agregátů, má být použita tenká kanyla.
+Ze stejného důvodu nemá být krev nikdy natažena do stříkačky, protože to indukuje tvorbu malých sraženin, které jsou ve scintigrafii prezentovány jako falešně pozitivní defekty kvůli okluzi větších arteriol. Pokud je to možné, přípravek nemá být injekčně podáván implantovaným žilním přístupem, protože to může vést k nedostatečnému promíchání radioaktivity v plicní tepně.
+Poté, co pacient zakašlal a několikrát se zhluboka nadechl, má být léčivý přípravek pomalu intravenózně aplikován během 3 až 5 respiračních cyklů nebo po dobu alespoň 30 sekund. Je třeba věnovat velkou pozornost tomu, aby radioaktivní látka nevnikla do okolních tkání a aby nedošlo k aspiraci krve, protože jinak hrozí, že se vytvoří větší komplexy agregátů. Během podávání injekce má pacient ležet na zádech nebo co nejblíže k této poloze u pacientů s ortopnoe.
+
+
+
+
+
+3/16
+
+Při ventilační / perfuzní scintigrafii se doporučuje provést podání injekce ve stejné poloze, ve které se provádí inhalace radioaktivního inertního plynu nebo aerosolů, tj. pokud možno v poloze v sedě, přičemž tato poloha se zaujme nejméně 5 minut předem. Tímto způsobem je v důsledku lepší ventilace plic v sedu zabráněno nebezpečí falešně pozitivních výsledků při střídavém zkoumání ventilace a perfuze.
+
+Pokyny pro přípravu pacienta najdete v bodě 4.4.
+
+Pořízení snímků
+Snímky plic je možné začít pořizovat okamžitě po injekci.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 nebo na
+kteroukoli složku označeného přípravku.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Možnost přecitlivělosti nebo anafylaktické reakce
+Vždy se musí brát v úvahu možnost přecitlivělosti, včetně závažných, život ohrožujících, fatálních anafylaktických/anafylaktoidních reakcí. Pokud se objeví příznaky přecitlivělosti nebo anafylaktická reakce, podávání léčivého přípravku musí být okamžitě přerušeno a je-li to nezbytné, musí být zahájena intravenózní léčba.  Pro okamžitá opatření při pohotovostním zásahu musí být okamžitě dostupné potřebné léčivé přípravky a zařízení jako například endotracheální trubice a zařízení pro umělou ventilaci.
+
+Odůvodnění individuálního přínosu/rizika
+U každého pacienta musí být vystavení ionizujícímu záření opodstatněné jeho očekávaným přínosem pro pacienta. Aplikovaná aktivita musí být vždy taková, aby výsledná dávka záření byla tak nízká, jak je jen možné, aby byla zároveň získána požadovaná diagnostická informace.
+Při podávání makrosalbu značeného techneciem (⁹⁹ᵐTc) pacientům s plicní hypertenzí, respirační nedostatečností, možnou nebo známou diagnózou pravolevého srdečního zkratu nebo pacientům po transplantaci plic je třeba postupovat opatrně. V těchto případech nesmí být makrosalb značený techneciem (⁹⁹ᵐTc) podán bez pečlivé analýzy přínosů a rizik.
+
+Aby se minimalizovala možnost mikroembólie v mozkovém a renálním oběhu, má se přípravek makrosalb značený techneciem (⁹⁹ᵐTc) podávat pomalou intravenózní injekcí. Počet částic musí být udržován tak nízký, jak je jen možné. U dospělých může být počet částic snížen na 100 000 až 200 000 částic bez ztráty kvality snímku pro detekci defektů perfuze, aniž by to ovlivnilo kvalitu snímků pro vizualizaci defektů perfuze. Heterogenní distribuce radioaktivity může nastat, když je počet částic pod 100 000 jednotek.
+
+Porucha funkce ledvin / porucha funkce jater
+U těchto pacientů je nutné pečlivě zvážit poměr přínosů a rizik, protože je možná zvýšená radiační
+expozice (viz bod 4.2.).
+
+Pediatrická populace
+Informace o použití u pediatrické populace, viz bod 4.2.
+Je nutné pečlivé zvážení indikace, protože účinná dávka na jeden MBq je vyšší než u dospělých (viz
+bod 11).
+
+
+
+
+
+
+
+
+
+4/16
+
+Příprava pacienta
+Před zahájením vyšetření by měl být pacient dobře hydratován a vyzván k co nejčastějšímu močení během prvních hodin po vyšetření, aby se snížila radiace.
+Blokáda štítné žlázy před aplikací injekce se suspenzí makrosalbu značeného techneciem (⁹⁹ᵐTc) může pomoci snížit radiační expozici štítné žlázy tím, že se sníží vychytávání technecia (⁹⁹ᵐTc) technecistanu, ke kterému dochází v menším množství prostřednictvím metabolismu.
+Po vyšetření
+Po dobu prvních 12 hodin po podání injekce je třeba omezit blízký kontakt s kojenci a těhotnými ženami.
+Zvláštní upozornění
+Přípravek Pulmocis obsahuje lidský albumin.
+Standardní opatření pro zabránění infekcí způsobených léčivými přípravky vyrobenými z lidské krve nebo plazmy zahrnují pečlivý výběr a testování dárců a shromážděné plazmy, hledání infekčních látek a efektivní postupy zpracování a inaktivace/eliminace virů při výrobním procesu. Přesto se při podávání léčivých přípravků vyrobených z lidské krve nebo plazmy nedá úplně vyloučit riziko přenosu infekčních látek.
+Stejně tak to platí i pro viry neznámého původu nebo nově vzniklé viry a jiné patogeny.
+Nebyly hlášeny žádné případy virového přenosu v souvislosti s albuminem vyrobeným v souladu se specifikacemi v Evropském lékopise a běžnými postupy.
+
+Sledovatelnost
+Aby se zlepšila sledovatelnost biologických léčivých přípravků, má se přehledně zaznamenat název podaného přípravku a číslo šarže.
+
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jedné dávce, to znamená, že je v podstatě “bez sodíku”.
+
+Opatření s ohledem na riziko pro životní prostředí jsou uvedena v bodě 6.6.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Změny v biodistribuci makrosalbu značeného techneciem-(⁹⁹ᵐTc) způsobují různé léčivé přípravky.
+
+- Farmakologické interakce způsobují chemoterapeutika, heparin a bronchodilatancia.
+
+-  Toxikologické interakce mohou způsobovat heroin, nitrofurantoin, busulfan, cyklofosfamid,
+bleomycin, methotrexát, methysergid.
+-  Farmaceutické interakce může způsobovat síran hořečnatý. U většiny objemných agregátů se mohou po léčbě albuminovými makroagregáty značenými techneciem-99m tvořit komplexy u pacientů, kteří dostávají intravenózní terapii se síranem hořečnatým. Tyto komplexy mohou přecházet do plicní cirkulace.
+4.6  Fertilita, těhotenství a kojení Ženy, které mohou otěhotnět
+Zvažuje-li se podání radioaktivního léčiva ženě, která může otěhotnět, vždy je nutné zjistit, zda je či není těhotná. Každá žena, které vynechala menstruace, má být považována za těhotnou, dokud se neprokáže opak. V případě nejistoty (když ženě vynechala menstruace, je-li menstruace velmi nepravidelná atd.) mají být pacientce nabídnuty alternativní metody bez využití ionizujícího záření (pokud jsou dostupné).
+
+
+Těhotenství
+
+
+5/16
+
+Radionuklidové vyšetření těhotných žen představuje také radiační dávku pro plod. V těhotenství se proto mají provádět pouze nezbytná vyšetření v případě, že očekávaný přínos vysoce převyšuje riziko pro matku a plod.
+Kojení
+Před podáním radiofarmaka kojící matce je třeba uvážit možnost pozdržení podání radionuklidu do chvíle, než matka kojení ukončí a také nejvhodnější volbu radiofarmaka s ohledem na vylučování aktivity do mléka. Je-li podání považováno za nutné, kojení je třeba na 12 hodin přerušit a odsáté mléko zlikvidovat.
+
+Fertilita
+Nebyly provedeny žádné studie s ohledem na fertilitu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Pulmocis nemá žádný nebo jen nepatrný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Bezpečnostní informace týkající se přenosu infekčních agens jsou uvedeny v bodě 4.4.
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným vývojem dědičných vad. Vzhledem k tomu, že při podání maximální doporučené aktivity 200 MBq je efektivní dávka 2,2 mSv, je jen nízká pravděpodobnost výskytu těchto nežádoucích účinků.
+
+Frekvence nežádoucích účinků jsou definovány takto:
+Velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10 000
+až < 1/1000); velmi vzácné (< 1/10 000); není známo (z dostupných údajů nelze určit).
+Poruchy imunitního systému
+Frekvence není známa: Hypersenzitivní reakce, jako jsou kopřivka, zimnice, horečka, nauzea, obličejový erytém a pocení, jakož i poruchy srdečních a oběhových funkcí ve formě změn dýchání, pulsu, krevního tlaku a bolesti na hrudi, kolaps, který může souviset s vaskulární okluzí.
+
+Velmi vzácné: Byly hlášeny případy závažných anafylaktoidních reakcí, včetně šoku, s možným fatálním výsledkem. Tyto reakce se také nemusí objevit okamžitě.
+
+Celkové poruchy a reakce v místě aplikace
+Frekvence není známo: Byly pozorovány lokální alergické reakce v místě injekce.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Počet částic MAA (makroagregátů albuminu) u dospělého pacienta nesmí přesáhnout 1,5 x 10⁶.
+
+Podávání velmi vysokého počtu částic může vést k hemodynamicky významné vaskulární blokádě. Pokud dojde k výrazným změnám dýchání, pulsu a krevního tlaku, musí být přijata opatření ke stabilizaci dýchání a oběhu.
+
+
+6/16
+
+V případě předávkování radiací se má absorbovaná dávka makrosalbu značeného techneciem-(⁹⁹ᵐTc) u pacienta snižovat zvýšením vylučováním radionuklidu z těla častým močením, nebo forsírovanou diurézou a častým vyprazdňováním močového měchýře. Může být užitečné odhadnout velikost dávky, která byla aplikována.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Diagnostická radiofarmaka, technecium (⁹⁹ᵐTc), částice pro injekci, ATC kód: V09EB01
+
+Při podání v chemických koncentracích používaných pro diagnostická vyšetření nevykazuje makrosalb značený techneciem-(⁹⁹ᵐTc) žádné farmakodynamické účinky.
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Po intravenózní injekci makrosalbu značeného techneciem (⁹⁹ᵐTc) dochází k dočasné okluzi plicních kapilár a arteriol, což je úměrné regionálnímu plicnímu průtoku krve v té době.
+
+Vychytávání orgány
+Principem perfuzní scintigrafie je kapilární blokáda. Částice albuminových makroagregátů nepronikají plicním parenchymem (intersticiálním nebo alveolárním), ale zůstávají dočasně zachyceny v průsvitu kapiláry. Po intravenózní injekci je většina agregátů makrosalbu zadržena v arteriolách a kapilárách plic v době prvního průchodu plicemi. Průměr většiny makroagregátů je mezi 10 a 100 mikrometry. V závislosti na distribuci velikosti částic nastane dočasná okluze přibližně u 1 z 1 000 000 kapilár (průměr < 20 mikrometrů) a 1 z 1 000 arteriol (průměr > 20 mikrometrů). Rozsah regionální blokády s mikroemboliemi je tedy přímo úměrný regionální perfuzi plic v tom čase. Větší částice mohou vést k okluzi větších cév, a tím způsobit poruchy umělé perfuze. Hemodynamické změny přímo souvisejí s velikostí částic makrosalbových agregátů.
+
+Eliminace
+Eliminace makroagregovaných částic z plic probíhá mechanickou fragmentací pulzy systolicko- diastolického tlaku uvnitř kapilár a enzymatickým rozkladem s následnou fagocytózou makrofágy retikuloendoteliálního systému. V souvislosti s eliminací se aktivita hromadí v játrech a ledvinách.
+
+Hromadění aktivity v játrech je velmi variabilní; v průběhu času se zvyšuje a může dosáhnout až přibližně 25 %.
+
+Pokud jde o eliminaci z plic, existují mezi jednotlivci velké rozdíly. Částice jsou vylučovány z plic s biologickým poločasem asi 7-20 hodin. 30-45 % injekčně podané radioaktivity je vyloučeno močí do 24 hodin.
+
+Při pravolevém zkratu se část makroagregátů přesune do celkového oběhového systému a tam jsou zachyceny v kapilárách. Pokud k tomu dojde, je například možný vznik mozkových nebo renálních mikroembolií.
+
+Biologický poločas
+Biologický poločas se pohybuje mezi 2-8 hodinami, v závislosti na velikosti částic. Fyzický poločas je
+6,02 hodiny.
+
+Porucha funkce jater/ledvin
+U pacientů s poruchou funkce ledvin nebo jater nebyla farmakokinetika popsána.
+
+
+7/16
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Existuje korelace mezi velikostí částic a jejich toxickými účinky.
+
+Patofyziologickým mechanismem odpovědným za toxicitu se ukazuje být zvýšení plicního krevního
+tlaku.
+
+U částic o průměru 10 až 50 mikrometrů se první plicní příznaky toxicity u psů (např tachypnoe)
+objevily po injekci 20 až 25 mg na kg tělesné hmotnosti.
+
+Při injekčním podání 20 mg částic makrosalbu o velikosti menší než 80 mikrometrů bylo zaznamenáno prudké zvýšení plicního krevního tlaku, přičemž nebyly zaznamenány žádné významné změny tlaku při 40 mg částic makrosalbu menších než 35 mikrometrů.
+
+U suspenze částic makrosalbu s maximálním průměrem 150 mikrometrů se při dávce nižší než 10 mg/kg neobjevily žádné změny krevního tlaku, zatímco u suspenze s větším průměrem (až 300 mikrometrů) se typické změny krevního tlaku v plicní tepně objevují, když dávky překročí 5 mg/kg.
+
+Dávky 20-50 mg/kg způsobují náhlou smrt v důsledku selhání. Po injekčním podání 14 000 částic makrosalbu značeného techneciem (⁹⁹ᵐTc) (velikost: 30-50 mikrometrů) psům byl zjištěn bezpečnostní faktor 100.
+
+Studie toxicity po opakovaném podávání u psů neprokázaly žádné zjistitelné změny v celkovém chování zvířat.
+Nebyly zjištěny žádné důkazy o patologických změnách v hlavních orgánech.
+V literatuře neexistují důkazy teratogenního, mutagenního nebo karcinogenního účinku neznačeného
+přípravku.
+
+Tato látka není určena k pravidelnému nebo nepřetržitému podávání.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Lidský albumin
+Dihydrát chloridu cínatého (E 512) Chlorid sodný
+V atmosféře dusíku (E 941)
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 12.
+Léčivý přípravek nesmí přijít do kontaktu se vzduchem.
+
+6.3  Doba použitelnosti
+1 rok.
+Datum expirace je uvedeno na vnějším obalu a na každé injekční lahvičce. Po označení radionuklidem: 8 hodin. Uchovávejte při teplotě 2 °C – 8 °C.
+
+
+
+8/16
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte kit v chladničce (2 °C – 8 °C).
+
+Podmínky uchovávání léčivého přípravku po jeho označení radionuklidem jsou uvedeny v bodě 6.3.
+
+Radiofarmaka mají být uchovávána v souladu s národními předpisy o radioaktivních látkách.
+
+6.5  Druh obalu a obsah balení
+15ml bezbarvé injekční lahvičky z taženého skla typu I podle Evropského lékopisu, uzavřené gumovými zátkami a hliníkovými objímkami.
+
+Velikost balení: 5 vícedávkových injekčních lahviček
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecné upozornění
+Radiofarmaka smí být přijímána, používána a podávána pouze oprávněnými osobami v určených zdravotnických zařízeních. Způsob jejich příjmu, uchovávání, používání, přepravy a likvidace je upraven předpisy a/nebo příslušnými povoleními kompetentních úřadů.
+
+Radiofarmaka mají být připravována způsobem, který vyhovuje jak požadavkům na radiační bezpečnost tak na farmaceutickou kvalitu. Musí být dodržována příslušná aseptická opatření.
+Obsah injekční lahvičky je určen pouze pro přípravu makrosalbu značeného techneciem-(⁹⁹ᵐTc) a
+nesmí být přímo podán pacientovi bez provedení přípravy radiofarmaka.
+
+Návod k rekonstituci léčivého přípravku a jeho označení radionuklidem před podáním je uveden
+v bodě 12.
+
+Pokud je v kterémkoli okamžiku přípravy narušena celistvost této injekční lahvičky, nesmí se přípravek použít.
+Postupy podání přípravku mají být provedeny tak, aby se minimalizovalo riziko kontaminace přípravku a ozáření personálu. Je povinné adekvátní stínění.
+
+Obsah kitu před přípravou v čase potřeby není radioaktivní. Nicméně, po přidání roztoku
+technecistanu-(⁹⁹ᵐTc) sodného musí být pro konečný přípravek udržováno přiměřené stínění.
+
+Při podávání radiofarmak vzniká pro ostatní osoby riziko vnějšího ozáření nebo kontaminace způsobené rozlitím přípravku nebo kontaminace močí, při zvracení atd. Proto musí být, v souladu s národními předpisy, přijata bezpečnostní opatření radiační ochrany.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/16
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+CIS bio international RN 306 – Saclay B.P.32
+91192 Gif sur Yvette Cedex FRANCIE
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+88/494/19-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+18. 6. 2020
+
+
+10.  DATUM REVIZE TEXTU
+
+18. 6. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/16
+
+11.  DOZIMETRIE
+
+Technecium (⁹⁹ᵐTc) se získává z (⁹⁹Mo/⁹⁹ᵐTc) generátoru a přeměňuje se emisí záření gama s průměrnou energií 140 keV a s poločasem přeměny 6,02 hodiny na technecium-(⁹⁹Tc), které je, vzhledem ke svému dlouhému poločasu přeměny 2,13 x 10⁵ roků, považováno za kvazi stabilní.
+
+Níže uvedené údaje v tabulce 2 pocházejí z publikace ICRP 128.
+
+
+Tabulka 2:
+Orgán
+
+Absorbovaná dávka na jednotku podané aktivity
+
+
+nadledviny
+Dospělí
+0,0068
+15 let
+0,0088
+10 let
+0,013
+5 let
+0,019
+1 rok
+0,031
+
+
+povrch kostí
+mozek prsa
+stěna žlučníku gastrointestinální trakt stěna žaludku
+stěna tenkého střeva stěna tlustého střeva (stěna horní části tlustého (stěna dolní části tlustého srdeční stěna
+ledviny játra plíce svaly jícen vaječníky
+slinivka břišní červená kostní dřeň kůže
+slezina varlata brzlík štítná žláza
+stěna močového měchýře děloha
+ostatní orgány
+Účinná dávka
+(mSv/MBq)
+0,0051
+0,00092
+0,0050
+0,0056
+0,0037
+0,0020
+0,0019
+0,0022
+0,0016
+0,0096
+0,0037
+0,016
+0,066
+0,0028
+0,0061
+0,0018
+0,0056
+0,0032
+0,0015
+0,0041
+0,0011
+0,0061
+0,0025
+0,0087
+0,0022
+0,0028
+
+0,011
+0,0064
+0,0012
+0,0056
+0,0070
+0,0052
+0,0026
+0,0026
+0,0029
+0,0021
+0,013
+0,0048
+0,021
+0,097
+0,0037
+0,0077
+0,0023
+0,0075
+0,0038
+0,0017
+0,0055
+0,0014
+0,0077
+0,0033
+0,011
+0,0028
+0,0036
+
+0,016
+0,0091
+0,0020
+0,0099
+0,010
+0,0080
+0,0043
+0,0043
+0,0050
+0,0033
+0,018
+0,0072
+0,030
+0,13
+0,0052
+0,011
+0,0035
+0,011
+0,0053
+0,0027
+0,0083
+0,0022
+0,011
+0,0057
+0,014
+0,0042
+0,0050
+
+0,023
+0,014
+0,0032
+0,014
+0,016
+0,012
+0,0068
+0,0069
+0,0083
+0,0050
+0,025
+0,011
+0,042
+0,20
+0,0077
+0,015
+0,0054
+0,017
+0,0072
+0,0043
+0,013
+0,0033
+0,015
+0,0090
+0,016
+0,0060
+0,0074
+
+0,034
+0,026
+0,0055
+0,021
+0,024
+0,020
+0,012
+0,012
+0,014)
+0,0095)
+0,038
+0,018
+0,074
+0,39
+0,014
+0,022
+0,010
+0,029
+0,012
+0,0078
+0,022
+0,0062
+0,022
+0,016
+0,030
+0,011
+0,013
+
+0,063
+
+Účinná dávka vyplývající z podání (maximální doporučené) aktivity 150 MBq pro planární perfuzní scintigrafii pro dospělou osobu o hmotnosti 70 kg je přibližně 1,7 mSv a 2,2 mSv pro 200 MBq (maximální doporučená dávka pro SPECT).
+Pro podanou aktivitu 150 MBq je typická dávka záření cílovému orgánu (plíce) 10 mGy a typická dávka / dávky záření kritickému orgánu / orgánům (nadledviny, stěny močového měchýře, játra, slinivka břišní a slezina) jsou 1,0, 1,3, 2,4, 0,8 a 0,6 mGy v uvedeném pořadí.
+
+
+
+
+
+
+
+
+11/16
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Odhad objemu a aktivity technecistanu sodného (⁹⁹ᵐTc) ve vztahu k počtu částic makrosalbu a aktivitě na dávku
+
+Podle bodu 4.2. „Dávkování a způsob podání“ je nutné definovat objem a radioaktivitu roztoku technecistanu sodného (⁹⁹ᵐTc), který má být přidán do kitu, v závislosti na aktivitě a počtu částic makroagregátů, které mají být podány dospělým nebo pediatrickým pacientům.
+
+Za tímto účelem je třeba zvážit následující postup a formulace.
+
+1. První krok spočívá ve stanovení objemu potřebného pro značení makroagregátu, který má být injikován na dávku. Výpočtový vzorec je následující:
+
+Označovací objem = Počet částic makroagregátu v jedné injekční lahvičce (3.10⁶) x objem pro injekci
+Počet částic makroagregátu, které mají být injekčně podány v jedné dávce
+
+
+2. Druhý krok spočívá ve stanovení celkové aktivity, kterou je třeba přidat do injekční lahvičky, v závislosti na aktivitě, která má být injekčně podána, a na objemu eluátu.
+
+Výpočtový vzorec je následující:
+
+Radioaktivita pro označování = Aktivita, která má být injikována x označovací objem   
+Objem, který má být injekčně podán
+
+Tabulka 3 může být použita pro výpočet objemu a aktivity roztoku technecistanu (⁹⁹ᵐTc), který se má přidat v závislosti na aktivitě a počtu makroagregátů na dávku.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/16
+
+Tabulka 3
+
+
+Celková aktivita v lahvičce
+Celkový objem v lahvičce
+3 ml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 ml
+
+
+
+400 MBq
+
+
+
+10 MBq/
+0,08 ml
+[50 000-
+100 000]
+40 MBq/
+0,3 ml
+[200 000-
+400 000]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 MBq/
+0,125 ml
+[50 000-
+100 000]
+40 MBq/
+0,5 ml
+[200 000-
+400 000]
+
+
+
+800 MBq
+
+
+
+10 MBq/
+0,04 ml
+[25 000-
+50 000]
+40 MBq / 0,15
+ml
+[100 000-
+200 000]
+80 MBq/
+0,3 ml
+[200 000-
+400 000]
+110 MBq/
+0,45 ml
+[275 000-
+550 000]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 MBq/
+0,06 ml
+[25 000-
+50 000]
+40 MBq/
+0,25 ml
+[100 000-
+200 000]
+80 MBq/
+0,5 ml
+[200 000-
+400 000]
+110 MBq/
+0,68 ml
+[275 000-
+550 000]
+
+
+
+1200 MBq
+
+
+
+10 MBq/
+0,026 ml
+[16 670-33 330]
+
+40 MBq/
+0,1 ml
+[66 670-
+133 330]
+80 MBq/
+0,2 ml
+[133 330-
+266 670]
+110 MBq/ 0,286
+ml
+[183 330-
+366 670]
+150 MBq/
+0,39 ml
+[250 000-
+500 000]
+185 MBq/
+0,48 ml
+[308 330-
+616 670]
+200 MBq/
+0,5 ml
+[333 330-
+666 670]
+10 MBq/
+0,04 ml
+[16 670-33 330]
+
+40 MBq/
+0,17 ml
+[66 670-
+133 330]
+80 MBq/
+0,33 ml
+[133 330-
+266 670]
+110 MBq/
+0,45 ml
+[183 330-
+366 670]
+150 MBq/
+0,62 ml
+[250 000-
+500 000]
+185 MBq/
+0,77 ml
+[308 330-
+616 670]
+200 MBq/
+0,83 ml
+[333 330-
+666 670]
+
+
+
+1600 MBq
+
+
+
+10 MBq/
+0,02 ml [12 500
+- 25 000]
+
+
+
+
+
+80 MBq/
+0,16 ml
+[100 000-
+200 000]
+110 MBq/
+0,22 ml
+[137 500-
+275 000]
+150 MBq/
+0,3 ml
+[187 500-
+375 000]
+185 MBq/
+0,37 ml
+[231 250-
+462 500]
+200 MBq/
+0,38 ml
+[250 000-
+500 000]
+10 MBq/
+0,03 ml
+[12 500-25 000]
+
+
+
+
+
+
+80 MBq/
+0,25 ml
+[100 000-
+200 000]
+110 MBq/
+0,34 ml
+[137 500-
+275 000]
+150 MBq/
+0,47 ml
+[187 500-
+375 000]
+185 MBq/
+0,57 ml
+[231 250-
+462 500]
+200 MBq/
+0,62 ml
+[250 000-
+500 000]
+
+
+
+2000 MBq
+
+
+
+10 MBq/
+0,016/10 000
+20 000]
+
+
+
+
+
+80 MBq/
+0,128 ml
+[80 000-
+160 000]
+110 MBq/
+0,176 ml
+[110 000-
+220 000]
+150 MBq/
+0,24 ml
+[150 000-
+300 000]
+185 MBq/
+0,3 ml
+[185 000-
+370 000]
+200 MBq/
+0,3 ml
+[200 000-
+400 000]
+10 MBq/
+0,025 ml
+[10 000-
+20 000]
+
+
+
+
+80 MBq/
+0,2 ml
+[80 000-
+160 000]
+110 MBq/
+0,275 ml
+[110 000-
+220 000]
+150 MBq/
+0,375 ml
+[150 000-
+300 000]
+185 MBq/
+0,46 ml
+[185 000-
+370 000]
+200 MBq/
+0,5 ml
+[200 000-
+400 000]
+
+
+
+2400 MBq
+
+
+
+10 MBq/
+0,015 ml
+[8 330-16 670]
+
+
+
+
+
+80 MBq/
+0,12 ml [66
+670-133 330]
+
+110 MBq/
+0,165 ml
+[91 670-
+183 330]
+150 MBq/
+0,225 ml
+[125 000-
+250 000]
+185 MBq/
+0,27 ml
+[154 170-
+308 330]
+200 MBq/
+0,25 ml
+[166 670-
+333 330]
+10 MBq/
+0,02 ml
+[8 330-16 670]
+
+
+
+
+
+80 MBq/
+0,17 ml
+66 670-
+133 330]
+110 MBq/
+0,23 ml
+[91 670-
+183 330]
+150 MBq/
+0,31 ml
+[125 000-
+250 000]
+185 MBq/
+0,38 ml
+[154 170-
+308 330]
+200 MBq/
+0,42 ml
+[166 670-
+333 330]
+
+
+
+2800 MBq
+
+
+
+10 MBq/
+0,01 ml
+[7 140-14 290]
+
+
+
+
+
+
+
+
+
+
+110 MBq/
+0,11 ml
+[78 570-
+157 140]
+150 MBq/
+0,15 ml
+[107 140-
+214 290]
+185 MBq/
+0,185 ml
+[132 140-
+264 290]
+200 MBq/
+0,21 ml
+[142 860-
+285 710]
+10 MBq/
+0,018 ml
+[7 140-
+14 290]
+
+
+
+
+
+
+
+
+
+110 MBq/
+0,19 ml
+[78 570-
+157 140]
+150 MBq/
+0,26 ml
+[107 140-
+214 290]
+185 MBq/
+0,33 ml
+[132 140-
+264 290]
+200 MBq/
+0,36 ml
+[142 860-
+285 710]
+
+
+
+3200 MBq
+
+
+
+10 MBq/
+0,009 ml [6
+250 - 12 500]
+
+
+
+
+
+
+
+
+
+
+110 MBq/ 0,1
+ml
+[68 750-
+137 500]
+150 MBq/
+0,135 ml
+[93 750-
+187 500]
+185 MBq/
+0,17 ml
+[115 630-
+231 250]
+200 MBq/
+0,18 ml
+[125 000-
+250 000]
+10 MBq/
+0,015 ml
+[6 250-12 500]
+
+
+
+
+
+
+
+
+
+
+110 MBq/
+0,17 ml
+[68 750-
+137 500]
+150 MBq/
+0,23 ml
+[93 750-
+187 500]
+185 MBq/
+0,29 ml
+[115 630-
+231 250]
+200 MBq/
+0,31 ml
+[125 000-
+250 000]
+
+
+
+3700 MBq
+
+
+
+10 MBq/
+0,008 ml
+[5 400-
+10 810]
+
+
+
+
+
+
+
+
+
+
+
+
+
+150 MBq/
+0,12 ml
+[81 080-
+162 160]
+185 MBq/
+0,15 ml
+[100 000-
+200 000]
+200 MBq/
+0,16 ml
+[108 110-
+216 220]
+10 MBq/
+0,013 ml
+[5 400-10 810]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+150 MBq/
+0,2 ml
+[81 080-
+162 160]
+185 MBq/
+0,25 ml
+[100 000-
+200 000]
+200 MBq/
+0,27 ml
+[108 110-
+216 220]
+
+
+
+
+
+
+
+
+
+
+
+
+
+13/16
+
+Tabulka 3 (pokračování)
+
+
+Celková aktivita v lahvičce
+
+Celkový
+objem
+v lahvičce
+
+
+
+400 MBq
+
+
+
+800 MBq
+
+
+
+1200 MBq
+
+
+
+1600 MBq
+
+
+
+2000 MBq
+
+
+
+2400 MBq
+
+
+
+2800 MBq
+
+
+
+3200 MBq
+
+
+
+3700 MBq
+
+
+7 ml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 ml
+10 MBq/
+0,175 ml
+[50 000-
+100 000]
+40 MBq/
+0,7 ml
+[200 000-
+400 000]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 MBq/
+0,25 ml
+[50 000-
+100 000]
+40 MBq/1 ml
+[200 000-
+400 000]
+10 MBq/
+0,08 ml
+[25 000-50 000]
+
+40 MBq/
+0,35 ml
+[100 000-
+200 000]
+80 MBq/
+0,7 ml
+[200 000-
+400 000]
+110 MBq/
+0,96 ml
+[275 000-
+550 000]
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 MBq/
+0,125 ml
+[25 000-50 000]
+
+40 MBq/0,5 ml
+[100 000-
+200 000]
+80 MBq/1 ml
+[200 000-
+400 000]
+
+110 MBq/
+1,37 ml
+[275 000-
+550 000]
+10 MBq/
+0,058 ml
+[16 670-33 330]
+
+40 MBq/
+0,23 ml
+[66 670-
+133 330]
+80 MBq/
+0,47 ml
+[133 330-
+266 670]
+110 MBq/
+0,64 ml
+[183 330-
+366 670]
+150 MBq/
+0,87 ml
+[250 000-
+500 000]
+185 MBq/
+1,08 ml
+[308 330-
+616 670]
+200 MBq/
+1,16 ml
+[333 330-
+666 670]
+10 MBq/
+0,08 ml
+[16 670-33 330]
+
+40 MBq/0,33 ml
+[66 670-
+133 330]
+80 MBq/
+0,66 ml
+[133 330-
+266 670]
+110 MBq/
+0,92 ml
+[183 330-
+366 670]
+150 MBq/
+1,25 ml
+[250 000-
+500 000]
+185 MBq/
+1,54 ml
+[308 330-
+616 670]
+200 MBq/
+1,66 ml
+[333 330-
+666 670]
+10 MBq/
+0,04 ml
+[12 500-
+25 000]
+
+
+
+
+80 MBq/
+0,35 ml
+[100 000-
+200 000]
+110 MBq/
+0,48 ml
+[137 500-
+275 000]
+150 MBq/
+0,65 ml
+[187 500-
+375 000]
+185 MBq/
+0,81 ml
+[231 250-
+462 500]
+200 MBq/
+0,87 ml
+[250 000-
+500 000]
+10 MBq/
+0,06 ml
+[12 500-
+25 000]
+
+
+
+80 MBq/
+0,5 ml
+[100 000-
+200 000]
+110 MBq/
+0,68 ml
+[137 500-
+275 000]
+150 MBq/
+0,93 ml
+[187 500-
+375 000]
+185 MBq/
+1,15 ml
+[231 250-
+462 500]
+200 MBq/
+1,25 ml
+[250 000-
+500 000]
+10 MBq/
+0,035 ml
+[10 000-
+20 000]
+
+
+
+
+80 MBq/
+0,28 ml
+[80 000-
+160 000]
+110 MBq/
+0,385 ml
+[110 000-
+220 000]
+150 MBq/
+0,525 ml
+[150 000-
+300 000]
+185 MBq/
+0,65 ml
+[185 000-
+370 000]
+200 MBq/
+0,7 ml
+[200 000-
+400 000]
+10 MBq/
+0,05 ml
+[10 000-
+20 000]
+
+
+
+80 MBq/
+0,4 ml
+[80 000-
+160 000]
+110 MBq/
+0,55 ml
+[110 000-
+220 000]
+150 MBq/
+0,75 ml
+[150 000-
+300 000]
+185 MBq/
+0,93 ml
+[185 000-
+370 000]
+200 MBq/
+1 ml
+[200 000-
+400 000]
+10 MBq/
+0,03 ml
+[8 330-16 670]
+
+
+
+
+
+80 MBq/
+0,12 ml
+66 670-
+133 330]
+110 MBq/
+0,32 ml
+[91 670-
+183 330]
+150 MBq/
+0,44 ml
+[125 000-
+250 000]
+185 MBq/
+0,54 ml
+[154 170-
+308 330]
+200 MBq/
+0,58 ml
+[166 670-
+333 330]
+10 MBq/
+0,04 ml
+[8 330-16 670]
+
+
+
+
+80 MBq/
+0,33 ml
+66 670-
+133 330]
+110 MBq/
+0,46 ml
+[91 670-
+183 330]
+150 MBq/
+0,62 ml
+[125 000-
+250 000]
+185 MBq/
+0,77 ml
+[154 170-
+308 330]
+200 MBq/
+0,83 ml
+[166 670-
+333 330]
+10 MBq/
+0,025 ml
+[7 140-14 290]
+
+
+
+
+
+
+
+
+
+
+110 MBq/
+0,275 ml
+[78 570-
+157 140]
+150 MBq/
+0,375 ml
+[107 140-
+214 290]
+185 MBq/
+0,46 ml
+[132 140-
+264 290]
+200 MBq/
+0,5 ml
+[142 860-
+285 710]
+10 MBq/
+0,035 ml
+[7 140-14 290]
+
+
+
+
+
+
+
+
+
+110 MBq/
+0,39 ml
+[78 570-
+157 140]
+150 MBq/
+0,53 ml
+[107 140-
+214 290]
+185 MBq/
+0,66 ml
+[132 140-
+264 290]
+200 MBq/
+0,71 ml
+[142 860-
+285 710]
+10 MBq/
+0,02 ml
+[6 250-12 500]
+
+
+
+
+
+
+
+
+
+
+110 MBq/
+0,24 ml
+[68 750-
+137 500]
+150 MBq/
+0,33 ml
+[93 750-
+187 500]
+185 MBq/
+0,40 ml
+[115 630-
+231 250]
+200 MBq/
+0,43 ml
+[125 000-
+250 000]
+10 MBq/
+0,03 ml
+[6 250-12 500]
+
+
+
+
+
+
+
+
+
+110 MBq/
+0,34 ml
+[68 750-
+137 500]
+150 MBq/
+0,46 ml
+[93 750-
+187 500]
+185 MBq/
+0,58 ml
+[115 630-
+231 250]
+200 MBq/
+0,62 ml
+[125 000-
+250 000]
+10 MBq/
+0,019 ml
+[5 400-10 810]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+150 MBq/
+0,28 ml
+[81 080-
+162 160]
+185 MBq/
+0,35 ml
+[100 000-
+200 000]
+200 MBq/
+0,38 ml
+[108 110-
+216 220]
+10 MBq/
+0,027 ml
+[5 400-10 810]
+
+
+
+
+
+
+
+
+
+
+
+
+
+150 MBq/
+0,4 ml
+[81 080-
+162 160]
+185 MBq/
+0,5 ml
+[100 000-
+200 000]
+200 MBq/
+0,54 ml
+[108 110-
+216 220]
+
+3. Je nutné vypočítat aktivitu s ohledem na pokles aktivity technecia (⁹⁹ᵐTc) mezi časem značení a časem podání injekce. Tabulka rozpadu technecia (⁹⁹ᵐTc) je uvedena v tabulce 4.
+
+
+
+
+
+
+
+
+
+14/16
+
+Tabulka 4
+
+
+⁹⁹ᵐTc (POLOČAS: 6,02 hodiny) TABULKA ROZPADU
+
+
+H Min %
+H Min %
+H Min %
+H Min %
+H Min %
+H Min %
+
+0 05
+0 10
+0 15
+0 20
+0 25
+0 30
+0 35
+0 40
+0 45
+0 50
+0 55
+1 00
+1 05
+1 10
+1 15
+1 20
+1 25
+1 30
+1 35
+1 40
+1 45
+1 50
+1 55
+2 00
+99,05
+98,10
+97,16
+96,23
+95,32
+94,41
+93,50
+92,61
+91,73
+90,85
+89,98
+89,12
+88,27
+87,43
+86,60
+85,77
+84,95
+84,14
+83,33
+82,54
+81,75
+80,97
+80,20
+79,43
+2 05
+2 10
+2 15
+2 20
+2 25
+2 30
+2 35
+2 40
+2 45
+2 50
+2 55
+3 00
+3 05
+3 10
+3 15
+3 20
+3 25
+3 30
+3 35
+3 40
+3 45
+3 50
+3 55
+4 00
+78,67
+77,92
+77,18
+76,44
+75,71
+74,99
+74,27
+73,56
+72,86
+72,16
+71,47
+70,79
+70,12
+69,45
+68,78
+68,13
+67,48
+66,83
+66,19
+65,56
+64,94
+64,32
+63,70
+63,09
+4 05
+4 10
+4 15
+4 20
+4 25
+4 30
+4 35
+4 40
+4 45
+4 50
+4 55
+5 00
+5 05
+5 10
+5 15
+5 20
+5 25
+5 30
+5 35
+5 40
+5 45
+5 50
+5 55
+6 00
+62,49
+61,89
+61,30
+60,72
+60,14
+59,56
+58,99
+58,43
+57,87
+57,32
+56,77
+56,23
+55,69
+55,16
+54,64
+54,11
+53,60
+53,09
+52,58
+52,08
+51,58
+51,09
+50,60
+50,12
+6 05
+6 10
+6 15
+6 20
+6 25
+6 30
+6 35
+6 40
+6 45
+6 50
+6 55
+7 00
+7 05
+7 10
+7 15
+7 20
+7 25
+7 30
+7 35
+7 40
+7 45
+7 50
+7 55
+8 00
+49,64
+49,16
+48,69
+48,23
+47,77
+47,31
+46,86
+46,41
+45,97
+45,53
+45,10
+44,66
+44.24
+43,82
+43,40
+42,98
+42,57
+42,17
+41,76
+41,36
+40,97
+40,58
+40,19
+39,81
+8 05
+8 10
+8 15
+8 20
+8 25
+8 30
+8 35
+8 40
+8 45
+8 50
+8 55
+9 00
+9 05
+9 10
+9 15
+9 20
+9 25
+9 30
+9 35
+9 40
+9 45
+9 50
+9 55
+10 00
+39,43
+39,05
+38,68
+38,61
+37,94
+37,58
+37,22
+36,87
+36,51
+36,17
+35,82
+35,48
+35,14
+34,80
+34,47
+34,14
+33,82
+33,49
+33,17
+32,86
+32,54
+32,23
+31,92
+31,62
+10 05
+10 10
+10 15
+10 20
+10 25
+10 30
+10 35
+10 40
+10 45
+10 50
+10 55
+11 00
+11 05
+11 10
+11 15
+11 20
+11 25
+11 30
+11 35
+11 40
+11 45
+11 50
+11 55
+12 00
+31,32
+31,02
+30,72
+30,43
+30,14
+29,85
+29,57
+29,28
+29,00
+28,73
+28,45
+28,18
+27,91
+27,64
+27,38
+27,12
+26,86
+26,60
+26,35
+26,10
+25,85
+25,60
+25,36
+25,12
+
+
+Způsob přípravy
+
+Natažení roztoku musí být provedeno za aseptických podmínek.
+Injekční lahvičky se nikdy nesmí otevírat. Po dezinfekci zátky má být roztok natažen přes zátku pomocí jednodávkové injekční stříkačky vybavené vhodným ochranným krytím a jednorázovou sterilní jehlou nebo pomocí schváleného automatického aplikačního systému.
+Pokud je narušena integrita této injekční lahvičky, přípravek se nesmí použít.
+
+
+
+
+
+
+
+
+
+
+
+
+15/16
+
+Musí být dodržována obvyklá opatření týkající se sterility a radiační ochrany.
+
+1. Vyjměte lahvičku z kitu a vložte ji do vhodného olověného stínění.
+
+Pomocí hypodermické stříkačky přidejte přes pryžovou zátku 3 až 10 ml sterilní a apyrogenní injekčního roztoku technecistanu sodného (⁹⁹ᵐTc), radioaktivita se mění v závislosti na objemu od 400 MBq do maximálně 3700 MBq.
+
+Injekční roztok technecistanu sodného (⁹⁹ᵐTc) musí splňovat specifikace Evropského lékopisu.
+
+2. Nepoužívejte odvzdušňovací jehlu, protože obsah je pod dusíkem: po přidání objemu injekce technecistanu sodného (⁹⁹ᵐTc) bez vyjmutí jehly odeberte ekvivalentní objem dusíku, aby se zabránilo nadměrnému tlaku v injekční lahvičce.
+Před použitím protřepejte asi 2 minuty a vyčkejte 15 minut.
+
+Suspenze získaná po radioznačení makrosalbu techneciem (⁹⁹ᵐTc) je bělavá homogenní suspenze, která se může při stání oddělit, s pH v rozmezí 5,0 až 7,0.
+
+Injekční lahvička se má před každým odebráním protřepat, aby se suspenze homogenizovala.
+
+Injekční stříkačka se má těsně před injekcí krouživým pohybem promíchat, aby se její obsah před podáním homogenizoval.
+
+Před použitím má být zkontrolována homogenita suspenze, pH, radioaktivita a gama spektrum.
+
+
+Kontrola kvality
+Kvalitu značení (radiochemická čistota) lze zkontrolovat podle následujícího postupu:
+
+Metoda
+
+Nefiltrovatelná radioaktivita. Materiály a metody
+1. Polykarbonátový membránový filtr o průměru 13 mm až 25 mm, tloušťce 10 mikrometrů a
+kruhovými póry o průměru 3 mikrometrů.
+2. 0,9% roztok chloridu sodného.
+3. Různé: injekční stříkačky, jehly, 15ml skleněné lahvičky, vhodné počítací přístroje.
+
+Postup
+1. Vložte membránu do vhodného držáku.
+2. Umístěte 0,2 ml injekčního roztoku na membránu. Změřte radioaktivitu membrány: Aktivita 1.
+3. Opláchněte membránu 20 ml roztoku chloridu sodného 9 mg/ml (0,9%) a shromážděte filtrát do lahvičky k likvidaci.
+4. Změřte zbývající radioaktivitu na membráně: Aktivita 2.
+5. Výpočty:
+
+Vypočítejte procento makroagregátů lidského albuminu značeného techneciem (⁹⁹ᵐTc):
+
+
+Aktivita 2 Aktivita 1
+× 100
+
+
+
+16/16
+
+Radioaktivita zbývající na membráně nemá být menší než 90% celkové radioaktivity injekčního
+roztoku.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Podrobné informace o tomto léčivém přípravku jsou uveřejněny na webových stránkách Státního ústavu pro kontrolu léčiv: www.sukl.cz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17/16

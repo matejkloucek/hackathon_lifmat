@@ -1,0 +1,357 @@
+Sp.zn. sukls246362/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.   NÁZEV PŘÍPRAVKU
+
+Tensamin 40 mg/ml koncentrát pro infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml koncentrátu pro infuzní roztok obsahuje dopamini hydrochloridum 40 mg.
+
+Pomocná látka se známým účinkem: Jeden ml koncentrátu pro infuzní roztok obsahuje 9,2 mg
+disiřičitanu sodného.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+Koncentrát pro infuzní roztok.
+Popis přípravku: čirý bezbarvý až slabě nažloutlý roztok bez mechanických nečistot.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Dopamin je indikován jako součást komplexní terapie při akutním selhání perfuze v životně důležitých orgánech a k profylaxi reaktivní vazokonstrikce ve splanchnické oblasti při centralizaci a redistribuci oběhu. Slouží k prevenci tvorby ischemických mediátorů a pozdějšího multisystémového a
+multiorgánového postižení.
+
+Další indikací je kongestivní srdeční selhání, pooperační, traumatický, anafylaktický a endotoxinový šok, časný popáleninový šok, kardiogenní a septický šok (ne jako léčba první volby), neurogenní šok při vysokých míšních lézích a další šokové stavy, kde vyvolávající příčinou může být např. otrava nebo akutní pankreatitida.
+
+Velmi malé dávky dopaminu (2-5 mikrogramů/kg/min.) jsou indikovány profylakticky při hraničních a nestabilních oběhových situacích k protekci splanchnické perfuze, popř. při umělé plicní ventilaci se zařazením vyššího endexspiračního přetlaku (PEEP).
+4.2  Dávkování a způsob podání
+
+Před podáním dopaminu nebo současně s ním je třeba korigovat hypovolemii. Při podávání přípravku je třeba průběžně dbát o oběhovou stabilitu. Vždy je nutno monitorovat EKG. Při infuzním podávání vyšších dávek je vhodné monitorování arteriálního tlaku, intermitentní měření krevního tlaku se provádí v intervalech po 5 minutách.
+
+Dopamin nesmí být nikdy aplikován neředěný. Podává se pouze v intravenózní kapénkové infuzi, jejíž rychlost musí být přísně kontrolována. Nejvhodnější jsou volumetrické infuzní pumpy, do centrálního katétru je možné dopamin podávat i lineárním dávkovačem.
+
+1
+
+Dávkování
+Dávkování přípravku a doba jeho aplikace jsou přísně individuální. V průběhu infuze je nutná
+průběžná kontrola stavu pacienta - TK, tepová frekvence, EKG s ohledem na segment ST a arytmie,
+diuréza. Rychlost infuze se řídí stavem nemocného a uvedenými údaji. Je-li krevní tlak stabilizován, tepová frekvence klidná, EKG bez arytmií a jsou-li známky dobrého prokrvení ledvin, je možno dávku dopaminu pomalu snižovat tak, aby se udržovaly dosažené parametry a optimální diuréza. Infuzi s
+dopaminem lze podávat i více dní a poté velmi postupně a za stálé kontroly vysadit.
+
+Dospělí pacienti
+Snížení dosažené diurézy, vznik tachykardie nebo poruchy rytmu jsou známkami nutnosti snížit dávku přípravku nebo infuzi dočasně přerušit či terapii vhodně doplnit.
+Dávky do 50 mikrogramů/kg/min mají β-mimetický účinek. Zvyšování dávky až do nástupu α- mimetického účinku se nepoužívá. Využívají se však kombinace s norepinefrinem (k dosažení uspokojivého arteriálního tlaku bez tachykardie) nebo s isoprenalinem (při předchozích bradykardiích).
+
+Zvláštní populace Starší pacienti
+Neexistují specifická doporučení k úpravě dávkování u této skupiny pacientů. Doporučuje se pečlivé sledování krevního tlaku, průtoku moči a perfuze periferní tkáně.
+Porucha funkce jater a funkce ledvin
+Neexistují specifická doporučení k úpravě dávkování u této skupiny pacientů. Doporučuje se pečlivé sledování krevního tlaku, průtoku moči a perfuze periferní tkáně.
+Způsob podání
+Dopamin se podává ve fyziologickém roztoku, v 5% glukóze nebo sorbitolu, v Ringerově roztoku, v Ringerově roztoku s laktátem. Nesmí být ředěn nebo smísen s roztokem hydrogenuhličitanu sodného (natrium hydrogencarbonicum) ani s jinými alkalickými roztoky, v nichž se inaktivuje. Roztok musí být připraven vždy čerstvý a chráněn před světlem.
+Aby se zabránilo nekróze tkáně obklopující infuzi, dopamin nemá být podáván do tenké periferní žíly, ale do velké žíly, kdykoli je to možné. Vhodnější je použití systému infuzní pumpy (viz bod 4.4).
+
+4.3  Kontraindikace
+
+-   Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-   Feochromocytom.
+-   Nekorigovaná tachyarytmie nebo varovné komorové extrasystoly, fibrilace komor.
+-   Hypertyreóza.
+-   Hypokalemie.
+-   Alkalóza.
+-   Hypoxie bez současné úpravy tohoto stavu.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Hypovolemie má být v případě potřeby upravena před infuzí dopaminu. Nízké dávky dopaminu mají být použity v případě šoku v důsledku akutního infarktu myokardu. Intravenózní podání těchto
+roztoků může způsobit přetížení tekutin a/nebo solutů, které má za následek naředění koncentrací elektrolytů v séru, nadměrnou hydrataci, stavy přetížení nebo plicní edém.
+
+Pravidelné klinické a biochemické hodnocení je nezbytné ke sledování změn stavu tekutin, elektrolytů nebo acidobazické rovnováhy během dlouhodobé léčby a kdykoliv to stav pacienta vyžaduje. Během léčby dopamin-hydrochloridem má být sledován krevní tlak, tepová frekvence, výdej moči, EKG a
+
+
+2
+
+srdeční výdej. I když u pacientů s poruchou funkce ledvin a jater není potřeba žádná úprava dávkování, doporučuje se pečlivé sledování pacientů v této populaci.
+
+Infuze dopaminu má být ukončena postupně, protože náhlé ukončení infuze dopaminu může vést
+k výrazné hypotenzi.
+
+Zvláštní opatrnosti je třeba při podávání dopaminu pacientům s organickými abnormalitami srdce a
+cév, např. pacientům s onemocněním koronárních cév a anginou pectoris, arteriálním uzávěrem (např. arterioskleróza, tromboembolická nemoc, Raynaudova choroba, poranění chladem jako omrzliny,
+diabetická mikroangiopatie, Buergerova choroba) a se srdečními arytmiemi.
+
+Pacienti s anamnézou periferního vaskulárního onemocnění nebo diseminované intravaskulární koagulopatie mají být pečlivě sledováni, zda nedošlo ke změnám barvy nebo teploty kůže končetin.
+Pokud dojde ke změně barvy nebo teploty kůže a má se za to, že je to následkem snížené cirkulace v
+končetinách, mají být zváženy přínosy pokračující infuze dopaminu oproti riziku možné nekrózy. Tyto
+změny mohou být zvráceny snížením rychlosti nebo ukončením infuze.
+
+Při celkové anestezii halogenovanými uhlovodíky aplikovanými inhalační technikou má být přípravek podáván jen s nejvyšší opatrností (viz bod 4.5).
+
+Pacienti, kteří byli léčeni inhibitory MAO před dopaminem, mají dostat nižší dávky; počáteční dávka má být jedna desetina (1/10) obvyklé dávky (viz bod 4.5).
+Dopamin urychluje AV-vedení. Pacientům, kteří trpí fibrilací síní s rychlou odpovědí komor, mají být proto před zavedením dopaminové infuze podány digitalisové přípravky.
+
+Dopamin může být používán u pacientů se septickým šokem v souladu s aktuálními pokyny.
+Vzhledem k vyššímu riziku úmrtnosti je upřednostňován norepinefrin.
+Účinek dopaminu na hypofýzu, jako neurohormonu uvolňovaného hypotalamem je, že může inhibovat
+sekreci prolaktinu v předním laloku hypofýzy. Prodloužená infuze dopaminu může způsobit snížení
+sérových koncentrací prolaktinu a ovlivnit proliferaci T lymfocytů (v souvislosti s hypoprolaktinemií) a inhibovat uvolňování TSH a konverzi T4 na T3. To může vést k iatrogennímu syndromu nízkého T3 nebo k hypotyreóze.
+
+Dopamin má být používán s opatrností u pacientů s glaukomem s úzkým úhlem a u pacientů s benigní hyperplazií prostaty, u nichž může být zvýšené riziko retence moči.
+
+Při paravenózní aplikaci a při dlouhodobém podávání koncentrovanější infuze dopaminu do tenké periferní žíly se může vyskytnout i těžká vazokonstrikce vedoucí ke kožní nekróze a gangréně, zvláště u pacientů s anamnézou okluzivního periferního vaskulárního onemocnění nebo diseminované intravaskulární koagulopatie. Aby se tomu zabránilo, má být dopamin podáván infuzí do velké žíly,
+kdykoliv je to možné, aby se předešlo možnosti infiltrace perivaskulární tkáně přilehlé k místu infuze. Extravazace může způsobit nekrózu a odlupování okolní tkáně. V případě extravazace má být infuze dopaminu snížena nebo přerušena. Ischemie může být zvrácena lokálním použitím vazodilatační látky (např. 5-10 mg fentolaminu v 10 ml fyziologického roztoku) a nefarmakologických prostředků.
+Pacienti musí být pečlivě sledováni.
+
+Přípravek obsahuje disiřičitan sodný, který vzácně může způsobovat těžké alergické reakce a
+bronchospasmus.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce (5 ml), to znamená, že je v podstatě „bez sodíku“.
+
+
+
+
+3
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Anestetika
+Halogenovaná inhalační anestetika, především halotan a cyklopropan zvyšují citlivost myokardu na dopamin s arytmogenním účinkem. Kombinace s dopaminem má být používána s opatrností.
+Inhibitory monoaminooxidázy (MAO)
+Inhibice MAO potencuje a prodlužuje účinek dopaminu. U pacientů, kteří jsou léčeni inhibitory MAO, je nutno před nasazením dopaminu nejdříve vynechat jejich dávku a dále ji úměrně snížit nejméně na 1/10 obvyklé dávky.
+Tricyklická antidepresiva
+Tricyklická antidepresiva mohou potencovat reakci tlaku na dopamin. Tato kombinace má být používána s opatrností.
+
+α- a β-blokátory
+Účinky dopaminu na srdce jsou antagonizovány β-adrenergními blokátory, jako jsou propranolol a metoprolol, a periferní vazokonstrikce způsobená vysokými dávkami dopaminu je antagonizovaná α- adrenergními blokátory. Dopaminem indukovaná renální a mesenterická vazodilatace není
+antagonizovaná ani α-, ani β-adrenergními blokátory. Kombinace má být používaná s opatrností.
+Fenytoin
+Fenytoin má být používán s opatrností u pacientů dostávajících dopamin. Podávání i.v. fenytoinu
+pacientům dostávajícím dopamin může vést k poklesu krevního tlaku, bradykardii a srdeční zástavě.
+
+Diuretika
+Dopamin může zvýšit účinek diuretik.
+
+Námelové alkaloidy
+Dopamin a námelové alkaloidy mají být používány s opatrností z důvodu možné maximální
+vazokonstrikce na periferii a zvýšeného rizika gangrény.
+
+Reserpin, srdeční glykosidy, metoklopramid a hormony štítné žlázy
+Riziko arytmií je vyšší u pacientů užívajících léky, které ovlivňují srdce, hormony štítné žlázy, srdeční
+glykosidy a antiarytmika. Kombinace má být používána s opatrností.
+
+Inhibitory katechol-O-methyl transferázy (COMT) (např. entakapon)
+Dopamin je metabolizován COMT. Proto jeho souběžné podávání s inhibitory COMT, jako je entakapon, může vést ke zvýšenému riziku tachykardie, hypertenze a arytmií. Kombinace má být používána s opatrností.
+
+Antipsychotické léky
+Účinek dopaminu může být inhibován antipsychotiky, zejména fenothiaziny (chlorpromazin, flufenazin), droperidolem a haloperidolem. Kombinace má být používána s opatrností.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Studie na zvířatech s ohledem na reprodukční toxicitu nejsou dostatečné (viz bod 5.3). Není známo, zda dopamin prochází placentou. Účinek dopaminu na lidský plod není znám. Přípravek proto nemá být podáván těhotným ženám, jestliže očekávaný přínos nepřevýší potenciální riziko pro plod.
+Kojení
+Nejsou dostupné žádné informace o účinku dopaminu na tvorbu mléka u kojících matek. Nejsou dostupné žádné údaje o vylučování dopaminu do mateřského mléka nebo jeho účinku na kojence.
+4
+
+Mnoho léčivých přípravků se vylučuje do mateřského mléka, proto má být dopamin podáván kojícím ženám s opatrností.
+
+Fertilita
+Nejsou dostupné žádné údaje.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Vzhledem k indikacím přípravku nepřichází v úvahu.
+
+4.8  Nežádoucí účinky
+
+V následující tabulce jsou shrnuty nežádoucí účinky dopamin hydrochloridu rozdělené do skupin
+podle terminologie MedDRA s uvedením frekvence výskytu: velmi časté (≥ 1/10); časté (≥ 1/100 až
+< 1/10); méně časté (≥ 1/1 000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1 000); velmi vzácné
+(< 1/10 000), není známo (z dostupných údajů nelze určit):
+
+
+MedDRA třídy orgánových systémů Poruchy nervového systému * Srdeční poruchy *
+
+
+
+
+Cévní poruchy
+
+Respirační, hrudní a mediastinální
+poruchy *
+Gastrointestinální poruchy * Vyšetření
+Frekvence není známo není známo
+
+
+
+není známo není známo není známo
+není známo
+Nežádoucí účinek
+bolest hlavy
+tachykardie, ektopické stahy, palpitace, anginózní diskomfort, bradykardie, prodloužený QRS komplex na elektrokardiogramu, levostranné srdeční selhání vazokonstrikce*, vazodilatace**
+dyspnoe, plicní edém
+
+nevolnost, zvracení
+výdej moči zvýšený,*** diuréza snížená*
+
+* Vyšší a vysoké dávky mohou vyvolat tachykardii, ektopické stahy, palpitace, anginózní obtíže,
+vazokonstrikci, popř. bradykardii, rozšíření komorového komplexu, dyspnoe, nauzeu, bolest hlavy a
+zvracení, náhlé snížení diurézy až plicní edém z levostranného srdečního selhání.
+
+**Malé dávky dopaminu vedou k dilataci cév splanchnické oblasti, podkoží a kůže, kosterního
+svalstva.
+
+*** Malé dávky dopaminu zvyšují diurézu i při hraničním perfuzním tlaku, což může falešně příznivě zakrýt závažný stav.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+
+5
+
+4.9  Předávkování
+
+Symptomy
+Známky předávkování nastupují v uvedeném pořadí: pocit bušení srdce, zvýšení srdeční frekvence a
+krevního tlaku, anginózní bolesti, poruchy rytmu, deprese úseku ST na EKG. U extrémního předávkování se objevuje náhlá vazokonstrikce, bledost, pilomotorický efekt, známky plicního městnání až plicní edém.
+
+Opatření
+V případě předávkování mají být použita podpůrná a symptomatická opatření.
+Je nutno snížit rychlost infuze nebo ji na přechodnou dobu přerušit. Vzhledem ke krátkodobému účinku dopaminu známky předávkování po přerušení infuze spontánně rychle vymizí.
+V případech, kdy tato opatření selžou, má být postupně dávkován α-adrenergní blokátor.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Kardiaka, kardiotonika, kromě srdečních glykosidů, adrenergní a dopaminergní látky, ATC kód: C01CA04
+Dopamin je endogenní katecholamin a bezprostřední metabolický prekurzor norepinefrinu. Dopamin stimuluje adrenergní receptory sympatického nervového systému, hlavně β1-adrenergní receptory
+s aktivitou závislou na dávce. Dopamin má malý nebo žádný účinek na β2-adrenergní receptory.
+Po intravenózním podání dochází k nástupu účinku dopaminu během 5 minut a doba trvání účinku je kratší než 10 minut.
+Při nízkém a středním dávkování má dopamin především β-mimetický účinek, zatímco po vysokých dávkách je více vyznačen účinek α-mimetický.
+Přiměřené dávky dopaminu zvyšují srdeční kontraktilitu a minutový srdeční objem a tonizují kapacitní cévy. Dopamin zvyšuje průtok krve ledvinami, mezenteriálním a koronárním řečištěm. Tepová frekvence a krevní tlak nejsou při podávání nízkých dávek významně ovlivněny. Zvýšení perfuze medulární oblasti ledvin vede ke zvýšení glomerulární filtrace a zvyšuje exkreci natria. Dopamin zvyšuje spotřebu kyslíku v myokardu, což může při limitované funkci koronárního řečiště vést k
+nepoměru mezi nabídkou kyslíku a zvýšenou spotřebou kyslíku při zvýšeném srdečním výkonu. Dopamin mírně zvyšuje plicní cévní rezistenci.
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Perorálně podaný dopamin je rychle absorbován z tenkého střeva.
+
+Distribuce
+Dopamin je v těle hojně distribuován, ale ve značné míře neprochází hematoencefalickou bariérou. Není známo, zda dopamin prochází placentou.
+
+Biotransformace
+Většina dopaminu je metabolizována v játrech, ledvinách a plazmě pomocí monoaminooxidázy (MAO) a katechol-O-methyltransferázy (COMT) na neaktivní sloučeniny kyseliny homovanilové a kyseliny 3,4-dihydroxyfenyloctové. Přibližně 25 % dávky dopaminu je metabolizováno na norepinefrin v zakončení adrenergních nervů.
+
+
+
+
+6
+
+Eliminace
+Dopamin má plazmatický poločas přibližně 2 minuty. Dopamin se vylučuje močí převážně jako kyselina homovanilová a jako její sufátové a glukuronidové konjugáty a dále jako kyselina 3,4- dihydroxyfenyloctová. Velmi malá část dávky se vylučuje bez metabolické přeměny. Po podání radioaktivně značeného dopaminu se přibližně 80 % radioaktivity údajně vylučuje močí během 24 hodin.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Ve studiích na zvířatech nebyly zjištěny žádné známky teratogenních účinků dopaminu. Podávání dopamin-hydrochloridu březím samicím potkanů vedlo ke snížení míry přežití novorozených potkanů a možnosti katarakty u přeživších potkanů.
+Předklinické údaje, které by byly relevantní pro předepisujícího lékaře a doplnily údaje již uvedené
+v předchozích bodech Souhrnu údajů o přípravku, nejsou k dispozici.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+disiřičitan sodný
+voda pro injekci
+
+6.2  Inkompatibility
+
+Dopamin nesmí být ředěn nebo smísen s roztokem hydrogenuhličitanu sodného (natrium hydrogencarbonicum) ani s jinými alkalickými roztoky, protože se v alkalickém prostředí inaktivuje.
+6.3  Doba použitelnosti
+
+3 roky.
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 48 hodin při teplotě
+do 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a
+podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele. Normálně by doba neměla být delší než 24 hodin při 2 až 8 °C, pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C v krabičce, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a obsah balení
+
+Druh obalu: skleněné ampule, vhodná vložka s přepážkami, krabička. Balení: 10 ampulí po 5 ml
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Žádné zvláštní požadavky.
+
+
+
+
+
+
+7
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Zentiva, k. s., U Kabelovny 130, 102 37 Praha 10, Česká republika
+
+8.   REGISTRAČNÍ ČÍSLO
+
+78/170/82-C
+
+9.   DATUM REGISTRACE / DATUM PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 9. 12. 1982
+Datum posledního prodloužení registrace: 19. 12. 2012
+
+
+10.  DATUM POSLEDNÍ REVIZE TEXTU
+
+5. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8

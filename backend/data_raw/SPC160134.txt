@@ -1,0 +1,511 @@
+sp.zn. sukls188904/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Nanocoll 500 mikrogramů kit pro radiofarmakum
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Koloidní částice lidského albuminu:    500 mikrogramů/lahvička Nejméně 95 % koloidních částic lidského albuminu má průměr ≤ 80 nm.
+Nanocoll je připraven z lidského sérového albuminu získaného z krve dárců testovaných podle předpisů EEC na nepřítomnost:
+• povrchového antigenu hepatitidy B (HBsAg),
+• protilátky proti viru imunodeficience (anti-HIV 1/2),
+• protilátky proti viru hepatitidy C (anti-HCV).
+Nanocoll se rozpouští injekcí technecistanu-(⁹⁹ᵐTc) sodného (není součástí tohoto kitu) za vzniku injekce nanokoloidu lidského albuminu značeného techneciem-99m.
+
+Technecium-99m se přeměňuje emisí záření gama s energií 140 keV a s poločasem 6 hodin
+na technecium-99, které je považováno za téměř stabilní.
+
+Pomocné látky se známým účinkem:
+Po rekonstituci obsahuje injekce 0,24 mg/ml sodíku. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+Kit pro radiofarmakum.
+Prášek pro přípravu injekčního roztoku.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+Po označení injekčním roztokem technecistanu-(⁹⁹ᵐTc) sodného je přípravek indikován k léčbě dospělých, novorozenců a dětí ve věku od 1 do 18 let pro:
+
+Intravenózní podání
+•  scintigrafie kostní dřeně (látka není vhodná pro studium hemopoetické aktivity kostní dřeně),
+•  zobrazení zánětů v jiných oblastech než břicha.
+
+
+
+
+1/11
+
+Subkutánní podání
+•  lymfoscintigrafie – k určení neporušenosti lymfatického systému, identifikaci sentinelové uzliny u maligních onemocnění, jako je melanom, karcinom prsu, prostaty, penisu, hlavy a krku, ženské pánve (děložního hrdla a vulvy), a dalších, a rozlišení žilní obstrukce od lymfatické.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Dospělí
+Doporučené aktivity pro dospělé jsou následující:
+•  zobrazení kostní dřeně:   185−500 MBq
+•  zobrazení zánětů:      370−500 MBq
+Lymfoscintigrafie: doporučená aktivita pro jednorázovou nebo vícedávkovou (intersticiální) injekci je v rozsahu 18,5−110 MBq do injekčního místa. Pro identifikaci sentinelových uzlin – viz níže.
+
+•  Melanom: intradermální injekce 20‒120 MBq, podávaná ve čtyřech dávkách v blízkosti primární léze nebo bioptické jizvy.
+•  Karcinom  prsu:  20‒370  MBq  v několika  dávkách,  každá  5‒20  MBq  podávaných intradermální, podložní nebo sub/perialveolární injekcí (povrchové nádory) a intratumorální nebo peritumorální injekcí (hluboké nádory).
+
+•  Karcinom prostaty: 65‒400 MBq medián 250 MBq v jedné až čtyřech dávkách se doporučuje aplikovat do prostaty pod ultrazvukovou kontrolou.
+•  Karcinom  penisu:  40‒131  MBq  v několika  dávkách,  každá  20  MBq  podávaných intratumorální nebo peritumorální injekcí (hluboké nádory).
+
+•  Karcinom hlavy a krku: 30‒100 MBq v jedné až více dávkách podávaných intratumorální nebo peritumorální injekcí (hluboké nádory).
+
+•  Karcinom v pánevní oblasti žen (děložního hrdla a vulvy): 60‒120 MBq podávaných peritumorální injekcí (hluboké nádory). U karcinomu děložního čípku se injekce podává subepiteliálně kolem nádoru.
+
+Poškození ledvin a jater
+U některých pacientů je možný výskyt radiační expozice, proto se vyžaduje podávanou aktivitu pečlivě zvážit.
+
+Pediatrická populace
+Použití u dětí a dospívajících je třeba u této skupiny pacientů pozorně zvážit na základě klinické potřeby a zhodnocení poměru riziko/prospěch.
+
+Aktivita  pro  podávání  dětem  se  může  vypočítat  z rozsahu  doporučovaného  pro  dospělé a upraveného podle tělesné hmotnosti a povrchu těla. Nicméně, pracovní skupina EANM 1990 (Evropské Asociace Nukleární Medicíny) pro pediatrii doporučuje, aby se aktivita podávaná dětem počítala z tělesné hmotnosti podle následující tabulky:
+
+
+
+2/11
+
+Podíl dávky dospělému
+
+
+3 kg = 0,10
+4 kg = 0,14
+6 kg = 0,19
+8 kg = 0,23
+10 kg = 0,27
+12 kg = 0,32
+14 kg = 0,36
+16 kg = 0,40
+18 kg = 0,44
+20 kg = 0,46
+22 kg = 0,50
+24 kg = 0,53
+26 kg = 0,56
+28 kg = 0,58
+30 kg = 0,62
+32 kg = 0,65
+34 kg = 0,68
+36 kg = 0,71
+38 kg = 0,73
+40 kg = 0,76
+42 kg = 0,78
+44 kg = 0,80
+46 kg = 0,82
+48 kg = 0,85
+50 kg = 0,88
+52−54 kg = 0,90
+56−58 kg = 0,92
+60−62 kg = 0,96
+64−66 kg = 0,98
+68 kg = 0,99
+
+U velmi malých děti (do 1 roku) je k získání obrazů dostatečné kvality (zobrazení kostní dřeně)
+nutná minimální podávaná aktivita 20 MBq.
+
+Pro děti lze přípravek zředit – viz bod 12. Tato látka není určena pro pravidelné nebo kontinuální podávání.
+
+Způsob podání
+
+Intravenózní podání
+•  zobrazování kostní dřeně:  zobrazovat se může 45−60 minut po podání
+•  zobrazování zánětů:     dynamické zobrazení se provádí ihned,
+statické zobrazení zahrnuje počáteční fázi, 15 minut po injekci
+a vymývací fázi za 30−60 minut po injekci.
+
+Subkutánní podání
+•  lymfoscintigrafie:      jedním nebo násobným podáním subkutánní (intersticiální)
+injekce  (18,5‒110  MBq  v místě  vpichu)  závisí  na vyšetřovaných anatomických oblastech a na časovém intervalu mezi injekcí a zobrazením. Objem podávané injekce by neměl překročit 0,2‒0,3 ml. Maximální objem 0,5 ml na injekci je kritický.
+Injekce se podává subkutánně, po kontrole aspirací, že céva nebyla nechtěně propíchnuta. Při zobrazování dolních končetin se ihned po injekci provádí dynamické zobrazení, a statické zobrazení 30−60 minut později.
+Při parasternálním lymfatickém zobrazení může být potřebné injekci opakovat a provádět další zobrazení.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku, na kteroukoli pomocnou látku uvedenou v bodě 6.1 nebo na kteroukoli složku značeného radiofarmaka. Použití koloidních částic lidského albuminu-⁹⁹ᵐTc je kontraindikováno zejména u osob s anamnézou přecitlivělosti na přípravky obsahující lidský albumin.
+
+
+
+3/11
+
+Vzhledem k akumulaci radiofarmaka v lymfatických uzlinách v oblasti pánve je lymfoscintigrafie,
+včetně detekce sentinelových uzlin, v průběhu těhotenství přísně kontraindikována.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Možnost přecitlivělosti nebo anafylaktické reakce
+Vždy se musí brát v úvahu možnost přecitlivělosti, včetně vážných, život ohrožujících, fatálních anafylaktických/anafylaktoidních reakcí. Pokud jsou pozorovány příznaky přecitlivělosti nebo anafylaktická reakce, podání léčivého přípravku musí být okamžitě přerušeno a je-li to nezbytné, musí být zahájena intravenózní léčba. Pro okamžitá opatření při pohotovostním zásahu musí být k dispozici endotracheální trubice a zařízení k ventilaci.
+
+Odůvodnění individuálního přínosu/rizika
+Vystavení  každého  pacienta  ionizujícímu  záření  musí  být  opodstatněné  na  základě  jeho pravděpodobného přínosu. Aplikovaná aktivita musí být v každém případě taková, aby výsledná dávka záření byla co nejnižší a přitom bylo dosaženo požadovaného diagnostického výsledku.
+
+Z důvodu možného nebezpečí radiace v místě vpichu se lymfoscintigrafie nedoporučuje u pacientů
+s celkovou lymfatickou obstrukcí.
+
+Porucha funkce ledvin a jater
+U některých pacientů je možná zvýšená expozice záření, proto se vyžaduje pečlivé zvážení poměru přínosů a rizik.
+
+Pediatrická populace
+Pediatrická populace – viz bod 4.2.
+
+Příprava pacienta
+Pacient by měl být před zahájením vyšetření dobře hydratován a vyzván k častému vyprazdňování během prvních hodin po provedení zobrazení, aby se ozáření snížilo.
+
+Zvláštní upozornění
+Před rekonstitucí obsahuje tento léčivý přípravek méně než 1 mmol sodíku (23 mg) v jedné injekční lahvičce, tj. v podstatě je „bez sodíku“. Připravená injekce obsahuje 0,24 mg/ml sodíku. Nutno vzít v úvahu u pacientů na dietě s nízkým obsahem sodíku.
+
+Pro zachování propojení mezi pacientem a číslem šarže přípravku se důrazně doporučuje, aby se při podání pacientovi vždy uváděl název přípravku a jeho výrobní číslo šarže.
+
+Standardní opatření pro zabránění přenosu infekcí z léčiv vyrobených z lidské krve nebo plasmy zahrnují pečlivý výběr a testování dárců a plasmy na hledání konkrétních infekčních agens a účinných výrobních kroků pro inaktivaci/eliminaci virů při výrobním procesu. Riziko přenosu infekčních agens se nedá úplně vyloučit, pokud se používají léčiva vyrobená z lidské krve. To platí pro nové viry a patogeny neznámého původu.
+
+O virovém přenosu v souvislosti s albuminem, vyrobeným v souladu se specifikacemi v Ph.Eur. a
+běžnými postupy, nejsou žádné zprávy.
+
+Opatření vztahující se k ohrožení životního prostředí jsou uvedena v bodu 6.6.
+
+
+
+
+4/11
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+S lymfoscintigrafií za použití nanokoloidu lidského albuminu značeného techneciem-99m mohou
+interferovat jodované kontrastní látky použité při lymfoangiografii.
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Je-li uvažováno o podání radioaktivního léčiva ženě, která může být těhotná, vždy je nutné se o tom přesvědčit. Každá žena, které vynechala perioda má být považována za těhotnou, dokud se neprokáže  opak.  V případě  nejistoty  (když  ženě  vynechala  perioda,  je-li  perioda  velmi nepravidelná, atd.) by se měly pacientce nabídnout, pokud existují, alternativní metody bez ionizujícího záření.
+
+Těhotenství
+Radionuklidové vyšetření těhotných žen představuje také radiační dávku na plod. V těhotenství by se proto měla provádět pouze nezbytná vyšetření v případě, že prospěch zdaleka převyšuje riziko způsobené matce a plodu.
+
+Po intravenózním podání 500 MBq nanokoloidu lidského albuminu značeného techneciem-99m je
+dávka na dělohu 0,9 mGy. Dávka na dělohu vyšší než 0,5 mGy se považuje pro plod za rizikovou.
+
+V těhotenství je subkutánní podání nanokoloidu lidského albuminu značeného techneciem-99m pro lymfoscintigrafii, včetně detekce sentinelové uzliny, vzhledem k možnosti jeho akumulace v lymfatických uzlinách v oblasti pánve, přísně kontraindikováno – viz bod 4.3.
+
+Kojení
+Před podáním radiofarmaka kojící matce je třeba uvážit možnost pozdržení podání radionuklidu do chvíle, než matka kojení přeruší a je-li podání nutné, zvolit nejvhodnější radiofarmakum s ohledem na vylučování aktivity do mléka. Je-li podání nutné, kojení je třeba na dobu 13 hodin po injekci přerušit a odsáté mateřské mléko zlikvidovat.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Účinky na schopnost řídit a obsluhovat stroje nebyly popsány.
+
+4.8  Nežádoucí účinky
+
+Frekvence nežádoucích účinků jsou definovány takto:
+Velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1000 až <1/100), vzácné (≥1/10000 až
+<1/1000), velmi vzácné (<1/10000) a není známo (z dostupných údajů nelze určit).
+Občas se mohou objevit reakce přecitlivělosti (včetně velmi vzácné, život ohrožující, anafylaxe).
+Poruchy imunitního systému
+Není známo: přecitlivělost, anafylaxe
+
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným vývojem dědičných vad. Protože efektivní dávka je 2,3 mSv, při podání maximální doporučené aktivity 500 MBq by se tyto nežádoucí účinky měly projevit jen s nízkou pravděpodobností.
+
+Informace o bezpečnosti vzhledem k přenosným látkám – viz bod 4.4.
+
+
+
+
+5/11
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Riziko předávkování spočívá v neúmyslné vysoké expozici ionizujícím zářením. V případě předávkování radioaktivitou při použití nanokoloidu lidského albuminu značeného techneciem-99m nelze  doporučit  k uspokojivému  snížení  expozice  tkání  žádná  praktická  opatření,  neboť radioaktivita se slabě vylučuje močí a stolicí.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina:    diagnostická  radiofarmaka,  jaterní  a  retikuloendoteliární
+systém, technecium (⁹⁹ᵐTc), nanokoloid
+ATC kód:              V09DB01
+
+V chemických koncentracích a aktivitách používaných pro diagnostické postupy nevykazuje
+nanokoloid lidského albuminu značený techneciem-99m žádné farmakodynamické účinky.
+
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Po intravenózní injekci se aktivita vychytává retikuloendoteliálními buňkami jater, sleziny a kostní dřeně, které ovlivňují krevní clearanci radiofarmaka. Malý podíl radioaktivity technecia-99m prochází ledvinami a je vylučován močí.
+
+Nejvyšší koncentrace v játrech a slezině je dosaženo asi po 30 minutách, ale v kostní dřeni pouze
+za 6 minut.
+
+Proteolýza koloidu začíná bezprostředně po jeho vychytání v retikuloendoteliárním systému (RES), produkty degradace se vylučují ledvinami do močového měchýře.
+
+Vychytávání v orgánech
+Po subkutánním podání do pojivové tkáně je 30‒40 % koloidních částic lidského albuminu značeného techneciem-99m (menších než 100 nm) filtrováno do lymfatických kapilár, jejichž hlavní funkcí je odvod proteinů z intersticiální tekutiny zpět do krevního řečiště.
+
+Koloidní částice lidského albuminu značené techneciem-99m jsou dopravovány lymfatickými cévami do místních lymfatických uzlin, kde jsou vychytávány retikuloendoteliálními buňkami funkčních lymfatických uzlin.
+
+Eliminace
+
+
+
+6/11
+
+Podíl injikované dávky je v místě injekce fagocytován histiocyty. Jiný podíl se objevuje v krvi a akumuluje hlavně v RES jater, sleziny a kostní dřeně; v nepatrných stopách se vylučuje ledvinami.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Po intravenózní injekci 800 a 950 mg myším a potkanům nebylo zaznamenáno žádné úmrtí
+ani makroskopické patologické změny při pitvě zvířat.
+
+Po subkutánním podání 1 g/kg hmotnosti myší nebo potkanů nebyly pozorovány žádné místní reakce. Tyto údaje odpovídají obsahu několika desítek lahviček na kg tělesné hmotnosti, při porovnání k dávce 7 mikrogramů/kg koloidu lidského albuminu obvykle používané pro diagnostiku v nukleární medicíně.
+
+Studie mutagenity a dlouhodobé karcinogenity nebyly provedeny.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek dihydrát chloridu cínatého glukosa
+poloxamer 238
+hydrogenfosforečnan sodný, bezvodý
+natrium-fytát, bezvodý
+
+6.2  Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 12.
+
+6.3  Doba použitelnosti
+Kit před rekonstitucí:    2 roky od data výroby.
+
+Rekonstituovaný přípravek se uchovává při teplotě do 25 °C, chráněn před chladem nebo mrazem.
+Měl by být použit do 6 hodin po označení.
+
+6.4  Zvláštní opatření pro uchovávání
+Kit před rekonstitucí:    uchovávejte při teplotě do 25 °C.
+
+Rekonstituovaný kit:     podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+
+Radiofarmaka uchovávejte v souladu s národními předpisy pro radioaktivní látky.
+6.5  Druh obalu a obsah balení
+10ml skleněné lahvičky (Ph.Eur. type I) uzavřené zátkou z bromobutylkaučuku a kovovou objímkou s odtrhovacím víčkem.
+
+Velikost balení:   Kit obsahuje 5 lahviček.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+
+
+
+
+7/11
+
+Radiofarmaka mohou být přijímány, používány a podávány pouze oprávněnými osobami v určených zdravotnických zařízeních. Způsob jejich příjmu, skladování, používání, manipulace a likvidace je dán předpisy a/nebo příslušnými povoleními místních kompetentních úřadů.
+
+Radiofarmaka by měla být připravována způsobem, který vyhovuje požadavkům na radiační bezpečnost a farmaceutickou kvalitu. Musí být dodržována příslušná aseptická opatření.
+
+Obsah lahvičky je určen pouze pro přípravu nanokoloidu lidského albuminu-⁹⁹ᵐTc a nesmí být přímo podáván pacientovi bez provedení přípravy radiofarmaka.
+
+Pokyny pro rekonstituci tohoto přípravku před podáním – viz bod 12.
+Pokud je v kterémkoli okamžiku přípravy narušena celistvost lahvičky, nesmí se přípravek použít. Obsah kitu před přípravou není radioaktivní. Nicméně, po přidání roztoku technecistanu (⁹⁹ᵐTc)
+sodného Ph.Eur. musí být pro konečný přípravek zachováváno přiměřené stínění.
+
+Podávání radiofarmak je spojeno s rizikem vnějšího ozáření jiných osob kontaminací z moči, zvratků atd. V souladu s národními předpisy se musí dodržovat bezpečnostní opatření radiační ochrany.
+Dodržují se bezpečnostní opatření pro zacházení s radioaktivními látkami. Veškerý materiál použitý k přípravě a podávání radiofarmak, včetně nepoužitého radiofarmaka a jeho obalu, se musí dekontaminovat, nebo s ním zacházet, jako s radioaktivním odpadem podle předpisů místních kompetentních úřadů. Kontaminovaný materiál musí být jako radioaktivní odpad likvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+GE Healthcare S.r.l. Via Galeno, 36
+20126 - Miláno Itálie
+
+
+8.  REGISTRAČNÍ ČÍSLO
+88/192/88-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace:           22. 11. 1988
+Datum posledního prodloužení registrace: 18. 08. 2010
+10.  DATUM REVIZE TEXTU
+1. 7. 2020
+11.  DOZIMETRIE
+
+
+
+
+8/11
+
+Technecium (⁹⁹ᵐTc) se získává z (⁹⁹Mo/⁹⁹ᵐTc) generátoru a přeměňuje se emisí záření gama s energií 140 keV a s poločasem 6,02 hodin na technecium-99, které je, vzhledem ke svému dlouhému poločasu přeměny 2,13 x 10⁵ roků, považováno za téměř stabilní.
+
+Odhad radiační dávky pro řadu orgánů se zakládá na údajích MIRD pro člověka a hodnotách MIRD S, a byly vypočítány z údajů biodistribuce a krevní clearance.
+
+Radiační dávky po intravenózní injekci koloidních částic lidského albuminu značeného techneciem
+– 99m absorbované pacientem vážícím 70 kg jsou uvedeny dále.
+
+
+
+
+
+játra
+Orgán
+Absorbovaná dávka
+(µGy/MBq)
+78,0
+
+močový měchýř – stěna
+slezina
+kostní dřeň (červená) vaječníky
+varlata
+celé tělo
+25,0
+18,0
+14,0
+3,2
+1,1
+5,1
+
+Podání 500 MBq tohoto radiofarmaka 70kg člověku představuje efektivní dávku 2,5 mSv.
+
+Po podání aktivity 500 MBq je radiační dávka do kritického orgánu (jater) 39 mGy a radiační dávka do cílového orgánu (červené kostní dřeně) 7,0 mGy.
+
+Radiační dávky po subkutánní injekci koloidních částic lidského albuminu značeného techneciem- 99m absorbované pacientem vážícím 70 kg jsou uvedeny dále.
+
+
+Orgán
+
+místo injekce lymfatické uzliny játra
+močový měchýř – stěna
+slezina
+kostní dřeň (červená) vaječníky
+varlata
+celé tělo
+Absorbovaná dávka (µGy/MBq)
+12 000,0
+590,0
+16,0
+9,7
+4,1
+5,7
+5,9
+3,5
+4,6
+
+Po podání aktivity 110 MBq je efektivní dávkový ekvivalent pro tento přípravek 0,44 mSv (70 kg
+vážící jedinec).
+
+Po podání aktivity 110 MBq je radiační dávka do cílového orgánu (lymfatických uzlin) 65 mGy
+a radiační dávka do kritického orgánu (místa injekce) 1320 mGy.
+
+
+9/11
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Způsob přípravy
+•  lahvička obsahující částice koloidu lidského albuminu se vloží do vhodného olověného stínění,
+•  do lahvičky se přidá asepticky 1−5 ml injekce technecistanu-(⁹⁹ᵐTc) sodného, Ph.Eur. s radioaktivitou v rozmezí 185−5550 MBq (5‒150 mCi),
+•  u dětí je možné přípravek rozředit injekčním roztokem chloridu sodného až do poměru 1:50
+•  nepoužívá se odvzdušňovací jehla,
+•  k vyrovnání tlaku se odebere z lahvičky do stříkačky stejný objem plynu,
+•  lahvička se několikrát opatrně převrátí, aby se obsah lahvičky rozpustil.
+•  pro chromatografii na papíře se nechá lahvička stát při teplotě místnosti (15–25 °C) po dobu 10‒15 minut,
+•  pro chromatografii na tenké vrstvě TLC-SA se nechá lahvička stát při teplotě místnosti (15– 25 °C) po dobu 30 minut,
+•  před odebráním dávky se obsahem zamíchá,
+•  přípravek není možno v žádném případě ponechat v kontaktu se vzduchem.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Kontrola kvality
+
+A.  Radiochemická čistota vzestupnou papírovou chromatografií:
+nosič             papír Whatman č. 1
+rozpouštědlo        methanol : voda 85:15 v/v
+čas              1 hodina
+99mTc-nanokoloid      ≥ 95 %
+Rf [99mTc-nanokoloid]   0,0
+Nenavázaný technecistan-⁹⁹ᵐTc se pohybuje s Rf 0,7 ± 10 %.
+B.   Radiochemická čistota vzestupnou tenkovrstvou chromatografií na TLC-SA
+nosič             TLC-SA (proužky 2 x 12 cm; malá kapka přípravku se nanáší 2,5 cm od
+spodního okraje)
+rozpouštědlo        methanol : voda 85:15 v/v
+čas               25−30  minut  (přibližně  v 7  cm  od  startu  se  proužek  vyjme
+z chromatografické nádoby a usuší se)
+99mTc-nanokoloid      ≥ 95 %
+Rf [99mTc-nanokoloid]   0,0−0,1
+Nenavázaný technecistan-⁹⁹ᵐTc a další techneciové hydrofilní komplexy se pohybují s Rf 0,8‒1,0.
+
+Nepoužívejte přípravek, je-li radiochemická čistota nižší než 95 %.
+
+
+13.  DALŠÍ INFORMACE
+Výrobce
+Advanced Accelerator Applications (Italy) S.r.l.
+
+
+10/11
+
+Via Crescentino
+IT-13040 Saluggia (VC)
+Itálie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11

@@ -1,0 +1,228 @@
+sp.zn. sukls216510/2018
+a sp.zn. sukls216274/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Glucose Fresenius Kabi 20% infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+1000 ml infuzního roztoku obsahuje:
+Glucosum monohydricum              220 g
+(odpovídá Glucosum                 200 g)
+
+
+Teoretická osmolarita                1110 mosmol/l
+Energetická hodnota                 3432 kJ/l
+pH                        3,5 - 6,5
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok
+Popis přípravku: čirý, bezbarvý až slabě nažloutlý roztok
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Hypoglykemie, krytí energetických potřeb a potřeb tekutin v rámci parenterální infuzní terapie při pooperačních stavech, šoku, intoxikacích, jaterních onemocněních, při protrahovaném zvracení a průjmech, u intoxikací jako součást forsírované diurézy.
+
+Jako součást směsí all-in-one, k léčení hypoglykemických stavů, při osmoterapii edému plic, při nitrolební hypertenzi a eklampsii.
+4.2  Dávkování a způsob podání
+
+Před podáním a během podávání přípravku je nutné monitorovat bilanci tekutin, hladinu sérové glukózy, sérového sodíku a dalších elektrolytů, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu, a to z důvodu rizika hyponatrémie.
+
+U fyziologicky hypotonických tekutin je zvláště významné monitorovat sérový sodík. Přípravek Glucose Fresenius Kabi 20% se může po podání stát extrémně hypotonický z důvodu metabolizace glukózy v těle (viz body 4.4, 4.5 a 4.8).
+
+Dávkování je individuální. Celková dávka a rychlost podání se řídí indikací a klinickým stavem
+pacienta.
+
+
+1 / 5
+
+V terapii hypoglykemických stavů je nutné podávanou dávku řídit podle průběžných hodnot glykemie.
+
+Doporučené dávkování je max. 30 ml/kg těl. hm./den (cca 2000 ml u dospělého pacienta), max.
+rychlost infuze 120 ml/hod.
+
+Podává se zpravidla centrálním žilním katétrem, v nebezpečí hypoglykemie lze podat pomalu do periferní žíly.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku(y) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Hyperglykemie, zvláště diabetická, akutní fáze při ischemii mozku, intrakraniální a intraspinální krvácení, hypokalemie, acidóza, anurie, hypotonická dehydratace, hyperhydratace.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Intravenózní infuzní roztok 20% glukózy je hypertonický. V těle se nicméně roztoky obsahující glukózu mohou stát zdrojem volné vody díky rychlému aktívnímu přenosu glukózy do tělních buněk. Tento stav může vést k těžké hyponatrémii (viz bod 4.2).
+
+V závislosti na tonicitě roztoku, objemu a rychlosti infuze, pacientově klinickém stavu a jeho schopnosti metabolizovat glukózu, může intravenózní podání glukózy způsobit poruchy elektrolytové rovnováhy, a zejména hypoosmotickou nebo nebo hyperosmotickou hyponatrémii.
+
+Hyponatrémie:
+Pacienti s neosmotickým uvolňováním vazopresinu (k němuž dochází např. při akutním onemocnění, bolesti, pooperačním stresu, infekcích, popáleninách a při onemocnění CNS), pacienti s onemocněním srdce, jater a ledvin a pacienti léčení agonisty vazopresinu (viz bod 4.5) jsou zejména ohroženi akutní hyponatrémií po podání infuze hypotonických roztoků.
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku), která se projevuje bolestí hlavy, nauzeou, záchvaty křečí, letargií a zvracením. Pacienti s edémem mozku jsou zejména ohroženi těžkým, nevratným a život ohrožujícím poškozením mozku.
+Zvýšené riziko závažného a život ohrožujícího edému mozku způsobeného akutní hyponatrémií je u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální compliance (např. meningitida, intrakraniální krvácení a kontuze mozku).
+
+V rámci infuzní terapie je nutno průběžně sledovat základní parametry vnitřního prostředí.
+
+Zvláštní opatrnosti je třeba při podávání koncentrovaných roztoků glukózy u pacientů s pokročilou cerebrální aterosklerózou.
+Aplikace roztoků glukózy o koncentraci vyšší než 10% při léčení hypoglykemických stavů u kojenců a dětí není doporučována pro nezanedbatelný osmotický účinek a pro nebezpečí vyvolání výrazné hyperglykemie a stimulace sekrece inzulinu.
+
+Pokud se glukóza používá u diabetiků, je třeba podle podané dávky upravit dávku inzulinu či perorálních antidiabetik.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Léčiva vedoucí ke zvýšenému účinku vazopresinu:
+
+
+
+2 / 5
+
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez
+elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2,
+4.4 a 4.8).
+•  Léčiva stimulující uvolnění vazopresinu, např.:
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání
+serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika.
+•  Léčiva zesilující působení vazopresinu, např.: chlorpropamid, NSAID, cyklofosfamid.
+•  Analogy vazopresinu, např.:
+desmopresin, oxytocin, vazopresin, terlipresin.
+
+Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a antiepileptika, např. oxkarbazepin.
+
+4.6  Fertilita, těhotenství a kojení
+
+Přípravek lze podávat v období těhotenství a kojení.
+
+Přípravek Glucose Fresenius Kabi 20% je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména při podání v kombinaci s oxytocinem, z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8).
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Glucose Fresenius Kabi 20% nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Hyperglykemie, lokální dráždění cévní stěny v místě aplikace.
+
+Dlouhodobé nebo rychlé podávání může mít za následek hyperglykemii, glykosurii a dehydrataci.
+
+K prevenci glykosurie a hyperglykemie je nutné zajistit dostatečný přívod inzulinu. Při akutní hypoxemii konverze podané glukózy na laktát a riziko hyperlaktatemie.
+
+Podání přípravku může způsobit iatrogenní hyponatrémii nebo akutní hyponatremickou encefalopatii, jejíchž frekvence výskytu nejsou známy.
+Iatrogenní hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie (viz body 4.2, 4.4 a 4.5).
+Podání přípravku může způsobit dále febrilie, infekci v místě aplikace, flebitidu nebo tromboflebitidu šířící se od místa aplikace a dále může dojít k paravenóznímu podání.
+Hlášení nežádoucích účinků
+Pokud se u Vás vyskytne kterýkoli z nežádoucích účinků, sdělte to svému lékaři nebo zdravotní sestře. Stejně postupujte v případě jakýchkoli nežádoucích účinků, které nejsou uvedeny v této příbalové informaci. Nežádoucí účinky můžete hlásit také přímo na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41, Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+Nahlášením nežádoucích účinků můžete přispět k získání více informací o bezpečnosti tohoto přípravku.
+
+
+3 / 5
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Infundibilium.
+ATC kód: B05BA03
+Hypertonický infuzní roztok glukózy, určený ke krytí energetických potřeb organizmu a k léčení
+hypoglykemie.
+
+1 g glukózy odpovídá energii 17,16 kJ (4 kcal).
+5.2  Farmakokinetické vlastnosti
+
+Glukóza je monosacharid, který je základním zdrojem energie nitrobuněčného metabolizmu. Glukóza
+se v organizmu rovnoměrně distribuuje, její vstup do většiny buněk je závislý na působení inzulinu.
+Všechny buňky těla mají schopnost oxidovat glukózu buď aerobně na pyruvát, nebo anaerobně na laktát. Pyruvát a laktát mohou být dále oxidovány v Krebsově cyklu na oxid uhličitý a vodu za uvolnění energie.
+
+Maximální rychlost utilizace glukózy je 500 až 800 mg/kg tělesné hmotnosti/h.
+
+Glukóza volně prochází glomerulární filtrací a v tubulech je kompletně reabsorbována. Při překročení ledvinového prahu (přibližně při glykemii nad 10 mmol/l) dochází ke glykosurii a glukóza působí jako osmotické diuretikum.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Voda pro injekci
+6.2  Inkompatibility
+
+Nejsou známy žádné inkompatibility.
+
+Nepodává se infuzní soupravou a jednopramenným katétrem současně s plazmatickými a krevními deriváty.
+
+6.3  Doba použitelnosti
+
+V neporušeném obalu: 2 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C v původním obalu, aby byl přípravek chráněn před světlem. Chraňte před mrazem.
+6.5  Druh obalu a obsah balení
+Bezbarvá skleněná lahev, pryžová zátka, kovový uzávěr. Velikost balení:
+100 ml, 250 ml, 500 ml, 20 x 100 ml, 12 x 250 ml, 12 x 500 ml
+
+
+4 / 5
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Podává se zpravidla centrálním žilním katétrem, v nebezpečí hypoglykemie lze podat pomalu do periferní žíly.
+
+Přípravek je vhodný k přípravě směsí all-in-one podle receptur, které byly vyzkoušeny z hlediska stability a kompatibility.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO
+
+76/187/72-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 5. 1. 1973
+Datum posledního prodloužení registrace: 30. 9. 2015
+
+
+10.  DATUM REVIZE TEXTU
+
+1. 8. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 / 5

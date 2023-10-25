@@ -1,0 +1,707 @@
+sp.zn. sukls287891/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+NOLICIN 400 mg potahované tablety
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje norfloxacinum 400 mg.
+
+Pomocné látky se známým účinkem: oranžová žluť (E 110). Jedna tableta obsahuje 5,28 mg sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Potahovaná tableta
+Oranžové, kulaté, bikonvexní tablety, na jedné straně s půlicí rýhou. Tabletu lze rozdělit na stejné dávky.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Norfloxacin je indikován k léčbě následujících infekcí vyvolaných citlivými kmeny mikroorganizmů
+(viz bod 5.1):
+-   nekomplikovaná akutní cystitida,
+U nekomplikované cystitidy má být přípravek Nolicin použit pouze v případě, kdy použití jiných
+antibakteriálních látek, které jsou obecně doporučovány pro léčbu těchto infekcí, není vhodné.
+-   chronická bakteriální prostatitida.
+Je třeba dbát oficiálních doporučení pro správné používání antibakteriálních látek.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+
+Indikace
+Léčba
+Nekomplikovaná akutní
+cystitida
+Chronická bakteriální
+prostatitida
+Tablety
+Denní dávka
+2 x 400 mg
+
+2 x 400 mg
+Trvání léčby
+
+3 až 5 dnů
+
+4 až 6 týdnů
+
+Pediatrická populace
+Přípravek Nolicin je kontraindikován u dětí a dospívajících v období růstu.
+
+Porucha funkce ledvin
+U pacientů s clearance kreatininu pod 0,33 ml/s (20 ml/min) nebo s hladinou kreatininu v séru vyšší než 400 mmol/l (4,5 mg/100 ml) je nutné snížit dávkování. Dávka se sníží o polovinu nebo se interval 1
+
+mezi obvyklými dávkami zdvojnásobí. Pacientům na hemodialýze, jejichž diuréza je zachována, se podávají poloviční dávky. Nemocným na kontinuální ambulantní peritoneální dialýze (CAPD) se aplikuje stejná dávka jako pacientům s normálními renálními funkcemi.
+Způsob podání
+Nolicin lze užívat nalačno i během jídla.
+Během léčby má být zachována normální diuréza.
+
+4.3  Kontraindikace
+
+•   Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1,
+•  těhotenství a kojení,
+•   děti a dospívající v období růstu (z důvodu chybějících zkušeností s užíváním v této věkové kategorii, a protože nelze vyloučit možnost poškození kloubních chrupavek),
+•   pacienti s tendinitidou a/nebo rupturou šlach související s podáváním fluorochinolonů
+v anamnéze (viz body 4.4 a 4.8).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Norfloxacin se nemá používat u pacientů, u nichž se v minulosti při použití přípravků obsahujících chinolon nebo fluorochinolon vyskytly závažné nežádoucí účinky (viz bod 4.8). Léčba norfloxacinem má být u těchto pacientů zahájena pouze tehdy, pokud neexistují žádné jiné možnosti léčby a po pečlivém vyhodnocení poměru přínosu a rizika (viz také bod 4.3).
+
+Norfloxacin má být podáván s opatrností u pacientů s poruchami CNS v anamnéze (zvláště pacientům
+s epilepsií a v jiných případech, kdy je možná predispozice záchvatů).
+
+Pacienti se mají během léčby vyvarovat pobytu na přímém slunci. Jestliže se vyskytne hypersenzitivita na světlo, léčba má být přerušena.
+
+Pokud dojde ke zhoršení zraku nebo jakémukoli vlivu na oči, je nezbytné okamžitě konzultovat
+s očním lékařem.
+
+Pacienti v průběhu léčby mají být dostatečně hydratováni. U pacientů s poruchou funkce ledvin je
+třeba upravit dávkování.
+
+Dysglykemie
+Stejně  jako  u  všech  chinolonů  byly  hlášeny  poruchy  glykemie  zahrnující  hypoglykemii i hyperglykemii (viz bod 4.8), obvykle u pacientů s diabetem mellitem, kteří jsou souběžně léčeni perorálním  hypoglykemikem  (např.  glibenklamidem)  nebo  inzulinem.  Byly  hlášeny  případy hypoglykemického kómatu. U pacientů s diabetem mellitem se doporučuje pečlivé sledování glykemie.
+
+Dlouhotrvající, zneschopňující a potenciálně ireverzibilní závažné nežádoucí účinky léčiva
+U pacientů léčených chinolony a fluorochinolony byly bez ohledu na jejich věk a preexistující rizikové faktory hlášeny velmi vzácně případy dlouhotrvajících (měsíce nebo roky), zneschopňujících a potenciálně ireverzibilních závažných nežádoucích účinků léčiva postihujících různé, někdy vícečetné tělesné systémy (muskuloskeletální, nervový, psychiatrický a senzorický). Léčba norfloxacinem má být okamžitě ukončena při prvních známkách nebo příznacích jakéhokoli závažného nežádoucího účinku a pacienty je třeba informovat, že mají kontaktovat lékaře, který jim přípravek předepsal.
+Periferní neuropatie
+U  pacientů  léčených  chinolony  a  fluorochinolony  byly  hlášeny  případy  senzorické  nebo senzomotorické polyneuropatie, vedoucí k parestezii, hypestezii, dysestezii nebo slabosti. Pacienti léčení norfloxacinem, mají být poučeni, aby před pokračováním léčby informovali svého lékaře, pokud se u nich vyskytnou symptomy neuropatie, jako jsou bolest, pálení, brnění, necitlivost nebo 2
+
+slabost, aby se tak předešlo vzniku potenciálně ireverzibilního stavu (viz bod 4.8).
+
+Tendinitida a ruptura šlachy
+Tendinitida a ruptura šlachy (zejména, ale nejen Achillovy šlachy), někdy bilaterální, se mohou objevit již do 48 hodin od zahájení léčby chinolony a fluorochinolony; jejich výskyt byl hlášen dokonce až několik měsíců po ukončení léčby. Riziko tendinitidy a ruptury šlachy se zvyšuje u starších pacientů, u pacientů s poruchou funkce ledvin, u pacientů po transplantaci solidních orgánů a u pacientů léčených souběžně kortikosteroidy. Z toho důvodu je třeba se souběžnému podávání kortikosteroidů vyhnout.
+Při prvních známkách tendinitidy (např. bolestivý otok, zánět) je nutné léčbu norfloxacinem ukončit a zvážit jiné možnosti léčby. Postiženou končetinu (končetiny) je třeba náležitě ošetřit (např. imobilizací). Pokud se vyskytnou známky tendinopatie, kortikosteroidy se nemají používat.
+Aneurysma a disekce aorty a regurgitace/nedomykavost srdečních chlopní
+Epidemiologické studie uvádějí zvýšené riziko aneurysmatu a disekce aorty, zejména u starších pacientů, a aortální a mitrální regurgitace po podání fluorochinolonů.
+U pacientů léčených fluorochinolony byly hlášeny případy aneurysmatu a disekce aorty, někdy komplikované rupturou (včetně fatálních případů), a regurgitace/nedomykavosti některé ze srdečních chlopní (viz bod 4.8).
+Fluorochinolony se proto mají používat až po pečlivém vyhodnocení přínosů a rizik a po zvážení dalších možností léčby u pacientů s výskytem aneurysmatu aorty v rodinné anamnéze nebo s kongenitálním onemocněním srdečních chlopní nebo u pacientů, u nichž byly diagnostikovány preexistující aneurysma a/nebo disekce aorty nebo onemocnění srdečních chlopní, nebo u pacientů s jinými rizikovými faktory či predispozicemi
+-   jak k aneurysmatu a disekci aorty, tak k regurgitaci/nedomykavosti srdečních chlopní (např. onemocnění pojivové tkáně, jako je Marfanův syndrom nebo Ehlersův-Danlosův syndrom, Turnerův syndrom, Behçetův syndrom, hypertenze, revmatoidní artritida) nebo dále
+-   k aneurysmatu a disekci aorty (např. cévních onemocnění, jako je Takayasuova arteriitida nebo obrovskobuněčná arteriitida, nebo zjištěná ateroskleróza či Sjögrenův syndrom) nebo dále
+-   k regurgitaci/nedomykavosti srdečních chlopní (např. infekční endokarditida).
+Riziko aneurysmatu a disekce aorty a její ruptury může být zvýšené také u pacientů, kteří jsou
+souběžně léčeni systémovými kortikosteroidy.
+V případě náhlé bolesti v oblasti břicha, hrudníku nebo zad se pacientům doporučuje, aby neprodleně
+vyhledali lékařskou pomoc.
+Pacienty je třeba informovat, že v případě akutní dušnosti, nově vzniklých srdečních palpitací nebo zvětšení objemu břicha nebo rozvoje otoků dolních končetin mají ihned vyhledat lékařskou pomoc.
+
+Srdeční poruchy
+Opatrnost je nutná při užívání fluorochinolonů, včetně přípravku Nolicin, u pacientů se známými rizikovými faktory pro prodloužení QT intervalu, jako jsou např.:
+-   vrozený prodloužený QT interval;
+-   souběžné užívání léčivých přípravků, u kterých je známo, že prodlužují QT interval (např. antiarytmika IA a III třídy, tricyklická antidepresiva, makrolidy, antipsychotika);
+-   nekorigovaná elektrolytová dysbalance (např. hypokalemie, hypomagnesemie);
+-   onemocnění srdce (např. srdeční selhání, infarkt myokardu, bradykardie).
+Starší pacienti a ženy mohou být citlivější na účinky léků prodlužujících QT interval. Proto je v těchto populacích třeba opatrnosti při používání fluorochinolonů, včetně norfloxacinu (viz body 4.2, 4.5, 4.8 a 4.9).
+
+Azobarvivo oranžová žluť (E 110) může způsobovat alergické reakce.
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je
+v podstatě „bez sodíku“.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+3
+
+Přípravky, o kterých je známo, že prodlužují QT interval
+Nolicin, stejně jako ostatní fluorochinolony, musí být užíván s opatrností u pacientů užívajících léčivé přípravky, o kterých je známo, že prodlužují QT interval (např. antiarytmika IA a III třídy, tricyklická antidepresiva, makrolidy a antipsychotika) (viz bod 4.4).
+Probenecid snižuje vylučování norfloxacinu močí, ale nemá vliv na jeho koncentraci v séru.
+
+Norfloxacin inhibuje CYP 1A2, což může vést k interakcím s jinými léky, které jsou metabolizovány tímto enzymem (jako jsou theofylin, klozapin, olanzapin, rasagilin, ropinirol, takrin, tizanidin, kofein).
+Theofylin, cyklosporin
+Během souběžného podávání norfloxacinu s theofylinem a cyklosporinem norfloxacin způsobuje zvýšení plasmatických hladin těchto léčiv, proto se doporučuje měření jejich koncentrací v séru.
+Kofein
+Bylo prokázáno, že metabolismus kofeinu je inhibován chinolony a také norfloxacinem. To může vést k opožděné eliminaci a prodlouženému plazmatickému poločasu kofeinu. Během léčby norfloxacinem je proto potřeba, pokud je to možné, vyhnout se požití léků obsahujících kofein (např. určitá analgetika).
+
+Warfarin
+Souběžné podávání norfloxacinu s perorálními antikoagulancii (warfarin) zvyšuje jejich terapeutický účinek. V průběhu léčby norfloxacinem se prodlužuje doba krevní srážlivosti, proto je v případě operačního zákroku třeba kontrola krevní srážlivosti.
+Didanosin se nemá podávat souběžně s norfloxacinem nebo během dvou hodin před nebo po podání norfloxacinu, protože ovlivňuje jeho absorpci a způsobuje nižší hladiny norfloxacinu v séru a moči.
+
+Mléko a jogurt (mléčné tekuté výrobky), antacida a sukralfát snižují absorpci norfloxacinu. Nolicin proto má být užíván 1 hodinu před nebo 2 hodiny po požití mléčného výrobku.
+Pokud je norfloxacin užíván souběžně s léky obsahujícími železo, hliník, bismut, hořčík, vápník nebo zinek, tvoří se komplexy (chinolon – kov), které nejsou absorbovány. Pacienti mají užívat antacida, sukralfáty a léky obsahující tyto prvky 2 hodiny po užití přípravku Nolicin.
+Fenbufen
+Podle studií na zvířatech může souběžné podávání chinolonů a fenbufenu vyvolat záchvaty. Proto je třeba se souběžnému podávání chinolonů a fenbufenu vyhnout.
+
+Souběžné užívání chinolonů a kortikosteroidů zvyšuje riziko vzniku zánětu šlach nebo jejich ruptury. Byl  hlášen  zvýšený  účinek  antidiabetik  (deriváty  sulfonylurey)  při  souběžném  užívání s norfloxacinem.
+
+Při souběžném užívání norfloxacinu a nitrofurantoinu je účinek obou přípravků snížený.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Existují omezené údaje o použití léku během těhotenství. Norfloxacin přechází do pupeční krve a plodové vody. Studie teratogenity u myší nezaznamenaly žádné účinky, ale u králíků a opic vedly vysoké dávky norfloxacinu ke zvýšení embryoletality (viz bod 5.3).
+Bylo experimentálně zjištěno riziko poškození zatížených chrupavek v rostoucím organismu v důsledku používání fluorochinolonů, proto nesmí být norfloxacin podáván těhotným ženám (viz body 4.3 a 5.3).
+
+4
+
+Kojení
+Je známo, že jiná antibiotika ze skupiny fluorochinolonů jsou vylučována do mateřského mléka. Z důvodu chybějících údajů u člověka a kvůli experimentálně zjištěnému riziku poškození zatížených chrupavek v rostoucím organismu v důsledku používání fluorochinolonů, nesmí být norfloxacin podáván kojícím ženám (viz body 4.3 a 5.3). Proto má být během léčby rozhodnuto o přerušení podání antibiotika nebo přerušení kojení, v závislosti na důležitosti léčby pro matku.
+
+Fertilita
+Norfloxacin neovlivnil fertilitu samců ani samic myší (viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Chinolony mohou vzácně způsobovat křeče, a proto nemají být podávány pacientům s křečemi v anamnéze. Nežádoucí účinky přípravku Nolicin, jako je bolest hlavy nebo závrať, se vyskytují velmi vzácně, ale mohou snížit bdělost, zvláště pokud pacient užívá Nolicin společně s alkoholem. Lékaři a lékárníci mají varovat své pacienty, aby neřídili, neobsluhovali stroje a neprovozovali jiné nebezpečné aktivity, dokud nezjistí, jak reagují na léčbu.
+
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky, které se mohou vyskytnout během léčby přípravkem Nolicin, jsou tříděny do následujících skupin dle frekvence:
+-   velmi časté (≥ 1/10)
+-   časté (≥ 1/100 až < 1/10)
+-   méně časté (≥ 1/1 000 až < 1/100)
+-   vzácné (≥ 1/10 000 až < 1/1 000)
+-   velmi vzácné (< 1/10 000)
+-   není známo (z dostupných údajů nelze určit)
+
+
+
+
+Poruchy krve a
+lymfatického systému
+
+
+
+Poruchy imunitního systému
+
+
+Poruchy metabolismu a výživy Psychiatrick é poruchy**
+Časté
+Méně časté
+
+eozinofilie, leukopenie, neutropenie, trombocytopenie, prodloužení
+protrombinového času
+Vzácné
+
+hemolytická anémie *
+
+
+
+
+
+anafylaktické/ anafylaktoidní reakce
+
+
+
+
+
+změny nálady, deprese, úzkost, nervozita, podrážděnost, euforie, dezorientace, halucinace, zmatenost,
+psychické poruchy
+5
+Velmi
+vzácné
+Není známo
+
+
+
+
+
+
+
+
+hypersenzitivn í reakce (kopřivka, vyrážka, pruritus) hypoglykemic ké kóma (viz bod 4.4)
+
+
+
+Poruchy nervového systému**
+
+
+
+
+
+
+Poruchy oka** Poruchy ucha a labyrintu** Srdeční poruchy***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cévní
+poruchy***
+
+
+Gastrointe- stinální poruchy
+
+
+Poruchy jater a
+žlučových cest Poruchy
+kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cholestatic ká hepatitida, hepatitida
+
+
+bolest hlavy,
+závrať, ospalost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bolest břicha a křeče, pálení žáhy, průjem, nauzea
+
+
+
+
+
+vyrážka
+a psychotické reakce parestezie,
+insomnie poruchy spánku, polyneuropatie
+včetně syndromu
+Guillain-Barré
+a záchvaty křečí, možné zhoršení myasthenia gravis (viz bod 4.4) poruchy zraku, zvýšené slzení tinitus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+petechie
+a hemoragické buly/papuly
+s vaskulitidou zvracení, ztráta chuti k jídlu,
+pseudomembranóz ní kolitida, pankreatitida
+
+
+
+
+kožní reakce, exfoliativní dermatitida, toxická
+epidermální nekrolýza (Lyellův syndrom), erythema
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tachykardie, komorová arytmie a torsade de pointes
+(hlášeny především u pacientů s rizikovými faktory pro prodloužení
+QT intervalu), prodloužení QT intervalu na EKG (viz body 4.4 a 4.9)
+
+
+
+
+
+
+
+
+
+ikterus
+
+
+
+
+
+
+
+
+
+Poruchy svalové a kosterní
+soustavy a pojivové tkáně**
+
+
+Poruchy ledvin a močových cest Poruchy reprodukční
+ho systému a
+prsu
+Celkové poruchy a reakce v místě aplikace** Vyšetření
+
+
+
+
+
+
+
+
+rhabdomy
+olýza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+krystalurie
+
+
+
+
+
+
+
+
+
+
+
+
+zvýšení hodnot
+aminotransferáz,
+alkalické fosfatázy
+a
+laktátdehydrogená zy (LDH), snížené hladiny hematokritu
+multiforme (Stevensův- Johnsonův syndrom), fotosenzitivita (viz bod 4.4), pruritus a kopřivka,
+angioedém tendinitida, tendosynovitida, bolest svalů
+a/nebo kloubů, zánět kloubů
+
+
+
+
+intersticiální
+nefritida
+
+
+vaginální kandidóza
+
+
+únava
+
+
+
+
+zvýšení hodnot urey a sérového kreatininu
+
+
+
+
+
+
+
+
+ruptura
+šlach (např.
+Achillovy šlachy), obvykle
+v kombinaci s jinými
+poškozující
+mi faktory
+* Někdy spojená s nedostatkem glukoso-6-fosfát-dehydrogenázy.
+** V souvislosti s podáváním chinolonů a fluorochinolonů byly v některých případech bez ohledu na preexistující rizikové faktory hlášeny velmi vzácné případy dlouhotrvajících (až měsíce nebo roky), zneschopňujících a potenciálně ireverzibilních závažných nežádoucích účinků léčiva postihujících několik, někdy vícečetných tříd orgánových systémů a smyslů (včetně účinků, jako jsou tendinitida, ruptura šlachy, artralgie, bolest končetin, poruchy chůze, neuropatie spojené s parestezií, deprese, únava, poruchy paměti, poruchy spánku a poruchy sluchu, zraku, chuti a čichu) (viz bod 4.4).
+*** U pacientů léčených fluorochinolony byly hlášeny případy aneurysmatu a disekce aorty, někdy komplikované rupturou (včetně fatálních případů), a regurgitace/ nedomykavosti některé ze srdečních chlopní (viz bod 4.4).
+Fotosenzitivita byla pozorována u pacientů, kteří byli během probíhající léčby léky podobnými chinolonům ve velké míře vystaveni slunečnímu záření nebo záření v soláriích (fototoxické reakce, fotosenzitizace s puchýřky, zarudnutí, otok a změna zabarvení) (viz bod 4.4).
+Pokud se vyskytnou závažné nežádoucí účinky, má být léčba přerušena.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+7
+
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky,
+aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Příznaky
+Předávkování může vyvolat zejména nauzeu, zvracení, průjem, v závažnějších případech také závrať, únavu, zmatenost a křeče.
+Po požití velkého množství tablet se doporučuje výplach žaludku při sledování pacienta a symptomatické léčbě, pokud je třeba.
+Léčba
+V případě předávkování má být zahájena symptomatická léčba. Z důvodu možného prodloužení QT intervalu má být provedeno monitorování EKG.
+Dostatečná hydratace pacienta je významná pro zajištění adekvátní diurézy.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: fluorochinolony, ATC kód: J01MA06 Mechanismus účinku
+Antibakteriální účinnost norfloxacinu je založena na inhibici syntézy DNA bakteriální buňky. Hlavním účinkem je inhibice enzymu DNA gyrázy (topoizomerázy II) a topoizomerázy IV.
+
+Vztah farmakodynamiky a farmakokinetiky
+Účinnost závisí hlavně na poměru Cmax (maximální sérová koncentrace): MIC (minimální inhibiční koncentrace) patogenu a na poměru AUC (plocha pod křivkou): MIC patogenu.
+
+Mechanismus vzniku rezistence
+Rezistence na norfloxacin může vznikat následujícími mechanizmy:
+-   Modifikace cílových struktur: Hlavním mechanismem rezistence na norfloxacin a další fluorochinolony je změna topoizomerázy II a IV v důsledku mutace.
+-   Další mechanismy rezistence vedou ke snížení koncentrace fluorochinolonů v místě působení. V důsledku snížené penetrace do bakteriální buňky, která je způsobená sníženou tvorbou porinů nebo zvýšením efluxu z buňky pomocí efluxních pump.
+-   Přenositelná, plazmidem kódovaná rezistence byla prokázána u bakterií Escherichia coli a
+Klebsiella spp.
+Mezi norfloxaciem a ostatními fluorochinolony existuje částečná nebo úplná zkřížená rezistence. Hraniční hodnoty
+Testování norfloxacinu se provádí pomocí obvyklých sérií ředění. Pro citlivé a rezistentní mikroorganismy byly stanoveny následující minimální inhibiční koncentrace:
+
+Hraniční hodnoty podle EUCAST (European Committee on Antimicrobial Susceptibility Testing):
+
+Druh                     citlivý            rezistentní
+Enterobacteriaceae             ≤ 0,5 mg/l          > 1 mg/l
+Hraniční hodnoty druhově nespecifické*  ≤ 0,5 mg/l          > 1 mg/l
+8
+
+* založené především na sérové farmakokinetice
+
+Citlivost
+Prevalence rezistence vybraných druhů se může lišit geograficky a časově. Je proto vhodná informace o lokální rezistenci, zejména pokud se jedná o zajištění odpovídající léčby závažných infekcí. Pokud jsou na základě situace v lokální rezistenci pochybnosti o účinnosti norfloxacinu, je třeba požádat o radu experta.
+
+Běžně citlivé druhy
+Aerobní grampozitivní mikroorganismy
+Staphylococcus saprophyticus°
+Aerobní gramnegativní mikroorganismy
+Enterobacter aerogenes Enterobacter cloacae Proteus vulgaris
+Salmonella enteritidis (enteritis salmonella)°
+Serratia marcescens
+
+Druhy, u nichž získaná rezistence může být problém Aerobní grampozitivní mikroorganismy Enterococcus faecalis
+Staphylococcus aureus (citlivý na meticilin) Aerobní gramnegativní mikroorganismy Campylobacter jejuni
+Citrobacter freundii Escherichia coli Klebsiella oxytoca Klebsiella pneumoniae Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Pseudomonas aeruginosa
+
+Přirozeně rezistentní organismy
+Aerobní grampozitivní mikroorganismy
+Enterococcus faecium
+Staphylococcus aureus (rezistentní na meticilin) Streptococcus agalactiae
+Aerobní gramnegativní mikroorganismy
+Stenotrophomonas maltophilia Anaerobní mikroorganismy Clostridium difficile
+Ostatní mikroorganismy Chlamydia trachomatis Mycoplasma hominis Ureaplasma urealyticum
+° V době zveřejnění tabulky nebyly k dispozici žádné aktuální údaje. Citlivost se předpokládá
+v primární literatuře, standardních pracích a doporučeních k terapii
+9
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Norfloxacin se rychle absorbuje z gastrointestinálního traktu. Maximálních plasmatických koncentrací je dosaženo za 1 až 2 hodiny po perorálním podání. Absorpce z gastrointestinálního traktu je nekompletní a dosahuje 30-40 % perorálně podané dávky. Ustáleného stavu je dosaženo po 2 dnech.
+
+Distribuce v organismu
+Přibližně 15 % norfloxacinu se váže na plasmatické proteiny. Nízká vazba na proteiny umožňuje dobrý a rychlý průnik léčiva do tkání a tělních tekutin.
+
+Koncentrace norfloxacinu v různých tkáních:
+
+Tkáň, tělní tekutina               Koncentrace
+Renální parenchym               7,3 μg/g
+Prostata                     2,5 μg/g
+Stěna močového měchýře           3,0 μg/g
+Ejakulát                     2,7 μg/ml
+Varlata                     1,6 μg/g
+Uterus, cervix                  3,0 μg/g
+Ovaria                      1,9 μg/g
+Pochva                     4,3 μg/g
+Žluč                       6,9 μg/ml
+
+Perorálně podaný norfloxacin (50 mg/kg) přestupuje placentární bariérou a koncentrace léčiva
+v tkáních plodu dosahuje 10 % koncentrace v séru matky.
+Po aplikaci dávky 400 mg dvakrát denně dosahují koncentrace v tkáni ledvin hodnot mezi 3,9 až 16,2 μg/g. Tyto koncentrace výrazně převyšují koncentrace léčiva v séru (100 až 300krát). Maximální koncentrace v moči po podání jedné dávky 400 mg se objevují po 2 hodinách a dosahují hodnot 478 mg/l; koncentrace v prostatě jsou nižší (0,7 - 4,7 μg/g), nicméně překračují koncentrace v séru. Koncentrace norfloxacinu ve žluči dosahují 0,15 až 4,5 μg/g a ve žlučovodech 0,4 až 4 μg/g a jsou 3 až 7krát vyšší než koncentrace v séru. Vysoké koncentrace byly rovněž pozorovány v játrech. Koncentrace v pochvě a v děloze jsou po podání jedné dávky 400 mg 2 až 3krát vyšší než koncentrace v séru. Koncentrace zjištěné ve slinách, tonzilách, vaječnících a stěně žlučníku jsou podobné nebo mírně nižší než koncentrace v séru.
+Maximální koncentrace norfloxacinu v moči jsou přibližně 100krát vyšší než MIC90 pro většinu patogenů způsobujících infekce močových cest. Podobně koncentrace ve stolici významně překračují hodnoty MIC90 pro mnoho střevních patogenů.
+Biotransformace
+Norfloxacin je v těle laboratorních zvířat a člověka metabolizován pouze částečně. U člověka se 80 % norfloxacinu eliminuje v původní formě. Biotransformace probíhá v játrech, kde dochází k modifikaci na terminálním dusíku piperazinového prstence. Hlavním metabolitem je oxoderivát. Ostatní metabolity, jako například amino-, acetyl-, formyl- a 2-aminoethylamino- deriváty chinolonového prstence se u člověka objevují v malých množstvích.
+Eliminace z organismu
+Norfloxacin je vylučován močí, žlučí a stolicí. Jeho biologický poločas je 3 až 4 hodiny. Po aplikaci perorální dávky 100 až 800 mg se za 24 hodin 33 až 39 % dávky vyloučí močí. U vyšší dávky (1 600 mg) se vyloučí močí 47,8 % podaného množství, 5 až 8 % v podobě metabolizovaného léčiva.
+Porucha funkce ledvin
+Renální vylučování probíhá prostřednictvím glomerulární filtrace a tubulární sekrece. V menší míře je
+norfloxacin vylučován také žlučí (2 až 3 %).
+10
+
+Třicet procent perorálně podané dávky se vyloučí stolicí.
+U pacientů s poruchou funkcí ledvin se farmakokinetika norfloxacinu mění podle míry postižení. Bez ohledu na farmakokinetické změny (například prodloužení doby do dosažení maximálních koncentrací léčiva v séru, prodloužený biologický poločas a zhoršené vylučování) jsou koncentrace norfloxacinu v močových cestách dostatečně vysoké na to, aby umožnily efektivní léčbu infekčních procesů.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Stejně jako jiné chinolony vyvolal i norfloxacin u mladých zvířat artropatii. Norfloxacin podávaný perorálně mladým potkanům způsobil léze kloubních chrupavek u 10 % samců. Takovéto změny nebyly u samic zjištěny ani při dvojnásobně vyšší dávce.
+Plasmatické hladiny u zvířat po podání dávek poškozujících klouby byly mnohem vyšší, než odpovídající hladiny u dětí.
+Toxikologické studie ukázaly nízkou toxicitu po jednorázovém i po opakovaném podání. U potkanů a psů se po vysokých dávkách norfloxacinu vyskytla krystalurie. Výsledky studií s opakovanými dávkami norfloxacinu podávaným ve vysokých dávkách naznačují, že možným cílovým orgánem toxického působení jsou ledviny.
+Studie fertility a teratogenity u myší nezaznamenaly žádné účinky, ale u králíků a opic vedly vysoké dávky norfloxacinu ke zvýšení embryoletality.
+V dlouhodobých studiích na myších a potkanech, kteří dostávali norfloxacin v dávce 8 až 9krát vyšší než obvyklé dávky u člověka, nebyl nalezen žádný důkaz karcinogenity.
+Norfloxacin byl testován na mutagenitu v několika studiích in vitro a in vivo s negativním výsledkem. Možnost genotoxického potenciálu byla detekována kometovým testem a mikronukleovým testem.
+Mírná, ale přechodná a reverzibilní, fototoxicita byla pozorována u myší.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Jádro tablety:
+povidon
+sodná sůl karboxymethylškrobu (typ A) mikrokrystalická celulosa
+koloidní bezvodý oxid křemičitý
+magnesium-stearát (E572) čištěná voda
+Potahová vrstva tablety:
+hypromelosa mastek
+oxid titaničitý (E171) oranžová žluť (E110) propylenglykol
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+5 let.
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Uchovávejte v původním obalu, aby byl přípravek chráněn před
+11
+
+světlem a vlhkostí.
+
+6.5  Druh obalu a obsah balení
+PVC/PVDC/Al blistr, krabička.
+Velikost balení: 20 potahovaných tablet.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovinsko
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+15/053/87-S/C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 16.10.1987
+Datum posledního prodloužení registrace: 12. 9. 2018
+
+
+10.  DATUM REVIZE TEXTU
+
+18. 12. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12

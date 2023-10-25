@@ -1,0 +1,411 @@
+sp.zn. sukls147226/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1. NÁZEV PŘÍPRAVKU
+
+Indium (In111) Oxinate
+37 MBq/ml; radionuklidový prekurzor, roztok Katalogové číslo Curium Netherlands: DRN 4908
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Léčivá látka:
+Jeden ml přípravku Indium (In111) Oxinate obsahuje indii (¹¹¹In) oxinum odpovídající
+indii (¹¹¹In) chloridum  37 MBq (1 mCi) k datu a hodině kalibrace a
+oxyquinolinum     0,025 mg
+
+¹¹¹In se přeměňuje elektronovým záchytem s poločasem asi 67 hodin (2,8 dne) za emise záření gama s energií 172 keV (91 %) a 246 keV (94 %). Vnitřní konverzí vzniká záření rentgenové s energií 23 keV a 26 keV.
+
+Pomocná látka se známým účinkem: jeden ml roztoku s účinnou látkou obsahuje 3 mg sodíku. Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+
+Radionuklidový prekurzor, roztok a tlumivý roztok (roztok pro injekci) Radionuklidový prekurzor, roztok: čirý bezbarvý až světle zelený roztok. Tlumivý roztok: čirý bezbarvý roztok
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+Indium (¹¹¹In) oxin je využíván pro značení separovaných krevních elementů in vitro. Po následné intravenózní aplikaci je možné označené krevní elementy využít pro vyšetřování na rozličné účely za použití patřičných zobrazovacích nebo měřících metod.
+
+Vyšetřování pomocí značených krevních elementů indiem (¹¹¹In):
+
+¹¹¹In-značené leukocyty nebo granulocyty: vyšetřování zánětlivých ložisek a abscesů jako doplněk k ostatním zobrazovacím metodikám, např. lokalizace fokální infekce - abdominální absces, potvrzení infekce kosti po protéze, vyšetřování při horečce neznámé etiologie a hodnocení neinfekčních zánětlivých procesů, např. zánětlivé onemocnění střev. V oblasti červené krevní dřeně skeletu může přítomná osteomyelitida způsobit ložiskové snížení vychytání leukocytů značených indiem (¹¹¹In). Difúzní nebo lokální vychytání leukocytů značených indiem (¹¹¹In) v plících je nutné pečlivě hodnotit vzhledem k možnosti fyziologického vychytání v okrajových oblastech plic.
+Trombocyty značené ¹¹¹In: určování přežívání trombocytů a jejich biodistribuce, zejména zjišťování vychytání ve slezině a játrech v případě trombocytopenie; arteriální nebo cévní trombóza, aneurysmata a zánětlivá ložiska při rejekci transplantovaných orgánů (např. ledvin a slinivky břišní).
+Erytrocyty značené ¹¹¹In: Zjišťování lokalizace gastrointestinálního krvácení.
+
+
+SmPC_Indium Oxinate_147226-19                                    1 / 10
+
+4.2 Dávkování a způsob podání
+
+Lahvička obsahuje sterilní izotonický roztok pro in vitro značení krevních elementů, které se následně aplikují intravenózně.
+111
+Leukocyty nebo granulocyty značené  In
+
+Dávkování
+Dospělí a starší pacienti
+Doporučená aktivita pro dospělé a starší osoby je 7,4 - 30 MBq intravenózní aplikací.
+
+Zobrazení
+Scintigrafické zobrazení pro určení ložiskové akumulace značených leukocytů je možné provést již za 3 – 6 hodin
+po aplikaci. Nejvýhodnější pro zobrazení akumulace je však scintigrafie za 24 hodin od aplikace.
+111
+Trombocyty značené  In
+
+Dávkování
+Dospělí a starší pacienti
+Doporučená aktivita pro dospělé a starší osoby je 1,85 - 3,7 MBq pro studie přežívání trombocytů a 3,7 - 18,5
+MBq pro studie biodistribuce trombocytů. V obou případech se označené trombocyty aplikují intravenózně.
+
+Zobrazení
+Intervaly a počet odebíraných vzorků pro určování přežívání trombocytů závisí na účelu vyšetření a předpokládané průměrné hodnotě přežívání. Doporučuje se provádět odběr vzorků nejméně po 20 minutách, dále za 2, 3 a 4 hodiny a poté denně po dobu 10 dní od aplikace.
+Scintigrafické vyšetření depozice značených trombocytů je možné provádět za 2 - 6 hodin od aplikace.
+Doporučuje se provádět zobrazení opakovaně až do 48 nebo 72 hodin od aplikace.
+111
+Erytrocyty značené  In
+
+Dávkování
+Dospělí a starší pacienti
+Doporučená aktivita pro dospělé a starší osoby je 3,7 - 18,5 MBq intravenózní aplikací.
+
+Pediatrická populace
+Dávku k aplikaci dětem je možné určit na základě dávky pro dospělého upravenou podle tělesné hmotnosti, povrchu těla nebo věku dítěte. V případě novorozence nebo dítěte mladšího 1 roku je nutno vzít v úvahu také velikost sledovaného orgánu vzhledem k velikosti těla.
+
+U dětí mladších 1 roku se doporučuje minimální aktivita ve výši 10 % aktivity pro dospělého v zájmu zabezpečení potřebné kvality zobrazení (viz bod Dozimetrické údaje).
+Způsob podání
+Intravenózní aplikace, po označení potřebných krevních elementů. Přípravek je možné využít pro více pacientů. Pokyny pro značení (v čas potřeby) – viz bod 12.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku či kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+Možné hypersenzitivní či anafylaktické reakce
+SmPC_Indium Oxinate_147226-19                                    2 / 10
+
+V případě výskytu hypersenzitivní či anafylaktické reakce musí být aplikace radiofarmaka okamžitě přerušena a je-li to nutné, má být nasazena intravenózní léčba takové reakce. Pro zajištění odpovídající léčby musejí být k okamžité dispozici prostředky pro akutní zásah, např. tracheální trubice či prostředky pro podporu dýchacích funkcí.
+Individuální zvážení poměru přínosu a rizika
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+
+Pediatrická populace
+Informace týkající se aplikace pediatrickým pacientům uvádí bod 4.2.
+Efektivní dávka vztažená na jednotku aplikované aktivity (MBq) je vyšší oproti dospělým (viz bod 11), proto je
+v tomto případě nutno zvlášť opatrně zvážit podání přípravku.
+Obsah lahvičky přípravku Indium (In111) Oxinate je určen pouze ke značení separovaných krevních elementů in vitro a není možné ho aplikovat přímo pacientovi!
+Materiály používané při separaci buněk mohou způsobit hypersenzitivní reakce. Je důležité, aby byly buňky vymyty bez sedimentačních činidel před tím, než jsou vstříknuty zpět pacientovi.
+
+Odkazy odborné literatury ohledně klinického využití krevních elementů značených ¹¹¹In se téměř vždy týkají studií s aplikaci značených autologních krevních elementů. Rizika při aplikaci buněk dárce jsou zřejmá.
+Zvláštní upozornění
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jednom mililitru injekčního roztoku, tj.
+v podstatě je „bez sodíku“.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Studie lékových interakcí nebyly provedeny.
+
+Byl hlášen vliv kortikoidů a antibiotik způsobující snížení vychytání značených trombocytů v abscesu, ale tento účinek není dosud uspokojivě zdokumentován. U terapeuticky účinných antibiotik je možné očekávat snížení migrace leukocytů vlivem snížené chemotaxe.
+4.6 Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku / Kontracepce u žen a mužů
+Pokud je nezbytné aplikovat radioaktivní látku ženám v reprodukčním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou pokud se neprokáže opak. Kde trvá nejistota, radiační zátěž pacientky musí být minimalizována při zachování klinického přínosu vyšetření. Je nutno uvážit alternativní metodiky bez ionizujícího záření.
+
+Těhotenství
+Údaje o použití krevních elementů značených In-111 u těhotných žen nejsou k dispozici. Ze studií na zvířatech
+jsou k dispozici data o teratogenitě india.
+
+Použití procedur s radionuklidy u těhotných žen znamená také radiační zátěž pro plod. Během těhotenství je proto možné provést pouze absolutně nezbytná vyšetření, kdy očekávaný přínos převýší možná rizika pro matku a plod.
+
+Kojení
+Před aplikací radiofarmaka kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné.
+Po podání krevních elementů značených In-111 není nutné přerušit kojení.
+
+SmPC_Indium Oxinate_147226-19                                    3 / 10
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Účinek na schopnost řídit a obsluhovat stroje nebyl popsán.
+4.8 Nežádoucí účinky
+
+Nežádoucí účinky jsou seřazeny dle četnosti takto:
+Velmi časté (≥ 1/10), časté (≥ 1/100 to < 1/10), méně časté (≥ 1/1 000 to < 1/100), vzácné (≥ 1/10 000 to
+< 1/1 000), velmi vzácné (< 1/10 000) není známo (z dostupných údajů nelze určit)
+Po aplikaci krevních elementů značených In-111 (např. suspenze pro zpětnou aplikaci značených krevních
+elementů) byly hlášeny tyto nežádoucí účinky:
+Poruchy imunitního systému
+
+není známo (z dostupných údajů nelze určit)
+Hypersenzitivita, anafylaktoidní
+reakce.
+
+Bylo hlášeno minimální množství nežádoucích účinků po aplikaci krevních elementů značených ¹¹¹In, které zahrnovaly hypersenzitivní reakci spočívající v kožních projevech a v celkových účincích anafylaktické povahy. Je také nutné upozornit na skutečnost, že hypersenzitivní reakce mohou být způsobeny i pomocnými látkami použitými při separaci buněk. Před zpětnou aplikací je nutné zabezpečit důkladné promytí buněk pro odstranění všech pomocných látek přítomných v sedimentu (viz bod 4.4).
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných vad.
+Jelikož je efektivní dávka pro značené leukocyty 10,8 mSv [7,2 mSv pro značené trombocyty] po aplikaci maximální doporučené aktivity pro značené leukocyty 30 MBq [18,5 MBq pro značené trombocyty], je výskyt těchto nežádoucích účinků málo pravděpodobný.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+V případě náhodného podání nadměrné dávky krevních elementů značených ¹¹¹In jsou možnosti léčby velmi omezené, eliminace radionuklidu z těla je závislá na přirozeném zániku buněk.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Jiná radiofarmaka pro detekci zánětů a infekcí ATC kód: V09H B01
+V rámci běžně aplikovaných aktivit nevykazují krevní elementy značené indiem (¹¹¹In) žádný farmakologický účinek.
+
+5.2 Farmakokinetické vlastnosti
+
+SmPC_Indium Oxinate_147226-19                                    4 / 10
+
+Indium vytváří saturovaný komplex (1:3) s oxinem. Komplex je neutrální a jeho lipofilita umožňuje průchod přes buněčnou membránu. Uvnitř buňky se indium pevně váže na složky cytoplasmy a uvolněný hydroxychinolon se uvolňuje z buňky. Předpokládá se, že mechanismus značení buněk pomocí indium (¹¹¹In) oxinu spočívá pravděpodobně ve výměnné reakci mezi nosičovým hydroxychinolonem a subcelulárními složkami, které vytvářejí s indiem pevnější chelátovou vazbu. Tuto teorii potvrzuje i nízká konstanta stability pro komplex india s oxinem (asi 10¹⁰).
+Krevní elementy značené indiem (¹¹¹In) jsou po aplikaci distribuovány v organismu způsobem shodným jako elementy neznačené a tím umožňují zobrazení ložisek s akumulací.
+Značené leukocyty jsou po aplikaci dobrovolníkům asi z 60 % ihned vychytány v játrech, slezině, kostní dřeni a ostatních tkáních. Akumulace v plících je přechodná a velmi krátká. Zbytek je odstraňován z krevního oběhu clearance exponenciálního charakteru s poločasem 5 - 10 hodin. Konečná akumulace je asi 20% v játrech, 25% ve slezině, 30% v kostní dřeni a 25% v ostatních orgánech.
+Clearance z krevního oběhu a biodistribuce může významným způsobem kolísat podle daného pacienta, stavu
+označených buněk a použitých metodách pro značení.
+Leukocyty značené indiem (¹¹¹In) se akumulují v zánětlivých ložiscích a abscesech.
+Erytrocyty značené indiem (¹¹¹In) jsou velké buňky a po aplikaci se chovají jako neznačené erytrocyty. Zůstávají v krevním oběhu a jsou odstraněny pouze z důvodu poškození nebo vlivem ztráty během krvácení. Indium (¹¹¹In) se pevně váže na erytrocyty a za normálních okolností prakticky nedochází k žádnému uvolňování do střeva a tím umožňuje zobrazení krevního oběhu až do 72 hodin po aplikaci. Značené erytrocyty zobrazí přítomnost a/nebo ložisko okultního gastrointestinálního krvácení.
+Po intravenózní aplikaci trombocytů značených indiem (¹¹¹In) je část rychle vychytána v játrech a slezině v souladu fyziologicky vysokou koncentrací trombocytů. Zbývající část zůstává v krevním oběhu po dobu danou životností trombocytů.
+Asi 30 % aplikované dávky je ihned uloženo ve slezině a asi 10 % v játrech. Zbývající aktivita je z krevního oběhu odstraňována s poločasem asi 4dny a je distribuována s asi 5 % ve slezině, 20 % v játrech, 25 % v kostní dřeni a 10 % v ostatních tkáních.
+Za normálních okolností je přežívání trombocytů asi 9 dní a dále dochází k jejich odstranění v závislosti na stáří, zejména ve slezině a kostní dřeni. Kratší doba přežívání je spojena
+s různými onemocněními, jako např. trombocytopenie.
+Trombocyty značené indiem (¹¹¹In) se také akumulují v ložiskách aktivní tvorby trombů a při počínající rejekci po
+transplantaci.
+Clearance aktivity z jater a sleziny pro značené leukocyty a trombocyty je velmi pomalá. Exkrece aktivity močí i stolicí je velmi nízká. Eliminace z organismu spočívá pravděpodobně zejména v přeměně radioizotopu na stabilní kadmium. Pro účely dozimetrických výpočtů se však předpokládá analogie celotělové clearance s indiem v iontové formě (poločas 70 dní).
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Bylo zjištěno, že krevní elementy značené indiem (¹¹¹In) a připravované pomocí ¹¹¹In-oxinu jsou po označení viabilní a jsou fyziologickými cestami distribuovány v organismu. Byly hlášeny určité chromozomové aberace pro leukocyty značené indiem (¹¹¹In) a připravované pomocí ¹¹¹In-oxinu.
+
+Předpokládá se, že následně po označení je 8-hydroxychinolon uvolňován z buněk a je spolu s volným ¹¹¹In odstraněn během procesu čištění před aplikací.
+Na provedených studiích nebyly nicméně zaznamenány žádné známky toxicity v souvislosti s aplikací indium
+(¹¹¹In) oxinu potkanům v množství 0,3 mg oxinu/kg.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+SmPC_Indium Oxinate_147226-19                                    5 / 10
+
+6.1 Seznam pomocných látek
+
+Radionuklidový prekursor, roztok: trihydrát octanu sodného, anhydrid kyseliny octové, chlorid sodný, kyselina chlorovodíková, hexahydrát chloridu železitého, voda na injekci.
+pH = 2,5 - 3,5
+
+Tlumivý roztok: Trometamol, kyselina chlorovodíková, voda na injekci. pH = 7,9 - 8,1
+
+6.2 Inkompatibility
+
+Indium (¹¹¹In) oxin je nespecifická látka pro značení krevních elementů a v přítomnosti plné krve rychle vytváří ¹¹¹In značený transferin. Proto je nutné zajistit odstranění všech nežádoucích elementů a krevních proteinů při procesu separace. Veškeré laboratorní sklo použité při přípravě reagencií pro značení musí být dokonale čisté bez přítomnosti kovových nečistot.
+
+6.3 Doba použitelnosti
+
+Doba použitelnosti přípravku Indium (¹¹¹In) oxinate je 1 den od data a hodiny kalibrace. Datum použitelnosti je uvedeno na obalu každé lahvičky a na vnějším obalu.
+Doba použitelnosti tlumivého roztoku je 3 roky od data výroby.
+
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25° C. Uchovávání musí být v souladu s příslušnými předpisy pro manipulaci s radioaktivním materiálem.
+
+6.5 Druh obalu a obsah balení
+
+a) Radionuklidový prekursor, roztok: injekční 10 ml lahvička, uzavřená pryžovou zátkou a kovovou objímkou, vložená do olověného stínění.
+b) Tlumivý roztok: injekční lahvička uzavřená pryžovou zátkou a hliníkovou objímkou se žlutým plastovým
+krytem.
+6.6 Zvláštní opatření k likvidaci přípravku a pro zacházení s ním
+
+Všeobecná upozornění
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na pracovištích k tomu určených. Při skladování, přípravě a aplikaci radiofarmak a likvidaci odpadu je nutno dbát jak zásad ochrany zdraví před ionizujícím zářením vyplývajících z příslušných předpisů a vyhlášek, tak pokynů místních orgánů hygienické služby.
+
+Příprava radiofarmak musí být v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP. Je nutné dodržovat zásady aseptické práce a správné výrobní praxe pro radiofarmaka.
+Informace k přípravě radiofarmaka před aplikací viz bod 12.
+
+V případě jakéhokoliv poškození lahvičky není možné přípravek použít!
+
+Postup při aplikaci radiofarmaka musí zabezpečit zamezení kontaminace radiofarmakem a nadbytečné ozáření personálu. Nutné je používat vhodné ochranné prostředky a stínění.
+
+
+
+SmPC_Indium Oxinate_147226-19                                    6 / 10
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné předpisy pro ochranu zdraví před ionizujícím zářením.
+Pokyny pro likvidaci:
+Nespotřebovaný Indium (¹¹¹In) oxinát má být ponechán rozkladu tak dlouho, než jeho aktivita klesne na úroveň, která dle místních nařízení již není považována za radioaktivní. Poté má být zlikvidován jako neškodný odpad. Nespotřebované lahvičky s Tris pufrem mají být zlikvidovány jako neškodný odpad.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE PETTEN
+Nizozemsko
+
+8. REGISTRAČNÍ ČÍSLO(A)
+
+88/381/93-C
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+12.5.1993 / 27.7.2016
+
+10. DATUM REVIZE TEXTU
+
+15. 5. 2019
+
+11. DOZIMETRIE
+Údaje jsou převzaty z ICRP 53, International Commission on Radiological protection: "Radiation dose to Patients
+from Radiopharmaceuticals", Pergamon Press, 1988, (Annals of ICRP, vol. 18, 1-4, 1987).
+
+Leukocyty značené ¹¹¹In:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          3,1E-01   4,0E-01   5,9E-01   8,2E-01   1,4E+00
+Stěna moč. měchýře     7,2E-02   1,0E-01   1,6E-01   2,4E-01   4,1E-01 Povrch kostí          3,5E-01   5,0E-01   8,0E-01   1,4E+00   2,9E+00 Prsní žlázy           9,0E-02   9,0E-02   1,5E-01   2,3E-01   3,9E-01 GIT:
+stěna žaludku        2,8E-01   3,3E-01   4,9E-01   6,8E-01   1,1E+00
+tenké střevo        1,6E-01   1,9E-01   2,9E-01   4,3E-01   7,1E-01
+tlusté střevo
+horní část         1,6E-01   1,9E-01   3,0E-01   4,7E-01   7,8E-01 dolní část         1,3E-01   1,6E-01   2,4E-01   3,3E-01   5,4E-01 Srdce              1,7E-01   2,1E-01   3,0E-01   4,3E-01   7,3E-01
+Ledviny            3,3E-01   3,9E-01   6,0E-01   8,7E-01   1,4E+00
+Játra             7,1E-01   8,8E-01   1,3E+00   1,8E+00   3,2E+00
+SmPC_Indium Oxinate_147226-19                                    7 / 10
+
+Plíce              1,6E-01   2,1E-01   3,1E-01   4,6E-01   8,1E-01
+Vaječníky           1,2E-01   1,7E-01   2,4E-01   3,5E-01   5,6E-01
+Slinivka břišní         5,2E-01   6,1E-01   9,1E-01   1,3E+00   2,1E+00
+Červená kostní dřeň     6,9E-01   8,8E-01   1,3E+00   2,3E+00   4,5E+00 Slezina             5,5E+00   7,6E+00   1,1E+01   1,7E+01   3,0E+01
+Varlata             4,5E-02   6,4E-02   9,9E-02   1,5E-01   2,8E-01 Štítná žláza          6,1E-02   9,0E-02   1,3E-01   2,1E-01   3,8E-01 Děloha             1,2E-01   1,4E-01   2,1E-01   3,0E-01   5,0E-01
+
+Ostatní tkáně         1,1E-01   1,4E-01   2,0E-01   3,0E-01   5,3E-01
+
+Efektivní dávkový      5,9E-01   7,9E-01   1,2E+00   1,8E+00   3,2E+00
+ekvivalent (mSv/MBq)
+
+Trombocyty značené ¹¹¹In:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          3,7E-01   4,7E-01   7,2E-01   1,0E+00   1,8E+00
+Stěna moč. měchýře     6,6E-02   9,2E-02   1,4E-01   2,2E-01   3,9E-01 Povrch kostí          2,3E-01   3,2E-01   5,1E-01   8,7E-01   1,8E+00 Prsní žlázy           1,0E-01   1,1E-01   1,8E-01   2,9E-01   4,9E-01 GIT:
+stěna žaludku        3,5E-01   4,1E-01   6,0E-01   8,3E-01   1,4E+00
+tenké střevo        1,4E-01   1,7E-01   2,7E-01   4,2E-01   7,4E-01
+tlusté střevo
+horní část         1,4E-01   1,8E-01   2,9E-01   4,7E-01   8,0E-01 dolní část         9,7E-02   1,3E-01   2,0E-01   2,9E-01   5,0E-01 Srdce              3,9E-01   4,8E-01   7,1E-01   1,0E+00   1,8E+00
+Ledviny            4,1E-01   5,0E-01   7,6E-01   1,1E+00   1,8E+00
+Játra             7,3E-01   9,1E-01   1,3E+00   1,9E+00   3,4E+00
+Plíce              2,8E-01   3,6E-01   5,5E-01   8,5E-01   1,5E+00
+Vaječníky           9,8E-02   1,3E-01   2,0E-01   3,1E-01   5,3E-01
+Slinivka břišní         6,6E-01   7,5E-01   1,1E+00   1,6E+00   2,6E+00
+
+Červená kostní dřeň     3,6E-01   4,6E-01   6,8E-01   1,1E+00   2,1E+00 Slezina             7,5E+00   1,0E+01   1,5E+01   2,3E+01   4,1E+01
+Varlata             4,3E-02   6,0E-02   9,1E-02   1,4E-01   2,7E-01 Štítná žláza          8,1E-02   1,1E-01   1,8E-01   2,9E-01   5,4E-01 Děloha             9,5E-02   1,2E-01   1,8E-01   2,8E-01   4,9E-01
+Ostatní tkáně         1,2E-01   1.4E-01   2,1E-01   3,1E-01   5,6E-01
+
+Efektivní dávkový      7,0E-01   9,3E-01   1,4E+00   2,1E+00   3,7E+00
+ekvivalent (mSv/MBq)
+
+ICRP 80 poskytuje 3,6E-01 mSv/MBq jako efektivní dávku pro dospělé po aplikaci leukocytů značených ¹¹¹In.
+Efektivní dávkový ekvivalent po aplikaci 30 MBq leukocytů značených ¹¹¹In je v tomto případě 10,8 mSv.
+
+
+
+SmPC_Indium Oxinate_147226-19                                    8 / 10
+
+Dále ICRP 80 poskytuje 3,9E-01 mSv/MBq jako efektivní dávku pro dospělé po aplikaci krevních destiček značených ¹¹¹In. Efektivní dávkový ekvivalent po aplikaci 18,5 MBq krevních destiček značených ¹¹¹In je v tomto případě 7,2 mSv.
+Uvedené efektivní dávkové ekvivalenty jsou přibližně stejné jako v případě provedení běžných radiologických vyšetření.
+
+Aplikace 3 MBq značených leukocytů velmi malým dětem (mladším než 1 rok) způsobí absorbovanou dávku pro slezinu 90 mGy a efektivní dávkový ekvivalent 9,6 mSv. Aplikace trombocytů značených ¹¹¹In způsobí ve stejném případě absorbovanou dávku pro slezinu 76 mGy a efektivní dávkový ekvivalent 6,8 mSv.
+
+Nejsou k dispozici dozimetrické údaje pro erytrocyty značené ¹¹¹In. Při použití obdobné metodiky je vypočtený efektivní dávkový ekvivalent následující:
+
+Efektivní dávkový ekvivalent (mSv/MBq):
+dospělý   15 let    10 let    5 let     1 rok 4,0E-01   4,0E-01   7,0E-01   1,1E+00   2,0E+00
+
+Po aplikaci 18,5 MBq erytrocytů značených indiem (¹¹¹In) je efektivní dávkový ekvivalent 7,4 mSv.
+
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Návod ke značení leukocytů
+
+1. Do 50 ml stříkačky přidejte 4,5 ml ACD, 30 ml krve a 3 ml hydroxyethylškrobu.
+2. Opatrně promíchejte a nechte sedimentovat na stojánku po dobu 45 - 60 minut.
+3. Přemístěte plasmu bohatou na trombocyty (dále „PLRP“) do sterilní zkumavky nebo lahvičky pomocí trojcestného kohoutu. Je nutné zamezit kontaktu s erytrocyty.
+4. Proveďte centrifugaci PLRP při 130 - 170 g po dobu 5 - 10 minut.
+5. Přemístěte veškerý supernatant do sterilní zkumavky nebo lahvičky.
+6. Resuspendujte peletku ve 2 ml (v PBS nebo 0,9% roztoku chloridu sodného).
+7. Proveďte centrifugaci supernatantu při 1000 g po dobu 10 minut.
+8. Přemístěte supernatant do sterilní lahvičky.
+9. Přidejte 0,4 ml Tris pufru do 1 ml In-oxinátu. Doporučuje se přidat Tris pufr těsně před aplikací přípravku do krevních buněk, aby se zabránilo adsorpci na skleněnou lahvičku nebo injekční stříkačku.
+10. Inkubujte 4 - 37 MBq In-oxinátu se suspenzí leukocytů po dobu 15 minut.
+11. Proveďte úpravu plasmy na pH 6,5 (0,8 ml ACD / 10 ml plasmy).
+12. Přidejte 5 ml ACD-plasmy do značené směsi.
+13. Proveďte centrifugaci při 170 g po dobu 5 minut a uschovejte supernatant pro změření aktivity (=A).
+14. Resuspendujte ve 2 - 5 ml ACD-plasmy a změřte aktivitu (=B).
+15. Vypočtěte účinnost značení (=B/A+B).
+
+Návod ke značení trombocytů
+K 7,5 ml ACD přidejte 42,5 ml krve a proveďte centrifugaci při 200 g po dobu 15 minut. Supernatant - plasmu bohatou na trombocyty (dále „PRP“) odeberte pomocí stříkačky a proveďte acidifikaci pomocí ACD v množství 0,1 ml/ml PRP. Poté proveďte centrifugaci při 640 g.
+Odstraňte supernatant - plasmu chudou na trombocyty (dále „PPP“) a resuspendujte peletku v 3 ml 0,9% roztoku chloridu sodného.
+Přidejte 0,4 ml Tris pufru k 1 ml In-oxinu. Doporučuje se přidat Tris pufr těsně před aplikací přípravku do krevních buněk, aby se zabránilo adsorpci na skleněnou lahvičku nebo injekční stříkačku.
+Do suspenze trombocytů přidejte 4 - 37 MBq ¹¹¹In-oxinu ke značení. Nechte reagovat při obyčejné teplotě po dobu 20 minut. Poté doplňte PPP do objemu 5 ml a určete aktivitu.
+
+
+SmPC_Indium Oxinate_147226-19                                    9 / 10
+
+Volné nenavázané indium(¹¹¹In) je možné oddělit jako supernatant centrifugací při 1000 g po dobu 15 minut.
+Trombocyty jsou resuspendovány v 3 ml PPP.
+
+Další PPP přidejte do objemu 5 ml a určete aktivitu pro výpočet účinnosti označení. Suspenze označených
+trombocytů je poté možno aplikovat pacientovi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SmPC_Indium Oxinate_147226-19                                    10 / 10

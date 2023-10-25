@@ -1,0 +1,357 @@
+sp.zn. sukls46523/2021
+
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Vzduch medicinální syntetický SIAD 21,0 – 22,5 % V/V medicinální plyn, stlačený
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Oxygenum 21,0-22,5 % V/V
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Medicinální plyn, stlačený
+Vzduch medicinální syntetický SIAD je bezbarvý plyn bez zápachu.
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Vzduch medicinální syntetický SIAD je určen k inhalaci a je indikován jako náhrada běžného okolního vzduchu, kdykoliv je to potřeba:
+• Při umělé ventilaci
+•  Jako hnací plyn pro nebulizaci
+Syntetický medicinální vzduch je možné použít u všech věkových skupin
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Kdykoliv je třeba, je vhodné syntetický medicinální vzduch míchat s medicinálním kyslíkem. Vznikne tak směs plynů o žádoucím obsahu kyslíku podle dále uvedeného výpočtu, který slouží ke zjištění adekvátní oxygenace (PaO2/SaO2/SpO2):
+Koncentrace kyslíku je dána rovnicí:
+FiO₂ = (litry vzduchu/min x 0,21 + litry kyslíku/min x 1,00) x 100 litry podávané směsi (litry vzduchu/min + litry kyslíku/min)
+
+Pediatrická populace
+Syntetický medicinální vzduch je možné použít u všech věkových skupin včetně novorozenců, kojenců, dětí a dospívajících.
+
+Způsob podání
+
+Způsob podání se bude lišit v závislosti na indikaci.
+
+
+1/6
+
+Při dlouhodobém podávání se doporučuje zvlhčení (humidifikace).
+
+Vzduch medicinální syntetický SIAD se podává  za použití specializovaného zařízení (např. nosního katétru nebo obličejové masky, pomocí obličejového kyslíkového stanu nebo stanu pro kojence/novorozence nebo přívodní trubice při tracheotomii. Zařízení je nutné používat ve shodě s instrukcemi výrobce. Přebytečný kyslík výdechem odchází z těla pacienta a je smíchán s okolním vzduchem (tzv. otevřený systém). Při anestézii se používá speciální zařízení se zásobníkem nebo cirkulační systémy, kdy je vydechovaný plyn znovu vdechován (cirkulární systém s opakovaným dýcháním). Pokud pacient není schopen samostatného dýchání, může být nutné aplikovat mechanickou ventilaci.
+
+Nebulizace:
+Nebulizace je metoda užívaná pro podávání léčivých přípravků při mnoha respiračních onemocněních. Nebulizační techniky užívají mnoho typů nebulizérů. Některé jsou poháněny plynem, například syntetickým medicinálním vzduchem. Dochází ke vzniku aerosolu z roztoku léčiva, který se dostává do dýchacích cest inhalací.
+
+Opatření, která je nutno učinit před zacházením s léčivým přípravkem nebo před jeho podáním,
+viz bod 6.6.
+
+4.3  Kontraindikace
+
+Nejsou známy žádné absolutní kontraindikace.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Vzduch medicinální syntetický SIAD musí být pacientovi aplikován pouze při atmosférickém tlaku. Podávání syntetického medicinálního vzduchu pod tlakem může způsobit kesonovou nemoc (v důsledku účinku dusíku) a otravu kyslíkem.
+Pokud je medicinální vzduch smíšen s jinými inhalačními plyny, frakce kyslíku v inhalované směsi plynů (frakce vdechovaného kyslíku - FiO₂) musí být minimálně 21%. V praxi to znamená, že pokud je medicinální vzduch součástí směsi plynů, kyslík musí být jedním z dalších komponentů této směsi.
+Syntetický medicinální vzduch musí být podáván pomocí speciálních zařízení.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly hlášeny žádné interakce se syntetickým medicinálním vzduchem.
+
+4.6  Fertilita, těhotenství a kojení
+Vzduch medicinální syntetický SIAD může být užíván během těhotenství i kojení.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Vzduch medicinální syntetický SIAD nemá žádný nebo má zanedbatelný vliv na schopnost řídit
+nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+
+2/6
+
+Žádné nežádoucí účinky nejsou známy.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Předávkování syntetickým medicinálním vzduchem není možné, nicméně podávání syntetického medicinálního vzduchu pod tlakem může způsobit kesonovou nemoc (v důsledku účinku dusíku) a otravu kyslíkem (viz bod 4.4).
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: - Medicinální plyny ATC kód: V03AN05
+
+Vzduch medicinální syntetický SIAD představuje alternativní zdroj vzduchu, který má využití především ve zdravotnictví a v případech, kde musí být splněny zvláštní požadavky na čistotu.
+Medicinální vzduch obsahuje kyslík v podobné koncentraci jako okolní vzduch (21%) a je tedy vhodný k udržování odpovídající hladiny kyslíku u zdravých subjektů. Vzduch medicinální syntetický SIAD obsahuje 21,0 – 22,5 % obj. kyslíku, zbytek tvoří inertní dusík.
+
+Kyslík má pro život zásadní význam a musí být kontinuálně přiváděn ke všem tkáním, aby byla zachována produkce energie v buňkách. Cílovým místem působení kyslíku jsou mitochondrie v jednotlivých buňkách, kde se kyslík účastní enzymatické řetězové reakce, při níž vzniká energie. Kyslík je zásadní složkou buněčného metabolismu pro vytváření energie, pro produkci adenosintrifosfátu (ATP) v mitochondriích. S rostoucím FiO₂ vdechované směsi roste parciální tlak vzduchu dodávaného do buněk.
+
+5.2  Farmakokinetické vlastnosti
+
+Inhalovaný syntetický medicinální vzduch obsahuje jako účinnou složku kyslík, který je absorbován prostřednictvím na tlaku závislé výměny plynů mezi alveolárním plynem a kapilární krví protékající alveoly. Kyslík je transportován, převážně vázaný na hemoglobin, systémovou cirkulací ke všem tkáním těla. Pouze velmi malá část je volná, rozpuštěná v plazmě. Kyslík je životně důležitou složkou pro tvorbu energie při intermediárním metabolismu – aerobní ATP produkce v mitochondriích. Vyprodukovaný oxid uhličitý je organismem téměř zcela vyloučen ventilací.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+
+
+3/6
+
+Nejsou dostupná žádná preklinická data.
+
+Vzhledem k tomu, že syntetický medicinální vzduch je podobný běžnému atmosférickému vzduchu, neočekávají se žádná rizika.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Dusík.
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+•  Uchovávejte při teplotě od -40 °C do +65 °C.
+•  Uchovávejte ve vertikální poloze.
+•  Uchovávejte na dobře větraných místech.
+•  Uchovávejte z dosahu hořlavých materiálů.
+•  Chraňte před pádem či nárazy.
+•  Lahve na stlačený plyn obsahující různé druhy plynů musí být uchovávány odděleně.
+•  Plné a prázdné lahve na stlačený plyn musí být uchovávány odděleně.
+•  Lahve na stlačený plyn nesmí být uchovávány v blízkosti tepelných zdrojů.
+•  Lahve na stlačený plyn musí být skladovány zastřešené a dobře chráněné proti povětrnostním vlivům.
+
+6.5  Druh obalu a obsah balení
+
+Vzduch medicinální syntetický SIAD je uchováván pod tlakem v lahvích na stlačený plyn z oceli nebo hliníku, typ uzavíracího ventilu je standardní, integrovaný nebo RPV; materiál ventilů: chromovaná nebo niklovaná mosaz. Tělo lahve má bílou barvu a horní zaoblená část lahve obsahuje černý pruh na bílém pozadí.
+Láhve na stlačený plyn o objemu x litrů plněných na tlak 200 bar obsahují y (jednotek objemu) přípravku Vzduch medicinální syntetický SIAD při teplotě 15 °C a tlaku 1 bar:
+
+
+Vodní kapacita tlakové lahve(x) v litrech
+Objem medicinálního plynu v litrech
+(y) (při teplotě 15 °C a tlaku 1,013 bar)
+Materiál tlakové lahve
+Typ uzavíracího
+ventilu
+Materiál
+ventilu
+
+
+
+
+
+4/6
+
+2 l
+
+
+2 l
+
+
+2 l
+
+
+
+
+3 l
+
+
+3 l
+
+
+10 l
+
+
+10 l
+
+
+40 l
+
+
+40 l
+
+
+50 l
+
+
+50 l
+400
+
+
+400
+
+
+400
+
+
+
+
+600
+
+
+600
+
+
+2 000
+
+
+2 000
+
+
+8 000
+
+
+8 000
+
+
+10 000
+
+
+10 000
+Ocelová
+
+
+Ocelová
+
+
+Hliníková
+
+
+
+
+Ocelová
+
+
+Ocelová
+
+
+Ocelová
+
+
+Ocelová
+
+
+Ocelová
+
+
+Ocelová
+
+
+Ocelová
+
+
+Ocelová
+Standardní se závitem boční přípojky G5/8´´ RPV se závitem boční přípojky G5/8´´ Integrovaný se zpětnou klapkou a s vestavěným
+regulátorem tlaku a průtoku
+Standardní se závitem boční přípojky G5/8´´ RPV se závitem boční přípojky G5/8´´ Standardní se závitem boční přípojky G5/8´´ RPV se závitem boční přípojky G5/8´´ Standardní se závitem boční přípojky G5/8´´ RPV se závitem boční přípojky G5/8´´ Standardní se závitem boční přípojky G5/8´´ RPV se závitem boční přípojky G5/8´´
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Niklovaná
+mosaz
+
+
+
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Chromovaná
+mosaz
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Zavírejte ventily lahví. Prázdné lahve vraťte dodavateli.
+•  Láhev na stlačený plyn nepoužívejte, pokud je viditelně poškozena nebo při podezření na poškození nebo vystavení extrémním teplotám.
+•  Předejděte jakémukoli kontaktu s oleji, mastnotou nebo jinými uhlovodíky.
+•  Použít lze pouze zařízení vhodné pro daný typ lahve na stlačený plyn a plynu.
+•  K otevírání a zavírání ventilu lahve na stlačený plyn nepoužívejte kleště ani jiné nástroje, aby nedošlo k poškození.
+•  Tvar lahve na stlačený plyn nesmí být pozměněn.
+
+
+
+5/6
+
+•  V případě netěsnosti ihned uzavřete ventil lahve na stlačený plyn, pokud toto lze bezpečně provést. Nelze-li, přemístěte láhev na bezpečné místo mimo budovu a nechte kyslík vyprchat.
+•  Ventily prázdných lahví na stlačený plyn uzavřete.
+•  Spojky hadic, ventilů atd. musí být čisté a suché. Pokud dojde ke znečištění, očistěte je podle pokynů dodavatele. Nepoužívejte žádná rozpouštědla. Na čištění a osušení zařízení použijte čistý, netřepivý hadřík.
+•  Odčerpávání stlačeného plynu není povoleno.
+•  Kouření či práce s otevřeným ohněm v blízkosti lahve na stlačený plyn je zakázáno.
+•  Ventil lahve na stlačený plyn musí být pevně uzavřen.
+Přeprava lahví na stlačený plyn
+Lahve na stlačený plyn se musí přepravovat s vhodným materiálem, který je bude chránit před nebezpečnými údery a pády a bude je udržovat ve svislé poloze.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+SIAD Czech spol. s r.o. K Hájům 2606/2b Praha 5 - Stodůlky
+155 00
+Česká republika
+
+8.   REGISTRAČNÍ ČÍSLO
+
+89/1008/16-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 29. 5. 2019
+
+10.  DATUM REVIZE TEXTU
+9. 3. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6/6

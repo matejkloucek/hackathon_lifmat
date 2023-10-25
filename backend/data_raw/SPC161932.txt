@@ -1,0 +1,731 @@
+Sp. zn. sukls146710/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+JIMANDIN 100 mg potahované tablety
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna tableta přípravku JIMANDIN 100 mg potahované tablety obsahuje sitagliptini phosphas
+monohydricus odpovídající sitagliptinum 100 mg. Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+Potahovaná tableta
+Světle hnědá, kulatá, bikonvexní potahovaná tableta o průměru přibližně 10,3 mm
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+U dospělých pacientů s diabetem mellitem 2. typu je JIMANDIN indikován ke zlepšení kontroly
+glykemie:
+v monoterapii
+•  u pacientů, u kterých úprava stravy a cvičení samotné neposkytují dostatečnou kontrolu glykemie a u kterých metformin není vhodný v důsledku kontraindikací nebo nesnášenlivosti.
+ve dvojkombinační perorální terapii v kombinaci
+•  s metforminem v případech, kdy úprava stravy a cvičení při současném užívání metforminu samotného nezajistí dostatečnou úpravu glykemie.
+•  s derivátem sulfonylurey v případech, kdy úprava stravy a cvičení při současném užívání maximální tolerované dávky derivátu sulfonylurey samotného nezajistí dostatečnou úpravu glykemie a kdy je metformin nevhodný kvůli kontraindikacím nebo nesnášenlivosti.
+•  s agonistou receptoru aktivovaného peroxisomovým proliferátorem gama (PPARγ) (tj. thiazolidindionem), kdy použití agonisty PPARγ je vhodné a kdy úprava stravy a cvičení plus agonista PPARγ samotné neposkytují dostatečnou kontrolu glykemie.
+v trojkombinační perorální terapii v kombinaci
+•  s derivátem sulfonylurey a metforminem v případech, kdy úprava stravy a cvičení při dvojkombinační terapii těmito léčivými přípravky nezajistí dostatečnou úpravu glykemie.
+•  s agonistou PPARγ a metforminem, kdy použití agonisty PPARγ je vhodné a kdy úprava stravy a cvičení plus dvojkombinační terapie těmito léčivými přípravky neposkytuje dostatečnou kontrolu glykémie.
+JIMANDIN je rovněž indikován jako dodatečná terapie k léčbě inzulinem (s metforminem nebo bez něj), pokud úprava stravy a cvičení plus stabilní dávka inzulinu neposkytují odpovídající kontrolu glykemie.
+
+
+
+1/16
+
+4.2  Dávkování a způsob podání
+Dávkování
+Dávka je 100 mg sitagliptinu jednou denně. Pokud se používá v kombinaci s metforminem a/nebo agonistou PPARγ, je nutno zachovat dávku metforminu a/nebo agonisty PPARγ a JIMANDIN podávat souběžně.
+Jestliže je JIMANDIN užíván v kombinaci s derivátem sulfonylurey nebo s inzulinem, pak je možné zvážit nižší dávku derivátu sulfonylurey nebo inzulinu, aby se snížilo riziko hypoglykemie (viz bod 4.4).
+Při vynechání dávky přípravku JIMANDIN je třeba ji užít co nejdříve po tom, co si to pacient uvědomí. V jeden den se nesmí užít dvojitá dávka.
+Zvláštní populace
+Porucha funkce ledvin
+Při zvažování použití sitagliptinu v kombinaci s jiným antidiabetikem je nutno zkontrolovat podmínky použití takového antidiabetika u pacientů s poruchou funkce ledvin.
+U pacientů s mírnou poruchou funkce ledvin (rychlost glomerulární filtrace [GFR] ≥ 60 až < 90 ml/min) není nutno dávku upravovat.
+U pacientů se středně těžkou poruchou funkce ledvin (GFR ≥ 45 až < 60 ml/min) není nutno dávku
+upravovat.
+U pacientů se středně těžkou poruchou funkce ledvin (GFR ≥ 30 až < 45 ml/min) je dávka přípravku
+JIMANDIN 50 mg jednou denně.
+U pacientů s těžkou poruchou funkce ledvin (GFR ≥ 15 až < 30 ml/min) nebo v terminálním stádiu onemocnění ledvin (ESRD) (GFR < 15 ml/min), včetně těch, kteří vyžadují hemodialýzu nebo peritoneální dialýzu, je dávka sitagliptinu 25 mg jednou denně. Léčbu lze podávat bez ohledu na načasování dialýzy.
+JIMANDIN v silách 25 mg a 50 mg není v ČR registrován, na trhu jsou k dispozici jiné přípravky s
+obsahem sitagliptinu 25 mg nebo 50 mg v jedné tabletě.
+Protože dávka se s ohledem na funkci ledvin upravuje, doporučuje se před zahájením a pravidelně
+v průběhu léčby přípravkem JIMANDIN vyšetření funkce ledvin.
+Porucha funkce jater
+U pacientů s mírnou až středně těžkou poruchou funkce jater není nutno dávku nijak upravovat. Podávání přípravku JIMANDIN pacientům s těžkou poruchou funkce jater nebylo hodnoceno a je třeba opatrnost (viz bod 5.2).
+Nicméně protože je sitagliptin primárně eliminován ledvinami, nepředpokládá se, že by těžká porucha funkce jater ovlivňovala farmakokinetiku sitagliptinu.
+Starší pacienti
+Dávku není nutno podle věku nijak upravovat.
+Pediatrická populace
+Sitagliptin nemá být používán u dětí a dospívajících ve věku od 10 do 17 let z důvodu nedostatečné účinnosti. V současnosti dostupné údaje jsou uvedeny v bodech 4.8, 5.1 a 5.2. Sitagliptin nebyl hodnocen u pediatrických pacientů ve věku do 10 let.
+Způsob podání
+JIMANDIN lze užívat spolu s jídlem nebo bez něj.
+
+
+
+
+
+
+2/16
+
+4.3 Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 (viz body
+4.4 a 4.8).
+4.4  Zvláštní upozornění a opatření pro použití
+Obecně
+JIMANDIN se nemá podávat pacientům s diabetem 1. typu nebo používat k léčbě diabetické ketoacidózy.
+Akutní pankreatitida
+Užívání inhibitorů DPP-4 je spojováno s rizikem rozvoje akutní pankreatitidy. Pacienty je nutno poučit o charakteristickém symptomu akutní pankreatitidy: přetrvávající, těžké bolesti břicha. Po vysazení sitagliptinu (s podpůrnou léčbou nebo bez ní) byl pozorován ústup pankreatitidy, nicméně byly velmi vzácně hlášeny případy nekrotizující nebo hemoragické pankreatitidy a/nebo úmrtí. V případě podezření na pankreatitidu se musí JIMANDIN a další potenciálně podezřelé léčivé přípravky vysadit; pokud je akutní pankreatitida potvrzena, JIMANDIN nesmí být znovu nasazen.
+U pacientů s pankreatitidou v anamnéze je nutno postupovat opatrně. Hypoglykemie při kombinovaném podávání s jinými antidiabetiky
+V klinických hodnoceních přípravku JIMANDIN jako monoterapie a jako součásti kombinované léčby s léčivými přípravky, o nichž není známo, že by jejich podávání vedlo k hypoglykemii (tj. metformin a/nebo agonista PPARγ), byla četnost hlášených hypoglykémií navozených sitagliptinem podobná četnostem u pacientů užívajících placebo.
+Byla pozorována hypoglykemie, pokud byl sitagliptin používán v kombinaci s inzulinem nebo derivátem sulfonylurey. Ke snížení rizika hypoglykemie lze tudíž zvážit podávání nižších dávek derivátu sulfonylurey nebo inzulinu (viz bod 4.2).
+Porucha funkce ledvin
+Sitagliptin se vylučuje ledvinami. K dosažení obdobných plazmatických koncentrací sitagliptinu jako u pacientů s normální funkcí ledvin se u pacientů s GFR < 45 ml/min včetně pacientů s ESRD, kteří vyžadují hemodialýzu nebo peritoneální dialýzu, doporučuje nižší dávkování (viz body 4.2 a 5.2).
+Při zvažování použití sitagliptinu v kombinaci s jiným antidiabetikem je nutno zkontrolovat podmínky použití takového antidiabetika u pacientů s poruchou funkce ledvin.
+Hypersenzitivní reakce
+Po uvedení přípravku na trh byly u pacientů léčených sitagliptinem hlášeny závažné hypersenzitivní reakce. Tyto reakce zahrnují anafylaxi, angioedém a kožní exfoliativní stavy včetně Stevens-Johnsonova syndromu. Propuknutí těchto reakcí nastalo během prvních 3 měsíců po zahájení léčby, několik hlášení se vyskytlo po první dávce přípravku. Jestliže je podezření na hypersenzitivní reakci, užívání přípravku JIMANDIN je nutno přerušit. Je třeba zhodnotit další možné příčiny této příhody a zahájit jinou léčbu diabetu.
+Bulózní pemfigoid
+Po uvedení na trh byl u pacientů užívajících inhibitory DPP-4 včetně sitagliptinu hlášen bulózní
+pemfigoid. Jestliže je podezření na bulózní pemfigoid, sitagliptin se má vysadit.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Účinky jiných léků na sitagliptin
+Dále popsané klinické údaje naznačují, že riziko klinicky významných interakcí při podávání sitagliptinu je nízké.
+
+
+
+3/16
+
+Studie in vitro ukázaly, že odpovědnost za omezený metabolismus sitagliptinu má primárně enzym CYP3A4 za přispění CYP2C8. U pacientů s normální funkcí ledvin, hraje metabolismus včetně cesty CYP3A4 pouze malou roli v clearance sitagliptinu. Metabolismus může hrát důležitější roli v eliminaci sitagliptinu v souboru pacientů s těžkou poruchou funkce ledvin nebo terminálním onemocněním ledvin (ESRD). Z tohoto důvodu je možné, že účinné inhibitory CYP3A4 (např. ketokonazol, itrakonazol, ritonavir, klarithromycin) by mohly změnit farmakokinetiku sitagliptinu u pacientů s těžkou poruchou funkce ledvin nebo ESRD. Účinky účinných inhibitorů CYP3A4 v souboru pacientů s poruchou funkce ledvin nebyly v klinické studii hodnoceny.
+Studie transportu in vitro ukázaly, že sitagliptin je substrátem pro p-glykoprotein a transportér organických aniontů - 3 (OAT3). Transport sitagliptinu zprostředkovaný OAT3 byl in vitro inhibován probenecidem, avšak riziko klinicky významných interakcí je považováno za nízké. Současné podávání inhibitorů OAT3 nebylo in vivo hodnoceno.
+Metformin: Současné opakované podávání metforminu v dávce 1 000 mg dvakrát denně spolu se sitagliptinem v dávce 50 mg dvakrát denně nevedlo u pacientů s diabetem 2. typu k významné změně farmakokinetiky sitagliptinu.
+Cyklosporin: Byla provedena studie s cílem posoudit účinek cyklosporinu, který je účinným inhibitorem p-glykoproteinu, na farmakokinetiku sitagliptinu. Současné perorální podání jediné 100mg dávky sitagliptinu a jediné 600mg perorální dávky cyklosporinu zvýšilo hodnotu AUC sitagliptinu přibližně o 29 % a Cmax sitagliptinu přibližně o 68 %. Tyto změny ve farmakokinetice sitagliptinu nebyly považovány za klinicky významné. Nedošlo k významné změně renální clearance sitagliptinu.
+Proto se ani u jiných inhibitorů p-glykoproteinu nepředpokládají významné interakce.
+Účinky sitagliptinu na jiné léčivé přípravky
+Digoxin: Sitagliptin měl malý vliv na plazmatické koncentrace digoxinu. Při podávání digoxinu v dávce 0,25 mg současně se 100 mg sitagliptinu denně po dobu 10 dní se hodnota AUC digoxinu v plazmě zvýšila v průměru o 11 % a hodnota Cmax v plazmě v průměru o 18 %. Úprava dávky digoxinu není nutná. Přesto pacienti s rizikem toxicity digoxinu mají být sledováni v případě, že se sitagliptin a digoxin podávají současně.
+Údaje in vitro naznačují, že sitagliptin neinhibuje ani neindukuje isoenzymy CYP450. V klinických studiích  neměnil  sitagliptin  významným  způsobem  farmakokinetiku  metforminu,  glyburidu, simvastatinu, rosiglitazonu, warfarinu ani perorálních kontraceptiv, byly tak in vivo získány důkazy velmi nízké tendence k vyvolávání interakcí se substráty CYP3A4, CYP2C8, CYP2C9 a s organickým kationtovým transportérem (organic cationic transporter, OCT). Sitagliptin může být mírným inhibitorem p-glykoproteinu in vivo.
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+K dispozici není dostatek údajů o podávání sitagliptinu těhotným ženám. Studie se zvířaty prokázaly reprodukční toxicitu při vysokých dávkách (viz bod 5.3). Potenciální riziko pro člověka není známo. Vzhledem k nedostatku údajů týkajících se použití u člověka se JIMANDIN nesmí během těhotenství užívat.
+Kojení
+Není známo, zda se sitagliptin vylučuje do lidského mateřského mléka. Studie se zvířaty prokázaly vylučování sitagliptinu do mateřského mléka. Během kojení se JIMANDIN nesmí užívat.
+Fertilita
+Údaje získané z experimentů na zvířatech nenaznačují účinky léčby sitagliptinem na fertilitu samců ani samic. Údaje týkající se lidí nejsou k dispozici.
+
+
+
+
+
+4/16
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+JIMANDIN nemá žádný nebo má zanedbatelný vliv na schopnost řídit a obsluhovat stroje. Při řízení nebo obsluze strojů by však mělo být přihlédnuto k tomu, že byly hlášeny závrať a ospalost.
+Kromě toho musí být pacienti upozorněni na riziko hypoglykemie, pokud se JIMANDIN užívá
+v kombinaci se sulfonylureou nebo s inzulinem.
+4.8 Nežádoucí účinky
+Shrnutí bezpečnostního profilu
+Byly hlášeny závažné nežádoucí účinky, včetně pankreatitidy a hypersenzitivních reakcí. V kombinaci se sulfonylureou a inzulinem byla hlášena hypoglykemie (4,7–13,8 % u derivátů sulfonylurey a 9,6 % u inzulinu, viz bod 4.4).
+Tabulkový seznam nežádoucích účinků
+Nežádoucí účinky jsou uvedeny dále (Tabulka 1) podle třídy orgánových systémů a četnosti výskytu. Četnosti výskytu jsou definovány jako: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1 000 až <1/100); vzácné (≥1/10 000 až <1/1 000); velmi vzácné (<1/10 000) a není známo (z dostupných údajů nelze určit).
+Tabulka 1. Frekvence výskytu nežádoucích účinků zjištěných v placebem kontrolovaných klinických studiích se sitagliptinem v monoterapii a po uvedení přípravku na trh
+Nežádoucí účinek                        Četnost nežádoucího účinku Poruchy krve a lymfatického systému
+trombocytopenie                         Vzácné
+Poruchy imunitního systému
+hypersenzitivní reakce včetně anafylaktických reakcí*,†     Četnost není známa
+Poruchy metabolismu a výživy
+hypoglykemie†                          Časté
+Poruchy nervového systému
+bolest hlavy                            Časté
+závrať                               Méně časté
+Respirační, hrudní a mediastinální poruchy
+intersticiální plicní nemoc*                    Četnost není známa
+Gastrointestinální poruchy
+
+zácpa zvracení*
+akutní pankreatitida*,†,‡
+fatální a nefatální hemoragická a nekrotizující pankreatitida*,†
+Poruchy kůže a podkožní tkáně
+pruritus* angioedém*,† vyrážka*,† urtikarie*,†
+kožní vaskulitida*,†
+Méně časté
+Četnost není známa Četnost není známa Četnost není známa
+
+Méně časté
+Četnost není známa Četnost není známa Četnost není známa Četnost není známa
+exfoliativní kožní stavy včetně Stevens-Johnsonova syndromu*,† Četnost není známa
+bulózní pemfigoid*                        Četnost není známa
+
+
+5/16
+
+Nežádoucí účinek                        Četnost nežádoucího účinku Poruchy svalové a kosterní soustavy a pojivové
+tkáně
+
+artralgie* myalgie* bolest zad* artropatie*
+Poruchy ledvin a močových cest
+Četnost není známa Četnost není známa Četnost není známa Četnost není známa
+porucha funkce ledvin*                      Četnost není známa
+akutní selhání ledvin*                       Četnost není známa
+* Nežádoucí účinky byly zaznamenány po uvedení na trh.
+† Viz bod 4.4.
+‡ Viz níže Kardiovaskulární bezpečnostní studie TECOS Popis vybraných nežádoucích účinků
+Kromě výše uvedených nežádoucích účinků souvisejících s léčivem, nežádoucí účinky hlášené bez ohledu na kauzální souvislost s medikací a objevující se alespoň u 5 % pacientů léčených sitagliptinem nebo častěji zahrnovaly infekci horních cest dýchacích a nasofaryngitidu.
+Další nežádoucí účinky hlášené bez ohledu na kauzální souvislost s medikací, které se objevovaly častěji u pacientů léčených sitagliptinem (nedosahující 5% hranici, ale objevující se s četností vyšší o 0,5 % u sitagliptinu než v kontrolní skupině) zahrnovaly osteoartritidu a bolest končetin.
+Některé nežádoucí účinky byly pozorovány častěji ve studiích kombinovaného použití sitagliptinu s jinými antidiabetickými léčivými přípravky než ve studiích se sitagliptinem v monoterapii. Tyto nežádoucí účinky zahrnovaly hypoglykemii (četnost velmi častá v kombinaci s deriváty sulfonylurey a metforminem), chřipku (časté v kombinaci s inzulinem (s metforminem nebo bez něj)), nevolnost a zvracení (časté v kombinaci s metforminem), nadýmání (časté v kombinaci s metforminem nebo pioglitazonem), zácpu (časté v kombinaci s deriváty sulfonylurey a metforminem), periferní edém (časté v kombinaci s pioglitazonem nebo v kombinaci s pioglitazonem a metforminem), somnolenci a průjem (méně časté v kombinaci s metforminem) a sucho v ústech (méně časté v kombinaci s inzulinem (s nebo bez metforminu)).
+Pediatrická populace
+V klinických studiích se sitagliptinem u pediatrických pacientů s diabetem mellitem 2. typu ve věku od 10 do 17 let byl profil nežádoucích účinků srovnatelný s profilem pozorovaným u dospělých.
+Kardiovaskulární bezpečnostní studie TECOS
+Studie hodnotící výskyt kardiovaskulárních příhod při léčbě sitagliptinem (TECOS) zahrnovala v populaci všech zařazených subjektů 7 332 pacientů léčených sitagliptinem v dávce 100 mg denně (nebo 50 mg denně, pokud počáteční hodnota eGFR byla ≥30 a <50 ml/min/1,73 m²) a 7 339 pacientů léčených placebem. V obou skupinách byla léčba přidána k běžné léčbě se zaměřením na standardní hladiny HbA1c a na kardiovaskulární rizikové faktory. Celková incidence závažných nežádoucích účinků byla u pacientů se sitagliptinem podobná jako u pacientů s placebem.
+V populaci všech zařazených pacientů byla mezi pacienty, kteří při zahájení studie používali insulin a/nebo derivát sulfonylurey, incidence závažné hypoglykemie 2,7 % u pacientů se sitagliptinem a 2,5 % u pacientů s placebem. Mezi pacienty, kteří při zahájení studie nepoužívali insulin a/nebo derivát sulfonylurey, byla incidence závažné hypoglykemie 1,0 % u pacientů se sitagliptinem a 0,7 % u pacientů s placebem. Incidence případů pankreatidy potvrzených posouzením byla 0,3 % u pacientů se sitagliptinem a 0,2 % u pacientů s placebem.
+Hlášení podezření na nežádoucí účinky
+
+
+6/16
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9 Předávkování
+Příznaky
+V kontrolovaných klinických studiích se zdravými dobrovolníky byly podávány jednorázové dávky až 800 mg sitagliptinu. Minimální zvýšení QTc, nepovažované za klinicky významné, bylo pozorováno v jedné studii se sitagliptinem v dávce 800 mg. S dávkami nad 800 mg nejsou z klinických studií zkušenosti. Ve studiích fáze I s opakovanými dávkami nebyly u sitagliptinu v dávkách do 600 mg za den podávaných po dobu až 10 dní a v dávkách až 400 mg za den podávaných po dobu až 28 dní pozorovány žádné na dávce závislé nežádoucí účinky.
+Léčba
+V případě předávkování je vhodné použít obvyklých podpůrných opatření, např. odstranit nevstřebanou látku z trávicího ústrojí, zahájit klinické monitorování (včetně natočení elektrokardiogramu) a v případě potřeby zavést podpůrnou léčbu.
+Sitagliptin je v malé míře dialyzovatelný. V klinických studiích se přibližně během 3–4hodinové dialýzy z organismu odstranilo přibližně 13,5 % dávky. Pokud by z klinického hlediska byla vhodná delší dialýza, lze o ní uvažovat. Není známo, zda lze sitagliptin dialyzovat peritoneální dialýzou.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: léky používané při diabetu inhibitory dipeptidylpeptidázy 4 (DPP-4), ATC kód: A10BH01.
+Mechanismus účinku
+Sitagliptin patří do skupiny perorálních antidiabetik označovaných jako inhibitory dipeptidyl peptidázy 4 (DPP-4). Zlepšení kontroly glykemie pozorované při užívání tohoto léčivého přípravku může být zprostředkováno zvýšením koncentrace aktivních inkretinových hormonů. Inkretinové hormony včetně glukagonu podobného peptidu 1 (glucagon-like peptide-1, GLP-1) a na glukóze dependentního inzulinotropního polypeptidu (GIP) jsou přes celý den uvolňovány střevy a jejich koncentrace se v reakci na jídlo zvyšují. Inkretiny jsou součástí endogenního systému podílejícího se na fyziologické regulaci glukózové homeostázy. Při normálních nebo zvýšených koncentracích glukózy v krvi zvyšují GLP-1 a GIP syntézu inzulinu a jeho uvolňování z pankreatických beta-buněk nitrobuněčnými signálními dráhami zahrnujícími cyklický AMP.
+U zvířecích modelů diabetu 2. typu se ukázalo, že podávání GLP-1 nebo inhibitorů DPP-4 zlepšuje odpověď beta-buněk na glukózu a podporuje biosyntézu a uvolňování inzulinu. Při vyšších koncentracích inzulinu se zvyšuje vychytávání glukózy tkáněmi. Navíc GLP-1 snižuje sekreci glukagonu z alfa-buněk pankreatu. Snížené koncentrace glukagonu spolu s vyššími koncentracemi inzulinu vedou ke snížení produkce glukózy játry s výsledným poklesem koncentrace glukózy v krvi. Účinky GLP-1 a GIP jsou závislé na glukóze, a to tak, že při nízkých koncentracích glukózy v krvi není stimulace uvolňování inzulinu ani potlačování sekrece glukagonu ze strany GLP-1 pozorováno. Pro GLP-1 i GIP platí, že stimulace uvolňování inzulinu je zesílena při vzestupu glukózy nad normální koncentrace.  Dále  platí, že  GLP-1 neovlivňuje negativně  normální  odpověď  glukagonu  na
+
+
+7/16
+
+hypoglykemii. Účinek GLP-1 a GIP je omezován enzymem DPP-4, který rychle rozkládá inkretinové hormony za vzniku neúčinných produktů. Sitagliptin zabraňuje hydrolýze inkretinových hormonů enzymem DPP-4 a zvyšuje tak plazmatické koncentrace účinných forem GLP-1 a GIP. Zvyšováním koncentrací účinných inkretinů zvyšuje sitagliptin uvolňování inzulinu a snižuje koncentrace glukagonu v závislosti na hodnotách glukózy. U diabetiků 2. typu s hyperglykémií vedou tyto změny v koncentracích inzulinu a glukagonu k nižším hodnotám hemoglobinu A1c (HbA1c) a nižším koncentracím glukózy nalačno i po jídle. Glukózo-dependentní mechanismus sitagliptinu je odlišný od mechanismu účinku derivátů sulfonylurey, která zvyšuje sekreci inzulinu i při nízké koncentraci glukózy, a může tak u pacientů s diabetem mellitem 2. typu a u zdravých jedinců způsobovat hypoglykemii. Sitagliptin je silným a vysoce selektivním inhibitorem enzymu DPP-4, přičemž v terapeutických koncentracích neinhibuje blízce příbuzné enzymy DPP-8 a DPP-9.
+Ve dvoudenní studii na zdravých dobrovolnících sitagliptin samotný zvyšoval koncentrace aktivního GLP-1, zatímco metformin samotný zvyšoval koncentrace aktivního a celkového GLP-1 podobnou měrou.
+Současné podání sitagliptinu a metforminu mělo aditivní účinek na koncentrace aktivního GLP-1. Sitagliptin, nikoli však metformin, zvyšoval koncentrace aktivního GIP.
+Klinická účinnost a bezpečnost
+Celkově sitagliptin kompenzoval glykemii při užívání v monoterapii nebo při kombinované léčbě
+u dospělých pacientů s diabetem 2. typu (viz Tabulka 2).
+Byly provedeny dvě studie s cílem zhodnotit účinnost a bezpečnost sitagliptinu v monoterapii. Podávání sitagliptinu v dávce 100 mg jednou denně v monoterapii vedlo ve dvou studiích, jedné trvající 18 týdnů a druhé trvající 24 týdnů, ke statisticky významnému zlepšení hodnot HbA1c, koncentrací glukózy v plazmě nalačno (fasting plasma glucose, FPG) a glukózy 2 hodiny po jídle (PPG po 2 hodinách) oproti placebu. Bylo pozorováno zlepšení hodnot náhradních ukazatelů funkce beta-buněk, včetně HOMA-β (Homeostasis Model Assessment-β), poměru proinzulinu a inzulinu a měření odpovědi beta-buněk v testu tolerance jídla s častým odběrem vzorků (frequently-sampled meal tolerance test).
+Zjištěný výskyt hypoglykemie u pacientů užívajících sitagliptin byl podobný jako u placeba.
+V žádné z obou studií nedošlo při užívání sitagliptinu ke zvýšení tělesné hmotnosti oproti výchozí hodnotě, a to v porovnání s malým snížením pozorovaným u pacientů užívajících placebo.
+Ve dvou 24týdenních studiích sitagliptinu jako dodatečné léčby, jednou v kombinaci s metforminem a jednou v kombinaci s pioglitazonem, poskytl sitagliptin v dávce 100 mg jednou denně v porovnání s placebem významná zlepšení glykemických parametrů. Změna tělesné hmotnosti v porovnání s výchozími hodnotami byla u pacientů léčených sitagliptinem podobná jako u pacientů s placebem. V těchto studiích byla u pacientů léčených sitagliptinem a placebem podobná incidence hlášených hyperglykémií.
+Byla navržena 24týdenní placebem kontrolovaná studie k vyhodnocení účinnosti a bezpečnosti sitagliptinu (100 mg jednou denně) přidaného ke glimepiridu samotnému nebo ke glimepiridu v kombinaci s metforminem. Přidání sitagliptinu buď ke glimepiridu samotnému nebo ke glimepiridu a metforminu poskytlo významná zlepšení glykemických parametrů. Pacienti léčení sitagliptinem zaznamenali v porovnání s pacienty léčenými placebem mírné zvýšení tělesné hmotnosti.
+Byla navržena 26týdenní placebem kontrolovaná studie s cílem vyhodnotit účinnost a bezpečnost sitagliptinu (100 mg jednou denně) přidaného ke kombinaci pioglitazonu a metforminu. Přidání sitagliptinu k pioglitazonu a metforminu poskytlo významná zlepšení glykemických parametrů. Změny výchozích hodnot tělesné hmotnosti byly u pacientů léčených sitagliptinem v porovnání s pacienty léčenými placebem podobné. Incidence hypoglykemie byla u pacientů léčených sitagliptinem nebo placebem rovněž podobná.
+Byla navržena 24týdenní, placebem kontrolovaná studie s cílem vyhodnotit účinnost a bezpečnost sitagliptinu (100 mg jednou denně) přidaného k inzulinu (v ustálené dávce po dobu nejméně 10 týdnů) s metforminem nebo bez něj (nejméně 1 500 mg). U pacientů užívajících premixovaný inzulin byla
+
+
+8/16
+
+průměrná  denní  dávka  70,9  U/den.  U  pacientů  užívajících  nepremixovaný  inzulin (střednědobě/dlouhodobě působící) byla průměrná dávka 44,3 U/den. Přidání sitagliptinu k inzulinu poskytlo významná zlepšení glykemických parametrů. V žádné ze skupin nedošlo k významné změně výchozích hodnot tělesné hmotnosti.
+Ve 24týdenní placebem kontrolované faktoriální studii zahajovací léčby poskytl sitagliptin 50 mg dvakrát denně v kombinaci s metforminem (500 mg nebo 1 000 mg dvakrát denně) v porovnání s každou terapií samotnou významná zlepšení glykemických parametrů. Pokles tělesné hmotnosti u kombinace sitagliptinu a metforminu byl podobný poklesu pozorovanému u metforminu samotného nebo u placeba; u pacientů na sitagliptinu samotném nedošlo v porovnání s výchozími hodnotami ke změně. Incidence hypoglykemie byla ve všech léčebných skupinách podobná.
+Tabulka 2: Výsledky HbA1c v placebem kontrolovaných studiích monoterapie a kombinované léčby*
+
+Studie
+
+
+
+
+
+Studie monoterapie Sitagliptin 100 mg jednou denně§
+(N = 193)
+Sitagliptin 100 mg
+jednou denně II
+(N = 229)
+Střední hodnota výchozí hladiny HbA1c (%)
+
+
+
+
+8,0
+
+
+8,0
+Střední hodnota změny oproti výchozí hladině HbA1c
+(%)†
+
+
+
+-0,5
+
+
+-0,6
+Dle placeba
+korigovaná střední hodnota změny HbA1c (%)†
+(95% interval spolehlivosti)
+
+-0,6‡
+(-0,8, -0,4)
+
+-0,8 ‡
+(-1,0, -0,6)
+Studie kombinované léčby
+
+Sitagliptin 100 mg jednou denně přidaný ke stávající léčbě metforminemII
+(N = 453)
+Sitagliptin 100 mg jednou denně přidaný ke stávající léčbě pioglitazonemII
+(N = 163)
+Sitagliptin 100 mg jednou denně přidaný ke stávající léčbě glimepiridemII
+(N = 102)
+Sitagliptin 100 mg jednou denně přidaný ke stávající léčbě glimepiridem + metforminemII
+(N = 115)
+Sitagliptin 100 mg jednou denně přidán ke stávající léčbě pioglitazonem + metforminem#
+(N = 152)
+8,0
+
+
+
+
+8,1
+
+
+
+
+8,4
+
+
+
+
+8,3
+
+
+
+
+
+8,8
+-0,7
+
+
+
+
+-0,9
+
+
+
+
+-0,3
+
+
+
+
+-0,6
+
+
+
+
+
+-1,2
+-0,7‡
+(-0,8, -0,5)
+
+
+
+-0,7‡
+(-0,9, -0,5)
+
+
+
+-0,6‡
+(-0,8, -0,3)
+
+
+
+-0,9‡
+(-1,1, -0,7)
+
+
+
+
+-0,7‡
+(-1,0, -0,5)
+
+
+9/16
+
+Studie
+
+
+
+
+
+Zahajovací léčba (dvakrát denně)II : Sitagliptin 50 mg + metformin 500 mg
+(N = 183)
+Zahajovací léčba (dvakrát denně)II : Sitagliptin 50 mg + metformin 1000 mg
+(N = 178)
+Sitagliptin 100 mg jednou denně přidán ke stávající léčbě inzulinem (+/- metformin)II
+(N = 305)
+Střední hodnota výchozí hladiny HbA1c (%)
+
+
+
+8,8
+
+
+
+
+8,8
+
+
+
+
+8,7
+Střední hodnota změny oproti výchozí hladině HbA1c
+(%)†
+
+
+-1,4
+
+
+
+
+-1,9
+
+
+
+
+-0,6
+Dle placeba
+korigovaná střední hodnota změny HbA1c (%)†
+(95% interval spolehlivosti)
+-1,6‡
+(-1,8, -1,3)
+
+
+
+-2,1‡
+(-2,3, -1,8)
+
+
+
+-0,6‡,¶
+(-0,7, -0,4)
+* Populace všech léčených pacientů (analýza záměru léčit (intention-to-treat analysis))
+† Střední hodnoty získané metodou nejmenších čtverců upravené s ohledem na stav před antihyperglykemickou léčbou a na výchozí hodnotu
+‡ p <0,001 v porovnání s placebem nebo placebem + kombinační léčbou
+§ HbA1c (%) v 18. týdnu II HbA1c (%) ve 24. týdnu # HbA1c (%) v 26. týdnu
+¶ Střední hodnota získaná metodou nejmenších čtverců upravená podle používání metforminu při Návštěvě 1 (ano/ne), inzulinu při Návštěvě 1 (premixovaný vs. nepremixovaný [střednědobě nebo dlouhodobě působící]), a výchozí hodnota. Interakce podle strata léčby (používání metforminu a inzulinu) nebyly významné (p>0,10).
+Byla navržena 24týdenní aktivním komparátorem (metformin) kontrolovaná studie k vyhodnocení účinnosti a bezpečnosti sitagliptinu v dávce 100 mg jednou denně (N = 528) v porovnání s metforminem (N = 522) u pacientů s nedostatečnou kontrolou glykemie pomocí úpravy stravy a cvičení a neléčených antidiabetiky (neléčeni po dobu alespoň 4 měsíců). Střední hodnota dávky metforminu byla přibližně 1 900 mg za den. Snížení HbA1c ze střední hodnoty výchozích hodnot 7,2 % bylo -0,43 % u sitagliptinu a -0,57 % u metforminu (analýza skupiny léčené dle protokolu – Per Protocol Analysis). Celková incidence gastrointestinálních nežádoucích účinků považovaných za související s léčivem u pacientů léčených sitagliptinem byla 2,7 % v porovnání s 12,6 % u pacientů léčených metforminem. Incidence hypoglykemie nebyla mezi léčenými skupinami významně odlišná (sitagliptin 1,3 %; metformin 1,9 %). V obou skupinách došlo k poklesu tělesné hmotnosti z výchozích hodnot (sitagliptin, -0,6 kg; metformin
+-1,9 kg).
+Ve studii porovnávající účinnost a bezpečnost přidání 100 mg sitagliptinu jednou denně nebo glipizidu (derivát sulfonylurey) u pacientů s nedostatečnou kontrolou glykemie léčených metforminem v monoterapii byl při snižování HbA1c sitagliptin podobný glipizidu. Střední hodnota použité dávky glipizidu ve srovnávací skupině byla během studie 10 mg za den s přibližně 40 % pacientů, kteří vyžadovali dávku glipizidu ≤ 5 mg/den. Ve skupině léčené sitagliptinem však léčbu kvůli nedostatečné účinnosti ukončilo více pacientů než ve skupině léčené glipizidem. Pacienti léčení sitagliptinem vykazovali významnou střední hodnotu poklesu tělesné hmotnosti oproti jejím výchozím hodnotám, zatímco u pacientů léčených glipizidem došlo k významnému zvýšení tělesné hmotnosti (-1,5 oproti
+
+
+10/16
+
++1,1 kg). V této studii byl poměr proinzulinu k inzulinu, což je marker účinnosti syntézy a uvolňování inzulinu, zlepšen u léčby sitagliptinem a zhoršen u léčby glipizidem. Incidence hypoglykemie ve skupině léčené sitagliptinem (4,9 %) byla významně nižší než ve skupině léčené glipizidem (32,0 %).
+Byla navržena 24týdenní, placebem kontrolovaná studie zahrnující 660 pacientů s cílem vyhodnotit inzulin šetřící účinnost a bezpečnost sitagliptinu (100 mg jedenkrát denně) přidaného k inzulinu glargin s metforminem (nejméně 1500 mg) nebo bez něj v průběhu intenzifikace inzulinové terapie. Výchozí hodnota HbA1c byla 8,74 % a základní dávka inzulinu byla 37 IU/den. Pacienti byli instruováni, aby titrovali svou dávku inzulinu glargin na základě hodnot glukózy nalačno získaných z testů krve odebrané z prstu. Ve 24. týdnu bylo zvýšení denní dávky inzulinu o 19 IU/den u pacientů léčených sitagliptinem a o 24 IU/den u pacientů léčených placebem. Snížení HbA1c u pacientů léčených sitagliptinem a inzulinem (s metforminem nebo bez něj) bylo -1,31 % v porovnání s -0,87 % u pacientů léčených placebem a inzulinem (s metforminem nebo bez něj), což je rozdíl o -0,45 % [95% interval spolehlivosti:
+-0,60, -0,29]. Incidence hypoglykemie byla 25,2 % u pacientů léčených sitagliptinem a inzulinem (s metforminem nebo bez něj) a 36,8 % u pacientů léčených placebem a inzulinem (s metforminem nebo bez něj). Rozdíl byl způsoben především vyšším procentem pacientů ve skupině užívající placebo, kteří zaznamenali 3 a více případů hypoglykemie (9,4 versus 19,1 %). Nebyl zjištěn žádný rozdíl ve výskytu závažné hypoglykemie.
+U pacientů se středně těžkou až těžkou poruchou funkce ledvin byla provedena studie porovnávající sitagliptin v dávce 25 nebo 50 mg jednou denně s glipizidem v dávce 2,5 až 20 mg/den. Tato studie zahrnovala 423 pacientů s chronickou poruchou funkce ledvin (odhadovaná rychlost glomerulární filtrace <50 ml/min). Po 54 týdnech byla střední hodnota snížení výchozích hodnot HbA1c -0,76 % u sitagliptinu a -0,64 % u glipizidu (analýza pacientů dokončivších studii dle protokolu (Per-Protocol Analysis)). V této studii byl profil účinnosti a bezpečnosti sitagliptinu v dávce 25 nebo 50 mg jednou denně obecně podobný profilu pozorovanému v jiných studiích monoterapie u pacientů s normální funkcí ledvin. Incidence hypoglykemie ve skupině léčené sitagliptinem (6,2 %) byla významně nižší, než ve skupině léčené glipizidem (17,0 %). Rovněž zde byl významný rozdíl mezi skupinami, pokud jde o změnu výchozí tělesné hmotnosti (sitagliptin -0,6 kg; glipizid +1,2 kg).
+Jiná studie porovnávající sitagliptin v dávce 25 mg jednou denně s glipizidem v dávce 2,5 až 20 mg/den byla provedena u 129 pacientů s terminálním onemocněním ledvin, kteří byli na dialýze. Po 54 týdnech byla střední hodnota snížení výchozích hodnot HbA1c -0,72 % u sitagliptinu a -0,87 % u glipizidu V této studii byl profil účinnosti a bezpečnosti sitagliptinu v dávce 25 mg jednou denně obecně podobný profilu pozorovanému v jiných studiích monoterapie u pacientů s normální funkcí ledvin. Incidence hypoglykemie se mezi léčenými skupinami významně nelišila (sitagliptin, 6,3 %; glipizid, 10,8 %).
+V další studii zahrnující 91 pacientů s diabetem typu 2 a chronickou poruchou funkce ledvin (clearance kreatininu <50 ml/min) byla bezpečnost a snášenlivost léčby sitagliptinem v dávce 25 nebo 50 mg jednou denně obecně podobná jako u placeba. Navíc po 12 týdnech byly střední hodnoty snížení HbA1c (sitagliptin -0,59 %; placebo -0,18 %) a FPG (sitagliptin -25,5 mg/dl; placebo -3,0 mg/dl) obecně podobné jako u jiných studií monoterapie u pacientů s normální funkcí ledvin (viz bod 5.2).
+Studie TECOS byla randomizovaná studie, do níž bylo celkem zařazeno 14 671 pacientů s HbA1c mezi 6,5 % a 8,0 % a s potvrzeným kardiovaskulárním onemocněním. Pacientům byl podáván sitagliptin (7 332 pacientů) v dávce 100 mg denně (nebo 50 mg denně, pokud počáteční hodnota eGFR byla ≥30 a <50 ml/min/1,73 m2) nebo placebo (7 339 pacientů) navíc k běžné léčbě se zaměřením na standardní hladiny HbA1c a na kardiovaskulární rizikové faktory. Pacienti s eGFR <30 ml/min/1,73 m² do studie nemohli být zařazeni. Populace zařazená do studie zahrnovala 2 004 pacientů ve věku ≥75 let a 3 324 pacientů s poruchou funkce ledvin (eGFR <60 ml/min/1,73 m²).
+V průběhu studie byl celkový odhadovaný průměrný rozdíl v HbA1c mezi skupinami se sitagliptinem a placebem 0,29 % (0,01), 95% CI (-0,32; -0,27), p <0,001. Primární složený kardiovaskulární cíl byl první výskyt kardiovaskulárního úmrtí, nefatální infarkt myokardu, nefatální cévní mozková příhoda nebo hospitalizace pro nestabilní anginu pectoris. Sekundární kardiovaskulární cíle zahrnovaly první výskyt kardiovaskulárního úmrtí, nefatální infarkt myokardu, nefatální cévní mozkovou příhodu; první výskyt jednotlivých složek primárního složeného cíle; jakékoli úmrtí; hospitalizaci pro městnavé srdeční selhání.
+
+
+11/16
+
+Po mediánu následného sledování 3 roky sitagliptin přidaný k běžné léčbě nezvýšil ve srovnání s běžnou léčbou bez sitagliptinu u pacientů s diabetem mellitem 2. typu riziko závažných kardiovaskulárních nežádoucích účinků nebo riziko hospitalizace kvůli srdečnímu selhání (Tabulka 3).
+Tabulka 3: Výskyt příhod složeného kardiovaskulárního cíle a klíčových sekundárních cílů
+
+Sitagliptin 100 mg
+Incidence na 100
+paciento-
+Placebo
+Incidence na 100
+paciento-
+
+
+
+Hazard
+Ratio    p-
+
+N (%)
+roků*
+N (%)
+roků*
+(95% CI)
+hodnota†
+Analýza v populaci všech zařazených pacientů
+
+Počet pacientů
+Primární složený cíl (Kardiovaskulární úmrtí, nefatální infarkt myokardu, nefatální cévní mozková příhoda nebo hospitalizace pro nestabilní anginu pectoris)
+Sekundární složený cíl (Kardiovaskulární úmrtí, nefatální infarkt myokardu nebo nefatální cévní mozková příhoda) Sekundární příhody
+
+Kardiovaskulární úmrtí Každý infarkt myokardu (fatální i nefatální)
+Každá cévní mozková příhoda (fatální i nefatální) Hospitalizace pro nestabilní anginu pectoris
+
+Úmrtí z jakékoli příčiny Hospitalizace pro srdeční selhání‡
+7 332
+
+
+
+
+
+
+839 (11,4)
+
+
+
+
+745 (10,2)
+
+
+380 (5,2)
+
+300 (4,1)
+
+178 (2,4)
+
+116 (1,6)
+
+547 (7,5)
+
+228 (3,1)
+
+
+
+
+
+
+
+4,1
+
+
+
+
+3,6
+
+
+1,7
+
+1,4
+
+0,8
+
+0,5
+
+2,5
+
+1,1
+7 339
+
+
+
+
+
+
+851 (11,6)
+
+
+
+
+746 (10,2)
+
+
+366 (5,0)
+
+316 (4,3)
+
+183 (2,5)
+
+129 (1,8)
+
+537 (7,3)
+
+229 (3,1)
+
+
+
+
+
+
+
+4,2
+
+
+
+
+3,6
+
+
+1,7
+
+1,5
+
+0,9
+
+0,6
+
+2,5
+
+1,1
+
+
+
+
+
+
+0,98
+(0,89-1,08)
+
+
+
+0,99
+(0,89-1,10)
+
+1,03
+(0,89-1,19)
+0,95
+(0,81-1,11)
+0,97
+(0,79-1,19)
+0,90
+(0,70-1,16)
+1,01
+(0,90-1,14)
+1,00
+(0,83-1,20)
+
+
+
+
+
+
+
+<0,001
+
+
+
+
+<0,001
+
+
+0,711
+
+0,487
+
+0,760
+
+0,419
+
+0,875
+
+0,983
+* Incidence na 100 paciento-roků je počítána: 100 × (celkový počet pacientů s ≥ 1 příhodou během určitého období expozice na celkový počet paciento-roků následného sledování).
+† Na základě Coxova modelu stratifikovaného po regionech. Pro složené cíle odpovídají p-hodnoty testu non-inferiority, který měl ukázat, že hazard ratio je nižší než 1,3. Pro všechny ostatní cíle odpovídá p-hodnota testu rozdílů v hazard ratio.
+‡ Analýza hospitalizace pro srdeční selhání byla upravena pro anamnézu srdečního selhání při zahájení
+studie.
+Pediatrická populace
+Byla provedena 54týdenní dvojitě zaslepená studie k vyhodnocení účinnosti a bezpečnosti sitagliptinu v dávce 100 mg jednou denně u pediatrických pacientů (ve věku od 10 do 17 let) s diabetem 2. typu, kteří nebyli léčeni anti-hyperglykemickou terapií po dobu minimálně 12 týdnů (s HbA1c od 6,5 % do 10 %) nebo užívali stabilní dávku inzulinu po dobu minimálně 12 týdnů (s HbA1c od 7 % do 10 %). Pacienti byli randomizováni do léčebných skupin užívajících sitagliptin 100 mg jednou denně nebo placebo po dobu 20 týdnů.
+
+
+12/16
+
+Střední hodnota výchozí hladiny HbA1c byla 7,5 %. Léčba sitagliptinem v dávce 100 mg neposkytla po 20 týdnech signifikantní zlepšení HbA1c. Snížení HbA1c u pacientů léčených sitagliptinem (n=95) bylo 0,0 % ve srovnání s 0,2 % u pacientů léčených placebem (n=95), což je rozdíl o -0,2 % (95% CI: -0,7; 0,3). Viz bod 4.2.
+5.2 Farmakokinetické vlastnosti
+Absorpce
+Následně po perorálním podání 100mg dávky zdravým dobrovolníkům byl sitagliptin rychle vstřebán, s vrcholem plazmatické koncentrace (medián Tmax) 1 až 4 hodiny po podání, střední hodnota AUC sitagliptinu v plazmě byla 8,52 μM•hod, Cmax bylo 950 nM. Absolutní biologická dostupnost sitagliptinu je přibližně 87 %. Protože současná konzumace vysoce tučného jídla a sitagliptinu nemá vliv na farmakokinetiku, lze sitagliptin užívat spolu s jídlem nebo bez něj.
+Hodnota AUC v plazmě rostla úměrně s dávkou. Závislost na dávce nebyla prokázána pro Cmax a C24hod (Cmax rostlo rychleji než hodnota dávky a C24hod rostlo pomaleji než hodnota dávky).
+Distribuce
+Průměrný distribuční objem v ustáleném stavu po jediné 100mg intravenózní dávce sitagliptinu zdravým dobrovolníkům je přibližně 198 litrů. Podíl sitagliptinu reverzibilně vázaného na bílkoviny v plazmě je nízký (38 %).
+Biotransformace
+Sitagliptin se vylučuje v nezměněné podobě převážně močí a metabolismus představuje méně důležitou cestu. Přibližně 79 % sitagliptinu se vylučuje v nezměněné podobě močí.
+Po perorální dávce radioaktivně označeného [¹⁴C]sitagliptinu se přibližně 16 % vyloučilo ve formě metabolitů sitagliptinu. Ve stopových koncentracích bylo zjištěno šest metabolitů a nepředpokládá se, že by přispívaly k inhibičnímu účinku sitagliptinu na DPP-4 v plazmě. Studie in vitro prokázaly, že hlavním enzymem odpovídajícím za omezený metabolismus sitagliptinu je CYP3A4 s přispěním CYP2C8.
+Údaje in vitro ukázaly, že sitagliptin není inhibitorem CYP izoenzymů CYP3A4, 2C8, 2C9, 2D6, 1A2,
+2C19 nebo 2B6 a neindukuje CYP3A4 a CYP1A2. Eliminace
+Po podání perorální dávky radioaktivně označeného [¹⁴C]sitagliptinu zdravým dobrovolníkům se přibližně 100 % podaného přípravku během jednoho týdne vyloučilo stolicí (13 %) nebo močí (87 %). Zdánlivý terminální poločas t1/2 po 100mg perorální dávce sitagliptinu byl přibližně 12,4 hodin. Sitagliptin se při opakovaném dávkování hromadí pouze minimálně. Rychlost vylučování ledvinami představovala přibližně 350 ml/min.
+Sitagliptin se vylučuje primárně ledvinami, a to aktivní tubulární sekrecí. Sitagliptin je substrátem lidského transportéru organických aniontů (human organic anion transporter-3, hOAT-3), který se může podílet na vylučování sitagliptinu ledvinami. Klinický význam hOAT-3 v transportu sitagliptinu zatím nebyl stanoven. Sitagliptin je i substrátem p-glykoproteinu, který se může podílet na zprostředkovávání vylučování sitagliptinu ledvinami. Cyklosporin, který je inhibitorem p-glykoproteinu, však rychlost vylučování sitagliptinu ledvinami nesnížil. Sitagliptin není substrátem pro OCT2 a OAT1 nebo PEPT1/2 transportéry. In vitro sitagliptin neinhibuje OAT3 (IC50 = 160 μM) nebo p-glykoprotein (až do 250 μM) zprostředkující transport v terapeuticky důležitých plazmatických koncentracích. V klinické studii měl sitagliptin malý vliv na plazmatické koncentrace digoxinu, ukazující, že sitagliptin může být mírným inhibitorem p-glykoproteinu.
+Charakteristiky u pacientů
+Farmakokinetika sitagliptinu byla všeobecně podobná u zdravých dobrovolníků a pacientů s diabetem
+2. typu.
+
+
+
+13/16
+
+Porucha funkce ledvin
+Byla provedena otevřená studie s jednorázovou dávkou s cílem stanovit farmakokinetiku snížené dávky sitagliptinu (50 mg) u pacientů s různým stupněm chronické poruchy funkce ledvin ve srovnání s normálními zdravými kontrolními jedinci. Do studie byli zařazeni pacienti s mírnou, středně těžkou a těžkou poruchou funkce ledvin, včetně pacientů s ESRD, kteří vyžadují hemodialýzu. Navíc byl prostřednictvím populačních farmakokinetických analýz hodnocen vliv poruchy funkce ledvin na farmakokinetiku sitagliptinu u pacientů s diabetem 2. typu a mírnou, středně těžkou nebo těžkou poruchou funkce ledvin (včetně ESRD).
+Ve srovnání s normálními zdravými kontrolními subjekty byla plazmatická AUC sitagliptinu přibližně 1,2krát vyšší u pacientů s mírnou poruchou funkce ledvin (GFR ≥ 60 až < 90 ml/min) a přibližně 1,6krát vyšší u pacientů se středně těžkou poruchou ledvin (GFR ≥ 45 až < 60 ml/min). Protože zvýšení tohoto rozsahu nejsou klinicky relevantní, úprava dávkování u těchto pacientů není nutná.
+Plazmatická AUC sitagliptinu byla přibližně 2krát vyšší u pacientů se středně těžkou poruchou funkce ledvin (GFR ≥ 30 až < 45 ml/min) a přibližně 4krát vyšší u pacientů s těžkou poruchou funkce ledvin (GFR < 30 ml/min), včetně pacientů s ESRD, kteří vyžadují hemodialýzu. Sitagliptin se v menší míře odstraňoval z organismu hemodialýzou (13,5 % během 3-4hodinové hemodialýzy zahájené 4 hodiny po podání dávky). K dosažení podobných plazmatických koncentrací sitagliptinu jako u pacientů s normální funkcí ledvin se u pacientů s GFR < 45 ml/min doporučuje nižší dávkování (viz bod 4.2)
+Porucha funkce jater
+U pacientů s mírnou až středně těžkou poruchou funkce jater (Child-Pughovo skóre ≤9) není nutno dávku přípravku JIMANDIN upravovat. U pacientů s těžkou poruchou funkce jater (Child-Pughovo skóre >9) nejsou k dispozici klinické zkušenosti. Protože se však sitagliptin vylučuje převážně ledvinami, nepředpokládá se, že by těžká porucha funkce jater farmakokinetiku sitagliptinu nějak ovlivňovala.
+Starší pacienti
+Úprava dávky podle věku není nutná. Podle údajů z populační farmakokinetické analýzy studií fáze I a II neměl věk na farmakokinetiku sitagliptinu klinicky významný vliv. Ve srovnání s mladšími jedinci byly u starších jedinců (65 až 80 let) zjištěny vyšší plazmatické koncentrace sitagliptinu, přibližně o 19 %.
+Pediatrická populace
+Farmakokinetika sitagliptinu (jednorázová dávka 50 mg, 100 mg nebo 200 mg) byla studována u pediatrických pacientů (ve věku od 10 do 17 let) s diabetem 2. typu. Plazmatická AUC sitagliptinu upravená na dávku byla u této populace o přibližně 18 % nižší v porovnání s dospělými pacienty s diabetem 2. typu užívajícími 100mg dávku. Toto není považováno za klinicky významný rozdíl při srovnání s dospělými pacienty vzhledem k ploché závislosti PK/PD mezi dávkami 50 mg a 100 mg. U pediatrických pacientů ve věku < 10 let nebyly studie se sitagliptinem provedeny.
+Další skupiny pacientů
+Úprava dávky podle pohlaví, věku, rasy ani indexu tělesné hmotnosti (body mass index, BMI) není nutná. Podle souhrnné analýzy farmakokinetických údajů ze studií fáze I a analýzy farmakokinetických údajů z populačních studií fáze I a II neměly tyto charakteristiky na farmakokinetiku sitagliptinu žádný významný vliv.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Renální a hepatická toxicita byla pozorována u hlodavců po systémové expozici 58násobně vyšší, než je expozice u člověka, přičemž žádný účinek nebyl zjištěn při 19násobné expozici u člověka. Ve 14týdenní studii u potkanů byl abnormální vývoj řezáků pozorován u potkanů při expozici 67krát vyšší, než je hodnota v klinické praxi; žádný účinek v tomto smyslu nebyl zjištěn při 58násobně vyšší expozici. Význam těchto zjištění pro člověka není znám. Přechodné fyzické známky v souvislosti s léčbou, z nichž některé naznačují neurální toxicitu, jako dýchání s otevřenými ústy, slinění, zvracení bílé pěny, ataxie, třes, snížená aktivita a/nebo shrbený postoj byly pozorovány u psů při expozici přibližně
+
+
+14/16
+
+23násobně vyšší než v klinické praxi. Při dávkách vedoucích k systémové expozici přibližně 23krát vyšší, než je expozice u člověka, prokázalo navíc histologické vyšetření i velmi mírnou až mírnou degeneraci kosterního svalu. Žádný účinek v tomto smyslu nebyl zjištěn při expozici 6krát vyšší, než je hodnota expozice v klinické praxi.
+V preklinických studiích se neprokázala genotoxicita sitagliptinu. U myší neměl sitagliptin kancerogenní účinky. U potkanů byla pozorována zvýšená incidence jaterních adenomů a karcinomů při systémové expozici 58krát vyšší, než je expozice u člověka. Protože se prokázalo, že u potkanů hepatotoxicita koreluje s indukcí jaterní neoplazie, byla zvýšená incidence jaterních nádorů u potkanů nejspíše důsledkem chronické jaterní toxicity při uvedené vysoké dávce. Vzhledem k velkému prostoru z hlediska bezpečnosti (19násobek hodnoty bez negativního účinku) nejsou tyto neoplastické změny považovány za významné pro člověka.
+U samců ani samic potkanů, jimž se podával sitagliptin před pářením a při něm, nebyly zjištěny nežádoucí účinky na plodnost.
+Ve studii vývoje před narozením a po narození u potkanů nebyly prokázány nežádoucí účinky
+sitagliptinu.
+Studie reprodukční toxicity prokázaly mírně zvýšenou incidenci malformací žeber plodů (bez žeber, hypoplastická nebo zvlněná žebra) v souvislosti s podáváním látky potomkům potkanů při úrovni systémové expozice 29krát vyšší, než je expozice u člověka. U králíků byla toxicita u matek pozorována při více než 29krát vyšší expozici, než s jakou se počítá u člověka. Vzhledem k velkému rozsahu z hlediska bezpečnosti nesvědčí uvedená zjištění o významném riziku pro lidskou reprodukci. Sitagliptin se vylučuje ve značném množství do mléka kojících potkanů (poměr mléko/plazma: 4:1).
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Jádro tablety
+Mikrokrystalická celulosa (E460) Bezvodý hydrogenfosforečnan vápenatý Sodná sůl kroskarmelosy
+Magnesium-stearát Natrium-stearyl-fumarát Potahová vrstva tablety Polyvinylalkohol (E1203) Oxid titaničitý (E171) Makrogol (E1521) Mastek (E553b)
+Žlutý oxid železitý (E172) Červený oxid železitý (E172)
+6.2 Inkompatibility
+Neuplatňuje se.
+6.3 Doba použitelnosti
+3 roky
+
+
+
+15/16
+
+6.4 Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+6.5  Druh obalu a obsah balení
+PA/Al/PVC//Al blistry obsahující 14, 28, 30, 56, 84, 90 a 98 tablet.
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+MEDOCHEMIE Ltd., 1-10 Constantinoupoleos Street, 3011 Limassol, Kypr
+
+8. REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+18/710/15-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 8. 11. 2017
+Datum posledního prodloužení registrace:
+
+10. DATUM REVIZE TEXTU
+
+21. 8. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16/16

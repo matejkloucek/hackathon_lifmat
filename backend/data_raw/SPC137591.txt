@@ -1,0 +1,865 @@
+Sp.zn.sukls20220/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1. NÁZEV PŘÍPRAVKU
+Virexan 450 mg potahované tablety
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna potahovaná tableta obsahuje valgancicloviri hydrochloridum 496,36 mg, což odpovídá valganciclovirum 450 mg (jako volná báze).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3. LÉKOVÁ FORMA
+
+Potahovaná tableta.
+Růžové, oválné, bikonvexní potahované tablety s rozměry přibližně 16,8 mm x 7,9 mm, s vyraženým 'J' na jedné straně a '156' na druhé straně.
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1. Terapeutické indikace
+Virexan je určen pro indukční a udržovací léčbu cytomegalovirové (CMV) retinitidy u dospělých pacientů se syndromem získaného imunodeficitu (AIDS).
+
+Virexan je indikován k prevenci CMV onemocnění u CMV negativních dospělých i dětských (od narození do 18 let) příjemců orgánových transplantátů od CMV pozitivních dárců.
+4.2. Dávkování a způsob podání
+
+Dávkování
+Pozor – je nezbytně nutné přísně dodržovat doporučené dávkování, aby se předešlo předávkování (viz body 4.4 a 4.9).
+Valganciklovir se po perorálním podání rychle a extenzivně metabolizuje na ganciklovir. Perorální valganciklovir v dávce 900 mg podávaný dvakrát denně je léčebně stejně účinný jako intravenózně podávaný ganciklovir v dávce 5 mg/kg dvakrát denně.
+
+Léčba CMV retinitidy
+
+Dospělí pacienti
+
+Indukční léčba CMV retinitidy
+U pacientů s aktivní CMV retinitidou je doporučena dávka 900 mg valgancikloviru (2 tablety přípravku Virexan 450 mg) dvakrát denně po dobu 21 dní, podávaných dle možností společně s jídlem. Prodloužení indukční léčby může zvyšovat riziko myelosuprese (viz bod 4.4).
+
+
+
+1
+
+Udržovací léčba CMV retinitidy
+Po předcházející indukční léčbě nebo u pacientů se stabilizovanou CMV retinitidou je doporučena perorální udržovací dávka 900 mg valgancikloviru (dvě tablety přípravku Virexan 450 mg) jednou denně, podávaných, pokud možno společně s jídlem. U pacientů se zhoršující se retinitidou je možno indukční léčbu zopakovat, je však třeba vzít v úvahu možnou lékovou rezistenci viru.
+Trvání udržovací léčby je třeba určit individuálně.
+
+Pediatrická populace
+Bezpečnost a účinnost valganciklovirem při léčbě CMV retinitidy nebyla stanovena v adekvátních a dobře kontrolovaných klinických studiích u dětských pacientů.
+Prevence CMV onemocnění u příjemců transplantovaných solidních orgánů
+
+Dospělí pacienti
+U pacientů po transplantaci ledviny se doporučuje dávka 900 mg (2 tablety přípravku Virexan 450 mg) jednou denně, zahájená do 10 dnů po transplantaci a podávaná do 100 dnů po transplantaci.
+Profylaktická léčba může pokračovat do 200 dnů po transplantaci (viz body 4.4, 4.8 a 5.1).
+
+U pacientů, kteří jsou příjemci transplantovaných solidních orgánů (kromě ledviny) se doporučuje dávka 900 mg (dvě tablety přípravku Virexan 450 mg) jednou denně, zahájená do 10 dnů po transplantaci a podávaná do 100 dnů po transplantaci.
+Kdykoli to je možné, mají být tablety podávány s jídlem.
+
+Pediatrická populace
+U pediatrických pacientů po orgánové transplantaci (ve věku od narození), u kterých je riziko rozvoje CMV onemocnění, je doporučená dávka valgancikloviru podávaná jednou denně založena na ploše tělesného povrchu (BSA) a clearance kreatininu (Clcr) odvozené ze Schwartzova vzorce (ClcrS) a vypočítává se podle níže uvedené rovnice:
+
+Pediatrická dávka (mg) = 7 x BSA x ClcrS (viz Mostellerův vzorec pro výpočet BSA a Schwartzův vzorec pro výpočet kreatininu níže).
+
+Pokud clearance kreatininu vypočtená podle Schwartzova vzorce překročí 150 ml/min/1,73 m², pak se v rovnici použije maximální hodnota 150 ml/min/1,73 m²:
+
+
+Mosteller
+BSA (m² ) =
+Výška (cm) x Hmotnost (kg) 3600
+
+Schwartz Clearance kreatininu (ml / min /1,73m² )
+=   k x Výška (cm)
+Sérový kreatinin (mg / dl)
+
+kde k = 0,45* u pacientů ve věku < 2 let, 0,55 pro chlapce ve věku od 2 do < 13 let a dívky ve věku od 2 do 16 let a 0,7 pro chlapce ve věku 13 až 16 let. U pacientů starších 16 let se používá stejné dávkování jako u dospělých. Uvedené hodnoty k jsou založeny na Jaffého metodě měření kreatininu v séru a mohou vyžadovat určitou korekci při použití enzymatických metod.
+
+*U příslušných subpopulací může být rovněž nutné snížení hodnoty k (např. u pediatrických pacientů s nízkou porodní hmotností).
+
+U pediatrických pacientů po transplantaci ledviny je třeba léčbu doporučenou dávkou v mg (7 x BSA x ClcrS) podávanou jednou denně zahájit v průběhu 10 dnů po transplantaci a v léčbě pokračovat až do 200. dne po transplantaci.
+
+2
+
+U pediatrických pacientů po orgánové transplantaci (s výjimkou ledviny) je třeba léčbu doporučenou dávkou v mg (7 x BSA x ClcrS) podávanou jednou denně zahájit v průběhu 10 dnů po transplantaci a v léčbě pokračovat do 100. dne po transplantaci.
+Pro podání aktuální dávky je třeba všechny vypočtené dávky zaokrouhlit na nejbližší vyšší násobek 25 mg. Pokud vypočtená dávka přesáhne 900 mg, podává se maximální dávka 900 mg. Preferovanou lékovou formou je perorální roztok, protože poskytuje možnost podávat vypočtenou dávku podle výše uvedeného vzorce, nicméně lze použít i potahované tablety přípravku Virexan, pokud se vypočtená dávka pohybuje v rozmezí 10 % od dávky dostupných tablet, a pokud je pacient schopen polykat tablety. Například, pokud se vypočtená dávka pohybuje v rozmezí 405 a 495 mg, lze podat jednu 450 mg tabletu.
+
+Doporučuje se pravidelně sledovat sérové hladiny kreatininu a zvážit změny ve výšce a tělesné hmotnosti a dávku upravit podle potřeby během období profylaxe.
+
+Pokyny ke zvláštnímu dávkování
+
+Pediatrická populace
+Dávkování u pediatrických pacientů po orgánové transplantaci je individuální a je založeno na renálních funkcích pacienta a na ploše tělesného povrchu.
+Starší pacienti
+Bezpečnost a účinnost přípravku Virexan u této populace dosud nebyla stanovena.
+U dospělých starších 65 let nebyly prováděny žádné studie. Protože se renální clearance s věkem snižuje, je třeba podávat starším pacientům přípravek se zvláštními ohledy na stav jejich renálních funkcí (viz tabulka níže).
+
+Pacienti s poruchou funkce ledvin
+Je třeba pečlivě sledovat hodnoty kreatininu v séru nebo odhadovanou clearance kreatininu. Úprava dávkování je doporučena na základě clearance kreatininu dle následující tabulky (viz body 4.4 a 5.2). Odhadovaná clearance kreatininu (ml/min) může být vypočtena ze sérového kreatininu podle následujícího vzorce:
+
+
+U mužů =
+(140 − věk [roky]) × (tělesná hmotnost [kg]
+(72) × (0,011 × kreatinim v séru [μmol/l]
+U žen = 0,85 x hodnota pro muže
+
+Clcr (ml/min)
+
+≥60 40-59
+25-39
+10-24
+<10
+Indukční dávka valgancikloviru
+
+900 mg (2 tablety) dvakrát denně
+450 mg (1 tableta) dvakrát denně
+450 mg (1 tableta) jednou denně
+450 mg (1 tableta) jednou za dva dny Nedoporučuje se
+Udržovací  /  preventivní  dávka valgancikloviru
+900 mg (2 tablety) jednou denně
+450 mg (1 tableta) jednou denně
+450 mg (1 tableta) jednou za dva dny 450 mg (1 tableta) dvakrát týdně Nedoporučuje se
+
+Pacienti podstupující hemodialýzu
+U hemodialyzovaných pacientů (Clcr < 10 ml/min) nelze vydat doporučení pro dávkování. U těchto pacientů se valganciklovir nemá používat (viz body 4.4 a 5.2).
+Pacienti s poruchou funkce jater
+Bezpečnost a účinnost valgancikloviru u pacientů s poruchou funkce jater dosud nebyla stanovena (viz bod 5.2).
+
+3
+
+Pacienti s těžkou leukopenií, neutropenií, anémií, trombocytopenií a pancytopenií
+Před zahájením léčby si přečtěte bod 4.4.
+Pokud se během léčby přípravkem Virexan objeví významné odchylky v počtu krevních buněk, je třeba zvážit léčbu hematopoetickými růstovými faktory a/nebo přerušení léčby (viz bod 4.4).
+Způsob podání
+Valganciklovir se podává perorálně a pokud možno současně s jídlem (viz bod 5.2).
+
+Opatření, která je nutno učinit před zacházením s léčivým přípravkem nebo před jeho podáním Tablety se nemají půlit ani drtit. Vzhledem k tomu, že valganciklovir je považován u lidí za potenciální teratogen a karcinogen, je třeba věnovat velkou pozornost manipulaci s poškozenými tabletami (viz bod 4.4). Zabraňte přímému kontaktu poškozených či rozdrcených tablet s kůží či sliznicemi. V případě takového kontaktu se důkladně umyjte mýdlem a vodou, důkladně vypláchněte oči sterilní vodou nebo alespoň čistou vodou, není-li sterilní voda k dispozici.
+
+4.3. Kontraindikace
+
+Hypersenzitivita na valganciklovir, ganciklovir nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Přípravek Virexan je kontraindikován v době kojení (viz bod 4.6).
+
+4.4. Zvláštní upozornění a opatření pro použití
+
+Zkřížená hypersenzitivita
+Vzhledem k podobnosti chemické struktury galcikloviru s aciklovirem a penciklovirem je mezi těmito léky možná reakce zkřížené hypersenzitivity. Proto je třeba dbát zvýšené opatrnosti při předepisování přípravku Virexan pacientům se známou hypersenzitivitou vůči acikloviru nebo pencikloviru (nebo vůči jejich proléčivům valacikloviru, respektive famcikloviru).
+
+Mutagenita, teratogenita, karcinogenita, fertilita a antikoncepce
+Před zahájením léčby valganciklovirem je třeba poučit pacienty o možných rizicích pro plod. Při studiích na zvířatech byla u gancikloviru prokázána mutagenita, teratogenita, karcinogenita a potlačení ženské fertility. Valganciklovir proto má být u člověka považován za potenciální teratogen a karcinogen, který může způsobit vrozené defekty a maligní onemocnění (viz bod 5.3). Údaje získané z klinických a preklinických studií naznačují, že je též pravděpodobné, že valganciklovir způsobuje přechodnou či trvalou inhibici spermatogeneze. Ženám ve fertilním věku musí být během léčby doporučeno používání účinné antikoncepce po dobu nejméně 30 dnů po skončení léčby. Mužům musí být během léčby doporučeno používání bariérové antikoncepce a ještě nejméně 90 dní po jejím skončení, pokud není jisté, že partnerka nemůže otěhotnět (viz body 4.6, 4.8 a 5.3).
+
+Z dlouhodobého hlediska je používání valgancikloviru spojeno s možným rizikem kancerogenity a reprodukční toxicity.
+Myelosuprese
+U pacientů léčených valganciklovirem (a ganciklovirem) byla pozorována těžká leukopenie, neutropenie, anémie, trombocytopenie, pancytopenie, selhání krvetvorby a aplastická anémie. Léčba proto nemá být zahajována u pacientů, kteří mají absolutní počet neutrofilů nižší než 500 buněk/µl nebo počet trombocytů nižší než 25000/µl, nebo pokud je hladina hemoglobinu nižší než 8 g/dl (viz body 4.2 a 4.8).
+
+Při rozšíření profylaktické léčby na více než 100 dnů je třeba vzít v úvahu možné riziko rozvoje leukopenie a neutropenie (viz body 4.2, 4.8 a 5.1).
+
+
+4
+
+U pacientů s již existující hematologickou cytopenií nebo s anamnézou polékové hematologické cytopenie a u pacientů, kteří jsou současně léčeni radioterapií, má být podávání valgancikloviru indikováno uvážlivě.
+
+Během léčby se doporučuje sledovat kompletní krevní obraz včetně počtu trombocytů. Častější monitorování hematologických parametrů se doporučuje u pacientů s poruchami funkce ledvin. U pacientů, u kterých došlo k rozvoji těžké leukopenie, neutropenie, anémie a/nebo trombocytopenie, je doporučeno zvážit léčbu hematopoetickými růstovými faktory a/nebo přerušení léčby (viz body 4.2).
+
+Rozdíl v biologické dostupnosti u perorálního gancikloviru
+Biologická dostupnost gancikloviru po jedné dávce 900 mg valgancikloviru je přibližně 60% ve srovnání s přibližně 6% dostupností po podání 1000 mg perorálního gancikloviru (ve formě tobolek). Nadměrná expozice gancikloviru může být spojena s život ohrožujícími nežádoucími účinky. Z tohoto důvodu se doporučuje důsledně dodržovat doporučené dávkování při zahájení léčby, při přechodu z indukční na udržovací léčbu a u pacientů, kteří přecházejí z perorálního podávání gancikloviru na valganciklovir, neboť valganciklovir nelze nahradit ganciklovirem v tobolkách v poměru jedna ku jedné. Pacienty, kteří přecházejí z léčby ganciklovirem v tobolkách, je třeba upozornit na riziko předávkování, pokud budou užívat více tablet přípravku Virexan, než jim bylo předepsáno (viz body 4.2 a 4.9).
+
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin je nutné dávkování upravovat podle hodnot clearance kreatininu (viz body 4.2 a 5.2).
+Valganciklovir se nemá podávat hemodialyzovaným pacientům (viz body 4.2 a 5.2). Užívání s dalšími léčivými přípravky
+U pacientů léčených současně imipenem/cilastatinem a ganciklovirem byly hlášeny křeče.
+Valganciklovir proto nemá být podáván současně s imipenem/cilastatinem, pokud přínos léčby nepřevažuje možná rizika (viz bod 4.5).
+
+U pacientů léčených valganciklovirem a (a) didanosinem, (b) léčivy se známým myelosupresivním účinkem (např. zidovudin) nebo (c) látkami, které ovlivňují funkci ledvin, je třeba pečlivě sledovat příznaky zvýšené toxicity (viz bod 4.5).
+
+V kontrolovaných klinických studiích, které hodnotily valganciklovir v profylaxi CMV onemocnění při transplantacích, nebyli zařazeni pacienti po transplantaci plic a střev, jak je uvedeno v bodě 5.1. Proto jsou zkušenosti u této skupiny pacientů omezené.
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce Lékové interakce s valganciklovirem
+Specifické studie lékových interakcí in vivo s valganciklovirem dosud nebyly provedeny. Vzhledem k
+tomu, že se valganciklovir rychle a extenzivně metabolizuje na ganciklovir, předpokládá se, že lékové interakce s ganciklovirem budou stejné i pro valganciklovir.
+
+Lékové interakce s ganciclovirem
+Farmakokinetické interakce
+Probenecid
+Probenecid podávaný současně s perorálním ganciklovirem vedl ke statisticky významnému snížení renální clearance gancikloviru (20%), a tím ke statisticky významnému zvýšení expozice (40%). Tyto změny byly v souladu s mechanismem interakce zahrnujícím kompetici o renální tubulární sekreci.
+Proto mají být pacienti, kteří užívají současně probenecid a valganciklovir, pečlivě sledováni pro možné toxické účinky gancikloviru.
+
+5
+
+Didanosin
+Bylo pozorováno, že plazmatické koncentrace didanosinu jsou trvale zvýšené při současném podávání gancikloviru intravenózně. Při intravenózních dávkách gancikloviru 5 a 10 mg/kg/den bylo pozorováno zvýšení AUC didanosinu v rozmezí od 38 do 67 %, což potvrzuje farmakokinetickou interakci v průběhu souběžného podávání obou léčivých přípravků. Nebyl zaznamenán žádný klinicky významný účinek na koncentrace gancikloviru. U pacientů je proto pečlivě pečlivě sledovat možný výskyt projevů toxicity didanosinu, např. pankreatitidy (viz bod 4.4).
+
+Další antiretrovirové léky
+Izoenzymy cytochromu P450 nehrají ve farmakokinetice gancikloviru žádnou roli. Následkem toho se neočekávají žádné farmakokinetické interakce s inhibitory proteáz a inhibitory non-nukleotidových reverzních transkriptáz.
+
+Farmakodynamické interakce
+
+Imipenem/cilastatin
+U pacientů, kteří byli léčeni současně ganciklovirem a imipenem/cilastatinem, byly hlášeny záchvaty a je třeba počítat s farmakodynamickými interakcemi mezi těmito dvěma léky.. Tato léčiva se nemají podávat současně, pokud přínos léčby nepřeváží možná rizika (viz bod 4.4).
+
+Zidovudin
+Jak zidovudin, tak i ganciklovir mohou vyvolat neutropenii a anémii. Při současném podávání těchto léčivých přípravků mohou nastat farmakodynamické interakce. Někteří pacienti nemusejí snášet současnou léčbu oběma přípravky v plné dávce (viz bod 4.4).
+
+Potenciální lékové interakce
+Toxicita může být zvýšena při společném podávání gancikloviru/valgancikloviru s dalšími léčivými přípravky, o nichž je známo, že jsou myelosupresivní nebo spojené s poruchou ledvin. Mezi tyto léčivé přípravky patří nukleosidová (např. zidovudin, didanosin, stavudin) a nukleotidová analoga (např. tenofovir, adefovir), imunosupresivní léčivé přípravky (např. cyklosporin, tacrolimus, mofetil- mykofenolát), protinádorové léčivé přípravky (např. doxorubicin, vinblastin, vinkristin, hydroxyurea) a léčivé přípravky proti infekci (trimetoprim/sulfonamidy, dapson, amfotericin B, flucytosin, pentamidin). O souběžném užívání těchto léčivých přípravků s valganciklovirem lze proto uvažovat pouze tehdy, jestliže potenciální přínosy převáží potenciální rizika (viz bod 4.4).
+
+4.6. Fertilita, těhotenství a kojení
+
+Antikoncepce u mužů a žen
+Vzhledem k potenciálu reprodukční toxicity a teratogenity musí být ženám ve fertilním věku doporučeno užívat v průběhu léčby a po dobu nejméně 30 dnů po skončení léčby účinnou antikoncepci. Mužům musí být doporučeno užívání bariérové antikoncepce v průběhu léčby valganciklovirem a ještě nejméně 90 dní po jejím ukončení, pokud není jisté, že partnerka nemůže otěhotnět (viz body 4.4. a 5.3).
+
+Těhotenství
+Bezpečnost přípravku valgancikloviru u těhotných žen nebyla stanovena. Aktivní metabolit valgancikloviru, ganciklovir, přechází volně přes lidskou placentu. Na základě farmakologického mechanismu účinku gancikloviru a reprodukční toxicity pozorované ve studiích na zvířatech (viz bod 5.3) existuje u člověka teoretické riziko teratogenity.
+Valganciklovir Accord nemá být podáván v těhotenství, pokud možný pozitivní efekt léčby matky nepřeváží možná rizika teratogenního postižení plodu.
+
+
+
+6
+
+Kojení
+Není známo, zda se ganciklovir vylučuje do lidského mateřského mléka, je však třeba vzít v úvahu, že případný přechod gancikloviru do mateřského mléka může způsobit závažné nežádoucí účinky u kojených dětí. Údaje u zvířat ukazují, že ganciklovir je vylučován do mléka kojících potkanů. Proto musí být kojení v průběhu léčby valganciklovirem ukončeno (viz bod 4.3 a 5.3).
+
+Fertilita
+Údaje z méně rozsáhlé klinické studie s pacienty po transplantaci ledvin s profylaktickou léčbou onemocnění CMV valganciklovirem až po dobu 200 dní prokázaly vliv valgancikloviru na spermatogenezi se sníženou hustotou a pohyblivostí spermií měřenou po dokončení léčby. Tento účinek je nejspíš reverzibilní a průměrná hustota a pohyblivost spermií se navrací k hodnotám srovnatelným s hodnotami u neléčených kontrolních pacientů přibližně 6 měsíců po ukončení léčby valganciklovirem.
+Studie na zvířatech prokázaly poruchu fertility u myších samců a samic a prokázaly, že v dávkách považovaných za klinicky relevantní ganciklovir inhibuje spermatogenezi a indukuje atrofii varlat u myší, potkanů a psů.
+
+Na základě údajů z klinických a preklinických studií je pravděpodobné, že ganciklovir (a valganciklovir) může způsobovat dočasnou nebo trvalou inhibici spermatogeneze u člověka (viz body 4.4 a 5.3).
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly provedeny žádné studie hodnotící vliv přípravku na schopnost řídit nebo obsluhovat stroje.
+U pacientů léčených valganciklovirem a/nebo ganciklovirem byly pozorovány nežádoucí účinky, jako jsou záchvaty, závratě, a zmatenost. Pokud se vyskytnou, mohou tyto účinky ovlivnit činnosti vyžadující pozornost, včetně schopnosti řídit a obsluhovat stroje.
+4.8. Nežádoucí účinky
+
+Shrnutí bezpečnostního profilu
+
+Valganciklovir je proléčivo gancikloviru, které se po perorálním podání rychle a extenzivně metabolizuje na ganciklovir. Nežádoucí účinky, jejichž spojitost s léčbou ganciklovirem je známá, je možno očekávat i po valgancikloviru. Všechny nežádoucí účinky, které byly v klinických studiích pozorovány po valgancikloviru, byly pozorovány již dříve i po gancikloviru. Proto jsou v níže uvedené tabulce nežádoucích účinků zahrnuty nežádoucí účinky hlášené u intravenózního nebo perorálního (tato léková forma již není dostupná) gancikloviru nebo u valgancikloviru.
+U pacientů léčených valganciklovirem/ganciklovirem patří k nejzávažnějším a nejčastějším nežádoucím účinkům hematologické reakce včetně neutropenie, anémie a trombocytopenie (viz bod 4.4.).
+
+Četnosti uvedené v tabulce nežádoucích reakcí vycházejí ze souhrnné populace pacientů (n=1704), kteří dostávali udržovací léčbu ganciklovirem nebo valganciklovirem. Výjimkou je anafylaktická reakce, agranulocytóza a granulocytopenie, jejichž četnosti vycházejí ze zkušeností po uvedení přípravku na trh. Nežádoucí účinky jsou uvedeny podle systému orgánové klasifikace MedDRA. Kategorie četnosti jsou definovány podle následující konvence: velmi časté (≥ 1/10), časté (≥ 1/100 až
+< 1/10), méně časté (≥ 1/1000 až < 1/100), vzácné (≥ 1/10000 až < 1/1000) a velmi vzácné (< 1/10000).
+
+Celkový bezpečnostní profil gancikloviru/valgancikloviru je konzistentní v populaci HIV a transplantovaných pacientů s výjimkou odchlípení sítnice, které bylo hlášeno pouze u pacientů s CMV retinitidou. Existují však některé rozdíly v četnosti určitých reakcí. Valganciklovir je spojen s vyšším rizikem průjmu než intravenózní ganciklovir. Pyrexie, kandidové infekce, deprese, závažná
+
+7
+
+neutropenie (ANC <500/μl) a kožní reakce jsou častěji hlášeny u pacientů s HIV. Renální a hepatální dysfunkce jsou častěji hlášeny u příjemců orgánových transplantátů.
+
+Seznam nežádoucích účinků seřazený v tabulce
+
+
+Třída orgánových systémů dle MeDRA
+
+Infekce a infestace
+Velmi časté (≥ 1/10)
+
+Kandidové infekce včetně orální kandidózy, infekce horních cest
+Časté
+(≥ 1/100 až < 1/10)
+
+Sepse, chřipka, infekce močových cest, celulitida
+Méně časté (≥ 1/1000 až
+< 1/100)
+Vzácné
+(≥ 1/10 000
+až <1/1 000)
+
+Poruchy krve a lymfatického systému
+
+
+
+
+Poruchy imunitního systému
+Poruchy metabolismu a výživy
+Psychiatrické poruchy
+
+
+
+Poruchy nervového systému
+Neutropenie, anémie
+
+
+
+
+
+
+Nechutenství
+
+
+
+
+
+Bolest hlavy
+Trombocytopenie, leukopenie, pancytopenie
+
+
+
+
+Hypersenzitivita
+
+Pokles tělesné hmotnosti
+
+Deprese, úzkost, stav zmatenosti
+
+
+Insomnie, dysgeuzie (porucha vnímání chuti), hypestezie, parestezie, periferní neuropatie, závrať, záchvaty
+Selhání kostní dřeně Aplastická
+anemie, agranulocytóza*
+,
+granulocytopeni e* Anafylaktická reakce*
+
+
+Agitovanost, psychotická porucha, halucinace, abnormální myšlení
+Třes
+
+
+Poruchy oka
+
+
+
+
+
+Poruchy ucha a labyrintu
+Srdeční poruchy Cévní poruchy Respirační, hrudní a mediastinální poruchy
+
+
+
+
+
+
+
+
+
+
+
+Dušnost, kašel
+Makulární edém, odchlípení sítnice**, sklivcové plovoucí zákalky, bolest oka, postižení zraku, konjunktivitida
+Bolest ucha
+
+
+Hypotenze
+
+
+
+
+
+
+Hluchota Arytmie
+
+
+
+
+
+
+
+8
+
+Gastrointestinální poruchy
+Průjem, nevolnost, zvracení, bolest břicha
+bolest horní poloviny břicha, dyspepsie, zácpa, flatulence (nadýmání), dysfagie, ulcerace úst, pankreatitida, distenze břicha
+
+
+Poruchy jater a žlučových cest
+Abnormální jaterní funkce, zvýšená alkalická fosfatáza v krvi , zvýšení aspartát- aminotransferázy, zvýšení alanin- aminotransferázy
+
+
+Poruchy kůže
+a podkožní tkáně
+Dermatitida
+Noční pocení, pruritus, vyrážka, alopecie
+Kopřivka, suchá kůže
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Poruchy ledvin a močových cest
+
+
+Poruchy reprodukčního systému a prsu
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+
+
+
+
+
+Pyrexie, únava
+Bolest zad, myalgie, artralgie, svalové spasmy
+
+Snížená clearance renálního kreatininu, zvýšení hladiny kreatinu v krvi, renální poškození
+
+
+
+Třesavka, bolest, malátnost, astenie
+
+
+
+Hematurie, renální selhání
+
+
+Mužská infertilita
+
+
+Bolest na hrudi
+
+* Četnost výskytu těchto nežádoucích účinků je vyvozena z poregistrační zkušenosti
+**Odchlípení sítnice bylo hlášeno pouze u pacientů s HIV léčených pro CMV retinitidu
+Popis uvedených nežádoucích účinků
+
+Neutropenie
+Riziko neutropenie nelze vyvodit z počtu neutrofilů před léčbou. Neutropenie se obvykle vyskytne během prvního nebo druhého týdne indukční léčby. Počet buněk se obvykle normalizuje během 2 až 5 dnů po vysazení léčivého přípravku nebo po snížení dávky (viz bod 4.4).
+Trombocytopenie
+Pacienti s nízkým výchozím počtem trombocytů (< 100 000 trombocytů/μl) mají zvýšené riziko vzniku trombocytopenie. Pacienti s iatrogenní imunosupresí vyvolanou léčbou imunosupresivními přípravky mají vyšší riziko vzniku trombocytopenie než pacienti s AIDS (viz bod 4.4). Závažná trombocytopenie může být spojena s potenciálně život ohrožujícím krvácením.
+
+Vliv trvání léčby nebo indikace na nežádoucí účinky
+Závažná neutropenie (ANC <500/μl) byla častěji hlášena u pacientů s CMV retinitidou (14 %), kteří dostávali léčbu valganciklovirem, intravenózním nebo perorálním ganciklovirem, než u pacientů po orgánové transplantaci, kteří dostávali valganciklovir nebo perorální ganciklovir. U pacientů, kteří dostávali valganciklovir nebo perorální ganciklovir do 100. dne po transplantaci, byla incidence závažné neutropenie 5 %, respektive 3 %, zatímco u pacientů, kteří dostávali valganciklovir do 200.
+
+9
+
+dne po transplantaci, byla incidence závažné neutropenie 10 %.
+
+U pacientů po orgánové transplantaci do 100. dne nebo 200. dne po transplantaci valganciklovirem nebo perorálním ganciklovirem byl vyšší vzestup sérového kreatininu v porovnání s pacienty s CMV retinitidou. Avšak u pacientů po orgánové transplantaci je porucha renálních funkcí častým rysem.
+
+Celkový bezpečnostní profil přípravku Virexan se při prodloužení profylaxe až do 200. dne u vysoce rizikových pacientů po transplantaci ledvin neměnil. Leukopenie byla v rameni s léčbou trvající 200 dnů hlášena s lehce vyšší incidencí, zatímco incidence neutropenie, anémie a trombocytopenie byla v obou ramenech obdobná.
+
+Pediatrická populace
+Valganciklovir byl hodnocen u 179 pacientů po orgánové transplantaci, u kterých bylo riziko rozvoje CMV onemocnění (ve věku 3 týdny až 16 let) a u 133 novorozenců se symptomatickým kongenitálním CMV onemocněním (ve věku 2 až 31 dnů) s délkou expozice gancikloviru v rozmezí od 2 do 200 dnů.
+
+Nejčastěji hlášené nežádoucí účinky v souvislosti s léčbou v pediatrických klinických studiích byly průjem, nauzea, neutropenie, leukopenie a anémie.
+
+U pacientů po orgánové transplantaci byl celkový bezpečnostní profil u pediatrických pacientů podobný jako u dospělých. Neutropenie byla hlášena s mírně vyšší incidencí ve dvou studiích vedených u pediatrických pacientů po orgánové transplantaci ve srovnání s dospělými, ale nebyla zde zaznamenána korelace mezi neutropenií a nežádoucími účinky v podobě infekcí u pediatrických pacientů. Zvýšené riziko cytopenií u novorozenců a kojenců vyžaduje pečlivé sledování krevních hodnot u těchto věkových skupin (viz bod 4.4).
+U pediatrických pacientů po transplantaci ledviny nebyla prodloužená expozice valgancikloviru (až 200 dní) spojována s celkovým zvýšením incidence nežádoucích účinků. Incidence těžké neutropenie (ANC < 500/mikrolitr) byla vyšší u pediatrických pacientů po transplantaci ledviny léčených do 200. dne ve srovnání s pediatrickými pacienty léčenými do 100. dne a ve srovnání s dospělými pacienty po transplantaci ledviny léčenými do 100. nebo 200. dne (viz bod 4.4).
+
+U novorozenců a kojenců se symptomatickou kongenitální CMV infekcí léčených valganciklovirem jsou k dispozici pouze omezené údaje, bezpečnost se však zdá konzistentní se známým bezpečnostním profilem valgancikloviru/gancikloviru.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv, Šrobárova 48,
+100 41 Praha 10,
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9. Předávkování
+Zkušenosti s předávkováním valganciklovirem a intravenózním ganciklovirem
+
+Předpokládá se, že předávkování valganciklovirem může mít za následek zvýšení renální toxicity (viz body 4.2 a 4.4).
+Hlášení o předávkování intravenózním ganciklovirem, některých s fatálními následky, byla získána v
+10
+
+klinických studiích a během postmarketingového sledování. V některých případech nebyly pozorovány žádné nežádoucí účinky. U většiny pacientů však došlo k výskytu jednoho či více nežádoucích účinků, které jsou uvedeny níže:
+•  Hematologická toxicita: myelosuprese včetně pancytopenie, selhání kostní dřeně, leukopenie, neutropenie, granulocytopenie.
+•  Hepatotoxicita: hepatitida, porucha jaterních funkcí.
+•  Nefrotoxicita: zhoršení hematurie u pacientů s předchozím postižením ledvin, akutní poškození ledvin, zvýšení kreatininu.
+•  Gastrointestinální toxicita: bolest břicha, průjem, zvracení.
+•  Neurotoxicita: generalizovaný třes, záchvaty.
+Hemodialýza a hydratace mohou být přínosné při snižování plazmatických hladin u pacientů, u kterých došlo k předávkování valganciklovirem (viz bod 5.2).
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1. Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antivirotika pro systémovou aplikaci; nukleosidy a nukleotidy, kromě inhibitorů reverzní transkriptázy. ATC kód: J05AB14
+
+Mechanismus účinku
+Valganciklovir je L-valyl ester (proléčivo) gancikloviru. Po perorálním podání je působením střevních a jaterních esteráz rychle a extenzivně metabolizován na ganciklovir. Ganciklovir je syntetický analog 2'-deoxyguanosinu, který inhibuje replikaci herpetických virů in vitro i in vivo. Z lidských herpetických virů jsou citlivé vůči gancikloviru: lidský cytomegalovirus (HCMV), virus herpes simplex typ 1 a typ 2 (HSV-1 a HSV-2), lidský virus herpes typ 6, 7 a 8 (HHV-6, HHV-7, HHV-8), virus Epstein-Barrové (EBV), varicella zoster virus (VZV) a virus hepatitidy B (HBV).
+V buňkách infikovaných CMV virem je ganciklovir nejprve fosforylován na ganciklovirmonofosfát prostřednictvím virové proteinkinázy pUL97. Následnou fosforylací, která je zprostředkována buněčnými kinázami, vzniká ganciklovir-trifosfát, který je pak pomalu intracelulárně metabolizován. Metabolizmus trifosfátu se objevuje u buněk infikovaných viry typu HSV a HCMV s poločasem 18 hodin (v rozmezí 6-24 hodin) po vymizení extracelulárního gancikloviru. Protože je fosforylace z velké části závislá na virové kináze, dochází k fosforylaci gancikloviru přednostně v buňkách infikovaných virem.
+Předpokládá se, že virostatický účinek gancikloviru je výsledkem inhibice syntézy virové DNA, která probíhá jako: (a) kompetitivní inhibice inkorporace deoxyguanosin-trifosfátu do DNA účinkem virové DNA polymerázy a (b) inkorporace ganciklovir-trifosfátu do virové DNA s následnou terminací nebo (velmi omezeně) další elongací virové DNA.
+
+Protivirová aktivita
+Protivirová aktivita, měřená in vitro jako IC50 gancikloviru proti CMV, se pohybuje v rozmezí 0,08 µmol (0,02 µg/ml) do 14 µmol (3,5 µg/ml).
+
+Klinický byl protivirový účinek přípravku valganciklovirem prokázán v léčbě nově diagnostikované CMV retinitidy u pacientů s AIDS. Vylučování CMV do moče se u pacientů vstupujících do studie snížilo ze 46% (32/69) na 7% (4/55) u pacientů po čtyřtýdenní léčbě přípravkem valganciklovirem.
+
+Klinická účinnost
+
+Dospělí pacienti
+Léčba CMV retinitidy
+11
+
+Pacienti s nově diagnostikovanou CMV retinitidou byli v jedné studii randomizováni do skupiny s indukční terapií valganciklovirem 900 mg (2x denně) nebo do skupiny s intravenózní léčbou ganciklovirem v dávce 5 mg/kg (2x denně). Podíl pacientů s fotograficky posuzovanou progresí CMV retinitidy po 4 týdnech léčby byl v obou skupinách srovnatelný, 7/70 pacientů ve skupině léčené intravenózním ganciklovirem a 7/71 pacientů ve skupině léčené valganciklovirem.
+
+Po indukční fázi terapie dostávali všichni pacienti v této studii udržovací léčbu valganciklovirem v dávce 900 mg jednou denně. Střední interval (medián) doby od randomizace k progresi CMV retinitidy ve skupině dostávající indukční i udržovací léčbu valganciklovirem činil 226 (160) dní, zatímco ve skupině dostávající indukční léčbu intravenózním ganciklovirem a následně udržovací léčbu valganciklovirem činil 219 (125) dní.
+Prevence cytomegalovirového onemocnění u pacientů po transplantaci
+V dvojitě zaslepené, dvojitě maskované ("double-dummy") klinické studii s klinicky aktivním srovnávacím lékem byli sledováni pacienti po transplantaci srdce, jater a ledviny (pacienti po transplantaci plic a střev nebyli do této studie zařazeni) s vysokým rizikem rozvoje CMV onemocnění (D+/R-). Pacienti dostávali buď valganciklovir (900 mg jednou denně) nebo perorální ganciklovir (1000 mg třikrát denně), a to od 10. dne po transplantaci do 100. dne po transplantaci. Četnost výskytu CMV onemocnění (CMV syndrom a onemocnění s invazí do tkání) během prvních 6 měsíců po transplantaci byla 12,1% ve skupině léčené valganciklovirem (n = 239) ve srovnání s 15,2% ve skupině léčené perorálním ganciklovirem (n = 125). Velká většina případů se objevila po vysazení profylaxe (více než 100 dní po transplantaci), přičemž ve skupině léčené valganciklovirem se v průměru onemocnění CMV objevovalo později než ve skupině léčené perorálním ganciklovirem.
+Četnost výskytu akutní rejekce orgánu během prvních 6 měsíců byla 29,7% u pacientů randomizovaných k léčbě valganciklovirem oproti 36,0% ve skupině léčené perorálním ganciklovirem, úplná ztráta transplantovaného štěpu se v obou léčebných skupinách vyskytla stejně často (0,8%).
+
+Dvojitě zaslepená, placebem kontrolovaná studie hodnotící účinnost a bezpečnost rozšířené profylaktické léčby onemocnění CMV valganciklovirem v období od 100 do 200 dnů po transplantaci byla vedena u 326 pacientů po transplantaci ledviny s vysokým rizikem onemocnění CMV (D+/R-). Pacienti byli do 10 dnů po transplantaci randomizováni v poměru 1:1 do skupin léčených valganciklovirem ve formě tablet (900 mg jednou denně) buď do dne 200 po transplantaci, nebo do dne 100 po transplantaci s následným podáváním placeba po dobu dalších 100 dnů.
+Podíl pacientů, u kterých se projevilo onemocnění CMV v průběhu prvních 12 měsíců po transplantaci, je shrnut v tabulce níže.
+
+Procento pacientů po transplantaci ledviny s onemocněním CMV¹, ITT populace ve 12 měsícíchA
+
+
+
+
+
+Pacienti s potvrzeným nebo předpokládaným onemocněním CMV ² Pacienti s potvrzeným onemocněním CMV
+Valganciklovir 900 mg jednou denně 100 dnů (N=163)
+71 (43,6 %)
+[35,8 %; 51,5 %]
+
+60 (36,8 %)
+[29,4 %; 44,7 %]
+Valganciklovir 900 mg jednou denně 200 dnů (N=155)
+36 (23,2 %)
+[16,8 %; 30,7 %]
+
+25 (16,1 %)
+[10,7 %; 22,9 %]
+Rozdíl mezi léčebnými skupinami
+
+20,3 %
+[9,9 %; 30,8 %]
+
+20,7 %
+[10,9 %; 30,4 %]
+¹ Onemocnění CMV je definováno buď jako CMV syndrom nebo jako tkáňové invazivní CMV onemocnění.
+² Potvrzené onemocnění CMV je klinicky potvrzený případ onemocnění CMV. Onemocnění CMV se předpokládá v případě, kdy nebylo provedeno vyšetření v 52. týdnu a kdy nebylo onemocnění CMV dříve potvrzeno.
+A Výsledky zaznamenané do 24 měsíců odpovídaly výsledkům zaznamenaným do 12 měsíců:
+12
+
+Potvrzené nebo předpokládané onemocnění CMV tvořilo 48,5% v léčebném rameni se 100 dny léčby oproti 34,2% v léčebném rameni se 200 dny léčby; rozdíl mezi léčebnými skupinami tvořil 14,3% [3,2%; 25,3%].
+
+Onemocnění CMV se objevilo u významně menšího počtu vysoce rizikových pacientů po transplantaci ledviny po podávání profylaktické léčby valganciklovirem do dne 200 po transplantaci v porovnání s pacienty, kteří dostávali profylaktickou léčbu přípravkem valganciklovirem pouze do dne 100 po transplantaci.
+
+Procento přežití štěpu a stejně tak i incidence biopsie prokazující akutní rejekci bylo podobné v obou léčebných skupinách. Procento přežití štěpu 12 měsíců po transplantaci bylo 98,2% (160/163) při režimu se 100 dny léčby a 98,1% (152/155) při režimu s 200 dny léčby. Do 24 měsíců po transplantaci byly hlášeny další čtyři případy ztráty štěpu, všechny ve skupině se 100 dny léčby. Incidence biopsie prokazující akutní rejekci 12 měsíců po transplantaci byla 17,2% (28/163) ve skupině se 100 dny léčby a 11,0% (17/155) ve skupině s 200 dny léčby. Ve skupině s 200 dny léčby byl do 24 měsíců po transplantaci hlášen jeden další případ.
+
+Virová rezistence
+Po dlouhodobém podávání valgancikloviru se mohou objevit viry rezistentní na ganciklovir. Vznikají mechanismem selektivních mutací v genu pro virovou kinázu (UL97), která je zodpovědná za monofosforylaci gancikloviru a/nebo v genu pro virovou polymerázu (UL54).Ve spojitosti s rezistencí na ganciklovir bylo v klinických izolátech nejčastěji hlášeno těchto sedm kanonických UL97 substitucí: M460V/I, H520Q, C592G, A594V, L595S, C603W. Viry, které obsahují mutace v genu UL97, jsou rezistentní pouze na ganciklovir, zatímco viry s mutací v genu UL54 jsou rezistentní na ganciklovir a mohou mít zkříženou rezistenci i vůči dalším antivirotikům, která rovněž působí na virovou polymerázu.
+Léčba CMV retinitidy
+Genotypová analýza CMV v polymorfonukleárních leukocytech (PMN) izolovaných od 148 pacientů s CMV retinitidou, zahrnutých v jedné klinické studii, prokázala po 3, 6, 12 a 18 měsících léčby valganciklovirem mutace v genu UL97 u 2,2%, 6,5%, 12,8% a 15,3% pacientů v uvedeném pořadí.
+Prevence cytomegalovirového onemocnění u pacientů po transplantaci
+Srovnávací studie s aktivním komparátorem
+Rezistence byla hodnocena analýzou genotypu CMV ve vzorcích polymorfonukleárů odebraných i) stý den (konec profylaxe hodnoceným lékem) a ii) v případech podezření na CMV onemocnění až do doby 6 měsíců od transplantace. Od 245 pacientů randomizovaných k léčbě valganciklovirem bylo stý den k dispozici 198 vzorků a nebyly zjištěny žádné mutace rezistentní vůči gancikloviru. Oproti tomu ve srovnávací skupině léčené perorálním ganciklovirem byly zachyceny 2 ganciklovir-rezistentní mutace ve 103 testovaných vzorcích (1,9%).
+Ze skupiny 245 pacientů randomizovaných k léčbě valganciklovirem byly vyšetřeny vzorky od 50 pacientů s podezřením na CMV onemocnění a nebyly zjištěny žádné rezistentní mutace. Ze 127 pacientů randomizovaných do srovnávací skupiny léčené ganciklovirem bylo vyšetřeno 29 vzorků od pacientů s podezřením na CMV onemocnění a byly zachyceny dvě rezistentní mutace, což představuje incidenci rezistence 6,9%.
+
+Studie hodnotící rozšířenou profylaktickou léčbu od 100 do 200 dnů po transplantaci
+Genotypová analýza byla provedená s geny UL54 a UL97 odvozenými z viru extrahovaného od 72 pacientů, kteří splňovali kritéria analýzy rezistence: pacienti, u kterých byla prokázána pozitivní virová nálož (> 600 kopií/ml) na konci profylaktické léčby a/nebo pacienti, u kterých bylo onemocnění CMV potvrzené do 12 měsíců (52 týdnů) po transplantaci. V každé léčebné skupině byli tři pacienti, kteří měli prokázanou mutaci rezistence na ganciklovir.
+
+
+
+13
+
+Pediatrická populace
+
+Léčba CMV retinitidy
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s valganciklovirem u všech podskupin pediatrické populace k léčbě infekce způsobené CMV u imunokopromitovaných
+Léčba CMV retinitidy
+pacientů (informace o použití u dětí viz bod 4.2).
+Prevence onemocnění CMV u transplantací
+Farmakokinetická studie fáze II hodnotící bezpečnost u pediatrických pacientů po transplantaci solidního orgánu (ve věku 4 měsíce až 16 let, n = 63), kteří byli léčeni valganciklovirem jednou denně po dobu až 100 dnů podle dávkovacího algoritmu, vedla k podobným expozicím jako u dospělých (viz bod 5.2). Následné sledování po léčbě trvalo 12 týdnů. Sérologický status CMV D/R v úvodu léčby byl D+/R- ve 40%, D+/R+ ve 38%, D-/R+ v 19% a D-/R- ve 3% případů. Přítomnost viru CMV byla hlášena u 7 pacientů. Pozorované nežádoucí účinky byly podobného charakteru jako nežádoucí účinky u dospělých (viz bod 4.8).
+Fáze IV studie snášenlivosti, ve které dostávali pediatričtí pacienti po transplantaci ledviny (ve věku 1 až 16 let, n=57) valganciklovir jednou denně po dobu až 200 dnů podle dávkovacího algoritmu (viz bod 4.2), vedla k nízké incidenci CMV. Sledování po léčbě trvalo 24 týdnů. Serologický status CMV D/R na počátku léčby byl D+/R+ u 45 %, D+/R- u 39 %, D-/R+ u 7 %, D-/R- u 7 % a ND/R+ u 2 % případů. CMV virémie byla hlášena u 3 pacientů a u jednoho pacienta bylo hlášeno podezření na CMV syndrom, ale toto podezření nebylo potvrzeno pomocí CMV PCR v centrální laboratoři.
+Pozorované nežádoucí účinky léku byly podobné povahy jako u dospělých pacientů (viz bod 4.8). Tyto údaje jsou příliš omezené, aby na jejich základě bylo možné udělat závěry týkající se účinnosti nebo doporučení pro dávkování u pediatrických pacientů.
+Fáze I studie farmakokinetiky a bezpečnosti u pacientů po transplantaci srdce (ve věku 3 týdny až 125 dnů, n=14), kteří dostali jednu denní dávku valgancikloviru podle pediatrického dávkovacího algoritmu (viz bod 4.2) ve 2 po sobě jdoucích dnech, poskytla podobné expozice jako u dospělých pacientů (viz bod 5.2). Následné sledování po léčbě trvalo 7 dnů. Bezpečnostní profil byl podobný jako v ostatních studiích u pediatrických a dospělých pacientů, ačkoli počet pacientů a expozice valgancikloviru v této studii byly omezené.
+
+Vrozený CMV
+Účinnost a bezpečnost gancikloviru a/nebo valganciklovirem byla studována u novorozenců a kojenců s vrozenou symptomatické infekce CMV ve dvou studiích.
+
+Farmakokinetika a bezpečnost jednorázové dávky valgancikloviru (dávkové rozmezí 14-16-20 mg/kg/ dávku) byly hodnoceny u 24 novorozenců (ve věku 8-34 dnů) se symptomatickým kongenitálním onemocněním CMV (viz bod 5.2). Novorozenci podstoupili 6týdenní antivirovou léčbu, kde 19 z 24 pacientů dostávalo perorální léčbu valganciklovirem po dobu až 4 týdnů a zbývající 2 týdny pak tito pacienti dostávali ganciklovir intravenózně. Zbývajících 5 pacientů dostávalo ganciklovir intravenózně během většiny studijního období. Tato léčebná indikace se v současné době pro valganciklovir nedoporučuje. Design studie a získané výsledky jsou příliš omezené, aby umožnily stanovit odpovídající závěry týkající se účinnosti a bezpečnosti valgancikloviru.
+V první studii byly farmakokinetika a bezpečnost jednorázové dávky valgancikloviru (dávkové rozmezí 14-16-20 mg/kg/dávku) hodnoceny u 24 novorozenců (ve věku 8 až 34 dnů) se symptomatickým kongenitálním onemocněním CMV (viz bod 5.2). Novorozenci podstoupili 6týdenní antivirovou léčbu, kde 19 z 24 pacientů dostávalo perorální léčbu valganciklovirem po dobu až 4 týdnů a zbývající 2 týdny pak tito pacienti dostávali ganciklovir intravenózně. Zbývajících 5 pacientů dostávalo ganciklovir intravenózně během většiny období studie. Ve druhé studii byla účinnost a
+
+14
+
+bezpečnost 6týdenní oproti 6měsíční léčby valganciklovirem hodnocena u 109 dětí ve věku od 2 do 30 dnů se symptomatickým kongenitálním CMV onemocněním. Všechny děti dostávaly valganciklovir perorálně v dávkách 16 mg/kg 2x denně po dobu 6 týdnů. Po 6 týdnech léčby byly děti randomizovány v poměru 1:1 k pokračování v léčbě valganciklovirem ve stejné dávce, nebo dostávaly placebo do ukončení 6 měsíců léčby.
+
+Tato léčebná indikace se v současné době pro valganciklovir nedoporučuje. Design studií a získané výsledky jsou příliš omezené, aby umožnily stanovit odpovídající závěry týkající se účinnosti a bezpečnosti valgancikloviru.
+5.2. Farmakokinetické vlastnosti
+
+Farmakokinetické vlastnosti valgancikloviru byly vyhodnocovány u HIV- a CMV-séropozitivních pacientů, pacientů s AIDS a CMV retinitidou a u pacientů po transplantaci orgánů.
+
+Proporcionalita dávky vzhledem k AUC gancikloviru byla po podání valgancikloviru v dávkovém rozmezí od 450 do 2625 mg prokázána pouze při příjmu potravy.
+
+Absorpce
+Valganciklovir je proléčivem gancikloviru. Je dobře vstřebatelný z trávicího ústrojí a rychle a extenzivně se metabolizuje ve střevní stěně a v játrech na ganciklovir. Systémová expozice vůči valgancikloviru je přechodná a nízká. Absolutní biologická dostupnost gancikloviru z valgancikloviru byla přibližně 60% ve všech sledovaných skupinách pacientů, výsledná expozice gancikloviru je podobná jako po intravenózním podání (viz tabulka níže). Pro srovnání, biologická dostupnost gancikloviru po perorálním podání dávky 1000 mg gancikloviru (v tobolkách) je 6-8%.
+
+Valganciklovir u HIV pozitivních, CMV pozitivních pacientů:
+Systémová expozice u HIV pozitivních CMV pozitivních pacientů při podávání gancikloviru a valgancikloviru dvakrát denně po dobu jednoho týdne je následující:
+
+
+
+Parametr
+
+AUC(0-12 h) (µg/h/ml) Cmax (µg/ml)
+Ganciklovir (5 mg/kg, i.v.) n=18
+28,6 ± 9,0
+10,4 ± 4,9
+Valganciklovir (900 mg, p.o.) n=25
+Ganciklovir Valganciklovir 32,8 ± 10,1  0,37 ± 0,22
+6,7 ± 2,1   0,18 ± 0,06
+
+Účinnost gancikloviru dle prodloužení doby do progrese CMV retinitidy koreluje se systémovou expozicí (AUC).
+
+Valganciklovir u pacientů po transplantaci orgánů
+Systémová expozice gancikloviru v ustáleném stavu u pacientů po transplantaci orgánu je při každodenním perorálním podávání gancikloviru a valgancikloviru následující:
+
+
+Parametr
+
+
+
+AUC (0-12h) (µg/h/ml) Cmax (µg/ml)
+Ganciklovir
+(1000 mg třikrát denně) n=82
+
+28,0±10,9
+1,4±0,5
+Valganciklovir (900 mg jednou denně) n=161
+
+Ganciklovir 46,3±15,2
+5,3±1,5
+
+Systémová expozice gancikloviru byla u pacientů po transplantaci srdce, ledvin a jater po perorálním podání valgancikloviru v dávkách podle dávkovacího algoritmu renální funkce obdobná.
+
+
+
+15
+
+Účinek potravy:
+Pokud byl valganciklovir podáván s jídlem v doporučené dávce 900 mg, byly pozorovány vyšší hodnoty střední AUC gancikloviru (přibližně 30%), i střední hodnoty Cmax gancikloviru (přibližně 14%) než nalačno.Pokud je valganciklovir podáván s jídlem, klesají také inter-individuální rozdíly v expozici gancikloviru.V klinických studiích byl valganciklovir podáván pouze současně s jídlem.Proto je doporučováno podávat valganciklovir s jídlem (viz bod 4.2).
+Distribuce
+Vzhledem k rychlé konverzi valgancikloviru na ganciklovir nebyla stanovena vazba valgancikloviru na bílkoviny. Distribuční objem gancikloviru v ustáleném stavu (Vd) po intravenózním podání je 0,680
+±0,161 l/kg (n=114). U intravenózního gancikloviru koreluje distribuční objem s tělesnou hmotností, přičemž hodnoty distribučního objemu v rovnovážném stavu jsou v rozmezí 0,54-0,87 l/kg.
+Ganciklovir proniká do mozkomíšního moku. Vazba na plazmatické proteiny byla 1 %-2 % při koncentracích gancikloviru od 0,5 do 51 μg/ml.
+Biotransformace
+Valganciklovir se rychle a extenzivně metabolizuje na ganciklovir; nebyly zjištěny žádné jiné metabolity. Ganciklovir není metabolizován ve významné míře.
+Eliminace
+Po podání perorálního valgancikloviru je přípravek rychle hydrolyzován na ganciklovir. Ganciklovir je eliminován ze systémové cirkulace glomerulární filtrací a aktivní tubulární sekrecí. U pacientů s normální funkcí ledvin bylo do 24 hodin po intravenózním podání dávky nalezeno v moči více než 90
+% nezměněného gancikloviru. U pacientů s normální funkcí ledvin klesaly po dosažení vrcholu plazmatické koncentrace gancikloviru po podání valgancikloviru s poločasem v rozmezí od 0,4 h do 2,0 h.
+Farmakokinetika ve zvláštních klinických situacích
+
+Pediatrická populace
+Ve farmakokinetické studii fáze II hodnotící bezpečnost u pediatrických pacientů po transplantaci solidního orgánu (ve věku 4 měsíce až 16 let, n = 63) se valganciklovir podával jednou denně po dobu až 100 dnů. Farmakokinetické parametry byly podobné u všech typů orgánů a pro všechna věková rozmezí a byly srovnatelné s dospělými. Modelování famakokinetiky populace prokázalo, že biologická dostupnost byla přibližně 60 %. Clearance byla pozitivně ovlivněna jak tělesným povrchem, tak renálními funkcemi.
+
+Ve fázi I studie farmakokinetiky a bezpečnosti u pediatrických pacientů po transplantaci srdce (ve věku 3 týdny až 125 dnů, n=14) byl valganciklovir podáván jednou denně po dobu dvou studijních dnů. Z farmakokinetiky populace byla odhadnuta průměrná biologická dostupnost 64 %.
+Srovnání výsledků z těchto dvou studií a výsledků farmakokinetiky od populace dospělých pacientů ukázala, že rozmezí AUC0-24h bylo velmi podobné napříč všemi věkovými skupinami, včetně dospělých. Průměrné hodnoty AUC0-24h a Cmax byly rovněž podobné napříč skupinou pediatrických pacientů ve věku < 12 let, ačkoli zde byl trend ke snižování průměrných hodnot AUC0-24h a Cmax napříč všemi věkovými rozmezími pediatrické populace, což pravděpodobně odpovídá zvyšujícímu se věku. Tento trend byl více zřejmý u průměrných hodnot clearance a poločasu (t1/2), nicméně toto se očekává, protože clearance je ovlivněna změnami tělesné hmotnosti, tělesné výšky a renálními funkcemi, které souvisí s růstem pacientů, jak ukazuje modelování populační farmakokinetiky.
+
+Následující tabulka shrnuje modelový odhad rozmezí AUC0-24h pro ganciklovir z těchto dvou studií a rovněž průměrnou a standardní odchylku hodnot AUC0-24h a Cmax, Cl a t1/2 v odpovídajících věkových skupinách ve srovnání s dospělými pacienty:
+
+
+
+
+16
+
+PK parametr
+Dospělí*
+Pediatričtí pacienti
+
+
+
+AUC0-24h (µg/h/ml) Rozmezí AUC0-24h Cmax (µg/ml) Clearance (l/h)
+t1/2 (h)
+≥18 let (n=160) 46,3 ± 15,2
+15,4 – 116,1
+5,3 ± 1,5
+12,7 ± 4,5
+6,5 ± 1,4
+< 4 měsíce
+(n = 14)
+68,1 ± 19,8
+34 - 124
+10,5 ± 3,36
+1,25 ± 0,473
+1,97 ± 0,185
+4 měsíce ≤ 2 let (n=17)
+64,3 ± 29,2
+34 - 152
+10,3 ± 3,3
+2,5 ± 2,4
+3,1 ± 1,4
+> 2 - < 12 let (n=21)
+59,2 ± 15,1
+36 - 108
+9,4 ± 2,7
+4,5 ± 2,9
+4,1 ± 1,3
+≥ 12 let – 16 let (n=25)
+50,3 ± 15,0
+22 - 93
+8,0 ± 2,4
+6,4 ± 2,9
+5,5 ± 1,1
+* Výňatek z hlášení ze studie PV 16000
+Dávkování valgancikloviru jednou denně bylo založeno na velikosti tělesného povrchu (BSA) a clearance kreatininu (CrCl) odvozené z modifikovaného Schwartzova vzorce, který je uveden v bodě 4.2
+
+Farmakokinetika gancikloviru po podání valgancikloviru byla rovněž hodnocena ve dvou studiích u novorozenců a kojenců se symptomatickým kongenitálním CMV onemocněním. V první studii dostávalo 24 novorozenců ve věku 8 až 34 dnů ganciklovir intravenózně v dávce 6 mg/kg dvakrát denně. Pacienti byli poté léčeni perorálním valganciklovirem, kdy se dávky valgancikloviru prášku pro přípravu perorálního roztoku pohybovaly v rozmezí 14 mg/kg až 20 mg/kg dvakrát denně, celková délka léčby byla 6 týdnů. Valganciklovir prášek pro přípravu perorálního roztoku v dávce 16 mg/kg dvakrát denně poskytuje u novorozenců srovnatelnou expozici gancikloviru jako ganciklovir v dávce 6 mg/kg podaný intravenózně dvakrát denně a rovněž se dosahuje podobné expozice gancikloviru, jako je účinná intravenózní dávka u dospělých, tedy 5 mg/kg.
+
+Ve druhé studii dostávalo 109 novorozenců ve věku 2 až 30 dnů valganciklovir prášek pro perorální roztok v dávce 16 mg/kg dvakrát denně po dobu 6 týdnů a následně 96 ze 109 zařazených pacientů bylo randomizováno k pokračování v léčbě valganciklovirem nebo placebem po dobu 6 měsíců.
+Průměrná AUC0- 24h však byla nižší ve srovnání s hodnotami AUC0-24h z první studie. Následující tabulka ukazuje průměrné hodnoty AUC, Cmax a t½ včetně standardních odchylek ve srovnání s údaji od dospělých pacientů:
+
+
+PK Parametr
+Dospělí
+Pediatričtí pacienti (novorozenci a kojenci)
+
+
+
+
+AUC0-nek. (mg/h/l) AUC12h (mg/h/l) Cmax (µg/ml)
+t1/2 (h)
+5 mg/kg GAN Jednorázová dávka (n=8)
+25,4 ± 4,32
+-
+9,03 ± 1,26
+3,32 ± 0,47
+6 mg/kg GAN Dvakrát denně (n=19)
+- 38,25 ± 42,7
+12,9 ± 21,5
+2,52 ± 0,55
+16 mg/kg VAL Dvakrát denně (n=19)
+-
+30,1 ± 15,1
+5,44 ± 4,04
+2,98 ± 1,26
+16 mg/kg VAL Dvakrát denně (n = 100)
+- 20,85 ± 5,40
+-
+2,98 ± 1,12
+GAN = Ganciklovir, i.v. VAL = Valganciklovir, p.o.
+Tyto údaje jsou příliš omezené, aby byly vyvozeny závěry ohledně účinnosti dávkování u dětských pacientů s vrozenou infekcí CMV.
+Starší pacienti
+Nebyla provedena žádná studie, která by studovala farmakokinetiku valgancikloviru nebo gancikloviru u pacientů starších 65 let (viz bod 4.2).
+
+Pacienti s poruchou funkce ledvin
+Farmakokinetika gancikloviru po jediné perorální dávce 900 mg valgancikloviru byla posuzována u 24 jinak zdravých osob s poruchou funkce ledvin.
+Farmakokinetické parametry gancikloviru po jediné perorální dávce 900 mg tablet přípravku Virexan
+
+17
+
+u pacientů s různými stupni poruchy funkce ledvin:
+
+
+Odhadovaná     N clearance kreatininu (ml/min)
+
+51-70        6
+21-50        6
+11-20        6
+≤10        6
+Zdánlivá clearance (ml/min) Střední hodnota ±SD
+249 ±99
+136 ±64
+45 ±11
+12,8 ±8
+AUClast  (μg∙h/ml) Střední hodnota ±SD
+
+
+49,5 ±22,4
+91,9 ±43,9
+223 ±46
+366 ±66
+Poločas  (hodiny) Střední  hodnota
+±SD
+
+4,85 ±1,4
+10,2 ±4,4
+21,8 ±5.2
+67,5 ±34
+
+Snížená renální funkce měla za následek sníženou clearance gancikloviru z valgancikloviru s odpovídajícím zvýšením terminálního poločasu. Proto je u pacientů s poruchou funkce ledvin nutná úprava dávky (viz body 4.2 a 4.4).
+
+Pacienti na hemodialýze
+Doporučení pro dávkování přípravku Virexan potahované tablety nelze u hemodialyzovaných pacientů poskytnout. Je to proto, že jednotlivá dávka přípravku Virexan, která je u těchto pacientů potřebná, že nižší než síla, která je ve 450 mg tabletě. Přípravek Virexan potahované tablety tedy nelze u těchto pacientů použít (viz body 4.2 a 4.4).
+
+Stabilní pacienti po transplantaci jater
+Farmakokinetika gancikloviru z valgancikloviru u stabilních pacientů po transplantaci jater byla zkoumána v jedné otevřené zkřížené studii se 4 částmi (N=28). Biologická dostupnost gancikloviru z valgancikloviru po jediné dávce 900 mg valgancikloviru při příjmu potravy byla přibližně 60%.
+AUC0-24h gancikloviru byla srovnatelná s tou, která byla dosažena po podání intravenózního gancikloviru v dávce 5 mg/kg u pacientů po transplantaci jater.
+Pacienti s poruchou funkce jater
+Bezpečnost a účinnost přípravku Virexan ve formě potahovaných tablet nebyla u pacientů s poruchou funkce jater zkoumána. Vzhledem k tomu, že je ganciklovir eliminován ledvinami, neměla by porucha funkce jater farmakokinetiku gancikloviru ovlivnit, a proto není vytvořeno žádné specifické doporučení k dávkování.
+
+Pacienti s cystickou fibrózou
+Ve fázi I farmakokinetické studie u pacientů s cystickou fibrózou (CF) nebo bez ní po transplantaci plic dostávalo 31 pacientů (16 CF/15 bez CF) post-transplantační profylaxi přípravkem Virexan v dávce 900 mg/den. Studie ukázala, že cystická fibróza nemá statisticky významný vliv na celkovou průměrnou systémovou expozici gancikloviru u pacientů po transplantaci plic. Expozice gancikloviru u pacientů po transplantaci plic byla srovnatelná s expozicí prokazatelně účinnou v prevenci CMV onemocnění u dalších pacientů po orgánové transplantaci.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Valganciklovir je proléčivo gancikloviru, a proto je možno účinky pozorované u gancikloviru vztáhnout i na používání valgancikloviru. Toxicita valgancikloviru u předklinických studií vztahující se k bezpečnosti byla stejná jako u gancikloviru a byla indukována při expozicích gancikloviru srovnatelných nebo nižších, než jsou hodnoty expozice člověka, pokud byly podány indukční dávky.
+
+Zjištěna byla gonadotoxicita (ztráta testikulárních buněk) a nefrotoxicita (uremie, degenerace buněk), které byly nezvratné; myelotoxicita (anémie, neutropenie, lymfocytopenie) a gastrointestinální toxicita (nekróza mukózních buněk), které byly reverzibilní.
+Ganciklovir byl mutagenní v buňkách lymfomu u myší a klastogenní v savčích buňkách. Tyto
+
+18
+
+výsledky jsou konzistentní s pozitivní studií karcinogenity gancikloviru na myších. Ganciklovir je potenciální karcinogen.
+
+Další studie ukázaly, že je ganciklovir teratogenní, embryotoxický a vyvolává inhibici spermatogeneze (např. porucha fertility u mužů) a potlačuje fertilitu u žen.
+Údaje u zvířat ukazují, že ganciklovir je vylučován do mléka kojících potkanů.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocnýc látek
+
+Jádro tablety mikrokrystalická celulóza krospovidon typ A povidon (K-30)
+kyselina stearová 50%
+
+Potahová vrstva hypromelóza 2910/3 hypromelóza 2910/6 oxid titaničitý (E171) makrogol 400
+červený oxid železitý (E172) polysorbát 80
+6.2. Inkompatibility
+
+Neuplatňuje se.
+
+6.3. Doba použitelnosti
+3 roky.
+
+6.4. Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5. Druh obalu a obsah balení
+
+OPA/Al/PVC/Al blistr, balený v krabičce: 30, 60, 90 nebo 120 tablet.
+HDPE lahvička s výplní z čištěné bavlny a s dětským bezpečnostním polypropylenovým šroubovacím uzávěrem s buničitou vložkou (vyrobenou z podkladu, vosku, fólie, PET a těsnění) obsahující 60 tablet.
+
+Na trhu nemusí být všechny velikosti balení.
+6.6. Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+19
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Do 28. 3. 2019:
+Accord Healthcare Limited Sage House, 319 Pinner Road
+North Harrow, Middlesex, HA1 4HF Velká Británie
+
+Od 29. 3. 2019:
+Accord Healthcare Polska Sp. z o.o. ul. Taśmowa 7
+02-677 Varšava Polsko
+
+
+8. REGISTRAČNÍ ČÍSLO
+42/212/16-C
+
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 22. 6. 2016
+
+
+10. DATUM REVIZE TEXTU
+13. 2. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20

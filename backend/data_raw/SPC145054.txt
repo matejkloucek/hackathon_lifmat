@@ -1,0 +1,992 @@
+sp.zn. sukls147226/2019
+Souhrn údajů o přípravku
+
+1. NÁZEV PŘÍPRAVKU
+
+Ultra Technekow FM
+2,15 – 43,00 GBq, radionuklidový generátor
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Prostřednictvím radionuklidového generátoru (⁹⁹Mo/⁹⁹ᵐTc) se získává injekční roztok natrii pertechnetas- (⁹⁹ᵐTc) (technecistanu-(⁹⁹ᵐTc) sodného). Technecium (⁹⁹ᵐTc) se za emise záření gama s hlavní energií
+140 keV a poločasem rozpadu 6,01 hodin rozpadá na technecium (⁹⁹Tc), které lze vzhledem k jeho dlouhému poločasu rozpadu 2,13 x 10⁵ let považovat za kvazistabilní.
+Radionuklidový generátor obsahující mateřský izotop ⁹⁹Mo, který je naadsorbován na chromatografickou
+kolonu, poskytuje sterilní injekční roztok technecistanu-(⁹⁹ᵐTc) sodného.
+
+⁹⁹Mo na koloně je v rovnováze s vytvořeným dceřiným izotopem ⁹⁹ᵐTc. Generátory jsou dodávány
+s následujícími hodnotami aktivity ⁹⁹Mo k referenčnímu času, které umožní vytvořit následující množství technecia (⁹⁹ᵐTc ) za předpokladu teoretické 100% eluční výtěžnosti, provedení eluce za 24 hodin po předchozí eluci a při zohlednění větvícího poměru, který pro molybden ⁹⁹Mo činí asi 87 %:
+
+
+Aktivita ⁹⁹ᵐTc (maximální eluovatelná aktivita k datu
+kalibrace, 06.00 h CET)
+Aktivita ⁹⁹Mo (k datu kalibrace,
+06.00 h CET)
+1,90
+
+
+
+
+
+2,15
+3,81
+
+
+
+
+
+4,30
+5,71
+
+
+
+
+
+6,45
+7,62
+
+
+
+
+
+8,60
+9,53
+
+
+
+
+
+10,75
+11,43
+
+
+
+
+
+12,90
+15,24
+
+
+
+
+
+17,20
+19,05
+
+
+
+
+
+21,50
+22,86
+
+
+
+
+
+25,80
+26,67
+
+
+
+
+
+30,10
+30,48
+
+
+
+
+
+34,40
+38,10
+
+
+
+
+
+43,00
+GBq
+
+
+
+
+
+GBq
+
+Množství technecia (⁹⁹ᵐTc) získané při jednotlivé eluci závisí na reálné výtěžnosti použitého generátoru deklarované výrobcem a schválené příslušnou národní autoritou.
+
+Pomocná látka se známým účinkem:
+Jeden ml roztoku technecistanu-(⁹⁹ᵐTc) sodného obsahuje 3,5 mg sodíku. Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Radionuklidový generátor.
+
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+
+1 / 14
+
+Tento léčivý přípravek je určen pouze k diagnostickým účelům.
+
+Eluát z radionuklidového generátoru (injekční roztok technecistanu-(⁹⁹ᵐTc) sodného) je určen pro:
+
+•  Značení různých kitů pro přípravu radiofarmak vyvinutých a schválených pro radioaktivní značení takovým roztokem.
+•  Scintigrafii štítné žlázy: přímé zobrazování a měření vychytávání štítnou žlázou podává informace o velikosti, poloze, nodularitě a funkci štítné žlázy při jejím onemocnění.
+•  Scintigrafii slinných žláz: diagnostika chronické sialoadenitidy (např. Sjögrenův syndrom) a také vyšetření funkce slinných žláz a průchodnosti slinných kanálků u onemocnění slinných žláz a monitorování odpovědi na terapeutické intervence (zejména na léčbu radioaktivním jódem).
+•  Lokalizaci ektopické žaludeční sliznice (Meckelova divertiklu).
+•  Scintigrafii slzných kanálků k vyšetření funkčních poruch slzení a k monitorování odpovědi na terapeutické intervence.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+Technecistan-(⁹⁹ᵐTc) sodný se aplikuje intravenózně, používané aktivity se pohybují v širokém rozmezí podle požadované klinické informace a použitého zařízení. Podání aktivit vyšších než národní diagnostické referenční úrovně pro určité indikace by mělo být odůvodněné.
+Doporučené hodnoty aktivity jsou následující:
+
+Dospělí (70 kg) a starší pacienti:
+•  Scintigrafie štítné žlázy: 20 - 80 MBq
+•  Scintigrafie slinných žláz: 30 - 150 MBq pro statické snímky a až 370 MBq pro dynamické snímky.
+•  Scintigrafie Meckelova divertiklu: 300 - 400 MBq
+•  Scintigrafie slzných kanálků: 2 - 4 MBq do každého oka.
+
+Porucha funkce ledvin
+Vyžaduje se pečlivé zvážení podávané aktivity, protože u těchto pacientů hrozí riziko zvýšené radiační
+expozice.
+Pediatrická populace:
+Použití u dětí a dospívajících je nutno pečlivě zvážit na základě klinických potřeb a posouzení poměru přínosů a rizik u této skupiny pacientů.
+Aktivity, které mají být podány dětem a dospívajícím musí být upravené a lze je vypočítat podle doporučení daných pediatrickou dávkovací kartou (Dosage Card) Evropské asociace nukleární medicíny (EANM); aktivity podávané dětem a dospívajícím lze vypočítat vynásobením základní aktivity (pro účely výpočtu) korekčním faktorem (násobkem) podle tělesné hmotnosti uvedeným v tabulce níže (viz tabulka 1).
+
+A[MBq] (podaná aktivita) = základní aktivita × násobek
+Scintigrafie štítné žlázy:
+Podaná aktivita [MBq] = 5,6 MBq x korekční faktor (tabulka 1). K získání snímků dostatečné kvality je
+nezbytná minimální aktivita 10 MBq.
+
+Identifikace/lokalizace ektopické žaludeční sliznice:
+Podaná aktivita [MBq] = 10,5 MBq x korekční faktor (tabulka 1). K získání snímků dostatečné kvality je
+nezbytná minimální aktivita 20 MBq.
+
+2 / 14
+
+Tabulka 1: Korekční faktory dle tělesné hmotnosti u pediatrické populace (pro indikace scintigrafie štítné žlázy a identifikace/lokalizaci ektopické žaludeční sliznice) dle směrnic EANM – 2014
+
+
+Tělesná hmotnost 3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Korekční faktor (násobek)
+1
+1,14
+1,71
+2,14
+2,71
+3,14
+3,57
+4,00
+4,43
+4,86
+Tělesná hmotnost 22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+Korekční faktor (násobek)
+5,29
+5,71
+6,14
+6,43
+6,86
+7,29
+7,72
+8,00
+8,43
+8,86
+Tělesná hmotnost 42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+Korekční faktor (násobek)
+9,14
+9,57
+10,00
+10,29
+10,71
+11,29
+12,00
+12,71
+13,43
+14,00
+
+Scintigrafie slinných žláz:
+Pracovní skupina pro pediatrii EANM (1990) doporučuje, aby aktivita podávaná dětem byla vypočtena podle tělesné hmotnosti s použitím následující tabulky (tabulka 2), přičemž pro získání dostatečně kvalitních
+snímků je nutná minimální dávka 10 MBq.
+
+Tabulka 2: Korekční faktory dle tělesné hmotnosti u pediatrické populace (pro indikaci scintigrafie slinných žláz) dle směrnic EANM – 1990
+
+
+Tělesná hmotnost 3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Korekční faktor (násobek)
+0,1
+0,14
+0,19
+0,23
+0,27
+0,32
+0,36
+0,40
+0,44
+0,46
+Tělesná hmotnost 22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+Korekční faktor (násobek)
+0,50
+0,53
+0,56
+0,58
+0,62
+0,65
+0,68
+0,71
+0,73
+0,76
+Tělesná hmotnost 42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+Korekční faktor (násobek)
+0,78
+0,80
+0,82
+0,85
+0,88
+0,90
+0,92
+0,96
+0,98
+0,99
+
+Scintigrafie slzných kanálků:
+Doporučené aktivity se podávají jak dospělým, tak i dětem.
+
+Způsob podání
+Pro intravenózní nebo oční podání. Pro vícenásobné podání.
+Pokyny pro okamžitou přípravu léčivého přípravku před podáním viz bod 12. Příprava pacienta viz bod 4.4.
+
+Při scintigrafii štítné žlázy, scintigrafii slinných žláz a identifikaci/lokalizaci ektopické žaludeční sliznice se roztok technecistanu-(⁹⁹ᵐTc) sodného podává nitrožilní injekcí.
+Při scintigrafii slzných kanálků se vkapávají kapky do obou očí (oční podání).
+
+Pořízení snímku
+3 / 14
+
+Scintigrafie štítné žlázy: 20 minut po nitrožilní injekci.
+
+Scintigrafie slinných žláz: okamžitě po nitrožilní injekci a v pravidelných intervalech po dobu 15 minut.
+Identifikace/lokalizace ektopické žaludeční sliznice (Meckelova divertiklu): okamžitě po nitrožilní injekci a
+v pravidelných intervalech po dobu 30 minut.
+
+Scintigrafie slzných kanálků: dynamické snímky do 2 minut po vkapání, následně statické snímky pořizované
+v pravidelných intervalech po dobu 20 minut.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4 Zvláštní upozornění a opatření pro použití
+
+Možnost hypersenzitivních nebo anafylaktických reakcí
+Objeví-li se hypersenzitivita nebo anafylaktická reakce, je nutno podávání léčivého přípravku okamžitě ukončit a podle potřeby zahájit intravenózní léčbu. Pro zajištění odpovídající léčby musejí být k okamžité dispozici léčivé přípravky a vybavení pro akutní zásah, např. endotracheální trubice či prostředky pro podporu dýchacích funkcí.
+Individuální zvážení poměru přínosu a rizika
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s očekávaným přínosem vyšetření. Aplikovaná aktivita musí být každopádně nejmenší možná, která ještě dostačuje k získání požadované diagnostické informace.
+
+Porucha funkce ledvin
+U těchto pacientů je vždy potřeba důkladně zvážit poměr přínosu vyšetření k možným rizikům, jelikož u nich hrozí vystavení vyšším dávkám radiace.
+
+Pediatrická populace
+Informace o použití u pediatrické populace viz bod 4.2.
+U této populace je nutno pečlivě zvážit indikace, protože efektivní dávka na MBq je vyšší než u dospělých
+(viz bod 11).
+U populace pediatrických pacientů je zvlášť důležitá blokáda štítné žlázy, pokud u nich nemá být prováděna scintigrafie štítné žlázy.
+
+Příprava pacienta
+U některých indikací může být nutná premedikace pacienta látkami blokujícími štítnou žlázu.
+Pacient má být před zahájením vyšetření dobře hydratován a po vyšetření má být dále vyzván k častému močení během následujících několika hodin, za účelem snížení radiační zátěže.
+Pro vyloučení falešně pozitivních výsledků a ke snížení akumulace technecistanu ve štítné žláze a ve
+slinných žlázách je nutno před scintigrafií slzných kanálků a před scintigrafií Meckelova divertiklu podat blokátory štítné žlázy. Naopak, blokátory štítné žlázy NESMÍ být podány před scintigrafií štítné žlázy, příštítných tělísek a slinných žláz.
+
+Před aplikací technecistanu-(⁹⁹ᵐTc) sodného pro scintigrafii Meckelova divertiklu nesmí pacient jíst 3 až 4 hodiny před vyšetřením, aby došlo ke snížení peristaltické střevní aktivity.
+
+
+4 / 14
+
+Po in vivo značení erytrocytů cínatými ionty jako redukčního činidla je technecistan-(⁹⁹ᵐTc) sodný primárně vázán na erytrocyty, proto má být scintigrafie Meckelova divertiklu provedena před, nebo několik dnů po in vivo značení erytrocytů.
+Po vyšetření
+Po dobu 12 hodin je zakázán těsný kontakt s kojenci a těhotnými ženami.
+
+Zvláštní upozornění
+Injekční roztok technecistanu (99mTc) sodného obsahuje 3,5 mg/ml sodíku.
+V závislosti na době aplikace injekce může být množství sodíku podané pacientovi v některých případech vyšší než 1 mmol (23 mg). To je nutno vzít v úvahu u pacientů, kteří jsou na dietě s nízkým obsahem sodíku.
+Při značení kitů technecistanem-(⁹⁹ᵐTc) sodným se musí při hodnocení obsahu sodíku v podané dávce vzít v úvahu jak sodík odvozený z eluátu, tak z kitu. Přečtěte si prosím pečlivě příbalové informace příslušných kitů.
+U scintigrafie slinných žláz je nutno očekávat nižší specifitu metody v porovnání s MR sialografií. Bezpečnostní opatření s ohledem na ochranu životního prostředí viz bod 6.6.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Atropin, izoprenalin a analgetika mohou způsobit opožděné vyprazdňování žaludku, a tím způsobit
+redistribuci technecistanu-(⁹⁹ᵐTc) sodného při zobrazovacím vyšetření břicha.
+
+Je nutno zastavit podávání laxativ, protože dráždí gastrointestinální trakt. V době 48 hodin před podáním
+technecistanu-(⁹⁹ᵐTc) sodného pro scintigrafii Meckelova divertiklu nemá být prováděno vyšetření
+s kontrastní látkou (např. baryem) a vyšetření horní části gastrointestinálního traktu.
+
+U mnoha léčivých přípravků s farmakologickou aktivitou je známo, že modifikují vstřebávání štítnou žlázou:
+•  Přípravky s antithyroidním účinkem (např. karbimazol nebo jiné deriváty imidazolu jako je propylthiouracil), salicyláty, steroidy, nitroprussid sodný, sulfobromftalein sodný a chloristan, nemají být podávány 1 týden před scintigrafií štítné žlázy;
+•  Fenylbutazon a expektorancia nemají být podávány 2 týdny před vyšetřením;
+•  Přírodní nebo syntetické přípravky ovlivňující štítnou žlázu (např. levothyroxin sodný, liothyronin sodný, extrakt ze štítné žlázy) musí být vyloučeny na 2-3 týdny před vyšetřením;
+•  Amiodaron, benzodiazepiny a lithium je nutno vyloučit na 4 týdny před vyšetřením;
+•  Intravenózní kontrastní látky se nesmí podávat 1-2 měsíce před vyšetřením.
+
+4.6 Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Pokud je nezbytné aplikovat radioaktivní látku ženám ve fertilním věku, je nutno vždy pátrat po možném
+těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou, pokud se neprokáže opak. Kde trvá nejistota ohledně možného těhotenství (vynechání menstruace, menstruace je velmi nepravidelná apod.), musí být pacientce nabídnuty alternativní metody bez použití ionizujícího záření (existují-li takové).
+Těhotenství
+Aplikace technecistanu-(⁹⁹ᵐTc) sodného těhotným ženám je potřeba lékařsky zdůvodnit klinickou potřebou a předpokládaným pozitivním poměrem mezi přínosem vyšetření oproti možným rizikům pro matku a plod. Je potřeba zvážit použití diagnostických metod bez radiační zátěže.
+Technecium-(⁹⁹ᵐTc) (jako technecistan-(⁹⁹ᵐTc) sodný) prochází placentární bariérou.
+5 / 14
+
+Kojení
+Před aplikací radiofarmak kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno jaké je nejvhodnější radiofarmakum vzhledem k sekreci aktivity do mateřského mléka. Je-li aplikace považována za nezbytnou, je nutné přerušit kojení nejméně na 12 hodin a mléko, které se v prsu vytvoří, je nutno odsát a znehodnotit.
+Během této doby je nutno eliminovat těsný kontakt s kojenci.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Technecistan-(⁹⁹ᵐTc) sodný nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Údaje o nežádoucích účincích jsou dostupné ze spontánního hlášení. Hlášené typy reakcí zahrnovaly
+anafylaktoidní reakce, reakce vegetativního nervového systému a také různé druhy reakcí v místě aplikace.
+Technecistan-(⁹⁹ᵐTc) sodný získaný z radionuklidového generátoru Ultra Technekow FM se používá pro značení rozličných sloučenin. Tyto léčivé přípravky mají obecně vyšší potenciál pro výskyt nežádoucích účinků než ⁹⁹ᵐTc, proto mají hlášené nežádoucí účinky spíše souvislost s těmito značenými sloučeninami,
+než s ⁹⁹ᵐTc. Charakter případných nežádoucích účinků po i.v. aplikaci radiofarmak značených ⁹⁹ᵐTc je závislý na konkrétní látce, která byla použita pro značení. Tyto informace lze nalézt v souhrnu údajů o přípravku ke kitu použitému pro přípravu radiofarmaka.
+Tabulkový soupis nežádoucích účinků
+Frekvence nežádoucích účinků je definována takto:
+Není známo (z dostupných údajů nelze určit).
+
+Poruchy imunitního systému
+Frekvence není známo*: anafylaktoidní reakce (např. dyspnoe, kóma, kopřivka, erytém, vyrážka, pruritus,
+edém v různé lokalizaci např. edém tváře) Poruchy nervového systému
+Frekvence není známo*: vazovagální reakce (např. synkopa, tachykardie, bradykardie, závratě, bolest
+hlavy, rozmazané vidění, zrudnutí) Gastrointestinální poruchy
+Frekvence není známo*: zvracení, nauzea, průjem Celkové poruchy a reakce v místě aplikace
+Frekvence není známo*: reakce v místě injekce (např. celulitida, bolest, erytém, otoky)
+* údaje o nežádoucích reakcích pocházejí ze spontánních hlášení
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných poškození. Vzhledem k tomu, že při (maximální doporučené) aktivitě 400 MBq je
+efektivní dávka 5,2 mSv, je pravděpodobnost výskytu těchto nežádoucích účinků považována za velmi nízkou.
+
+Popis vybraných nežádoucích účinků
+
+Anafylaktoidní reakce (např. dyspnoe, kóma, kopřivka, erytém, vyrážka, pruritus, edém v různé lokalizaci např. edém tváře):
+Anafylaktoidní reakce byly hlášeny po i.v. aplikaci technecistanu-(99mTc) sodného a zahrnují různé kožní a dýchací symptomy, jako jsou kožní podráždění, edémy či dyspnoe.
+6 / 14
+
+Vegetativní reakce (nervový systém a gastrointestinální poruchy):
+Ojediněle byly hlášeny těžké vegetativní reakce, nicméně většina hlášených vegetativních reakcí zahrnovala gastrointestinální reakce, jako je nauzea nebo zvracení. Jiná hlášení zahrnují vazovagální reakce, jako jsou bolest hlavy a závratě. Vegetativní reakce bývají spíše připisovány vyšetření jako takovému, než techneciu (⁹⁹ᵐTc), zejména u anxiózních pacientů.
+Celkové poruchy a reakce v místě aplikace:
+Hlášení zahrnují také popisy reakcí v místě aplikace. Tyto reakce souvisejí s extravazaci radiofarmaka během injekce a dle obdržených hlášení se projevují v rozsahu od lokálního otoku až po celulitidu. V závislosti na aplikované aktivitě a značené sloučenině může vyžadovat rozsáhlejší extravazální depozice radiofarmaka
+chirurgické řešení.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9 Předávkování
+
+V případě podání nadměrné dávky radiace pomocí technecistanu-(⁹⁹ᵐTc) sodného je možné snížit absorbovanou dávku zvýšením eliminace radionuklidu z organismu defekací, forsírovanou diurézou a častým močením. Vychytávání štítnou žlázou, slinnými žlázami a žaludeční sliznicí lze významně snížit, pokud se okamžitě po náhodném podání vysoké dávky technecistanu-(⁹⁹ᵐTc) sodného podá chloristan sodný nebo draselný.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Diagnostická radiofarmaka; Různá diagnostická radiofarmaka pro vyšetření štítné žlázy; Kód ATC: V09FX01
+
+V rozsahu dávek aplikovaných pro diagnostické účely nebyl pozorován žádný farmakologický účinek.
+
+5.2 Farmakokinetické vlastnosti
+Distribuce
+Ion technecistanu má podobnou biologickou distribuci jako jodidový nebo chloristanový ion - přechodně se vychytává v slinných žlázách, v plexus choroidalis, žaludku (žaludeční sliznici) a ve štítné žláze a z těchto
+oblastí se vylučuje v nezměněné formě. Ion technecistanu se navíc akumuluje v oblastech se zvýšeným prokrvením nebo s abnormální cévní permeabilitou, zejména pokud byla provedena premedikace
+blokátory, inhibující vychytávání ve žlázách. Pokud není poškozená hematoencefalická bariéra nepřechází
+technecistan-(⁹⁹ᵐTc) sodný do mozkové tkáně. Vychytávání v orgánech
+7 / 14
+
+V krvi se 70-80 % nitrožilně injikovaného technecistanu-(⁹⁹ᵐTc) naváže na bílkoviny, primárně nespecifickým způsobem na albumin. Nenavázaná frakce (20-30 %) se dočasně akumuluje ve štítné žláze a ve slinných žlázách, v žaludeční a v nosní sliznici a také v plexus choroideus.
+Technecistan-(⁹⁹ᵐTc) sodný se však na rozdíl od jódu nepoužívá při biologické syntéze hormonu štítné žlázy ani není vstřebáván v tenkém střevě. Maximální akumulace ve štítné žláze je v závislosti na jejím funkčním stavu a na saturaci jódem (při eutyreóze přibližně 0,3-3%, při hypertyreóze a nedostatku jódu až 25%) dosaženo cca 20 minut po injekci, potom dojde k rychlému poklesu. To platí také pro parietální buňky žaludeční sliznice a acinární buňky slinné žlázy.
+
+Na rozdíl od štítné žlázy, odkud je technecistan-(⁹⁹ᵐTc) sodný uvolňován zpět do krevního řečiště, slinné žlázy a žaludek jej vylučují do slin a do žaludečních šťáv. Akumulace ve slinné žláze tvoří řádově 0,5 % aplikované aktivity, s tím, že maxima je dosaženo přibližně po 20 minutách. Jednu hodinu po injekci je koncentrace ve slinách přibližně 10-30x vyšší než v plazmě. Exkreci lze urychlit citrónovou šťávou nebo stimulací parasympatického systému; vstřebávání je sníženo chloristanem.
+
+Eliminace
+Plazmatická clearance má poločas přibližně 3 hodiny. Technecistan-(⁹⁹ᵐTc) sodný není v organismu
+metabolizován. Jedna část se velmi rychle eliminuje ledvinami, zbytek se vylučuje pomaleji stolicí, slinami a slzami. Exkrece během prvních 24 hodin po podání je převážně močí (přibližně 25 %); v následujících 48 hodinách dochází k vyloučení stolicí. Přibližně 50 % podané aktivity je vyloučeno během prvních 50 hodin.
+Je-li selektivní vychytávání technecistanu-(⁹⁹ᵐTc) sodného ve žlázách potlačeno předchozím podáním blokátorů, dochází k vylučování stejnou cestou, ale s vyšším podílem renální clearance.
+
+Výše uvedené údaje nejsou platné v případě, že je technecistan-(⁹⁹ᵐTc) sodný použit ke značení jiných
+radiofarmak.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Nejsou k dispozici informace o akutní, subakutní a chronické toxicitě po jednorázové ani opakované aplikaci. Množství technecistanu-(⁹⁹ᵐTc) sodného aplikovaného pro diagnostické účely je velmi nízké a s výjimkou alergických reakcí nebyly popsány jiné nežádoucí účinky.
+Tento léčivý přípravek není určen k pravidelnému nebo nepřetržitému podávání. Studie mutagenity a dlouhodobé karcinogenity nebyly provedeny.
+Reprodukční toxicita
+Průnik přes placentární bariéru intravenózně aplikovaného technecistanu-(⁹⁹ᵐTc) sodného byl sledován
+u myší. V děloze u březích samic, kde nebyla provedena premedikace chloristanem, bylo nalezeno až 60 %
+aplikované aktivity. Studie prováděné na myších během březosti, březosti a kojení a během kojení
+samotného prokázaly u novorozených jedinců změny, které zahrnovaly pokles hmotnosti, bezsrstnost a
+sterilitu.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Chlorid sodný, voda pro injekce.
+
+6.2 Inkompatibility
+
+
+8 / 14
+
+Tento léčivý přípravek se nesmí míchat s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny
+v bodě 12.
+6.3 Doba použitelnosti
+
+Generátor: 21 dnů od zahájení výroby a 9 dní od data kalibrace (ART).
+Datum kalibrace a datum exspirace jsou uvedeny na štítku.
+Eluát technecistanu (⁹⁹ᵐTc) sodného: Po eluci použijte do 8 hodin. Tento eluát nevyžaduje žádné zvláštní podmínky pro uchovávání.
+Eluční lahvičky (TechneVials): 3 roky
+Lahvička s elučním činidlem (Eluent Vial): 3 roky
+
+6.4 Zvláštní opatření pro uchovávání
+Generátor: Uchovávejte při teplotě do 25°C.
+Eluát: pro podmínky uchovávání po eluci léčivého přípravku viz bod 6.3.
+
+Generátory je nutné uchovávat v ochranném stínění Ultra Technekow Safe (s odpovídajícím množstvím vrstvy olova pro odstínění) nebo v jiném vhodném laboratorním stínění.
+
+Uchovávání radiofarmak musí být provedeno v souladu s příslušnými předpisy pro skladování radioaktivních látek.
+6.5 Druh obalu a obsah balení Generátor
+Generátor je tvořen pouzdrem obsahujícím kolonu s oxidem hlinitým s navázaným Molybdenem-(⁹⁹Mo)
+a upevněnou mezi dvěma filtry. Jedna strana pouzdra je spojena se stíněnou sterilní vstupní jehlou pro eluční činidlo. Opačná strana je spojena s podobně stíněnou sterilní výstupní jehlou pro získávání eluátu. Druhá jehla na straně elučního činidla slouží za sterilních podmínek jako kompenzace podtlaku vznikajícího při eluci v eluční lahvičce. Kolona generátoru je stíněna vhodným množstvím olova v závislosti na aktivitě Molybdenu-(⁹⁹Mo). Stíněný generátor včetně místa pro připojení elučního činidla a včetně elučního mechanismu jsou součástí balení v hermeticky uzavřeném plechovém obalu. Po připojení elučního roztoku a evakuované lahvičky na jehly v určených místech dojde k eluci, následované úplným nebo částečným naplněním evakuované lahvičky.
+
+Příslušenství
+Při prvním dodání generátoru Ultra Technekow FM je součástí dodávky:
+- 1 ks stínění TechneVial nebo UltraVial
+- 1 ks stínění sterilní lahvičky (nebylo-li již dodáno spolu se stíněním Ultra Technekow Safe).
+
+Každé balení generátoru Ultra Technekow FM obsahuje:
+- 7 sterilních evakuovaných lahviček TechneVial pro eluci o objemu 5, 11 nebo 25 ml
+- 1 sterilní lahvičku určenou k ochraně eluční jehly
+- 1 lahvičku Eluent vial se 100 ml sterilního 0,9 % roztoku chloridu sodného
+- 7 dezinfekčních tamponů
+- 7 štítků se symbolem radioaktivity
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Všeobecná upozornění
+
+9 / 14
+
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na pracovištích k tomu určených. Při skladování, přípravě a aplikaci radiofarmak a likvidaci odpadu je nutno dbát jak zásad ochrany zdraví před ionizujícím zářením vyplývajících z příslušných předpisů a vyhlášek, tak pokynů místních orgánů hygienické služby.
+Příprava radiofarmak musí být provedena v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP. Je nutné dodržovat zásady aseptické práce a správné výrobní praxe pro radiofarmaka.
+
+Je-li v jakékoli fázi přípravy porušena celistvost generátoru nebo lahvičky s eluátem, nesmí se dále používat.
+
+Postup při aplikaci radiofarmaka musí zabezpečit zamezení kontaminace radiofarmakem a nadbytečné ozáření personálu. Nutné je používat vhodné ochranné prostředky a stínění.
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné národní předpisy pro ochranu zdraví před ionizujícím zářením.
+
+Před likvidací je nutno vyhodnotit zbytkovou aktivitu generátoru.
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+
+8. REGISTRAČNÍ ČÍSLO
+88/419/92-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+8.7.1992 / 9.7.1997/ 30.4.2002 / 9.5.2007
+
+10. DATUM REVIZE TEXTU
+
+15. 5. 2019
+11. DOZIMETRIE
+
+V následující tabulce jsou uvedeny dozimetrické údaje vypočítané podle publikace ICRP 80 za níže uvedených předpokladů:
+
+1) Bez provedení premedikace blokující látkou:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq)
+
+
+10 / 14
+
+Orgán
+dospělý    15 let
+10 let     5 let      1 rok
+
+
+Nadledviny
+Stěna moč. měchýře Povrch kostí
+Mozek
+Prsní žlázy Žlučník
+GIT:
+-  stěna žaludku
+-  tenké střevo
+-  tlusté střevo:
+0,0037    0,0047
+0,018     0,023
+0,0054    0,0066
+0,0020    0,0025
+0,0018    0,0023
+0,0074    0,0099
+
+0,026     0,034
+0,016     0,020
+0,042     0,054
+0,0072     0,011     0,019
+0,030     0,033      0,060
+0,0097     0,014     0,026
+0,0041     0,0066     0,012
+0,0034     0,0056     0,011
+0,016     0,023      0,035
+
+0,048     0,078      0,16
+0,031     0,047      0,082
+0,088     0,14      0,27
+
+- stěna vzestupného tračníku 0,057     0,073
+0,12      0,20      0,38
+
+- stěna sestupného tračníku
+Srdce
+Ledviny
+0,021     0,028
+0,0031    0,0040
+0,0050    0,0060
+0,045     0,072      0,13
+0,0061     0,0092     0,017
+0,0087     0,013     0,021
+
+Játra Plíce Svaly Jícen
+Vaječníky
+Slinivka břišní
+Červená kostní dřeň Slinné žlázy
+Kůže
+Slezina Varlata
+Brzlík
+Štítná žláza Děloha
+Ostatní tkáně
+Efektivní dávka
+(mSv/MBq)
+0,0038
+0,0026
+0,0032
+0,0024
+0,010
+0,0056
+0,0036
+0,0093
+0,0018
+0,0043
+0,0028
+0,0024
+0,022
+0,0081
+0,0035
+0,013
+0,0048
+0,0034
+0,0040
+0,0032
+0,013
+0,0073
+0,0045
+0,012
+0,0022
+0,0054
+0,0037
+0,0032
+0,036
+0,010
+0,0043
+0,017
+0,0081
+0,0051
+0,0060
+0,0047
+0,018
+0,011
+0,0066
+0,017
+0,0035
+0,0081
+0,0058
+0,0047
+0,055
+0,015
+0,0064
+0,026
+0,013
+0,0079
+0,0090
+0,0075
+0,026
+0,016
+0,0090
+0,024
+0,0056
+0,012
+0,0087
+0,0075
+0,12
+0,022
+0,0096
+0,042
+0,022
+0,014
+0,016
+0,014
+0,045
+0,027
+0,015
+0,039
+0,010
+0,021
+0,016
+0,014
+0,22
+0,037
+0,017
+0,079
+
+2) Při provedení premedikace blokující látkou:
+
+
+Orgán
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq)
+
+
+Nadledviny
+Stěna moč. měchýře Povrch kostí
+Mozek
+dospělý
+0,0029
+0,030
+0,0044
+0,0020
+15 let
+0,0037
+0,038
+0,0054
+0,0026
+11 / 14
+10 let
+0,0056
+0,048
+0,0081
+0,0042
+5 let
+0,0086
+0,050
+0,012
+0,0071
+1 rok
+0,016
+0,091
+0,022
+0,012
+
+Orgán
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq)
+
+Prsní žlázy Žlučník
+GIT:
+-  stěna žaludku
+-  tenké střevo
+-  tlusté střevo:
+- stěna vzestupného tračníku
+- stěna sestupného tračníku
+Srdce
+Ledviny
+Játra Plíce Svaly Jícen
+Vaječníky
+Slinivka břišní
+Červená kostní dřeň Kůže
+Slezina Varlata
+Brzlík
+Štítná žláza Děloha
+Ostatní tkáně
+Efektivní dávka
+(mSv/MBq)
+0,0017
+0,0030
+
+0,0027
+0,0035
+0,0036
+0,0032
+0,0042
+0,0027
+0,0044
+0,0026
+0,0023
+0,0025
+0,0024
+0,0043
+0,0030
+0,0025
+0,0016
+0,0026
+0,0030
+0,0024
+0,0024
+0,0060
+0,0025
+0,0042
+0,0022
+0,0042
+
+0,0036
+0,0044
+0,0048
+0,0043
+0,0054
+0,0034
+0,0054
+0,0034
+0,0031
+0,0031
+0,0031
+0,0054
+0,0039
+0,0032
+0,0020
+0,0034
+0,0040
+0,0031
+0,0031
+0,0073
+0,0031
+0,0054
+0,0032
+0,0070
+
+0,0059
+0,0067
+0,0071
+0,0064
+0,0081
+0,0052
+0,0077
+0,0053
+0,0046
+0,0047
+0,0046
+0,0078
+0,0059
+0,0049
+0,0032
+0,0054
+0,0060
+0,0046
+0,0050
+0,011
+0,0048
+0,0077
+0,0052
+0,010
+
+0,0086
+0,010
+0,010
+0,010
+0,011
+0,0081
+0,011
+0,0082
+0,0074
+0,0072
+0,0075
+0,011
+0,0093
+0,0072
+0,0052
+0,0083
+0,0087
+0,0075
+0,0084
+0,014
+0,0073
+0,011
+0,010
+0,013
+
+0,015
+0,018
+0,018
+0,017
+0,019
+0,014
+0,019
+0,015
+0,013
+0,013
+0,014
+0,019
+0,016
+0,013
+0,0097
+0,015
+0,016
+0,014
+0,015
+0,023
+0,013
+0,019
+Po aplikaci 400 MBq technecistanu-(⁹⁹ᵐTc) sodného je efektivní dávka pro dospělého s hmotností 70 kg přibližně 5,2 mSv.
+Při provedení premedikace blokující látkou je po aplikaci 400 MBq efektivní dávka pro dospělého
+s hmotností 70 kg přibližně 1,7 mSv.
+
+Odhadovaná absorbovaná dávka pro oční čočku po aplikaci technecistanu-(⁹⁹ᵐTc) sodného pro scintigrafii slzných kanálků je 0,038 mGy/MBq. Tato hodnota odpovídá efektivnímu dávkovému ekvivalentu nižšímu než 0,01 mSv pro podanou aktivitu 4 MBq.
+
+Specifikovaná radiační zátěž platí pouze v případě, že všechny orgány, v nichž se technecistan-(⁹⁹ᵐTc) sodný vychytává, fungují normálně. Při hyperfunkci nebo hypofunkci (např. štítné žlázy, žaludeční sliznice nebo ledvin) a při rozsáhlejších vyšetřeních se zhoršením funkce hematoencefalické bariéry nebo s poruchami renální eliminace může dojít ke změnám radiační zátěže, lokálně i k jejímu dramatickému nárůstu.
+Dávkový příkon a akumulovaná dávka závisí na mnoha faktorech. Měření na místě a během práce je nezbytně důležité a musí se provádět pro přesné a instruktivní stanovení celkové radiační dávky, které je personál vystaven.
+12 / 14
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Schéma generátoru Ultra Technekow FM:
+
+1. Víčko generátoru
+2. Eluční pozice
+3. Připojení elučního činidla
+4. Plastová krytka jehly elučního činidla
+5. Plastová krytka eluční jehly
+6. Eluční jehla
+7. Bezpečnostní ventil
+8. Ventil pro parciální eluci
+9. Pákový kroužek pro uzavření víčka
+10. Filtr vzduchu pro parciální eluci
+11. Jehla pro vstup sterilního vzduchu
+12. Jehla pro vstup elučního činidla
+13. Odvzdušňovací filtr pro eluční činidlo
+14. Kontejner generátoru
+15. Olověné stínění
+16. Držák stínění
+17. Kolona generátoru
+
+
+Návod k použití
+Eluci je možné provádět pouze v prostorách zaručujících sterilitu generátoru.
+
+Přípravné kroky
+1.  Odstraňte pečeť, uvolněte objímku a sejměte víčko generátoru. Uschovejte oba díly.
+2.  Umístěte Ultra Technekow FM do olověného stínění Ultra Technekow Safe (nebo jiného vhodného stínění) s eluční (jednoduchou) jehlou vpředu.
+Upozornění: Jehly generátoru chráněné krytkami jsou sterilní a horní část generátoru pod víčkem je dostatečné čistoty. Není tedy nutná další dezinfekce povrchu, naopak může nadměrné použití
+dezinfekčních látek s obsahem alkoholu negativně ovlivnit výtěžnost technecistanu-(⁹⁹ᵐTc) sodného při
+eluci!
+3.  Odstraňte kryt lahvičky s elučním činidlem, proveďte dezinfekci pryžové zátky tamponem
+z příslušenství, odstraňte a uschovejte plastikový kryt dvojité jehly a mírným stlačením napojte lahvičku s elučním činidlem na jehly v místě k tomu určeném.
+4.  Odstraňte kryt sterilní lahvičky a vložte lahvičku do stíněného kontejneru.
+5.  Odstraňte (a uschovejte) plastikový kryt eluční (jednoduché) jehly a napojte sterilní lahvičku ve stínění na jehlu elučního mechanismu.
+
+Provedení eluce
+1.  Odstraňte kryt evakuované lahvičky TechneVial, proveďte dezinfekci pryžové zátky, po odpaření
+dezinfekčního roztoku vložte lahvičku do stíněného kontejneru UltraVial Shield. (Lahvička TechneVial může obsahovat malý zbytek vody z procesu sterilizace.)
+2.  Kontejner se sterilní lahvičkou vyjměte a na eluční jehlu napojte kontejner Ultra Vial s evakuovanou
+lahvičkou tak, aby osvětlené okénko kontejneru směřovalo kupředu.
+
+13 / 14
+
+3.  Nyní započne eluce. Od tohoto okamžiku je možné provést přerušení eluce podle požadovaného
+objemu resp. objemové koncentrace technecistanu. Eluci vždy ukončete otočením elučního
+kontejnerku UltraVial Shield o 90° vpravo, stlačením dolů a několikasekundovým vyčkáním (lahvička se tak naplní sterilním vzduchem).
+4.  Kontejner UltraVial Shield vyměňte za ochrannou sterilní lahvičku umístěnou ve stíněném kontejneru.
+
+Eluci nikdy nepřerušujte pouhým vyjmutím kontejnerku UltraVial Shield bez otočení o 90° vpravo!
+Nepoužívejte eluát, který není čirý a bezbarvý. Likvidace a sběr využitých generátorů:
+1.  Odstraňte použitou sterilní lahvičku a lahvičku s elučním činidlem.
+2.  Zakryjte vstupní jehlu původní krytkou.
+3.  Proveďte eluci zbývajícího objemu tekutiny z kolony (viz provedení eluce). Generátor je po tomto kroku suchý.
+4.  Zakryjte výstupní jehlu původní krytkou.
+5.  Generátor uzavřete původním víčkem s objímkou.
+6.  Generátor uskladněte na vhodném místě, kde jeho aktivita poklesne na úroveň, která umožní jeho bezpečnou likvidaci.
+Poznámka: Existuje možnost vrácení exspirovaných generátorů výrobci. Pro bližší informace kontaktujte distributora přípravku.
+Eluce generátoru se smí provádět výhradně v zařízeních splňujících požadavky národních předpisů pro bezpečné použití radioaktivních výrobků.
+
+Eluát je čirý a bezbarvý roztok technecistanu-(⁹⁹ᵐTc) sodného s pH mezi 4 a 8 a radiochemickou čistotou rovnající se nebo vyšší než 99 %.
+
+Pokud se roztok technecistanu-(⁹⁹ᵐTc) sodného používá pro značení kitů, řiďte se prosím příbalovou informací příslušného kitu.
+
+Kontrola kvality
+Před podáním je nutno změřit radioaktivitu roztoku a množství molybdenu (⁹⁹Mo).
+Stanovení množství molybdenu (⁹⁹Mo) může být provedeno buď podle Ph. Eur. nebo dle jiných
+validovaných metod umožňujících jeho stanovení v množství nižším než 0,1 % z celkové radioaktivity ke dni
+a hodině podání.
+
+První eluát z tohoto generátoru může být normálně používán, pokud není stanoveno jinak. Konkrétní eluát může být používán pro značení kitů i v případě, že jeho eluce byla provedena více než 24 hodin od eluce předcházející, pokud není v SPC příslušného kitu předepsáno jinak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 / 14

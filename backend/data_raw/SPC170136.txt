@@ -1,0 +1,294 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+DIGOXIN ZENTIVA 0,5 mg/2 ml injekční roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+2 ml injekčního roztoku obsahují 0,50 mg digoxinu.
+Pomocné látky se známým účinkem: 96% ethanol 167,966 mg, propylenglykol 830,000 mg a sodík 1,15 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý, bezbarvý roztok bez viditelných částic.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Srdeční selhání s malou ejekční frakcí, fibrilace síní, atriální flutter, paroxysmální supraventrikulární tachykardie.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Optimální dávka je stanovena pro každého pacienta individuálně.
+
+Dospělí
+Pokud je vyžadována rychlá digitalizace, podává se pacientům, kteří nebyli digitalizováni,
+úvodní dávka 0,5–1 mg digoxinu denně (1–2 ampule přípravku DIGOXIN ZENTIVA) po dobu 2–3 dnů, monitorování pacienta je povinné.
+Léčba pokračuje udržovacími dávkami v rozmezí 0,125–0,50 mg digoxinu denně podávanými perorálně (obvykle 0,25 mg).
+
+Starší pacienti
+U starších osob je udržovací dávka nižší a může být snížena na 0,125 mg.
+U pacientů s poškozením funkce ledvin by měla být udržovací dávka snížena a nastavena podle hodnoty koncentrace kreatininu.
+
+Děti
+Stanovení optimální denní dávky digoxinu pro parenterální podávání dětem je složité a užívá se zohlednění několika faktorů: tělesná hmotnost, vývojová fáze, zralost a také odpovědnost za
+léčbu. Pro parenterální podání se doporučují následující dávky:
+1/7
+
+Hmotnost novorozence nebo dítěte (kg)
+< 3
+3–6
+6–12
+12–24
+> 24
+Dávka na jednotku kilogramu hmotnosti (mikrogramů/kg) 10
+15
+10
+7
+5
+Udržovací dávka (mikrogramů/ kg/den) 10
+15
+10
+7
+5
+
+Léčba začíná velmi pomalou intravenózní dávkou; pokračovat má po 8 hodinách podáváním udržovací dávky rozdělené do 3 dávek/24 hodin.
+V případě snížené funkce ledvin má být udržovací dávka snížena použitím multiplikačního koeficientu v závislosti na koncentraci kreatininu a azotemii podle následující tabulky:
+
+
+Koncentrace kreatininu (μmol/l)
+70–100
+101–200
+201–400
+Azotemie (mmol/l)
+
+8–17
+17,1–25
+25,1–33
+Koeficient pro násobení udržovací dávky
+
+0,6
+0,3
+0,15
+
+Stanovení koncentrace digoxinu v krvi je užitečné pro úpravu dávkování u závažných případů; digoxinemie má být měřena, aby se předešlo předávkování (v případě poškození funkce ledvin) nebo v případě potřeby zvýšených dávek (pacient nereagoval na předchozí dávky).
+Způsob podání Intravenózní podání.
+
+4.3  Kontraindikace
+
+-  hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1,
+-  síňokomorové blokády 2. nebo 3. stupně,
+-  supraventrikulární tachyarytmie (Wolffův-Parkinsonův-Whiteův syndrom),
+-  komorová hyperexcitabilita, zejména extrasystoly, ke kterým došlo při digitalizaci,
+-  hypertrofická kardiomyopatie a restriktivní kardiomyopatie,
+-  chronická konstriktivní perikarditida,
+-  tachykardie a komorová fibrilace,
+-  intravenózní terapie sultropridem nebo vápníkem,
+-  příznaky předávkování digoxinem.
+4.4  Zvláštní upozornění a opatření pro použití
+Při atrioventrikulární blokádě nižšího stupně se má digoxin podávat s opatrností, protože může vyvolat celkový blok. Zejména to platí u pacientů s akutní myokarditidou, akutním infarktem myokardu a závažným onemocněním plic, protože se zvyšuje citlivost myokardu.
+Digoxin může zvýšit riziko arytmií u pacientů podstupujících kardioverzi a léčba by měla být přerušena 1,5–3 dny před takovým zákrokem.
+Nerovnováha elektrolytů a dysfunkce štítné žlázy mohou ovlivnit citlivost na přípravek DIGOXIN ZENTIVA.
+
+2/7
+
+Účinek digoxinu se zvyšuje v případě hypokalemie, hypomagnezemie, hyperkalcemie, hypoxemie a hypotyreózy. Výsledkem by mělo být snížení dávky, dokud nebudou tyto poruchy upraveny.
+Při hypertyreóze může nastat rezistence na digoxin.
+Přípravek DIGOXIN ZENTIVA má být používán s opatrností u pacientů, kteří již užívají srdeční glykosidy, a dávky digoxinu mají být sníženy, pokud byly srdeční glykosidy podávány dva týdny před zahájením léčby.
+
+U pacientů se zhoršenou funkcí ledvin, u starších pacientů a u předčasně narozených dětí musejí být dávky přípravku DIGOXIN ZENTIVA sníženy a jejich plazmatické koncentrace musejí být monitorovány.
+
+Pomocné látky
+Tento léčivý přípravek obsahuje 167,966 mg 96% ethanolu (alkoholu) v ampuli, což odpovídá 4,26 ml piva nebo 1,78 ml vína na jednu injekční ampulku. To může mít nežádoucí účinky na pacienty s abúzem alkoholu.
+Rovněž je to třeba vzít v úvahu u těhotných nebo kojících žen, dětí a u skupin pacientů s vysokým rizikem, jako jsou pacienti s onemocněním jater nebo s epilepsií.
+Tento léčivý přípravek obsahuje propylenglykol. Může vyvolat příznaky podobné těm, které jsou způsobeny konzumací alkoholu.
+Tento léčivý přípravek obsahuje sodík v koncentraci méně než 1 mmol (23 mg) na dávku, tj. prakticky je „bez sodíku“.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Kontraindikováno:
+Podávání sultopridu.
+Hyperkalcemie zvyšuje toxicitu a intravenózní podávání vápenatých solí je kontraindikováno u pacientů užívajících kardiotonické glykosidy.
+
+Nedoporučuje se:
+Společné podávání léků, které způsobují narušení elektrolytové rovnováhy, zvyšuje riziko toxicity glykosidů.
+Thiazidová a kličková diuretika mohou způsobit hypokalemii a hypomagnezemii, které mohou vést k srdečním arytmiím.
+Léčba glukokortikoidy, beta-2-mimetiky (např. salbutamol), amfotericinem, polystyrensulfonátem sodným, karbenoxolonem a také dialýza jsou dalšími faktory, které mohou vyvolat hypokalemii. Plazmatická koncentrace přípravku DIGOXIN ZENTIVA je významně zvýšena chinidinem, hydroxychinidinem, amiodaronem a propafenonem. V těchto situacích se doporučuje snížit dávky přípravku DIGOXIN ZENTIVA.
+Současné podávání přípravku DIGOXIN ZENTIVA a blokátorů vápníkových kanálů může vést ke zvýšení koncentrace digoxinu.
+Přípravek DIGOXIN ZENTIVA je substrátem P-glykoproteinu. Inhibitory P-glykoproteinu tedy mohou způsobit zvýšení koncentrací digoxinu v séru zvýšením absorpce a/nebo snížením jeho
+renální clearance (viz bod 5.2).
+Betablokátory mohou potencovat digoxinem indukovanou bradykardii.
+Současné podávání s alfa-sympatomimetiky (miodrin) se nedoporučuje z důvodu zvýšení bradykardizujícího účinku a rizika atrioventrikulárních a/nebo vodivých intraventrikulárních poruch.
+Opatrnost se doporučuje v případě kombinace: erytromycin, deslanosid, léčiva s hypokalemickým účinkem, itrakonazol.
+Biologická dostupnost digoxinu při současné léčbě omeprazolem (20 mg denně) a digoxinem se u
+3/7
+
+zdravých jedinců zvýšila o 10 %.
+Toxicita digoxinu byla hlášena vzácně. Je však nutné dbát opatrnosti při podávání omeprazolu ve vysokých dávkách starším pacientům. Má se zvážit monitorování průběhu léčby digoxinem.
+
+
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Digoxin volně prochází placentou, plazmatická koncentrace digoxinu je u matky a plodu
+podobná. Nebyly hlášeny žádné nežádoucí účinky digoxinu na plod a na novorozence. Nicméně u matek s intoxikací digitalisem byly hlášeny fetální nežádoucí účinky, včetně smrti plodu.
+Podávání přípravku DIGOXIN ZENTIVA těhotným ženám se srdečním onemocněním může vést k fetální hypotrofii. Jsou nutné další studie k vyhodnocení důsledků expozice digoxinu během
+těhotenství. Proto by měl být přípravek DIGOXIN ZENTIVA během těhotenství podáván až po důkladném zvážení přínosu a rizika pro plod a matku a měla by být prováděna kontrola
+plazmatické koncentrace digoxinu.
+Kojení
+Tento lék přechází do mateřského mléka v malém množství a dosahuje koncentrací výrazně pod dávkami novorozenecké terapie. Během léčby přípravkem je možné kojit.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Účinek přípravku DIGOXIN ZENTIVA na schopnost řídit nebo obsluhovat stroje nebyl studován. Neexistují důkazy, že by mohl mít na tyto činnosti vliv.
+
+4.8  Nežádoucí účinky
+
+Hematologické a lymfatické poruchy
+Může se vyskytnout trombocytopenie.
+
+Poruchy imunitního systému
+Hypersenzitivní reakce jsou vzácné.
+
+Psychiatrické poruchy
+U starších osob se mohou vyskytnout psychiatrické poruchy (křeče, bludy, halucinace, psychózy), v takovém případě je podezření na předávkování.
+
+Oční poruchy
+U starších osob se mohou objevit poruchy zraku.
+
+Srdeční poruchy
+Nejzávažnější nežádoucí účinky představují účinky na srdce. Toxické dávky mohou vyvolat nebo zhoršit srdeční nedostatečnost. Příznaky se mohou projevovat jako komorové a
+supraventrikulární arytmie a poruchy srdečního převodu. Obecně incidence a závažnost arytmie korelují se závažností stavu srdce. Může se vyskytnout téměř jakýkoli typ arytmie, zejména
+komorová tachykardie, junkční atrioventrikulární tachykardie a atriální tachykardie s blokem.
+
+
+4/7
+
+Arytmie se mohou objevit také jako: extrasystoly, sinoatriální blok, sinusová bradykardie a atrioventrikulární blok.
+Hypokalemie predisponuje ke zvýšené toxicitě digoxinu. Nežádoucí účinky digoxinu se objevují rychleji, jestliže dochází k depleci draslíku způsobené dlouhodobým podáváním diuretik.
+
+
+
+Gastrointestinální poruchy
+V případě otravy digoxinem nebo při předávkování se mohou objevit bolesti břicha, nevolnost, zvracení, průjem a anorexie. Nedoporučuje se však interpretovat nevolnost jako první známku předávkování digoxinem.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické
+pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Příznaky, které se mohou objevit v případě předávkování:
+-   poruchy trávení: anorexie, nauzea, zvracení, průjem;
+-   neurologické poruchy: bolesti hlavy, bolesti obličeje, únava, slabost, závratě, vertigo, somnolence, dezorientace, zmatenost, noční děsy, zřídka delirium a akutní psychóza, halucinace;
+-   srdeční poruchy: poruchy řízení a vzruchu se závažnými změnami EKG, což může někdy vést k úmrtí;
+-   velmi zřídka se mohou vyskytnout křeče, poruchy vidění v důsledku výskytu
+dyschromatopsie (objekty jsou zabarveny žlutě nebo vzácněji zeleně, červeně, hnědě, modře nebo bíle) nebo rozmazané vidění.
+
+Léčba: v případě předávkování se podávání přípravku zastaví a doporučuje se odpočinek na lůžku. V případě bradykardie se podává atropin, v případě hyperexcitability myokardu lidokain nebo fenytoin.
+V případě masivní otravy se doporučuje okamžitě zahájit léčbu na jednotce intenzivní péče.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: kardiaka, srdeční glykosidy, digitalisové glykosidy. ATC kód: C01AA05.
+
+Digoxin je intenzivní, rychlý a krátkodobě působící srdeční glykosid. Na molekulární úrovni
+5/7
+
+stimuluje vstup iontů vápníku do myokardiálních buněk prostřednictvím blokády Na⁺/K⁺/ATPázy v buněčné membráně. Pozitivně inotropní účinek, ale také arytmogenní účinek vysokých dávek digoxinu je vysvětlen zvýšením koncentrace vápníku dostupného pro
+kontraktilní mechanismus. Hlavní účinky digoxinu jsou: zvýšená síla kontrakce myokardu –
+pozitivně inotropní účinek – a snížené atrioventrikulární vedení. DIGOXIN ZENTIVA má také přímý vliv na hladkou cévní svalovinu a působí nepřímo vagomimeticky. Jiné účinky: negativně chronotropní účinek na úrovni sinusů je vysvětlen zvýšeným vagovým tonem; pozitivní bathmotropní účinek v případě předávkování projevující se zvýšením srdeční vzrušivosti.
+
+5.2  Farmakokinetické vlastnosti
+
+-  Plazmatické rovnováhy při chronickém podávání je dosaženo po 6 dnech.
+-  Digoxin se váže ve velmi malém procentu na plazmatické bílkoviny (20 %), což vysvětluje jeho rychlý nástup účinku: 10–30 minut po intravenózním podání a 1–2 hodiny po
+perorálním podání.
+-  Transformace v játrech na aktivní metabolity je velmi malá (10 %).
+-  Terapeutická plazmatická koncentrace se pohybuje mezi 0,65–2,6 nmol digoxinu/l. Tato koncentrace odpovídá celkovému množství v těle 0,75–1,5 mg, které je nutné pro úplnou digitalizaci.
+-  Digoxin je substrátem P-glykoproteinu. Jako efluxní protein na apikální membráně enterocytů může P-glykoprotein omezit absorpci digoxinu. Zdá se, že P-glykoprotein v
+proximálních renálních tubulech je důležitým faktorem při renální eliminaci digoxinu (viz bod 4.5).
+-  Digoxin se vylučuje v nezměněné formě převážně ledvinami; existuje úzká korelace mezi clearance digoxinu a kreatininu.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Nejsou k dispozici.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+96% ethanol Propylenglykol
+Monohydrát kyseliny citronové
+Dodekahydrát hydrogenfosforečnanu sodného Voda pro injekci
+
+6.2  Inkompatibility
+Vzhledem k neexistenci studií kompatibility se tento léčivý přípravek nemá mísit s jinými léčivými přípravky.
+6.3  Doba použitelnosti
+2 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C v původním obalu.
+6/7
+
+6.5  Druh obalu a obsah balení
+
+Krabička s 5 lahvičkami z hnědého skla, s odtrhávacím uzávěrem, o objemu 2 ml injekčního roztoku.
+Krabička s 10 ampulkami hnědého skla, s odtrhávacím uzávěrem, o objemu 2 ml injekčního roztoku.
+
+Na trhu nemusejí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+ZENTIVA S.A.
+B-dul Theodor Pallady nr. 50,
+Sector 3, 032266 Bucureşti, Rumunsko
+Tel.: +40 21 317 31 36
+Fax: +40 21 317 31 34
+zentivaro@zentiva.ro
+
+
+8.  REGISTRAČNÍ ČÍSLO
+
+8890/2016/01-02
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum posledního prodloužení registrace: duben 2016
+
+
+10.  DATUM REVIZE TEXTU
+
+Prosinec 2016
+Podrobné informace o tomto přípravku jsou uveřejněny na webových stránkách Národní lékové agentury http://www.anm.ro/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7/7

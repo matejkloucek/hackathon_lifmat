@@ -1,0 +1,576 @@
+sp.zn.sukls185737/2018
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1    NÁZEV PŘÍPRAVKU    Minirin 0,1 mg tablety
+Minirin 0,2 mg tablety
+
+2   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Minirin 0,1 mg:
+Jedna tableta obsahuje desmopressini acetas 0,1 mg ekvivalentní desmopresinum 0,089 mg.
+Minirin 0,2 mg:
+Jedna tableta obsahuje desmopressini acetas 0,2 mg ekvivalentní desmopresinum 0,178 mg.
+
+Pomocné látky se známým účinkem:
+Minirin 0,1 mg, Minirin 0,2 mg:
+Jedna tableta obsahuje 123,7 mg monohydrátu laktosy. Úplný seznam pomocných látek viz 6.1.
+
+3   LÉKOVÁ FORMA
+Minirin 0,1 mg:
+Bílé, oválné a vypouklé tablety s půlící rýhou na jedné straně a s označením 0,1 na druhé straně.
+Minirin 0,2 mg:
+Bílé, kulaté a vypouklé tablety s půlící rýhou na jedné straně a s označením 0,2 na druhé straně.
+Půlící rýha má pouze usnadnit dělení tablety pro snazší polykání, nikoliv její rozdělení na stejné dávky.
+
+4   KLINICKÉ ÚDAJE
+4. 1  Terapeutické indikace.
+Přípravek Minirin je indikován:
+k léčbě centrálního diabetu insipidu
+k léčbě primárního noční enurézy u dětí starších pěti let s normální koncentrační schopností
+ledvin.
+k symptomatické léčbě nykturie dospělých spojené s noční polyurií, tj. noční tvorbou moči překračující kapacitu močového měchýře.
+
+4. 2  Dávkování a způsob podání
+Příjem potravy může redukovat intenzitu a délku antidiuretického účinku v nízkých dávkách
+desmopresinu (viz bod 4.5).
+
+V případě známek nebo příznaků retence vody a/nebo hyponatremie (bolest hlavy, nauzea/zvracení, přírůstek tělesné hmotnosti a v závažných případech i křeče) je třeba léčbu přerušit dokud se pacient plně nezotaví. Při obnovení léčby se má zajistit přísná restrikce příjmu tekutin (viz bod 4.4).
+
+Jestliže se nedosáhne léčebného efektu v průběhu 4 týdnů po odpovídající titraci dávky, je nutno
+medikaci ukončit.
+
+
+1/9
+
+Centrální diabetes insipidus:
+Optimální dávku je vždy třeba stanovit individuálně. Podle dosavadních klinických zkušeností se denní dávka pohybuje v rozmezí 0,2 mg až 1,2 mg. Vhodná počínající dávka pro děti a dospělé je 0,1 mg třikrát denně. Dávka se potom přizpůsobuje podle reakce pacienta. Pro většinu pacientů je 0,1 - 0,2 mg třikrát denně optimální dávkový režim.
+V případě příznaků retence vody nebo hyponatremie má být léčba přerušena a dávka upravena.
+
+Primární enuresis nocturna:
+Vhodná počáteční dávka je 0,2 mg před spaním. Dávku je možné zvýšit na 0,4 mg v případě, že nižší dávkování nemá dostatečný efekt. Při léčbě je třeba dodržovat omezení příjmu tekutin na noc (viz 4.4).
+Pokud se objeví příznaky retence vody a/nebo hyponatremie (bolest hlavy, nauzea a zvracení, přírůstek tělesné hmotnosti a, ve vážných případech křeče), je třeba léčbu přerušit až do úplné úpravy stavu. Při obnovení léčby je třeba striktně dodržovat restrikci příjmu tekutin.
+V indikaci primární noční enurezy je možné přípravek aplikovat bez přerušení až po dobu 3 měsíců. Potřeba pokračovat v léčbě se musí znovu posoudit po uplynutí nejméně jednoho týdne bez aplikace přípravku Minirin.
+Nykturie:
+U pacientů s nykturií je nutno minimálně 2 dny před zahájením léčby sledovat četnost močení a měřit objem  moče.  Jestliže  tvorba  moče  v noci  převyšuje  funkční  kapacitu  měchýře  nebo  1/3 čtyřiadvacetihodinové tvorby, je to považováno za noční polyurii.
+Doporučovaná počáteční dávka je 0,1 mg před spaním. Pokud tato dávka není dostatečně účinná po jednom týdnu, může být zvýšena na 0,2 mg a následně až na 0,4 mg při postupném zvyšování dávky vždy v týdenních intervalech až do žádoucího účinku. Při léčbě je třeba dodržovat omezení příjmu tekutin na noc (viz 4.4).
+
+Zvláštní skupiny pacientů
+Starší pacienti:
+Nedoporučuje se zahajovat léčbu u pacientů starších 65 let. Jestliže se lékař u takového pacienta rozhodne uskutečnit léčbu desmopresinem, musí před zahájením této léčby u něj změřit hladinu sodíku v séru a 3 dny po jejím zahájení či po zvýšení dávky měření zopakovat a provádět je také během léčby, kdykoliv to bude považovat za nutné.
+
+Porucha funkce ledvin viz bod 4.3. Porucha funkce jater viz bod 4.5.
+Pediatrická populace:
+Přípravek je indikován k léčbě centrálního diabetu insipidu a primární noční enurézy u dětí starších pěti let (viz bod 5.1 a 4.2 výše). Dávkování je stejné jako pro dospělé.
+
+
+4. 3  Kontraindikace
+
+Přípravek Minirin je kontraindikován v těchto případech:
+•  hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+•  habituální nebo psychogenní polydipsie (v jejímž důsledku dochází k vyšší tvorbě moči než
+40 ml/kg/24 hodiny);
+•  anamnéza známé srdeční insuficience nebo podezření na její existenci a jiné stavy vyžadující léčbu diuretiky;
+•  střední a těžká renální insuficience (clearance kreatininu nižší než 50 ml/min);
+•  opakovaná hyponatremie;
+
+2/9
+
+•  syndrom nepřiměřené sekrece ADH;
+4. 4  Zvláštní upozornění a opatření pro použití
+Při léčbě primární noční enurézy a nykturie je třeba omezit příjem tekutin na minimum, a to 1 hodinu před podáním přípravku Minirin až do následujícího rána ( nejméně 8 hodin). Celkový příjem tekutin za tuto dobu by neměl přesáhnout 0,2 l. Léčba bez současného omezení příjmu tekutin může vést k retenci tekutin a hyponatremii spojené s možnými příznaky jako bolest hlavy, nauzea a zvracení, zvýšení tělesné hmotnosti a ve vážných případech křeče.
+
+Všichni pacienti a, je-li to potřeba, i jejich zákonní zástupci, mají být pečlivě poučeni o dodržování restrikce příjmu tekutin.
+
+Přípravek obsahuje laktózu. Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktázy nebo malabsorpcí glukosy a galaktosy nemají tento přípravek užívat.
+Upozornění:
+Před zahájením léčby je nutno vyloučit těžkou dysfunkci močového měchýře a neprůchodnost močových cest.
+U pacientů starších 65 let je zvýšené riziko hyponatremie.
+
+Léčbu desmopresinem je nutno přerušit při akutních onemocněních, pro něž je charakteristická dysbalance tekutin/elektrolytů (např.systémové infekce, horečnatá onemocnění a gastroenteritida).
+Opatrnosti je třeba u pacientů s rizikem zvýšeného intrakraniálního tlaku.
+
+Desmopresin se má podávat s opatrností u pacientů s možnou nerovnováhou tekutin a/nebo elektrolytů.
+Při souběžné léčbě léky, o nichž je známo, že stimulují vylučování ADH z neurohypofýzy, například tricyklická  antidepresiva,  selektivní  inhibitory  zpětného  vychytávání  serotoninu  (SSRI), chlorpromazin a karbamazepin a při souběžné léčbě nesteroidní protizánětlivé léky (NSAID) , je zvýšené riziko hyponatremie, proto je nutné důkladně omezit příjem tekutin a častější kontrolovat hladinu sodíku v séru.
+
+4. 5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Látky, o nichž je známo, že že stimulují vylučování ADH z neurohypofýzy, například tricyklická antidepresiva, selektivní inhibitory zpětného vychytávání serotoninu, chlorpromazin a karbamazepin, stejně tak jako antidiabetika skupiny derivátů sulfonylurey např. chlorpropamide mohou vyvolávat doplňkový antidiuretický účinek vedoucí ke zvýšení nebezpečí retence vody nebo hyponatremie (viz 4.4).
+Nesteroidní protizánětlivé léky zvyšují pravděpodobnost retence vody a hyponatremie (viz 4.4).
+Souběžná léčba loperamidem může mít za následek trojnásobné zvýšení koncentrace desmopresinu v séru, což může vést ke zvýšenému nebezpečí retence vody či hyponatremie. Ačkoliv to nebylo zkoumáno, stejný účinek by mohla mít jiná léčiva zpomalující intestinální peristaltiku.
+
+Interakce desmopresinu s léky působícími na látkovou přeměnu v játrech je nepravděpodobná, jak vyplývá ze studií in vitro s lidskými mikrozómy – bylo prokázáno, že se desmopresin látkové přeměny v játrech významně neúčastní. Formální interakční studie in vivo však nebyly provedeny.
+Současné požití s jídlem zvýší rychlost a prodlouží absorpci přípravku Minirin o 40 %. Co se týče farmakodynamiky (tvorba moče a osmolalita), nebyl pozorován žádný významný vliv.
+
+
+3/9
+
+Příjem potravy může omezit intenzitu a délku antidiuretického účinku perorálně aplikovaného
+desmopresinu.
+
+4. 6  Fertilita, těhotenství a kojení
+
+Těhotenství:
+Limitované údaje o počtu (n = 53) těhotných žen s diabetem insipidem, stejně tak jako údaje o limitovaném počtu (n=53) těhotných žen s von Willebrandovou chorobou, neprokazují žádný nepříznivý účinek desmopresinu na těhotenství nebo na zdraví plodu či novorozence. Zatím nejsou k dispozici žádné jiné relevantní epidemiologické údaje. Pokusy na zvířatech neprokázaly přímý ani nepřímý vliv na těhotenství, na vývoj embrya či plodu, na porod, ani na vývoj po narození. Při předepisování desmopresinu těhotným ženám je nutná opatrnost.
+
+Fertilita:
+Studie fertility nebyly provedeny. In vitro analýza modelu kotyledonu prokázala, že při podání terapeutické koncentrace odpovídající doporučené dávce desmopressin neprochází placentou
+Kojení:
+Výsledky analýz mléka kojících matek, které užívaly vysoké dávky desmopresinu (300 µg intranasálně) ukazují, že množství desmopresinu vyloučeného do mateřského mléka je značně nižší, než je potřebné k ovlivnění diurézy.
+
+
+4. 7  Účinky na schopnost řídit a obsluhovat stroje
+Přípravek nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje
+
+
+4. 8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu:
+Nejzávažnější nežádoucí účinek u desmopressinu je hyponatremie, která může způsobit bolest hlavy, bolest břicha, nauzeu, zvracení, přírůstek tělesné hmotnosti, závratě, zmatenost, malátnost, poruchy paměti, vertigo, pády a v závažných případech křeče a kóma.
+
+U většiny dospělých pacientů, léčených pro nykturii u kterých se vyskytla hyponatremie, byly
+pozorovány nízké hladiny sodíku po 3 dnech podávání přípravku.
+Genderová analýza ukázala, že u žen se riziko hyponatremie zvyšuje se zvyšující se dávkou.
+U dospělých byl nejčastější hlášený nežádoucí účinek bolest hlavy (12 %). Časté nežádoucí účinky byly hyponatremie (6 %), závratě (3 %), hypertenze (2 %) a gastrointestinální poruchy (nauzea (4 %), zvracení (1 %), bolest břicha (3 %), průjem (2 %) a zácpa (1 %)). Méně časté nežádoucí účinky jsou ovlivnění kvality spánku např. insomnie, somnolence nebo astenie. Anafylaktické reakce nebyly v rámci klinického hodnocení pozorovány, ale byly hlášeny spontánně.
+
+U dětí byl nejčastější hlášený nežádoucí účinek bolest hlavy (1 %), méně časté byly psychické poruchy (ovlivnění lability, agrese, úzkost, výkyvy nálad, noční můry ), které většinou po přerušení léčby zmizí a gastrointestinální poruchy (bolest břicha, nauzea, zvracení a průjmy).
+Anafylaktické reakce nebyly v rámci klinického hodnocení pozorovány, ale byly hlášeny spontánně.
+
+Tabulka :
+
+Dospělí:
+
+4/9
+
+Frekvence  nežádoucích  účinků  podle  klinických  studií  provedených  s perorálně  podaným desmopresinem  u  dospělých  pacientů  při  léčbě  nykturie  (n=1557)  kombinovaných s postmarketingovým sledováním všech indikací pro dospělé pacienty (vč. CDI) a zpráv z postmarketingového sledování (reakce pozorované pouze v postmarketingovém sledování jsou ve sloupci „Není známo“):
+
+
+Vyjadřování frekvence podle MedDRA Poruchy
+imunitního sytému Poruchy metabolismu a výživy Psychiatrické poruchy
+
+Poruchy nervového systému
+
+
+Poruchy oka
+
+Poruchy ucha a labyrintu Srdeční poruchy
+Velmi časté (≥1/10)
+
+
+
+
+
+
+
+
+
+Bolest hlavy *
+Časté (≥1/100 až <1/10
+
+
+
+Hyponatremie*
+
+
+
+
+
+
+
+
+Závrať *
+Méně časté (≥ 1/1000 až
+<1/100)
+
+
+
+
+
+Insomnie
+
+
+
+Somnolence, Parestezie
+
+
+Poruchy vidění Vertigo *
+
+Palpitace
+Vzácné
+(≥ 1/10000
+až <1/1000
+
+
+
+
+
+
+Stavy zmatenosti
+*
+Není známo
+
+
+Anafylaktické
+reakce
+
+Dehydratace,** Hypernatremie**
+
+
+
+
+
+Křeče, * Astenie, ** Kóma*
+
+
+Cévní poruchy
+
+Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+
+
+
+
+Poruchy kůže a podkožní tkáně
+Hypertenze
+
+
+
+
+Nauzea,* Bolest břicha,* Průjem, Zácpa, Zvracení*
+Ortostatická
+hypotenze
+
+
+Dyspnoe
+
+Dyspepsie, (HLT)
+Nadýmání, flatulence a distenze Pocení , Pruritus Vyrážka Kopřivka
+
+
+
+
+
+
+
+
+
+
+
+Alergický zánět kůže
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně Poruchy ledvin a močových cest
+
+
+
+
+Celkové poruchy a
+
+
+
+(HLT)
+syndrom močového měchýře a uretrální syndrom
+Křeče svalů
+Myalgie
+
+
+
+
+
+
+
+Malátnost, *
+
+5/9
+
+reakce v místě
+aplikace
+
+
+
+vyšetření
+Otoky,
+Únava
+Bolest na hrudi, Chřipce podobné onemocnění Zvýšení tělesné hmotnosti* Zvýšení jaterních enzymů, Hypokalemie
+*Hyponatremie může způsobit bolest hlavy, bolest břicha, nauzeu, zvracení, přírůstek tělesné hmotnosti, závratě, zmatenost, malátnost, poruchy paměti, vertigo, pády a v závažných případech křeče a kóma.
+** bylo pozorováno pouze u CDI indikace.
+
+Děti a dospívající: Frekvence nežádoucích účinků podle klinických studií provedených s perorálně podaným desmopressinem u dětí a dospívajících při léčbě primární noční enurézy a nykturie (n=1923). Reakce, které byly pozorovány pouze v rámci postmarketingového hodnocení byly přidány do sloupce s označením „není známo“.
+
+
+Vyjadřování frekvence podle MedDRA
+Poruchy imunitního sytému
+Poruchy metabolismu a výživy Psychiatrické poruchy
+
+
+
+
+Poruchy nervového systému
+
+
+
+Cévní poruchy
+Velmi časté (≥1/10)
+Časté
+(≥1/100 až
+<1/10
+
+
+
+
+
+
+
+
+
+
+
+Bolest hlavy
+*
+Méně časté (≥ 1/1000 až
+<1/100)
+
+
+
+
+
+Ovlivnění lability ** Agrese ***
+
+
+
+Parestezie
+
+
+
+
+Hypertenze
+Vzácné  (≥ 1/10000 až
+<1/1000
+
+
+
+
+
+Úzkost Noční můry* Výkyvy nálad ****
+
+
+Somnolence
+Není známo
+
+
+Anafylaktické reakce Hyponatremie*
+
+
+Netypické chování
+Emoční poruchy Deprese Halucinace Insomnie Poruchy pozornosti Psychomotorická hyperaktivita Křeče, *
+
+
+Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+Bolest břicha,* Nauzea,* Zvracení* Průjem,
+Epistaxe
+
+
+
+
+
+
+
+Alergický zánět kůže
+
+6/9
+
+
+
+
+Poruchy ledvin a
+močových cest
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+(HLT)
+syndrom močového měchýře a uretrální syndrom
+
+
+
+
+
+
+
+
+
+Periférní otoky Únava
+
+
+
+
+
+
+
+
+
+Podrážděnost
+Vyrážka Pocení Kopřivka
+
+*Hyponatremie může způsobit bolest hlavy, bolest břicha, nauzeu, zvracení, přírůstek tělesné hmotnosti, závratě, zmatenost, malátnost, poruchy paměti, vertigo, pády a v závažných případech křeče a kóma.
+** Postmarketingová hlášení byla stejně u dětí a dospívajících (<18 let)
+***Postmarketingová hlášení téměř výlučně u dětí a dospívajících (<18 let)
+**** Postmarketingová hlášení primárně u dětí (<12 let)
+Zvláštní skupiny pacientů:
+U starších pacientů a pacientů, u nich je hladina sodíku v séru ve spodní hladině normálu, se může vyskytovat zvýšené riziko hyponatremie.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4. 9  Předávkování
+Předávkování přípravkem Minirin vede k prodlouženému působení a zvýšenému nebezpečí retence tekutin či hyponatremie.
+Léčení
+Ačkoliv by léčení hyponatremie mělo být individuální, lze doporučit přerušení aplikace desmopresinu, omezení příjmu tekutin a v případě potřeby symptomatickou léčbu.
+
+
+5   FARMAKOLOGICKÉ VLASTNOSTI
+
+5. 1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina : hypofyzární a hypotalamické hormony a analogy, desmopresin
+ATC kód: H01BA02
+Přípravek Minirin obsahují desmopresin, strukturální analog endogenního lidského hormonu zadního laloku hypofýzy, arginin vazopresinu. Rozdíl spočívá v dezaminaci cysteinu a v nahrazení L-argininu D-argininem. To má za následek podstatně delší působení a naprostou absenci presorického účinku při
+
+7/9
+
+klinicky používaných dávkách. Desmopresin je velmi účinná látka s EC50 hodnotou pro antidiuretický účinek 1,6 pg/ml. Po perorální aplikaci lze očekávat účinek trvající od 6 do 14 nebo více hodin.
+Klinické zkoušky s tabletami desmopresinu při léčbě nokturie ukázaly toto:
+Minimálně 50% snížení průměrného počtu močení během noci bylo dosaženo u  39 % pacientů užívajících desmopresin ve srovnání s 5 % pacientů užívajících placebo (p<0,0001).
+Průměrný počet močení za noc se snížil o 44 % u pacientů užívajících desmopresin ve srovnání s 15 % u pacientů užívajících placebo (p<0,0001).
+Průměrné délka první etapy nerušeného spánku se při užívání desmopresinu zvýšila o 64 %, zatímco při užívání placeba o 20 % (p<0,0001).
+Průměrná délka prvního intervalu nerušeného spánku se při užívání desmopresinu zvýšila o 2 hodiny
+ve srovnání s 31 min. při užívání placeba (p<0,0001).
+
+Výsledek léčby s perorální aplikací individuálních dávek 0,1 mg až 0,4 mg desmopresinu trvající 3 týdny ve srovnání s aplikací placeba (získané údaje)
+
+
+
+
+
+Proměnná
+
+
+Počet močení v průběhu noci Intenzita noční
+diurézy (ml/min.) Délka prvního intervalu neruše- ného spánku (min.)
+Desmopresin
+
+
+Průměrná základní hodnota 2,97
+(0,84)
+1,51
+(0,55)
+152 (51)
+
+
+
+Průměrná hodnota během 3 týdnů léčby
+1,68 (0,86)
+
+0,87 (0,34)
+
+270 (95)
+Placebo
+
+
+Průměrná základní hodnota 3,03
+(1,10)
+1,55
+(0,57)
+147 (54)
+
+
+
+Průměrná hodnota během 3 týdnů léčby
+2,54 (1,05)
+
+1,44 (0,57)
+
+178 (70)
+Statistická váha versus placebo
+
+
+
+p<0,0001 p<0,0001 p<0,0001
+
+Ve fázi titrace dávky přerušilo léčbu 8 % pacientů pro nežádoucí účinky a 2 % pacientů ji přerušila v následující dvojitě slepé fázi (0,63 % pacientů užívajících desmopresin a 1,45 % pacientů užívajících placebo).
+
+5. 2  Farmakokinetické vlastnosti
+Absolutní biologická dostupnost perorálně aplikovaného desmopresinu se pohybuje v rozsahu 0,08 % až 0,16 %. Maximální koncentrace v plazmě se dosahuje během 2 hodin. Souběžný příjem potravy snižuje rychlost a rozsah absorpce o 40 %.
+Distribuční objem činí 0,2 až 0,3 l/kg. Desmopresin neprochází hematoencefalickou bariérou. Biologický poločas po perorální aplikaci se pohybuje v rozsahu 2,0 až 3,21 hod.. Desmopresin vykazuje mírnou až vysokou proměnlivost biologické dostupnosti v rámci jednoho subjektu i mezi subjekty.
+Po perorální aplikaci jednotlivé dávky 2 x 200 μg tablet přípravku Minirin zdravým dobrovolníkům, přibližně 50 % dobrovolníků mělo koncentraci desmopresinu v plazmě vyšší než 1 pg/ml po dobu nejméně 14 hodin po podání.
+Studie in vitro s mikrozómy lidských jater prokázaly, že se nemetabolizuje významné množství desmopresinu, takže látková přeměna v játrech in vivo není pravděpodobná.
+Po intravenózní injekci lze 45 % množství desmopresinu do 24 hodin izolovat v moči.
+
+5. 3  Předklinické údaje vztahující se k bezpečnosti
+Bez zvláštních informací.
+
+
+
+8/9
+
+6   FARMACEUTICKÉ ÚDAJE
+
+6. 1  Seznam pomocných látek
+Monohydrát laktosy, bramborový škrob, povidon, magnesium-stearát.
+
+6. 2  Inkompatibility
+Neuplatňuje se.
+
+6. 3  Doba použitelnosti
+3 roky
+6. 4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C. Uchovávejte v dobře uzavřeném vnitřním obalu, aby byl přípravek chráněn před vlhkostí. Neodstraňujte tobolky pohlcující vlhkost z uzávěru.
+6. 5  Druh obalu a velikost balení
+Dětský bezpečnostní šroubovací PP uzávěr s kroužkem originality a HDPE vložkou obsahující
+silikagel,
+Velikost balení:Minirin 0,1mg tablety 15, 30 a 90 tablet v lahvičce
+Minirin 0,2mg tablety 15, 30 a 90 tablet v lahvičce
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Ferring - Léčiva a.s., K Rybníku 475, 252 42 Jesenice u Prahy, Česká republika
+
+8   REGISTRAČNÍ ČÍSLO
+56/353/98-C  Minirin 0,1 mg tablety 56/354/98-C  Minirin 0,2 mg tablety
+
+9   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 23.12.1998
+Datum posledního prodloužení registrace: 25.7.2012
+
+
+10  DATUM REVIZE TEXTU
+10. 5. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

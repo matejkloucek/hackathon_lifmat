@@ -1,0 +1,486 @@
+Sp.zn.sukls128830/2017
+a sp.zn.sukls267224/2018
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.    NÁZEV PŘÍPRAVKU
+Cyrdanax 20 mg/ml prášek pro infuzní roztok
+
+
+2.    KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+1  ml  rekonstituovaného  roztoku  obsahuje  dexrazoxanum  20 mg  (jako  dexrazoxani hydrochloridum).
+250mg lahvička: Jedna injekční lahvička obsahuje dexrazoxanum 250 mg (jako dexrazoxani hydrochloridum) k rekonstituci v 12,5 ml vody pro injekci.
+500mg lahvička: Jedna injekční lahvička obsahuje dexrazoxanum 500 mg (jako dexrazoxani hydrochloridum) k rekonstituci v 25 ml vody pro injekci.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.    LÉKOVÁ FORMA
+Prášek pro infuzní roztok.
+Bílý až téměř bílý lyofilizovaný prášek
+
+
+4.    KLINICKÉ ÚDAJE
+4.1   Terapeutické indikace
+
+Prevence chronické kumulativní kardiotoxicity způsobené doxorubicinem nebo epirubicinem používanými u dospělých pacientů s pokročilým a/nebo metastazujícím nádorem prsu po předchozí kumulativní dávce 300 mg/m² doxorubicinu nebo předchozí kumulativní dávce 540 mg/m² epirubicinu, pokud je vyžadovaná další léčba antracyklinem.
+
+4.2   Dávkování a způsob podání
+
+Dávkování
+Přípravek Cyrdanax je podáván formou krátkodobé intravenózní infuze (15 minut), podává se přibližně 30 minut před aplikací antracyklinu, v dávce odpovídající 10násobku ekvivalentu dávky doxorubicinu a 10násobku ekvivalentu dávky epirubicinu.
+
+Doporučená dávka přípravku Cyrdanax tedy je 500 mg/m² při obvykle používaném dávkovacím režimu doxorubicinu 50 mg/m² nebo 600 mg/m², při obvykle používaném dávkovacím režimu epirubicinu 60 mg/m².
+
+
+1
+
+Pediatrická populace
+Bezpečnost a účinnost přípravku Cyrdanax u dětí ve věku 0 až 18 let nebyla dosud stanovena. V současnosti dostupné údaje jsou uvedeny v bodech 4.3, 4.4, 4.8, 5.1 a 5.2.
+
+Porucha funkce ledvin
+U pacientů se středně závažnou až závažnou poruchou funkce ledvin (clearance kreatininu <40 ml/min) má být dávka dexrazoxanu snížena o 50 % (viz bod 4.4).
+Porucha funkce jater
+Vzájemný poměr dávek musí být dodržen, t.j. jestliže je snížena dávka antracyklinu, musí být úměrně snížena i dávka dexrazoxanu.
+
+Způsob podání Intravenózní podání.
+
+Návod k rekonstituci a naředění léčivého přípravku před jeho podáním viz bod 6.6.
+
+4.3   Kontraindikace
+Cyrdanax je kontraindikován u dětí ve věku 0 až 18 let s plánovanou kumulativní dávkou doxorubicinu méně než 300 mg/m² nebo ekvivalentní kumulativní dávkou jiného antracyklinu (viz body 4.4 a 4.8).
+
+Cyrdanax je také kontraindikován za následujících okolností:
+- Pacienti hypersenzitivní na dexrazoxan.
+- Kojení (viz bod 4.6).
+- Konkomitantní vakcinace vakcínou proti žluté zimnici (viz bod 4.5).
+
+4.4   Zvláštní upozornění a opatření pro použití
+
+Myelosuprese
+Při léčbě přípravkem Cyrdanax byly hlášeny myelosupresivní účinky, které mohou být aditivní k myelosupresivním účinkům chemoterapie (viz bod 4.8). Spodní hranice počtu krevních buněk mohou být při léčbě dexrazoxanem nižší. Proto je nezbytné monitorovat krevní obraz. Po ukončení léčby přípravkem Cyrdanax se leukopenie a trombocytopenie obvykle rychle upraví.
+
+Při vyšších dávkách chemoterapeutik, kdy je dávka přípravku Cyrdanax vyšší než 1000 mg/m², může myelosuprese signifikantně stoupat.
+Další primární malignity
+Protože je dexrazoxan cytotoxická látka, která inhibuje topoizomerázu II, může vést kombinace dexrazoxanu s chemoterapií ke zvýšenému riziku výskytu dalších primárních malignit.
+U onkologických pacientů existuje zvýšené riziko druhých primárních malignit, a to bez ohledu na léčbu. Zvýšené riziko druhých primárních malignit existuje také u pacientů, kteří prodělali onkologickou léčbu.
+
+U dospělých pacientů s rakovinou prsu byla po uvedení přípravku na trh hlášena akutní myeloidní leukemie (AML) s četností výskytu „méně časté“ (viz bod 4.8).
+
+
+2
+
+U pediatrických pacientů byly v klinických hodnoceních ve skupině dexrazoxanu i kontrolní skupině  hlášeny druhé primární  malignity,  včetně  akutní  myeloidní  lekémie  (AML)  a myelodysplastického syndromu (MDS). I když byly druhé primární malignity početnější v rameni dexrazoxanu, mezi skupinami nebyl pozorován žádný statistický rozdíl. Celkem byl výskyt druhých primárních malignit v dostupných pediatrických klinických hodnoceních ve skupině dexrazoxanu podobný výskytu v relevantních populacích v jiných klinických hodnoceních (historické údaje). Dlouhodobý účinek dexrazoxanu na druhé primární malignity není však známý a z dostupných údajů jej nelze určit.
+V klinických studiích byly u pediatrických pacientů s Hodgkinovou chorobou a akutní lymfoblastickou leukemií, kteří užívali chemoterapeutické režimy zahrnující několik cytostatik (např. etoposid, doxorubicin, cyklofosfamid), hlášeny další primární malignity, zejména AML a MDS (viz bod 4.8).
+
+Vzájemné ovlivnění s chemoterapií
+Protože jsou dexrazoxan i antracykliny inhibitory topoizomerázy, je možné, že dexrazoxan může díky mechanismu účinku interferovat s protinádorovým účinkem antracyklinů. Ve většině studií u dospělých však nebyly mezi dexrazoxanem a kontrolními skupinami identifikovány žádné rozdíly v odpovědi ani celkovém přežívání. Významný pokles v míře odpovědi byl hlášen v jedné studii u pacientů s pokročilým karcinomem prsu léčených doxorubicinem a dexrazoxanem ve srovnání s pacienty léčenými doxorubicinem a placebem. V této studii byla reakce na placebo dle analýzy vysoká (60,5 %), což může být faktorem přispívajícím k pozorovanému rozdílu míry odpovědi. I přes rozdíly v míře odpovědi nebyl v této studii pozorován významný rozdíl v době do progrese nebo celkovém přežívání mezi pacienty léčenými dexrazoxanem nebo placebem.
+
+Žádné pediatrické klinické hodnocení nezjistilo rozdíl v onkologickém výsledku (přežívání bez příhod)  mezi  skupinami  léčenými  dexrazoxanem  a  skupinami  léčenými  samostatným antracyklinem.
+Pacienti s poruchou funkce ledvin
+Clearance dexrazoxanu a jeho aktivních metabolitů může být u pacientů se sníženou clearance kreatininu snížena (viz bod 4.2).
+Porucha funkce jater
+Vzhledem k tomu, že u pacientů léčených přípravkem Cyrdanax byla příležitostně pozorována porucha funkce jater (viz bod 4.8), doporučuje se u pacientů se známými poruchami funkce jater provést před podáváním a během podávání dexrazoxanu rutinní testy funkce jater.
+
+Pacienti se srdečními poruchami
+Standardní monitorování srdečních funkcí související s léčbou doxorubicinem nebo epirubicinem musí pokračovat.
+Neexistují údaje, které by podporovaly použití dexrazoxanu u pacientů s infarktem myokardu během posledních 12 měsíců, s již dříve existujícím srdečním selháním (včetně sekundárního srdečního  selhání  po  antracyklinové  léčbě),  nekontrolovanou  anginou  pectoris  nebo symptomatickým onemocněním srdeční chlopně.
+
+Tromboembolismus
+Kombinace dexrazoxanu s chemoterapií může mít za následek zvýšené riziko tromboembolismu (viz bod 4.8).
+Ženy ve fertilním věku/antikoncepce u mužů a žen
+3
+
+Protože je dexrazoxan cytostatické agens, sexuálně aktivní muži a ženy mají během léčby používat účinnou metodu kontracepce. Ženy a muži mají pokračovat v používání účinných metod antikoncepce nejméně 6 měsíců po skončení léčby dexrazoxanem (viz bod 4.6).
+
+Starší pacienti (nad 65 let věku)
+Nejsou k dispozici žádné klinické studie porovnávající účinnost nebo bezpečnost dexrazoxanu u starších a mladších pacientů. Obecně je však při léčbě starších pacientů nutná opatrnost, vzhledem k jejich většímu užívání jiných léčivých přípravků, vyššímu výskytu souběžných nemocí a možnému snížení funkce jater, ledvin nebo srdce.
+Anafylaktická reakce
+Anafylaktické reakce zahrnující angioedém, kožní reakce, bronchospasmus, respirační tíseň, hypotenzi a ztrátu vědomí byla pozorována u pacientů léčených přípravkem Cyrdanax a antracykliny (viz bod 4.8). Před podáním přípravku má být pečlivě uvážen předchozí výskyt alergických reakcí na dexrazoxan (viz bod 4.3).
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Cyrdanax  se  vylučuje  v  nezměněné  formě  ledvinami  a  rovněž  je  metabolizovaný dihydropyrimidin-amidohydrolázou (DHPáza) v játrech a ledvinách na metabolity s otevřeným kruhem. Souběžné podávání doxorubicinu (50 až 60 mg/m²) nebo epirubicinu (60 až 100 mg/m²) neovlivnilo významně farmakokinetiku přípravku Cyrdanax.
+
+Dexrazoxan ve studiích neovlivnil farmakokinetiku doxorubicinu. Existují omezené údaje ze studií, které naznačují, že se clearance epirubicinu může zvyšovat, pokud je předem podáván dexrazoxan, což se projevilo při vysokých dávkách epirubicinu (120-135 mg/m²).
+
+Cyrdanax může zvyšovat hematologickou toxicitu vyvolanou chemoterapií nebo ozařováním, což vyžaduje během prvních dvou cyklů léčby pečlivé monitorování hematologických parametrů (viz bod 4.4).
+Cyrdanax nesmí být během infuze mísen s žádným jiným léčivým přípravkem. Současné používání je kontraindikováno:
+Vakcína proti žluté zimnici: Riziko fatálního generalizovaného vakcinačního onemocnění (viz bod 4.3).
+Současné používání se nedoporučuje:
+• Další živé atenuované vakcíny: riziko možného fatálního celkového onemocnění. Toto riziko se zvyšuje u pacientů s imunosupresí v důsledku jejich primárního onemocnění. Kde je to možné, použijte inaktivovanou vakcínu, je-li k dispozici (poliomyelitida).
+• Fenytoin: cytotoxické látky mohou snížit absorpci fenytoinu, což může mít za následek exacerbaci křečí. Dexrazoxan není doporučeno používat v kombinaci s fenytoinem.
+
+Současné používání se zvýšenou pozorností:
+• Cyklosporin, takrolimus: Excesivní imunosuprese s rizikem lymfoproliferativního onemocnění.
+
+Pediatrická populace
+Interakční studie byly provedeny pouze u dospělých.
+
+4
+
+4.6   Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku/antikoncepce u mužů a žen
+Jak sexuálně aktivní muži, tak i ženy mají během léčby používat účinné metody antikoncepce. Ženy i muži mají pokračovat v používání antikoncepce ještě nejméně 6 měsíců po skončení léčby přípravkem Cyrdanax (viz bod 4.4).
+
+Těhotenství
+Adekvátní údaje o podávání dexrazoxanu těhotným ženám nejsou k dispozici. Studie na zvířatech prokázaly embryotoxické a teratogenní účinky (viz bod 5.3). Potenciální riziko pro člověka není známé. Přípravek Cyrdanax nemá být podáván během těhotenství, pokud to není nezbytně nutné.
+
+Kojení
+Studie na zvířatech o přestupu léčivé látky a/nebo jejích metabolitů do mateřského mléka nejsou k dispozici. Není známo zda dexrazoxan a/nebo jeho metabolity přestupují do lidského mateřského mléka. Vzhledem k možným závažným nežádoucím účinkům u kojenců vystavených působení přípravku Cyrdanax, musí matky během léčby přípravkem Cyrdanax přerušit kojení (viz bod 4.3).
+
+Fertilita
+Účinky dexrazoxanu na fertilitu lidí a zvířat nebyly studovány.
+
+4.7   Účinky na schopnost řídit a obsluhovat stroje
+Cyrdanax má mírný vliv na schopnost řídit nebo obsluhovat stroje.
+Pacienti mají být upozorněni, aby byli opatrní při řízení a obsluze strojů, pokud se u nich během léčby přípravkem Cyrdanax objeví únava.
+
+4.8   Nežádoucí účinky
+
+Přípravek Cyrdanax se podává společně s antracyklinovou chemoterapií a proto nemusí být relativní příspěvek antracyklinu a přípravku Cyrdanax v profilu nežádoucích účinků jasný. Nejčastější nežádoucí účinky jsou hematologické a gastroenterologické reakce, především anemie, leukopenie, nauzea, zvracení a stomatitida a také astenie a alopecie. Myelosupresivní účinky přípravku Cyrdanax mohou být aditivní k účinkům chemoterapie (viz bod 4.4).
+Nežádoucí účinky
+Tabulka níže zahrnuje nežádoucí účinky z klinických studií a postmarketingového používání. Z důvodu spontánního charakteru postmarketingového hlášení, jsou tyto nežádoucí účinky uvedené s četností výskytu “není známo”, pokud již nebyly popsány při klinických studiích.
+Nežádoucí účinky jsou řazeny podle četnosti výskytu, s nejčetnějším jako prvním, podle následující konvence: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100); není známo (z dostupných údajů nelze určit).
+
+Tabulka 1
+Infekce a infestace
+Méně časté           Infekce, sepse
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy)
+Méně časté           Akutní myeloidní leukemie
+Poruchy krve a lymfatického systému
+5
+
+Velmi časté          Anemie, leukopenie
+Časté              Neutropenie, trombocytopenie, febrilní neutropenie, granulocytopenie, febrilní aplazie kostní dřeně, leukocytopenie, snížený počet bílých krvinek
+Méně časté           Zvýšený počet eozinofilů, zvýšený počet neutrofilů, zvýšený počet krevních destiček, zvýšený počet bílých krvinek, snížený počet lymfocytů, snížený počet monocytů
+Poruchy imunitního systému
+Není známo          Anafylaktická reakce, hypersenzitivita
+Poruchy metabolismu a výživy
+Časté              Anorexie
+Poruchy nervového systému
+Časté              Parestezie, závrať, bolest hlavy, periferní neuropatie
+Méně časté           Synkopa
+Poruchy oka
+Časté              Konjunktivida
+Poruchy ucha a labyrintu
+Méně časté           Vertigo, infekce ucha
+Srdeční poruchy
+Časté              Snížená ejekční frakce, tachykardie
+Cévní poruchy
+Časté              Flebitida
+Méně časté           Žilní trombóza, lymfedém
+Není známo          Embolie
+Respirační, hrudní a mediastinální poruchy
+Časté              Dušnost, kašel, faryngitida
+Méně časté           Infekce respiračního traktu
+Není známo          Plicní embolie
+Gastrointestinální poruchy
+Velmi časté          Nauzea, zvracení, stomatitida
+Časté              Průjem, zácpa, bolesti břicha, dyspepsie
+Méně časté           Gingivitida, orální kandidóza
+Poruchy jater a žlučových cest
+Časté              Zvýšená hladina transamináz
+Poruchy kůže a podkožní tkáně
+Velmi časté          Alopecie
+Časté              Porucha nehtů, erytém
+Celkové poruchy a reakce v místě aplikace
+Velmi časté          Astenie
+Časté              Záněty sliznic, pyrexie, únava, malátnost, reakce v místě aplikace (zahrnující bolest, otok, pocity pálení, erytém, pruritus, trombózu)
+Méně časté           Edém, žízeň
+
+Údaje z klinických studií
+Nežádoucí účinky hlášené v klinických studiích, které mají důvodnou možnost příčinné souvislosti s dexrazoxanem jsou uvedené v tabulce výše. Tato data jsou získaná z klinických studií s pacienty s maligními nádory, kdy byl přípravek Cyrdanax podáván v kombinaci s antracyklinovou chemoterapií a kde byla v některých případech kontrolní skupina pacientů užívajících pouze samotnou chemoterapii.
+
+6
+
+Pacienti dostávající chemoterapii a dexrazoxan (n=375):
+•  76 % bylo léčeno pro maligní nádor prsu a 24 % pro různé pokročilé nádory.
+•  Léčba dexrazoxanem: průměrná dávka 1 010 mg/m² (medián: 1 000 mg/m²) v kombinaci s doxorubicinem a průměrná dávka 941 mg/m² (medián: 997 mg/m²) v kombinaci s epirubicinem.
+•  Chemoterapeutická léčba podávaná pacientům léčeným pro maligní nádor prsu: 45 % kombinovaná léčba s doxorubicinem 50 mg/m² (převážně s 5-fluorouracilem a cyklofosfamidem): 17 % s epirubicinem samotným; 14 % kombinovaná terapie
+s epirubicinem 60 nebo 90 mg/m² (převážně s 5-fluorouracilem a cyklofosfamidem).
+Pacienti dostávající samotnou chemoterapii (n=157):
+•  Všichni léčeni pro rakovinu prsu
+•  Podávaná chemoterapeutická léčba: 43 % monoterapie 120 mg/m² epirubicinu; 33 % kombinovaná terapie 50 mg/m² doxorubicinu (převážně s 5-fluorouracilem a cyklofosfamidem); 24 % kombinovaná terapie 60 nebo 90 mg/m² epirubicinu (převážně s 5-fluorouracilem a cyklofosfamidem).
+Popis vybraných nežádoucích účinků
+
+Další primární malignity
+AML byla hlášena méně často u dospělých pacientů s nádorem prsu v postmarketingovém období.
+Bezpečnostní profil a maximální tolerovaná dávka
+Maximální tolerovaná dávka (MTD) dexrazoxanu, při podání v rámci monoterapie formou krátkodobé infuze každé tři týdny pro kardioprotekci, nebyla specificky studována. Ve studiích s dexrazoxanem, jako cytotoxickou látkou, se ukázalo, že jeho MTD je závislá na dávkování a dávkovacím režimu a kolísá od 3 750 mg/m², pokud jsou krátkodobé infuze podávány rozděleně po 3 dny, do 7 420 mg/m², jestliže je podáván jednou týdně po dobu 4 týdnů. Pro dávku je limitující myelosuprese a abnormální jaterní testy. MTD je nižší u pacientů, kteří byli intenzivně předléčeni chemoterapií a u pacientů s již existující imunosupresí (např. AIDS).
+Pokud byl dexrazoxan podáván v dávkách blízkých MTD, byly hlášeny následující nežádoucí účinky: neutropenie, trombocytopenie, nauzea, zvracení a zvýšení hodnot jaterních testů. Dalšími toxickými účinky byly malátnost, zvýšená teplota, zvýšená clearence železa a zinku v moči, anemie, abnormální krevní srážlivost, přechodné zvýšení hladin sérových triacylglycerolů a amylázy a přechodný pokles hladiny kalcia v séru.
+Pediatrická populace
+Zkušenosti s bezpečností u dětí jsou primárně založeny na publikovaných zprávách klinických hodnocení u akutní lymfoblastické leukémie, ne-hodgkinského lymfomu, Hodgkinovy nemoci a osteosarkomu, a na údajích po uvedení přípravku na trh.
+U pediatrických pacientů byly v klinických hodnoceních ve skupině dexrazoxanu i kontrolní skupině hlášeny druhé primární malignity, včetně akutní myeloidní leukémie (AML) a myelodysplastického syndromu (MDS). I když byly druhé primární malignity početnější v rameni dexrazoxanu, mezi skupinami nebyl pozorován žádný statistický rozdíl. Kromě toho není dlouhodobý účinek dexrazoxanu v kontextu druhých primárních malignit známý (z dostupných údajů jej nelze určit) (viz bod 4.4).
+7
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9   Předávkování
+Známkami a příznaky předávkování jsou pravděpodobně leukopenie, trombocytopenie, nauzea, zvracení, průjem, kožní reakce a alopecie. Specifické antidotum neexistuje. Má být poskytnuta symptomatická léčba.
+
+Péče má zahrnovat profylaxi a léčbu infekcí, sledování bilance tekutin a podporu výživy.
+
+
+5.    FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1   Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Léčiva ke snížení toxicity protinádorové léčby ATC kód: V03AF02
+Mechanismus účinku
+Přesný mechanismus, kterým dexrazoxan účinkuje kardioprotektivně, nebyl plně objasněn, avšak na základě dostupných důkazů se předpokládá následující mechanismus účinku. Kardiotoxicita závislá na dávce, která je pozorovaná během podávání antracyklinu, je způsobena železo- dependentními volnými kyslíkovými radikály indukovanými antracyklinem, které nepříznivě působí na relativně nechráněný srdeční sval. Dexrazoxan, analog EDTA (kyseliny edetové), je hydrolyzován v buňkách srdce na metabolit s otevřeným kruhem ICRF-198. Jak dexrazoxan (ICRF-187), tak i ICRF-198 jsou schopny chelatace kovových iontů. Obecně se předpokládá, že kardioprotekci působí vychytáváním kovových iontů, tím zabraňují tvorbě Fe³⁺-antracyklinového komplexu z redukovaných kruhů a tvorbě reaktivních radikálů.
+
+Klinická účinnost a bezpečnost
+Údaje z dosud provedených klinických studií naznačují, že kardioprotektivní účinek dexrazoxanu narůstá se zvyšující se kumulativní dávkou antracyklinu.
+Dexrazoxan nechrání proti nekardiologickým toxicitám vyvolaným antracykliny.
+
+Většina kontrolovaných klinických studií byla provedena u pacientů s pokročilou rakovinou prsu a používala dávkovací poměr dexrazoxan:doxorubicin 20:1 nebo 10:1. Ve dvou klinických studiích používajících vyšší dávkový poměr (jedna u rakoviny prsu a jedna u malobuněčného karcinomu plic) byla hlášena vyšší úmrtnost ve skupinách léčených dexrazoxanem společně s chemoterapií ve srovnání se skupinami léčenými samostatnou chemoterapií nebo placebem. Poměr dávek byl následně v obou studiích snížen na 10:1 a u pacientů léčených nižším poměrem dávek nebyly pozorovány žádné významné rozdíly v přežívání. Několik studií používajících vyšší poměr dávek po celou dobu však neuvádí žádný rozdíl v přežívání.
+8
+
+Pediatrická populace
+K dispozici jsou pouze omezené údaje o účinnosti u dětí. Vychází hlavně z klinických studií COG (Children's Oncology Group) publikovaných v BL Asselin et al: J. Clin. Oncol. 2016 a CL Schwartz et al Pediatr. Blood Cancer 2016.
+Studie P9404 (BL Asselin et al: J. Clin. Oncol. 2016) analyzovala kardioprotektivní účinnost a bezpečnost dexrazoxanu v kombinaci s chemoterapií sestávající z kumulativní dávky doxorubicinu 360 mg/m² v léčbě dětí a dospívajících s nově diagnostikovanou T-buněčnou akutní lymfoblastickou leukémií (T-ALL) nebo lymfoblastickým ne-hodgkinským lymfomem (L-NHL). V období od června 1996 do září 2001 byli pacienti randomizováni do skupiny léčené doxorubicinem s dexrazoxanem (n=273) nebo bez něj (n=264) (poměr dexrazoxan : doxorubicin 10:1). Dexrazoxan byl podáván v bolusové infuzi krátce před jednotlivými dávkami doxorubicinu. Účinky na srdce byly hodnoceny echokardiografickým měřením funkce a struktury levé komory.
+
+Výchozí charakteristiky celé populace klinického hodnocení byly následující: mediánový věk v době stanovení diagnózy 9,2 let, muži (75,8 %), bílá rasa (66 %), T-ALL (67 %). Použitá léčba byla modifikována z protokolu klinického hodnocení DFCI ALL-87-01 s vysokou dávkou methotrexátu nebo bez ní a všichni pacienti podstoupili kraniální ozáření.
+
+U žádného z pacientů nebylo během léčby ani následného sledování nahlášeno srdeční selhání. Z 5 pacientů, u kterých během léčby došlo ke kardiotoxicitě stupně 3 nebo 4, měli 2 arytmie (n=1 ve skupině dexrazoxanu) a ve 3 případech došlo ke snížení frakčního zkrácení LK (všichni byli ve skupině bez léčby dexrazoxanem). Všech 5 pacientů dostalo vysokou dávku methotrexátu a v době rozvoje kardiotoxicity měli závažnou infekci. Všichni pacienti se vyléčili a absolvovali chemoterapii, včetně doxorubicinu. Hladiny cTnT v úvodu i během léčby jsou k dispozici pro 160 pacientů. Pravděpodobnost zvýšeného cTnT byla nižší ve skupině léčené dexrazoxanem (poměr pravděpodobnosti 0,23; 95 % CI, 0,05 až 1,11; p=0,067).
+
+Ve výchozí úrovni byla střední z-skóre frakčního zkrácení LK a poměru tloušťky k rozměru LK v léčebných skupinách podobná. Střední z-skóre pro tloušťku stěny LK ve výchozí úrovni ve skupině léčené dexrazoxanem bylo významně nižší než ve skupině bez léčby dexrazoxanem.
+Tloušťka stěny LK byla horší po léčbě v léčebné skupině bez dexrazoxanu než ve skupině léčené dexrazoxanem. Po léčbě doxorubicinem byla střední z-skóre nižší než věkové normy pro všechny děti, mezi skupinami se však významně nelišila; střední skóre bylo vždy blíže normě u skupiny léčené dexrazoxanem. Střední z-skóre pro frakční zkrácení levé komory, tloušťku stěny LK a poměr tloušťky a rozměru LK ve třech letech ve skupině dětí léčených dexrazoxanem se významně nelišila od skóre zdravých dětí, zatímco ve skupině neléčené dexrazoxanem zůstala všechna tato z-skóre významně snížena ve srovnání se zdravými dětmi. Z-skóre pro střední frakční zkrácení levé komory, tloušťku stěny a poměr tloušťky k rozměru měřené 3 roky po stanovení diagnózy byla horší ve skupině dostávající samostatný doxorubicin (n=55 na skupinu; p
+≤ 0,01 pro všechna srovnání).
+
+5leté přežívání bez příhod (se standardní chybou) se mezi skupinami významně nelišilo: 76,7 % (2,7 %) pro skupinu dexrazoxanu vs. 76,0 % (2,7 %) pro skupinu se samostatným docorubicinem (p = 0,9) (viz také body 4.2, 4.3, 4.4 a 4.8). Četnost závažných nežádoucích příhod stupně 3 nebo 4 charakteru hematologické toxicity, infekce, příhod postihujících centrální nervový systém a úmrtí v důsledku toxicity byla v obou skupinách podobná.
+
+
+9
+
+V nerandomizovaném klinickém hodnocení (P9754, CL Schwartz et al Pediatr. Blood Cancer 2016) u pacientů s nemetastatickým osteosarkomem (mediánový věk 13 let, rozmezí 3 až 30 let), kde všichni pacienti dostávající doxorubicin (450 až 600 mg/m²) také dostávali dexrazoxan (poměr dexrazoxan:doxorubicin 10:1) (242 pacientů exponovaných alespoň 450 mg/m² doxorubicinu a 101 exponovaných dávce 600 mg/m²), se u 5 pacientů vyskytla dysfunkce levé komory stupně 1 nebo 2, příhoda byla přechodná u 4 z těchto pacientů. U 2 z těchto pacientů byl doxorubicin následně vysazen. Nedošlo k žádné kardiomyopatii stupně 3, 4 nebo 5 (komorová dysfunkce). U jednoho dalšího pacienta se objevila elevace sérového cTnT stupně 3 u dávky doxorubicinu 600 mg/m² bez dokumentované dysfunkce myokardu. Hodnoty frakčního zkrácení levé komory 104 hodnotitelných pacientů byly konvertovány na z-skóre (FSZ) s cílem vyhodnotit změnu srdeční funkce od zařazení. Bylo zjištěno, že se FSZ s postupem času statisticky významně snižovala. Změna dosahovala úrovně -0,017 ± 0,0009 standardizované jednotky (z-skóre 1) za týden (odhadovaná roční změna 0,9 jednotky FSZ). Přiřazení na standardní terapii (450 mg/m² doxorubicinu) nebo její zesílení (600 mg/m² doxorubicinu) nebyly spojeny se změnou FSZ. Stran klinické kardiotoxicty, měření biomarkerů a analýz FSZ, riziko akutní kardiomyopatie bylo u kumulativní dávky 450 mg/m² až 600 mg/m² doxorubicinu nízké (viz také body 4.2, 4.3, 4.4 a
+4.8).
+5.2   Farmakokinetické vlastnosti
+
+Po intravenózní aplikaci odpovídá u pacientů s nádorovým onemocněním sérová kinetika dexrazoxanu otevřenému dvoukompartmentovému modelu s eliminací prvního řádu. Maximální pozorovaná plazmatická koncentrace po 12-15minutové infuzi 1 000 mg/m² je okolo 80 μg/ml s plochou pod křivkou plazmatické koncentrace v závislosti na čase (AUC) 130 ± 27 mg.h/l. Plazmatická koncentrace potom klesá, s průměrnou hodnotou poločasu 2,2 ± 0,42 hodiny. U dospělých byla celková clearance dexrazoxanu odhadnuta na 14,4 ± 2,8 l/h.
+
+Distribuce
+Zdánlivý distribuční objem je 44,0 ± 3,9 l za předpokladu, že je dexrazoxan distribuován především do celotělového objemu vody. Vazba dexrazoxanu na proteiny plazmy je nízká (2 %) a dexrazoxan nepřestupuje v klinicky významném množství do cerebrospinálního moku.
+
+Biotransformace a metabolismus
+Dexrazoxan a jeho metabolity byly detekovány v plazmě a moči zvířat a lidí.
+
+Eliminace
+Vylučování v moči hraje v eliminaci dexrazoxanu důležitou roli. Celkové množství nezměněného dexrazoxanu vyloučeného močí je za normálních okolností 40 %.
+Zvláštní skupiny pacientů
+
+Pediatričtí pacienti
+Velice omezené farmakokinetické údaje u dětí ukazují, že i když jsou absolutní hodnoty clearance vyšší, hodnoty normalizované na povrch těla se od dospělých významně neliší.
+Starší pacienti
+U starších pacientů nebyly provedeny žádné studie s dexrazoxanem. Clearance léčivé látky může být snížena u starších pacientů a u pacientů s nízkou clearance kreatininu.
+
+
+10
+
+Porucha funkce jater
+U pacientů s poruchou funkce jater nebyly provedeny žádné studie.
+
+Porucha funkce ledvin
+V porovnání se zdravými jedinci (clearance kreatininu (CLCR) > 80 ml/min) byla expozice dvakrát vyšší u pacientů se středně těžkou (CLCR 30 až 50 ml/min) až těžkou (CLCR < 30 ml/min) poruchou funkce ledvin. Z modelování bylo zjištěno, že by mohla být dosažena ekvivalentní expozixe (AUC0-inf), pokud by bylo dávkování sníženo o 50 % u pacientů s CLCR nižší než 40 ml/min v porovnání s kontrolními jedinci (CLCR >80 ml/min).
+5.3   Předklinické údaje vztahující se k bezpečnosti
+
+Toxicita po opakovaném dávkování
+Předklinické údaje naznačují, že při opakovaném podávání dexrazoxanu jsou cílovými orgány tkáně, ve kterých dochází k rychlému dělení buněk: kostní dřeň, lymfatická tkáň, varlata a sliznice zažívacího traktu. Podávání dexrazoxanu souviselo s testikulární atrofií u potkanů při intravenózně podávaných dávkách od 25 mg/kg a u psů při dávce 20 mg/kg/týden.
+
+Dávkovací režim dexrazoxanu je primárním faktorem stupně vyvolané tkáňové toxicity. Podání jedné vysoké dávky je tolerováno lépe, než stejná dávka několikrát denně.
+
+Mutagenní toxicita
+Ve studiích in vitro a in vivo byla prokázána mutagenní a genotoxická aktivita dexrazoxanu.
+
+Karcinogenita
+Karcinogenní potenciál dexrazoxanu nebyl studován. Nicméně dlouhodobé podávání vysokých dávek razoxanu, racemické směsi, ve které dexrazoxan je S (+)-enantiomer, vyvolalo hematopoetické neoplasmy u samic myší, lymfocytické neoplasmy u samic myší a děložní adenokarcinomy u samic potkanů.
+
+Reprodukční toxicita-teratogenita
+Dostupné studie na zvířatech obsahují pouze omezené údaje o fertilitě, byly však zjištěny změny testikulární tkáně u potkanů a psů po opakovaném dávkování.
+V reprodukčních studiích na zvířatech bylo odhaleno, že razoxan je embryotoxický u myší, potkanů a králíků, a také teratogenní u potkanů a myší (viz bod 4.6).
+
+6.    FARMACEUTICKÉ ÚDAJE
+
+6.1   Seznam pomocných látek
+
+Žádné.
+
+6.2   Inkompatibility
+Přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3   Doba použitelnosti
+
+11
+
+Před otevřením:
+250 mg: 2 roky
+500 mg: 4 roky
+
+Po rekonstituci a naředění:
+Chemická a fyzikální stabilita je prokázána po dobu 8 hodin při 4 °C.
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, jsou doba a podmínky uchovávání před jeho použitím na odpovědnosti uživatele a doba uchovávání by neměla být delší než 4 hodiny při teplotě 2 - 8 °C (v chladničce) a přípravek musí být chráněn před světlem.
+6.4   Zvláštní opatření pro uchovávání
+
+Před otevřením: Uchovávejte při teplotě do 30 °C. Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+Pro informaci o uchovávání rekonstituovaného/naředěného přípravku viz bod 6.3.
+6.5   Druh obalu a obsah balení
+
+Injekční lahvičky z hnědého skla typu I obsahující 500 mg (250 mg) prášku, uzavřené brombutylovou pryžovou zátkou a hliníkovým uzávěrem typu „flip-off“ s barevným polypropylenovým terčem (500mg lahvičky: bílý terč; 250mg lahvičky: žlutý terč). Přípravek je dále uzavřen v papírové krabičce.
+Dodává se v balení s 1x1 nebo 1x4 injekčními lahvičkami. Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Doporučení pro bezpečné zacházení
+Při používání přípravku Cyrdanax má předepisující lékař dodržovat národní nebo uznávané předpisy pro zacházení s cytotoxickými látkami. Rekonstituce smí být prováděna pouze vyškolenými pracovníky a v místě určeném pro manipulaci s cytotoxickými látkami. S přípravkem nesmí zacházet těhotné ženy.
+
+Doporučuje se používat rukavice a jiné ochranné oblečení, aby se zabránilo kontaktu s kůží. Při kontaktu dexrazoxanu s kůží byly hlášeny kožní reakce.
+Pokud se prášek nebo roztok přípravku Cyrdanax dostane do kontaktu s kůží nebo sliznicí, musí se postižené místo okamžitě důkladně omýt vodou.
+Příprava pro intravenózní aplikaci
+Rekonstituce přípravku Cyrdanax
+Obsah jedné 500mg (250mg) injekční lahvičky musí být rekonstituován přidáním 25 ml (12,5 ml) vody pro injekci. Obsah injekční lahvičky se rozpustí při jemném třepání během několika minut. Výsledný roztok má pH přibližně 1,8. Před aplikací pacientovi musí být tento roztok dále naředěn.
+
+
+
+12
+
+Ředění rekonstituovaného roztoku
+Aby se zabránilo riziku tromboflebitidy v místě aplikace, musí být Cyrdanax před infuzí naředěn jedním z roztoků uvedených v tabulce níže. Přednostně mají být použity roztoky s vyšším pH. Konečný objem odpovídá počtu použitých injekčních lahviček přípravku Cyrdanax a množství infuzní tekutiny pro ředění, které může být mezi 12,5 ml a 100 ml na injekční lahvičku.
+
+Tabulka, uvedená níže, sumarizuje konečný objem a přibližné pH rekonstituovaného a naředěného přípravku pro jednu a čtyři injekční lahvičky přípravku Cyrdanax. Minimální a maximální objemy infuzní tekutiny používané pro injekční lahvičku jsou uvedeny níže.
+
+250mg injekční lahvičky: Cyrdanax 20 mg/ml prášek pro infuzní roztok
+
+Infuzní tekutina používaná pro
+ředění
+
+
+Ringer-laktát
+
+0,16M natrium- laktát*
+Objem tekutiny
+používaný pro ředění 1 rekonstituované
+injekční lahvičky přípravku
+12,5 ml
+50 ml
+12,5 ml
+50 ml
+Konečný objem z
+1 injekční lahvičky
+
+25 ml
+62,5 ml
+25 ml
+62,5 ml
+Konečný objem ze
+4 injekčních lahviček
+
+100 ml
+250 ml
+100 ml
+250 ml
+pH
+(přibližné)
+
+
+
+2,4
+3,5
+2,9
+4,6
+*   Natrium- laktát 11,2 % musí být naředěn s faktorem 6, aby bylo dosaženo koncentrace 0,16M
+Obvykle se doporučuje pro naředění použít větší objem (maximum 50 ml dodatečné infúzní tekutiny na 12,5 ml rekonstituovaného přípravku Cyrdanax), aby se zvýšilo pH roztoku. Podle hemodynamického stavu pacienta může být, pokud je to nutné, použit pro naředění menší objem (minimum 12,5 ml dodatečné infuzní tekutiny na 12,5 ml rekonstituovaného přípravkuCyrdanax).
+
+500 mg injekční lahvičky: Cyrdanax 20 mg/ml prášek pro infuzní roztok
+
+Infuzní tekutina používaná pro
+ředění
+
+
+Ringer-laktát
+
+0,16M natrium laktát*
+Objem tekutiny
+používaný pro ředění 1 rekonstituované
+injekční lahvičky přípravku
+25 ml
+100 ml
+25 ml
+100 ml
+Konečný objem z
+1 injekční lahvičky
+
+50 ml
+125 ml
+50 ml
+125 ml
+Konečný objem ze
+4 injekčních lahviček
+
+200 ml
+500 ml
+200 ml
+500 ml
+pH
+(přibližné)
+
+
+
+2,4
+3,5
+3,9
+4,6
+*   Natrium laktát 11,2% musí být naředěn s faktorem 6, aby bylo dosaženo koncentrace 0,16M
+
+Obvykle se doporučuje pro naředění použít větší objem (maximum 100 ml dodatečné infúzní tekutiny na 25 ml rekonstituovaného přípravku Cyrdanax), aby se zvýšilo pH roztoku. Podle hemodynamického stavu pacienta může být, pokud je to nutné, použit pro naředění menší objem (minimum 25 ml dodatečné infuzní tekutiny na 25 ml rekonstituovaného přípravku Cyrdanax).
+
+Cyrdanax je určen pouze k jednorázovému použití. Rekonstituovaný a následně naředěný přípravek má být použit okamžitě. Pokud není použit okamžitě, jsou doba a podmínky uchovávání před jeho použitím na odpovědnosti uživatele a doba uchovávání by neměla být delší než
+4 hodiny při teplotě 2 °C až 8 °C (v chladničce) a přípravek musí být chráněn před světlem.
+13
+
+U parenterálně podávaného léčivého přípravku musí být zkontrolována vizuálně přítomnost částic, kdykoli to roztok a obal dovolují. Cyrdanaxje obvykle okamžitě po rekonstituci bezbarvý až žlutý roztok, ale s časem mohou být pozorovány určité změny zabarvení, které však, pokud je přípravek uchováván podle doporučení, nesignalizují ztrátu účinnosti. Pokud není přípravek okamžitě po rekonstituci bezbarvý až žlutý, doporučuje se přípravek zlikvidovat.
+
+Likvidace
+Veškerý nepoužitý roztok nebo odpad musí být zlikvidován v souladu s místními požadavky. Likvidaci předmětů použitých k rekonstituci a ředění přípravku Cyrdanax musí být věnována odpovídající pozornost a opatření.
+
+
+7.    DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Pharmaselect International Beteiligungs GmbH, Ernst-Melchior-Gasse 20, 1020 Vídeň, Rakousko
+
+
+8.    REGISTRAČNÍ ČÍSLO
+
+87/507/10-C
+
+
+9.    DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 30. 6. 2010
+Datum posledního prodloužení registrace: 16. 5. 2019
+
+
+10.   DATUM REVIZE TEXTU
+
+17. 7. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

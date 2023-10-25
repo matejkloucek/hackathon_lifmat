@@ -1,0 +1,389 @@
+Sp. zn. sukls303127/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1. NÁZEV PŘÍPRAVKU
+Ampres 10 mg/ml injekční roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jeden ml injekčního roztoku obsahuje chloroprocaini hydrochloridum 10 mg. Jedna ampulka s 5 ml roztoku obsahuje chloroprocaini hydrochloridum 50 mg.
+
+Pomocné látky se známým účinkem:
+1 ml roztoku obsahuje 2,8 mg sodíku
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Injekční roztok.
+Čirý bezbarvý roztok.
+
+pH roztoku má hodnotu od 3,0 do 4,0.
+Osmolalita roztoku má hodnotu 270 - 300 mosm/kg.
+
+
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+Spinální anestezie u dospělých, pokud plánovaný chirurgický výkon nemá překročit 40 minut.
+
+4.2 Dávkování a způsob podání
+Musí být okamžitě k dispozici vybavení, léčivé přípravky a personál schopný řešit urgentní stavy, např. udržovat průchodné dýchací cesty a podávat kyslík, protože ve vzácných případech byly po použití lokálních anestetik hlášeny závažné reakce, někdy s fatálním následkem, a to i v případě, že pacient neměl v anamnéze hypersenzitivitu na anestetika. Ošetřující lékař je zodpovědný za provedení opatření, která jsou nezbytná, aby se zabránilo intravaskulárnímu podání injekce; musí být dostatečně proškolen v urgentní medicíně a resuscitaci, aby byl schopen zabránit nežádoucím účinkům a komplikacím při výkonu a léčit je.
+
+Dávkování
+Dávkování musí být stanoveno individuálně v souladu s charakteristikami konkrétního případu. Při stanovení dávky je nutné brát v úvahu tělesný stav pacienta a souběžně podávané léčivé přípravky.
+1
+
+Doporučené dávky platí pro dosažení účinné blokády po jednorázovém podání u dospělých s průměrnou výškou a tělesnou hmotností (přibližně 70 kg). Existují velké rozdíly, co se týká rozsahu a trvání účinku. Pro stanovení dávky jsou velmi důležité zkušenosti anesteziologa a znalost celkového stavu pacienta.
+Při stanovení dávky se uplatňují následující pokyny:
+
+
+Dávkování u dospělých
+
+Rozsah potřebné      ml
+senzorické blokády na
+4
+úrovni Th 10
+5
+
+Průměrné trvání účinku
+mg
+(minuty)
+40          80
+50          100
+
+
+Maximální doporučená dávka je 50 mg (=5 ml) chlorprokain-hydrochloridu.
+Délka účinku závisí na dávce.
+
+Zvláštní populace
+Při rozhodování o dávce jsou důležité klinické zkušenosti a znalost fyzického stavu pacienta. U pacientů v celkově oslabeném stavu se doporučuje snížit dávku.
+Kromě toho je u pacientů se zjištěnými souběžnými poruchami (např. s vaskulární okluzí, arteriosklerózou, diabetickou polyneuropatií) indikováno snížení dávky.
+
+Pediatrická populace
+Bezpečnost a účinnost přípravku Ampres u dětí a dospívajících nebyly dosud stanoveny. Nejsou dostupné žádné údaje (viz bod 5.1).
+
+Způsob podání
+Intratekální podání.
+
+
+Přípravek Ampres se podává injekčně intratekální cestou do meziobratlových prostorů L2/L3, L3/L4 a L4/L5. Po aspiraci minimálního množství mozkomíšního moku k potvrzení správného zavedení jehly se pomalu injikuje celá dávka. Je nutné mimořádně pečlivě kontrolovat vitální funkce pacienta a udržovat verbální kontakt.
+K jednorázovému použití.
+Před použitím se musí přípravek vizuálně zkontrolovat. Použity mohou být pouze čiré roztoky neobsahující prakticky žádné částice. Neporušený obal se nesmí znovu sterilizovat v autoklávu.
+
+
+
+
+
+
+2
+
+4.3 Kontraindikace
+-  Hypersenzitivita na léčivou látku, léčivé přípravky ze skupiny esterů PABA (kyseliny paraaminobenzoové), na jiná esterová lokální anestetika nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-  Je nutno vzít v úvahu všechny obecné a specifické kontraindikace spinální anestezie bez ohledu na použité lokální anestetikum (např. dekompenzovaná srdeční insuficience, hypovolemický šok).
+-  Intravenózní regionální anestezie (anestetikum je zavedeno do končetiny a nechá se působit, přičemž je látka pomocí škrtidla zadržována v příslušné oblasti).
+−  Závažné poruchy srdeční vodivosti.
+− Těžká anemie.
+−  Pacienti léčení antikoagulačními přípravky nebo pacienti s vrozenou či získanou poruchou krvácivosti.
+
+
+4.4 Zvláštní upozornění a opatření pro použití
+U některých pacientů je nutná zvláštní pozornost, aby se snížilo riziko závažných nežádoucích účinků, i když lokoregionální anestezie u nich představuje při chirurgické intervenci optimální volbu:
+−  Pacienti s kompletní nebo parciální srdeční blokádou, protože lokální anestetika mohou zhoršovat srdeční vodivost.
+−  Pacienti se srdeční dekompenzací vysokého stupně.
+−  Pacienti s pokročilou poruchou funkce jater nebo ledvin.
+−  Starší pacienti a pacienti ve špatném celkovém zdravotním stavu.
+−  Pacienti léčení antiarytmiky III. třídy (např. amiodaron). Tito pacienti musí být pečlivě sledováni včetně monitorování EKG, protože účinky na srdce mohou být aditivní (viz bod 4.5).
+−  U pacientů s akutní porfyrií se přípravek Ampres má podávat, pouze pokud je k jeho použití naléhavá indikace, protože přípravek Ampres může potenciálně vyvolat ataku porfyrie. U všech pacientů s porfyrií je nutno učinit vhodná opatření.
+−  Protože jsou esterová lokální anestetika hydrolyzována plazmatickou cholinesterázou tvořenou v játrech, má se chlorprokain u pacientů s pokročilým onemocněním jater používat opatrně.
+−  Pacienti s vrozeným deficitem plazmatické cholinesterázy.
+
+Je nezbytné zajistit spolehlivý žilní přístup.
+U vysoce rizikových pacientů se doporučuje zlepšit před intervencí jejich celkový zdravotní stav.
+Vzácný, ale závažný nežádoucí účinek spinální anestezie je vysoký nebo totální spinální blok s následnou kardiovaskulární a respirační depresí. Kardiovaskulární deprese je indukovaná rozsáhlou blokádou sympatického nervového systému, která může způsobit závažnou hypotenzi a bradykardii vrcholící až srdeční zástavou. Respirační deprese je indukována blokádou dýchacích svalů a bránice.
+Zvýšené riziko vysokého nebo totálního spinálního bloku je zejména u starších pacientů: proto se doporučuje snížit dávku anestetika.
+
+
+3
+
+Zejména u starších pacientů může dojít k neočekávanému poklesu arteriálního tlaku jako komplikace spinální
+anestezie.
+Vzácně může po spinální anestezii dojít k neurologickému poškození projevujícímu se paresteziemi, ztrátou citlivosti, motorickou slabostí, paralýzou, syndromem caudae equinae a trvalým neurologickým poškozením. Tyto příznaky mohou občas přetrvávat.
+Neexistují náznaky, že by neurologická onemocnění, jako je roztroušená skleróza, hemiplegie, paraplegie nebo neuromuskulární poruchy, mohly být spinální anestezií negativně ovlivněny. Přesto se má používat s opatrností. Před léčbou se doporučuje pečlivě zhodnotit poměr rizika a přínosů.
+
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce (maximální dávka se rovná
+5 ml přípravku Ampres), to znamená, že je v podstatě „bez sodíku“.
+
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Souběžné podávání vasopresorických látek (např. k léčbě hypotenze při nervové blokádě v porodnictví) a námelových  alkaloidů  s  oxytocinem  může  způsobit  závažnou  perzistentní  hypertenzi  nebo cerebrovaskulární příhody.
+Metabolit chlorprokainu, kyselina paraaminobenzoová, inhibuje účinek sulfonamidů. Proto se chlorprokain nemá používat při žádném onemocnění, při kterém se používají sulfonamidové léčivé přípravky.
+
+Nebyly provedeny žádné studie interakcí mezi chlorprokainem a antiarytmiky III. třídy (např. amiodaron), ale
+i v tomto případě je nutné postupovat opatrně (viz bod 4.4).
+Kombinace různých lokálních anestetik má aditivní účinky postihující kardiovaskulární systém a CNS.
+
+4.6 Fertilita, těhotenství a kojení
+Těhotenství
+Studie na zvířatech jsou, co se vlivu na těhotenství a vývoj plodu týče, nedostatečné (viz bod 5.3).
+Proto se přípravek Ampres nedoporučuje v průběhu těhotenství a u žen ve fertilním věku, které nepoužívají antikoncepci. Použití přípravku Ampres v těhotenství lze zvažovat, pouze pokud předpokládaný přínos pro matku převažuje nad možnými riziky pro plod. To nevylučuje použití přípravku Ampres k anestezii při porodu.
+
+Kojení
+Není známo, zda jsou chlorprokain/jeho metabolity vylučovány do lidského mateřského mléka. Musí se rozhodnout, zda s ohledem na přínos kojení pro dítě a přínos terapie pro ženu se přeruší kojení nebo léčba přípravkem Ampres.
+
+Fertilita
+Nebyly provedeny žádné studie fertility.
+
+
+
+4
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Přípravek Ampres má výrazný vliv na schopnost řídit nebo obsluhovat stroje.
+V každém individuálním případě je za rozhodnutí, zda pacient může řídit nebo obsluhovat stroje, odpovědný lékař.
+
+4.8 Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Možné nežádoucí účinky způsobené použitím přípravku Ampres jsou obecně podobné nežádoucím účinkům jiných lokálních anestetik esterové skupiny při spinální anestezii. Nežádoucí účinky způsobené léčivým přípravkem je obtížné odlišit od fyziologických účinků nervové blokády (např. snížení arteriálního tlaku, bradykardie, přechodná retence moči), od přímých účinků (např. spinální hematom) nebo nepřímých účinků injekce (např. meningitida) nebo od účinků v důsledku ztráty mozkomíšního moku (např. postpunkční bolest hlavy).
+
+Tabulkový souhrn nežádoucích účinků
+Nežádoucí reakce uvedené níže v tabulce 1 jsou klasifikovány dle tříd orgánových systémů. Frekvence nežádoucích účinků uvedených níže je definována podle následující konvence:
+Velmi časté (≥1/10), časté (≥1/100, <1/10), méně časté (≥1/1 000, <1/100), vzácné (≥1/10 000, <1/1 000),
+velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+
+Velmi časté       Časté        Méně časté          Vzácné         Velmi vzácné
+Poruchy imunitního systému
+alergické reakce jako následek přecitlivělosti na lokální anestetika: projevující se známkami, jako je např. kopřivka, pruritus, erytém, angioneurotický edém s možnou obstrukcí dýchacích cest (včetně edému laryngu), tachykardie, kýchání, nauzea, zvracení, závrať, synkopa, nadměrné pocení, zvýšená teplota a možné příznaky anafylaktoidního typu (včetně závažné hypotenze)
+Poranění, otravy a procedurální komplikace
+komplikace anestezie
+Poruchy nervového systému
+
+úzkost, neklid,
+parestezie, závrať
+známky a příznaky
+toxicity CNS (bolest
+neuropatie, ospalost
+přecházející do bezvědomí a
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy oka
+
+Srdeční poruchy
+
+
+
+
+
+
+
+Cévní poruchy
+hypotenze
+v zádech, bolest hlavy, třes případně přecházející v křeče, konvulze, cirkumorální parestezie, pocit necitlivosti jazyka, potíže se sluchem, potíže se zrakem, rozmazané vidění, chvění, tinitus, potíže s řečí, ztráta vědomí)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bradykardie, hypertenze, hypotenze  zhoršená vysokými dávkami
+zástavy dechu, spinální blok různého rozsahu (včetně totálního spinálního bloku), sekundární hypotenze při spinálním bloku, ztráta ovládání močového měchýře a střev, ztráta perineální citlivosti a sexuálních funkcí, arachnoiditida, perzistentní motorický, senzorický a/nebo autonomní (ovládání sfinkterů) deficit některých dolních spinálních segmentů s pomalým zotavováním (několik měsíců), syndrom caudae equinae a trvalé neurologické poškození
+
+diplopie
+
+arytmie, myokardiální deprese, srdeční zástava (riziko se zvyšuje u vysokých dávek nebo po neúmyslné intravaskulární injekci)
+
+Respirační, hrudní a mediastinální poruchy
+
+Gastrointestinální poruchy
+nauzea      zvracení
+
+respirační deprese
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Je nepravděpodobné, že by přípravek Ampres při intratekálním podání v doporučených dávkách způsobil plazmatické hladiny, které by mohly vyvolat systémovou toxicitu.
+6
+
+Akutní systémová toxicita
+Systémové nežádoucí účinky jsou metodologického (v důsledku použití), farmakodynamického nebo farmakokinetického původu a postihují centrální nervový systém a kardiocirkulační systém.
+K iatrogenním nežádoucím účinkům dochází:
+−  po injekční aplikaci nadměrného množství roztoku,
+−  po náhodné injekční aplikaci do cévy,
+−  při nevhodné poloze pacienta,
+−  při vysoké spinální anestezii (významný pokles arteriálního tlaku).
+
+
+V případě náhodného intravenózního podání se toxický účinek projeví do 1 minuty. LD50 intravenózního chlorprokain-hydrochloridu je u myší 97 mg/kg, u morčat 65 mg/kg a <30 mg/kg u psů, což odpovídá v daném pořadí ekvivalentním dávkám u člověka 7,9 mg/kg, 14,1 mg/kg a <16,7 mg/kg. LD50 subkutánního chlorprokain-hydrochloridu je u myší 950 mg/kg, což odpovídá ekvivalentní dávce u člověka 77,2 mg/kg.
+Známky předávkování mohou být rozděleny do dvou různých souborů symptomů lišících se vlastnostmi a
+intenzitou:
+
+
+Symptomy postihující centrální nervový systém
+Prvními příznaky jsou obecně parestezie v oblasti úst, pocit necitlivosti jazyka, pocit obluzenosti, potíže se sluchem a tinitus. Potíže se zrakem a svalové kontrakce jsou závažnější a předcházejí generalizovaným konvulzím. Tyto známky nesmí být chybně pokládány za neurotické chování. Později může dojít ke ztrátě vědomí a k tonicko-klonickým záchvatům, které obvykle trvají od několika sekund do několika minut. Po křečích dochází bezprostředně k hypoxii a zvýšenému obsahu oxidu uhličitého v krvi (hyperkapnii), kterou lze přisoudit zvýšené svalové aktivitě spojené s respiračními potížemi. V závažných případech může dojít k dechové zástavě. Acidóza a/nebo hypoxie potencují toxické účinky lokálních anestetik.
+Zmírnění nebo zlepšení příznaků postihujících centrální nervový systém lze přisoudit redistribuci lokálního anestetika mimo CNS a jeho následnému metabolismu a exkreci. Ústup může být rychlý, pokud nebyla použita enormní množství.
+
+Kardiovaskulární symptomy
+V závažných případech může dojít ke kardiovaskulární toxicitě. Při vysokých systémových koncentracích lokálních anestetik může dojít k hypotenzi, bradykardii, arytmii a také k srdeční zástavě.
+Toxickým kardiovaskulárním účinkům obvykle předcházejí první známky toxických příznaků postihujících centrální nervový systém. To však neplatí, pokud je pacient v celkové anestezii nebo mu byla podána vyšší dávka sedativ, jako jsou benzodiazepiny nebo barbituráty.
+
+Léčba akutní systémové toxicity
+Je nutné okamžitě učinit následující opatření:
+
+7
+
+−  Podávání přípravku Ampres musí být zastaveno.
+−  Musí být zajištěn dostatečný přívod kyslíku: dýchací cesty musí být udržovány průchodné, musí být podáván O2 a v případě potřeby použita umělá ventilace (intubace).
+−  V případě kardiovaskulární deprese musí být stabilizován oběh.
+Dojde-li ke křečím, které neustoupí spontánně do 15-20 sekund, doporučuje se podat intravenózní
+antikonvulzivum.
+Centrální analeptika jsou v případě intoxikace lokálními anestetiky kontraindikována!
+V případě závažných komplikací je žádoucí přizvat k léčbě pacienta lékaře specializovaného v urgentní medicíně a resuscitaci (např. anesteziologa).
+Pacientům s vrozeným deficitem plazmatické cholinesterázy může být podán intravenózně roztok lipidů.
+
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: lokální anestetika; estery kyseliny aminobenzoové ATC kód: N01BA04
+Chlorprokain je lokální esterové anestetikum. Chlorprokain blokuje tvorbu a vedení nervových impulzů, pravděpodobně zvýšením prahu pro elektrickou excitaci nervů, zpomalením šíření nervových impulzů a snížením amplitudy akčního potenciálu.
+
+Jeho aktivita po intratekálním podání nastupuje velmi rychle (9,6 minut ± 7,3 minut pro dávku 40 mg, 7,9 minut ± 6,0 minut pro dávku 50 mg) a doba trvání anestezie může dosáhnout 100 minut.
+
+Pediatrická populace
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s přípravkem
+Ampres u všech podskupin pediatrické populace v indikaci spinální anestezie.
+
+5.2 Farmakokinetické vlastnosti
+Absorpce a distribuce
+Plazmatická koncentrace má být při intratekálním podání zanedbatelná.
+
+
+Biotransformace
+Chlorprokain se v plazmě rychle metabolizuje hydrolýzou esterové vazby pseudocholinesterázou. Tento proces může být v případě deficitu pseudocholinesterázy zpomalen.
+Hydrolýzou chlorprokainu vzniká ß-diethylaminoethanol a kyselina 2-chloro-4-aminobenzoová.
+Plazmatický poločas chlorprokainu u dospělých in vitro je 21 ± 2 sekundy u mužů a 25 ± 1 sekunda u žen. Plazmatický poločas chlorprokainu u novorozenců in vitro je 43 ± 2 sekund. U žen byl změřen plazmatický poločas in vivo 3,1 ± 1,6 minut.
+8
+
+Eliminace
+Metabolity, ß-diethylaminoethanol a kyselina 2-chloro-4-aminobenzoová, se vylučují ledvinami do moči.
+
+Farmakokinetika v páteři
+K eliminaci chlorprokainu z mozkomíšního moku dochází výhradně difuzí a cévní resorpcí, buď v nervových tkáních v intratekálním prostoru, nebo průnikem durou ve směru koncentračního gradientu mezi mozkomíšním mokem a epidurálním prostorem. Poté dochází k resorpci chlorprokainu v cévách. Rozhodujícími faktory určujícími rychlost resorpce jsou krevní průtok v místě a kompetitivní vazba na místní tkáně, nikoli však enzymatická hydrolýza v mozkomíšním moku. U pacientů s deficitem cholinesterázy lze po intratekální injekci předpokládat velmi nízké plazmatické hladiny chlorprokainu. Eliminace chlorprokainu z mozkomíšního moku difuzí přes duru do epidurálního prostoru s následnou systémovou resorpcí nemusí být narušena v klinicky významné míře.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+Co se týká akutní toxicity po intravenózním podání 2-chlorprokainu viz bod 4.9.
+V neklinických studiích byly účinky pozorovány pouze v expozicích považovaných za značně převyšující maximální expozici u člověka, což svědčí o malém významu při klinickém použití.
+S chlorprokainem nebyly provedeny žádné studie na zvířatech k hodnocení kancerogenního potenciálu, reprodukční a vývojové toxicity.
+Genotoxické studie in vitro neprokázaly u 2-chlorprokainu relevantní mutagenní nebo klastogenní potenciál.
+
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+kyselina chlorovodíková (k úpravě pH)
+chlorid sodný
+voda pro injekci
+
+
+6.2 Inkompatibility
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+
+6.3 Doba použitelnosti
+2 roky.
+Tento léčivý přípravek musí být použit ihned po prvním otevření.
+
+6.4 Zvláštní opatření pro uchovávání
+
+
+9
+
+Uchovávejte při teplotě do 25 °C. Chraňte před chladem nebo mrazem. Ampulku uchovávejte v krabičce, aby byl přípravek chráněn před světlem.
+
+6.5 Druh obalu a obsah balení
+Ampulka z čirého bezbarvého skla třídy I.
+Krabička obsahuje 10 ampulek po 5 ml injekčního roztoku.
+
+6.6 Zvláštní opatření pro likvidaci přípravku
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+B. Braun Melsungen AG Carl-Braun-Strasse 1
+34212 Melsungen
+Německo
+Poštovní adresa:
+B. Braun Melsungen AG 34209 Melsungen Německo
+
+8. REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+01/333/18-C
+
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 28. 7. 2020
+
+
+10. DATUM REVIZE TEXTU
+
+28. 7. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

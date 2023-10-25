@@ -1,0 +1,461 @@
+sp. zn. sukls127391/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+CAPD/DPCA 2
+CAPD/DPCA 3
+CAPD/DPCA 4
+Roztok pro peritoneální dialýzu
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+1 litr obsahuje:
+
+
+CAPD/DPCA
+Calcii chloridum dihydricum Natrii chloridum
+Natrii (S)-lactatis solutio
+(odpovídá natrii (S)-lactas) Magnesii chloridum hexahydricum Glucosum monohydricum
+(odpovídá glucosum)
+Ca2+
+Na⁺ Mg2+
+Cl⁻
+(S)-Laktát Glucosum
+2
+0,2573 g
+5,786 g
+7,85 g
+(3,925 g)
+0,1017 g
+16,5 g
+(15,0 g)
+
+1,75 mmol/l
+134 mmol/l
+0,5 mmol/l
+103,5 mmol/l
+35 mmol/l
+83,2 mmol/l
+3
+0,2573 g
+5,786 g
+7,85 g
+(3,925 g)
+0,1017 g
+46,75 g
+(42,5 g)
+
+1,75 mmol/l
+134 mmol/l
+0,5 mmol/l 103,5mmol/l 35 mmol/l
+235,8 mmol/l
+4
+0,2573 g
+5,786 g
+7,85 g
+(3,925 g)
+0,1017 g
+25,0 g
+(22,73 g)
+
+1,75 mmol/l
+134 mmol/l
+0,5 mmol/l
+103,5 mmol/l
+35 mmol/l
+126,1 mmol/l
+
+CAPD/DPCA 2 může obsahovat maximálně 0,75 g/l fruktózy CAPD/DPCA 3 může obsahovat maximálně 2,1 g/l fruktózy. CAPD/DPCA 4 může obsahovat maximálně 1,1 g/l fruktózy. Viz bod 4.3.
+Úplný seznam pomocných látek viz bod 6.1
+
+3.   LÉKOVÁ FORMA
+
+Roztok pro peritoneální dialýzu.
+Popis přípravku: čirý, bezbarvý, nejvýše nažloutlý roztok.
+CAPD/DPCA                   2          3         4
+teoretická osmolarita             358 mOsm/l    511 mOsm/l   401 mOsm/l
+pH ≈                           5,5         5,5        5,5
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Dekompenzované chronické renální selhání různého původu, které lze léčit peritoneální dialýzou.
+
+4.2  Dávkování a způsob podání Dávkování
+CAPD/DPCA je indikován výlučně pro intraperitoneální podání.
+
+Způsob terapie, frekvence podávání a požadovaná doba prodlevy v peritoneu budou
+určeny ošetřujícím lékařem.
+
+Kontinuální ambulantní peritoneální dialýza (CAPD)
+Dospělí:
+Není-li stanoveno jinak, podává se pacientům infuze 2000 ml roztoku na výměnu čtyřikrát denně. Po uplynutí doby ponechání v peritoneu od 2 do 10 hodin se roztok vypustí.
+
+U jednotlivých pacientů může být nutná individuální úprava dávkování, objemu a počtu výměn.
+
+Pokud se na začátku terapie objeví bolesti z napětí v břišní dutině, množství dialyzátu
+se má dočasně snížit na 500–1500 ml na jednu výměnu.
+
+U pacientů s vyšší tělesnou hmotností a ztrátou reziduální renální funkce bude nutné zvýšit objem dialyzačního roztoku. U těchto pacientů nebo u pacientů, kteří tolerují větší objemy, může být podávána dávka 2500–3000 ml roztoku na výměnu.
+
+Pediatrická populace:
+U dětí se má objem roztoku na jednu výměnu předepsat podle věku a tělesného povrchu
+(BSA).
+Při úvodní indikaci má být objem na výměnu 600–800 ml/m² tělesného povrchu se 4 (někdy 3 nebo 5) výměnami denně. Může být zvýšen na 1000–1200 ml/m² tělesného povrchu podle tolerance, věku a reziduální funkce ledvin.
+
+Automatizovaná peritoneální dialýza (APD)
+Pokud se používá přístroj (sleep•safe cycler nebo PD-NIGHT cycler) pro intermitentní nebo kontinuální cyklickou peritoneální dialýzu, používají se vaky s větším obsahem (např. 5000 ml), které umožňují více než jednu výměnu roztoku. Cycler provádí výměnu roztoku podle lékařského předpisu uloženého v cycleru.
+
+Dospělí:
+Obvyklá doba strávená na cycleru je 8–10 hodin za noc. Rozmezí objemů ponechaných v peritoneu je 1500 až 3000 ml a počet cyklů se obvykle pohybuje od 3 do 10 za noc. Obvyklé množství použité tekutiny je od 10 do 18 litrů, ale může se pohybovat od 6 do
+
+30 litrů. Léčba na cycleru v noci se obvykle kombinuje s 1 nebo 2 výměnami během
+dne.
+
+Pediatrická populace:
+Objem na výměnu má být 800–1000 ml/m² tělesného povrchu s 5–10 výměnami za noc. Může se zvýšit až na 1 400 ml/m² tělesného povrchu v závislosti na toleranci, věku a reziduální funkci ledvin.
+
+Žádná zvláštní doporučení pro dávkování u starších pacientů nejsou k dispozici.
+Peritoneální dialýza je dlouhodobá léčba zahrnující opakovaná podávání jednotlivých roztoků.
+
+Způsob podání
+
+Pacienti musí být vhodným způsobem proškoleni, musí si vyzkoušet techniku a musí prokázat dovednosti v provádění peritoneální dialýzy před jejím provedením doma. Školení musí být provedeno kvalifikovaným personálem. Ošetřující lékař musí zajistit, že pacient dostatečně ovládá techniky manipulace předtím, než bude provádět peritoneální dialýzu doma. V případě jakýchkoli problémů nebo nejistot má být kontaktován ošetřující lékař.
+
+Dialýza pomocí předepsaných dávek má být prováděna denně a má pokračovat tak dlouho, dokud je nutná substituce renálních funkcí.
+
+Kontinuální ambulantní peritoneální dialýza (CAPD): stay•safe vak
+Vak s roztokem se nejprve zahřeje na tělesnou teplotu. Pro podrobosti viz bod 6.6.
+Vhodná dávka je po dobu 5–20 minut zaváděna v infuzi do peritoneální dutiny s použitím peritoneálního katétru. V závislosti na instrukcích lékaře se dávka
+ponechává v peritoneální dutině po dobu 2–10 hodin (rovnovážná doba), poté má být vypuštěna a nahrazena.
+
+Automatizovaná peritoneální dialýza (APD): sleep•safe vak
+Konektory předepsaných vaků s roztokem sleep•safe se zavedou do volné zásuvky přístroje
+sleep•safe a pak se automaticky připojí k soupravě hadiček sleep•safe cycleru. Cycler
+zkontroluje čárové kódy vaků s roztokem, a pokud vaky neodpovídají předpisu uloženému v cycleru, ozve se alarm. Po této kontrole může být systém hadiček připojen k prodloužení katetru pacienta a léčba může začít. Roztok sleep•safe se automaticky zahřívá na tělesnou teplotu v cycleru sleep•safe během průtoku do břišní dutiny. Doba ponechání a výběr
+koncentrací glukózy se provádí podle lékařského předpisu uloženého v cycleru (pro více podrobností si prosím přečtěte návod k obsluze cycleru sleep•safe).
+
+Podle požadovaného osmotického tlaku může být CAPD/DPCA 2 použit v kombinaci s jiným roztokem pro peritoneální dialýzu s vyšším obsahem glukózy (tj. s vyšší osmolaritou).
+
+Podle požadovaného osmotického tlaku může být CAPD/DPCA 3 použit v kombinaci s jiným roztokem pro peritoneální dialýzu s nižším obsahem glukózy (tj. s nižší osmolaritou).
+
+Podle požadovaného osmotického tlaku může být CAPD/DPCA 4 použit v kombinaci s jiným roztokem pro peritoneální dialýzu s nižším nebo vyšším obsahem glukózy (tj. s nižší nebo vyšší osmolaritou).
+
+4.3  Kontraindikace
+
+Pro tento konkrétní roztok pro peritoneální dialýzu
+CAPD/DPCA 2 a CAPD/DPCA 4 se nesmí používat u pacientů s laktátovou acidózou, závažnou hypokalemií a závažnou hyperkalcemií.
+
+CAPD/DPCA 3 se nesmí používat u pacientů s laktátovou acidózou, závažnou
+hypokalemií, závažnou hyperkalcemií, hypovolemií a arteriální hypotenzí.
+
+Vzhledem k obsahu fruktózy není tento léčivý přípravek vhodný u pacientů s intolerancí  fruktózy  (dědičná  intolerance  fruktózy).  Nerozpoznaná  dědičná intolerance fruktózy musí být vyloučena před podáním malým dětem a novorozencům. Pro peritoneální dialýzu obecně:
+Peritoneální dialýza nesmí být prováděna v těchto případech:
+-  nedávná břišní operace nebo úraz, anamnéza břišní operace s vazivovými adhezemi, závažné břišní popáleniny, perforace střeva
+-  rozsáhlé zánětlivé stavy kůže břicha (dermatitida)
+-  zánětlivá  onemocnění  střev  (Crohnova  nemoc,  ulcerózní  kolitida,
+divertikulitida)
+-  peritonitida
+-  vnitřní nebo zevní abdominální píštěl
+-  pupeční, tříselná nebo jiná abdominální kýla
+-  nitrobřišní nádory
+-  ileus
+-  plicní onemocnění (zejména pneumonie)
+-  sepse
+-  extrémní hyperlipidemie
+-  vzácné případy uremie, kterou nelze zvládnout peritoneální dialýzou
+-  kachexie a závažný úbytek tělesné hmotnosti, zvláště v případech, kdy není možné zaručit odpovídající příjem proteinů.
+-  u pacientů, kteří jsou fyzicky nebo mentálně neschopni vykonávat peritoneální dialýzu podle instrukcí lékaře.
+Pokud se během léčby peritoneální dialýzou vyvine jakýkoliv z výše uvedených stavů, o dalším postupu léčby rozhodne ošetřující lékař.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Roztok pro peritoneální dialýzu nesmí být použit intravenózně.
+
+CAPD/DPCA se má podávat pouze po pečlivém vyhodnocení poměru přínosu a rizika
+u:
+-  ztráty elektrolytů v důsledku zvracení a/nebo průjmu (může být nutná dočasná změna na roztok pro peritoneální dialýzu s obsahem draslíku)
+
+-  u hyperkalcemie, např. v důsledku vysokých dávek kalciových vazačů fosforu a/nebo vitaminu D, je nutné dočasně nebo trvale použít roztoku s nižším
+obsahem vápníku.
+-  u pacientů léčených digitalisem: pravidelné monitorování hladiny draslíku
+v séru je nezbytné. Závažná hypokalemie může vyžadovat použití
+dialyzačního roztoku obsahujícího draslík spolu s dietním poradenstvím.
+
+Roztoky pro peritoneální dialýzu s vysokou koncentrací glukózy (2,3 % nebo 4,25 %) se mají používat s opatrností z důvodu ochrany peritoneální membrány, zabránění dehydratace a snížení zatížení glukózou.
+
+Během peritoneální dialýzy dochází ke ztrátě proteinů, aminokyselin a vitaminů
+rozpustných ve vodě. Aby nedošlo k těmto deficitům, je třeba zajistit odpovídající
+dietu nebo suplementaci.
+
+Během dlouhotrvající peritoneální dialýzy se může změnit propouštěcí schopnost peritoneální membrány, primárně indikovaná úbytkem ultrafiltrace. Ve vážných případech musí být zastavena peritoneální dialýza a zavedena hemodialýza.
+
+Je doporučeno pravidelné monitorování následujících parametrů:
+-  tělesná hmotnost pro časné rozpoznání hyperhydratace a dehydratace
+-  hladina sodíku, draslíku, vápníku, hořčíku, fosfátu v séru, acidobazická rovnováha a hladina bílkovin v krvi
+-  kreatinin v séru a močovina
+-  hladina cukru v krvi
+-  parathormon a další indikátory kostního metabolismu
+-  reziduální renální funkce pro úpravu léčby pomocí peritoneální dialýzy
+
+CAPD/DPCA 2 obsahuje 15 g glukózy v 1 000 ml roztoku. V závislosti na instrukcích pro dávkování a použité velikosti balení je dodáno tělu až 38 g glukózy (CAPD: 2500 ml stay•safe) nebo až 75 g glukózy (APD: 5000 ml sleep•safe) v každém vaku. To je nutné zvážit u pacientů s diabetem mellitem.
+
+CAPD/DPCA 3  obsahuje  42,5 g  glukózy  v 1 000 ml  roztoku.  V závislosti  na instrukcích pro dávkování a použité velikosti balení je dodáno tělu až 106 g glukózy (CAPD: 2500 ml stay•safe) nebo až 212,5 g glukózy (APD: 5000 ml sleep•safe) v každém vaku. To je nutné zvážit u pacientů s diabetem mellitem.
+
+CAPD/DPCA 4 obsahuje 22,73 g glukózy v 1 000 ml roztoku. V závislosti na instrukcích pro dávkování a použité velikosti balení je dodáno tělu až 57 g glukózy (CAPD: 2500 ml stay•safe) nebo až 113,65 g glukózy (APD: 5000 ml sleep•safe) v každém vaku. To je nutné zvážit u pacientů s diabetem mellitem.
+
+Je nutné sledovat objem a čistotu vypouštěného dialyzátu. Zákal a/nebo bolesti břicha
+mohou indikovat peritonitidu.
+
+Enkapsulující peritoneální skleróza je považována za známou vzácnou komplikaci peritoneální dialýzy, která může vést k fatálním následkům.
+
+Starší pacienti
+
+U starších pacientů musí být před peritoneální dialýzou zvážen častější výskyt kýly.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Používání roztoku pro peritoneální dialýzu může snížit působení jiných léků, které prostupují peritoneální membránou. Proto dávkování těchto léků může být nutné upravit.
+Výrazné snížení hladiny draslíku v séru může zvýšit frekvenci nežádoucích účinků souvisejících s digitalisem. Hladiny draslíku musí být pečlivě monitorovány, zvláště během současné léčbě digitalisovými přípravky.
+Souběžné podávání sloučenin vápníku nebo vitamin D může způsobit hyperkalcemii. Souběžné podávání diuretik může pomoci udržování zbývající funkce ledvin, ale zároveň může vést k nerovnováze tekutin a elektrolytů.
+U pacientů s diabetem musí být upravena denní dávka inzulinu nebo perorálních
+antidiabetik podle zvýšeného příjmu glukózy.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Nejsou k dispozici žádné údaje o použití CAPD/DPCA u těhotných žen. Studie reprodukční toxicity na zvířatech nebyly provedeny (viz bod 5.3). CAPD/DPCA se nemá používat v těhotenství, pokud klinický stav ženy nevyžaduje léčbu pomocí CAPD/DPCA.
+
+Kojení
+Není známo, zda jsou léčivé látky/metabolity CAPD/DPCA vylučovány do mateřského mléka. Kojení není u matek na peritoneální dialýze doporučeno.
+
+
+Fertilita
+Nejsou k dispozici žádné údaje.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+CAPD/DPCA nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo
+obsluhovat stroje.
+4.8  Nežádoucí účinky
+Nežádoucí účinky mohou být vyvolané samotnou peritoneální dialýzou, nebo způsobené dialyzačním roztokem.
+
+Nežádoucí účinky jsou seřazeny podle frekvence hlášení následujícím způsobem:
+
+
+Velmi časté Časté
+Méně časté Vzácné Velmi vzácné Není známo
+≥1/10
+≥1/100 až <1/10
+≥1/1 000 až <1/100
+≥1/10 000 až <1/1 000
+<1/10 000
+Z dostupných údajů nelze určit
+
+Možné nežádoucí účinky roztoku pro peritoneální dialýzu
+Poruchy metabolismu a výživy
+-  Zvýšená hladina cukru v krvi (časté)
+-  Zvýšen tělesné hmotnosti v důsledku kontinuálního vychytávání glukózy
+z roztoku pro peritoneální dialýzu (časté)
+-  Hyperlipidemie nebo zhoršení stávající hyperlipidemie (časté)
+-  Poruchy hydratace (méně časté) projevují se buď rychlým snížením (dehydratace) nebo zvýšením (hyperhydratace) tělesné hmotnosti. Závažná dehydratace může nastat při používání roztoků s vyšším obsahem glukózy.
+Srdeční a cévní poruchy
+-  Hypotenze (méně časté)
+-  Tachykardie (méně časté
+-  Hypertenze (méně časté)
+Respirační, hrudní a mediastinální poruchy
+-  Dyspnoe (méně časté)
+Poruchy ledvin a močových cest
+-  Poruchy elektrolytů, např. hypokalemie (velmi časté)
+-  Může se objevit hyperkalcemie (časté), pokud se zvýší příjem vápníku, např. při současném podávání kalciových vazačů fosfátů.
+Celkové poruchy a reakce v místě aplikace
+-  Závrať (méně časté)
+-  Otok (méně časté)
+-
+
+Možné nežádoucí účinky způsobu léčby
+Infekce a infestace
+-  Peritonitida (velmi časté) projevují se zakaleným vypouštěným dialyzátem. Později se může objevit bolest břicha, horečka a celková malátnost nebo ve velmi vzácných případech sepse. Pacient má okamžitě vyhledat lékaře.
+Vak se zakaleným vypouštěným dialyzačním roztokem má být uzavřen
+sterilním uzávěrem a odeslán na mikrobiologické vyšetření a stanovení počtu leukocytů.
+-  Infekce místa výstupu z kůže a průběhu katétru (velmi časté) projevují se zarudnutím, otokem, exudací, krustami a bolestí v místě výstupu katétru.
+V případě infekce místa výstupu z kůže a průběhu katétru má být co možná nejdříve vyhledán lékař.
+Respirační, hrudní a mediastinální poruchy
+-   Dyspnoe způsobená vzedmutím bránice (není známo)
+Gastrointestinální poruchy
+-  Kýla (velmi časté)
+-  Abdominální distenze a pocit plnosti (časté)
+-  Průjem (méně časté)
+-  Zácpa (méně časté)
+-  Enkapsulující peritoneální skleróza (není známo)
+
+Poranění, otravy a procedurální komplikace
+-   Poruchy napouštění a vypouštění dialyzačního roztoku (časté)
+-  Bolest ramena (časté)
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+V souvislosti s předávkováním nebyly hlášeny žádné závažné události.
+
+Pokud došlo k napuštění nadměrného množství dialyzačního roztoku, může být
+jednoduše vypuštěn do prázdného vaku. Pokud ovšem dochází k příliš časté výměně vaků, může se objevit dehydratace a/nebo problémy s obsahem elektrolytů v krvi, které vyžadují okamžitou lékařskou péči. Pokud byla výměna vynechána, je nutné
+kontaktovat lékaře nebo dialyzační centrum.
+
+Nesprávná rovnováha tekutin může vést k hyperhydrataci nebo dehydrataci a k narušení elektrolytové rovnováhy.
+
+Nejpravděpodobnějším důsledkem předávkování CAPD/DPCA je dehydratace. Nízké dávky, přerušení nebo zastavení léčby může vézt k životu nebezpečné hyperhydrataci s periferním edémem a kardiální dekompenzací a/nebo k jiným projevům uremie, které mohou ohrozit život.
+
+Musí být použita všeobecně uznávaná pravidla pro neodkladnou péči a musí být zahájena intenzivní léčba. Pacient může vyžadovat okamžitou hemodialýzu.
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1.  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: peritoneální dialýza, hypertonické roztoky ATC kód: B05DB
+
+CAPD/DPCA představuje laktátem tlumený roztok elektrolytů obsahující glukózu, s indikací peritoneálně aplikované dialýzy dekompenzovaného renálního onemocnění různého původu.
+
+Pro kontinuální ambulantní peritoneální dialýzu (CAPD) je charakteristická víceméně nepřetržitá přítomnost většinou 2 litrů dialyzačního roztoku v peritoneální dutině, který je nahrazován čerstvým roztokem třikrát až pětkrát denně.
+
+Základním principem peritoneální dialýzy je použití peritonea jako semipermeabilní membrány, která dovoluje výměnu rozpuštěných látek a vody mezi krví a dialyzačním roztokem, a to difuzí a přenosem podle jejich fyzikálně-chemických vlastností.
+
+Elektrolytový profil roztoku je v podstatě stejný jako u fyziologického séra, ačkoli byl upraven (např. obsah draslíku) pro použití u pacientů s urémií, aby umožňoval terapii nahrazující funkci ledvin pomocí interperitoneální substance a výměny tekutin. Látky, které jsou normálně vylučovány močí jako uremické odpadní produkty, například močovina a kreatinin, anorganický fosfát, kyselina močová, další rozpuštěné látky a voda, jsou odstraňovány z těla do dialyzačního roztoku. Je třeba si uvědomit, že během dialýzy mohou být rovněž vylučovány z těla léčivé látky, a proto je nutné jejich dávkování přizpůsobit.
+
+Musí být použity jednotlivé parametry (jako je výška pacienta, tělesná hmotnost, laboratorní parametry, reziduální renální funkce, ultrafiltrace) pro stanovení dávky a kombinace nezbytných roztoků s různou osmolaritou (obsah glukózy), koncentracemi draslíku, sodíku a vápníku. Účinnost léčby má být pravidelně sledována na základě těchto parametrů.
+
+Roztoky pro peritoneální dialýzu s vyšší koncentrací glukózy (2,3 % nebo 4,25 %) se používají v případech, kdy tělesná hmotnost je nad požadovanou suchou hmotností. Ztráta tekutin z těla se zvyšuje úměrně koncentraci glukózy v roztoku pro peritoneální dialýzu.
+
+Homeostáza hydratovaného stavu může být udržována podáváním různých koncentrací glukózy v roztoku vyvolávajícím odvádění tekutin (ultrafiltrace).
+
+Metabolická acidóza, druhotná při dekompenzovaném renálním onemocnění, je vyvážena přítomností laktátu v roztoku. Celkový metabolismus laktátu vede k vytváření bikarbonátu.
+
+
+
+5.2  Farmakokinetické vlastnosti
+Uremické odpadní produkty (močovina, kreatinin, kyselina močová), anogranický fosfát a elektrolyty jako sodík, draslík, vápník a hořčík jsou odstraňovány z těla do dialyzačního roztoku difuzí a konvekcí.
+Dialyzační glukóza, použitá v CAPD/DPCA jako osmotický prostředek, je pomalu absorbována  za  snižování  difúzního  gradientu  mezi  dialyzačním  roztokem  a extracelulární tekutinou. Ultrafiltrace je maximální na začátku časového intervalu a dosahuje vrcholu přibližně po 2 až 3 hodinách. Později začíná absorpce s progresivním úbytkem ultrafiltrátu. 60 až 80 % glukózy dialyzátu je absorbováno. S-laktát používaný jako tlumivý roztok je po šestihodinovém intervalu takřka zcela absorbován. U pacientů s normální funkcí jater je (S)-laktát rychle metabolizován; to se projeví normálními hodnotami intermediálních metabolitů.
+Hromadný přesun vápníku závisí na koncentraci glukózy v dialyzačním roztoku, na vypouštěném objemu, na množství ionizovaného vápníku v séru a na koncentraci vápníku v dialyzačním roztoku. Čím vyšší je koncentrace glukózy, vypouštění objem a
+
+koncentrace ionizovaného vápníku v séru, a zároveň čím nižší je koncentrace vápníku v dialyzačním roztoku, tím vyšší je přesun vápníku od pacienta do dialyzátu.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+S CAPD/DPCA nebyly prováděny žádné preklinické studie toxicity, ale klinické studie peritoneálního dialyzačního roztoku s podobným složením neindikovaly žádné vážné riziko toxicity.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Kyselina chlorovodíková 25%    (pro úpravu pH) Hydroxid sodný            (pro úpravu pH) Voda pro injekci
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3  Doba použitelnosti
+
+2 roky
+
+Doba použitelnosti po prvním otevření: obsah musí být použit okamžitě.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Chraňte před chladem nebo mrazem.
+6.5  Druh obalu a obsah balení
+stay•safe:
+stay•safe je systém se dvěma vaky, obsahující vak pro roztok z vícevrstvé polyolefinové folie, systém hadiček z polyolefinu, konektor systému (DISC) s otočným přepínačem (polypropylen) a drenážní vak z vícevrstvé polyolefinové fólie; vše zataveno ve fólii.
+
+sleep•safe:
+sleep•safe systém je systém s jedním vakem z vícevrstvé polyolefínové fólie, systém hadiček a konektor z polyolefínové fólie a vstřikovací výstup z polyolefínosyntetické pryže; vše zataveno ve fólii.
+
+Velikost balení:
+stay•safe
+
+1 x 3 000 ml
+1 x 2 000 ml
+1 x 2 500 ml     sleep•safe
+
+2 x 5000 ml
+4 x 2000 ml      1 x 5000 ml
+4 x 2500 ml
+3 x 3000 ml
+
+
+Na trhu nemusí být všechny velikosti balení
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky na likvidaci.
+
+Návod k použití systému stay•safe:
+
+Vak s roztokem se nejprve zahřeje na tělesnou teplotu. Pro vaky s objemem až 3 000 ml má být provedeno pomocí příslušného ohřívacího zařízení. Doba ohřevu 2 000 ml vaku s počáteční teplotou 22 °C je přibližně 120 min. Kontrola teploty se provádí automaticky a je nastavena na 39 °C ± 1 °C. Podrobnější informace lze získat z návodu k obsluze zařízení na ohřívání vaků. Použití mikrovlnné trouba není doporučeno z důvodu lokálního přehřátí.
+1.  Zkontrolujte vak s roztokem (etiketa, datum použitelnosti, čirost roztoku, neporušenost vaku a přebalu) 🡂 otevřete přebal vaku a balení dezinfekční čepičky.
+2.  Umyjte si ruce dezinfekčním mycím přípravkem.
+3.  Umístěte DISC do organizéru (zavěste vak s roztokem na horní závěs infuzního stojanu 🡂 rozviňte set od vaku s nápisem „solution bag-DISC“ 🡂 umístěte DISC do organizéru 🡂 zavěste odpadní vak na spodní závěs infuzního stojanu).
+4.  Vložte prodloužení katétru do jednoho ze dvou vstupů organizéru. 🡂 Vložte novou dezinfekční čepičku do dalšího volného vstupu.
+5.  Vydezinfikujte si ruce a odstraňte ochrannou čepičku z DISCu.
+6.  Připojte prodloužení katétru k DISCu.
+7.  Otevřete tlačku katétru 🡂 poloha "(" 🡂vypouštění je zahájeno.
+8.  Po ukončení vypouštění: Proplachování 🡂 poloha "((" 🡂 propláchnutí čerstvým dialyzátem do vypouštěcího vaku (přibližně 5 sekund).
+9.  Napouštění🡂 poloha "∗)(" 🡂 propojení vaku s katétrem.
+10.  Bezpečnostní krok 🡂 poloha "(((("🡂uzavření prodloužení katétru PINem.
+11.  Rozpojení 🡂 odstraňte ochrannou čepičku z nové dezinfekční čepičky a
+přišroubujte ji na starou dezinfekční čepičku 🡂 odšroubujte prodloužení katétru z DISCu a přišroubujte prodloužení katétru na novou dezinfekční čepičku.
+12.  Uzavřete DISC otevřeným koncem použité dezinfekční čepičky (která zůstala v pravém otvoru organizéru).
+13.  Zkontrolujte čirost a váhu vypouštěného dialyzátu a pokud je roztok čistý,
+zlikvidujte jej.
+
+Návod k použití systému sleep•safe (pro nastavení systému sleep•safe si prosím přečtěte návod k použití):
+
+1. Příprava roztoku
+🡂Zkontrolujte vak s roztokem (etiketa, datum použitelnosti, čirost roztoku, neporušenost
+
+vaku a obalu). 🡂 Položte vak na pevnou podložku. 🡂 Otevřete ochranný přebal vaku. 🡂 Umyjte si ruce dezinfekčním mycím přípravkem. 🡂 Zkontrolujte, zda je roztok čirý a vak neprosakuje.
+2. Odviňte hadičky vaku.
+3. Sejměte ochranné víčko.
+4. Vložte konektor do volného portu sytému sleep•safe.
+5. Nyní je vak připraven k použití se systémem sleep•safe.
+
+Viz také bod 4.2.
+
+Manipulace
+Plastové obaly mohou být občas poškozeny při přepravě nebo při uchovávání. To může způsobit kontaminaci a produkci mikroorganismů v dialyzačním roztoku. Proto musí být před připojením vaku a použitím dialyzačního roztoku vždy provedena pečlivá kontrola. Každé, i malé poškození uzávěru a svárů nebo okrajů obalu musí být prověřeno, protože roztok by mohl být kontaminován.
+
+Poškozené vaky nebo vaky se zakaleným obsahem se nesmí nikdy použít! Pokud
+budete mít pochybnosti, má ošetřující lékař rozhodnout o použití roztoku.
+
+Používejte roztok pro peritoneální dialýzu, pouze pokud kontejner a uzávěr nenesou žádné známky poškození.
+
+Vnější obal má být odstraněn pouze před podáním.
+
+V průběhu výměny vaků s roztokem musí být udržovány aseptické podmínky, aby se snížilo riziko infekce.
+
+Přidání léků do dialyzačního roztoku:
+Obecně se nedoporučuje do roztoku pro peritoneální dialýzu přidávat léky z důvodu nebezpečí kontaminace a inkompatibility přidaného léku s dialyzátem.
+Při přidávání léků použijte aseptickou techniku, důkladně je promíchejte a po kontrole nepřítomnosti zákalu, ke kterému může dojít v důsledku inkompatibility, musí být roztok pro peritoneální dialýzu použit okamžitě.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Medical Care Deutschland GmbH, Else-Kröner-Straße 1,
+61352 Bad Homburg v.d.H.,
+Německo
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+CAPD/DPCA 2: 87/385/95-A/C
+CAPD/DPCA 3: 87/385/95-B/C
+CAPD/DPCA 4: 87/385/95-C/C
+
+9.   DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 14. 6. 1995
+Datum posledního prodloužení registrace: 29. 9. 2016
+
+10.  DATUM REVIZE TEXTU
+
+08/2019

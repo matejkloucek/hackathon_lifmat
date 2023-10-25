@@ -1,0 +1,467 @@
+sp.zn. sukls290430/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+M-Iodbenzylguanidin (¹³¹I) GE Healthcare 185–740 MBq/ml injekční/infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jeden ml roztoku obsahuje iobenguanum (¹³¹I) 185–740 MBq (maximálně 0,67 mg/ml). Souhrn fyzikálních vlastností radionuklidu v léčivé látce:     jod-¹³¹I
+Fyzikální poločas přeměny:                     8,08 dní
+
+Nejdůležitější emitované záření
+
+
+Energie
+ß-247 keV ß-334 keV ß-606 keV ß-806 keV γ-364 keV
+Zastoupení (%)
+1,8
+7,2
+89,7
+0,7
+82
+Pomocné látky se známým účinkem
+-    Benzylalkohol:    10 mg/ml
+-    Sodík:         3,54 mg/ml. Nutno vzít v úvahu u pacientů s dietou s nízkým
+obsahem sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Injekční/infuzní roztok (injekce/infuze). Čirý bezbarvý roztok.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Přípravek M-Iodbenzylguanidin (¹³¹I) GE Healthcare je indikován k radiační terapii tumorové tkáně, která je schopna zadržovat jobenguan. Tyto tumory vznikají z embryonálních buněk vzniklých z neuronální ploténky pheochromocytomů, neuroblastomů, karcinoidů a medulárních karcinomů štítné žlázy (MCT).
+
+
+
+1/10
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Terapeutická dávka s množstvím jobenguanu-(¹³¹I) je určována individuálně na základě dozimetrické studie. Velikost dávky a rovněž interval(y) mezi možnými dalšími aplikacemi jsou určovány především hematologickou radiotoxicitou a druhem nádoru. S růstem progrese tumoru se krátí intervaly podání.
+
+Tzv. „pevná“ terapeutická dávka je 3,7–7,4 GBq.
+
+Starší pacienti
+Není nutná žádná úprava dávky v závislosti na věku pacienta.
+
+Porucha funkce ledvin a jater
+U těchto pacientů je možná zvýšená expozice záření, proto se vyžaduje pečlivé zvážení poměru přínosů a rizik.
+
+Pediatrická populace
+Doporučené dávky jsou stejné pro děti a dospělé. Přípravek M-Iodbenzylguanidin (¹³¹I) GE Healthcare je kontraindikován u nedonošených dětí a novorozenců.
+
+Způsob podání
+Přípravek M-Iodbenzylguanidin (¹³¹I) GE Healthcare je určen pro opakované použití. Terapeutická dávka se podává intravenózně, obvykle infúzí po dobu 1–4 hodin.
+4.3  Kontraindikace
+
+Absolutní kontraindikací je těhotenství.
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Přípravek nesmí být podán nedonošeným dětem nebo novorozencům.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Možnost přecitlivělosti nebo anafylaktické reakce
+Vždy se musí brát v úvahu možnost přecitlivělosti, včetně anafylaktických/anafylaktoidních reakcí. Pokud jsou pozorovány příznaky přecitlivělosti nebo anafylaktická reakce, podání léčivého přípravku musí být okamžitě přerušeno a je-li to nezbytné, musí být zahájena intravenózní léčba. Pro okamžitá opatření při pohotovostním zásahu musí být okamžitě dostupné potřebné léčivé přípravky a zařízení k podpoře životních funkcí, jako například endotracheální trubice a zařízení pro umělou ventilaci.
+
+Může dojít k poškození normální tkáně sousedící s ozařovanou nádorovou tkání (např. porušení funkce pohlavních žláz u pacientů s metastázami v oblasti pánve).
+
+U pacientů na chemoterapii se může vyskytnout přídavná toxicita (např. plicní fibróza, hypergonadotropní hypogonadismus).
+
+Odůvodnění individuálního přínosu/rizika
+
+
+
+
+2/10
+
+Vystavení  každého  pacienta  ionizujícímu  záření  musí  být  opodstatněné  na  základě  jeho pravděpodobného přínosu. Aplikovaná aktivita musí být vždy taková, aby výsledná dávka záření byla tak nízká, jak je jen možné, aby byl zároveň získán požadovaný terapeutický výsledek.
+
+Pediatrická populace
+U dětí léčených jobenguanem-(¹³¹I) je riziko vývoje nevratné ztráty funkce štítné žlázy, retardace růstu a hypergonadotropního hypogonadismu. Během dalšího sledování se proto doporučuje věnovat zvláštní pozornost stavu jejich endokrinní funkce.
+
+Porucha funkce ledvin a jater
+U těchto pacientů je možná zvýšená expozice záření, proto se vyžaduje pečlivé zvážení poměru přínosů a rizik.
+
+Příprava pacienta
+Léčiva, která mohou ovlivňovat vychytávání a retenci jobenguanu-(¹³¹I), by měla být před léčbou vysazena (viz bod 4.5).
+
+Očekává se, že účinek léčby jobenguanem-(¹³¹I) mohou ovlivňovat různá léčiva používaná k léčbě vysokého krevního tlaku a v psychiatrii, zatím to však není doloženo. To může interferovat s vychytáváním a retencí jobenguanu-(¹³¹I) a tak ovlivnit radiační dávku do normální i do nádorové tkáně. Tato léčiva mají být před terapií vysazena (obvykle po dobu čtyř biologických poločasů) (viz bod 4.5).
+
+Blokování štítné žlázy začíná 24–48 hodin před podáním jobenguanu-(¹³¹I) a pokračuje nejméně 5 dní.
+
+Před zahájením léčby by měl být pacient dobře hydratován a vyzván k co nejčastějšímu vyprazdňování během prvních hodin po vyšetření, aby se radiace snížila.
+
+Terapie jobenguanem-(¹³¹I) má být zvažována pouze u těch pacientů, u kterých je možná transplantace autologní kostní dřeně (obsahující málo nebo žádné nádorové buňky). Musí být pozorně a často monitorovány toxické účinky na kostní dřeň (trombocytopenie).
+
+Léčba nemá být opakována dříve než v 6–8měsíčních intervalech. Omezujícím faktorem je toxicita na kostní dřeň.
+
+Absorpce jobenguanu v chromafinních granulích může, ačkoli vzácně, způsobit rychlé vylučování noradrenalinu, které může vyvolat přechodnou hypertenzní krizi. To vyžaduje nepřetržité monitorování pacienta během podávání přípravku. U některých pacientů může být indikováno monitorování EKG i krevního tlaku během podávání přípravku.
+
+Před podáním přípravku je třeba zajistit okamžitou dostupnost pohotovostní kardiologické léčby hypertenze.
+
+[¹³¹I]-jobenguan musí být podáván pomalu.
+
+Je-li plánováno terapeutické podání při pheochromocytomu, je třeba brát ohled na možnou interferenci léčiv pro řízení hypertenze a vychytávání jobenguanu-(¹³¹I). Podávání inkompatibilních léčiv má být přerušeno nejméně 2 týdny před plánovaným terapeutickým podáním. V případě nutnosti může být jako náhrada použit propranolol.
+
+
+
+
+3/10
+
+Dávky pro pacienty, kteří byli před aplikací léčeni cytostatiky (např. sloučeninami cis-platiny) s následkem snížení funkce ledvin, musí být patřičně upraveny.
+
+Po proceduře
+Doporučuje se nejméně jeden týden vyhýbat se těsnému kontaktu s malými dětmi a těhotnými ženami. Ženám se nedoporučuje otěhotnět v průběhu 6–12 měsíců po podání jobenguanu-(¹³¹I).
+
+Zvláštní upozornění
+Tento  léčivý  přípravek  obsahuje  benzylalkohol.  Benzylalkohol  může  způsobit  toxické  a anafylaktoidní reakce u kojenců a dětí do 3 let věku.
+
+Tento léčivý přípravek obsahuje 3,54 mg/ml sodíku. Nutno vzít v úvahu u pacientů s dietou s nízkým obsahem sodíku.
+
+Opatření vztahující se k ohrožení životního prostředí jsou uvedena v bodě 6.6.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Je známo, nebo se předpokládá, že níže uvedená léčiva mohou způsobit prodloužení nebo snížení vychytání jobenguanu u tumorů vznikajících z neuronální ploténky. Existují i další léčiva, která mohou interferovat, ale žádný formální důkaz neexistuje.
+
+-    nifedipin (blokátor kalciového kanálu) je uváděn jako látka prodlužující retenci jobenguanu.
+
+Snížené vychytávání bylo pozorováno při terapeutickém režimu zahrnujícím podání:
+-    antihypertenziv, jako reserpin, labetalol, blokátory kalciového kanálu (diltiazem, nifedipin, verapamil),
+-    sympatomimetik (přítomny v přípravcích pro nosní dekongesci, jako např. fenylefrin, efedrin nebo fenylpropanolamin),
+-   kokainu,
+-    tricyklických antidepresiv, jako např. amitryptilin a jeho deriváty, imipramin a jeho deriváty, doxepin, amoxepin a loxapin.
+
+V souvislosti s následujícími léčivy se očekává výskyt inhibice ve vychytávání jobenguanu, ovšem toto nebylo zatím dokázáno:
+-    antihypertenziva působící blokádu adrenergního neuronu (betanidin, debrisochin, bretylium a guanetidin),
+-    antidepresiva, jako např. maprotilin a trazolon.
+Tato léčiva mají být před léčbou vysazena (obvykle po dobu čtyř biologických poločasů). Antiemetika
+Zvláštní pozornost musí být věnována výběru antiemetik, která se často podávají k potlačení nevolnosti doprovázející podání jobenguanu v terapeutických množstvích. Antiemetika na bázi antagonistů dopaminových/serotoninových receptorů v koncentracích používaných v klinické praxi neovlivňují vychytávání jobenguanu.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+
+
+
+4/10
+
+Přípravek je kontraindikován během prokázaného těhotenství, při podezření na těhotenství nebo tehdy, nebylo-li těhotenství vyloučeno (viz bod 4.3).
+
+Je-li nutné podat radioaktivní léčivo ženě, která může být těhotná, vždy je nutné se o tom přesvědčit. Každá žena, které vynechala perioda, má být považována za těhotnou, dokud se neprokáže opak. V případě nejistoty (když ženě vynechala perioda, je-li perioda velmi nepravidelná atd.) by se měly pacientce nabídnout, pokud existují, alternativní metody bez ionizujícího záření.
+
+Kojení
+Před podáním radiofarmaka kojící matce je třeba uvážit možnost pozdržení podání do chvíle, než matka kojení ukončí a také nejvhodnější volbu radiofarmaka s ohledem na vylučování aktivity do mléka. Je-li podání nutné, kojení je třeba na dobu 6 týdnů přerušit a odsáté mléko zlikvidovat. Po dobu jednoho týdne je nutné omezit blízký kontakt s malými dětmi a těhotnými ženami.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Účinky na schopnost řídit a obsluhovat stroje nebyly popsány.
+4.8  Nežádoucí účinky
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným vývojem dědičných vad.
+
+Dávka ozáření vyplývající z terapeutického působení může vést k vyššímu výskytu rakoviny a mutací.
+
+Ve všech případech je nutné zabezpečit, aby rizika spojená s ozářením byla nižší než rizika samotného onemocnění.
+
+Frekvence nežádoucích účinků jsou definovány takto:
+Velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10 000) a není známo (z dostupných údajů nelze určit).
+
+Infekce a infestace
+-    není známo      -    zvýšená náchylnost k infekci
+
+Novotvary benigní, maligní a neurčené (zahrnující cysty a polypy)
+-    není známo      -    leukémie, maligní sekundární nádory
+
+Poruchy krve a lymfatického systému
+-    není známo      -    útlum kostní dřeně, anémie, trombocytopenie,
+neutropenie
+Endokrinní poruchy
+-    není známo      -    hypotyreóza, eventuálně vedoucí k retardaci růstu u
+dětí
+-   hypertyreóza
+
+Cévní poruchy
+-    časté         -    hypertenze včetně akutních epizod hypertenzní krize
+(zaznamenaná při terapeutickém použití [¹³¹I] jobenguanu)
+
+
+
+5/10
+
+Gastrointestinální poruchy
+-    velmi časté      -    nevolnost, zvracení
+-    není známo      -    poruchy slinné žlázy
+
+Poranění, otravy, a procedurální komplikace
+-    není známo      -    radiační poškození (včetně bolesti spojované s radiací,
+intersticiálního onemocnění plic, přechodného zánětu štítné žlázy, snížené funkce pohlavních žláz, selhání vaječníků).
+
+Pediatrická populace
+Hlavními nežádoucími účinky u dětí jsou trombocytopenie (izolovaná) nebo útlum kostní dřeně zvláště tam, kde došlo k infiltraci tumoru do kostní dřeně. Nežádoucí účinky související s funkcí slinných žláz, myokardu nebo toxické účinky na játra nebyly popsány.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Účinek při předávkování jobenguanem je způsoben uvolněním adrenalinu. Účinek je krátkodobý a vyžaduje zásah směřující ke snížení krevního tlaku. Okamžitá injekce rychle působícího alfa- adrenergního blokátoru (fentolaminu) s následující injekcí beta-blokátoru (propranololu). Vzhledem k vylučování látky ledvinami má pro omezení dávky absorbované pacientem zásadní význam zabezpečení co nejvyššího vylučování množství moči.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina:    terapeutická radiofarmaka, jiná terapeutická radiofarmaka ATC kód:               V10XA02
+Mechanismus účinku
+Jobenguan-(¹³¹I)  je  aralkylguanidin  značený radioaktivním  jodem. Jeho  struktura  obsahuje guanidinovou skupinu guanetidinu navázanou na benzylovou skupinu s připojeným jodem. Stejně jako guanetidin jsou aralkylguanidiny látkami blokujícími adrenergní neurony. V důsledku podobnosti účinku adrenergních neuronů a chromafinních buněk dřeně nadledvin je jobenguan vychytáván především ve dřeni nadledvin. Navíc se projevuje i lokalizací v myokardu.
+
+Farmakodynamické účinky
+
+
+
+
+6/10
+
+Mezi různými aralkylguanidiny je jobenguan upřednostňován pro jeho nízké vychytávání v játrech a nejlepší stabilitu in vivo, kdy je množství uvolněného jodidu vychytaného štítnou žlázou nejnižší. Transport jobenguanu membránami buněk pocházejících z neurální ploténky je při nízké hladině radiofarmaka (při diagnostickém dávkování) aktivním procesem. Vychytávání může být inhibováno vychytáním takových inhibitorů, jako jsou např. kokain nebo desipramin. Je-li látka podávána ve vyšších koncentracích (při terapeutickém dávkování), stává se důležitým také proces pasivní difúze. Klinické důsledky týkající  se dozimetrie nejsou  známé. V buňkách  je přinejmenším  část intracelulárního jobenguanu přenášena aktivním mechanismem do zásobních granulí.
+
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Distribuční charakteristiky jobenguanu zahrnují rychlé počáteční vychytání v játrech (33 % podané dávky) a mnohem méně v plicích (3 %), srdečním svalu (0,8 %), slezině (0,6 %) a slinných žlázách (0,4 %). Vychytání ve zdravých nadledvinách (ve dřeni nadledvin) je tak nízké, že je nelze pomocí jobenguanu-(¹³¹I) zobrazit. Při hyperplazii nadledvin je vychytávání vysoké.
+
+Eliminace
+Jobenguan je z velké části vyloučen nezměněn ledvinami. Ledvinami je během 4 dnů vyloučeno 70–
+90 % podané dávky. V moči byly izolovány tyto metabolické produkty: jodid-(¹³¹I), meta- jodhippurová kyselina-(¹³¹I), hydroxy jodbenzylguanidin-(¹³¹I) a meta-jodbenzoová kyselina-(¹³¹I). Tyto látky představují asi 5–15 % podané dávky.
+
+Poločas
+Fyzikální poločas přeměny:                     8,08 dní
+
+Porucha funkce ledvin a jater
+Farmakokinetika u pacientů s poruchou ledvin nebo jater nebyla stanovena.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Letální dávka pro psy je 20 mg/kg. Nižší dávky (14 mg/kg) způsobují přechodné klinické známky toxického účinku. Opakovaná intravenózní podání 20–40 mg/kg potkanům vyvolávají příznaky závažných toxických účinků. Opakovaná intravenózní podání 5–20 mg/kg sice způsobují výskyt nežádoucích účinků, včetně respiračních poruch, ale dlouhodobé účinky představují pouze mírné zvýšení hmotnosti jater a srdce. Opakovaná podání 2,5–10 mg/kg u psů způsobuje klinické projevy, včetně zvýšení krevního tlaku a vzniku abnormalit v srdeční frekvenci a šíření tepové vlny, ale všechny účinky byly pouze přechodné.
+
+Míra bezpečnosti mezi množstvím podávaného jobenguanu (zejména při terapeutických dávkách) a hladinou, při které může dojít k výskytu sekundárních nežádoucích účinků, není příliš široké. Pacienti proto mají být během infúze nebo injekce léčiva, a poté ještě několik hodin, pod dozorem.
+
+V rámci použitých testovacích systémů nebyly prokázány žádné mutagenní účinky. Studie možné karcinogenity jobenguanu nebyly zveřejněny.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+
+
+
+7/10
+
+Benzylalkohol Chlorid sodný Voda na injekci
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+
+6.3  Doba použitelnosti
+
+Doba použitelnosti přípravku je 2 dny od data kalibrace uvedeného na štítku. Naředěný přípravek:     použít během 2 hodin od ředění
+6.4  Zvláštní opatření pro uchovávání
+
+Přípravek má být uchováván v suchém ledu (pevný oxid uhličitý) přibližně do 1 hodiny před použitím.
+
+Přibližně 1 hodinu před podáním se má obsah lahvičky vytemperovat v olověném stínění umístěném ve vodní lázni nepřesahující teplotu 50 °C.
+
+Podmínky uchovávání tohoto léčivého přípravku po jeho naředění jsou uvedeny v bodě 6.3. Uchovávejte v původním olověném kontejneru nebo v ekvivalentním stínění.
+6.5  Druh obalu a obsah balení
+
+Přípravek je dodáván v 10ml lahvičce z čirého neutrálního skla uzavřené zátkou z butylkaučuku potaženou polytetrafluorethylenem.
+
+Velikost balení:
+Jednotlivé lahvičky obsahující 370–3 700 MBq po 185 MBq. Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Obecné varování
+Radiofarmaka mohou být přijímána, používána a podávána pouze oprávněnými osobami v určených zdravotnických zařízeních. Způsob jejich příjmu, skladování, používání, manipulace a likvidace je dán předpisy a/nebo příslušnými povoleními místních kompetentních úřadů.
+
+Radiofarmaka by měla být připravována způsobem, který vyhovuje požadavkům na radiační bezpečnost a farmaceutickou kvalitu. Musí být dodržována příslušná aseptická opatření.
+
+Pokud je v kterémkoli okamžiku přípravy narušena celistvost lahvičky, nesmí se přípravek použít.
+
+Tento přípravek má pravděpodobně vliv na relativně vysoké radiační dávky pro většinu pacientů. Podání přípravku M-Iodbenzylguanidin (¹³¹I) GE Healthcare může mít za následek významné riziko
+
+
+
+8/10
+
+pro životní prostředí. Může se také týkat nejbližší rodiny pacientů nebo širší veřejnosti. Postupy by měly být provedeny tak, aby se minimalizovalo riziko kontaminace přípravku a ozařování personálu. Je povinné adekvátní stínění.
+
+Podávání radiofarmak představuje riziko pro ostatní osoby z vnějšího ozáření nebo kontaminace z úniku moči, zvracení atd. Proto musí být, v souladu s národními předpisy, přijata bezpečnostní opatření radiační ochrany.
+
+Veškerý materiál použitý k přípravě a podávání radiofarmak, včetně nepoužitého radiofarmaka a jeho obalu, se musí dekontaminovat, nebo s ním zacházet, jako s radioaktivním odpadem podle předpisů místních kompetentních úřadů.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+GE Healthcare Buchler GmbH & Co. KG Gieselweg 1
+38110 Braunschweig Německo
+
+
+8.  REGISTRAČNÍ ČÍSLO
+88/699/93-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace:               18.08.1993
+Datum posledního prodloužení registrace:     24.11.2010
+
+
+10.  DATUM REVIZE TEXTU
+10. 1. 2020
+
+
+11.  DOZIMETRIE
+Níže uvedená tabulka ukazuje údaje o dozimetrii převzaté z publikace ICRP 53 (International Commission on Radiological Protection, Radiation Dose to Patients from Radiopharmaceuticals, Pergamon Press 1987).
+
+Radiační dávka u specifických orgánů, které nemusí být cílovým orgánem terapie, může být významně ovlivněna patofyziologickými změnami v důsledku průběhu nemoci. To je třeba vzít při použití těchto informací v úvahu.
+
+S výjimkou části „děloha“ obsahuje tabulka pouze ty orgány, které jsou používány pro výpočet efektivní (celotělové) dávky. Jedná se o sedm standardních orgánů a dalších pět orgánů s nejvyšší absorbovanou dávkou (označené *).
+
+
+
+9/10
+
+
+Orgán
+Absorbovaná dávka
+na jednotku podané aktivity (mGy/MBq)
+
+
+povrch kostí prsa
+ledviny plíce
+vaječníky varlata
+červená dřeň štítná žláza nadledviny*
+močový měchýř – stěna* játra*
+slinné žlázy* slezina*
+děloha
+
+Efektivní dávka (mSv/MBq)
+Dospělý
+6,1E-02
+6,9E-02
+1,2E-01
+1,9E-01
+6,6E-02
+5,9E-02
+6,7E-02
+5,0E-02
+1,7E-01
+5,9E-01
+8,3E-01
+2,3E-01
+4,9E-01
+8,0E-02
+
+2,0E-01
+15 let
+7,2E-02
+6,9E-02
+1,4E-01
+2,8E-01
+8,8E-02
+7,0E-02
+8,3E-02
+6,5E-02
+2,3E-01
+7,3E-01
+1,1E+00
+2,8E-01
+6,9E-01
+1,0E-01
+
+2,6E-01
+10 let
+1,1E-01
+1,1E-01
+2,1E-01
+3,9E-01
+1,4E-01
+1,1E-02
+1,3E-01
+1,1E-01
+3,3E-01
+1,1E+00
+1,6E+00
+3,8E-01
+1,1E+00
+1,6E-01
+
+4,0E-01
+5 let
+1,8E-01
+1,8E-01
+3,0E-01
+6,0E-01
+2,3E-01
+1,9E-01
+1,9E-01
+1,8E-01
+4,5E-01
+1,7E+00
+2,4E+00
+5,1E-01
+1,7E+00
+2,6E-01
+
+6,1E-01
+1 rok
+3,6E-01
+3,5E-01
+5,1E-01
+1,2E+00
+4,2E-01
+3,6E-01
+3,5E-01
+3,5E-01
+6,9E-01
+3,3E+00
+4,6E+00
+7,5E-01
+3,2E+00
+4,8E-01
+
+1,1E+00
+
+Výše uvedené údaje jsou platné při normálních farmakokinetických hodnotách. V případě snížené funkce ledvin způsobené onemocněním nebo předchozí terapií mohou být efektivní dávka i radiační zátěž orgánů (kostí, červené dřeně a plic) znatelně zvýšeny.
+
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Měření radiochemické čistoty
+Radiochemická čistota jobenguanu-(¹³¹I) se může určit vysokoúčinnou kapalinovou chromatografií na koloně silikagelu (5 µm), 0,25 m x 4 mm, vymývané isokratickou elucí směsí 8% roztoku dusičnanu amonného:amoniaku:methanolu (1:2:27). Pík je detekován použitím vhodného detektoru radioaktivity a UV spektrofotometrií při 254 nm. Píky jsou identifikovány porovnáním se standardními roztoky jodidu sodného (1 mg/ml) a síranu jobenguanu (0,2 mg/ml).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/10

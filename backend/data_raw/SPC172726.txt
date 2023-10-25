@@ -1,0 +1,223 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+PŘÍLOHA I
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1. NÁZEV PŘÍPRAVKU
+QUINIMAX 250 mg/2 ml, injekční roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Chinin glukonát                                          385,125 mg
+(Odpovídající množství CHININU                               240,000 mg*)
+Chinidin glukonát                                          10,590 mg
+(Odpovídající množství CHINIDINU                               6,600 mg*)
+Cinchonin chlorhydrát                                        2,120 mg
+(Odpovídající množství CINCHONINU                            1,700 mg*)
+Cinchonidin chlorhydrát                                       2,015 mg
+(Odpovídající množství CINCHONIDINU                            1,700 mg*)
+V jedné ampuli o obsahu 2 ml
+*Jedná se o celkové množství v 250 mg alkaloidové báze Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+Injekční roztok.
+
+4. KLINICKÉ ÚDAJE
+4.1.  Terapeutické indikace
+Léčba malárie:
+•  při záchvatech těžké malárie,
+•  při záchvatu malárie, zejména v případě rezistence na amino-4-chinoliny a v případech, kdy nelze aplikovat léčbu per os.
+Pozornost by měla být věnována oficiálním doporučením o správném užívání antimalarik.
+
+4.2.  Dávkování a způsob podání
+Dávkování
+1 ampule obsahuje 250 mg alkaloidové báze. Tato dávka není vhodná pro děti do 30 kg.
+•  Intravenózní cesta: 25 mg / kg / den alkaloidové báze rozděleno do 3 injekcí po 8 mg / kg alkaloidové báze, pomalá intravenózní infuze v délce 4 hodin, každá se opakuje po 8 hodinách (nebo případně kontinuálně infuzní pumpou).
+U dospělého o hmotnosti 60 kg: 2 ampule po 250 mg na dávku.
+U dětí od 30 do 50 kg (přibližně 10 až 15 let): 1 ampule po 250 mg na dávku.
+Přípravek bude přednostně ředěn v roztoku 5% nebo 10% glukózy nebo ve fyziologickém roztoku.
+•  Intramuskulární cesta: 2 až 3 pomalé a hluboké injekce denně 8 mg / kg alkaloidové báze.
+U dospělého o hmotnosti 60 kg: 2 ampule po 250 mg na dávku.
+1
+
+U dětí od 30 do 50 kg (přibližně 10 až 15 let): 1 ampule po 250 mg na dávku.
+Vzhledem k riziku nekrózy vyvolané chininem by měl být tento způsob podání přípravku použit jen v případě, kdy není možné provést intravenózní infuzi.
+•  U pacientů s renální nedostatečností: dávka bude snížena o 30 až 50 %. Délka léčby záchvatu malárie chininem je 5 až 7 dnů. K léčbě orální cestou je třeba přejít co nejdříve.
+
+
+Způsob podání
+Intravenózní cesta Intramuskulární cesta.
+4.3.  Kontraindikace
+Tento léčivý přípravek je kontraindikován v následujících případech:
+•  trpíte-li poruchami srdečního rytmu (tj. intraventrikulárního vedení), s výjimkou urgentní situace
+•  máte-li v anamnéze žlučovou hemoglobinurickou horečku
+•  máte-li v anamnéze přecitlivělost na kteroukoli ze složek přípravku,
+•  užíváte-li léky na bázi astemizolu (viz bod 4.5). Tento lék se obecně nedoporučuje:
+•  v kombinaci s meflochinem (viz bod 4.5.).
+•  v případě deficitu glukózo-6-fosfát-dehydrogenázy z důvodu možného rizika hemolýzy.
+
+4.4.  Zvláštní upozornění a opatření při použití
+Chinin má za následek zvýšení sekrece inzulínu slinivkou břišní. Samotná infekce parazitem Plasmodiem spolu s podáváním chininu může, zejména u dětí a těhotných žen, podpořit nástup hypoglykémie, která musí být někdy upravena infuzí koncentrovaného roztoku glukózy. Obvyklé klinické příznaky hypoglykémie mohou být někdy maskovány zdravotními potížemi spojenými se samotným onemocněním a neurologické příznaky nelze odlišit od příznaků malárie. Proto se během léčby doporučuje sledovat hladinu glukózy v krvi.
+Vznik závažné hemolýzy během léčby se projevuje žlučovou hemoglobinurickou horečkou, jejíž nástup musí vést k přerušení léčby chininem.
+Kromě toho mohou léky obsahující chinin způsobit akutní hemolýzu u některých lidí s deficitem enzymu G6PD specifických genotypů. Výskyt hemolýzy, který by nešlo vysvětlit záchvatem malárie, by měl poukázat na možnost deficitu G6PD.
+Během aplikace injekce se doporučuje sledovat srdeční frekvenci a krevní tlak. Při vzniku arytmie je nutné zpomalit rychlost infuze.
+
+4.5.  Interakce s jinými léčivými přípravky a jiné formy interakce
+Kontraindikované lékové kombinace
++ Astemizol
+Zvýšené riziko poruch komorového rytmu, zejména komorových tachykardií typu „torsades de pointes“ (snížení metabolismu antihistaminika chininem).
+Nedoporučované lékové kombinace
++ Meflochin
+Zvýšené riziko vzniku křečových stavů kvůli konvulzivnímu účinku meflochinu.
+Je nutno dodržet minimální odstup 12 hodin mezi ukončením podávání chininu i.v. a začátkem podávání meflochinu.
+
+
+
+
+
+2
+
+4.6.  Plodnost, těhotenství a kojení
+Těhotenství
+Bylo hlášeno několik případů očních anomálií a poškození sluchu, když žena během těhotenství užívala vysoké dávky chininu. Při podávání terapeutických dávek nebyly hlášeny žádné případy. Chinin za normálních podmínek užívání lze předepsat během těhotenství.
+Kojení
+Protože chinin do mléka přechází jen ve velmi malém množství, je možné během léčby chininem kojit.
+
+4.7.  Účinky na schopnost řídit a obsluhovat stroje
+Opatrnosti při užívání tohoto léku bude zapotřebí zvláště u řidičů vozidel a u obsluhy strojů, protože zde hrozí riziko závratí a poruch vidění.
+
+4.8.  Nežádoucí účinky
+•  riziko vzniku hypoglykémie,
+•  možnost výskytu příznaků cinchonismu (tinitus, závratě, bolesti hlavy, poruchy zraku, zhoršení sluchu, nevolnost a průjem), které ustupují při snížení dávek nebo přerušení léčby a zřídka vyžadují přerušení léčby,
+•  fotosenzitivita,
+•  alergické projevy: svědění, kopřivka, vyrážka po celém těle, anafylaktický šok,
+•  akutní hemolytická anémie, někdy závažná a zkomplikovaná akutním selháním ledvin (žlučová hemoglobinurická horečka),
+•  trombocytopenie, trombocytopenická purpura,
+•  při terapeutických dávkách možné malé prodloužení intervalu QT,
+•  při vysokých dávkách přípravku byly popsány případy křečí.
+•  lokální projevy:
+o Po intramuskulární injekci chininu byla popsána hnisavá nekróza, ischiadické algodystrofie, vláknité indurace v místě vpichu. Tato cesta podání by měla být vyhrazena pro případy, kdy není možné aplikovat lék intravenózní cestou.
+o V případě extravazace nebo infuze příliš koncentrovaného přípravku hrozí riziko vzniku endoflebitidy a sklerózy žíly.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9.  Předávkování
+Nejčastější příznaky předávkování jsou následující:
+•  Tinitus, zhoršení sluchu a závratě. Po podání toxických dávek přípravku byla již zaznamenána i trvalá hluchota.
+•  Amblyopie, zúžení zorného pole, diplopie a šeroslepost. Úprava je pomalá, ale obvykle úplná. Při předávkování byly rovněž popsány vasospasmy centrální tepny sítnice.
+•  Účinek podobný chinidinu, který má za následek hypotenzi, poruchy vedení, anginózní příznaky a ventrikulární tachykardii. Může dojít k arytmii a zástavě srdce.
+Perorální podání více než 3 g v jedné dávce může u dospělých vést k těžkým nebo fatálním intoxikacím, kterým předchází deprese CNS a záchvaty křečí. U dětí mohou být fatální i nižší dávky.
+Arytmie, hypotenze a zástava srdce mohou být důsledkem kardiotoxického účinku chininu, zatímco oční toxicita může způsobit slepotu.
+
+
+
+
+
+3
+
+Jak správně postupovat
+Symptomatická léčba abnormalit v nemocničním prostředí.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1.  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Antimalarikum, ATC kód: P01BC01
+(P: Parazitologie)
+
+Chinin, přírodní antimalarikum, má na různé plazmodiální druhy rychlý schizonticidní účinek na krev. Je neúčinný na intrahepatické formy Plasmodia.
+Chinidin, cinchonin, cinchonidin jsou alkaloidové výtažky z chinovníku. Tyto aktivní látky také vykonávají aktivitu, která může přispět k schizonticidnímu působení.
+
+5.2.  Farmakokinetické vlastnosti
+Vazba na plazmatické bílkoviny je 70 %. Distribuční objem je u malarických pacientů vyšší než u zdravých jedinců.
+Eliminační poločas chininu je u zdravých jedinců 10 hodin a u pacientů s malárií se může zvýšit až na
+18 hodin. Průchod placentou a koncentrace v mléce jsou nízké. Malé množství přechází do mozkomíšního moku. Chinin je v játrech převážně metabolizován na neaktivní metabolit. Vylučování je z 80 % žlučí a přibližně z 20 % močí v nezměněné formě.
+
+5.3.  Předklinické údaje vztahující se k bezpečnosti
+Žádné
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1.  Seznam pomocných látek
+Glycerin, koncentrovaná kyselina chlorovodíková, voda pro injekce.
+
+6.2.  Inkompatibility
+Vzhledem k absenci studií kompatibility nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+
+6.3.  Doba použitelnosti
+Před otevřením: 18 měsíců
+Po otevření a naředění by měl být přípravek použit okamžitě.
+
+6.4.  Zvláštní opatření pro uchovávání
+Před otevřením: Uchovávejte při teplotě do 25 ° C.
+
+6.5.  Druh obalu a velikost balení
+2 ml ampule z hnědého skla typu I Krabička obsahuje 3 nebo 25 ampulí.
+6.6.  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+SANOFI-AVENTIS FRANCE
+82 AVENUE RASPAIL
+
+
+4
+
+94250 GENTILLY
+
+8. REGISTRAČNÍ ČÍSLA
+•  34009 342 724 2 4 : 2 ml ampule (hnědé sklo). Krabička po 3 ks.
+•  34009 342 725 9 2 : 2 ml ampule (hnědé sklo). Krabička po 25 ks.
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+25. února 1997
+Prodloužení 24. června 2006.
+
+10. DATUM POSLEDNÍ REVIZE TEXTU
+6. května 2019 / V2.
+
+11. DOZIMETRIE
+Bezpředmětné.
+
+12. POKYNY PRO PŘÍPRAVU RADIOFARMAK
+Bezpředmětné.
+PŘEDPISOVÁNÍ A DODACÍ PODMÍNKY
+Seznam I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5

@@ -12,6 +12,14 @@ def get_active_ingredient_detail(active_ingredient_id: int):
                            "contraindications": medicine_with_dosage.medicine.contraindications,
                            "adverse_effects": medicine_with_dosage.medicine.adverse_effects,
                            "dosage": medicine_with_dosage.dosage,
-                           "units": medicine_with_dosage.units}
+                           "units": medicine_with_dosage.units,
+                           "active_ingredients": [
+                               {"id": ingredient_with_dosage.active_ingredient.id,
+                                "name": ingredient_with_dosage.active_ingredient.name,
+                                "dosage": ingredient_with_dosage.dosage,
+                                "units": ingredient_with_dosage.units
+                                } for ingredient_with_dosage
+                               in medicine_with_dosage.medicine.active_ingredients_with_dosage]
+                           }
                           for medicine_with_dosage
                           in active_ingredient_entity.medicines_with_dosage]}

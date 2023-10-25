@@ -1,0 +1,403 @@
+Sp. zn. sukls99738/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Calmolan 0,26 mg tablety s prodlouženým uvolňováním Calmolan 0,52 mg tablety s prodlouženým uvolňováním Calmolan 2,1 mg tablety s prodlouženým uvolňováním
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tableta s prodlouženým uvolňováním obsahuje pramipexoli dihydrochloridum monohydricum 0,375 mg, což odpovídá pramipexolum 0,26 mg.
+Jedna tableta s prodlouženým uvolňováním obsahuje pramipexoli dihydrochloridum monohydricum 0,75 mg, což odpovídá pramipexolum 0,52 mg.
+Jedna tableta s prodlouženým uvolňováním obsahuje pramipexoli dihydrochloridum monohydricum 3 mg, což odpovídá pramipexolum 2,1 mg.
+
+Prosím pozor:
+Dávkování pramipexolu publikované v literatuře se vztahuje k soli pramipexolu. Proto bude dávkování uvedeno jak v hodnotách báze pramipexolu tak v hodnotách soli pramipexolu (v závorce).
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Tableta s prodlouženým uvolňováním
+Calmolan 0,26 mg tablety s prodlouženým uvolňováním: 9 mm tablety jsou bílé nebo až téměř bílé, cylindrické, ploché se zkosenými hranami a označením 026 na jedné straně
+Calmolan 0,52 mg tablety s prodlouženým uvolňováním: 10 mm tablety jsou bílé nebo až téměř bílé, cylindrické, bikonvexní s označením 052 na jedné straně
+Calmolan 2,1 mg tablety s prodlouženým uvolňováním: 10 mm tablety jsou bílé nebo až téměř bílé, cylindrické, bikonvexní s označením 210 na jedné straně
+
+4. KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Calmolan je indikován u dospělých k léčbě projevů a příznaků idiopatické Parkinsonovy nemoci, buď samostatně (bez levodopy) nebo v kombinaci s levodopou, tj. v průběhu onemocnění až do pozdních stádií, kdy se účinek levodopy snižuje nebo se stává nekonzistentní a léčebný účinek kolísá (“end-of-dose“ nebo „on-off“ fluktuace).
+4.2. Dávkování a způsob podání Dávkování
+Calmolan tablety s prodlouženým uvolňováním je perorální léková forma pramipexolu, která se užívá jednou denně.
+
+Zahajovací léčba
+
+1/12
+
+Dávky je třeba zvyšovat postupně každých 5 - 7 dní od počáteční dávky 0,26 mg báze (0,375 mg soli) denně. Pokud pacienti netrpí žádnými neúnosnými nežádoucími účinky, dávka by měla být titrována tak, aby se dosáhlo maximálního terapeutického účinku.
+
+Schéma zvyšování dávky Calmolanu, tablet s prodlouženým uvolňováním
+
+
+Týden
+Denní dávka (mg báze)
+Denní dávka (mg soli)
+
+
+1           0,26
+2           0,52
+3           1,05
+0,375
+0,75
+1,5
+
+Pokud je třeba dávku dále zvýšit, je nutno denní dávku navyšovat o 0,52 mg báze (0,75 mg soli)
+v týdenních intervalech až do maximální dávky 3,15 mg báze (4,5 mg soli) denně. Je však třeba poznamenat, že výskyt somnolence narůstá při dávkách vyšších než 1,05 mg báze (1,5 mg soli) denně (viz bod 4.8).
+Pacienti, kteří již užívají tablety pramipexolu, mohou být přes noc převedeni na Calmolan tablety s prodlouženým uvolňováním se stejnou denní dávkou. Po převedení na Calmolan tablety s prodlouženým uvolňováním může být dávka upravena v závislosti na terapeutické odpovědi pacienta (viz bod 5.1).
+
+Udržovací léčba
+Individuální dávka pramipexolu se má pohybovat v rozmezí od 0,26 mg báze (0,375 mg soli) do maximálně 3,15 mg báze (4,5 mg soli) denně. Během zvyšování dávky v pivotních studiích byla účinnost pozorována od denní dávky 1,05 mg báze (1,5 mg soli). Další úpravy dávky je nutno provést na základě klinické odpovědi a výskytu nežádoucích účinků. V klinických studiích bylo přibližně 5 % pacientů léčeno dávkami nižšími než 1,05 mg báze (1,5 mg soli). U pokročilé Parkinsonovy nemoci mohou být dávky vyšší než 1,05 mg báze pramipexolu (1,5 mg soli) denně užitečné u pacientů, kde se předpokládá snížení dávky levodopy. Doporučuje se snižovat dávkování levodopy v průběhu jak zvyšování dávek, tak i během udržovací léčby přípravkem Calmolan, a to v závislosti na reakci jednotlivých pacientů (viz bod 4.5).
+Vynechání dávky
+Pokud se zapomene jedna dávka, je třeba užít Calmolan tablety s prodlouženým uvolňováním během 12 hodin od zapomenuté dávky. Po 12 hodinách je třeba zapomenutou dávku vynechat a další dávka se užije následující den v pravidelnou dobu.
+Přerušení léčby
+Náhlé přerušení dopaminergní léčby může vést k rozvoji neuroleptického maligního syndromu nebo abstinenčního syndromu při vysazení dopaminového agonisty. Z tohoto důvodu je třeba pramipexol vysazovat postupně po 0,52 mg báze (0,75 mg soli) denně do dosažení denní dávky 0,52 mg báze (0,75 mg soli). Poté je nutno dávku snižovat o 0,26 mg báze (0,375 mg soli) denně (viz bod 4.4). Abstinenční syndrom při vysazení dopaminového agonisty se může přesto při snižování dávky vyskytnout a před
+opětovným zahájením postupného snižování dávky může být nezbytné její přechodné zvýšení (viz bod 4.4).
+Porucha funkce ledvin:
+Vylučování pramipexolu je závislé na renálních funkcích. Doporučuje se následující schéma dávkování: U pacientů s clearance kreatininu nad 50 ml/min není třeba snižovat denní dávku nebo četnost dávkování.
+
+2/12
+
+U pacientů s clearance kreatininu mezi 30 a 50 ml/min se léčba zahajuje 0,26 mg přípravku Calmolan tablety s prodlouženým uvolňováním každý druhý den. Je třeba opatrnosti a před zvýšením denní dávky po jednom týdnu je třeba pečlivě zvážit terapeutickou odpověď a snášenlivost. Pokud je třeba dále dávku zvyšovat, dávky se zvyšují v týdenních intervalech o 0,26 mg báze pramipexolu až do 1,57 báze pramipexolu (2,25 mg soli) denně.
+Léčba pacientů s clearance kreatininu pod 30 ml/min přípravkem Calmolan tablety s prodlouženým uvolňováním se nedoporučuje, neboť nejsou dostupná žádná data u této populace pacientů. Je třeba zvážit použití tablet pramipexolu.
+
+Pokud se funkce ledvin zhoršuje během udržovací léčby, dodržujte pravidla uvedená výše.
+
+Porucha funkce jater:
+Úprava dávek u pacientů s poruchou funkce jater pravděpodobně není nutná, protože přibližně 90 % vstřebané léčivé látky je vylučováno ledvinami. Možný vliv jaterní insuficience na farmakokinetiku Calmolanu však nebyl hodnocen.
+
+Pediatrická populace
+Bezpečnost a účinnost Calmolanu u dětí do 18 let nebyla stanovena. Není žádné relevantní použití přípravku  Calmolan  tablety  s prodlouženým  uvolňováním  u  pediatrické  populace  pro  indikaci Parkinsonova choroba.
+
+Způsob podání
+Perorální podání.
+Tablety je třeba spolknout celé a zapít vodou, tablety se nesmí kousat, půlit ani drtit. Tablety se mohou užívat buď s jídlem, nebo bez jídla a měly by se užívat každý den ve stejnou dobu.
+4.3. Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodu 6.1.
+4.4. Zvláštní upozornění a opatření pro použití
+
+Při předepisování přípravku Calmolan pacientovi s Parkinsonovou nemocí s poruchou funkce ledvin se doporučuje snížení dávky v souladu s bodem 4.2.
+
+Halucinace
+Halucinace jsou známé jako nežádoucí účinek léčby agonisty dopaminu a levodopou. Pacienti musí být informováni o možnosti výskytu halucinací (většinou zrakových).
+Dyskineze
+U pokročilé Parkinsonovy nemoci se při kombinované léčbě s levodopou mohou v průběhu počáteční titrace přípravku Calmolan objevit dyskineze. Pokud k tomu dojde, je třeba snížit dávku levodopy.
+
+Dystonie
+U pacientů s Parkinsonovou chorobou byla po zahájení nebo postupném zvýšení dávky pramipexolu  příležitostně  hlášena  axiální  dystonie  včetně  antekolis,  kamptokormie  a pleurototonu (Pisa syndrom). Ačkoli dystonie může být symptomem Parkinsonovy choroby, po
+
+
+
+3/12
+
+snížení nebo vysazení pramipexolu se symptomy u těchto pacientů zlepšily. Pokud dojde k dystonii, je třeba přehodnotit dopaminergní medikaci a zvážit úpravu dávky pramipexolu.
+Epizody náhlého nástupu spánku a somnolence
+Pramipexol je spojován s výskytem somnolence a epizodami náhlého nástupu spánku, a to zejména u pacientů s Parkinsonovou nemocí. Méně často byl hlášen náhlý nástup spánku během denních aktivit, v některých případech bez upozornění či předcházejících varovných příznaků. Pacienti musí být o této skutečnosti informováni a upozorněni na nutnou opatrnost při řízení dopravních prostředků nebo obsluze strojů během léčby přípravkem Calmolan. Pacienti, kteří již mají zkušenosti se somnolencí a/nebo s epizodou náhlého nástupu spánku, nesmí řídit dopravní prostředky ani obsluhovat stroje. Dále je nutno zvážit snížení dávek nebo ukončení léčby. Vzhledem k možným aditivním účinkům je nutná opatrnost v případech, kdy pacienti užívají jiné léky se sedativním účinkem nebo alkohol v kombinaci s pramipexolem (viz bod 4.5, 4.7 a 4.8).
+
+Impulzivní poruchy
+Pacienti by měli být pravidelně monitorováni z důvodu možnosti rozvoje impulzivních poruch. Pacienti a jejich ošetřovatelé by měli být upozorněni, že u pacientů léčených agonisty dopaminu včetně přípravku Calmolan se mohou rozvinout symptomy impulzivních poruch včetně patologického hráčství, zvýšeného libida, hypersexuality, nutkavého utrácení nebo nakupování, záchvatovitého a nutkavého přejídání. Pokud se tyto příznaky objeví, mělo by se zvážit snížení dávky nebo postupné vysazení přípravku.
+Mánie a delirium
+Pacienti by měli být pravidelně monitorováni z důvodu rozvoje mánie a deliria. Pacienti a jejich
+ošetřovatelé by měli být upozorněni, že u pacientů léčených pramipexolem se může objevit mánie a delirium. Pokud se tyto příznaky objeví, mělo by se zvážit snížení dávky nebo postupné vysazení přípravku.
+
+Pacienti s psychotickým onemocněním
+Pacienti s psychotickým onemocněním by měli být léčeni agonisty dopaminu pouze tehdy, pokud
+potenciální přínos převáží rizika. Je třeba se vyhnout současnému podávání antipsychotických léků s pramipexolem (viz bod 4.5).
+
+Oftalmologické kontroly
+V pravidelných intervalech nebo v případě poruchy zraku se doporučují oftalmologické kontroly.
+
+Závažné kardiovaskulární onemocnění
+V případě závažného kardiovaskulárního onemocnění je třeba opatrnost. Z důvodu obecného rizika posturální hypotenze spojené s dopaminergní léčbou, a to zejména na počátku léčby, se doporučuje monitorovat krevní tlak.
+
+Neuroleptický maligní syndrom
+Při náhlém přerušení dopaminergní léčby byly hlášeny příznaky připomínající neuroleptický maligní syndrom (viz bod 4.2).
+
+
+Abstinenční syndrom při vysazení dopaminového agonisty (dopamine agonist withdrawal syndrome, DAWS)
+Syndrom DAWS byl hlášen u dopaminových agonistů včetně pramipexolu (viz bod 4.8). Při ukončení léčby u pacientů s Parkinsonovou nemocí má být dávka pramipexolu snižována postupně (viz bod 4.2).
+Omezené údaje ukazují, že pacienti s impulzivními poruchami a pacienti léčení vysokými denními
+dávkami a/nebo vysokými kumulativními dávkami dopaminových agonistů mohou být vystaveni vyššímu
+
+4/12
+
+riziku rozvoje syndromu DAWS. Abstinenční příznaky při vysazení mohou zahrnovat apatii, úzkost, depresi, únavu, pocení a bolest a na levodopu nereagují. Pacienti mají být o možných abstinenčních příznacích při vysazení informováni před zahájením snižování dávky a před vysazením pramipexolu. Během snižování dávky a vysazování mají být pacienti pečlivě sledováni. V případě závažných a/nebo přetrvávajících abstinenčních příznaků lze zvážit opětovné přechodné podávání pramipexolu v nejnižší účinné dávce.
+
+Zbytky ve stolici
+Někteří pacienti hlásili výskyt částí tablety ve stolici, které mohou připomínat neporušenou tabletu přípravku Calmolan tablety s prodlouženým uvolňováním. Pokud pacienti ohlásí takový výskyt, lékař má znovu zhodnotit odpověď pacienta na léčbu.
+
+
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Vazba na plazmatické proteiny
+Pramipexol se ve velmi malém rozsahu (< 20 %) váže na plazmatické proteiny a u člověka dochází k jeho zanedbatelné biotransformaci. Z těchto důvodů jsou nepravděpodobné interakce s jinými léčivými přípravky, které ovlivňují vazbu na plazmatické bílkoviny nebo vylučování biotransformací. Protože anticholinergika jsou vylučována zejména biotransformací, je potenciál pro interakce omezený, i když interakce s anticholinergiky nebyla studována. Nedochází k žádným farmakokinetickým interakcím se selegilinem a levodopou.
+
+Inhibitory/kompetitivní látky aktivní renální cesty eliminace
+Cimetidin snižoval renální clearance pramipexolu přibližně o 34 %, pravděpodobně inhibicí kationtového sekrečního transportního systému v renálních tubulech. Proto léčivé přípravky, které inhibují tuto aktivní renální vylučovací cestu anebo jsou touto cestou vylučovány, jako je cimetidin, amantadin, mexiletin, zidovudin, cisplatina, chinin a prokainamid, mohou interagovat s pramipexolem, což vede ke snížení clearance pramipexolu. Pokud jsou tyto léčivé přípravky podávány současně s přípravkem Calmolan, je nutno zvážit snížení dávky pramipexolu.
+Kombinace s levodopou
+Pokud se podává Calmolan v kombinaci s levodopou, doporučuje se během zvyšování dávky přípravku Calmolan dávku levodopy snížit a dávkování jiných antiparkinsonik udržovat konstantní.
+
+V případech, kdy pacienti užívají jiné léky se sedativním působením nebo alkohol v kombinaci s pramipexolem, je vzhledem k možným aditivním účinkům nutná opatrnost (viz bod 4.4, 4.7 a 4.8).
+Antipsychotické přípravky
+Je třeba se vyhnout současnému podávání antipsychotických léků s pramipexolem (viz bod 4.4), například v případech kdy může být očekáván antagonistický účinek.
+
+4.6. Fertilita, těhotenství a kojení
+
+Těhotenství
+Vliv na těhotenství a kojení nebyl u lidí studován. Pramipexol nebyl teratogenní u potkanů a králíků, ale byl embryotoxický u potkanů v dávkách toxických pro matku (viz bod 5.3).
+Calmolan by se neměl podávat během těhotenství, pokud to není zcela nutné, tj. jen pokud potenciální přínos ospravedlňuje případné riziko pro plod.
+
+
+5/12
+
+Kojení
+Protože léčba pramipexolem u člověka inhibuje sekreci prolaktinu, očekává se inhibice laktace. Vylučování pramipexolu do mateřského mléka nebylo u žen studováno. U potkanů byla radioaktivita související s léčivou látkou vyšší v mateřském mléce než v plazmě.
+Calmolan se nemá používat během kojení, jelikož nejsou k dispozici údaje u člověka. Nicméně pokud je jeho použití nezbytné, kojení by mělo být ukončeno.
+
+Fertilita
+Nebyly provedeny žádné studie účinku na fertilitu u člověka. Ve studiích na zvířatech pramipexol ovlivňoval estrální cyklus a snižoval fertilitu samic tak, jak se očekává u agonistů dopaminu. Tyto studie však nenaznačily přímý nebo nepřímý škodlivý účinek na fertilitu samců.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+
+Calmolan může mít velký vliv na schopnost řídit a obsluhovat stroje. Mohou se objevit halucinace nebo somnolence.
+Pacienti léčení přípravkem Calmolan, u kterých dochází k somnolenci a/nebo k epizodám náhlého nástupu spánku, musí být informováni o tom, aby neřídili dopravní prostředky a nevykonávali aktivity, kde zhoršená pozornost může vystavit je samotné nebo jejich okolí riziku závažného poranění nebo úmrtí (např. při obsluze strojů), a to do té doby, dokud takové opakující se epizody a somnolence nevymizí (viz též body 4.4, 4.5 a 4.8).
+
+4.8. Nežádoucí účinky
+
+Na základě analýzy souhrnu placebem kontrolovaných studií, které zahrnovaly celkem 1778 pacientů s Parkinsonovou chorobou léčených pramipexolem a 1297 pacientů užívajících placebo, byly v obou skupinách často hlášeny nežádoucí účinky. 67 % pacientů léčených pramipexolem a 54 % pacientů užívajících placebo ohlásilo nejméně jeden nežádoucí účinek po léku.
+Většina nežádoucích účinků se obvykle objeví v časné fázi léčby a většinou vymizí i v případě, že léčba pokračuje.
+Nežádoucí účinky jsou rozdělené do tříd orgánových systémů podle frekvence výskytu (počet pacientů, u kterých se očekává výskyt nežádoucího účinku) za použití následujících kritérií: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1000 až <1/100); vzácné (≥1/10 000 až <1/1000); velmi vzácné (<1/10 000); není známo (z dostupných dat nelze určit).
+
+Nejčastěji (≥ 5 %) hlášenými nežádoucími účinky u pacientů s Parkinsonovou nemocí, častější po podání pramipexolu než po podání placeba, byly nauzea, dyskineze, hypotenze, závratě, somnolence, nespavost, zácpa, halucinace, bolest hlavy a únava. Výskyt somnolence se zvyšuje s dávkami vyššími než 1,5 mg soli pramipexolu denně (viz bod 4.2). Častějšími nežádoucími účinky při kombinaci s levodopou byly dyskineze. Hypotenze se může vyskytnout na začátku léčby, zvláště pokud je pramipexol titrován příliš rychle.
+
+
+Třída orgánových systémů                 Nežádoucí účinek Infekce a infestace
+Méně časté                         pneumonie
+
+6/12
+
+Endokrinní poruchy Méně časté
+
+Psychiatrické poruchy Časté
+
+
+Méně časté
+
+
+
+
+Vzácné
+Poruchy nervového systému Velmi časté
+Časté
+Méně časté
+
+Poruchy oka Časté
+
+
+Srdeční poruchy Méně časté
+Cévní poruchy Časté
+Respirační, hrudní a mediastinální poruchy Méně časté
+Gastrointestinální poruchy Velmi časté
+Časté
+Poruchy kůže a podkožní tkáně Méně časté
+Celkové poruchy a reakce v místě aplikace Časté
+Není známo
+
+
+
+Vyšetření Časté
+
+Méně časté
+
+nepřiměřená sekrece antidiuretického hormonu¹
+
+abnormální  sny,  impulzivní  a nutkavé  poruchy  chování,  stav zmatenosti, halucinace, insomnie
+záchvatovité  přejídání¹,  nutkavé nakupování,  bludy,  hyperfagie¹, hypersexualita,   poruchy   libida, paranoia,   patologické   hráčství, neklid, delirium
+mánie
+
+závratě, dyskineze, somnolence bolest hlavy
+amnézie, hyperkineze, náhlý nástup spánku, synkopa
+
+poruchy  zraku  včetně  dvojitého vidění,  rozmazaného  vidění  a zhoršení zrakové ostrosti
+
+srdeční selhání¹ hypotenze
+dyspnoe, škytavka
+
+nauzea
+zácpa, zvracení
+hypersenzitivita, pruritus, vyrážka únava, periferní edém
+abstinenční  syndrom při vysazení dopaminového  agonisty  včetně apatie,  úzkosti,  deprese,  únavy, pocení a bolesti
+
+snížení tělesné hmotnosti  včetně snížené chuti k jídlu
+nárůst tělesné hmotnosti
+
+
+¹Tento nežádoucí účinek byl pozorován v postmarketingovém sledování. S 95% pravděpodobností není četnost výskytu vyšší než méně časté, ale může být nižší. Přesnější určení četnosti není možné, neboť se nežádoucí účinek nevyskytl v databázi klinické studie s 2762 pacienty s Parkinsonovou chorobou léčenými pramipexolem.
+
+
+7/12
+
+Popis vybraných nežádoucích účinků
+
+Somnolence
+Pramipexol je často spojován se somnolencí a méně často byl spojován s nadměrnou denní spavostí a epizodami náhlého nástupu spánku (viz také bod 4.4).
+Poruchy libida
+Pramipexol může být méně často spojován s poruchami libida (zvýšením nebo snížením).
+
+Impulzívní poruchy
+U pacientů léčených agonisty dopaminu včetně přípravku Calmolan se mohou rozvinout symptomy jako patologické hráčství, zvýšené libido, hypersexualita, nutkavé utrácení nebo nakupování a záchvatovité a nutkavé přejídání (viz bod 4.4).
+
+V průřezových retrospektivních sledováních a případových studiích se 3090 pacienty s Parkinsonovou chorobou mělo v průběhu 6 měsíců 13,6 % pacientů léčených dopaminergními nebo nedopaminergními přípravky příznaky impulzivní poruchy. Pozorované projevy zahrnovaly patologické hráčství, nutkavé nakupování, záchvatovité přejídání a nutkavé sexuální chování (hypersexualitu). Další nezávislé rizikové faktory impulzivní poruchy mohou zahrnovat dopaminergní přípravky nebo jejich vyšší dávky, nižší věk (≤ 65 let), svobodný stav a rodinná anamnéza patologického hráčství.
+
+Abstinenční syndrom při vysazení dopaminového agonisty
+Při snižování dávky nebo ukončení podávání dopaminových agonistů, včetně pramipexolu, se mohou objevit nemotorické nežádoucí účinky. Příznaky zahrnují apatii, úzkost, depresi, únavu, pocení a bolest (viz bod 4.4).
+
+Srdeční selhání
+U pacientů, kterým byl podáván pramipexol, bylo v klinických studiích a postmarketingovém sledování hlášeno srdeční selhání. Ve farmakoepidemiologických studiích bylo užívání pramipexolu spojeno se zvýšeným rizikem srdečního selhání ve srovnání s pacienty, kteří pramipexol neužívali (pozorovaný poměr rizika 1,86; 95% CI, 1,21-2,85).
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+
+4.9. Předávkování
+Nejsou žádné klinické zkušenosti s masivním předávkováním. Očekávané nežádoucí účinky by měly vztah k farmakodynamickému profilu agonistů dopaminu, včetně nauzey, zvracení, hyperkineze, halucinací, agitovanost a hypotenze. Pro případ předávkování agonistou dopaminu není k dispozici žádné zavedené antidotum. Pokud jsou přítomny příznaky stimulace centrálního nervového systému, může být indikováno podání neuroleptického přípravku. Zvládnutí předávkování může vyžadovat obecná podpůrná opatření spolu s laváží žaludku, intravenózním podáním tekutin, podáním aktivního uhlí a monitorováním elektrokardiogramu.
+
+8/12
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antiparkinsonika, agonisté dopaminu ATC kód: N04BC05
+Mechanismus účinku
+Pramipexol je agonista dopaminu, který se s vysokou selektivitou a specificitou váže na dopaminové receptory podskupiny D2, z nichž má přednostní afinitu k receptorům D3, a má plnou vnitřní aktivitu.
+Pramipexol zmírňuje parkinsonické motorické deficity stimulací receptorů dopaminu ve striatu. Studie na zvířatech ukázaly, že pramipexol inhibuje syntézu dopaminu, jeho uvolňování a přeměnu.
+
+Farmakodynamické účinky
+U zdravých dobrovolníků byl pozorován na dávce závislý pokles prolaktinu. V klinických studiích se zdravými dobrovolníky, kdy byla dávka pramipexolu, tablet s prodlouženým uvolňováním titrována rychleji (každé 3 dny), než je doporučováno, až na 3,15 mg báze pramipexolu (4,5 mg soli) denně, bylo pozorováno zvýšení krevního tlaku a srdečního pulsu. U pacientů ve studii nebyl takový účinek pozorován.
+
+Klinická účinnost a bezpečnost u Parkinsonovy nemoci
+Pramipexol u pacientů zmírňuje projevy a příznaky idiopatické Parkinsonovy nemoci. Placebem kontrolované klinické studie zahrnovaly přibližně 1800 pacientů léčených pramipexolem ve stadiu I – V dle Hoehnové a Yahra. Kromě těchto bylo přibližně 1000 pacientů v pokročilejších stádiích současně léčeno levodopou a mělo motorické komplikace.
+
+Při časné a pokročilé Parkinsonově nemoci byla účinnost pramipexolu v kontrolovaných klinických studiích po dobu přibližně šest měsíců stálá. V otevřených pokračujících studiích, které trvaly déle než tři roky, nedošlo ke známkám poklesu účinnosti.
+
+V kontrolované dvojitě zaslepené klinické studii, která trvala dva roky, zahájení léčby pramipexolem významně oddálilo nástup motorických komplikací a snížilo jejich výskyt v porovnání se zahájením léčby levodopou. Toto oddálení motorických komplikací pramipexolem by mělo být zváženo proti většímu zlepšení motorických funkcí při levodopě (měřeno průměrnou změnou skóre UPDRS). Celkový výskyt halucinací a somnolence byl obecně vyšší ve fázi navyšování dávky v pramipexolové skupině. Během udržovací fáze však nebyl žádný významný rozdíl. Tyto skutečnosti je třeba při zahajování léčby pramipexolem u pacientů s Parkinsonovou nemocí zvažovat.
+
+Bezpečnost a účinnost pramipexolu, tablet s prodlouženým uvolňováním při léčbě Parkinsonovy choroby byla hodnocena v multinárodním výzkumném programu léčiv skládajícím se ze tří randomizovaných, kontrolovaných studiích. Dvě studie byly provedeny u pacientů s časnou formou Parkinsonovy choroby a jedna studie byla provedena u pacientů s pokročilou formou Parkinsonovy choroby.
+
+Superiorita léčby pramipexolem, tablet s prodlouženým uvolňováním v porovnání s placebem byla prokázána po 18 týdnech léčby jak v primárním (skóre II + III UPDRS) tak klíčovém sekundárním (poměr odpovědi CGI-I a PGI-I) cílovém parametru účinnosti ve dvojitě zaslepené placebem kontrolované studii zahrnující celkem 539 pacientů s časnou formou Parkinsonovy choroby. Účinnost byla zachována u pacientů léčených po dobu 33 týdnů. Pramipexol, tablety s prodlouženým uvolňováním nebyl inferiorní vůči tabletám pramipexolu s okamžitým uvolňováním na základě hodnocení podle skóre UPDRS II + III v týdnu 33.
+
+
+9/12
+
+Ve dvojitě zaslepené placebem kontrolované studii zahrnující 517 pacientů s pokročilou formou Parkinsonovy choroby, kteří současně užívali levodopu, byla superiorita léčby pramipexolem, tablet s prodlouženým uvolňováním vůči placebu prokázána po 18 týdnech léčby v jak primárním (UPDRS skóre II+III) tak klíčovém sekundárním („off-fáze“) cílovém parametru účinnosti.
+Účinnost a snášenlivost převedení přes noc z tablet pramipexolu na pramipexol, tablety s prodlouženým uvolňováním při stejné denní dávce byla hodnocena v dvojitě zaslepené klinické studii u pacientů s časnou formou Parkinsonovy choroby.
+
+Účinnost byla zachována u 87 ze 103 pacientů, kteří byli převedeni na pramipexol, tablety s prodlouženým uvolňováním. Z těchto 87 pacientů, 82,8 % neměnilo svou dávku, u 13,8 % se dávka zvýšila a u 3,4 % se dávka snížila.
+
+U poloviny z 16 pacientů, u kterých nedošlo k zachování účinnosti podle UPDRS skóre II + III, nebyla změna od základní hodnoty považována za klinicky významnou.
+Pouze 1 pacient převedený na pramipexol, tablety s prodlouženým uvolňováním měl s lékem spojené nežádoucí účinky, které vedly k vysazení léku.
+
+Pediatrická populace
+
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s referenčním léčivým přípravkem obsahujícím pramipexol u všech podskupin pediatrické populace s Parkinsonovou nemocí (informace o použití u dětí viz bod 4.2).
+
+5.2. Farmakokinetické vlastnosti
+Absorpce
+Pramipexol je po perorálním podání kompletně absorbován. Absolutní biologická dostupnost je vyšší než 90%.
+
+Ve studii fáze I, kde byl pramipexol ve formě tablet s okamžitým uvolňováním a tablet s prodlouženým uvolňováním hodnocen po podání na lačno, byly minimální a maximální plasmatická koncentrace (Cmin, Cmax) a expozice (AUC) stejné denní dávky pramipexolu, tablet s prodlouženým uvolňováním podané jednou denně a tablet pramipexolu podané třikrát denně ekvivalentní.
+
+Podání pramipexolu, tablet s prodlouženým uvolňováním jednou denně vede k méně častým fluktuacím plasmatických koncentrací pramipexolu během 24 hodin ve srovnání s podáním pramipexolu, tablet s okamžitým uvolňováním třikrát denně.
+
+Maximální plazmatická koncentrace se objevuje přibližně 6 hodin po podání pramipexolu, tablet s prodlouženým uvolňováním jednou denně. Rovnovážného stavu je dosaženo nejpozději po 5 dnech nepřetržitého podávání.
+Současný příjem potravy obecně nemá vliv na biologickou dostupnost pramipexolu. Příjem jídla s vysokým obsahem tuků zvyšuje maximální koncentraci (Cmax) přibližně o 24 % po podání jednorázové dávky a přibližně o 20 % po opakovaném podání a přibližně o dvě hodiny zpomaluje dosažení maximální koncentrace u zdravých dobrovolníků. Celková expozice (AUC) nebyla současným příjmem potravy ovlivněna. Zvýšení Cmax není klinicky relevantní. Ve studii fáze III, která stanovila bezpečnost a účinnost pramipexolu, tablet s prodlouženým uvolňováním, užívali pacienti léky bez ohledu na jídlo.
+
+
+10/12
+
+Ačkoliv nemá tělesná hmotnost vliv na AUC, byl zjištěn vliv na distribuční objem a tím i na maximální koncentraci (Cmax). Snížení tělesné hmotnosti o 30 kg vede ke zvýšení Cmax o 45 %. Ve studii fáze III u pacientů s Parkinsonovou chorobou však nebyl žádný klinicky významný vliv tělesné hmotnosti na terapeutický účinek a snášenlivost pramipexolu, tablety s prodlouženým uvolňováním zjištěn.
+Pramipexol má lineární kinetiku a malou variabilitu plazmatických hladin mezi jednotlivými pacienty. Distribuce
+U člověka je vazba pramipexolu na proteiny velmi nízká (< 20%) a distribuční objem je vysoký (400 l). U
+potkanů byly pozorovány vysoké koncentrace v mozku (přibližně osminásobné ve srovnání s plazmou).
+
+Biotransformace
+Pramipexol je u člověka metabolizován pouze v malé míře.
+
+Eliminace
+Hlavní cestou eliminace je renální vylučování nezměněného pramipexolu. Přibližně 90 % dávky značené ¹⁴C je vyloučeno ledvinami, zatímco méně než 2 % se nachází ve stolici. Celková clearance pramipexolu je přibližně 500 ml/min a renální clearance je přibližně 400 ml/min. Eliminační poločas (t1/2) kolísá od 8 hodin u mladých jedinců do 12 hodin u starších jedinců.
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Studie toxicity po opakovaném podávání ukázaly, že pramipexol vykazuje funkční účinky, které zahrnují zejména  CNS  a  reprodukční  systém  samic,  a  pravděpodobně  vyplývají  z nadměrného farmakodynamického účinku pramipexolu.
+
+Poklesy diastolického a systolického tlaku a srdeční frekvence byly zaznamenány u miniprasat, a u opic byl zaznamenán sklon k hypotenzivnímu účinku.
+Možné účinky pramipexolu na reprodukční funkce byly zkoumány u potkanů a králíků. Pramipexol nebyl teratogenní u potkanů a králíků, ale byl embryotoxický u potkanů v dávkách toxických pro matku. Vzhledem k selekci zvířecích druhů a omezení zkoumaných parametrů nebyly nežádoucí účinky pramipexolu na graviditu a samčí plodnost úplně objasněny.
+U potkanů bylo pozorováno opoždění sexuálního vývoje (tj. oddělení předkožky a otevření vagíny). Význam pro člověka není znám.
+
+Pramipexol nebyl genotoxický. Ve studii kancerogenity se vyvinula u samců potkanů hyperplazie
+Leydigových buněk a adenomy, což se vysvětluje prolaktin inhibičním účinkem pramipexolu. Toto zjištění nemá klinický význam u člověka. Stejná studie též ukázala, že v dávce 2 mg/kg (soli) a vyšší byl pramipexol spojen s degenerací sítnice u albinotických potkanů. Poslední nález nebyl pozorován ani u pigmentovaných potkanů, ani ve dvouleté studii kancerogenity u albinotických myší, ani u žádného jiného zkoumaného druhu.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+
+Hypromelosa
+Hydrogenfosforečnan vápenatý Magnesium-stearát
+
+11/12
+
+Koloidní bezvodý oxid křemičitý
+
+6.2. Inkompatibility
+
+Neuplatňuje se
+
+6.3. Doba použitelnosti
+
+3 roky
+6.4. Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky uchovávání.
+
+6.5. Druh obalu a velikost balení
+
+Al/OPA-Al-PVC blistr: 10, 30 a 100 tablet s prodlouženým uvolňováním Na trhu nemusí být všechny velikosti balení
+6.6. Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+G.L.Pharma GmbH, Schlossplatz 1, 8502 Lannach, Rakousko
+
+8. REGISTRAČNÍ ČÍSLO/A
+0,26 gm: 27/420/13-C
+0,52 mg: 27/421/13-C
+2,1 mg: 27/423/13-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 30. 10. 2013
+Datum posledního prodloužení registrace: 27. 6. 2018
+
+10. DATUM REVIZE TEXTU
+
+4. 6. 2020
+
+
+
+
+
+
+
+12/12

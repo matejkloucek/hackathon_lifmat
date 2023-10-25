@@ -1,0 +1,416 @@
+Sp.zn. sukls23134/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+Cazaprol 0,5 mg potahované tablety Cazaprol 1 mg potahované tablety Cazaprol 2,5 mg potahované tablety Cazaprol 5 mg potahované tablety
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Cazaprol 0,5 mg: Jedna potahovaná tableta obsahuje cilazaprilum monohydricum 0,522 mg, což odpovídá cilazaprilum 0,5 mg.
+Cazaprol 1 mg: Jedna potahovaná tableta obsahuje cilazaprilum monohydricum 1,044 mg, což odpovídá cilazaprilum 1,0 mg.
+Cazaprol 2,5 mg: Jedna potahovaná tableta obsahuje cilazaprilum monohydricum 2,61 mg, což odpovídá cilazaprilum 2,5 mg.
+Cazaprol 5 mg: Jedna potahovaná tableta obsahuje cilazaprilum monohydricum 5,22 mg, což odpovídá cilazaprilum 5,0 mg.
+Pomocná látka se známým účinkem:
+Cazaprol 0,5 mg: Jedna potahovaná tableta obsahuje 107,86 mg laktosy. Cazaprol 1 mg: Jedna potahovaná tableta obsahuje 107,36 mg laktosy. Cazaprol 2,5 mg: Jedna potahovaná tableta obsahuje 162,89 mg laktosy. Cazaprol 5 mg: Jedna potahovaná tableta obsahuje 160,41 mg laktosy.
+
+Úplný seznam pomocných látek bod viz 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Potahovaná tableta.
+Cazaprol 0,5 mg: bílé, podlouhlé, mírně bikonvexní potahované tablety. Cazaprol 1 mg: žluté, podlouhlé, mírně bikonvexní potahované tablety.
+Cazaprol 2,5 mg: světle červenohnědé, podlouhlé, mírně bikonvexní potahované tablety. Cazaprol 5 mg: červenohnědé, podlouhlé, mírně bikonvexní potahované tablety.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Cazaprol je indikován k léčbě hypertenze.
+Cazaprol je indikován k léčbě chronického srdečního selhání.
+
+4.2  Dávkování a způsob podání
+Cazaprol by měl být podáván jednou denně. Protože příjem potravy nemá žádný klinicky významný vliv na jeho absorpci, může být přípravek Cazaprol užíván před nebo po jídle. Dávka by se měla
+užívat vždy přibližně ve stejnou denní dobu.
+
+Hypertenze:
+Úvodní dávka je 1 mg/den. Je třeba monitorovat krevní tlak a dávka přípravku se upravuje
+individuálně podle odpovědi krevního tlaku. Obvyklé dávkovací rozmezí přípravku Cazaprol je 2,5 až 5,0 mg jednou denně.
+U pacientů se silně aktivovaným systémem renin-angiotensin-aldosteron (zvláště u pacientů s deplecí minerálů a/nebo objemovou deplecí, srdeční dekompenzací nebo s těžkou hypertenzí) může po úvodní dávce dojít k nadměrnému poklesu krevního tlaku. Proto je u těchto pacientů doporučena nižší
+počáteční dávka 0,5 mg jednou denně a léčbu je třeba zahajovat pod lékařským dohledem.
+
+Pacienti s hypertenzí užívající diuretika:
+Pokud je to možné, má se podávání diuretik ukončit 2 – 3 dny před zahájením terapie přípravkem Cazaprol, aby se snížila pravděpodobnost vzniku symptomatické hypotenze. Pokud je to nutné, je možné léčbu diuretiky později znovu zahájit. Doporučená úvodní dávka u těchto pacientů je 0,5 mg jednou denně.
+
+Chronické srdeční selhání:
+Léčba přípravkem Cazaprol by měla být zahájena s doporučenou úvodní dávkou 0,5 mg jednou denně za přísného lékařského dohledu. Tuto dávku je třeba udržovat po dobu přibližně 1 týdne. Pokud je tato dávka dobře tolerována, může být zvyšována v týdenních intervalech a podle klinického stavu
+pacienta na 1,0 mg nebo 2,5 mg. Maximální denní dávka u těchto pacientů je 5,0 mg. Doporučené dávkování cilazaprilu u chronického srdečního selhání je založeno spíše na účincích na symptomatické zlepšení, než na údajích, které by prokazovaly snížení morbidity a mortality v této skupině pacientů (viz bod 5.1).
+Pacienti s poruchou renálních funkcí: U pacientů s poruchou renálních funkcí je, v závislosti na
+clearance kreatininu, nutné snížit dávku přípravku (viz bod 4.4). Je doporučeno následující dávkovací schéma:
+
+Tabulka 1: Schéma doporučeného dávkování pro pacienty s poruchou renálních funkcí
+
+Clearance kreatininu   Počáteční dávka přípravku
+Cazaprol
+> 40 ml/min         1 mg jednou denně
+10-40 ml/min        0,5 mg jednou denně
+< 10 ml/min         není doporučeno
+Maximální dávka přípravku Cazaprol
+5 mg jednou denně 2,5 mg jednou denně
+
+Pokud je rovněž přítomna renovaskulární hypertenze, existuje zvýšené riziko těžké hypotenze a
+renální nedostatečnosti. U těchto pacientů je třeba léčbu zahajovat za přísného lékařského dohledu
+s nízkými dávkami a opatrnou titrací dávky. Protože léčba diuretiky může být přispívajícím faktorem, je třeba je vysadit a v průběhu prvních týdnů léčby přípravkem Cazaprol monitorovat renální funkce. Výsledky z klinických studií prokázaly u pacientů s chronickým srdečním selháním korelaci mezi clearance cilazaprilu a clearance kreatininu. U pacientů s chronickým srdečním selháním a zhoršenou funkcí ledvin by mělo být dodržováno výše uvedené zvláštní doporučení pro dávkování.
+Jaterní cirhóza: U pacientů s jaterní cirhózou (ale bez ascitu), u kterých je nutná léčba hypertenze, by měl být cilazapril podáván s velkou opatrností v dávce nepřesahující 0,5 mg/den s pečlivým
+sledováním krevního tlaku, vzhledem k možnosti výskytu výrazné hypotenze.
+
+Starší pacienti s hypertenzí: Léčba přípravkem Cazaprol by měla být zahájena dávkou v rozmezí 0,5 mg až 1,0 mg jednou denně. Poté je nutno upravit udržovací dávku podle individuální
+snášenlivosti, odpovědi na léčbu a klinického stavu pacienta.
+
+Starší pacienti s chronickým srdečním selháním: Doporučenou úvodní dávku přípravku Cazaprol 0,5 mg je nutno v každém případě dodržet.
+Děti: Bezpečnost a účinnost přípravku Cazaprol nebyla u dětí dosud stanovena. Z tohoto důvodu neexistuje žádné doporučení dávkování cilazaprilu pro dětské pacienty.
+
+4.3  Kontraindikace
+-   Hypersenzitivita na cilazapril nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1, nebo hypersenzitivita na další ACE inhibitory;
+-   Anamnéza angioneurotického edému v souvislosti s předchozí léčbou ACE inhibitory;
+-   Hereditární nebo idiopatický angioneurotický edém;
+-   Druhý a třetí trimestr těhotenství (4.4 a 4.6);
+-   Souběžné užívání přípravku Cazaprol s přípravky obsahujícími aliskiren je kontraindikováno u pacientů s diabetes mellitus nebo s poruchou funkce ledvin (GFR < 60 ml/min/1,73 m²) (viz body 4.5 a 5.1);
+-   Souběžné užívání se sakubitrilem/valsartanem. Přípravek Cazaprol nesmí být nasazen dříve než 36 hodin po poslední dávce sakubitrilu/valsartanu (viz body 4.4 a 4.5).
+4.4  Zvláštní upozornění a opatření pro použití Těhotenství
+Léčba ACE inhibitory by se neměla zahajovat v průběhu těhotenství. Pokud není pokračování v léčbě ACE inhibitory považováno za nezbytné, je třeba u pacientek, které plánují těhotenství, zvolit
+alternativní antihypertenzní léčbu, která má stanovený bezpečnostní profil pro užívání během těhotenství. Pokud je diagnostikováno těhotenství, léčbu ACE inhibitory je nutné okamžitě ukončit a pokud je to vhodné, zahájit alternativní léčbu hypertenze (viz body 4.3 a 4.6).
+
+Hypotenze
+ACE inhibitory mohou způsobovat těžkou hypotenzi, zvláště na počátku léčby. Hypotenze po první dávce se nejpravděpodobněji objeví u pacienta, který má aktivovaný systém renin-angiotensin-
+aldosteron, jako je např. u renovaskulární hypertenze nebo u renální hypoperfuze z jiných příčin,
+sodíkové nebo objemové deplece nebo po předchozí léčbě jinými vasodilatancii. Tyto stavy se mohou vyskytovat společně, zvláště u pacientů s těžkým srdečním selháním.
+Hypotenze by měla být léčena uložením pacienta do polohy vleže naznak a objemovou expanzí. Jakmile je pacient objemově kompenzován, lze v podávání cilazaprilu pokračovat, ale měl by být podáván v nižších dávkách. Pokud hypotenze přetrvává, měla by být léčba přerušena.
+Rizikoví pacienti by měli zahajovat léčbu cilazaprilem pod lékařským dohledem, s nízkou iniciální dávkou a opatrnou titrací. Pokud je to možné, léčba diuretiky by měla být dočasně přerušena.
+Podobně opatrně je třeba postupovat u pacientů s anginou pectoris nebo cerebrovaskulárním onemocněním, u kterých může hypotenze způsobit myokardiální nebo cerebrální ischémii.
+
+Duální blokáda systému renin-angiotenzin-aldosteron (RAAS)
+Bylo prokázáno, že souběžné užívání inhibitorů ACE, blokátorů receptorů pro angiotenzin II nebo aliskirenu zvyšuje riziko hypotenze, hyperkalemie a snížení funkce ledvin (včetně akutního selhání
+ledvin). Duální blokáda RAAS pomocí kombinovaného užívání inhibitorů ACE, blokátorů receptorů pro angiotenzin II nebo aliskirenu se proto nedoporučuje (viz body 4.5 a 5.1).
+Pokud je duální blokáda považována za naprosto nezbytnou, má k ní docházet pouze pod dohledem specializovaného lékaře a za častého pečlivého sledování funkce ledvin, elektrolytů a krevního tlaku.
+Inhibitory ACE a blokátory receptorů pro angiotenzin II nemají být používány současně u pacientů s diabetickou nefropatií.
+
+Porucha renálních funkcí
+U pacientů s poruchou renálních funkcí by dávkování cilazaprilu mělo být upraveno podle clearance kreatininu (viz bod 4.2). Součástí obvyklé péče o tyto pacienty by mělo být rutinní monitorování kalia a kreatininu.
+ACE inhibitory mají prokázané renoprotektivní účinky, ale mohou způsobovat reverzibilní poruchu renálních funkcí v prostředí snížené renální perfuze, způsobené bilaterální stenózou renální artérie, těžkým městnavým srdečním selháním, volumovou deplecí, hyponatrémií nebo vysokými dávkami diuretik, nebo u pacientů léčených NSAID. Preventivní opatření zahrnují vysazení nebo dočasné přerušení léčby diuretiky, zahájení léčby velmi malými dávkami ACE inhibitorů a opatrnou titraci
+
+dávky.
+U pacientů se stenózou renální artérie pomáhá aktivace systému renin-angiotensin-aldosteron udržování renální perfuzi tím, že způsobí zúžení eferentních arteriol. Proto blokáda tvorby
+angiotenzinu II a pravděpodobně také zvýšení tvorby bradykininu způsobuje vazodilataci eferentních arteriol, což vede ke snížení tlaku glomerulární filtrace. Hypotenze přispívá dále ke snížení renální perfuze (viz bod 4.4 „Hypotenze“). Stejně jako u ostatních látek, které účinkují na systém renin- angiotensin, je i zde zvýšené riziko renální nedostatečnosti, včetně akutního renálního selhání, pokud jsou cilazaprilem léčeni pacienti se stenózou renální arterie.
+Proto by se mělo u těchto pacientů postupovat s opatrností. Pokud se objeví renální selhání, je třeba léčbu ukončit.
+
+Hypersenzitivita/angioedém
+S užíváním ACE inhibitorů je spojován angioedém, se zaznamenanou incidencí 0,1 – 0,5 %.
+Angioedém způsobený ACE inhibitory se může projevovat jako opakující se epizody otoku obličeje, který po vysazení přípravku ustoupí, nebo jako akutní orofaryngeální edém a obstrukce dýchacích
+cest, které vyžadují akutní léčbu a mohou být život ohrožující. Další formou je angioedém střeva, který se nejčastěji objevuje v průběhu prvních 24-48 hodin léčby. Riziko angioedému se zdá vyšší u černošské populace oproti populaci indoevropské. U pacientů s anamnézou angioedému, který nesouvisel s ACE inhibitory, může být zvýšené riziko jeho vzniku.
+Souběžné užívání ACE inhibitorů a sakubitrilu/valsartanu je kontraindikováno z důvodu zvýšeného rizika angioedému. Léčbu sakubitrilem/valsartanem nelze zahájit dříve než 36 hodin po poslední dávce cilazaprilu. Léčbu cilazaprilem nelze zahájit dříve než 36 hodin po poslední dávce sakubitrilu/valsartanu (viz body 4.3 a 4.5).
+Souběžné užívání ACE inhibitorů s racekadotrilem, mTOR inhibitory (např. sirolimus, everolimus,
+temsirolimus) a vildagliptinem může vést ke zvýšenému riziku angioedému (např. otok dýchacích cest nebo jazyka spolu s poruchou dýchání nebo bez poruchy dýchání) (viz bod 4.5). U pacientů, kteří již
+užívají ACE inhibitor, je třeba opatrnosti při počátečním podání racekadotrilu, mTOR inhibitorů (např. sirolimus, everolimus, temsirolimus) a vildagliptinu.
+
+Anafylaxe
+Hemodialýza: U pacientů dialyzovaných na vysokoprůtokových membránách (např. AN 69) se při užívání ACE inhibitorů objevila anafylaktická reakce. U takovýchto pacientů je třeba zvážit použití odlišných typů dialyzační membrány nebo odlišnou třídu přípravků k léčbě hypertenze.
+LDL (low-density lipoproteins) aferéza: U pacientů užívajících ACE inhibitory v průběhu LDL aferézy s natrium-dextran-sulfátem byla zaznamenána život ohrožující anafylaxe. Tomu je možné se vyvarovat dočasným vysazením léčby ACE inhibitory před každou aferézou.
+
+Desenzibilizace: U pacientů, kteří užívají ACE inhibitory a podstupují desenzibilizační léčbu vosím nebo včelím jedem, se může objevit anafylaktická reakce. Léčba cilazaprilem musí být ukončena před zahájením desenzibilizační léčby a cilazapril by neměl být nahrazen beta-blokátorem.
+
+Porucha funkce jater
+Byly hlášeny jednotlivé případy poruchy jaterních funkcí, jako jsou zvýšené hodnoty jaterních funkčních testů (transaminázy, bilirubin, alkalická fosfatáza, GMT) a cholestatická hepatitida s nebo bez nekrózy. Pacienti, kteří užívají cilazapril a u kterých se rozvinula žloutenka, nebo u kterých bylo zaznamenáno zvýšení jaterních enzymů, by měli léčbu cilazaprilem ukončit a měli by být
+odpovídajícím způsobem sledováni. U pacientů s jaterní cirhózou (ale bez ascitu), u kterých je nutná léčba hypertenze, je třeba cilazapril nasazovat v nižších dávkách a s velkou opatrností, z důvodu možného výskytu významné hypotenze (viz bod 4.2). U pacientů s ascitem není podávání cilazaprilu doporučeno.
+
+Neutropenie
+V souvislosti s ACE inhibitory byla vzácně zaznamenána neutropenie a agranulocytóza, zvláště u pacientů s renálním selháním nebo s onemocněním vaskulárního kolagenu a u pacientů, kteří
+podstupovali imunosupresivní léčbu. U takovýchto pacientů je doporučeno pravidelné monitorování
+
+počtu leukocytů.
+
+Sérové kalium
+ACE inhibitory mohou vyvolat hyperkalémii, protože brání uvolňování aldosteronu. U pacientů s normální funkcí ledvin není účinek obvykle významný. U pacientů s poruchou funkce ledvin, hypoaldosteronismem a/nebo u pacientů užívajících doplňky stravy obsahující kalium (včetně náhražek soli) nebo kalium šetřící diuretika, a zejména antagonisty aldosteronu nebo blokátory
+receptorů angiotensinu nebo u pacientů užívajících jiné léčivé látky, které mohou zvyšovat hladinu kalia (např. heparin, trimethoprim nebo kotrimoxazol označovaný též jako trimethoprim/sulfamethoxazol), se ale hyperkalémie může objevit. U pacientů užívajících ACE
+inhibitory mají být proto kalium šetřící diuretika a blokátory receptorů angiotensinu užívány opatrně a má být kontrolována hladinu draslíku v séru a funkce ledvin. Pokud je souběžné používání výše
+uvedených přípravků považováno za vhodné, doporučuje se pravidelně sledovat hladinu draslíku v séru (viz bod 4.5).
+
+Diabetes
+Podávání ACE inhibitorů pacientům s diabetem může potencovat hypoglykemický účinek perorálních antidiabetik nebo inzulinu, zvláště u pacientů s poruchou renálních funkcí. U takovýchto pacientů by měla být při zahajování léčby ACE inhibitory hladina glukózy pečlivě monitorována.
+
+Chirurgické výkony/anestezie
+Přípravky používané k anestezii, které mají hypotenzní účinky, mohou u pacientů užívajících ACE inhibitory způsobovat hypotenzi. Hypotenze v těchto podmínkách může být korigována doplněním objemu.
+
+Aortální stenóza/hypertrofická kardiomyopatie
+ACE inhibitory by měly být užívány s opatrností u pacientů se srdečními poruchami s obstrukcí (např. mitrální stenóza, aortální stenóza, hypertrofická kardiomyopatie), protože u těchto pacientů se srdeční výdej nemůže zvýšit, aby mohl kompenzovat systémovou vazodilataci, a proto je zde riziko závažné hypotenze.
+
+Intolerance laktózy
+Tento léčivý přípravek obsahuje laktózu. Pacienti se vzácnými dědičnými problémy s intolerancí
+galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je v podstatě „bez sodíku“.
+Rasy
+ACE inhibitory jsou jako antihypertenziva méně účinné u černošské populace pacientů. U těchto pacientů je rovněž vyšší riziko vzniku angioneurotického edému.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Lithium
+Při souběžném podávání lithia s ACE inhibitory byla hlášena reverzibilní zvýšení sérových
+koncentrací lithia a toxicita. Souběžné užívání thiazidových diuretik může zvyšovat riziko lithiové toxicity a zvyšovat již tak zvýšené riziko lithiové toxicity v souvislosti s ACE inhibitory. Užívání cilazaprilu s lithiem se nedoporučuje. Pokud je však tato kombinace považována za nezbytnou, je třeba pečlivě sledovat sérové hladiny lithia.
+Další antihypertenziva
+Pokud je cilazapril podáván společně s jinými přípravky snižujícími krevní tlak, může být zaznamenán aditivní účinek na snížení krevního tlaku.
+
+Data z klinických studií ukázala, že duální blokáda systému renin-angiotenzin-aldosteron (RAAS) pomocí kombinovaného užívání inhibitorů ACE, blokátorů receptorů pro angiotenzin II nebo
+aliskirenu je spojena s vyšší frekvencí nežádoucích účinků, jako je hypotenze, hyperkalemie a snížená funkce ledvin (včetně akutního renálního selhání) ve srovnání s použitím jedné látky ovlivňující RAAS (viz body 4.3, 4.4 a 5.1).
+Kalium šetřící diuretika, doplňky stravy obsahující kalium nebo náhražky soli obsahující kalium
+Hladina draslíku v séru obvykle zůstává v normálu, ale u některých pacientů se může při léčbě
+cilazaprilem objevit hyperkalémie. Kalium šetřící diuretika (např. spironolakton, triamteren nebo amilorid), doplňky stravy obsahující kalium nebo náhražky soli obsahující kalium mohou vést
+k významnému zvýšení hladiny draslíku v séru. Při podávání cilazaprilu společně s dalšími látkami, které zvyšují sérové kalium, jako je trimethoprim a kotrimoxazol (trimethoprim/sulfamethoxazol), je zapotřebí opatrnost, protože o trimethoprimu je známo, že se chová jako kalium šetřící diuretikum jako amilorid. Proto není kombinace cilazaprilu s výše zmíněnými přípravky doporučena. Pokud je
+souběžné podávání indikováno, je třeba je podávat s opatrností a s pravidelnými kontrolami hladin draslíku v séru.
+
+Cyklosporin
+Při souběžném užívání ACE inhibitorů a cyklosporinu se může objevit hyperkalémie. Doporučuje se kontrolovat hladinu draslíku v séru.
+Heparin
+Při souběžném užívání ACE inhibitorů a heparinu se může objevit hyperkalémie. Doporučuje se kontrolovat hladinu draslíku v séru.
+Diuretika (thiazidy nebo kličková diuretika)
+Předchozí léčba vysokými dávkami diuretik může vést k objemové depleci a riziku hypotenze při zahajování léčby cilazaprilem (viz bod 4.4). Hypotenzní účinky je možné snížit přerušením léčby diuretiky, zvýšením objemu nebo příjmu soli nebo zahájením léčby nízkou dávkou cilazaprilu.
+
+Tricyklická antidepresiva/antipsychotika/anestetika/narkotika
+Souběžné podávání určitých anestetik, tricyklických antidepresiv a antipsychotik s ACE inhibitory může vést k dalšímu snížení krevního tlaku (viz bod 4.4).
+
+Nesteroidní protizánětlivé léčivé přípravky (NSAID) včetně acetylsalicylové kyseliny v dávce ≥3 g/den
+Pokud jsou ACE inhibitory podávány současně s nesteroidními antiflogistiky (např. kyselina
+acetylsalicylová v protizánětlivém režimu dávkování, COX-2 inhibitory nebo neselektivní NSAID), může dojít k oslabení antihypertenzního účinku. Souběžné podávání ACE inhibitorů a NSAID může vést ke zvýšení rizika zhoršení renálních funkcí, včetně možného akutního renálního selhání, a
+ke zvýšení hladin draslíku v séru, zvláště u pacientů s preexistující poruchou renálních funkcí. Tuto kombinaci je proto třeba podávat s opatrností, zvláště u starších pacientů. U pacientů je
+třeba dodržovat dostatečnou hydrataci a pravidelně monitorovat renální funkce (po zahájení souběžné léčby a v pravidelných intervalech během léčby).
+Sympatomimetika
+Sympatomimetika mohou snižovat antihypertenzní účinky ACE inhibitorů.
+
+Antidiabetika
+Epidemiologické studie naznačují, že souběžné podávání ACE inhibitorů a antidiabetik (inzulín, perorální antidiabetika) může vést ke zvýraznění hypoglykemického účinku s rizikem následné hypoglykémie. Tento fenomén se s větší pravděpodobností objeví v průběhu prvních týdnů kombinované léčby a u pacientů s poruchou renálních funkcí.
+Zlato
+U pacientů, kteří jsou léčeni injekčním zlatem (natrium-auro-thiomalát) a současně ACE inhibitory,
+
+byly vzácně hlášeny nitritoidní reakce (příznaky zahrnují návaly horka/zrudnutí v obličeji, nauzeu, zvracení a hypotenzi).
+
+Léky zvyšující riziko angioedému
+Souběžné užívání ACE inhibitorů a sakubitrilu/valsartanu je kontraindikováno z důvodu zvýšeného rizika angioedému (viz body 4.3 a 4.4).
+Souběžné užívání ACE inhibitorů s racekadotrilem, mTOR inhibitory (sirolimus, everolimus, temsirolimus) a vildagliptinem může vést ke zvýšenému riziku angioedému (viz bod 4.4).
+Kotrimoxazol (trimethoprim / sulfamethoxazol)
+Pacienti souběžně užívající kotrimoxazol (trimethoprim/sulfamethoxazol) mohou mít zvýšené riziko hyperkalémie (viz bod 4.4).
+
+Další
+Při společném podávání cilazaprilu a digoxinu, nitrátů, antikoagulancií kumarinového typu a blokátorů H2 receptorů nedochází k žádným klinicky významným interakcím.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Podávání ACE inhibitorů, se v průběhu prvního trimestru těhotenství nedoporučuje (viz bod 4.4). Podávání ACE inhibitorů, je v průběhu druhého a třetího trimestru těhotenství kontraindikováno (viz body 4.3 a 4.4).
+
+Epidemiologické údaje, které by doložily riziko teratogenity po expozici ACE inhibitorům v průběhu prvního trimestru těhotenství, nejsou přesvědčivé, nicméně malé zvýšení rizika nelze vyloučit. Pokud není pokračování v léčbě ACE inhibitory považováno za nezbytné, ženy, které plánují těhotenství, by měly být převedeny na alternativní antihypertenzivní léčbu, které má stanovený bezpečnostní profil pro podávání v těhotenství. Pokud je diagnostikováno těhotenství, léčba ACE inhibitory by měla být okamžitě ukončena a, pokud je to vhodné, má být zahájena alternativní léčba.
+Je známo, že expozice ACE inhibitorům v průběhu druhého a třetího trimestru způsobuje u člověka fetotoxicitu (snížení renálních funkcí, oligohydramnion, zpomalená osifikace lebky) a neonatální toxicitu (renální selhání, hypotenze, hyperkalémie). (Viz bod 5.3). Pokud dojde k expozici ACE
+inhibitorům od druhého trimestru těhotenství, je doporučeno UZ vyšetření renálních funkcí a lebky. Kojenci, jejichž matky užívaly ACE inhibitory, by měly být pečlivě sledováni pro známky hypotenze (viz body 4.3 a 4.4).
+Kojení
+Protože nejsou k dispozici žádné údaje týkající se bezpečnosti cilazaprilu v průběhu kojení, není podávání cilazaprilu během kojení doporučeno a je vhodné použít alternativní léčbu s lepším
+stanoveným bezpečnostním profilem v průběhu kojení, zvláště při kojení novorozenců nebo nedonošených dětí.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Při řízení a obsluze strojů je třeba vzít v úvahu, že se u pacientů užívajících ACE inhibitory mohou občas objevit závratě a únava, zvláště na počátku léčby (viz body 4.4 a 4.8).
+
+4.8  Nežádoucí účinky
+-   Velmi časté (≥1/10)
+-   Časté (≥ 1/100 až <1/10)
+-   Méně časté (≥1/1 000) až <1/100)
+-   Vzácné (≥ 1/10 000 a <1/1 000)
+-   Velmi vzácné (<1/10 000)
+-   Není známo (z dostupných údajů nelze určit)
+
+Shrnutí bezpečnostního profilu
+Nejčastěji zaznamenanými nežádoucími účinky v souvislosti s přípravkem, které byly pozorovány při užívání ACE inhibitorů, byly kašel, kožní vyrážka a renální dysfunkce. Kašel je častější u žen a
+u nekuřáků. Tam, kde pacient kašel toleruje, může být rozumné v léčbě pokračovat. V některých případech pomůže snížení dávky.
+Nežádoucí účinky související s podáváním přípravku, které byly takové intenzity, že kvůli nim bylo nutné přerušit léčbu, se objevily u méně než 5 % pacientů, kterým byly ACE inhibitory podávány.
+Přehled nežádoucích účinků
+Následující seznam nežádoucích účinků je odvozen z klinických studií a z údajů po uvedení přípravku na trh a týká se cilazaprilu a/nebo dalších ACE inhibitorů. Odhady frekvence jsou založeny na
+procentu/podílu pacientů, u kterých se objevil jednotlivý nežádoucí účinek v průběhu klinických studií s cilazaprilem, což zahrnovalo kombinovaný soubor celkem 7 171 pacientů. Nežádoucí účinky, které nebyly pozorovány v průběhu klinických studií s cilazaprilem, ale byly hlášeny v souvislosti s dalšími ACE inhibitory, nebo odvozeny z hlášení po uvedení přípravku na trh, jsou klasifikovány jako
+„vzácné.“
+Poruchy krve a lymfatického systému
+Vzácné: Neutropenie, agranulocytóza, trombocytopenie, anémie.
+
+Poruchy imunitního systému
+Méně časté: Angioneurotický edém (může zahrnovat otok obličeje, rtů, jazyka, laryngu nebo gastrointestinálního traktu) (viz bod 4.4).
+Vzácné: Anafylaxe (viz bod 4.4).
+Syndrom připomínající systémový lupus erythematodes (příznaky mohou zahrnovat vaskulitidu, myalgii, artralgii/artritidu, pozitivní antinukleární protilátky, zvýšení rychlosti sedimentace erytrocytů, eozinofilii a leukocytózu).
+Poruchy nervového systému
+Časté: Bolest hlavy.
+Méně časté: Dysgeuzie.
+Vzácné: Cerebrální ischemie, tranzitorní ischemická ataka, ischemická cévní mozková příhoda. Periferní neuropatie.
+
+Srdeční poruchy
+Méně časté: Ischemie myokardu, angina pectoris, tachykardie, palpitace. Vzácné: Infarkt myokardu, arytmie.
+Cévní poruchy
+Časté: Závratě.
+Méně časté: Hypotenze, posturální hypotenze (viz bod 4.4). Příznaky hypotenze mohou zahrnovat synkopu, slabost, závrať a poruchu zraku.
+Respirační, hrudní a mediastinální poruchy
+Časté: Kašel.
+Méně časté: Dyspnoe, bronchospasmus, rinitida.
+Vzácné: Intersticiální plicní onemocnění, bronchitida, sinusitida.
+Gastrointestinální poruchy
+Časté: Nauzea.
+Méně časté: Sucho v ústech, aftózní stomatitida, snížení chuti k jídlu, průjem, zvracení. Vzácné: Glositida, pankreatitida.
+Poruchy jater a žlučových cest
+Vzácné: Abnormální výsledky funkčního vyšetření jater (včetně transamináz, bilirubinu, alkalické
+
+fosfatázy, GMT).
+Cholestatická hepatitida s nebo bez nekrózy.
+
+Poruchy kůže a podkožní tkáně
+Méně časté: Vyrážka, makulopapulózní vyrážka.
+Vzácné: Psoriaformní dermatitida, psoriáza (exacerbace), lichen planus, exfoliativní dermatitida, kopřivka, erythema multiforme, Stevens-Johnsonův syndrom, toxická epidermální nekrolýza, bulózní pemfigoid, pemfigus, Kaposiho sarkom, vaskulitida/purpura, fotosenzitivní reakce, alopecie,
+onycholýza.
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Méně časté: Svalové křeče, myalgie, artralgie.
+
+Poruchy ledvin a močových cest
+Vzácné: Porucha renálních funkcí, akutní renální selhání (viz bod 4.4), zvýšení kreatininu v krvi, zvýšení urey v krvi.
+Hyperkalémie, hyponatrémie, proteinurie, nefrotický syndrom, nefritida.
+
+Poruchy reprodukčního systému a prsu
+Méně časté: Impotence.
+Vzácné: Gynekomastie.
+Celkové poruchy a reakce v místě aplikace
+Časté: Únava.
+Méně časté: Nadměrné pocení, návaly horka, astenie, porucha spánku.
+
+Popis vybraných nežádoucích účinků
+Hypotenze a posturální hypotenze se mohou objevit při zahajování léčby nebo při zvyšování dávky, zvláště u rizikových pacientů (viz bod 4.4).
+Porucha renálních funkcí a akutní renální selhání je více pravděpodobné u pacientů s těžkým srdečním selháním, stenózou renální arterie, preexistujícím renálním onemocněním nebo při objemové depleci (viz bod 4.4).
+Hyperkalémie se nejpravděpodobněji objeví u pacientů s poruchou renálních funkcí a u pacientů, kteří užívají kalium šetřící diuretika nebo potravinové doplňky obsahující kalium.
+Případy cerebrální ischemie, tranzitorní ischemické ataky nebo ischemické cévní mozkové příhody,
+hlášené vzácně v souvislosti s ACE inhibitory, mohou u pacientů s cerebrovaskulárním onemocněním souviset se vzniklou hypotenzí. Podobně ischemie myokardu může u pacientů s ischemickou chorobou srdeční souviset se vzniklou hypotenzí.
+Bolest hlavy je často hlášeným nežádoucím účinkem, ačkoli incidence bolestí hlavy je vyšší u pacientů dostávajících placebo, než u pacientů léčených ACE inhibitory.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Příznaky
+O předávkování u člověka jsou k dispozici pouze omezené údaje. Symptomy související
+s předávkováním ACE inhibitory mohou zahrnovat hypotenzi, cirkulační šok, poruchu elektrolytové rovnováhy, renální selhání, hyperventilaci, tachykardii, palpitace, bradykardii, závratě, úzkost a kašel.
+
+Léčba
+Doporučenou léčbou předávkování je intravenózní aplikace fyziologického roztoku chloridu sodného 9 mg/ml (0,9 %). Pokud se objeví hypotenze, je třeba pacienty uložit do protišokové polohy. Pokud je dostupná léčba infuzí angiotenzinu II a/nebo intravenózními katecholaminy, je možné ji též zvážit.
+U pacientů s bradykardií, která je rezistentní na léčbu, je indikována kardiostimulace. Je třeba pečlivě monitorovat vitální znaky, hladinu elektrolytů v séru a koncentrace kreatininu.
+Je-li to indikované, je možné aktivní formu cilazaprilu, cilazaprilát, částečně odstranit z cirkulace hemodialýzou (viz bod 4.4).
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: ACE inhibitory, samotné, ATC kód: C09AA08.
+
+Mechanismus účinku
+Přípravek Cazaprol je specifický, dlouhodobě účinkující inhibitor angiotenzin konvertujícího enzymu (ACE inhibitor). Inhibicí se snižuje aktivita systému renin-angiotensin-aldosteron, což má za následek sníženou přeměnu inaktivního angiotenzinu I na angiotenzin II, vysoce účinný vasokonstriktor.
+Účinky přípravku Cazaprol přetrvávají, pokud je podáván v doporučených dávkách pacientům s hypertenzí a chronickým srdečním selháním, až po dobu 24 hodin.
+
+Klinická účinnost a bezpečnost
+Hypertenze
+Přípravek Cazaprol vyvolává snížení systolického a diastolického krevního tlaku vestoje i vleže, obvykle bez ortostatické složky. Přípravek je účinný u všech tříd esenciální hypertenze stejně jako u renální hypertenze. Antihypertenzní účinek přípravku Cazaprol je obvykle zřetelný během první
+hodiny po podání s maximálním účinkem mezi 3. až 7. hodinou po podání. Ve většině případů zůstává tepová frekvence nezměněna. Po podání přípravku nedochází k reflexní tachykardii, ačkoli mohou nastat malé, klinicky nevýznamné, změny srdečního rytmu. U některých pacientů může dojít ke
+snížení účinku na redukci krevního tlaku na konci dávkovacího intervalu.
+Antihypertenzní účinek přípravku Cazaprol během dlouhodobé léčby přetrvává. Po náhlém vysazení přípravku Cazaprol nedochází k prudkému zvýšení krevního tlaku.
+U pacientů s hypertenzí se středně těžkou až těžkou poruchou funkce ledvin zůstává během léčby přípravkem Cazaprol poměr glomerulární filtrace a krevního průtoku ledvinami nezměněn, a to i přes klinicky významné snížení krevního tlaku.
+Stejně jako u ostatních ACE inhibitorů může být účinek přípravku Cazaprol na snížení krevního tlaku větší u černošské populace ve srovnání s populací indoevropskou. Rozdíly v odpovědi na podávání přípravku Cazaprol mezi různými rasami nebyly pozorovány, pokud byl přípravek Cazaprol podáván současně s hydrochlorothiazidem.
+
+Ve dvou velkých randomizovaných, kontrolovaných studiích (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) a VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) bylo hodnoceno podávání kombinace inhibitoru ACE s blokátorem receptorů pro angiotenzin II.
+Studie ONTARGET byla vedena u pacientů s anamnézou kardiovaskulárního nebo
+cerebrovaskulárního onemocnění nebo u pacientů s diabetes mellitus 2. typu se známkami poškození cílových orgánů. Studie VA NEPHRON-D byla vedena u pacientů s diabetes mellitus 2. typu a
+diabetickou nefropatií.
+V těchto studiích nebyl prokázán žádný významně příznivý účinek na renální a/nebo kardiovaskulární ukazatele a mortalitu, ale v porovnání s monoterapií bylo pozorováno zvýšené riziko hyperkalemie, akutního poškození ledvin a/nebo hypotenze. Vzhledem k podobnosti farmakodynamických vlastností jsou tyto výsledky relevantní rovněž pro další inhibitory ACE a blokátory receptorů pro angiotenzin II.
+
+Inhibitory ACE a blokátory receptorů pro angiotensin II proto nesmí pacienti s diabetickou nefropatií užívat současně.
+Studie ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) byla navržena tak, aby zhodnotila přínos přidání aliskirenu k standardní terapii inhibitorem ACE nebo blokátorem receptorů pro angiotenzin II u pacientů s diabetes mellitus 2. typu a chronickým onemocněním ledvin, kardiovaskulárním onemocnění, nebo obojím. Studie byla předčasně ukončena z důvodu zvýšení rizika nežádoucích komplikací. Kardiovaskulární úmrtí a cévní mozková příhoda byly numericky častější ve skupině s aliskirenem než ve skupině s placebem a zároveň nežádoucí účinky a
+sledované závažné nežádoucí účinky (hyperkalemie, hypotenze a renální dysfunkce) byly častěji hlášeny ve skupině s aliskirenem oproti placebové skupině.
+Chronické srdečné selhání
+Zatím nebyly provedeny žádné klinické studie, které by prokázaly účinky cilazaprilu na morbiditu a mortalitu u srdečního selhání.
+U pacientů s chronickým srdečním selháním obecně platí, že systém renin-angiotensin-aldosteron a
+sympatický nervový systém jsou aktivovány, což má za následek zvýšenou systémovou vazokonstrikci a zesílení retence vody a sodíku. Snížením aktivity systému renin-angiotensin-aldosteron zlepšuje přípravek Cazaprol u pacientů léčených diuretiky a/nebo digitalisem srdeční výdej selhávajícího srdce snížením systémové vaskulární rezistence (afterload) a pulmonálního kapilárního tlaku v zaklínění (preload). Kromě toho se výrazně zvyšuje tolerance k zátěži u pacientů léčených přípravkem Cazaprol. Hemodynamické a klinické účinky léčby nastupují rychle a mají dlouhodobé trvání.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Cilazapril je účinně absorbován a rychle přeměněn na aktivní formu cilazaprilát. Příjem potravy těsně před podáním přípravku Cazaprol v malé míře zpožďuje a snižuje absorpci léčivé látky, tato změna je ale malá a nemá klinický význam. Biologická dostupnost cilazaprilátu z perorálně podaného
+cilazaprilu, určená na základě identifikace látek v moči, je asi 60 %. Maximální plasmatické
+koncentrace jsou dosahovány během 2 hodin po podání přípravku a jsou přímo úměrné velikosti dávky.
+Eliminace
+Cilazaprilát je eliminován v nezměněné formě ledvinami, eliminační poločas při dávkování přípravku Cazaprol jednou denně je 9 hodin.
+Porucha renálních funkcí
+U pacientů s poruchou renálních funkcí mohou být pozorovány vyšší plasmatické koncentrace
+cilazaprilátu než u pacientů s normální funkcí ledvin, protože clearance léčivé látky je snížená při nižší clearance kreatininu. V případě pacientů s úplným renálním selháním nedochází k žádné eliminaci, ale hemodialýzou lze koncentrace cilazaprilu i cilazaprilátu v omezené míře snížit.
+
+Starší osoby
+U starších pacientů, jejichž renální funkce jsou normální a odpovídají věku pacienta, mohou
+plasmatické koncentrace cilazaprilátu stoupnout až o 40 % a clearance klesnout až o 20 % ve srovnání s mladšími pacienty.
+
+Porucha funkce jater
+U pacientů s jaterní cirhózou bylo pozorováno zvýšení plasmatických koncentrací a snížení
+plasmatické a renální clearance cilazaprilu i cilazaprilátu, přičemž koncentrace i clearance cilazaprilu byla ovlivněna ve větší míře než koncentrace a clearance jeho aktivního metabolitu - cilazaprilátu.
+
+Další zvláštní populace
+U pacientů s chronickým srdečním selháním clearance cilazaprilátu koreluje s clearance kreatininu. Proto není mimo tato doporučení pro pacienty s poruchou renálních funkcí úprava dávkování nutná (viz bod 4.2).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Předklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity, hodnocení kancerogenního potenciálu, reprodukční a vývojové toxicity neodhalily žádné zvláštní riziko pro člověka.
+U inhibitorů angiotenzin konvertujícího enzymu (jako skupiny) bylo prokázáno, že způsobují
+nežádoucí účinky na pozdní fetální vývoj, což vedlo k úmrtí plodu nebo kongenitálním defektům, které postihovaly zvláště lebku. Byla rovněž zaznamenána fetotoxicita, intrauterinní retardace růstu a ductus arteriosus patens. Tyto vývojové anomálie jsou pravděpodobně zčásti způsobené přímým
+účinkem ACE inhibitorů na fetální systém renin-angiotenzin a částečně také ischemií, která je následkem maternální hypotenze a poklesu feto-placentárního průtoku a přívodu kyslíku/živin k plodu.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Jádro:
+Natrium-stearyl-fumarát Mastek
+Monohydrát laktosy Hypromelosa Kukuřičný škrob
+
+Potah:
+Hypromelosa Mastek
+Oxid titaničitý (E171)
+Žlutý oxid železitý (E172) – pouze v potahovaných tabletách 1 mg
+Červený oxid železitý (E172) – pouze v potahovaných tabletách 2,5 mg a 5 mg
+
+6.2  Inkompatibility
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+2 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte v původním obalu, aby byl přípravek chráněn před vlhkostí. Uchovávejte při teplotě do 30 °C.
+
+6.5  Druh obalu a obsah balení
+tablety 0,5 mg a 1 mg:
+Blistr OPA/Alu/PE + DES – Alu/PE, krabička
+Velikosti balení: 28, 30, 56, 60, 84, 90 a 98 potahovaných tablet.
+
+tablety 2,5 mg a 5 mg:
+Blistr OPA/Alu/PVC - Alu, krabička
+Velikosti balení: 28, 30, 56, 60, 84, 90 a 98 potahovaných tablet. Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky na likvidaci.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovinsko
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+Cazaprol 0,5 mg: 58/704/07-C Cazaprol 1 mg: 58/705/07-C Cazaprol 2,5 mg: 58/706/07-C Cazaprol 5 mg: 58/707/07-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 14. 11. 2007
+Datum posledního prodloužení registrace: 9. 1. 2013
+
+10.  DATUM REVIZE TEXTU
+21. 3. 2019

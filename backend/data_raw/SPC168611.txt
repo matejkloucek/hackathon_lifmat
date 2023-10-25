@@ -1,0 +1,398 @@
+sp. zn. sukls202609/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.   NÁZEV PŘÍPRAVKU
+
+DIPIDOLOR 7,5 mg/ml injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jeden ml roztoku obsahuje piritramidum 7,5 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý, bezbarvý roztok prakticky prostý viditelných částic
+
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Silné a velmi silné pooperační a neoplastické bolesti, u nichž jsou indikovány opioidy.
+4.2  Dávkování a způsob podání
+
+Intramuskulární a subkutánní podání:
+Dospělí: jednotlivá dávka 15 – 30 mg
+Děti: 0,05 - 0,2 mg/kg tělesné hmotnosti.
+Intravenózní podání (pouze při požadavku zvláště rychlého nástupu účinku):
+Dospělí: jednotlivá dávka 7,5 - 22,5 mg za dodržení podmínky pomalé aplikace (10 mg za minutu). Děti: jednotlivá dávka 0,05 až 0,1 mg/kg tělesné hmotnosti.
+Při poklesu účinku může být jednotlivá intramuskulární, subkutánní nebo intravenózní aplikace opakována zpravidla každých 6 – 8 hodin.
+
+Zvýšení dávky přípravku Dipidolor je nutné provádět opatrně, aby bylo zabráněno akumulaci piritramidu, která by mohla zvýšit riziko dechové deprese. Od podání přípravku Dipidolor může uplynout až 24 hodin, než se dostaví plný analgetický účinek podané dávky.
+
+Dávka při zahájení podávání má být snížena u kachektických, oslabených nebo starších pacientů, nebo u pacientů s poruchou jaterních a ledvinných funkcí. V zásadě má být vždy podána nejnižší možná dávka, která však již u jednotlivých pacientů zajišťuje dostatečný cílený, bolest tlumící účinek. Při dlouhodobé léčbě chronické bolesti se doporučuje dodržovat dávkování dle stanovených časových schémat.
+
+Pediatrická populace
+
+Jsou dostupné pouze omezené farmakokinetické údaje získané ze studií provedených u novorozenců, kojenců a dětí mladších 5 let. Zejména u spontánně dýchajících novorozenců existuje riziko vzniku respirační deprese, neboť dostupné údaje nasvědčují tomu, že u této věkové skupiny je prodloužený eliminační poločas a snížená clearance (viz bod 5.2, Pediatrická populace).
+4.3  Kontraindikace
+
+Dipidolor je kontraindikován u:
+•  pacientů se známou hypersenzitivitou na léčivou látku nebo na kteroukoli pomocnou látku
+uvedenou v bodě 6.1
+•  pacientů v kómatu
+•  pacientů s útlumem dechového centra
+4.4  Zvláštní upozornění a opatření pro použití Respirační deprese
+Podobně jako u jiných opoidů se může u pacientů užívajících Dipidolor vyskytnout deprese
+centrálního nervového systému a/nebo respirační deprese, včetně zástavy dechu nebo respiračního selhání.
+
+Vždy musí být dostupný antagonista μ-opioidních receptorů. Vzhledem k dlouhému trvání účinku přípravku Dipidolor může být nutné opakované podání antagonisty.
+
+Kardiovaskulární účinky
+Po podání přípravku Dipidolor může dojít k poklesu krevního tlaku. Velikost toto účinku může být vystupňována u hypovolemických pacientů nebo za přítomnosti konkomitantní tlumící léčby.
+Kvůli výskytu bradykardie je nutné podávat Dipidolor opatrně u pacientů s bradyarytmií. U těchto
+pacientů je nutné začít léčbu nižší dávkou a pozorně je sledovat během titrace dávky.
+Zvláštní podmínky pro dávkování
+DIPIDOLOR je nutno užívat s opatrností u akutních otrav alkoholem, konvulzivních poruch, poranění hlavy a stavů, při nichž je zvýšen intrakraniální tlak.
+Zvýšená péče je zapotřebí při aplikaci přípravku Dipidolor pacientům trpícím hypotyreózou, adrenokortikální insuficiencí, hypertrofií prostaty a v šokovém stavu nebo při současném užívání látek navozujících celkový útlum (alkohol, barbituráty, hypnotika, benzodiazepiny atd).
+
+Opatrnosti je zapotřebí při podávání kachetickým, oslabeným nebo starším pacientům, pacientům s poruchou funkce jater a ledvin nebo se sníženými dechovými funkcemi. U takových pacientů je nutné započít léčbu sníženou dávkou a pozorně je sledovat během titrace dávky (viz bod 4.2).
+
+Léková závislost
+Podobně jako u jiných opioidů se pacient může stát fyzicky nebo psychicky závislý na přípravku Dipidolor; riziko závislosti se většinou zvyšuje s délkou expozice a s rostoucí dávkou. V průběhu času může být nutno pro dosažení stejného analgetického účinku podávat více přípravku (tolerance).
+
+Při ukončení léčby přípravkem, při přechodu na méně účinný opioid nebo při podání antagonisty se mohou objevit syndromy z vysazení. Tyto příznaky zahrnují poruchu rovnováhy, třes, úzkost, zvracení, průjem a/nebo zvýšený krevní tlak.
+
+Syndrom z vysazení léku u novorozenců
+U novorozenců, jejichž matky dlouhodobě užívaly opioidy během těhotenství, existuje riziko vzniku syndromu z vysazení léku u novorozenců (viz bod 4.6).
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Inhibitory cytochromu P450 3A4 (CYP3A4)
+Piritramid je z velké míry metabolizován převážně prostřednictvím CYP3A4. Simulace souběžného podání přípravku Dipidolor s inhibitory CYP3A4 naznačuje, že následkem souběžného podání může být přibližně 4násobné zvýšení koncentrace piritramidu u dospělých a 6násobné zvýšení u dětí (viz bod 5.2). Riziko respirační deprese může být zvýšeno při současném užívání inhibitorů CYP3A4
+(viz bod 4.2). Může být nezbytné snížit počáteční dávku přípravku Dipidolor. Zvýšení dávky má být pečlivě monitorováno (viz bod 4.2).
+
+Inhibitory monoaminooxidázy (IMAO)
+Souběžné podání inhibitorů monoaminooxidázy (IMAO) může vyvolat paroxyzmální stimulaci CNS a hypertenzi. Léčba inhibitory MAO musí být ukončena nejméně 14 dní před zahájením léčby přípravkem Dipidolor.
+Látky tlumící centrální nervový systém (CNS)
+Látky tlumící CNS, jako jsou barbituráty, benzodiazepiny, neuroleptika, fenothiazinové deriváty, celková anestetika a další neselektivní hypnotika a neselektivní depresory CNS (např. alkohol), mohou potencovat respirační depresi vyvolanou opioidy (včetně přípravku Dipidolor) několika mechanismy. Pokud pacienti užívají léky tlumící CNS, má být dávka přípravku Dipidolor snížena. Současné podávání s přípravkem Dipidolor u spontánně dýchajících pacientů může zvyšovat riziko respirační deprese, hluboké sedace, kómatu a úmrtí.
+Po podání přípravku Dipidolor je třeba dávku jiných léčiv tlumících CNS snížit na nejnižší účinnou dávku. Je to zvláště důležité po chirurgickém zákroku, protože hluboká anestezie je spojena s významnou respirační depresí, která může v pooperačním období přetrvávat nebo se vracet. Podání léčiv tlumících CNS jako jsou benzodiazepiny během tohoto období může neúměrně zvýšit riziko respirační deprese.
+Serotoninergní přípravky
+Současné podávání příravku Dipidolor se serotoninergními léčivými přípravky, jako jsou selektivní inhibitory zpětného vychytávání serotoninu (SSRI), inhibitory zpětného vychytávání serotoninu a noradrenalinu (SNRI) nebo inhibitory monoaminooxidázy (IMAO), může zvýšit riziko vývoje potenciálně život ohrožujícího serotoninového syndromu.
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Existují pouze omezené údaje o použití piritramidu v těhotenství. Studie na zvířatech nejsou dostatečné s ohledem na reprodukční toxicitu. U zvířat nebyl pozorován žádný vliv na embryotoxicitu nebo teratogenitu (viz bod 5.3). Potenciální riziko pro člověka není známo. Dipidolor není doporučen během těhotenství, pokud jeho použití není absolutně nutné.
+
+Dlouhodobé užívání opioidů během těhotenství může u novorozence vyvolat lékovou závislost, která může vést ke vzniku syndromu z vysazení léku u novorozenců. Pokud je u těhotné ženy vyžadováno dlouhodobé užívání opioidů, pacientka má být lékařem o tomto riziku informována.
+
+Z důvodu možného vzniku respirační deprese u novorozence či matky musí být k dispozici vybavení pro asistovanou ventilaci k okamžitému použití a musí být též k dispozici opioidní antagonista.
+
+Kojení
+Není známo, zda piritramid prostupuje do mateřského mléka. Avšak protože je známo, že ostatní opioidy se do mateřského mléka vylučují, riziko pro kojící děti nelze vyloučit. Je nutné rozhodnout, zda přerušit kojení nebo nepodat přípravek Dipidolor kojící ženě, s ohledem na přínos kojení pro dítě nebo přínos léčby pro ženu.
+Fertilita
+
+Nejsou k dispozici údaje o vlivu piritramidu na fertilitu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Dipidolor může způsobit sedaci. Proto je pacientům doporučeno neřídit a neobsluhovat stroje po dobu minimálně 24 hodin po podání přípravku Dipidolor.
+
+4.8  Nežádoucí účinky
+Bezpečnost přípravku Dipidolor byla hodnocena u 526 pacientů v 7 klinických studiích, kdy byl
+Dipidolor podáván nejméně jedenkrát intramuskulárně v dávce 15 mg k léčbě akutní bolesti. V tabulce jsou shrnuty nežádoucí účinky z klinických studií a postmarketingového použití s použitím následující konvence:
+Velmi časté (≥ 1/10)
+Časté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až < 1/100) Vzácné (≥ 1/10 000 až < 1/1 000) Velmi vzácné (< 1/10 000)
+Není známo (z dostupných údajů nelze určit).
+
+Nežádoucí účinky hlášené v klinických hodnoceních a při post-marketingovém použití
+
+Třídy orgánových systémů
+Nežádoucí účinek
+Frekvence
+
+Poruchy imunitního systému
+Psychiatrické poruchy Poruchy
+nervového systému Poruchy oka Srdeční poruchy
+
+Cévní poruchy Respirační, hrudní a mediastinální poruchy
+
+
+Gastrointestinální
+poruchy Poruchy kůže a podkožní tkáně
+Celkové poruchy a reakce v místě aplikace
+Vyšetření
+Velmi časté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zvýšení frekvence srdeční akce, snížení krevního tlaku
+Časté
+
+
+
+
+
+Stupor, vertigo, somnolence
+
+
+
+
+
+
+
+
+
+
+Nauzea, zvracení, říhání
+Sinalost
+Méně časté
+
+
+
+Závislost
+
+Bolest hlavy
+
+
+
+
+Hypotenze
+
+
+
+
+
+
+
+
+Hyperhidróza
+
+
+
+
+
+Snížení frekvence dýchání
+Není známo Anafylaxe, anafylaktický šok
+Příznaky
+z vysazení Ztráta vědomí
+Mióza Bradykardie, bradyarytmie, cyanóza
+
+Zástava dechu, respirační selhání, status astmaticus, bronchospasmus, dyspnoe
+
+
+Alergická dermatitida, pruritus Reakce v místě aplikace
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Příznaky
+Předávkování přípravkem Dipidolor se projevuje prodloužením farmakologických účinků. Může se vyskytnout dechová deprese, která může ve své závažnosti od bradypnoe k apnoe.
+Léčba
+Uvedené příznaky mohou být zmírněny antagonistou opioidů, který má být podáván opatrně, v opakovaných nízkých dávkách, neboť trvání účinku je kratší než u piritramidu. Může být rovněž zapotřebí intenzivní péče (zejména intubace a ventilace), opatření proti ztrátám tepla a opatření směřující k zachování cirkulačního objemu.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Opioidní analgetika (anodyna), deriváty difenylpropylaminu,
+piritramid, ATC kód: N02AC03
+Mechanismus účinku
+
+Piritramid je derivátem difenylpropylpiperidinu, vyznačuje se centrálním analgetickým účinkem při porovnání hmotnostních ekvivalentů téměř totožným s morfinem. Analgezie je podmíněna aktivací míšních opioidních μ-receptorů a ve vyšších centrech pro vnímání bolesti v thalamu a mozkové kůře. Tím se zvyšuje práh pro vnímání bolesti.
+
+Farmakodynamické účinky
+Klinickými hodnoceními byl potvrzen rychlý nástup účinku: po intravenózním podání nastává analgezie již do 1 - 2 minut, po intramuskulárním nebo subkutánním podání nastává analgezie do 15 – 20 minut (u pethidinu do 20 – 30 minut, u morfinu do 30 – 40 minut) a působí 4 –6 hod.
+Piritramid byl spojovaný s významnými vlivy na kardiovaskulární systém, jako jsou např. hypotenze a bradykardie. Ve shodě s jinými opioidními analgetiky utišuje piritramid kašel. Analgetické i nežádoucí účinky piritramidu lze antagonizovat specifickým opiodním antagonistou.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Po intramuskulárním podání je dosaženo vrcholové plazmatické hladiny po 15 minutách.
+
+Distribuce
+Vazba piritramidu na bílkoviny je přibližně 95 %. Počáteční distribuční objem po jednorázovém bolusu je 0,7 až 1,0 l/kg a distribuční objem v ustáleném stavu 4,7 až 6 l/kg. Distribuční objem v ustáleném stavu po prodlouženém podávání se zvyšuje na 11,1 l/kg.
+Biotransformace
+K biotransformaci piritramidu dochází především v játrech. Existují minimálně čtyři odlišné metabolity. Piritramid je metabolizován hlavně enzymem CYP3A4.
+Eliminace
+
+Plazmatický eliminační poločas se pohybuje v rozmezí 4 – 10 hodin. Po prodlouženém podávání se eliminační poločas prodlužuje na 17,4 hodiny. Po intravenózním bolusu je celková clearance přibližně 600 ml/min a po prodlouženém intravenózním podání se zvyšuje na 1 100 ml/min. Renální clearance tvoří 1,4 % celkové clearance.
+
+Farmakokinetické modely
+Fyziologicky založené farmakokinetické modelování (PBPK) předpovědělo interakci léků piritramidu a ketokonazolu (silného inhibitoru CYP3A4). Klinický vývoj byl simulován u dospělých a dětí ve věku 5, 10 a 15 let, kterým byla podávána po celkovou dobu 15 dní dávka piritramidu intravenózně ve formě infuze delší než 20 minut a to každých 6 hodin. V tomto modelu byl ketokonazol podáván po dobu 3 dnů perorálně v dávce 200 mg dvakrát denně před první infuzí až do poslední infuze piritramidu. V těchto simulacích vykazovaly děti ve věku 5 a 10 let nejvýraznější zvýšení AUC piritramidu, tj. 6,6 a 6,2násobné zvýšení oproti 4,4násobnému zvýšení u dospělých. U dětí ve věku 15 let bylo 5,2násobné zvýšení AUC. Rozsah zvýšení Cmax piritiramdiu za přítomnosti silného inihibitoru CP3A4 byl srovnatelný u dospělých (1,7násobné zvýšení) a u dětí (1,8 – 2,1násobné zvýšení).
+Pediatrická populace
+Farmakokinetika u novorozenců, kojenců a dětí je založena na samostatné studii (N=39) u pacientů na jednotce intenzivní péče.
+
+Tabulka 1   Farmakokinetika piritramidu u novorozenců, kojenců a dětí
+Parametr                     Populace
+
+Medián±SD
+(rozsah)
+Věk
+Cmax (µg/l)
+
+T½β (min)ᵃ
+Clt (ml/kg/min) Vdss (l/kg)
+Novorozenci (N=8)
+10,6±10,7 dní
+(1-27 dní)
+79±240
+(5-723)
+701,5±720
+(88-1950)
+5,0±4,8
+(0,7-15,6)
+1,96±4,93
+(0,07-13,9)
+Kojenci skupina 1
+(N=7)
+11,4±4,4 týdnů
+(5,4-16,9 týdnů)
+36±367
+(6-855)
+157±102
+(106-394)
+9,8±12,3
+(1,3-32,1)
+1,70±2,5
+(0,12-5,78)
+Kojenci skupina 2
+(N=14)
+9,0±2,3 měsíců
+(5,2-12,2 měsíců)
+12±81
+(3-315)
+160±68
+(114-335)
+26,7±42,7
+(2,8-172,1)
+6,95±5,15
+(0,58-17,02)
+Děti
+(N=10)
+2,4±0,9 roků
+(1,61-4,02 roků)
+16±9
+(9-35)
+165±143
+(101-512)
+24,0±11,6
+(5,7-41,1)
+6,70±2,15
+(1,20-8,0)
+ᵃ údaje získané z kompartmentového modelu
+U kojenců a dětí mezi 2 měsíci a 4 roky je terminální eliminační poločas přibližně 700 minut
+(11,7 hodin) a u kojenců a dětí mezi 5 týdny a 4 roky je to přibližně 160 minut (2,7 hodin). Distribuční objem u novorozenců je 2,0 l/kg, u kojenců mezi 5 a 17 týdny je 1,7 l/kg a zvyšuje se přibližně na
+7,0 l/kg u kojenců mezi 5 a 12 měsíci a u dětí mezi 1,6 a 4 roky. Celková clearance je u novorozenců 5,0 ml/kg/min, u kojenců mezi 5 a 17 týdny 9,8 ml/kg/min a u kojenců mezi 5 a 12 měsíci a dětí mezi 1,6 a 4 roky je 26,7 ml/kg/min.
+
+I přes omezené a vysoce variabilní farmakokinetické údaje dostupná data nasvědčují tomu, že eliminační poločas je u novorozenců prodloužený. Vzhledem k rozdílům v eliminaci může být v jednotlivých věkových skupinách nutná úprava dávkování.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Ve studiích akutní toxicity u potkanů a myší (intravenózní, subkutánní a perorální podání) stejně tak jako ve studiích opakovaného podání po dobu 3 měsíců u potkanů (subkutánní podání) a psů (intramuskulární podání) byly farmakologické účinky pozorovány pouze v dávkách nad maximální dávkou určenou pro podání lidem (srovnáváno na základě poměru dávky k tělesné hmotnosti mg/kg).
+Ve studi ex vivo byly pozorovány arytmie u spontánně tlukoucích izolovaných srdečních síních potkana, ale pouze v expozicích několiksetkráte vyšších než je maximální expozice u člověka, což ukazuje na malou relevanci pro klinické použití.
+
+Studie genotoxicity in vitro neukázaly žádný mutagenní potenciál. Studie kancerogenity nebyly
+provedeny.
+Nebyly provedeny studie zkoumající průnik piritramidu přes placentární bariéru nebo do mateřského mléka. Nebyly provedeny studie krátkodobého postnatálního vývoje a fertility.
+
+Ze studií na zvířatech nejsou údaje o vlivu piritramidu na fertilitu.
+
+Studie u potkanů a králíků nepřinesly důkaz o embryotoxicitě ani teratogenitě (NOAEL 2,5 mg/kg).
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Kyselina vinná, voda pro injekci.
+
+6.2  Inkompatibility
+Injekční roztok nesmí být mísen s jinými přípravky, které by mohly způsobit sražení piritramidu, vyjma 0,9% roztoku NaCl nebo 5,0% roztoku glukózy (viz bod 6.6).
+
+6.3  Doba použitelnosti
+5 let
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C.
+Chemická a fyzikální stabilita po naředění byla prokázána po dobu 72 hodin při teplotě do 25 °C.
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně tato doba nemá být delší než 24 hodin při 2 až 8 °C, pokud ředění/rekonstituce neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.5  Druh obalu a obsah balení
+
+Odlamovací ampulka z bezbarvého skla opatřená vrchním žlutým a spodním zeleným proužkem, krabička.
+Velikost balení:
+5 ampulek (5x 2 ml)
+50 ampulek (10x (5x 2 ml)
+
+Na trhu nemusí být k dispozici všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Použijte ochranné rukavice.
+1.  Ampulku vyjměte z plastové vaničky tak, že nejprve odstraníte papírovou folii. Folii odstraňte táhlým pohybem pomocí odlepeného konce folie na jednom z rohů vaničky. Nepromačkávejte papírovou folii pomocí ampulky, mohlo by dojít k jejímu rozlomení. Nepoužívejte nůžek nebo jiných ostrých předmětů k odstranění papírové folie.
+2. Podržte ampulku mezi palcem a ukazováčkem tak, aby zúžená část zůstala volná.
+
+3. Druhou rukou uchopte zúženou část ampulky tak, že opřete krček ampulky o ukazováček a palec přitiskněte na barevně označený bod souběžně
+s barevnými proužky.
+4. Přidržujte palec na označeném místě a ulomte zúženou část ampulky. Držte ampulku pevně v ruce.
+
+
+
+barevné proužky barevný bod místo ulomení
+
+
+
+
+
+
+
+
+
+V případě náhodné dermální expozice opláchněte zasažené místo vodou. Vyhněte se použití mýdla, alkoholu a jiných čistících látek, které mohou způsobit chemické nebo fyzické oděrky na kůži.
+Injekční roztok může být ředěn jen pomocí 0,9% roztoku NaCl nebo 5% roztoku glukózy. Ostatní přípravky by mohly způsobit sražení piritramidu (způsobené změnou pH). Při ředění injekčního roztoku je zapotřebí opatrnosti (použijte pouze čisté látky, nepoužívejte již otevřené fyziologické roztoky).
+Před použitím přípravku, bezprostředně před injikováním, zkontrolujte naplněnou stříkačku po naředění, aby neobsahovala viditelné sraženiny, stejně tak infuzní roztok bezprostředně před aplikací. Jestliže roztok obsahuje sraženinu, musí být zlikvidován.
+
+Výdej přípravku vázán na lékařský předpis. Omamná látka I.
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Piramal Critical Care B.V. Rouboslaan 32, 2252TR Voorschoten
+Nizozemsko
+
+8.   REGISTRAČNÍ ČÍSLO
+
+65/639/70-C
+
+
+9.   DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 30. 11. 1971
+Datum posledního prodloužení: 14. 11. 2012
+
+10.  DATUM REVIZE TEXTU
+18. 2. 2021

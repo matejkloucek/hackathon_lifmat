@@ -1,0 +1,417 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Ofloxacino Altan 2 mg/ml infuzní roztok EFG
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml obsahuje 2 mg ofloxacinum (ve formě hydrochloridu)
+
+Jeden vak (100 ml) obsahuje 200 mg ofloxacinum (ve formě hydrochloridu) Pomocné látky se známým účinkem:
+Každých 100 ml roztoku obsahuje 334 mg sodíku. Jeden ml roztoku obsahuje 3,34 mg sodíku.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Infuzní roztok
+Čirý, žlutý vodný roztok.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+Přípravek Ofloxacino Altan je indikován, u dospělých, k léčbě následujících bakteriálních infekcí vyvolaných mikroorganismy citlivými na ofloxacin:
+–  akutní, chronické nebo recidivující infekce dolních dýchacích cest (bronchitida).
+–  pneumonie; při komunitní pneumonii vyvolané pneumokoky není ofloxacin lékem první volby.
+–  chronické a recidivující otorhinolaryngologické infekce; podávání ofloxacinu se však nedoporučuje k léčbě akutní tonsilitidy.
+–  infekce kůže a měkkých tkání.
+–  infekce břišní dutiny a žlučových cest.
+–  genitourinární infekce (včetně kapavky).
+– gynekologické infekce.
+–  infekce kostí a kloubů.
+– sepse.
+
+Musí se brát zřetel na oficiální doporučení ke správnému používání antibakteriálních látek.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+
+Jako vodítko k dávkování se doporučuje: 200 mg/12 hodin.
+Pokud se pozoruje nedostatečná odpověď na léčbu, může být za přítomnosti infekcí vyvolaných mikroorganismy s proměnlivou citlivostí na ofloxacin nebo při závažných infekcích (např. dýchacích cest)
+nezbytné dávku zvýšit. Za takovýchto okolností lze dávku zvýšit až na 2 dávky 400 mg ofloxacinu za den. To samé kritérium se použije v případech infekcí s dalšími riziky a u obézních pacientů. Denní dávky přesahující 400 mg se vždy musí podávat ve dvou dávkách oddělených stejnými časovými intervaly (např. každých 12 hodin).
+Trvání léčby se řídí odpovědí vyvolávajícího organismu a klinickým obrazem. Jako je tomu u všech léčiv s antimikrobiální aktivitou, léčba přípravkem ofloxacinem musí pokračovat nejméně 3 dny po ústupu horečky a klinických příznaků. Při většině akutních infekcí je postačující doba léčby sedm až deset dní. Při salmonelóze je trvání léčby sedm až osm dní.
+
+Při infekcích vyvolaných betahemolytickými streptokoky (například hnisavá tonsilitida a erysipel) s prokázanou citlivostí se v léčbě musí pokračovat nejméně deset dní, aby se zabránilo pozdějším komplikacím, jako je revmatická horečka nebo glomerulonefritida.
+
+Při léčbě nekomplikovaných infekcí dolních močových cest postačují tři dny léčby.
+
+Na základě dostupných výsledků se prodlužování léčby na déle než 2 měsíce nedoporučuje.
+
+Způsob podání
+
+Intravenózní cestou
+Smí se podávat pouze POMALOU intravenózní infuzí; takovéto podání se provede jednou nebo dvakrát denně. Doba infundování roztoku se 200 mg ofloxacinu nesmí být kratší než 30 minut; to je obzvláště
+důležité, pokud se ofloxacin podává současně s léčivy, která by mohla vyvolat pokles krevního tlaku nebo s anestetiky, která obsahují barbituráty.
+Infuzní roztok lze infundovat přímo nebo naředěný s kompatibilními roztoky. Ohledně pokynů k ředění léčiva před jeho podáním viz bod 6.6.
+Obecně platí, že jednotlivé dávky se musí podávat v přibližně stejných intervalech. Porucha funkce ledvin:
+Zahajovací dávka ofloxacinu je stejná jako u pacientů s normální funkcí ledvin. Udržovací dávka je snížena podle následujícího schématu:
+
+
+Clearance kreatininu 50 až 20 ml/min.
+
+Méně než 20 ml/min.
+Sérový kreatinin 1,5 až 5 mg/dl
+
+nad 5 mg/dl
+Udržovací dávka 2 x 100 mg nebo
+1 x 100 mg ofloxacinu za den
+1 x 100 mg ofloxacinu za 48 hodin
+
+V případě nezbytnosti lze u pacientů s hodnotami clearance kreatininu nad 20 ml/minutu dávku ofloxacinu zdvojit.
+Pokud se pacient klinicky zlepší, lze v léčbě pokračovat ve stejných dávkách perorálně.
+
+Porucha funkce jater
+
+U pacientů s těžkou poruchou funkce jater (např. cirhóza s ascitem) může být vylučování ofloxacinu může sníženo. Proto se doporučuje, aby u těchto pacientů maximální denní dávka ofloxacinu nepřesáhla 400 mg.
+Starší pacienti:
+Dávku ofloxacinu není podle věku nutné upravovat. Zvláštní pozornost je však u starších pacientů nutno věnovat renálním funkcím a podle nich dávku upravit.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na ofloxacin, ostatní chinolony nebo na kteroukoli z pomocných látek uvedených v bodě 6.1.
+Podávání ofloxacinu je kontraindikováno u epileptických pacientů a u pacientů se stávající chorobou
+centrálního nervového systému, která zahrnuje snížení prahu pro vznik křečí (například poranění hlavy, zánětlivé procesy centrálního nervového systému nebo mrtvice).
+
+Ofloxacin je kontraindikován u pacientů, kteří mají v anamnéze poruchy šlach související s podáváním fluorovaných chinolonů.
+Ofloxacin se nesmí podávat pacientům s deficitem glukosa-6-fosfátdehydrogenázy.
+
+Ofloxacin je kontraindikován u dětí a dospívajících v růstu. Výsledky získané v experimentálních studiích neumožňují vyloučit riziko lézí kloubní chrupavky u jedinců v růstu.
+Ofloxacin se nesmí podávat v těhotenství a během kojení.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Onemocnění související s Clostridium difficile
+Jako je tomu u téměř všech antibakteriálních látek, nástup průjmu, zejména těžkého, přetrvávajícího a/nebo s příměsí krve, během léčby ofloxacinem nebo po ní může být příznakem pseudomembranózní kolitidy.
+Pokud je na pseudomembranózní kolitidu podezření, musí se léčba ofloxacinem ihned přerušit. Co nejdříve se musí zahájit léčba specifickými antibiotiky (např. perorálním vankomycinem, perorálním teikoplaninem nebo metronidazolem). Léčiva inhibující střevní peristaltiku jsou v této situaci kontraindikována.
+
+Pacienti s predispozicí ke křečím
+Jako je tomu o ostatních chinolonů, musí se ofloxacin pacientům se sklonem ke křečím podávat
+s mimořádnou opatrností. Ke křečím může dojít u pacientů se stávající lézí v centrálním nervovém systému, při souběžné léčbě fenbufenem a podobnými nesteroidními antirevmatiky nebo s léčivy, která snižují křečový práh, jako je theofylin (viz bod 4.5).
+Tendinitida
+Tendinitida, která se u chinolonů pozoruje vzácně, může příležitostně vést k přetržení šlachy, zejména Achillovy. Starší pacienti jsou sklonem k tendinitidě ohroženi více. Riziko přetržení šlachy může být zvýšeno současným podávání kortikosteroidů. Při podezření na tendinitidu se léčba ofloxacinem musí ihned přerušit a musí se zahájit příslušná léčba postižené šlachy (například imobilizace).
+
+Aneurysma a disekce aorty
+Epidemiologické studie hlásí po podání fluorovaných chinolonů zvýšené riziko aneurysma a disekce aorty, zejména u starší populace.
+
+Proto se fluorované chinolony u pacientů s rodinnou anamnézou aneurysmatu, u pacientů se stávajícím aneurysmatem a/nebo disekcí aorty nebo za přítomnosti jiných rizikových faktorů nebo poruchy predisponujících k aneurysmatu a disekci aorty (např. Marfanův syndrom, Ehlers-Danlosův vaskulární syndrom, Takayasuova arteritida, arteritida z obřích buněk, Behcetova choroba, hypertenze, prokázaná
+ateroskleróza) smějí používat pouze po pečlivém vyhodnocení poměru přínosů a rizik a po zvážení jiných léčebných možností.
+Pacienty je nutno poučit, že při náhlých bolestech v břiše, na hrudi nebo v zádech se musí ihned obrátit na lékaře na pohotovosti.
+Pacienti se selháním ledvin
+Dávka ofloxacinu se u pacientů se selháním ledvin musí upravit, protože ofloxacin se vylučuje hlavně ledvinami (viz bod 4.2).
+Prevence fotosenzitizace
+Pacienti léčení ofloxacinem se nesmějí zbytečně vystavovat slunečnímu světlu a rovněž se musí vyhýbat zdrojům ultrafialového záření (UVA lampa, solárium).
+Sekundární infekce
+Jako je tomu u jiných antibiotik, může užívání ofloxacinu, zejména dlouhodobé, vést ke vzniku rezistentních mikroorganismů. Je nezbytně nutné pacientův stav stále sledovat. Pokud by se během léčby sekundární infekce vyvinula, je nutno přijmout odpovídající opatření.
+Oční poruchy
+Pokud dojde ke zhoršení zraku nebo při pociťování očních příznaků je nutno se ihned poradit s očním lékařem.
+
+Interference s laboratorními testy
+
+Ofloxacin může inhibovat růst Mycobacterium tuberculosis a tím dát falešně negativní diagnózu tuberkulózy (viz bod 5.2).
+
+Během léčby ofloxacinem může stanovení opiátů nebo porfyrinů v moči vést k falešně pozitivním výsledkům.
+Informace o pomocných látkách
+
+Tento léčivý přípravek obsahuje ve 100ml vaku 14,5 mmol (3,34 mg/ml) sodíku, což je nutno vzít v potaz při léčbě pacientů na dietách s nízkým obsahem sodíku.
+
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Theofylin, fenbufen nebo podobná nesteroidní antirevmatika
+V klinických studiích nebyly žádné farmakokinetické interakce ofloxacinu a theofylinu pozorovány; nicméně při současném podávání chinolonů a theofylinu, nesteroidních antirevmatik nebo jiných léčiv, která snižují křečový práh, může dojít k výraznému snížení křečového prahu.
+
+Antagonisté vitaminu K
+U pacientů léčených antagonisty vitaminu K se kvůli možnému zesílení účinků kumarinových derivátů musí sledovat koagulační testy.
+
+Glibenklamid
+Ofloxacin může způsobovat mírné zvýšení sérových koncentrací glibenklamidu, pokud se tato léčiva
+podávají současně; proto se u pacientů léčených současně ofloxacinem a glibenklamidem doporučuje pečlivé sledování.
+
+Probenecid, cimetidin, furosemid a methotrexát
+Zejména v případě léčby vysokými dávkami se musí vzít v potaz možnost vzájemného narušení vylučování a zvýšení sérových hladin, pokud se chinolony podávají současně s dalšími léčivy, která rovněž podléhají renální tubulární sekreci (např. probenecid, cimetidin, furosemid nebo methotrexát).
+
+Pokud se ofloxacin podává současně s hypotenzivy, může dojít k prudkému poklesu krevního tlaku. V takovém případě nebo v případě současného podávání anestetik, která obsahují barbituráty, se musí sledovat kardiovaskulární funkce.
+4.6 Fertilita, těhotenství a kojení
+
+Ofloxacin se nesmí podávat v těhotenství nebo během kojení, protože ofloxacin se vylučuje do mateřského mléka.
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Některé nežádoucí účinky (například točení hlavy/závrať, malátnost, poruchy vidění) mohou oslabit pacientovu schopnost soustředění a reakce, což by mohlo představovat riziko v situacích, kdy jsou tyto schopnosti zvláště důležité (například při řízení dopravních prostředků nebo obsluze strojů).
+
+4.8. Nežádoucí účinky
+
+V tabulce dále jsou uvedeny nežádoucí účinky hlášené spontánně nebo pozorované v klinických
+hodnoceních. V každé třídě orgánových systémů jsou nežádoucí účinky v každém rozmezí četnosti uvedeny podle klesající závažnosti, a to podle následujících kritérií: velmi časté nežádoucí účinky (≥1/10); časté
+nežádoucí účinky (≥ 1/100, <1/10); méně časté nežádoucí účinky (≥1/1000, <1/100); vzácné nežádoucí
+účinky (≥1/10000, <1/1000); velmi vzácné nežádoucí účinky (≤1/10000); četnost není známa (z dostupných údajů ji nelze určit)
+
+Klasifikace orgánového systému dle MedDRA
+
+
+
+
+
+
+Poruchy imunitního systému, poruchy kůže a podkožní tkáně
+Četnost Méně časté
+
+Vzácné
+Nežádoucí účinky
+
+Svědění, vyrážka, svědění v očích, dráždivý kašel, výtok z nosu
+Anafylaktické nebo anafylaktoidní reakce, jako je kopřivka, angioedém, závažná dechová tíseň, dušnost/bronchospasmus, návaly horka, pocení, kožní vyrážka s pustulami.
+Anafylaktické nebo anafylaktoidní reakce, jako je erythema multiforme, toxická epidermální
+Velmi vzácné nekrolýza, fotosenzitivita, permanentní kožní vyrážka, céví purpura, vaskulitida, která může vést k výjimečným případům kožní nekrózy.
+Stevens-Johsonův syndrom; závažná dušnost.
+
+
+
+Poruchy oka
+
+
+
+
+Gastrointestinální poruchy a poruchy
+Není známo Není známo Méně časté
+Vzácné
+Exfoliativní dermatitida Uveitida
+Bolesti břicha, průjem, nauzea, zvracení.
+
+Anorexie, enterokolitida, která v ojedinělých případech může být hemorhagická
+
+metabolismu a výživy
+Velmi vzácné Pseudomembranózní kolitida
+
+
+Není známo Méně časté
+Hypoglykémie u diabetických pacientů léčených hypoglykemiky
+Agitovanost, točení hlavy/závratě, bolesti hlavy, poruchy spánku/nespavost
+
+
+
+
+
+
+
+Poruchy nervového systému
+
+
+
+Vzácné
+Psychotické reakce (např. halucinace), úzkost, zmatenost, noční můry, deprese, nespavost, poruchy periferního nervového systému, jako jsou parestézie (mravenčení v končetinách), poruchy vnímání chutí a čichu, poruchy vidění.
+
+Poruchy sluchu, jako je tinnitus a ztráta sluchu, záchvaty křečí, extrapyramidové příznaky
+Velmi vzácné nebo jiné poruchy svalové koordinace, hypoestézie
+
+
+
+Není známo
+Psychotické reakce se sebezničujícím chováním
+
+
+Poruchy srdce
+Vzácné
+Hypotenze, tachykardie¹.
+
+Klasifikace orgánového systému dle MedDRA
+Četnost Vzácné
+Nežádoucí účinky
+
+Tendinitida
+Myalgie a artralgie, přetržení šlachy (např. Achillovy šlachy). Jako je tomu u jiných
+
+Poruchy kosterní a svalové soustavy a pojivové tkáně
+Velmi vzácné fluorovaných chinolonů, může se tento
+nežádoucí účinek objevit během prvních 48 hodin léčby a může být bilaterální
+
+
+
+Není známo
+
+
+Vzácné
+Rhabdomyolýza a/nebo myopatie; svalová slabost, jež může být zvláště důležitá u
+pacientů s myasthenií gravis
+Zvýšené hladiny jaterních enzymů (ALAT, ASAT, LDH, gamma-GT a/nebo alkalické fosfatázy) a/nebo bilirubinu v séru
+
+
+
+Poruchy jater a žlučových cest
+
+Velmi vzácné
+
+
+Není známo
+Cholestatická žloutenka
+
+Hepatitida, jež může být závažná. Byla hlášena závažná poškození jater ofloxacinem, včetně případů s akutním, někdy smrtelným, selháním jater, zejména u pacientů s již přítomnými poruchami jater. (viz bod 4.4)
+
+
+
+
+Poruchy ledvin a močových cest
+Vzácné
+
+Velmi vzácné Není známo
+Zvýšené hladiny kreatininu v séru Akutní selhání ledvin
+Akutní intersticiální nefritida
+
+Anémie, hemolytická anémie, leukopenie,
+
+Poruchy krve a lymfatického systému
+Velmi vzácné eosinofilie, trombocytopenie
+
+Agranulocytóza, pancytopenie, útlum kostní
+Není známo dřeně.
+
+
+
+
+Jiné reakce
+
+Časté
+
+
+Méně časté
+Bolesti, zarudnutí v místě injekce a flebitida
+
+
+Rozvoj rezistentních mikroorganismů a růst mikromycet
+
+
+
+Není známo
+Alergická pneumonie a záchvaty porfyrie u pacientů s porfyrií
+
+¹ Během infuzí ofloxacinu se mohou objevit tachykardie a prudký pokles krevního tlaku, jež vzácně mohou být závažné. Pokud je pokles krevního tlaku velmi akutní, musí se infuze ihned přerušit.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky prostřednictvím španělského systému farmakovigilance
+humánních léčivých přípravků: https://www.notificaram.es.
+
+4.9 Předávkování
+
+Otrava ofloxacinem nebyla popsána. Při předávkování je léčba symptomatická a řídí se lékařskými hledisky.
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: fluorované chinolony ATC kód: J01MA01. Ofloxacin je baktericidní antibiotikum ze skupiny fluorovaných chinolonů.
+Hlavním mechanismem účinku chinolonů je specifická inhibice bakteriální DNA-gyrázy.
+Tento enzym je nezbytný pro replikaci, transkripci, opravy a rekombinaci DNA. Jeho inhibice vede k otevření a destabilizaci bakteriální DNA a v důsledku toho k rozpadu buňky.
+Zdá se, že jisté chinolony, včetně ofloxacinu, mají účinek na bakteriální buňky nezávislý na RNA, což baktericidní účinnost zvyšuje. Mechanismus tohoto druhého účinky nebyl dosud objasněn.
+Antibakteriální spektrum Organismy na ofloxacin citlivé:
+Aeromonas hydrophila Branhamella catarrhalis Brucella spp
+Chlamydia trachomatis Citrobacter Clostridium perfringens Enterobacter Escherichia coli Haemophilus ducreyi
+Haemophilus influenzae a parainfluenzae Helicobacter coli
+Helicobacter jejunii Klebsiella oxytoca Legionella Moraxella morganii Mycoplasma hominis
+Neisseria gonorrhoeae Neisseria meningitidis Plesiomonas
+Proteus indol +
+Proteus mirabilis, Proteus vulgaris Salmonella
+Serratia Shigella
+S-methyl Staphylococcus aureus Koaguláza negativní Staphylococcus
+
+Yersinia enterolytica
+
+Organismy s proměnlivou citlivostí:
+Acinetobacter
+Anaerobní grampozitivní koky Bacteroides fragilis Chlamydia psittaci Gardnerella vaginalis Mycobacterium tuberculosis Mycobacterium leprae Pseudomonas aeruginosa Streptococcus pneumoniae Streptococcus spp
+Obecně rezistentní mikroorganismy:
+Acinetobacter baumannii Clostridium difficile Enterococci
+Listeria monocytogenes R-methyl Staphylococci Nocardia
+5.2 Farmakokinetické vlastnosti
+
+Farmakokinetické parametry po i.v. podání 200 mg ofloxacinu jsou uvedeny v následující tabulce:
+
+
+Dávka
+t ½ (min.)
+Celková clearance Renální clearance
+Vylučování močí (% dávky po 24 hodinách)
+200 mg
+285
+258 ml/min
+215 ml/min
+81
+
+
+Po intravenózní infuzi ofloxacinu byly zjištěny následující střední hodnoty sérových koncentrací ofloxacinu:
+
+Dávka                        200 mg
+Doby uplynuvší po ukončení infuze     5 minut        4 hodiny       12 hodin Koncentrace                 5,2 mg/ml       1,1 mg/ml       0,3 mg/ml*
+* Tato koncentrace ofloxacinu pokrývá většinu citlivých organismů.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Bylo prokázáno, že ofloxacin, jako jiné léčivé přípravky ze skupiny fluorovaných chinolonů, u nedospělých psů a potkanů způsobuje artropatii (artrózu). Tyto léčivé přípravky jsou navíc spojeny se zvýšenou incidencí osteochondrózy u potkanů v porovnání s incidencí artropatie u plně dospělých psů při intravenózních dávkách ve výši až trojnásobku doporučené dávky pro lidi (na základě mg/m²) nebo 5násobku (na základě mg/kg) týdenní expozice.
+Dlouhodobé používání systémových vysokých dávek chinolonů u experimentálních zvířat vedlo k zákalu čočky. Tento nález však nebyl v žádných jiných studiích ofloxacinu na zvířatech zjištěn.
+
+U zvířat ošetřovaných jinými chinolony byly pozorovány snížené hladiny sérového proteinu a globulinu. Ve studii provedené s levofloxacinem byly u samic makaků jávských ošetřovaných 1 rok
+
+perorálně denní dávkou ofloxacinu 40 mg/kg pozorovány lehké poklesy hladin proteinů a sérového globulinu. Nicméně se mělo za to, že tyto změny jsou u opic v normálním rozmezí.
+
+U žádného ze zvířat ošetřovaných ofloxacinem nebyla pozorována krystalurie ani oční toxicita.
+Ofloxacin nebyl mutagenní v Amesově bakteriálním testu, in vitro a in vivo cytogenetickém stanovení, výměně sesterských chromatid (buněčné linie křečíka čínského a lidské buněčné linie), neplánované opravě DNA pomocí lidských fibroblastů, stanovení letální dominanty ani v myším mikronukleárním testu. Ofloxacin byl pozitivní v testu neplánované opravy DNA pomocí potkaních hepatocytů i ve
+stanovení na myším lymfomu.
+
+Nebylo prokázáno, že ofloxacin má teratogenní účinky při perorálních dávkách 810 mg/kg/den (11krát vyšší než doporučená maximální dávka pro lidi na základě mg/m² nebo 50krát na základě mg/kg) a 160 mg/kg/den (4krát vyšší než doporučená maximální dávka u lidí na základě mg/m² nebo 10krát na základě mg/kg), pokud se podával březím potkanům a králíkům v uvedeném pořadí. Další studie na potkanech s perorálními dávkami až 360 mg/kg/den (5krát vyšší než doporučená maximální dávka u lidí na základě mg/m² nebo 23krát na základě mg/kg) neukázaly žádné účinky na pozdní vývoj plodu, vrh, laktaci, životaschopnost mláďat ani vývoj mláďat. Dávky ekvivalentní 50násobku a 10násobku maximální doporučené dávky ofloxacinu u lidí (na základě mg/kg) u potkanů, respektive u králíků byly fototoxické/vedly ke snížení tělesné hmotnosti plodu a zvýšené mortalitě plodu). U potkanů
+ošetřovaných dávkami 810 mg/kg/den, což je více než 10násobek maximální doporučené dávky u lidí na základě mg/m², byly popsány drobné změny skeletu.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Chlorid sodný
+1N kyselina chlorovodíková (k úpravě pH) Voda na injekci
+6.2 Inkompatibility
+
+Ve stejné infuzní tekutině se nesmí kvůli riziku vysrážení podávat heparin.
+
+Normou je, že ofloxacin se musí podávat odděleně.
+
+6.3 Doba použitelnosti
+
+2 roky
+
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+
+6.5 Druh obalu a velikost balení
+
+Polyvinylchloridové vaky se zátkou s polykarbonátu a polyethylenovým přebalem k intravenózní infuzi obsahující 2 mg/ml ofloxacinu.
+
+Balení po jednom 100ml vaku obsahujícím 200 mg ofloxacinu. Klinické balení obsahující dvacet 100ml vaků.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a zacházení s ním
+
+Všechen nespotřebovaný léčivý přípravek nebo související odpad se musí zlikvidovat v souladu s místními požadavky.
+Po otevření se musí vak z PVC obsahující ofloxacin použít ihned.
+
+Ofloxacin je kompatibilní s fyziologickým roztokem, Ringerovým laktátem a 5% roztokem glukózy nebo fruktózy, kompatibilita s jinými roztoky nebyla ověřována.
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Altan Pharmaceuticals, S.A.
+C/Cólquide, 6 Portal 2 1ᵃ Planta Oficina F, Edificio Prisma 28230 Las Rozas (Madrid) Španělsko
+
+8. REGISTRAČNÍ ČÍSLO(ČÍSLA)
+
+67.741
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+duben 2006/duben 2011
+10. DATUM REVIZE TEXTU
+
+prosinec 2018
+
+Podobné a aktualizované informace o tomto léčivém přípravku jsou k dispozici na webových stránkách Agencia Española de Medicamentos y Productos Sanitarios (AEMPS):http//www.aemps.gob.es/

@@ -1,0 +1,1642 @@
+Sp.zn. sukls174006/2017
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1. NÁZEV LÉČIVÉHO PŘÍPRAVKU
+Iodopol 37-7400 MBq tvrdé tobolky
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tobolka obsahuje natrii iodidum (¹³¹I) 37 - 7400 MBq v okamžiku kalibrace.
+
+Izotop jódu 131 vzniká štěpením uranu-235 nebo bombardováním stabilního telluru neutrony v jaderném reaktoru. Jód 131 má poločas rozpadu 8,02 dne. Přeměňuje se za emise záření gama s energií 365 keV (81,7 %), 637 keV (7,2 %) a 284 keV (6,1 %) a záření beta s maximální energií 606 keV na stabilní xenon- 131.
+
+Pomocné látky se známým účinkem:
+Jedna tvrdá tobolka obsahuje nejvýše 97 mg sodíku.
+Jedna tvrdá tobolka obsahuje chinolinovou žluť (E 104) 0,2 %.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Tvrdá tobolka.
+Středně oranžová tvrdá želatinová tobolka, přibližně 18 mm dlouhá, obsahující bílý prášek.
+
+4. KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+
+Terapie radiojodem zaměřená na štítnou žlázu je indikována u dospělých a dětí pro:
+- Hypertyreózu: léčbu Gravesovy-Basedowovy nemoci, toxické multinodulární strumy nebo autonomních adenomů.
+- Léčbu velké eutyreoidní (netoxické) strumy.
+- Léčbu papilárního a folikulárního karcinomu štítné žlázy včetně metastáz.
+Terapie jodidem (¹³¹I) sodným je často kombinována s chirurgickým zákrokem a antityreoidální medikací.
+
+4.2 Dávkování a způsob podání
+Tento léčivý přípravek smí podávat pouze oprávnění zdravotníci ve vybraných zdravotnických zařízeních
+(viz kapitola 6.6).
+Dávkování
+Aplikovaná aktivita vyplývá z individuálně vyhodnoceného klinického stavu pacienta. Terapeutický efekt nastupuje za několik týdnů. Před použitím je nutno stanovit aktivitu každé tobolky.
+Dospělí
+
+
+
+
+
+
+
+1/20
+
+Terapie hypertyreóz a velké eutyreoidní strumy
+V případě, že dosavadní léčba selže nebo v ní nelze pokračovat, lze k léčbě hypertyreózy podat radioaktivní
+jodid.
+Kde je možné, má být pacient před léčbou hypertyreózy radiojodem léčen medikamentózně.
+Léčba velké netoxické strumy radiojodem je indikována zejména u pacientů s příznaky stlačení průdušnice v důsledku zvětšení štítné žlázy, těch, u nichž je chirurgická léčba kontraindikována nebo není proveditelná. Potřebná dávka závisí na diagnóze, velikosti žlázy, akumulaci a clearance jódu ve štítné žláze. U pacienta průměrné hmotnosti (70 kg) se obvykle pohybuje v rozmezí 200 - 800 MBq, může však být potřebná opakovaná léčba až do celkové dávky 5 000 MBq. V případě přetrvávající hypertyreózy je indikováno opakování léčby po 6-12 měsících.
+Potřebnou dávku lze stanovit pomocí pevně daných dávkovacích protokolů, nebo vypočíst z této rovnice:
+
+Cílová dávka (Gy) x cílový objem (ml)
+A (MBq) =   x K max. akumulace I-131 (%) x skutečný T ½ (dny)
+kde:
+
+cílová dávka      je dávka absorbovaná v celé štítné žláze nebo v adenomu
+cílový objem      je objem celé štítné žlázy (Gravesova-Basedowova nemoc, multinodulární struma) max. akumulace I-131 je maximální akumulace I-131 ve štítné žláze nebo v uzlech v % podané aktivity
+tak, jak byla stanovena pomocí testovací dávky
+skutečný T ½      je efektivní poločas I-131 ve štítné žláze vyjádřený ve dnech K            je 24,67
+Lze použít tyto dávky pro cílový orgán:
+Autonomní uzel                 dávka pro cílový orgán 300 - 400 Gy
+Toxická multinodulární struma         dávka pro cílový orgán 150 – 200 Gy
+Gravesova-Basedowova nemoc        dávka pro cílový orgán 200 Gy
+Velká eutyreoidní struma            dávka pro cílový orgán 100 – 150 Gy
+
+V případě Gravesovy-Basedowovy nemoci, toxické multinodulární strumy a eutyreoidní strumy se výše uvedené dávky pro cílový orgán vztahují k celkovému objemu štítné žlázy; v případě autonomního ložiska se však dávka vztahuje pouze ke hmotě adenomu. Doporučené dávky pro cílové orgány: viz kapitola 11.
+Ke stanovení vhodné dávky pro cílový orgán (Gy) lze použít i další dozimetrické postupy, včetně akumulačního testu pomocí pertechnetátu sodného (Tc-99m).
+Odstranění štítné žlázy a léčba metastáz
+Při odstranění zbytků štítné žlázy po totální nebo subtotální thyreoidektomii se aplikovaná aktivita pohybuje v rozmezí 1 850 – 3 700 MBq v závislosti na velikosti zbytků tkáně a na akumulaci radiojodu. Při terapii metastáz se aktivita pohybuje v rozmezí 3 700 – 11 100 MBq.
+
+
+Děti a dospívající
+Aktivitu pro děti a dospívající lze určit jako podíl dávky pro dospělé vypočtený podle tělesné hmotnosti nebo povrchu těla dle rovnic:
+Dávka pro děti (MBq) =  Dávka dospělí (MBq) x Hmotnost dítěte (kg)
+
+
+
+
+
+
+2/20
+
+70 kg
+Dávka pro děti (MBq) =  Dávka dospělí (MBq) x Povrch těla dítěte (m²)
+1,73 m²
+
+Koeficienty pro určení dávky jsou orientačně uvedeny níže (podle doporučení Paediatric Task Group v rámci Association of Nuclear Medicines).
+
+Koeficient, jímž se násobí dávka pro dospělého
+
+3 kg
+4 kg
+6 kg
+8 kg
+10 kg
+12 kg
+14 kg
+16 kg
+18 kg
+20 kg
+=  0,1
+=  0,14
+=  0,19
+=  0,23
+=  0,27
+=  0,32
+=  0,36
+=  0,40
+=  0,44
+=  0,46
+22 kg
+24 kg
+26 kg
+28 kg
+30 kg
+32 kg
+34 kg
+36 kg
+38 kg
+40 kg
+=  0,50
+=  0,53
+=  0,56
+=  0,58
+=  0,62
+=  0,65
+=  0,68
+=  0,71
+=  0,73
+=  0,76
+42 kg
+44 kg
+46 kg
+48 kg
+50 kg
+52-54 kg
+56-58 kg
+60-62 kg
+64-66 kg
+68 kg
+=  0,78
+=  0,80
+=  0,82
+=  0,85
+=  0,88
+=  0,90
+=  0,92
+=  0,96
+=  0,98
+=  0,99
+
+Zvláštní skupiny pacientů
+
+Porucha funkce ledvin
+Podanou aktivitu je nutno pečlivě zvážit, neboť u pacientů se sníženou funkcí ledvin může docházet ke zvýšené radiační expozici. Zvláštní pozornost je nutno věnovat terapeutickému použití tobolek s obsahem ¹³¹I u pacientů trpících těžkou poruchou funkce ledvin (viz bod 4.4).
+Pediatrická populace
+Používání jodidu sodného (¹³¹I) u dětí a dospívajících je nutno pečlivě zvážit na základě klinické potřeby a posouzení poměru mezi přínosem a rizikem u této skupiny pacientů. V některých případech je aktivitu podávanou dětem a dospívajícím nutno stanovit na základě provedení individuální dozimetrie (viz bod 4.4). U dětí a dospívajících je léčba benigních poruch štítné žlázy radioaktivním jodidem možná v odůvodněných případech, zejména v případě relapsu po medikamentózní léčbě štítné žlázy nebo v případě závažné nežádoucí reakce na podávaná léčiva (viz bod 4.4).
+
+Způsob podání
+Přípravek Iodopol se aplikuje perorálně. Tobolku je nutno užít nalačno. Tobolky se polykají celé a musí se zapít velkým množstvím vody k zajištění hladkého průchodu do žaludku a tenkého střeva. V případě podání dětem, obzvláště malým, je nutno zajistit, aby tobolku spolkly celou, bez rozkousání. Doporučuje se tobolku podat s kašovitou potravou.
+Příprava pacienta viz bod 4.4.
+4.3 Kontraindikace
+
+•  Hypersenzitivita na účinnou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1;
+•  Těhotenství nebo podezření na ně, anebo nebylo-li těhotenství vyloučeno (viz bod 4.6);
+•  Kojení (viz bod 4.6);
+•  Pacienti s dysfagií, zúžením jícnu, stenózou jícnu, divertiklem jícnu, gastritidou v aktivním stadiu,
+žaludeční erozí a žaludečními vředy;
+•  Pacienti s podezřením na pokles gastrointestinální motility.
+
+
+
+
+
+
+
+3/20
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Možnost hypersenzitivity nebo anafylaktických reakcí
+V případě hypersenzitivity nebo anafylaktické reakce je podávání léčivého přípravku nutno okamžitě přerušit a v případě potřeby zahájit intravenózní léčbu. Pro možnost okamžitého zásahu v naléhavých případech musí být okamžitě k dispozici potřebné léky a vybavení, např. endotracheální kanyla a ventilátor.
+
+Odůvodnění přínosu/rizika u jednotlivých pacientů
+U každého pacienta musí být radiační expozice odůvodněna pravděpodobným přínosem. V každém případě musí být podaná aktivita tak nízká, jak je to pro dosažení požadovaného léčivého účinku přiměřeně možné. Neexistuje mnoho důkazů o zvýšeném výskytu karcinomů, leukémie nebo mutací u pacientů léčených radiojodem při benigních onemocněních štítné žlázy, a to i přes četnost jeho používání. Při léčbě maligních onemocnění štítné žlázy byl v jedné studii u pacientů, kterým byla aplikována dávka jodidu (¹³¹I) sodného vyšší než 3 700 MBq, zaznamenán zvýšený výskyt karcinomu močového měchýře. Jiná studie popisuje u pacientů s vysokými aplikovanými aktivitami určité zvýšení výskytu leukémie. Proto se nedoporučuje aplikace aktivity v celkovém množství vyšším než 26 000 MBq.
+
+Funkce pohlavních žláz u mužů
+U pacientů se závažným onemocněním je ke kompenzaci možného vratného poškození funkce varlat v důsledku vysoké terapeutické dávky radiojodu možno zvážit využití spermabanky.
+
+Pacienti s poruchou funkce ledvin
+Je nutné pečlivě zvážit poměr mezi přínosem a rizikem, neboť u těchto pacientů může docházet ke zvýšené
+radiační expozici. U těchto pacientů může být nutné upravit dávku.
+Pediatrická populace
+Je nutné pečlivé zvážení indikace, neboť efektivní dávka je vyšší než u dospělých (viz bod 11). Při léčbě dětí a mladých dospělých je nutno mít na paměti zvýšenou citlivost tkáně a delší očekávanou dobu života těchto pacientů. Rizika je nutno zvážit i vzhledem k rizikům jiných možností léčby (viz body 4.2 a 11).
+U dětí a dospívajících je léčba benigních poruch štítné žlázy radiojodem možná v odůvodněných případech, zejména v případě relapsu po medikamentózní léčbě štítné žlázy nebo v případě závažné nežádoucí reakce na podávaná léčiva. U pacientů léčených radiojodem pro benigní onemocnění štítné žlázy nebyl prokázán zvýšený výskyt karcinomů, leukémie nebo mutací, a to i přes četnost jeho používání.
+Osoby, které byly v dětském věku nebo v dospívání léčeny radiojodem pro onemocnění štítné žlázy, musí přijít jednou ročně na kontrolu.
+Hyponatremie:
+Po terapii jodidem (¹³¹I) sodným byly u pacientů v seniorském věku po totální tyreoidektomii zaznamenány závažné projevy hyponatremie. Mezi rizikové faktory patří vysoký věk, ženské pohlaví, užívání thiazidových diuretik a hyponatremie již na začátku terapie jodidem (¹³¹I) sodným. U těchto pacientů je nutno zvážit pravidelné měření sérových elektrolytů.
+
+Příprava pacienta
+Pacienty je nutno vyzvat k dostatečnému příjmu tekutin s častým močením za účelem snížení ozáření močového měchýře, zejména při aplikaci vyšších aktivit, např. pro terapii karcinomu štítné žlázy. Pacientům s problémy s močením je po podání vyšších aktivit radiojodu nutno zavést katétr.
+Ke snížení radiační expozice tlustého střeva mohou být u pacientů s méně než jednou stolicí denně nutná mírná laxativa (nikoli však přípravky změkčující stolici, které střeva nestimulují).
+
+
+
+
+
+
+
+4/20
+
+S cílem zabránit vzniku sialoadenitidy, k němuž může po podání vysoké dávky radiojodu dojít, je pacientovi před terapií nutno doporučit konzumaci cukrovinek nebo nápojů s obsahem kyseliny citrónové (citrónová šťáva, vitamín C) pro stimulaci slinění. Navíc lze použít další farmakologická ochranná opatření.
+Před podáním jodidu je nutno zjistit případný nadměrný obsah jódu v organismu z potravy nebo léčiv (viz bod 4.5). Ke zvýšení absorpce do funkční tkáně štítné žlázy se doporučuje před léčbou dieta s nízkým obsahem jódu.
+K zajištění dostatečné akumulace je před podáním radiojodu k léčbě karcinomu štítné žlázy nutno přerušit substituční léčbu. Doporučuje se přerušit podávání trijodtyroninu na 14 dnů a podávání thyroxinu na 4 týdny. Znovu lze tyto přípravky začít užívat dva dny po podání radiojodu. Užívání carbimazolu a propylthiouracilu je nutno přerušit 1 týden před léčbou hypertyreózy a znovu zahájit několik dnů po léčbě. Léčbu  Gravesovy-Basedowovy  nemoci  radiojodem  je  nutno  provádět  při  souběžném  podávání kortikosteroidů, zejména v případě endokrinní oftalmopatie.
+U pacientů s podezřením na gastrointestinální onemocnění je při podávání tobolek jodidu (¹³¹I) sodného nutno velké opatrnosti. Doporučuje se zároveň podávat antagonisty H2 receptorů nebo inhibitory protonové pumpy.
+Po výkonu
+Po vhodnou dobu je nutno omezit těsný kontakt s malými dětmi a těhotnými ženami.
+V případě zvracení je nutno brát v úvahu riziko kontaminace.
+Pacienti léčení radiojodem musí ve vhodných intervalech chodit na následné kontroly.
+Zvláštní upozornění
+Tento léčivý přípravek obsahuje nejvýše 97 mg sodíku v jedné tobolce, což odpovídá 4,85 % maximální denní dávky sodíku pro dospělého člověka (2 g) doporučené WHO.
+U pacientů na dietě se sníženým obsahem sodíku je to nutno vzít v úvahu.
+U pacientů se známou přecitlivělostí na želatinu nebo její metabolity je pro terapii radiojodem nutno
+upřednostnit řešení s roztokem jodidu (¹³¹I) sodného.
+Tento léčivý přípravek obsahuje azobarvivo chinolinovou žluť (E 104). Může vyvolat alergickou reakci.
+Může mít nepříznivý vliv na aktivitu a pozornost u dětí.
+Opatření ve vztahu k nebezpečí pro životní prostředí jsou uvedena v bodě 6.6.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+S radiojodem vykazuje interakce řada farmakologicky účinných látek. Existují různé mechanismy interakce, které mohou ovlivňovat vazby bílkovin, farmakokinetiku nebo dynamické účinky radiojodu. V důsledku toho je nutno zvážit možnost snížení akumulace ve štítné žláze. Proto je nutno zjistit všechny léčivé přípravky, které pacient užívá nebo užíval, a před podáním jodidu (¹³¹I) sodného je příslušné přípravky nutno vysadit. Např. je nutno přerušit léčbu těmito látkami:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/20
+
+Léčivé látky
+Období, po které je užívání nutno přerušit před podáním jodidu (¹³¹I) sodného
+
+
+Antithyreoidální léčivé přípravky (např.
+karbimazol, methimazol, propyluracil), perchlorát
+od 1 týdne před zahájením léčby do doby několik dnů po ní
+
+
+Salicyláty, kortikosteroidy, nitroprusid sodný, sulfobromoftalein sodný, antikoagulancia, antihistaminika, antiparazitické přípravky, penicilíny, sulfonamidy, tolbutamid, thiopental
+1 týden
+
+Fenylbutazon                     1 - 2 týdny
+
+Expektorancia a vitamíny s obsahem jódu      cca 2 týdny
+
+
+Přípravky s obsahem thyroidních hormonů
+
+Benzodiazepiny, lithium
+Trijodthyronin 2 týdny
+Tyroxin 6 týdnů
+cca 4 týdny
+
+
+Amiodaron*
+Přípravky k zevnímu použití s obsahem jódu
+3 - 6 měsíců
+1 - 9 měsíců
+
+
+Kontrastní média s obsahem jódu rozpustná ve
+vodě
+Kontrastní média s obsahem jódu rozpustná
+v tucích
+6 - 8 týdnů
+
+až 6 měsíců
+
+* V důsledku dlouhého poločasu eliminace amiodaronu může být akumulace jódu ve štítné žláze snížena
+po dobu několika měsíců.
+
+4.6 Fertilita, těhotenství a kojení
+
+Ženy schopné otěhotnět
+Pokud má být radioaktivní léčivý přípravek podán ženě schopné otěhotnět, vždy je nutno zjišťovat případné těhotenství. Ženu, které vynechala menstruace, je nutno považovat za těhotnou, dokud nebude prokázán opak. V případě pochybnosti (vynechání menstruace nebo velmi nepravidelná menstruace apod.) je nutno pacientce nabídnout alternativní postupy nevyužívající ionizující záření (pokud existují).
+Doporučuje se, aby ženy, jimž byl podán jodid (¹³¹I) sodný, v době 6-12 měsíců po podání neotěhotněly.
+Antikoncepce u mužů a žen
+U obou pohlaví se po terapeutickém podání jodidu (¹³¹I) sodného doporučuje antikoncepce po dobu 6 měsíců (u pacientů s benigními onemocněními štítné žlázy) nebo 12 měsíců (u pacientů se zhoubnými nádory štítné žlázy).
+Muži by neměli po dobu 6 měsíců po léčbě radiojodem zplodit dítě, aby mohly neozářené spermie nahradit spermie ozářené. U mužů se závažným onemocněním, kteří potřebují vysoké dávky jodidu (¹³¹I) sodného, je nutno zvážit využití spermabanky.
+Těhotenství
+Užívání jodidu (¹³¹I) sodného je během těhotenství, v případě podezření na těhotenství nebo nebylo-li
+těhotenství vyloučeno kontraindikováno, neboť transplacentární přenos jodidu sodného (¹³¹I) může způsobit
+
+
+
+
+
+
+6/20
+
+závažnou a někdy nevratnou hypertyreózu u novorozenců (je pravděpodobné, že dávka léčivého přípravku absorbovaná dělohou bude v rozsahu 11-511 mGy, a štítná žláza plodu ve druhém a třetím trimestru výrazně akumuluje jód) (viz bod 4.3).
+V případě diagnostikovaného karcinomu štítné žlázy během těhotenství je léčbu jodidem (¹³¹I) sodným
+nutno odložit až po porodu.
+
+Kojení
+Před podáním radiofarmaka kojící matce je nutno zvážit, zda je přiměřeně možné podání radionuklidu odložit na dobu, kdy matka kojit přestane, a jaká je nejvhodnější volba radiofarmaka s ohledem na vylučování aktivity do mateřského mléka.
+Pokud se podání přípravku považuje za nezbytné, je kojení nutno přerušit nejméně 8 týdnů před podáním
+jodidu (¹³¹I) sodného a po podání v něm žena nesmí pokračovat (viz bod 4.3).
+Z důvodů radiační ochrany se doporučuje, aby se matka po podání terapeutické dávky vyhnula těsnému
+kontaktu s dětmi nejméně po dobu jednoho týdne.
+
+Fertilita
+Po terapii nádoru štítné žlázy radiojodem může u mužů i žen dojít ke snížení fertility závislému na podané dávce. Při dávkách nad 1 850 MBq může v závislosti na dávce aktivity dojít k vratnému narušení spermatogeneze. Po podání dávek vyšších než 3 700 MBq byly popsány klinicky relevantní účinky včetně oligospermie a azoospermie a vysoké hladiny FSH v séru.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Jodid (¹³¹I) sodný nemá žádný nebo má jen zanedbatelný vliv na schopnost řídit a obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Četnost uváděných nežádoucích reakcí je odvozena z odborné literatury. Bezpečnostní profil jodidu (¹³¹I) sodného se velmi liší podle podaných dávek, přičemž dávky závisejí na typu léčby (tj. zda jde o léčbu benigního nebo maligního onemocnění). Dále bezpečnostní profil závisí na součtu podaných dávek a intervalu mezi nimi. Proto jsou uváděné nežádoucí reakce uspořádány podle výskytu při léčbě benigního nebo maligního onemocnění.
+Časté nežádoucí reakce jsou: hypertyreóza, přechodná hypertyreóza, poruchy slinných a slzných žláz a místní účinky ozáření. Při léčbě zhoubných nádorů navíc často dochází ke gastrointestinálním nežádoucím reakcím a k útlumu kostní dřeně.
+Následující tabulky uvádějí nahlášené nežádoucí účinky v třídění dle tříd orgánových systémů. Příznaky, které jsou ve vztahu ke skupině příznaků druhotné (např. sicca syndrom), jsou uvedeny v závorce za příslušným onemocněním.
+Tabulka nežádoucích reakcí
+V této kapitole je četnost vyjádřena takto:
+velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000 až
+< 1/1 000), velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+
+Nežádoucí účinky po léčbě benigního onemocnění
+
+Třída orgánových systémů   Nežádoucí reakce         Četnost
+
+Poruchy imunitního systému
+Anafylaktoidní reakce      není známo
+
+
+
+
+
+
+7/20
+
+Třída orgánových systémů
+
+
+Endokrinní poruchy
+
+
+
+
+Poruchy oka
+
+Respirační, hrudní a
+mediastinální poruchy
+Gastrointestinální poruchy Poruchy jater a žlučových
+cest
+Poruchy kůže a podkožní tkáně
+Vrozené, familiární a
+genetické vady
+Celkové poruchy a reakce v místě aplikace
+Nežádoucí reakce Trvalá hypotyreóza, hypotyreóza
+Přechodná hypertyreóza
+Tyreotoxická krize, tyreoiditida, hypoparatyreóza (hypokalcémie, tetanické křeče) Endokrinní oftalmopatie (u Gravesovy-Basedowovy nemoci)
+Sicca syndrom
+Paralýza hlasivek Sialoadenitida Abnormální funkce jater
+Akné vyvolaná jódem Vrozená hypotyreóza Místní otok
+Četnost
+velmi časté časté
+není známo
+
+
+velmi časté
+
+není známo velmi vzácné
+časté
+není známo není známo není známo není známo
+Nežádoucí účinky po léčbě maligního onemocnění
+
+
+Třída orgánových systémů
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy)
+Nežádoucí reakce
+Leukémie
+Pevné nádory, nádory močového měchýře, tlustého střeva, žaludku, prsu
+Četnost
+méně časté není známo
+
+
+
+
+Poruchy krve a
+lymfatického systému
+
+
+
+Poruchy imunitního systému
+
+
+
+Endokrinní poruchy
+Erytropenie, selhání kostní dřeně
+
+
+Leukopenie, trombocytopenie
+Aplastická anémie, trvalý nebo
+těžký útlum kostní dřeně Anafylaktoidní reakce
+Tyreotoxická krize, přechodná hypertyreóza
+Tyreoiditida (přechodná leukocytóza), hypoparatyreóza (hypokalcémie, tetanické křeče), hypotyreóza
+Parosmie, anosmie
+velmi časté
+
+
+časté
+
+není známo není známo
+vzácné
+
+
+není známo velmi časté
+
+
+
+
+8/20
+
+Třída orgánových systémů Poruchy nervového systému
+
+
+Poruchy oka
+Nežádoucí reakce
+Otok mozku
+
+Sicca syndrom (zánět spojivek,
+suché oči a nos)
+
+Obstrukce nazolakrimálního kanálku (zvýšené slzení)
+Četnost
+není známo
+
+
+velmi časté
+
+
+časté
+
+Dyspnoe              časté
+
+
+
+
+Respirační, hrudní a
+mediastinální poruchy
+Zúžení průdušnice*, fibróza plic, dechová nedostatečnost, obstrukční ventilační porucha, pneumonie, tracheitida, dysfunkce hlasivek (paralýza hlasivek, dysfonie, chrapot), bolest v krku, stridor
+
+
+
+není známo
+
+
+
+
+
+
+Gastrointestinální poruchy
+
+
+
+Poruchy jater a žlučových
+cest
+Poruchy ledvin a močových
+cest
+Poruchy reprodukčního systému a prsu
+
+Vrozené, familiární a genetické vady Poruchy metabolismu a výživy
+Celkové poruchy a reakce v místě aplikace
+Sialoadenitida (sucho v ústech, bolest slinné žlázy, zvětšení slinné žlázy, zubní kaz, vypadávání zubů), syndrom nemoci z ozáření, nauzea, ageuzie, anosmie, snížená chuť k jídlu
+Zvracení
+Gastritida, dysfagie
+Abnormální funkce jater
+
+Radiační cystitida
+Selhání vaječníků, porucha menstruace
+Azoospermie, oligospermie,
+snížená fertilita u mužů Vrozená hypotyreóza
+Hyponatremie
+Příznaky podobné chřipce, bolest hlavy, únava, bolest v zátylku Místní otok
+
+
+velmi časté
+
+
+časté
+není známo není známo
+není známo velmi časté není známo není známo není známo
+velmi časté
+časté
+*: zejména v případě stávající tracheální stenózy
+
+
+
+
+
+
+
+
+
+9/20
+
+Popis vybraných nežádoucích účinků
+
+Obecné pokyny
+Vystavení ionizujícímu záření je spojeno s rizikem vzniku nádorových onemocnění a dědičných vad. Dávka ozáření v důsledku terapeutické expozice může vést ke zvýšenému výskytu zhoubných nádorů a mutací. Ve všech případech je nutno zajistit, aby byla rizika vyplývající z ozáření menší než rizika onemocnění samotného. Efektivní dávka v případě terapeutických dávek jodidu (¹³¹I) sodného je 3 108 mSv, přičemž maximální doporučená aktivita je 11 100 MBq (při 0% akumulaci ve štítné žláze).
+Poruchy štítné a příštítné žlázy
+Jako pozdní nežádoucí účinek léčby hypertyreózy radiojodem může vzniknout hypotyreóza.
+V případě léčby maligního onemocnění je hypotyreóza uváděna jako častý nežádoucí účinek; léčba maligních onemocnění radiojodem však obvykle následuje po thyreoidektomii.
+Zničení folikulárních buněk způsobené radiační expozicí jodidu (¹³¹I) sodnému může vést během 2-10 dnů ke zhoršení již existující hypertyreózy nebo způsobit tyreotoxickou krizi. Někdy se po počáteční normalizaci může objevit hypertyreóza autoimunního původu (období latence je 2-10 měsíců). 1-3 dny po podání vysoké dávky radiojodu může pacient trpět přechodnou zánětlivou tyreoitidou a tracheitidou s možností závažného zúžení průdušnice, zejména v případě již existující tracheální stenózy.
+Ve vzácných případech lze i po léčbě funkčního karcinomu štítné žlázy pozorovat dočasnou hypertyreózu. Po podání radiojodu byly pozorovány případy přechodné hypoparatyreózy; tu je třeba řádně sledovat a léčit substituční terapií.
+
+Pozdní následky
+Jako opožděný účinek léčby hypertyreózy radiojodem a v závislosti na podané dávce může vzniknout hypotyreóza. Ta se může projevit týdny nebo i léta po léčbě, proto je nutné sledování funkce štítné žlázy a příslušná hormonální substituční terapie. Hypotyreóza se obvykle objeví až 6-12 týdnů po podání radiojodu.
+
+Poruchy oka
+Po léčbě hypertyreózy nebo Gravesovy-Basedowovy nemoci radiojodem se může zhoršit nebo nově objevit endokrinní oftalmopatie. Léčba Gravesovy-Basedowovy nemoci radiojodem musí být provázena podáváním kortikosteroidů.
+
+Místní účinky ozáření
+Po podání jodidu (¹³¹I) sodného byla hlášena dysfunkce a paralýza hlasivek; v některých případech však
+nelze určit, zda byla dysfunkce hlasivek způsobena ozářením nebo chirurgickou léčbou.
+Vysoká akumulace radiojodu v tkáni může být spojena s místní bolestivostí, nepříjemnými pocity a místním otokem, např. v případě použití radiojodu k léčbě zbytku štítné žlázy se mohou objevit závažné rozptýlené bolesti měkkých tkání v oblasti hlavy a zátylku.
+U pacientů trpících rozptýlenými plicními metastázami z diferencovaného karcinomu štítné žlázy byla pozorována radiační pneumonie a plicní fibróza v důsledku zničení metastatické tkáně. Dochází k tomu po terapii vysokými dávkami radiojodu.
+Při léčbě metastázujícího karcinomu štítné žlázy se zasažením centrální nervové soustavy (CNS) je nutno
+uvážit i možnost lokálního otoku mozku a/nebo zhoršení již existujícího otoku mozku.
+
+Gastrointestinální poruchy
+Vysoké dávky radioaktivity mohou vést také k narušení gastrointestinální funkce, obvykle v prvních
+hodinách nebo dnech po podání. Ohledně prevence gastrointestinálních poruch viz bod 4.4.
+Poruchy slinných a slzných žláz
+Může vzniknout sialoadenitida s otokem a bolestivostí slinných žláz, částečnou ztrátou chuti a suchem v ústech. Sialoadenitida obvykle přejde sama nebo s pomocí protizánětlivých přípravků, byly však popsány
+
+
+
+
+
+
+10/20
+
+i některé případy přetrvávající ageuzie a sucha v ústech v závislosti na dávce. Nedostatek slin může vést k infekcím, např. zubnímu kazu, což může mít za následek vypadávání zubů. Ohledně prevence poruch slinných žláz viz bod 4.4.
+Porucha slinných a/nebo slzných žláz a z toho vyplývající sicca syndrom se může objevit i se zpožděním několika měsíců, až dva roky po terapii radiojodem. I když ve většině případů je sicca syndrom přechodný jev, u některých pacientů může tento příznak přetrvávat po několik let.
+
+Útlum kostní dřeně
+Jako pozdní následek se může vyskytnout reverzibilní útlum kostní dřeně, který se projevuje trombocytopenií nebo erytrocytopenií, která může být i smrtelná. Větší pravděpodobnost útlumu kostní dřeně je v případě jednorázového podání více než 5 000 MBq nebo opakovaného podání v intervalech kratších než 6 měsíců.
+Sekundární zhoubné nádory
+Po podání vyšších aktivit, obvykle používaných k léčbě zhoubných nádorů štítné žlázy, byl zjištěn zvýšený výskyt leukémie. Je doložena vyšší četnost pevných nádorů vyvolaných podáním vyšších aktivit (nad 7,4 GBq).
+
+Pediatrická populace
+Typ nežádoucích účinků očekávaných u dětí je stejný jako u dospělých. Vzhledem k vyšší citlivosti dětských tkání na radioaktivitu (viz bod 11) a k delší očekávané době života může být četnost a závažnost odlišná.
+
+Hlášení podezření na nežádoucí reakce
+Hlášení podezření na nežádoucí reakce po registraci léčiva je důležité. Umožňuje průběžné sledování rovnováhy mezi přínosem a rizikem léčiva. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Přípravek smějí používat pouze oprávněné osoby v nemocničním prostředí. Riziko předávkování je tedy pouze teoretické.
+V případě podání nadměrné dávky radiace je dávku podanou pacientovi nutno pokud možno snížit zvýšením eliminace radionuklidu z organismu častým močením, nucenou diurézou a častým vyprazdňováním močového měchýře. Navíc se doporučuje blokování štítné žlázy (např. perchlorátem draselným) ke snížení radiační expozice štítné žlázy. Ke snížení akumulace jódu (¹³¹I) lze podat emetika.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: terapeutická radiofarmaka; sloučeniny jódu (¹³¹I) ATC kód: V 10X A01
+
+Farmakologicky účinnou látkou je jód (¹³¹I) ve formě jodidu sodného, který štítná žláza absorbuje. K fyzikálnímu rozpadu dochází především ve štítné žláze, kde je jód (¹³¹I) dlouho akumulován, čímž je zajištěno selektivní ozáření tohoto orgánu.
+Není známo, že by jodid (¹³¹I) sodný v množství používaném při terapii měl farmakologické účinky.
+
+
+
+
+
+
+11/20
+
+Více než 90 % účinku je způsobeno emitovaným β zářením s průměrným dosahem 0,5 mm. Dávka radiace úměrně potlačí funkci buněk a buněčné dělení a vede tak k jejich zničení. Krátký dosah a téměř nulová akumulace jodidu (¹³¹I) sodného mimo štítnou žlázu vede k zanedbatelné radiační expozici jiných orgánů.
+5.2 Farmakokinetické vlastnosti
+
+Absorpce
+Po perorálním podání je jodid (¹³¹I) sodný rychle absorbován z horní části trávicího traktu (90 % do 60 minut). Absorpce je ovlivněna vyprazdňováním žaludku. Hypertyreóza ji zvyšuje, hypotyreóza snižuje.
+Studie hladin aktivity v séru ukázaly, že po rychlém nárůstu během 10-20 minut je po cca 40 minutách dosaženo rovnováhy. Po perorálním podání roztoku jodidu (¹³¹I) sodného je rovnováhy dosaženo za stejnou dobu.
+Distribuce a vychytávání v orgánech
+Farmakokinetika je shodná s kinetikou neaktivního jodidu. Po vstupu do krevního řečiště je distribuován v extratyreoidálního prostoru, odkud je přednostně vychytáván štítnou žlázou, která při jednom průchodu extrahuje cca 20 % jodidu, nebo vylučován ledvinami. Akumulace jodidu štítnou žlázou dosáhne maxima po 24-48 hodinách, 50 % maxima je dosaženo po 5 hodinách. Akumulaci ovlivňuje několik faktorů: věk pacienta, objem štítné žlázy, ledvinová clearance, koncentrace jodidu a dalších léčiv v plazmě (viz bod 4.5). Clearance jodidu ze štítné žlázy je obvykle 5-50 ml/min. V případě nedostatku jódu se clearance zvyšuje na 100 ml/min., v případě hypertyreózy může dosáhnout až 1 000 ml/min. V případě nadbytku jodidu může clearance poklesnout na 2-5 ml/min. Jodid se hromadí také v ledvinách.
+Malé množství jodidu (¹³¹I) sodného je vychytáno slinnými žlázami, gastrickou sliznicí a část může být přítomna v mateřském mléku, placentě a v choroidním plexu.
+Jodid zachycený štítnou žlázou vstupuje na známou metabolickou cestu hormonů štítné žlázy a stává se
+součástí organických látek vstupujících do syntézy hormonů štítné žlázy.
+
+Biotransformace
+Jodid zachycený štítnou žlázou vstupuje na známou metabolickou cestu hormonů štítné žlázy a stává se
+součástí organických látek, z nichž jsou syntetizovány hormony štítné žlázy.
+
+Eliminace
+Močí je vyloučeno 37 - 75 %, stolicí asi 10 %, vylučování potem je téměř zanedbatelné.
+Vylučování močí je charakterizováno ledvinovou clearance, což představuje cca 3 % ledvinového průtoku a mezi různými pacienty je relativně konstantní. Clearance je nižší v případě hypotyreózy a poruchy funkce ledvin, vyšší v případě hypertyreózy. U eutyreoidních pacientů s normální funkcí ledvin se 50 - 75 % podané aktivity vyloučí močí do 48 hodin.
+
+Poločas
+Efektivní poločas radiojodu v plazmě je asi 12 hodin a pro radiojod ve štítné žláze asi 6 dnů. Proto po aplikaci jodidu (¹³¹I) sodného má asi 40 % aktivity efektivní poločas 6 hodin a zbývajících 60 % 8 dnů.
+Porucha funkce ledvin
+Pacienti trpící poruchou funkce ledvin mohou mít sníženou clearance radiojodu, což vede k vyšší radiační expozici podanému jodidu (¹³¹I) sodného. Jedna studie např. prokázala, že pacienti s poruchou funkce ledvin docházející soustavně na ambulantní peritoneální dialýzu (CAPD) mají 5x nižší clearance radiojodu než pacienti s normální funkcí ledvin.
+
+
+
+
+
+
+
+
+
+12/20
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Vzhledem k nízkým aplikovaným množstvím látky v poměru k obvyklému dennímu příjmu jódu
+v potravě (40 - 500 µg denně) se akutní toxicita nepředpokládá, ani nebyla zjištěna.
+Nejsou k dispozici údaje o toxicitě při opakovaném podávání jodidu sodného ani údaje o vlivu na reprodukci u zvířat a o mutagenním nebo karcinogenním účinku.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+Obsah tobolky:
+Uhličitan sodný Hydrouhličitan sodný Hydroxid sodný
+Dihydrát hydrogenfosforečnanu sodného Thiosíran sodný
+Složení želatinové tobolky:
+Chinolinová žluť (E 104) Sodná sůl erythrosinu (E 127) Oxid titaničitý (E 171) Želatina
+6.2 Inkompatibility
+Nevztahuje se.
+
+6.3 Doba použitelnosti
+21 dnů od data výroby.
+
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 ºC.
+Skladujte v původním obalu, aby nedošlo k radiační expozici od výrobku.
+Radiofarmaka je nutno skladovat v souladu s národními předpisy o radioaktivních látkách.
+
+6.5 Druh obalu a obsah balení
+
+Polypropylénová lahvička umístěná v ochranném olověném kontejneru uzavřená olověným víčkem, které obsahuje polypropylénovou vložku s látkou pohlcující jód. Balení obsahuje jedinou tobolku. Ke každému balení je zvlášť přiložen polypropylénový aplikátor pro podání tobolky.
+6.6 Zvláštní opatření pro likvidaci přípravku a jiné nakládání s ním
+
+Obecné upozornění
+Radiofarmaka mohou přijímat, používat a podávat pouze oprávněné osoby v určených zdravotnických zařízeních. Jejich příjem, skladování, používání, přesun a likvidace podléhají předpisům a/nebo příslušným povolením vydaným příslušným státním orgánem.
+
+
+
+
+
+
+
+13/20
+
+Radiofarmaka musí být připravována způsobem splňujícím jak požadavky radiační ochrany, tak i
+požadavky farmaceutické kvality.
+
+Bezpečnostní opatření před nakládáním s léčivým přípravkem či jeho podáním
+U většiny pacientů je pravděpodobné, že terapeutické podání jodidu (¹³¹I) sodného povede k poměrně vysoké dávce ozáření; může představovat významné riziko pro životní prostředí i pro další osoby
+v důsledku zevního ozáření či kontaminace rozlitou močí, zvratky apod. V závislosti na podané aktivitě se to může týkat rodinných příslušníků léčené osoby nebo i veřejnosti.
+Proto je třeba přijmout příslušná opatření v souladu s národními předpisy.
+Úkony podávání je nutno provádět tak, aby se minimalizovalo riziko kontaminace léčivého přípravku a
+ozáření pracovníků. Je povinné použití dostatečné radiační ochrany.
+Při otevírání kontejneru si pracovníci musí uvědomit, že přístroje mohou zaznamenat volnou radioaktivitu. Je způsobena Xenonem (¹³¹ᵐXe), který vzniká při rozpadu jódu (¹³¹I) v množství 1,17 %. I když se objeví na přístrojích, nepředstavuje pro personál podstatné riziko.
+Efektivní inhalační dávka z vytvořeného Xenonu (¹³¹ᵐXe) představuje 0,1 % dávky z tobolky chráněné
+olovem ve vzdálenosti 1 m.
+
+Bezpečnostní opatření a údaje o aktivitě
+1,3 % jódu (¹³¹I) se rozpadá přes Xenonu (¹³¹ᵐXe) (poločas rozpadu 12 dnů) a v důsledku difúze může být v obalu přítomno malé množství radioaktivity z xenonu (¹³¹ᵐXe). Proto se doporučuje otevírat přepravní obal ve větraném prostoru a po vyjmutí tobolky ponechat obalový materiál před likvidací do druhého dne větrat, aby absorbovaný xenon (¹³¹ᵐXe) vyprchal.
+Navíc může docházet k úniku malého množství volatilní radioaktivity jódu (¹³¹I) z tobolky. Ve víčku ochranného kontejneru je kotouček uhlí, který slouží k absorpci jódu unikajícího z tobolky. Kotouček uhlí může být kontaminován až 1,3 MBq (35 μCi) jódu (¹³¹I). Díky tomuto kotoučku může být v obalu přítomno jen velmi malé množství jódu (¹³¹I) (obvykle méně než 1,85 kBq (50 nCi)).
+Aktivitu tobolky ve 12:00 GMT od data kalibrace lze vypočíst z tabulky 1. Tabulka 1
+
+Den
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+Koeficient
+1,677
+1,539
+1,412
+1,295
+1,188
+1,090
+1,000
+0,917
+0,842
+0,772
+0,708
+Den
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Koeficient
+0,650
+0,596
+0,547
+0,502
+0,460
+0,422
+0,387
+0,355
+0,326
+0,299
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Narodowe Centrum Badań Jądrowych
+ul. Andrzeja Sołtana 7 05-400 Otwock, Polsko
+
+
+
+
+
+
+14/20
+
+Tel.: +48 22 7180700
+Fax: +48 22 7180350
+e-mail: polatom@polatom.pl
+
+
+8. REGISTRAČNÍ ČÍSLO
+
+88/306/17-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 16. 1. 2019
+
+10. DATUM REVIZE TEXTU
+
+16. 1. 2019
+11. DOZIMETRIE
+
+Následující údaje jsou z publikace ICRP 128 (International Commission on Radiological Protection. Radiation Dose to Patients from Radiopharmaceuticals).
+Biokinetický model popisuje kinetiku jódu v organismu pomocí tzv. kompartmentů, které zahrnují anorganický jodid i organicky navázaný jód uvolňovaný to tkání po vyloučení ze štítné žlázy. Model ICRP se vztahuje na perorální podání.
+V rámci hodnocení přínosu a rizika se doporučuje před podáním vypočítat efektivní dávku a pravděpodobné dávky radiace pro daný cílový orgán nebo orgány. Aktivitu lze poté upravit podle objemu štítné žlázy, biologického poločasu a "recyklačního" faktoru, který přihlíží k fyziologickému stavu pacienta (vč. nedostatku jódu v organismu) a základnímu onemocnění.
+Lze použít tyto dávky pro cílové orgány:
+Autonomní uzel             dávka pro cílový orgán 300 - 400 Gy Toxická multinodulární struma     dávka pro cílový orgán 150 - 200 Gy Gravesova-Basedowova nemoc     dávka pro cílový orgán 200 Gy Velká eutyreoidní struma        dávka pro cílový orgán 100 - 150 Gy
+
+Radiační expozice se týká především štítné žlázy. Radiační expozice ostatních orgánů je řádově tisíckrát nižší než v případě štítné žlázy. Závisí na příjmu jódu v potravě (v oblastech s nedostatkem jódu se absorpce radiojodu zvyšuje až o 90 % a v oblastech s vysokým obsahem jódu klesá na 5 %). Dále závisí na funkci štítné žlázy (eu-, hyper- nebo hypotyreóza) a na přítomnosti tkání akumulujících jód v organismu (např. stav po odnětí štítné žlázy, přítomnost metastáz akumulujících jód, blokáda štítné žlázy). Radiační expozice ostatních orgánů je v závislosti na stupni akumulace ve štítné žláze příslušně vyšší nebo nižší.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15/20
+
+Úplná blokáda štítné žlázy, akumulace 0 %, perorální podání
+Dávka absorbovaná na jednotku podané aktivity (mGy/MBq)
+
+Orgán Nadledviny Povrch kostí Mozek
+Prs
+Stěna žlučníku
+GI trakt
+Žaludeční stěna Stěna tenkého střeva Stěna tlustého střeva (stěna horního t.s. (stěna dolního t.s.
+Srdeční stěna Ledviny Játra
+Plíce Svaly Jícen Vaječníky Slinivka
+Kostní dřeň Slinné žlázy Kůže Slezina Varlata Thymus Štítná žláza
+Stěna močového měchýře Děloha
+Ostatní orgány Efektivní dávka (mSv/MBq)
+Dospělí
+0,044
+0,030
+0,021
+0,020
+0,037
+
+0,87
+0,035
+0,14
+0,12
+0,17
+0,062
+0,062
+0,050
+0,053
+0,026
+0,024
+0,038
+0,060
+0,031
+0,27
+0,019
+0,064
+0,025
+0,024
+2,2
+0,54
+0,045
+0,029
+
+0,28
+15 let
+0,054
+0,037
+0,026
+0,025
+0,048
+
+1,1
+0,044
+0,18
+0,15
+0,22
+0,080
+0,080
+0,065
+0,068
+0,032
+0,030
+0,049
+0,073
+0,038
+0,33
+0,023
+0,077
+0,033
+0,030
+3,6
+0,71
+0,037
+0,037
+
+0,40
+10 let
+0,086
+0,059
+0,043
+0,042
+0,085
+
+1,6
+0,070
+0,30
+0,25
+0,37
+0,13
+0,13
+0,10
+0,11
+0,051
+0,049
+0,076
+0,11
+0,061
+0,44
+0,038
+0,12
+0,055
+0,049
+5,6
+1,1
+0,062
+0,060
+
+0,54
+5 let
+0,14
+0,092
+0,071
+0,069
+0,13
+
+2,8
+0,11
+0,50
+0,42
+0,61
+0,20
+0,20
+0,16
+0,18
+0,080
+0,079
+0,11
+0,16
+0,095
+0,59
+0,062
+0,19
+0,084
+0,079
+0,13
+1,4
+0,10
+0,10
+
+1,1
+1 rok
+0,25
+0,18
+0,14
+0,13
+0,21
+
+5,9
+0,19
+0,92
+0,75)
+1,2)
+0,37
+0,37
+0,30
+0,36
+0,15
+0,15
+0,20
+0,28
+0,18
+0,86
+0,12
+0,34
+0,15
+0,15
+0,25
+1,8
+0,18
+0,18
+
+2,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16/20
+
+Nízká akumulace ve štítné žláze, perorální podání
+Dávka absorbovaná na jednotku podané aktivity (mGy/MBq)
+
+Orgán
+Nadledviny
+Dospělí
+0,051
+15 let
+0,067
+10 let
+0,12
+5 let
+0,20
+1 rok
+0,44
+
+
+Povrch kostí
+Mozek Prs
+Stěna žlučníku GI trakt Žaludeční stěna Stěna tenkého
+(Stěna horního t.s. (Stěna dolního t.s. Srdeční stěna Ledviny
+Játra Plíce Svaly Jícen Vaječníky Slinivka
+Kostní dřeň Slinné žlázy Kůže Slezina Varlata Thymus Štítná žláza
+Stěna močového měchýře Děloha
+Ostatní orgány Efektivní dávka (mSv/MBq)
+0,089
+0,093
+0,038
+0,043
+
+0,77
+0,033
+0,12
+0,17
+0,089
+0,27
+0,093
+0,10
+0,084
+0,10
+0,037
+0,064
+0,072
+0,22
+0,043
+0,069
+0,024
+0,10
+280
+0,45
+0,042
+0,048
+
+14
+0,10
+0,10
+0,050
+0,057
+
+1,0
+0,043
+0,15
+0,22
+0,12
+0,34
+0,14
+0,13
+0,11
+0,15
+0,049
+0,080
+0,086
+0,27
+0,053
+0,089
+0,032
+0,15
+450
+0,58
+0,054
+0,1111
+
+23
+0,14
+0,13
+0,10
+0,1
+
+1,5
+0,073
+0,27
+0,39
+0,21
+0,50
+0,24
+0,22
+0,17
+0,30
+0,080
+0,13
+0,12
+0,36
+0,080
+0,15
+0,056
+0,30
+670
+0,89
+0,090
+0,17
+
+34
+0,22
+0,18
+0,17
+0,18
+
+2,5
+0,11
+0,49
+0,71
+0,36
+0,84
+0,46
+0,38
+0,27
+0,58
+0,13
+0,21
+0,19
+0,49
+0,12
+0,26
+0,095
+0,59
+1400
+1,2
+0,15
+0,25
+
+71
+0,40
+0,30
+0,32
+0,36
+
+5,3
+0,22
+1,0)
+1,6)
+0,77
+1,8
+1,2
+0,79
+0,48
+1,1
+0,28
+0,41
+0,37
+0,72
+0,25
+0,55
+0,20
+1,1
+2300
+1,6
+0,28
+0.44
+
+110
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17/20
+
+Střední akumulace ve štítné žláze, perorální podání
+Dávka absorbovaná na jednotku podané aktivity (mGy/MBq)
+
+Orgán
+Nadledviny
+Dospělí
+0,055
+15 let
+0,047
+10 let
+0,13
+5 let
+0,24
+1 rok
+0,55
+
+
+Povrch kostí
+Mozek Prs
+Stěna žlučníku GI trakt Žaludeční stěna Stěna tenkého střeva
+Stěna tlustého střeva (Stěna horního t.s. (Stěna dolního t.s.
+Srdeční stěna Ledviny Játra
+Plíce Svaly Jícen Vaječníky Slinivka
+Kostní dřeň Slinné žlázy Kůže Slezina Varlata Thymus Štítná žláza
+Stěna močového měchýře Děloha
+Ostatní orgány Efektivní dávka (mSv/MBq)
+0,12
+0,13
+0,048
+0,046
+
+0,71
+0,032
+
+0,14
+0,12
+0,17
+0,10
+0,27
+0,12
+0,13
+0,12
+0,14
+0,036
+0,066
+0,095
+0,19
+0,057
+0,023
+0,023
+0,14
+430
+0,39
+0,040
+0,11
+
+22
+0,14
+0,14
+0,063
+0,063
+
+0,95
+0,043
+
+0,18
+0,15
+0,22
+0,14
+0,34
+0,18
+0,16
+0,15
+0,22
+0,049
+0,084
+0,11
+0,24
+0,070
+0,032
+0,032
+0,22
+690
+0,51
+0,053
+0,15
+
+35
+0,19
+0,18
+0,13
+0,12
+
+1,4
+0,075
+
+0,34
+0,28
+0,40
+0,25
+0,53
+0,31
+0,28
+0,24
+0,45
+0,082
+0,14
+0,15
+0,32
+0,10
+0,056
+0,056
+0,45
+1000
+0,79
+0,089
+0,23
+
+53
+0,30
+0,24
+0,23
+0,21
+
+2,4
+0,11
+
+0,63
+0,53
+0,76
+0,45
+0,93
+0,62
+0,50
+0,38
+0,87
+0,15
+0,24
+0,24
+0,43
+0,16
+0,10
+1,0
+0,87
+2200
+1,1
+0,15
+0,33
+
+110
+0,52
+0,39
+0,43
+0,45
+
+5,0
+0,24
+
+1,4
+1,2)
+1,8)
+1,0
+2,1
+1,7
+1,0
+0,66
+1,7
+0,33
+0,49
+0,48
+0,64
+0,33
+0,23
+2,3
+1,7
+3600
+1,5
+0,32
+0,58
+
+180
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18/20
+
+Vysoká akumulace ve štítné žláze, perorální podání
+Dávka absorbovaná na jednotku podané aktivity (mGy/MBq)
+
+Orgán
+Nadledviny
+Dospělí
+0,059
+15 let
+0,082
+10 let
+0,15
+5 let
+0,28
+1 rok
+0,66
+
+
+Povrch kostí
+Mozek Prs Žlučník GI trakt
+Žaludeční stěna Stěna tenkého střeva
+Stěna tlustého střeva (Stěna horního t.s. (Stěna dolního t.s.
+Srdeční stěna Ledviny Játra
+Plíce Svaly Jícen Vaječníky Slinivka
+Kostní dřeň Slinné žlázy Kůže Slezina Varlata Thymus Štítná žláza
+Stěna močového měchýře
+0,16
+0,17
+0,058
+0,049
+
+0,66
+0,032
+
+0,14
+0,12
+0,16
+0,12
+0,27
+0,14
+0,15
+0,15
+0,19
+0,035
+0,068
+0,12
+0,16
+0,071
+0,075
+0,22
+0,19
+580
+0,34
+0,18
+0,18
+0,077
+0,068
+
+0,88
+0,043
+
+0,19
+0,16
+0,22
+0,16
+0,35
+0,22
+0,20
+0,19
+0,28
+0,049
+0,088
+0,14
+0,20
+0,087
+0,10
+0,031
+0,28
+940
+0,44
+0,24
+0,24
+0,17
+0,13
+
+1,3
+0,077
+
+0,35
+0,30
+0,42
+0,30
+0,55
+0,39
+0,35
+0,31
+0,59
+0,084
+0,15
+0,19
+0,27
+0,13
+0,18
+0,057
+0,59
+1400
+0,68
+0,37
+0,37
+0,28
+0,24
+
+2,2
+0,12
+
+0,68
+0,58
+0,81
+0,58
+1,0
+0,79
+0,61
+0,49
+1,2
+0,16
+0,27
+0,29
+0,37
+0,19
+0,33
+0,11
+1,2
+3000
+0,95
+0,65
+0,65
+0,54
+0,54
+
+4,7
+0,26
+
+0,16
+1,4)
+2,0
+1,4
+2,4
+2,2
+1,3
+0,86
+2,3
+0,37
+0,57
+0,59
+0,55
+0,41
+0,80
+0,27
+2,3
+4900
+1,3
+
+
+Děloha Ostatní orgány
+Efektivní dávka
+(mSv/MBq)
+0,038
+0,15
+
+29
+0,051
+0,19
+
+47
+0,089
+0,29
+
+71
+0,16
+0,42
+
+150
+0,36
+0,74
+
+250
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19/20
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Tobolky jsou připravené k použití. Před použitím stanovte aktivitu.
+Pokyny k otevření kontejneru s radioaktivním přípravkem s použitím aplikátoru:
+1. Zkontrolujte údaj o radioaktivitě a datum kalibrace uvedené na vnějším obalu.
+2. Odtrhněte horní víčko přepravního obalu (kovový plíšek).
+3. Vyjměte horní vložku z pěnového polystyrénu.
+4. Vyjměte olověný kontejner s přípravkem.
+5. Roztrhněte obal náústku z fólie a papíru a náústek vyjměte.
+6.  Otevřete olověný kontejner s přípravkem. Provedete to tak, že podržíte spodní část kontejneru a horní část vytáhnete směrem nahoru. Lahvička s tobolkou musí zůstat v ochranném kontejneru.
+7. Nasaďte náústek na lahvičku. Za tím účelem náústek na lahvičku s tobolkou našroubujte.
+8.  Doporučuje se, aby během podávání tobolky zůstala lahvička s tobolkou v ochranném kontejneru. Pacient drží kontejner v ruce, náústek vezme do úst a poté lahvičku nakloní tak, aby mu tobolka náústkem sklouzla do úst. V případě potřeby lze tobolku podat bez použití kontejneru. Pacient drží náústek, vyjme lahvičku s tobolkou z olověného kontejneru, náústek vezme do úst a poté lahvičku nakloní tak, aby mu tobolka náústkem sklouzla do úst.
+9. Po podání tobolky se náústek a lahvička zlikvidují. Olověný kontejner se vrací výrobci.
+10. K oddělení náústku od lahvičky vložte lahvičku s náústkem do olověného kontejneru, poté kontejner
+podržte v ruce a náústek odšroubujte.
+11. Ke změření aktivity obsažené v tobolce uchopte náústek připevněný na lahvičku s tobolkou do držáku dávkového kalibrátoru a vložte do kalibrátoru. Po dokončení měření odstraňte náústek připevněný k lahvičce a lahvičku vložte zpět do olověného kontejneru. Je-li nutno tobolku přemístit do jiné místnosti, je nutno z lahvičky sejmout náústek, jak je popsáno výše. Po sejmutí náústku zakryjte olověný kontejner víčkem.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20/20

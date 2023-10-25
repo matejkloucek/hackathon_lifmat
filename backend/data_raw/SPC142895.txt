@@ -1,0 +1,405 @@
+sp.zn. sukls430955/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+PK-Merz 100 mg potahované tablety
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje amantadini sulfas 100 mg.
+
+Pomocné látky se známým účinkem: monohydrát laktosy, oranžová žluť (E110) Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Potahovaná tableta
+
+Popis tablet: kulaté, oranžové, bikonvexní, potahované tablety s půlicí rýhou na jedné straně.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Parkinsonský syndrom: léčba příznaků Parkinsonovy choroby jako je rigor, tremor, hypokinéze, akinéze.
+Extrapyramidové vedlejší účinky neuroleptik a další léků s podobným mechanismem účinku, jako je časná dyskinéze, akatizie a příznaky parkinsonismu.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Léčba pacientů s Parkinsonovým syndromem a pacientů s poruchou motorických a pohybových schopností v důsledku užívání farmakologické léčby se má zahajovat postupně a dávka se má upravit podle terapeutického účinku.
+
+Léčba má být zahájena dávkou 1 potahovaná tableta přípravku PK-Merz (odpovídá 100 mg amantadin- sulfátu denně) po dobu prvních 4 až 7 dnů s následným zvyšováním dávky o 1 tabletu denně každý týden, dokud není dosaženo udržovací dávky.
+
+Obvyklá účinná dávka je 1 až 3 potahované tablety přípravku PK-Merz dvakrát denně (odpovídá 200 - 600 mg amantadin-sulfátu denně). Maximální denní dávka 6 potahovaných tablet přípravku PK-Merz (odpovídá 600 mg amantadin-sulfátu) by neměla být překročena.
+Starší pacienti
+U starších pacientů, zvláště u těch, kteří mají stavy agitovanosti a zmatenosti nebo delirantní syndromy, je nutné zahajovat léčbu nižší dávkou.
+
+
+1
+
+Při kombinované léčbě s ostatními antiparkinsoniky musí být dávkování přesně přizpůsobeno individuálním potřebám pacienta.
+
+U pacientů, kteří byli dosud léčeni amantadin-sulfátem v infuzním roztoku, je možné zvolit vyšší počáteční dávky.
+V případě náhlého zhoršení příznaků parkinsonismu ve smyslu akinetické krize je nutné podat infuzní léčbu amantadin-sulfátem.
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin je nutné dávku upravit v závislosti na poklesu renální clearance (vyjádřené
+podle rychlosti glomerulární filtrace, GFR) tak, jak uvádí následující tabulka:
+
+
+GFR
+(ml/min)
+Dávka
+(amantadin-sulfát)
+Interval mezi dávkami
+80-60               100 mg            každých 12 hodin
+60-50               200 mg a 100* mg      každý druhý den*
+50-30               100 mg            jednou denně
+30-20               200 mg            dvakrát týdně
+20-10               100 mg            třikrát týdně
+< 10 a hemodialyzovaní pacienti  200 mg a 100 mg       jednou týdně nebo jednou za dva týdny
+* dosaženo střídavým podáváním 1krát 1 tabletu a 1krát 2 tablety obsahující 100 mg amantadin- sulfátu
+Rychlost glomerulární filtrace (GFR) může být stanovena podle následující hodnoty:
+
+
+
+
+kde:
+Clcr =  (140 - věk) x hmotnost (kg)
+72 x kreatinin
+Clcr = clearance kreatininu v ml/min kreatinin = sérový kreatinin v mg/100ml
+Clearance kreatininu vypočtená pomocí této rovnice platí pro muže (odpovídající hodnota u žen je asi 85 %) a může být porovnána s clearance inulínu pro odhad rychlosti GFR (120 ml/min u dospělých).
+
+Amantadin je pouze částečně dialyzovatelný (asi 5 %). Způsob podávání
+Potahované tablety se mají užívat s malým množstvím tekutiny, nejlépe ráno a odpoledne. Poslední dávka se nemá užívat později než v 16:00 hodin.
+
+Délka léčby závisí na povaze a závažnosti průběhu choroby a je stanovena lékařem, který léčbu předepsal.
+
+Léčba přípravkem PK-Merz nesmí být náhle přerušena, protože u pacientů s Parkinsonovým syndromem může dojít ke zvýšenému projevu extrapyramidových příznaků až k akinetické krizi, nebo se může po náhlém vysazení léčby objevit delirium.
+Pediatrická populace
+Není dostatek zkušeností s používáním přípravku u dětí.
+4.3  Kontraindikace
+
+-  hypersenzitivita na léčivou látku nebo na kteroukoliv pomocnou látku uvedenou v bodě 6.1,
+
+2
+
+-  závažné městnavé srdeční selhání (NYHA IV),
+-  kardiomyopatie a myokarditida,
+-  AV blok II. nebo III. stupně,
+-  bradykardie pod 55/min,
+-  prodloužení QT intervalu (QTc > 420 ms dle Bazetta) nebo rozpoznatelné U vlny či syndrom vrozeného dlouhého QT intervalu v rodinné anamnéze,
+-  závažné komorové arytmie v anamnéze, včetně torsades de pointes,
+-  souběžná léčba budipinem nebo jinými léky, které prodlužují QT interval (viz bod 4.5),
+-  snížená hladina draslíku nebo hořčíku v krvi (viz bod 4.4),
+-  závažná renální nedostatečnost (clearance kreatininu < 10 ml/min).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Se zvláštní opatrností by měl být přípravek PK-Merz podáván u pacientů:
+-  s hypertrofií prostaty,
+-  s glaukomem s úzkým úhlem,
+-  s renální insuficiencí (různé závažnosti; je tu riziko akumulace vzhledem ke zhoršení renální filtrace, viz bod 4.2 a 4.3),
+-  se stavy agitovanosti nebo zmatenosti,
+-  s delirantními stavy nebo exogenními psychózami v anamnéze,
+-  se souběžnou léčbou memantinem (viz bod 4.5).
+Před zahájením léčby a 1 týden a 3 týdny po zahájení léčby je nutné provést EKG (50 mm/s) a stanovit QT interval (QTc) na základě srdeční frekvence podle Bazetta. Tento EKG záznam je také třeba provést před zvýšením dávky a rovněž 2 týdny po každém dalším zvýšení dávky. Další kontroly EKG se mají provádět minimálně jednou za rok. Léčba nesmí být prováděna nebo je nutné ji vysadit u pacientů, jejichž hodnoty QTc před léčbou jsou nad 420 ms, u kterých se během léčby přípravkem PK- Merz prodloužil interval QTc o více než 60 ms nebo u pacientů, kteří mají po dobu léčby přípravkem PK-Merz QTc interval nad 480 ms nebo mají zřejmou vlnu U.
+
+Dodržením výše uvedených bezpečnostních opatření a zvážením kontraindikací je možné zabránit velmi vzácnému, ale život ohrožujícímu nežádoucímu účinku – komorové tachyarytmii torsade de pointes.
+Pacienti s rizikem nerovnováhy elektrolytů, například v důsledku diuretické léčby, častého zvracení a/nebo průjmu, po podání inzulínu v naléhavých situacích, pacienti s onemocněním ledvin nebo s anorexií, musí být pečlivě sledováni s ohledem na laboratorní parametry a musí být u nich provedena příslušná substituce elektrolytů, zejména draslíku a hořčíku.
+V případě výskytu příznaků, jako je palpitace, vertigo nebo synkopy se musí léčba přípravkem PK- Merz ihned přerušit a musí se ověřit, zda se u pacienta neobjeví během následujících 24 hodin prodloužení QT intervalu. Pokud k prodloužení QT intervalu nedojde, je možné léčbu opět zahájit s ohledem na kontraindikace a interakce.
+U pacientů s kardiostimulátorem není možné přesně stanovit QT interval, a proto je nutné se rozhodnout o léčbě přípravkem PK-Merz individuálně na základě konzultace s kardiologem.
+
+Doplňkové podávání amantadinu jako profylaxe a léčby infekce virem chřipky typu A není vhodné a nesmí být prováděno, vzhledem k nebezpečí předávkování.
+Zvláštní opatření pro použití:
+Pacienti léčení současně neuroleptiky a přípravkem PK-Merz mají riziko vývoje život ohrožujícího maligního neuroleptického syndromu, pokud přípravek PK-Merz náhle vysadí.
+U pacientů s poruchou funkce ledvin může dojít k intoxikaci.
+
+3
+
+Zvláštní opatrnost je doporučována při předepisování přípravku PK-Merz pacientům s organickým mozkovým syndromem, kteří mají sklon k epileptickým záchvatům, protože se může se zvýšit intenzita jednotlivých příznaků (viz bod 4.2 a 4.8).
+
+Pacienti se známým kardiovaskulárním onemocněním musí být po dobu léčby přípravkem PK-Merz pravidelně lékařsky sledováni.
+U pacientů s Parkinsonovou nemocí se často objevují příznaky, jako je nízký krevní tlak, slinění, pocení, zvýšená teplota, akumulace tepla, otok a deprese. Tito pacienti mají být léčeni pouze po náležitém zvážení nežádoucích účinků a interakcí.
+Pokud se objeví rozmazané vidění nebo jiné problémy se zrakem, má být kontaktován oční lékař pro vyloučení korneálního edému. V případě diagnózy korneálního edému má být léčba amantadinem ukončena.
+Pacienti mají informovat svého lékaře v případě, že se u nich vyskytnou problémy při močení.
+Poruchy osobnosti impulzivního typu
+Pacienti by měli být pravidelně monitorováni s ohledem na vývoj poruch osobnosti impulzivního typu. Pacienti a pečovatelé mají být informováni, že u pacientů léčených přípravky s dopaminergním účinkem, včetně přípravku PK-Merz, se mohou objevit behaviorální příznaky poruch chování impulzivního typu, včetně patologického hráčství, zvýšeného libida, hypersexuality, kompulzivního utrácení nebo nakupování, záchvatovitého přejídání a kompulzivní konzumace jídla. Pokud se takové příznaky objeví, má být zváženo snížení dávky nebo postupné vysazení přípravku.
+Pomocné látky
+Přípravek obsahuje azobarvivo E 110 (oranžová žluť), které může způsobit alergické reakce.
+
+Laktosa: Přípravek obsahuje monohydrát laktosy. Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktázy nebo malabsorpcí glukosy a galaktosy nemají tento přípravek užívat.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Současné užívání amantadinu a léků, o kterých je známo, že prodlužují QT interval, je kontraindikováno (viz bod 4.3). Jsou to například:
+-  některá antiarytmika třídy IA (např. chinidin, disopyramid, prokainamid) a třídy III (např. amiodaron, sotalol),
+-  některá antipsychotika (např. thioridazin, chlorpromazin, haloperidol, pimozid),
+-  některá tricyklická a tetracyklická antidepresiva (např. amitriptylin),
+-  některá antihistaminika (např. astemizol, terfenadin),
+-  některá makrolidová antibiotika (např. erythromycin, klarithromycin),
+-  některé inhibitory gyrázy (např. sparfloxacin),
+-  azolová antimykotika a další léky, jako je budipin, halofantrin, kotrimoxazol, pentamidin, cisaprid a bepridil.
+Tento seznam není úplný. Před zahájením léčby amantadinem současně s jiným přípravkem by měl být zkontrolován souhrn údajů o přípravku příslušného přípravku s ohledem na možné interakce vzhledem k prodloužení QT intervalu.
+
+Použití přípravku PK-Merz v kombinaci s jinými antiparkinsoniky je možné. Pro zabránění nežádoucím účinkům (jako jsou psychotické reakce) může být nutné snížit dávkování příslušného antiparkinsonika.
+
+
+
+4
+
+Nebyly provedeny žádné specifické studie hodnotící interakce po podání přípravku PK-Merz současně s dalšími antiparkinsoniky (např. levodopa, bromokriptin, memantin nebo trihexyfenidyl) nebo s memantinem (viz bod 4.8)
+
+Současné podávání přípravku PK-Merz a následujících přípravků může mít za následek následující interakce:
+Anticholinergika
+Nežádoucí účinky (zmatenost a halucinace) anticholinergik (např.. trihexyfenidyl, benzatropin, skopolamin, biperiden, orfenadrin, atd.) se mohou zesílit, pokud se podávají současně s přípravkem PK-Merz.
+Sympatomimetika působící nepřímo na CNS
+Zesílení centrálních účinků amantadinu.
+
+Alkohol
+Snížení tolerance alkoholu.
+
+Levodopa (antiparkinsonikum)
+Vzájemná potenciace terapeutického účinku. Levodopa může být tudíž kombinována s přípravkem PK-Merz.
+Memantin
+Memantin může zesilovat účinek a nežádoucí účinky přípravku PK-Merz (viz bod 4.4).
+
+Další léky
+Současné užívání diuretik a triamterenu/hydrochlorothiazidu může mít za následek snížení plazmatické clearance amantadinu, což vede k toxickým plazmatickým koncentracím. Současné používání není tudíž doporučeno.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Nejsou k dispozici data prokazující placentární přestup amantadin-sulfátu. Ani nejsou k dispozici dostatečné údaje o užívání amantadin-sulfátu u těhotných žen. Bylo již hlášeno několik případů narození zdravých dětí, ale také komplikace v těhotenství a šest případů vrozených defektů plodu (kardiovaskulární defekty, anomálie končetin). Studie na zvířatech prokázaly embryotoxický a teratogenní vliv amantadin-sulfátu na plod (viz bod 5.3). Potenciální vliv na lidský plod však není znám.
+Amantadin-sulfát může být užíván během těhotenství pouze tehdy, pokud je zvážena absolutní nutnost užití tohoto přípravku.
+
+Kojení
+Amantadin-sulfát je vylučován do mateřského mléka. Jestliže je i přes zvážení možného rizika kojení doporučeno, je nutné novorozence sledovat ohledně možných nežádoucích účinků (kožní vyrážka, retence moči, zvracení) a je-li to nutné kojení přerušit.
+
+Fertilita
+Jestliže je přípravek užíván během prvního trimestru, je doporučováno ultrasonografické vyšetření. Jestliže je amantadin-sulfát podáván ženám ve fertilním věku, měly by být informovány o tom, že v případě plánovaní těhotenství či v případě otěhotnění, je nutné kontaktovat svého lékaře.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+
+
+5
+
+Účinky přípravku na pozornost a schopnost soustředění v kombinaci s dalšími léky proti parkinsonismu nemohou být vyloučeny. V souvislosti s charakterem onemocnění může být na začátku léčby ovlivněna schopnost řídit nebo obsluhovat stroje, která je výraznější než snížení těchto schopností způsobených samotným onemocněním.
+Toto zhoršení se ještě zesiluje při kombinaci s alkoholem. O vykonávání těchto činností rozhodne lékař individuálně.
+4.8  Nežádoucí účinky
+
+Frekvence výskytu nežádoucích účinků je uvedena následovně:
+
+
+Velmi časté: Časté: Méně časté: Vzácné:
+Velmi vzácné: Není známo:
+(≥ 1/10)
+(≥ 1/100 až < 1/10) (≥ 1/1000 až < 1/100)
+(≥ 1/10 000 až < 1/1000) (< 1/10 000),
+(z dostupných údajů nelze určit)
+
+Poruchy nervového systému
+Časté: závratě
+Velmi vzácné: epileptické záchvaty, obvykle po léčbě vyššími dávkami, než jsou doporučené, myoklonus, příznaky periferní neuropatie
+
+Psychiatrické poruchy
+Časté: poruchy spánku, motorický a psychický neklid, zejména u starších pacientů se mohou spustit paranoidní exogenní psychózy doprovázené vizuálními halucinacemi. Nežádoucí účinky tohoto typu se mohou vyskytnout častěji u parenterální formy přípravku, pokud se infuzní roztok přípravku PK- Merz Infusion podává v kombinaci s dalšími antiparkinsoniky (např. levodopa, bromokriptin) nebo s memantinem.
+Není známo: poruchy osobnosti impulzivního typu
+U pacientů léčených přípravky s dopaminergním účinkem, včetně přípravku PK-Merz se mohou vyskytnout patologické hráčství, zvýšené libido, hypersexualita, kompulzivní utrácení nebo nakupování, záchvatovité přejídání a kompulzivní konzumace jídla (viz bod 4.4).
+
+Poruchy ledvin a močových cest
+Časté: retence moči v souvislosti s hypertrofií prostaty
+
+Poruchy kůže a podkožní tkáně
+Časté: livedo reticularis (charakterizované skvrnitou mramorovanou kůží) a doprovázené edémem dolní části nohy a kotníku
+Gastrointestinální poruchy
+Časté: nauzea, sucho v ústech
+
+Srdeční poruchy:
+Velmi vzácné: poruchy srdečního rytmu, jako je komorová tachykardie, fibrilace komor, torsade de pointes a prodloužení QT intervalu. Většina těchto nežádoucích účinků se vyskytne při užití vyšší dávky nebo ve spojení s určitými léky či ve spojení s dalšími rizikovými faktory pro vznik srdeční arytmie (viz bod 4.3 a 4.5). Je popisována srdeční arytmie s tachykardií.
+Cévní poruchy
+Časté: ortostatická dysregulace
+
+
+6
+
+Poruchy oka*
+Méně časté: rozmazané vidění
+Vzácné: korneální léze, např. bodové subepiteliální opacity, které mohou být spojené s povrchovou tečkovitou keratitidou, korneálním epiteliálním edémem a výrazně sníženou zrakovou ostrostí.
+Velmi vzácné: dočasná ztráta zraku*, fotosenzitivita
+
+* Pacient by měl být vyšetřený očním lékařem co nejdříve poté, co se objeví příznaky jako je ztráta zrakové ostrosti nebo rozmazané vidění, aby se vyloučil edém rohovky, jako možná příčina (viz bod 4.4).
+
+Poruchy krve a lymfatického systému
+Velmi vzácné: hematologické nežádoucí účinky, jako například leukopénie, trombocytopénie
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí přímo na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Možnost předávkování musí být vždy zvážena například při použití více než jednoho léku při sebevražedném úmyslu.
+
+a) Příznaky předávkování
+Akutní intoxikace je charakterizována následujícími příznaky: nauzea, zvracení, neklid, třes, ataxie, rozmazané vidění, letargie, deprese, poruchy řeči, zrakové halucinace, toxická psychóza a epileptické záchvaty; byl zaznamenán jeden případ maligní srdeční arytmie.
+Byly pozorovány akutní toxické psychózy projevující se jako zmatenost s vizuálními halucinacemi a někdy kómatem a myoklonem po současném podání amantadinu a jiných antiparkinsonik.
+b) Léčba předávkování
+Specifické antidotum neexistuje. V případě intoxikace je nutné vyvolat zvracení a/nebo provést výplach žaludku.
+V případě život ohrožující intoxikace je nutná intenzívní léčba. Mezi terapeutická opatření patří dostatečný příjem tekutin a acidifikace moči pro rychlejší vyloučení léčivé látky, dále je možná sedace, antikonvulzívní léčba a podání antiarytmik (lidokain i.v.).
+V případě neurotoxických příznaků (popsané výše) je možné zkusit intravenózní podání fyzostigminu v dávce 1 – 2 mg každé 2 hodiny u dospělých a 2krát 0,5 mg v 5 – 10 minutových intervalech u dětí, do maximální dávky 2 mg.
+Vzhledem k nízké dialyzovatelnosti amantadinu (přibližně 5 %) není hemodialýza účinná.
+Je doporučeno sledovat pacienta zvlášť pečlivě s ohledem na možné prodloužení QT intervalu a možnost vzniku komorových tachykardií typu torsade de pointes, např. elektrolytová nerovnováha (zvláště hypokalémie a hypomagnezémie) nebo bradykardie.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+
+7
+
+Farmakoterapeutická skupina: Antiparkinsonika, dopaminergní léčba, deriváty adamantanu, amantadin
+ATC kód: N04BB01
+
+Amantadin má různé farmakologické účinky. Má nepřímý agonistický účinek na striatální dopaminový receptor. V terapeutických koncentracích inhibuje uvolňování acetylcholinu zprostředkované NMDA (N-methyl-D- aspartát) receptory a může tak mít anticholinergní účinky. Působí synergicky s L-dopou.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Amantadinin hydrochlorid se po perorálním podání rychle resorbuje z trávicího traktu.
+
+Distribuce
+Maximální plazmatické koncentrace jsou po jedné dávce dosaženy přibližně za 2 až 8 hodin (tmax). Volně rozpustný amantadin-hydrochlorid poskytuje vyšší plazmatické koncentrace, než hůře rozpustný amantadin-sulfát, který dosahuje maximální plazmatické koncentrace (cmax) později. Po jednorázové perorální dávce 250 mg amantadin hydrochloridu je dosaženo cmax 0,5 μg/ml.
+
+Při dávkování 200 mg/den je dosaženo ustáleného stavu za 4 – 7 dnů s plazmatickými koncentracemi 400 – 900 μg/ml. Po podání dávky 100 mg amantadin-sulfátu je cmax 0,15 μg/ml.
+Celkové množství absorbované léčivé látky (AUC) je stejné u obou solí. Plazmatická clearance byla identická jako renální clearance, 17,7 ± 10 l/h u zdravých dobrovolníků vyššího věku. Distribuční objem (4,2 ± 1,9 l/kg) je závislý na věku; u starších pacientů je 6,0 l/kg.
+Biotransformace
+Amantadin není u člověka metabolizovaný.
+
+Eliminace
+Eliminační poločas se pohybuje mezi 10 a 30 hodinami s průměrnou hodnotou 15 hodin a silně závisí na věku pacienta. Starší muži (62 – 72 let) mají eliminační poločas 30 hodin. Pacienti s renální nedostatečností mají terminální eliminační poločas podstatně prodloužený na 68 ± 10 hodin.
+
+Amantadin se in vitro váže na plazmatické proteiny přibližně z 67 %; přibližně 33 % se nachází v plazmě v nevázané formě. Prochází hematoencefalickou bariéru pomocí saturabilního transportního systému.
+Amantadin se vylučuje téměř úplně do moči v nezměněné formě (90 % jednorázové dávky) a malá množství jsou vylučována stolicí.
+
+Amantadin-hydrochlorid je pouze částečně dialyzovatelný (přibližně 5 %).
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Studie na zvířatech prokázaly, že amantadin zvyšuje extracelulární koncentraci dopaminu a to jak zvýšením uvolňování dopaminu, tak blokádou jeho vychytávání na presynaptických neuronech.
+Studie chronické toxicity odhalily hlavně stimulační účinky na CNS. U psů a opic byly pozorovány v ojedinělých případech extrasystoly a u psů mírná tuková infiltrace myokardu. Studie mutagenity pomocí stanovených testů in vitro a in vivo neprokázaly žádný genotoxický účinek amantadinu.
+
+Nebyly provedeny studie hodnotící perinatální/postnatální období.
+
+
+8
+
+V embryotoxických studiích u potkanů, myší a králíků byly pouze u králíků zaznamenány při vysokých dávkách embryoletální účinky a malformace. Se zvýšenou frekvencí byly pozorovány otoky, malpozice zadních končetin a abnormality skeletu. Účinky na fertilitu nebyly dostatečně sledovány; u potkanů není důkaz o nežádoucích účincích na fertilitu.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Jádro tablety: Monohydrát laktosy, mikrokrystalická celulosa, bramborový škrob, želatina, mastek, povidon 25, koloidní bezvodý oxid křemičitý, magnesium-stearát, sodná sůl karmelosy.
+
+Potahová vrstva: oxid titaničitý, mastek, magnesium-stearát, oranžová žluť, methakrylátový kopolymer typ E.
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+5 let
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25°C.
+
+6.5  Druh obalu a obsah balení
+
+Al/PP blistr, krabička.
+Balení: 30, 90 potahovaných tablet.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Žádné zvláštní požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Merz Pharmaceuticals GmbH, Eckenheimer Landstrasse 100,
+60318 Frankfurt/Main Německo
+
+
+8.   REGISTRAČNÍ ČÍSLO
+27/219/93-C
+
+
+9.   DATUM REGISTRACE/DATUM PRODLOUŽENÍ REGISTRACE
+Datum první registrace : 17. 3. 1993
+
+9
+
+Datum posledního prodloužení registrace : 13. 10. 2010
+
+
+10.  DATUM POSLEDNÍ REVIZE TEXTU
+29. 5. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

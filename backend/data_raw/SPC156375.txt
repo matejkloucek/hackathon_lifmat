@@ -1,0 +1,645 @@
+Sp. zn. sukls48345/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1. NÁZEV PŘÍPRAVKU
+
+Linezolid Sandoz 600 mg potahované tablety
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje linezolidum 600 mg. Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Potahovaná tableta
+
+Bílé až téměř bílé, bikonvexní, oválné potahované tablety o délce 18,8 mm, šířce 9,9 mm a tloušťce 6,4 mm
+s vyraženým „LZ600“ na jedné straně, hladké na druhé straně.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+-  Nozokomiální pneumonie
+-  Komunitní pneumonie
+
+Přípravek Linezolid Sandoz je indikován k léčbě komunitní pneumonie a nozokomiální pneumonie, které jsou vyvolané grampozitivními bakteriemi se známou nebo předpokládanou citlivostí na léčivou látku. Při určování vhodnosti léčby přípravkem je nutné zvážit výsledky mikrobiologických testů nebo informace o prevalenci rezistence k antibakteriálním látkám u grampozitivních bakterií (příslušné organismy viz bod 5.1).
+
+Linezolid nepůsobí proti infekcím vyvolaným gramnegativními patogeny. Pokud jsou gramnegativní patogeny prokázány nebo předpokládány, musí být současně zahájena specifická léčba proti gramnegativním organismům.
+-  Komplikované infekce kůže a měkkých tkání (viz bod 4.4)
+
+Přípravek Linezolid Sandoz je indikován k léčbě komplikovaných infekcí kůže a měkkých tkání pouze
+v případě, že bylo mikrobiologickými testy prokázáno, že infekce je způsobena grampozitivními bakteriemi s citlivostí na přípravek.
+Linezolid nepůsobí proti infekcím vyvolaným gramnegativními patogeny. Linezolid má být podán pacientům s komplikovanými infekcemi kůže a měkkých tkání se známou nebo možnou souběžnou infekcí gramnegativními organismy pouze tehdy, pokud není dostupná alternativní možnost léčby (viz bod 4.4). Za těchto okolností musí být současně zahájena léčba proti gramnegativním organismům.
+
+Léčba linezolidem má být zahájena pouze v nemocnici a po konzultaci s příslušným odborníkem, jako je
+mikrobiolog nebo infektolog.
+
+Je třeba dbát oficiálních pokynů pro správné používání antibakteriálních látek.
+
+
+
+1/15
+
+4.2 Dávkování a způsob podání
+
+Linezolid jako infuzní roztok, potahované tablety či perorální suspenze může být použit jako iniciální terapie. Pacienti, jejichž léčba byla zahájena parenterální formou, mohou být převedeni na některou
+z perorálních forem, jakmile je to klinicky indikováno. V takových případech není nutné měnit dávku, protože perorálně podaný linezolid má téměř 100% biologickou dostupnost.
+Dávkování
+Doporučené dávkování a délka léčby u dospělých
+Délka léčby závisí na patogenu, místě infekce a její závažnosti a na odpovědi pacienta na léčbu.
+
+Následující doporučení odpovídají době trvání léčby použité v klinických studiích. U některých typů infekcí mohou být vhodné kratší léčebné režimy, ty však nebyly v klinických studiích hodnoceny.
+
+Maximální doba léčby je 28 dní. Bezpečnost a účinnost linezolidu pro dobu podávání delší než 28 dnů
+nebyla stanovena (viz bod 4.4).
+U infekcí se současnou bakteriemií není nutné zvýšení doporučené dávky nebo prodloužení doby trvání léčby.
+
+
+Infekce
+Dávkování
+Délka léčby
+
+Nozokomiální pneumonie      600 mg dvakrát denně Komunitní pneumonie
+
+10-14 dnů
+
+Komplikované infekce kůže a měkkých tkání
+600 mg dvakrát denně
+
+Pediatrická populace
+K dispozici nejsou dostatečné údaje o bezpečnosti a účinnosti linezolidu u dětí a dospívajících (< 18 let) umožňující stanovení doporučeného dávkování (viz body 5.1 a 5.2). Dokud nebudou tyto údaje k dispozici, používání linezolidu u této věkové skupiny se nedoporučuje.
+
+Starší pacienti
+Není nutná úprava dávkování.
+
+Pacienti s poruchou funkce ledvin
+Není nutná úprava dávkování (viz body 4.4 a 5.2).
+Pacienti s těžkou poruchou funkce ledvin (tj. clearance kreatininu (CLCR < 30 ml/min):
+Není nutná úprava dávkování. Vzhledem k neznámému klinickému významu vyšších expozic (až desetinásobek) dvěma primárním metabolitům linezolidu u pacientů s těžkou poruchou funkce ledvin má být linezolid používán u těchto pacientů se zvláštní opatrností a pouze v případě, že předpokládaný přínos převýší teoretické riziko.
+Protože se přibližně 30 % dávky linezolidu odstraní během 3 hodin hemodialýzy, linezolid má být podáván dialyzovaným pacientům až po dialýze. Primární metabolity linezolidu jsou do jisté míry hemodialýzou odstraňovány, ale jejich koncentrace po dialýze je stále ještě zřetelně vyšší než jejich koncentrace u pacientů s normální funkcí ledvin nebo mírnou či středně těžkou poruchou funkce ledvin.
+Proto má být linezolid používán u dialyzovaných pacientů s těžkou poruchou funkce ledvin se zvláštní opatrností a pouze v případě, že předpokládaný přínos převýší možné riziko.
+V současnosti nejsou zkušenosti s podáváním linezolidu pacientům, kteří se podrobují kontinuální ambulantní peritoneální dialýze (CAPD) nebo alternativní léčbě renálního selhání (jiné než hemodialýza).
+
+Pacienti s poruchou funkce jater
+Není nutná úprava dávkování. Klinické údaje jsou však omezené, proto se použití u těchto pacientů doporučuje pouze v případě, že předpokládaný přínos převýší možné riziko (viz body 4.4 a 5.2).
+
+
+2/15
+
+Způsob podání
+Doporučená dávka linezolidu má být podána perorálně dvakrát denně.
+
+Cesta podání
+Perorální podání.
+Potahované tablety mohou být užívány s jídlem nebo mezi jídly. Potahované tablety se polykají celé s přiměřeným množstvím vody.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Linezolid nemá být podáván pacientům, kteří užívají přípravky inhibující monoaminooxidázu A nebo B (např. fenelzin, isokarboxazid, selegilin, moklobemid) nebo dva týdny po užití takových přípravků.
+
+Pokud není k dispozici zařízení pro pečlivé sledování pacienta a monitorování krevního tlaku, linezolid nemá být podáván pacientům s následujícími klinickými diagnózami nebo při současné medikaci níže uvedenými přípravky:
+-  Pacienti s nekontrolovanou hypertenzí, feochromocytomem, karcinoidem, tyreotoxikózou, bipolární depresí, schizoafektivní poruchou a stavy akutní zmatenosti.
+
+-  Pacienti užívající některý z následujících léků: inhibitory zpětného vychytávání serotoninu (viz bod 4.4), tricyklická antidepresiva, agonisty serotoninových 5-HT1 receptorů (triptany), přímo a nepřímo působící sympatomimetika (včetně adrenergních bronchodilatancií, pseudoefedrinu a fenylpropanolaminu), vazopresiva (např. epinefrin, norepinefrin), dopaminergní látky (např. dopamin, dobutamin), pethidin nebo buspiron.
+
+Údaje z pokusů na zvířatech naznačují, že linezolid a jeho metabolity mohou přecházet do mateřského mléka, proto má být kojení před zahájením léčby a během ní přerušeno (viz bod 4.6).
+4.4 Zvláštní upozornění a opatření pro použití
+
+Myelosuprese
+U pacientů, kteří dostávali linezolid, byla pozorována myelosuprese (včetně anemie, leukopenie, pancytopenie a trombocytopenie). U případů, kde je výsledek znám, hematologické parametry vzrostly po vysazení linezolidu k hodnotám před léčbou. Riziko výskytu těchto účinků zřejmě souvisí s délkou léčby. Starší pacienti léčení linezolidem mohou mít vyšší riziko rozvoje krevních dyskrazií v porovnání s mladšími pacienty. Trombocytopenie se může vyskytnout mnohem častěji u pacientů s těžkou poruchou funkce ledvin, bez ohledu na to, jestli jsou na dialýze či nikoli. Proto se doporučuje pečlivé monitorování krevního obrazu u pacientů, kteří: již mají anemii, granulocytopenii nebo trombocytopenii; užívají současně léky, které mohou snižovat hladinu hemoglobinu, zhoršovat krevní obraz nebo nepříznivě ovlivňovat množství či funkci trombocytů; mají těžkou poruchou funkce ledvin; jsou léčeni déle než 10-14 dní. Těmto pacientům má být linezolid podáván pouze tehdy, pokud je možné pečlivé monitorování hladin hemoglobinu, krevního obrazu a počtu trombocytů.
+
+Pokud se během léčby linezolidem objeví významná myelosuprese, léčba má být přerušena, pokud není její pokračování považováno za absolutně nezbytné. V takovém případě je třeba nepřetržitě kontrolovat krevní obraz a nasadit vhodné léčebné postupy.
+
+U pacientů léčených linezolidem se navíc doporučuje týdně provádět kontrolu krevního obrazu (včetně hladiny hemoglobinu, trombocytů a celkového a diferenciálního počtu leukocytů) bez ohledu na krevní obraz při zahájení léčby.
+
+Ve studiích podávání ze soucitu byl u pacientů užívajících linezolid po dobu delší než doporučených 28 dnů hlášen zvýšený výskyt závažné anemie. Těmto pacientům bylo častěji zapotřebí podat krevní transfuzi.
+
+3/15
+
+Případy anemie vyžadující krevní transfuzi byly rovněž hlášeny po uvedení léčivé látky na trh. Více případů se objevilo u pacientů léčených linezolidem déle než 28 dnů.
+
+Po uvedení na trh byly hlášeny případy sideroblastické anemie. Většina pacientů, u nichž byl znám čas jejího nástupu, byla linezolidem léčena déle než 28 dnů. Většina pacientů se plně či částečně zotavila po vysazení linezolidu, a to bez ohledu na to, jestli byla anemie léčena či nikoli.
+Rozdíly v mortalitě v klinické studii u pacientů s krevními infekcemi vyvolanými grampozitivními mikroorganismy souvisejícími s katetrem
+V otevřené studii u pacientů léčených linezolidem se závažnými infekcemi spojenými s intravaskulárním katetrem byla patrna zvýšená mortalita ve srovnání s vankomycinem/dikloxacilinem/oxacilinem [78/363 (21,5 %) vs. 58/363 (16,0 %)]. Hlavním faktorem ovlivňujícím poměr mortality byla výchozí grampozitivní infekce. Poměr mortality byl obdobný u pacientů s infekcemi vyvolanými čistě grampozitivními organismy (poměr šancí 0,96; 95% interval spolehlivosti: 0,58-1,59), avšak byl významně vyšší (p = 0,0162) ve skupině léčené linezolidem u pacientů s infekcemi vyvolanými jinými patogeny nebo u pacientů bez iniciálně prokázaného patogenu (poměr šancí 2,48; 95% interval spolehlivosti: 1,38-4,46). Největší rozdíl byl pozorován v průběhu léčby a během 7 dnů následujících po ukončení podávání hodnoceného léčiva. Během studie byla ve skupině léčené linezolidem prokázána infekce vyvolaná gramnegativním patogenem u více pacientů a více pacientů zemřelo v důsledku gramnegativní či polymikrobiální infekce. Z toho důvodu má být linezolid podán pacientům s komplikovanými infekcemi kůže a měkkých tkání se známou nebo možnou současnou infekcí gramnegativními organismy pouze tehdy, pokud nejsou dostupné alternativní možnosti léčby (viz bod 4.1). Za těchto okolností musí být současně zahájena léčba proti gramnegativním organismům.
+
+Průjem a kolitida související s antibiotiky
+Pseudomembranózní kolitida byla hlášena v souvislosti s téměř všemi antibakteriálními látkami včetně linezolidu. Proto je důležité myslet na tuto diagnózu u pacientů s průjmem, který vznikl po podání jakékoliv antimikrobiální látky. V případě kolitidy prokazatelně způsobené antibiotiky nebo při podezření na ni může být opodstatněné přerušení léčby linezolidem. Je třeba nasadit vhodná léčebná opatření.
+Průjem související s antibiotiky a kolitida související s antibiotiky, včetně pseudomembranózní kolitidy a průjmu vyvolaného Clostridium difficile, byly hlášeny v souvislosti s téměř všemi antibiotiky včetně linezolidu, v rozsahu od mírného průjmu až po fatální kolitidu. Proto je důležité myslet na tuto diagnózu u pacientů se závažným průjmem, který vznikl během léčby linezolidem nebo po ní. V případě průjmu nebo kolitidy související prokazatelně s antibiotiky, nebo při podezření na ně, má být přerušena probíhající léčba antibakteriálními látkami včetně linezolidu a okamžitě zahájena vhodná léčebná opatření. Látky inhibující střevní peristaltiku jsou v tomto případě kontraindikovány.
+Laktátová acidóza
+Při podávání linezolidu byl hlášen výskyt laktátové acidózy. Pacienti, u kterých se během užívání linezolidu rozvinou známky a příznaky metabolické acidózy včetně opakující se nauzey a zvracení, bolesti břicha, nízké hladiny hydrogenuhličitanu nebo hyperventilace, musí být neprodleně lékařsky ošetřeni. Pokud se vyskytne laktátová acidóza, je třeba zvážit přínos pokračujícího podávání linezolidu vůči potenciálním rizikům.
+
+Mitochondriální dysfunkce
+Linezolid inhibuje syntézu mitochondriálního proteinu. V důsledku této inhibice se mohou vyskytnout nežádoucí účinky jako laktátová acidóza, anemie a neuropatie (optického nervu a periferní); tyto příhody jsou častější v případě, že je lék podáván déle než 28 dnů.
+
+Serotoninový syndrom
+Byly hlášeny spontánní případy serotoninového syndromu, který se objevil v souvislosti se současným podáváním linezolidu a serotonergních látek včetně antidepresiv, jako jsou inhibitory zpětného vychytávání serotoninu (SSRI). Souběžné podávání linezolidu a serotonergních látek je proto kontraindikováno (viz bod 4.3), s výjimkou stavu, kdy je podávání obou látek nezbytné. V těchto případech mají být pacienti pečlivě monitorováni z důvodu možnosti výskytu známek a příznaků serotoninového syndromu jako jsou kognitivní dysfunkce, hyperpyrexie, hyperreflexie a porucha koordinace. Pokud dojde k výskytu známek a příznaků
+4/15
+
+serotoninového syndromu, lékaři mají zvážit přerušení podávání jedné nebo obou látek. Při přerušení souběžného podávání serotonergní látky se mohou vyskytnout příznaky z vysazení.
+
+Periferní neuropatie a neuropatie optického nervu
+U pacientů léčených linezolidem byly hlášeny periferní neuropatie, neuropatie optického nervu a optická neuritida progredující někdy až ke ztrátě zraku. Tato hlášení zahrnovala především pacienty léčené po dobu delší, než je maximální doporučená délka trvání léčby 28 dní.
+
+Všichni pacienti musí být poučeni, že mají oznámit takové příznaky poruchy zraku, jako jsou změny zrakové ostrosti, změny barevného vidění, rozmazané vidění nebo poruchy zorného pole. V těchto případech se doporučuje okamžité vyšetření a v nutném případě odeslání k oftalmologovi. Pokud jakýkoliv pacient užívá linezolid déle než doporučených 28 dní, je třeba pravidelně kontrolovat jeho zrakové funkce.
+
+Pokud se objeví periferní neuropatie nebo neuropatie zrakového nervu, další podávání linezolidu má být posouzeno s ohledem na potenciální riziko.
+
+Riziko neuropatií může být zvýšeno, pokud je linezolid podáván pacientům souběžně léčeným nebo nedávno léčeným antituberkulotiky.
+
+Křeče
+Byly hlášeny případy výskytu křečí u pacientů léčených linezolidem. Většina těchto pacientů měla záchvaty v anamnéze nebo u nich bylo hlášeno riziko záchvatu. Pacienti mají být poučeni o nutnosti informovat svého lékaře, pokud měli v minulosti záchvaty.
+Inhibitory monoaminooxidázy
+Linezolid je reverzibilní neselektivní inhibitor monoaminooxidázy (IMAO), nicméně v dávkách použitých k antibakteriální terapii nevykazuje antidepresivní účinek. K dispozici jsou jen velmi omezené údaje z interakčních studií a o bezpečnosti linezolidu v případě podání pacientům s existujícími stavy a/nebo souběžnou medikací, které by je mohly vystavit riziku plynoucímu z inhibice MAO. Proto se použití linezolidu za těchto okolností nedoporučuje, pokud není možné pečlivé sledování a monitorování pacienta (viz body 4.3 a 4.5).
+
+Podávání v kombinaci s potravinami bohatými na tyramin
+Pacienti mají být upozorněni, že nemají konzumovat velká množství potravy bohaté na tyramin (viz bod
+4.5).
+
+Superinfekce
+Účinky terapie linezolidem na běžnou mikroflóru nebyly dosud v klinických studiích hodnoceny.
+Používání antibiotik může příležitostně vést k přerůstání necitlivých mikroorganismů. Např. během klinických studií byla u přibližně 3 % pacientů užívajících doporučené dávky zaznamenána kandidóza související s tímto lékem. Pokud během terapie dojde k superinfekci, je třeba zavést vhodná opatření.
+
+Zvláštní populace
+U pacientů s těžkou poruchou funkce ledvin má být linezolid použit s velkou opatrností a pouze v případě, že předpokládaný přínos převýší teoretické riziko (viz body 4.2 a 5.2).
+
+U pacientů s těžkou poruchou funkce jater se linezolid doporučuje pouze v případě, že předpokládaný přínos převýší možné riziko (viz body 4.2 a 5.2).
+U potkaních samců byly pozorovány nežádoucí účinky linezolidu na samčí reprodukční systém; význam pro člověka není znám (viz bod 4.6).
+Klinické studie
+Bezpečnost a účinnost linezolidu podávaného déle než 28 dnů nebyla stanovena. Do kontrolovaných klinických studií nebyli zahrnuti pacienti s diabetickými lézemi nohy, dekubity nebo ischemickými lézemi,
+
+5/15
+
+závažnými popáleninami nebo gangrénou. Zkušenosti s použitím linezolidu v léčbě těchto stavů jsou proto omezené.
+
+Linezolid Sandoz obsahuje sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné potahované tabletě, to znamená, že je v podstatě „bez sodíku“.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Inhibitory monoaminooxidázy
+Linezolid je reverzibilní, neselektivní inhibitor monoaminooxidázy (IMAO). K dispozici je jen velmi málo údajů z interakčních studií a o bezpečnosti linezolidu v případě podání pacientům se souběžnou medikací, která by je mohla vystavit riziku plynoucímu z inhibice MAO. Proto se použití linezolidu za těchto okolností nedoporučuje, pokud není možné pečlivé sledování a monitorování pacienta (viz body 4.3 a 4.4).
+Potenciální interakce vedoucí ke zvýšení krevního tlaku
+U zdravých dobrovolníků s normálním krevním tlakem vyvolával linezolid další zvýšení krevního tlaku způsobené pseudoefedrinem nebo fenylpropanolamin-hydrochloridem. Současné podání linezolidu s pseudoefedrinem nebo fenylpropanolaminem vyvolalo průměrné zvýšení systolického krevního tlaku řádově o 30 – 40 mmHg, v porovnání se zvýšením o 11 – 15 mmHg u samotného linezolidu, 14 – 18 mmHg u pseudoefedrinu nebo fenylpropanolaminu a 8 – 11 mmHg u placeba. Obdobné studie u pacientů s hypertenzí nebyly provedeny. K dosažení požadované odezvy u léků s vazopresivním účinkem, včetně dopaminergních látek, se doporučuje pečlivá titrace dávek, pokud jsou podávány současně s linezolidem.
+Potenciální serotonergní interakce
+Možná léková interakce s dextromethorfanem byla studována na zdravých dobrovolnících. Zkoumaným subjektům byl podán dextromethorfan (dvě dávky 20 mg v odstupu 4 hodin) současně s linezolidem nebo bez něho. U zdravých dobrovolníků užívajících linezolid a dextromethorfan nebyly pozorovány projevy serotoninového syndromu (zmatenost, delirium, neklid, třes, zrudnutí, pocení a hyperpyrexie).
+Zkušenosti po uvedení na trh: Byl zaznamenán jeden případ, kdy se při současném užívání linezolidu a dextromethorfanu projevily u pacienta účinky podobné serotoninovému syndromu, které odezněly při přerušení podávání obou přípravků.
+Během klinického použití linezolidu se serotenergními látkami včetně antidepresiv jako jsou inhibitory zpětného vychytávání serotoninu (SSRI), byly hlášeny případy serotoninového syndromu. Proto souběžné podávání těchto látek je kontraindikováno (viz bod 4.3), návod, jak postupovat u pacientů, u kterých je léčba linezolidem a serotonergními látkami nezbytná, je popsán v bodě 4.4.
+
+Podávání v kombinaci s potravinami bohatými na tyramin
+U osob, které dostávaly současně linezolid a méně než 100 mg tyraminu, nebyla pozorována signifikantní presorická odpověď. To naznačuje, že je pouze zapotřebí vyhnout se současné konzumaci nadměrného množství potravin a nápojů s vysokým obsahem tyraminu (např. zrající sýry, kvasnicové extrakty, nedestilované alkoholické nápoje a fermentované produkty ze sójových bobů, jako je sójová omáčka).
+Léky metabolizované prostřednictvím cytochromu P450
+Linezolid není znatelně metabolizován prostřednictvím enzymatického systému cytochromu P450 (CYP) a
+neinhibuje aktivity klinicky významných lidských CYP izoforem (1A2, 2C9, 2C19, 2D6, 2E1, 3A4). Obdobně, linezolid neindukuje P450 izoenzymy u potkanů. Proto se neočekává interakce léků indukovaných CYP 450 a linezolidu.
+
+Rifampicin
+Účinek rifampicinu na farmakokinetiku linezolidu byl zkoumán ve studii se šestnácti zdravými dobrovolníky mužského pohlaví, kterým bylo podáváno 600 mg linezolidu dvakrát denně po dobu 2,5 dne spolu se 600 mg rifampicinu jednou denně po dobu 8 dnů a bez podání rifampicinu. Rifampicin snížil Cmax a AUC linezolidu
+
+6/15
+
+v průměru o 21 % [90% IS: 15, 27], respektive v průměru o 32 % [90% IS: 27, 37]. Mechanizmus této interakce a její klinický význam není znám.
+
+
+
+Warfarin
+Pokud byl pacientům léčeným linezolidem po dosažení rovnovážného stavu podán warfarin, došlo k 10% snížení průměrné maximální hodnoty INR a 5% snížení AUC INR. Pro hodnocení klinického významu těchto zjištění nejsou k dispozici dostatečné údaje o pacientech, kteří užívali linezolid a warfarin.
+
+4.6 Fertilita, těhotenství a kojení
+Těhotenství
+Odpovídající údaje o použití linezolidu u těhotných žen nejsou k dispozici. Ve studiích na zvířatech byla pozorována reprodukční toxicita (viz bod 5.3). Potenciální riziko pro člověka existuje.
+
+Linezolid se nemá užívat v průběhu těhotenství, pokud to není nezbytně nutné, tj. pouze pokud předpokládaný přínos převýší možné riziko.
+
+Kojení
+Údaje z pokusů na zvířatech naznačují, že linezolid a jeho metabolity mohou přecházet do mateřského mléka. Proto se má kojení přerušit před podáním přípravku a během jeho užívání.
+Fertilita
+Linezolid reverzibilně snižuje fertilitu a indukuje abnormální morfologii spermatu u dospělých potkaních samců při hladinách přibližně stejných, jaké jsou očekávány u lidí. Možné účinky na mužský reprodukční systém nejsou známy (viz bod 5.3).
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Pacienti mají být upozorněni na možnost výskytu závratí či symptomů poškození zraku (jak je popsáno v bodech 4.4 a 4.8) během léčby linezolidem a mají být poučeni, aby neřídili motorová vozidla nebo neobsluhovali stroje, pokud se tyto symptomy vyskytnou.
+4.8 Nežádoucí účinky
+
+Následující tabulka poskytuje seznam nežádoucích účinků, které se vyskytly s četností ≥ 0,1% nebo které byly považovány za závažné v klinických studiích, během nichž více než 2000 dospělých pacientů dostávalo doporučené dávky linezolidu po dobu až 28 dnů.
+
+Přibližně 22 % pacientů pozorovalo nežádoucí účinky, nejčastěji hlášenými byly bolest hlavy (2,1 %), průjem (4,2 %), nauzea (3,3 %) a kandidóza (hlavně orální [0,8 %] a vaginální [1,1 %], viz tabulka níže). Nejčastěji hlášenými nežádoucími účinky se vztahem k přípravku, které vedly k přerušení léčby, byly bolesti hlavy, průjem, nauzea a zvracení. Kvůli výskytu nežádoucích účinků působených přípravkem přibližně 3 % pacientů přerušila léčbu.
+
+Další nežádoucí účinky hlášené po uvedení na trh jsou uvedeny v tabulce s četností „není známo“, protože skutečnou četnost nelze z dostupných údajů určit.
+
+Následující nežádoucí účinky byly pozorovány a hlášeny během léčby linezolidem s následující četností: Velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1000 až < 1/100), vzácné (≥ 1/10000 až < 1/1000), velmi vzácné (< 1/10000), není známo (z dostupných údajů nelze určit).
+
+
+
+
+
+7/15
+
+Třídy orgánových systémů
+Infekce a infestace
+
+
+
+
+Poruchy krve a lymfatického systému
+
+Poruchy imunitního systému
+Poruchy metabolismu a výživy Psychiatrické poruchy
+Poruchy nervového systému
+
+Poruchy oka
+
+
+
+
+
+Poruchy ucha a labyrintu Srdeční poruchy
+
+Cévní poruchy
+
+
+Gastrointestinální
+poruchy
+Časté
+
+Kandidóza, orální kandidóza, vaginální kandidóza, plísňové infekce
+
+
+
+
+
+
+
+
+
+
+
+Bolest hlavy, změny chuti (kovová pachuť)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Průjem, nauzea, zvracení
+Méně časté
+
+Vaginitida
+
+
+
+
+
+Leukopenie*, neutropenie, trombocytopeni e*, eozinofilie
+
+
+
+
+
+Insomnie
+
+Závratě, hypoestézie, parestézie Rozmazané vidění*
+
+
+
+
+Tinitus
+
+
+
+Hypertenze, flebitida, tromboflebitida Pankreatitida, gastritida, lokalizovaná nebo celková bolest břicha, zácpa, sucho v ústech, dyspepsie, glositida, řídká stolice, stomatitida, změna barvy nebo onemocnění jazyka
+Vzácné
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arytmie (tachykardie) Transitorní ischemické ataky
+Četnost není známa
+
+Kolitida související s antibiotiky včetně pseudomembranózní kolitidy*
+
+
+Myelosuprese*, pancytopenie*, anemie*† sideroblastická anemie*
+
+Anafylaxe
+
+Laktátová acidóza*,
+hyponatremie
+
+
+
+Serotoninový syndrom**, křeče*, periferní neuropatie*
+Neuropatie optického nervu*, optická neuritida*, ztráta zraku*, změny zrakové ostrosti*, změny barevného vidění*, změny v zorném poli*
+
+
+
+
+
+
+
+Změna zbarvení zubů
+
+
+Poruchy jater a
+žlučových cest
+Abnormální funkční jaterní testy, zvýšené hodnoty AST,
+Zvýšená hladina celkového bilirubinu
+
+8/15
+
+Třídy orgánových systémů
+Časté
+
+ALT nebo alkalické fosfatázy
+Méně časté
+Vzácné
+Četnost není známa
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+Poruchy ledvin a
+močových cest
+
+
+Poruchy reprodukčního systému a prsu Celkové poruchy a reakce v
+místě aplikace Vyšetření
+
+
+
+
+
+
+Zvýšená hladina dusíku močoviny v krvi (BUN)
+
+
+
+
+
+
+
+
+Biochemie Zvýšení hladiny LDH,
+kreatinkinázy, lipázy, amylázy nebo glukózy po jídle.
+Snížení celkového proteinu, albuminu, sodíku nebo vápníku.
+Zvýšení nebo snížení hladin draslíku nebo hydrogenuhličit anu.
+Hematologie Zvýšení počtu neutrofilů nebo eozinofilů.
+Pokles hemoglobinu, hematokritu nebo počtu erytrocytů.
+Zvýšení nebo snížení počtu trombocytů nebo leukocytů.
+Kopřivka, dermatitida, pocení, svědění, vyrážka
+
+
+Polyurie, zvýšená hladina kreatininu
+
+Vulvovaginální potíže
+
+Zimnice, únava, horečka, zvýšená žízeň, lokalizovaná bolest Biochemie Zvýšená hladina sodíku nebo vápníku. Snížení hladiny glukózy po jídle.
+Zvýšení nebo snížení chloridů.
+
+
+
+
+
+
+
+
+
+
+
+Hematologie Zvýšený počet retikulocytů. Snížení počtu neutrofilů.
+
+
+
+
+
+
+Renální selhání
+Bulózní kožní onemocnění popisem odpovídající Stevens-Johnsonovu syndromu a toxické epidermální nekrolýze, angioedém, alopecie
+9/15
+
+* Viz bod 4.4
+** Viz body 4.3 a 4.5
+† Viz níže
+
+Následující nežádoucí účinky byly ve vzácných případech hodnoceny jako závažné: lokalizovaná bolest břicha, tranzitorní ischemické ataky a hypertenze.
+† V kontrolovaných klinických studiích, kde byl linezolid podáván nejvýše 28 dnů, byla anemie hlášena u méně než 0,1 % pacientů. V klinickém programu použití ze soucitu u pacientů s život ohrožujícími infekcemi a souběžnými morbiditami se anemie rozvinula u 2,5 % pacientů (33/1326) při používání linezolidu po dobu ≤ 28 dnů, v porovnání s 12,3 % pacientů (53/430) léčenými po dobu > 28 dnů. Podíl případů hlášených jako s přípravkem související závažná anemie a vyžadující transfuzi krve byl 9 % (3/33) u pacientů léčených ≤ 28 dní a 15 % (8/53) u pacientů léčených > 28 dnů.
+
+Pediatrická populace
+Údaje o bezpečnosti získané z klinických studií založených na více než 500 pediatrických pacientech (od narození do 17 let) nenaznačují, že by se bezpečnostní profily linezolidu pro pediatrické pacienty a pro dospělé pacienty lišily.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9 Předávkování
+Není známo specifické antidotum.
+
+Nebyly hlášeny žádné případy předávkování. Přesto může být užitečná následující informace:
+
+Doporučena je podpůrná léčba spolu s udržováním glomerulární filtrace. Přibližně 30 % z dávky linezolidu se odstraní během tříhodinové hemodialýzy, ale nejsou dostupné údaje o odstraňování linezolidu peritoneální dialýzou nebo hemoperfuzí. Dva primární metabolity linezolidu jsou též do jisté míry odstranitelné hemodialýzou.
+
+Příznaky toxicity u potkanů po dávce 3000 mg/kg/den byly snížená aktivita a ataxie, zatímco u psů dávka
+2000 mg/kg/den vyvolala zvracení a třes.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Jiná antibakteriální léčiva ATC kód: J01XX08
+
+Všeobecné vlastnosti
+Linezolid je syntetická antibakteriální látka, která patří do nové třídy antimikrobiálních látek, oxazolidinonů. In vitro působí proti aerobním grampozitivním bakteriím a anaerobním mikroorganismům. Selektivně potlačuje syntézu bakteriálních bílkovin jedinečným mechanizmem účinku. Linezolid se specificky váže na místo bakteriálního ribozomu (23S podjednotky 50S) a zabraňuje vzniku funkčního 70S iniciačního komplexu, který je nepostradatelnou součástí translačního procesu.
+Postantibiotický efekt (PAE) linezolidu in vitro pro Staphylococcus aureus byl přibližně 2 hodiny. Pokud se měřil na zvířecích modelech, byl PAE in vivo 3,6 a 3,9 hodin pro Staphylococcus aureus a Streptococcus
+10/15
+
+pneumoniae. Ve studiích na zvířatech byla klíčovým farmakodynamickým ukazatelem účinnosti doba, kdy plazmatická hladina linezolidu převýšila minimální inhibiční koncentraci (MIC) infikujícího mikroorganismu.
+
+Hranice citlivosti („breakpoints“)
+Hraniční hodnoty MIC (minimální inhibiční koncentrace) stanovené Evropským výborem pro testování antimikrobiální citlivosti (European Committee on Antimicrobial Susceptibility Testing EUCAST) pro kmeny stafylokoků a enterokoků jsou: citlivé ≤ 4 mg/l a rezistentní > 4 mg/l. Hraniční hodnoty pro streptokoky (včetně S. pneumoniae) jsou: citlivé ≤ 2 mg/l a rezistentní > 4 mg/l.
+Hraniční hodnoty MIC pro nespecifické kmeny jsou: citlivé ≤ 2 mg/l a rezistentní > 4 mg/l. Hraniční hodnoty pro nespecifické kmeny byly stanoveny především na základě údajů FK/FD a jsou nezávislé na hladinách MIC pro specifické kmeny. Používají se pouze u patogenů, pro které nebyly stanoveny specifické hodnoty, a nikoliv u kmenů, pro které není test citlivosti doporučen.
+Citlivost
+Prevalence získané rezistence se může u vybraných druhů lišit geograficky a v čase, proto je nutné získat místní informace o rezistenci, zejména při léčbě závažných infekcí. Nezbytný je požadavek odborného doporučení v případech, kdy je účinnost léčby nejistá vzhledem k místní prevalenci rezistence.
+
+Kategorie
+Citlivé organismy Grampozitivní aeroby: Enterococcus faecalis Enterococcus faecium* Staphylococcus aureus*
+Koaguláza-negativní stafylokoky Streptococcus agalactiae* Streptococcus pneumoniae* Streptococcus pyogenes* Steptokoky skupiny C Streptokoky skupiny G
+
+Grampozitivní anaeroby: Clostridium perfringens Peptostreptococcus anaerobius Peptostreptococcus species
+
+Rezistentní organismy Haemophilus influenzae Moraxella catarrhalis Neisseria species Enterobacteriaceae Pseudomonas species
+
+* Klinická účinnost byla prokázána u citlivých izolátů ve schválených indikacích.
+
+Přestože linezolid vykazoval jistou účinnost in vitro proti druhům Legionella, Chlamydia pneumoniae a
+Mycoplasma pneumoniae, pro průkaz klinické účinnosti nejsou k dispozici dostatečné údaje.
+Rezistence
+Zkřížená rezistence
+Mechanizmus účinku linezolidu se odlišuje od jiných antibiotických tříd. In vitro studie s klinickými izoláty (včetně meticilin-rezistentních stafylokoků, vankomycin-rezistentních enterokoků a penicilin- a erythromycin-rezistentních streptokoků) naznačují, že linezolid je obvykle účinný proti organismům, které jsou rezistentní vůči jedné nebo mnoha dalším skupinám antibiotik.
+
+Rezistence k linezolidu je spojena s bodovými mutacemi na 23S rRNA.
+
+
+11/15
+
+Podobně jako u jiných antibiotik byl u linezolidu dokumentován postupný pokles citlivosti u pacientů
+s obtížně léčitelnými infekcemi a/nebo při prolongaci léčby. Rezistence k linezolidu byla hlášena u enterokoků, Stafylococcus aureus a koaguláza-negativních stafylokoků. Obecně je to spojeno s prodlouženou dobou léčby, přítomností protetických materiálů či nedrénovaných abscesů. Pokud je prokázán výskyt organismů rezistentních na antibiotika ve zdravotnickém zařízení, má být kladen důraz na zavedení takových opatření, která by vedla ke kontrole infekce.
+Údaje z klinických studií
+Studie u pediatrické populace
+V otevřené studii byla účinnost linezolidu (10 mg/kg, každých 8 hodin) porovnávána s vankomycinem (10- 15 mg/kg, každých 6–24 hodin) při léčbě infekcí se suspektními nebo prokázanými grampozitivními rezistentními patogeny (zahrnující nozokomiální pneumonii, komplikované infekce kůže a kožních struktur měkkých tkání, katetrovou bakteriemii, bakteriemii neznámého původu, a jiné infekce), u dětí od narození do 11 let. Klinická úspěšnost léčby v klinicky hodnotitelné populaci byla 89,3% (134/150) a 84,5% (60/71) pro linezolid a vankomycin, v daném pořadí (95% IS: -4,9;14,6).
+
+5.2 Farmakokinetické vlastnosti
+
+Přípravek Linezolid Sandoz obsahuje převážně (s)-linezolid, který je biologicky aktivní a metabolizuje se na neúčinné deriváty.
+Absorpce
+Linezolid je rychle a výrazně absorbován po perorálním podání. Maximální plazmatické koncentrace se dosahuje do 2 hodin od podání. Absolutní biologická dostupnost linezolidu (perorální a intravenózní podání ve zkřížené studii) je úplná (přibližně 100%). Absorpce není významně ovlivněna příjmem potravy a absorpce z perorální suspenze je podobná absorpci dosahované u potahovaných tablet.
+
+Plazmatické hodnoty Cmax a Cmin linezolidu (průměr a směrodatná odchylka/SD/) v ustáleném stavu po intravenózním podání 600 mg dvakrát denně byly 15,1 [2,5] mg/l a 3,68 [2,68] mg/l.
+
+V jiné studii po perorálním podání 600 mg dvakrát denně do dosažení ustáleného stavu byly zjištěny hodnoty
+Cmax a Cmin 21,2 [5,8] mg/l a 6,15 [2,94]. Ustáleného stavu se dosahuje druhý den podávání.
+Distribuce
+Distribuční objem v ustáleném stavu je u zdravých dospělých kolem 40-50 l a přibližuje se objemu celkové tělesné vody. Vazba na plazmatické bílkoviny je přibližně 31% a nezávisí na koncentraci.
+
+Koncentrace linezolidu byly stanoveny v různých tekutinách u limitovaného počtu zdravých dobrovolníků po opakovaném podávání. Poměr linezolidu ve slinách a potu k plazmě byl 1,2 : 1,0 a 0,55 : 1,00, v daném pořadí. Poměr v tekutině epiteliální výstelky a alveolárních buňkách plic byl 4,5 : 1,0,
+případně 0,15 : 1,0, kdy se měření Cmax uskutečnilo v ustáleném stavu. V malé studii u pacientů s ventrikulo- peritoneálním spojením (shuntem), zejména bez zánětu mozkových plen, byl po opakovaném podání při Cmax poměr linezolidu v mozkomíšním moku k plazmě 0,7 : 1,0.
+Biotransformace
+Linezolid se primárně metabolizuje oxidací morfolinového kruhu, přičemž vznikají dva neaktivní deriváty kyseliny karboxylové s otevřeným kruhem, metabolit kyseliny aminoethoxyoctové (PNU-142300) a hydroxyethyl glycinu (PNU-142586). Hydroxyethyl glycin (PNU-142586) je hlavním lidským metabolitem a předpokládá se, že je vytvářen neenzymatickým procesem. Metabolit kyseliny aminoethoxyoctové (PNU- 142300) se vyskytuje méně. Byly popsány i jiné, méně zastoupené inaktivní metabolity.
+Eliminace
+V ustáleném stavu je linezolid u pacientů s normální funkcí ledvin nebo s mírnou až středně těžkou renální insuficiencí vylučován převážně močí ve formě PNU-142586 (40 %), jako původní látka (30 %) a ve formě PNU-142300 (10 %). Ve stolici prakticky nebyla zjištěna původní látka, zatímco přibližně 6 % a 3 % z každé dávky se objevuje ve formě metabolitu PNU-142586 a PNU-142300. Eliminační poločas linezolidu je
+v průměru 5-7 hodin.
+12/15
+
+Na extrarenální clearance připadá přibližně 65 % z celkové clearance linezolidu. Se zvyšováním dávky linezolidu se clearance stává mírně nelineární. To je zřejmě způsobeno sníženou renální a extrarenální clearance při vyšších koncentracích linezolidu. Nicméně rozdíl v clearance je malý a nemá vliv na zdánlivý eliminační poločas.
+
+Zvláštní skupiny pacientů
+Pacienti s poruchou funkce ledvin
+Po podání jednotlivé dávky 600 mg byl pozorován 7-8násobný nárůst expozice dvěma primárním metabolitům linezolidu v plazmě pacientů s těžkou poruchou funkce ledvin (clearance kreatininu
+< 30 ml/min). Nicméně, nárůst AUC původní látky nebyl pozorován. Ačkoliv jsou hlavní metabolity linezolidu do jisté míry odstranitelné hemodialýzou, plazmatické hladiny metabolitů po jednotlivé dávce 600 mg jsou po dialýze stále ještě zřetelně vyšší než jejich koncentrace u pacientů s normální funkcí ledvin nebo mírnou či středně těžkou poruchou funkce ledvin.
+
+U 24 pacientů s těžkou poruchou funkce ledvin, z nichž 21 bylo pravidelně hemodialyzováno, nejvyšší plazmatické koncentrace dvou hlavních metabolitů po několika dnech podávání byly zhruba desetinásobkem hodnot u pacientů s normální funkcí ledvin. Nejvyšší plazmatické hladiny linezolidu se nezměnily.
+Klinický význam těchto pozorování nebyl stanoven, protože jsou k dispozici pouze omezené bezpečnostní údaje (viz body 4.2 a 4.4).
+
+Pacienti s poruchou funkce jater
+Omezené údaje naznačují že farmakokinetika linezolidu, PNU-142586 a PNU-142300 není ovlivněna u pacientů s mírnou až středně těžkou poruchou funkce jater (tj. Child-Pugh třída A nebo B). Farmakokinetika linezolidu u pacientů se závažnou poruchou funkce jater (tj. Child-Pugh třída C) nebyla hodnocena.
+Nicméně, poněvadž linezolid je metabolizován neenzymaticky, neočekává se, že by insuficience jaterních funkcí významně ovlivňovala metabolizmus linezolidu (viz body 4.2 a 4.4).
+Děti a dospívající (< 18 let)
+Dostatečné údaje o bezpečnosti a účinnosti linezolidu u dětí a dospívajících do 18 let nejsou k dispozici, proto není doporučeno použití linezolidu v této věkové skupině (viz bod 4.2). Je zapotřebí provést další klinická hodnocení ke stanovení doporučení bezpečného a účinného dávkování. Farmakokinetické studie po jednotlivé a opakované dávce u dětí (1 týden až 12 let věku) svědčí o tom, že claearance linezolidu (podle kg tělesné hmotnosti) je větší u pediatrických pacientů než u dospělých, ale snižuje se se vzrůstajícím věkem.
+
+U dětí ve věku od 1 týdne do 12 let podání dávky 10 mg/kg každých 8 hodin vede k expozici přibližující se hodnotě dosažené u dospělých při dávkování 600 mg dvakrát denně.
+U novorozenců do 1 týdne věku během prvního týdne života rapidně narůstá systémová clearance linezolidu (podle kg tělesné hmotnosti). Z toho důvodu budou mít novorozenci, používající denní dávku 10 mg/kg každých 8 hodin, největší systémovou expozici v prvním dnu po narození. Nicméně se s tímto dávkovacím režimem neočekává nadměrná akumulace během prvního týdne života, neboť clearance rapidně vzrůstá během tohoto období.
+
+U dospívajících (12 až 17 let věku) je farmakokinetika linezolidu obdobná jako u dospělých po dávce 600 mg. Z toho důvodu bude expozice dospívajících při dávkování 600 mg každých 12 hodin obdobná jako u dospělých užívajících stejnou dávku.
+U pediatrických pacientů s ventrikulo-peritoneálním spojením (shuntem), kterým byl podáván linezolid 10 mg/kg po 12 hodinách nebo 8 hodinách, byly pozorovány různé koncentrace linezolidu v mozkomíšním moku (CSF) po jednorázovém nebo opakovaném podávání linezolidu. Terapeutické koncentrace nebyly rovnoměrně dosažené nebo nepřetrvávaly rovnoměrně v CSF. Proto použití linezolidu v empirické léčbě pediatrických pacientů s infekcemi centrálního nervového systému se nedoporučuje.
+
+Starší pacienti
+Farmakokinetika linezolidu není významně ovlivněna u pacientů ve věku 65 let a starších.
+13/15
+
+Ženy
+Ženy mají mírně nižší distribuční objem než muži a průměrná clearance je snížena přibližně o 20 % v přepočtu na tělesnou hmotnost. Plazmatické koncentrace jsou u žen vyšší, což může být částečně
+způsobeno rozdíly v tělesné hmotnosti. Protože se průměrný poločas linezolidu významně neliší u mužů a žen, neočekává se, že plazmatická koncentrace u žen převýší tu, která je dobře tolerována, a proto není nutná úprava dávkování.
+
+5.3 Předklinické údaje ve vztahující se k bezpečnosti
+
+Linezolid snižuje fertilitu a reprodukční schopnost potkaních samců při vystavení přibližně stejným hladinám, jaké jsou očekávány u lidí. U pohlavně zralých zvířat jsou tyto účinky reverzibilní. Tyto účinky však nejsou reverzibilní u mladých zvířat léčených linezolidem téměř po celou dobu jejich pohlavního zrání. Byla pozorována abnormální morfologie spermatu ve varlatech dospělých potkaních samců a hypertrofie buněk epitelu a hyperplazie v nadvarlatech. Linezolid pravděpodobně ovlivňuje zrání potkaních spermatozoí. Podávání testosteronu nemělo vliv na linezolidem působené účinky na fertilitu. Hypertrofie nadvarlat nebyla pozorována u psů léčených 1 měsíc, ačkoliv změny v hmotnosti prostaty, varlat a nadvarlat byly zřejmé.
+
+Studie reprodukční toxicity u myší a potkanů neprokázaly žádný teratogenní vliv při vystavení hladině 4x vyšší nebo ekvivalentní hladině očekávané u lidí. Stejné koncentrace linezolidu působily toxicky na březí samice myší a vztahovaly se ke zvýšené úmrtnosti embryí včetně úplné ztráty vrhu, snížení tělesné hmotnosti plodu a exacerbace normální genetické predispozice na změny hrudní kosti u myší. U potkanů byla pozorována mírná toxicita pro samici při expozicích nižších, než jsou předpokládané klinické expozice. Byla pozorována mírná fetální toxicita, která se projevovala snížením hmotnosti plodu, sníženou osifikací hrudních obratlů, sníženým přežíváním mláďat a mírným zpomalením vývoje. Při páření vykazovala stejná zvířata reverzibilní, na dávce závislé zvýšení pre-implantačních ztrát s odpovídajícím poklesem fertility. U králíků se objevily případy snížení tělesné hmotnosti plodu při toxicitě u matky (klinické příznaky, snížený přírůstek tělesné hmotnosti a spotřeby potravy) při nízkých hladinách expozice 0,06násobku v porovnávání
+s expozicí hladině očekávané u lidí odvozené od AUC. Je známo, že tento živočišný druh je citlivý na účinky
+antibiotik.
+
+Linezolid a jeho metabolity se vylučovaly do mléka kojících potkanů a nalezené koncentrace v mléce byly vyšší než hladiny v plazmě matky.
+
+Linezolid vyvolával reverzibilní myelosupresi u potkanů a psů.
+
+U potkanů, kterým byl podáván linezolid perorálně po dobu 6 měsíců v dávce 80 mg/kg/den byla pozorována ireverzibilní, minimální až mírná degenerace sedacího nervu; minimální degenerace sedacího nervu při této dávce byla rovněž prokázána u 1 samce při nekropsii, provedené ve 3. měsíci. K potvrzení či vyloučení případné degenerace zrakového nervu bylo prováděno citlivé morfologické vyšetření perfúzně fixovaných vzorků tkáně.
+
+Minimální až středně těžká degenerace očního nervu byla patrná u 2 ze 3 samců potkanů po 6měsíčním podávání, ale přímý vztah k léčbě linezolidem byl nejednoznačný z důvodu akutní povahy nálezu a jeho asymetrického rozložení. Pozorovaná degenerace očního nervu byla mikroskopicky srovnatelná se spontánní unilaterální degenerací očního nervu u starších potkanů a může se jednat o exacerbaci základního stavu.
+
+Předklinické údaje založené na konvenčních studiích toxicity po opakovaném podávání a genotoxicity neodhalily žádné zvláštní riziko pro člověka, kromě rizik zmiňovaných v jiných bodech tohoto Souhrnu údajů o přípravku. Studie karcinogenity/onkogenity nebyly prováděny vzhledem ke krátké době podávání a nepřítomnosti genotoxicity ve standardní sérii studií.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+14/15
+
+Jádro tablety:
+Mikrokrystalická celulosa Koloidní bezvodý oxid křemičitý
+Sodná sůl karboxymetylškrobu (typ A)
+Hyprolosa Magnesium-stearát
+Potahová vrstva tablety:
+Hypromelosa (E464) Oxid titaničitý (E 171) Makrogol (E1521)
+6.2 Inkompatibility
+
+Neuplatňuje se.
+
+6.3 Doba použitelnosti
+
+3 roky
+
+6.4 Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5 Druh obalu a obsah balení
+
+OPA/Al/PVC/Al blistr.
+
+10, 10 (10x1), 20, 28, 30, 50, 60, 100 potahovaných tablet Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Sandoz s.r.o., Na Pankráci 1724/129, 140 00 Praha 4 – Nusle, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+15/300/14-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 1. 10. 2014
+Datum posledního prodloužení registrace: 10. 12. 2018
+
+10. DATUM REVIZE TEXTU
+
+15. 4. 2020
+
+
+
+
+15/15

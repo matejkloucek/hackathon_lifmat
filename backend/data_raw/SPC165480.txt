@@ -1,0 +1,487 @@
+Sp. zn. sukls242453/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Telmisartan-ratiopharm 80 mg tablety
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tableta obsahuje telmisartanum 80 mg.
+Pomocné látky se známým účinkem:
+Jedna tableta obsahuje 38,40 mg sorbitolu (E420).
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Tableta.
+Bílé až téměř bílé, podlouhlé tablety s půlicí rýhou na jedné straně. Tabletu lze dělit na dvě stejné poloviny.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Hypertenze
+Léčba esenciální hypertenze u dospělých pacientů.
+
+Kardiovaskulární prevence
+Snížení kardiovaskulární morbidity u dospělých s:
+•  Manifestním aterotrombotickým kardiovaskulárním onemocněním (ischemická choroba srdeční v anamnéze, cévní mozková příhoda nebo ischemická choroba periferních tepen) nebo
+•  Diabetes mellitus typu 2 s dokumentovaným orgánovým poškozením.
+
+4.2  Dávkování a způsob podání
+Dávkování
+
+Léčba esenciální hypertenze
+Obvyklá účinná dávka je 40 mg jednou denně. U některých pacientů se příznivý výsledek dostavuje již při denní dávce 20 mg. V případech, kdy se nedosáhne požadovaných hodnot krevního tlaku, lze dávku telmisartanu zvýšit až na 80 mg jednou denně. Alternativně lze telmisartan použít v kombinaci s thiazidovými diuretiky, u nichž bylo prokázáno, že mají aditivní účinek při snižování krevního tlaku pomocí telmisartanu. Pokud se uvažuje o zvyšování dávek, je třeba přihlédnout k tomu, že maximálního antihypertenzního účinku se obvykle dosáhne po čtyřech až osmi týdnech terapie (viz bod 5.1).
+
+Kardiovaskulární prevence:
+Doporučená dávka je 80 mg jednou denně. Není známo, zda dávky nižší než 80 mg telmisartanu jsou účinné při snižování kardiovaskulární morbidity.
+Pokud se zahajuje léčba telmisartanem ke snížení kardiovaskulární morbidity, doporučuje se pečlivé sledování krevního tlaku a pokud je to vhodné, může být nezbytná úprava medikací, které snižují krevní tlak.
+
+
+1/14
+
+Zvláštní skupiny pacientů:
+
+Pacienti s poruchou funkce ledvin
+U pacientů se závažnou poruchou funkce ledvin nebo pacientů podstupujících hemodialýzu jsou k dispozici jen omezené zkušenosti. U těchto pacientů je doporučena nižší úvodní dávka 20 mg (viz bod 4.4). U pacientů s mírnou až středně závažnou poruchou funkce ledvin není třeba přistupovat k úpravám dávek.
+Pacienti s poruchou funkce jater
+Telmisartan je kontraindikován u pacientů se závažnou poruchou funkce jater (viz bod 4.3). U pacientů s mírnou až středně závažnou poruchou funkce jater by dávka neměla přesáhnout 40 mg jednou denně (viz bod 4.4).
+
+Starší pacienti
+Úprava dávky u starších pacientů není nutná.
+
+Pediatrická populace
+Bezpečnost a účinnost telmisartanu u dětí a dospívajících mladších 18 let nebyla stanovena. Aktuálně dostupné údaje jsou popsány v bodech 5.1 a 5.2, ale doporučené dávkování nelze stanovit.
+Způsob podání
+Telmisartan tablety se užívají jednou denně perorálně a mají se podávat s tekutinami, s jídlem nebo bez jídla.
+
+4.3  Kontraindikace
+•  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku
+uvedenou v bodě 6.1.
+•  Druhý a třetí trimestr těhotenství (viz body 4.4 a 4.6).
+•  Obstrukce žlučovodů.
+•  Závažné poškození funkce jater.
+
+Současné podávání telmisartanu s přípravky obsahujícími aliskiren je kontraindikováno u pacientů s diagnózou diabetes mellitus nebo při poruše funkce ledvin (GFR < 60 ml/min/1,73 m2) (viz body 4.5 a 5.1).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Těhotenství
+Léčba pomocí antagonistů receptoru angiotenzinu II by se neměla během těhotenství zahajovat. Pokud není pokračování v léčbě antagonisty receptoru angiotenzinu II považováno za nezbytné, pacientky plánující těhotenství musí být převedeny na jinou léčbu hypertenze, která má ověřený bezpečnostní profil pro podávání v těhotenství. Jestliže je zjištěno těhotenství, musí být léčba pomocí antagonistů receptoru angiotenzinu II ihned ukončena, a pokud je to vhodné, je nutné zahájit jiný způsob léčby (viz body 4.3 a 4.6).
+Poškození funkce jater
+Vzhledem k tomu, že se telmisartan vylučuje hlavně žlučí, nesmí být podáván pacientům s cholestázou, obstrukcí žlučovodů nebo těžkým jaterním poškozením (viz bod 4.3). U těchto pacientů se předpokládá snížená jaterní clearance telmisartanu. Pacientům s mírným až středně závažným poškozením funkce jater by se měl telmisartan podávat se zvýšenou opatrností.
+Renovaskulární hypertenze
+
+
+
+2/14
+
+U pacientů s oboustrannou stenózou renální arterie nebo se stenózou arterie zásobující jedinou funkční ledvinu, kteří jsou léčeni přípravky ovlivňujícími renin-angiotenzin-aldosteronový systém, je zvýšené riziko těžké hypotenze a renální nedostatečnosti.
+Renální poškození a transplantace ledvin
+U pacientů s poškozením renálních funkcí, kteří užívají telmisartan, se doporučuje pravidelné sledování sérových hladin draslíku a kreatininu. Nejsou žádné zkušenosti s podáváním telmisartanu pacientům po transplantaci ledvin v nedávné době.
+Intravaskulární hypovolemie
+U pacientů s poklesem intravaskulárního objemu a/nebo koncentrace sodíku v důsledku intenzivní diuretické terapie, omezování soli v dietě, průjmů nebo zvracení se zejména po první dávce telmisartanu může objevit symptomatická hypotenze.
+Takové stavy by se měly korigovat ještě před podáním telmisartanu, stejně jako snížení intravaskulárního objemu a/nebo deplece sodíku.
+Duální blokáda renin-angiotenzin-aldosteronového systému (RAAS)
+Bylo prokázáno, že současné užívání inhibitorů ACE, blokátorů receptorů pro angiotenzin II nebo aliskirenu zvyšuje riziko hypotenze, hyperkalemie a snížení funkce ledvin (včetně akutního selhání ledvin). Duální blokáda RAAS pomocí kombinovaného užívání inhibitorů ACE, blokátorů receptorů pro angiotenzin II nebo aliskirenu se proto nedoporučuje (viz body 4.5 a 5.1).
+Pokud je duální blokáda považována za naprosto nezbytnou, má k ní docházet pouze pod dohledem specializovaného lékaře a za častého pečlivého sledování funkce ledvin, elektrolytů a krevního tlaku. Inhibitory ACE a blokátory receptorů pro angiotenzin II nemají být používány současně u pacientů s diabetickou nefropatií.
+
+Ostatní stavy provázené stimulací renin-angiotenzin-aldosteronového systému
+U pacientů, jejichž cévní tonus a renální funkce závisejí převážně na aktivitě renin-angiotenzin- aldosteronového systému (např. u pacientů se závažným městnavým srdečním selháním nebo s průvodním onemocněním ledvin, včetně stenózy renální arterie), byla léčba přípravky, které ovlivňují tento systém, spojena s akutní hypotenzí, hyperazotemií, oligurií nebo vzácněji i s akutním selháním ledvin (viz bod 4.8).
+Primární aldosteronismus
+Pacienti s primárním aldosteronismem obvykle nereagují na antihypertenziva působící mechanizmem inhibice renin-angiotenzinového systému. V těchto případech se proto léčba telmisartanem nedoporučuje.
+Stenóza aortální a mitrální chlopně, obstrukční hypertrofická kardiomyopatie
+Stejně jako u ostatních vazodilatancií, je třeba věnovat zvlášť zvýšenou pozornost pacientům trpícím stenózou aortální nebo mitrální chlopně nebo obstrukční hypertrofickou kardiomyopatií.
+Diabetičtí pacienti léčení inzulínem nebo antidiabetiky
+U těchto pacientů se může při léčbě telmisartanem objevit hypoglykémie. Proto je u nich
+vhodné zvážit sledování hladiny glukózy v krvi; a pokud je indikováno, upravit dávky inzulinu nebo
+antidiabetik. Hyperkalemie:
+Podávání léčivých přípravků, které ovlivňují renin-angiotenzin-aldosteronový systém, může vést k
+hyperkalemii.
+U starších pacientů, u pacientů s poškozením funkce ledvin, u diabetiků, u pacientů současně léčených jinými přípravky, které mohou zvyšovat hladinu draslíku, a/nebo u pacientů s určitými interkurentními příhodami, může být hyperkalemie fatální.
+Před zvažováním současného podávání léčivých přípravků, které ovlivňují renin-angiotenzin- aldosteronový systém, je nutno zhodnotit poměr přínosu a rizika.
+
+
+
+3/14
+
+Hlavní rizikové faktory hyperkalemie, které je třeba zvážit:
+•  Diabetes mellitus, poškozená funkce ledvin, věk (> 70 let).
+•  Kombinace s jedním nebo více léčivými přípravky, které ovlivňují renin-angiotenzin- aldosteronový systém, a/nebo s přípravky doplňujícími draslík. Léčivé přípravky nebo terapeutické třídy léčivých přípravků, které mohou vyvolat hyperkalemii: náhražky soli obsahující  draslík,  draslík  šetřící  diuretika,  ACE  inhibitory,  antagonisté  receptoru angiotenzinu II, nesteroidní protizánětlivé léčivé přípravky (NSAID, včetně selektivních COX-2 inhibitorů), heparin, imunosupresiva (cyklosporin nebo takrolimus) a trimethoprim.
+•  Interkurentní příhody, zvláště dehydratace, akutní kardiální dekompenzace, metabolická acidóza, zhoršení funkce ledvin, náhlé zhoršení podmínek pro funkci ledvin (např. infekční onemocnění), rozpad buněk (např. při akutní ischemii končetin, rhabdomyolýze, rozsáhlém traumatu).
+U rizikových pacientů se doporučuje pečlivě monitorovat hladinu draslíku v séru (viz bod 4.5). Etnické odlišnosti
+Stejně jako inhibitory enzymu konvertujícího angiotenzin, také telmisartan a další antagonisté receptoru angiotenzinu II zjevně navozují u černošské populace méně výrazné snížení krevního tlaku než u jiných lidských ras, pravděpodobně v souvislosti s vyšší prevalencí stavů s nízkou hladinou reninu v populaci hypertoniků černé pleti.
+Další upozornění
+Analogicky jako u kterýchkoli jiných antihypertenziv může dojít při nadměrném snížení krevního tlaku u pacientů s ischemickou kardiopatií nebo s ischemickou chorobou srdeční k infarktu myokardu nebo k cévní mozkové příhodě.
+Pomocné látky:
+
+Sorbitol
+Tento léčivý přípravek obsahuje 38,4 mg sorbitolu v jedné tabletě.
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je
+v podstatě „bez sodíku“.
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Digoxin
+Při společném podávání telmisartanu s digoxinem bylo pozorováno zvýšení mediánu vrcholové plazmatické koncentrace digoxinu (49 %) i minimální plazmatické koncentrace digoxinu
+v rovnovážném stavu (20 %). Při zahájení léčby telmisartanem, při úpravách dávky a při ukončení léčby telmisartanem je nutno monitorovat hladinu digoxinu, aby se udržela v terapeutickém rozmezí.
+Tak jako ostatní léčiva ovlivňující renin-angiotenzin-aldosteronový systém může telmisartan vyvolat hyperkalemii (viz bod 4.4). Riziko se může zvýšit v případě kombinované léčby s dalšími léčivými přípravky, které mohou také vyvolat hyperkalemii - náhražky soli obsahující draslík, draslík šetřící diuretika, ACE inhibitory, antagonisté receptoru angiotenzinu II, nesteroidní protizánětlivé léčivé přípravky (NSAID, včetně selektivních COX-2 inhibitorů), heparin, imunosupresiva (cyklosporin nebo takrolimus) a trimethoprim.
+Výskyt hyperkalemie závisí na přidružených rizikových faktorech. Riziko se zvyšuje v případě výše uvedených léčebných kombinací. Riziko je zvláště vysoké při kombinaci s kalium šetřícími diuretiky a
+
+
+
+
+
+4/14
+
+při kombinaci s náhražkami soli obsahující draslík. Kombinace např. s ACE inhibitory nebo s NSAID představují menší riziko za předpokladu, že jsou přesně dodržována opatření při podávání.
+
+Současné podávání se nedoporučuje
+Draslík šetřící diuretika nebo přípravky obsahující draslík
+Antagonisté receptoru angiotenzinu II jako telmisartan, zmenšují ztrátu draslíku, navozenou diuretiky. Draslík šetřící diuretika, například spironolakton, eplerenon, triamteren nebo amilorid, přípravky obsahující draslík nebo náhražky soli obsahující draslík, mohou vést k významnému zvýšení hladiny draslíku v séru. Pokud je indikováno současné podávání z důvodu prokázané hypokalemie, je nutno je podávat opatrně a za častých kontrol hladin draslíku v séru.
+Lithium
+Při současném podávání lithia spolu s inhibitory angiotenzin konvertujícího enzymu byl hlášen reverzibilní nárůst koncentrací lithia v séru a jeho toxicita, a také při současném podávání lithia a antagonistů receptoru angiotenzinu II včetně telmisartanu.
+Pokud se ukáže kombinované podávání jako nezbytné, doporučuje se pečlivě monitorovat sérové
+hladiny lithia.
+Současné podávání vyžadující opatrnost Nesteroidní protizánětlivé léky (NSAID)
+NSAID (např. kyselina acetylsalicylová v protizánětlivých dávkách, COX-2 inhibitory a neselektivní přípravky  skupiny  NSAID)  mohou  snižovat  antihypertenzní  účinek  antagonistů  receptoru angiotenzinu II. U určitých pacientů s oslabenou funkcí ledvin (například u dehydratovaných pacientů nebo starších pacientů s poruchou funkce ledvin) může mít současné podávání antagonistů receptoru angiotenzinu II a přípravků, které blokují cyklooxygenázu, za následek další zhoršení funkce ledvin, včetně možného vzniku akutního selhání ledvin, které je obvykle reverzibilní. Z tohoto důvodu je nutno podávat takovou kombinaci velmi opatrně, zejména u starších pacientů. Pacienti musí být patřičně hydratováni a je třeba zvážit kontroly funkce ledvin po zahájení, a také v pravidelných intervalech během této kombinované terapie.
+V jedné studii vedlo současné podávání telmisartanu a ramiprilu ke 2,5 násobnému zvýšení AUC₀₋₂₄ a Cmₐₓ ramiprilu a ramiprilátu. Klinický význam tohoto zjištění není znám.
+
+Diuretika (thiazidová nebo kličková diuretika)
+Předchozí  léčba  vysokými  dávkami  diuretik  jako  je  furosemid  (kličkové  diuretikum)  a hydrochlorothiazid (thiazidové diuretikum) může vést k depleci objemu a k riziku vzniku hypotenze po zahájení léčby telmisartanem.
+
+Současné podávání, které je nutno zvažovat Jiná antihypertenziva
+Účinek telmisartanu na snížení krevního tlaku může být zvýrazněn při současném podávání jiných
+antihypertenziv.
+Data z klinických studií ukázala, že duální blokáda systému renin-angiotenzin-aldosteron (RAAS) pomocí kombinovaného užívání inhibitorů ACE, blokátorů receptorů pro angiotenzin II nebo aliskirenu je spojena s vyšší frekvencí nežádoucích účinků, jako je hypotenze, hyperkalemie a snížená funkce ledvin (včetně akutního renálního selhání) ve srovnání s použitím jedné látky ovlivňující RAAS (viz body 4.3, 4.4 a 5.1).
+
+Na základě farmakologických vlastností následně uvedených léků lze očekávat, že tyto léčivé přípravky mohou zvýraznit hypotenzní účinek všech antihypertenziv, včetně telmisartanu: baklofen, amifostin.
+
+
+
+5/14
+
+Dále může být ortostatická hypotenze potencována alkoholem, barbituráty, narkotiky nebo
+antidepresivy.
+
+Kortikosteroidy (systémové podání)
+Snížení antihypertenzního účinku.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství:
+Podávání antagonistů receptoru angiotenzinu II se v prvním trimestru těhotenství nedoporučuje (viz bod 4.4). Podávání antagonistů receptoru angiotenzinu II během druhého a třetího trimestru těhotenství je kontraindikováno (viz body 4.3 a 4.4).
+Adekvátní údaje o podávání telmisartanu těhotným ženám nejsou k dispozici. Studie na zvířatech poukázaly na reprodukční toxicitu (viz bod 5.3).
+
+Epidemiologické důkazy týkající se rizika teratogenicity při podávání ACE inhibitorů během prvního trimestru těhotenství nebyly nezvratné; malý nárůst rizika však nelze vyloučit. I když neexistují žádné kontrolované epidemiologické údaje, pokud jde o riziko při podávání antagonistů receptoru angiotenzinu II, pro tuto třídu léčiv může existovat riziko podobné. Pokud pokračování v léčbě antagonisty receptoru angiotenzinu II není považováno za nezbytné, pacientky plánující těhotenství musí být převedeny na jinou léčbu vysokého krevního tlaku, a to takovou, která má ověřený bezpečnostní profil, pokud jde o podávání v těhotenství. Jestliže je diagnóza těhotenství stanovena, léčba pomocí antagonistů receptoru angiotenzinu II musí být ihned ukončena, a pokud je to vhodné, je nutné zahájit jiný způsob léčby.
+Je známo, že expozice vůči antagonistům receptoru angiotenzinu II během druhého a třetího trimestru vede u lidí k fetotoxicitě (pokles funkce ledvin, oligohydramnion, zpoždění osifikace lebky) a k novorozenecké toxicitě (selhání ledvin, hypotenze, hyperkalemie). (viz bod 5.3).
+Pokud by došlo k expozici vůči antagonistům receptoru angiotenzinu II od druhého trimestru těhotenství, doporučuje se sonografická kontrola funkce ledvin a lebky.
+Děti, jejichž matky užívaly antagonisty receptoru angiotenzinu II, musí být pečlivě sledovány, pokud
+jde o hypotenzi (viz také body 4.3 a 4.4).
+Kojení:
+Protože nejsou k dispozici žádné údaje ohledně užívání přípravku během kojení, podávání telmisartanu se nedoporučuje, preferovány jsou alternativní léky s lépe stanoveným bezpečnostním profilem, zvláště při kojení novorozenců nebo nedonošených dětí.
+
+Fertilita:
+V předklinických studiích nebyly u telmisartanu pozorovány žádné účinky na samčí nebo samičí
+plodnost.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Při řízení motorových vozidel nebo obsluze strojních zařízení je třeba vzít v úvahu, že při léčbě
+antihypertenzivy, jako je telmisartan, se mohou v některých případech objevit závratě nebo ospalost.
+
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+
+
+
+
+
+6/14
+
+Vzácně (≥1/10 000 až <1/1 000) se mohou objevit závažné nežádoucí účinky včetně anafylaktické reakce a angioedému a akutní renální selhání.
+V kontrolovaných studiích u pacientů s hypertenzí byl celkový výskyt nežádoucích účinků hlášených při podávání telmisartanu obvykle srovnatelný s placebem (41,4% vs. 43,9%). Výskyt nežádoucích účinků nebyl závislý na dávce ani na pohlaví, věku nebo rase pacientů.
+Bezpečnostní profil telmisartanu u pacientů léčených pro snížení kardiovaskulární morbidity odpovídal profilu získanému u pacientů s hypertenzí.
+Níže uvedené nežádoucí účinky byly shromážděny z kontrolovaných klinických studií u pacientů s hypertenzí a z postmarketingových sledování. Přehled rovněž zahrnuje závažné nežádoucí účinky a nežádoucí účinky, které vedly k přerušení léčby zaznamenané ve třech dlouhodobých klinických studiích u 21 642 pacientů léčených telmisartanem ke snížení kardiovaskulární morbidity až po dobu šesti let.
+Tabulkový souhrn nežádoucích účinků
+Nežádoucí účinky jsou podle frekvence výskytu rozděleny za použití následujícího pravidla: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1000 až <1/100); vzácné (≥1/10 000 až
+<1/1000); velmi vzácné (<1/10 000).
+V každé skupině četnosti jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+Infekce a infestace
+Méně časté:  Infekce močových cest včetně zánětů močového měchýře, infekce horních cest dýchacích včetně faryngitidy a sinusitidy
+Vzácné:    Sepse včetně případů vedoucích k úmrtí¹
+Poruchy krve a lymfatického systému
+Méně časté:  Anémie
+Vzácné:    Eosinofilie, trombocytopenie
+Poruchy imunitního systému
+Vzácné:    Anafylaktická reakce, přecitlivělost
+Poruchy metabolizmu a výživy
+Méně časté:  Hyperkalémie
+Vzácné:    Hypoglykémie (u diabetických pacientů)
+
+Psychiatrické poruchy
+Méně časté:  Nespavost, deprese
+Vzácné:    Úzkost
+
+Poruchy nervového systému Méně časté:  Synkopa Vzácné:    Somnolence
+Poruchy oka
+Vzácné:    Poruchy zraku
+Poruchy ucha a labyrintu
+Méně časté:  Vertigo
+Srdeční poruchy
+Méně časté:  Bradykardie
+Vzácné:    Tachykardie
+Cévní poruchy
+Méně časté:  Hypotenze², ortostatická hypotenze
+Respirační, hrudní a mediastinální poruchy
+Méně časté:  Dyspnoe, kašel
+
+
+7/14
+
+Velmi vzácné: Intersticiální plicní menoc⁴
+Gastrointestinální poruchy
+Méně časté:  Bolesti břicha, průjem, dyspepsie, plynatost, zvracení
+Vzácné:    Sucho v ústech, žaludeční nevolnost, dysgeusie
+Poruchy jater a žlučových cest
+Vzácné:    Abnormální jaterní funkce/jaterní poruchy³
+Poruchy kůže a podkožní tkáně
+Méně časté:  Pruritus, zvýšené pocení, kožní vyrážka
+Vzácné:    Angioedém (včetně případů vedoucích k úmrtí), ekzém, erytém, kopřivka, polékový exantém, toxoalergický exantém
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Méně časté:  Bolesti zad (např. ischias), svalové spazmy, myalgie
+Vzácné:    Artralgie, bolesti končetin, bolesti šlach (příznaky podobné zánětu šlach)
+Poruchy ledvin a močových cest
+Méně časté:  Poškození ledvin včetně akutního renálního selhání
+Celkové poruchy a reakce v místě aplikace
+Méně časté:  Bolesti na hrudi, astenie (slabost)
+Vzácné:    Onemocnění připomínající chřipku
+
+Vyšetření
+Méně časté:  Zvýšení hladiny kreatininu v krvi
+Vzácné:    Pokles hemoglobinu, zvýšení hladiny kyseliny močové v krvi, zvýšení jaterních enzymů, zvýšení kreatinfosfokinázy
+
+1,2,3,4: pro další popis, viz část „Popis vybraných nežádoucích účinků“. Popis vybraných nežádoucích účinků
+Sepse
+Ve studii PRoFESS byl pozorován zvýšený výskyt sepse při užívání telmisartanu ve srovnání s placebem. Příhoda může být náhodným nálezem nebo může souviset s dosud neznámým mechanismem (viz bod 5.1).
+
+Hypotenze
+Tento nežádoucí účinek byl hlášen jako častý u pacientů s upraveným krevním tlakem, kterým byl podáván telmisartan ke snížení kardiovaskulární morbidity nad rámec standardní péče.
+Abnormální jaterní funkce/porucha jater
+Většina případů abnormální jaterní funkce/poruchy jater z post-marketingových zkušeností se vyskytla u japonských pacientů. U japonských pacientů se tyto nežádoucí účinky vyskytují s větší pravděpodobností.
+Intersticiální plicní nemoc
+Na základě zkušeností po uvedení přípravku na trh byly hlášeny případy intersticiální plicní nemoci v časové souvislosti s podáním telmisartanu. Příčinná souvislost ale nebyla stanovena.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu: Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+
+8/14
+
+K dispozici jsou pouze omezené informace týkající se předávkování u člověka.
+Příznaky: Nejnápadnějšími projevy předávkování telmisartanem byly hypotenze a tachykardie;
+vyskytla se také bradykardie, závrať, zvýšení sérového kreatininu a akutní renální selhání.
+Terapie: Telmisartan nelze odstranit hemodialýzou. Pacient by měl být pečlivě monitorován, léčba by měla být symptomatická a podpůrná. Léčba závisí na časovém úseku, který uplynul od požití a na závažnosti příznaků. Navrhovaná opatření zahrnují navození zvracení a/nebo výplach žaludku. Vhodnou léčbou předávkování může být použití aktivního uhlí. Hladiny elektrolytů a kreatininu v séru je nutno často monitorovat. Pokud dojde k hypotenzi, je nutno pacienta uložit do polohy vleže na zádech a urychleně podat soli a doplnit objem tekutin.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antagonisté angiotenzinu II, samotní; ATC kód: C09CA07
+
+Mechanizmus účinku:
+Telmisartan je specifický antagonista receptoru angiotenzinu II (typ AT₁) účinný po perorálním podání. S vysokou afinitou vytěsňuje angiotenzin II z jeho vazebného místa na subtypu receptoru AT₁, který odpovídá za známé působení angiotenzinu II. Telmisartan nemá na receptoru AT₁ žádnou parciální agonistickou aktivitu a váže se selektivně na tento receptor. Vazba má dlouhodobý charakter. Telmisartan  nevykazuje  afinitu  k  ostatním  receptorům,  včetně  AT₂  a  ostatních  méně charakterizovaných receptorů AT. Funkční význam těchto receptorů není znám, stejně jako efekt jejich možné zvýšené stimulace angiotenzinem II, jehož hladiny se podáváním telmisartanu zvyšují. Plazmatické hladiny aldosteronu se podáváním telmisartanu snižují. Telmisartan neinhibuje u lidí plazmatický renin ani neblokuje iontové kanály. Telmisartan neinhibuje enzym konvertující angiotenzin (kininázu II), což je enzym, který rovněž rozkládá bradykinin. Proto se nepředpokládá, že by telmisartan potencoval nežádoucí účinky zprostředkované bradykininem.
+Dávka telmisartanu 80 mg u člověka téměř zcela inhibuje zvýšení krevního tlaku vyvolané angiotenzinem II. Inhibiční účinek přetrvává déle než 24 hodin a je měřitelný po dobu až 48 hodin.
+Klinická účinnost a bezpečnost:
+Léčba esenciální hypertenze
+Po první dávce telmisartanu dojde v průběhu tří hodin postupně k poklesu krevního tlaku. Maximální redukce krevního tlaku se dosáhne obvykle v průběhu 4 až 8 týdnů od zahájení léčby a přetrvává během dlouhodobé terapie.
+Antihypertenzní účinek trvá 24 hodin po podání přípravku včetně posledních 4 hodin před podáním následující dávky, jak bylo prokázáno ambulantním monitorováním krevního tlaku. Ve studiích kontrolovaných placebem po dávce 40 a 80 mg telmisartanu je toto potvrzeno poměrem minimálních a maximálních hodnot tlaku krve, který byl konzistentně nad 80%.
+Existuje zjevná závislost mezi podanou dávkou přípravku a časem potřebným k návratu systolického krevního tlaku (STK) na původní hodnoty. Údaje týkající se diastolického krevního tlaku (DTK) nejsou jednotné.
+U pacientů s hypertenzí snižuje telmisartan jak systolický, tak i diastolický krevní tlak bez ovlivnění tepové frekvence. Příspěvek diuretického a natriuretického efektu léčivého přípravku k jeho hypotenznímu působení musí být ještě určen.
+Antihypertenzní účinnost telmisartanu je srovnatelná se zástupci jiných tříd antihypertenziv (což bylo
+
+
+
+
+9/14
+
+prokázáno v klinických studiích porovnávajících telmisartan s amlodipinem, atenololem, enalaprilem,
+hydrochlorothiazidem a lisinoprilem).
+Po náhlém přerušení léčby telmisartanem se během několika dnů krevní tlak postupně vrací k hodnotám před léčbou bez vzniku "rebound" fenoménu.
+V klinických studiích přímo srovnávajících dvě antihypertenziva byl výskyt suchého kašle významně nižší u pacientů léčených telmisartanem než u pacientů léčených inhibitory enzymu konvertujícího angiotenzin.
+Kardiovaskulární prevence
+Studie ONTARGET (Ongoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial) srovnávala účinky telmisartanu, ramiprilu a kombinace telmisartanu a ramiprilu na kardiovaskulární klinické výsledky u 25620 pacientů ve věku 55 let nebo starších s anamnézou ischemické choroby srdeční, cévní mozkové příhody, TIA, ischmické choroby periferních tepen nebo s diabetes mellitus typu 2 s doložením konečného orgánového poškození (např. retinopatie, hypertofie levé komory srdeční, makro- nebo mikroslbuminurie), což je populace v riziku kardiovaskulárních příhod.
+Pacienti byli randomizováni do jedné ze tří následujících léčených skupin: telmisartan 80 mg (n=8542), ramipril 10 mg (n=8576), nebo kombinace telmisartanu 80 mg s ramiprilem 10 mg (n=8502) s následnou průměrnou délkou sledování 4,5 roku.
+Telmisartan vykazoval podobný efekt jako ramipril ve snížení primárního složení koncového bodu kardiovaskulárního úmrtí, ne-fatálního infarktu myokardu, ne-fatální cévní mozklové příhody, nebo hospitalizace pro městnavé srdeční selhání. Incidence primárního koncového bodu byla podobná ve skupině telmisartanu (16,7%) a ramiprilu (16,5%). Poměr rizika telmisartanu proti ramiprilu byl 1,01 (97,5% CI 0,93-1,10, p (non-inferiority)=0,0019 při rozpětí 1,13). Podíl mortality ze všech příčin byl 11,6% u pacientů léčených telmisartanem a 11,8% u pacientů léčených ramiprilem.
+Bylo zjištěno, že telmisartan byl podobně účinný jako ramipril v pre-specifikovaném sekundáním koncovém bodu kardiovaskulárního úmrtí, ne-fatálního infarktu myokardu a ne-fatální mozkové příhody (0,99(97,5% CI 0,90-1,08), p(non-inferiority) = 0,0004), primární koncový bod v referenční studii HOPE (The Heart Outcomes Prevention Evaluation Study), která vyšetřovala účinek ramiprilu versus placebo.
+Studie TRANSCEND randomizovala pacienty, kteří netolerovali ACE-I s jinak podobnými vstupními kritérii jako měla studie ONTARGET pro telmisartan 80 mg (n=2954) nebo placebo (n=2972), v obou případech při nejvyšší standardní péči. Průměrná délka trvání byla 4 roky a 8 měsíců. Signifikantní rozdíl v incidenci primárního koncového bodu (kardiovaskulární úmrtí, ne-fatální infarkt myokardu, ne-fatální mozková cévní příhoda, nebo hospitalizace pro kongestivní srdeční selhání) nebyl nalezen (15.7% u telmisartanu a 17,0% v placebo skupinách s poměrem rizika 0,92 (95% CI 0,81-1,05, p=0,22). Byl prokázán benefit telmisartanu ve srovnání s placebem v pre-specifikovaném sekundárním koncovém bodu pro kardiovaskulární úmrtí, ne-fatální infarkt myokardu a ne-fatální cévní mozkovou příhodu (0,87(95% CI 0,76-1,00, p=0,048)). Nebyl prokázán benefit na kardiovaskulární mortalitu (poměr rizika 1,03, 95% CI 0,85-1,24).
+Kašel a angioedém byl méně často zaznamenán u pacientů léčených telmisartanem než u pacientů léčených ramiprilem, zatímco hypotenze byla častěji zaznamenána u telmisartanu.
+Kombinace telmisartanu s ramiprilem nepřidala další benefit k účinku samotného ramiprilu nebo telmisartanu. Kardiovaskulární mortalita a všechny příčiny mortality byly početně vyšší u kombinace.
+Navíc, byla signifikantně vyšší incidence hyperkalemie, renálního selhání, hypotenze a synkopy v rameni kombinace. Proto se užívání kombinace telmisartanu a ramiprilu nedoporučuje u této populace.
+Ve studii "Účinná sekundární prevence cévních mozkových příhod" (PRoFESS) u pacientů ve věku 50 let a starších, kteří prodělali cévní mozkovou příhodu, byl zaznamenán zvýšený výskyt sepse po telmisartanu ve srovnání s placebem, 0,70% vs. 0,49% [RR 1,43 (95% interval spolehlivosti 1,00- 2,06)]; výskyt fatálních případů sepse byl zvýšen u pacientů léčených telmisartanem (0,33%) vs. pacienti léčení placebem (0,16%) [RR 2,07 (95% interval spolehlivosti 1,14-3,76)]. Pozorovaná
+
+
+10/14
+
+zvýšená míra výskytu sepse spojené s podáváním telmisartanu může být náhodný nález nebo může souviset s dosud neznámým mechanizmem.
+
+Ve dvou velkých randomizovaných, kontrolovaných studiích (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) a VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) bylo hodnoceno podávání kombinace inhibitoru ACE s blokátorem receptorů pro angiotenzin II.
+Studie  ONTARGET  byla  vedena  u  pacientů  s  anamnézou  kardiovaskulárního  nebo cerebrovaskulárního onemocnění nebo u pacientů s diabetes mellitus 2. typu se známkami poškození cílových orgánů. Více informací viz výše pod nadpisem "Kardiovaskulární prevence".
+Studie VA NEPHRON-D byla vedena u pacientů s diabetes mellitus 2. typu a diabetickou nefropatií. V těchto studiích nebyl prokázán žádný významně příznivý účinek na renální a/nebo kardiovaskulární ukazatele a mortalitu, ale v porovnání s monoterapií bylo pozorováno zvýšené riziko hyperkalemie, akutního poškození ledvin a/nebo hypotenze. Vzhledem k podobnosti farmakodynamických vlastností jsou tyto výsledky relevantní rovněž pro další inhibitory ACE a blokátory receptorů pro angiotenzin II. Inhibitory ACE a blokátory receptorů pro angiotensin II proto nesmí pacienti s diabetickou nefropatií užívat současně.
+Studie ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) byla navržena tak, aby zhodnotila přínos přidání aliskirenu k standardní terapii inhibitorem ACE nebo blokátorem receptorů pro angiotenzin II u pacientů s diabetes mellitus 2. typu a chronickým onemocněním ledvin, kardiovaskulárním onemocněním, nebo obojím. Studie byla předčasně ukončena z důvodu zvýšení rizika nežádoucích komplikací. Kardiovaskulární úmrtí a cévní mozková příhoda byly numericky častější ve skupině s aliskirenem než ve skupině s placebem a zároveň nežádoucí účinky a sledované závažné nežádoucí účinky (hyperkalemie, hypotenze a renální dysfunkce) byly častěji hlášeny ve skupině s aliskirenem oproti placebové skupině.
+
+Pediatrická populace
+Bezpečnost a účinnost telmisartanu u dětí a dospívajících mladších 18 let nebyla stanovena.
+
+Hypotenzní účinky dvou dávek telmisartanu byly hodnoceny u 76 pacientů s hypertenzí, převážně s nadváhou ve věku 6 až 18 let (tělesná hmotnost ≥ 20 kg a ≤ 120 kg, průměrně 74,6 kg) po podání
+telmisartanu v dávce 1 mg/kg (n = 29 léčených pacientů) nebo 2 mg/kg (n = 31 léčených pacientů) po dobu 4 týdnů léčby. Sekundární hypertenze nebyla do hodnocení zahrnuta. U některých
+sledovaných pacientů byly užité dávky vyšší, než jsou doporučené k léčbě hypertenze u dospělé
+populace a dosáhly denní dávky srovnatelné se 160 mg, která byla testována u dospělých pacientů.
+Průměrné změny systolického krevního tlaku oproti výchozímu stavu (primární cíl), upravené s ohledem na věkovou skupinu, byly -14,5 (1,7) mm Hg ve skupině s telmisartanem 2 mg, -9,7 (1,7) mm Hg ve skupině s telmisartanem 1 mg/kg a -6,0 (2,4) mm Hg ve skupině s placebem.
+Upravené změny diastolického tlaku oproti výchozímu stavu byly -8,4 (1,5) mm Hg, -4,5 (1,6) mm Hg a -3,5 (2,1) mm Hg. Změna byla závislá na dávce. Údaje o bezpečnosti z této studie u pacientů ve věku 6 až 18 let jsou obecně podobné jako u dospělých. Bezpečnost dlouhodobé léčby telmisartanem u dětí a dospívajících nebyla hodnocena.
+Zvýšení eosinofilů hlášené v této skupině pacientů nebylo u dospělých zaznamenáno. Jeho klinický význam a závažnost nejsou známy.
+Tyto klinické údaje neumožňují stanovit účinnost a bezpečnost telmisartanu u pediatrické populace s hypertenzí.
+5.2  Farmakokinetické vlastnosti
+
+Absorpce:
+Absorpce telmisartanu je rychlá, i když rozsah jeho vstřebání kolísá. Průměrná hodnota absolutní biologické dostupnosti telmisartanu je asi 50%. Pokud se telmisartan podává spolu s jídlem, pohybuje
+
+
+11/14
+
+se redukce plochy pod křivkou závislosti plazmatických koncentrací na čase (AUC0-nekonečno) přibližně od 6% (dávka 40 mg) do 19% (dávka 160 mg). Od 3 hodin po podání telmisartanu nalačno nebo současně s jídlem jsou jeho plazmatické koncentrace podobné.
+Linearita/nelinearita:
+Nepředpokládá se, že by menší redukce AUC mohla vést ke snížení terapeutické účinnosti. Neexistuje lineární závislost mezi dávkami a plazmatickými hladinami. Hodnoty Cmax a v menší míře i AUC rostou nerovnoměrně při dávkách překračujících 40 mg.
+Distribuce:
+Telmisartan se z velké části váže na plazmatické bílkoviny (>99,5%), především na albumin a alfa-1
+kyselý glykoprotein. Distribuční objem v ustáleném stavu (Vdss) dosahuje přibližně 500 l.
+Biotransformace:
+Telmisartan se metabolizuje konjugací na glukuronid výchozí látky. U konjugátu nebyla prokázána žádná farmakologická aktivita.
+Eliminace:
+Telmisartan je charakterizován biexponenciálním poklesem farmakokinetiky s terminálním poločasem eliminace >20 h. Maximální plazmatické koncentrace (Cmₐₓ) a v menší míře plocha pod křivkou plazmatických koncentrací v závislosti na čase (AUC) rostou nerovnoměrně s dávkou. V doporučovaných dávkách nebyla prokázána klinicky významná kumulace telmisartanu. Plazmatické koncentrace byly u žen vyšší než u mužů, avšak bez významného vlivu na účinnost.
+Po perorálním (a nitrožilním) podání se telmisartan téměř výhradně eliminuje stolicí, většinou jako nezměněná substance. Kumulativní vylučování močí je < 1% dávky.  Celková plazmatická clearance (Cltₒt) je vysoká (přibližně 1000 ml/min.) v porovnání s průtokem krve játry (kolem 1500 ml/min).
+
+Zvláštní skupiny pacientů
+Pediatrická populace
+Farmakokinetika dvou dávek telmisartanu byla hodnocena jako sekundární cíl u pacientů s hypertenzí (n = 57) ve věku od 6 do 18 let po podání telmisartanu 1 mg/kg nebo 2 mg/kg po dobu 4 týdnů léčby. Farmakokinetické parametry zahrnovaly stanovení ustáleného stavu telmisartanu u dětí a dospívajících a hodnocení rozdílů v závislosti na věku. Přestože studie byla příliš malá pro významné posouzení farmakokinetiky u dětí mladších 12 let, výsledky jsou obecně v souladu s nálezy u dospělých a potvrzují ne-linearitu telmisartanu, zejména pro Cmₐₓ.
+Pohlaví_
+Byly pozorovány rozdíly v plazmatických koncentracích v závislosti na pohlaví, s hodnotami Cmₐₓ přibližně třikrát a AUC přibližně dvakrát vyššími u žen, než u mužů.
+Starší pacienti:
+Farmakokinetika telmisartanu se u starších pacientů a pacientů mladších než 65 let neliší.
+Porucha funkce ledvin:
+U pacientů s mírným až středně závažným a závažným poškozením funkce ledvin byly pozorovány dvojnásobné koncentrace v plazmě, avšak u pacientů s nedostatečností ledvin podstupujících hemodialýzu byly pozorovány nižší plazmatické koncentrace. Telmisartan se u pacientů s ledvinnou nedostatečností do vysoké míry váže na plazmatické bílkoviny a dialýzou jej nelze odstranit. Poločas eliminace se u pacientů s poškozením funkce ledvin nemění.
+Porucha funkce jater:
+Farmakokinetické studie u pacientů s poškozením funkce jater prokázaly zvýšení hodnot absolutní biologické dostupnosti téměř na 100%. Poločas eliminace se u pacientů s poškozením funkce jater nemění.
+
+
+
+
+
+12/14
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+V předklinických studiích bezpečnosti po podání dávek, které vedly k expozici srovnatelné s klinickým terapeutickým rozmezím, došlo u normotenzních zvířat ke snížení hodnot červeného krevního obrazu (erytrocytů, hemoglobinu, hematokritu), změnám v renální hemodynamice (nárůst dusíku močoviny a kreatininu) a zvýšení hladiny sérového draslíku. U psů byla pozorována dilatace renálních tubulů a jejich atrofie. U potkanů a psů byly rovněž zaznamenány změny žaludeční sliznice (eroze, vředy nebo zánět). Těmto farmakologicky vyvolaným nežádoucím účinkům, známým z předklinického hodnocení jak inhibitorů enzymu konvertujícího angiotenzin, tak antagonistů receptoru angiotenzinu II, bylo možné předejít perorálním podáním fyziologického roztoku.
+U potkanů a psů byly rovněž pozorovány zvýšené hodnoty reninu v plazmě a hypertrofie/hyperplazie ledvinových juxtaglomerulárních buněk. Tyto změny, představující rovněž skupinový účinek inhibitorů enzymu konvertujícího angiotenzin a antagonistů receptoru angiotenzinu II, zřejmě nemají klinický význam.
+Nebyl zjištěn žádný důkaz o teratogenním účinku, avšak podávání telmisartanu v toxických dávkách má vliv na postnatální vývoj jedinců jako je nižší tělesná hmotnost a opožděné otevírání očí.
+Testy in vitro neprokázaly mutagenní a významnou klastogenní aktivitu ani nebyl prokázán kancerogenní účinek u potkanů a myší.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+mannitol
+meglumin sorbitol (E420)
+povidon 360 (K-90) hydroxid sodný
+hydroxypropylmethylcelulosa magnesium-stearát
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+6.3  Doba použitelnosti
+
+3 roky.
+
+Lahvička
+Doba použitelnosti po prvním otevření: 6 měsíců.
+
+
+6.4  Zvláštní opatření pro uchovávání
+Tento přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a velikost balení
+
+
+
+
+
+13/14
+
+Blistr (Al/Al).
+Velikosti balení: 7, 10, 14, 20, 28, 30, 50, 56, 60, 84, 90, 98, 100 tablet
+Vícečetné balení obsahující 98 (2 balení po 49) tablet
+
+HDPE lahvička s bílým šroubovacím uzávěrem (PP) Velikost balení:
+100 tablet
+500 tablet (pouze pro použití v nemocnici)
+Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Žádné zvláštní požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+ratiopharm GmbH, Ulm, Německo
+
+8.   REGISTRAČNÍ ČÍSLO
+58/725/10-C
+
+9.   DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 22. 9. 2010
+Datum posledního prodloužení registrace: 22. 6. 2018
+10.  DATUM REVIZE TEXTU
+
+3. 12. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14/14

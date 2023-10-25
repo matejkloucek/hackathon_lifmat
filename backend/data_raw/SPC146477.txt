@@ -1,0 +1,525 @@
+Sp.zn. sukls148407/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+bicaVera 2,3 % glucose, 1,75 mmol/l calcium Roztok pro peritoneální dialýzu
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+bicaVera 2,3 % glucose, 1,75 mmol/l calcium se dodává ve dvoukomorovém vaku. Jedna komora obsahuje zásaditý roztok hydrogenuhličitanu, druhá komora obsahuje kyselý roztok elektrolytů na bázi glukózy. Smísením obou roztoků otevřením středního švu mezi oběma komorami získáme roztok připravený k použití.
+
+PŘED SMÍSENÍM
+
+l litr kyselého roztoku elektrolytů na bázi glukózy obsahuje:
+léčivé látky:
+calcii chloridum dihydricum                   0,5145 g
+natrii chloridum                         11,57  g
+
+magnesii chloridum hexahydricum               0,2033 g
+glucosum monohydricum                    50,0  g
+(odp. glucosum)                         45,46  g
+
+To odpovídá
+Ca²⁺                                3,5   mmol/l
+Na⁺                                198,0  mmol/l
+Mg²⁺                               1,0   mmol/l
+Cl⁻                                 209,0  mmol/l
+
+1 litr zásaditého roztoku hydrogenuhličitanu obsahuje:
+léčivé látky:
+natrii hydrogenocarbonas                    5,88   g
+
+To odpovídá
+
+Na⁺                                70,0  mmol/l
+HCO ⁻                               70,0  mmol/l
+PO SMÍSENÍ
+
+1 litr roztoku připraveného k použití obsahuje:
+léčivé látky:
+calcii chloridum dihydricum                   0,2573 g
+natrii chloridum                         5,786  g
+natrii hydrogenocarbonas                    2,940  g
+
+magnesii chloridum hexahydricum               0,1017 g
+glucosum monohydricum                    25,0  g
+(odp. glucosum)                         22,73  g
+
+1
+
+To odpovídá
+Ca²⁺                                1,75  mmol/l
+Na⁺                                134   mmol/l
+Mg²⁺                               0,5   mmol/l
+Cl⁻                                 104,5  mmol/l
+hydrogenocarbonas                        34   mmol/l
+glucosum                             126,1  mmol/l
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Roztok pro peritoneální dialýzu. Čirý a bezbarvý roztok.
+Teoretická osmolarita: 511 mOsm/l pH ≈ 7,40
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Konečné stádium (dekompenzace) chronického renálního selhání jakékoliv etiologie, které je léčeno peritoneální dialýzou.
+4.2  Dávkování a způsob podání Dávkování
+bicaVera 2,3 % glucose, 1,75 mmol/l calcium je indikován výlučně pro intraperitoneální
+podání.
+Způsob terapie, frekvence aplikace a požadovanou dobu prodlevy určí ošetřující lékař.
+
+Kontinuální ambulantní peritoneální dialýza (CAPD)
+Dospělí:
+Není-li stanoveno jinak, podává se 2000 ml roztoku na jednu výměnu čtyřikrát denně. Po 2 až 10hodinové prodlevě se roztok vypustí.
+
+
+Pro jednotlivé pacienty je nutné dávku, objem a počet výměn individuálně upravit.
+
+Pokud se na začátku terapie peritoneální dialýzou objeví bolesti z napětí v břišní dutině, množství dialyzátu má být dočasně sníženo na 500 – 1500 ml.
+
+U dospělých s vyšší tělesnou hmotností, došlo-li ke ztrátě zbytkové funkce ledvin, může být zvýšen objem dialyzačního roztoku, pokud je to nezbytné. U těchto pacientů nebo u pacientů s tolerancí většího objemu může být podávána dávka 2500 ml na jednu výměnu.
+
+Pediatrická populace:
+U dětí je doporučeno předepsat dávku roztoku na jednu výměnu podle věku, a plochy
+tělesného povrchu (BSA).
+Počáteční předepsaný objem roztoku na výměnu má být 600-800 ml/m² BSA se 4 (někdy 3 nebo 5) výměnami denně. To může být zvýšeno až na 1000-1200 ml/m² BSA v závislosti na toleranci, věku a zbytkové funkci ledvin.
+
+2
+
+Automatizovaná peritoneální dialýza (APD)
+Pokud se používá přístroj (sleep safe cycler) pro přerušovanou nebo kontinuální cyklickou peritoneální dialýzu a pokud je prováděna více než jedna výměna, používají se vaky o větším objemu (3000 nebo 5000 ml). Přístroj provádí výměny roztoku podle lékařského předpisu uloženého v sleep safe cycleru.
+
+Dospělí:
+Obvykle pacienti stráví nočním cyklováním 8-10 hodin. Objemy pro jednotlivé prodlevy jsou v rozmezí od 1500 do 3000 ml a počet cyklů je obvykle 3-10 za noc. Množství použitého roztoku je typicky mezi 10 až 18 l, ale může být i v rozsahu od 6 do 30 l. Noční terapie cyclerem je obvykle kombinována s 1 nebo 2 výměnami během dne.
+Pediatrická populace:
+Objem výměny má být 800–1000 ml/m² BSA s 5–10 cykly během noci. To může být zvýšeno až na 1400 ml/m² BSA v závislosti na toleranci, věku a zbytkové funkci ledvin.
+
+Pro starší pacienty není potřebné speciální dávkování.
+
+V závislosti na požadovaném osmotickém tlaku, bicaVera 2,3 % glucose, 1,75 mmol/l calcium mohou být použity postupně s dalšími peritoneálními dialyzačními roztoky s nižším nebo vyšším obsahem glukózy (tj. s nižší nebo vyšší osmolaritou).
+Roztoky pro peritoneální dialýzu s vyšší koncentraci glukózy (2,3 % nebo 4,25 %) se
+používají, pokud je tělesná hmotnost vyšší než požadovaná suchá váha. Odstraňování tekutin z těla vzrůstá s koncentrací glukózy v roztoku pro peritoneální dialýzu. Tyto roztoky mají být používány opatrně s ohledem na ochranu peritoneální membrány aby se předešlo dehydrataci a zátěž glukózou byla co možná nejnižší.
+
+bicaVera 2,3 % glucose, 1,75 mmol/l calcium obsahuje 22,73 g glukózy v 1000 ml roztoku. V závislosti na předepsaném dávkování je do těla dodáno s každým vakem až 45,46 g glukózy.
+
+
+Peritoneální dialýza je dlouhodobá léčba prováděná opakovanou aplikací jednotlivých
+dialyzačních roztoků.
+
+Způsob a doba používání
+Pacienti musí dokonale ovládat provádění peritoneální dialýzy dříve, než ji začnou provádět
+doma. Proškolení musí provádět kvalifikovaný personál. Ošetřující lékař se musí ujistit, že
+pacient dostatečně zvládá techniku ovládání před tím, než začne provádět peritoneální dialýzu doma. V případě jakéhokoliv problému nebo nejistoty má pacient kontaktovat ošetřujícího lékaře.
+
+Dialýza podle předepsaného dávkování má být prováděna denně.
+Peritoneální dialýza má probíhat do té doby, dokud je potřeba terapie nahrazující funkci
+ledvin.
+Přesný návod k použití je popsán v bodu 6.6.
+
+
+Kontinuální ambulantní peritoneální dialýza (CAPD)
+Nejdříve se zahřeje vak s roztokem na teplotu těla.
+Zahřátí se provede pomocí zahřívací plotýnky. Doba zahřívání vaku o obsahu 2000 ml
+s počáteční teplotou 22°C je přibližně 120 minut. Více informací je uvedeno v návodu
+
+3
+
+k použití zahřívací plotýnky. Použití mikrovlnného ohřevu není dovoleno z důvodů nebezpečí lokálního přehřátí.
+
+Podle doporučení lékaře se dávka ponechává v peritoneální dutině po dobu 2 - 10 hodin (doba prodlevy), poté má být vypuštěna.
+Automatizovaná peritoneální dialýza (APD)
+Konektory předepsaného sleep safe vaku s roztokem se zapojují do volných vstupů v sleep safe zásuvce a poté se cyclerem automaticky připojí k sleep safe setu. Cycler ověří čárové kódy na vacích s roztokem a spustí alarm, jestliže neodpovídají předpisu uloženému
+v softwaru cycleru za pomoci speciální pacientské karty. Po této kontrole může být sleep safe set připojen k prodloužení katétru pacienta a terapie může začít. Během napouštění do břišní dutiny sleep safe cycler automaticky ohřeje sleep safe roztok na tělesnou teplotu. Doba prodlevy roztoku a výběr koncentrace glukózy se provádí podle lékařského předpisu
+uloženého v softwaru cycleru (více informací je uvedeno v návodu k použití sleep safe cycleru).
+4.3  Kontraindikace
+
+Pro tento konkrétní roztok pro peritoneální dialýzu
+bicaVera 2,3 % glucose, 1,75 mmol/l calcium nesmí být použit při závažné hypokalemii, i
+závažné hyperkalcemii, hypovolemii a hypotenzi.
+
+Tento roztok pro peritoneální dialýzu nesmí být použit pro intravenózní infuzi. Pro peritoneální dialýzu obecně:
+Peritoneální dialýza nesmí být prováděna při následujících stavech:
+
+-  nedávné břišní zranění, nedávné břišní chirurgické zákroky, dřívější břišní operace
+s fibrózními srůsty, závažné břišní popáleniny, perforace střev,
+-   rozsáhlé zánětlivé stavy kůže břicha (dermatitida),
+-    zánětlivé onemocnění střev (Crohnova nemoc, ulcerózní kolitida, divertikulitida),
+-   lokalizovaná peritonitida,
+-   vnitřní nebo zevní abdominální píštěl,
+-   pupeční, tříselná nebo jiná abdominální kýla,
+-   nitrobřišní nádory,
+-   ileus,
+-   plicní onemocnění (zejména pneumonie),
+-   sepse,
+-   extrémní hyperlipidemie,
+-    ve výjimečných případech uremie, která již nemůže být zvládnuta peritoneální dialýzou,
+-    kachexie a závažný úbytek tělesné hmotnosti, zvláště když není možné zajistit adekvátní proteinovou výživu,
+-    u pacientů psychicky nebo mentálně neschopných provádět peritoneální dialýzu podle instrukcí lékaře.
+
+Pokud se během léčby peritoneální dialýzou objeví jakákoliv z výše uvedených obtíží, ošetřující lékař rozhodne, jak v terapii pokračovat.
+
+
+4.4  Zvláštní upozornění a opatření pro použití
+bicaVerase smí použít pouze po pečlivém zvážení prospěchu a rizik:
+
+4
+
+-  u pacientů se ztrátou elektrolytů v důsledku zvracení a/ nebo průjmu (to může vyžadovat dočasné použití dialyzačního roztoku s draslíkem).
+-  u pacientů s hyperkalcemií: např. při léčbě kalciovými vazači fosfátů: je třeba zvážit dočasnou nebo trvalou změnu za roztok pro peritoneální dialýzu s nižší koncentrací vápníku.
+-  u pacientů léčených digitalisem: je nezbytné pravidelné sledování hladiny draslíku v séru. Závažná hypokalemie může vyžadovat kromě dietních doporučení i použití dialyzačního roztoku s obsahem draslíku.
+
+Přirozená metabolická acidóza z důvodu renálního selhání nemůže být zcela kompenzována hladinou 34 mmol/l hydrogenuhličitanu ve výsledném roztoku. Acidóza může být spojena
+s nežádoucími účinky, např. s malnutricí.
+
+Při peritoneální dialýze dochází ke ztrátám proteinů, aminokyselin a vitamínů rozpustných ve vodě. Předejít jejich nedostatku je třeba zajištěním adekvátní výživy nebo vitamínových
+doplňků.
+Během dlouhotrvající peritoneální dialýzy se může změnit propouštěcí schopnost peritoneální membrány, primárně indikovaná snížením ultrafiltrace. Ve vážných případech musí být peritoneální dialýza ukončena a zahájena hemodialýza.
+
+Je doporučeno monitorovat následující parametry:
+-    tělesnou hmotnost pro včasné rozpoznání hyperhydratace a dehydratace,
+-    hladiny sodíku, draslíku, vápníku, hořčíku a fosfátů v krevním séru, acidobazickou rovnováhu a hladinu proteinů v krvi,
+-    hladinu kreatininu a močoviny v séru,
+-   parathormon a další ukazatele metabolismu kostí,
+-   hladinu cukru v krvi,
+-    zbytkovou funkci ledvin pro přizpůsobení peritoneální dialýzy.
+
+Enkapsulující peritoneální skleróza je považována za známou vzácnou komplikaci peritoneální dialýzy, která může vést k fatálním následkům.
+Starší pacienti
+Dříve než se u starších pacientů zahájí peritoneální dialýza, má být zváženo vyšší nebezpečí výskytu kýly.
+
+
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Používání roztoku pro peritoneální dialýzu může vést ke snížení účinnosti jiných léčivých přípravků, pokud jsou dialyzovatelné peritoneální membránou. Může být nezbytné upravit dávkování.
+Významný úbytek draslíku v krevním séru může zvýšit četnost nežádoucích účinků digitalisu.
+Hladina draslíku musí být sledována zvláště pečlivě v případě souběžné terapie digitalisem.
+Souběžné podávání léků s obsahem vápníku nebo vitamínu D může způsobit hyperkalcemii. Souběžné použití diuretik může pomoci zachovat zbytkovou diurézu, ale zároveň může vést k nerovnováze vody a elektrolytů.
+U pacientů s diabetem musí být upravena denní dávka léků snižujících hladinu cukru v krvi
+podle zvýšeného příjmu glukózy.
+
+4.6  Fertilita, těhotenství a kojení
+
+5
+
+Fertilita
+Údaje nejsou k dispozici.
+
+Těhotenství
+Klinické údaje o podávání přípravku bicaVera těhotným ženám nejsou k dispozici. Studie na
+zvířatech s ohledem na reprodukční a vývojovou toxicitu nejsou dostatečné (viz bod 5.3).
+Roztok bicaVera může být užíván během těhotenství, pouze pokud přínos pro matku jednoznačně převažuje nad potenciálními riziky pro plod (viz bod 4.4.)
+Kojení
+Není známo, zda se složky roztoku bicaVera vylučují do mateřského mléka. Roztok bicaVera může být používán v období kojení, pokud přínos pro matku jednoznačně převažuje nad
+potenciálními riziky pro dítě.
+
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+bicaVera nemá žádný nebo má zanedbatelný vliv na schopnost řídit a obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+bicaVera 2,3 % glucose, 1,75 mmol/l calcium je roztok elektrolytů, jehož složení je obdobné složení krve. Roztok má rovněž fyziologický hydrogenuhličitanový pufr.
+K nežádoucím účinkům může vést samotná peritoneální dialýza nebo mohou být vyvolány roztokem pro peritoneální dialýzu.
+Nežádoucí účinky jsou řazeny podle systémů z hlediska frekvence výskytu s použitím následujícího pravidla:
+
+
+velmi časté časté
+méně časté vzácné
+velmi vzácné není známo
+≥1/10
+≥1/100 to <1/10
+≥1/1,000 to <1/100
+≥1/10,000 to <1/1,000
+<1/10,000
+z dostupných údajů nelze určit
+
+Možné nežádoucí účinky spojené s dialyzačním roztokem
+
+
+Třída orgánových systémů
+Poruchy metabolismu a
+výživy
+
+
+
+Srdeční a cévní poruchy
+
+
+Respirační, hrudní a mediastinální poruchy
+Poruchy ledvin a močových
+Preferovaný termín
+
+Zvýšení hladiny krevního cukru
+Hyperlipidemie
+Zvýšení tělesné hmotnosti díky kontinuálnímu příjmu  cukru  z roztoku  pro  peritoneální dialýzu
+Hypotenze Tachykardie Hypertenze Dyspnoe
+
+Elektrolytová nerovnováha, např. hypokalemie
+Frekvence
+výskytu
+časté časté časté
+
+
+méně časté méně časté méně časté méně časté
+
+velmi časté
+
+
+6
+
+cest
+
+Celkové poruchy a reakce v místě aplikace
+Elektrolytová nerovnováha, např.
+hyperkalcemie
+Závrať
+Otoky
+Narušení hydratace
+méně časté
+
+méně časté
+méně časté méně časté
+
+
+Možné nežádoucí účinky léčebné procedury
+
+
+Třída orgánových systémů
+Infekce a infestace
+
+
+Respirační, hrudní a mediastální poruchy
+Gastrointestinální poruchy
+
+
+
+
+Poranění, otravy a
+procedurální komplikace
+Preferovaný termín
+
+Peritonitida
+Infekce výstupního místa a průběhu katétru
+Dyspnoe způsobené vzedmutím bránice
+
+Průjem Zácpa Kýla
+Distenze břicha a pocit plnosti Enkapsulující peritoneální skleróza Problémy s napouštěním nebo
+vypouštěním dialyzačního roztoku
+Bolest ramene
+Četnost výskytu
+
+velmi časté velmi časté
+není známo
+
+méně časté méně časté velmi časté časté
+není známo časté
+
+časté
+
+
+
+Peritonitida
+je indikována zakaleným vypouštěným dialyzátem. Později se může rozvinout bolest břicha, horečka a celková slabost nebo ve velmi vzácných případech sepse. Pacient musí okamžitě vyhledat lékařskou pomoc. Vak se zakaleným dialyzátem má být uzavřen sterilní čepičkou a posouzena mikrobiální kontaminace a vyhodnocení počtu leukocytů.
+
+Infekce výstupního místa a průběhu katétru
+se projevují zarudnutím, otokem, bolestí, mokváním, strupy v místě výstupu katétru. V případě infekce výstupního místa a průběhu katétru má být co nejdříve kontaktován ošetřující lékař.
+Narušení hydratace
+je indikováno výraznám poklesem (dehydratace) nebo vzestupem (hyperhydratace) tělesné hmotnosti. Při používání roztoků s vyšší koncentrací glukózy se může objevit vážná dehytratace.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+7
+
+4.9  Předávkování
+
+Nadměrné napuštění dialyzačního roztoku je možné snadno vypustit do prázdného vaku.
+Jestliže se výměna vaků provádí příliš často, může se objevit dehydratace nebo elektrolytová nerovnováha, což vyžaduje okamžitou lékařskou pozornost.
+Jestliže se jedna nebo více denních výměn vynechá nebo se podá příliš malé množství roztoku, může se rozvinout hyperhydratace a elektrolytová nerovnováha.
+Přerušení nebo zastavení terapie může vést k život ohrožující hyperhydrataci a uremii.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina:  peritoneální dialýza, hypertonické roztoky ATC kód:   B05DB
+
+Elektrolytový profil roztoku je v podstatě stejný jako u fyziologického séra. Byl však upraven (např. obsah draslíku) pro použití u pacientů s uremií, aby umožňoval terapii nahrazující funkci ledvin pomocí intraperitoneální substance a výměny tekutin. Látky, které jsou
+normálně vylučovány s močí, jako močovina, kreatinin a voda, jsou odstraňovány z těla do dialyzačního roztoku. Je nutno si uvědomit, že léčivé látky mohou být rovněž vylučovány během dialýzy a tudíž dávkování tomu musí být přizpůsobeno.
+
+Pro určení adekvátní dávky a kombinace roztoků různého osmotického tlaku (koncentrace glukózy) a koncentrace draslíku, sodíku a vápníku je třeba zvážit individuální parametry (velikost a tělesná hmotnost pacienta, laboratorní hodnoty, zbytková funkce ledvin,
+ultrafiltrace, požadovaná dialyzační dávka). Na základě těchto parametrů má být pravidelně sledována účinnost terapie.
+bicaVera 2,3 % glucose, 1,75 mmol/l calcium obsahuje hydrogenuhličitan sodný – fyziologický pufr – místo laktátu nebo acetátu.
+5.2  Farmakokinetické vlastnosti
+
+Na zvířatech nebyly prováděny žádné zkoušky s intraperitoneálním podáváním roztoku bicaVera s obsahem hydrogenuhličitanu. Klinické studie s roztokem bicaVera u pacientů ukazují, že se hydrogenuhličitan z dialyzátu dostane do rovnováhy s krevním
+hydrogenuhličitanem během dvouhodinové prodlevy.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti a
+toxicity po jednorázovém i opakovaném podání neodhalily žádné zvláštní riziko pro člověka. Elektrolyty a glukóza obsažené v přípravku bicaVera jsou fyziologickými složkami lidské plazmy. Podle dostupných údajů a klinických zkušeností s těmito látkami nejsou očekávány žádné toxické účinky, pokud jsou adekvátně dodržovány indikace, kontraindikace a dávkování.
+
+
+6   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+kyselina chlorovodíková
+
+8
+
+hydroxid sodný oxid uhličitý voda pro injekci
+
+6.2  Inkompatibility
+
+
+
+Tento léčivý přípravek nesmí být smíchán s jinými léčivými přípravky s výjímkou těch, které
+jsou uvedeny v bodu 6.6.
+
+6.3  Doba použitelnosti
+
+Doba použitelnosti v původním obalu: 2 roky
+Doba použitelnosti roztoku připraveného k použití podle bodu 6.6 a bez jakýchkoli přidaných léčiv: 24 hodin
+6.4  Zvláštní opatření pro uchovávání
+
+Neuchovávejte při teplotě pod 4 °C.
+
+6.5  Druh obalu a obsah balení
+
+Dvoukomorový vak:
+Jedna komora obsahuje alkalický roztok hydrogenuhličitanu, druhá komora obsahuje kyselý roztok elektrolytů na bázi glukózy. Otevřením středního švu mezi oběma komorami dojde ke smísení obou roztoků a vzniku roztoku připraveného k použití (poměr 1:1).
+
+stay safe:
+Stay safe systém je dodáván jako souprava dvoukomorového vaku a drenážního vaku, obojí s injekčním vstupem, systému setů a konektoru vaku. Všechny komponenty jsou z
+polypropylenu. Vaky a sety také obsahují syntetické elastomery. Vak s roztokem je navíc laminovaný polyesterem. Systém stay safe je ve vnějším ochranném přebalu z polyolefinu.
+
+
+sleep safe:
+Systém sleep sage se dodává jako souprava dvoukomorového vaku s injekčním vstupem,
+systému setů a konektoru vaku. Všechny komponenty jsou z polypropylenu. Vaky a sety také obsahují syntetické elastomery. Vak s roztokem obsahuje navíc polyester a polyamid. Sleep
+safe systém je ve vnějším ochranném přebalu z polyolefinu.
+
+Velikosti balení:
+stay safe:                sleep safe:
+4 vaky po 3000 ml
+4 vaky po 2000 ml           2 vaky po 5000 ml
+4 vaky po 2500 ml
+
+Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Likvidace
+Žádné zvláštní požadavky pro likvidaci
+Manipulace
+
+
+9
+
+Plastové obaly mohou být občas poškozeny při přepravě nebo při uchovávání. To může
+způsobit kontaminaci a růst mikroorganismů v dialyzačním roztoku. Před připojením vaku a použitím dialyzačního roztoku je proto třeba vždy pečlivě zkontrolovat každé balení, zda není poškozeno. Z důvodu možné kontaminace je třeba věnovat pozornost každému,
+i malému, poškození spojek, uzávěru, svárů a okrajů obalu.
+
+Poškozené vaky nebo vaky se zakaleným obsahem se nesmí nikdy použít!
+
+Roztoky pro peritoneální dialýzu se smí použít, pouze pokud jsou vaky a švy nepoškozené. V případě jakékoliv pochybnosti rozhodne o možnosti použití roztoku ošetřující lékař.
+Vnější ochranný přebal má být odstraněn bezprostředně před použitím. Nepoužívejte před smícháním obou roztoků.
+Během výměny dialyzačního roztoku musí být doržovány aseptické podmínky, aby se snížilo riziko možné infekce.
+
+Návod k použití stay safe systému:
+Nejdříve se zahřejte vak s roztokem na teplotu těla. K tomu má být použita vhodná ohřívací plotýnka. Doba zahřívání vaku o obsahu 2000 ml s počáteční teplotou 22 °C je přibližně 120
+minut. Více informací je uvedeno v návodu k použití ohřívací plotýnky. Použití mikrovlnného ohřívání není doporučeno z důvodů nebezpečí lokálního přehřátí. Po zahřátí roztoku můžete zahájit výměnu vaků.
+
+
+1. Příprava roztoku
+• Položte vak na pevnou podložku.
+• Otevřete ochranný přebal vaku a kryt dezinfekční čepičky
+• Zkontrolujte vak s roztokem (etiketa, doba použitelnosti, čirost roztoku, neporušenost
+vaku)
+• Umyjte si ruce dezinfekčním mycím přípravkem.
+• Srolujte vak od jednoho horního konce, až dojde k otevření středního švu. Roztoky z obou
+komor se automaticky smísí.
+• Potom srolujte vak od horního kraje, až se zcela otevře peelový šev dolního trojúhelníku.
+• Takto připravený roztok k použití má být použit nejpozději do 24 hodin po smísení!
+2. Příprava na výměnu vaku
+• Zavěste vak s roztokem na horní závěs infuzního stojanu, rozviňte hadičku vaku
+s roztokem a vložte DISC do organizéru. Po rozvinutí hadičky k odpadnímu vaku zavěste tento vak na nižší závěs infuzního stojanu a vložte dezinfekční čepičku do organizéru.
+• Vložte adaptér katétru do organizéru.
+• Vydezinfikujte si ruce a odstraňte ochrannou čepičku z DISCu.
+• Připojte adaptér katétru k DISCu.
+3. Vypouštění
+• Otevřete tlačku na katétru. Zahájí se vypouštění.
+⇒Poloha ●
+4. Propláchnutí
+• Propláchněte odpadní vak čerstvým roztokem (přibližně 5 sekund)
+⇒ Poloha ●●
+5. Napouštění
+• Spojte vak s roztokem s katétrem.
+⇒ Poloha ○◑●
+6. Bezpečnostní krok
+• Uzavřete adaptér katétru pomocí PINu
+⇒ Poloha ●●●●
+
+10
+
+7. Odpojení
+• Odstraňte adaptér katétru z DISCu a našroubujte na adaptér katétru novou dezinfekční čepičku.
+8. Uzavření DISCu
+• Uzavřete DISC otevřeným koncem ochranné čepičky z použité dezinfekční čepičky, která je umístěna v pravém otvoru organizéru.
+9. Zkontrolujte vypuštěný dialyzát a zlikvidujte ho.
+
+Návod k použití sleep safe systému:
+Se systémem sleep safe pro automatizovanou peritoneální dialýzu (APD) se roztok zahřeje automaticky v přístroji.
+
+1. Příprava roztoku
+• Zkontrolujte vak s roztokem (etiketa, doba použitelnosti, čirost roztoku, neporušenost vaku a přebalu, švy jsou neporušené).
+• Položte vak na pevnou podložku.
+• Otevřete ochranný přebal vaku.
+• Umyjte si ruce dezinfekčním mycím přípravkem.
+• Rozložte střední šev a konektor vaku.
+• Srolujte vak, který leží na přebalu, z diagonálního konce směrem ke konektoru vaku. Peelový šev se otevře.
+• Pokračujte, dokud se peelový šev malého vaku také neotevře.
+• Zkontrolujte, zda jsou všechny peelové švy zcela otevřeny.
+• Zkontrolujte, zda je roztok čirý, a vak neprosakuje.
+2. Rozviňte hadičku vaku.
+3. Odstraňte ochrannou čepičku a vložte konektor do jedné z volných zásuvek přístroje sleep safe
+4. Nyní je vak připravený k použití se setem sleep safe.
+
+7   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Fresenius Medical Care Deutschland GmbH Else-Kröner-Straße 1,
+61352 Bad Homburg v.d.H.
+Německo
+8   REGISTRAČNÍ ČÍSLO
+
+87/132/04-C
+
+9   DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 16.6.2004
+Datum posledního prodloužení registrace: 18.4.2012
+
+
+10   DATUM REVIZE TEXTU
+29. 8. 2019
+
+
+
+
+
+
+
+
+11

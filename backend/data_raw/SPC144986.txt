@@ -1,0 +1,476 @@
+sp.zn. sukls147226/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Sodium Iodide (I123) Injection 37 MBq/ml, Injekční roztok
+Katalogové číslo Curium Netherlands: DRN 5375
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+2.1 Obecný popis
+
+Izotop jódu-123 je cyklotronový radionuklid s poločasem rozpadu 13,21 hodiny. Jód-123 je čistý zářič gama, kde převažují energie 159 keV a 27 keV.
+
+Jód-123 se vyrábí ozařováním obohaceného xenonu protony. Radionuklidová čistota přípravku je v době exspirace vyšší než 99,9 % jódu-123. Jediné detekovatelné nečistoty jsou tellur-121 ≤ 900 Bq/MBq a jód-125 ≤ 1500 Bq/MBq k datu a hodině exspirace.
+2.2 Kvalitativní a kvantitativní složení
+
+K datu a hodině kalibrace / 1 ml
+Natrii iodidum (¹²³I)           37 MBq
+
+Přípravek neobsahuje konzervanty.
+Pomocné látky se známým účinkem: sodík (3,5 mg sodíku v 1 ml)
+Úplný seznam pomocných látek viz bod 6.1
+
+3. LÉKOVÁ FORMA
+
+Injekční roztok.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+Jodid-(¹²³I) sodný se využívá diagnosticky při vyšetřování funkce a morfologie štítné žlázy:
+- Scintigrafie štítné žlázy
+- Vyšetření akumulace radioaktivního jódu
+
+Hodnota akumulace po 24 hodinách se nejčastěji používá pro výpočet dávky pro terapeutické účely.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dospělí
+
+
+SmPC_Sodium Iodide_147226-19                                1 / 11
+
+Doporučené aktivity pro dospělého pacienta s tělesnou hmotností 70 kg se pohybují v rozmezí 3,7 - 14,8 MBq. Nižší aktivity (3,7 MBq) jsou doporučovány pro vyšetřování akumulace jódu a dávky vyšší (11,1
+- 14,8 MBq) pro scintigrafii štítné žlázy. Nicméně je nutné aplikované dávky určovat podle dané situace odborným lékařem.
+
+Při určování akumulace jódu ve štítné žláze je nutné postupovat v souladu se všeobecně přijatými standardními metodikami.
+
+Pediatrická populace
+Aktivitu pro aplikaci dětem je možné určit z dávky pro dospělého podle následujícího vztahu:
+
+Dávka pro děti (MBq) = Dávka dospělí (MBq) x Hmotnost dítěte (kg)
+70
+
+Při výpočtu dávky pro velmi malé děti má být ve vzorci použita maximální doporučená aktivita pro dospělého 14,8 MBq pro zajištění zobrazení v potřebné kvalitě.
+Způsob podání
+
+Aplikace jódu-123 se provádí intravenózní injekcí. Bezprostředně před aplikací má být změřena aktivita roztoku připraveného ve stříkačce.
+Zobrazení se provádí za 3 - 6 hodin po aplikaci.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na pracovištích k tomu určených.
+Příprava radiofarmak určených k aplikaci pacientům musí být v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP.
+Zvláštní pozornost je nutné věnovat aplikaci mladým pacientům, ženám v reprodukčním věku a kojícím matkám.
+Tento přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce, tj. v podstatě je „bez sodíku“.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Akumulaci jódu ve štítné žláze může ovlivnit řada léčivých látek, uvedených v následující tabulce. Jsou uvedeny odstupy, kdy se po vysazení daného léčiva akumulace jódu obnoví na úrovni původních hodnot.
+
+Léčivé látky ovlivňující akumulaci jódu ve štítné žláze:
+Skupina léčivých látek        Potřebný odstup pro obnovení akumulace na původních hodnotách
+Amiodaron              4 týdny
+Antithyroidní terapie (propylthiouracil,methimazol)   1 týden
+Lithium                4 týdny
+Přirozené nebo syntetické hormony štítné žlázy (thyroxin sodný,
+liothyronin sodný)         2 - 3 týdny Expektorancia, vitamíny       2 týdny
+Chloristan              1 týden
+
+SmPC_Sodium Iodide_147226-19                                2 / 11
+
+Fenylbutazon             1 - 2 týdny
+Salicyláty               1 týden
+Steroidy                1 týden
+Nitroprussid sodný          1 týden
+Sulfobromoftalein sodný       1 týden Různé:   Antikoagulancia
+Antihistaminika Antiparazitika Peniciliny Sulfonamidy Tolbutamid
+Thiopental        1 týden
+Benzodiazepiny           4 týdny
+Lokálně aplikované jodidy      1 - 9 měsíců
+Nitrožilní kontrastní látky      1 - 2 měsíce
+Perorální cholecystografika     6 - 9 měsíců Jodované kontrastní látky
+na olejové bázi:
+pro bronchografii          6 - 12 měsíců
+pro myelografii           2 - 10 let
+
+4.6 Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Pokud je nezbytné aplikovat radioaktivní látku ženám ve fertilním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu
+považována za těhotnou, pokud se neprokáže opak. Kde trvá nejistota, radiační zátěž pacientky musí být minimalizována při zachování klinického přínosu vyšetření. Je nutno uvážit alternativní metodiky bez ionizujícího záření.
+
+Těhotenství
+Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se nezbytná vyšetření provádějí v případě, že předpokládaný přínos vyšetření významně převáží možná rizika pro matku a plod.
+
+Kojení
+Před aplikací kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Je- li aplikace nezbytná, pak po aplikaci jódu-123(¹²³I) s přítomností nečistot jódu-125 a/nebo jódu-124 je nutné přerušit kojení na 1,5 – 3 dny. Kojení je možné obnovit za předpokladu, že úroveň v mléku nezpůsobí radiační zátěž dítěte vyšší než 1 mSv.
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Sodium Iodide (I123) Injection nemá žádný nebo má jen zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8 Nežádoucí účinky
+
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných poškození. Pro vyšetřovací metody nukleární medicíny je frekvence těchto nežádoucích účinků nízká vzhledem k nízké radiační zátěži pacientů.
+
+
+
+SmPC_Sodium Iodide_147226-19                                3 / 11
+
+Pro většinu vyšetření metodami nukleární medicíny je efektivní dávkový ekvivalent nižší než 20 mSv. Nicméně v daných klinických souvislostech mohou být i vyšší dávky odůvodněné.
+
+Byly hlášeny ojedinělé případy alergických reakcí, aniž jsou známy údaje o četnosti jejich výskytu a bližším charakteru reakcí.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+V případě předávkování je možné snížit absorbovanou dávku zvýšením eliminace radionuklidu z organismu. V případě předávkování jodidem-(¹²³I) sodným se doporučuje podpora diurézy s častým močením a podání látek blokujících štítnou žlázu, např. chloristanu draselného, v zájmu snížení absorbované dávky pro štítnou žlázu.
+Je nutné zamezit kontaminaci aktivitou, kterou pacient vylučuje.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Diagnostická radiofarmaka, různá diagnostická radiofarmaka k vyšetření štítné žlázy
+ATC kód: V09FX02
+
+V dávkách aplikovaných pro diagnostické účely nebyl pozorován žádný farmakodynamický účinek jodidu-(¹²³I) sodného.
+5.2 Farmakokinetické vlastnosti
+
+Po intravenózní aplikaci je jodid-(¹²³I) sodný vychytáván ve štítné žláze – asi 20 % aktivity je přítomno ve štítné žláze po prvním průchodu. Normální thyroidální clearance jodidu-(¹²³I) sodného z krevního oběhu je 20 – 50 ml/min se zvýšením na 100 ml/min při nedostatku jódu. Nejvyšší koncentrace jodidu- (¹²³I) sodného ve štítné žláze je dosaženo během několika hodin a scintigrafii je možné provést již od první hodiny po aplikaci. Poločas jodidu-(¹²³I) sodného ve štítné žláze je odhadován na 80 dní a tedy možnost provedení scintigrafie je prakticky omezena fyzikálním poločasem jódu-123.
+- Vedle akumulace jodidu-(¹²³I) sodného ve štítné žláze je jodid-(¹²³I) sodný vylučován především ledvinami (37 – 75 %), vylučování stolicí je nízké (asi 1 %).
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Při diagnostické aplikaci jódu-123 nejsou relevantní známé toxické účinky velmi vysokých dávek jodidu sodného. Nejsou k dispozici údaje ze studií na zvířatech týkající se toxicity po opakovaném podání a toxicity na reprodukční systém.
+Nebyly prováděny studie týkající se mutagenních nebo karcinogenních účinků jodidu-(¹²³I) sodného.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+
+SmPC_Sodium Iodide_147226-19                                4 / 11
+
+Chlorid sodný, hydrogenuhličitan sodný, voda na injekci.
+
+6.2 Inkompatibility
+
+Neuplatňuje se.
+6.3 Doba použitelnosti
+
+Doba použitelnosti je 20 hodin od data a hodiny kalibrace uvedené na obalu.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Přípravek se uchovává při teplotě 15 – 25°C (obyčejná teplota). Je-li obsah lahvičky využit pro více aplikací, každou dávku je nutné odebrat za aseptických podmínek a po odebrání první dávky je nutné lahvičku uchovávat při teplotě 2 - 8°C do data a hodiny exspirace, nejdéle však 24 hodin.
+Uchovávání musí být v souladu s příslušnými předpisy pro manipulaci s radioaktivním materiálem.
+
+6.5 Druh obalu a obsah balení
+
+Přípravek Sodium Iodide (I123) Injection je dodáván ve skleněné injekční lahvičce uzavřené pryžovou zátkou a kovovou objímkou. Každá lahvička je umístěna v olověném kontejneru dostatečné tloušťky.
+Velikost balení: 37, 74, 185 a 370 MBq.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku
+
+Je nutné zajistit potřebná opatření k zamezení kontaminace radioaktivitou vylučovanou pacientem. Radioaktivní odpad musí být odstraňován plně v souladu s příslušnými předpisy.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+
+8. REGISTRAČNÍ ČÍSLO(A)
+
+88/456/94-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+27.4.1994 / 24.11.2010
+
+10. DATUM REVIZE TEXTU
+
+15. 5. 2019
+
+
+
+
+SmPC_Sodium Iodide_147226-19                                5 / 11
+
+11. DOZIMETRIE
+
+Ve spojitosti s výrobním procesem jódu-123 je možná přítomnost radionuklidových nečistot jódu-125 a telluru-121. Tyto nečistoty přispívají k radiační zátěži pacienta a je nutné je zahrnout do výpočtů absorbovaných dávek pro jednotlivé orgány.
+Při výpočtu dozimetrických údajů podle ICRP se vycházelo z aplikace intravenózní.
+Efektivní dávka po aplikaci (nejvyšší doporučené) aktivity 14,8 MBq u pacientů o hmotnosti 70 kg s 35% akumulací je asi 2,2 mSv.
+
+Dozimetrické údaje pro jód-123 a jód-125 podle publikace ICRP č.53 (1987) jsou uvedeny v následujících tabulkách:
+
+jód-123: fyzikální poločas 13,2 hodiny:
+
+Pro úplnou blokádu štítné žlázy, akumulace 0%
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          7,0E-03   8,7E-03   1,4E-02   2,1E-02   3,9E-02
+* Stěna moč. měchýře    9,0E-02   1,1E-01   1,6E-01   2,4E-01   4,5E-01 Povrch kostí         8,1E-03   9,7E-03   1,5E-02   2,4E-02   4,6E-02 Prsní žlázy          5,6E-03   5,6E-03   8,1E-03   1,3E-02   2,5E-02 GIT:
+stěna žaludku       6,9E-03   8,5E-03   1,4E-02   2,1E-02   3,7E-02
+* tenké střevo        8,5E-03   1,0E-02   1,6E-02   2,5E-02   4,6E-02
+tlusté střevo
+* horní část         8,0E-03   9,9E-03   1,5E-02   2,4E-02   4,3E-02
+* dolní část         9,7E-03   1,2E-02   1,9E-02   2,9E-02   5,4E-02
+
+Ledviny           1,1E-02   1,4E-02   2,0E-02   2,9E-02   5,1E-02
+Játra             6,7E-03   8,2E-03   1,3E-02   2,0E-02   3,7E-02
+Plíce             6,1E-03   7,8E-03   1,2E-02   1,9E-02   3,5E-02
+Vaječníky          9,8E-03   1,2E-02   1,9E-02   3,0E-02   5,3E-02 Slinivka břišní        7,6E-03   9,1E-03   1,4E-02   2,2E-02   4,1E-02
+Červená kostní dřeň     9,4E-03   1,1E-02   1,7E-02   2,6E-02   4,7E-02 Slezina            7,0E-03   8,3E-03   1,3E-02   2,0E-02   3,7E-02
+Varlata            6,9E-03   9,4E-03   1,5E-02   2,5E-02   4,8E-02 Štítná žláza          5,1E-03   7,7E-03   1,2E-02   2,0E-02   3,7E-02 Děloha            1,4E-02   1,7E-02   2,8E-02   4,3E-02   7,6E-02 Ostatní tkáně         6,4E-03   7,7E-03   1,2E-02   1,9E-02   3,5E-02
+
+Efektivní dávkový     1,3E-02   1,6E-02   2,4E-02   3,7E-02   6,7E-02
+ekvivalent (mSv/MBq)
+
+Částečná blokáda:
+Efektivní dávkový ekvivalent (mSv/MBq) v případě určitého nízkého vychytání ve štítné žláze:
+
+dospělý   15 let    10 let    5 let     1 rok
+
+akumulace 0,5%       1,6E-02   2,0E-02   3,1E-02   5,2E-02   9,6E-02 akumulace 1%        1,9E-02   2,5E-02   3,8E-02   6,7E-02   1,3E-01 akumulace 2%        2,5E-02   3,4E-02   5,2E-02   9,9E-02   1,8E-01
+
+
+SmPC_Sodium Iodide_147226-19                                6 / 11
+
+Blokáda štítné žlázy,
+akumulace 15 %:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          6,3E-03   8,3E-03   1,3E-02   2,0E-02   3,7E-02
+* Stěna moč. měchýře    7,6E-02   9,5E-02   1,4E-01   2,1E-01   3,8E-01 Povrch kostí         7,1E-03   9,1E-03   1,4E-02   2,2E-02   4,1E-02 Prsní žlázy          4,7E-03   4,7E-03   7,3E-03   1,2E-02   2,3E-02 GIT:
+stěna žaludku       6,8E-02   8,5E-02   1,2E-02   2,0E-01   3,8E-01
+* tenké střevo        4,3E-02   5,4E-02   9,1E-02   1,4E-01   2,7E-01
+tlusté střevo
+* horní část         1,8E-02   1,9E-02   2,9E-02   4,5E-02   7,7E-02
+* dolní část         1,1E-02   1,4E-02   2,2E-02   3,3E-02   6,0E-02
+
+Ledviny           1,0E-02   1,3E-02   1,8E-02   2,7E-02   4,6E-02
+Játra             6,2E-03   7,6E-03   1,3E-02   2,1E-02   3,8E-02
+Plíce             5,7E-03   7,2E-03   1,1E-02   1,8E-02   3,4E-02
+Vaječníky          1,2E-02   1,6E-02   2,5E-02   3,8E-02   6,8E-02 Slinivka břišní        1,4E-02   1,6E-02   2,4E-02   3,5E-02   6,1E-02
+Červená kostní dřeň     9,4E-03   1,2E-02   1,7E-02   2,5E-02   4,3E-02 Slezina            9,5E-03   1,1E-02   1,7E-02   2,5E-02   4,4E-02
+Varlata            5,3E-03   7,2E-03   1,2E-02   2,0E-02   3,8E-02 Štítná žláza          1,9E+00   3,0E+00   4,5E-02   9,8E+00   1,9E+01 Děloha            1,5E-02   1,9E-02   3,1E-02   4,9E-02   8,6E-02
+
+Ostatní tkáně        6,8E-03   8,5E-03   1,3E-02   2,1E-02   3,9E-02
+
+Efektivní dávkový     7,5E-02   1,1E-01   1,7E-01   3,5E-01   6,5E-01
+ekvivalent (mSv/MBq)
+
+Blokáda štítné žlázy,
+akumulace 35%:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          6,5E-03   8,4E-03   1,3E-02   2,1E-02   3,8E-02
+* Stěna moč. měchýře    6,0E-02   7,4E-02   1,1E-01   1,6E-01   3,0E-01 Povrch kostí         7,9E-03   1,1E-02   1,6E-02   2,5E-02   4,6E-02 Prsní žlázy          5,2E-03   5,2E-03   8,5E-03   1,5E-02   2,7E-02 GIT:
+stěna žaludku       6,8E-02   8,5E-02   1,2E-01   2,0E-01   3,8E-01
+* tenké střevo        4,2E-02   5,4E-02   9,0E-02   1,4E-01   2,7E-01
+tlusté střevo
+* horní část         1,8E-02   1,9E-02   2,9E-02   4,5E-02   7,6E-02
+* dolní část         1,0E-02   1,4E-02   2,1E-02   3,2E-02   5,8E-02
+
+Ledviny           9,1E-03   1,1E-02   1,6E-02   2,4E-02   4,1E-02
+Játra             6,3E-03   7,8E-03   1,3E-02   2,1E-02   4,0E-02
+Plíce             6,5E-03   8,6E-03   1,4E-02   2,2E-02   4,2E-02
+Vaječníky          1,1E-02   1,5E-02   2,4E-02   3,7E-02   6,6E-02
+
+SmPC_Sodium Iodide_147226-19                                7 / 11
+
+Slinivka břišní        1,4E-02   1,6E-02   2,4E-02   3,6E-02   6,2E-02
+
+Červená kostní dřeň     1,0E-02   1,3E-02   1,9E-02   2,8E-02   4,8E-02 Slezina            9,6E-03   1,1E-02   1,7E-02   2,5E-02   4,5E-02
+Varlata            5,0E-03   6,8E-03   1,1E-02   1,8E-02   3,5E-02 Štítná žláza          4,5E+00   7,0E+00   1,1E+01   2,3E+01   4,3E+01 Děloha            1,4E-02   1,7E-02   2,9E-02   4,4E-02   7,9E-02
+
+Ostatní tkáně        8,0E-03   1,0E-02   1,6E-02   2,6E-02   4,9E-02
+
+Efektivní dávkový     1,5E-01   2,3E-01   3,5E-01   7,4E-01   1,4E+00
+ekvivalent (mSv/MBq)
+
+Blokáda štítné žlázy,
+akumulace 55%:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          6,5E-03   8,5E-03   1,4E-02   2,1E-02   3,9E-02
+* Stěna moč. měchýře    4,3E-02   5,3E-02   7,9E-02   1,2E-01   2,2E-01 Povrch kostí         8,6E-03   1,2E-02   1,8E-02   2,8E-02   5,1E-02 Prsní žlázy          5,6E-03   5,6E-03   9,5E-03   1,7E-02   3,1E-02 GIT:
+stěna žaludku       6,8E-02   8,5E-02   1,2E-01   2,0E-01   3,9E-01
+* tenké střevo        4,2E-02   5,4E-02   9,1E-02   1,4E-01   2,7E-01
+tlusté střevo
+* horní část         1,8E-02   1,9E-02   2,9E-02   4,4E-02   7,6E-02
+* dolní část         9,8E-03   1,3E-02   2,0E-02   3,0E-02   5,5E-02
+
+Ledviny           9,1E-03   1,1E-02   1,6E-02   2,4E-02   4,1E-02
+Játra             6,4E-03   7,9E-03   1,3E-02   2,2E-02   4,1E-02
+Plíce             7,2E-03   9,7E-03   1,6E-02   2,6E-02   4,8E-02
+Vaječníky          1,1E-02   1,5E-02   2,3E-02   3,6E-02   6,4E-02 Slinivka břišní        1,4E-02   1,6E-02   2,5E-02   3,6E-02   6,3E-02
+
+Červená kostní dřeň     1,1E-02   1,5E-02   2,1E-02   3,0E-02   5,2E-02 Slezina            9,7E-03   1,1E-02   1,7E-02   2,6E-02   4,6E-02
+Varlata            4,6E-03   6,2E-03   1,0E-02   1,6E-02   3,2E-02 Štítná žláza          7,0E+00   1,1E+01   1,7E+01   3,6E+01   6,8E+01 Děloha            1,2E-02   1,6E-02   2,6E-02   4,0E-02   7,2E-02
+Ostatní tkáně        9,2E-03   1,2E-02   1,9E-02   3,1E-02   5,8E-02
+
+Efektivní dávkový     2,3E-01   3,5E-01   5,3E-01   1,1E+00   2,1E+00
+ekvivalent (mSv/MBq)
+
+jód-125: fyzikální poločas 60,14 dne:
+
+Pro úplnou blokádu štítné žlázy, akumulace 0%:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+
+orgán             dospělý   15 let    10 let    5 let     1 rok
+
+
+SmPC_Sodium Iodide_147226-19                                8 / 11
+
+Nadledviny         4,8E-03   6,6E-03   1,1E-02   1,9E-02   3,7E-02
+* Stěna moč. měchýře    1,0E-01   1,3E-01   1,9E-01   2,9E-01   5,4E-01 Povrch kostí         7,4E-03   9,3E-03   1,6E-02   2,7E-02   5,7E-02 Prsní žlázy          5,1E-03   5,1E-03   7,4E-02   1,2E-02   2,4E-02 GIT:
+stěna žaludku       5,3E-03   6,5E-03   1,0E-02   1,8E-02   3,5E-02
+* tenké střevo        5,8E-03   6,8E-03   1,2E-02   2,0E-02   4,1E-02
+tlusté střevo
+* horní část         5,8E-03   6,8E-03   1,2E-02   1,9E-02   3,9E-02
+* dolní část         6,7E-03   8,1E-03   1,3E-02   2,3E-02   4,8E-02
+
+Ledviny           1,0E-02   1,3E-02   1,9E-02   2,8E-02   5,1E-02
+Játra             5,4E-03   6,4E-03   1,1E-02   1,8E-02   3,5E-02
+Plíce             5,5E-03   6,9E-03   1,1E-02   1,9E-02   3,7E-02
+Vaječníky          6,4E-03   7,8E-03   1,4E-02   2,4E-02   4,8E-02 Slinivka břišní        5,6E-03   6,7E-03   1,1E-02   1,9E-02   3,7E-02
+Červená kostní dřeň     8,3E-03   1,0E-02   1,7E-02   2,9E-02   5,9E-02 Slezina            5,6E-03   6,5E-03   1,1E-02   1,8E-02   3,6E-02
+Varlata            5,0E-03   6,5E-03   1,2E-02   2,1E-02   4,4E-02 Štítná žláza          4,7E-03   6,3E-03   1,1E-02   1,8E-02   3,6E-02 Děloha            9,5E-03   1,2E-02   2,2E-02   3,8E-02   7,5E-02
+Ostatní tkáně        5,2E-03   6,3E-03   1,0E-02   1,7E-02   3,4E-02
+
+Efektivní dávkový     1,2E-02   1,5E-02   2,3E-02   3,7E-02   7,3E-02
+ekvivalent (mSv/MBq)
+
+Částečná blokáda:
+Efektivní dávkový ekvivalent (mSv/MBq) v případě určité nízké akumulace ve štítné žláze:
+
+dospělý   15 let    10 let    5 let     1 rok
+
+akumulace 0,5%       1,5E-01   2,4E-01   3,6E-01   7,7E-01   1,4E+00 akumulace 1%        3,0E-01   4,6E-01   6,9E-01   1,5E+00   2,8E+00 akumulace 2%        5,8E-01   9,0E-01   1,4E+00   3,0E+00   5,6E+00
+
+Blokáda štítné žlázy, akumulace 15%:
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          3,6E-03   5,1E-03   8,9E-03   1,5E-02   3,3E-02
+* Stěna moč. měchýře    8,5E-02   1,1E-01   1,6E-01   2,4E-01   4,6E-01 Povrch kostí         1,6E-02   4,1E-02   5,3E-02   8,0E-02   1,4E-01 Prsní žlázy          4,6E-03   4,5E-03   8,5E-03   1,9E-02   5,1E-02 GIT:
+stěna žaludku       7,1E-02   9,0E-02   1,3E-01   2,2E-01   4,4E-01
+* tenké střevo        4,2E-02   5,5E-02   9,5E-02   1,6E-01   3,0E-01
+tlusté střevo
+* horní část         1,6E-02   1,4E-02   2,4E-02   3,9E-02   7,6E-02
+* dolní část          7,5E-03   9,5E-03   1,6E-02   2,7E-02   5,4E-02 Ledviny           8,6E-03   1,1E-02   1,6E-02   2,4E-02   4,6E-02
+Játra             4,2E-03   4,9E-03   9,4E-03   1,7E-02   3,8E-02
+Plíce             8,7E-03   1,3E-02   3,1E-02   6,2E-02   1,3E-01
+
+SmPC_Sodium Iodide_147226-19                                9 / 11
+
+Vaječníky          6,9E-03   9,8E-03   1,8E-02   3,1E-02   6,2E-02 Slinivka břišní        9,2E-03   1,0E-02   1,8E-02   2,9E-02   5,7E-02
+Červená kostní dřeň     1,7E-02   3,9E-02   5,1E-02   7,7E-02   1,4E-01 Slezina            5,8E-03   6,6E-03   1,2E-02   1,9E-02   4,3E-02
+Varlata            3,6E-03   4,7E-03   8,8E-03   1,6E-02   3,4E-02 Štítná žláza          1,4E+02   2,0E+02   2,6E+02   5,1E+02   7,9E+02 Děloha            9,2E-03   1,2E-02   2,4E-02   4,1E-02   8,2E-02
+
+Ostatní tkáně        5,3E-02   7,0E-02   1,1E-01   1,7E-01   2,9E-01
+
+Efektivní dávkový     4,3E+00   6,0E+00   8,0E+00   1,5E+01   2,4E+01
+ekvivalent (mSv/MBq)
+
+Blokáda štítné žlázy,
+akumulace 35%:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+orgán             dospělý   15 let    10 let    5 let     1 rok Nadledviny          3,5E-03   5,0E-03   8,9E-03   1,6E-02   3,7E-02
+* Stěna moč. měchýře    6,6E-02   8,3E-02   1,2E-01   1,9E-01   3,6E-01 Povrch kostí         3,1E-02   8,6E-02   1,1E-01   1,6E-01   2,7E-01 Prsní žlázy          5,9E-03   5,7E-03   1,3E-02   3,2E-02   9,5E-02 GIT:
+stěna žaludku       7,1E-02   9,0E-02   1,3E-01   2,2E-01   4,4E-01
+* tenké střevo        4,2E-02   5,5E-02   9,5E-02   1,6E-01   3,0E-01
+tlusté střevo
+* horní část         1,6E-02   1,4E-02   2,4E-02   3,9E-02   7,5E-02
+* dolní část         7,2E-03   9,1E-03   1,5E-02   2,6E-02   5,1E-02
+
+Ledviny           7,6E-03   9,3E-03   1,4E-02   2,2E-02   4,4E-02
+Játra             4,2E-03   5,0E-03   1,0E-02   1,9E-02   4,5E-02
+Plíce             1,5E-02   2,3E-02   6,1E-02   1,2E-01   2,8E-01
+Vaječníky          6,7E-03   9,6E-03   1,7E-02   3,0E-02   6,0E-02 Slinivka břišní        9,2E-03   1,0E-02   1,8E-02   2,9E-02   6,1E-02
+
+Červená kostní dřeň     3,0E-02   7,9E-02   9,9E-02   1,5E-01   2,7E-01 Slezina            5,8E-03   6,6E-03   1,2E-02   2,0E-02   5,1E-02
+Varlata            3,5E-03   4,5E-03   8,2E-03   1,5E-02   3,1E-02 Štítná žláza          3,3E+02   4,7E+02   6,2E+02   1,2E+03   1,9E+03 Děloha            8,3E-03   1,1E-02   2,1E-02   3,7E-02   7,4E-02
+Ostatní tkáně        1,2E-01   1,6E-01   2,4E-01   3,8E-01   6,4E-01
+
+Efektivní dávkový     9,9E+00   1,4E+01   1,9E+01   3,6E+01   5,6E+01
+ekvivalent (mSv/MBq)
+
+Blokáda štítné žlázy,
+akumulace 55%:
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+
+orgán             dospělý   15 let    10 let    5 let     1 rok
+
+Nadledviny         3,6E-03   5,1E-03   9,2E-03   1,7E-02 4,1E-02
+* Stěna moč. měchýře    4,7E-02   5,8E-02   8,8E-02   1,3E-01 2,5E-01
+
+SmPC_Sodium Iodide_147226-19                               10 / 11
+
+Povrch kostí         4,5E-02   1,3E-01   1,6E-01   2,4E-01 4,0E-01 Prsní žlázy          7,3E-03   7,0E-03   1,7E-02   4,6E-02 1,4E-01 GIT:
+stěna žaludku       7,1E-02   9,0E-02   1,3E-01   2,2E-01 4,5E-01
+* tenké střevo        4,2E-02   5,5E-02   9,5E-02   1,5E-01 3,0E-01
+tlusté střevo
+* horní část         1,6E-02   1,4E-02   2,4E-02   3,9E-02 7,5E-02
+* dolní část         7,0E-03   8,8E-03   1,5E-02   2,4E-02 4,9E-02
+
+Ledviny           6,4E-03   7,9E-03   1,2E-02   1,9E-02 4,3E-02
+Játra             4,2E-03   5,1E-03   1,1E-02   2,2E-02 5,2E-02
+Plíce             2,1E-02   3,4E-02   9,1E-02   1,9E-01 4,2E-01
+Vaječníky          6,6E-03   9,4E-03   1,7E-02   2,9E-02 5,8E-02 Slinivka břišní        9,2E-03   1,0E-02   1,8E-02   3,0E-02 6,6E-02
+
+Červená kostní dřeň     4,3E-02   1,2E-01   1,5E-01   2,2E-01 4,0E-01 Slezina            5,8E-03   6,6E-03   1,2E-02   2,0E-02 5,9E-02
+Varlata           3,4E-03   4,4E-03   7,7E-03   1,4E-02 2,8E-02
+Štítná žláza         5,2E+02   7,4E+02   9,7E+02   1,9E+03 2,9E+03
+Děloha            7,5E-03   1,0E-02   1,9E-02   3,3E-02 6,7E-02 Ostatní tkáně         1,8E-01   2,4E-01   3,8E-01   5,9E-01 9,9E-01
+Efektivní dávkový     1,6E+01   2,2E+01   2,9E+01   5,6E+01 8,8E+01
+ekvivalent (mSv/MBq)
+
+tellur-121: fyzikální poločas 16,8 dne
+
+Dávka způsobená přítomností ¹²¹Te, rovnoměrně rozptýleného v organismu, je 4,6E-02 mSv/MBq. Vypočtený efektivní dávkový ekvivalent je 4,6E-02 mSv/MBq.
+
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Roztok je dodáván ve formě k okamžitému použití.
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné předpisy pro ochranu zdraví před ionizujícím zářením.
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SmPC_Sodium Iodide_147226-19                               11 / 11

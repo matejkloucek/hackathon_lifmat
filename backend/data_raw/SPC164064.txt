@@ -1,0 +1,544 @@
+sp.zn. sukls187943/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1. NÁZEV PŘÍPRAVKU
+
+Methionin (11C) methyl UJV 100 – 1500 MBq/ml injekční roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden mililitr obsahuje methioninum ([11C]methyl) 100 – 1500 MBq k datu a času kalibrace. Celková aktivita jedné lahvičky je 500 až 15 000 MBq k datu a času kalibrace.
+Uhlík-(¹¹C) má poločas rozpadu 20 minut, emituje pozitronové záření o max. energii 0,96 MeV,
+následované fotonovým anihilačním zářením s energií 0,511 MeV.
+
+Pomocné látky se známým účinkem:
+Přípravek obsahuje maximálně 20 mg ethanolu (zbytky z výroby léčivé látky) v jednom mililitru.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3. LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý, bezbarvý roztok, prostý viditelných částic.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+¹¹C-methionin je diagnostické radiofarmakum, které je určeno především k detekci gliomů pomocí pozitronové emisní tomografie (PET) u dospělých a pediatrické populace.
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dospělé a starší osoby
+Celková aktivita aplikovaná jednomu pacientovi je cca 2-5 MBq/kg tělesné hmotnosti, většinou v rozmezí 370-555 MBq (140 až 350 MBq u pacienta vážícího 70 kg). Aplikovanou aktivitu je třeba upravit v závislosti na tělesné hmotnosti, typu použitého skeneru, režimu a rozsahu snímání a klinickém stavu pacienta.
+
+Pediatrická populace
+Pro pacienty do 18 let je k dispozici jen omezené množství klinických údajů týkajících se bezpečnosti a diagnostické účinnosti tohoto přípravku. Použití u dětí a dospívajících se musí důkladně zvážit na základě klinických potřeb a posouzení poměru rizika a přínosu u této skupiny pacientů.
+
+Aktivita podávaná dětem a dospívajícím může být vypočítaná dle doporučení pediatrické pracovní skupiny EANM:
+
+1/8
+
+-  Pro 3D způsob snímání:
+podaná aktivita [MBq] = 14 x multiplikační faktor (viz níže), minimální aktivita = 14 MBq
+
+-  Pro 2D způsob snímání:
+podaná aktivita [MBq] = 26 x multiplikační faktor (viz níže), minimální aktivita = 26 MBq
+
+
+kg   faktor  kg
+3    1     22
+4    1,14   24
+6    1,71   26
+8    2,14   28
+10   2,71   30
+12   3,14   32
+14   3,57   34
+16   4,00   36
+18   4,43   38
+20   4,86   40
+faktor 5,29
+5,71
+6,14
+6,43
+6,86
+7,29
+7,72
+8,00
+8,43
+8,86
+kg 42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+faktor 9,14
+9,57
+10,0
+10,29
+10,71
+11,29
+12,0
+12,71
+13,43
+14,0
+
+Způsob podání
+
+Příprava pacienta viz bod 4.4.
+
+Aktivita ¹¹C-methioninu musí být měřena pomocí kalibrátoru těsně před injekcí.
+Injekce musí být striktně intravenózní, aby se zabránilo ozáření v důsledku lokální extravazace a také artefaktům při zobrazení.
+
+Předběžná opatření před manipulací nebo podávání léčivého přípravku
+Jedna lahvička je použitelná pro jednu nebo pro více aplikací. Nepodávejte více než 5 ml.
+Pokyny k naředění léčivého přípravku před podáním viz bod 12.
+
+Pořízení snímků
+Obvykle se doporučuje 20minutová statická PET akvizice začínající 10 minut po aplikaci. V případě nutnosti lze PET s ¹¹C-methioninem v krátkém časovém úseku provést opakovaně.
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Možnost hypersenzitivity nebo anafylaktické reakce
+Pokud dojde k hypersenzitivitě nebo anafylaktickým reakcím, podávání léčivého přípravku musí být okamžitě přerušeno a v případě potřeby je třeba zahájit intravenózní léčbu. Pro zabezpečení okamžitého zásahu v případě potřeby, musí být okamžitě k dispozici potřebné léčivé přípravky a vybavení, jako jsou endotracheální trubice a zařízení pro umělou plicní ventilaci.
+Individuální zdůvodnění poměru přínos/riziko
+Pro všechny pacienty musí být vystavení ionizujícímu záření odůvodnitelné očekávaným diagnostickým přínosem a musí být provedeno s nejnižší možnou dávkou aktivity, která ještě zajistí potřebnou diagnostickou informaci.
+Porucha funkce ledvin
+U pacientů se sníženou funkcí ledvin je vyžadováno velmi pečlivé zvážení indikace, protože u těchto pacientů může dojít ke zvýšené radiační expozici (viz body 5.2 a 11).
+
+
+Pediatrická populace
+
+2/8
+
+Informace o použití u pediatrické populace viz bod 4.2.
+Potřebné je důkladné zvážení indikace vyšetření, neboť efektivní dávka na MBq podané aktivity je
+u dětí vyšší než u dospělých (viz bod 11 „Dozimetrie“).
+
+Příprava pacienta
+¹¹C-methionin má být podáván dostatečně hydratovaným pacientům, kteří minimálně 4 hodiny před aplikací nepřijímali žádnou potravu. Za účelem získání snímků nejlepší kvality a za účelem snížení radiační zátěže na močový měchýř má být pacient vyzván, aby vypil dostatečné množství tekutiny a aby se vyprázdnil před vyšetřením PET. Po vyšetření PET se má močový měchýř vyprazdňovat tak často, jak je to možné. Pokud je nutná sedace pacienta, má být zahájena asi 20-60 minut před zahájením vyšetření.
+
+Po vyšetření
+Po aplikaci ¹¹C-methioninu se pacienti mají 3 hodiny vyhýbat blízkému kontaktu s malými dětmi a
+těhotnými ženami.
+
+Zvláštní upozornění
+Pomocné látky
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v maximální dávce, to znamená, že
+je v podstatě „bez sodíku“.
+
+Tento léčivý přípravek obsahuje až 100 mg alkoholu (ethanolu) v jedné dávce, což odpovídá 20 mg/ml.
+Množství alkoholu v maximální dávce tohoto léčivého přípravku odpovídá méně než 3 ml piva nebo 1 ml vína.
+Takto malé množství alkoholu v tomto léčivém přípravku nemá žádné znatelné účinky.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Žádné interakční studie nebyly provedeny.
+4.6 Fertilita, těhotenství a kojení
+
+Ženy, které mohou otěhotnět
+Jestliže se zvažuje podávání radioaktivního léčiva ženám, které mohou otěhotnět, vždy mají být zjištěny informace o těhotenství. Jakákoliv žena, které vynechala menstruace, má být považována za těhotnou, dokud nebude prokázán opak. V případě nejistoty (vynechaná nebo velmi nepravidelná menstruace) mají být pacientce nabídnuty alternativní techniky, které nepoužívají ionizující záření.
+
+Těhotenství
+Radionuklidové postupy prováděné u těhotných žen zapříčiní, že plod je zasažen rovněž dávkami záření. Během těhotenství mají být prováděna pouze naprosto nezbytná vyšetření, pokud přínos vysoce převyšuje riziko pro matku a plod.
+Kojení
+Před podáním přípravku Methionin (11C) methyl UJV matce, která kojí, je třeba zvážit, zda by vyšetření mohlo být odloženo na přiměřeně dlouhou dobu, dokud matka nepřestane kojit, a též zvážit nejpřijatelnější výběr radiofarmaka. Jestliže je podání během kojení nevyhnutelné, musí být kojení přerušeno minimálně na 3 hodiny a odsáté mléko nesmí být použito. V případě možnosti lze mléko odsát před podáním přípravku Methionin (11C) methyl UJV. Blízkému kontaktu matky a dítěte má být zamezeno během prvních 3 hodin po aplikaci injekce.
+Není známo, zda je ¹¹C-methionin schopen přecházet do mateřského mléka. Vzhledem k velmi krátkému poločasu přeměny ¹¹C je nicméně i v případě přechodu látky do mateřského mléka potenciální radiační zátěž případného kojence mizivá.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+
+3/8
+
+Přípravek Methionin (11C) methyl UJV nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Dosud nebyly pozorovány žádné nežádoucí účinky po podání přípravku Methionin (11C) methyl UJV.
+
+Vystavení ionizujícímu záření je spojeno s rizikem vzniku rakoviny a dědičných vad. Pravděpodobnost vzniku takových poruch je však nízká, neboť rozsah efektivní dávky používané v PET vyšetření jsou obecně menší než 20 mSv.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Při náhodném podání přebytku radioaktivní látky může být absorbovaná dávka snížena forsírovanou diurézou a častým močením.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: diagnostická radiofarmaka; detekce nádorů
+ATC kód: V09IX13
+Mechanismus účinku
+Methionin je přirozeně se vyskytující aminokyselina. Značený ¹¹C-methionin se používá při radiodiagnostických  zobrazovacích  metodách  využívajících  zvýšenou  akumulaci  methioninu v nádorových tkáních se zvýšeným příjmem methioninu a zvýšenou proteosyntézou k jejich vizualizaci.
+Farmakodynamické účinky
+Při koncentracích používaných pro diagnostická vyšetření ¹¹C-methionin nevykazuje žádnou
+farmakodynamickou aktivitu.
+
+5.2 Farmakokinetické vlastnosti
+
+Distribuce:
+Vychytávání ¹¹C-methioninu v tumorech je komplexní proces, ve kterém hraje roli několik faktorů – aminokyselinový transport, metabolismus v tělních i nádorových buňkách a průtok krve v nádoru. V případě mozkových tumorů přispívá také pasivní difúze skrze hematoencefalickou bariéru. Vychytávání ¹¹C-methioninu je velmi rychlé. Ve studii, která porovnávala metabolismus a farmakokinetiku FDG a ¹¹C-methioninu, byl vrchol vychytávání ¹¹C-methioninu dosažen za 3 a 15 minut s tím, že aktivita v nádorových lézích poté zůstala již konstantní do konce snímání (tj. za 60 minut). Jiná studie ukázala, že ještě za 60 minut po injekci, je 40% radioaktivity navázáno na plazmatické proteiny.
+
+Vychytávání v orgánech
+¹¹C-methionin je nejvíce vychytáván v pankreatu, játrech, slinných žlázách a kostní dřeni. Vychytávání je naopak nízké v mozku, plicích a svalech.
+
+4/8
+
+Eliminace
+¹¹C-methionin je metabolizován především v játrech a pankreatu. K významnější exkreci ledvinami u něj nedochází.
+Poločas rozpadu
+Uhlík-(¹¹C) má poločas rozpadu 20 minut.
+
+Pacienti s poruchou funkce ledvin či jater
+Farmakokinetické vlastnosti u těchto pacientů nebyly zkoumány.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+11C-methionin je radioaktivně značená esenciální aminokyselina, která při perorálním podání potkanům vykazovala nízkou toxicitu (LD50 > 10 g/kg). Množství léčivé látky v jedné dávce aplikované pacientovi se pohybuje v rozmezí 1,5 - 3 x 10⁻¹⁵ g. Přípravek není určen k opakovanému anebo dlouhodobému podání.
+
+6. FARMACEUTICKÉ INFORMACE
+
+6.1 Seznam pomocných látek
+
+voda pro injekci chlorid sodný
+6.2 Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 12.
+
+6.3 Doba použitelnosti
+
+Doba použitelnosti je 2 hodiny od konce výroby. Exspirace je vyznačena na vnitřním i vnějším obalu (kontejneru). Přípravek nesmí být použit po uplynutí vyznačené doby použitelnosti.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte v uzavřených obalech, v souladu s předpisy o ochraně zdraví před ionizujícím zářením.
+
+6.5 Druh obalu a obsah balení
+
+Vnitřní obal: injekční lahvička 10 ml ze skla I. hydrolytické třídy uzavřená gumovou zátkou a hliníkovou objímkou;
+Vnější obal: olověný, wolframový nebo uranový kontejner.
+Jedna lahvička obsahuje 0,5 až 10 ml roztoku, což odpovídá 500 až 15 000 MBq k datu a času kalibrace. Velikost balení:
+0,5; 1; 1,25; 1,5; 1,75; 2; 2,5; 3; 3,5; 4; 4,5; 5; 5,5; 6; 6,5; 7; 7,5; 8; 8,5; 9; 9,5; 10; 11; 12; 13; 14; 15 GBq
+v injekční lahvičce k opakovanému odběru. Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecná upozornění
+
+5/8
+
+Radiofarmaka smí být přijímána, používána a podávána pouze oprávněnými osobami v k tomu určených zdravotnických zařízeních. Jejich příjem, uchovávání, používání, transport a likvidace podléhají příslušným nařízením a/nebo adekvátním povolením zodpovědných úřadů.
+Radiofarmaka mají být připravována způsobem, který zajišťuje jak požadavky radiační bezpečnosti, tak farmaceutické kvality. Je třeba přijmout adekvátní antiseptická opatření.
+
+Přípravek se nesmí použít, pokud je kdykoli během jeho přípravy lahvička porušena.
+Podání má být provedeno takovým způsobem, aby se minimalizovalo riziko kontaminace léčivým produktem a ozáření personálu. Použití odpovídajícího stínění je povinné.
+
+Podávání radiofarmak je spojeno s rizikem ozáření pro další osoby v důsledku externí radiace nebo kontaminace močí, zvratky apod. Proto musí být přijata opatření radiační ochrany v souladu s národními předpisy.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+ÚJV Řež, a. s., Hlavní 130, 250 68 Husinec-Řež, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+88/137/18-C
+
+9. DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+19. 11. 2020
+
+10. DATUM REVIZE TEXTU
+
+19. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6/8
+
+11. DOZIMETRIE
+Absorbované dávky pro L-[methyl-¹¹C]- (Převzato z ICRP 106/2008)
+
+
+Orgán
+Absorbovaná dávka na jednotku podané aktivity
+
+
+Nadledviny Močový měchýř Povrch kostí Mozek
+Prsa
+Žlučník Gastrointestinální trakt
+Žaludek Tenké střevo Tlusté střevo
+(Horní tlusté střevo) (Dolní tlusté střevo)
+Srdce Ledviny Játra Plíce Svaly Jícen Vaječníky
+Slinivka břišní Červená kostní dřeň Kůže
+Slezina Varlata Brzlík Štítná žláza Děloha
+Ostatní orgány
+Efektivní dávka (mSV/MBq)
+Dospělý
+0,0029
+0,11
+0,0018
+0,0022
+0,0013
+0,011
+
+0,0022
+0,0034
+0,003
+0,0027
+0,0034
+0,0019
+0,03
+0,011
+0,0045
+0,002
+0,0015
+0,0037
+0,014
+0,002
+0,0013
+0,0058
+0,0027
+0,0015
+0,0013
+0,0065
+0,0024
+0,0084
+15letý
+0,0037
+0,14
+0,0022
+0,0022
+0,0017
+0,012
+
+0,0026
+0,0045
+0,0038
+0,0034
+0,0043
+0,0025
+0,036
+0,015
+0,0067
+0,0025
+0,0019
+0,0048
+0,02
+0,0026
+0,0017
+0,0082
+0,0038
+0,0019
+0,0017
+0,0077
+0,0032
+0,011
+10letý
+0,0057
+0,21
+0,0035
+0,0024
+0,0027
+0,016
+
+0,0043
+0,0074
+0,0059
+0,0055
+0,0064
+0,004
+0,051
+0,023
+0,0095
+0,004
+0,003
+0,0071
+0,041
+0,0038
+0,0027
+0,013
+0,0066
+0,003
+0,0028
+0,013
+0,0051
+0,017
+5letý
+0,009
+0,33
+0,0055
+0,0028
+0,0045
+0,029
+
+0,0069
+0,012
+0,0092
+0,0088
+0,0097
+0,0063
+0,075
+0,034
+0,015
+0,0064
+0,0049
+0,011
+0,053
+0,0056
+0,0045
+0,02
+0,01
+0,0049
+0,0047
+0,019
+0,0082
+0,026
+Roční
+0,016
+0,6
+0,011
+0,004
+0,0089
+0,096
+
+0,013
+0,022
+0,016
+0,016
+0,016
+0,012
+0,14
+0,065
+0,029
+0,012
+0,0095
+0,019
+0,12
+0,01
+0,0088
+0,036
+0,019
+0,0095
+0,0093
+0,033
+0,014
+0,047
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7/8
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+11C-Methionin UJV se dodává v lahvičce pro opakovaný odběr.
+
+Balení musí být před použitím zkontrolováno a aktivita musí být změřena kalibrovaným zařízením. Léčivý přípravek může být zředěn injekčním roztokem chloridu sodného 9 mg/ml (0,9%).
+
+Natažení roztoku musí být prováděno za aseptických podmínek. Lahvičky nesmí být otevírány před dezinfekcí zátky, roztok má být natažen propíchnutím zátky za použití jednorázové stříkačky vybavené vhodným ochranným stíněním a sterilní jehlou na jedno použití.
+
+Roztok má být před použitím vizuálně zkontrolován. Mají být používány pouze čiré roztoky bez obsahu
+viditelných částeček.
+
+Jakýkoliv nespotřebovaný produkt nebo odpadní materiál má být zlikvidován v souladu s místními předpisy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8/8

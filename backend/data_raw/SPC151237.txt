@@ -1,0 +1,429 @@
+sp.zn. sukls317610/2019
+Sᴏᴜʜʀɴ ᴜ́ᴅᴀᴊů ᴏ ᴘřɪ́ᴘʀᴀᴠᴋᴜ
+
+1. NÁZEV PŘÍPRAVKU
+
+Technescan DMSA
+1,2 mg, kit pro radiofarmakum
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna lahvička obsahuje succimerum 1,2 mg.
+K označení injekčním roztokem technecistanu-⁹⁹ᵐTc sodného. Radionuklid není součástí tohoto kitu.
+Pomocná látka se známým účinkem: sodík (0,35 mg sodíku v 1 injekční lahvičce) Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+
+Kit pro radiofarmakum.
+Popis přípravku: mírně šedivě-bílý či nažloutlý lyofilizát (pelety či prášek).
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+Po označení lyofilizátu roztokem technecistanu-⁹⁹ᵐTc sodného je získaný roztok indikován pro:
+•  statické (planární nebo tomografické) zobrazení ledvin
+•  vyšetření morfologie kůry ledvin
+•  vyšetření funkce jednotlivé ledviny
+•  lokalizaci ektopické ledviny
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dospělí
+Doporučená aktivita pro dospělého pacienta: 30 - 120 MBq. Odůvodněné mohou být i jiné podané aktivity.Upozorňujeme, že mají být dodržovány referenční hodnoty dle příslušných národních směrnic.
+
+Starší pacienti
+Pro starší pacienty není potřeba dávkování upravovat.
+
+
+
+
+1 / 9
+
+Pediatrická populace
+Použití u pediatrických pacientů a dospívajících je třeba pečlivě zvážit a posoudit v daném klinickém kontextu a poměru přínosu a rizika, které z aplikace vyplývá. Aktivita aplikovaná dětem a dospívajícím vychází z „EANM dosage card“ (2008) a zde uvedeného výpočtu.
+Dle tohoto výpočtu jsou aktivity k aplikaci následující:
+
+
+těl.hmotnost (kg)
+3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+aktivita (MBq) 17
+19
+25
+29
+33
+37
+40
+43
+46
+49
+těl.hmotnost (kg)
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+aktivita (MBq) 52
+54
+57
+59
+62
+64
+66
+68
+71
+73
+těl.hmotnost (kg)
+42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+aktivita (MBq) 75
+77
+79
+81
+83
+85
+89
+93
+96
+98
+
+Způsob podání
+Přípravek obsahuje více dávek.
+Aplikace se provádí intravenózní injekcí. Přípravek musí být před aplikací pacientovi rozředěn (označení radionuklidem).
+Návod k rozředění přípravku před aplikací viz bod 12. Informace k přípravě pacienta před vyšetřením viz bod 4.4.
+
+Akvizice
+Zobrazení má být provedeno za 2 - 3 hodiny po injekční aplikaci. Snímky získané po delší době (za 4 - 24 hodin) či aplikace furosemidu mohou být nezbytné v případě závažnějsí hydronefrózy.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Možné hypersenzitivní či anafylaktické reakce
+V případě výskytu hypersenzitivní či anafylaktické reakce musí být aplikace radiofarmaka okamžitě přerušena a je-li to nutné, musí být nasazena intravenózní léčba takové reakce. Pro zajištění odpovídající léčby musejí být k okamžité dispozici léčivé přípravky a vybavení pro akutní zásah, např. tracheální trubice či prostředky pro podporu dýchacích funkcí.
+Individuální zvážení poměru přínosu a rizika
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší aniž je ovlivněn správný výsledek vyšetření.
+
+Pediatrická populace
+Informace týkající se aplikace pediatrickým pacientům uvádí bod 4.2.
+
+
+
+2 / 9
+
+Efektivní dávka vztažená na jednotku aplikované aktivity (MBq) je vyšší oproti dospělým (viz bod 11), proto je v tomto případě nutné dbát zvýšené pozornosti.
+
+Příprava pacienta
+Pacient má být před zahájením vyšetření dobře hydratován. Po aplikaci přípravku má být dále vyzván k častému močení během následujících několika hodin, za účelem snížení radiační zátěže.
+
+Zvláštní upozornění
+Některé tubulopatie, např. Fanconiho syndrom, a nefronoftíza mohou způsobit špatné zobrazení ledvin (poškozením vazby radiofarmaka v tubulech a exkrecí radiofarmaka močí).
+
+Tento přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce, tj. v podstatě je
+„bez sodíku“.
+Upozornění týkající se pracovního protředí viz bod 6.6.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Ovlivnění acidobazické rovnováhy např. vlivem chloridu amonného či uhličitanu sodného může in vivo změnit valenci komplexů technecium-⁹⁹ᵐTc-DMSA a tím snížit akumulaci komplexu radiofarmaka v kůře ledvin mechanismem zvýšené koncentrace v játrech a zvýšené eliminace močí.
+
+Manitol podporuje dehydrataci, a tím snižuje vychytávání technecium-⁹⁹ᵐTc-DMSA v ledvinách.
+
+ACE inhibitory mohou způsobit reverzibilní poškození tubulárních funkcí vlivem snížení filtračního tlaku v ledvinách v souvislosti se stenózou renální arterie. Tím je sníženo vychytávání technecium-⁹⁹ᵐTc-DMSA v ledvinách.
+
+Pokusy na zvířatech také prokázaly, že chemoterapie (methotrexát, cyklofosfamid, vinkristin) může ovlivnit biodistribuci technecium-⁹⁹ᵐTc-DMSA.
+
+4.6 Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Pokud je nezbytné aplikovat radioaktivní látku ženám ve fertilním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou pokud se neprokáže opak. Kde trvá nejistota ohledně možného těhotenství (vynechání menstruace, menstruace je velmi nepravidelná apod.), musí být zváženy alternativní metodiky bez ionizujícího záření (existují-li takové).
+
+Těhotenství
+Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se nezbytná vyšetření provádějí v případě, že předpokládaný přínos vyšetření významně převáží možná rizika pro matku a plod.
+
+Kojení
+Aplikované technecium-⁹⁹ᵐTc bude vylučováno do mateřského mléka.
+
+
+
+3 / 9
+
+Před aplikací kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Je-li aplikace nezbytná, je nutné přerušit kojení na 12 hodin a mléko, které se v prsu vytvoří, je nutno odsát a znehodnotit.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Technescan DMSA nemá žádný nebo má zanedbatelný vliv na schopnost řídit a obsluhovat stroje.
+
+4.8 Nežádoucí účinky
+
+Údaje o nežádoucích účincích jsou dostupné z jednotlivých hlášení. Hlášené nežádoucí účinky zahrnovaly anafylaktoidní reakce, reakce vegetativního nervového systému a také různé reakce v místě aplikace, které byly lehké či mírné a obvykle odezněly bez léčby či pouze po léčbě symptomu.
+Anafylaktoidní reakce:
+Hlášené anafylaktoidní reakce byly lehké či mírné, přestože výskyt těžších reakcí nelze vyloučit. V případě výskytu anafylaktoidní reakce nesmí být přípravek dále aplikován. Pro zajištění odpovídající léčby musejí být k okamžité dispozici léčivé přípravky a vybavení pro akutní zásah, např. tracheální trubice či prostředky pro podporu dýchacích funkcí.
+
+Reakce vegetativního nervového systému:
+Tyto reakce jsou pravděpodobně způsobeny prováděním vyšetření samotného, zejména u anxiozních pacientů; vliv aplikovaného radiofarmaka však přitom nelze vyloučit.
+
+Reakce v místě aplikace:
+Reakce v místě aplikace se mohou projevit formou vyrážky, otoků, zánětlivé reakce a edémů. Ve většině případů jsou způsobeny extravazální přítomností radiofarmaka. Rozsáhlejší extravazální depozice radiofarmaka může vyžadovat chirurgické řešení.
+
+Nežádoucí účinky dle orgánového výskytu:
+
+Poruchy imunitního systému
+Frekvence není známa*): Anafylaktoidní reakce (např. vyrážka, svědění, kopřivka, zarudnutí kůže, nadměrné pocení, otok očí, zánět spojivek, otok jícnu, otok průdušek, kašel, dýchací obtíže, bolest břicha, zvracení, nevolnost, zvýšené vylučování slin, otok jazyka, hypotenze, návaly horka)
+
+Poruchy nervového systému
+Frekvence není známa*): reakce vegetativního nervového systému (např. synkopa, hypotenze, bolest hlavy a závratě, bledost, tělesná slabost, únava)
+
+Celkové poruchy a reakce v místě aplikace
+Frekvence není známa*): reakce v místě aplikace
+
+*) údaje pocházejí z jednotlivých hlášení
+
+
+
+
+
+4 / 9
+
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší aniž je ovlivněn správný výsledek vyšetření.
+
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných poškození. Vzhledem k tomu, že při maximální doporučené aktivitě 120 MB je efektivní dávka 1,06 mSv, lze očekávat, že pravděpodobnost výskytu těchto účinků je nízká.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9 Předávkování
+V případě předávkování aktivitou technecium-⁹⁹ᵐTc-DMSA je možné snížit absorbovanou dávku zvýšením eliminace radionuklidu z organismu podporou diurézy s častým močením.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: diagnostická radiofarmaka pro vyšetřování ledvin, ATC kód: V09CA02.
+
+V rámci použitého množství sloučenin i aktivity použité pro diagnostické účely nevykazuje technecium-⁹⁹ᵐTc-DMSA žádný farmakodynamický účinek.
+
+5.2 Farmakokinetické vlastnosti
+
+Distribuce a vychytávání orgány
+Technecium-⁹⁹ᵐTc-DMSA se ve zvýšeném množství koncentruje v kůře ledvin, s maximem za 3-6 hodin po i.v. aplikaci, kdy je v ledvinách vychytáno asi 40 - 50 % aktivity. V játrech je přítomno méně než 3 % aplikované aktivity. Nicméně u pacientů se sníženou funkcí ledvin může být množství v játrech významným způsobem zvýšeno a množství v ledvinách sníženo.
+
+Technecium-⁹⁹ᵐTc-DMSA se dále koncetruje v proximální části ledvinných tubulů, pravděpodobně mechanismem tubulární resorpce.
+
+Eliminace
+U pacientů s normální funkcí ledvin je technecium-⁹⁹ᵐTc-DMSA po i.v. aplikaci vylučován z krve podle třífázového modelu.
+
+Poločas
+
+
+
+5 / 9
+
+Efektivní poločas technecium-⁹⁹ᵐTc-DMSA v krvi je asi 1 hodina.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Po 14denním podávání 0,66 mg sukcimeru (DMSA)/kg/den a 0,23 mg SnCl /kg/den nebyly u krys pozorovány toxické účinky. Množství sukcimeru (DMSA) běžně aplikované pro diagnostické účely je 0,14 mg/kg. Přípravek není určen k pravidelné nebo nepřetržité aplikaci.
+
+Studie mutagenity a dlouhodobého karcinogenního účinku nebyly prováděny.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+Dihydrát chloridu cínatého, inositol, kyselina chlorovodíková, hydroxid sodný.
+6.2 Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodech 6.6 a 12.
+6.3 Doba použitelnosti
+
+Doba použitelnosti je 1 rok od data výroby.
+Označený roztok: 4 hodiny ve skleněné lahvičce kitu. Označený roztok uchovávejte při teplotě do 25°C. Chraňte před mrazem a chladem.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Lahvičky s lyofilizátem uchovávejte při teplotě 2 - 8°C. Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+Podmínky uchovávání označeného roztoku jsou uvedeny v bodě 6.3.
+
+Uchovávání musí být provedeno v souladu s příslušnými předpisy pro skladování radioaktivních látek.
+
+6.5 Druh obalu a obsah balení
+
+Balení přípravku Technescan DMSA: 5 lahviček.
+Injekční lékovka o objemu 10 ml k opakovanému odběru, uzavřená pryžovou zátkou a hliníkovou objímkou.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Všeobecná upozornění
+Manipulace  s  radiofarmaky  a  jejich  aplikace  je  možná  pouze  osobami  patřičně kvalifikovanými na pracovištích k tomu určených. Při skladování, přípravě a aplikaci radiofarmak a likvidaci odpadu je nutno dbát jak zásad ochrany zdraví před ionizujícím
+
+
+6 / 9
+
+zářením vyplývajících z příslušných předpisů a vyhlášek, tak pokynů místních orgánů hygienické služby.
+
+Příprava radiofarmak musí být v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP. Je nutné dodržovat zásady aseptické práce a správné výrobní praxe pro radiofarmaka.
+
+Obsah lahvičky Technescan DMSA je výhradně určen k přípravě radiofarmaka a není možné jej přímo aplikovat pacientovi bez předchozí rekonstituce.
+
+Informace k rekonstituci a přípravě radiofarmaka viz bod 12.
+
+V případě jakéhokoliv poškození lahvičky není možné přípravek použít!
+Postup při aplikaci radiofarmaka musí zabezpečit zamezení kontaminace radiofarmakem a nadbytečné ozáření personálu. Nutné je používat vhodné ochranné prostředky a stínění.
+Obsah kitu není radioaktivní a radiofarmakum k aplikaci se připravuje v čase potřeby. Jakmile je však do lahvičky přidáván roztok technecistanu-⁹⁹ᵐTc sodného, je nutné zajistit odpovídající stínění připraveného radiofarmaka.
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků a pod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné národní předpisy pro ochranu zdraví před ionizujícím zářením.
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+
+
+8. REGISTRAČNÍ ČÍSLO
+
+88/563/93-C
+
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+14.9.1993 / 3.8.2011
+
+
+10. DATUM REVIZE TEXTU
+
+15. 5. 2019
+
+
+
+7 / 9
+
+11. DOZIMETRIE
+Technecium-⁹⁹ᵐTc se získává z radionuklidového generátoru ⁹⁹Mo/⁹⁹ᵐTc a přeměňuje se za emise záření gama s energií 140 keV a poločasem 6,02 hodin na technecium-⁹⁹Tc, považované za stabilní (poločas 2,13 x 10⁵ let) .
+
+V následující tabulce jsou uvedeny absorbované dávky podle ICRP 80 :
+
+Absorbované dávky pro ⁹⁹ᵐTc-DMSA na jednotku aplikované aktivity (mGy/MBq):
+
+orgán              dospělý   15 let    10 let    5 let    1 rok
+
+Nadledviny           0,012    0,016    0,024    0,035    0,060
+Stěna moč. měchýře      0,018    0,023    0,029    0,031    0,057
+Povrch kostí          0,005    0,0062   0,0092   0,014    0,026
+Mozek             0,0012   0,0015   0,0025   0,0040   0,0072
+Prsní žlázy           0,0013   0,0018   0,0028   0,0045   0,0084
+Stěna žluč.měchýře       0,0083   0,010    0,014    0,022    0,031
+GIT:
+stěna žaludku          0,0052   0,0063   0,010    0,014    0,020
+tenké střevo           0,0050   0,0064   0,010    0,014    0,024
+
+tlusté střevo           0,0043   0,0055   0,0082   0,012    0,020
+horní část            0,0050   0,0064   0,0095   0,014    0,023
+dolní část            0,0033   0,0043   0,0065   0,0096   0,016
+
+Srdce              0,0030   0,0038   0,0058   0,0086   0,014
+Ledviny             0,18     0,22     0,30     0,43     0,76
+Játra               0,0095   0,012    0,018    0,025    0,041
+Plíce               0,0025   0,0035   0,0052   0,0080   0,015
+Svaly              0,0029   0,0036   0,0052   0,0077   0,014
+
+Jícen              0,0017   0,0023   0,0034   0,0054   0,0094
+Vaječníky            0,0035   0,0047   0,0070   0,011    0,019
+Slinivka břišní         0,0090   0,011    0,016    0,023    0,037
+Červená kostní dřeň      0,0039   0,0047   0,0068   0,0090   0,014
+Pokožka             0,0015   0,0018   0,0029   0,0045   0,0085
+
+Slezina             0,013    0,017    0,026    0,038    0,061
+Varlata             0,0018   0,0024   0,0037   0,0053   0,010
+Brzlík              0,0017   0,0023   0,0034   0,0054   0,0094
+Štítná žláza           0,0015   0,0019   0,0031   0,0052   0,0094
+Děloha             0,0045   0,0056   0,0083   0,011    0,019
+
+Ostatní tkáně          0,0029   0,0037   0,0052   0,0077   0,014
+
+Efektivní dávka        0,0088   0,011    0,015    0,021    0,037 (mSv/MBq)
+
+
+
+8 / 9
+
+Efektivní dávka po podání (maximální doporučené) aktivity 120 MBq je pro dospělého člověka o hmotnosti 70 kg asi 1,06 mSv.
+
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+V případě jakéhokoliv poškození lahvičky není možné přípravek použít!
+
+Pokyny ke značení
+Za aseptických podmínek přidejte do lahvičky Technescan DMSA požadované množství aktivity neředěného roztoku technecistanu-⁹⁹ᵐTc sodného (obsahující 1,2 až 3,7 GBq) v objemu 5 ml a třepejte po dobu jedné minuty.
+Po 15 minutách inkubace při obyčejné teplotě je roztok připraven k ředění nebo k aplikaci. Přípravek může být zředěn čerstvým roztokem 0,9% chloridu sodného. Nesmí být umožněn přístup vzduchu do lahvičky! Nepoužívejte odvzdušňovací jehlu, protože obsah lahvičky je chráněn dusíkovou atmosférou: po přidání požadovaného objemu technecistanu sodného (Tc- 99m) vyjměte ekvivalentní objem dusíku, aniž byste vyjímali jehlu, aby se zamezilo zvýšení tlaku v lahvičce. Připravené radiofarmakum je bezbarvý, čirý až slabě opalizující roztok.
+Kontrola kvality
+Kontrola kvality se provádí metodou TLC - silikagel na skleněných vláknech, viz Evropský lékopis článek 643.
+Na start přidejte asi 5 - 10 µl vzorku a vyvíjejte v délce 5 - 10 cm v methylethylketonu R. Technecistanový ion se pohybuje k čelu, komplex technecium-sukcimer zůstává na startu.
+
+Požadované hodnoty: volný technecistan ≤ 2 %
+Celkové množství radioaktivity na startu odpovídá komplexu technecium-sukcimer: ≥ 95 %. Účinnost značení bývá obvykle vyšší než 98 %.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 / 9

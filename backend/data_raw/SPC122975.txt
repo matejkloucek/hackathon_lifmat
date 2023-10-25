@@ -1,0 +1,471 @@
+sp.zn.sukls331370/2017
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Alkeran 50 mg prášek a rozpouštědlo pro injekční/infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje melphalanum 50 mg.
+Pomocné látky se známým účinkem: sodík, ethanol, propylenglykol
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Prášek a rozpouštědlo pro injekční/infuzní roztok Popis: bílý až téměř bílý prášek
+Rozpouštědlo: čirý bezbarvý roztok
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Injekční přípravek Alkeran aplikovaný arteriální perfuzí je indikován v terapii:
+- lokalizovaného maligního melanomu končetin;
+- lokalizovaného sarkomu měkkých tkání končetin.
+Injekční přípravek Alkeran aplikovaný intravenózně v konvenčním dávkování je indikován
+v terapii:
+- mnohočetného myelomu;
+Injekční přípravek Alkeran aplikovaný intravenózně ve vysoké dávce je indikován v terapii:
+- mnohočetného myelomu (s autologní transplantací kostní dřeně nebo bez ní);
+- pokročilého neuroblastomu v dětském věku;
+4.2  Dávkování a způsob podání
+
+Obecné zásady
+Alkeran je cytotoxické léčivo patřící do skupiny alkylačních činidel. Předepisovat ho mají
+pouze lékaři se zkušenostmi s podáváním cytostatik.
+Protože Alkeran působí myelosupresivně, je nezbytné během terapie často kontrolovat krevní
+obraz a v případě nutnosti přerušit nebo upravit dávkování (viz bod 4.4).
+Ve všech indikacích se přípravek používá v monoterapii nebo v kombinované terapii a dalšími
+cytostatiky.
+
+Dávkování
+
+Mnohočetný myelom
+Přípravek Alkeran se aplikuje intermitentním způsobem, samotný nebo v kombinaci s jinými cytotoxickými léčivy. Byly použity dávky v rozmezí od 8 do 30 mg/m² tělesného povrchu, podávané v intervalech 2 až 6 týdnů. Řada léčebných režimů kromě toho zahrnovala aplikaci prednisonu. O přesných podrobnostech léčebných protokolů je třeba se informovat v odborné literatuře.
+
+
+1/12
+
+Při použití v monoterapii je typickým intravenózním dávkovacím schématem podání 0,4 mg/kg tělesné hmotnosti (16 mg/m² tělesného povrchu), opakované ve vhodných intervalech (např. každé 4 týdny), jejichž délka ale musí stačit k zotavení krevního obrazu v periferní krvi.
+
+Vysokodávkové režimy obvykle využívají jednorázovou i.v. dávku 100 až 200 mg/m² tělesného povrchu (přibližně 2,5 až 5,0 mg/kg tělesné hmotnosti), ovšem po dávkách vyšších než 140 mg/m² tělesného povrchu je nezbytná autologní transplantace kostní dřeně. U pacientů s renální dysfunkcí se má dávka snížit o 50 % (viz Porucha funkce ledvin).
+
+S ohledem na těžkou myelosupresi vyvolávanou vysokodávkovou injekcí přípravku Alkeran má být tento způsob léčby vyhrazen specializovaným pracovištím, vybaveným odpovídajícím zařízením, a prováděn jen zkušenými lékaři (viz bod 4.4).
+
+Maligní melanom
+Hypertermická regionální perfuze přípravkem Alkeran byla použita jako adjuvantní léčba k chirurgické terapii maligního melanomu v časném stadiu a jako paliativní léčba pokročilé, ale lokalizované formy této nemoci.
+
+O podrobnostech perfuzní techniky a o použitém dávkování je třeba se informovat v odborné literatuře.
+Typické dávkovací rozmezí při perfuzi horní končetiny se pohybuje mezi 0,6 – 1,0 mg/kg
+tělesné hmotnosti a při perfuzi dolní končetiny mezi 0,8-1,5 mg/kg tělesné hmotnosti.
+
+Sarkom měkkých tkání
+Hypertermická regionální perfuze přípravkem Alkeran byla použita v léčení všech stadií lokalizovaného sarkomu měkkých tkání, obvykle v kombinaci s chirurgickou léčbou.
+Alkeran byl v této indikaci podáván také v kombinaci s aktinomycinem D; o podrobnostech
+dávkovacích režimů je třeba se informovat v odborné literatuře.
+Typické dávkovací rozmezí při perfuzi horní končetiny se pohybuje mezi 0,6 – 1,0 mg/kg
+tělesné hmotnosti a při perfuzi dolní končetiny mezi 1,0 -1,4 mg/kg tělesné hmotnosti
+Pokročilý neuroblastom v dětském věku
+Byly použity dávky 100 až 240 mg/m² tělesného povrchu (někdy rozdělené do stejně velkých dílčích dávek, podaných ve třech po sobě jdoucích dnech) společně s autologní transplantací kostní dřeně, v některých případech ještě v kombinaci s radioterapií a/nebo s jinými cytotoxickými léčivy.
+Parenterální podání
+S výjimkou případů, kdy je indikována regionální arteriální perfuze, je přípravek Alkeran určen
+pouze k intravenónímu podání.
+
+Intravenózní podání injekčního roztoku přípravku Alkeran se doporučuje realizovat jeho pomalým vstříknutím do rychle běžící i.v. infuze cestou očištěného injekčního konektoru („portu“).
+Není-li přímé vstříknutí do rychle běžící infuze vhodné, lze injekční roztok podat po jeho předchozím zředění v nosném infuzním roztoku intravenózní infuzí z infuzního vaku.
+
+Injekční přípravek Alkeran není kompatibilní s infuzními roztoky obsahujícími glukózu, a proto se doporučuje, aby se při jeho aplikaci používal POUZE fyziologický roztok (0,9% infuzní roztok chloridu sodného).
+Jestliže se připravený injekční roztok přípravku Alkeran dále ředí mísením s infuzním roztokem, klesá jeho stabilita, přičemž rychlost degradace se rychle zvyšuje se stoupající
+
+
+2/12
+
+teplotou. Provádí-li se aplikace při pokojové teplotě (přibližně 25 °C), neměla by od přípravy (rekonstituce) injekčního roztoku do dokončení infuzního podání uplynout doba delší než 1,5 hodiny.
+
+Je nutné věnovat zvláštní péči tomu, aby se zabránilo paravenóznímu podání. V případě špatné přístupnosti periferních žil je třeba zvážit možnost podání centrálním žilním katetrem.
+Vysoké dávky přípravku Alkeran - ať ve spojitosti s autologní transplantací kostní dřeně nebo bez ní - se doporučuje podávat centrálním žilním katetrem.
+Při regionální arteriální perfuzi je třeba postupovat podle podrobného návodu v odborné literatuře.
+Pediatrická populace
+Vysoké dávky injekčního přípravku Alkeran ve spojení s autologní transplantací kostní dřeně byly použity u dětí s neuroblastomem; v této situaci se používají dávkovací schémata vycházející z plochy tělesného povrchu. (Viz výše Pokročilý neuroblastom v dětském věku.)
+Alkeran v konvenčním dávkovém rozmezí je jen zřídkakdy indikován u dětí. Přesné pokyny
+pro dávkování u dětí nelze poskytnout.
+
+Starší pacienti
+Třebaže Alkeran v konvenčním dávkování bývá často aplikován starším pacientům, specifické informace týkající se jeho podávání této skupině pacientů nejsou k dispozici.
+Zkušenosti s podáváním přípravku Alkeran u starších pacientů jsou omezené. Před aplikací vysoké dávky injekčního přípravku Alkeran starším pacientům je třeba věnovat pozornost zajištění adekvátního celkového stavu nemocného a dostatečných funkcí orgánů. Při hodnocení farmakokinetiky melfalanu nebyl prokázán vztah mezi věkem pacienta a clearance melfalanu nebo terminálním eliminačním poločasem melfalanu. Na základě omezených údajů, které jsou k dispozici, není u starších pacientů dostávajících melfalan v intravenózní formě nutná žádná specifická úprava dávkování a je doporučena běžná současná praxe úpravy dávkování na základě celkového stavu pacienta a podle stupně vyvolané myelosuprese.
+
+Porucha funkce ledvin
+Při renální dysfunkci klesá clearance melfalanu, i když je sama o sobě variabilní (viz také
+bod 4.4.).
+Používá-li se přípravek Alkeran v konvenčním i.v. dávkování (od 8 do 40 mg/m² tělesného povrchu), doporučuje se u pacientů se středně těžkou až těžkou renální dysfunkcí snížit úvodní dávku o 50 % a další dávkování stanovit podle stupně myelosuprese.
+
+U vysokých i.v. dávek přípravku Alkeran (od 100 do 240 mg/m² tělesného povrchu) závisí potřeba redukce dávky na stupni renální dysfunkce, na tom, zda bude prováděna autologní transplantace kmenových buněk kostní dřeně, a na terapeutických požadavcích. Jako vodítko lze uvést, že při středně těžké až těžké renální dysfunkci {při hodnotě clearance ⁵¹Cr-EDTA (chromii[⁵¹Cr] edetas) od 50 do 30 ml/min} bývá obvyklé snížení dávky o 50 %. Nezbytná je rovněž adekvátní hydratace a forsírovaná diuréza. U pacientů s ještě těžší renální dysfunkcí
+{při hodnotě clearance ⁵¹Cr-EDTA (chromii[⁵¹Cr] edetas) nižší než 30 ml/min} se vysoké dávky přípravku Alkeran nedoporučují.
+Způsob podání
+
+Injekce/infuze
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+
+
+3/12
+
+4.3  Kontraindikace
+
+•  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou
+v bodě 6.1.
+•  Kojení.
+4.4  Zvláštní upozornění a opatření pro použití
+Přípravek Alkeran je účinné cytotoxické léčivo určené k použití pod dozorem lékařů majících zkušenosti s podáváním takovýchto léčiv.
+
+Imunizace živými vakcínami může u imunokomprimovaných pacientů potenciálně způsobit infekci. Imunizace živými vakcínami se proto u pacientů léčených přípravkem Alkeran nedoporučuje.
+Kdyby byl injekční roztok Alkeran podán paravenózně, mohl by způsobit lokální poškození
+tkáně, a proto se nemá podávat přímou injekcí do periferní žíly.
+Aplikace vysokých dávek injekčního přípravku Alkeran - vzhledem k rizikům, jež obnáší, a k vysokým požadavkům na podpůrnou péči - má být vyhrazena specializovaným pracovištím, vybaveným odpovídajícím zařízením, a mají ji provádět jen zkušení lékaři.
+
+U pacientů, jimž se podává vysoká dávka injekčního přípravku Alkeran, se má zvážit profylaktická aplikace antibiotik a podle potřeby podání krevních produktů. V období bezprostředně následujícím po podání vysoké dávky tohoto přípravku se má udržovat vysoká diuréza vydatnou hydratací a forsírovanou diurézou.
+Před podáním vysoké dávky injekčního přípravku Alkeran je třeba věnovat pozornost zajištění adekvátního celkového stavu nemocného a dostatečných funkcí orgánů.
+
+Tromboembolické příhody
+Léčba melfalanem v kombinaci s lenalidomidem a prednisonem, nebo thalidomidem a prednisonem,  nebo  dexamethasonem  je  spojena  se  zvýšeným  rizikem  žilního tromboembolismu, tromboprofylaxe má být podávána nejméně po dobu prvních 5 měsíců léčby, a to zejména u pacientů s dalšími rizikovými trombotickými faktory. Rozhodnutí o užívání antitrombotických profylaktických opatření by mělo následovat po pečlivém zhodnocení skrytých rizikových faktorů u jednotlivých pacientů (viz body 4.4 a 4.8).
+
+Pokud u pacienta dojde k jakékoli tromboembolické příhodě, je nutné léčbu přerušit a zahájit standardní antikoagulační léčbu. Po stabilizaci pacienta na antikoagulační léčbě a zvládnutí případných komplikací tromboembolické příhody může být znovu zahájeno podávání melfalanu v kombinaci s lenalidomidem a prednisonem, nebo thalidomidem a prednisonem, nebo dexamethasonem v původní dávce a léčebném režimu. V průběhu léčby melfalanem má pacient pokračovat v antikoagulační léčbě.
+
+Sledování
+Protože Alkeran působí silně myelosupresivně, je nezbytné provádět časté pravidelné kontroly krevního obrazu, aby se předešlo možnosti nadměrné myelosuprese a riziku ireverzibilní aplazie kostní dřeně.
+
+Pokles počtu krevních elementů může pokračovat i po zastavení aplikace přípravku Alkeran, a proto je jeho aplikaci nutné dočasně přerušit hned po zjištění prvních známek abnormálně velkého poklesu počtu leukocytů nebo trombocytů.
+
+
+
+4/12
+
+U pacientů, kteří nedávno podstoupili jinou chemoterapii nebo radioterapii, je při použití přípravku Alkeran nutná zvláštní opatrnost s ohledem na zvýšenou myelotoxicitu.
+
+Porucha funkce ledvin
+U pacientů s renální dysfunkcí, kteří mohou mít i uremickou supresi kostní dřeně, může být snížena clearance melfalanu, což si může vynutit redukci dávek přípravku Alkeran (viz
+bod 4.2.) Tyto pacienty je nutné pečlivě sledovat.
+
+U pacientů s mnohočetným myelomem a poruchou funkce ledvin byl v počátečních stadiích terapie melfalanem pozorován přechodný významný vzestup koncentrace močoviny v krvi.
+Mutagenita
+U pacientů léčených tímto přípravkem byly pozorovány chromozomální aberace.
+
+Kancerogenita (druhá primární malignita)
+‒  Akutní myeloidní leukémie (AML) a myelodysplastické syndromy (MDS)
+U melfalanu, stejně jako ostatních alkylačních činidel, byly hlášeny leukemogenní účinky, zejména u starších pacientů po dlouhodobé kombinované terapii nebo radioterapii. Po melfalanové  terapii  amyloidózy,  maligního  melanomu,  mnohočetného  myelomu, makroglobulinémie, syndromu chladových aglutininů a ovariálního karcinomu byly hlášeny případy akutní leukemie.
+Porovnáním souboru pacientek s ovariálním karcinomem léčených alkylačními léčivy se souborem pacientek se stejnou diagnózou, které ale nebyly léčeny tímto typem léčiv, bylo zjištěno, že použití alkylačních léčiv (včetně melfalanu) významně zvýšilo výskyt akutní leukemie.
+
+Před zahájením léčby musí být leukemogenní rizika (AML a MDS) v rovnováze
+s potenciálním terapeutickým přínosem, a to zejména v případě, zvažuje-li se užívání melfalanu v kombinaci s thalidomidem nebo lenalidomidem a prednisonem, neboť bylo prokázáno, že tyto kombinace zvyšují leukemogenní riziko.
+‒  Solidní tumory
+Použití alkylačních látek bylo spojeno s vývojem druhé primární malignity (DPM). Zejména užívání melfalanu v kombinaci s lenalidomidem a prednisonem a v menší míře
+s thalidomidem a prednisonem bylo spojeno se zvýšeným rizikem solidní DPM u starších pacientů s nově diagnostikovaným mnohočetným myelomem.
+Charakteristika pacientů (např. věk, etnická příslušnost), primární indikace a způsoby léčby (např. radiační terapie, transplantace), stejně jako rizikové faktory životního stylu (např.
+užívání tabáku) musí být zhodnoceny před podáním melfalanu.
+
+Antikoncepce
+Vzhledem ke zvýšenému riziku žilního tromboembolismu u pacientů podstupujících léčbu melfalanem v kombinaci s lenalidomidem a prednisonem nebo v kombinaci s thalidomidem a prednisonem nebo dexamethasonem se nedoporučuje užívání  kombinované perorální antikoncepce. Jestliže pacientka v současné době užívá kombinovanou perorální antikoncepci, měla by přejít na jinou vhodnou antikoncepci (např. antikoncepci obsahující výhradně progesteron, který inhibuje ovulaci (desogestrel), bariérové metody, atd.). Riziko žilní tromboembolie trvá po dobu 4-6 týdnů po vysazení kombinované perorální antikoncepce.
+
+Tento léčivý přípravek obsahuje 2,32 mmol (53,4 mg) sodíku v injekční lahvičce. Nutno vzít v
+úvahu u pacientů na dietě s nízkým obsahem sodíku.
+
+
+
+5/12
+
+Tento léčivý přípravek obsahuje 5 % obj. alkoholu, což odpovídá 10 ml piva nebo 4,2 ml vína. Je škodlivý pro alkoholiky. Je nutno vzít v úvahu u těhotných a kojících žen, dětí a vysoce rizikových skupin, jako jsou pacienti s jaterním onemocněním nebo epilepsií.
+
+Tento léčivý přípravek obsahuje propylenglykol. Může způsobit příznaky opilosti.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Imunizace živými vakcínami
+Imunizace živými vakcínami se u imunokomprimovaných pacientů nedoporučuje (viz bod 4.4).
+
+Kyseliny nalidixové
+Souběžné podání kyseliny nalidixové s vysokou i.v. dávkou melfalanu bylo příčinou úmrtí u
+pediatrické populace následkem hemoragické enterokolitidy.
+
+Busulfan
+U dětské populace bylo u režimu busulfan-melfalan hlášeno, že podávání melfalanu méně než 24 hodin po poslední perorální dávce busulfanu může mít vliv na rozvoj toxicit.
+Cyklosporin
+U pacientů, kteří podstoupili transplantaci kostní dřeně podmíněnou vysokou i.v. dávkou melfalanu a jimž byl poté podán cyklosporin k prevenci reakce štěpu proti hostiteli, bylo popsáno narušení renální funkce.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Jestliže je některý z partnerů léčen přípravkem Alkeran, je třeba – stejně jako při každé jiné cytotoxické terapii – zajistit účinnou antikoncepci.
+
+V průběhu těhotenství, zejména v prvním trimestru, je třeba se, pokud možno, vyhnout podávání melfalanu. V každém jednotlivém případě je nutné zvážit poměr mezi potenciálním ohrožením plodu a očekávaným přínosem pro matku.
+Teratogenita
+Stejně jako ostatní cytotoxická léčiva je přípravek Alkeran potenciálně teratogenní. Melfalan je mutagenní a může způsobit poškození genetické informace v lidských spermiích a způsobit tak vrozené vady u potomků pacientů, kteří jím byli léčeni (viz bod 5.3).
+Kojení
+Matky léčené přípravkem Alkeran nesmí kojit.
+
+Fertilita
+U premenopauzálních žen melfalan způsobuje supresi ovariální funkce, což má u významného počtu léčených pacientek za následek amenoreu.
+
+V několika studiích na zvířatech bylo zjištěno, že melfalan může mít nežádoucí účinky na spermatogenezi. Proto existuje možnost, že Alkeran způsobí u pacientů mužského pohlaví přechodnou nebo trvalou sterilitu. Doporučuje se, aby muži léčení melfalanem nepočali dítě během léčby a po dobu až 6 měsíců po jejím skončení a aby před zahájením léčby konzultovali možnost konzervace spermií, jelikož existuje možnost nezvratné neplodnosti následkem léčby melfalanem.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+
+6/12
+
+Při používání tohoto přípravku není známo negativní ovlivnění činnosti vyžadující zvýšenou pozornost, schopnost soustředění a koordinaci pohybů.
+
+4.8  Nežádoucí účinky
+
+V současnosti nejsou k dispozici aktuální klinické informace pro tento léčivý přípravek, které by umožňovaly stanovení četnosti nežádoucích účinků. Frekvence nežádoucích účinků se může lišit v závislosti na indikaci a užívané dávce a také v závislosti na kombinaci s dalšími léčivy.
+Nežádoucí účinky jsou seřazeny dle četnosti na základě následující klasifikace:
+Velmi časté (≥1/10), časté (≥1/100, <1/10), méně časté(≥1/1000, <1/100), vzácné (≥1/10000,
+<1/1000), velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit).
+
+Třídy orgánových systémů
+Novotvary benigní, maligní a
+blíže neurčené (zahrnující cysty
+a polypy)
+Poruchy krve a lymfatického systému
+Poruchy imunitního systému Respirační, hrudní a
+mediastinální poruchy Gastrointestinální poruchy
+
+
+Poruchy jater a žlučových cest
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně³
+
+Poruchy reprodukčního systému
+a prsu
+Cévní poruchy
+Celkové poruchy a reakce
+v místě aplikace
+Vyšetření (po izolované perfuzi končetiny)
+Frekvence
+Není známo
+
+
+Velmi časté
+
+Vzácné Vzácné
+
+Vzácné Velmi časté
+Vzácné Vzácné
+
+
+Velmi časté Časté
+Vzácné
+
+Velmi časté Časté
+Není známo Není známo
+Není známo
+Velmi časté
+
+Velmi časté
+Nežádoucí účinky
+Sekundární akutní myeloidní leukémie a
+myelodysplastický syndrom (viz bod 4.4)
+
+Útlum kostní dřeně, který vede k leukopenii, trombocytopenii a anémii
+Hemolytická anémie
+Hypersenzitivita¹ (viz Poruchy kůže a podkožní tkáně)
+Intersticiální plicní onemocnění a plicní fibróza (včetně fatálních případů)
+Nauzea, zvracení², průjem², stomatitida² při vysokých dávkách
+Stomatitida² při konvenčních dávkách
+Jaterní onemocnění (změny funkčních jaterních testů až klinická manifestace jako hepatitida a žloutenka); venookluzivní onemocnění po vysokých dávkách Alopecie při vysokých dávkách
+Alopecie při konvenčních dávkách
+Makulopapulózní exantém a pruritus (viz Poruchy
+imunitního systému)
+Svalová atrofie, svalová fibróza, myalgie
+Kompartmentový syndrom
+Svalová nekróza, rabdomyolýza
+Azoospermie, amenorea
+
+Hluboká žilní trombóza a plicní embolie⁵
+Subjektivní a přechodný pocit horka a/nebo parestézie v místě aplikace; horečka
+Zvýšení hladiny kreatinfosfokinázy v krvi, zvýšená
+hladina močoviny v krvi⁴
+1.  Po úvodní i po opakované aplikaci melfalanu, zejména po jeho i.v. podání, byly ojediněle hlášeny alergické reakce jako kopřivka, edém, exantémy a anafylaktický šok. V souvislosti s těmito nežádoucími účinky byla vzácně hlášena i srdeční zástava.
+2.  Výskyt průjmu, zvracení nebo stomatitidy představuje toxicitu limitující dávku u pacientů, kterým je podána vysoká i.v. dávka přípravku Alkeran v kombinaci s autologní transplantací kostní dřeně. Zdá se, že předléčení cyklofosfamidem snižuje závažnost gastrointestinálních poruch vyvolaných vysokými dávkami přípravku Alkeran.
+3. Pouze s infuzí melfalanu po podání regionální perfuze v končetině.
+
+
+7/12
+
+4. Dočasné významné zvýšení močoviny v krvi bylo pozorováno v časných stadiích léčby
+melfalanem u pacientů s mnohočetným myelomem s poruchou funkce ledvin.
+5.  Klinicky významné nežádoucí účinky spojené s používáním melfalanu v kombinaci s thalidomidem a prednisonem, nebo dexamethasonem a v menší míře u melfalanu s lenalidomidem a prednisonem patří: hluboká žilní trombóza a plicní embolie (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky prostřednictvím:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Příznaky a známky
+Bezprostředními příznaky akutního předávkování jsou nauzea a vomitus. Může následovat poškození sliznice gastrointestinálního traktu. Po předávkování byla hlášena diarea, někdy hemoragická. Hlavním toxickým příznakem je útlum kostní dřeně, který vede k leukopenii, trombocytopenii a anémii.
+Léčba
+V případě potřeby se mají zahájit obecná podpůrná opatření spolu s vhodnými transfuzemi krve a trombocytů a zvážit hospitalizaci a aplikaci antibiotik a hematopoetických růstových faktorů.
+
+Specifické antidotum neexistuje. Pravidelně a v krátkých intervalech je nutné pečlivě sledovat krevní obraz až do jeho zotavení, nejméně však po dobu 4 týdnů po předávkování.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Cytostatika a imunomodulační léčiva, alkylační látky, analogy dusíkatého yperitu.
+ATC kód: L01AA03
+
+Mechanismus účinku
+
+Melfalan je bifunkční alkylační činidlo, to znamená, že ve své molekule obsahuje dvě 2- chlorethylové skupiny, z nichž každá je schopna tvorby reaktivního intermediátu typu karboniového iontu. Vzhledem k tomu má melfalan schopnost alkylovat (navázáním alkylové skupiny na dusíkový atom v poloze 7 guaninu) dvě guaninové báze v DNA. Je-li první alkylovaný guanin součástí jednoho řetězce DNA a druhý alkylovaný guanin součástí sousedního řetězce DNA, vytvoří se mezi oběma řetězci DNA pevná příčná kovalentní vazba, která zabrání oddělení řetězců při replikaci DNA, čímž se zastaví buněčné dělení.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+
+
+
+8/12
+
+Absorpce perorálně užívaného melfalanu (čas do prvního výskytu léčiva v plazmě i vrcholová plazmatická koncentrace) je velmi variabilní.
+Ve studiích pro stanovení absolutní biologické dostupnosti melfalanu se průměrná absolutní biologická dostupnost pohybovala v rozmezí 56 až 85 %.
+Namísto perorálního podání lze podávat melfalan intravenózně, čímž se při myeloablativní léčbě lze vyhnout absorpční variabilitě.
+Distribuce
+
+Melfalan je vázán na proteiny krevní plazmy v rozmezí 69 – 78 %. V rozmezí koncentrací, které jsou běžně dosaženy při standardním dávkování, je vazba na proteiny lineární, při koncentracích dosažených při vysokodávkové terapii je však vazba na proteiny závislá na dosažené koncentraci. Nejvýznamnějším vazebným proteinem je sérový albumin (55 až 60 %) a kyselý alfa1 glykoprotein (20 %). Při studiích vazebné kapacity melfalanu byla navíc prokázána  existence  ireverzibilní  komponenty  odpovídající  za  alkylační  reakci s plazmatickými proteiny.
+Po podání dvouminutové infuze obsahující dávky v rozmezí od 5 do 23 mg/m2 tělesného povrchu  (přibližně  0,1 až  0,6 mg/kg  tělesné  hmotnosti)  10 pacientkám  s ovariálním karcinomem nebo pacientům s mnohočetným myelomem byla průměrná hodnota distribučního objemu v ustáleném stavu 29,1 ± 13,6 litru a pro centrální kompartment 12,2 ± 6,5 litru.
+
+U 28 pacientů s různými maligními onemocněními po podání 2minutové až 20minutové infuze obsahující dávku v rozmezí od 70 do 200 mg/m² tělesného povrchu byla průměrná hodnota distribučního objemu v ustáleném stavu 40,2 ± 18,3 litru a pro centrální kompartment 18,2 ± 11,7 litru.
+
+Po hypertermní (39 °C) perfuzi dolní končetiny melfalanem v dávce 1,75 mg/kg tělesné hmotnosti u 11 pacientů s pokročilým maligním melanomem byla průměrná hodnota distribučního objemu v ustáleném stavu 2,87 ± 0,8 litru a pro centrální kompartment 1,01 ± 0,28 litru.
+
+Melfalan prochází hematoencefalickou bariérou jen v omezené míře. Při mnoha vyšetřeních nebyly v mozkomíšním moku nalezeny měřitelné hladiny melfalanu. V jedné studii u pediatrické populace, které byla podávána vysokodávková terapie, byly nalezeny nízké koncentrace melfalanu (přibližně 10 % hodnot stanovených v plazmě).
+
+Biotransformace
+
+Údaje testů in vivo a in vitro naznačují, že hlavní determinantou biologického poločasu
+rozpadu léku u člověka je spíše spontánní degradace než enzymatický metabolismus. Eliminace
+U 8 pacientů, jimž byla podána jednorázová i.v. bolusová dávka 0,5 až 0,6 mg/kg tělesné hmotnosti, byly zjištěny hodnoty iniciálního poločasu 7,7 ± 3,3 minuty a terminálního poločasu 108 ± 20,8 minuty. Po injekci melfalanu byly v plazmě pacientů detegovány metabolity monohydroxymelfalan a dihydroxymelfalan, jejichž maximální plazmatické koncentrace se vyskytovaly přibližně po 60 (monohydroxymelfalan) a 105 (dihydroxymelfalan) minutách. Podobný poločas, 126 ± 6 minut, byl pozorován, jestliže byl melfalan přidán k séru nemocných in vitro (při teplotě 37 °C). To nasvědčuje tomu, že hlavním faktorem určujícím poločas u člověka je spíše spontánní degradace než enzymová metabolizace.
+
+
+
+
+9/12
+
+U 10 nemocných s ovariálním karcinomem nebo mnohočetným myelomem byly po podání dvouminutové i.v. infuze obsahující dávku v rozmezí od 5 do 23 mg/m² tělesného povrchu (přibližně 0,1 až 0,6 mg/kg tělesné hmotnosti) zjištěny hodnoty iniciálního poločasu 8,1 ± 6,6 minuty a terminálního poločasu 76,9 ± 40,7 minuty. Průměrná clearance činila 342,7 ± 96,8 ml/min.
+
+Po i.v. podání vysokých dávek melfalanu (140 mg/m² tělesného povrchu) ve spojení s forsírovanou diurézou byly u 15 dětí a 11 dospělých zjištěny průměrné hodnoty iniciálního poločasu 6,5 ± 3,6 minuty a terminálního poločasu 41,4 ± 16,5 minuty. U 28 pacientů s různými maligními onemocněními byly po podání dvouminutové až dvacetiminutové i.v. infuze obsahující dávku v rozmezí od 70 do 200 mg/m² tělesného povrchu zjištěny průměrné hodnoty iniciálního poločasu 8,8 ± 6,6 minuty a terminálního poločasu 73,1 ± 45,9 minuty. Průměrná clearance činila 564,6 ± 159,1 ml/min.
+
+Po hypertermní (39 °C) perfuzi dolní končetiny dávkou 1,75 mg/kg tělesné hmotnosti byly u
+11 pacientů s pokročilým maligním melanomem zjištěny průměrné hodnoty iniciálního poločasu 3,6 ± 1,5 minuty a terminálního poločasu 46,5 ± 17,2 minuty. Průměrná clearance činila 55,0 ± 9,4 ml/min.
+
+V prospektivní randomizované studii bylo u pacientů po injekci vysoké dávky přípravku Alkeran prokázáno významně delší přežívání bez nemoci (disease-free survival) v porovnání s pacienty bez další léčby.
+
+Zvláštní skupiny pacientů
+Porucha funkce ledvin
+Clearance melfalanu může být snížena při renálním poškození (viz body 4.2. a 4.4.).
+
+Starší pacienti
+Při hodnocení farmakokinetiky melfalanu nebyl prokázán vztah mezi věkem pacienta a clearance melfalanu nebo terminálním eliminačním poločasem melfalanu (viz bod 4.2.).
+5.3  Předklinické údaje vztahující se k bezpečnosti přípravku
+
+Genotoxicita
+Melfalan je genotoxický a mutagenní.
+Reprodukční toxicita
+Melfalan podávaný intraperitoneálně v dávce 7,5 mg/kg vykazoval u samců myší reprodukční účinky, které lze připsat indukovaným dominantními letálním mutacím a dědičným translokacím v post-meiotických zárodečných buňkách, zejména ve střední až pozdní fázi spermií. Tyto nálezy poukazují na možnost přenosu defektní genetické mutace na potomka.
+
+U samic myší, které dostaly jednu intraperitoneální dávku 7,5 mg/kg melfalanu, došlo
+k výraznému poklesu implantací, snížení počtu živých embryí a k zvýšení resorpce plodů s následným snížením ve velikosti vrhu.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+kyselina chlorovodíková 35% povidon
+
+
+
+10/12
+
+Rozpouštědlo: dihydrát citronanu sodného, propylenglykol, ethanol 96%, voda na injekci
+
+6.2  Inkompatibility
+
+Injekční přípravek Alkeran není kompatibilní s infuzními roztoky obsahujícími glukózu.
+6.3  Doba použitelnosti
+
+3 roky.
+Po naředění ihned spotřebovat.
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 30 °C. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a obsah balení
+Zapertlovaná lahvička z bezbarvého skla, pryžová zátka, hliníkový uzávěr, plastový kryt, tvarovaná folie, krabička.
+Velikost balení: 1 x 50 mg + 10 ml solvens.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Bezpečná manipulace
+Přípravek Alkeran má k podání připravovat lékárník dobře obeznámený s vlastnostmi tohoto
+přípravku a s požadavky na bezpečné zacházení s ním, nebo má mít nad přípravou přímý dozor.
+Přípravek Alkeran má být připravován k aplikaci v aseptické jednotce lékárny, vybavené vhodným boxem s vertikálním laminárním prouděním vzduchu. Tam, kde toto vybavení není k dispozici, se má injekce Alkeran připravovat ve zvláštní místnosti (přípravně) lůžkového nebo ambulantního oddělení.
+
+Osoby, které injekce připravují k použití nebo s nimi manipulují, při tom musejí mít nasazeny tyto ochranné prostředky:
+- rukavice na jedno použití, zhotovené z chirurgického latexu nebo z polyvinylchloridu vhodné kvality (pryžové rukavice nejsou dostačující);
+- chirurgickou obličejovou masku vhodné kvality;
+- ochranné brýle, které je po použití nutné důkladně umýt vodou;
+- zástěru na jedno použití.
+V aseptických zařízeních se vyžaduje použití dalších vhodných pomůcek.
+
+Dojde-li ke kontaminaci okolního prostředí (rozsypáním nebo rozlitím byť i malého množství přípravku), je nutné rozsypaný nebo rozlitý přípravek neprodleně setřít (osoba, která to provádí, při tom musí mít vhodný ochranný oděv) zvlhčenými papírovými ručníky (osuškami) na jedno použití a ty po použití odhodit do sběrného obalu (pytle nebo pevné nádoby) určeného pro vysoce nebezpečný odpad a zlikvidovat v souladu s platnými místními právními předpisy. Kontaminované plochy mají být umyty velkým množstvím vody.
+Přijde-li injekční roztok do styku s kůží, je nutné zasažené místo neprodleně důkladně umýt mýdlem a velkým množstvím studené vody.
+
+Přijde-li Alkeran do styku s očima, je OKAMŽITĚ nutné provést výplach očí sterilním izotonickým roztokem chloridu sodného a neprodleně vyhledat (přivolat) lékařskou pomoc.
+
+
+11/12
+
+Není-li k dispozici sterilní izotonický roztok chloridu sodného, lze k výplachu očí použít velké množství vody.
+
+Likvidace
+Ostré předměty, např. injekční jehly, stříkačky, aplikační soupravy a lahvičky, se odkládají k likvidaci do pevných nádob označených vhodným výstražným symbolem. Osoby odstraňující tyto předměty musejí být obeznámeny s bezpečnostními opatřeními, která je nutné dodržovat, a nebezpečný materiál se má pokud možno zničit spalováním. Veškerá likvidace musí být v souladu s platnými místními právními předpisy nebo s regulačními požadavky místních oprávněných autorit.
+Příprava injekčního roztoku Alkeran
+Injekční roztok Alkeran se má připravovat rekonstitucí lyofilizovaného prášku přiloženým rozpouštědlem (ředidlem) ZA POKOJOVÉ TEPLOTY.
+K lyofilizovanému prášku se přidá najednou 10 ml tohoto rozpouštědla a obsah lahvičky se hned začne protřepávat a protřepává se, dokud nevznikne čirý roztok. Takto připravený roztok obsahuje v 1 ml ekvivalent 5 mg bezvodého melfalanu a má hodnotu pH přibližně 6,5.
+
+Injekční roztok přípravku Alkeran má omezenou stabilitu, a proto se musí připravovat těsně před aplikací. Jakékoli množství zbylého, nepoužitého roztoku je nutné zlikvidovat.
+
+Rekonstituovaný roztok se nesmí ukládat do chladničky, protože by došlo k precipitaci.
+
+Jestliže se připravený roztok injekčního přípravku Alkeran dále ředí mísením s infuzním roztokem, klesá jeho stabilita a rychlost degradace se rychle zvyšuje se stoupající teplotou. Provádí-li se aplikace při pokojové teplotě (přibližně 25 °C), neměla by od rekonstituce injekčního roztoku do dokončení infuzního podání uplynout doba delší než 1,5 hodiny.
+
+Pokud se v rekonstituovaném injekčním roztoku nebo v jeho dále zředěném infuzním roztoku objeví jakýkoli viditelný zákal nebo pokud dojde ke krystalizaci, nesmí se takový roztok podat a musí být zlikvidován.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Aspen Pharma Trading Limited
+3016 Lake Drive, Citywest Business Campus, Dublin 24,
+Irsko
+
+8.   REGISTRAČNÍ ČÍSLO
+44/224/70-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 24. 5. 1971
+Datum posledního prodloužení registrace: 13. 6. 2007
+
+10.  DATUM REVIZE TEXTU
+
+10. 4. 2018
+
+
+12/12

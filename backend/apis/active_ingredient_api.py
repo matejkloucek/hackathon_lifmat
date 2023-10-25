@@ -4,6 +4,14 @@ from backend.core.active_ingredient_service import get_active_ingredient_detail
 
 active_ingredient_api = Namespace("active_ingredient", description='Active ingredient api')
 
+active_ingredient = active_ingredient_api.model("ActiveIngredientDto",
+                                                        {
+                                                            "id": fields.Integer(require=True),
+                                                            "name": fields.String(required=True),
+                                                            "dosage": fields.Float(required=False),
+                                                            "units": fields.String(required=False)
+                                                        })
+
 medicine_for_active_ingredient = active_ingredient_api.model("MedicineForActiveIngredientOutDto",
                                             {
                                                  "id": fields.Integer(required=True),
@@ -13,6 +21,8 @@ medicine_for_active_ingredient = active_ingredient_api.model("MedicineForActiveI
                                                                                   required=True),
                                                  "adverse_effects": fields.List(fields.String(),
                                                                                 required=True),
+                                                 "active_ingredients": fields.List(fields.Nested(
+                                                     active_ingredient)),
                                                  "dosage": fields.Float(required=False),
                                                  "units": fields.String(required=False)
                                             })

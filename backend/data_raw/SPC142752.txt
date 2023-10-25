@@ -1,0 +1,1020 @@
+Sp.zn.sukls346428/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1.   NÁZEV PŘÍPRAVKU
+CANRI
+20 mg/ml
+koncentrát pro infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jeden  ml  obsahuje  irinotecani  hydrochloridum  trihydricum  20  mg,  což  odpovídá irinotekanum 17,33 mg.
+
+Jedna injekční lahvička s 2 ml obsahuje irinotecani hydrochloridum trihydricum 40 mg. Jedna injekční lahvička s 5 ml obsahuje irinotecani hydrochloridum trihydricum 100 mg. Jedna injekční lahvička s 25 ml obsahuje irinotecani hydrochloridum trihydricum 500 mg.
+Pomocné látky se známým účinkem:
+sorbitol (E420) 45 mg/ml.
+Jedna injekční lahvička se 40 mg/2 ml obsahuje 0,069 mg/ml sodíku (0,14 mg). Jedna injekční lahvička se 100 mg/5 ml obsahuje 0,071 mg/ml sodíku (0,35 mg). Jedna injekční lahvička s 500 mg/25 ml obsahuje 0,071 mg/ml sodíku (1,77 mg).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Koncentrát pro infuzní roztok
+Čirý, bezbarvý až světle žlutý roztok. pH: 3,0 – 3,8
+Osmolalita: 276 mosmol/kg
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+CANRI je určen k léčbě pacientů s pokročilým kolorektálním karcinomem.
+•  V kombinaci s 5-fluoruracilem (5-FU) a kyselinou folinovou (FA) u pacientů, kteří dosud nepodstoupili chemoterapii pokročilé rakoviny.
+•  Jako jediná látka u pacientů, u nichž zavedený léčebný režim obsahující 5-FU nebyl úspěšný.
+
+
+
+1
+
+Irinotekan v kombinaci s cetuximabem je indikován k léčbě pacientů s expresí receptoru epidermálního růstového faktoru (EGFR), metastazujícím kolorektálním karcinomem (KRAS divokého typu), kteří nebyli ještě léčeni na metastazující onemocnění, nebo u kterých selhala cytotoxická léčba, která zahrnovala irinotekan (viz bod 5.1).
+
+Irinotekan v kombinaci s 5-FU, FA a bevacizumabem je indikován jako prvotní léčba pacientů s metastazujícím kolorektálním karcinomem.
+
+Irinotekan v kombinaci s kapecitabinem s nebo bez bevacizumabu je indikován jako prvotní léčba pacientů s metastazujícím kolorektálním karcinomem.
+
+4.2  Dávkování a způsob podání
+Pouze pro dospělé. Zředěný infuzní roztok irinotekanu se podává do periferní nebo centrální žíly.
+
+Doporučené dávkování
+
+Dávky irinotekanu popsané v tomto souhrnu údajů o přípravku se vztahují k mg trihydrátu irinotekan hydrochloridu.
+
+V monoterapii (u pacientů již léčených)
+
+Doporučená dávka irinotekanu je 350 mg/m² podaná ve formě intravenozní infuze trvající 30 až 90 minut každé tři týdny (viz bod 4.4 a 6.6).
+
+V kombinované terapii (u pacientů dosud neléčených)
+
+Bezpečnost a účinnost irinotekanu v kombinaci s 5-fluoruracilem (5-FU) a kyselinou folinovou (FA) byla hodnocena podle následujícího režimu (viz bod 5.1):
+•  Irinotekan hydrochlorid plus 5-FU/FA, každé 2 týdny.
+Doporučená dávka irinotekanu je 180 mg/m² podaná každé 2 týdny ve formě intravenozní infuze trvající 30 až 90 minut, následovaná FA a 5-FU.
+
+Pro informace o dávkování a způsobu souběžného podávání cetuximabu se podívejte do informací o přípravku tohoto léčivého přípravku. Obvykle se podává stejná dávka irinotekanu jako v posledních cyklech předchozího režimu s irinotekanem. Irinotekan nesmí být podán dříve než hodinu po ukončení infuze cetuximabu.
+
+Pro informace o dávkování a způsobu podání bevacizumabu se podívejte do souhrnu údajů o přípravku bevacizumabu.
+
+Pro informace o dávkování kombinace kapecitabinu se podívejte do bodu 5.1 a do příslušných bodů souhrnu údajů o přípravku kapecitabinu.
+
+Úprava dávky
+Irinotekan se má podávat až po úpravě všech nežádoucích účinků stupně 0 nebo 1 podle stupnice NCI-CTC (National Cancer Institute Common Toxicity Criteria) a až průjem spojený s léčbou zcela ustane.
+
+Na začátku podávání další infuze se dávka irinotekanu, a případně podávaného 5 -FU má snížit podle nejvyššího stupně nežádoucích účinků pozorovaného při předchozím podávání.
+
+
+2
+
+Léčba se má o 1–2 týdny odložit, aby došlo k zotavení z nežádoucích účinků spojených s léčbou.
+
+Dávka irinotekanu a/nebo 5-FU se má v příslušných případech v přítomnosti následujících nežádoucích účinků snížit o 15 až 20 %:
+• hematologická toxicita (neutropenie stupně 4), febrilní neutropenie [neutropenie stupně 3-4 a horečka stupně 2-4], trombocytopenie a leukopenie [stupně 4],
+• nehematologická toxicita [stupně 3-4].
+
+Při podávání cetuximabu v kombinaci s irinotekanem je nutné se řídit doporučeními pro úpravu dávky cetuximabu uvedenými v informacích o přípravku tohoto přípravku.
+
+Pokud se používá v kombinaci s kapecitabinem u pacientů ve věku 65 let a více, doporučuje se snížit počáteční dávku kapecitabinu na 800 mg/m² dvakrát denně podle souhrnu údajů o přípravku kapecitabinu. Viz také doporučení pro úpravu dávek pro tento kombinovaný režim uvedená v souhrnu údajů o přípravku kapecitabinu.
+
+Délka léčby
+
+Léčba irinotekanem má pokračovat až do doby, kdy nastane objektivní progrese onemocnění nebo vznikne nepřijatelná toxicita.
+Zvláštní skupiny pacientů
+
+Pacienti s poruchou funkce jater:
+
+Monoterapie:
+Hladina bilirubinu (až do 3-násobku horního limitu normálního rozsahu – ULN) u pacientů se stavem ≤ 2 podle hodnocení WHO má rozhodnout o úvodní dávce irinotekanu. U pacientů s hyperbilirubinemií a protrombinovým časem vyšším než 50 % je clearance irinotekanu snížená (viz bod 5.2), existuje tudíž větší riziko hematologické toxicity. Proto je třeba u této skupiny pacientů dodržet týdenní sledování kompletního krevního obrazu.
+•  U pacientů s hladinou bilirubinu > 1,5 násobku ULN je doporučená dávka irinotekanu 350 mg/ m².
+•  U pacientů s hladinou bilirubinu v rozmezí 1,5 až 3-násobku ULN je doporučená dávka irinotekanu 200 mg/ m².
+
+•  Pacienti s hladinou bilirubinu vyšší než trojnásobek ULN se irinotekanem nesmí léčit (viz 4.3 a 4.4).
+
+Pro pacienty s poruchou funkce jater, léčených kombinovanou terapií s irinotekanem, nejsou k dispozici žádné údaje.
+Pacienti s poruchou funkce ledvin:
+
+Léčba irinotekanem se nedoporučuje u pacientů s poruchou funkce ledvin, protože nebyly provedeny klinické studie u této skupiny pacientů (viz bod 4.4 a 5.2).
+Starší pacienti:
+
+
+
+
+3
+
+U starších pacientů nebyly provedeny speciální farmakokinetické studie. Vzhledem k tomu, že jejich biologické funkce jsou často zhoršeny, je nutná u této skupiny pacientů zvýšená opatrnost při dávkování (viz bod 4.4).
+
+4.3  Kontraindikace
+Chronické zánětlivé onemocnění střev a/nebo střevní obstrukce (viz bod 4.4).
+
+Anamnéza těžké hypersenzitivity na trihydrát irinotekan hydrochlorid nebo na kteroukoli z pomocných látek přípravku uvedených v bodě 6.1.
+Kojení (viz bod 4.4 a 4.6).
+
+Hladina bilirubinu > 3-násobek ULN (viz bod 4.4). Těžké poškození kostní dřeně.
+Celkový stav podle WHO klasifikace > 2.
+
+Současné podávání třezalky tečkované (viz bod 4.5).
+
+Pro informace o dalších kontraindikacích cetuximabu, bevacizumabu nebo kapecitabinu se podívejte do informací o přípravku těchto přípravků.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Irinotekan se má používat pouze na odděleních specializovaných na podávání cytostatik a je nutno ho podávat pouze pod dohledem lékaře s kvalifikací pro chemoterapii.
+
+Vzhledem k charakteru a četnosti nežádoucích účinků se irinotekan musí v následujících případech předepisovat pouze po zvážení očekávaného přínosu léčby ve vztahu k možným rizikům:
+•  u pacientů s rizikovým faktorem, především u těch s hodnocením celkového stavu dle WHO = 2,
+
+•  v několika málo případech, kdy se předpokládá, že pacienti pravděpodobně nebudou brát na vědomí doporučení pro kontrolu nežádoucích účinků léčby (okamžitá potřeba delší léčby průjmu za současného příjmu velkého množství tekutin ihned, jakmile se vyskytne pozdní průjem). U těchto pacientů se doporučuje důkladné sledování v nemocnici.
+Používá-li  se  irinotekan  v monoterapii,  předepisuje  se  obvykle  podle  třítýdenního dávkovacího režimu. U pacientů, jež je třeba podrobněji sledovat (viz bod 5) nebo u pacientů, u nichž existuje větší riziko vážné neutropenie, je možné uvažovat o týdenním dávkovacím režimu.
+
+Pozdní průjem
+
+Pacienti si mají být vědomi rizika pozdního průjmu, tj. průjmu, který se vyskytne za více než 24 hodin po podání irinotekanu a dále kdykoliv před dalším cyklem. V monoterapii byl medián doby výskytu první průjmové stolice pátý den po infuzi irinotekanu. Pacienti musí urychleně svého lékaře informovat o vzniku průjmu a ihned nasadit vhodnou léčbu.
+
+
+
+
+4
+
+Zvýšené riziko průjmu existuje u pacientů, s i předchozím ozařováním břišní/pánevní oblasti, dále u pacientů s výchozí leukocytozou, u pacientů kteří mají hodnocení celkového stavu ≥ 2, a u žen. Jestliže se průjem vhodným způsobem neléčí, může ohrozit život, zejména je li provázen současně neutropenií.
+
+Jakmile se objeví první průjmovitá stolice, pacient musí začít pít velké množství tekutin s obsahem elektrolytů, a musí se ihned nasadit odpovídající protiprůjmová léčba. Je nutné přijmout příslušná opatření, aby lékař, který podává irinotekan, také předepisoval léky proti průjmu. Po propuštění z nemocnice si musí pacient předepsané léky vyzvednout, aby mohl průjem léčit ihned, jakmile se vyskytne. Kromě toho musí pacient o vzniku průjmu informovat svého lékaře nebo zdravotnické zařízení, ve kterém mu byl irinotekan podán.
+
+V současné době doporučená léčba průjmu sestává z vysokých dávek loperamidu (4 mg na počátku, poté 2 mg každé 2 hodiny). V této léčbě je třeba pokračovat 12 hodin po poslední průjmovité stolici a nesmí se měnit. V léčbě se má pokračovat nejméně 12 hodin, ale v žádném případě se loperamid nesmí v těchto dávkách užívat déle než 48 hodin, vzhledem k riziku paralytického ileu.
+
+Je-li průjem doprovázen těžkou neutropenií (počet neutrofilů < 500/mm³), má se kromě léčby průjmu také profylakticky podat širokospektré antibiotikum.
+
+V následujících případech se kromě antibiotické léčby doporučuje ke kontrole průjmu i hospitalizace:
+▪  průjem spojený s horečkou,
+▪  těžký průjem (vyžadující parenterální rehydrataci),
+▪  průjem trvající déle než 48 hodin od zahájení léčby vysokými dávkami loperamidu.
+Loperamid se nemá podávat profylakticky a to ani u pacientů, kteří měli pozdní průjem během předchozího podání léčivého přípravku.
+
+Jestliže měl pacient těžký průjem, doporučuje se v následujících cyklech snížit dávky (viz bod 4.2).
+Hematologie
+
+Během léčby irinotekanem se doporučuje pravidelné týdenní sledování kompletního krevního obrazu. Pacienti musí být poučeni o riziku neutropenie a významu horečky. Febrilní neutropenie (teplota nad 38°C a počet neutrofilů ≤ 1 000/mm³) se musí urgentně léčit za hospitalizace intavenózním podáváním širokospektrých antibiotik.
+
+U pacientů s anamnézou těžké hematologické toxicity, se doporučuje další dávky snížit (viz bod 4.2).
+
+Pacienti s těžkým průjmem jsou vystaveni zvýšenému riziku infekce a hematologické toxicity. U těchto pacientů se má provést kompletní vyšetření krevního obrazu.
+Porucha funkce jater
+
+Před zahájením léčby a dále před každým cyklem léčby se musí provést vyšetření jaterních testů.
+Pravidelné týdenní kompletní vyšetření krevního obrazu je nutno provádět u pacientů, jejichž hodnoty bilirubinu jsou 1,5krát až 3krát vyšší proti ULN, protože mají sníženou clearance
+
+
+
+5
+
+irinotekanu (viz bod 5.2), a tudíž zvýšené riziko hematotoxicity. Pacienti s hodnotou bilirubinu vyšší než 3-násobek ULN viz bod 4.3.
+
+Nauzea a zvracení
+Před každým podáním irinotekanu se doporučuje profylaktické podávání antiemetik. Nauzea a zvracení jsou často hlášeny. Pacienty se zvracením spojeným s pozdním průjmem je nutno co nejdříve hospitalizovat.
+
+Akutní cholinergní syndrom
+
+Při vzniku akutního cholinergního syndromu (definován jako časný průjem a určité další známky a symptomy jako pocení, břišní křeče, mióza a salivace) je nutno podávat subkutánně atropin sulfát (0,25 mg s.c.), pokud není z klinického hlediska kontraindikován (viz bod 4.8).
+Zvýšené opatrnosti je třeba při léčbě pacientů s astmatem. Vyskytne-li se u pacienta akutní cholinergní syndrom, doporučuje se nasadit profylakticky atropin sulfát a následně podat irinotekan.
+
+Onemocnění dýchacího systému
+
+Během léčby irinotekanem byly méně často pozorovány stavy s plicní infiltrací naznačující výskyt intersticiálního plicního onemocnění. To může být fatální. Mezi možné rizikové faktory spojené se vznikem intersticiálního plicního onemocnění patří použití toxických pulmonárních  léčivých  přípravků,  radioterapie  a  použití  růstových  faktorů.  Pacienti s rizikovými faktory mají být pozorně sledováni před začátkem léčby irinotekanem a během ní.
+
+Extravazace
+Přestože není známo, že irinotekan způsobuje tvorbu puchýřků, je nutné postupovat s opatrností, aby se zabránilo extravazaci a místo vpichu infuze je také třeba sledovat možný výskyt známek zánětu. Pokud dojde k extravazaci, doporučuje se místo opláchnout a chladit ledem.
+Srdeční poruchy
+
+Ischemie myokardu byly pozorovány po léčbě irinotekanem především u pacientů se základním  srdečním  onemocněním,  dalšími  známými  rizikovými  faktory  srdečního onemocnění nebo u pacientů, kteří dříve podstoupili cytotoxickou chemoterapii (viz bod 4.8 Nežádoucí účinky).
+Proto je nutné pacienty se známými rizikovými faktory důkladně sledovat a je třeba učinit opatření ke snížení veškerých ovlivnitelných rizikových faktorů (např. kouření, hypertenze a hyperlipidemie).
+
+Imunosupresivní účinky / zvýšená citlivost na infekce
+Podávání živých nebo oslabených vakcín pacientům s oslabenou imunitou v důsledku užívání chemoterapeutik, včetně irinotekanu, může mít za následek vážné nebo i fatální infekce. Pacienti, kterým je podáván irinotekan tedy nesmí být živými vakcínami očkováni. Usmrcené nebo inaktivované vakcíny podávat lze; nicméně odpověď na tyto vakcíny může být snížená.
+
+Starší pacienti
+
+
+
+6
+
+Vzhledem ke zvýšené četnosti snížení biologických funkcí u starších pacientů, například jaterní funkce, je nutné při úpravě dávky irinotekanu u této populace postupovat s větší opatrností (viz bod 4.2).
+
+Chronické zánětlivé onemocnění střev a/nebo střevní obstrukce
+
+Pacienti se irinotekanem smějí léčit až po vyřešení ileózního stavu. (viz bod 4.3).
+
+Pacienti s poruchou funkce ledvin
+Klinické studie u této skupiny pacientů nebyly provedeny (viz bod 4.2 a bod 5.2).
+
+Ostatní
+
+Vzhledem k tomu, že léčivo obsahuje sorbitol, není vhodné pro pacienty s dědičnou nesnášenlivostí  fruktózy.  Ve  vzácných  případech  se  u pacientů,  u  kterých  se projevila dehydratace v souvislosti s průjmem a/nebo zvracením, případně sepsí, vyskytla porucha funkce ledvin, hypotenze nebo cirkulační kolaps.
+Během léčby a nejméně tři měsíce po jejím skončení je nutné používat účinnou metodu antikoncepce (viz bod 4.6).
+
+Je třeba se vyhnout současnému podávání irinotekanu se silným inhibitorem (např. ketokonazol) nebo induktorem (např. rifampicin, karbamazepin, fenobarbital, fenytoin, třezalka  tečkovaná)  cytochromu  P450  3A4  (CYP3A4),  protože  to  může  ovlivnit metabolismus irinotekanu (viz bod 4.5)
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Interakci  irinotekanu  s neuromuskulárními  blokátory  nelze  vyloučit.  Irinotekan  je anticholinesteráza  a  léčiva  s anticholinesterázovým  účinkem  mohou  prodloužit neuromuskulární  blokádu  suxamethonia  a  antagonizovat  neuromuskulární  blokádu nedepolarizujících látek.
+Několik studií ukázalo, že souběžné podávání induktorů cytochromu P450 3A (CYP3A) jako antikonvulzivní léčby (např. karbamazepin, fenobarbital nebo fenytoin) vede ke snížené expozici irinotekanu, SN-38 a SN-38 glukuronidu a sníženému farmakodynamickému efektu. Účinky těchto antikonvulzivních léků se projevily snížením AUC SN-38 a SN-38G o 50 % nebo více. Navíc vede indukce CYP3A enzymů ke zvýšení glukuronidace a sekrece žluči, a tyto účinky mohou hrát důležitou roli při snižování expozice irinotekanu a jeho metabolitům.
+
+Studie ukázala, že souběžné podávání ketokonazolu vyústilo ve snížení AUC APC (hlavního oxidativního metabolitu) o 87% a zvýšení AUC SN-38 o 109% v porovnání při samostatném podávání irinotekanu. Je nutná opatrnost u pacientů užívajících souběžně léčiva inhibující (ketokonazol)  nebo  indukující  (karbamazepin,  fenobarbital,  fenytoin,  rifampicin) metabolismus léků prostřednictvím CYP-3A4.
+Souběžné podávání irinotekanu s inhibitory/induktory působícími v tomto metabolickém procesu může ovlivnit metabolismus irinotekanu a je třeba se mu vyhnout (viz bod 4.4).
+
+V malé farmakokinetické studii (n=5), ve které byl irinotekan v dávce 350 mg/m² podáván současně s 900 mg třezalky tečkované (Hypericum perforatum), byl pozorován 42% pokles koncentrace aktivního metabolitu irinotekanu SN-38 v plasmě.
+
+
+
+
+7
+
+Třezalka tečkovaná (Hypericum perforatum) snižuje hladinu SN-38 v plazmě. Z tohoto důvodu se třezalka tečkovaná nemá používat současně s irinotekanem (viz bod 4.3).
+
+Podávání v kombinovaném režimu s 5-FU/FA nemění farmakokinetiku irinotekanu.
+Neexistují důkazy, zda je bezpečnostní profil irinotekanu ovlivněn cetuximabem či naopak. Výsledky ze studie cílené na lékové interakce neprokázaly významný vliv bevacizumabu na farmakokinetiku irinotekanu a jeho aktivního metabolitu SN-38. To však nevylučuje zvýšení toxicity v důsledku jejich farmakologických vlastností.
+
+Atazanavir-sulfát
+Souběžné podávání atazanavir-sulfátu, inhibitoru CYP3A4 a UGT1A1, má potenciál zvyšovat systémovou expozici SN-38, aktivního metabolitu irinotekanu. Lékaři to musí při souběžném podávání těchto léků brát v úvahu.
+Interakce běžné pro všechny cytotoxické léky:
+Časté je užívání antikoagulancií vzhledem ke zvýšenému riziku trombotických příhod u nádorových  onemocnění.  Jsou-li  indikována  antikoagulancia  ve  formě  antagonistů vitamínu K, je nutné zvýšení četnosti sledování mezinárodního normalizovaného poměru (International Normalised Ratio, INR), a to kvůli jejich úzkému terapeutickému indexu, vysoké variabilitě krevní trombogenicity u jednoho pacienta a možnosti interakce mezi perorálními antikoagulancii a protirakovinnou chemoterapií.
+
+Souběžné používání je kontraindikováno
+- vakcína žluté zimnice: riziko fatální generalizované reakce na vakcíny.
+
+Souběžné používání se nedoporučuje
+- živé oslabené vakcíny (s výjimkou žluté zimnice): riziko systémového, případně i fatálního, onemocnění (např. infekce). Toto riziko je vyšší u pacientů s již oslabenou imunitou v důsledku jejich základního onemocnění.
+
+Kde je to možné, použijí se inaktivované vakcíny (poliomyelitida).
+
+- fenytoin: riziko zhoršení křečí v důsledku snížení absorpce fenytoinu trávicím ústrojím způsobené cytotoxickým léčivým přípravkem.
+Souběžné podávání, které je třeba vzít v úvahu
+- cyklosporin, takrolimus: nadměrná imunosuprese s rizikem lymfoproliferace.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Nejsou k dispozici žádná data o použití irinotekanu u těhotných žen. Studie provedené na zvířatech ukázaly reprodukční toxicitu (viz bod 5.3). Irinotekan se nemá používat během těhotenství, pokud klinický stav ženy nevyžaduje léčbu irinotekanem. Přínos léčby proti možnému riziku pro plod musí být hodnocen v každém jednotlivém případě.
+
+Fertilita
+Ženy ve fertilním věku i muži musí během léčby a minimálně jeden až tři měsíce po jejím skončení používat účinnou antikoncepci (viz bod 4.4).
+Neexistují údaje o účinku irinotekanu na fertilitu u lidí. U zvířat byly zaznamenány nežádoucí účinky irinotekanu na fertilitu u potomků (viz bod 5.3)
+Kojení
+
+
+8
+
+Není známo, zda se irinotekan vylučuje do lidského mateřského mléka. V mléce potkanů s laktací byl zjištěn značený ¹⁴C-irinotekan. Irinotekan je během kojení kontraindikován (viz bod 4.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Pacienti musí být upozorněni na možný výskyt závratí a poruchu zraku, které mohou vzniknout do 24 hodin po podání irinotekanu, a musí být informováni, aby neřídili ani neobsluhovali stroje, pokud se tyto příznaky vyskytnou.
+
+4.8  Nežádoucí účinky
+Nežádoucí účinky popsané v tomto oddíle se vztahují k irinotekanu. Neexistují žádné údaje o tom, že by bezpečnostní profil irinotekanu byl ovlivněn cetuximabem nebo naopak. Při podávání s cetuximabem byly hlášeny další nežádoucí účinky, které jsou předpokládány při užívání cetuximabu (jako je akné 88%). Proto se také podívejte do informací o přípravku cetuximabu.
+
+Pro informace o nežádoucích účincích při užívání tohoto léčivého přípravku v kombinaci s bevacizumabem se podívejte do souhrnu údajů o přípravku bevacizumabu.
+
+Nežádoucí  účinky  zaznamenané  u  pacientů  léčených  kapecitabinem  v kombinaci s irinotekanem,  které  nebyly  zaznamenány  v léčbě  kapecitabinem  samotným  nebo se vyskytují s vyšší frekvencí než kapecitabinové monoterapie zahrnují: velmi časté, všechny stupně nežádoucích účinků:trombosa/embolie; časté, všechny stupně nežádoucích účinků: hypersenzitivita na kapecitabin, kardio-ischemické potíže/infarkt; časté, stupeň 3 a 4: febrilní neutropenie. Pro kompletní informace o nežádoucích účincích kapecitabinu se podívejte do souhrnu údajů o přípravku kapecitabinu.
+Nežádoucí účinky stupně 3 a 4 zaznamenané u pacientů léčených kapecitabinem v kombinaci s irinotekanem  a  bevacizumabem,  které  nebyly  zaznamenány  v léčbě  kapecitabinem samotným nebo se vyskytují s vyšší frekvencí než u kapecitabinu v monoterapii, zahrnují: časté,  stupeň  3  a  4:  neutropenie,  trombosa/embolie,  hypertense,  kardio-ischemické potíže/infarkt. Pro kompletní informace o nežádoucích účincích kapecitabinu a bevacizumabu se podívejte do souhrnu údajů o přípravku kapecitabinu nebo bevacizumabu.
+
+Níže uvedené nežádoucí účinky, o nichž se lze domnívat, že jsou možná či pravděpodobně spojené s podáním irinotekanu, byly hlášené u 765 pacientů dostávajících doporučenou dávku 350 mg/m² v monoterapii, a u 145 pacientů léčených irinotekanem v kombinované terapii s 5- FU/FA každé dva týdny v doporučené dávce 180 mg/m².
+
+Nežádoucí účinky jsou shrnuty v následující tabulce s frekvencemi výskytu, jak je uvádí MedDRA. Nežádoucí účinky jsou v každé skupině četností uvedeny podle snižující se závažnosti.
+
+Velmi časté: ≥ 1/10 Časté: ≥ 1/100 až < 1/10
+Méně časté: ≥ 1/1 000 až < 1/100 Vzácné: ≥ 1/10 000 až < 1/1 000
+Velmi vzácné < 1/10 000; není známo (z dostupných údajů nelze odhadnout).
+
+Tělesný systém    Četnost     Nežádoucí reakce
+Infekce a infestace  Méně časté    Porucha funkce ledvin, hypotenze nebo selhání
+
+
+
+9
+
+
+
+
+
+
+Poruchy krve a lymfatického systému
+
+
+
+
+
+
+
+
+Poruchy imunitního systému
+
+Poruchy metabolismu a výživy
+Poruchy nervového systému
+
+
+
+
+
+Velmi časté
+
+
+Časté
+
+
+
+
+Velmi vzácné
+
+Není známo Méně časté
+
+Vzácné Velmi vzácné
+Velmi vzácné
+oběhového systému byly pozorovány u pacientů se sepsí.
+Mykotické infekceᵃ Virové infekceᵇ
+Neutropenie (reversibilní a nekumulativní). Anemie.
+Trombocytopenie (v případě kombinované terapie). Infekce (v monoterapii).
+Febrilní neutropenie.
+Infekce (v kombinované terapii).
+Infekce doprovázená závažnou neutropenií končící ve třech případech úmrtím.
+Trombocytopenie (v monoterapii).
+Jeden případ periferální trombocytopenie s protilátkami proti destičkám.
+Leukopenie
+Středně závažné alergické reakce Anafylaktické/ Anafylaktoidní reakce Tumor lysis syndrom
+Přechodné poruchy řeči
+
+
+Srdeční poruchy Respirační, hrudní a mediastinální poruchy
+Gastrointestinální poruchy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+Vzácné Méně časté Velmi časté Časté
+
+
+
+Méně časté
+
+
+
+
+
+
+
+Vzácné
+
+
+
+
+
+Velmi časté Méně časté
+Hypertense během infuze
+
+Intersticiální plicní onemocnění presentované jako plicní infiltrace, brzké projevy jako dyspnoe Závažný opožděný průjem.
+Závažná nausea a zvracení (v monoterapii)
+Závažný opožděný průjem, nausea a zvracení (kombinované terapii).
+Episody dehydratace (doprovázené průjmem a/nebo zvracením).
+Zácpa spojená s irinotekanem a/nebo loperamidem. Pseudomembránová kolitida (jeden případ dokumentován bakteriologicky: Clostridium difficile)
+Porucha funkce ledvin, hypotenze nebo poruchy oběhového systému jako důsledek dehydratace doprovázené průjmem a/nebo zvracením Zažívací potíže, neprůchodnost střev, nebo gastrointestinální krvácení
+Kolitida, včetně zánětu céka, ischemická a ulcerativní kolitida
+Perforace střev
+Další mírné vlivy zahrnující anorexii, bolest břicha a mukozitida
+Symptomatická nebo asymptomatická pankreatitida Alopecie (reverzibilní)
+
+Mírné kožní reakce
+
+10
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+
+
+
+Vyšetření
+Vzácné
+
+Není známo Velmi časté
+
+Časté
+
+
+
+
+
+
+
+
+Méně časté Velmi časté
+
+
+
+Časté
+
+
+
+
+
+
+Vzácné Velmi vzácné
+Časné účinky, jako jsou stahy svalů nebo křeče a parestesie.
+Vyrážka
+Horečka bez přítomnosti infekce a bez souběžné závažné neutropenie (v monoterapii).
+Závažný přechodný akutní cholinergní syndrom (hlavními příznaky byly časný průjem, a různé další příznaky, jako je bolest břicha, konjunktivitida, rýma, hypotenze, vazodilatace, pocení, zimnice, malátnost, závratě, zrakové poruchy, mióza, slzení a zvýšené slinění).
+Astenie.
+Horečka bez přítomnosti infekce a bez souběžné závažné neutropenie (v kombinované terapii).
+Reakce v místě vpichu
+V kombinované terapii v séru byly pozorovány přechodné hladiny (stupeň 1 a 2) ALT, AST, alkalické fosfatázy nebo bilirubinu v nepřítomnosti progresivních jaterních metastáz.
+V monoterapii byly v séru pozorovány přechodné hladiny  ALT,  AST,  alkalické  fosfatázy  nebo bilirubinu v nepřítomnosti progresivních jaterních metastáz.
+Přechodné, mírné až středně závažné vzestupy hladin kreatininu v séru.
+V kombinované terapii byly pozorovány v séru přechodné hladiny bilirubinu stupně 3. Hypokalemie
+Hyponatremie
+Zvýšení amylázy a/nebo lipázy
+a. např. pneumonie způsobená Pneumocystis jirovecii, bronchopulmonální aspergilóza, systémová kandidóza.
+b. např. herpes zoster, chřipka, reaktivace hepatitidy B, kolitida způsobená cytomegalovirem.
+
+Nejběžnějším vedlejším účinkem (≥ 1/10), závisejícím na dávce irinotekanu je opožděný průjem (nastupuje po vice než 24 hodinách po podání) a poruchy krve zahrnující neutropenii, anémii a trombocytopenii.
+Běžně byl pozorován závažný přechodný akutní cholinergní syndrom. Hlavní symptomy jsou definovány jako časný průjem a různé další symptomy jako bolest břicha, zánět spojivek, rhinitida, hypotense, vazodilatace, pocení, zimnice, malátnost, závratě, zrakové poruchy, mióza, slzení a zvýšené slinění projevující se během prvních 24 hodin po podání infuze irinotekanu. Tyto symptomy vymizí po podání atropinu (viz bod 4.4).
+
+Pozdní průjem
+
+V monoterapii: Těžký průjem byl zjištěn u 20 % pacientů, kteří dodržovali doporučení ke kontrole průjmu. Těžký průjem byl pozorován u 14 % hodnotitelných cyklů. Medián doby výskytu první průjmovité stolice byl pět dní po infuzi irinotekanu.
+
+
+
+
+
+
+11
+
+V kombinované terapii: Těžký průjem byl zjištěn u 13,1 % pacientů, kteří dodržovali doporučení ke zvládnutí průjmu. Ze zhodnotitelných léčebných cyklů byl těžký průjem zjištěn ve 3,9 % cyklů.
+
+Poruchy krve
+
+Neutropenie
+Neutropenie byla reverzibilní a neměla kumulativní charakter; medián doby dosažení nejnižší hodnoty byl 8 dní, jak v monoterapii, tak i v kombinované léčbě.
+V monoterapii byla neutropenie zjištěna u 78,7 % pacientů a byla těžká (počet neutrofilů
+<500 buněk/mm³) u 22,6 % pacientů. Ze zhodnotitelných léčebných cyklů byl v 18 % počet neutrofilů pod 1 000 buněk /mm³, včetně 7,6 % s počtem neutrofilů <500 buněk/mm³. Úplné normalizace se dosáhlo do 22 dnů. Horečka s vážnou neutropenií byla hlášena u 6,2 % pacientů v 1,7 % léčebných cyklů. Infekční onemocnění se vyskytla přibližně u 10,3 % pacientů (2,5 % léčebných cyklů). Byla spojena s těžkou neutropenií přibližně u 5,3 % pacientů (1,1 % léčebných cyklů) a způsobila úmrtí ve 2 případech.
+
+V kombinované terapii byla neutropenie zjištěna u 82,5 % pacientů a byla vážná (počet neutrofilů < 500 buněk/mm³) u 9,8 % pacientů. Ze zhodnotitelných léčebných cyklů byl v 67,3  %  počet  neutrofilů  <  1000 buněk/mm³,  včetně  2,7  %  s počtem  neutrofilů
+<500 buněk/mm³. Úplné normalizace se obvykle dosáhlo do 7-8 dnů.
+
+Horečka s neutropenií byla hlášena u 3,4 % pacientů a v 0,9 % léčebných cyklů. Infekční onemocnění se vyskytla přibližně u 2 % pacientů (0,5 % léčebných cyklů) a byla spojena s těžkou neutropenií přibližně u 2,1 % pacientů (0,5 % léčebných cyklů) a způsobila úmrtí v 1 případě.
+Anémie Monoterapie:
+Anemie  byla  hlášena  u 58,7  %  pacientů  (8  %  s hemoglobinem  <  8 g/dl  a 0,9% s hemoglobinem < 6,5 g/dl).
+Kombinovaná terapie:
+Anémie byla hlášena u 97,2 pacientů (2,1% s hemoglobinem <8 g/dl). Trombocytopenie
+Monoterapie:
+Trombocytopenie (< 100,000 buněk/mm³) byla zjištěna u 7,4% pacientů a 1,8% léčebných cyklů s 0,9% pacientů počtem krevních destiček ≤ 50,000 buněk/mm³ a 0.2% léčebných cyklů. Téměř u všech pacientů nastalo zlepšení do dne 22.
+Kombinovaná terapie:
+Trombocytopenie (≤ 100 000 buněk/mm³) byla zjištěna u 32,6% pacientů a 21,8% léčebných cyklů. Nezjistil se žádný případ těžké trombocytopenie (<50 000 buněk/mm³).
+V jednom případě byla hlášena periferní trombocytopenie spojená se vznikem protilátek proti destičkám – v období po uvedení přípravku na trh.
+
+Hlášení podezření na nežádoucí účinky
+
+
+
+
+12
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Vyskytly se případy předávkování při dávkách přibližně dvakrát vyšších, než je doporučená léčebná dávka, jenž mohou být fatální. Nejvýznamnějšími hlášenými nežádoucími účinky byly těžká neutropenie a průjem. Z tohoto důvodu se předávkovaní pacienti mají převézt na specializované oddělení. Proti irinotekanu není známé žádné antidotum. Je nutné zahájit podpůrnou léčbu k prevenci dehydratace způsobené průjmem a léčit případné infekční komplikace.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: jiná cytostatika, irinotekan ATC kód: L01XX19
+
+Experimentální údaje
+Irinotekan je semisyntetický derivát kamptothecinu. Je to antineoplastická látka působící jako specifický inhibitor  DNA topoizomerázy  typu  I.  Ve  většině  tkání  se metabolizuje karboxylesterázami, čímž se získá SN-38, který, jak se ukázalo, je účinnější než irinotekan v purifikované topoizomeráze typu I a cytotoxičtější než irinotekan vůči několika liniím lidských a myších nádorových buněk. Inhibice DNA topoizomerázy typu I irinotekanem či SN-38 vyvolává léze na jednotlivých řetězcích DNA, a tyto léze blokují replikační vidlice DNA a jsou zodpovědné za cytotoxicitu. Zjistilo se, že tento cytotoxický účinek je časově závislý a specifický pro fázi S .
+
+In vitro není irinotekan ani SN-38 signifikantně rozpoznán P-glykoproteinem (MDR) a irinotekan působí cytotoxicky na buněčné linie rezistentní na doxorubicin a vinblastin.
+Irinotekan má navíc také in vivo široké spektrum protinádorové účinnosti v modelech myších nádorů (P03 duktální adenokarcinom pankreatu, MA16/C adenokarcinom mléčné žlázy, C38 a C51 adenokarcinom tlustého střeva) a účinnosti proti lidským xenoimplantátům (Co-4 adenokarcinom tlustého střeva, MX-1 adenokarcinom mléčné žlázy, ST-15 a SC-16 adenokarcinom žaludku). Irinotekan účinkuje proti nádorům s expresí P-glykoproteinu (MDR) (leukémie P388 rezistentní na vinkristin a doxorubicin).
+
+Kromě protinádorového účinku je nejdůležitějším farmakologickým účinkem irinotekanu inhibice acetylcholinesterázy.
+
+Klinické údaje
+
+V monoterapii v druhé linii léčby metastazujícího kolorektálního karcinomu
+
+
+
+
+13
+
+Více než 980 pacientů s metastatickým kolorektálním karcinomem, u nichž předchozí léčba s 5-FU nebyla úspěšná, bylo zařazeno do fází II/III klinických studií s režimem dávkování každé 3 týdny. Účinnost irinotekanu byla zhodnocena u 765 pacientů s progresí nemoci během léčby s 5-FU v okamžiku vstupu do studie.
+
+
+
+Irinotekan ve srovnání s
+Fáze III
+Irinotekan ve srovnání s 5-FU
+nejlepší podpůrnou péčí (BSC)
+
+
+
+
+Přežití bez progrese po 6 měsících (%)
+Přežití po 12 měsících (%)
+Medián doby přežití (měsíce)
+Irinotekan n = 183
+NA 36,2*
+9,2*
+BSC n = 90
+NA 13,8
+6,5
+p hodnoty
+
+
+p=0,0001 p=0,0001
+Irinotekan n = 127
+33,5*
+
+44,8*
+
+10,8*
+5-FU n = 129
+26,7
+
+32,4
+
+8,5
+p hodnoty
+p=0,03 p=0,0351 p=0,0351
+
+NA: Neuplatňuje se
+*: Statisticky významný rozdíl
+
+Do klinických studií fáze II bylo zařazeno 455 pacientů, kteří byli léčeni v třítýdenním dávkovacím režimu. 30% pacientů přežilo bez příznaků nemoci 6 měsíců a medián doby přežití byl 9 měsíců. Medián doby do progrese nemoci byl 18 týdnů.
+Kromě toho v nekomparativních studiích fáze II, jichž se zúčastnilo 304 pacientů, byly 4 za sebou jdoucí týdny podávány týdenní dávky 125 mg/m² ve formě intravenozní infuze po dobu 90 minut; po dávkách následovala 2týdenní přestávka. V těchto studiích byl medián doby do začátku progrese 17 týdnů a medián doby přežití 10 měsíců. Podobný bezpečnostní profil byl zjištěn při týdenním dávkovacím schématu u 193 pacientů, kteří dostávali počáteční dávku
+125 mg/m² ve srovnání s 3týdenním dávkovacím schématem. Medián doby do výskytu průjmovité stolice byl 11 dní.
+
+V kombinované terapii v první linii léčby metastazujícího kolorektálního karcinomu
+V kombinované terapii s kyselinou folinovou a 5-fluoruracilem
+
+Klinické studie fáze III se zúčastnilo 385 dříve neléčených pacientů s metastatickým kolorektálním karcinomem léčených buď dávkami podávanými každé 2 týdny (viz bod 4.2), nebo každý týden. Při 2týdenním režimu po dávce 180 mg/m² irinotekanu podané první den (den 1) následovala infuze FA (200 mg/m² ve formě 2hodinové intravenozní infuze) a 5-FU (400 mg/m² ve formě intravenozního bolusu, po němž následovalo 600 mg/m² ve formě 22hodinové intravenozní infuze). Následující den (den 2) byla ve stejných dávkách a stejným způsobem opět podána FA a 5-FU. Při týdenním režimu po podání irinotekanu v dávce 80 mg/m² následovala infuze FA (500 mg/m² ve formě 2 hodinové intravenozní infuze), a dále 5-FU (2300 mg/m² ve formě 24 hodinové intravenozní infuze); tento rozvrh se dodržoval 6 týdnů.
+
+Ve studii s kombinovanou léčbou a 2 režimy popsanými výše byla účinnost irinotekanu hodnocená u 198 pacientů:
+
+
+
+14
+
+Kombinovaný režim (n=198)
+Týdenní režim (n=50)
+2-týdenní režim (n=148)
+
+Irin. +5- FU/FA
+5-FU/FA
+Irin. +5- FU/FA
+5-FU/FA
+Irin. +5- FU/FA
+5-FU/FA
+
+Procento odpovědi (%)
+
+p hodnota
+40,8 *  23,1 * p<0,001
+51,2 *   2,6 * p=0,045
+37,5 *  21,6 * p=0,005
+
+Medián doby do progrese (měsíce)
+p hodnota Medián doby trvání odpovědi (měsíce)
+p hodnota
+Medián doby trvání odpovědi a stabilizace (měsíce)
+6,7   4,4
+p<0,001
+9,3   8,8
+NS
+8,6   6,2
+7,2    6,5
+NS
+8,9    6,7
+p=0,043
+8,3    6,7
+6,5    3,7
+p=0,001
+9,3    9,5
+NS
+8,5    5,6
+
+p hodnota Medián doby do selhání léčby (měsíce)
+p hodnota
+
+Medián doby přežití (měsíce)
+p hodnota
+p<0,001
+5,3   3,8
+p=0,0014 16,8   14,0
+p=0,028
+NS
+5,4    5,0
+NS
+19,2   14,1
+NS
+p=0,003
+5,1    3,0
+p<0,001
+15,6   13,0 p=0,041
+
+Irin: irinotekan
+5-FU: 5-fluoruracil, FA: kyselina folinová, NS: nesignifikantní,
+*: v souladu s analýzou populace podle protokolu
+Při týdenním režimu se těžký průjem vyskytl u 44,4 % pacientů léčených irinotekanem v kombinaci  s 5-FU/FA, a u 25,6 % pacientů léčených samotným 5-FU/FA. Těžká neutropenie (počet neutrofilů < 500 buněk/mm³) se vyskytla u 5,8 % pacientů léčených irinotekanem v kombinaci s 5-FU/FA a u 2,4 % pacientů léčených samotným 5-FU/FA.
+
+Kromě toho byl medián doby trvalého zhoršení stavu výkonnosti významně delší ve skupině užívající irinotekan v kombinaci s 5-FU/FA, než ve skupině užívající samotný 5-FU/FA (p=0,046).
+
+Kvalita života se v této studii fáze III hodnotila pomocí dotazníku EORTC QLQ-C30. Doba do definitivního zhoršení nastala ve skupinách na irinotekanu konstantně později. Celkový zdravotní stav/kvalita života byly mírně avšak nikoliv signifikantně lepší ve skupině s kombinovanou léčbou irinotekanem, což znamená, že je možné dosáhnout účinnosti kombinované léčby s irinotekanem bez ovlivnění kvality života.
+
+V kombinaci s cetuximabem
+EMR  62 202-013:  Randomizovaná  studie  prováděná  na  pacientech  s metastazujícím kolorektálním karcinomem, u kterých ještě nebylo léčeno metastazující onemocnění, porovnávala kombinaci cetuximabu a irinotekanu a infuze 5-fluoruracilu/kyseliny folinové (5- FU/FA) (599 pacientů) se stejnou chemoterapií bez cetuximabu (599 pacientů). Podíl pacientů s tumorem KRAS divokého typu v rámci populace pacientů s hodnotitelným KRAS statusem činil 64 %.
+
+Údaje o účinnosti získané v této studii jsou uvedeny v tabulce níže:
+Celková populace          Populace s tumorem KRAS divokého typu
+
+
+
+15
+
+Proměnná/statistika
+
+
+ORR
+% (95% CI)
+
+p-hodnota PFS
+Cetuximab a FOLFIRI (N=599)
+
+46,9 (42,9,
+51,0)
+0,0038
+FOLFIRI
+(N=599) 38,7 (34,8,
+42,8)
+Cetuximab a FOLFIRI (N=172)
+
+59,3 (51,6,
+66,7)
+0,0025
+FOLFIRI
+(N=176) 43,2 (35,8,
+50,9)
+
+Poměr rizika (95% CI)
+p-hodnota
+0,85 (0,726, 0,998)
+
+0,0479
+0,68 (0,501, 0,934)
+
+0,0167
+CI = interval spolehlivosti; FOLFIRI = irinotekan plus infuze 5-FU/FA, ORR = objective response rate, celkový počet objektivních odpovědí (pacienti s kompletní nebo částečnou odpovědí), PFS = progression-free survival, přežívání bez progrese
+
+Kombinace s cetuximabem po selhání irinotekanu – včetně cytotoxické terapie
+
+Účinnost kombinace irinotekanu s cetuxambem byla hodnocena ve dvou klinických studiích. Celkem 356 pacientů s metastazujícím kolorektálním karcinomem exprimujícím EGFR, u kterých nedávno selhala cytotoxická léčba zahrnující irinotekan a jejichž minimální hodnota výkonnostního stavu podle Karnofského byla 60 %, z nichž většina měla tuto hodnotu
+≥ 80 %, dostávalo kombinovanou léčbu.
+
+EMR  62 202-007:  Tato  randomizovaná  studie  porovnávala  kombinaci  irinotekanu a cetuximabu (218 pacientů) s cetuximabem v monoterapii (111 pacientů).
+
+IMCL CP02-9923: Tato otevřená studie u jedné větve pacientů hodnotila kombinovanou terapii u 138 pacientů.
+
+Výsledky těchto studií jsou shrnuty v následující tabulce:
+
+Studie     n      ORR         DCR       PFS (měsíc)     OS (měsíc) n[%]   95% CI   n[%]   95% CI  Medián  95% CI  Medián  95% CI
+Cetuximab + irinotekan
+
+EMR 62
+202-007
+IMCL CP02-9923
+Cetuximab
+218
+
+138
+50
+(22,9)
+21
+(15,2)
+17,5,
+29,1
+9,7,
+22,3
+121
+(55,5)
+84
+(60,9)
+48,6,
+62,2
+52,2,
+69,1
+4,1
+
+2,9
+2,8, 4,3
+
+2,6, 4,1
+8,6
+
+8,4
+7,6, 9,6
+
+7,2,
+10,3
+
+EMR 62
+202-007
+111  12
+(10,8)
+5,7,
+18,1
+36
+(32,4)
+23,9,
+42,0
+1,5   1,4, 2,0   6,9   5,6, 9,1
+CI = interval spolehlivosti; DCR = disease control rate, míra kontroly choroby (pacienti s celkovou odpovědí, pacienti s částečnou odpovědí nebo stejným stavem po dobu minimálně 6 týdnů); ORR = objective response rate, celkový počet objektivních odpovědí (pacienti s celkovou nebo částečnou odpovědí); OS = celková doba přežití, overall survival time; PFS = progression-free survival, přežívání bez progrese
+
+Účinnost kombinace cetuximabu s irinotekanem byla vyšší než cetuximabu v monoterapii pokud jde o ORR (počet objektivních léčebných odpovědí), DCR (míru kontroly choroby) a PFS (přežívání bez progrese). V randomizovaných studiích nebyl zaznamenán vliv na celkovou dobu přežití (riziko 0,91, p=0,48).
+
+
+
+16
+
+V kombinované terapii s bevacizumabem
+
+Ve fázi III randomizované, dvojitě zaslepené, aktivně kontrolované klinické studie byla zkoumána kombinace bevacizumabu a irinotekanu/5-FU/FA jako první léčby metastazujícího kolonorektálního karcinomu (studie AVF2107g). Přidání bevacizumabu ke kombinaci irinotekanu/5-FU/FA vedlo ke statisticky významnému nárůstu v celkovém přežití. Klinický přínos, měřeno celkovým přežitím, byl zaznamenán u všech podskupin pacientů, včetně těch, které byly definovány podle věku, pohlaví, výkonnosti, lokace primárního tumoru, počtu zasažených orgánů a doby trvání nemoci. Další informace najdete také v souhrnu údajů o přípravku bevacizumabu.
+Výsledky studie AVF2107g jsou shrnuty v následující tabulce:
+
+
+
+
+Počet pacientů Celkové přežití
+Medián doby [měsíce] 95% Interval
+bezpečnosti
+Poměr rizika ᵇ
+p hodnota
+Přežívání bez progrese
+Medián doby [měsíce]
+Poměr rizika ᵇ p hodnota Celkový počet
+objektivních odpovědí
+Poměr [%] 95% Interval bezpečnosti
+p hodnota
+Doba trvání odpovědi Průměrná doba [měsíce] 25 – 75 Percentil
+[měsíce]
+Větev 1 Irinotekan/5-FU/FA/placebo
+411
+
+15,6
+14,29 – 16,99
+
+
+
+
+6,2
+
+
+
+
+34,8
+30,2 – 39,6
+
+
+
+7,1
+4,7 – 11,8
+Větev 2
+Irinotekan/5-FU/FA/bevacizumab ᵃ
+402
+
+20,3
+18,46 – 24,18
+
+0,660
+0,00004
+
+10,6
+0,54
+< 0,0001
+
+
+44,8
+39,9 – 49,8
+
+0,0036
+
+10,4
+6,7 – 15,0
+ᵃ 5 mg/kg každé 2 týdny; ᵇ vztahuje se ke sledované větvi.
+
+V kombinované terapii s kapecitabinem
+
+Údaje  z randomizované,  kontrolované  fáze  III  studie  (CAIRO)  podporují  užívání kapecitabinu se začáteční dávkou 1 000 mg/ m² po dobu dvou týdnů a každé tři týdny v kombinaci s irinotekanem jako první léčbu pro pacienty s metastazujícím kolorektálním karcinomem. 820 pacientů bylo náhodně vybráno, aby prodělalo postupnou léčbu (n = 410) nebo kombinovanou léčbu (n = 410). Postupná léčba se sestává v první léčebné linii z léčby kapecitabinem (1250 mg/m² dvakrát denně 14 dní), ve druhé linii irinotekanem (350 mg/m² ve dni  1)  a  ve třetí  linii  kombinací  kapecitabinu  (1250 mg/m² dvakrát  denně  14 dní) s oxaliplatinou (130 mg/m² ve dni 1). Kombinovaná léčba se sestává v první linii z léčby kapecitabinem (1000 mg/m² dvakrát denně 14 dní) kombinované s irinotekanem (250 mg/m² ve dni 1) (XELIRI) a ve druhé linii z léčby kapecitabinem (1000 mg/m² dvakrát denně 14 dní) s oxaliplatinou (130 mg/m² ve dni 1). Všechny léčebné cykly byly v intervalu tří týdnů.
+
+
+17
+
+V první linii léčby byl medián doby přežití bez progrese u populace zamýšlené k léčbě 5,8 měsíců (95% CI, 5,1–6,2 měsíců) u kapecitabinu v monoterapii a 7,8 měsíců (95% CI 7,0–8,3 měsíců) pro XELIRI (p=0,0002).
+
+Údaje z průběžné analýzy multicentrické, randomizované, kontrolované fáze III studie (AIO KRK 0604) podporují užívání kapecitabinu s počáteční dávkou 800 mg/ m² po dobu dvou týdnů každé tři týdny v kombinaci s irinotekanem a bevacizumabem jako první léčebnou linii u pacientů s metastazujícím kolorektálním karcinomem. 115 randomizovaných pacientů bylo léčeno kapecitabinem v kombinaci s irinotekanem (XELIRI) a bevacizumabem: kapecitabin (800 mg/m² dvakrát denně po dobu dvou týdnů s následnou sedmidenní odpočinkovou pauzou), irinotekan (200 mg/m² podávaných jako 30minutová infuze v den 1 každé tři týdny) a bevacizumab (7,5 mg/m² podávaných jako 30-90minutová infuze v den 1 každé tři týdny); celkem  118  randomizovaných  pacientů  bylo  léčeno  kapecitabinem  v kombinaci s oxaliplatinou a bevacizumabem: kapecitabin (1000 mg/m² dvakrát denně po dobu dvou týdnů s následnou sedmidenní odpočinkovou pauzou), oxaliplatina (130 mg/m² podávaných jako dvouhodinová infuze v den 1 každé tři týdny) a bevacizumab (7,5 mg/m² podávaných jako 30-90minutová infuze v den 1 každé tři týdny). Po dobu šesti měsíců bylo přežití bez progrese u populace zamýšlené k léčbě 80 % (XELIRI plus bevacizumab) oproti 74 % (XELOX plus bevacizumab). Celková odpověď (kompletní odpověď plus částečná odpověď) byla 45 % (XELOX plus bevacizumab) oproti 47 % (XELIRI plus bevacizumab).
+
+Farmakokinetické/farmakodynamické údaje
+
+Intenzita hlavních toxických účinků objevujících se v souvislosti s irinotekanem (např. průjmu a neutropenie) závisí na expozici (AUC, plocha pod křivkou) původnímu léku a metabolitu SN-38. V monoterapii byla pozorována významná korelace mezi intenzitou hematologické toxicity (snížení počtu leukocytů a neutrofilů v nejnižších hodnotách) či intenzitou průjmu a hodnotami AUC irinotekanu i metabolitu SN-38.
+
+Pacienti se sníženou aktivitou UGT1A1:
+
+Uridin difosfát-glukuronosyl transferáza 1A1 (UGT1A1) se podílí na metabolické inaktivaci aktivního metabolitu irinotekanu SN-38 na inaktivní SN-38 glukuronid (SN-38G). Gen UGT1A1 je vysoce polymorfní, což má za následek individuální variabilitu v kapacitě metabolismu. Jedna specifická změna genu UGT1A1 zahrnuje polymorfismus v promotorové oblasti známý jako varianta UGT1A1*28. Tato varianta spolu s dalšími kongenitálními poruchami exprese UGT1A1 (jako je Crigler-Najjarův a Gilbertův syndrom) je spojována se sníženou aktivitou tohoto enzymu. Údaje z metaanalýzy naznačují, že u pacientů s Crigler- Najjar syndromem (typu 1 a 2) nebo těch, kteří jsou homozygotní v UGT1A1*28 alele (Gilbertův syndrom), je zvýšené riziko hematologické toxicity (stupně 3 a 4) po podání irinotekanu ve středně vysokých nebo vysokých dávkách (>150 mg/m²). Vztah mezi genotypem UGT1A1 a výskytem průjmu způsobeného irinotekanem nebyl stanoven.
+
+Pacientům, u nichž je známo, že jsou homozygotní v UGT1A1*28, má být podána normálně stanovená  zahajovací  dávka  irinotekanu.  Nicméně  tito  pacienti  mají  být  sledováni na hematologickou toxicitu. Snížená zahajovací dávka irinotekanu se musí zvážit u pacientů, u kterých se hematologická toxicita objevila při předchozí léčbě. Přesné snížení zahajovací dávky u populace těchto pacientů nebylo stanoveno a všechny následné úpravy dávky musí být založeny na toleranci pacienta k léčbě (viz body 4.2 a 4.4).
+
+V současné době nejsou k dispozici dostatečné údaje k posouzení prospěšnosti stanovení genotypu UGT1A1.
+
+
+
+
+18
+
+5.2  Farmakokinetické vlastnosti
+Ve fázi I studie prováděné na 60 pacientech s režimem dávkování formou intravenózní infuze dávky 100 až 750 mg/m² podávané po dobu 30 minut každé tři týdny, vykázal irinotekan dvou- nebo třífázovou eliminaci. Průměrná plazmatická clearance byla 15 l/h/m² a distribuční objem při ustáleném stavu (Vdss) byl 157 l/m². Průměrný plazmatický poločas v první fázi třífázového modelu byl 12 minut, druhé fáze 2,5 hodiny a poločas poslední fáze byl 14,2 hodiny. Eliminace SN-38 z plazmy byla dvoufázová s průměrným eliminačním poločasem v poslední fázi 13,8 hodin. Průměrné maximální koncentrace irinotekanu a SN-38 v plazmě na konci infuze doporučené dávky 350 mg/m² byly 7,7 µg/ml, respektive 56 ng/ml a průměrné hodnoty plochy pod křivkou (AUC) byly 34 µg.h/ml, respektive 451 ng.h/ml. Velká variabilita farmakokinetických parametrů mezi jednotlivými pacienty je pozorována zejména u SN-38.
+
+Populační  farmakokinetická  analýza  irinotekanu  byla  provedena  u 148 pacientů s kolorektálním karcinomem s metastázami léčených podle různých režimů a různými dávkami ve studii fáze II. Farmakokinetické parametry, odhadnuté pro model se třemi kompartmenty, byly podobné těm, jež byly zjištěny ve studii fáze I. Všechny studie ukázaly, že  expozice  irinotekanu  (CPT-11)  nebo  SN-38  stoupají  proporcionálně  s podanou dávkou CPT-11; jejich farmakokinetické chování nezávisí na počtu předchozích cyklů a na léčebném režimu.
+Vazba proteinu v plazmě na irinotekan a SN-38 in vitro byla přibližně 65 %, respektive 95 %. Studie hmotnostní rovnováhy a metabolismu za použití léčiva označeného izotopem
+¹⁴C ukázaly, že více než 50 % dávky irinotekanu podané intravenozně je vyloučeno
+v nezměněné formě, 33 % je vyloučeno stolicí hlavně prostřednictvím žluči, a 22 % je vyloučeno močí.
+Nejméně 12 % dávky se vyloučí každou ze dvou metabolických drah:
+•  Hydrolýzou zprostředkovanou karboxylesterázami, čímž se získává aktivní metabolit SN- 38, který se vylučuje hlavně glukuronizací a dále ledvinovou a žlučovou cestou (méně než 0,5 % dávky irinotekanu). SN-38-glukuronid se pravděpodobně následně hydrolyzuje ve střevě.
+
+•  Oxidací, jíž napomáhají enzymy CYP3A. Jejím výsledkem je rozevření vnějšího piperidinového kruhu s formací derivátu kyseliny aminopentanové (APC) a primárního aminového derivátu (NPC) (viz bod 4.5).
+
+Hlavním prvkem v plazmě je nezměněný irinotekan, po němž následuje APC, SN-38- glukuronid a SN-38. Pouze SN-38 má významný cytotoxický účinek.
+
+U pacientů, kteří mají bilirubinemii 1,5- až 3krát vyšší než horní hranici normálního rozsahu, je clearance irinotekanu snížena asi o 40 %. U těchto pacientů vede dávka 200 mg/m² irinotekanu k plazmatické expozici léku srovnatelné s expozicí pozorovanou při dávce
+350 mg/m² podané pacientům s karcinomem s normálními jaterními parametry.
+
+5.3       Předklinické údaje vztahující se k bezpečnosti
+Ukázalo se, že irinotekan a SN-38 mají mutagenní účinky v testu chromozomální aberace in vitro na buňkách CHO i v mikronukleovém testu in vivo u myší. Při Amesově testu se však ani u jedné z těchto látek žádný mutagenní potenciál neprojevil.
+
+
+
+19
+
+U potkanů, jimž se jednou týdně po 13 týdnů podávala maximální dávka 150 mg/m² (méně než polovina doporučené dávky u člověka), nebyly v období 91 týdnů od konce podávání hlášeny žádné nádory spojené s léčbou.
+Studie toxicity byly provedeny u jednorázové dávky i opakovaných dávek na myších, potkanech  a  psech.  Hlavní  toxické  účinky  byly  pozorovány  v lymfatickém  a hematopoetickém systému. U psů byl hlášen opožděný průjem spojený s atrofií a fokální nekrózou střevní mukózy. U psů byla dále zjištěna alopecie. Vážnost těchto účinků závisela na dávce a účinky byly reverzibilní.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Sorbitol (E 420) Kyselina mléčná (E 270)
+Roztok hydroxidu sodného 1 mol/l - k úpravě pH a/nebo roztok kyseliny chlorovodíkové 1 mol/l - k úpravě pH
+Voda na injekci.
+
+6.2  Inkompatibility
+Tento přípravek se nesmí mísit s jinými léčivými přípravky, kromě těch, které jsou uvedeny v bodě 6.6.
+
+6.3  Doba použitelnosti
+Doba použitelnosti neotevřených injekčních lahviček: 3 roky
+
+Injekční lahvičky irinotekanu je nutné po otevření ihned spotřebovat, neboť neobsahují žádné antimikrobiální konzervační látky.
+Stabilita po naředění:
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána v roztoku glukózy 50 mg/ml (5%) a roztoku chloridu sodného 9 mg/ml (0,9%) po dobu 72 hodin při teplotě 2– 8 °C. Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele, normálně nemá být doba delší než 24 hodin při teplotě 2 až 8 °C, pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte injekční lahvičky v krabičce. Chraňte před mrazem.
+Injekční lahvičky irinotekan hydrochloridu, koncentrátu pro infuzní roztok je nutné chránit před světlem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho naředění jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+•  2 ml v injekční lahvičce Onco-Tain typu 1 z hnědého skla s fluorbutylovým gumovým uzávěrem s teflonovým povlakem na vnitřní straně.
+
+
+
+20
+
+•  5 ml v injekční lahvičce Onco-Tain typu 1 z hnědého skla s fluorbutylovým gumovým uzávěrem s teflonovým povlakem na vnitřní straně.
+•  25 ml v injekční lahvičce Onco-Tain typu 1 z hnědého skla s fluorbutylovým gumovým uzávěrem s teflonovým povlakem na vnitřní straně.
+
+Jedno balení obsahuje 1 injekční lahvičku. Na trhu nemusí být všechny velikosti balení.
+Onco-Tain je injekční lahvička opatřená systémem zabraňujícím rozlití obsahu; je ve vlastnictví společnosti Hospira.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a zacházení s ním
+Roztok se před použitím musí naředit. Pouze k jednorázovému použití. Všechen nepoužitý roztok se musí zlikvidovat.
+
+Vzhled přípravku po naředění je čirý, bezbarvý až světle žlutý roztok bez viditelných částic.
+Stejně jako u jiných cytostatik je třeba při přípravě infuze irinotekanu a zacházení s ní zvýšené opatrnosti. Požaduje se použití ochranných brýlí, masky a rukavic. Těhotné ženy nesmí pracovat s cytotoxicky.
+
+Jestliže se koncentrát irinotekanu nebo infuzního roztoku dostane do styku s pokožkou, musí se zasažené místo okamžitě důkladně umýt mýdlem a vodou. Dojde-li ke kontaktu koncentrátu irinotekanu nebo infuzního roztoku se sliznicemi, musí se okamžitě opláchnout vodou.
+
+Příprava k podání intravenozní infuze. Stejně jako jiné infuze je nutno infuzi irinotekanu připravit asepticky (viz bod 6.3).
+
+Jestliže se v injekční lahvičce nebo infuzním roztoku zjistí nějaké usazeniny, musí se přípravek zlikvidovat podle standardního postupu pro likvidaci cytotoxických látek.
+
+Za aseptických podmínek odeberte požadovaný objem koncentrátu irinotekanu z injekční lahvičky kalibrovanou injekční stříkačkou a vstříkněte do 250ml infuzního vaku nebo lahve, která obsahuje buď 9 mg/ml (0,9%) roztoku chloridu sodného nebo 50 mg/ml (5%) glukózu. Infuzi je nutné důkladně promíchat otáčením v ruce.
+Likvidace: Všechen materiál použitý ke zředění a podávání musí být zlikvidován v souladu s místními předpisy pro zacházení s cytotoxickými látkami.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Hikma Farmacêutica (Portugal), S.A.
+Estrada do Rio da Mó n.º 8, 8A e 8B, Fervença 2705-906 Terrugem SNT
+Portugalsko
+
+
+8.   REGISTRAČNÍ ČÍSLO
+44/171/04-C
+
+
+
+
+21
+
+9.       DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 3.11.2004
+Datum posledního prodloužení registrace: 10.10.2015
+
+
+10.      DATUM REVIZE TEXTU
+12. 10. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22

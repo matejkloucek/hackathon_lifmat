@@ -1,0 +1,290 @@
+Sp. zn. sukls115688/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Biphozyl roztok pro hemodialýzu/hemofiltraci
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Přípravek Biphozyl se dodává ve dvoukomorovém vaku. Konečný rekonstituovaný roztok se získá po otevření přepážky mezi oběma komorami a smíchání jejich obsahu.
+
+Před rekonstitucí
+Složení v malé komoře:
+Magnesii chloridum hexahydricum    3,05 g/l
+
+Složení ve velké komoře:
+Natrii chloridum              7,01 g/l
+Natrii hydrogenocarbonas         2,12 g/l
+Kalii chloridum              0,314 g/l
+Natrii hydrogenophosphas dihydricus  0,187 g/l
+
+Po rekonstituci
+Složení rekonstituovaného roztoku:
+Léčivé látky                ol/l         q/l
+Sodík           Na⁺
+Draslík          K⁺
+Hořčík          Mg²⁺
+Chlorid          Cl⁻
+Hydrogenfosforečnan  HPO ²⁻
+Hydrogenuhličitan    HCO ⁻
+
+
+
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Roztok pro hemodialýzu/hemofiltraci Čirý a bezbarvý roztok
+
+Teoretická osmolarita: 290 mosmol/l pH = 7,0–8,0
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Přípravek Biphozyl se používá jako náhradní roztok a jako dialyzát k léčbě akutního poškození ledvin během kontinuální náhrady funkce ledvin (CRRT). Přípravek Biphozyl se používá v postakutní fázi po zahájení
+1
+
+náhrady funkce ledvin, když se pH a koncentrace draslíku a fosfátu vrátí k normě. Přípravek Biphozyl se rovněž používá tehdy, když jsou k dispozici další zdroje pufrů a také během regionální citrátové antikoagulace. Kromě toho se přípravek Biphozyl používá u pacientů s hyperkalcemií.
+
+Přípravek Biphozyl lze rovněž použít v případě otravy léčivy nebo při intoxikacích, kdy jsou látky dialyzovatelné nebo filtrovatelné.
+4.2  Dávkování a způsob podání Dávkování
+Objem použitého přípravku Biphozyl a rychlost, jakou se podává, závisí na koncentraci fosfátů a dalších elektrolytů v krvi, acidobazické rovnováze, bilanci tekutin a celkovém klinickém stavu pacienta. Objem podávaného náhradního roztoku a/nebo dialyzátu bude rovněž záviset na požadované intenzitě (dávce) léčby. Pouze lékař se zkušenostmi s léky pro akutní péči a CRRT (kontinuální náhradou funkce ledvin) smí stanovit podávání přípravku Biphozyl (dávku, rychlost infuze a kumulativní objem).
+Rozsah rychlostí průtoku při použití jako náhradní roztok při hemofiltraci a hemodiafiltraci je:
+Dospělí:    500–3000 ml/h
+
+Rozsah rychlostí průtoku při použití jako dialyzátu při kontinuální hemodialýze a kontinuální hemodiafiltraci
+je:
+Dospělí:    500–2500 ml/h
+
+Běžně používaná kombinovaná celková rychlost průtoku pro CRRT (dialyzát a náhradní roztoky) u dospělých
+je cca 2000 až 2500 ml/h, což odpovídá dennímu objemu roztoku přibližně 48 až 60 l.
+
+Pediatrická populace
+U dětí, od novorozenců po dospívající do 18 let, je rozsah rychlostí průtoku při použití jako substituční roztok při hemofiltraci a hemodiafiltraci a jako dialyzační roztok (dialyzát) při kontinuální hemodialýze a kontinuální hemodiafiltraci 1000 až 4000 ml/h/1,73 m².
+U dospívajících (12-18 let) se má použít doporučená dávka pro dospělé v případě, že vypočtená pediatrická dávka překračuje maximální dávku pro dospělé.
+
+Starší pacienti
+Dospělí > 65 let: Důkazy a zkušenosti z klinických studií naznačují, že použití u starší populace nepřináší žádné změny týkající se bezpečnosti a účinnosti.
+
+Způsob podání
+Intravenózní podání a použití při hemodialýze.
+Pokud je přípravek Biphozyl používán jako náhradní roztok, podává se do mimotělního okruhu před (predilučně) nebo za (postdilučně) hemofiltrem či hemodiafiltrem.
+Pokud je přípravek Biphozyl používán jako dialyzát, podává se do dialyzátové části mimotělního filtru
+oddělené od krevního řečiště pomocí polopropustné membrány.
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6 (Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním).
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Hypokalcemie, pokud není kalcium dodáváno pacientovi z jiných zdrojů.
+Hyperkalemie.
+Hyperfosfatemie.
+
+2
+
+4.4  Zvláštní upozornění a opatření pro použití
+Roztok smí být používán pouze lékařem kompetentním k léčbě pomocí CRRT s využitím hemofiltrace, hemodiafiltrace a hemodialýzy nebo pod jeho dohledem.
+
+Upozornění
+Přípravek Biphozyl se nemá používat u pacientů s hyperkalemií (viz bod 4.3). Koncentrace draslíku v séru se musí sledovat před hemofiltrací a/nebo hemodialýzou a v jejich průběhu.
+
+Jelikož v roztoku přípravku Biphozyl je obsažen draslík, po zahájení léčby se může přechodně vyskytnout hyperkalemie. Snižte rychlost infuze a ověřte, že je dosaženo požadované koncentrace draslíku. Pokud se tím hyperkalemie nevyřeší, okamžitě zastavte podávání přípravku.
+
+Jestliže se při použití přípravku Biphozyl jako dialyzátu rozvine hyperkalemie, může být nutné zvýšit rychlost odstraňování draslíku podáním dialyzátu bez obsahu draslíku.
+
+Jelikož v roztoku přípravku Biphozyl jsou obsaženy fosfáty, po zahájení léčby se může přechodně vyskytnout hyperfosfatemie. Snižte rychlost infuze a ověřte, že je dosaženo požadované koncentrace fosfátů. Pokud se tím hyperfosfatemie nevyřeší, okamžitě zastavte podávání přípravku (viz bod 4.3).
+U pacientů léčených přípravkem Biphozyl je potřeba pravidelně sledovat hladiny elektrolytů a parametry acidobazické rovnováhy v krvi. Přípravek Biphozyl obsahuje hydrogenfosforečnan, což je slabá kyselina, která může mít vliv na acidobazickou rovnováhu pacienta. Pokud během léčby přípravkem Biphosyl dojde k rozvoji nebo zhoršení metabolické acidózy, může být zapotřebí snížit rychlost infuze nebo úplně zastavit podávání přípravku.
+Vzhledem k tomu, že přípravek Biphozyl neobsahuje glukózu, může jeho podání vést k hypoglykemii. Hladiny glykemie je potřeba pravidelně sledovat u diabetických pacientů (včetně pečlivého posouzení pacientů dostávajících inzulin nebo jiné přípravky na snížení glukózy) a brát je také v úvahu u nediabetických pacientů, např. s rizikem asymptomatické hypoglykemie během procedury. Jestliže se hypoglykemie rozvine, je třeba zvážit použití roztoku s obsahem glukózy. Pro zachování požadované glykemické kontroly mohou být nutná další nápravná opatření.
+Je třeba důsledně dodržovat návod k použití (viz bod 6.6). Roztoky v obou komorách se musí před použitím smíchat. Použití kontaminovaného roztoku může vést k sepsi a šoku.
+Používejte výhradně s odpovídajícím mimotělním přístrojem určeným k náhradě funkce ledvin.
+
+Zvláštní opatření pro použití
+Přípravek Biphozyl neobsahuje kalcium a může způsobit hypokalcemii (viz bod 4.8). Může být nutná infuze
+kalcia.
+Pro lepší komfort pacienta je možné přípravek Biphozyl ohřát na teplotu 37 °C. Ohřívání roztoku před použitím je třeba provádět pouze pomocí suchého tepla před jeho rekonstitucí. Roztoky se nemají ohřívat ve vodě ani v mikrovlnné troubě. Před podáním má být přípravek Biphozyl vizuálně zkontrolován , zda neobsahuje částice a zda nedošlo ke změně zabarvení, kdykoli to roztok a jeho obal umožňují. Roztok smíte podat pouze tehdy, je-li čirý a přepážka je neporušená.
+Během procedury je nutné důkladně sledovat hemodynamický stav pacienta, bilanci tekutin, hladinu elektrolytů a acidobazickou rovnováhu, včetně všech přijímaných a vylučovaných tekutin, a to i těch, které se přímo nevztahují k CRRT.
+Obsah hydrogenuhličitanu v přípravku Biphozyl se nachází na spodní hranici normálního rozmezí koncentrace v krvi. Přípravek Biphozyl je vhodný při používání citrátové antikoagulace (neboť citrát se metabolizuje na hydrogenuhličitan) nebo pokud byla pomocí CRRT obnovena normální hodnota pH. Je nezbytné hodnotit
+
+
+3
+
+potřebu pufrů opakovanými měřeními parametrů acidobazické rovnováhy v krvi a kontrolou celé léčby. Může být zapotřebí roztok s vyšším obsahem hydrogenuhličitanu.
+V případě hypervolemie lze rychlost čisté ultrafiltrace předepsanou pro zařízení CRRT zvýšit a/nebo rychlost podávání jiných roztoků, než jsou náhradní roztoky a/nebo dialyzační roztok, snížit.
+V případě hypovolemie lze rychlost čisté ultrafiltrace předepsanou pro zařízení CRRT snížit a/nebo rychlost podávání jiných roztoků, než jsou náhradní roztoky a/nebo dialyzační roztok, zvýšit (viz bod 4.9).
+Obecná upozornění/kontraindikace týkající se léčby viz bod 4.3.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Koncentrace filtrovatelných/dialyzovatelných léčiv v krvi se může během léčby snížit, jelikož jsou odstraňovány hemodialyzačním přístrojem, hemofiltrem či hemodiafiltrem. Pokud je u léčiv odstraněných během léčby zapotřebí znovu dosáhnout požadovaných krevních koncentrací, použije se odpovídající nápravná léčba.
+
+Další zdroje fosfátů (např. hyperalimentační nápoje) mohou mít vliv na sérovou koncentraci fosfátů a zvýšit
+riziko hyperfosfatemie.
+
+Další hydrogenuhličitan sodný (nebo pufrovací činidlo) obsažený v tekutinách pro CRRT nebo v jiných tekutinách může zvyšovat riziko metabolické alkalózy.
+
+Citrát použitý jako antikoagulant přispívá k celkovému objemu pufru a může snižovat hladiny vápníku
+v plazmě.
+
+4.6  Fertilita, těhotenství a kojení
+Fertilita
+Nejsou očekávány žádné účinky na fertilitu, neboť sodík, draslík, hořčík, chlorid, hydrogenfosforečnan
+a hydrogenuhličitan jsou normálními složkami krve.
+
+Těhotenství a kojení
+Nejsou zdokumentovány žádné klinické údaje o použití přípravku Biphozyl během těhotenství a kojení. Přípravek Biphozyl smí být podáván těhotným a kojícím ženám pouze v případě jednoznačné potřeby.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Není známo, že by přípravek Biphozyl ovlivňoval schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+K nežádoucím účinkům může dojít vlivem podání roztoku Biphozyl nebo dialyzační léčby. Zvláštní opatření pro použití byla popsána v bodě 4.4.
+Po uvedení přípravku na trh byly hlášeny následující nežádoucí účinky. Hemofiltrační a hemodialyzační roztoky pufrované hydrogenuhličitanem jsou obecně dobře snášeny. Níže uvedená tabulka používá třídy orgánových systémů dle klasifikace MedDRA (na úrovni TOC a preferovaného termínu). Četnost z dostupných údajů nelze určit.
+
+
+Třídy    orgánových systémů      podle MedDRA
+Poruchy metabolismu a
+výživy
+Preferovaný termín
+
+
+Elektrolytová    nerovnováha,    např.: hypokalcemie, hyperkalemie, hyperfosfatemie
+Nerovnováha tekutin, např.: hypervolemie*, hypovolemie*
+Četnost
+
+
+není známo není známo
+
+
+4
+
+
+
+Cévní poruchy Gastrointestinální
+poruchy
+
+Poruchy    svalové
+a kosterní   soustavy
+a pojivové tkáně
+Poruchy  acidobazické  rovnováhy,  např. metabolická acidóza
+Hypotenze* Nauzea* Zvracení* Svalové křeče*
+není známo
+
+není známo není známo není známo není známo
+*Nežádoucí účinky, které obecně souvisí s dialyzační léčbou.
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+Předávkování přípravkem Biphozyl může vést k vážnému klinickému stavu, např. městnavému srdečnímu selhání, poruchám elektrolytové nebo acidobazické rovnováhy.
+• Pokud dojde k hypervolemii nebo hypovolemii, je nutné přesně dodržet postup řešení hypervolemie nebo hypovolemie uvedený v bodě 4.4.
+• Pokud při předávkování dojde k metabolické acidóze a/nebo hyperfosfatemii, bez prodlení ukončete
+podávání přípravku. V případě předávkování neexistuje žádné specifické antidotum. Riziko může být sníženo pečlivým sledováním pacienta během léčby (viz body 4.3 a 4.4).
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti Farmakoterapeutická skupina: Hemofiltrační roztoky ATC kód: B05ZB
+
+Složky přípravku Biphozyl jsou přirozeně a fyziologicky se vyskytující elektrolyty. Ionty sodíku, draslíku, hořčíku, chloridu a fosfátu jsou přítomny v koncentracích podobných fyziologickým hladinám v plazmě. Koncentrace těchto elektrolytů jsou stejné, ať už je roztok použit jako náhradní nebo jako dialyzát.
+
+Koncentrace sodíku a draslíku v náhradních roztocích jsou udržovány v normálním rozmezí koncentrace v séru.  Koncentrace  chloridu  v přípravku  závisí  na  relativním  množství  ostatních  elektrolytů. Hydrogenuhličitan, fyziologický pufr v těle, se používá jako alkalizující pufr.
+
+Z farmakodynamického hlediska je tento lékový produkt po rekonstituci farmakologicky neaktivní. Látky obsažené v léčivu jsou normálními složkami fyziologické plazmy a jejich koncentrace v roztocích jsou zaměřeny pouze na obnovu či normalizaci acidobazické a elektrolytové rovnováhy v plazmě. Při použití přípravku Biphozyl v terapeutické dávce se neočekávají žádné toxické účinky.
+
+5.2  Farmakokinetické vlastnosti
+
+5
+
+Ionty sodíku, draslíku, hořčíku, chloridu a fosfátu jsou přítomny v koncentracích podobných fyziologickým hladinám v plazmě. Absorpce a distribuce složek přípravku Biphozyl závisí na klinickém a metabolickém stavu pacienta a reziduální funkci jeho ledvin. Všechny složky jsou přítomny ve fyziologických koncentracích. Další farmakokinetické studie proto nejsou v tomto případě považovány za podstatné ani použitelné.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Látky obsažené v léčivu jsou fyziologickou součástí lidské plazmy. Podle dostupných informací a klinických zkušeností s těmito látkami používanými při chronické léčbě renálního selhání nebo na jednotkách intenzivní péče se při terapeutické dávce neočekávají žádné toxické účinky.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+
+6.1  Seznam pomocných látek
+Malá komora:     Voda pro injekci
+Zředěná kyselina chlorovodíková (k úpravě pH) E 507
+Velká komora:     Voda pro injekci
+Oxid uhličitý (k úpravě pH) E 290
+
+6.2  Inkompatibility
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+
+6.3  Doba použitelnosti
+18 měsíců
+
+Chemická a fyzikální stabilita rekonstituovaného roztoku během používání byla prokázána po dobu 24 hodin při teplotě +22 °C. Není-li přípravek použit okamžitě, za dobu uchovávání během používání a za podmínky před použitím zodpovídá uživatel. Tato doba nesmí přesáhnout 24 hodin včetně trvání léčby.
+
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání. Chraňte před mrazem.
+Podmínky uchovávání po rekonstituci jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+Balení představuje dvoukomorový vak vyrobený z vícevrstvého filmu obsahujícího polyolefiny a elastomery. Vak o objemu 5000 ml je tvořen malou komorou (250 ml) a velkou komorou (4750 ml). Obě komory jsou odděleny přepážkou. Vak je vybaven injekčním konektorem (nebo jehlovou spojkou) vyrobeným z polykarbonátu (PC) a konektorem typu luer (PC) s ventilem ze silikonové pryže k připojení vhodné linky s roztokem. Vak je zabalen do průhledného obalu vyrobeného z polymerního filmu.
+Velikost balení: 2 x 5000 ml v krabici
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Roztok v malé komoře se otevřením přepážky přidá k roztoku ve velké komoře až bezprostředně před použitím. Rekonstituovaný roztok má být čirý a bezbarvý.
+
+Během aplikace pacientovi je nutné dodržovat aseptickou techniku.
+Používejte pouze tehdy, jsou-li obal a uzávěry neporušené, přepážka je uzavřená a roztok je čirý. Vak silně stiskněte a ověřte, že neprosakuje. Pokud zjistíte netěsnost, ihned roztok zlikvidujte, jelikož již nelze zaručit sterilitu přípravku.
+6
+
+Velká komora je vybavena injekčním portem, kterým lze po rekonstituci roztoku přidávat další potřebné léčivé přípravky. Je v odpovědnosti uživatele posoudit kompatibilitu přidávaných léčivých přípravků s přípravkem Biphozyl kontrolováním, zda nedošlo ke změně zabarvení a/nebo vzniku sraženiny, nerozpustných komplexů nebo krystalů. Před přidáním léčiva ověřte, že je rozpustné a stabilní v tomto přípravku a že rozsah pH přípravku Biphozyl je vyhovující (rekonstituovaný roztok má pH 7,0–8,0).
+Aditiva mohou být inkompatibilní. Je nutné si přečíst pokyny k použití přidávaného léčiva.
+
+Po přidání aditiv roztok důkladně promíchejte. Přidávání a míchání aditiv musí být vždy provedeno před připojením vaku s roztokem k mimotělnímu okruhu.
+Obal z vaku sundejte až bezprostředně před jeho použitím.
+Přidržte malou komoru oběma rukama a stiskněte ji, dokud se v přepážce mezi oběma komorami nevytvoří štěrbina. Zatlačte oběma rukama na velkou komoru, dokud se přepážka úplně neotevře.
+Jemným protřepáním vaku zajistěte úplné promíchání roztoku. Roztok je nyní připraven k použití a je nutné jej ihned použít.
+Dialyzační linku nebo linku náhrady lze připojit k jednomu nebo druhému přístupovému portu. Po připojení ověřte, zda může tekutina volně plynout.
+
+Rekonstituovaný roztok slouží pouze k jednorázovému použití. Veškerý nepoužitý roztok musí být zlikvidován.
+Roztok lze zlikvidovat vylitím do odpadních vod, aniž by došlo k poškození životního prostředí.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Baxter Holding B.V. Kobaltweg 49
+3542 CE Utrecht Nizozemsko
+
+
+8.  REGISTRAČNÍ ČÍSLO/ČÍSLA
+
+87/101/15-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 25. 2. 2015
+Datum posledního prodloužení registrace: 28. 4. 2019
+
+
+10.  DATUM REVIZE TEXTU
+28. 5. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+7

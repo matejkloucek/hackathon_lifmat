@@ -1,0 +1,241 @@
+sp.zn. sukls234479/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Lithium Chlorid 0,15 mmol/ml LCO injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml roztoku obsahuje lithii chloridum 6,36 mg, což odpovídá 0,15 mmol. Jedna 10 ml ampule obsahuje lithii chloridum 63,60 mg , což odpovídá 1,5 mmol. Úplný seznam pomocných látek viz bod 6.1
+
+
+3.   LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý bezbarvý roztok prakticky prostý viditelných částic.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutická indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+Určen je pouze pro in vivo měření srdečního výdeje pomocí LiDCO Systému.
+
+4.2  Dávkování a způsob podání
+
+Optimalizace dávky pro stanovení srdečního výdeje
+Optimální dávka ke stanovení srdečního výdeje je minimální dávka, která docílí koncentrace lithia v arteriální krvi v rozsahu 0,2 mmol/l do 0,8 mmol/l při použití dávky 0,075 mmol (0,5 ml), 0,15 mmol (1 ml) nebo 0,3 mmol (2 ml) injekčního roztoku Lithium Chlorid 0,15mmol/ml LCO.
+U pacientů, u kterých se předpokládá vyšší počet stanovování srdečního výdeje, je nejlépe začít s iniciální dávkou 0,15 mmol, tj. 1,0 ml injekčního roztoku chloridu lithného.
+Monitor LiDCO Systému hlásí “Alert” pokud dávka vytvoří křivku s vrcholem pod hranicí 0,2 mmol/l. Vrcholy křivky mezi 0,1 a 0,2 mmol/l jsou přípustné, ale přesnost měření může být nižší. Pokud vrchol křivky není v požadovaném rozmezí, dávka má být upravena tak, že jednotlivá dávka nesmí přesáhnout 0,3 mmol, tj. 2ml nebo nesmí být
+nižší než 0,075 mmol, tj. 0,5 ml roztoku.
+
+Pro určení srdečního výdeje by měl být mezi jednotlivými dávkami lithia dodržen interval minimálně 5 minut.
+
+
+
+1
+
+Doporučená dávka Lithium chloridu 0,15mmol/ml LCO je stanovena na základě předpokladu, že váha pacienta je vyšší než 40kg.
+
+Je nutné si uvědomit, že jednorázové měření LiDCO v mezích stanovené diluční křivky je dostačující pro změření srdečního výdeje se stejnou přesností a správností jako průměr ze tří termodilučních měření.
+
+Maximální dávka
+Každá jednotlivá dávka je omezena na maximálně 0,3 mmol (2 ml) chloridu lithného. Celková dávka chloridu lithného by neměla přesáhnout 3 mmol.
+Pediatrická populace
+Lithium chlorid 0,15mmol/ml LCO je u dětí, jejichž hmotnost je nižší než 40kg kontraindikován (viz bod 4.3).
+
+
+Způsob podání
+TENTO PŘÍPRAVEK BY MĚL BÝT POUŽÍVÁN VÝHRADNĚ V SOULADU S NÁVODEM PRO POUŽITÍ LIDCO SYSTÉMU DODÁVANÝM S MONITOREM A MĚL BY BÝT POUŽÍVÁN VÝHRADNĚ NA ODDĚLENÍCH ARO A JEDNOTKÁCH INTENZIVNÍ PÉČE, OPERAČNÍCH SÁLECH A URGENTNÍCH PŘÍJMECH.
+Lithium Chlorid je určený pro použití jedním pacientem a měl by být použit ihned po otevření ampule. Lithium Chlorid je možné natáhnout z ampule do uzavřeného
+zásobníku-stříkačky, dodávaného společností LiDCO a dle pokynů uvedených v Návodu k použití systému LiDCO. Jakýkoliv nepoužitý roztok, zbývající v uzavřeném zásobníku- stříkačce, musí být zlikvidován po třech (3) hodinách.
+Dávka lithia je podávána nitrožilně cestou centrálního žilního katétru.
+
+4.3  Kontraindikace
+
+Použití injekčního roztoku Lithium Chlorid 0,15mmol/ml LCO je kontraindikováno u:
+
+•   pacientů léčených současně lithiem (bilopární porucha)
+•    pacientů jejichž tělesná hmotnost je nižší než 40 kg
+
+•    pacientek v prvním trimestru těhotenství. Další informace v bodě 4.6
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě
+6.1
+
+
+4.4  Zvláštní upozornění a opatření pro použití
+Tento přípravek může být použit pouze s přístrojem LiDCO Systém
+
+1.    Použijte doporučenou dávku. Pokud je sérová hladina vyšší než 0,3 mmol/l, mohou se vyskytnout nepřesnosti a při sérové hladině nad 1,5 mmol/l je lithium toxické.
+
+2
+
+2.   Všechny podané dávky chloridu lithného by měly být zaznamenány v lékařské dokumentaci pacienta.
+
+3.   Mezi jednotlivými měřeními srdečního výdeje LiDCO Systémem by mělo uplynout minimálně 5 minut.
+4.   Krev z odpadního vaku nesmí být pacientovi vracena. Krev v odpadním vaku může být sražená a /nebo kontaminovaná po kontaktu se senzorem.
+5.   LiDCO Systém by neměl být používán 30 minut po jednorázovém či
+kontinuálním podání svalových relaxancií jako např. vecuronium bromide, atracurium besylate a pancuronium bromide. Tyto léky interferují s funkcí lithiové elektrody a nesmí být současně používány.
+
+6.   Na lithiové senzory mají významný vliv další chemické látky: detergenty/surfaktanty a rozpouštědla. Ojedinělé problémy se vyskytly při zjištěné kontaminaci fyziologického roztoku např. ve vacích s fyziologickým roztokem.
+
+7.    K použití LiDCO Systému je potřeba bolusového podání chloridu lithného a fyziologického roztoku, poté následuje odběr vzorku arteriální krve. Systém by měl být obsluhován pouze zdravotnickým personálem náležitě kvalifikovaným k intravenózní aplikaci tekutin a obsluze periferních katetrů. Pro tyto případy je vyžadována obvyklá péče, aby se předešlo: infekci pacienta, rozpojení katetru nebo spojovacích linek, ztrátám arteriální či venózní krve a vzduchové embolii.
+
+8.   Souběžné použití: elektrokauteru, defibrilátoru a rentgenového přístroje může
+způsobit přechodnou interferenci s křivkou na monitoru LiDCO Systému. Z toho důvodu by ve výše uvedených případech nemělo být prováděno měření. Žádná
+podobná interference není známa s infračerveným zářením nebo se zařízením, vytvářejícím vysokofrekvenční záření.
+9    V případech nitrosrdečního zkratu (jako např. infarkt myokardu s rupturou mezikomorové přepážky), by bylo měření srdečního výdeje pomocí LiDCO Systému zkreslené, stejně jako měření thermodiluční metodou. V takových případech je k určení srdečního výdeje potřeba zvážit užití alternativní metody.
+
+10.   Chlorid lithný by neměl být podáván pomocí infuzní linky, která byla použita pro infuzi vazoaktivních nebo jiných potentních léčiv.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Při dodržení doporučeného dávkování není známo žádné vzájemné působení s dalšími léčivými přípravky.
+
+
+
+4.6  Fertilita, těhotenství a kojení
+
+
+
+3
+
+Těhotenství
+Jsou známy případy vzniku teratogenního efektu při používání terapeutických dávek lithia v prvním trimestru, zejména zvýšené riziko Ebsteinovy srdeční anomálie.
+
+Kojení
+I když je lithium distribuováno do extracelulárních tekutin, po podání chloridu lithného pro určení srdečního výdeje je kojení možné.
+
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Není relevantní.
+
+4.8  Nežádoucí účinky
+
+Při dodržování doporučeného dávkování nejsou očekávány žádné nežádoucí účinky související s chloridem lithným.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Lithium je toxické při 5 násobném překročení doporučeného dávkování.
+
+Počátečními projevy toxicity lithia je často postižení centrálního nervového systému s projevy jako letargie, zmatenost, závratě, netečnost, třes rukou a dysartrie. Zřídkakdy se objevují gastrointestinální příznaky, manifestující se nechutenstvím, nauzeou, zvracením nebo průjmy. Následuje nastupující svalová rigidita nebo fascikulace, mírná ataxie, tinitus, narůstající letargie, zvýšené šlachové reflexy, zastřené vidění a vertikální nystagmus.
+
+Intoxikace lithiem může progredovat poruchou vědomí, narůstajícími fascikulacemi a ataxií, hrubým a nepravidelným třesem končetin, choreatoidními pohyby, fenoménem
+“ozubeného kola” a dalšími neurologickými příznaky. Může dojít k bezvědomí, svalovým záškubům, prohlubujícím se svalovým kontrakcím, generalizovaným tonicko-klonickým křečím, kardiovaskulárnímu zhroucení s oligurií, anurií a smrtí. Dále se mohou objevit poruchy srdečního rytmu s prodlouženým QRS komplexem, obrácení vlny T a infarktem myokardu.
+Klinický průběh intoxikace lithiem je velmi různorodý, takže u pacienta může být zaznamenán kterýkoliv z výše uvedených příznaků.
+
+Léčba intoxikace lithiem je hlavně podpůrná a je závislá na klinickém stavu pacienta a sérové koncentraci lithia. U lehké intoxikace lithiem je dostačující  dočasné přerušení
+
+
+4
+
+léčby lithiem a úprava vodní a elektrolytové dysbalance. Těžší případy intoxikace lithiem vyžadují intenzivní péči. Základem léčby je okamžité ukončení podávání lithia a současně podávání diuretik.
+
+Pokud je předpoklad, že je toxicita lithia sekundární, při nízké hladině sodíku, měla by být zahájena nitrožilní infuse fyziologického roztoku. Rychlé podávání velkých objemů krystaloidních roztoků nitrožilně nebo podávání kalia či diuretik nemá patrně  žádný efekt. Ačkoliv diuretika mohou zvyšovat clearance lithia, zvýšená clearance není v léčbě intoxikace dostatečně efektivní.
+Hemodialýza po dobu 8 – 12 hodin je doporučena, pokud je sérová hladina lithia vyšší než 3 mmol/l, a dále je-li sérová koncentrace lithia v rozmezí 2 – 3 mmol/l a pacientův stav se zhoršuje, pokud vodní a elektrolytová dysbalance nereaguje na podpůrnou léčbu, je-li clearance kreatininu a diuréza značně snížena nebo neklesne-li sérová koncentrace lithia po 6 hodinách minimálně o 20 %. Z důvodu redistribuce sérová koncentrace lithia obvykle po 5-6 hodinách od hemodialýzy znovu stoupne. Cílem hemodialýzy je udržet sérovou koncentraci lithia nižší než 1 mmol/l 8 hodin po ukončení hemodialýzy. Peritoneální dialýza je při odstraňování lithia méně účinná a je indikována pouze v případě, kdy není možno použít hemodialýzu.
+
+
+5.   Fᴀʀᴍᴀᴋᴏʟᴏɢɪᴄᴋᴇ́ ᴠʟᴀꜱᴛɴᴏꜱᴛɪ
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Diagnostika ATC kód: V04CX
+Injekce je určená k vytvoření přechodné vrcholové koncentrace lithia v rozmezí 0,2 až 0,8 mmol/l v arteriální krvi. Vrcholová koncentrace je zaznamenána selekční elektrodou lithiového iontu, umístěnou v průtokové kyvetě odebírající vzorek krve z arteriální linky. Diluce lithia je využívána k výpočtu krevního toku pacienta (l/min). Po prvním průchodu lithia a extracelulární/tkáňové distribuci, je koncentrace lithiového iontu nižší než spodní limit lithia při léčbě manických stavů. Doporučená dávka 0,075-0,3 mmol pro měření, při intervalu větším než 5 minut, s maximální kumulativní dávkou 3mmol, byla kalkulována v relaci k nejhorším představitelným scénářům. To zahrnovalo prudké snížení objemu kompartmentů, nízkou tělesnou hmotnost a celkovou absenci vylučování lithia a v takových případech podávání maximálních povolených dávek nejvyšší frekvencí. Při klinických zkouškách byla tato doporučení překročena faktorem tři bez neobvyklé příhody.
+
+5.2  Farmakokinetické vlastnosti
+
+Distribuce a vylučování lithia: injekční roztok  Lithium Chlorid 0,15mmol/ml LCO je plně ionizovaný isotonický roztok.  Diagnostikem je lithiový iont  – podávaný intravenózně  jako  bolus.  Vzhledem  k tomu,  že  lithium  není  metabolizováno, farmakokinetická pozornost je věnována jeho distribuci a vylučování. Farmakokinetická data jsou nastavena na model zahrnující centrální kompartment složený z extracelulární tekutiny (ECT) tj. plazmy a intersticiální tekutiny, a dvou periferních kompartmentů. Objemy distribuce v ECT, mělkém a hlubokém kompartmentu u 71kg muže jsou 16,4, 19,4 a 3,2 litru v tomto pořadí.
+
+
+5
+
+Při popsaném použití  chloridu lithného jako diagnostika pro určení srdečního výdeje nepochybně nedochází k absorpční fázi (na rozdíl od perorálně podávaného lithia) a vrcholová hladina v arteriální plazmě (0,2 až 0,8 mmol/l)  je dosažena během prvního průchodu cirkulací. Hladina v krvi poté kontinuálně klesá tak, jak je iont lithia redistribuován  a  vylučován.  Nejvyšší  koncentrace,  která  je  podstatně  nižší  než v případech perorálně podávaného lithia, je omezena do intravaskulárního kompartmentu, odkud je distribuována do tkání a filtrována v renálních glomerulech.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Všeobecná farmakologie injekčního roztoku Lithium Chlorid 0,15mmol/ml LCO byla zkoumána   cestou  jednorázové   a   mnohonásobné   intravenózní   aplikace, reprodukční/vývojové toxikologie, mutagenními a antigeními studiemi. Na základě těchto předklinických bezpečnostních studií je doporučené dávkování injekčního roztoku Lithium Chlorid 0,15 mmol/ml LCO považováno za bezpečné.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Voda na injekci.
+
+
+6.2  Inkompatibility
+
+Inkompatibility viz bod 4.4.
+
+
+6.3  Doba použitelnosti
+
+5 let.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25ºC. Uchovávejte v původním obalu.
+
+
+6.5  Druh obalu a obsah balení
+
+Čirá bezbarvá skleněná 10 ml ampule (třída I), plastová tvarovaná folie,  papírová skládačka.
+
+Velikost balení: 5 x 10 ml
+
+
+
+
+
+
+6
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Určeno k použití pouze s LiDCO Systémem dle pokynů uvedených v manuálu Systému. Měl by být používán pouze čirý roztok prakticky prostý viditelných částic.
+Nepoužitý zbytek injekčního roztoku Lithium Chloridu 0,15mmol/ml LCO má být zlikvidován v souladu s místními požadavky.
+Lithium Chlorid je určený pro použití jedním pacientem a měl by být použit ihned po otevření ampule. Jakýkoliv zbytek injekčního roztoku Lithium Chlorid 0,15mmol/ml
+LCO v ampuli po použití, by měl být po otevření ampule okamžitě zlikvidován. Lithium Chlorid je možné natáhnout z ampule do uzavřeného zásobníku-stříkačky, dodávaného
+společností LiDCO a měl by být okamžitě použit. Pokud není ihned použit, musí být jakýkoliv nepoužitý roztok, zbývající v uzavřeném zásobníku-injekční stříkačce, zlikvidován po třech (3) hodinách.
+
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+LiDCO Netherlands BV, Van Heuven Goedhartlaan 935A, 1181 LD Amstelveen, Nizozemsko
+8.   REGISTRAČNÍ ČÍSLO
+
+48/225/03-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 2.7.2003
+Datum posledního prodloužení registrace: 15.7.2015
+
+10.  DATUM REVIZE TEXTU
+
+16. 10. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7

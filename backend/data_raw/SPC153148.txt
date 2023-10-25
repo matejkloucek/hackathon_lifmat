@@ -1,0 +1,540 @@
+Sp. zn. sukls227947/2019
+
+Souhrn údajů o přípravku
+
+1. NÁZEV PŘÍPRAVKU
+
+Beriate 1000 IU prášek a rozpouštědlo pro injekční nebo infuzní roztok
+Beriate 2000 IU prášek a rozpouštědlo pro injekční nebo infuzní roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje nominálně:
+1000 IU/2000 IU Factor VIII coagulationis humanus (lidského koagulačního faktoru VIII, FVIII). Po rekonstituci s 10 ml vody pro injekci přípravek Beriate 1000 IU obsahuje 100 IU/ml faktoru VIII. Přípravek Beriate 2000 IU se rekonstituuje v 10 ml vody pro injekci a obsahuje přibližně 200 IU/ml faktoru VIII.
+
+Síla (IU) se stanovuje chromogenní analýzou podle Evropského lékopisu. Střední hodnota specifické
+aktivity přípravku Beriate je přibližně 400 IU/mg bílkoviny.
+Vyrobeno z plazmy lidských dárců. Pomocná látka se známým účinkem:
+Sodík přibližně 100 mmol/l (2,3 mg/ml). Úplný seznam pomocných látek viz bod 6.1
+
+3. LÉKOVÁ FORMA
+
+Prášek a rozpouštědlo pro injekční nebo infuzní roztok.
+Bílý prášek a čiré, bezbarvé rozpouštědlo pro přípravu injekčního/infuzního roztoku.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+Léčba a profylaxe krvácení u pacientů s hemofilií A (vrozený nedostatek faktoru VIII).
+
+Tento přípravek se může použít k léčbě získaného nedostatku faktoru VIII.
+
+4.2 Dávkování a způsob podání
+Léčba musí být pod dohledem lékaře se zkušeností s léčbou hemofilie. Monitorování léčby
+V průběhu léčby se doporučuje vhodné stanovení hladin faktoru VIII k určení podávané dávky a frekvence opakovaných infuzí. Jednotliví pacienti se mohou lišit ve své odpovědi na faktor VIII, což se projevuje různými poločasy a recovery. Dávka vycházející z tělesné hmotnosti si může vyžádat úpravu u pacientů s podváhou nebo nadváhou. V případě větších chirurgických zákroků je nezbytné přesné
+
+
+1
+
+monitorování průběhu substituční terapie pomocí koagulační analýzy (aktivita plazmatického faktoru
+VIII).
+
+Pacienti by měli být monitorováni s ohledem na vývoj inhibitorů faktoru VIII. Viz také bod 4.4.
+
+Dávkování:
+Dávkování a délka substituční terapie závisí na závažnosti deficience faktoru VIII, místě a rozsahu
+krvácení a na klinickém stavu pacienta.
+
+Počet podaných jednotek faktoru VIII se uvádí v mezinárodních jednotkách (IU), které jsou vztaženy k současnému standardu WHO pro přípravky obsahující koncentrát faktoru VIII. Aktivita faktoru VIII
+v plazmě se vyjadřuje buď v procentech (vzhledem k normální lidské plazmě) nebo přednostně v IU (vzhledem k mezinárodnímu standardu pro faktor VIII v plazmě).
+Jedna mezinárodní jednotka (IU) aktivity faktoru VIII odpovídá takovému množství faktoru VIII, které je obsaženo v 1 ml normální lidské plazmy.
+
+Požadovaná léčba
+Výpočet požadované dávky faktoru VIII je založen na empirickém předpokladu, že 1 IU faktoru VIII na kg tělesné hmotnosti zvýší aktivitu faktoru VIII v plazmě přibližně o 2% normální aktivity (2 IU/dl).
+Potřebná dávka se určuje pomocí následujícího vzorce:
+Potřebná dávka = tělesná hmotnost (kg) x požadovaný vzestup faktoru VIII (% nebo IU/dl) x 0,5.
+
+Dávka, která má být podána a frekvence podávání musí vždy směřovat k dosažení klinického účinku
+v individuálním případě.
+
+V případě následujících krvácivých příhod nemá v daném období hladina faktoru VIII klesnout pod danou hodnotu plazmatické aktivity (v % normálu nebo IU/dl). Jako vodítko pro dávkování při krvácení a chirurgických zákrocích lze použít následující tabulku:
+
+
+Stupeň krvácení/
+Typ chirurgického výkonu Krvácení
+Časná hemartróza, krvácení do svalů nebo do dutiny ústní
+
+
+
+Rozsáhlejší hemartróza, krvácení do svalů nebo hematom
+
+Život ohrožující krvácení
+
+Chirurgické výkony Menší chirurgický výkon včetně extrakce zubů Velké chirurgické výkony
+Požadovaná hladina
+faktoru VIII (% nebo IU/dl)
+
+20 - 40
+
+
+
+
+30 - 60
+
+
+
+60 - 100
+
+
+30 - 60
+
+80 - 100
+(před a po operaci)
+
+
+
+2
+Frekvence dávkování (hodiny) /
+Délka trvání léčby (dny)
+
+Opakovat každých
+12 – 24 hodin. Nejméně l den, dokud  se  krvácení,  které  se projevuje bolestí, nezastaví nebo nedojde ke zhojení.
+Infuzi opakovat každých
+12 – 24 hodin po dobu 3 – 4 dnů nebo déle dokud bolest a akutní postižení neustoupí.
+Infuzi opakovat každých 8 – 24
+hodin dokud nebezpečí nepomine.
+
+Každých 24 hodin, nejméně 1 den,
+až je dosaženo zhojení.
+Infuzi opakovat každých 8 – 24 hodin, až do adekvátního zahojení rány, potom pokračovat v léčbě nejméně 7 dní k udržení aktivity faktoru VIII na 30-60 % (IU/dl).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+Profylaxe
+Na dlouhodobou profylaxi proti krvácení pacientům s těžkou hemofilií A obvykle postačí dávky 20 až 40 IU faktoru VIII na kg tělesné hmotnosti podávané v intervalech 2 až 3 dnů. V některých případech, zejména u mladších pacientů, je nutné zvolit kratší intervaly dávkování nebo vyšší dávky.
+
+Pediatrická populace
+Dávkování u dětí závisí na tělesné hmotnosti, a proto platí stejné zásady jako při léčbě dospělých. Frekvence dávkování v individuálních případech má být zaměřena na klinickou účinnost. S léčbou dětí do 6 let jsou již určité zkušenosti (viz bod 5.1.).
+
+Způsob podání
+Intravenózní podání.
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+Před podáním má být přípravek ohřátý na pokojovou teplotu nebo tělesnou teplotu. Podává se injekčně nebo pomalou intravenózní infuzí s rychlostí, která vyhovuje pacientovi. Rychlost injekce nebo infuze nemá překročit 2 ml/min.
+
+Pozorujte pacienta, zda nemá bezprostřední reakce. Pokud se vyskytnou jakékoliv reakce, které mohou mít souvislost s podáváním přípravku Beriate, rychlost infuze se má snížit nebo zastavit, jak to vyžaduje klinický stav pacienta (viz též bod 4.4.).
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Sledovatelnost
+S cílem zlepšit sledovatelnost biologických léčivých přípravků je třeba jasně zaznamenat název a číslo šarže podávaného přípravku.
+
+Hypersenzitivita
+Hypersenzitivita alergického typu je možná.
+Objeví-li se příznaky hypersenzitivity, pacienti mají být poučeni, aby okamžitě přerušili používání tohoto léčivého přípravku a kontaktovali svého lékaře. Pacienti musí být informováni o počátečních příznacích hypersenzitivních reakcí včetně vyrážky, generalizované kopřivky, tlaku na hrudi, dušnosti, hypotenze
+a anafylaxe.
+V případě šoku je třeba dodržovat standardní lékařské postupy pro léčbu šoku. Inhibitory
+Tvorba neutralizujících protilátek (inhibitorů) faktoru VIII je známou komplikací léčby jedinců s hemofilií
+A. Tyto inhibitory jsou obvykle imunoglobuliny IgG zaměřené proti prokoagulační aktivitě faktoru VIII, které jsou kvantifikovány v Bethesda jednotkách (Bethesda Units, BU) na ml plazmy s použitím modifikovaného testu. Riziko vzniku inhibitorů souvisí se závažností onemocnění i s expozicí faktoru VIII, přičemž toto riziko je nejvyšší během prvních 50 dnů expozice, ale pokračuje po celý život, i když je riziko méně časté.
+Klinický význam vzniku inhibitorů bude záviset na titru inhibitoru, přičemž inhibitory nízkého titru představují menší riziko nedostatečné klinické odpovědi než inhibitory vysokého titru.
+
+
+
+4
+
+Obecně platí, že všichni pacienti léčení přípravky s koagulačním faktorem VIII musí být pečlivě sledováni s ohledem na vznik inhibitorů pomocí příslušných klinických pozorování a laboratorních testů. Pokud není dosaženo očekávaných hladin aktivity faktoru VIII v plazmě nebo pokud není krvácení patřičnou dávkou zvládnuto, je třeba provést test na přítomnost inhibitoru faktoru VIII. U pacientů s vysokými hladinami inhibitoru nemusí být terapie faktorem VIII účinná a je třeba zvážit jiné možnosti léčby. Péče o takové pacienty má být vedena lékaři se zkušenostmi v péči o hemofilii a inhibitory faktoru VIII.
+
+Kardiovaskulární příhody
+U pacientů s existujícími kardiovaskulárními rizikovými faktory může zvýšit substituční terapie s FVIII kardiovaskulární riziko.
+
+Komplikace spojené s katetrizací
+Pokud je požadován centrální žilní přístup (CVAD), je třeba zvážit riziko komplikací souvisejících s
+CVAD včetně lokálních infekcí, bakteriémie a trombózy v místě zavedení katetru.
+
+Virová bezpečnost
+Standardní opatření k předcházení infekcím způsobeným podáváním léčivých přípravků připravených z lidské krve nebo plazmy, zahrnují výběr dárců, testování jednotlivých dárců a plazmatických poolů na specifické infekční markery a zařazení účinných výrobních kroků pro inaktivaci nebo odstranění virů. Navzdory těmto opatřením při podávání léků připravených z lidské krve nebo plazmy nelze zcela vyloučit možnost přenosu infekce. Platí to i pro jakékoli neznámé nebo právě objevené viry nebo jiné patogeny.
+Přijatá opatření jsou účinná proti obaleným virům jako je virus lidské imunodeficience (HIV), virus hepatitidy B (HBV) a virus hepatitidy C (HCV) a pro neobalené viry hepatitidy A (HAV) a parvoviru B19.
+
+U pacientů s pravidelným nebo opakovaným příjmem přípravků obsahujících faktor VIII, který se získává
+z lidské plazmy, je třeba zvážit vhodné očkování (proti hepatitidě A a B).
+
+Pediatrická populace
+Uvedená upozornění a opatření se vztahují na dospělé i děti.
+
+Obsah sodíku
+Léčivý přípravek Beriate 1000 IU a Beriate 2000 IU obsahuje 27,55 mg sodíku v jedné injekční lahvičce, což odpovídá 1,4% doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly hlášeny žádné interakce lidského koagulačního faktoru VIII s jinými léčivými přípravky.
+
+4.6 Fertilita, těhotenství a kojení
+Reprodukční studie s faktorem VIII se na zvířatech neprováděly. Těhotenství a kojení
+Vzhledem k vzácnému výskytu hemofilie A u žen nejsou k dispozici zkušenosti týkající se použití faktoru
+VIII během těhotenství a kojení.
+Z uvedených důvodů může být faktor VIII podáván během těhotenství a kojení pouze v takovém případě, pokud je to jednoznačně indikováno.
+
+5
+
+Fertilita
+Nejsou k dispozici žádné údaje o fertilitě.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Beriate nemá žádný vliv na schopnost řídit a obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Hypersenzitivita nebo alergické reakce (které mohou zahrnovat angioedém, pálení a bodání v místě infuze, zimnici, zarudnutí, generalizovanou urtikarii, bolest hlavy, vyrážka, hypotenze, letargie, nauzea, neklid, tachykardie, tlak na hrudi, brnění, zvracení, sípání) byly pozorovány velmi vzácně a mohou se v některých případech rozvinout do závažné anafylaxe (včetně šoku).
+K rozvoji neutralizujících protilátek (inhibitorů) může dojít u pacientů s hemofilií A, kteří jsou léčeni faktorem VIII, včetně přípravku Beriate. Pokud se takové inhibitory objeví, může se tento stav projevit jako nedostatečná klinická odpověď. V těchto případech se doporučuje kontaktovat specializované hemofilické centrum.
+
+Tabulkový přehled nežádoucích účinků
+Následující nežádoucí účinky vycházejí z postmarketingových studií bezpečnosti a z literárních údajů. Tabulka uvedená níže je podle MedDRA klasifikace orgánových systémů.
+Frekvence byly hodnoceny podle následující konvence: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1000 až <1/100); vzácné (≥1/10000 až <1/1000); velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit).
+
+
+Standardní třída orgánových systémů dle MedDRA Poruchy krve a lymfatického systému
+Celkové poruchy a reakce v místě aplikace
+Poruchy imunitního systému
+Nežádoucí účinek Inhibice faktoru VIII Horečka
+Hypersenzitivita
+(alergické reakce)
+Četnost
+
+Méně časté (PTP)* Velmi časté (PUP)* Velmi vzácné
+
+Velmi vzácné
+
+*Četnost vychází ze studií se všemi přípravky s faktorem VIII, které zahrnovaly pacienty se závažnou hemofilií A. PTP = dříve léčení pacienti, PUP = dříve neléčení pacienti
+Informace o virové bezpečnosti viz bod 4.4. Pediatrická populace
+Očekává se, že frekvence, typ a závažnost nežádoucích účinků u dětí budou stejné jako u dospělých.
+
+
+
+
+
+
+
+
+
+
+6
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Žádné příznaky předávkování lidským koagulačním faktorem VIII nejsou dosud známy.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Koagulační faktory: krevní koagulační faktory ATC kód: B02BD02
+Komplex faktoru VIII/von Willebrandův faktor je tvořen ze dvou molekul (faktor VIII a von
+Willebrandův faktor) s různými fyziologickými funkcemi.
+Po infuzi pacientovi s hemofilií se v jeho krevním oběhu faktor VIII váže na von Willebrandův faktor.
+
+Aktivovaný faktor VIII působí jako kofaktor aktivovaného faktoru IX, který urychluje konverzi faktoru X na aktivovaný faktor X. Aktivovaný faktor X katalyzuje přeměnu protrombinu na trombin. Trombin katalyzuje přeměnu fibrinogenu na fibrin a může vzniknout krevní sraženina.
+Hemofilie A je dědičná porucha koagulace krve, která je vázaná na pohlaví a způsobuje sníženou hladinu faktoru VIII: C, která vyvolává těžké krvácení do kloubů, svalů nebo vnitřních orgánů a to buď spontánně nebo v důsledku úrazu nebo chirurgického výkonu. Plazmatické hladiny faktoru VIII se zvyšují substituční terapií a tímto způsobem umožňují přechodnou úpravu nedostatku faktoru VIII a sklonu ke krvácení.
+
+Kromě úlohy jako ochranného proteinu faktoru VIII, von Willebrandův faktor zprostředkovává adhezi
+trombocytů k místům cévních poranění a hraje roli v agregaci trombocytů.
+
+K dispozici jsou údaje o léčbě 16 dětí mladších 6 let a výsledky klinické účinnosti a bezpečnosti jsou
+podobné jako u starších pacientů.
+
+Je třeba poznamenat, že roční výskyt krvácení (ABR) není porovnatelný mezi různými koncentráty faktorů ani mezi různými klinickými studiemi.
+
+5.2 Farmakokinetické vlastnosti
+
+Po intravenózním podání se hladina faktoru VIII snižuje mono- až biexponenciálně. Konečný poločas je v rozmezí 5 a 22 hodin se střední hodnotou asi 12 hodin. Zvýšení aktivity faktoru VIII po podání jedné IU faktoru VIII/kg tělesné hmotnosti (incremental recovery) představovalo přibližně 2 % s variabilitou mezi jednotlivými pacienty (1,5 až 3 %). Střední rezidenční čas (MRT) byl 17 hodin (směrodatná odchylka 5,5 hodiny), střední hodnota plochy pod křivkou plazmatických koncentrací (AUDC) byla 0,4 h × kg / ml (směrodatná odchylka 0,2), průměrná clearance 3 ml/h/kg (směrodatná odchylka 1,5 ml/h/kg).
+
+
+7
+
+Pediatrická populace
+U dětské populace jsou k dispozici omezené farmakokinetické údaje.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Obecná toxicita
+Toxikologické studie při opakovaných dávkách se neprováděly z důvodu tvorby protilátek proti
+heterologní bílkovině.
+
+Toxický účinek na laboratorní zvířata neměly ani dávky několikanásobně vyšší než je doporučená dávka
+pro člověka.
+Zkoušky s tepelně ošetřeným přípravkem s faktorem VIII s polyklonálními precipitujúcimi králičími protilátkami Ouchterlonyho metodou a s testem na pasivní kožní anafylaxi zkoušeným na morčatech nedokázaly změněnou imunologickou reakci v porovnání s nativním proteinem.
+
+Mutagenita:
+Protože klinické zkoušky nezaznamenaly žádné tumorigenní a mutagenní účinky lidského koagulačního
+faktoru VIII, nepovažují se experimentální studie, zejména na heterologních druzích, za smysluplné.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.l Seznam pomocných látek
+
+Glycin
+Dihydrát chloridu vápenatého
+Hydroxid sodný (v malém množství na úpravu pH)
+Sacharóza Chlorid sodný
+
+Dodávané rozpouštědlo: voda pro injekci 10 ml.
+
+6.2 Inkompatibility
+
+Tento léčivý přípravek se nesmí mísit s jinými léčivými přípravky, rozpouštědly a ředidly s výjimkou těch, které jsou uvedeny v bodě 6.1.
+6.3 Doba použitelnosti
+
+3 roky
+
+Chemická a fyzikální stabilita rekonstituovaného přípravku byla prokázána po dobu 8 hodin při teplotě do 25 °C. Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li podán okamžitě, doba uchovávání přípravku v injekční lahvičce nesmí překročit 8 hodin při pokojové teplotě. Po převedení do injekční stříkačky musí být přípravek použit okamžitě (viz také bod 6.6).
+
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte v chladničce (2 °C – 8 °C). Chraňte před mrazem. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+
+
+
+8
+
+V rámci doby použitelnosti může být Beriate uchováván až do 25 °C, nesmí se překročit kumulativní doba uchovávání 1 měsíce. Jednotlivé doby uchovávání přípravku při pokojové teplotě musí být zaznamenány v souladu s celkovou dobou 1 měsíce.
+NEVYSTAVUJTE lahvičky přímému zdroji tepla. Injekční lahvičky nesmí být zahřáté na teplotu vyšší než je tělesná teplota (37 °C).
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+6.5 Druh obalu a obsah balení
+
+Vnitřní obaly:
+Injekční lahvičky z bezbarvého skla (1000 IU a 2000 IU: třídy II), uzavřené pryžovou zátkou pod vakuem (brombutyl), hliníkovým uzávěrem a plastikovým krytem (polypropylen).
+Velikosti balení:
+
+Krabička s 1000 IU obsahuje:
+1 injekční lahvičku s práškem
+1 injekční lahvičku s 10 ml vody pro injekci l přepouštěcí adaptér s filtrem 20/20 Aplikační souprava (vnitřní krabička):
+1 injekční stříkačku 10 ml k jednorázovému použití
+1 venepunkční set
+2 tampony s alkoholem
+1 nesterilní náplast
+
+Krabička s 2000 IU obsahuje:
+1 injekční lahvičku s práškem
+1 injekční lahvičku s 10 ml vody pro injekci l přepouštěcí adaptér s filtrem 20/20 Aaplikační souprava (vnitřní krabička):
+1 injekční stříkačku 10 ml k jednorázovému použití
+1 venepunkční set
+2 tampony s alkoholem
+1 nesterilní náplast
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Způsob podání
+
+Všeobecné pokyny:
+-  Roztok musí být čirý nebo slabě opalescentní. V injekční lahvičce se občas může objevit několik vloček nebo částic. Filtr obsažený v Mix2Vial tyto částice odstraňuje. Tato filtrace neovlivňuje výpočty dávkování. Po filtraci a nasátí (viz níže) rekonstituovaného přípravku do injekční stříkačky musí být rekonstituovaný přípravek v injekční stříkačce před podáním vizuálně zkontrolován na přítomnost částic a změnu barvy. Nepoužívejte roztoky v injekční stříkačce, které jsou zakalené nebo obsahují rezidua (usazeniny/částice).
+-  Jakmile je přípravek převeden do injekční stříkačky, musí být použit okamžitě. Neuchovávejte
+přípravek v injekční stříkačce.
+-  Rekonstituce a nasátí musí být provedeno za aseptických podmínek.
+
+
+
+9
+
+Rekonstituce:
+Zahřejte rozpouštědlo na pokojovou teplotu. Sejměte vyklápěcí víčka z lahviček s práškem
+i s rozpouštědlem, očistěte zátky dezinfekčním roztokem a nechte je oschnout než otevřete balení
+Mix2Vial.
+
+
+1. Otevřete balení Mix2Vial tím, že vyklopíte víčko. Nevytahujte Mix2Vial z blistru!
+
+1
+2. Postavte injekční lahvičku s rozpouštědlem na rovný a čistý povrch, držte ji pevně. Uchopte Mix2Vial společně s blistrem a zatlačte hrot modrého konce adaptéru rovně dolů skrz zátku injekční lahvičky s rozpouštědlem.
+
+2
+3. Opatrně odstraňte blistr ze soupravy Mix2Vial
+tak, že ho držíte za okraj a táhnete svisle vzhůru.
+Přesvědčte se, že jste vytáhli jen blistrový obal
+a ne soupravu Mix2Vial.
+
+
+3
+4. Postavte injekční lahvičku s přípravkem na rovný a pevný povrch. Obraťte injekční lahvičku s rozpouštědlem spolu s nasazenou soupravou Mix2Vial a zatlačte hrot průhledného konce adaptéru rovně dolů skrz zátku injekční lahvičky s přípravkem. Rozpouštědlo se samo automaticky
+4        nasaje do injekční lahvičky s přípravkem.
+5. Uchopte jednou rukou tu část soupravy Mix2Vial, kde je injekční lahvička s práškem a druhou rukou tu část, kde je injekční lahvička od rozpouštědla a odšroubujte je opatrně od sebe proti směru hodinových ručiček na dvě části.
+Odstraňte injekční lahvičku od rozpouštědla
+s modrým adaptérem soupravy Mix2Vial.
+5
+6. Jemně otáčejte injekční lahvičkou s přípravkem
+s připojeným průhledným adaptérem, dokud
+se prášek zcela nerozpustí. Netřepejte s ní.
+
+
+6
+
+
+
+
+
+
+
+
+10
+
+7. Nasajte vzduch do prázdné sterilní injekční stříkačky. Zatímco je injekční lahvička
+s přípravkem dnem dolů, spojte injekční stříkačku s koncovkou Luer Lock soupravy Mix2Vial šroubováním ve směru hodinových ručiček.
+Vytlačte vzduch do injekční lahvičky
+s přípravkem.
+
+7
+
+Natažení a podání:
+
+8. Zatímco držíte píst injekční stříkačky stlačený, obraťte celý systém dnem vzhůru a pomalým vytahováním pístu natáhněte roztok do injekční stříkačky.
+
+
+
+
+8
+9. Po natažení roztoku do injekční stříkačky uchopte pevně válec injekční stříkačky (píst stále směřuje dolů) a odpojte průhledný adaptér soupravy Mix2Vial od injekční stříkačky odšroubováním proti směru hodinových ručiček.
+
+
+
+
+9
+
+Na injekci přípravku Beriate je vhodné použít umělohmotnou injekční stříkačku k jednorázovému použití, neboť roztoky tohoto typu mají tendenci přilnout k zabroušenému skleněnému povrchu, který mají všechny skleněné injekční stříkačky.
+
+Roztok podávejte pomalu intravenózně (viz bod 4.2). Ujistěte se, že do stříkačky s přípravkem nevnikla krev. Použijte venepunkční set, který je dodáván s přípravkem, a vpíchněte jehlu do žíly. Nechejte protékat krev zpět na konec hadičky. Připojte injekční stříkačku k zámku na konci venepunkčního setu.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+CSL Behring GmbH Emil-von-Behring-Str. 76
+35041 Marburg
+Německo
+
+
+
+
+11
+
+8. REGISTRAČNÍ ČÍSLO
+
+Beriate 1000 IU: 75/205/15-C Beriate 2000 IU: 75/206/15-C
+
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 15. 4. 2015
+Datum posledního prodloužení registrace: 8. 11. 2017
+
+
+10. DATUM REVIZE TEXTU
+
+13. 12. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12

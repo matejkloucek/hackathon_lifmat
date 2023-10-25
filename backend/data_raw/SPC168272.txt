@@ -1,0 +1,220 @@
+sp.zn. sukls41246/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Infusio natrii chlorati isotonica MEDIEKOS F 1/1 9mg/ml infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Natrii chloridum           9,00 g
+Voda pro injekci           ad 1000,00 ml mmol/l.:    Na⁺      154,0
+Cl⁻      154,0
+mosm/l:           308
+pH              4,5 – 7,0
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Infuzní roztok.
+Popis přípravku: čirý, bezbarvý roztok
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Tekutinová a elektrolytová náhrada při hypochlorémické alkalóze. Ztráta chloridů a izotonická tekutinová náhrada.
+Krátkodobá náhrada intravaskulárního objemu. Hypotonická a izotonická dehydratace.
+Je nosný roztok pro kompatibilní koncentráty elektrolytů a léčiv.
+Roztok pro přípravu nebo ředění parenterálně podávaných léčiv a externě pro oplachy ran a zvlhčování obvázaných ran.
+
+4.2   Dávkování a způsob podání
+Dávkování je individuální, řídí se indikací a stavem pacienta na základě aktuální potřeby vody a elektrolytů.
+Nejvyšší denní dávka
+40 ml/kg těles. hmotnosti, to odpovídá 6 mmol sodíku na kg těles. hmotnosti. Rychlost infuze
+
+1/5
+
+Do 5 ml/kg těles. hmotnosti za hodinu.
+Množství roztoku použité k oplachování ran a vlhčení jejich obvazů se řídí aktuální potřebou. Způsob podávání
+Roztok je určen pro podání intravenózní infuzí a externě pro oplachy a výplachy.
+
+Přípravek je vhodný pro dospělé i děti bez omezení věku.
+
+4.3   Kontraindikace
+
+Hypernatremie, hyperchloremie, acidóza.
+Hyperhydratace, renální selhávání (oligurie až anurie), dekompenzovaná srdeční nedostatečnost, plicní a mozkový edém, těžší stupeň hypertenze.
+
+4.4   Zvláštní upozornění a opatření pro použití
+
+Před podáním přípravku a během něj je nutno sledovat bilanci tekutin, sérových elektrolytů a acidobazickou rovnováhu.. Při tlakové infuzi, která může být potřebná při ohrožení života, je nutné před zahájením podávání roztoku odstranit veškerý vzduch z plastových vaků
+s infuzním roztokem a z infuzní soupravy.
+
+Zvláště pečlivě je třeba monitorovat hladinu sérového sodíku, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece
+antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu
+z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8).
+
+Sledování hladiny sérového sodíku je zvlášť důležité u hypotonických roztoků.
+
+Infuze o velkém objemu je nutné u pacientů se srdečním či plicním selháním a u pacientů
+s neosmotickým uvolňováním vazopresinu (včetně SIADH) podávat za specifického sledování z důvodu rizika hyponatrémie (viz dále).
+
+Hyponatrémie
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku).
+Zvláštní riziko závažného a život ohrožujícího edému mozku způsobeného akutní
+hyponatrémií existuje u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální
+compliance (např. meningitida, intrakraniální krvácení, kontuze mozku a otok mozku).
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Léčiva vedoucí ke zvýšenému účinku vazopresinu
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2, 4.4 a 4.8).
+• Mezi léčiva stimulující uvolnění vazopresinu se řadí: chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika.
+
+
+
+
+2/5
+
+• Mezi léčiva zesilující působení vazopresinu se řadí: chlorpropamid, NSAID, cyklofosfamid.
+• Mezi analogy vazopresinu se řadí: desmopresin, oxytocin, vazopresin, terlipresin. Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a antiepileptika, např. oxkarbazepin.
+
+4.6   Fertilita, těhotenství a kojení
+
+Těhotenství
+Přípravek Infusio natrii chlorati isotonica MEDIEKOS F 1/1 je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem (viz bod 4.4, 4.5 a 4.8).
+
+Kojení
+Přípravek lze používat v období kojení.
+
+4.7   Účinky na schopnost řídit a obsluhovat stroje
+Použitý roztok nemá vliv na snižování pozornosti v jakémkoli časovém odstupu od použití.
+4.8   Nežádoucí účinky:
+
+Přímé nežádoucí účinky nejsou uváděny, možnost obecných nežádoucích účinků spojených
+s neadekvátně vedenou infuzní terapií – hyperhydratace, hypernátrémie, hyperchlorémie, kardiální dekompenzace, edémy, iontový rozvrat, hyponatrémie*, akutní hyponatremická encefalopatie*. Frekvence výskytu těchto nežádoucích účinků není známa.
+*Hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie, (viz body 4.2, 4.4 a 4.5).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Při odborně vedené terapii nemůže dojít k předávkování.
+Obecné nežádoucí účinky, které jsou spojené s neadekvátně vedenou infuzní terapií jsou
+uvedeny v bodě 4.8.
+Při léčbě předávkování je třeba okamžitě ukončit podávání roztoku, podat diuretika a průběžně sledovat vodní a elektrolytovou bilanci.
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1   Farmakodynamické vlastnosti
+
+
+3/5
+
+Farmakoterapeutická skupina: Roztoky ovlivňující rovnováhu elektrolytů, elektrolyty. ATC kód: B05BB01
+Základní infuzní roztok s obsahem sodíkových a chloridových iontů.
+
+5.2   Farmakokinetické vlastnosti
+
+Po i.v. podání setrvává v krevním řečišti pouze několik desítek minut, snadno uniká extravaskulárně.
+Sodíkové a chloridové ionty se v organismu distribuují dle koncentračních gradientů
+v extracelulární tekutině, volná voda se distribuuje dle koncentračního spádu ve všech
+kompartmentech. Iontová rovnováha je závislá na vylučování jednotlivých iontů ledvinami a
+podléhá zejména mineralokortikoidní regulaci.
+Vodní homeostáza je řízena antidiuretickým hormonem.
+
+5.3   Předklinické údaje vztahující se k bezpečnosti
+Bezpečnost podání přípravku byla ověřena dlouhodobým používáním v klinické praxi.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1   Seznam pomocných látek
+
+Voda pro injekci
+
+6.2   Inkompatibility:
+
+Přípravek je kompatibilní s většinou běžně používaných léčiv, inkompatibility nejsou známy. O možné inkompatibilitě je třeba uvažovat pouze v případě podávání s různými léčivými látkami.
+
+6.3   Doba použitelnosti:
+
+V neporušeném obalu: 2 roky.
+Po otevření je nutno spotřebovat ihned.
+
+6.4   Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25°C. Chraňte před mrazem.
+6.5   Druh obalu a obsah balení
+1. a) Plastový vak (PVC), plastový uzávěr z PVC, uzavřeno v PE+PA fólii.
+b) Plastový vak (PVC), plastový uzávěr z polykarbonátu, uzavřeno v PE+PA fólii. Velikost balení: 1 x 5000 ml.
+2. a) Plastový vak (PP), plastový uzávěr z PP, uzavřeno v PE+PA fólii.
+b) Plastový vak (PP), plastový uzávěr z polykarbonátu, uzavřeno v PE+PA fólii.
+c) Plastový vak (PP), plastový uzávěr z polykarbonátu, plastová pojistka uzávěru z PVC. Velikost balení: 1 x 1000 ml.
+
+
+4/5
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Podává se zpravidla infuzní soupravou do periferní žíly.
+K oplachům a výplachům se roztok používá předehřátý na tělesnou teplotu.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Biomedica, spol. s r. o., Pekařská 8, 155 00 Praha 5, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+76/058/96-C
+
+9.   DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 31. 1. 1996
+Datum posledního prodloužení registrace: 25.3.2015
+
+10.  DATUM REVIZE TEXTU
+
+28. 10. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5

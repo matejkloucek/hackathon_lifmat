@@ -1,0 +1,341 @@
+Sp. zn. sukls224821/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Hemosol B0 roztok pro hemodialýzu/hemofiltraci
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Přípravek Hemosol B0 je balený ve dvoukomorovém vaku z PVC nebo polyolefinu obsahujícím roztok elektrolytů v malé komoře (komora A) a pufrovací roztok ve velké komoře (komora B).
+PŘED REKONSTITUCÍ
+1000 ml roztoku elektrolytů (malá komora A) obsahuje: léčivé látky:
+
+Calcii chloridum dihydricum Magnesii chloridum hexahydricum Acidum lacticum
+5,145 g
+2,033 g
+5,4 g
+1000 ml pufrovacího roztoku (velká komora B) obsahuje:
+léčivé látky:
+
+Natrii hydrogenocarbonas Natrii chloridum
+3,09 g
+6,45 g
+
+PO REKONSTITUCI
+
+Rekonstituovaný roztok po smíchání obsahu malé a velké komory odpovídá následujícímu iontovému složení:
+mmol/l          mEq/l
+Vápník            Ca²⁺             1,75             3,50
+Hořčík            Mg²⁺             0,5             1,0
+Sodík             Na⁺             140             140
+Chloridy           Cl⁻             109,5            109,5
+Laktáty                           3              3
+Hydrogenuhličitany     HCO ⁻            32             32
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Roztok pro hemodialýzu/hemofiltraci. Čirý a bezbarvý rekonstituovaný roztok.
+Teoretická osmolarita:  287 mosmol/l
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Substituční roztok při kontinuální hemofiltraci a hemodiafiltraci a dialyzační roztok při kontinuální hemodialýze u akutního renálního selhání u dospělých i dětí jakéhokoli věku.
+
+
+1
+
+4.2  Dávkování a způsob podání Dávkování:
+Rychlost, jakou se přípravek Hemosol B0 podává, závisí na koncentraci elektrolytů v krvi,
+acidobazické rovnováze, bilanci tekutin a celkovém klinickém stavu pacienta. Objem podávaného náhradního roztoku a/nebo dialyzátu bude rovněž záviset na požadované intenzitě (dávce) léčby.
+Pouze lékař se zkušenostmi s léky pro akutní péči a CRRT (kontinuální náhradou funkce ledvin) smí předepsat a stanovit podávání roztoku (dávku, rychlost infuze a kumulativní objem).
+Běžně používané průtokové rychlosti pro substituční roztok při hemofiltraci a hemodiafiltraci jsou: Dospělí:         500-3000 ml/h
+Běžně používané průtokové rychlosti pro dialyzační roztok (dialyzát) při kontinuální hemodialýze jsou:
+Dospělí:         500-2500 ml/h
+
+Běžně používané průtokové rychlosti u dospělých jsou přibližně 2000 až 2500 ml/h, což odpovídá dennímu objemu roztoku přibližně 48 až 60 l.
+
+Zvláštní populace:
+
+Starší populace
+Důkazy z klinických studií a praxe naznačují, že se při použití přípravku u starší populace nemění bezpečnost ani účinnost přípravku.
+
+Pediatrická populace:
+
+Rozsah průtokových rychlostí pro substituční roztok při hemofiltraci a hemodiafiltraci a pro dialyzační roztok (dialyzát) při kontinuální hemodialýze je:
+Děti (od novorozenců po dospívající do 18 let věku): 1000 až 2000 ml/h/1,73 m².
+Průtokové rychlosti až 4000 ml/h/1,73 m² mohou být potřeba zejména u mladších dětí (≤10 kg). Absolutní průtoková rychlost (v ml/h) u pediatrické populace obecně nemá překročit maximální průtokovou rychlost pro dospělé.
+Způsob podání:
+Intravenózní podání a použití při hemodialýze.
+
+Při použití jako substituční roztok se přípravek Hemosol B0 podává do mimotělního oběhu před (v režimu prediluce) nebo za hemofiltr či hemodiafiltr (v režimu postdiluce).
+
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití Upozornění:
+Substituční roztok Hemosol B0 neobsahuje draslík. Koncentrace draslíku v séru musí být před hemofiltrací a/nebo hemodialýzou a v jejich průběhu sledována.
+Roztok elektrolytů musí být smíchán s pufrovacím roztokem před použitím, aby se získal konečný roztok vhodný pro hemofiltraci/hemodiafiltraci/kontinuální hemodialýzu.
+Používejte výhradně s odpovídajícím mimotělním přístrojem určeným k náhradě funkce ledvin.
+
+2
+
+Vzhledem k tomu, že roztok neobsahuje glukózu, může jeho podání vést k hypoglykemii. Hladiny glukózy v krvi je třeba pravidelně monitorovat.
+
+Přípravek Hemosol B0 obsahuje hydrogenuhličitan (bikarbonát) a laktát (prekurzor hydrogenuhličitanu), které mohou mít vliv na acidobazickou rovnováhu pacienta. Pokud během léčby roztokem dojde k rozvoji nebo zhoršení metabolické alkalózy, může být zapotřebí snížit rychlost
+podávání nebo úplně zastavit podávání přípravku.
+
+Podání kontaminovaného roztoku pro hemofiltraci může způsobit sepsi, šok a fatální stavy.
+
+Opatření pro použití:
+Pro lepší komfort pacienta je možné přípravek Hemosol B0 ohřát na teplotu 37 °C. Ohřívání roztoku před použitím je třeba provádět pouze pomocí suchého tepla před jeho rekonstitucí. Roztoky se nemají ohřívat ve vodě nebo v mikrovlnné troubě. Před podáním je třeba roztok pohledem zkontrolovat, zda neobsahuje částice a zda nedošlo ke změně zabarvení, kdykoli to roztok a jeho obal umožňují. Roztok smíte podat pouze tehdy, je-li čirý a těsnící spoj je neporušený.
+
+Před léčbou a během léčby je nutné pečlivě monitorovat rovnováhu elektrolytů a acidobazickou rovnováhu po celou dobu procedury.
+Do roztoku lze přidat až 1,2 mmol/l fosfátu. Jestliže se přidává hydrogenfosforečnan draselný, celková koncentrace draslíku nemá překročit 4 mEq/l (4 mmol/l). Může být nutná suplementace draslíku.
+U pacienta je třeba po celou dobu procedury monitorovat jeho hemodynamický stav a bilanci tekutin a podle potřeby je upravit.
+
+Pediatrická populace:
+
+Na použití tohoto léčivého přípravku u dětí se nevztahují žádná zvláštní upozornění ani opatření.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Během léčby může dojít ke snížení koncentrace filtrovatelných/dialyzovatelných léků v krvi. Pokud je u léčiv odstraněných během léčby zapotřebí dosáhnout požadovaných koncentrací v krvi, má být
+v případě nutnosti zahájena odpovídající korekční léčba.
+Interakcím s jinými léčivými přípravky z důvodu elektrolytové a/nebo acidobazické nerovnováhy lze zabránit přesným dávkováním roztoku pro hemodialýzu/hemofiltraci a pečlivým monitorováním.
+Nicméně jsou možné tyto interakce:
+•  riziko srdeční arytmie indukované digitalisem je zvýšené při hypokalemii;
+•  vitamin D a analoga vitaminu D a také léčivé přípravky obsahující vápník (např. chlorid
+vápenatý nebo kalcium-glukonát používané k udržení homeostázy vápníku u CRRT pacientů, kteří dostávají citrátovou antikoagulaci a uhličitan vápenatý chovající se jako vazač fosfátů) mohou zvýšit riziko hyperkalcemie;
+•  další hydrogenuhličitan sodný (nebo jiný zdroj pufru) obsažený v roztocích CRRT nebo v jiných roztocích podávaných během léčby může zvýšit riziko metabolické alkalózy;
+•  citrát použitý jako antikoagulant přispívá k celkovému objemu pufru a může snižovat hladiny vápníku v plazmě.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství a kojení
+Neočekávají se žádné účinky na těhotenství nebo kojené novorozence/děti. Neexistují žádné zprávy o použití přípravku Hemosol B0 během těhotenství nebo kojení, ale literatura týkající se náhrady funkce ledvin při akutním poranění ledvin nepoukazuje na žádná rizika spojená s roztoky. Předepisující lékař má posoudit poměr přínosů a rizik před podáním přípravku Hemosol B0 těhotným nebo kojícím
+ženám.
+3
+
+Fertilita
+Neexistují žádné klinické údaje týkající se fertility. Žádné účinky na fertilitu se však neočekávají.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Není relevantní.
+
+4.8  Nežádoucí účinky
+
+Po uvedení přípravku na trh byly hlášeny následující nežádoucí účinky. Níže uvedená tabulka používá třídy orgánových systémů dle klasifikace MedDRA (na úrovni TOS a preferovaného termínu).
+Četnosti: není známo (z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů Poruchy metabolismu
+a výživy
+
+
+Cévní poruchy
+Gastrointestinální poruchy
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Preferovaný termín
+Elektrolytová nerovnováha, např.: hypofosfatemie, hypokalemie
+Poruchy acidobazické rovnováhy Nerovnováha tekutin
+Hypotenze Nauzea
+Zvracení
+Svalové křeče
+Četnost
+Není známo
+
+Není známo Není známo Není známo Není známo Není známo Není známo
+Zvláštní pozornost se musí věnovat pacientům s hypokalemií, jelikož tento roztok neobsahuje draslík (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+K předávkování by dojít nemělo, pokud je přípravek Hemosol B0 správně aplikován a rovnováha tekutin, elektrolytů a acidobazická rovnováha pečlivě sledována.
+Předávkování by však mohlo mít závažné následky, např. městnavé srdeční selhání, poruchy rovnováhy elektrolytů nebo acidobazické rovnováhy.
+Pokud dojde k hypervolemii nebo hypovolemii, je nutné tento stav okamžitě upravit.
+Pokud dojde k elektrolytové nerovnováze a abnormalitám acidobazické rovnováhy (např. metabolické alkalóze, hypofosfatemii, hypokalemii atd.), bez prodlení ukončete podávání přípravku. V případě
+předávkování neexistuje žádné specifické antidotum. Riziko může být minimalizováno pečlivým sledováním a adekvátní suplementací během léčby (viz bod 4.4).
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Hemofiltrační roztoky, ATC kód: B05ZB
+
+
+
+4
+
+Farmakodynamické účinky
+Hemosol B0 je z farmakologického hlediska neaktivní. Ionty sodíku, vápníku, hořčíku a chloridové ionty jsou v přípravku přítomny v koncentracích podobných fyziologickým hladinám v plazmě.
+Mechanismus účinku
+Roztok se používá k náhradě vody a elektrolytů odstraněných během hemofiltrace nebo slouží jako vhodný dialyzační roztok při hemodiafiltraci a kontinuální hemodialýze. Hydrogenuhličitan se
+používá jako alkalizující pufr.
+
+5.2  Farmakokinetické vlastnosti
+
+Není relevantní. Léčivé látky jsou z farmakologického hlediska neaktivní a jsou přítomny v koncentracích podobných fyziologickým hladinám v plazmě.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Není relevantní. Léčivé látky jsou z farmakologického hlediska neaktivní a jsou přítomny v koncentracích podobných fyziologickým hladinám v plazmě.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek Malá komora A: voda pro injekci
+Velká komora B: voda pro injekci, oxid uhličitý
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+Zodpovědností lékaře je posouzení inkompatibility přidaných léčiv s roztokem přípravku Hemosol B0 kontrolou případné změny barvy a/nebo precipitace, nerozpustných komplexů či krystalů. Je nutné si prostudovat pokyny pro použití léku, který má být k roztoku přidán.
+Před přidáním léčivého přípravku ověřte jeho rozpustnost a stabilitu ve vodě o pH přípravku Hemosol B0 (pH rekonstituovaného roztoku je 7,0 až 8,5).
+K rekonstituovanému roztoku musí být přidán kompatibilní léčivý přípravek a roztok musí být okamžitě podán.
+
+6.3  Doba použitelnosti
+
+PVC: 1 rok v neporušeném obalu. Polyolefin: 18 měsíců v neporušeném obalu.
+
+Chemická a fyzikální stabilita rekonstituovaného roztoku byla prokázána na 24 hodin při teplotě 22 °C. Z mikrobiologického hlediska a z důvodu přítomnosti hydrogenuhličitanu má být rekonstituovaný roztok podán okamžitě po otevření (tj. připojení setu). Doba a podmínky dalšího uchovávání připraveného roztoku před použitím jsou v odpovědnosti uživatele a doba jeho uchování nemá být delší než 24 hodin včetně doby trvání léčby.
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě nad +4 °C.
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+
+
+5
+
+6.5  Druh obalu a obsah balení
+
+Obal je vyroben z polyvinylchloridu (PVC) nebo polyolefinu a skládá se ze dvoukomorového vaku. Vak o objemu 5000 ml se skládá z malé komory (250 ml) a velké komory (4750 ml). Tyto dvě komory jsou odděleny pomocí odlomitelného hrotu nebo těsnícího spoje.
+Velká komora B je vybavena injekčním konektorem (nebo konektorem s hrotem) z polykarbonátu (PC), který je uzavřen pryžovou zátkou s krytkou, a také konektorem typu luer (PC) s odlomitelným hrotem (PC) nebo ventilem vyrobeným ze silikonové gumy pro připojení vaku k vhodnému vedení substitučního roztoku nebo k dialyzační lince.
+Vak je přebalen průhledným obalem z vícevrstevného polymeru.
+
+Každý dvoukomorový vak obsahuje 5000 ml. Velikost balení: 2 x 5000 ml v krabici.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Pro přípravu rekonstituovaného roztoku je bezprostředně před použitím roztok elektrolytů (malá komora A) přidán k pufrovacímu roztoku (velká komora B) po zlomení odlomitelného hrotu nebo otevření těsnícího spoje.
+
+Příbalová informace pro pacienta s detailním návodem k použití je přiložena v krabici.
+Po dobu zacházení s přípravkem a jeho podávání pacientovi je třeba dodržet aseptické techniky. Roztok použijte pouze v případě, že je ochranný obal nepoškozený, všechny svary jsou nedotčené, odlomitelný hrot nebo těsnící spoj neporušené a roztok je čirý. Vak silně stiskněte a ověřte, že neprosakuje. Pokud zjistíte, že roztok prosakuje, okamžitě jej zlikvidujte, protože už nemůže být
+zaručena jeho sterilita.
+
+Velká komora je opatřena injekčním portem pro možnost dodání další nezbytné medikace po rekonstituci roztoku.
+Před přidáním látky nebo léčiva ověřte, že jsou rozpustné a stabilní v přípravku Hemosol B0 a že rozsah pH je vyhovující (rekonstituovaný roztok má pH 7,0 až 8,5).
+Aditiva mohou být inkompatibilní. Je nutné si přečíst pokyny k použití přidávaného léčiva a další relevantní literaturu. Pokud po jejich přidání došlo ke změně zabarvení a/nebo vzniku sraženin, nerozpustných komplexů nebo krystalů, roztok nepoužívejte.
+Po přidání aditiv roztok důkladně promíchejte. Přidávání a míchání aditiv musí být vždy provedeno ještě před připojením vaku s roztokem k mimotělnímu okruhu.
+Pokud obě komory vaku odděluje odlomitelný hrot a odlomitelný hrot je umístěn na konektoru typu luer, dodržujte následující pokyny k použití:
+I   Bezprostředně před použitím odstraňte ochranný obal vaku a zlikvidujte ostatní obalové materiály.
+Otevřete uzávěr rozlomením odlomitelného hrotu mezi oběma komorami vaků. Odlomitelný hrot zůstane ve vaku.
+II  Ujistěte se, že veškerá tekutina z malé komory A přetekla do velké komory B.
+III  Propláchněte malou komoru A dvakrát tak, že namíchaný roztok zatlačíte zpět do malé komory A a poté zpět do velké komory B.
+IV  Když je malá komora vyprázdněna, protřepejte velkou komoru B tak, aby byl její obsah dokonale smíchán.
+Roztok je nyní připraven k použití a vak lze zavěsit na přístroj.
+V   Dialyzační hadičku nebo hadičku se substitučním roztokem lze připojit ke kterémukoli ze dvou přístupových portů.
+V.a  V případě použití luer portu odstraňte kryt a připojte přípojku luer na dialyzační hadičce nebo hadičce se substitučním roztokem k zásuvce typu luer na vaku, utáhněte. Pomocí palce a prstů zlomte barevný ochranný hrot u jeho kořene a pohybujte jím vpřed a vzad. Nepoužívejte žádné
+
+6
+
+nástroje. Ověřte, že je hrot zcela oddělen a tekutina volně protéká. Hrot zůstává v luer portu po dobu ošetření.
+V.b  V případě použití injekčního portu nejprve odstraňte krytku. Poté zaveďte jehlu přes pryžovou přepážku. Ověřte, že tekutina volně protéká.
+
+Pokud obě komory vaku odděluje odlomitelný hrot a na konektoru typu luer je umístěn ventil, dodržujte následující pokyny k použití:
+I   Bezprostředně před použitím odstraňte ochranný obal vaku a zlikvidujte ostatní obalové materiály. Otevřete uzávěr rozlomením odlomitelného hrotu mezi oběma komorami vaku. Odlomitelný hrot zůstane ve vaku.
+II  Ujistěte se, že veškerá tekutina z malé komory A přetekla do velké komory B.
+III  Propláchněte malou komoru A dvakrát tak, že namíchaný roztok zatlačíte zpět do malé komory A a poté zpět do velké komory B.
+IV  Když je malá komora A vyprázdněna, protřepejte velkou komoru B tak, aby byl její obsah dokonale smíchán. Roztok je nyní připraven k použití a vak lze zavěsit na přístroj.
+V   Dialyzační hadičku nebo hadičku se substitučním roztokem lze připojit ke kterémukoli ze dvou přístupových portů.
+V.a  Pokud použijete přístup typu luer, odstraňte otáčivým pohybem s tahem kryt a otáčivým pohybem s tlakem připojte přípojku typu luer na dialyzační hadičce nebo hadičce se substitučním roztokem k zásuvce typu luer na vaku. Ujistěte se, že je spojení utěsněné a utažené. Konektor je nyní otevřený. Ověřte, že tekutina volně protéká.
+Když se hadička s dialyzačním nebo substitučním roztokem odpojí od konektoru typu luer, konektor se uzavře a průtok roztoku se zastaví. Port typu luer je bezjehlový a otíratelný.
+V.b  V případě použití injekčního portu nejprve odstraňte krytku. Poté zaveďte jehlu přes pryžovou přepážku. Ověřte, že tekutina volně protéká.
+Pokud obě komory vaku odděluje těsnící spoj a na konektoru typu luer je umístěn ventil, dodržujte následující pokyny k použití:
+I   Bezprostředně před použitím odstraňte ochranný obal vaku a smíchejte obsah obou komor. Malou komoru podržte oběma rukama a stlačte ji, dokud nedojde k otevření ve spoji mezi oběma komorami.
+II  Oběma rukama stlačte velkou komoru, až se těsnící spoj mezi komorami otevře zcela.
+III  Jemným třepáním vaku zajistěte dokonalé promíchání roztoku. Nyní je roztok připraven k použití a lze jej zavěsit na přístroj.
+IV  Dialyzační hadičku nebo hadičku se substitučním roztokem lze připojit ke kterémukoli ze dvou přístupových portů.
+IV.a Pokud použijete přístup typu luer, odstraňte otáčivým pohybem s tahem kryt a otáčivým pohybem s tlakem připojte přípojku typu luer na dialyzační hadičce nebo hadičce se substitučním roztokem k zásuvce typu luer na vaku. Ujistěte se, že je spojení utěsněné a utažené. Konektor je nyní otevřený. Ověřte, že tekutina volně protéká.
+Když se hadička s dialyzačním nebo substitučním roztokem odpojí od konektoru typu luer, konektor se uzavře a průtok roztoku se zastaví. Port typu luer je bezjehlový a otíratelný.
+IV.b V případě použití injekčního portu nejprve odstraňte krytku. Poté zaveďte jehlu přes pryžovou přepážku. Ověřte, že tekutina volně protéká.
+
+Roztok má být použit ihned po odstranění ochranného obalu. Pokud není rekonstituovaný roztok použit okamžitě, má být podán do 24 hodin po přidání roztoku elektrolytů k pufrovacímu roztoku, včetně doby trvání léčby.
+Rekonstituovaný roztok je určen pouze k jednorázovému použití. Nepoužívejte, pokud je obal poškozený nebo pokud roztok není čirý. Ihned po použití zlikvidujte veškerý nepoužitý léčivý přípravek.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+7
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Baxter Holding B.V. Kobaltweg 49
+3542 CE Utrecht Nizozemsko
+
+
+8.  REGISTRAČNÍ ČÍSLO/ČÍSLA
+
+87/195/10-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 28. 4. 2010
+Datum posledního prodloužení registrace: 26. 2. 2015
+
+
+10.  DATUM REVIZE TEXTU
+
+24. 9. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8

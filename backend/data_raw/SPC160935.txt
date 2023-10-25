@@ -1,0 +1,424 @@
+Sp.zn. sukls203128/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1. NÁZEV PŘÍPRAVKU
+SOTAHEXAL 80 mg tablety SOTAHEXAL 160 mg tablety
+
+2. KVALITATIVNÍ I KVANTITATIVNÍ SLOŽENÍ
+SOTAHEXAL 80 mg: Jedna tableta obsahuje sotaloli hydrochloridum 80 mg. SOTAHEXAL 160 mg: Jedna tableta obsahuje sotaloli hydrochloridum 160 mg.
+
+Pomocná látka se známým účinkem: monohydrát laktózy. Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Tableta.
+Popis přípravku:
+SOTAHEXAL 80 mg: bílé, kulaté tablety, na jedné straně mírně vypouklé s nápisem
+„SOT“, na druhé straně s půlicí rýhou.
+SOTAHEXAL 160 mg: bílé, kulaté, bikonvexní tablety, na jedné straně s nápisem
+„SOT“, na druhé straně s půlicí rýhou. Tabletu lze rozdělit na stejné dávky.
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+Symptomatické supraventrikulární tachyarytmie vyžadující terapii; např. AV junkční tachykardie, supraventrikulární tachykardie při WPW-syndromu (Wolfův– Parkinsonův-Whiteův syndrom) nebo paroxysmální fibrilace síní.
+Těžké symptomatické komorové tachyarytmie a profylaxe těchto syndromů. Přípravek je určen k léčbě dospělých.
+
+4.2 Dávkování a způsob podání
+Dávkování
+Přípravek je určen k léčbě dospělých.
+Úvodní denní dávka je 80 mg v jedné denní dávce nebo rozděleně do dvou denních dávek. Dávkování se postupně individuálně upravuje, mezi změnami dávek musí uplynout interval nejméně 3 - 4 dny.
+
+
+
+
+1
+
+Při individuálním vyhledávání správného dávkování je třeba přihlížet jednak ke snížení tepové frekvence (nesmí klesnout pod 50 tepů za minutu), jednak k terapeutickému ovlivnění klinického stavu.
+Udržovací dávka je většinou 160 – 320 mg, rozděleně do dvou dávek, které se užívají přibližně ve 12ti hodinových intervalech. U některých pacientů s život ohrožujícími refrakterními komorovými arytmiemi mohou být nutné dávky až maximálně 480 – 640 mg denně. Tyto vysoké dávky se předepisují jen v naprosto nezbytných případech po pečlivém zvážení poměru rizika ku prospěchu z léčby.
+Dávkování pacientům s poruchou funkce ledvin:
+Protože se sotalol eliminuje výhradně ledvinami, je při poruše funkce ledvin nutno
+snížit dávkování.
+Při clearance kreatininu mezi 30 a 60 ml/min (při hodnotách kreatininu v séru do 2,0 mg/100 ml, tj. do 0,17 mmol/l) se doporučená dávka sníží na polovinu. Při clearance kreatininu mezi 10 a 30 ml/min (při hodnotách kreatininu v séru 2,0 - 5,0 mg/100 ml, tj. 0,17 - 0,43 mmol/l) se doporučená dávka sníží na čtvrtinu. Při clearance kreatininu nižší než 10 ml/min (při hodnotách kreatininu v séru vyšších než 5 mg/100 ml, tj. vyšších než 0,43 mmol/l) se sotalol-hydrochlorid (dále jen sotalol) nepodává.
+Poznámka o dalších úpravách dávkování:
+Denní dávku je třeba snížit zvláště u pacientů s nízkou tepovou frekvencí, u nichž by další pokles tepové frekvence anebo přílišný pokles krevního tlaku byl neúnosný, stejně jako u pacientů s dyspnoe. V případě nutnosti je třeba podávání přípravku přerušit. Medikace sotalolem se nesmí ukončit náhle, aby nevznikl rebound-fenomen, tj. nadměrná protiregulační reakce (tachyarytmie aj.).
+V průběhu terapie je třeba provádět monitorování EKG v pravidelných intervalech (např. jednou měsíčně standardní EKG a jednou za 3 měsíce 24hodinový EKG, v případě nutnosti zátěžové EKG).
+Dávkování je třeba snížit, popř. postupně vysadit, pokud dojde k prodloužení QRS komplexu nebo QT intervalu o více než 25%, prodloužení PQ intervalu o více než 50% nebo prodloužení QT intervalu na více než 500 ms nebo dojde-li ke zvýšení četnosti či závažnosti srdečních arytmií.
+
+Pediatrická populace
+Přípravek SOTAHEXAL není určen k podávání dětem.
+
+Způsob podání
+Tablety se mají užívat před jídlem a zapít přiměřeným množstvím tekutiny.
+Přípravek SOTAHEXAL se nemá užívat spolu s jídlem, protože se tak může snížit absorpce léčiva (zejména při požití mléka a mléčných výrobků).
+Délka terapie závisí na charakteru, závažnosti a průběhu onemocnění.
+Terapie přípravkem SOTAHEXAL se nikdy nesmí ukončit náhle; to platí zejména u pacientů s ischemickou chorobou srdeční a u pacientů po dlouhodobém podávání této látky. Dávkování je třeba snižovat i vysazovat pozvolna.
+
+
+
+2
+
+
+4.3 Kontraindikace
+Přípravek Sotahexal se nesmí podávat při:
+−  hypersenzitivitě na léčivou látku nebo na kteroukoli pomocnou látku uvedenou
+v bodě 6.1
+−  prokázaném syndromu chorého sinu, včetně sino-atriální blokády, ledaže by byl zaveden funkční kardiostimulátor
+−  srdeční atrioventrikulární blokádě druhého a třetího stupně, ledaže by byl zaveden funkční kardiostimulátor
+−  vrozených nebo získaných syndromech dlouhého QT intervalu nebo při podávání léčiv, která mohou navodit prodloužení QT intervalu (viz také bod 4.5)
+−  torsades de pointes nebo podávání léčiv, která ji vyvolávají (viz také bod 4.5)
+−  symptomatické sinusové bradykardii (≤ 45 až 50 tepů za minutu)
+−  nekontrolovaném městnavém srdečním selhání, včetně městnavého srdečního selhání pravé komory po plicní hypertenzi
+−  kardiogenním šoku
+−  anestézii, která vyvolává útlum myokardu
+−  neléčeném feochromocytomu
+−  hypotenzi (kromě hypotenzí v důsledku arytmie)
+−  Raynaudově fenoménu a závažných periferních oběhových poruchách
+−  chronické obstrukční nemoci dýchacích cest v anamnéze nebo při bronchiálním
+astmatu
+−  metabolické acidóze
+−  selhání ledvin (clearance kreatininu < 10 ml/min).
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Náhlé vysazení
+U pacientů, u nichž se vysadila léčba betablokátory, se pozoruje hypersenzitivita na katecholaminy. Po náhlém vysazení léčby byly hlášeny ojedinělé případy exacerbace anginy pectoris, arytmií a v některých případech infarkt myokardu.  Proto se doporučuje, aby při vysazování chronicky podávaného sotalolu byly pacienti pečlivě sledováni, zejména pacienti s ischemickou chorobou srdeční. Pokud je to možné, je nutno dávku snižovat postupně po dobu jednoho až dvou týdnů. V případě potřeby současně zahájit náhradní léčbu. Náhlé vysazení může odhalit latentní koronární insuficienci. Navíc se může vyvinout hypertenze.
+
+Proarytmie
+Nejnebezpečnějším nežádoucím účinkem antiarytmik je zhoršení stávajících arytmií nebo vyvolání nových arytmií. Léčiva, která prodlužují QT interval, mohou vyvolat torsades de pointes, což je polymorfní komorová tachykardie spojená s prodloužením QT intervalu. Dosavadní zkušenosti ukazují, že riziko torsades de pointes je spojeno s prodloužením QT intervalu, zpomalením srdeční frekvence, snížením draslíku a hořčíku  v séru,  vysokými  koncentracemi  sotalolu  v plasmě  a  se  současným podáváním sotalolu a dalších léčiv, která jsou s torsades de pointes spojována (viz bod 4.5). Ženy mohou být rizikem vzniku torsades de pointes ohroženy více.
+
+
+3
+
+Incidence torsades de pointes je závislá na dávce. Torsades de pointes se obvykle objevuje brzy po zahájení léčby nebo zvýšení dávky a u většiny pacientů spontánně vymizí. I když většina epizod torsades de pointes má formu omezených nebo přechodných příznaků (např. synkopa), mohou progredovat do fibrilace komor.
+
+V klinických hodnoceních u pacientů s přetrvávající komorovou arytmií/fibrilací komor byla při dávkách do 320 mg incidence těžkých proarytmií (torsades de pointes nebo nová přetrvávající komorová arytmie/fibrilace komor) < 2 %. Při vyšších dávkách se incidence více než zdvojnásobila.
+
+Dalšími rizikovými faktory vzniku torsades de pointes bylo nadměrné prodloužení QTc intervalu a kardiomegalie nebo městnavé srdeční selhání v anamnéze. Nejvyšší riziko závažných proarytmií (7 %) hrozí pacientům s přetrvávající komorovou tachykardií a městnavým srdečním selháním v anamnéze.
+Proarytmické příhody je nutno očekávat nejen při zahájení léčby, ale při každém zvýšení dávky. Zahájení léčby dávkou 80 mg s následnou postupnou vzestupnou titrací dávky riziko proarytmií snižuje. Sotalol se musí podávat s velkou opatrností, pokud QTc interval přesahuje 480 msec, přičemž pokud QTc interval přesahuje 550 msec,  je  nutno  důkladně  zvážit  snížení  dávky  nebo  vysazení  léčby.  Kvůli mnohočetným rizikovým faktorům spojeným se vznikem torsades de pointes je však nutno postupovat opatrně bez ohledu na délku QTc intervalu.
+Poruchy elektrolytů
+Sotalol se nesmí podávat pacientům s hypokalémií nebo hypomagnesémií před úpravou nerovnováhy; tyto stavy mohou zhoršit stupeň prodloužení QT intervalu a zesílit potenciál ke vzniku torsades de pointes. Zvláštní pozornost je třeba věnovat rovnováze elektrolytů a acidobazické rovnováze u pacientů stižených těžkým nebo dlouhodobým průjmem nebo u pacientů současně léčených léky vedoucími k depleci hořčíku a/nebo draslíku.
+
+Městnavé srdeční selhání
+Betablokáda může dále utlumit kontraktilitu myokardu a vyvolat závažnější srdeční selhání. Při zahájení léčby u pacientů s léčenou dysfunkcí levé komory (tj. ACE inhibitory, diuretika, digitalis, atd.) se doporučuje opatrnost; vhodná je nízká počáteční dávka a opatrná titrace dávky.
+
+Nedávný infarkt myokardu
+U pacientů po infarktu se zhoršenou funkcí levé komory je nutno zvážit rizika léčby sotalolem proti jejím přínosům. Během zahájení léčby a následné terapii je důležité pečlivé sledování a titrace dávky. Sotalol se nesmí podávat pacientům s ejekční frakcí levé komory ≤ 40 % bez závažných komorových arytmií.
+Změny na elektrokardiogramu
+Nadměrné prodloužení QT intervalu, >550 msec, může být známkou toxicity a je nutno se mu vyhnout (viz Proarytmie výše). U pacientů s arytmií léčených sotalolem v klinických hodnoceních byla  velmi  často  pozorována  sinusová  bradykardie. Bradykardie zvyšuje riziko torsades de pointes. Sinusová pauza, sinusový arest a
+
+
+
+4
+
+dysfunkce sinusového uzlu se objevují u méně než 1 % pacientů. Incidence AV
+blokády 2. nebo 3. stupně je přibližně 1 %.
+
+Anafylaxe
+Pacienti s anafylaktickou reakcí na řadu alergenů v anamnéze mohou mít během užívání betablokátorů mnohem závažnější reakci na opakovaný podnět. Takoví pacienti nemusí reagovat na běžné dávky adrenalinu používané k léčení alergických reakcí.
+
+Anestézie
+Sotalol se musí u pacientů podstupujících chirurgický zákrok, při němž se používají anestetika  způsobující  útlum  srdeční  činnosti,  jako  je  cyklopropan  nebo trichlorethylen, podávat opatrně.
+
+Diabetes mellitus
+Sotalol se musí u pacientů s onemocněním diabetes mellitus (zvláště labilním onemocněním  diabetes  mellitus)  nebo  s epizodami  spontánní  hypoglykemie v anamnéze používat opatrně, protože betablokáda může maskovat důležité projevy akutní hypoglykemie, např. tachykardii.
+
+Thyreotoxikóza
+Betablokáda  může  maskovat  jisté  klinické  projevy  hyperthyroidismu  (např. tachykardii). Pacienty s podezřením na vznik thyreotoxikózy je nutno pečlivě sledovat, aby se zabránilo náhlému vysazení betablokády, po čemž by mohla následovat exacerbace symptomů hyperthyroidismu, včetně thyroidní bouře.
+
+Porucha funkce ledvin
+Jelikož se sotalol vylučuje hlavně ledvinami, je nutno u pacientů s poruchou funkce
+ledvin upravit dávku (viz bod 4.2).
+
+Psoriáza
+Bylo hlášeno, že betablokátory vzácně exacerbují symptomy psoriasis vulgaris.
+SOTAHEXAL obsahuje laktózu a sodík
+Tento léčivý přípravek obsahuje monohydrát laktózy. Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je v podstatě „bez sodíku.
+
+
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nedoporučované kombinace:
+Antiarytmika
+Antiarytmika třídy 1a, jako je disopyramid, chinidin, prokainamid a flekainid a další antiarytmika, jako je amiodaron a bepridil, se jako souběžná léčba se sotalolem nedoporučují, a to kvůli jejich potenciálu prodloužit refrakterní fázi (viz bod 4.4).
+
+
+
+5
+
+Současné podávání jiných betablokátorů se sotalolem může vést k aditivním účinkům třídy II.
+
+Další léčiva, která prodlužují QT interval
+Spolu s dalšími léčivy, o nichž je známo, že prodlužují QT interval, jako jsou fenothiaziny, tricyklická antidepresiva, terfenadin a astemizol, se sotalol musí podávat mimořádně opatrně. Další léčiva, která jsou spojována se zvýšeným rizikem torsades de pointes, zahrnují erythromycin i.v., halofantrin, pentamidin a chinolonová antibiotika.
+
+Floktafenin
+Betablokátory mohou zhoršovat kompenzační kardiovaskulární reakce spojené
+s hypotenzí nebo šokem, jež mohou být navozeny floktafeninem.
+
+Blokátory vápníkového kanálu
+Souběžné podávání betablokátorů a blokátorů vápníkového kanálu vedlo k hypotenzi, bradykardii, poruchám převodu a srdečnímu selhání. Betablokátorům je nutno se vyhnout v kombinaci s kardiodepresivními blokátory vápníkového kanálu, jako je verapamil a diltiazem, a to kvůli aditivním účinkům na atrioventrikulární vedení a komorové funkce.
+
+Diuretika nešetřící kalium
+Může dojít k hypokalemii nebo hypomagnezemii, což zesiluje potenciál k torsade de
+pointes (viz bod 4.4).
+
+Další léčiva nešetřící kalium
+S hypokalemií může souviset rovněž amfotericin B (i.v. podání), kortikosteroidy (systémové podání) a některá laxativa. Při jejich současném podávání se sotalolem je nutno sledovat hladiny draslíku a ty případně upravit.
+
+Klonidin
+Betablokátory mohou potencovat tzv. rebound hypertenzi někdy pozorovanou po vysazení klonidinu; proto je nutno betablokátor vysazovat pomalu několik dní před postupným vysazením klonidinu.
+Při podávání jsou nutná opatření:
+Digitalisové glykosidy
+Jednotlivé  a  opakované  dávky  sotalolu  hladiny  sérového  dioxinu  významně neovlivňují. Proarytmické příhody byly častější u pacientů léčených sotalolem, kteří rovněž  dostávali  digitalisové  glykosidy;  to  však  může  souviset  s přítomností městnavého srdečního selhání, což je známý rizikový faktor vzniku proarytmií, u pacientů léčených digitalisovými glykosidy. Kombinace digitalisových glykosidů s betablokátory může prodlužovat aurikuloventrikulární převodní čas.
+
+Léčiva vedoucí k depleci katecholaminů
+Současné podávání léčiv vedoucích k depleci katecholaminů, jako je reserpin, guanethidin nebo alfa-methyldopa, s betablokátorem může navodit nadměrné snížení tonu sympatického nervstva v klidu. Pacienty je nutno pečlivě sledovat s ohledem na známky hypotenze a/nebo zvýrazněné bradykardie, což může vést k synkopě.
+
+
+
+
+6
+
+Inzulin a perorální antidiabetika
+Může dojít k hypoglykemii, přičemž dávkování antidiabetik může vyžadovat úpravu.
+Symptomy hypoglykemie (tachykardie) mohou být betablokátory maskovány.
+
+Neuromuskulární blokátory, jako je tubokurarin
+Betablokátory neuromuskulární blokádu prodlužují.
+
+Je nutno mít na zřeteli:
+Stimulancia beta-2 receptorů
+Beta-agonisty je nutno při současném podávání sotalolu podávat ve zvýšených dávkách.
+
+Interakce léčiva s laboratorními výsledky
+Přítomnost sotalolu v moči může vést k falešně zvýšeným hladinám metanefrinu v moči, pokud se měří fotometrickými metodami. U pacientů s podezřením na feochromocytom, kteří jsou léčeni sotalolem, se musí jejich moč vyšetřovat stanovením pomocí HPLC s extrakcí na tuhé fázi.
+
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Studie hydrochloridu sotalolu na zvířatech nepřinesly žádný důkaz teratogenity ani jiných škodlivých účinků na plod. I když odpovídající a dobře kontrolované studie u těhotných žen neexistují, bylo prokázáno, že sotalol prostupuje placentou a nachází se v amniové  tekutině.  Betablokátory  snižují  placentální  perfuzi,  což  může  vést k intrauterinnímu  úmrtí  plodu,  nezralým  a  předčasným  porodům.  U  plodu  a novorozence se mohou navíc objevit nežádoucí účinky (zvláště hypoglykemie a bradykardie). V postnatálním období je navíc u novorozence zvýšené riziko srdečních a plicních komplikací. Proto se sotalol smí v těhotenství užívat, pouze pokud potenciální přínosy převažují nad možnými riziky pro plod. Pokud nebylo možno léčbu matky přerušit 2 až 3 dny před porodem, je nutno novorozence 48 až 72 hodin po porodu velmi pečlivě sledovat.
+
+Kojení
+Během podávání sotalolu se kojení nedoporučuje, protože přestupuje ve značné míře do lidského mateřského mléka (relativní dávka pro kojence je 22%) a zkušenost s podáváním během kojení je minimální.
+
+
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+K dispozici nejsou žádné údaje, nicméně je nutno brát v potaz příležitostný výskyt nežádoucích účinků, jako je točení hlavy a únava (viz bod 4.8).
+
+4.8 Nežádoucí účinky
+Pokud se používá podle pokynů, je sotalol většinou pacientů dobře snášen; většina častých nežádoucích účinků je dána jeho vlastnostmi blokujícími beta receptory. Pokud se nežádoucí účinky objeví, obvykle vymizí při snížení dávky. Nejvýznamnější
+
+
+7
+
+nežádoucí účinky však nastávají v důsledku proartymií, včetně torsades de pointes
+(viz bod 4.4).
+Nežádoucí příhody byly pozorovány v klinických hodnoceních a po uvedení na trh. Pro četnosti nežádoucích účinků platí následující definice:
+-   velmi časté (≥ 1/10)
+-   časté (≥ 1/100 až < 1/10)
+-   méně časté (≥ 1/1 000 až < 1/100)
+-   vzácné (≥ 1/10 000 až < 1/1 000)
+-   velmi vzácné (< 1/10 000)
+-   není známo (z dostupných údajů nelze určit)
+
+Poruchy krve a lymfatického systému Není známo: trombocytopenie
+
+Psychiatrické poruchy:
+Časté:    úzkost, poruchy spánku, změny nálady, deprese
+
+Poruchy nervového systému:
+Časté:     točení hlavy, povznesená nálada, bolesti hlavy, parestézie, synkopa, presynkopa, abnormální vnímání chutí
+
+Poruchy oka:
+Časté:    poruchy vidění
+Vzácné:   konjunktivitida
+Velmi vzácné: snížená tvorba slz
+
+Poruchy ucha a labyrintu:
+Časté:    poruchy sluchu
+
+Srdeční poruchy:
+Časté:     torsades de pointes, arytmie, dyspnoe, bolesti na hrudi, bradykardie, palpitace, abnormality na EKG, poruchy AV vedení, proarytmie, srdeční selhání (viz bod 4.4)
+
+Cévní poruchy:
+Časté:    hypotenze
+Není známo: Raynaudova choroba, zhoršení claudicatio intermittent, bolestivé, chladné končetiny
+
+Respirační, hrudní a mediastinální poruchy:
+Méně časté:  u pacientů s bronchiálním astmatem nebo s astmatickými potížemi
+v anamnéze se může objevit bronchospasmus
+
+Gastrointestinální poruchy:
+Časté:     bolesti břicha, nauzea, zvracení, průjem, dyspepsie, flatulence, sucho v ústech
+
+Poruchy kůže a podkožní tkáně:
+
+
+8
+
+Není známo: vyrážka, exacerbace symptomů psoriázy, alopecie, hyperhidróza
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně:
+Časté:    svalové křeče
+
+Poruchy reprodukčního systému a prsu:
+Časté:    sexuální dysfunkce
+
+Celkové poruchy a reakce v místě aplikace:
+Časté:    únava, slabost, horečka, otok
+
+Vyšetření:
+Není známo: byla hlášena tvorba protilátek proti buněčným jádrům
+
+V průběhu terapie se mohou vyvinout poruchy lipidového metabolismu (zvýšení hladiny koncentrace celkového cholesterolu a triglyceridů, snížení koncentrace HDL- cholesterolu).
+
+V klinických  hodnoceních  u  pacientů  se  srdeční  arytmií  byly  nejčastějšími nežádoucími  příhodami  vedoucími  k ukončení  léčby  sotalolem  únava  4 %, bradykardie (< 50 tepů za minutu) 3 %, dušnost 3 %, proarytmie 2 %, slabost 2 % a točení hlavy 2 %.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky:
+www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+
+
+4.9 Předávkování
+Úmyslné  nebo  náhodné  předávkování  sotalolem  vedlo  k úmrtí  jen  vzácně. Hemodialýza vede k velkému snížení plasmatických hladin sotalolu.
+
+Symptomy a léčba
+Nejčastějšími příznaky, které lze očekávat, jsou bradykardie, hypotenze, městnavé srdeční  selhání,  bronchospasmus  a  hypoglykemie.  Při  masivním  úmyslném předávkování (2 až 16 g) sotalolem byly pozorovány následující klinické nálezy:
+hypotenze, bradykardie, prodloužení QT intervalu, předčasné komorové komplexy, komorová tachykardie, torsades de pointes.
+
+Při předávkování se léčba sotalolem musí přerušit a pacienta je nutno pečlivě
+sledovat.
+
+
+
+9
+
+Absorpci dosud nevstřebaného sotalolu lze zabránit výplachem žaludku, podáním aktivního uhlí a laxativ. Může být nutná umělá ventilace.
+
+Navíc se doporučují následující terapeutická opatření:
+bradykardie: atropin (0,5 až 2 mg i.v.), další anticholinergika, beta-adrenergní agonista (isoprenalin, 5 mikrogramů za minutu, až do dávky 25 mikrogramů, pomalou i.v. injekcí) nebo transvenózní kardiostimulace
+srdeční blokáda (druhého a třetího stupně): transvenózní kardiostimulace
+hypotenze: adrenalin může být užitečnější spíše než isoprenalin nebo noradrenalin, a to v závislosti na souvisejících faktorech
+bronchospasmus: aminofylin nebo stimulant beta-2 receptoru (aerosol)
+torsades de pointes: kardioverze, transvenózní kardiostimulace, adrenalin a nebo síran hořečnatý
+
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Beta-blokátory neselektivní ATC kód: C07AA07
+D, L-sotalol je hydrofilní látka, jejíž levotočivý izomer má beta-sympatolytické účinky bez vlastní agonistické složky účinku, tj. bez ISA (vnitřní sympatomimetické aktivity). Obě složky racemátu, D i L, mají však zřetelné účinky, jimiž řadí přípravek do skupiny antiarytmik třídy III. Sotalol  prodlužuje monofazický akční potenciál, neovlivňuje  rychlost  vedení  a  prodlužuje  absolutní  refrakterní  fázi.  Tyto elektrofyziologické změny vyvolá jak D-izomer, tak i L-izomer sotalolu; rozvíjejí se velmi brzy po podání látky a jsou patrné na předsíních, AV-uzlu i akcesorních vláknech v komorách.
+Beta-blokující účinky, vlastní pouze levotočivému izomeru, se týkají adrenergních beta-1 i beta-2-receptorů, a to zhruba stejnou měrou. V závislosti na výchozím tonu sympatiku  sotalol  snižuje  frekvenci  i  stažlivost  srdce  a  snižuje  i  rychlost atrioventrikulárního převodu a reninovou aktivitu plazmy. Inhibice adrenergních beta- receptorů může zvýšit tonus hladkého svalstva, např. svalstva bronchů.
+
+5.2 Farmakokinetické vlastnosti
+Po p.o. podání se absorbuje 75 až 90 % sotalolu. Protože nepodléhá first-pass efektu, jeho absolutní biologická dostupnost rovněž dosahuje 75 až 90 %. Maximální hladiny v plazmě je dosaženo za 2 až 3 hodiny po p.o. podání.
+Na plazmatické bílkoviny se neváže, distribuční objem je 1,6 až 2,4 l/kg. Farmakologicky aktivní metabolity nejsou v plazmě zjistitelné.
+Sotalol se vylučuje převážně ledvinami. Renální clearance je 120 ml/min a odpovídá celkové tělesné clearanci (o nutném snížení dávek při poruchách funkcí viz bod 4.2). Biologický poločas v plazmě je přibližně 15 hodin. U pacientů se silně pokročilou poruchou ledvin se však může prodloužit až na 42 hodiny.
+
+
+
+
+10
+
+5.3 Předklinické údaje vztahující se k bezpečnosti přípravku
+Sotalol je látka již dlouhou dobu klinicky používaná a nové experimentální údaje
+nejsou k dispozici.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+kukuřičný škrob, monohydrát laktózy, hyprolóza, sodná sůl karboxymetylškrobu, koloidní bezvodý oxid křemičitý, magnesium-stearát.
+6.2 Inkompatibility
+Neuplatňuje se.
+6.3 Doba použitelnosti
+5 let
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C.
+6.5 Druh obalu a obsah balení Druh obalu: PP/Al blistr, krabička. Balení: 20, 50 nebo 100 tablet
+Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku
+Žádné zvláštní požadavky na likvidaci.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Hexal AG, Industriestrasse 25, D-83607 Holzkirchen, Německo
+
+8. REGISTRAČNÍ ČÍSLO SOTAHEXAL 80 mg: 13/368/96-C SOTAHEXAL 160 mg: 13/369/96-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace:
+26.6.1996
+
+Datum posledního prodloužení registrace:
+11.11.2015
+
+
+
+
+11
+
+10. DATUM REVIZE TEXTU
+28. 8. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12

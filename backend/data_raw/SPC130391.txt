@@ -1,0 +1,667 @@
+Sp.zn. sukls215370/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV LÉČIVÉHO PŘÍPRAVKU
+Renoscint MAG3 1 mg kit pro radiofarmakum
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Každá injekční lahvička obsahuje betiatidum 1 mg.
+Pro přípravu roztoku diagnostického radiofarmaka technecium (⁹⁹ᵐTc) tiatidu musí být přípravek rekonstituován roztokem technecistanu sodného (⁹⁹ᵐTc) (který není součástí tohoto kitu).
+
+Pomocná látka se známým účinkem:
+Každá injekční lahvička obsahuje 4 mg sodných iontů. Úplný seznam pomocných látek viz bod 6.1.
+3.   LÉKOVÁ FORMA
+Kit pro radiofarmakum
+Injekční lahvička obsahuje sterilní bílý lyofilizovaný prášek.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1   Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+Po rozředění roztokem technecistanu (⁹⁹ᵐTc) sodného a označení se diagnostický přípravek technecium (⁹⁹ᵐTc) tiatid může použít nitrožilně pro vyšetřování nefrologických a urologických poruch, zejména pro studie morfologie, perfuze a funkce ledvin a pro získání informací o odtoku moče.
+
+4.2   Dávkování a způsob podání
+
+Dávkování
+Dospělí a starší osoby
+37-185 MBq (1-5 mCi), v závislosti na patologickém procesu, který má být studován a na použité metodě. Vyšetření průtoku krve ledvinami nebo transportu močovody obecně vyžaduje vyšší dávku než vyšetření intrarenálního transportu, přičemž nefrografie vyžaduje nižší aktivitu než sekvenční scintigrafie.
+
+Pediatrická populace
+Přestože se Renoscint (MAG3) může použít u pediatrických pacientů, formální studie
+nebyly prováděny. Na základě klinických zkušeností by se u dětí měla aktivita snížit.
+
+
+
+
+1/13
+
+Vzhledem k proměnlivému vztahu mezi výškou a tělesnou hmotností pacientů je někdy vhodnější aktivitu upravit dle povrchu těla.
+
+Aktivita, která se má podávat dětem a dospívajícím, se stanoví podle dávkové karty
+EANM (2016) podle následujícího vzorce:
+Aktivita, která má být podána A [MBq] = Výchozí aktivita (11,9 MBq) x násobek
+Aktivity, které se mají uplatnit, jsou uvedeny v následující tabulce:
+
+Váha (kg)
+3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Aktivita (MBq)
+15
+15
+18
+20
+23
+26
+28
+30
+32
+34
+Váha (kg)
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+Aktivita (MBq)
+36
+38
+40
+41
+43
+45
+46
+48
+50
+51
+Váha (kg)
+42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+Aktivita (MBq)
+52
+54
+55
+57
+58
+60
+62
+65
+67
+69
+
+
+U velmi malých dětí je pro získání obrazu dostatečné kvality nezbytná minimální dávka 15
+MBq.
+Pro diferenciální diagnostiku nefrologických a urologických poruch je možno aplikovat během vyšetření diuretika nebo inhibitory ACE. Scintigrafické vyšetření se obvykle provádí ihned po podání.
+
+Způsob podání
+Tento léčivý přípravek musí být před podáním pacientovi rekonstituován a radioaktivně značen.
+Pro intravenózní podání. Při vícedávkové použití.
+Scintigrafické vyšetření se obvykle provádí ihned po podání.
+Návod k rekonstituci a označení tohoto léčivého přípravku před jeho podáním je uveden v bodě 12.
+Pro přípravu pacienta viz bod 4.4.
+4.3   Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4   Zvláštní upozornění a opatření pro použití
+
+Možnost přecitlivělosti nebo anafylaktické reakce
+Pokud dojde k přecitlivělosti nebo anafylaktickým reakcím, podávání léčivého přípravku musí být okamžitě přerušeno a v případě potřeby je třeba zahájit intravenózní léčbu. Pro zabezpečení okamžitého zásahu v případě potřeby, musí být okamžitě k dispozici potřebné léčivé přípravky a vybavení, jako jsou endotracheální trubice a ventilátor.
+
+
+
+
+
+
+2/13
+
+Individuální odůvodnění přínosu / rizika
+U každého pacienta musí být radiační expozice odůvodnitelná pravděpodobným přínosem. Podaná aktivita by vždy měla být nejnižší možná, s jakou lze rozumně dosáhnout získání požadované diagnostické informace.
+
+Pediatrická populace
+Použití u dětí a dospívajících je třeba pečlivě zvážit na základě klinických potřeb a posouzení poměru rizik / přínosů v této skupině pacientů.
+Informace o použití u pediatrické populace viz bod 4.2.
+Opatrné zvážení indikace je nutné, protože účinná dávka na MBq je vyšší než u dospělých
+(viz bod 11).
+Příprava pacienta
+Pacient by měl být před začátkem vyšetření dobře hydratován a v prvních hodinách po
+aplikaci nabádán k co nejčastějšímu močení, aby se snížila radiace.
+Zvláštní upozornění
+U pacientů s vážnou poruchou funkce ledvin není přípravek vhodný pro přesné
+monitorování efektivního průtoku plazmy nebo krve ledvinami.
+
+Během procesu značení může vznikat malé množství nečistot označených techneciem
+(⁹⁹ᵐTc).
+Některé z těchto nečistot jsou distribuovány do jater a vylučovány žlučovými cestami, mohou tedy překrytím v oblasti zájmu ovlivnit pozdní fázi (po 30 minutách) dynamického vyšetření ledvin a jater.
+Je třeba se vyvarovat neúmyslného nebo náhodného podkožního podání technecium (⁹⁹ᵐTc) tiatidu, z důvodu možnosti vzniku perivaskulárního zánětu.
+
+Pomocné látky
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v injekční lahvičce, to
+znamená, že je v podstatě "bez sodíku".
+V závislosti na době podání injekce může být obsah sodíku podávaného pacientovi v některých případech vyšší než 1 mmol. To je třeba vzít v úvahu u pacientů s dietou s nízkým obsahem sodíku.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly popsány interakce technecium (⁹⁹ᵐTc) tiatidu s léčivými látkami běžně předepisovanými nebo podávanými pacientům vyžadujícím vyšetření s technecium (⁹⁹ᵐTc) tiatidem (např. antihypertenziva a léčivé přípravky k léčbě nebo prevenci rejekce transplantovaných orgánů).
+
+Pro diferenciální diagnostiku nefrologických a urologických poruch je možno během vyšetření jednorázově podat diuretikum nebo inhibitor ACE.
+Aplikace kontrastních látek může narušit tubulární sekreci, a tím ovlivnit clearance
+technecium (⁹⁹ᵐTc) tiatidu.
+
+4.6   Fertilita, těhotenství a kojení
+
+
+
+
+
+3/13
+
+Ženy ve fertilním věku
+Je-li nutné podat radioaktivní přípravek ženě ve fertilním věku, vždy je nutno pátrat po možném těhotenství. Každá žena, které vynechala menstruace, má být považována za těhotnou, dokud se neprokáže opak.  V případě nejistoty (pokud  ženě vynechala menstruace, nebo je velmi nepravidelná) měly by být pacientce nabídnuty alternativní techniky bez použití ionizujícího záření (pokud jsou k dispozici).
+
+Těhotenství
+Radionuklidová vyšetření prováděná u těhotných žen zahrnují také radiační dávku pro plod.
+Během těhotenství by měla být prováděna pouze naléhavá vyšetření, kdy předpokládaný přínos významně převažuje riziko způsobené matce a plodu.
+
+Kojení
+Před podáním radioaktivního přípravku kojící matce je třeba zvážit, zda lze vyšetření odložit až do ukončení kojení a zda byl proveden výběr nejvhodnějšího radiofarmaka s ohledem na sekreci radioaktivity do mateřského mléka.
+
+Je-li podání považováno za nutné, kojení by mělo být přerušeno na 4 hodin a odsáté mléko zlikvidováno.
+
+4.7   Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly prováděny žádné studie účinků na schopnost řídit nebo obsluhovat stroje.
+
+4.8   Nežádoucí účinky
+
+Frekvence nežádoucích účinků jsou definovány takto:
+Velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (<1/10 000) a není známo (z dostupných údajů nelze určit).
+
+
+Poruchy nervového systému
+Není známo (z dostupných údajů nelze určit)
+
+Mozkový záchvat¹
+
+
+Poruchy imunitního systému
+Vzácné až velmi vzácné (˂1/1 000)
+Anafylaktoidní reakce, například kopřivka, otoky víček a kašel
+¹ Hlášeno u 15 dnů starého dítěte. Příčinná souvislost nebyla zjištěna.
+
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným rozvojem dědičných vad. Při diagnostických vyšetřeních v nukleární medicíně současné důkazy naznačují, že se tyto nežádoucí účinky vyskytují s nízkou frekvencí vzhledem k nízkým radiačním dávkám.
+
+U většiny diagnostických vyšetření metodami nukleární medicíny je aplikovaná radiační dávka (efektivní dávkový ekvivalent, EDE) nižší než 20 mSv. Za některých klinických okolností mohou být odůvodněny vyšší dávky.
+Hlášení podezření na nežádoucí účinky
+
+
+
+4/13
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9   Předávkování
+
+Riziko podání nadměrné dávky technecium (⁹⁹ᵐTc) tiatidu je z velké části teoretické a spočívá převážně v nadměrnému množství radiace. V takovém případě je možné snížit radiační zátěž organismu (ledvin, močového měchýře a žlučníku) forsírovanou diurézou a podporou častého vyprazdňování močového měchýře.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1   Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: diagnostická radiofarmaka, ledviny a močové cesty, sloučeniny technecia (⁹⁹ᵐTc)
+ACT kód: V09CA03
+
+U injekce technecium (⁹⁹ᵐTc) tiatidu nejsou u předpokládaných dávek známy žádné
+farmakodynamické účinky.
+Měření aktivity nad ledvinami umožňuje stanovit hodnoty průtoku krve ledvinami, intrarenálního transportu tubuly i hodnoty vylučování močovým systémem odděleně pro každou ledvinu.
+5.2   Farmakokinetické vlastnosti
+
+Distribuce
+Po intravenózní aplikaci je technecium (⁹⁹ᵐTc) tiatid z krevního oběhu rychle odstraňován
+ledvinami.
+Vychytávání v orgánech
+Technecium (⁹⁹ᵐTc) tiatid má poměrně vysokou vazbu na plazmatické proteiny. Při normální funkci ledvin je po 30 minutách po aplikaci vyloučeno 70 % podané dávky a po 3 hodinách více než 95 %. Vylučování po 3 hodinách je závislé na patologii ledvin a urogenitálního systému.
+
+Eliminace
+Mechanismus vylučování je založen převážně na tubulární sekreci. Glomerulární filtrace představuje pouze asi 11 % celkové clearance.
+5.3   Předklinické údaje vztahující se k bezpečnosti
+Byly prováděny studie akutní, subakutní (8denní) a chronické (13týdenní) toxicity a studie mutagenity. U zkoumaných dávek, které byly až 1000násobkem maximální dávky pro člověka, nebyly pozorovány žádné toxické účinky. Nebyly pozorovány ani účinky mutagenní.
+
+
+
+
+5/13
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1   Seznam pomocných látek
+• Dihydrát natrium-tartarátu
+• Dihydrát chloridu cínatého
+•  Kyselina chlorovodíková pro úpravu pH
+6.2   Inkompatibility
+
+Žádné velké inkompatibility nejsou známy. Aby však nebyla narušena stabilita technecium (⁹⁹ᵐTc)-tiatidu, přípravek by se neměl aplikovat společně s jinými léčivy.
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky, s výjimkou těch, které jsou uvedeny v bodě 12.
+
+6.3   Doba použitelnosti
+
+18 měsíců
+Doba použitelnosti je uvedena na vnějším obalu a na každé lahvičce.
+Po označení je stabilita 8 hodin, uchovávejte při teplotě do 25 °C.
+
+6.4   Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 °C - 8 °C).
+Uchovávejte lahvičky v krabičce, aby byl přípravek chráněn před světlem. Podmínky uchovávání po radiologickém označení přípravku viz bod 6.3.
+Skladování radiofarmaka musí být v souladu s národními předpisy pro radioaktivní materiály.
+6.5   Druh obalu a obsah balení
+
+Skleněná lahvička 10 ml typu 1 Ph. Eur. uzavřená chlorobutylovou gumovou zátkou Ph. Eur. a utěsněná hliníkovou objímkou.
+Renoscint MAG3 je dodáván jako 2 lahvičky nebo 6 lahviček v krabičce. Velikosti balení
+1 balení obsahuje 6 lahviček.
+Vzorové balení: 2 lahvičky.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Všeobecná upozornění
+Radiofarmaka mají být přijímána, používána a podávána pouze oprávněnými osobami v  určených  klinických  zařízeních.  Jejich  příjem,  skladování,  používání,  přeprava a likvidace se řídí předpisy a/nebo příslušnými oprávněními místních kompetentních úřadů.
+
+
+
+
+
+
+6/13
+
+Radiofarmaka mají být připravena takovým způsobem, který vyhovuje požadavkům radiační bezpečnosti a farmaceutické kvalitě. Mají být přijata příslušná aseptická opatření.
+
+Obsah lahvičky se označí injekčním roztokem technecistanu (⁹⁹ᵐTc) sodného. Po rekonstituci s technecistanem (⁹⁹ᵐTc) sodným se diagnostická látka technecium (⁹⁹ᵐTc) tiatid získá přivedením k varu.
+Podávání radiofarmak představuje riziko pro jiné osoby z externího ozáření, nebo kontaminací z rozlité moči, zvratků apod. Je proto třeba dodržovat bezpečnostní opatření v souladu s národními předpisy. Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Je možné používat eluát pouze z techneciového (⁹⁹ᵐTc) generátoru, u kterého byla provedena eluace během předchozích 24 hodin. Přípravek se ředí fyziologickým roztokem. Po rozředění a označení se roztok může použít pro jednu nebo více aplikací.
+Injekční lahvička neobsahuje konzervační prostředek.
+
+Vlastnosti léčivého přípravku po označení radionuklidem:
+•  Čirý až mírně opalizující bezbarvý vodný roztok.
+• pH 5,0-7,5
+• Osmolalita: mírně hypertonická.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Medi-Radiopharma Kft. Szamos u. 10-12
+2030 Érd,
+Maďarsko
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+88/832/16-C
+
+9.   DATUM PRVNÍ REGISTRACE
+Datum první registrace: 20. 12. 2017
+
+10.   DATUM REVIZE TEXTU
+1. 7. 2018
+
+11.   DOZIMETRIE
+Následující radiační dozimetrie je vypočtena podle systému MIRD. Údaje jsou z publikace ICRP 80 z roku 1998.
+
+V tomto modelu platí následující předpoklady:
+−  V obvyklém případě po intravenózním podání MAG3 se látka rychle rozděluje do extracelulární tekutiny a vylučuje se zcela renálním systémem podle modelu ledviny a měchýře. Celková retence v těle je popsána třemi exponenciálními funkcemi. Doba renálního průchodu se předpokládá 4 minuty jako u přípravku Hippuran.
+−  V případě oboustranného poruchy funkce ledvin je předpokládaná clearance látky jedna desetina z normálního stavu, doba renálního průchodu se může zvýšit až na 20 minut a v játrech je přijata frakce 0,04.
+−  V případě akutní jednostranné blokády ledvin se předpokládá, že jedna ledvina může uvolňovat látku do krve s poločasem až 5 dní, přípravek se vylučuje druhou
+
+
+
+7/13
+
+ledvinou, u niž se předpokládá, že funguje normálně.
+
+Normální funkce ledvin:
+Absorbované dávky ⁹⁹ᵐTc MAG3, ⁹⁹ᵐTc 6,02 hod
+
+Absorbovaná dávka na podanou jednotku aktivity
+(mGy/MBq)
+Orgán              Dospělí     15 let      10 let      5 let      1 rok
+Nadledviny          0,00039     0,00051     0,00082     0,0012     0,0025
+Močový měchýř        0,11       0,14       0,17       0,18       0,32
+Povrchy kostí         0,0013     0,0016     0,0021     0,0024     0,0043
+Mozek             0,0001     0,00013     0,00022     0,00035     0,00061
+Prsa              0,00010     0,00014     0,00024     0,00039     0,00082
+Žlučník            0,00057     0,00087     0,0020     0,0017     0,0028
+GI trakt
+Žaludek            0,00039     0,00049     0,00097     0,0013     0,0025
+Tenké střevo         0,0023     0,0030     0,0042     0,0046     0,0078
+Tlusté střevo         0,0034     0,0043     0,0059     0,0060     0,0098
+Horní tlusté střevo      0,0017     0,0023     0,0034     0,0040     0,0067)
+Dolní tlusté střevo      0,0057     0,0070     0,0092     0,0087     0,014)
+Srdce             0,00018     0,00024     0,00037     0,00057     0,0012
+Ledviny            0,0034     0,0042     0,0059     0,0084     0,015
+Játra              0,00031     0,00043     0,00075     0,0011     0,0021
+Plíce              0,00015     0,00021     0,00033     0,00050     0,0010
+Svaly             0,0014     0,0017     0,0022     0,0024     0,0041
+Jícen              0,00013     0,00018     0,00028     0,00044     0,00082
+Vaječníky           0,0054     0,0069     0,0087     0,0087     0,014
+Slinivka            0,0004     0,0005     0,00093     0,0013     0,0025
+
+Červená kostní dřeň     0,00093     0,0012     0,0016     0,0015     0,0021
+Pokožka            0,00046     0,00057     0,00083     0,00097     0,0018
+Slezina            0,00036     0,00049     0,00079     0,0012     0,0023
+Varlata            0,0037     0,0053     0,0081     0,0087     0,016
+Brzlík             0,00013     0,00018     0,00028     0,00044     0,00082
+Štítná žláza          0,00013     0,00016     0,00027     0,00044     0,00082
+Děloha             0,012      0,014      0,019      0,019      0,031
+
+Zbývající orgány       0,0013     0,0016     0,0021     0,0022     0,0036
+Efektivní dávka
+(mSv/MBq)          0,007      0,0090     0,012      0,012      0,022
+
+Stěna močového měchýře přispívá až k 80 % efektivní dávky.
+Efektivní dávka v případě, že močový měchýř je vyprázdněn 1 nebo 0,5 hodiny po podání:
+
+1 hodina
+30 min.
+0.0025
+0.0017
+0.0031
+0.0021
+0.0045
+0.0029
+0.0064
+0.0039
+0.0064
+0.0068
+U aplikované aktivity 185 MBq (maximální dávka) je efektivní dávka 1,3 mSv.
+Absorbovaná dávka v cílovém orgánu (ledviny) je 0,63 mGy a typická radiační dávka do kritického
+orgánu (stěna močového měchýře) je 20 mGy.
+
+
+
+
+
+
+8/13
+
+Abnormální funkce ledvin:
+Absorbované dávky ⁹⁹ᵐTc MAG3, ⁹⁹ᵐTc 6,02 hod
+
+Absorbovaná dávka na podanou jednotku aktivity
+(mGy/MBq)
+Orgán           Dospělí      15 let      10 let       5 let       1 rok
+Nadledviny       0,0016      0,0021      0,0032      0,0048      0,0086
+Močový měchýř     0,083       0,11       0,13       0,13       0,23
+Povrchy kostí      0,0022      0,0027      0,0038      0,0050      0,0091
+Mozek          0,00061      0,00077     0,0013      0,0020      0,0036
+Prsa           0,00054      0,00070     0,0011      0,0017      0,0032
+Žlučník         0,0016      0,0022      0,0038      0,0046      0,0064
+GI trakt
+Žaludek         0,0012      0,0015      0,0026      0,0035      0,0061
+Tenké střevo      0,0027      0,0035      0,0050      0,0060      0,010
+Tlusté střevo      0,0035      0,0044      0,0061      0,0069      0,011
+Horní tlusté střevo   0,0022      0,0030      0,0043      0,0056      0,0093)
+Dolní tlusté střevo   0,0051      0,0063      0,0085      0,0086      0,014)
+Srdce          0,00091     0,0012      0,0018      0,0027      0,0048
+Ledviny         0,014      0,017      0,024      0,034      0,059
+Játra           0,0014      0,0018      0,0027      0,0038      0,0066
+Plíce           0,00079     0,0011      0,0016      0,0024      0,0045
+Svaly          0,0017      0,0021      0,0029      0,0036      0,0064
+Jícen           0,00074     0,00097     0,0015      0,0023      0,0041
+Vaječníky        0,0049      0,0063      0,0081      0,0087      0,014
+Slinivka         0,0015      0,0019      0,0029      0,0043      0,0074
+Červená kostní dřeň   0,0015      0,0019      0,0026      0,0031      0,0050
+Pokožka         0,00078     0,00096     0,0015      0,0020      0,0038
+Slezina         0,0015      0,0019      0,0029      0,0043      0,0074
+Varlata         0,0034      0,0047      0,0071      0,0078      0,014
+Brzlík          0,00074     0,00097     0,0015      0,0023      0,0041
+Štítná žláza       0,00073     0,00095     0,0015      0,0024      0,0044
+Děloha          0,010      0,012      0,016      0,016      0,027
+
+Zbývající orgány    0,0017      0,0021      0,0028      0,0034      0,0060
+
+
+Efektivní dávka
+(mSv/MBq)
+0,0061      0,0078      0,010      0,011      0,019
+U aplikované aktivity 185 MBq (maximální dávka) je efektivní dávka 1,1 mSv.
+Absorbovaná dávka v cílovém orgánu (ledviny) je 2,6 mGy a typická radiační dávka do kritického
+orgánu (stěna močového měchýře) je 15 mGy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/13
+
+Akutní jednostranná funkce ledvin:
+Absorbované dávky ⁹⁹ᵐTc MAG3, ⁹⁹ᵐTc 6,02 hod
+
+Absorbovaná dávka na podanou jednotku aktivity (mGy/MBq)
+Orgán           Dospělí     15 let      10 let      5 let       1 rok
+Nadledviny       0,011      0,014      0,022      0,032      0,055
+Močový měchýř    0,056      0,071      0,091      0,093      0,17
+Povrchy kostí      0,0031     0,0040     0,0058     0,0084     0,017
+Mozek         0,00011     0,00014     0,00023     0,00039     0,00075
+Prsa           0,00038     0,00051     0,0010     0,0016     0,0030
+Žlučník         0,0062     0,0073     0,010      0,016      0,023
+GI trakt
+Žaludek         0,0039     0,0044     0,0070     0,0093     0,012
+Tenké střevo      0,0043     0,0055     0,0085     0,012      0,019
+Tlusté střevo      0,0039     0,0050     0,0072     0,0092     0,0015
+Horní tlusté střevo   0,0040     0,0051     0,0076     0,010      0,016)
+Dolní tlusté střevo   0,0038     0,0048     0,0067     0,0082     0,013)
+Srdce          0,0013     0,0016     0,0027     0,0040     0,0061
+Ledviny         0,20       0,24       0,33       0,47       0,81
+Játra           0,0044     0,0054     0,0081     0,011      0,017
+Plíce           0,0011     0,0016     0,0025     0,0039     0,0072
+Svaly          0,0022     0,0027     0,0037     0,0051     0,0089
+Jícen          0,00038     0,00054     0,00085     0,0015     0,0023
+Vaječníky        0,0038     0,0051     0,0071     0,0092     0,015
+Slinivka         0,0074     0,0090     0,013      0,018      0,029
+
+Červená kostní dřeň  0,0030     0,0036     0,0050     0,0060     0,0083
+Pokožka         0,00082     0,0010     0,0015     0,0022     0,0042
+Slezina         0,0098     0,012      0,018      0,026      0,040
+Varlata         0,0020     0,0029     0,0045     0,0050     0,0098
+Brzlík          0,00038     0,00054     0,00085     0,0015     0,0023
+Štítná žláza       0,00017     0,00023     0,00045     0,00092     0,00160
+Děloha         0,0072     0,0087     0,012      0,013      0,022
+Zbývající orgány    0,0021     0,0026     0,0036     0,0047     0,0080
+
+Efektivní dávka
+(mSv/MBq)
+0,010      0,012      0,017      0,022      0,038
+
+U aplikované aktivity 185 MBq (maximální dávka) je efektivní dávka 1,85 mSv.
+Absorbovaná dávka v cílovém orgánu (ledviny) je 37 mGy a typická radiační dávka do kritického
+orgánu (stěna močového měchýře) je 10 mGy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/13
+
+12.   NÁVOD NA PŘÍPRAVU RADIOFARMAK
+Způsob přípravy
+Proveďte eluci generátoru v objemu 5 ml podle návodu k obsluze. Použijte požadovanou aktivitu ⁹⁹ᵐTc (nejvíce však 2960 MBq, 80 mCi) nařeďte do 10 ml 0,9% roztokem chloridu sodného. Tento objem přidejte do lahvičky přípravku Renoscint MAG3.
+Pro přenos roztoku použijte tenkou jehlu (20 G nebo vyšší), aby došlo k následnému uzavření otvoru v pryžové zátce. Tak nedojde k průniku vody do lahvičky při následném procesu varu a ochlazování.
+Ihned po přidání aktivity zahřívejte lahvičku po dobu 10 minut na vroucí vodní lázni nebo v topném bloku zahřátém na 120°C. Zajistěte svislou polohu lahvičky, aby nedošlo k průniku kovových nečistot z pryžové zátky do roztoku, což může negativně ovlivnit účinnost značení. Poté ochlaďte lahvičku ve studené vodě na pokojovou teplotu. Tehdy je preparát připraven k aplikaci. V případě potřeby je možné naředit 0,9% roztokem chloridu sodného.
+Označený roztok s aktivitou 2960 MBq/10 ml je možné použít do 8 hodin od ukončení
+kroku zahřívání.
+Je-li to možné, doporučuje se použít eluát získaný přerušovanou elucí generátoru dle
+příslušného návodu k použití.
+Upozornění v souvislosti s krokem značení
+Doporučuje se přidat roztok vhodného barviva do vodní lázně při zahřívání i při ochlazování (např. methylenovou modř 1 % nebo fluorescein sodný 0,1 %). Takové opatření zabezpečí indikaci případné kontaminace obsahu lahvičky během zahřívání, popř. ochlazování. Označený roztok má být před použitím zkontrolován (při zachování zásad ochrany zdraví před ionizujícím zářením).
+
+Pokyny pro kontrolu kvality
+Mohou se použít následující metody:
+1. HPLC metoda:
+Radiochemická čistota označené látky se zkouší metodou vysokoúčinné kapalinové chromatografie (HPLC) s použitím vhodného detektoru aktivity, na 25 cm koloně RP18 s průtokem 1,0 ml/min.
+Mobilní fází A je směs roztoku fosforečnanu (1,36 g KH2PO4 s hodnotou pH 6 upravenou pomocí 0,1 M NaOH) a etanolu v poměru 93:7. Mobilní fází B je směs vody a metanolu v poměru 1:9.
+
+Použijte program eluce s následujícími parametry:
+
+Čas (min.):    Průtok
+(ml/min.):
+% A    % B
+
+10       1
+15       1
+100
+0
+0
+100
+
+Pík technecium (⁹⁹ᵐTc) tiatidu se objevuje na konci průchodu mobilní fáze A.
+Objem vzorku je 20 µl a celkový počet impulsů pro každý kanál nesmí překročit 30 000.
+
+
+
+
+
+11/13
+
+Požadavek:
+
+t = 0      Po 8
+hodinách
+
+Tiatid
+Čelní frakce celkem
+Metanolová frakce
+≥ 95,0 %
+≤ 3,0 %
+≤ 4,0 %
+≥ 94,0 %
+≤ 3,0 %
+≤ 4,0 %
+
+2. TLC metoda
+Metoda: Chromatografie tenkovrstvá Hydrofilní nečistoty
+Požadavek:
+Poloha radioaktivních nečistot: na startu Rf=0,8-1,0 Množství: max. 5 %
+
+Metoda:
+Roztok vzorku: kápnout 2 µl značeného přípravku na tenkou vrstvu
+Referenční roztok: kápnout 2 µl eluátu na vrstvu (ion technecistanu)
+
+Parametry testu:
+• Vrstva: ITLC-SG
+• Aplikace: 2 cm od dolního okraje desky
+• Začátek vývoje: hned po aplikaci vzorku
+• Vzdálenost čela: 6 cm
+• Roztok pro vývoje: ethylacetát: methylethylketon = 60:40
+• Nádoba: nasycená
+• Doba sycení: 30 minut
+• Sušení papíru: po vyvíjení nechat uschnout při pokojové teplotě
+• Doba aplikace: 20 minut po značení Detekce: detektor pro měření radioaktivity
+Hodnocení:
+Radioaktivní nečistoty migrují v přední části Rf = 0,8 až 1,0. Odpovídající množství (v procentech celkové radioaktivity v%) z chromatogramu.
+
+3. Zjednodušená rychlá metoda:
+
+Radioaktivní nečistoty (metoda: papírová chromatografie) Nečistota A: (⁹⁹ᵐTc) technecium v koloidní formě
+
+Požadavek:
+Poloha radioaktivních nečistot: na startu Rf=0,0-0,1 Množství: max. 2 %
+Metoda:
+Roztok vzorku: kápnout 2 µl značeného přípravku na proužek Referenční roztok: kápnout 2 µl eluátu na vrstvu (ion technecistanu)
+
+
+
+
+12/13
+
+Parametry testu:
+•  Vrstva: chromatografický papír
+•  Aplikace: 2 cm od dolního okraje desky
+•  Začátek vývoje: hned po aplikaci vzorku
+•  Vzdálenost čela: 15 cm
+•  Roztok pro vývoje: voda: acetonitril = 40:60
+•  Nádoba: nasycená
+•  Doba sycení: 30 minut
+•  Sušení papíru: po vyvíjení nechat uschnout při pokojové teplotě
+•  Doba aplikace: 20 minut po značení
+Detekce: detektor pro měření radioaktivity Hodnocení:
+Radioaktivní nečistoty zůstanou na startu Rf=0,0-0,1. Odpovídající množství (v procentech celkové radioaktivity v %) se odečte z chromatogramu.
+
+Vypočítejte procentní podíl radioaktivity vlivem technecium (⁹⁹ᵐTc)-mertiatidu za použití následujícího výrazu:
+
+100-(A + B)
+
+Kde
+
+A = procentní podíl radioaktivity způsobené nečistotou A, techneciem (⁹⁹ᵐTc) v koloidní formě získaným metodou papírové chromatografie
+
+B = procento radioaktivity způsobené hydrofilními nečistotami, včetně nečistoty B vyplývající z metody TLC
+
+Za předpokladu, že byly zkušební vzorky odebrány a analyzovány do 8 hodin po
+rekonstituci může být očekávána alespoň 94% radiochemická čistota.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13/13

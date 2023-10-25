@@ -1,0 +1,719 @@
+Sp. zn. sukls233405/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Flolan 1,5 mg prášek a rozpouštědlo pro infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Epoprostenol 1,5 mg prášek pro infuzní roztok:
+Jedna injekční lahvička obsahuje epoprostenolum natricum ekvivalentní epoprostenolum 1,5 mg.
+Jeden mililitr rekonstituovaného koncentrovaného roztoku obsahuje epoprostenolum (jako
+epoprostenolum natricum) 30 000 nanogramů (1,5 mg epoprostenolu v 50 ml rozpouštědla).
+
+Pomocné látky se známým účinkem:
+Množství sodíku obsažené v rekonstituovaném koncentrovaném roztoku odpovídá přibližně
+73 mg.
+Množství sodíku obsažené v prášku pro infuzní roztok odpovídá přibližně 3 mg v jedné injekční lahvičce.
+Množství sodíku obsažené v rozpouštědle pro parenterální použití odpovídá přibližně 70 mg v jedné injekční lahvičce.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Prášek a rozpouštědlo pro infuzní roztok.
+
+Prášek pro infuzní roztok:
+–  Bílý až téměř bílý lyofilizovaný prášek
+
+Rozpouštědlo pro parenterální použití:
+–  Čirý bezbarvý roztok (pH 11,7 – 12,3)
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Flolan je indikován k léčbě pacientů s plicní arteriální hypertenzí (PAH) (idiopatická nebo dědičná PAH a PAH spojená s onemocněním pojivových tkání) u pacientů se symptomy III-
+IV. funkční třídy podle WHO ke zlepšení zátěžové kapacity (viz bod 5.1).
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Epoprostenol je indikován pouze k intravenóznímu podání kontinuální infuzí.
+
+
+
+1
+
+Léčba má být zahájena a monitorována pouze lékařem se zkušenostmi s léčbou plicní arteriální hypertenze.
+
+Krátkodobá (akutní) titrace dávek:
+Tato fáze má probíhat v nemocnici s odpovídajícím resuscitačním vybavením.
+
+Krátkodobá titrace, při níž se přípravek aplikuje periferním nebo centrálním žilním katetrem, je nezbytná ke stanovení rychlosti dlouhodobé infuze. Infuze se zahajuje rychlostí 2 nanogramy/kg/min a ta se zvyšuje každých 15 minut nebo v delších časových intervalech vždy o 2 nanogramy/kg/min, a to až do dosažení maximálních výsledků hemodynamických parametrů nebo až do vyvolání farmakologických účinků limitujících příslušnou dávku.
+Pokud není úvodní rychlost infuze 2 nanogramy/kg/min tolerována, je třeba stanovit nižší dávku, kterou bude pacient tolerovat.
+
+Dlouhodobá kontinuální infuze:
+Dlouhodobou kontinuální infuzi přípravku Flolan je třeba podávat pomocí centrálního žilního katetru. Až do vytvoření centrálního přístupu lze přípravek dočasně podávat periferní žilní infuzí. Dlouhodobou infuzi je třeba zahájit rychlostí o 4 nanogramy/kg/min nižší, než byla maximálně tolerovaná rychlost stanovená krátkodobou titrací. Jestliže je maximální tolerovaná rychlost 5 nanogramů/kg/min nebo nižší, je třeba dlouhodobou infuzi zahájit rychlostí 1 nanogram/kg/min.
+
+Úprava dávek:
+
+Změny rychlosti dlouhodobé infuze mají vycházet z perzistence, recidiv nebo zhoršení charakteru symptomů plicní arteriální hypertenze nebo z výskytu nežádoucích účinků vyvolaných nadměrnými dávkami přípravku Flolan.
+
+Zpravidla je během doby nutné počáteční dávku aplikovanou v dlouhodobé infuzi zvyšovat. O zvýšení dávek se má uvažovat při přetrvávání symptomů plicní arteriální hypertenze nebo v případě recidiv po zlepšení stavu pacienta. Infuzní rychlost se má zvyšovat vždy o 1 až 2 nanogramy/kg/min  v intervalech  postačujících  k posouzení  klinické  odpovědi.  Tyto intervaly mají být minimálně patnáctiminutové. Po stanovení nové infuzní rychlosti je třeba pacienty pečlivě sledovat a monitorovat krevní tlak a srdeční frekvenci vestoje i vleže po dobu několika hodin k potvrzení dobré snášenlivosti této nové dávky.
+Výskyt farmakologických na dávce závislých nežádoucích účinků během dlouhodobé infuze podobných těm, které byly pozorovány během titrace rychlosti infuze, si může vyžádat snížení rychlosti infuze. V některých případech mohou nežádoucí účinky ustoupit i bez úpravy dávkování. Dávky je třeba snižovat postupně vždy o 2 nanogramy/kg/min každých 15 minut nebo v delších časových intervalech, až do vymizení nežádoucích účinků. Je třeba se vyvarovat náhlého vysazení přípravku Flolan nebo náhlého snížení rychlosti infuze z důvodu možného rizika fatálního rebound fenoménu (viz bod 4.4). S výjimkou život ohrožujících situací (bezvědomí, kolaps atd.) je třeba infuzní rychlosti přípravku Flolan upravovat pouze pod dohledem lékaře.
+
+Starší pacienti
+Specifické údaje týkající se podávání přípravku Flolan pacientům nad 65 let při hemodialýze nebo plicní arteriální hypertenzi, nejsou k dispozici. Obecně platí, že u starších pacientů je třeba dávku přípravku volit opatrně vzhledem k častějším poruchám jaterních, renálních (v případě plicní arteriální hypertenze) nebo srdečních funkcí, k možné přítomnosti přidruženého onemocnění a k současně užívané farmakoterapii.
+
+
+2
+
+Pediatrická populace
+Bezpečnost a účinnost epoprostenolu u dětí do 18 let nebyly dosud stanoveny.
+
+Způsob podání
+Opatření, která je nutno učinit před zacházením s léčivým přípravkem nebo před jeho podáním
+
+Čerstvě připravené infuzní roztoky (buď jako koncentrovaný roztok nebo dále naředěný roztok) mohou být podány ihned po přípravě nebo uchovávány po dobu až 8 dní při teplotě 2 °C až 8 °C. Takto připravený nebo uchovávaný infuzní roztok má být použit do 72 hodin, pokud je uchováván při teplotě do 25 °C, nebo do 48 hodin, pokud je uchováván při teplotě do 30 °C, nebo do 24 hodin, pokud je uchováván při teplotě do 35 °C, nebo do 12 hodin, pokud je uchováván při teplotě do 40 °C.
+
+Pro přípravu nebo podání roztoku epoprostenolu připraveného s použitím rozpouštědla (pH 11,7 – 12,3), se nesmí použít žádný materiál obsahující polyethylentereftalát (PET) nebo polyethylentereftalátglykol (PETG; viz body 6.2 a 6.6).
+
+Rekonstituované roztoky je zapotřebí před podáním zkontrolovat. V případě výskytu zabarvení nebo částic nesmí být roztok použit.
+
+Návod k rekonstituci a ředění tohoto léčivého přípravku před jeho podáním je uveden
+v bodě 6.6.
+
+Epoprostenol nesmí být podán formou bolusové injekce.
+
+4.3  Kontraindikace
+
+Přípravek Flolan je kontraindikován u pacientů:
+•  se známou přecitlivělostí na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1;
+•  s městnavým srdečním selháním při těžké dysfunkci levé komory;
+•  přípravek Flolan nesmí dlouhodobě užívat pacienti, u nichž se v průběhu titrace dávky rozvine plicní edém.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Vzhledem k vysoké hodnotě pH finálních infuzních roztoků je třeba přípravek podávat přísně intravenózně a vyvarovat se jeho extravazace v průběhu aplikace. Zabrání se tak následnému riziku poškození tkání.
+
+Přípravek Flolan je vysoce účinné pulmonální a systémové vazodilatans. Kardiovaskulární účinky, které se mohou vyskytnout v průběhu infuze, vymizí během 30 minut po jejím ukončení.
+
+Přípravek Flolan je silný inhibitor agregace trombocytů, proto je třeba vzít v úvahu zvýšené riziko hemoragických komplikací, zejména u pacientů s dalšími rizikovými faktory pro vznik krvácení (viz bod 4.5).
+Dojde-li při podávání přípravku Flolan k významnému poklesu krevního tlaku, má se snížit dávka nebo přerušit aplikace infuze. V případě předávkování může být hypotenze závažná a může vést ke ztrátě vědomí (viz bod 4.9).
+
+
+
+
+3
+
+Během podávání přípravku Flolan by se měly monitorovat hodnoty krevního tlaku a srdeční
+frekvence.
+
+Přípravek Flolan může srdeční akci zpomalovat, nebo naopak zrychlovat. Změna rytmu je pravděpodobně podmíněna jak bazální srdeční frekvencí, tak koncentrací podávaného epoprostenolu.
+Působení přípravku Flolan na srdeční frekvenci může být modifikováno současným užíváním léčiv ovlivňujících kardiovaskulární reflexy.
+
+U pacientů s onemocněním koronárních arterií je doporučena maximální opatrnost. Bylo hlášeno zvýšení hladiny glukózy v krvi (viz bod 4.8).
+Rozpouštědlo  neobsahuje  žádné  konzervační  látky,  a proto  lahvička  slouží  pouze
+k jednorázovému použití. potom musí být zlikvidována. Obsah sodíku
+Tento léčivý přípravek obsahuje sodík. To je zapotřebí vzít v úvahu u pacientů s dietou s kontrolovaným příjmem sodíku.
+
+Množství sodíku obsažené v rekonstituovaném koncentrovaném roztoku odpovídá přibližně 73 mg, což odpovídá přibližně 4 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Množství sodíku obsažené v prášku pro infuzní roztok odpovídá přibližně 3 mg v jedné injekční lahvičce, což odpovídá přibližně 0,2 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Množství sodíku obsažené v rozpouštědle pro parenterální použití odpovídá přibližně 70 mg v jedné injekční lahvičce, což odpovídá přibližně 4 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+U některých pacientů s plicní arteriální hypertenzí se v průběhu nastavování dávek vyvinul plicní edém, který může mít souvislost s plicním veno-okluzivním onemocněním. Přípravek Flolan nesmí být dlouhodobě podáván pacientům, u kterých se v průběhu nastavování dávek vyvinul plicní edém (viz bod 4.3).
+
+S výjimkou život ohrožujících stavů je nutné se vyvarovat náhlého vysazení nebo přerušení infuze. Náhlé přerušení léčby může vést u plicní arteriální hypertenze k rebound fenoménu, který může způsobovat závrať, astenii, zhoršení dušnosti a může rovněž vést až k úmrtí pacienta (viz bod 4.2).
+
+Přípravek Flolan se podává kontinuální infuzí pomocí permanentně zavedeného centrálního žilního katetru napojeného na malou přenosnou infuzní pumpu. Terapie přípravkem Flolan vyžaduje pacientovu spolupráci při zajištění sterilní přípravy infuzního roztoku, aplikaci přípravku i při péči o permanentní centrální žilní katetr a přístup k intenzivní a trvalé edukaci pacienta.
+
+Při ředění přípravku a při péči o katetr je třeba dodržovat sterilní podmínky. Dokonce i krátká přerušení přísunu přípravku Flolan mohou vést k rychlému symptomatickému zhoršení. Rozhodnutí, zda podávat přípravek Flolan pacientům s plicní arteriální hypertenzí, je třeba založit na správném porozumění pacienta skutečnosti, že je zde vysoká pravděpodobnost, že
+
+
+4
+
+léčba přípravkem Flolan bude dlouhodobá (pravděpodobně i několik let), a na pečlivém zvážení jeho schopnosti přijmout a pečovat o permanentní žilní katetr a infuzní pumpu.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Pokud se přípravek Flolan aplikuje pacientům užívajícím současně antikoagulancia, je vhodné zajistit standardní monitorování antikoagulačních parametrů.
+
+Vazodilatační účinky přípravku Flolan mohou dále zvyšovat účinek současně podávaných vazodilatancií.
+Obdobně jako jiné analogy prostaglandinu, může i přípravek Flolan snižovat trombolytickou účinnost aktivátoru tkáňového plazminogenu (tissue plasminogen activator - t-PA) zvyšováním jaterní clearance tohoto aktivátoru.
+
+Při současném užívání nesteroidních antiflogistik anebo jiných léčiv ovlivňujících agregaci krevních destiček představuje přípravek Flolan určitý potenciál ke zvyšování rizika krvácení.
+U pacientů užívajících digoxin může dojít po zahájení léčby přípravkem Flolan ke zvýšení hladin digoxinu. Ačkoli je toto zvýšení přechodné, může být u pacientů náchylných k toxicitě digoxinu klinicky významné.
+4.6  Fertilita, těhotenství a kojení Těhotenství
+K dispozici je pouze omezené množství údajů o podávání epoprostenolu těhotným ženám.
+Studie na zvířatech nenaznačily žádné přímé nebo nepřímé škodlivé účinky s ohledem na
+reprodukční toxicitu (viz bod 5.3).
+Vzhledem k tomu, že alternativní léky nejsou k dispozici, může být epoprostenol podáván ženám, které se rozhodnou pro pokračování těhotenství i přes známá rizika plicní arteriální hypertenze v těhotenství.
+Kojení
+Není známo, zda jsou epoprostenol nebo jeho metabolity vylučovány do mateřského mléka. Riziko pro kojené dítě nelze vyloučit. Kojení má být v průběhu léčby přípravkem Flolan přerušeno.
+
+Fertilita
+Údaje o účincích epoprostenolu na fertilitu u lidí nejsou k dispozici. Reprodukční studie
+u zvířat neprokázaly žádný vliv na fertilitu (viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Plicní arteriální hypertenze a její léčba mohou ovlivnit schopnost řídit a obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky jsou uvedeny níže a jsou seřazeny podle třídy orgánových systémů a jejich
+četnosti.
+Frekvence nežádoucích účinků je definována následujícím způsobem: velmi časté (≥ 1/10),
+časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000
+až < 1/1 000), velmi vzácné (< 1/10 000) a není známo (z dostupných údajů nelze určit).
+
+Infekce a infestace
+
+
+5
+
+Časté        sepse, septikémie (související většinou s aplikační cestou přípravku Flolan)¹
+Poruchy krve a lymfatického systému
+
+Časté
+
+
+Není známo
+trombocytopenie, krvácení z různých míst (např. plicní, gastrointestinální, epistaxe, intrakraniální, post-procedurální, retroperitoneální)
+splenomegalie, hypersplenismus
+Endokrinní poruchy
+Velmi vzácné   hypertyreóza
+Psychiatrické poruchy
+Časté       úzkost, nervozita
+Velmi vzácné    agitovanost Poruchy nervového systému Velmi časté     bolest hlavy Srdeční poruchy
+Časté       tachykardie², bradykardie³
+Není známo    srdeční selhání s vysokým výdejem
+Cévní poruchy
+
+Velmi časté Časté
+Velmi vzácné Není známo
+zrudnutí obličeje (pozorované i u pacientů v celkové anestezii)
+hypotenze bledost ascites
+Respirační, hrudní a mediastinální poruchy
+Není známo    plicní edém
+Gastrointestinální poruchy
+Velmi časté    nauzea, zvracení, průjem
+Časté        břišní kolika, někdy zaznamenána jako břišní diskomfort Méně časté     sucho v ústech
+Poruchy kůže a podkožní tkáně
+Časté       vyrážka
+Méně časté    pocení
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Velmi časté    bolest čelisti
+Časté       artralgie
+Celkové poruchy a reakce v místě aplikace
+
+Velmi časté Časté Vzácné
+Velmi vzácné
+
+Vyšetření
+bolest (nespecifikovaná)
+bolest v místě vpichu*, bolest na hrudi lokální infekce*
+zarudnutí kůže v okolí místa aplikace infuze*, okluze dlouhého nitrožilního katetru*, malátnost, svíravé pocity na hrudi
+Není známo    zvýšení hladiny glukózy v krvi
+* související s aplikační cestou přípravku Flolan
+¹ Byly zaznamenány infekce související s katetrem způsobené mikroorganismy, které nejsou vždy považovány za patogenní (včetně mikrokoků).
+² Tachykardie byla zaznamenána jako odpověď na přípravek Flolan v dávkách
+5 nanogramů/kg/min a méně.
+³ Bradykardie, provázená v některých případech ortostatickou hypotenzí, se vyskytla
+u zdravých dobrovolníků po dávkách epoprostenolu přesahujících
+5 nanogramů/kg/min. Po intravenózně podaném epoprostenolu v dávce odpovídající 30 nanogramů/kg/min byla u zdravých dobrovolníků pozorována bradykardie spojená s výrazným poklesem systolického i diastolického krevního tlaku.
+
+
+6
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Hlavním projevem předávkování bude pravděpodobně hypotenze.
+Příznaky pozorované při předávkování přípravkem Flolan obecně představují zvýrazněné farmakologické účinky léčivého přípravku (např. hypotenze a komplikace hypotenze).
+V případě předávkování je třeba snížit dávku nebo přerušit infuzi a podle situace zahájit odpovídající podpůrná opatření, např. zvýšení plazmatického objemu a/nebo úpravu průtoku pumpou.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antitrombotika; Antiagregancia kromě heparinu, ATC kód:
+B01AC09
+
+Mechanismus účinku
+Přípravek Flolan je sodná sůl epoprostenolu, přirozeně se vyskytujícího prostaglandinu produkovaného intimou, vnitřní vrstvou cévní stěny. Epoprostenol je vysoce účinný inhibitor agregace krevních destiček a zároveň patří k silně účinným vazodilatanciím.
+
+Většina účinků epoprostenolu se projevuje cestou stimulace adenylátcyklázy, což vede ke zvýšení nitrobuněčné hladiny cyklického adenozin-3’5’-monofosfátu (cAMP). Byla popsána postupná stimulace adenylátcyklázy v krevních destičkách s následnou aktivací fosfodiesterázy. Zvýšená hladina cAMP reguluje koncentraci intracelulárního vápníku tím, že zvyšuje jeho přestup z buňky do extracelulárního prostoru. V důsledku toho dojde k inhibici agregace krevních destiček snížením koncentrace cytoplazmatického kalcia. Na koncentraci cytoplazmatického kalcia závisejí změny tvaru destiček, jejich shlukování a uvolňování.
+Farmakodynamické účinky
+Infuze s dávkou 4 nanogramy/kg/min po dobu 30 minut nemá žádný významný vliv na srdeční frekvenci nebo hodnoty krevního tlaku, i když při těchto koncentracích může dojít ke zrudnutí obličeje.
+Nitrožilní infuze epoprostenolu trvající až 15 minut vyvolají zvýšení hodnot srdečního indexu (cardiac index - CI), tepového objemu (stroke volume - SV), pokles plicní cévní rezistence (pulmonary vascular resistance - PVR), celkové plicní rezistence (total pulmonary resistance - TPR) a středního systémového arteriálního tlaku (systemic arterial pressure – SAPm), a to v závislosti na dávce. Vliv epoprostenolu na střední tlak v plicnici (pulmonary artery pressure
+- PAPm) byl u pacientů s PAH proměnný a nevýznamný.
+
+Klinická účinnost a bezpečnost
+Dlouhodobé podávání kontinuální infuze epoprostenolu pacientům s idiopatickou nebo dědičnou PAH bylo hodnoceno ve dvou prospektivních, otevřených, randomizovaných studiích v trvání 8 a 12 týdnů (n = 25 a n = 81), porovnávajících kombinaci epoprostenolu a konvenční
+
+7
+
+terapie proti konvenční terapii samotné. Konvenční terapie se lišila u jednotlivých pacientů a zahrnovala některá nebo všechna z následujících léčiv: antikoagulancia u všech pacientů, perorální vazodilatancia, diuretika a digoxin u poloviny až dvou třetin pacientů; a doplňkové podávání kyslíku přibližně u poloviny pacientů. S výjimkou dvou pacientů s NYHA (New York Heart Association) funkční klasifikací třídy II, byli všichni pacienti klasifikováni jako třída III nebo IV. Vzhledem k tomu, že výsledky obou studií byly podobné, jsou popsány souhrnné výsledky. Kombinované výchozí průměrné hodnoty testu šestiminutové chůze (6- minute walking test, 6MWT) byly ve skupině se samotnou konvenční terapií 266 metrů a ve skupině s epoprostenolem 301 metrů.
+
+Zlepšení proti výchozím hodnotám srdečního indexu (0,33 proti -0,12 l/min/m²), tepového objemu (6,01 proti -1,32 ml/stah), arteriální saturace kyslíkem (1,62 proti -0,85 %), středního plicního arteriálního tlaku (- 5,39 proti 1,45 mmHg), středního tlaku v pravé síni (right atrial presure,  RAPm)  (- 2,26 proti  0,59 mmHg),  celkové  plicní  rezistence  (- 4,52 proti 1,41 Wood U), plicní cévní rezistence (-3,60 proti 1,27 Wood U) a systémové cévní rezistence (- 4,31 proti 0,18 Wood U) byly statisticky rozdílné u pacientů, kterým byl dlouhodobě podáván epoprostenol, a u těch, kterým podáván nebyl. Střední systémový arteriální tlak se u obou skupin významně nelišil (- 4,33 proti -3,05 mmHg). Tato hemodynamická zlepšení se jevila jako přetrvávající, když byl epoprostenol podáván po dobu nejméně 36 měsíců v otevřené, nerandomizované studii.
+
+Statisticky významné zlepšení bylo pozorováno u zátěžové kapacity (p = 0,001) měřené pomocí 6MWT u pacientů, kterým byla podávána kontinuální intravenózní infuze epoprostenolu plus konvenční terapie (n = 52) po dobu 8 nebo 12 týdnů, v porovnání
+s pacienty, kterým byla podávána samotná konvenční terapie (n = 54) (kombinované výsledky
+po 8 a 12 týdnech – změny proti výchozímu stavu – medián 49 proti - 4 metrům; průměr 55 proti -4 metrům). Zlepšení bylo patrné již první týden léčby. Po ukončení léčby došlo ve 12týdenní studii ke zlepšení přežití u pacientů s funkční třídou NYHA III a IV. Osm ze 40
+(20 %) pacientů, kterým byla podávána samotná konvenční terapie, zemřelo, zatímco žádný
+pacient z 41, kterým byl podáván epoprostenol, nezemřel (p = 0,003).
+
+Dlouhodobé podávání kontinuální infuze epoprostenolu pacientům s PAH/SSD bylo hodnoceno v prospektivní, otevřené randomizované studii trvající 12 týdnů, porovnávající kombinaci epoprostenolu a konvenční terapie (n = 56) proti konvenční terapii samotné
+(n = 55). S výjimkou 5 pacientů s NYHA funkční klasifikací třídy II byli všichni pacienti klasifikováni jako třída III nebo IV. Konvenční terapie se lišila u jednotlivých pacientů
+a zahrnovala některá z následujících léčiv: antikoagulancia u všech pacientů, doplňkové podávání kyslíku a diuretika u dvou třetin pacientů, perorální vazodilatancia u 40 % pacientů a digoxin u třetiny pacientů. Primárním cílovým parametrem účinnosti bylo zlepšení 6MWT. Medián výchozích hodnot byl u samotné konvenční terapie 240 metrů a u epoprostenolu plus konvenční terapie 270 metrů. Statisticky významné zvýšení CI a statisticky významné snížení PAPm, RAPm, PVR a SAPm po 12 týdnech léčby bylo pozorováno u pacientů, kterým byl dlouhodobě podáván epoprostenol, proti těm, kterým podáván nebyl.
+Po 12 týdnech byl pozorován statistický rozdíl (p < 0,001) ve změně proti výchozím hodnotám 6MWT u skupiny, které byl podáván epoprostenol, a konvenční terapie
+v porovnání se skupinou, které byla podávána samotná konvenční terapie (medián: 63,5 proti
+– 36,0 metrů; průměr: 42,9 proti - 40, 7 metrů).
+Zlepšení bylo u některých pacientů patrné na konci prvního týdne léčby. Zvýšení zátěžové kapacity bylo provázeno statisticky významným zlepšením u dyspnoe, měřeno pomocí Borg Dyspnoea Index. Ve 12. týdnu se zlepšila funkční klasifikace NYHA u 21 pacientů z 51
+(41 %) léčených epoprostenolem; naproti tomu ve skupině léčené samotnou konvenční terapií nedošlo ke zlepšení u žádného ze 48 pacientů. V obou skupinách však u vyššího počtu pacientů (28/51 [55 %] ve skupině s epoprostenolem a 35/48 [73 %] ve skupině se samotnou konvenční terapií) nedošlo k žádné změně ve funkční třídě a u 2/51 (4 %) pacientů ze skupiny
+
+8
+
+s epoprostenolem a u 13/48 (27 %) pacientů ze skupiny se samotnou konvenční terapií došlo ke zhoršení.
+
+Po 12 týdnech nebyl pozorován žádný statistický rozdíl v přežití u pacientů s PAH/SSD léčených epoprostenolem oproti pacientům léčeným samotnou konvenční terapií. Na konci léčby zemřeli 4 z 56 (7 %) pacientů, kterým byl podáván epoprostenol, a 5 z 55 (9 %) pacientů, kterým byla podávána samotná konvenční terapie.
+
+5.2  Farmakokinetické vlastnosti
+Vzhledem k chemické nestabilitě, vysoké účinnosti a krátkému poločasu epoprostenolu nebylo možné určit vhodnou a přesnou metodu ke stanovení epoprostenolu v biologických tekutinách.
+
+Intravenózně podaný epoprostenol se z krve rychle distribuuje do tkání.
+Při normálním fyziologickém pH a teplotě se epoprostenol spontánně štěpí na 6-oxo- prostaglandin F1α, přestože do určité míry podléhá i enzymatické degradaci na další produkty.
+Po aplikaci epoprostenolu značeného radionuklidem u člověka se podařilo objevit minimálně
+16 metabolitů a 10 z nich strukturálně identifikovat.
+
+Na rozdíl od celé řady dalších prostaglandinů se epoprostenol nemetabolizuje během průchodu plicní cirkulací.
+Poločas spontánního štěpení na 6-oxo-prostaglandin F1α se u člověka odhaduje na max. 6 minut, může se však pohybovat i v rozmezí 2 až 3 minut, jak dokládají výsledky rychlosti degradace epoprostenolu v lidské krvi in vitro.
+Po podání epoprostenolu značeného radionuklidem u člověka bylo zjištěno 82 % radioaktivity v moči a 4 % ve stolici.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity a reprodukční a vývojové toxicity neodhalily žádné zvláštní riziko pro člověka. Dlouhodobé studie na zvířatech ke stanovení karcinogenního potenciálu epoprostenolu nebyly provedeny.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Prášek pro infuzní roztok:
+Mannitol Glycin Chlorid sodný
+Hydroxid sodný (k úpravě pH)
+Rozpouštědlo pro parenterální použití:
+Glycin
+Chlorid sodný
+Hydroxid sodný (k úpravě pH)
+Voda pro injekci
+6.2  Inkompatibility
+
+9
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 6.6.
+
+Materiály obsahující PET nebo PETG mohou být poškozeny roztokem epoprostenolu připraveným s použitím rozpouštědla (pH 11,7 – 12,3), a proto nesmí být k přípravě nebo podání tohoto roztoku použity (viz bod 6.6).
+
+6.3  Doba použitelnosti
+Neotevřené injekční lahvičky
+
+Prášek pro infuzní roztok:        3 roky Rozpouštědlo pro parenterální použití:  3 roky Stabilita během podání
+Roztoky o koncentraci ≤ 150 000 ng/ml:
+
+Čerstvě připravené infuzní roztoky (buď jako koncentrovaný roztok nebo dále naředěný roztok) mohou být podány ihned po přípravě nebo uchovávány po dobu až 8 dní při teplotě 2 až 8 °C. Takto připravený nebo uchovávaný infuzní roztok má být použit do:
+•  72 hodin, pokud je uchováván při teplotě do 25 °C nebo
+•  48 hodin, pokud je uchováván při teplotě do 30 °C nebo
+•  24 hodin, pokud je uchováván při teplotě do 35 °C nebo
+•  12 hodin, pokud je uchováván při teplotě do 40 °C.
+
+Po uplynutí uvedené doby zlikvidujte jakýkoli nepoužitý roztok.
+Roztoky o koncentraci > 150 000 ng/ml a ≤ 300 000 ng/ml:
+
+Rekonstituované roztoky, které byly uchovávány při teplotě 2 až 8 °C po dobu až 7 dní, mohou být podávány do 24 hodin při teplotě 25 °C.
+Čerstvě připravené rekonstituované roztoky, nebo roztoky, které byly uchovávány při teplotě
+2 až 8 °C po dobu maximálně 5 dní, mohou být podávány do:
+•  48 hodin při teplotě 25 °C;
+•  24 hodin při teplotě 35 °C.
+Po uplynutí uvedené doby zlikvidujte jakýkoli nepoužitý roztok.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Prášek pro infuzní roztok:
+Uchovávejte při teplotě do 25 °C. Chraňte před světlem. Uchovávejte v suchu. Chraňte před
+mrazem. Uchovávejte v původním obalu.
+Rozpouštědlo pro parenterální použití:
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem. Chraňte před světlem. Uchovávejte
+v původním obalu.
+Rozpouštědlo neobsahuje žádné konzervační látky, proto může být injekční lahvička použita
+pouze jednou a poté musí být zlikvidována.
+
+
+
+10
+
+Uchovávání roztoků po rekonstituci a naředění léčivého přípravku viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+
+Prášek pro infuzní roztok:
+Injekční lahvička z bezbarvého skla (třída 1), zátka ze syntetické butylové pryže, hliníkový kryt
+s odlamovacím uzávěrem.
+
+Rozpouštědlo pro parenterální použití:
+Injekční lahvička z plastu, zátka ze syntetické butylové pryže, vnější hliníkový kryt
+s odklápěcím fialovým plastovým uzávěrem.
+
+Adaptér na injekční lahvičku
+Polykarbonátový adaptér na injekční lahvičku s PTFE filtrem a silikonovou stopkou.
+
+Velikosti balení:
+K dispozici jsou následující dvě 1,5mg balení určená k použití při léčbě plicní arteriální
+hypertenze:
+•  Jedna injekční lahvička obsahující 1,5 mg prášku a jedna lahvička obsahující rozpouštědlo, adaptér na injekční lahvičku a filtrační jednotka.
+•  Jedna injekční lahvička obsahující 1,5 mg prášku a dvě lahvičky obsahující rozpouštědlo, dva adaptéry na injekční lahvičku a filtrační jednotka.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Stabilita roztoků přípravku Flolan je podmíněna hodnotami pH. K ředění lyofilizovaného přípravku Flolan je nutné použít pouze přibalené rozpouštědlo a k dalšímu ředění je třeba použít doporučené infuzní roztoky v uvedeném poměru. V opačném případě hrozí, že se změní pH roztoku.
+
+Rekonstituci a ředění přípravku Flolan je třeba provádět asepticky.
+
+Pro přípravu nebo podání roztoku epoprostenolu připraveného s použitím rozpouštědla (pH 11,7 – 12,3), se nesmí použít žádný materiál obsahující PET nebo PETG (viz bod 6.2). Na základě dostupných údajů získaných z vlastních testů a z literatury patří mezi pravděpodobně kompatibilní pro přípravu a podání roztoku tyto materiály:
+•  Modifikovaný akrylát
+•  Akrylonitril-butadien-styren (ABS)
+•  Cyklický olefinový polymer
+•  Polyamid
+•  Polyethersulfon
+•  Polyethylen
+•  Polyisopren
+•  Polyolefin
+•  Polypropylen
+•  Polytetrafluorethylen (PTFE)
+•  Polyuretan
+•  Polyvinylchlorid (PVC) (plastifikovaný bis (2-ethylhexyl) ftalátem [DEHP])
+•  Polyvinylidenfluorid (PVDF)
+
+11
+
+•  Silikon
+
+Mezi kompatibilní ambulantní přenosné pumpy patří:
+•  CADD-Legacy 1
+•  CADD-Legacy PLUS
+•  CADD-Solis VIP (variabilní infúzní profil) Vyráběné společností Smith Medical.
+Příslušenství k pumpám, které se ukázalo jako kompatibilní, zahrnuje:
+•  CADD jednorázový zásobník na léčivo 50 ml, 100 ml od společnosti Smith Medical.
+•  CADD extenzní set s in-line 0,2 mikronovým filtrem (CADD extenzní set s male luer, 0,2 mikronový filtr k odstranění vzduchu, svorka, integrovaný ventil pro odvětrání s male luer) od společnosti Smith Medical. Extenzní set a in-line filtr je nutné měnit nejméně jednou za 48 hodin.
+Rekonstituce, ředění a výpočet rychlosti infuze:
+
+Přípravě infuze a výpočtu její rychlosti je třeba věnovat zvláštní pozornost. Je třeba přesně dodržovat následující postup.
+K léčbě plicní arteriální hypertenze jsou k dispozici následující dvě 1,5mg balení:
+
+•  Jedna injekční lahvička obsahující sterilní lyofilizovaný přípravek Flolan v množství odpovídajícím 1,5 mg dodávaná s jednou injekční lahvičkou s 50 ml rozpouštědla, adaptérem na injekční lahvičku a filtrační jednotkou.
+•  Jedna injekční lahvička obsahující sterilní lyofilizovaný přípravek Flolan v množství odpovídajícím 1,5 mg dodávaná se dvěma injekčními lahvičkami s 50 ml rozpouštědla, dvěma adaptéry na injekční lahvičku a filtrační jednotkou.
+K léčbě plicní arteriální hypertenze jsou k dispozici rovněž dvě 0,5mg balení.
+
+V úvodu léčby je nutné použít balení obsahující rozpouštědlo. Při dlouhodobé terapii přípravkem Flolan může být požadován roztok o vyšší koncentraci. Výslednou koncentraci roztoku lze zvýšit přidáním dalších 1,5 mg lyofilizovaného přípravku Flolan.
+
+Ke zvýšení výsledné koncentrace roztoku lze použít pouze injekční lahvičky se stejným množstvím lyofilizovaného přípravku Flolan, jaké bylo v injekčních lahvičkách úvodního balení.
+Rekonstituce:
+
+1. Používejte pouze sterilní rozpouštědlo dodávané k rekonstituci.
+
+2. Asi 10 ml sterilního rozpouštědla natáhněte do sterilní injekční stříkačky za použití adaptéru na injekční lahvičku*.
+3. Sejměte injekční stříkačku z adaptéru. Nasaďte injekční jehlu a vstříkněte 10 ml sterilního rozpouštědla do injekční lahvičky obsahující lyofilizovaný prášek přípravku Flolan. Jemně třepejte injekční lahvičkou, dokud se prášek nerozpustí.
+
+4. Vzniklý roztok přípravku Flolan natáhněte do injekční stříkačky, sejměte injekční jehlu, vstříkněte ho do zbývajícího sterilního rozpouštědla za použití adaptéru na injekční lahvičku* a důkladně protřepejte.
+
+12
+
+*Alternativně, lze místo adaptéru na injekční lahvičku použít injekční jehlu.
+
+Takto vzniklý roztok je označován jako koncentrovaný roztok.
+•  Jestliže se balení obsahující 1,5 mg přípravku Flolan rekonstituuje 50 ml sterilního rozpouštědla, bude výsledná koncentrace epoprostenolu 30 000 nanogramů/ml.
+
+Ředění:
+
+Při léčbě plicní arteriální hypertenze lze přípravek Flolan použít ve formě koncentrovaného roztoku nebo v ředěné podobě. Pouze koncentrované roztoky jsou vhodné pro další ředění před použitím.
+K dalšímu ředění přípravku Flolan lze použít pouze rozpouštědlo dodávané spolu s přípravkem, pro každé přidání sterilního rozpouštědla se použije nový adaptér na injekční lahvičku. Pokud se má přípravek Flolan aplikovat pacientům s plicní arteriální hypertenzí, nesmí se použít 0,9% w/v roztok chloridu sodného, neboť s ním není možné udržet požadované hodnoty pH. Roztoky přípravku Flolan jsou při nízkých hodnotách pH méně stabilní. U pacientů s plicní arteriální hypertenzí se přípravek Flolan nesmí podávat s jinými parenterálními roztoky ani léčivými přípravky.
+
+Konečný roztok k infuzi, který má být podán pacientovi, musí být filtrován pomocí 0,22 nebo 0,20 mikronového filtru. Při použití infuzního setu je vhodnější použít in-line filtr. Alternativně, není-li in-line filtrace možná, musí být konečný roztok (buď jako koncentrovaný roztok nebo v ředěné podobě) před vložením do zásobníku na léčivo filtrován přes přiložený sterilní 0,22 mikronový filtr pod stálým, ale ne příliš velkým, tlakem. Typická doba filtrace 50 ml roztoku je 70 sekund.
+Pokud byl během podávání použit in-line filtr, musí být tento in-line filtr při výměně infuzního setu zlikvidován.
+
+Pokud byl během přípravy použit filtr na injekční stříkačku, musí být filtrační jednotka použita
+pouze během přípravy a poté zlikvidována.
+
+K léčbě plicní arteriální hypertenze se obvykle používají následující koncentrace:
+•  15 000 nanogramů/ml – 1,5 mg přípravku Flolan, rekonstituovaného a zředěného do celkového objemu 100 ml v rozpouštědle.
+•  30 000 nanogramů/ml – dvě injekční lahvičky obsahující 1,5 mg přípravku Flolan, rekonstituovaného a zředěného do celkového objemu 100 ml v rozpouštědle.
+Výpočet rychlosti infuze:
+
+Rychlost infuze se vypočítá podle následující rovnice:
+
+
+
+rychlost infuze (ml/min) =
+dávka (nanogramy/kg/min) x tělesná hmotnost (kg)
+
+koncentrace roztoku (nanogramy/ml)
+
+rychlost infuze (ml/h) = rychlost infuze (ml/min) x 60
+
+Dále jsou uvedeny některé koncentrace běžně používané u pacientů s plicní arteriální hypertenzí.
+
+
+
+
+13
+
+Rychlost infuze při koncentraci 15 000 nanogramů/ml:
+
+
+Příklad pro dávkování s použitím koncentrace 15 000 nanogramů/ml
+
+Dávka (nanogramy/ kg/min)
+Tělesná hmotnost (kg)
+
+30
+4     0,5
+6     0,7
+8     1,0
+10    1,2
+12    1,4
+14    1,7
+16    1,9
+40
+0,6
+1,0
+1,3
+1,6
+1,9
+2,2
+2,6
+50
+0,8
+1,2
+1,6
+2,0
+2,4
+2,8
+3,2
+60
+1,0
+1,4
+1,9
+2,4
+2,9
+3,4
+3,8
+70
+1,1
+1,7
+2,2
+2,8
+3,4
+3,9
+4,5
+80
+1,3
+1,9
+2,6
+3,2
+3,8
+4,5
+5,1
+90
+1,4
+2,2
+2,9
+3,6
+4,3
+5,0
+5,8
+100
+1,6
+2,4
+3,2
+4,0
+4,8
+5,6
+6,4
+Rychlost průtoku v ml/h
+
+
+Rychlost infuze při koncentraci 30 000 nanogramů/ml:
+
+
+
+Dávka
+(nanogramy
+/kg/min)
+Příklad pro dávkování s použitím koncentrace 30 000 nanogramů/ml
+Tělesná hmotnost (kg)
+
+30
+6    0,4
+8    0,5
+10    0,6
+12    0,7
+14    0,8
+16    1,0
+18    1,1
+20    1,2
+40
+0,5
+0,6
+0,8
+1,0
+1,1
+1,3
+1,4
+1,6
+50
+0,6
+0,8
+1,0
+1,2
+1,4
+1,6
+1,8
+2,0
+60
+0,7
+1,0
+1,2
+1,4
+1,7
+1,9
+2,2
+2,4
+70
+0,8
+1,1
+1,4
+1,7
+2,0
+2,2
+2,5
+2,8
+80
+1,0
+1,3
+1,6
+1,9
+2,2
+2,6
+2,9
+3,2
+90
+1,1
+1,4
+1,8
+2,2
+2,5
+2,9
+3,2
+3,6
+100
+1,2
+1,6
+2,0
+2,4
+2,8
+3,2
+3,6
+4,0
+Rychlost průtoku v ml/h
+
+Při dlouhodobém podávání přípravku Flolan mohou být nutné vyšší rychlosti infuze, a proto i koncentrovanější roztoky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+GlaxoSmithKline (Ireland) Limited 12 Riverwalk
+Citywest Business Campus Dublin 24
+Irsko
+
+8.   REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+83/384/01-C
+
+
+
+
+14
+
+9.   DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 5. 12. 2001
+Datum posledního prodloužení registrace: 4. 4. 2007
+
+10.  DATUM REVIZE TEXTU
+
+26. 3. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15

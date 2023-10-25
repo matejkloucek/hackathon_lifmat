@@ -1,0 +1,797 @@
+Sp. zn. sukls201111/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Atucare 0,5 mg/0,4 mg tvrdé tobolky
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ¨
+
+Jedna tvrdá tobolka obsahuje dutasteridum 0,5 mg a tamsulosini hydrochloridum 0,4 mg (což odpovídá
+tamsulosinum 0,367 mg).
+
+Pomocné látky se známým účinkem
+Jedna tobolka obsahuje:
+•  112 mg propyleglykolu
+•  stopové množství lecithinu (může obsahovat sójový olej) Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Tvrdá tobolka.
+
+Atucare jsou podlouhlé tvrdé tobolky 24,2 x 7,7 mm s hnědým tělem a béžovým víčkem s černým potiskem „C001“.
+
+Jedna tvrdá tobolka obsahuje jednu měkkou želatinovou tobolku dutasteridu a pelety tamsulosin- hydrochloridu s řízeným uvolňováním.
+
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Léčba je indikována u pacientů již léčených tamsulosinem a dutasteridem podávaných souběžně ve stejném režimu, aby bylo možné náležitě kontrolovat příznaky středně závažných až závažných projevů benigní hyperplazie prostaty (BPH).
+
+Snížení rizika akutní retence moči (ARM) a chirurgického výkonu u pacientů se středně těžkými až těžkými příznaky BHP.
+Informace o účincích léčby a souborech pacientů zkoumaných v klinických studiích viz bod 5.1.
+
+4.2 Dávkování a způsob podání
+Dávkování
+
+Dospělí (včetně starších pacientů)
+Doporučená dávka přípravku Atucare je jedna tobolka (0,5 mg/0,4 mg) jednou denně.
+Je-li to vhodné, může se přípravek Atucare použít ke zjednodušení léčby jako náhrada současné duální léčby dutasteridem a tamsulosin-hydrochloridem.
+
+Je-li to klinicky vhodné, je možné zvážit přímou změnu z monoterapie dutasteridem nebo tamsulosin- hydrochloridem na přípravek Atucare.
+
+Porucha funkce ledvin
+Vliv poruchy funkce ledvin na farmakokinetiku dutasteridu/tamsulosinu nebyl studován. Úprava dávkování u pacientů s poruchou funkce ledvin se nepředpokládá (viz body 4.4 a 5.2).
+Porucha funkce jater
+Vliv poruchy funkce jater na farmakokinetiku dutasteridu/tamsulosinu nebyl studován, a proto je u pacientů s lehkou až středně těžkou poruchou funkce jater nutná opatrnost (viz bod 4.4 a bod 5.2). U pacientů s těžkou poruchou funkce jater je přípravek Atucare kontraindikován (viz bod 4.3).
+Způsob podání
+
+Perorální podání.
+Pacienti mají být poučeni, aby polykali tobolky přibližně 30 minut po stejném jídle daného dne. Tobolky se mají polykat celé, nesmí se žvýkat ani otevírat. Kontakt s obsahem tobolky s dutasteridem obsažené uvnitř tvrdé tobolky může způsobit podráždění orofaryngeální sliznice. Neužívejte tento léčivý přípravek s alkoholem (viz bod 4.5).
+
+4.3 Kontraindikace
+Přípravek Atucare je kontraindikován:
+-  u žen, dětí a dospívajících (viz bod 4.6);
+-  u pacientů s hypersenzitivitou na dutasterid, další inhibitory 5-alfa-reduktázy, tamsulosin (včetně angioedému indukovaného tamsulosinem), sóju, arašídy nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1;
+-  u pacientů s anamnézou ortostatické hypotenze;
+-  u pacientů s těžkou poruchou funkce jater.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Kombinovaná léčba má být předepsána pouze po pečlivém zvážení přínosu a rizika z důvodu potenciálního zvýšení rizika nežádoucích účinků (včetně srdečního selhání) a po zvážení možností alternativní léčby, včetně monoterapie.
+Srdeční selhání
+Ve dvou čtyřletých klinických studiích byl výskyt srdečního selhání (souhrnný termín zahrnující hlášené příhody zejména srdečního selhání a kongestivního srdečního selhání) vyšší u jedinců užívajících kombinaci dutasteridu a alfa-blokátoru, především tamsulosinu, než tomu bylo u jedinců, kteří tuto kombinaci neužívali. V těchto dvou studiích byl výskyt srdečního selhání nízký (≤1%) a mezi studiemi si lišil (viz bod 5.1).
+Účinky na detekci prostatického specifického antigenu (PSA) a detekce rakoviny prostaty
+Před zahájením léčby přípravkem Atucare má být pacient vyšetřen, aby se vyloučila přítomnost jiných stavů, které mohou způsobit stejné příznaky jako benigní hyperplazie prostaty. Před léčbou a poté v pravidelných intervalech se má provádět digitální vyšetření per rectum a v případě potřeby má být provedeno stanovení prostatického specifického antigenu (PSA).
+
+Koncentrace sérového prostatického specifického antigenu (PSA) je důležitou součástí při detekci rakoviny prostaty. Atucare způsobuje pokles střední koncentrce PSA v séru po 6 měsících léčby přibližně o 50 %.
+
+Pacienti, užívající Atucare, mají mít stanovenou novou výchozí hodnotu PSA po 6 měsících léčby Atucarem. Doporučuje se pravidelně sledovat hodnoty PSA. Každé potvrzené zvýšení hladiny PSA v séru z nejnižší hodnoty během léčby Atucarem může signalizovat přítomnost rakoviny prostaty (zvláště high-grade tumory) nebo non-compliance pacienta při léčbě Atucarem a je třeba jej pečlivě vyhodnotit a to i v případě, kdy jsou tyto hodnoty stále ještě v rozmezí hodnot normálních pro muže, kteří neužívají inhibitor 5α-reduktázy (viz bod 5.1). Při interpretaci hodnot PSA u pacienta užívajícího dutasterid mají být porovnány předchozí hodnoty PSA.
+
+Léčba Atucarem nenarušuje použití PSA jako nástroje, který pomáhá při diagnostice karcinomu
+prostaty po stanovení nové výchozí hodnoty (viz bod 5.1).
+
+Celkové hladiny PSA v séru se do 6 měsíců po přerušení terapie přípravkem Atucare vrací k výchozím hodnotám před začátkem terapie. Poměr volného k celkovému PSA zůstává konstantní i pod vlivem Atucaru. Jestliže lékaři zvolí jako prostředek k odhalení karcinomu prostaty u mužů léčených přípravkem Atucaret procento volného PSA, tuto hodnotu není nutno upravovat.
+
+Karcinom prostaty a high-grade tumory
+Výsledky jedné klinické studie (studie REDUCE) u mužů se zvýšeným rizikem karcinomu prostaty odhalily vyšší výskyt karcinomu prostaty s Gleasonovým skóre 8 - 10 u mužů léčených dutasteridem ve srovnání s placebem. Vztah mezi dutasteridem a high-grade karcinomem prostaty není jasný. Muži užívající přípravek Atucare proto mají být pravidelně vyšetřováni s ohledem na karcinom prostaty včetně testování na PSA (viz bod 5.1).
+
+Porucha funkce ledvin
+K léčbě pacientů s těžkou poruchou funkce ledvin (clearance kreatininu nižší než 10 ml/min) se má přistupovat s opatrností, protože tito pacienti nebyli studováni.
+Hypotenze
+Stejně jako u ostatních antagonistů alfa1-adrenoceptoru se může v průběhu léčby tamsulosinem objevit snížení krevního tlaku, jehož následkem může být vzácně i synkopa. Pacienti, kteří začínají léčbu přípravkem Atucare, mají být poučeni, aby se v případě prvních známek ortostatické hypotenze (závrať, slabost) posadili, nebo si lehli, dokud tyto příznaky neodezní.
+Opatrnost týkající se hypotenze je důležitá u pacientů, kteří jsou léčeni selektivními antagonisty α adrenoceptorů jako je tamsulosin současně s inhibitorem fosfodiesterázy 5 (inhibitory PDE5, jako je sildenafil), protože účinky těchto dvou lékových skupin mohou potenciálně způsobit hypotenzi (viz bod 4.5).
+
+Syndrom interoperativní plovoucí duhovky (IFIS)
+V průběhu operace katarakty byl u některých pacientů současně nebo v minulosti léčených tamsulosinem pozorován syndrom interoperativní plovoucí duhovky (Intraoperative Floppy Iris Syndrom, IFIS, varianta syndromu malé zornice). IFIS může zvýšit riziko očních komplikací v průběhu chirurgického výkonu i po něm.
+Zahájení léčby přípravkem Atucare u pacientů plánovaných k operaci katarakty se proto nedoporučuje. Při předoperačním vyšetření musí chirurg a oftalmolog vzít v úvahu, zda pacient plánovaný k operaci katarakty je v současnosti léčen nebo byl v minulosti léčen přípravkem Atucare, aby mohlo být zajištěno provedení příslušných opatření k léčbě IFIS během operace katarakty.
+
+Přerušení léčby tamsulosinem 1-2 týdny před operací katarakty je považováno za užitečné, ale přínos a délka požadovaného přerušení terapie před operací katarakty nebyly stanoveny.
+
+Prosakující tobolky
+
+Dutasterid se vstřebává kůží, proto je nutno zabránit styku žen, dětí a dospívajících s prosakujícími tobolkami (viz bod 4.6). Dojde-li ke styku s prosakujícími tobolkami, zasaženou oblast je nutno ihned umýt vodou a mýdlem.
+
+Inhibitory CYP3A4 a CYP2D6
+Současné podávání tamsulosin-hydrochloridu se silnými inhibitory CYP3A4 nebo v menší míře se silnými inhibitory CYP2D6 může zvýšit expozici tamsulosinu (viz bod 4.5).
+
+Porucha funkce jater
+Přípravek Atucare nebyl studován u pacientů s onemocněním jater. Při podávání přípravku Atucare pacientům s lehkou až středně těžkou poruchou funkce jater je nutná opatrnost (viz bod 4.2, bod 4.3 a bod 5.2).
+
+Neoplazie prsu
+U mužů užívajících dutasterid v klinických studiích a v postmarketingovém období byl vzácně hlášen výskyt karcinomu prsu u mužů. Lékaři mají poučit své pacienty, aby neprodleně nahlásili jakékoli změny prsní tkáně, jako jsou bulky nebo výtok z bradavky. V současné době není jasné, zda existuje příčinný vztah mezi výskytem karcinomu prsu u mužů a dlouhodobým užíváním dutasteridu.
+
+Pomocné látky
+Tento léčivý přípravek obsahuje 112 mg propylenglykolu v jedné tobolce (což odpovídá 1,6
+mg/kg/den).
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tobolce, to znamená, že je v podstatě „bez sodíku”.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+S přípravkem Atucare nebyly provedeny žádné studie interakcí. Následující tvrzení vycházejí z údajů
+dostupných pro jednotlivé léčivé látky přípravku.
+
+Dutasterid
+Informace o poklesu koncentrace PSA v séru během léčby dutasteridem a pokyny týkající se průkazu
+karcinomu prostaty viz bod 4.4.
+
+Vlivy jiných léčiv na farmakokinetiku dutasteridu
+Souběžné užívání s inhibitory CYP3A4 a/nebo inhibitory P-glykoproteinu:
+Dutasterid je eliminován hlavně metabolizací. Studie in vitro naznačují, že tato metabolizace je katalyzována CYP3A4 a CYP3A5. Formální interakční studie se silnými inhibitory CYP3A4 nebyly provedeny. V populační farmakokinetické studii však byly u malého počtu pacientů léčených souběžně verapamilem nebo diltiazemem (středně silnými inhibitory CYP3A4 a inhibitory P- glykoproteinu) zaznamenány průměrně 1,6násobně (při současném podávání s verapamilem) až 1,8násobně (při současném podávání s diltiazemem) vyšší koncentrace dutasteridu v séru než u ostatních pacientů.
+Dlouhodobé souběžné podávání dutasteridu s léčivy, která jsou silnými inhibitory enzymu CYP3A4 (např. ritonavir, indinavir, nefazodon, itrakonazol, perorálně podávaný ketokonazol), může zvýšit sérové koncentrace dutasteridu. Při zvýšené expozici dutasteridu není větší inhibice 5-alfa-reduktázy pravděpodobná. Zaznamenají-li se však nežádoucí účinky, má se zvážit snížení frekvence dávkování dutasteridu.
+
+Je třeba poznamenat, že v případě inhibice enzymu se dlouhý poločas může ještě více prodloužit a může trvat více než 6 měsíců souběžné terapie, než se dosáhne nového ustáleného stavu.
+
+Podání 12 g kolestyraminu jednu hodinu po užití 5mg jednorázové dávky dutasteridu neovlivnilo
+farmakokinetiku dutasteridu.
+
+Vliv dutasteridu na farmakokinetiku jiných léčiv
+V malé (n = 24) dvoutýdenní studii u zdravých mužů dutasterid (0,5 mg denně) neovlivňoval farmakokinetiku tamsulosinu nebo terazosinu. Rovněž v této studii nebyly pozorovány žádné známky farmakodynamické interakce.
+
+Dutasterid nemá vliv na farmakokinetiku warfarinu ani digoxinu. To svědčí o tom, že dutasterid neinhibuje/neindukuje CYP2C9 ani transportér P-glykoprotein. Interakční studie in vitro svědčí o tom, že dutasterid neinhibuje enzymy CYP1A2, CYP2D6, CYP2C9, CYP2C19 ani CYP3A4.
+Tamsulosin
+Opatrnost je nutná při společném podávání tamsulosinu s léky, které mohou snižovat krevní tlak (včetně anestetik, inhibitorů PDE5 a další antagonistů alfa1-adrenoceptoru). Dutasterid/tamsulosin nemá být užíván v kombinaci s dalšími antagonisty alfa1-adrenoceptoru.
+Současné podávání tamsulosin-hydrochloridu se silnými inhibitory CYP3A4 může vést ke zvýšené expozici tamsulosin-hydrochloridu. Souběžné podávání s ketokonazolem (známým silným inhibitorem CYP3A4) vedlo ke zvýšení AUC a Cmax tamsulosin hydrochloridu o faktor 2,8, resp. 2,2.
+Tamsulosin-hydrochlorid nemá být podáván v kombinaci se silnými inhibitory CYP3A4 u pacientů s
+fenotypem pomalých metabolizátorů CYP2D6.
+Tamsulosin-hydrochlorid má být používán s opatrností v kombinaci se silnými a středně silnými inhibitory CYP3A4. Současné podávání tamsulosin-hydrochloridu s paroxetinem, silným inhibitorem CYP2D6, vedlo ke zvýšení Cmax a AUC tamsulosin-hydrochloridu o faktor 1,3, resp. 1,6, ale tato zvýšení nejsou považována za klinicky významné.
+Ethanol může zvýšit množství tamsulosinu dostupného v těle a možnost nežádoucích účinků. Proto se doporučuje tento přípravek neužívat s alkoholem.
+
+Při podávání tamsulosin-hydrochloridu společně s atenololem, enalaprilem, nifedipinem nebo teofylinem nebyly pozorovány žádné interakce. Společné podávání cimetidinu vedlo k vzestupu plazmatických hladin tamsulosinu, zatímco společné podávání furosemidu vedlo k poklesu plasmatických hladin tamsulosinu, ale protože hladiny zůstávají v rozmezí normálního dávkování, není nutné upravovat dávkování.
+In vitro ani diazepam, ani propranolol, trichlormethiazid, chlormadinon, amitriptylin, diklofenak, glibenklamid, simvastatin a warfarin nemění volnou frakci tamsulosinu v plazmě. Stejně tak tamsulosin nemění volné frakce diazepamu, propranololu, trichlormethiazidu a chlormadinonu.
+
+Diklofenak a warfarin však mohou zvýšit rychlost eliminace tamsulosinu.
+
+4.6 Fertilita, těhotenství a kojení
+Podávání přípravku Atucare ženám je kontraindikováno. Studie hodnotící účinky přípravku Atucare na těhotenství, kojení ani fertilitu nebyly provedeny. Následující tvrzení odrážejí informace dostupné ze studií s jednotlivými léčivými látkami přípravku (viz bod 5.3).
+
+Těhotenství
+Stejně jako ostatní inhibitory 5alfa-reduktázy inhibuje dutasterid přeměnu testosteronu na dihydrotestosteron, a je-li podán těhotné ženě s plodem mužského pohlaví, může inhibovat vývoj zevního mužského pohlavního ústrojí plodu (viz bod 4.4). U subjektů užívajících dutasterid bylo jeho malé množství nalezeno ve spermatu. Není známo, zda by došlo k nepříznivému ovlivnění plodu mužského pohlaví, jestliže jeho matka přišla do styku se spermatem pacienta léčeného dutasteridem (riziko tohoto je největší v průběhu prvních 16 týdnů těhotenství).
+
+Stejně jako u všech inhibitorů 5alfa-reduktázy se doporučuje, je-li nebo může-li být pacientova partnerka těhotná, aby pacient zabránil kontaktu své partnerky se svým spermatem tím, že bude používat kondom.
+Podávání tamsulosin-hydrochloridu březím samicím potkanů a králíků neprokázalo poškození plodu. Informace týkající se preklinických údajů viz bod 5.3.
+Kojení
+Není známo, zda se dutasterid nebo tamsulosin vylučují do lidského mateřského mléka.
+
+Fertilita
+Bylo hlášeno, že dutasterid ovlivňuje vlastnosti spermatu u zdravých mužů (snížení počtu spermií, objemu spermatu a pohyblivosti spermií) (viz bod 5.1). Možnost snížení mužské fertility nelze vyloučit.
+Účinky tamsulosin-hydrochloridu na počet spermií nebo jejich funkci nebyly hodnoceny.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Dutasterid:
+Na základě farmakodynamických vlastností dutasteridu se neočekává, že by léčba dutasteridem narušovala schopnost řídit nebo obsluhovat stroje.
+
+Tamsulosin:
+Nebyly provedeny žádné studie účinků na schopnost řídit a obsluhovat stroje. Pacienti si však mají být vědomi skutečnosti, že se mohou objevit závratě.
+4.8 Nežádoucí účinky
+
+Dutasterid v kombinaci s alfa-blokátorem tamsulosin
+
+Údaje ze čtyřleté studie CombAT, která srovnávala společné podávání dutasteridu 0,5 mg (n = 1623) a tamsulosinu 0,4 mg (n = 1611) jednou denně samostatně a v kombinaci (n = 1610), ukázaly, že výskyt jakýchkoli nežádoucích účinků posouzených zkoušejícím jako související s užíváním léčivého přípravku během prvního, druhého, třetího a čtvrtého roku léčby byl 22 %, 6 %, 4 % a 2 % pro kombinovanou terapii dutasteridem/tamsulosinem, 15 %, 6 %, 3 % a 2 % pro monoterapii dutasteridem a 13 %, 5 %, 2 % a 2 % pro monoterapii tamsulosinem. Vyšší výskyt nežádoucích účinků ve skupině s kombinovanou léčbou během prvního roku léčby byl způsoben vyšším výskytem reprodukčních poruch, zvláště poruch ejakulace, pozorovaných v této skupině.
+
+Nežádoucí účinky zkoušejícím posouzené jako související s léčivým přípravkem, které byly hlášeny s výskytem rovnajícím se 1 % a vyšším během prvního roku léčby ve studii CombAT; výskyt těchto nežádoucích účinků ukazuje následující tabulka níže.
+
+Nežádoucí účinky        Výskyt během léčebného období
+
+Třída orgánových systémů
+
+
+Poruchy nervového systému
+
+Kombinaceᵃ (n) Dutasterid Tamsulosin
+Závrať
+Kombinaceᵃ
+1 rok (n=1610) (n=1623) (n=1611)
+
+1,4%
+2 rok (n=1428) (n=1464) (n=1468)
+
+0,1%
+3 rok (n=1283) (n=1325) (n=1281)
+
+<0,1%
+4 rok (n=1200) (n=1200) (n=1112)
+
+0,20%
+
+
+
+
+
+Srdeční poruchy
+Dutasterid Tamsulosin
+Srdeční selhání (souhrnný
+termínᵇ)
+Kombinaceᵃ Dutasterid Tamsulosin
+Impotenceᶜ
+Kombinaceᵃ Dutasterid Tamsulosin
+Ovlivnění (snížení) libidaᶜ
+0,7%
+1,3%
+
+
+0,2%
+<0,1%
+0,1%
+
+6,3%
+5,1%
+3,3%
+0,1%
+0,4%
+
+
+0,4%
+0,1%
+<0,1%
+
+1,8%
+1,6%
+1,0%
+<0,1%
+<0,1%
+
+
+0,2%
+<0,1%
+0,4%
+
+0,9%
+0,6%
+0,6%
+<0,1%
+0%
+
+
+0,2%
+0%
+0,2%
+
+0,4%
+0,3%
+1,1%
+
+
+
+Poruchy reprodukčního systému a prsu
+Kombinaceᵃ Dutasteride Tamsulosin Poruchy ejakulaceᶜ Kombinaceᵃ Dutasterid Tamsulosin
+Poruchy prsuᵈ Kombinaceᵃ Dutasterid Tamsulosin
+5,3%
+3,8%
+2,5%
+
+9,0%
+1,5%
+2,7%
+
+2,1%
+1,7%
+0,8%
+0,8%
+1,0%
+0,7%
+
+1,0%
+0,5%
+0,5%
+
+0,8%
+1,2%
+0,4%
+0,2%
+0,2%
+0,2%
+
+0,5%
+0,2%
+0,2%
+
+0,9%
+0,5%
+0,2%
+0%
+0%
+<0,1%
+
+<0,1%
+0,3%
+0,3%
+
+0,6%
+0,7%
+0%
+
+ᵃ Kombinace – dutasterid 0,5 mg jednou denně + tamsulosin 0,4 mg jednou denně
+ᵇ Souhrnný termín srdeční selhání zahrnuje městnavé srdeční selhání, srdeční selhání, selhání levé srdeční komory, akutní srdeční selhání, kardiogenní šok, akutní selhání levé srdeční komory, selhání pravé srdeční komory, akutní selhání pravé srdeční komory, selhání srdeční komory, kardiopulmonální selhání, městnavou kardiomyopatii
+ᶜ Tyto sexuální nežádoucí účinky jsou spojeny s léčbou dutasteridem (včetně monoterapie a kombinace s tamsulosinem). Tyto nežádoucí účinky mohou přetrvávat po ukončení léčby. Role dutasteridu v jejich přetrvávání není známa
+ᵈ Zahrnuje citlivost prsou a zvětšení prsou. Nežádoucí účinky jednotlivých složek jsou založeny na informacích veřejně dostupných. Frekvence nežádoucích účinků se může při použití kombinované terapie zvýšit
+Nežádoucí účinky jednotlivé složky jsou navíc založeny na informacích veřejně dostupných. Frekvence nežádoucích účinků se může při kombinované terapii zvýšit
+
+Frekvence výskytu nežádoucích účinků zaznamenaných v klinických studiích:
+Časté: ≥ 1/100 až < 1/10, méně časté: ≥ 1/1 000 až < 1/100, vzácné: ≥ 1/10 000 až < 1/1 000, velmi vzácné: < 1/10 000. V rámci jednotlivých tříd orgánových systémů jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+
+Třída orgánových systémů
+
+Nežádoucí účinky  Dutaste ridᵃ    Tamsulosinᵇ
+
+Poruchy nervového
+synkopa       -
+závrať        -
+vzácné
+časté
+
+systému
+bolest hlavy                méně časté
+
+
+Srdeční poruchy
+
+
+Cévní poruchy
+Respirační, hrudní a mediastinální poruchy
+
+Gastrointestinální poruchy
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+Poruchy reprodukčního systému a prsu
+
+
+
+Celkové poruchy a reakce v místě aplikace
+srdeční selhání
+(souhrnný termín¹)
+palpitace ortostatická hypotenze
+rinitida
+zácpa průjem nauzea zvracení angioedém Stevensův-
+Johnsonův syndrom
+kopřivka vyrážka pruritus priapismus
+impotence³
+ovlivnění (snížení)
+libida³
+poruchy ejakulace³ poruchy prsu²
+astenie
+
+méně častéᶜ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+časté
+časté
+časté časté
+
+
+
+méně časté méně časté
+méně časté
+méně časté méně časté méně časté méně časté vzácné
+velmi vzácné
+méně časté méně časté méně časté velmi vzácné
+-
+-
+časté
+
+méně časté
+
+ᵃ Dutasterid: z klinických monoterapeutických studií BHP.
+ᵇ Tamsulosin: z EU Core Safety Profile tamsulosinu.
+ᶜ REDUCE studie (viz bod 5.1).
+¹ Souhrnný termín srdeční selhání zahrnuje městnavé srdeční selhání, srdeční selhání, selhání levé srdeční komory, akutní srdeční selhání, kardiogenní šok, akutní selhání levé srdeční komory, selhání pravé srdeční komory, akutní selhání pravé srdeční komory, selhání srdeční komory, kardiopulmonální selhání, městnavou kardiomyopatii.
+² Včetně citlivosti prsů a jejich zvětšení.
+³ Tyto sexuální nežádoucí účinky jsou spojeny s léčbou dutasteridem (včetně monoterapie a kombinace s tamsulosinem). Tyto nežádoucí účinky mohou přetrvávat po ukončení léčby. Role dutasteridu v jejich přetrvávání není známa.
+
+Další údaje
+REDUCE studie prokázala vyšší výskyt rakoviny prostaty s Gleasonovým skóre 8-10 u mužů léčených dutasteridem ve srovnání s placebem (viz body 4.4 a 5.1). Zda byl výsledek studie ovlivněn účinkem dutasteridu na snížení objemu prostaty, nebo jinými se studií souvisejícími faktory, nebylo stanoveno.
+
+Následující bylo hlášeno v klinických studiích a z postmarketingu:
+-  rakovina prsu u mužů (viz bod 4.4).
+
+Postmarketingové údaje
+Nežádoucí účinky zaznamenané z celosvětových zkušeností z postmarketingu pocházejí ze spontánních hlášení, proto není jejich skutečná incidence známa.
+Dutasterid
+
+Poruchy imunitního systému
+Není známo: alergické reakce, včetně vyrážky, svědění, kopřivky, lokalizovaného edému a
+angioedému.
+
+Psychiatrické poruchy
+Není známo: deprese.
+
+Poruchy kůže a podkožní tkáně
+Méně časté: alopecie (zejména ztráta tělesného ochlupení), hypertrichóza.
+Poruchy reprodukčního systému a prsu
+Není známo: bolest varlat a otok varlat.
+
+Tamsulosin:
+Postmarketingové zkušenosti: Kromě výše uvedených nežádoucích účinků byly v souvislosti s užíváním tamsulosinu hlášeny fibrilace síní, arytmie, tachykardie a dyspnoe. Protože tyto spontánně hlášené události pocházejí z celosvětové postmarketingové zkušenosti, nelze spolehlivě stanovit frekvenci nežádoucích účinků a příčinnou souvislost s tamsulosinem.
+Během postmarketingového sledování byl v souvislosti s léčbou tamsulosinem, zaznamenán v průběhu operace katarakty syndrom interoperativní plovoucí duhovky (IFIS), varianty syndromu malé zornice (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+O předávkování přípravkem Atucare nejsou k dispozici žádné údaje. Následující tvrzení odrážejí informace dostupné k jednotlivým léčivým látkám přípravku.
+Dutasterid
+Ve studiích s dobrovolníky byly podávány jednorázové denní dávky dutasteridu až do 40 mg/den (80násobek terapeutické dávky) po dobu 7 dnů, aniž by se vyskytly významné problémy s bezpečností. V klinických studiích byly subjektům podávány dávky 5 mg denně po dobu 6 měsíců, aniž by se vyskytly nějaké další nežádoucí účinky, než jaké byly pozorovány při terapeutických dávkách 0,5 mg denně. Dutasterid nemá specifické antidotum, a proto se při suspektním předávkování má poskytovat náležitá symptomatická a podpůrná léčba.
+
+Tamsulosin
+Symptomy
+Předávkování tamsulosin-hydrochloridem může vést k závažným hypotenzním účinkům. Při různých úrovních předávkování byly pozorovány závažné hypotenzní účinky.
+
+Léčba
+V případě, kdy se po předávkování objeví akutní hypotenze, je potřeba poskytnout podpůrnou léčbu kardiovaskulárního systému. Normální hodnoty krevního tlaku a srdeční frekvence mohou být obnoveny při uložení pacienta do polohy vleže. Pokud to nepomůže, mohou být podány přípravky na expanzi objemu a v případě nutnosti vazopresory. Má být sledována funkce ledvin a mají být použita obecná podpůrná opatření. Protože se tamsulosin velmi silně váže na proteiny krevní plazmy, není pravděpodobné, že by mohla pomoci dialýza. Mohou být přijata opatření, jako je vyvolání zvracení,
+
+aby se zabránilo absorpci. Pokud došlo k požití velkého množství přípravku, je možné provést gastrickou laváž a podat aktivní uhlí a osmotická projímadla, např. síran sodný.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: urologika, léčiva k terapii benigní hyperplazie prostaty, tamsulosin a
+dutasterid
+ATC kód: G04CA52
+
+Dutasterid/tamsulosin je kombinace dvou léčivých látek: dutasteridu, duálního inhibitoru
+5-α-reduktázy (5 ARI) a tamsulosin-hydrochloridu, antagonisty α1a a α1d adrenoreceptorů. Tyto dvě léčivé látky mají komplementární mechanismus účinku, který rychle zmírňuje příznaky onemocnění, zlepšuje proud moči a snižuje riziko akutní retence moči (ARM) a nutnost chirurgického výkonu v souvislosti s BHP.
+Dutasterid snižuje cirkulující hladiny dihydrotestosteronu (DHT) inhibicí izoenzymů 5α-reduktázy typu 1 i typu 2, které jsou zodpovědné za přeměnu testosteronu na DHT.
+Tamsulosin se selektivně a kompetitivně váže na postsynaptické α 1-adrenoceptory, zejména na
+podtypy α1A a α1D. To vede k relaxaci hladkého svalstva prostaty a uretry.
+Společné podávání dutasteridu a tamsulosinu
+Nebyly provedeny žádné neklinické ani klinické studie u pacientů užívajících Atucare.
+
+Následující tvrzení odrážejí informace dostupné ze společné léčby dutasteridem a tamsulosinem. Klinické studie přezkoumávající kombinovanou terapii inhibitorem 5α-reduktázy dutasteridem a α1- adrenergním antagonistou tamsulosinem prokázaly významná zlepšení oproti výchozímu stavu ve srovnání se samotným léčivem.
+
+Ve čtyřleté multicentrické mezinárodní randomizované dvojitě zaslepené studii paralelních skupin byly hodnoceny dutasterid 0,5 mg/den (n = 1 623), tamsulosin 0,4 mg/den (n = 1 611) nebo kombinace dutasteridu 0,5 mg s tamsulosinem 0,4 mg (n = 1 610) u mužských jedinců se středně těžkými až těžkými příznaky BHP, s objemem prostaty ≥ 30 ml a hodnotami PSA v rozmezí 1,5–10 ng/ml.
+Přibližně 53 % jedinců bylo již dříve léčeno inhibitorem 5-alfa reduktázy nebo alfa-blokátorem. Primárním cílovým parametrem účinnosti během prvních dvou let studie byla změna v Mezinárodní stupnici prostatických symptomů (International Prostate Symptom Score, IPSS), osmipoložkovém dotazníku založeném na AUA-SI s doplňující otázkou na kvalitu života. Sekundární parametry účinnosti ve 2 letech zahrnovaly rychlost maximálního proudu moči (Qmax) a objem prostaty. V hodnocení změny ve skóre IPSS dosáhla kombinovaná léčba signifikantního zlepšení oproti dutasteridu od 3. měsíce a oproti tamsulosinu od 9. měsíce. V hodnocení změny Qmax dosáhla kombinovaná léčba signifikantního zlepšení oproti dutasteridu i tamsulosinu od 6. měsíce.
+Primárním cílovým parametrem účinnosti ve 4 letech léčby byla doba do prvního výskytu ARM nebo nutnosti chirurgického výkonu z důvodu BHP. Po 4 letech léčby snižovala kombinovaná léčba statisticky významně riziko ARM nebo chirurgického výkonu z důvodu BHP (65,8% snížení rizika p
+< 0,001 [95% CI 54,7 % až 74,1 %]) ve srovnání s monoterapií tamsulosinem. Incidence ARM nebo chirurgického výkonu v důsledku BHP do 4. roku léčby byla 4,2 % ve skupině s kombinovanou léčbou a 11,9 % při léčbě tamsulosinem (p < 0,001). Ve srovnání s monoterapií dutasteridem snižovala kombinovaná léčba riziko ARM nebo chirurgického výkonu v důsledku BHP o 19,6 % (p = 0,18 [95% CI -10,9 % až 41,7 %]). Incidence ARM nebo chirurgického výkonu v důsledku BHP do 4. roku byla při léčbě dutasteridem 5,2 %.
+
+Sekundární cílové parametry účinnosti po 4 letech léčby zahrnovaly dobu do klinické progrese (definované jako souhrn těchto parametrů: zhoršení IPSS o ≥ 4 body, ARM související s BHP, inkontinence, infekce močových cest (IMC) a renální insuficience), změnu v IPSS (International Prostate Symptom Score), rychlost maximálního proudu moči (Qmax) a objem prostaty. IPSS je 8položkový dotazník založený na AUA-SI s doplňující otázkou na kvalitu života. Výsledky po 4 letech léčby jsou shrnuty níže:
+
+
+Parametr AUR nebo chirurgický výkon v důsledku BHP (%)
+Klinická progrese* (%)
+IPSS
+(jednotky)
+
+Qmax (ml/s)
+
+Objem prostaty (ml)#
+Objem tranzitorní zóny prostaty (ml)#
+BHP Impact Index
+(BII)
+(jednotky) IPSS otázka 8 (zdravotní stav související s BHP
+(jednotky)
+Časový úsek
+
+
+Incidence ve 48 měsících
+
+
+
+48 měsíc
+
+[výchozí hodnota] 48 měsíc (změna proti
+výchozí hodnotě) [výchozí hodnota]
+48 měsíc (změna proti výchozí hodnotě) [výchozí hodnota]
+48 měsíc (% změna proti
+výchozí hodnotě)
+[výchozí hodnota]
+48 měsíc (% změna proti
+výchozí hodnotě)
+
+[výchozí hodnota] 48 měsíc (změna proti
+výchozí hodnotě)
+
+
+[výchozí hodnota] 48 měsíc (změna proti
+výchozí hodnotě)
+Kombinace
+
+
+4,2
+
+
+
+12,6
+
+[16,6]
+-6,3
+
+[10,9]
+2,4
+
+[54,7]
+-27,3
+
+[27,7]
+-17,9
+
+
+[5,3]
+-2,2
+
+
+
+[3,6]
+-1,5
+Dutasterid
+
+
+5,2
+
+17,8ᵇ [16,4]
+-5,3ᵇ
+
+[10,6]
+2,0
+
+[54,6]
+-28,0
+
+[30,3]
+-26,5
+
+
+[5,3]
+-1,8ᵇ
+
+
+
+[3,6]
+-1,3ᵇ
+Tamsulosin
+
+
+11,9ᵃ
+
+21,5ᵃ [16,4]
+-3,8ᵃ
+
+[10,7] 0,7ᵃ
+
+[55,8]
++4,6ᵃ
+
+[30,5] 18,2ᵃ
+
+
+[5,3]
+-1,2ᵃ
+
+
+
+[3,6]
+-1,1ᵃ
+Výchozí hodnoty jsou průměrné hodnoty a změny od výchozích hodnot jsou upravené průměrné změny.
+* Klinická progrese byla definována jako souhrn těchto parametrů: zhoršení IPSS o ≥ 4 body, ARM související s BHP, inkontinence, IMC a renální insuficience.
+# Hodnocené ve vybraných centrech (13 % randomizovaných pacientů).
+ᵃ Kombinovaná léčba dosáhla signifikantní významnosti (p < 0,001) při srovnání s tamsulosinem ve 48. měsíci.
+ᵇ Kombinovaná léčba dosáhla signifikantní významnosti (p < 0,001) při srovnání s dutasteridem ve 48. měsíci.
+
+Klinická účinnost a bezpečnost dutasteridu
+Ve třech dvouletých, primární účinnost zkoumajících, multicentrických, mezinárodních, placebem kontrolovaných, dvojitě zaslepených studiích byl u 4 325 mužských subjektů se středně těžkými nebo těžkými příznaky BHP, kteří měli objem prostaty ≥ 30 ml a hodnotu PSA v rozmezí 1,5-10 ng/ml, hodnoceno podávání dutasteridu v dávce 0,5 mg denně nebo placebo. Tyto studie poté pokračovaly prodloužením na 4 roky se všemi pacienty, kteří zůstali ve studii a kteří dostávali dutasterid ve stejné dávce 0,5 mg. 37 % pacientů na počátku randomizovaných do skupiny s placebem a 40 % pacientů randomizovaných do skupiny s dutasteridem zůstalo ve studii až do 4. roku. Většina (71 %) z 2 340 subjektů v otevřené rozšířené studii dokončila tyto dva další roky otevřené léčby.
+
+Nejdůležitějšími klinickými parametry účinnosti byly AUA-SI (American Urological Association Symptom Index), maximální rychlost proudu moči (Qmax) a incidence akutní retence moči (ARM) a chirurgického výkonu souvisejícího s BHP.
+AUA-SI je sedmipoložkový dotazník na příznaky související s BHP s maximálním dosažitelným skóre
+35. Výchozí průměrné skóre bylo přibližně 17. Po šesti měsících, po jednom roce a po dvou letech byla ve skupině užívající placebo dosažena průměrná zlepšení o 2,5, 2,5 a 2,3 bodu, zatímco ve skupině užívající dutasterid byla dosažena průměrná zlepšení o 3,2, 3,8 a 4,5 bodu. Rozdíly mezi oběma skupinami byly statisticky významné. Zlepšení v AUA-SI pozorované v průběhu prvních 2 let dvojitě zaslepené fáze léčby bylo udržováno v průběhu dalších dvou let v otevřené rozšířené studii.
+Qmax (maximální rychlost proudu moči)
+Průměrná výchozí hodnota Qmax ve studiích byla přibližně 10 ml/s (normální hodnoty Qmax jsou 15 ml/s). Po jednom roce a dvou letech léčby se rychlost proudu v placebové skupině zlepšila o 0,8 a 0,9 ml/s, zatímco ve skupině užívající dutasterid o 1,7 a 2,0 ml/s. Rozdíl mezi placebovou skupinou a skupinou s dutasteridem byl statisticky významný od 1. do 24. měsíce. Zvýšení maximální rychlosti proudu moči pozorované v průběhu prvních 2 let dvojitě zaslepené části studie bylo udrženo v průběhu dalších 2 let v rozšířené otevřené studii.
+Akutní retence moči a chirurgická intervence
+Po dvou letech léčby byla incidence ARM v placebové skupině 4,2 % a naproti tomu ve skupině s dutasteridem 1,8 % (57% snížení rizika). Tento rozdíl je statisticky významný a znamená, že 42 pacientů musí být léčeno po dobu dvou let (95% CI 30-73), aby se zabránilo jednomu případu ARM. Incidence chirurgického výkonu souvisejícího s BHP po dvou letech léčby byla v placebové skupině 4,1 % a ve skupině s dutasteridem 2,2 % (48% snížení rizika). Tento rozdíl je statisticky významný a znamená, že 51 pacientů musí být léčeno po dobu dvou let (95% CI 33-109), aby se předešlo jedné chirurgické intervenci.
+Účinek na vlasový porost
+Účinek dutasteridu na vlasový porost nebyl ve studiích fáze III klinického hodnocení formálně studován, inhibitory 5-α-reduktázy by však mohly omezit vypadávání vlasů a podpořit růst vlasů u subjektů s androgenní alopecií.
+Funkce štítné žlázy
+Funkce štítné žlázy byla hodnocena v jednoleté studii u zdravých mužů. Při užívání dutasteridu byly hladiny volného thyroxinu stabilní, ale na konci jednoletého podávání dutasteridu byly v porovnání s placebem mírně zvýšené hladiny TSH (o 0,4 MCIU/ml). Hladiny TSH byly variabilní, ale mediány hladin TSH (1,4-1,9 MCIU/ml) zůstaly v normálním rozmezí hodnot (0,5-5/6 MCIU/ml), hladiny volného thyroxinu byly stabilní v normálním rozmezí hodnot a byly podobné při podávání dutasteridu jako při podávání placeba, změny TSH nebyly pokládány za klinicky významné. V žádné z klinických studií nebyly zjištěny žádné známky svědčící o tom, že by dutasterid nepříznivě ovlivňoval funkci štítné žlázy.
+Neoplazie prsu
+Ve dvouletých klinických studiích poskytujících 3 374 paciento-roků expozice dutasteridu a v době registrace do dvouletého prodlouženého, otevřeně uspořádaného období studie, byly ohlášeny 2 případy karcinomu prsu u mužů léčených dutasteridem a 1 případ u pacienta, který užíval placebo. V 4letých klinických studiích CombAT a REDUCE, které poskytly 17 489 paciento-roků expozice dutasteridu a 5 027 paciento-roků expozice kombinací dutasteridu a tamsulosinu, nebyly hlášeny žádné případy karcinomu prsu v žádné z léčebných skupin.
+Mezi výskytem karcinomu prsu u mužů a dlouhodobým užíváním dutasteridu nebyla prokázána kauzální souvislost.
+Vliv na mužskou fertilitu
+
+Účinky dutasteridu v dávce 0,5 mg/den na vlastnosti spermatu byly hodnoceny u zdravých dobrovolníků ve věku od 18 do 52 let (n = 27 u dutasteridu, n = 23 u placeba) v průběhu 52 týdnů léčby a 24 týdnů sledování po léčbě. Po 52 týdnech bylo pozorováno průměrné procentuální snížení ze základní hodnoty celkového počtu spermií, objemu spermatu a pohyblivosti spermií o 23 %, 26 %, resp. 18 % ve skupině s dutasteridem po srovnání se změnami od základních hodnot placebové skupiny. Koncentrace spermií a morfologie spermií nebyly ovlivněny. Po 24 týdnech sledování po léčbě zůstala průměrná procentuální změna celkového počtu spermií ve skupině s dutasteridem o 23 % nižší než výchozí hodnota. Zatímco průměrné hodnoty pro všechny parametry ve všech časových úsecích zůstaly v normálním rozsahu a nedosáhly předem definovaného kritéria pro klinicky signifikantní změnu (30 %), dva pacienti ve skupině s dutasteridem měli po 52 týdnech léčby počet spermií snížen o více než 90 % oproti svým výchozím hodnotám s tím, že ve 24. týdnu následného sledování došlo k částečné úpravě hodnot. Možnost snížení mužské fertility nelze vyloučit.
+
+Kardiovaskulární nežádoucí účinky
+Ve čtyřleté studii hodnotící dutasterid v kombinaci s tamsulosinem u 4 844 mužů s BHP (studie CombAT) byla incidence souhrnného pojmu srdeční selhání ve skupině užívající kombinovanou léčbu (14/1610; 0,9 %) vyšší než v obou skupinách s monoterapií: dutasterid (4/1 623; 0,2 %) a tamsulosin (10/1 611; 0,6 %).
+
+V samostatné čtyřleté studii hodnotící 8 231 mužů ve věku 50 až 75 let s předchozí negativní biopsií pro karcinom prostaty a výchozí hodnotou PSA v rozmezí 2,5 ng/ml až 10,0 ng/ml u mužů ve věku 50 až 60 let, nebo 3 ng/ml až 10,0 ng/ml v případě mužů starších 60 let (studie REDUCE) byla vyšší incidence souhrnného pojmu srdeční selhání u subjektů užívajících dutasterid v dávce 0,5 mg jednou denně (30/4 105; 0,7 %) ve srovnání se subjekty užívajícími placebo (16/4 126; 0,4 %). Post-hoc analýza této studie ukázala vyšší incidenci souhrnného termínu srdeční selhání u subjektů užívajících dutasterid společně s alfa blokátorem (12/1 152; 1,0 %) ve srovnání se subjekty užívajícími dutasterid bez alfa blokátoru (18/2 953; 0,6 %), placebo s alfa blokátorem (1/1 399, < 0,1 %), nebo placebo bez alfa blokátoru (15/2 727; 0,6 %).
+
+Karcinom prostaty a high-grade tumory
+Ve čtyřletém srovnání placeba a dutasteridu u 8 231 mužů ve věku 50 až 75 let s předchozí negativní biopsií pro karcinom prostaty a výchozí hodnotou PSA v rozmezí 2,5 ng/ml až 10,0 ng/ml u mužů ve věku 50 až 60 let, nebo 3 ng/ml až 10 ng/ml v případě mužů starších 60 let (studie REDUCE) byly k dispozici údaje z jehlové biopsie (primárně vyžadované protokolem) u 6 706 subjektů k analýze pro stanovení Gleasonova skóre. V této studii byl u 1 517 subjektů diagnostikován karcinom prostaty.
+Většina karcinomů prostaty detekovatelných biopsií v obou léčebných skupinách byla diagnostikována
+jako low-grade (Gleason skóre 5-6, 70 %).
+
+Ve skupině s dutasteridem (n = 29; 0,9%) byla vyšší incidence karcinomů prostaty s Gleason skóre 8- 10 ve srovnání se skupinou s placebem (n = 19; 0,6 %) (p = 0,15). V 1. a 2. roce byl počet subjektů s karcinomem s Gleason skóre 8-10 podobný ve skupině léčené dutasteridem (n = 17; 0,5 %) a ve skupině s placebem (n = 18; 0,5 %). Ve 3. a 4. roce bylo ve skupině léčené dutasteridem (n = 12; 0,5
+%) diagnostikováno více karcinomů s Gleason skóre 8-10 ve srovnání se skupinou s placebem (n = 1;
+< 0,1 %) (p = 0,0035). K dispozici nejsou žádné dostupné údaje týkající se vlivu dutasteridu na riziko karcinomu prostaty u mužů po 4 letech. Procento subjektů, u kterých byl diagnostikován karcinom prostaty s Gleason skóre 8-10, bylo v průběhu období studie (1. a 2. rok a 3. a 4. rok) shodné ve skupině s dutasteridem (0,5 % v každém období léčby), zatímco ve skupině s placebem bylo procento subjektů s diagnostikovaným karcinomem prostaty s Gleason skóre 8-10 nižší během 3. a 4. roku ve srovnání s 1. a 2. rokem (< 0,1 % vs. 0,5 %) (viz bod 4.4). V incidenci karcinomů s Gleason skóre 7- 10 nebyl žádný rozdíl (p = 0,81).
+V 4leté studii benigní hyperplazie prostaty (CombAT), kde provedení biopsie nebylo vyžadováno protokolem a všechny diagnózy karcinomů prostaty byly založené na odůvodněných biopsiích, byl výskyt karcinomu prostaty Gleason skóre 8-10 (n=8; 0,5%) u dutasteridu, (n = 11; 0,7 %) u tamsulosinu a (n = 5; 0,3 %) při kombinované léčbě.
+
+Vztah mezi dutasteridem a high-grade karcinomem prostaty není zatím objasněn.
+
+Klinická účinnost a bezpečnost tamsulosinu
+Tamsulosin zvyšuje maximální rychlost proudu moči. Ulevuje od příznaků obstrukce relaxací hladké svaloviny prostaty a močové trubice, čímž zlepšuje iritační příznaky. Rovněž zlepšuje příznaky jímací, ve kterých hraje významnou roli instabilita močového měchýře. Tyto účinky na jímací a iritační příznaky přetrvávají i při dlouhodobé léčbě, takže nutnost chirurgického řešení nebo katetrizace je významně oddálena.
+Antagonisté alfa1-adrenergních receptorů mohou snižovat krevní tlak snížením periferní rezistence. Ve studiích s tamsulosinem nebylo pozorováno klinicky významné snížení krevního tlaku.
+5.2 Farmakokinetické vlastnosti
+
+Mezi dutasteridem/tamsulosinem a podáváním tobolek dutasteridu a tobolek tamsulosinu samostatně, byla prokázána bioekvivalence prostřednictvím tří různých studií provedených na zdravých dobrovolnících.
+
+Studie bioekvivalence jednotlivé dávky byla provedena ve stavu nalačno i po jídle. Bylo pozorováno 50% snížení Cmax tamsulosinové komponenty dutasteridu/tamsulosinu po jídle v porovnání se stavem nalačno. Na AUC tamsulosinu má jídlo malý vliv (< 10%).
+Studie bioekvivalence s opakovanými dávkami prokázala, že dutasterid/tamsulosin vykazoval ekvivalentní rychlost a rozsah absorpce ve vztahu k referenčním přípravkům u zdravých jedinců v ustáleném stavu za podmínek po jídle.
+
+Absorpce
+
+Dutasterid
+Po perorálním podání jednorázové dávky 0,5 mg dutasteridu činí čas dosažení maximálních sérových koncentrací 1 až 3 hodiny. Absolutní biologická dostupnost je přibližně 60 %. Biologická dostupnost dutasteridu není ovlivňována potravou.
+
+Tamsulosin
+Tamsulosin se vstřebává ze střeva a jeho biologická dostupnost je téměř úplná. Rychlost i rozsah absorpce tamsulosinu jsou sníženy, pokud je tamsulosin podán v průběhu 30 minut po jídle.
+Stejnoměrné absorpce lze dosáhnout tím, že pacient bude užívat přípravek Atucare stále po stejném jídle. Plazmatická expozice tamsulosinu je úměrná dávce.
+Vrcholová plazmatická koncentrace je dosažena přibližně 6 hodin po jedné dávce tamsulosinu, který byl podán po jídle, ustáleného stavu se dosáhne pátého dne po opakovaném podání a Cmax u pacientů je přibližně o dvě třetiny vyšší než po jedné dávce. Ačkoli toto bylo pozorováno u starších pacientů, stejné nálezy se předpokládají i u pacientů mladších.
+Distribuce
+
+Dutasterid
+Dutasterid má velký distribuční objem (300 až 500 l) a je velkým dílem (> 99,5 %) vázán na plazmatické proteiny. Po každodenním podávání dosáhnou sérové koncentrace dutasteridu 65% koncentrace v ustáleném stavu asi po 1 měsíci a 90% koncentrace v ustáleném stavu asi po 3 měsících. Sérové koncentrace v ustáleném stavu (Css) jsou přibližně 40 ng/ml a je jich dosaženo přibližně po 6 měsících podávání v dávce 0,5 mg jednou denně. Přestup dutasteridu ze séra do spermatu činí průměrně 11,5 %.
+
+Tamsulosin
+
+Tamsulosin je u lidí přibližně z 99 % vázaný na bílkoviny plazmy. Distribuční objem je malý (přibližně 0,2 l/kg).
+
+Biotransformace
+Dutasterid
+In vivo je dutasterid rozsáhle metabolizován. In vitro je metabolizován izoenzymy 3A4 a 3A5
+cytochromu P450 na tři monohydroxylové a jeden dihydroxylový metabolit.
+Po perorálním podávání 0,5 mg dutasteridu denně až do dosažení ustáleného stavu plazmatických koncentrací se 1,0 až 15,4 % (průměrně 5,4 %) podané dávky dutasteridu vyloučí v nezměněné formě stolicí. Zbytek je vylučován stolicí ve formě čtyř hlavních metabolitů (na něž připadá 39 %, 21 %, 7 % a 7 % materiálu pocházejícího z dutasteridu) a šesti vedlejších metabolitů (na každý z nich připadá méně než 5 %). Lidskou močí se vylučují jen stopová množství intaktního dutasteridu (méně než 0,1
+% dávky).
+
+Tamsulosin
+Tamsulosin má nízký first-pass efekt, je metabolizován pomalu. Většina tamsulosinu je přítomna v plazmě ve formě nezměněné léčivé látky. Je metabolizován v játrech. Ukázalo se, že u potkanů nezpůsobuje tamsulosin téměř žádnou indukci mikrozomálních jaterních enzymů. Studie in vitro naznačují že CYP3A4 a CYP2D6 jsou zahrnuty do metabolismu tamsulosinu stejně jako z malé části i některé další izoenzymy CYP. Inhibice CYP3A4 a CYP2D6 metabolických enzymů v játrech může vést ke zvýšení expozice tamsulosin-hydrochloridu (viz body 4.4 a 4.5). Žádný z metabolitů není aktivnější než původní sloučenina.
+Eliminace
+
+Dutasterid
+In vivo je dutasterid rozsáhle metabolizován. In vitro je metabolizován izoenzymy 3A4 a 3A5
+cytochromu P450 na tři monohydroxylové a jeden dihydroxylový metabolit.
+Po perorálním podávání 0,5 mg dutasteridu denně až do dosažení ustáleného stavu plazmatických koncentrací se 1,0 až 15,4 % (průměrně 5,4 %) podané dávky dutasteridu vyloučí v nezměněné formě stolicí. Zbytek je vylučován stolicí ve formě čtyř hlavních metabolitů (na něž připadá 39 %, 21 %, 7 % a 7 % materiálu pocházejícího z dutasteridu) a šesti vedlejších metabolitů (na každý z nich připadá méně než 5 %). Lidskou močí se vylučují jen stopová množství intaktního dutasteridu (méně než 0,1
+% dávky).
+Eliminace dutasteridu je závislá na velikosti dávky a zdá se, že její průběh lze popsat současně dvěma eliminačními cestami, z nichž jedna je při klinicky relevantních koncentracích saturabilní a druhá nesaturabilní. Při nízkých sérových koncentracích (méně než 3 ng/ml) je dutasterid rychle odstraňován jak eliminační cestou závislou na koncentraci, tak eliminační cestou nezávislou na koncentraci.
+Jednorázové dávky 5 mg nebo nižší vykázaly rychlou clearance a krátký eliminační poločas 3 až 9 dnů. Při terapeutických koncentracích, po opakovaném podávání 0,5 mg denně, převládá pomalejší, lineární eliminační cesta a eliminační poločas činí přibližně 3-5 týdnů.
+Tamsulosin
+Tamsulosin a jeho metabolity se vylučují převážně do moči, přičemž přibližně 9 % dávky je v ní přítomno v nezměněné formě. Eliminační poločas tamsulosinu v plazmě je v rozmezí od 4 do 5,5 hodin.
+
+Starší pacienti
+
+Dutasterid
+Farmakokinetika dutasteridu byla hodnocena u 36 zdravých mužských subjektů ve věku od 24 do 87 let po jednorázové dávce 5 mg dutasteridu. Nebyl pozorován významný vliv věku na expozici dutasteridu až na to, že u mužů mladších 50 let měl dutasterid kratší eliminační poločas. Při porovnání
+
+věkové skupiny 50-69 let s věkovou skupinou 70 a více let nebyl zjištěn statisticky významný rozdíl v eliminačním poločase dutasteridu.
+
+Tamsulosin
+Vyšší věk snižuje vnitřní clearance tamsulosinu, což má za následek mírně prodlouženou dispozici léku u starších pacientů. Eliminační poločas 0,4 mg tamsulosinu s řízeným uvolňováním se u starších pacientů odhaduje na 14 až 15 hodin.
+Po jednorázové dávce tamsulosinu 0,4 mg podaného po jídle dosahují plazmatické hladiny tamsulosinu maximum přibližně za 6 hodin, ustáleného stavu se dosáhne 5. dne po opakovaném podání a Cmax u pacientů je přibližně o dvě třetiny vyšší než po jedné dávce. Ačkoli toto bylo pozorováno u starších pacientů, stejné nálezy se předpokládají i u pacientů mladších.
+Porucha funkce ledvin
+
+Dutasterid
+Vliv poruchy funkce ledvin na farmakokinetiku dutasteridu nebyl studován. Nicméně, lidskou močí se vylučuje méně než 0,1 % dávky 0,5 mg v ustáleném stavu, takže se nepředpokládá, že by u pacientů s poruchou funkce ledvin mohlo dojít ke klinicky významnému zvýšení plazmatických koncentrací dutasteridu (viz bod 4.2).
+
+Tamsulosin
+Vliv poruchy funkce ledvin na farmakokinetiku tamsulosinu na léčbu pacientů s těžkou poruchou funkce ledvin (clearance kreatininu menší než 10 ml / min) nebyl studován a proto je třeba přistupovat k léčbě opatrně.
+
+Porucha funkce jater
+Dutasterid
+Vliv poruchy funkce jater na farmakokinetiku dutasteridu nebyl studován (viz bod 4.3). Protože je dutasterid eliminován hlavně biotransformací, očekává se, že u pacientů s poruchou funkce jater budou zvýšeny plazmatické koncentrace dutasteridu a prodloužen jeho eliminační poločas (viz bod 4.2 a bod 4.4).
+
+Tamsulosin
+U pacientů s lehkou až středně těžkou poruchou funkce jater není nutná úprava dávky (viz také bod 4.
+3).
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+S přípravkem Atucare nebyly provedeny žádné neklinické studie. Následující tvrzení odrážejí informace dostupné o jednotlivých léčivých látkách přípravku.
+
+Dutasterid
+Poslední studie obecné toxicity, genotoxicity a kancerogenity neodhalily žádné zvláštní riziko pro člověka.
+Studie reprodukční toxicity na samcích potkanů prokázaly sníženou hmotnost prostaty a semenných váčků, sníženou sekreci přídatných pohlavních žláz a pokles indikátorů fertility (způsobený farmakologickým účinkem dutasteridu). Klinický význam těchto nálezů není znám.
+Tak jako u jiných inhibitorů 5-alfa-reduktázy byla po podání dutasteridu potkaním a králičím samicím během gestace zaznamenána feminizace samčích plodů. Dutasterid byl nalezen v krvi samic potkanů po jejich spáření se samci, kterým byl podáván dutasterid. Po podání dutasteridu samicím primátů během gestace nebyla pozorována feminizace samčích plodů při krevních expozicích dostatečně překračujících expozice, jejichž výskyt je pravděpodobný u žen prostřednictvím mužského spermatu.
+
+Je nepravděpodobné, že by plody mužského pohlaví byly nepříznivě ovlivněny po přenosu dutasteridu
+semenem.
+
+Tamsulosin
+Studie obecné toxicity a genotoxicity neodhalily žádné zvláštní riziko pro člověka jiné než to, které odpovídá farmakologickým vlastnostem tamsulosinu.
+Tamsulosin-hydrochlorid nevykazoval žádný důkaz mutagenního potenciálu in vitro v Amesově testu reverzní mutace, testu thymidinkinázy myšího lymfomu, testu neplánované syntézy DNA a testů chromozomální aberace v buňkách vaječníků čínského křečíka. Nebyly zjištěny žádné mutagenní účinky v in vivo výměně sesterských chromatid a testu mikrojader na myších.
+
+Studie zkoumala antifertilní účinky tamsulosinu, vysoce účinného a selektivního antagonisty alfa 1- adrenoceptoru na samcích potkanů. Lék byl podáván subkutánně jako jedna dávka (0,15 mg kg⁻¹). Lék způsobil významné snížení fertility (měřeno počtem děložních implantátů, testem quantal pregnancy a indexem fertility). Antifertilitní účinek byl krátkodobý a rychlý jak při nástupu (nejpozději do sedmi hodin po podání), tak při zotavení (během sedmi dnů). Libido a výkonnost páření zůstaly v podstatě neinhibované. Na druhé straně byl antifertilitní účinek doprovázen výrazným zhoršením ejakulační kompetence a zvýšením předimplantačních ztrát. Na základě výsledků této studie a předchozích studií se dospělo k závěru, že blokáda α1-adrenoceptorů má silný antifertilitní účinek u samců potkanů.
+
+Studie na samicích potkanů odhalily významné snížení fertility po jednorázovém nebo opakovaném podání R-isomeru nebo racemické směsi tamsulosin-hydrochloridu v dávce 300 mg/kg/den. U samic potkanů bylo snížení fertility po jednorázových dávkách považováno za spojené s poruchami fertilizace. Opakované podávání 10 nebo 100 mg/kg/den racemické směsi signifikantně nezměnilo fertilitu samic potkanů.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Tvrdá tobolka:
+Černý oxid železitý (E172) Červený oxid železitý (E172) Oxid titaničitý (E171)
+Žlutý oxid železitý (E172) Želatina
+
+Obsah měkké tobolky:
+Propylenglykol-monooktanoát Typ II
+Butylhydroxytoluen (E321)
+
+Měkká tobolka:
+Želatina
+Glycerol
+Oxid titaničitý (E171) Triacylglyceroly se středním řetězcem Lecithin (může obsahovat sójový olej)
+
+Pelety tamsulosinu s řízeným uvolňováním:
+Kopolymer kyseliny methakrylové a ethylakrylátu 1:1 30% disperze
+
+Mikrokrystalická celulóza Dibutyl-sebakát Polysorbát 80
+Hydrát koloidního oxidu křemičitého
+Kalcium-stearát Natrium-lauryl-sulfát
+Černý inkoust:
+Šelak
+Černý oxid železitý (E172)
+Propylenglykol
+Koncentrovaný roztok amoniaku
+Hydroxid draselný
+
+6.2 Inkompatibility
+Neuplatňuje se.
+
+6.3 Doba použitelnosti
+2 roky
+Po prvním otevření lahvičky: má být spotřebována do 90 dnů od otevření.
+
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 30 °C.
+
+6.5 Druh obalu a obsah balení
+Bílé HDPE lahvičky uzavřené bílým polypropylenovým uzávěrem obsahujícím silikagel.
+7 tvrdých tobolek ve 35ml lahvičce; 30 tvrdých tobolek ve 100ml lahvičce; 90 tvrdých tobolek ve 250ml lahvičce.
+Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Dutasterid se vstřebává kůží, a proto je nutno zabránit kontaktu s prosakujícími tobolkami. Dojde-li ke kontaktu s prosakujícími tobolkami, zasaženou oblast je nutno ihned umýt vodou a mýdlem (viz bod 4.4).
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+HEATON k.s.
+Na Pankráci 332/14, 140 00 Praha 4
+Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+87/154/18-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 9. 1. 2020
+Datum posledního prodloužení registrace:
+
+10. DATUM REVIZE TEXTU
+
+1. 4. 2020

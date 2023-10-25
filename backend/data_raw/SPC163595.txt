@@ -1,0 +1,450 @@
+Sp. zn. sukls331977/2019
+a k sp. zn. sukls224713/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+Navirel 10 mg/ml koncentrát pro infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Vinorelbinum (jako tartrát) 10 mg/ml
+Jedna 1ml injekční lahvička obsahuje celkem vinorelbinum 10 mg (jako vinorelbini bitartras). Jedna 5ml injekční lahvička obsahuje celkem vinorelbinum 50 mg (jako vinorelbini bitartras). Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+Koncentrát pro infuzní roztok (sterilní koncentrát). Čirý, bezbarvý až světle žlutý roztok.
+Jednorázové podání.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+•   Jako samostatná látka u pacientů s metastatickým karcinomem prsu (stádium 4), kde léčba chemoterapií obsahující antracyklin a taxan selhala nebo není vhodná.
+
+•   Nemalobuněčný karcinom plic (stádium 3 nebo 4).
+
+4.2  Dávkování a způsob podání
+Dávkování
+
+•   Vinorelbin se obvykle podává v dávce 25–30 mg/m² povrchu těla jednou týdně.
+Při kombinaci s dalšími cytostatiky je nutné převzít přesnou dávku dle léčebného protokolu. Vinorelbin může být podáván jako
+•   pomalý bolus (6–10 minut) po rozředění ve 20–50 ml roztoku chloridu sodného 9 mg/ml
+(0,9 %) pro injekce nebo v 5 % roztoku glukózy pro injekce, nebo
+•   jako krátká infuze (20–30 minut) po rozředění ve 125 ml roztoku chloridu sodného 9 mg/ml (0,9 %) pro injekce nebo v 5% roztoku glukózy pro injekce.
+
+Po podání musí být vždy žíla propláchnuta infuzí minimálně 250 ml roztoku chloridu sodného 9 mg/ml (0,9 %) (viz bod 6.6).
+
+Maximální tolerovaná dávka na jedno podání: 35,4 mg/m² tělesného povrchu.
+
+Maximální celková dávka na jedno podání: 60 mg.
+Modifikace dávky
+Metabolismus a clearance vinorelbinu probíhají převážně v játrech: pouze 18,5 % je vylučováno v nezměněné formě močí. Není k dispozici žádná prospektivní studie srovnávající změněný metabolismus léčivé látky s jejími farmakodynamickými účinky pro stanovení doporučení ke snížení dávky u pacientů s poruchou funkce jater nebo ledvin.
+
+Porucha funkce jater
+U pacientů se středně těžkou až těžkou poruchou funkce jater není farmakokinetika vinorelbinu
+ovlivněna.
+Nicméně u pacientů s těžkou poruchou funkce jater je jako preventivní opatření doporučeno snížení dávky
+na 20 mg/m² a pečlivé sledování hematologických parametrů (viz bod 4.4 a 5.2).
+
+Porucha funkce ledvin
+Vzhledem k minimálnímu vylučování ledvinami není z farmakokinetického hlediska pro snížení dávky vinorelbinu u pacientů s poruchou funkce ledvin žádný důvod.
+
+Starší pacienti
+Klinické zkušenosti nenaznačují výrazné rozdíly u starších pacientů s ohledem na odpověď na léčbu, ačkoli větší citlivost u některých z těchto pacientů nelze vyloučit. Věk farmakokinetiku vinorelbinu neovlivňuje (viz bod 5.2).
+Pediatrická populace
+Bezpečnost a účinnost u dětí nebyla stanovena a podávání se proto nedoporučuje.
+Způsob podání
+Určeno pouze k intravenóznímu podání po vhodném naředění. Intratekální podání vinorelbinu může být smrtelné!
+Opatření, která je nutno učinit před zacházením s léčivým přípravkem nebo před jeho podáním
+Návod k naředění tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+4.3  Kontraindikace
+•   Hypersenzitivita na léčivou látku nebo jiné vinka•alkaloidy nebo na kteroukoli pomocnou látku
+uvedenou v bodě 6.1.
+•   Počet neutrofilů < 1500/mm³ nebo současná či nedávná závažná infekce (během posledních 2 týdnů)
+•   Počet trombocytů nižší než 100 000/mm³
+•   Těžká porucha funkce jater nesouvisející s nádorovým procesem
+•   V kombinaci s vakcínou proti žluté zimnici (viz bod 4.5)
+•   Těhotenství (viz bod 4.6)
+•   Kojení (viz bod 4.6)
+4.4  Zvláštní upozornění a opatření pro použití
+
+Zvláštní upozornění
+•   Vinorelbin se má podávat pod dohledem lékaře se zkušenostmi s chemoterapií.
+
+•   Vinorelbin musí být podáván pouze intravenózně. Intratekální podání je kontraindikováno. Po podání musí být vždy žíla propláchnuta infuzí roztoku chloridu sodného 9 mg/ml (0,9 %).
+
+•   Vinorelbin se musí podávat přesně provedenou intravenózní infuzí: Je velmi důležité zajistit, aby byla kanyla před začátkem infúze vinorelbinu přesně umístěna do žíly. Pokud vinorelbin v průběhu intravenózního podání uniká mimo žílu, může způsobit značné místní podráždění. V tomto případě musí být infuze okamžitě přerušena, žíla důkladně propláchnuta roztokem chloridu sodného 9 mg/ml (0,9 %) a zbytek dávky podán do jiné žíly. V případě extravazace dále zveřejněná data podporují použití léčby hyaluronidázou a suchým teplem. V raných stádiích nekrózy nebo kompartment syndromu, perzistující nebo progredující bolesti nebo při selhání konzervativní léčby se doporučuje konzultace s plastickým chirurgem.
+•   Léčba má být prováděna s pečlivým monitorováním hematologických parametrů (stanovení hladiny hemoglobinu a počtu leukocytů, granulocytů a trombocytů před každou novou injekcí). Hlavním nežádoucím účinkem limitujícím velikost dávky je neutropenie. Účinek není kumulativní. Jeho vrcholu je dosaženo během 7–14 dní po podání léčivého přípravku a je rychle reverzibilní během 5–7 dní. Jestliže je počet neutrofilů < 1500/mm³ a/nebo počet trombocytů pod 100 000/mm³, musí se léčba odložit do zotavení a pacient se musí sledovat. Odložení podávání léčivého přípravku o 1 týden se očekává u přibližně 35 % případů léčby.
+
+•   Pokud pacienti vykazují příznaky naznačující infekci, je nutné ihned provést vyšetření.
+•   U japonské populace byla častěji hlášena intersticiální plicní choroba. U této specifické populace musí být dbáno zvláštní pozornosti.
+
+Zvláštní opatření pro použití
+
+•   V případě významné poruchy funkce jater musí být dávka snížena: je doporučena obezřetnost a
+je nutné pečlivé monitorování hematologických parametrů (viz bod 4.2 a 5.2).
+•   Při poruše funkce ledvin není vzhledem k nízké úrovni renální exkrece nutná úprava dávky (viz bod 4.2 a 5.2).
+
+•   Vinorelbin se nemá podávat současně s radioterapií, pokud terapeutické pole zahrnuje oblast
+jater.
+•   Při podávání silných inhibitorů nebo induktorů CYP3A4 je nutno postupovat opatrně z důvodu
+rizika ovlivnění koncentrace vinorelbinu (viz bod 4.5).
+•   Používání tohoto přípravku v kombinaci s itrakonazolem (jako se všemi vinka•alkaloidy) nebo fenytoinem (jako se všemi cytostatiky) se zpravidla nedoporučuje (viz bod 4.5).
+
+•   Tento přípravek je výslovně kontraindikován s vakcínou proti žluté zimnici a jeho souběžné použití s jinými živými oslabenými vakcínami se nedoporučuje (viz bod 4.5).
+
+•   Aby se zamezilo riziku bronchospasmu, především při kombinované léčbě s mitomycinem C, je třeba zvážit vhodné preventivní opatření. Ambulantní pacienty je nutné poučit, aby v případě dušnosti kontaktovali lékaře.
+•   Zvláštní opatrnost se doporučuje u pacientů s ischemickou chorobu srdeční v anamnéze (viz
+bod 4.8).
+•   Je nutné zamezit jakémukoli kontaktu s očima: existuje zde riziko závažného podráždění a dokonce ulcerace rohovky, pokud se léčivý přípravek do oka vystříkne pod tlakem. V případě jakéhokoli kontaktu oko neprodleně důkladně vypláchněte dostatečným množstvím roztoku chloridu sodného 9 mg/ml (0,9 %).
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Interakce častá pro všechny cytotoxické léčivé přípravky
+
+Vzhledem ke zvýšenému riziku trombózy u pacientů s nádory se u nich často používá antikoagulační léčba. Pokud jsou pacientům podávána antikoagulancia, musí být vzhledem k vysoké variabilitě koagulace mezi jednotlivci v průběhu onemocnění a možností interakce mezi perorálními antikoagulancii a protinádorovou chemoterapií zvýšena frekvence sledování INR (mezinárodní normalizovaný poměr – International Normalised Ratio).
+
+Nedoporučované souběžné použití
+Vzhledem k riziku vzniku systémového, potenciálně smrtelného onemocnění se současné podávání živých oslabených vakcín a tohoto přípravku obecně nedoporučuje. Toto riziko se zvyšuje u pacientů s imunitou již oslabenou jejich základním onemocněním. Doporučuje se používání inaktivované vakcíny, pokud existuje (poliomyelitida) (viz bod 4.4).
+Kontraindikované souběžné použití
+Souběžné užívání vakcíny proti žluté zimnici je kontraindikováno (viz bod 4.3).
+Fenytoin: Existuje zde riziko exacerbace křečí v důsledku snížení gastrointestinální absorpce fenytoinu způsobeného cytotoxickým léčivým přípravkem nebo riziko zvýšení toxicity nebo snížení účinnosti cytotoxického léčivého přípravku vzhledem ke zvýšenému metabolismu fenytoinu v játrech.
+
+Souběžné použití, které je třeba zohlednit
+Cyklosporin, takrolimus: Je potřeba vzít v úvahu možnou nadměrnou imunosupresi s rizikem
+lymfoproliferace.
+Interakce specifické pro vinka-alkaloidy
+Nedoporučované souběžné použití
+Souběžné podávání itrakonazolu se nedoporučuje vzhledem k riziku zvýšení neurotoxicky způsobené snížením metabolismu v játrech.
+
+Souběžné použití, které je třeba zohlednit
+Souběžné používání vinko-alkaloidů a mitomycinu C zvyšuje riziko bronchospazmatu a dyspnoe. Ve vzácných případech, zejména v kombinaci s mitomycinem, byly zaznamenány případy intersticiální pneumonitidy.
+
+Vinorelbin je substrátem pro P-glykoprotein a souběžná léčba s jinými léčivými přípravky, které inhibují (například verapamil, cyklosporin, chinidin) nebo indukují tento transportní protein, může mít vliv na koncentraci vinorelbinu.
+
+Interakce specifické pro vinorelbin
+Kombinace vinorelbinu s jinými léčivými přípravky se známou toxicitou pro kostní dřeň pravděpodobně zhorší myelosupresivní nežádoucí účinky.
+Vzhledem k tomu, že CYP3A4 je hlavně zapojený do metabolismu vinorelbinu, může kombinace se silnými inhibitory tohoto izoenzymu (např. itrakonazol, ketokonazol, klarithromycin, erythromycin a ritonavir) zvýšit koncentrace vinorelbinu v krvi a kombinace se silnými induktory tohoto izoenzymu (např. rifampicin, fenytoin, fenobarbital, karbamazepin a třezalka tečkovaná) může snížit koncentrace vinorelbinu v krvi.
+
+Kombinace vinorelbinu s cisplatinou (velmi běžná kombinace) farmakokinetické parametry neovlivňuje. U kombinace vinorelbinu a cisplatiny byl však zaznamenán vyšší výskyt granulocytopenie, než u léčby samotným vinorelbinem.
+
+V jedné klinické studii fáze I byl při spojení intravenózního podávání vinorelbinu a lapatinibu zjištěn zvýšený výskyt neutropenie stupně 3/4. V této studii byla při 3týdenním režimu doporučená dávka intravenózně podaného vinorelbinu v den 1 a den 8 22,5 mg/m² při kombinaci s denní dávkou lapanitibu 1000 mg. Tento typ kombinace musí být podáván s opatrností.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání vinorelbinu těhotným ženám jsou omezené nebo nejsou k dispozici. Studie na zvířatech prokázaly embryotoxicitu a teratogenitu (viz bod 5.3). Výsledky studií na zvířatech a farmakologické účinky vinorelbinu naznačují, že tento léčivý přípravek podávaný během těhotenství by mohl způsobit vrozené vady.
+Navirel je v těhotenství kontraindikován (viz bod 4.3). Ženy nesmí během léčby vinorelbinem otěhotnět.
+V případě životně důležité indikace léčby u těhotné pacientky je nutno provést lékařskou konzultaci ohledně rizika škodlivých účinků pro dítě.
+Pokud dojde k otěhotnění během léčby, má se také zvážit poskytnutí genetického poradenství.
+Ženy ve fertilním věku
+Ženy ve fertilním věku musí používat účinnou antikoncepci během léčby a až tři měsíce po ukončení
+terapie a musí informovat svého lékaře, pokud otěhotní.
+Kojení
+Není známo, zda se vinorelbin vylučuje do lidského mateřského mléka. Vylučování vinorelbinu do mateřského mléka nebylo ve studiích na zvířatech hodnoceno. Riziko pro novorozence/kojence nelze vyloučit. Podávání přípravku Navirel je během kojení kontraindikováno (viz bod 4.3). Kojení musí být před zahájením léčby vinorelbinem přerušeno (viz bod 4.3).
+Fertilita
+Muži, kteří podstoupí léčbu vinorelbinem, by v průběhu léčby a během šesti měsíců po jejím ukončení neměli zplodit dítě. Vzhledem k riziku nevratné neplodnosti v důsledku léčby vinorelbinem se před léčbou mají poradit o možnosti uchování spermatu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Nebyly provedeny žádné studie vlivu na schopnost řídit a obsluhovat stroje, ale na základě farmakodynamického profilu přípravek Navirel nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje. Je však třeba opatrnosti u pacientů léčených vinorelbinem při zohlednění některých nežádoucích reakcí léčivého přípravku.
+
+4.8  Nežádoucí účinky
+Nejčastěji hlášené nežádoucí lékové reakce jsou útlum kostní dřeně s neutropenií, anémií, neurologické poruchy a gastrointestinální toxicita s nauzeou, zvracením, stomatitidou a zácpou, přechodné zvýšení jaterních testů, alopecie a lokální flebitida.
+Při kombinaci chemoterapie vinorelbinem s jinými protinádorovými léčivými přípravky je třeba zvážit, že uvedené nežádoucí účinky se mohou objevit častěji a mohou být závažnější, než nežádoucí účinky pozorované během a po monoterapii. Navíc je třeba zvážit další specifické nežádoucí účinky jiných léčivých přípravků.
+
+Tabulka nežádoucích reakcí
+Nežádoucí účinky hlášené ve více případech, jsou uvedeny dále dle třídy orgánových systémů a četnosti. Četnosti jsou definovány takto:
+Velmi časté (≥ 1/10);
+Časté (≥ 1/100 až < 1/10);
+Méně časté (≥ 1/1 000 až < 1/100);
+
+Vzácné (≥ 1/10 000 až < 1/1 000); Velmi vzácné (< 1/10 000).
+Další nežádoucí reakce na základě zkušeností po uvedení na trh byly přidány dle klasifikace MedDRA
+s frekvencí: není známo (z dostupných údajů nelze určit).
+Podrobné informace o nežádoucích reakcích: Reakce byly popsány pomocí klasifikace dle WHO (stupeň 1 = G1; stupeň 2 = G2; stupeň 3 = G3; stupeň 4 = G4; stupeň 1-4 = G1-4); stupeň 1-2 = G1-2; stupeň 3-4 = G3-4).
+
+
+Infekce a infestace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy krve a lymfatického systému
+
+
+
+
+
+
+
+
+
+
+Poruchy imunitního systému
+
+
+
+
+
+Endokrinní poruchy
+
+
+Poruchy metabolismu a výživy
+Časté
+Bakteriální infekce, virové nebo mykotické infekce v různých místech (respirační, močové, GI trakt), mírné až středně těžké a obvykle reverzibilní s odpovídající léčbou.
+Méně časté
+Těžká sepse se selháním dalších orgánů, septikémie.
+Velmi vzácné
+Komplikovaná septikémie, fatální septikémie.
+
+Není známo
+Neutropenická sepse (s potenciálně fatální u 1,2 % případů).
+Velmi časté
+Útlum kostní dřeně způsobující hlavně neutropenii (G3: 24,3 % a G4: 27,8 % v monoterapii) reverzibilní během 5 až 7 dnů a bez kumulace v čase, anémie (G3-4: 7,4 % v monoterapii).
+
+Časté
+Trombocytopenie (G3-4: 2,5 %) se může objevit, ale je vzácně závažná.
+
+Není známo
+Febrilní neutropenie, pancytopenie. Časté
+Alergické reakce (kožní reakce, respirační reakce).
+Není známo
+Systémové alergické reakce (anafylaktická reakce nebo šok, anafylaktoidní reakce, angioedém).
+Není známo
+Nepřiměřená sekrece antidiuretického hormonu
+(SIADH).
+Vzácné
+Závažná hyponatremie.
+
+Není známo
+Anorexie
+
+Poruchy nervového systému
+
+
+
+
+
+
+
+
+
+
+
+
+Srdeční poruchy
+
+
+
+
+
+
+Cévní poruchy
+
+
+
+
+Respirační, hrudní a mediastinální
+poruchy
+
+
+
+
+
+
+
+
+Gastrointestinální poruchy
+Velmi časté
+Neurologické poruchy (G3: 2,6 %; G4: 0,1 %) zahrnující ztrátu šlachově-okosticových reflexů. Slabost dolních končetin byla hlášena po delší chemoterapii.
+
+Méně časté
+Těžké parestezie se senzorickými a motorickými příznaky.
+Tyto účinky jsou obecně reverzibilní. Velmi vzácné
+Syndrom Guillain-Barre.
+Vzácné
+Ischemická choroba srdeční jako je angina pectoris, přechodné změny elektrokardiogramu, infarkt myokardu, někdy fatální.
+
+Velmi vzácné
+Tachykardie, palpitace a poruchy srdečního rytmu. Méně časté
+Hypotenze, hypertenze, zrudnutí a chladné končetiny.
+Vzácné
+Těžká hypotenze, kolaps. Méně časté
+Dušnost a bronchospasmus se mohou objevit v souvislosti s léčbou vinorelbinem, podobně jako u jiných vinka-alkaloidů.
+Vzácné
+Byla hlášena intersticiální plicní nemoc, někdy fatální.
+
+Velmi vzácné
+Dechová nedostatečnost. Velmi časté
+Hlavní příznak je zácpa (G 3-4: 2,7 %), která vzácně progreduje do paralytického ileu při podávání vinorelbinu jako samostatného léčivého přípravku (G3-4: 4,1 %) a v kombinaci s vinorelbinem a jinými chemoterapeutickými léčivými přípravky. Nauzea a zvracení (G1-2: 30,4 %, G3-4: 2,2 % v monoterapii; antiemetická terapie může snižovat jejich výskyt), stomatitida (G1-4: 15 % v monoterapii), esofagitida.
+Časté
+Průjem (obvykle mírný až středně těžký).
+Vzácné
+Paralytický ileus. Léčba se může obnovit po obnovení normální motility střev. Pankrestitis.
+
+Poruchy jater a žlučových cest
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně Poruchy ledvin a močových cest
+
+Celkové poruchy a reakce v místě
+aplikace
+Velmi časté
+Bylo hlášeno přechodné zvýšení jaterních testů (G1-2) bez klinických příznaků (zvýšení celkového bilirubinu, zvýšení alkalické fosfatázy, zvýšení aspartát aminotransferázy v 27,6 %, zvýšení alanin aminotransferázy v 29,3 %).
+Velmi časté
+Alopecie, obvykle mírného charakteru (G3-4: 4,1 % v monoterapii).
+Vzácné
+Generalizované kožní reakce.
+Není známo:
+Syndrom palmoplantární erytrodysestézie. Časté
+Myalgie, artralgie, bolest čelisti. Časté
+Zvýšení kreatininu. Velmi časté
+Astenie, únava, horečka, bolest v různých místech zahrnujících bolesti na hrudi a bolesti v místě nádorů. Reakce v místě injekce mohou zahrnovat erytém, pálivou bolest, změnu barvy žíly a místní flebitis (G3-4: 3,7 % s vinorelbinem jako samostatným chemoterapeutickým přípravkem).
+Vzácné
+Nekróza v místě injekce (správné umístění intravenózní jehly nebo katétru a bolusová injekce následovaná libovolným proplachem žíly mohou tyto účinky omezit).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+U člověka byly hlášeny příhody akutního předávkování: Tyto případy mohou vyústit v hypoplazii kostní dřeně a jsou někdy spojeny s infekcí, horečkou a paralytickým ileem. Podpůrná léčba zahrnující krevní transfúze, růstové faktory nebo širokospektrá antibiotika se obvykle řídí rozhodnutím lékaře.
+Neexistuje žádné specifické antidotum.
+Vzhledem k tomu, že neexistuje specifické antidotum pro intravenózní předávkování vinorelbinem, je
+v případě předávkování nutná symptomatická léčba, např.
+•   Průběžná kontrola základních životních funkcí a pečlivé monitorování pacienta.
+•   Denní kontroly krevního obrazu pro sledování potřeby krevní transfúze, růstových faktorů, a pro detekci potřeby intenzívní péče a pro minimalizaci rizika infekcí.
+•   Opatření k zabránění vzniku nebo k léčbě paralytického ileu.
+•   Kontrola krevního oběhu a funkce jater.
+
+•   V případě komplikací v důsledku infekcí mohou být nutná širokospektrá antibiotika. Při paralytickém ileu může být nutná dekomprese pomocí sondy.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: protinádorové a imunomodulační přípravky, vinka-alkaloidy ATC kód: L 01 CA 04
+
+Vinorelbin je antineoplasticky působící léčivá látka ze skupiny vinka-alkaloidů, ale na rozdíl od všech ostatních vinka-alkaloidů podlehla katarantinová část vinorelbinu strukturální modifikaci. To na molekulární úrovni ovlivňuje dynamickou rovnováhu tubulinu v mikrotubulárním systému buňky.
+
+Mechanismus účinku
+Vinorelbin inhibuje polymerizaci tubulinu a váže se přednostně na mitotické mikrotubuly a ovlivňuje pouze mikrotubuly axonů ve vysokých koncentracích. Spiralizaci tubulinu indukuje v menším rozsahu než s vinkristinem. Vinorelbin blokuje mitózu ve fázi G2-M, a způsobuje tak buněčnou smrt v interfázi nebo v následující mitóze.
+
+Pediatrická populace
+Bezpečnost a účinnost vinorelbinu u dětí dosud nebyla stanovena. Klinické údaje ze dvou jednoramenných studií fáze II používajících intravenózně podávaný vinorelbin u 33 a 46 pediatrických pacientů s recidivujícími solidními nádory včetně rabdomyosarkomu, jiných sarkomů měkkých tkání, Ewingova sarkomu, liposarkomu, synoviálního sarkomu, fibrosarkomu, karcinomu centrálního nervového systému, osteosarkomu a neuroblastomu při dávkách 30 až 33,75 mg/m² v D1 a D8 každé 3 týdny nebo jednou týdně po dobu 6 týdnů každých 8 týdnů neprokázaly žádnou významnou klinickou aktivitu. Profil toxicity byl obdobný tomu, který byl hlášený u dospělých pacientů. (viz bod 4.2).
+
+5.2  Farmakokinetické vlastnosti
+Distribuce
+Léčivá látka je široce distribuovaná v těle s distribučním objemem v rozmezí 25,4 – 40,1 l/kg. Ve studii, jejíž součástí byla chirurgická biopsie, bylo zaznamenáno významné pronikání vinorelbinu do plicní tkáně; poměr koncentrace látky ve tkáni/plazmě přesahoval hodnotu 300. Vinorelbin se mírně váže na plazmatické proteiny (13,5 %), ale silně na trombocyty (78 %). Pro intravenózně podávaný vinorelbin až do dávky 45 mg/m² byla prokázána lineární farmakokinetika.
+
+Biotransformace
+Vinorelbin je primárně metabolizován CYP3A4 subjednotkou cytochromu P450. Byly identifikovány všechny metabolity a kromě 4-O-deacetylvinorelbinu, který je hlavním metabolitem v krvi, nejsou žádné z těchto identifikovaných metabolitů aktivní.
+
+Eliminace
+Po intravenózní bolusové injekci nebo infuzi u pacientů je plazmatická koncentrace vinorelbinu charakterizována tříexponenciální eliminační křivkou. Terminální eliminační fáze odráží dlouhý biologický poločas, který je větší než 40 hodin. Celková clearance vinorelbinu je vysoká (0,97– 1,26 l/h/kg).
+Renální eliminace je nízká (< 20 % dávky). U člověka byly nalezeny nízké koncentrace deacetylvinorelbinu, vinorelbin je však převážně nalezen v moči v nezměněné formě. Eliminace léčivé látky probíhá hlavně biliární cestou, jak pro metabolity, tak především pro nezměněný vinorelbin.
+
+Účinek dysfunkce ledvin na distribuci vinorelbinu nebyl studován, nicméně snížení dávky není na základě sníženého vylučování ledvinami u selhání ledvin indikováno. U pacientů s jaterními metastázami došlo ke změnám v průměrné clearance vinorelbinu pouze při postižení jater nad 75 %. U šesti pacientů s nádorovým onemocněním a se středně těžkou dysfunkcí jater (bilirubin ≤ 2 x horní hranice normy [HHN] a aminotransferázy ≤ 5 x HHN) léčených dávkou až 25 mg/m² a u osmi pacientů s nádorovým onemocněním a se závažnou dysfunkcí jater (bilirubin > 2 x HHN a/nebo aminotransferázy > 5 x HHN) léčených dávkou až 20 mg/m² korespondovala průměrná celková clearance ve dvou dílčích skupinách s hodnotou u pacientů s normální jaterní funkcí. Tyto údaje však nemusí platit pro pacienty se sníženou kapacitou eliminovat léčivou látku prostřednictvím jater, a proto je u pacientů s těžkou poruchou funkce jater doporučována opatrnost a je nutné pečlivé sledování hematologických parametrů (viz bod 4.2 a 4.4).
+
+Starší pacienti
+Studie vinorelbinu u starších pacientů (≥ 70 let) s nemalobuněčným karcinomem plic, provedená inovátorem, prokázala, že farmakokinetika vinorelbinu není ovlivněna věkem. Nicméně vzhledem
+k tomu, že starší pacienti jsou slabí, je nutno při zvyšování dávky vinorelbinu postupovat opatrně (viz
+bod 4.2).
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Limitující toxicitou u zvířat je útlum kostní dřeně. Ve studiích na zvířatech indukoval vinorelbin
+aneuploidii a polyploidii.
+Předpokládá se, že vinorelbin může mít také genotoxické účinky u člověka (indukce aneuploidie a
+polyploidie).
+Výsledky studií sledujících karcinogenní potenciál u myší a laboratorních potkanů byly negativní, byly však hodnoceny pouze nízké dávky.
+V reprodukčních studiích byly u zvířat pozorovány účinky při subterapeutických dávkách. Byly pozorovány embryotoxické a fetotoxické účinky, jako je retardace intrauterinního vývoje a zpoždění osifikace. Teratogenní účinky (srůst obratlů, chybějící žebra) byly pozorovány při dávkách toxických pro matku. Kromě toho došlo ke snížení spermatogeneze a sekrece prostaty a semenných váčků, ale fertilita u potkanů snížena nebyla.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Voda pro injekci
+
+6.2  Inkompatibility
+•   Navirel 10 mg/ml koncentrát pro infuzní roztok se nemá ředit alkalickými roztoky (riziko
+precipitace).
+•   Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 6.6.
+6.3  Doba použitelnosti
+
+V neotevřeném obalu: 3 roky.
+Po otevření a rozředění:
+Přípravek je nutno po otevření a rozředění použít okamžitě. Pouze k jednorázovému použití. Chemická a fyzikální stabilita při použití byla prokázána po 24 hodinách při teplotě 2–8 ºC a 25 ºC.
+
+Z mikrobiologického hlediska se má přípravek použít ihned. Pokud není spotřebován ihned, jsou obvyklé skladovací časy při použití a podmínky před použitím zodpovědností uživatele a normálně nemají být delší než 24 hodin při teplotě od 2–8 ºC, pokud bylo otevření a ředění prováděno za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 ºC–8 ºC). Chraňte před mrazem.
+
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho naředění jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+Skleněná injekční lahvička typu I s fluoropolymerem potaženými bromobutylovými gumovými uzávěry a hliníkovou krytkou.
+
+Velikost balení: 1 ml nebo 5 ml koncentrát v balení po 1 nebo 10 injekčních lahvičkách. Dodáván také a ve vícečetných baleních po 10 baleních, přičemž každé obsahuje 1 injekční lahvičku.
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Přípravu a podávání vinorelbinu má provádět pouze školený personál. Je třeba nosit vhodné ochranné brýle, jednorázové rukavice, obličejovou masku a jednorázový oděv. Rozlitý a uniklý přípravek je nutné otřít.
+Je nutné zamezit jakémukoli kontaktu s očima. Pokud se dostane roztok do styku s očima, je nutné je okamžitě vypláchnout dostatečným množstvím roztoku chloridu sodného 9 mg/ml (0,9 %).
+
+Po přípravě je nutné jakýkoliv exponovaný povrch očistit a omýt ruce a tvář.
+Neexistuje inkompatibilita mezi obsahem a nádobou na Navirel 10 mg/ml koncentrát pro infuzní roztok a neutrální skleněnou lahvičkou, PVC sáčkem, vinylacetátovým sáčkem nebo infuzním setem s PVC hadičkami.
+
+Doporučuje se podávat vinorelbin
+•    jako infuze během 6–10 minut po rozředění ve 20–50 ml roztoku chloridu sodného o
+koncentraci 9 mg/ml (0,9 %) pro injekce nebo v 5% roztoku glukózy pro injekce, nebo
+•    jako krátká infuze (20–30 minut) po rozředění ve 125 ml roztoku chloridu sodného o
+koncentraci 9 mg/ml (0,9 %) pro injekce nebo v 5% roztoku glukózy pro injekce.
+Po podání je nutné žílu propláchnout důkladně alespoň 250 ml roztoku chloridu sodného 9 mg/ml (0,9 %).
+Vinorelbin se musí podávat přísně intravenózně: Je velmi důležité zajistit, aby byla kanyla před začátkem infúze vinorelbinu přesně umístěna do žíly. Pokud dojde k extravazaci léčivého přípravku do okolní tkáně během podávání, může vzniknout výrazné podráždění. V takovém případě je třeba podávání zastavit, žílu propláchnout roztokem chloridu sodného 9 mg/ml (0,9 %) a zbývající dávku podat do jiné žíly.
+V případě extravazace dále zveřejněná data podporují použití léčby hyaluronidázou a suchým teplem. V raných stádiích nekrózy nebo kompartment syndromu, perzistující nebo progredující bolesti nebo při selhání konzervativní léčby se doporučuje konzultace s plastickým chirurgem.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+medac
+Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6
+22880 Wedel
+Německo
+Tel.: +49 4103 8006-0
+Fax: +49 4103 8006-100
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+44/603/05-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 28. 12. 2005
+Datum posledního prodloužení registrace: 26. 2. 2010
+
+10.  DATUM REVIZE TEXTU
+
+15. 8. 2020

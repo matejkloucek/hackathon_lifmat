@@ -1,0 +1,901 @@
+Sp.zn. sukls19621/2019, sukls19632/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Solifenacin Accord 5 mg potahované tablety Solifenacin Accord 10 mg potahované tablety
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Solifenacin Accord 5 mg potahované tablety: jedna potahovaná tableta obsahuje solifenacini succinas 5 mg, což odpovídá solifenacinum 3,8 mg.
+
+Solifenacin Accord 10 mg potahované tablety: jedna potahovaná tableta obsahuje solifenacini succinas 10 mg, což odpovídá solifenacinum 7,5 mg.
+Pomocná látka se známým účinkem: monohydrát laktosy 105,5/100,5 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Potahované tablety
+Potahovaná tableta Solifenacin Accord 5 mg: světle žlutá, kulatá, o průměru 7,1 mm, bikonvexní potahovaná tableta, na jedné straně s vyraženým „EG“ a „1“ na straně druhé.
+
+Potahovaná tableta Solifenacin Accord 10 mg: světle růžová, kulatá, o průměru 7,1 mm, bikonvexní potahovaná tableta, na jedné straně s vyraženým „EG“ a „2“ na straně druhé.
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Symptomatická léčba urgentní inkontinence a/nebo zvýšené frekvence močení a naléhavosti močení, které se mohou vyskytnout u pacientů se syndromem hyperaktivního močového měchýře.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dospělí, včetně starších pacientů
+Doporučená dávka je 5 mg solifenacin-sukcinátu jednou denně. V případě potřeby je možno dávku zvýšit na 10 mg solifenacin-sukcinátu jednou denně.
+
+Speciální populace:
+
+Starší pacienti
+Úprava dávkování není nutná u starších pacientů.
+
+
+
+
+1
+
+Pacienti s poruchou funkce ledvin
+U pacientů s mírnou až středně těžkou poruchou funkce ledvin (clearance kreatininu > 30 ml/min)
+není úprava dávky nutná. Pacienti s těžkou poruchou funkce ledvin (clearance kreatininu ≤ 30 ml/min)
+mají být léčeni s opatrností a dávkou ne vyšší než 5 mg jednou denně (viz bod 5.2).
+Pacienti s poruchou funkce jater
+U pacientů s mírnou poruchou funkce jater není úprava dávky nutná. Pacienti se středně těžkou poruchou funkce jater (Child-Pugh skóre 7 až 9) mají být léčeni s opatrností a dávkou ne vyšší než 5 mg jednou denně (viz bod 5.2).
+Silné inhibitory cytochromu P450 3A4
+Pokud je Solifenacin Accord podáván současně s ketokonazolem nebo jinými silnými inhibitory CYP3A4, jako jsou např. ritonavir, nelfinavir nebo itrakonazol v terapeutických dávkách, nemá maximální denní dávka přesáhnout 5 mg (viz bod 4.5).
+
+Pediatrická populace
+Bezpečnost a účinnost přípravku Solifenacin Accord u dětí a dospívajících do 18ti let nebyla dosud
+stanovena. Proto nemá být Solifenacin Accord dětem a dospívajícím podáván.
+
+Způsob podání
+
+Solifenacin Accord se má užívat perorálně, tableta se má spolknout vcelku a zapít tekutinou. Může se užívat s jídlem i nalačno.
+4.3  Kontraindikace
+
+-  Pacienti s hypersenzitivitou na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě
+6.1.
+-  Solifenacin je kontraindikován u pacientů s močovou retencí, závažnými gastrointestinálními poruchami (včetně toxického megakolon), myasthenia gravis nebo glaukomem s úzkým úhlem a u pacientů, u kterých existuje riziko vzniku těchto stavů.
+-  Pacienti léčeni hemodialýzou (viz bod 5.2.).
+-  Pacienti s těžkou poruchou funkce jater (viz bod 5.2.).
+-  Pacienti s těžkou poruchou funkce ledvin nebo středně těžkou poruchou funkce jater, kteří jsou léčeni silným inhibitorem CYP3A4, např. ketokonazolem (viz bod 4.5).
+4.4  Zvláštní upozornění a opatření pro použití
+
+Před léčbou přípravkem Solifenacin Accord je třeba zvážit jiné možné příčiny častého močení (srdeční selhání nebo onemocnění ledvin). Pokud je přítomna močová infekce, je třeba zahájit příslušnou
+antibakteriální léčbu.
+
+Solifenacin Accord má být podáván s opatrností pacientům s:
+-  klinicky významnou obstrukcí močových cest s rizikem vzniku retence moči.
+-  poruchami gastrointestinálního traktu obstrukčního typu.
+-  rizikem snížené motility gastrointestinálního traktu.
+-  těžkou poruchou funkce ledvin (clearance kreatininu ≤ 30 ml/min; viz bod 4.2 a 5.2), dávky u těchto pacientů nemají překročit 5 mg.
+-  středně těžkou poruchou funkce jater (Child-Pugh skóre 7 až 9; viz bod 4.2 a 5.2), dávky u těchto pacientů nemají překročit 5 mg.
+-  současnou léčbou silným inhibitorem CYP3A4, např. ketokonazolem (viz bod 4.2 a 4.5).
+-  hiátovou hernií/gastroesofageálním refluxem a/nebo současnou terapií léčivy, která mohou vyvolat
+nebo zhoršit esofagitidu (jako jsou bisfosfonáty).
+-  vegetativní neuropatií.
+
+
+2
+
+Prodloužení QT intervalu a Torsade de Pointes bylo pozorováno u pacientů s rizikovými faktory, jako je již existující syndrom dlouhého QT intervalu a hypokalemie.
+
+U pacientů s neurogenními příčinami zvýšené aktivity detrusoru zatím nebyla stanovena bezpečnost a účinnost.
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, vrozeným deficitem laktázy nebo
+malabsorpcí glukózy a galaktózy by tento přípravek neměli užívat.
+
+Angiodém s obstrukcí dýchacích cest byl hlášen u některých pacientů užívajících solifenacin-sukcinát.
+Při výskytu angioedému má být léčba přípravkem Solifenacin Accord ukončena a má být zahájena vhodná léčba a/nebo přijata vhodná opatření.
+
+Anafylaktická reakce byla hlášena u některých pacientů léčených solifenacin-sukcinátem. U pacientů, u kterých dojde k rozvoji anafylaktické reakci, má být léčba solifenacin-sukcinátem ukončena a má být zahájena vhodná léčba a/nebo přijata vhodná opatření.
+Maximálního účinku přípravku Solifenacin Accord lze dosáhnout nejdříve po 4 týdnech léčby.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Farmakologické interakce
+Současné podávání s jinými léčivými přípravky s anticholinergními účinky může mít za následek výraznější léčebný účinek i nežádoucí účinky. Mezi ukončením léčby přípravkem Solifenacin Accord a zahájením jiné anticholinergní terapie je třeba přestávka přibližně 1 týden. Léčebný účinek
+solifenacinu může být snížen současným podáváním agonistů cholinergních receptorů.
+Solifenacin může snižovat účinek léčiv, která stimulují motilitu gastrointestinálního traktu, jako jsou
+metoklopramid a cisaprid.
+
+Farmakokinetické interakce
+In vitro studie prokázaly, že v terapeutických koncentracích solifenacin neinhibuje CYP1A1/2, 2C9, 2C19, 2D6 nebo 3A4 z lidských jaterních mikrosomů. Solifenacin tedy pravděpodobně neovlivňuje clearance léčiv metabolizovaných těmito enzymy CYP.
+
+Účinky jiných léčivých přípravků na farmakokinetiku solifenacinu
+Solifenacin je metabolizován CYP3A4. Současné podávání ketokonazolu (200 mg denně), silného inhibitoru CYP3A4, má za následek dvojnásobné zvýšení AUC solifenacinu, zatímco podávání
+ketakonazolu v dávce 400 mg denně vede k trojnásobnému zvýšení AUC solifenacinu. Pokud je tedy Solifenacin Accord podáván současně s ketokonazolem nebo jinými silnými inhibitory CYP3A4 (např. ritonavir, nelfinavir, itrakonazol) v terapeutických dávkách, má být jeho maximální dávka omezena na 5 mg (viz bod 4.2).
+
+Současná léčba solifenacinem a silným inhibitorem CYP3A4 je kontraindikována u pacientů s těžkou poruchou funkce ledvin nebo se středně těžkou poruchou funkce jater.
+
+Účinky indukce enzymů na farmakokinetiku solifenacinu a jeho metabolitů nebyly studovány, stejně jako vliv substrátů s vyšší afinitou k CYP3A4 na expozici solifenacinu. Vzhledem k tomu, že
+solifenacin je metabolizován CYP3A4, jsou možné farmakokinetické interakce s jinými substráty s vyšší afinitou k CYP3A4 (např. verapamil, diltiazem) a s induktory CYP3A4 (např. rifampicin, fenytoin, karbamazepin).
+
+
+
+
+
+3
+
+Účinek solifenacinu na farmakokinetiku jiných léčivých přípravků
+
+Orální kontraceptiva
+Solifenacin nevykazuje žádnou farmakokinetickou interakci s kombinovanými orálními kontraceptivy
+(ethinylestradiol/levonorgestrel).
+
+Warfarin
+Solifenacin nemění farmakokinetiku R-warfarinu nebo S-warfarinu nebo jejich účinek na protrombinový čas.
+Digoxin
+Solifenacin nemá žádný vliv na farmakokinetiku digoxinu.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Nejsou k dispozici žádné klinické údaje o ženách, které otěhotněly během užívání solifenacinu. Studie na zvířatech nenaznačují přímé škodlivé účinky na fertilitu, embryonální a fetální vývoj nebo porod (viz bod 5.3).
+Míra potenciálního rizika pro člověka není známá. Při předepisování těhotným ženám je třeba postupovat opatrně.
+Kojení
+Nejsou k dispozici žádné údaje o vylučování solifenacinu do mateřského mléka. U myší jsou
+solifenacin a/nebo jeho metabolity vylučovány do mléka a v závislosti na dávce způsobují špatné prospívání novorozených mláďat (viz bod 5.3). Během kojení je tedy třeba se užívání solifenacin- sukcinátu vyhnout.
+
+Fertilita
+Data o účincích na fertilitu nejsou k dispozici.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Vzhledem k tomu, že solifenacin může stejně jako ostatní anticholinergika způsobit rozmazané vidění a méně často i ospalost a únavu (viz bod 4.8 Nežádoucí účinky), může být schopnost řídit a obsluhovat stroje negativně ovlivněna.
+
+4.8  Nežádoucí účinky
+Souhrnný bezpečnostní profil
+Vzhledem k farmakologickému účinku solifenacinu může Solifenacin Accord způsobit anticholinergní nežádoucí účinky, které jsou (obecně) mírné až střední intenzity. Četnost výskytu anticholinergních
+nežádoucích účinků závisí na dávce.
+Nejčastěji hlášeným nežádoucím účinkem u solifenacinu bylo sucho v ústech. Objevilo se u 11 %
+pacientů léčených dávkou 5 mg jednou denně, u 22 % pacientů léčených 10 mg jednou denně a u 4 % pacientů na placebu. Intenzita tohoto účinku byla obecně nízká a jen příležitostně vedla k přerušení
+léčby. Celkově byla compliance u tohoto přípravku velmi vysoká (přibližně 99%) a přibližně 90 % pacientů léčených solifenacinem dokončilo celou studii trvající 12 týdnů.
+
+
+
+
+
+
+
+4
+
+Tabulka shrnující nežádoucí účinky
+
+
+Třída orgánových systémů podle databáze MedDRA
+
+Infekce a infestace
+
+
+Poruchy imunitního systému Poruchy metabolismu a výživy
+Psychiatrické
+poruchy
+
+
+Poruchy
+nervového systému Poruchy oka
+
+
+Srdeční
+poruchy
+
+
+
+
+
+
+
+
+Respirační, hrudní a
+mediastinální poruchy Gastrointestiná ln
+í poruchy
+
+
+
+Poruchy jater a
+žlučových cest
+
+
+
+Poruchy kůže a
+Velmi
+časté
+≥ 1/1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sucho v
+ústech
+Časté
+≥ 1/100 až
+< 1/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rozmazan
+é
+vidění
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+zácpa, nevolnost, dyspepsie
+,
+bolest
+břicha
+Méně časté
+≥ 1/1000 až
+< 1/100
+
+
+
+infekce močových cest, cystitis
+
+
+
+
+
+
+
+
+
+
+somnolence, dysgeuzie
+
+syndrom
+suchého oka
+
+
+
+
+
+
+
+
+
+
+
+sucho v nose
+
+
+
+choroby spojené s gastroesofageá lním refluxem, sucho v krku
+
+
+
+
+
+
+suchá kůže
+Vzácné
+≥ 1/10000
+až
+< 1/1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+závratě*, bolest hlavy*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+obstrukce
+tlustého střeva, fekální impakce,
+zvracení*
+
+
+
+
+
+pruritus*,
+Velmi
+vzácné
+< 1/10000
+
+
+
+
+
+
+
+
+
+
+
+
+halucinac e*
+stavy zmatení
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+erythema
+Není známo (frekvenci nelze z
+dostupných údajů
+určit)
+
+
+
+
+anafylaktická
+reakce*
+
+snížená chuť k jídlu*
+hyperkalémie*
+Delirium*
+
+
+
+
+
+
+glaukom*
+
+
+torsade de pointes*
+prodloužení QT intervalu na elektrokardiogra m
+u*
+fibrilace síní* palpitace* tachykardie* dysfonie*
+
+
+
+ileus*
+břišní
+diskomfort*
+
+
+
+jaterní porucha* abnormální hodnoty
+jaterních testů* exfoliativní
+
+5
+
+podkožní tkáně
+
+
+
+
+
+
+Poruchy
+svalové
+a kosterní
+soustavy a
+pojivové tkáně Poruchy ledvin a
+močových cest Celkové poruchy
+a reakce v místě
+aplikace
+* pozorováno po uvedení na trh.
+
+
+
+
+
+
+
+
+
+
+
+
+obtížné močení
+
+únava, periferní otoky
+vyrážka*
+
+
+
+
+
+
+
+
+
+
+
+retence
+moči
+multifor me
+*
+kopřivka
+*
+angioedé
+m*
+dermatitida*
+
+
+
+
+
+
+svalová slabost*
+
+
+
+
+porucha funkce ledvin*
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+[*For the printed material, please refer to the guidance of the annotated QRD template.]
+
+4.9  Předávkování
+
+Příznaky
+Předávkování solifenacin-sukcinátem může mít za následek vážné anticholinergní účinky. Nejvyšší dávka solifenacin-sukcinátu podaná náhodně jednomu pacientovi ve výši 280 mg během 5 hodin vedla k psychickým změnám nevyžadujícím hospitalizaci.
+
+Léčba
+V případě předávkování solifenacin-sukcinátem má být pacient léčen aktivním uhlím. Výplach žaludku je užitečný, pokud se provede do jedné hodiny, ale nemá se vyvolávat zvracení.
+Stejně jako u ostatních anticholinergik mohou být příznaky léčeny následujícím způsobem:
+-  Těžké centrální anticholinergní účinky jako halucinace nebo výrazná excitace: léčit fysostigminem
+nebo karbacholem.
+-  Křeče nebo výrazná excitace: léčit benzodiazepiny.
+-  Respirační insuficience: léčit umělou ventilací.
+-  Tachykardie: léčit betablokátory.
+-  Retence moči: léčit katetrizací.
+-  Mydriáza: léčit pilokarpinem v očních kapkách a/nebo umístit pacienta do temné místnosti.
+
+Stejně jako u ostatních antimuskarinik je třeba při předávkování věnovat zvláštní pozornost pacientům se známým rizikem prodloužení QT intervalu (tj. s hypokalémií, bradykardií nebo současným
+6
+
+podáváním léků, které prodlužují QT interval) a relevantních již existujících srdečních chorob (tj. ischémie myokardu, arytmie, městnavého srdečního selhání).
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Jiná urologika včetně spazmolytik, močová spazmolytika, ATC kód: G04BD08.
+Mechanismus účinku
+Solifenacin je kompetitivní antagonista specifických cholinergních receptorů. Farmakodynamické účinky
+Močový měchýř má parasympatickou cholinergní inervaci. Acetylcholin způsobuje kontrakci
+hladkého svalstva detrusoru prostřednictvím muskarinových receptorů, z nichž rozhodující roli hraje subtyp M3. Farmakologické studie in vitro i in vivo ukazují, že solifenacin je kompetitivní inhibitor subtypu M3 muskarinových receptorů. Dále se prokázalo, že solifenacin je specifickým antagonistou muskarinových receptorů vykazujícím žádnou nebo jen nízkou afinitu k různým dalším testovaným receptorům a iontovým kanálům.
+
+Klinická účinnost a bezpečnost
+Léčba solifenacin-sukcinátem byla testována v dávkách 5 mg a 10 mg v několika dvojitě zaslepených randomizovaných kontrolovaných klinických studiích na mužích i ženách s hyperaktivitou močového měchýře. Jak je uvedeno v přiložené tabulce, v porovnání s placebem měly dávky 5 mg a 10 mg za následek statisticky významné zlepšení primárních i sekundárních cílových parametrů. Nástup účinku byl pozorován do 1 týdne po zahájení léčby a zůstal po dobu sledovaných 12 týdnů stabilní.
+Dlouhodobá otevřená studie dokázala, že účinnost přetrvává po dobu alespoň 12 měsíců. Po 12
+týdnech léčby se přibližně 50 % pacientů, kteří trpěli inkontinencí, zcela zbavilo příhod inkontinence a u 35 % pacientů frekvence močení klesla pod 8/den. Léčba příznaků hyperaktivity močového
+měchýře se pozitivně odrazila v řadě hodnocených kritérií kvality života jako jsou celkové vnímání zdravotního stavu, vnímání inkontinence, pracovní, fyzická a sociální omezení, emoce, intenzita příznaků, měřítka intenzity, kvalita spánku a zachování životní energie.
+
+Výsledky (souhrnná data) ze 4 kontrolovaných studií fáze 3 s léčbou v délce 12 týdnů
+
+
+
+
+
+
+Frekvence močení za 24 hod
+Průměrná výchozí hodnota (baseline) Průměrné snížení z výchozí hodnoty Změna z výchozí hodnoty v %
+n
+p-hodnota*
+Počet příhod nucení za 24 hod
+Průměrná výchozí hodnota (baseline) Průměrné snížení z výchozí hodnoty Změna z výchozí hodnoty v %
+n
+p-hodnota*
+Počet příhod inkontinence za 24 hod
+Placebo
+
+
+
+
+11,9
+1,4
+12%)
+1138
+
+
+6,3
+2,0
+(32%)
+1124
+Solifenacin-
+sukcinát 5 mg 1x denně
+
+12,1
+2,3
+(19%)
+552
+<0,001
+
+5,9
+2,9
+(49%)
+548
+<0,001
+Solifenacin-
+sukcinát 10 mg 1x denně
+
+11,9
+2,7
+(23%)
+1158
+<0,001
+
+6,2
+3,4
+(55%)
+1151
+<0,001
+Tolterodin 2 mg 2x denně
+
+
+12,1
+1,9
+(16%)
+250
+<0,004
+
+5,4
+2,1
+(39%)
+250
+0,031
+Průměrná výchozí hodnota (baseline)  2,9        2,6       2,9       2,3
+Průměrné snížení z výchozí hodnoty   1,1        1,5       1,8       1,1
+
+7
+
+Změna z výchozí hodnoty v %      (38%)      (58%)     (62%)     (48%)
+n                     781       314      778      157
+p-hodnota*                         <0,001     <0,001     0,009
+Počet příhod nykturie za 24 hod
+
+Průměrná výchozí hodnota (baseline) Průměrné snížení z výchozí hodnoty Změna z výchozí hodnoty v %
+n
+p-hodnota*
+Vyprázdněný objem/močení
+Průměrná výchozí hodnota (baseline) Průměrné zvýšení z výchozí hodnoty Změna z výchozí hodnoty v %
+n
+p-hodnota*
+Počet vložek za 24 hod
+Průměrná výchozí hodnota (baseline) Průměrné snížení z výchozí hodnoty Změna z výchozí hodnoty v %
+n
+p-hodnota*
+1,8
+0,4
+(22%)
+1005
+
+
+166 ml
+9 ml
+(5%)
+1135
+
+
+3,0
+0,8
+(27%)
+238
+2,0
+0,6
+(30%)
+494
+0,025
+
+146 ml
+32 ml
+(21%)
+552
+<0,001
+
+2,8
+1,3
+(46%)
+236
+<0,001
+1,8
+0,6
+(33%)
+1035
+<0,001
+
+163 ml
+43 ml
+(26%)
+1156
+<0,001
+
+2,7
+1,3
+(48%)
+242
+<0,001
+1,9
+0,5
+(26%)
+232
+0, 009
+
+147 ml
+24 ml
+(16%)
+250
+<0,001
+
+2,7
+1,0
+(37%)
+250
+0,010
+
+Poznámka:
+Ve 4 pivotních studiích byl použit solifenacin-sukcinát v dávce 10 mg a placebo. Ve 2 ze 4 studií byl použit solifenacin-sukcinát také v dávce 5 mg a 1 studie zahrnovala i tolterodin v dávce 2 mg 2 x
+denně.
+Ne všechny parametry a léčebné skupiny byly posuzovány v každé jednotlivé studii. Z tohoto důvodu
+se
+uvedená čísla pacientů liší podle sledovaného parametru a léčebné skupiny.
+
+*p - hodnota se týká srovnání s placebem
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Po užití tablet solifenacinu dosahuje solifenacin maximální plazmatické koncentrace (Cmax) za 3 až 8
+hodin. Hodnota tmax nezávisí na dávce. Hodnota Cmax a plocha pod křivkou (AUC) stoupá
+proporcionálně s dávkou v rozmezí 5 až 40 mg. Absolutní biologická dostupnost je přibližně 90 %. Příjem potravy nemá na Cmax a AUC žádný vliv.
+Distribuce v organismu
+Zdánlivý distribuční objem solifenacinu po intravenózním podání je přibližně 600 litrů. Solifenacin je ve vysoké míře (přibližně 98 %) vázán na plazmatické proteiny, především na kyselý α1-glykoprotein.
+Biotransformace
+Solifenacin je ve významné míře metabolizován v játrech, především cytochromem P 450 3A4 (CYP3A4). Existují však alternativní metabolické dráhy, které k metabolismu solifenacinu rovněž mohou přispívat. Systémová clearance solifenacinu je přibližně 9,5 l/hod a terminální poločas solifenacinu je 45 – 68 hodin. Po perorálním podání lze v plazmě kromě solifenacinu identifikovat ještě jeden farmakologicky aktivní metabolit (4R-hydroxy-solifenacin) a tři metabolity neaktivní (N- glukuronid, N-oxid a 4R-hydroxy-N-oxid solifenacinu).
+
+Eliminace z organismu
+Po jednorázovém podání 10 mg solifenacinu značeného 14C bylo přibližně 70 % radioaktivity
+
+8
+
+detekováno v moči a 23 % ve stolici po dobu 26 dnů. Ukázalo se, že přibližně 11 % radioaktivity
+v moči připadá na nezměněnou léčivou látku; asi 18 % na N-oxid metabolit, 9 % na 4R-hydroxy-N- oxid metabolit a 8 % na 4R-hydroxy metabolit (aktivní metabolit).
+
+Linearita/nelinearita
+V rozmezí terapeutických dávek je farmakokinetika lineární. Jiné zvláštní skupiny pacientů
+Starší osoby
+Není nutná žádná úprava dávkování v závislosti na věku pacienta. Studie na starších pacientech prokázaly, že expozice solifenacinu (po podání solifenacin-sukcinátu 5 mg a 10 mg jednou denně) vyjádřená jako AUC se u zdravých starších osob (65 – 80 let) nelišila od hodnot mladých zdravých osob (mladších 55 let). U starších osob byla průměrná míra absorpce vyjádřená jako tmax mírně
+pomalejší a terminální poločas byl přibližně o 20 % delší. Tyto malé rozdíly nejsou považovány za klinicky signifikantní.
+U dětí a dospívajících nebyla farmakokinetika solifenacinu stanovena.
+
+Pohlaví
+Farmakokinetika solifenacinu není ovlivněna pohlavím.
+Rasa
+Farmakokinetika solifenacinu není ovlivněna rasou.
+Porucha funkce ledvin
+Hodnoty AUC a Cmax solifenacinu u pacientů s mírnou až středně těžkou poruchou funkce ledvin nebyly významně odlišné od hodnot nalezených u zdravých dobrovolníků. U pacientů s těžkou poruchou funkce ledvin (clearance kreatininu ≤30 ml/min) byla expozice solifenacinu významně větší než v kontrolní skupině: Cmax stoupla přibližně o 30 %, AUC o více než 100 % a t1/2 o více než 60 %. Byla pozorována statisticky významná závislost mezi clearance kreatininu a solifenacinu.
+
+Farmakokinetika u pacientů léčených hemodialýzou nebyla studována.
+
+Porucha funkce jater
+U pacientů se středně těžkou poruchou funkce jater (Child-Pugh skóre 7 až 9) není Cmax ovlivněna, AUC se zvyšuje o 60 % a t1/2 je dvojnásobný. Farmakokinetika solifenacinu u pacientů s těžkou poruchou funkce jater nebyla studována.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Předklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podání, fertility, embryofetálního vývoje, genotoxicity a hodnocení karcinogenního
+potenciálu neodhalily žádné zvláštní riziko pro člověka. Ve studii pre- a postnatálního vývoje na myších měla léčba matky solifenacinem během kojení za následek nižší míru poporodního přežití, snížení hmotnosti mláďat a jejich pomalejší fyzický vývoj. Tyto parametry byly závislé na dávce a jejich míra je klinicky relevantní.
+
+Zvýšená úmrtnost bez předchozách klinických příznaků se vyskytla u mladých myší, které byly léčeny od 10. a 21.dne po narození dávkami, které dosáhly farmakologického účinku a obě skupiny měly vyšší úmrtnost v porovnání s dospělými jedinci. U mladých myší léčených od 10. postnatálního dne, byla plazmatická expozice vyšší než u dospělých myší; od 21. postnatálního dne dále, byla systémová expozice srovnatelná jako u dospělých myší. Klinické důsledky zvýšené úmrtnosti u mladých myších nejsou známy.
+
+
+
+9
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Jádro tablety:
+monohydrát laktosy kukuřičný škrob hypromelosa (E464) magnesium-stearát (E572)
+Potah tablety:
+hypromelosa (E464) mastek (E553b)
+oxid titaničitý (E171)
+makrogol 6000 (E1521)
+žlutý oxid železitý (E172) (pro 5 mg)
+červený oxid železitý (E172) (pro 10 mg)
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+6.3  Doba použitelnosti
+
+2 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+Tablety jsou baleny v in PVC/PVdC-Aluminium blistrech.
+
+Velikosti balení po 3, 5, 10, 20, 30, 50, 60, 90, 100 nebo 200 tabletách v blistru. Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku <a pro zacházení s ním>
+
+Žádné zvláštní požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Do 28. 3. 2019:
+Accord Healthcare Limited Sage House, 319 Pinner Road
+North Harrow, Middlesex, HA1 4HF
+Velká Británie
+
+Od 29. 3. 2019:
+Accord Healthcare Polska Sp. z o.o.
+ul. Taśmowa 7,
+02-677, Varšava,
+Polsko
+
+10
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+Solifenacin Accord 5 mg potahované tablety:73/173/15-C Solifenacin Accord 10 mg potahované tablety:73/174/15-C
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+1. 4. 2015
+10.  DATUM REVIZE TEXTU
+
+13. 2. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11

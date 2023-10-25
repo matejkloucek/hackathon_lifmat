@@ -1,0 +1,493 @@
+sp.zn. sukls185236/2017
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Milurit 100 mg tablety
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Léčivá látka: Allopurinolum 100 mg v jedné tabletě.
+
+Pomocná látka se známým účinkem:
+Jedna tableta přípravku obsahuje 50 mg monohydrátu laktosy. Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+
+Tablety
+bílé nebo šedobílé ploché kulaté tablety se zkosenými hranami, bez zápachu, na jedné straně s půlicí rýhou, na druhé straně vyraženo „E“ a pod ním „351“.
+Tabletu lze rozdělit na stejné dávky.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Dospělí
+•   Všechny formy hyperurikémie nekontrolované dietou, včetně sekundární hyperurikémie různého původu a klinických komplikací hyperurikemických stavů, zejména manifestní dny, urátové nefropatie a k rozpouštění a prevenci kamenů z kyseliny močové.
+•   Léčba recidivujících smíšených kamenů ze šťavelanu vápenatého při současné hyperurikémii,
+kdy dostatečný přívod tekutin, dietní a podobná opatření selhala.
+Děti a dospívající
+•   Sekundární hyperurikémie různého původu
+•   Urátová nefropatie při léčbě leukémie
+•   Dědičné poruchy způsobené enzymovým deficitem, Lesch-Nyhanův syndrom (částečný nebo úplný  nedostatek  hypoxantin-guanin  fosforibosyltransferázy)  a  deficit  adenin- fosforibosyltransferázy.
+
+
+
+
+
+
+
+
+
+
+Strana 1 (celkem 12)
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Dospělí
+Léčba alopurinolem by měla být zahájena v nízké dávce, např. 100 mg/den, aby se snížilo riziko nežádoucích účinků, a dávka by se měla zvýšit pouze v případě, že odpověď kyseliny močové v séru je neuspokojivá. Zvláštní opatrnosti je zapotřebí při nedostatečné funkci ledvin (viz Dávkování při poruše funkce ledvin).
+Doporučená udržovací dávka je 200 až 600 mg denně. Někdy může být nutné dávku zvýšit na 800 mg. Pokud se Milurit podává u nádorových onemocnění, mělo by být podávání přípravku zahájeno 1 až
+2 dny před zahájením protinádorové léčby. Po 2 až 3 dny by mělo být podáváno 600 až 800 mg, poté by
+měla být určena udržovací dávka na základě sérových hladin kyseliny močové.
+Pokud je požadována dávka v mg/kg tělesné hmotnosti, je třeba užívat 2 až 10 mg/kg tělesné hmotnosti
+za den.
+
+Pediatrická populace (děti a dospívající do 15 let)
+Doporučená dávka je 10 až 20 mg/kg tělesné hmotnosti za den, maximálně 400 mg denně podávaných ve 3 dílčích dávkách. U dětí je užívání indikováno vzácně, s výjimkou maligních stavů (zejména leukémie) a určitých enzymatických poruch, např. při Lesch-Nyhanově syndromu.
+Starší pacienti
+Vzhledem k absenci konkrétních údajů by měla být použita nejnižší dávka, která způsobí uspokojivé snížení hladiny kyseliny močové. Zvláštní pozornost by měla být věnována doporučením při poruchách funkce ledvin a některým případům uvedeným v bodě 4.4 (viz bod 4.4).
+
+Porucha funkce ledvin
+Alopurinol a jeho metabolity se vylučují pomocí ledvin, a proto snížená funkce ledvin může vést k retenci léčivé látky a/nebo jeho metabolitů s následným prodloužením plasmatických poločasů.
+Jako pomůcka k úpravě dávkování při poruše funkce ledvin může sloužit následující schéma:
+
+
+Clearance kreatininu
+>20 ml/min
+10 až 20 ml/min
+<10 ml/min
+Denní dávka
+Normální dávka
+100 až 200 mg denně
+100 mg/den nebo prodloužení dávkovacích intervalů
+
+Při závažné renální insuficienci může být vhodné užívat méně než 100 mg za den, nebo užívat jednotlivé dávky 100 mg v intervalech delších než jeden den.
+
+Je-li k dispozici zařízení ke sledování plazmatické koncentrace oxipurinolu, měla by být dávka upravena
+tak, aby se udržovala hladina oxipurinolu v plazmě nižší než 100 mikromol/l (15,2 mg/l).
+Alopurinol i jeho metabolity jsou dialyzovatelné. Pokud je dialýza vyžadovaná dvakrát až třikrát týdně, lze uvažovat o alternativním dávkovacím schématu 300 až 400 mg alopurinolu bezprostředně po každém ukončení dialýzy, bez podávání alopurinolu v mezidobí.
+
+U pacientů s poruchou funkce ledvin je zapotřebí zvláštní opatrnosti při současném podávání alopurinolu a thiazidových diuretik. Alopurinol by měl být podáván v co nejnižší účinné dávce, při důkladném sledování funkce ledvin (viz bod 4.5).
+Porucha funkce jater
+Pacientům s poruchou jater je třeba podávat nižší dávky. V průběhu počátečních stadií léčby se doporučuje periodicky provádět testy jaterních funkcí.
+
+Strana 2 (celkem 12)
+
+Léčba stavů s vysokým obratem urátu, např. neoplazie, Lesch-Nyhanova syndromu
+Před zahájením cytotoxické léčby je vhodné upravit stávající hyperurikémii a/nebo hyperurikosurii alopurinolem. Je důležité zajistit dostatečnou hydrataci a udržet optimální diurézu a snažit se alkalizovat moč, aby se zvýšila rozpustnost urátu/kyseliny močové v moči.
+U urátové nefropatie nebo u jiných poškození renálních funkcí je třeba dodržovat doporučení uvedené v části Porucha funkce ledvin.
+
+Tyto kroky mohou snížit riziko xanthinových a/nebo oxipurinolových depozit komplikujících klinický
+stav (viz také body 4.5 a 4.8).
+Monitorovací doporučení
+Dávkování by mělo být ve vhodných intervalech monitorováno a upraveno podle koncentrace kyseliny močové v séru a hladiny urátů/kyseliny močové v moči.
+Dávkování doporučené při kožních reakcích
+Pokud se objeví kožní reakce, podávání alopurinolu musí být okamžitě zastaveno. Po odeznění mírných reakcí a po pečlivém zvážení rizik, může být alopurinol znovu užíván v nízké dávce (například 50 mg/den). Poté může být dávka postupně zvyšována za monitorování reakce kůže a dalších možných vedlejších účinků. Pokud se vyrážka opakuje, alopurinol musí být vyřazen trvale, protože může dojít k další závažné alergické reakci (viz bod 4.8).
+Způsob podání
+Perorální podání
+Přípravek Milurit se může užívat perorálně jednou denně po jídle. Je dobře snášen, především po jídle. Pokud denní dávka překročí 300 mg a projevuje se gastrointestinální intolerance, může být vhodné rozdělit denní dávku přípravku.
+4.3  Kontraindikace
+
+•   Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+Syndrom přecitlivělosti, Stevens-Johnsonův syndrom (SJS), toxická epidermální nekrolýza (TEN)
+Reakce z přecitlivělosti na alopurinol se mohou projevovat mnoha různými způsoby, včetně makulopapulárního exantému, syndromu přecitlivosti (známý též jako DRESS) a SJS/TEN.
+Tyto reakce jsou klinickými diagnózami a jsou rozpoznávány podle klinických příznaků. Pokud se takové  reakce  objeví  kdykoli  během léčby,  musí  se alopurinol ihned vysadit. V případě hypersenzitivního syndromu a SJS/TEN nesmí být již alopurinol nikdy pacientovi znovu nasazen. Při rozvoji hypersenzitivních kožních reakcí může být přínosné podávání kortikosteroidů (viz bod 4.8 Poruchy imunitního systému a Poruchy kůže a podkožní tkáně).
+Alely HLA-B * 5801 
+Bylo prokázáno, že výskyt alely HLA-B*5801 je spojen s rizikem rozvoje syndromu hypersenzitivity a SJS/TEN souvisejících s alopurinolem. Frekvence výskytu alely HLA- B*5801 se značně liší u různých etnických skupin: u čínské populace národnosti Chan je výskyt až 20 %, u thajské populace 8 až 15 %, u korejské populace okolo 12 % a u japonské a evropské populace 1 až 2 %.
+Před zahájením léčby alopurinolem je třeba zvážit screening na přítomnost alely HLA-B*5801 u pacientů z podskupin se známou vysokou prevalencí této alely. Chronické onemocnění ledvin může dále zvýšit riziko u těchto pacientů. Není-li genotypizace u pacientů čínské národnosti Chan, thajského či korejského původu dostupná, je třeba před zahájením terapie přínosy léčby pečlivě vyhodnotit a zvážit, zda převáží možná vyšší rizika. Používání genotypizace není zavedeným postupem u jiných populací pacientů.
+Pokud je však známo, že pacient je nositelem HLA-B*5801 (zvlášť u pacientů čínské národnosti Chan, thajského či korejského původu), nemá se léčba alopurinolem zahajovat, pokud existují jiné vhodné
+
+Strana 3 (celkem 12)
+
+terapeutické možnosti a pokud očekávaný přínos léčby nepřevýší její rizika. Je třeba zvlášť bedlivě sledovat možné příznaky syndromu hypersenzitivity nebo SJS/TEN a informovat pacienta o nutnosti ihned ukončit léčbu, pokud se objeví první symptomy.
+SJS/TEN se může přesto vyskytnout u pacientů, u nichž byla zjištěna negativita HLA-B*5801, bez
+ohledu na jejich etnický původ.
+
+Chronická porucha funkce ledvin
+U pacientů s chronickou poruchou funkce ledvin užívajících současně diuretika může být zvýšené riziko vzniku reakce z přecitlivělosti včetně SJS/TEN v souvislosti s alopurinolem. V takovém případě je třeba pečlivě sledovat možné příznaky syndromu hypersensitivity nebo SJS/TEN a informovat pacienta o nutnosti ihned a trvale ukončit léčbu, pokud se objeví první příznaky (viz bod 4.8).
+Porucha funkce jater nebo ledvin
+Pacienti se sníženou funkcí jater nebo ledvin by měli užívat nižší dávky (viz bod 4.2). Pacienti s hypertenzí nebo kardiální insuficiencí, léčení např. diuretiky nebo ACE inhibitory, mohou mít souběžně sníženou funkci ledvin, a proto u této skupiny by měl být alopurinol podáván s opatrností.
+Asymptomatická hyperurikémie 
+Asymptomatická hyperurikémie sama o sobě není obecně považována za indikaci pro užití přípravku Milurit. Úprava příjmu tekutin a potravy a zvládnutí základní příčiny mohou tento stav napravit.
+Akutní záchvat dny
+Léčba alopurinolem se nezahajuje, dokud akutní záchvat dny kompletně neodezněl, protože by se mohly
+vyvolat další záchvaty.
+
+V počátečních stadiích léčby přípravkem Milurit se může stejně jako u urikosurik rozvinout akutní záchvat dnavé artritidy. Proto se doporučuje podávat profylakticky vhodné antiflogistikum nebo kolchicin po dobu nejméně jednoho měsíce. Rady o podrobnostech vhodného dávkování a o zvláštních opatřeních i varováních je třeba vyhledat v literatuře.
+
+Jestliže se u pacientů užívajících alopurinol vyvine akutní záchvat dny, je třeba pokračovat v léčbě stejnými dávkami, a zároveň léčit akutní záchvat vhodným antiflogistikem.
+Xanthinová depozita
+U stavů, při kterých je výrazně zvýšena tvorba urátů (např. nádorové nemoci a jejich léčba, Lesch- Nyhanův syndrom), by absolutní koncentrace xanthinu v moči mohla ve vzácných případech zvýšit tvorbu depozit v močovém traktu. Toto riziko může být sníženo zajištěním dostatečné hydratace s cílem dosáhnout optimálního ředění moči.
+Zaklínění ledvinových kamenů tvořených kyselinou močovou
+Adekvátní léčba přípravkem Milurit vede k rozpuštění velkých kamenů tvořených kyselinou močovou v ledvinné pánvičce s malým rizikem jejich zaklínění v močovodu.
+
+Při léčbě ledvinových dnavých kamenů a kamenů z kyseliny močové by objem vytvářené moči měl být nejméně 2 litry za den a pH moči by mělo být udržováno v rozmezí 6,4 až 6,8.
+
+Hemochromatóza
+Primární účinek alopurinolu při léčbě dny spočívá v inhibici enzymu xantinoxidázy. Xantinoxidáza se může podílet na redukci a clearance železa uloženého v játrech. V některých studiích s hlodavci bylo zjištěno zvýšené hromadění železa u zvířat léčených alopurinolem, zatímco u jiných nikoliv. Ve studii s 28 zdravými dobrovolníky nebyly při podávání alopurinolu zjištěny žádné změny hromadění železa v játrech. K dispozici nejsou žádné studie u lidí, které by sledovaly bezpečnost podávání alopurinolu pacientům s hemochromatózou. Alopurinol by měl být pacientům nebo jejich blízkým příbuzným podáván s opatrností.
+
+
+
+
+Strana 4 (celkem 12)
+
+Poruchy štítné žlázy
+U pacientů dlouhodobě léčených alopurinolem (5,8 %) v dlouhodobé otevřené prodloužené studii byly pozorovány zvýšené hladiny TSH (>5,5 μIU/ml). Při podávání alopurinolu pacientům se změněnou funkcí štítné žlázy je nutná opatrnost..
+
+Jedna tableta přípravku Milurit 100 mg tablety obsahuje 50 mg laktosy. Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktázy nebo s malabsorpcí glukosy a galaktosy nemají tento přípravek užívat.
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+6-merkaptopurin a azathioprin
+Azathioprin je metabolizován na 6-merkaptopurin, který je inaktivován působením xantinoxidázy. Při současném podávání 6-merkaptopurinu nebo azathioprinu s přípravkem Milurit je nutné podávatpouze jednu čtvrtinu obvyklé dávky 6-merkaptopurinu nebo azathioprinu, protože inhibice xantinoxidázy prodlužuje jejich aktivitu. Pokud se dávka nesníží, mohou sérové koncentrace těchto léčivých přípravků dosáhnout toxických hladin.
+Vidarabin (adeninarabinosid)
+Nálezy naznačují, že plazmatický poločas vidarabinu je za přítomnosti alopurinolu prodloužen. Podávají-li se tyto dva přípravky současně, je nutné zvlášť pečlivé sledování, aby se zjistilo případné zvýšení toxických účinků.
+Salicyláty a urikosurika
+Oxipurinol, hlavní metabolit alopurinolu s vlastním terapeutickým účinkem, se vylučuje ledvinami podobně jako urát. Proto látky s urikosurickým účinkem – např. probenecid nebo vysoké dávky salicylátů – mohou urychlit exkreci oxipurinolu. To může snížit terapeutickou účinnost přípravku Milurit, klinický význam je však třeba určit v každém jednotlivém případě zvlášť.
+
+Chlorpropamid
+Podává-li se přípravek Milurit současně s chlorpropamidem při porušené funkci ledvin, může se zvýšit riziko prodloužené hypoglykemické účinnosti, protože alopurinol a chlorpropamid mohou soutěžit o exkreci v renálním tubulu.
+Kumarinová antikoagulancia
+Vzácně se objevily zprávy o zvýšeném účinku warfarinu a jiných kumarinových antikoagulancií, pokud se tyto látky podávaly společně s alopurinolem; proto se musí pečlivě monitorovat všichni pacienti užívající antikoagulancia.
+Fenytoin
+Alopurinol může inhibovat oxidaci fenytoinu v játrech, klinický význam však nebyl zjištěn.
+Theofylin
+Objevily se údaje, že alopurinol inhibuje metabolismus theofylinu. Mechanismus této interakce lze vysvětlit tím, že xanthinoxidáza se u člověka účastní biotransformace theofylinu. Hladiny theofylinu je třeba monitorovat u pacientů, kteří zahajují terapii alopurinolem nebo zvyšují jeho dávky.
+Ampicilin/amoxicilin
+Byla hlášena zvýšená frekvence kožních vyrážek u pacientů užívajících ampicilin nebo amoxicilin současně s alopurinolemve srovnání s incidencí u pacientů, kteří tuto kombinaci neužívali. Příčina této interakce nebyla zjištěna. Doporučuje se však, aby u pacientů léčených alopurinolem byla užita namísto ampicilinu anebo amoxicilinu alternativní terapie, pokud je dostupná.
+
+
+
+
+Strana 5 (celkem 12)
+
+Cytostatika
+Při podávání alopurinolu a cytostatik (např. cyklofosfamidu, doxorubicinu, bleomycinu, prokarbazinu, alkylujících halogenidů) dochází ke krevním dyskraziím častěji, než když jsou tyto léčivé látky podávány samostatně.
+Proto má být v pravidelných intervalech monitorován krevní obraz.
+
+Byl hlášen zvýšený výskyt útlumu kostní dřeně cyklofosfamidem a  jinými cytotoxickými látkami u pacientů s neoplastickými onemocněními (jinými než leukémie) za přítomnosti alopurinolu. V dobře kontrolované  studii  u  pacientů  léčených  cyklofosfamidem,  doxorubicinem,  bleomycinem, prokarbazinem a/nebo mechlorethaminem (chlormethin hydrochloridem) se však neukázalo, že by alopurinol zvyšoval toxické účinky těchto cytotoxických látek.
+Hydroxid hlinitý:
+Souběžné podávání alopurinolu a hydroxidu hlinitého může snižovat účinek alopurinolu. Mezi užitím obou léčivých přípravků má být interval nejméně 3 hodiny.
+Cyklosporin
+Údaje naznačují, že plazmatická koncentrace cyklosporinu se v průběhu současné léčby alopurinolem může zvýšit. Jestliže se obě látky podávají společně, je třeba uvážit možnost zvýšené toxicity cyklosporinu.
+Didanosin
+U zdravých dobrovolníků a pacientů s HIV léčených didanosinem byly plazmatické hodnoty Cmax a AUC didanosinu přibližně dvojnásobné při současné terapii alopurinolem (300 mg denně), bez změny terminálního poločasu. Současné podávání těchto dvou léků se obecně nedoporučuje. Je-li současné užívání nevyhnutelné, může být nutné snížit dávkování didanosinu a pacienty je třeba pečlivě sledovat.
+ACE inhibitory jako je kaptopril a enalapril
+Současné užívání alopurinolu je spojeno se zvýšeným rizikem vzniku leukopenie, zejména u pacientů s poruchou funkce ledvin. Proto se doporučuje opatrnost.
+
+Zvýšené riziko přecitlivělosti bylo hlášeno při současném užívání alopurinolu s inhibitory ACE zejména
+s poruchou funkce ledvin.
+Při současném podávání alopurinolu a kaptoprilu může být zvýšeno riziko kožních reakcí, zvláště v případech chronického selhání ledvin.
+Diuretika:
+Byla hlášena interakce mezi alopurinolem a furosemidem, která způsobuje zvýšení koncentrace kyseliny
+močové v séru a oxipurinolu v plasmě.
+
+Zvýšené riziko přecitlivělosti bylo hlášeno, když byl alopurinol podáván s diuretiky, zejména thiazidy, především při poruše funkce ledvin.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Důkazy o bezpečnosti přípravku Milurit v těhotenství u lidí jsou nedostatečné, i když se hojně používá po mnoho let bez zjevných negativních následků (viz bod 5.3).
+Používejte v těhotenství pouze tehdy, pokud neexistuje bezpečnější alternativa a pokud onemocnění samo o sobě představuje riziko pro matku nebo nenarozené dítě.
+Kojení
+Alopurinol a jeho metabolit oxipurinol se vylučují do lidského mateřského mléka. Alopurinol se nedoporučuje užívat v období kojení. U ženy užívající 300 mg alopurinolu denně byla v mateřském mléce prokázána koncentrace alopurinolu 1,4 mg/litr a oxipurinolu 53,7 mg/litr. Účinky na kojence nebyly sledovány.
+
+Strana 6 (celkem 12)
+
+Proto se užívání přípravku Milurit během kojení nedoporučuje.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Vzhledem k tomu, že u pacientů užívajících alopurinol byly hlášeny nežádoucí účinky, jako je ospalost, závratě a ataxie, by pacienti měli být opatrní před řízením vozidel, obsluhou strojů nebo účastí na nebezpečných činnostech, dokud si nebudou dostatečně jisti, že alopurinol nemá nepříznivý vliv na jejich výkon.
+
+4.8  Nežádoucí účinky
+
+Pro tento přípravek není k dispozici žádná klinická dokumentace z poslední doby, kterou by bylo možné použít jako podporu pro stanovení frekvence nežádoucích účinků. Incidence nežádoucích účinků se může lišit v závislosti na podané dávce a rovněž při podávání v kombinaci s jinými léčivy.
+
+Kategorie pro frekvenci použité pro zařazení níže uvedených nežádoucích účinků léku byly určeny pro většinu nežádoucích účinků odhadem, vhodná data pro výpočet incidence však nejsou dostupná. Nežádoucí účinky identifikované po uvedení přípravku na trh byly považovány za vzácné nebo velmi vzácné.
+
+Pro klasifikaci frekvence byla použita následující konvence:
+velmi časté (≥1/10),
+časté (≥1/100 až <1/10),
+méně časté (≥1/1000 až <1/100), vzácné (≥1/10000 až <1/1000), velmi vzácné (<1/10000),
+není známo (z dostupných údajů nelze určit).
+
+Nežádoucí účinky spojené s alopurinolem jsou v celkové léčené populaci vzácné a většinou méně závažné. Incidence je vyšší při současných poruchách funkce ledvin a/nebo jater.
+Velmi vzácně byla hlášena trombocytopenie, agranulocytóza a aplastická anemie, zvláště u jednotlivců s poruchou funkce ledvin a/nebo jater, což potvrzuje potřebu zvláštní péče o tuto skupinu pacientů.
+
+
+Tabulka 1 Nežádoucí účinky Třídy orgánových systémů Infekce a infestace
+Poruchy krve a lymfatického systému
+
+
+
+Poruchy imunitního systému
+
+
+Poruchy metabolismu a výživy Psychiatrické poruchy
+Poruchy nervového systému
+
+
+
+Poruchy oka
+
+Poruchy ucha a labyrintu
+
+Frekvence velmi vzácné velmi vzácné
+
+
+
+méně časté velmi vzácné
+
+velmi vzácné
+
+velmi vzácné velmi vzácné
+
+
+velmi vzácné velmi vzácné
+
+Nežádoucí účinky
+furunkulóza
+agranulocytóza¹, aplastická anemie¹, trombocytopenie¹, leukopenie, čistá aplazie
+červené krevní řady, leukocytóza, eozinofilie
+hypersenzitivita²
+angioimunoblastický lymfom
+T-buněk ³
+anafylaktická reakce
+diabetes mellitus, hyperlipidemie
+deprese
+kóma, paralýza, ataxie,
+neuropatie, parestézie, ospalost, bolesti hlavy, poruchy vnímání chutí
+katarakta, poruchy zraku,
+změny na sítnici
+vertigo
+Strana 7 (celkem 12)
+
+Srdeční poruchy Cévní poruchy
+Gastrointestinální poruchy
+
+
+
+
+Poruchy jater a žlučových cest
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Poruchy ledvin a močových
+cest
+Poruchy reprodukčního systému a prsu
+Celkové poruchy a reakce
+v místě aplikace Vyšetření
+velmi vzácné velmi vzácné méně časté
+velmi vzácné
+
+
+není známo méně časté vzácné
+časté
+vzácné
+
+
+velmi vzácné
+velmi vzácné vzácné
+velmi vzácné velmi vzácné
+velmi vzácné časté
+angina pectoris, bradykardie hypertenze
+zvracení⁴, nauzea⁴, průjem opakovaná hemateméza,
+steatorea, stomatitida, změny
+defekačních stereotypů bolest břicha
+asymptomatické zvýšení hodnot jaterních testů⁵
+hepatitida (včetně nekrózy jater
+a granulomatózní hepatitidy)⁵ vyrážka
+Stevens-Johnsonův
+syndrom/toxická epidermální nekrolýza⁶
+angioedém⁷, fixní lékový
+exantém, alopecie, odbarvení vlasů
+svalová bolest
+
+urolitiáza
+hematurie, uremie
+neplodnost u mužů, erektilní
+dysfunkce, gynekomastie
+edém, celková únava, astenie, horečka⁸
+zvýšená hladina
+tyreostimulačního hormonu
+v krvi*
+¹Velmi vzácně byly hlášeny případy trombocytopenie, agranulocytózy a aplastické anemie, a to zejména u osob s poruchou funkce ledvin a/nebo jater a zdůraznily tak potřebu zvláštní péče u této skupiny pacientů (viz body 4.2 a 4.4).
+²Vzácně se mohou vyskytnout závažné hypersenzitivní reakce, včetně kožních reakcí spojených s exfoliací, horečkou, lymfadenopatií, artralgií a/nebo eosinofilií včetně Stevens-Johnsonova syndromu (SJS) a toxické epidermální nekrolýzy (TEN), (viz Poruchy kůže a podkožní tkáně). Související vaskulitida a tkáňová reakce se mohou projevovat různými způsoby včetně hepatitidy, poruchy funkce ledvin, akutní cholangitidy, xanthinových kamenů a velmi vzácně epileptickým záchvatem. Velmi vzácně se může vyskytnout anafylaktický šok. V případě takovéto reakce, která se může vyvinout kdykoli v průběhu léčby, se musí léčba alopurinolem ihned a trvale ukončit.
+Opožděná multiorgánová reakce z přecitlivělosti (známá jako syndrom přecitlivělosti s eozinofilií a systémovými příznaky neboli DRESS) se může objevit v různých kombinacích. Projevuje se horečkou, vyrážkou, vaskulitidou, lymfadenopatií, pseudolymfomem, artralgií, leukopenií, eozinofilií, hepatosplenomegalií, abnormálními jaterními testy a syndromem mizejících žlučovodů (destrukce nebo mizení intrahepatálních žlučovodů). Mohou být postiženy i další orgány (např. játra, plíce, ledviny, pankreas, myokard, tlusté střevo). Tyto reakce se mohou objevit kdykoli během léčby. V takovém případě je nutno přípravek Milurit ihned vysadit a léčbu již nikdy znovu nezahájit.
+Opětovné podávání by nemělo být prováděno u pacientů se syndromem přecitlivělosti a SJS/TEN. Při léčbě hypersenzitivní kožní reakce mohou být přínosné kortikosteroidy.
+U generalizovaných hypersenzitivních reakcí bylo obvykle přítomno postižení ledvin a/nebo jater, zejména pokud
+se jednalo o fatální případy (viz bod 4.4).
+³Angioimunoblastický lymfom T-buněk byl popsán velmi vzácně po biopsii při generalizované lymfadenopatii. Zdá se, že je po vysazení alopurinolu reverzibilní.
+⁴V dříve provedených klinických studiích byly hlášeny stavy nauzey a zvracení. Další sledování však naznačilo, že tyto účinky nejsou významným problémem a lze jim zabránit užíváním alopurinolu po jídle.
+
+Strana 8 (celkem 12)
+
+⁵Porucha funkce jater byla hlášena bez zjevných známek více generalizované hypersenzitivity.
+
+⁶Kožní reakce jsou nejčastějšími symptomy a mohou se vyskytnout kdykoliv během léčby. Reakce se mohou projevit jako svědivá, makulopapulární, někdy šupinatá nebo purpuře podobná vyrážka, vzácně jako exfoliativní změny, jako je Stevensův-Johnsonův syndrom nebo toxická epidermální nekrolýza (SJS/TEN). Nejvyšší riziko vzniku SJS a TEN, nebo jiných závažných reakcí z přecitlivělosti, je během prvních týdnů léčby. Nejlepší výsledky při zvládání takové reakce pocházejí z včasné diagnostiky a okamžitého přerušení podávání jakéhokoli podezřelého léku. Pokud se takovéto reakce vyskytnou, je nutné přípravek Milurit okamžitě vysadit. Po uzdravení z mírných reakcí lze alopurinol znovu nasadit v nízké dávce (např. 50 mg/den), kterou lze postupně zvyšovat. Bylo prokázáno, že výskyt alely HLA-B*5801 souvisí s rizikem rozvoje hypersenzitivního syndromu souvisejícího s alopurinolem a SJS/TEN. Využití genotypizace jako screeningového nástroje k rozhodování o léčbě alopurinolem není zavedeným postupem. Pokud se kožní reakce vyskytne znovu, je třeba alopurinol okamžitě a trvale vysadit, protože se může objevit závažnější hypersenzitivita (viz Poruchy imunitního systému). Pokud nelze vyloučit SJS/TEN nebo jiné závažné alergické reakce, není možné, vzhledem k možným závažným nebo dokonce fatálním reakcím, znovu podávat alopurinol. Klinická diagnóza SJS/TEN zůstává základem pro rozhodování. Dojde-li k takové reakci kdykoliv v průběhu léčby, má být alopurinol vysazen okamžitě a trvale.
+
+⁷Angioedém se vyskytoval se známkami a příznaky generalizované hypersenzitivní reakce nebo bez těchto známek
+a příznaků.
+
+⁸Výskyt horečky byl hlášen společně se známkami a příznaky generalizované hypersenzitivní reakce na alopurinol
+nebo bez těchto známek a příznaků (viz Poruchy imunitního systému).
+
+*Výskyt zvýšené hladiny tyreostimulačního hormonu (TSH): příslušné studie neprokázaly žádný vliv na hladiny volného T4 nebo vykazovaly hladiny TSH naznačující subklinický hypothyroidismus.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Při požití až do 22,5 g alopurinolu nebyly hlášeny nežádoucí účinky.
+U pacienta, který užil 20 g alopurinolu, byly hlášeny příznaky a známky zahrnující nevolnost, zvracení, průjem a závratě. K uzdravení došlo po použití obecných podpůrných opatření.
+Silná absorpce alopurinolu může vést k významné inhibici xanthinoxidázové aktivity, což by nemělo mít nežádoucí účinky, jestliže nedochází k ovlivnění současně podávaných léčiv, zejména 6- merkaptopurinu a/nebo azathioprinu.
+
+Léčba:
+Specifické antidotum není známo. Přiměřená hydratace udržuje optimální vylučování alopurinolu a jeho
+metabolitů močí. Je-li to nutné, může se použít hemodialýza.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: přípravky k léčbě dny, přípravky inhibující tvorbu kyseliny močové ATC kód: M04AA01
+
+
+
+
+Strana 9 (celkem 12)
+
+Mechanismus účinku
+Alopurinol je inhibitor xanthinoxidázy. Alopurinol a jeho hlavní metabolit oxipurinol snižují hladinu kyseliny močové v plazmě a moči tím, že inhibují enzym xanthinoxidázu, který katalyzuje oxidaci hypoxanthinu na xanthin a xanthinu na kyselinu močovou. Kromě inhibice metabolismu purinů je u některých hyperurikemických pacientů potlačena i biosyntéza purinů de novo, a to inhibicí hypoxanthin-guanin-fosforibosyltransferázy zpětnou vazbou. Další metabolity alopurinolu zahrnují alopurinolribosid a oxipurinol-7-ribosid.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Po perorálním podání je alopurinol účinný a rychle se absorbuje z horní části gastrointestinálního traktu. Studie zjistily přítomnost alopurinolu v krvi za 30 až 60 minut po podání. Odhady biologické dostupnosti se pohybují od 67 % do 90 %. Maximální plazmatické hladiny alopurinolu je obvykle dosaženo přibližně za 1,5 hodiny po perorálním podání, rychle však klesá a po 6 hodinách je sotva zjistitelná. Maximální hladiny oxipurinolu je obvykle dosaženo za 3 až 5 hodin po perorálním podání a je značně trvalejší.
+Distribuce
+Alopurinol se jen zanedbatelně váže na plazmatické proteiny, a proto se rozdílnosti vazby na proteiny nepovažují za faktor významně ovlivňující clearance. Zdánlivý distribuční objem alopurinolu je přibližně 1,6 litrů/kg, což naznačuje relativně rozsáhlý přestup do tkání. Koncentrace alopurinolu ve tkáních nebyla u lidí hodnocena, ale je pravděpodobné, že alopurinol a oxipurinol budou přítomny v nejvyšších koncentracích v játrech a střevní sliznici, kde je aktivita xanthinoxidázy vysoká.
+Biotransformace
+Hlavním metabolitem alopurinolu je oxypurinol. Ostatní metabolity alopurinolu jsou alopurinol-ribosid a oxipurinol-7-ribosid.
+Eliminace
+Přibližně 20 % požitého alopurinolu se vylučuje stolicí během 48-72 hodin. Eliminace alopurinolu se děje převážně metabolickou přeměnou na oxipurinol xanthinoxidázou a aldehydoxidázou, méně než 10 % nezměněné látky se vylučuje močí. Plazmatický poločas alopurinolu je zhruba 0,5 až 1,5 hodiny. Oxipurinol je méně účinný inhibitor xanthinoxidázy než alopurinol, ale plazmatický poločas oxipurinolu je mnohem delší. Odhady se u člověka pohybují od 13 do 30 hodin. Proto se účinná inhibice xanthinoxidázy udržuje po dobu 24 hodin po jediné denní dávce alopurinolu. Pacienti s normální funkcí ledvin postupně akumulují oxipurinol, dokud není dosaženo ustáleného stavu plazmatické koncentrace oxipurinolu. Pacienti užívající 300 mg alopurinolu denně budou mít obvykle plazmatické koncentrace oxipurinolu 5-10 mg/litr.
+Oxipurinol se vylučuje močí v nezměněné formě, má však dlouhý eliminační poločas, protože podléhá tubulární reabsorpci. Zjištěné hodnoty eliminačního poločasu se pohybují od 13,6 hodin do 29 hodin. Velké rozdíly u těchto hodnot lze přičíst rozdílům v návrhu studie a/nebo rozdílům kreatininové clearance u jednotlivých pacientů.
+Farmakokinetika u pacientů s poruchou funkce ledvin
+Clearance alopurinolu a oxipurinolu je výrazně snížena u pacientů se sníženou funkcí ledvin, což vede ke zvýšeným plazmatickým hladinám při chronické terapii. Pacienti s poruchou funkce ledvin, u nichž hodnoty kreatininové clearance ležely mezi 10 a 20 ml/min, měli po dlouhodobém podávání 300 mg alopurinolu denně plazmatické koncentrace oxipurinolu přibližně 30 mg/litr. To je přibližně koncentrace, které lze u osob s normální renální funkcí dosáhnout dávkami 600 mg/den. Proto je u pacientů s poruchou funkce ledvin nutná redukce dávky přípravku Milurit.
+Farmakokinetika u starších pacientů
+Nezdá se, že by u těchto pacientů byla kinetika léčivé látky změněna z jiných příčin než poškozením
+funkce ledvin (viz Farmakokinetika u pacientů s poruchou ledvin).
+
+
+
+Strana 10 (celkem 12)
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Mutagenita
+Cytogenetické studie ukazují, že alopurinol in vitro nevyvolává v lidských krvinkách chromozomální aberace při koncentracích do 100 µg/ml ani in vivo při dávkách do 60 mg/den po průměrnou dobu podávání 40 měsíců.
+Alopurinol nevede in vitro k tvorbě nitrosloučenin ani neovlivňuje lymfocytární transformaci.
+Výsledky biochemických a jiných cytologických vyšetření silně naznačují, že alopurinol nemá negativní vliv na DNA v žádném stadiu buněčného cyklu a není mutagenní.
+Kancerogenita 
+U myší a potkanů, jimž byl pod dobu až 2 let podáván alopurinol, nebyla zjištěna kancerogenita této látky.
+Teratogenita 
+V jedné studii, v níž byly myším 10. nebo 13. den březosti intraperitoneálně podány dávky 50 nebo 100 mg/kg, byl zjištěn abnormální vývoj plodů, avšak v podobné studii u potkanů, kterým byla podána dávka 120 mg/kg 12. den březosti, nebyly žádné abnormality pozorovány. Rozsáhlé studie vysokých perorálních dávek alopurinolu (u myší  až do výše 100 mg/kg/den, u potkanů v dávkách až 200 mg/kg/den a u králíků až do výše 150 mg/kg/den) podávaných 8. až 16. den březosti neprokázaly žádný teratogenní účinek alopurinolu.
+Jedna in vitro studie používající ke zjištění embryotoxicity kultivované slinné žlázy myšího plodu ukázala, že u alopurinolu nelze očekávat žádnou embryotoxicitu bez současného vyvolání toxicity u matky.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+monohydrát  laktosy, bramborový škrob, povidon 25, mastek, magnesium-stearát, sodná sůl karboxymethylškrobu typ A.
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+5 let
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C v původním obalu.
+
+6.5  Druh obalu a velikost balení
+50,60 tablet v lahvičce z hnědého skla uzavřené bílým PE uzávěrem garantujícím neporušenost obalu s tlumičem nárazu Upozornění:
+Text  na  lahvičce  je  v  rumunštině.  Překlad  textu  je  uveden  v  Příbalové  informaci.
+
+
+
+
+
+
+
+Strana 11 (celkem 12)
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky pro likvidaci.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Egis Pharmaceuticals PLC
+H-1106 Budapešť, Keresztúri út 30-38. Maďarsko
+
+Souběžný dovozce:
+Pharmedex s.r.o., Lisabonská 799/8, Vysočany, 190 00 Praha 9, Česká republika
+8.  REGISTRAČNÍ ČÍSLO(A)
+29/060/72-S/C /PI/001/13
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 18. 9. 2013/10.10.2018
+
+
+
+10.  DATUM REVIZE TEXTU
+14. 8. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strana 12 (celkem 12)

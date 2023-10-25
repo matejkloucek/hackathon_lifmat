@@ -1,0 +1,270 @@
+Sp. zn. sukls293334/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Isolyte infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Infuzní roztok obsahuje:
+
+500 ml         1000 ml
+Natrii acetas trihydricus               2,32 g          4,63 g
+Natrii chloridum                   3,01 g          6,02 g
+Kalii chloridum                   0,15 g          0,30 g
+Magnesii chloridum hexahydricum         0,15 g          0,30 g
+
+Elektrolyty:
+Na⁺           137,0 mmol/l
+K⁺             4,0 mmol/l
+Mg²⁺            1,5 mmol/l
+Cl⁻           110,0  mmol/l
+CH3COO⁻        34,0  mmol/l
+Teoretická osmolarita  286,5 mosmol/l
+Titrační acidita      < 2,5 mmol NaOH/l
+pH             6,9-7,9
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Infuzní roztok
+Čirý a bezbarvý roztok
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Přípravek Isolyte je indikován:
+-  převážně při extracelulární dehydrataci, bez ohledu na příčinu (zvracení, průjem, píštěle
+apod.)
+-  při hypovolemii, bez ohledu na příčinu (hemoragický šok, popáleniny, perioperační ztráta
+tekutin a elektrolytů)
+-  při mírné metabolické acidóze
+4.2 Dávkování a způsob podání
+
+Dávkování
+
+Dospělí a pediatričtí pacienti
+
+1/7
+
+Dávka a rychlost podání závisí na věku, tělesné hmotnosti, klinickém a biologickém stavu
+pacienta (včetně acidobazické rovnováhy) a na souběžné léčbě.
+
+Doporučené dávkování:
+Maximální denní dávka odpovídá potřebě tekutin a elektrolytů u pacienta. K dočasnému obnovení objemu krve je požadován 3 - 5 násobek objemu ztracené krve.
+Běžné doporučené dávkování:
+Pro dospělé, starší osoby a dospívající (ve věku 12 let a starší): 500 ml až 3 litry/24 hodin.
+Pro kojence, batolata a děti (ve věku od 28 dnů do 11 let): 20 ml/kg až 100 ml/kg/24 hodin.
+
+Rychlost podání:
+Při kontinuální léčbě dospělých pacientů, mimo akutní ztráty tekutin, je infuzní rychlost obvykle 40 ml/kg/24 hodin.
+U pediatrických pacientů je infuzní rychlost v průměru 5 ml/kg/hod. Tato hodnota se však liší v závislosti na věku pacienta:
+6 - 8 ml/kg/hodinu u kojenců, 4 - 6 ml/kg/hodinu u batolat a 2 - 4 ml/kg/hodinu u dětí školního
+věku.
+
+Způsob podání
+Intravenózní podání.
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+Tento léčivý přípravek je kontraindikován v následujících případech:
+- při přetížení tekutinami (hyperhydratace), zejména při plicním edému a městnavém srdečním selhání
+- při těžké poruše funkce ledvin
+- při metabolické alkalóze
+- při hyperkalémii
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Musí se monitorovat klinický stav pacienta a laboratorní parametry (bilance tekutin, hladina elektrolytů v krvi a v moči, stejně jako acidobazická rovnováha), a to zejména při použití větších objemů tohoto roztoku.
+Obecně je nutné se vyvarovat přetížení tekutinami z důvodu předávkování. Zejména u pacientů se srdeční insuficiencí nebo závažnou poruchou ledvin je nutné vzít v potaz zvýšené riziko hyperhydratace a upravit dávkování.
+
+Při metabolické alkalóze a u klinických stavů, kde je nutné se vyvarovat alkalizace, by měly být preferovány roztoky jako je 0,9% roztok chloridu sodného před alkalizujícími roztoky jako je přípravek Isolyte.
+
+Zvláštní péči je nutno věnovat pacientům s těžkými elektrolytovými abnormalitami, jako je hypernatremie, hypermagnesemie a hyperchloremie.
+Roztoky obsahující chlorid sodný mají být podávány s opatrností pacientům s hypertenzí, srdečním selháním,  periferním  nebo  plicním  edémem,  s poruchou  funkce  ledvin,  preeklampsií, aldosteronismem nebo s jinými stavy nebo s léčbou (např. kortikoidy/steroidy), která je spojena s retencí sodíku (viz bod 4.5).
+
+2/7
+
+Vzhledem k tomu, že tento roztok obsahuje draslík, kombinace s draslík šetřícími diuretiky se nedoporučuje. Plazmatická hladina draslíku se musí zvláště přísně monitorovat u pacientů s rizikem hyperkalemie, např. při těžkém chronickém selhání ledvin (viz. bod 4.5).
+
+Opatrnost je zapotřebí při používání tohoto léčivého přípravku v kombinaci s inhibitory angiotenzin konvertujícího enzymu, s antagonisty receptoru angiotenzinu II, suxamethoniem, takrolimem, cyklosporinem, nebo v případě těžké digitalisové intoxikace (riziko srdečních příznaků).
+Ačkoli má přípravek Isolyte podobnou koncentraci draslíku jako je koncentrace v plazmě, je jeho
+účinek nedostatečný při závažném nedostatku draslíku, a proto nemá být pro tyto účely používán.
+
+Roztoky obsahující soli hořčíku mají být používány s opatrností u pacientů s poruchou funkce ledvin, se závažnými poruchami srdečního rytmu a u pacientů s myasthenia gravis. U pacientů je nutné sledovat klinické známky nadbytku hořčíku, obzvláště je-li u nich léčena eklampsie. Podávání v pooperačním období po neuromuskulární blokádě má být prováděno s opatrností, jelikož soli hořčíku mohou vyvolat rekurarizaci (viz bod 4.5).
+
+Infuze přípravku Isolyte může způsobit metabolickou alkalózu vzhledem k přítomnosti acetátových iontů. Tento přípravek však není vhodný k léčbě závažných metabolických nebo respiračních acidóz.
+Během dlouhodobé parenterální léčby se musí pacientovi podávat vhodná výživa.
+
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce Interakce související s přítomností sodíku
+Kombinace, které se nedoporučují (viz bod 4.4):
+Kortikoidy/steroidy a karbenoxolon jsou spojeny s retencí sodíku a vody (s edémem a hypertenzí).
+Interakce související s přítomností draslíku
+Následující kombinace zvyšují koncentraci draslíku v plazmě a mohou vést k potenciálně fatální
+hyperkalemii, zejména v případě renálního selhání, které zvyšuje hyperkalemické účinky:
+
+Kombinace, které se nedoporučují (viz bod 4.4):
+-  draslík šetřící diuretika: amilorid, spironolakton, triamteren, samotné nebo v kombinaci
+-  inhibitory angiotenzin konvertujícího enzymu (ACE inhibitory) a antagonisté receptoru angiotenzinu II
+-  takrolimus, cyklosporin
+-  suxamethonium
+
+Interakce související s přítomností hořčíku
+Kombinace, které se nedoporučují (viz bod 4.4):
+Kompetitivní a depolarizující neuromuskulární blokátory
+
+Alkalizace moči
+Opatrnost je zapotřebí, jelikož alkalizace moči bikarbonátem (hydrogenuhličitanem), který vzniká metabolismem acetátu, zvyšuje eliminaci určitých léků (jako jsou salicyláty, lithium) a snižuje eliminaci  alkalických  léků,  jako  jsou  sympatomimetika  (jako  je  amfetamin).
+
+
+
+
+3/7
+
+4.6 Fertilita, těhotenství a kojení
+
+Nejsou k dispozici žádné adekvátní údaje o použití přípravku Isolyte u těhotných nebo kojících
+žen.
+Při fyziologických dávkách neexistují obavy o vlivu žádné z léčivých látek přípravku Isolyte na
+reprodukci zvířat.
+
+Isolyte se může bezpečně používat během těhotenství a kojení, pokud je kontrolována elektrolytová rovnováha a bilance tekutin.
+Je-li k přípravku Isolyte přidán jiný léčivý přípravek, je nutné posoudit samostatně povahu takovéhoto přípravku a vhodnost jeho použití během těhotenství a kojení.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Isolyte nemá žádný vliv na schopnost řídit a obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Nežádoucí účinky jsou rozděleny na:
+Velmi časté (˃1/10), časté (˃1/100 až <1/10), méně časté (˃1/1000 až <1/100), vzácné (˃1/10 000 až <1/1000), není známo (z dostupných údajů nelze určit).
+U podobných přípravků byly popsány následující nežádoucí účinky:
+Poruchy metabolismu a výživy
+Během podávání roztoků elektrolytů byly hlášeny následující nežádoucí účinky:
+-  hyperhydratace a srdeční selhání u pacientů se srdeční poruchou nebo plicním edémem (velmi časté)
+-  edém z důvodu nadměrného množství vody/sodíku v těle (frekvence výskytu není známa)
+
+Celkové poruchy a reakce v místě aplikace
+Nežádoucí účinky, které mohou být spojeny s technikou podávání, zahrnují febrilní odpověď, infekci v místě vpichu, lokální bolest nebo reakci, podráždění žíly, žilní trombózu nebo flebitidu rozšiřující se z místa vpichu a extravazaci.
+
+Vyšetření
+Při vysokých dávkách může diluční (ředící) efekt často vést k naředění jednotlivých složek krve,
+např. koagulačních faktorů a jiných plazmatických bílkovin, a ke snížení hematokritu.
+
+Nežádoucí účinky mohou souviset s léčivým přípravkem přidávaným do roztoku. Povaha
+přidávaného léku určuje pravděpodobnost výskytu dalších nežádoucích účinků.
+V případě nežádoucích účinků musí být infuze přerušena. Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické
+pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv
+Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4/7
+
+4.9 Předávkování
+
+Při náhodném předávkování musí být léčba přerušena a u pacienta se musí sledovat příslušné známky a příznaky související s podaným přípravkem. Je-li to nutné, musí být poskytnuta příslušná symptomatická a podpůrná opatření, např. podání diuretik. U oligurických a anurických pacientů může být nutné provést hemofiltraci nebo dialýzu pro odstranění nadbytečné tekutiny.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Elektrolyty, ATC kód: B05BB01
+
+Přípravek Isolyte je izotonický roztok elektrolytů. Složky přípravku Isolyte a jejich koncentrace jsou navrženy tak, aby odpovídaly plazmě. Přípravek se užívá k úpravě poruch rovnováhy elektrolytů v séru a acidobazické rovnováhy. Elektrolyty se podávají za účelem dosažení nebo udržení normálních osmotických podmínek jak v extracelulárním, tak v intracelulárním prostoru. Acetát je metabolizován na bikarbonát v játrech a v extrahepatálních tkáních (např. ve svalech a v periferních tkáních) a má mírný alkalizující účinek. Vzhledem k množství metabolizovatelných aniontů je přípravek Isolyte vhodný pro pacienty se sklonem k acidóze.
+Farmakologie intravenózně podávaných infuzních roztoků podobného složení je známa z dlouhodobého používání v klinické a urgentní medicíně.
+
+Farmakodynamické vlastnosti tohoto roztoku jsou dány farmakodynamickými vlastnostmi jeho složek (vody, sodíku, draslíku, hořčíku, acetátu a chloridu). Hlavním účinkem přípravku Isolyte je expanze extracelulárního prostoru včetně intersticiální a intravaskulární tekutiny.
+Ionty, jako je sodík, pronikají skrze buněčnou membránu za využití různých transportních mechanismů, mezi které patří sodíková pumpa (Na⁺/K⁺ - ATPáza). Sodík hraje významnou roli v neurotransmisi a srdeční elektrofyziologii.
+
+Draslík je nezbytný pro mnoho metabolických a fyziologických procesů včetně nervového přenosu, svalových stahů a acidobazické regulace. Normální koncentrace draslíku v plazmě je přibližně 3,5 až 5,0 mmol/l. Draslík je převážně intracelulární kation, který se nachází zejména ve svalech. Pouze přibližně 2 % draslíku jsou přítomna v extracelulární tekutině. Vstup draslíku do buněk a jeho retence proti koncentračnímu spádu vyžaduje aktivní transport prostřednictvím Na⁺/K⁺ - ATPázy.
+Chlorid je převážně extracelulární anion, který je v nízké koncentraci přítomen v kostech a ve vysoké koncentraci v některých složkách pojivové tkáně, např. v kolagenu. Intracelulární koncentrace chloridu je vysoká v červených krvinkách a v žaludeční sliznici. Rovnováha aniontů a kationtů je regulována ledvinami. Reabsorpce chloridu obvykle následuje reabsorpci sodíku.
+
+Hořčík je aktivátorem četných enzymatických systémů a jako takový má obecný význam pro metabolické funkce. Podílí se na metabolismu sacharidů a tuků, syntéze bílkovin, membránovém transportu a integritě membrán. Nervový přenos a svalová kontraktilita jsou na hořčíku závislé.
+
+5.2 Farmakokinetické vlastnosti
+
+Farmakokinetické vlastnosti tohoto roztoku jsou dány farmakokinetickými vlastnostmi jeho složek (vody, sodíku, draslíku, hořčíku, octanového anionu a chloridu).
+
+
+
+5/7
+
+Farmakologie  intravenózně  podávaných  infuzních  roztoků  podobného  složení  je  známa z dlouhodobého používání v klinické a urgentní medicíně a ze základního pochopení regulace rovnováhy vody a elektrolytů a metabolických procesů v organizmu.
+
+Kation Na⁺ a anion Cl⁻ jsou hlavními elektrolyty v extracelulární tekutině. Udržování normální bilance sodíku je nezbytné pro správný objem krve a distribuci vody v organizmu. Homeostáza tekutin je regulována různými souvisejícími systémy. Zdravý organizmus dokáže kompenzovat výrazně se lišící příjmy vody a chloridu sodného úpravou (přizpůsobením) vylučování. Do této činnosti jsou zapojeny zejména ledviny, nadledviny, hypofýza, plíce a sympatikus. Regulační mechanizmy vodní bilance organizmu jsou spojeny s kationtem Na⁺. Následkem toho způsobují poruchy homeostázy tekutin změny v hladině sodíku a naopak. Kromě toho sodík hraje úlohu ve všech bioelektrických procesech a ve funkci četných enzymatických systémů.
+
+Chlorid je nezbytný pro udržení vhodné acidobazické rovnováhy a hraje důležitou roli při kontrole homeostáze tekutin. Vysoká koncentrace chloridů se vyskytuje v žaludečních šťávách. Ztráta chloridů průjmem, zvracením nebo jinými poruchami může mít za následek hypochloremii a metabolickou alkalózu. Snížený obsah chloridu, ve srovnání s 0,9% roztokem chloridu sodného, pomáhá předcházet rozvoji hyperchloremické metabolické acidózy.
+Faktory ovlivňující přenos draslíku mezi intracelulární a extracelulární tekutinou, jako např. poruchy acidobazické rovnováhy, mohou narušit poměr mezi koncentracemi v plazmě a celkovými zásobami v těle. Draslík je vylučován zejména ledvinami, je sekretován distálními tubuly výměnou za sodíkové nebo vodíkové ionty. Schopnost ledvin uchovávat draslík je nízká a vylučování určitého množství draslíku močí pokračuje dokonce i při výrazné depleci. Určité množství draslíku je vylučováno stolicí a malé množství může být vyloučeno i potem.
+
+Acetát slouží jako metabolický prekurzor bikarbonátu. Je rychle aktivován na acetyl-CoA, který vstupuje do odpovídajících biochemických drah, ve kterých je odbourán na oxid uhličitý. Bikarbonát je základním extracelulárním pufrem v organizmu, který je v dynamické rovnováze s oxidem uhličitým a nedisociovanou kyselinou uhličitou. Pufrační kapacita této rovnováhy zejména upravuje pH krve na její normální slabě zásaditou hodnotu. Acetát má, po konverzi na bikarbonát v molárním poměru, odpovídající antiacidotický účinek.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Preklinické údaje o bezpečnosti přípravku Isolyte získané ze studií na zvířatech nejsou relevantní vzhledem k tomu, že složky tohoto přípravku jsou fyziologickými komponentami zvířecí i lidské plazmy.
+V podmínkách klinické aplikace se neočekávají toxické účinky, pokud se dodržují léčebná doporučení.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Hydroxid sodný (k úpravě pH) Kyselina chlorovodíková (k úpravě pH) Voda pro injekci
+6.2 Inkompatibility
+
+Vzhledem k tomu, že nebyly provedeny studie kompatibility, nesmí být tento přípravek mísen
+s jinými léčivými přípravky.
+6/7
+
+6.3 Doba použitelnosti
+
+a) doba použitelnosti v neporušeném obalu (před otevřením):
+Freeflex vak:   3 roky
+KabiPac:     3 roky
+
+b) doba použitelnosti po prvním otevření:
+Přípravek má být použit ihned po otevření.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Chraňte před chladem nebo mrazem.
+
+6.5 Druh obalu a obsah balení
+Polyolefinový vak (freeflex) s přebalem: 20 x 500 ml, 10 x 1000 ml
+LDPE lahev (KabiPac): 10 x 500 ml, 20 x 500 ml, 10 x 1000 ml Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Pouze k jednorázovému použití.
+
+Přípravek má být použit okamžitě po otevření lahve nebo vaku. Veškerý nepoužitý roztok musí být zlikvidován.
+Používejte pouze čiré roztoky bez přítomnosti částic v neporušeném obalu.
+Před použitím odstraňte přebal z polyolefinového (freeflex) vaku.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+76/884/09-C
+
+9. DATUM PRVNÍ REGISTRACE/ DATUM PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 16.12.2009
+Datum posledního prodloužení registrace: 3.6.2014
+
+
+10. DATUM REVIZE TEXTU
+9. 12. 2019
+7/7

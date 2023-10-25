@@ -1,0 +1,573 @@
+Sp. zn. sukls261470/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Amiped infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Infuzní roztok obsahuje:
+
+
+
+Isoleucinum Leucinum
+Lysinum monohydricum (ekvivalent lysinum) Methioninum Phenylalaninum Threoninum Tryptophanum
+Valinum Argininum Histidinum Alaninum Glycinum
+Acidum asparticum Acidum glutamicum Prolinum
+Serinum Acetyltyrosinum (ekvivalent tyrosinum) Acetylcysteinum (ekvivalent cysteinum) Taurinum
+v 1 ml
+5,10 mg
+7,60 mg
+9,88 mg
+(8,80 mg)
+2,00 mg
+3,10 mg
+5,10 mg
+4,00 mg
+6,10 mg
+9,10 mg
+4,60 mg
+15,90 mg
+2,00 mg
+6,60 mg
+9,30 mg
+6,10 mg
+2,00 mg
+1,30 mg
+(1,06 mg)
+0,700 mg
+(0,520 mg)
+0,300 mg
+ve 100 ml
+0,51 g
+0,76 g
+0,99 g
+(0,88 g)
+0,20 g
+0,31 g
+0,51 g
+0,40 g
+0,61 g
+0,91 g
+0,46 g
+1,59 g
+0,20 g
+0,66 g
+0,93 g
+0,61 g
+0,20 g
+0,13 g
+(0,11 g)
+0,070 g
+(0,052 g)
+0,030 g
+ve 250 ml
+1,28 g
+1,90 g
+2,47 g
+(2,20 g)
+0,50 g
+0,78 g
+1,28 g
+1,00 g
+1,53 g
+2,28 g
+1,15 g
+3,98 g
+0,50 g
+1,65 g
+2,33 g
+1,53 g
+0,50 g
+0,33 g
+(0,27 g)
+0,175 g
+(0,13 g)
+0,075 g
+
+
+Celkové aminokyseliny             0,1 g       10 g       25 g
+Celkový dusík                0,0152 g      1,52 g       3,8 g
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok
+Čirý, bezbarvý až světle žlutý roztok
+
+
+Energie [kJ/l (kcal/l)]
+Teoretická osmolarita [mOsm/l]
+Acidita (titrace na hodnotu pH 7,4) [mmol NaOH/l] pH
+1 700 (406)
+790
+23
+přibl. 6,1
+
+
+
+
+
+1
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Přísun aminokyselin pro parenterální výživu v kombinaci s energetickými roztoky (glukózy a lipidů) a elektrolyty, pokud perorální nebo enterální výživa není možná, je nedostatečná či pokud je kontraindikována.
+Roztok je indikován pro novorozence, donošené i nedonošené kojence, batolata a děti.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Pediatrická populace
+
+Dávkování pro věkovou skupinu uvedenou níže odpovídá doporučeným průměrným hodnotám. Přesné dávkování je nutno individuálně upravit podle věku, vývojového stupně a převládajícího onemocnění.
+Podávání má začínat rychlostí infuze nižší, než je rychlost cílová; rychlost infuze se má zvýšit na cílovou hodnotu v průběhu první hodiny.
+
+Parenterální přísun aminokyselin považovaný za adekvátní pro většinu pediatrických pacientů:
+
+Denní dávka pro nedonošené novorozence:
+1,5 až 4,0 g aminokyselin/kg tělesné hmotnosti ≙ 15 až 40 ml/kg tělesné hmotnosti
+
+Denní dávka pro donošené novorozence (0 až 27 dní):
+1,5 až 3,0 g/kg tělesné hmotnosti ≙ 15 až 30 ml/kg tělesné hmotnosti
+
+Denní dávka pro kojence a batolata (28 dní až 23 měsíců):
+1,0 až 2,5 g/kg tělesné hmotnosti ≙ 10 až 25 ml/kg tělesné hmotnosti
+
+Denní dávka pro děti (2 roky až 11 let):
+1,0 až 2,0 g/kg tělesné hmotnosti ≙ 10 až 20 ml/kg tělesné hmotnosti
+
+Kriticky nemocné děti: U kriticky nemocných pacientů může být vhodný příjem aminokyselin i vyšší (až do 3,0 g aminokyselin/kg tělesné hmotnosti/den).
+
+Pacienti s poruchou funkce ledvin/jater
+U pacientů s jaterní nebo renální insuficiencí je třeba dávky upravit individuálně (viz také bod 4.4). Přípravek Amiped je kontraindikován u pacientů se závažnou jaterní insuficiencí a pacientů se závažnou renální insuficiencí, kteří nepodstupují renální substituční léčbu (viz bod 4.3).
+
+Délka podávání:
+Roztok se může podávat tak dlouho, dokud trvá indikace k parenterální výživě.
+
+Způsob podání
+Intravenózní podání.
+Pouze pro infuze do centrální žíly.
+Při použití u předčasně narozených novorozenců a dětí mladších 2 let je třeba roztok (ve vacích a aplikačních setech) chránit před světlem, dokud není podání dokončeno (viz body 4.4, 6.3 a 6.6). Během přípravy směsí nemusí být použití ochranného přebalu chránícího přípravek proti světlu vhodné. Nicméně je třeba během přípravy směsí co nejvíce zamezit vystavení světlu.
+
+4.3  Kontraindikace
+
+
+
+2
+
+●   Hypersenzitivita na kteroukoli léčivou látku(y) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+●  Vrozené poruchy metabolismu aminokyselin
+●   Závažné poruchy oběhového systému s ohrožením života (např. šok)
+●  Hypoxie
+●  Metabolická acidóza
+●  Závažná jaterní insuficience
+●  Závažná renální insuficience při absenci renální substituční léčby
+●  Dekompenzovaná srdeční nedostatečnost
+●  Akutní plicní edém
+●  Poruchy rovnováhy elektrolytů a tekutin
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Tento léčivý přípravek se má při poruchách metabolismu aminokyselin jiného původu, než je uvedeno v bodě 4.3, podávat pouze po pečlivém zvážení poměru přínosu a rizika.
+
+Vystavení intravenózních roztoků pro parenterální výživu světlu, zejména po přidání příměsi se stopovými prvky a/nebo vitaminy, může mít v důsledku tvorby peroxidů a dalších produktů rozkladu nežádoucí  účinky  na  klinické  výsledky  u novorozenců.  Při  použití  u předčasně  narozených novorozenců a dětí mladších 2 let je přípravek Amiped třeba chránit před okolním světlem, dokud není podání dokončeno (viz body 4.2, 6.3 a 6.6). Během přípravy směsí nemusí být použití ochranného přebalu chránícího přípravek proti světlu vhodné. Nicméně je třeba během přípravy směsí co nejvíce zamezit vystavení světlu.
+
+Při infuzním podávání velkého objemu tekutin pacientům se srdeční insuficiencí je třeba postupovat s opatrností.
+
+U pacientů se zvýšenou osmolaritou séra je nutné postupovat opatrně.
+
+Poruchy rovnováhy  tekutin a elektrolytů  (například  hypotonická  dehydratace,  hyponatremie, hypokalemie) je třeba zkorigovat před zahájením podávání parenterální výživy.
+Je třeba pravidelně monitorovat hladinu elektrolytů v séru, hladinu glukózy v krvi, rovnováhu tekutin, acidobazickou rovnováhu a renální funkce.
+Také je třeba sledovat hladinu proteinů v séru a provádět vyšetření jaterních funkcí.
+
+U pacientů s renální insuficiencí je nutno dávku pečlivě upravit podle individuálních potřeb, závažnosti orgánové insuficience a typu nasazené renální substituční léčby (hemodialýza, hemofiltrace atd.).
+
+U pacientů s jaterní insuficiencí je nutno dávku pečlivě upravit podle individuálních potřeb a závažnosti orgánové insuficience.
+
+Roztoky aminokyselin jsou pouze jednou ze složek parenterální výživy. Aby byla parenterální výživa kompletní, je nutno současně s aminokyselinami podávat substráty, jež jsou neproteinovým zdrojem energie, esenciální mastné kyseliny, elektrolyty, vitamíny, tekutiny a stopové prvky.
+
+V případě potřeby mikroživin se musí používat pediatrické přípravky.
+
+
+Během dlouhodobého užívání (několik týdnů) je nutno důkladněji monitorovat krevní obraz a koagulační faktory.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+
+3
+
+Nejsou známy.
+
+4.6  Fertilita, těhotenství a kojení
+
+Přípravek Amiped je určen k použití pouze u pediatrické populace.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Není relevantní.
+
+4.8  Nežádoucí účinky
+
+Mohou se vyskytnout nežádoucí účinky, které však nesouvisejí specificky s tímto přípravkem, ale s parenterální výživou obecně, zejména na začátku parenterální výživy.
+
+Nežádoucí účinky jsou uvedeny níže na základě jejich frekvence:
+Velmi časté  (≥ 1/10)
+Časté     (≥ 1/100 až < 1/10)
+Méně časté   (≥ 1/1 000 až < 1/100) Vzácné     (≥ 1/10 000 to < 1/1 000) Velmi vzácné  (< 1/10 000)
+Není známo  (z dostupných údajů nelze určit)
+
+Poruchy imunitního systému
+Není známo: Alergické reakce
+
+Gastrointestinální poruchy
+Méně časté: Nausea, zvracení
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+
+4.9  Předávkování
+
+Příznaky předávkování tekutinami
+Předávkování nebo příliš vysoká rychlost infuze může vést k hyperhydrataci, nerovnováze elektrolytů a plicnímu edému.
+
+Příznaky předávkování aminokyselinami
+Předávkování nebo příliš vysoká rychlost infuze může vést k reakcím z intolerance, které se projeví v podobě nevolnosti, zvracení, třesení, bolesti hlavy, metabolické acidózy, hyperamonemie a renálních ztrát aminokyselin.
+
+Léčba
+Při výskytu reakcí z intolerance se infuze aminokyselin musí dočasně přerušit a později se v ní může pokračovat sníženou rychlostí.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+4
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Krevní náhrady, infuzní a perfuzní roztoky, intravenózní roztoky pro parenterální výživu, aminokyseliny
+ATC kód: B05BA01
+
+Mechanismus účinku
+Účelem parenterální výživy je dodávat veškeré živiny nezbytné pro růst, udržování stavu a regeneraci tělesných tkání apod.
+
+Aminokyseliny jsou zvláště důležité, protože jsou jednou ze složek nezbytných k syntéze proteinů. Intravenózně  podávané  aminokyseliny  jsou  včleněny  do  příslušných  intravaskulárních a intracelulárních zásob aminokyselin. Jak endogenní, tak exogenní aminokyseliny slouží jako substrát pro syntézu funkčních a strukturálních bílkovin.
+Aby nedocházelo k metabolizaci aminokyselin pro tvorbu energie a rovněž aby byly další procesy v organismu, pro něž je energie nezbytná, energií dostatečně zásobovány, je nutné současně zajistit neproteinové energie (ve formě sacharidů nebo tuků).
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Jelikož se tento přípravek podává intravenózní infuzí, biologická dostupnost aminokyselin obsažených v roztoku je 100 %.
+
+Distribuce
+Aminokyseliny jsou součástí řady proteinů v různých tělesných tkáních. Navíc je každá aminokyselina přítomna ve formě volné aminokyseliny v krvi a uvnitř buněk.
+
+Složení roztoku aminokyselin vychází z výsledků klinických výzkumů metabolismu intravenózně podávaných aminokyselin. Množství aminokyselin obsažené v roztoku bylo zvoleno tak, aby bylo dosaženo homogenního zvyšování koncentrace všech aminokyselin v plazmě. Během infuze tohoto léčivého přípravku se tedy udržuje fyziologický poměr jednotlivých aminokyselin, tj. homeostáza aminokyselin.
+
+Normální fetální růst a vývoj plodu závisí na nepřetržitém transferu aminokyselin z těla matky do plodu. Za převod aminokyselin mezi těmito dvěma tělesnými oběhy je zodpovědná placenta.
+
+Biotransformace
+Aminokyseliny, které nevstupuji do syntézy bílkovin, jsou metabolizovány následovně: Aminoskupina je transaminací oddělena od hlavního uhlíkového řetězce. Uhlíkový řetězec je buď přímo oxidován na CO2 nebo je použit jako substrát pro glukoneogenezi v játrech. Aminoskupina je také metabolizována v játrech na močovinu.
+
+Eliminace
+Pouze minimální množství aminokyselin se vylučuje v nezměněné formě močí.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+S přípravkem Amiped nebyly provedeny žádné neklinické studie. Aminokyseliny obsažené v přípravku Amiped jsou látky, které se přirozeně vyskytují v organismu.
+Z toho důvodu se neočekávají žádné reakce toxicity za předpokladu, že budou přísně dodrženy zásady indikací, kontraindikací a doporučeného dávkování.
+
+
+
+
+5
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Monohydrát kyseliny citronové (na úpravu pH) Voda pro injekci
+
+6.2  Inkompatibility
+
+Přípravek Amiped lze smísit s jinými živinami, jako jsou sacharidy, lipidy, vitamíny a stopové prvky, pouze za předpokladu, že u nich byla doložena kompatibilita.
+Údaje o kompatibilitě různých aditiv (např. elektrolytů, stopových prvků, vitamínů) a odpovídající době použitelnosti těchto příměsí si lze vyžádat od výrobce. Viz také bod 6.6.
+
+6.3  Doba použitelnosti
+
+Neotevřené (vak v přebalu)
+2 roky
+
+Po prvním otevření
+Léčivý přípravek se má použít okamžitě.
+Při použití u předčasně narozených novorozenců a dětí mladších 2 let je třeba roztok (ve vacích
+a aplikačních setech) chránit před světlem, dokud není podání dokončeno (viz body 4.2, 4.4 a 6.6).
+
+Během přípravy směsí
+Během přípravy směsí nemusí být použití ochranného přebalu chránícího přípravek proti světlu vhodné. Nicméně je třeba během přípravy směsí co nejvíce zamezit vystavení světlu.
+Po přimísení aditiv
+Z mikrobiologického hlediska má být směs podána okamžitě po přípravě. Není-li použita okamžitě, za dobu a podmínky uchovávání směsi před použitím odpovídá uživatel. Za normálních okolností nemá být směs skladována déle než 24 hodin při teplotě 2 °C – 8 °C, pokud přimísení neproběhlo
+v kontrolovaných a validovaných aseptických podmínkách.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání. Chraňte před mrazem.
+
+6.5  Druh obalu a obsah balení
+
+Přípravek Amiped se dodává v pružných vacích vyrobených z vícevrstvé fólie (polypropylen, styren- ethylen-butylen-styren (SEBS) a kopolyester-ether). Vnitřní vrstva, která je v kontaktu s roztokem, je z polypropylenu. Vaky obsahují 100 ml nebo 250 ml.
+
+Vak je zabalen v ochranném přebalu. Mezi vak a přebal je vložen absorbér kyslíku a indikátor kyslíku; indikátor kyslíku je tepelně formovaný blistr obsahující barvivo resorufin sodný citlivé na kyslík;
+sáček absorbéru kyslíku je vyroben z inertního materiálu a obsahuje hydroxid železitý (Obrázek A). Velikost balení: 12 x 100 ml a 12 x 250 ml.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Žádné zvláštní požadavky na likvidaci.
+
+6
+
+Obal je určen pouze k jednorázovému použití. Po použití zlikvidujte přebal, indikátor kyslíku, absorbér kyslíku, obal a veškerý nespotřebovaný obsah.
+
+Před otevřením přebalu zkontrolujte barvu indikátoru kyslíku (viz obrázek A). Jestliže indikátor
+kyslíku zrůžoví, přípravek nepoužívejte. Používejte jej pouze v případě, že je indikátor kyslíku žlutý.
+
+Používejte pouze tehdy, je-li roztok čirý, bezbarvý až světle žlutý, bez částic a vak ani jeho uzávěr není poškozen.
+
+Při použití u předčasně narozených novorozenců a dětí mladších 2 let chraňte roztoky pro parenterální výživu obsahující přípravek Amiped před světlem, dokud není podání dokončeno. Vystavení takových roztoků okolnímu světlu, zejména po přidání příměsi se stopovými prvky a/nebo vitaminy, vede
+k tvorbě peroxidů a dalších produktů rozkladu, čemuž lze zamezit ochranou před světlem (viz body 4.2, 4.4 a 6.3).
+
+Během přípravy směsí nemusí být použití ochranného přebalu chránícího přípravek proti světlu vhodné. Nicméně je třeba během přípravy směsí co nejvíce zamezit vystavení světlu.
+
+Pro podání používejte sterilní aplikační soupravu.
+
+Je-li pro přípravu kompletní parenterální výživy nutné přidat k tomuto léčivému přípravku další živiny, jako jsou sacharidy, lipidy, vitamíny, elektrolyty a stopové prvky, přimísení musí být
+provedeno v přísně aseptických podmínkách. Po přidání aditiva směs důkladně smíchejte. Zvláštní pozornost věnujte kompatibilitě příměsí.
+
+Amiped: Zacházení Obrázek A: Vak a přebal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obrázek B: Vak
+
+
+
+
+
+
+
+
+
+7
+
+otvor na zavěšení vaku  
+
+
+
+
+
+
+
+
+
+
+
+
+infuzní port     medikační port
+
+Otevírání:
+Vyjměte vak z ochranného přebalu – začněte roztržením od zářezů nahoře a vyjměte obal s roztokem (obrázek 1).
+Zlikvidujte přebal, indikátor kyslíku a absorbér kyslíku.
+Zkontrolujte netěsnosti. Pokud vak netěsní, přípravek zlikvidujte, protože mohlo dojít k narušení sterility.
+
+
+
+
+
+
+
+
+
+Přidání léku:
+Směsi se musí připravovat za dodržení přísně aseptických technik.
+Přes medikační port (s transparentním zbarvením) lze přidávat kompatibilní doplňkové léky.
+
+1. Odstraněním hliníkové fólie připravte medikační port (transparentní zbarvení) (obrázek 2a). Upozornění: Plocha pod fólií medikačního portu je sterilní.
+2. Propíchněte opětovně uzavíratelný medikační port a vstříkněte aditivum (aditiva) (obrázek 2b).
+3. Roztok a lék důkladně promíchejte (obrázek 3a).
+4. Před opětovným propíchnutím se může medikační port přetřít tampónem navlhčeným dezinfekčním prostředkem (např. isopropanolem).
+5. Vizuálně zkontrolujte, zda směs neobsahuje částice (obrázek 3b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+Během přípravy směsí:
+Během přípravy směsí nemusí být použití ochranného přebalu chránícího přípravek proti světlu vhodné. Přesto je třeba během přípravy směsí co nejvíce zamezit vystavení světlu.
+
+Příprava k podání:
+1. Z infuzního portu na spodní straně obalu (obrázek 4a) odstraňte hliníkovou fólii (zelené zbarvení) a nasaďte aplikační soupravu (obrázek 4b): používejte neodvzdušněnou infuzní
+soupravu nebo zavřete odvzdušňovací otvor odvzdušněné soupravy. Postupujte podle návodu k použití infuzní soupravy. Upozornění: Plocha pod fólií infuzního portu je sterilní.
+2. Vak zavěste na infuzní stojan (obrázek 5).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Další informace:
+Obal neobsahuje PVC, DEHP ani latex.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+B. Braun Melsungen AG Carl-Braun-Straße 1
+34212 Melsungen Německo
+
+Poštovní adresa:
+34209 Melsungen Německo
+Tel.: +49/5661/71-0 Fax: +49/5661/71-4567
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+76/482/13-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 11. 12. 2013
+Datum posledního prodloužení registrace: 11. 2. 2019
+
+
+
+9
+
+10.  DATUM REVIZE TEXTU
+
+15. 1. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

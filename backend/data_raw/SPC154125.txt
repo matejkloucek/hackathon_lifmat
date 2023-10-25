@@ -1,0 +1,315 @@
+sp.zn. sukls187999/2018
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Dihydrogenfosforečnan draselný Ardeapharma 68 mg/ml koncentrát pro infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+1000 ml koncentrátu pro infuzní roztok obsahuje kalii dihydrogenophosphas 68,0 g. K⁺           500 mmol/l
+H2PO4-          500 mmol/l
+500 mmol H2PO4- představuje ekvivalent 15,5 g fosforu. Seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+Koncentrát pro infuzní roztok
+Popis přípravku: čirý, bezbarvý roztok
+Osmolalita  810 mosmol/kg
+pH      3,5 - 5,5
+
+4.  KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+Léčba závažné i méně závažné deplece fosfátů s hypofosfatémií různého původu doprovázená deplecí draslíku s hypokalémií, nelze-li je zvládnout perorální suplementací.
+Přísun fosfátových a draselných iontů během kompletní nebo doplňkové parenterální výživy. Přípravek je vhodný pro dospělé.
+U dětí je použití omezeno pouze na léčbu závažné deplece fosfátů s hypofosfatémií, doprovázené deplecí
+draslíku s hypokalémií.
+4.2 Dávkování a způsob podání
+Dávkování
+Dávkování je individuální, řídí se potřebou podávání kalia a fosfátu. Plazmatické koncentrace těchto elektrolytů indikují potřebu jejich podávání společně s klinickým stavem nemocného a terapeutickým postupem.
+U pacientů s poruchou funkce ledvin nebo srdečními poruchami je třeba sledovat plazmatické hladiny a EKG, případně upravit dávkování.
+Nejčastěji se infuzní roztok podává tak, aby celková denní dávka fosfátů byla 0,2 - 0,5 mmol/kg do maximální denní dávky 50 mmol. Dihydrogenfosforečnan draselný je podáván v nosném roztoku (viz níže). Výsledná koncentrace kalia a fosfátů po naředění v nosném roztoku nesmí přesahovat 40 mmol/l.
+Pro správné dávkování dihydrogenfosforečnanu draselného u dospělých je možné použít následující tabulku:
+Rychlost podání∗
+
+Koncentrace fosfátů
+v séru
+< 0,3 mmol/l
+0,3 - 0,6 mmol/l (pokud perorální
+Hmotnost 40 – 60 kg
+
+25 - 30 mmol/den
+10 - 25 mmol/den
+Hmotnost 61 – 80 kg
+
+35 - 40 mmol/den
+15 - 30 mmol/den
+Hmotnost 81 – 120 kg
+
+40 - 60 mmol/den
+20 - 40 mmol/den
+
+1/8
+
+úprava není možná)
+∗Rychlost podání je třeba upravit podle klinického stavu a funkce ledvin.
+Zvláštní skupiny pacientů (viz také bod 4.4)
+Porucha funkce jater
+Při léčbě a nutriční podpoře nemocných s jaterní nedostatečností často hrozí současný deficit draslíku a fosfátu. Dihydrogenfosforečnan draselný je v tomto případě vhodný pro doplnění deficitu obou elektrolytů a k prevenci takzvaného refeeding syndromu (viz bod 4.4).
+Při jaterních chorobách a jaterní nedostatečnosti je denní dávka dihydrogenfosforečnanu draselného závislá na velikosti deficitu. Běžná denní dávka fosfátů je 16 - 40 mmol. Při depleci se dávka fosfátů zvyšuje podle potřeby a sérových hladin; většinou je maximální denní dávka 100 mmol, avšak může být i vyšší.
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin je vhodné upravit (zpravidla snížit) denní dávku podávaného roztoku
+dihydrogenfosforečnanu draselného.
+Malnutrice
+U pacientů s malnutricí, kteří dostávají roztok glukózy (často společně s roztokem aminokyselin a s tukovou emulzí) lze doporučit dávku podávaného dihydrogenfosforečnanu draselného jako 20 až 25 mEq na každých 1 000 kcal nutriční podpory.
+Pediatrická populace
+U dětí je dihydrogenfosforečnan draselný indikován pouze v případě závažné deplece fosfátů s hypokalémií.
+
+Věková skupina Nedonošenci
+0 - 6 měsíců
+7 - 12 měsíců
+1 - 18 let
+Parenterální výživa u dětí
+Fosfáty (mmol/kg⁻¹) 0,8 - 2
+0,7 - 1,3
+0,5
+0,2 - 0,7
+Draslík (mmol·kg⁻¹) 2 - 5
+1 - 3
+1 - 3
+1 - 3
+U dětí není dihydrogenfosforečnan draselný indikován jako součást parenterální výživy. Nemá se podávat jako součást parenterální výživy z důvodu možné precipitace s bivalentními kationty (Ca²⁺, Mg²⁺).
+U novorozenců je třeba vždy podávat během parenterální výživy roztok vápníku. Ten precipituje s anorganickým fosfátem, tedy i s roztokem dihydrogenfosforečnanu draselného, za vzniku nerozpustné sraženiny.
+U novorozenců a malých dětí vyžadujících parenterální výživu musí být použita organická sůl fosfátů a
+roztok dihydrogenfosforečnanu draselného je kontraindikován (viz bod 4.3).
+Způsob podání
+Přípravek se podává v nosném roztoku; zejména jde o 5% až 40% roztok glukózy nebo fyziologický roztok. Koncentrace kalia v podávaném výsledném infuzním roztoku nesmí přesáhnout 40 mmol/l, rychlost přísunu kalia do organismu je max. 20 mmol/hod u dospělého pacienta. Infuze s dihydrogenfosforečnanem draselným se zpravidla podává kontinuálně po dobu 12 - 24 hodin, rychlost se může změnit v případě těžké a život ohrožující současné deplece draslíku a fosfátu v organismu.
+4.3 Kontraindikace
+Hyperfosfatémie a/nebo hyperkalémie a/nebo hypokalcémie
+Podávání roztoku dihydrogenfosforečnanu draselného je kontraindikováno tam, kde je nutné podávat velké dávky  vápníku  a  hořčíku  (zejména  novorozenci  a  malé  děti).  Z tohoto  důvodu  je  roztok dihydrogenfosforečnanu draselného kontraindikován u nedonošených dětí, novorozenců, kojenců a malých dětí vyžadujících kompletní parenterální výživu. Viz také bod 4.2.
+
+
+2/8
+
+4.4 Zvláštní upozornění a opatření pro použití
+Přípravek nesmí být používán u pacientů s plazmatickou hladinou draslíku vyšší než 4,5 mmol/l a fosfátů vyšší než 2,4 mmol/l.
+Dihydrogenfosforečnan draselný má být podáván s opatrností pacientům se srdečním selháním, periferním nebo plicním edémem, poruchou funkce ledvin nebo stavy predisponujícími k hyperkalémii.
+Po dobu podávání dihydrogenfosforečnanu draselného je nutné kontrolovat hladinu kalia, fosfátů a vápníku v séru a další základní parametry vnitřního prostředí. Je nutné udržovat přiměřenou rychlost infuze.
+V léčbě deplece elektrolytů při acidóze se doporučuje průběžné sledování acidobazické rovnováhy, sérových elektrolytů, EKG a klinického stavu pacienta. Soli draslíku musí být používány opatrně u stavů spojených se srdečními bloky, protože zvýšená kalémie může zvýšit stupeň bloku.
+Dihydrogenfosforečnan draselný není možné použít jako jediný zdroj draslíku u všech nemocných. Zejména jde o rostoucí děti, dospívající jedince a rehabilitující nemocné, u nichž se předpokládá vyšší potřeba draslíku než fosfátů. Proto má být u této skupiny nemocných potřebná dávka draslíku podávána rovněž ve formě chloridu draselného.
+Fosfáty musí být podávány obezřetně u pacientů s predispozicí k hyperfosfatémii, jako jsou pacienti s hypoparatyreózou, chronickým renálním onemocněním, rhabdomyolýzou, akutní dehydratací, akutní pankreatitidou, závažnou poruchou funkce ledvin a extenzivním poškozením tkání (závažné popáleniny).
+Fosfáty musí být používány s opatrností u pacientů s nízkými koncentracemi vápníku v séru, neboť tyto hladiny se mohou při rychlém podávání fosfátů dále snižovat. Hypokalcémii lze očekávat u stavů, jako je hypoparatyreóza, osteomalácie, chronická renální onemocnění, akutní pankreatitida, rhabdomyolýza, rachitis, myotonia congenita a srdeční onemocnění (zejména u digitalizovaných pacientů, viz interakce).
+U pacientů s narušeným vylučováním kalia (zejména pacienti s chronickým renálním onemocněním) může podávání draselných solí vyvolat hyperkalémii. Následné narušení funkcí srdce nemusí být patrné na EKG. Doporučuje se průběžné monitorování hladiny elektrolytů v krvi, přičemž není rozhodující pouze absolutní koncentrace draslíku, ale rovněž rychlost zvýšení koncentrace draslíku v krvi.
+Porucha funkce ledvin
+U pacientů s chronickým onemocněním ledvin ve stadiích 3 a 4 musí být sledovány hladiny sérového draslíku, vápníku, fosforečnanu a alkalické fosfatázy při každé kontrole sérového kreatininu nebo eGFR.
+Fosfát je vylučován aktivně ledvinami a jeho retence se zvyšuje s poruchou funkce ledvin, proto má být u pacientů s těžkou poruchou funkce ledvin používán s obezřetností. Zhoršené vylučování s následným vzestupem plazmatické hladiny zvyšuje riziko vzniku nerozpustných fosforečnanů.
+Aby se zabránilo hypofosfatémii během dialyzační léčby, je výhodné do roztoku dialyzátu přidat dihydrogenfosforečnan draselný do konečné koncentrace 1 mmol/l. Toto lze provést rovněž u dětí.
+U snížené funkce ledvin při současném užívání antagonistů systému renin-angiotenzin má být před zahájením léčby a poté v pravidelných intervalech a při změně dávky sledována hladina draslíku. Při použití alfakalcidiolu nebo kalcitriolu je třeba rovněž monitorovat hladinu fosfátu v krvi.
+Respirační selhání
+Nízká hladina fosfátů je kritická pro funkci dýchacích svalů. V případě těžké deplece spojené s respiračním selháním  je  dodávka  fosfátu  zvýšena  (zvýšením  rychlosti  infuze,  zvýšením  koncentrace dihydrogenfosforečnanu draselného v infuzi nebo opakováním infuze).
+Srdeční selhání
+Před podáním roztoku dihydrogenfosforečnanu draselného je nutné zkontrolovat hladinu draslíku a fosfátu v krvi a zhodnotit renální funkce. Tento postup je třeba provádět a opakovat zejména v případě současného podávání léčiv ze skupiny inhibitorů ACE, antagonistů receptorů pro mineralokortikoidy nebo angiotenzin
+II. V průběhu podávání je třeba monitorovat EKG.
+Diabetická ketoacidóza
+U pacientů s diabetickou ketoacidózou má být fosfát podáván pouze v případě nástupu účinku inzulinu, který je zpravidla spojen s těžkou hypofosfatémií, která může vyústit během 48 hodin ve svalovou slabost spojenou s respiračním selháním a následnou hypoxií. Pokud je hladina fosfátů během léčby normální nebo zvýšená, není fosfát nezbytnou součástí léčby diabetické ketoacidózy.
+3/8
+
+Podání dihydrogenfosforečnanu draselného u pacientů s diabetickou ketoacidózou se nedoporučuje během počáteční hemodynamické resuscitace, pokud hladina draslíku v séru zůstává nad 5,5 mmol/l. Pokud je hladina draslíku v séru nižší než 5,5 mmol/l a pacient má zachovalou diurézu, doporučuje se podávat 0,9% roztok chloridu sodného s 40 mmol/l draslíku. Pokud hladina draslíku v séru klesne pod 3,5 mmol/l, je třeba rychlost podávání draslíku zvýšit.
+U dětí s diabetickou ketoacidózou nesmí být dihydrogenfosforečnan draselný používán jako jediný zdroj draslíku.
+Refeeding syndrom, parenterální výživa
+Refeeding syndrom souvisí s významným poklesem koncentrace fosfátu a draslíku u těžce podvyživených pacientů, kteří dostávají nutriční podporu. Riziko vzniku refeeding syndromu je zvýšeno u pacientů, kteří mají BMI nižší než 16 kg/m², ztratili více než 15 % tělesné hmotnosti během předchozích 3 - 6 měsíců, měli nízký nutriční příjem po dobu více než 10 dnů, mají nízkou hladinu draslíku, fosfátů nebo hořčíku před podáním výživy, u pacientů s anamnézou abúzu alkoholu a pacientů léčených inzulínem, chemoterapeutiky, antacidy nebo diuretiky.
+V případě rizika refeeding syndromu mají být hladiny fosfátu sledovány denně až do stabilizace hladin iontů, následně pak třikrát týdně. U pacientů s rizikem rozvoje refeeding syndromu je rovněž třeba zvážit perorální, enterální nebo infuzní podání draslíku (2 až 4 mmol/kg/den), fosfátů (0,3 - 0,6 mmol/kg/den), hořčíku (0,2 mmol/kg/den intravenózně nebo 0,4 mmol/kg/den perorálně). Výjimkou jsou případy, kdy jsou plazmatické hladiny těchto elektrolytů před podáním výživy zvýšené. Korekce plazmatických hladin před podáním výživy není nutná.
+U chronicky podvyživených jedinců může vést dlouhodobé podávání parenterální výživy s nízkým obsahem fosfátů k těžké depleci fosfátů a kostním změnám.
+Roztok nesmí být podáván společně s roztoky obsahujícími vápník (viz také bod 6.2 Inkompatibility).
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Přípravek je nutné podávat velmi opatrně při současné terapii léky, které vedou ke zvyšování hladiny kalia. Současný vyšší přísun vápníku zvyšuje riziko precipitace s dihydrogenfosforečnanem draselným, což může způsobovat embolizaci vzniklých krystalů do drobných cév. Součin molárních koncentrací anorganického fosfátu a vápníku v roztoku musí být nižší než 80 mmol/l.
+Přípravek je nutné podávat velmi opatrně při současné terapii:
+-  katecholaminy: riziko hypofosfatémie
+-  beta-adrenergními agonisty: riziko hypofosfatémie
+-  hydrogenuhličitanem sodným a acetazolamidem: riziko hypofosfatémie
+-  při použití alfakalcidolu nebo kalcitriolu je třeba monitorovat sérový fosfát
+-  inzulinem: léčba inzulinem snižuje hladinu draslíku a fosfátu
+-  inhibitory ACE
+-  přípravky obsahující vápník
+-  přípravky obsahující jiné fosfáty
+-  přípravky obsahující draslík
+-  kalium šetřícími diuretiky
+-  nesteroidními protizánětlivými přípravky (NSAIDs) a dalšími analgetiky
+-  cyklosporinem, heparinem
+-  digoxinem
+-  suxamethoniem
+-  kortikosteroidy a léky ovlivňujícími metabolismus kostní tkáně, zvláště mineralokortikoidy: zvýšení rizika tvorby otoků
+-  salicyláty: současné podávání dihydrogenfosforečnanu draselného může zvýšit sérové koncentrace salicylátů, protože jejich exkrece klesá při acidifikaci moče. Pokud má pacient již stabilizovanou hladinu salicylátů, může podání dihydrogenfosforečnanu draselného zvýšit jejich hladiny na toxické.
+-  bisfosfonáty: současné podávání může vyvolat hypokalcémii
+Přípravek může zvyšovat aciditu moči, a ovlivňovat tak vylučování některých léčiv.
+Suxamethonium způsobuje depolarizaci motorických plotének v kosterním svalstvu, což má za následek okamžité  zvýšení  plazmatické  koncentrace  draslíku.  Vzestup je  obvykle  malý,  asi  0,5  mmol/l.
+4/8
+
+Suxamethonium nemá být použito u pacientů, jejichž koncentrace draslíku v krvi je zvýšená, jako například
+s poruchou funkce ledvin nebo u pacientů, u nichž probíhá infuze kalia.
+4.6 Fertilita, těhotenství a kojení
+Těhotenství
+Kalium-dihydrogenfosfát je v terapii používán mnoho desetiletí. Za uvedenou dobu nebyly prokázány žádné nežádoucí účinky na průběh těhotenství nebo na zdraví plodu/novorozence. Přesto při jeho podávání v tomto období je třeba zvýšené opatrnosti vzhledem k nepřímému ovlivnění stavu embrya/plodu.
+Kojení
+Přípravek může být podán kojícím ženám.
+Fertilita
+Adekvátní toxikologické studie u zvířat nebyly prováděny. Nepředpokládá se negativní účinek na fertilitu.
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Není relevantní.
+4.8 Nežádoucí účinky
+Shrnutí bezpečnostního profilu
+U přípravku Dihydrogenfosforečnan draselný Ardeapharma nejsou přímé nežádoucí účinky při správném dávkování a dodržení rychlosti aplikace známy. Vzácně se může objevit lokální podráždění, bolest v místě podání a/nebo lokální účinky na cévní stěnu – tromboflebitida. Vysoké dávky, vysoká koncentrace, rychlá a/nebo dlouhotrvající infuze může vést k hyperkalémii, hyperfosfatémii, hypokalcémii, poruchám ledvin a/nebo srdeční činnosti, kalcifikaci měkkých tkání a dalším komplikacím, které s těmito stavy souvisejí.
+Seznam nežádoucích účinků v tabulkovém formátu
+
+Třída orgánových systémů
+
+Poruchy metabolismu a výživy
+
+Poruchy nervového systému Srdeční poruchy
+
+Cévní poruchy
+Poruchy ledvin a močových cest Celkové poruchy a reakce v místě
+aplikace
+Nežádoucí účinek Hyperkalémie Hyperfosfatémie Hypokalcémie Parestézie Hypokalcemické křeče
+Poruchy srdečního rytmu
+
+Tromboflebitida
+
+Renální poškození Kalcifikace měkkých tkání
+Frekvence výskytu
+
+Není známo
+(z dostupných údajů nelze určit)
+
+Není známo
+(z dostupných údajů nelze určit)
+Není známo
+(z dostupných údajů nelze určit)
+Není známo
+(z dostupných údajů nelze určit)
+Není známo
+(z dostupných údajů nelze určit)
+Není známo
+(z dostupných údajů nelze určit)
+Popis vybraných nežádoucích účinků
+Hyperkalémie se obvykle projevuje parestezií, svalovou slabostí, změnou srdečního rytmu, změnami EKG, zmateností, apatií a/nebo hypotenzí.
+Hypokalcémie se obvykle projevuje nervovou podrážděností, spasmy až tetanií.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+5/8
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9 Předávkování
+Při předávkování vzniká hyperkalémie, která se projeví poruchami nervosvalového vedení (svalová slabost,  parestézie  končetin,  paralýzy,  poruchy  srdečního  rytmu  s  možností  zástavy  srdce). Při příznacích nebo průkazu hyperkalémie je nutné okamžitě zastavit přívod kalia. Nadbytek kalia z organismu se odstraní po dostatečném zavodnění podáním diuretik s kaliuretickým účinkem, v těžkých případech je nutná hemodialýza.
+Předávkování může způsobit hyperfosfatémii a hypokalcémii, v tom případě je třeba infuzi přerušit a zahájit
+korekci hladiny vápníku.
+Nezbytné je kontinuální monitorování EKG.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: krevní náhrady, infuzní a perfuzní roztoky; roztoky elektrolytů; fosforečnan draslíku, včetně kombinací s jinými solemi draslíku
+ATC kód: B05XA06
+Ve vodném prostředí včetně plazmy dihydrogenfosforečnan draselný disociuje. Draslík je nejčastějším kationtem intracelulárního prostoru, fosfát je hlavním intracelulárním aniontem.  Koncentrovaný roztok určený k přípravě infuzních roztoků obsahuje ionty tělu vlastní, je používán pro hrazení deficitu fosforu a/nebo draslíku podle individuálních potřeb nemocného.
+5.2 Farmakokinetické vlastnosti
+Všeobecná informace – aktivní metabolity u anorganických solí nevznikají.
+Charakteristika léčivé látky – jedná se o jednoduchou anorganickou sůl, přičemž jde o ionty organismu
+vlastní. Je rozpustná ve vodě, nerozpustná v tucích.
+Charakteristika podání přípravku pacientům – jde o přípravek podávaný nitrožilně. Po i. v. podání se kalium v organismu rychle distribuuje. Koncentrační gradient mezi intracelulárním a extracelulárním prostorem je udržován činností membránové Na-K pumpy. Zhruba 98 % draslíku v lidském organismu se nachází v intracelulárním prostoru (především v kosterním svalstvu), kam je aktivně transportován. Zhruba 95 % vyloučeného draslíku je filtrováno ledvinami, jejichž funkce je pro rovnováhu draslíku určující.
+Alkalóza je často spojena s hypokalémií a acidóza s hyperkalémií. Plazmatické hladiny draslíku při těchto
+stavech tedy indikují abnormality.
+Zhruba 85 % fosfátů je obsaženo intracelulárně v kostech a zubech. Hladiny fosfátu jsou určovány především jeho distribucí mezi kostmi a extracelulárním prostorem, aktivní resorpcí ze střeva a aktivní filtrací v ledvinách. Alkalóza a diabetická ketoacidóza jsou často spojeny s hypofosfatémií.
+Draslík a fosfát jsou využívány buňkami při syntéze makromolekul (anabolické děje). Při zvýšeném příjmu živin a při obnovení příjmu potravy u podvyživených pacientů tedy rostou nároky organismu na příjem draslíku a fosfátu. Děti mají zvýšené nároky na přísun fosfátu a plazmatické hladiny jsou u nich tedy běžně vyšší než u dospělé populace.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+Jedná se o přípravek dlouhodobě používaný („dobře zavedené léčebné použití“), u něhož při zavádění do terapie nebyly prováděny předklinické studie. Přípravek obsahuje ionty tělu vlastní. Preklinická data o bezpečnosti se vztahují na jiné cesty podání.
+Dihydrogenfosforečnan draselný nevykazoval toxicitu u březích matek nebo teratogenní efekt v dávkách do 320 resp. 282 mg/kg/den p.o. u myší resp. potkanů. Rovněž nevykazoval teratogenitu v testech na kuřecím embryu. V Amesově testu u Saccharomyces cerevisiae kmen D4 a Salmonella typhimurium kmeny TA1535,
+
+6/8
+
+TA1537 a TA1538 nevykazoval mutagenní účinek v testech bez i s metabolickou aktivací. Akutní toxicita dihydrogenfosforečnanu draselného je nízká, LD50 = 3200 mg/kg p.o. u myší a 2820 mg/kg p.o. u potkanů.
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+Voda pro injekci
+6.2 Inkompatibility
+Přípravek nesmí být míchán s roztoky obsahujícími kalcium nebo magnesium, může dojít k precipitaci částic v roztoku (nerozpustné fosfáty). Rovněž může dojít k precipitaci po smíchání s roztoky obsahujícími soli železa nebo hliníku. Infuze by neměla probíhat současně s podáváním těchto látek jakoukoliv cestou.
+Přípravek nesmí být přidáván k/ředěn Hartmannovým nebo Ringerovým infuzním roztokem, včetně
+Ringerova infuzního roztoku s natrium-laktátem.
+Přípravek rovněž nelze mísit s přípravky s obsahem ciprofloxacinu, dobutamin-hydrochloridu, dolasetronu, pantoprazolum natricum, amiodaron-hydrochloridu, caspofungin-acetátu, ceftarolin fosamilu a doripenemu.
+6.3 Doba použitelnosti
+V neporušeném obalu 3 roky.
+Doba použitelnosti po prvním otevření/po naředění:
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 48 hodin při 25 °C.
+Chemická a fyzikální stabilita po naředění izotonickým roztokem NaCl nebo 5% až 40% roztokem glukózy byla prokázána na dobu 24 hodin při 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně doba nemá být delší než 24 hodin při 2 až 8 °C, pokud otevření/ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4 Zvláštní opatření pro uchovávání
+Chraňte před mrazem.
+6.5 Druh obalu a obsah balení
+Skleněná infuzní lahev s pryžovou zátkou a kovovým uzávěrem, kartonová krabice. Velikost balení: 1x 80 ml, 1x 200 ml, 20x 80 ml, 10x 200 ml
+Všechny velikosti balení nemusí být obchodovány.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním Přípravek nesmí být použit nenaředěný!
+Lze ředit izotonickým roztokem chloridu sodného nebo 5% až 40% roztokem glukózy.
+Parenterální přípravky je nutno před podáním vizuálně zkontrolovat. Pokud jsou viditelné pevné částice,
+nebo byl-li obal porušen, přípravek se nesmí aplikovat.
+Infuzní přípravek je koncentrovaný roztok, a proto nemá být uchováván při teplotě nižší, než je běžná pokojová teplota. Krystaly, které se mohou během uchovávání vytvořit, mohou být rozpuštěny zahřátím láhve. Jako preventivní ochranné opatření proti nechtěně infundovaným krystalům v roztoku je nutné použít infuzní set opatřený filtrem.
+Přípravek je určen pouze k jednorázovému použití.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními předpisy.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+ARDEAPHARMA, a.s., Třeboňská 229, 373 63 Ševětín, Česká republika
+7/8
+
+8.  REGISTRAČNÍ ČÍSLO
+39/138/18-C
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 5. 3. 2020
+Datum posledního prodloužení registrace:
+
+10. DATUM REVIZE TEXTU
+5. 3. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8/8

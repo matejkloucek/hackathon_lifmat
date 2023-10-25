@@ -1,0 +1,645 @@
+Sp. zn. sukls335916/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Deferasirox Sandoz 360 mg potahované tablety
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje deferasiroxum 360 mg. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+Potahovaná tableta
+
+Tmavě modrá oválná bikonvexní potahovaná tableta - se zkosenými hranami, s vyraženým „NVR“ na jedné straně a „360“ na mírném sklonu mezi dvěma vyraženými zakřivenými liniemi na druhé straně. Přibližné rozměry tablety jsou 17 mm x 6,7 mm.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Deferasirox Sandoz je indikován k léčbě chronického přetížení (nadměrné zátěže) organismu železem způsobeného transfuzemi krve (erytrocytární masy v dávce ≥ 7 ml/kg/měsíc) u pacientů s beta- talasemií major ve věku 6 let a více.
+
+Deferasirox Sandoz je také indikován k léčbě chronického přetížení organismu železem způsobeného transfuzemi krve, kde je léčba deferoxaminem kontraindikována nebo nevhodná u následujících skupin pacientů:
+-   u pediatrických pacientů s beta-talasemií major s chronickým přetížením železem způsobeným častými transfuzemi krve (erytrocytární masy v dávce ≥ 7 ml/kg/měsíc) ve věku od 2 do 5 let,
+-   u dospělých a pediatrických pacientů s beta-talasemií major s chronickým přetížením železem způsobeným málo častými transfuzemi krve (erytrocytární masy v dávce < 7 ml/kg/měsíc) ve věku od 2 let,
+-   u dospělých a pediatrických pacientů s jinými typy anemií ve věku od 2 let.
+
+Deferasirox Sandoz je také indikován k léčbě chronického přetížení organismu železem u pacientů s talasemií nezávislou na podávání krevních transfuzí vyžadujících chelatační léčbu ve věku od 10 let v případech, kdy je léčba deferoxaminem kontraindikovaná nebo nevhodná.
+
+4.2  Dávkování a způsob podání
+
+Zahajovat léčbu a léčit přípravkem Deferasirox Sandoz má lékař se zkušenostmi s léčbou chronického přetížení železem.
+
+Dávkování
+
+Potransfuzní přetížení železem
+
+Doporučuje se léčbu zahájit po transfuzi přibližně 20 jednotek (cca 100 ml/kg) erytrocytární masy (PRBC, packed red blood cells), nebo pokud bylo klinickým sledováním prokázáno chronické přetížení železem (tj. hladina feritinu v séru > 1 000 mikrogramů/l). Dávky (v mg/kg) musí být
+
+vypočteny a zaokrouhleny na nejbližší sílu celé tablety.
+
+Cílem chelatační léčby je odstranění množství železa, které bylo podáno transfuzemi, a snížit existující přetížení železem podle potřeby.
+
+Během chelatační léčby je třeba dbát zvýšené opatrnosti, aby se u všech pacientů snížilo riziko nadměrné chelatace (viz bod 4.4).
+
+Potahované tablety Deferasirox Sandoz představují vyšší biologickou dostupnost v porovnání s deferaxiroxem ve formě dispergovatelných tablet (viz bod 5.2). V případě přechodu z lékové formy dispergovatelné tablety na potahované tablety má být dávka ve formě potahovaných tablet o 30 % nižší, než byla dávka užívaných ve formě dispergovatelných tablet, zaokrouhleno na počet celých tablet.
+Přípravkem Deferasirox Sandoz nelze zajistit všechna doporučená dávkování. V případě potřeby je nutné použít přípravky s obsahem deferasiroxu jiného držitele rozhodnutí o registraci.
+Odpovídající dávky pro odlišné lékové formy jsou uvedeny v následující tabulce. Tabulka 1  Doporučené dávkování pro potransfuzní přetížení železem
+
+Potahované tablety/granule
+Dispergovatelné tablety
+Transfuze       Hladina feritinu
+
+Úvodní dávka  14 mg/kg/den    20 mg/kg/den    20 jednotek
+(cca
+100 ml/kg) PRBC
+nebo  >1000 µg/l
+
+Alternativní úvodní dávky
+21 mg/kg/den     30 mg/kg/den     >14 ml/kg/
+měsíc PRBC (cca
+>4 jednotky/ měsíc u dospělého)
+7 mg/kg/den     10 mg/kg/den     <7 ml/kg/
+měsíc PRBC (cca
+<2 jednotky/ měsíc u dospělého)
+
+Pacienti,
+u kterých byla zátěž železem úspěšně léčena deferoxamine
+Třetina dávky deferoxaminu
+Polovina dávky deferoxaminu
+Sledování                                          Měsíčně
+
+Cílové rozmezí
+500-1000 µg/l
+
+Úprava dávky           Zvýšení                        >2500 µg/l
+
+(každých
+3-6 měsíců)
+3,5 - 7 mg/kg/den
+až 28 mg/kg/den
+5-10 mg/kg/den
+až 40 mg/kg/den
+Snížení
+3,5 - 7 mg/kg/den   5-10 mg/kg/den                 <2500 µg/l
+
+U pacientů léčených dávkami
+>21 mg/kg/den
+U pacientů léčených dávkami
+>30 mg/kg/den
+-  Po dosažení požadované hodnoty                 500-1000 µg/l
+
+Maximální dávka Zvažovat přerušení
+28 mg/kg/den    40 mg/kg/den
+
+
+<500 µg/l
+
+Úvodní dávka
+Doporučovaná úvodní denní dávka potahovaných tablet přípravku Deferasirox Sandoz je 14 mg/kg tělesné hmotnosti.
+
+O úvodní denní dávce 21 mg/kg je možné uvažovat u pacientů, u kterých je nutno snížit zvýšenou hladinu železa v organismu a kteří dostávají erytrocytární masu v dávce více než 14 ml/kg/měsíc (přibližně > 4 jednotky/měsíc pro dospělé).
+O úvodní denní dávce 7 mg/kg je možné uvažovat u pacientů, u kterých není nutno snížit hladinu železa v organismu a kteří dostávají erytrocytární masu v dávce méně než 7 ml/kg/měsíc (přibližně < 2 jednotky/měsíc pro dospělé). Odpověď pacienta musí být monitorována a není-li dosaženo dostatečného účinku, je nutné zvážit zvýšení dávky (viz bod 5.1).
+
+U pacientů, u kterých byla zátěž železem již úspěšně léčena deferoxaminem, může být za úvodní dávku potahovaných tablet přípravku Deferasirox Sandoz považována numerická jedna třetina dávky deferoxaminu (např. pacient, kterému je podáváno 40 mg/kg/den deferoxaminu po dobu 5 dnů v týdnu (nebo ekvivalent), má být převeden na úvodní denní dávku 14 mg/kg/den potahovaných tablet přípravku Deferasirox Sandoz). Je-li výsledkem dávka menší než 14 mg/kg tělesné hmotnosti, je nutno pacientovu odpověď monitorovat a není-li dosaženo dostatečného účinku, je nutno zvážit zvýšení dávky (viz bod 5.1).
+
+Úprava dávky
+Doporučuje se monitorovat hladinu feritinu v séru každý měsíc a dávku přípravku Deferasirox Sandoz upravit, pokud je to nutné, každý 3. až 6. měsíc podle trendu změn hodnot hladin sérového feritinu. Úpravy dávky mají být prováděny postupně o 3,5 až 7 mg/kg podle individuální odpovědi pacienta a léčebného cíle (udržení nebo snížení zátěže železem). U pacientů, kteří nejsou dostatečně léčeni dávkami 21 mg/kg (např. hladiny sérového feritinu přetrvávají nad hodnotou 2 500 μg/l a nevykazují klesající trend během léčby), mohou být zvažovány dávky do 28 mg/kg. Dostupnost dlouhodobých údajů získaných z klinických studií o účinnosti a bezpečnosti deferasiroxu ve formě
+dispergovatelných tablet použitého v dávkách nad 30 mg/kg je v současné době omezená (264 pacientů bylo sledováno v průměru 1 rok po zvýšení dávkování). Pokud je dosaženo pouze nevýznamných výsledků léčby hemosiderózy při dávkách do 21 mg/kg, další zvyšování (až do maxima 28 mg/kg) nemusí přinést uspokojivý výsledek a mají být zvažovány alternativní způsoby léčby. Pokud není dosaženo uspokojivé léčby při dávkách nad 21 mg/kg, nemá léčba s tímto dávkováním pokračovat a mají být zvažovány alternativní způsoby léčby, pokud je to možné. Dávky vyšší než 28 mg/kg se nedoporučují pro omezené zkušenosti s takovým dávkováním (viz bod 5.1).
+U pacientů léčených dávkami vyššími než 21 mg/kg má být zváženo postupné snižování dávky o 3,5 až 7 mg/kg v okamžiku dosažení kontroly (např. hladiny sérového feritinu stabilně pod 2 500 µg/l a vykazující v průběhu času klesající trend). U pacientů, jejichž hladina sérového feritinu dosáhla požadované hodnoty (obvykle mezi 500 a 1 000 μg/l), má být zvažováno postupné snižování dávky o 3,5 až 7 mg/kg tak, aby se hladiny sérového feritinu udržely v daném rozmezí a aby se snížilo riziko nadměrné chelatace. Jestliže hladina sérového feritinu soustavně klesá pod 500 µg/l, je nutno uvažovat o přerušení léčby (viz bod 4.4).
+
+Syndromy talasemie nezávislé na podávání krevních transfuzí
+
+Chelatační léčba má být zahájena při známkách přetížení organismu železem (koncentrace železa v játrech LIC ≥ 5 mg Fe/g sušiny [dw] nebo stálá koncentrace sérového feritinu > 800 µg/l). LIC je preferovaná metoda stanovení přetížení železem a má být použita, kdykoli je to možné.
+U všech pacientů se má během chelatační léčby dbát zvýšené opatrnosti, aby se minimalizovalo riziko nadměrné chelatace (viz bod 4.4).
+
+Deferasirox ve formě potahovaných tablet představuje vyšší biologickou dostupnost v porovnání s deferaxiroxem ve formě dispergovatelných tablet (viz bod 5.2). V případě přechodu z lékové formy dispergovatelné tablety na potahované tablety má být dávka ve formě potahovaných tablet o 30% nižší, než byla dávka užívaná ve formě dispergovatelných tablet, zaokrouhleno na počet celých tablet.
+Odpovídající dávky pro odlišné lékové formy jsou uvedeny v následující tabulce.
+
+Tabulka 2  Doporučené dávkování pro syndromy talasemie nezávislé na podávání krevních transfuzí
+
+
+Potahované tablety/granule
+Dispergovatelné tablety
+Koncentrace
+železa v játrech (LIC)*
+Hladina feritinu
+Úvodní dávka  7 mg/kg/den     10 mg/kg/den    ≥5 mg Fe/g dw   nebo  >800 µg/l
+Sledování                                          Měsíčně
+
+Úprava dávky
+(každých
+3-6 měsíců)
+
+Maximální
+Zvýšení          ≥7 mg Fe/g dw   nebo  >2000 µg/l 3,5 - 7 mg/kg/den   5-10 mg/kg/den
+Snížení          <7 mg Fe/g dw   nebo  ≤2000 µg/l 3,5 - 7 mg/kg/den   5-10 mg/kg/den
+14 mg/kg/den    20 mg/kg/den
+dávka    
+7 mg/kg/den    10 mg/kg/den
+Pro dospělé         nehodnoceno   a    ≤2000 µg/l Pro pediatrické pacienty
+Přerušení                           <3 mg Fe/g dw  nebo  <300 µg/l
+Obnova léčby                               Není doporučeno
+*LIC je preferovaná metoda stanovení přetížení železem
+
+Úvodní dávka
+Doporučená úvodní denní dávka potahovaných tablet přípravku Deferasirox Sandoz je u pacientů se syndromy talasemie nezávislých na podávání krevních transfuzí 7 mg/kg tělesné hmotnosti.
+
+Úprava dávky
+Doporučuje se monitorovat hladinu feritinu v séru každý měsíc, aby se zhodnotila odpověď pacienta na léčbu a snížilo se riziko nadměrné chelatace (viz bod 4.4). V případě pacientů s LIC ≥ 7 mg Fe/g sušiny nebo se stálou koncentrací sérového feritinu > 2000 µg/l bez klesajícího trendu v průběhu času a pokud pacient dobře toleruje léčivý přípravek, má se každý 3. až 6. měsíc léčby zvážit navýšení dávky o 3,5 až 7 mg/kg. Dávky vyšší než 14 mg/kg se nedoporučují vzhledem k omezeným zkušenostem s takovým dávkováním u pacientů se syndromy talasemie nezávislými na podávání krevních transfuzí.
+
+U pacientů bez stanovené LIC a s hladinou sérového feritinu ≤ 2000 µg/l nemá dávka překročit 7 mg/kg.
+
+U pacientů s navýšením dávky nad >7 mg/kg je doporučeno snížení dávky na 7 mg/kg nebo méně při LIC < 7 mg Fe/g sušiny nebo sérovém feritinu ≤ 2000 µg/l.
+
+Ukončení léčby
+Jakmile byla dosažena přijatelná hladina železa v organismu (LIC < 3 mg Fe/g sušiny nebo hladina sérového feritinu < 300 µg/l), má být léčba ukončena. O znovuzahájení léčby u pacientů, u nichž došlo k opětovné akumulaci železa po dosažení přijatelné hladiny železa, nejsou dostupná žádná data a proto se znovuzahájení léčby nedoporučuje.
+Zvláštní populace
+
+Starší pacienti (≥ 65 let věku)
+Doporučené dávkování pro starší pacienty je stejné jako dávkování uvedené výše. V
+
+klinických studiích byla u starších pacientů zaznamenána vyšší frekvence nežádoucích účinků než u pacientů mladších (především průjmu), u těchto pacientů mají být pozorně sledovány nežádoucí účinky, které mohou vyžadovat úpravu dávkování.
+
+Pediatrická populace
+Potransfuzní přetížení železem
+Doporučené dávkování pro pediatrické pacienty ve věku od 2 do 17 let s přetížením železem způsobeným transfuzemi je stejné jako pro dospělé (viz bod 4.2). Doporučuje se sledovat hladinu feritinu v séru každý měsíc, aby se zhodnotila odpověď pacienta na léčbu a snížilo se riziko nadměrné chelatace (viz bod 4.4). Při výpočtu dávky je nutné vzít v úvahu změnu tělesné hmotnosti pediatrických pacientů během růstu.
+
+U dětí s přetížením železem způsobeným transfuzemi mezi 2 a 5 lety věku je expozice nižší než u dospělých (viz bod 5.2). Tato věková skupina může tedy vyžadovat vyšší dávkování, než je nutné u dospělých. Počáteční dávka však má být stejná jako u dospělých s následnou individuální titrací.
+
+Syndromy talasemie nezávislé na podávání krevních transfuzí
+U pediatrických pacientů s talasemií nezávislou na podávání krevních transfuzí nemá dávka překročit 7 mg/kg. U těchto pacientů je nezbytné pečlivé monitorování LIC a sérového feritinu, aby se zamezilo nadměrné chelataci (viz bod 4.4). Jako doplnění měsíčního vyhodnocení sérové hladiny feritinu má být u těchto pacientů s hladinou sérového feritinu ≤800 mikrogramů/l hodnocena LIC každé tři měsíce.
+
+Děti od narození do 23 měsíců věku:
+Bezpečnost a účinnost deferasiroxuu dětí od narození do 23 měsíců věku nebyly dosud stanoveny. Nejsou dostupné žádné údaje.
+
+Pacienti s poruchou funkce ledvin
+Deferasirox nebyl studován u pacientů s poruchou funkce ledvin, a je proto kontraindikován u pacientů s odhadovanou clearance kreatininu < 60 ml/min (viz body 4.3 a 4.4).
+
+Pacienti s poruchou funkce jater
+Deferasirox Sandoz se nedoporučuje u pacientů s těžkou poruchou funkce jater (Child-Pugh třída C). U pacientů se středně těžkou poruchou funkce jater (Child-Pugh třída B) má být dávka výrazně snížena s následným postupným zvyšováním do výše 50 % (viz body 4.4 a 5.2), přípravek Deferasirox Sandoz musí být u těchto pacientů používán opatrně. Jaterní funkce všech pacientů mají být monitorovány před léčbou, každé 2 týdny během prvního měsíce léčby a potom každý měsíc (viz bod 4.4).
+Způsob podání Perorální podání.
+
+Potahované tablety se polykají celé a zapíjí se dostatečným množstvím vody. Pacientům, kteří nejsou schopni polykat celé tablety, je možné potahované tablety rozdrtit a podat dávku zamíchanou v jídle, např. v jogurtu nebo v jablečném pyré. Dávka má být ihned a zcela spotřebována, dávku nelze ukládat pro pozdější použití.
+
+Potahované tablety musí být užívány jednou denně, nejlépe každý den ve stejnou dobu nalačno nebo s lehkým jídlem (viz body 4.5 a 5.2).
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+Kombinace s jinými terapeutickými chelátory železa, protože bezpečnost takových kombinací nebyla
+
+stanovena (viz bod 4.5).
+
+Pacienti s odhadovanou clearance kreatininu < 60 ml/min.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Funkce ledvin
+
+Deferasirox byl studován pouze u pacientů s výchozí hodnotou sérového kreatininu odpovídající normálnímu rozmezí v daném věku.
+
+V klinických studiích se zvýšení sérové hladiny kreatininu o > 33 % při ≥ 2 po sobě jdoucích měřeních, někdy nad horní hranici normálního rozmezí, vyskytlo asi u 36 % pacientů. Toto zvýšení bylo závislé na dávce. Asi u dvou třetin pacientů se zvýšenou sérovou hladinou kreatininu se hladiny vrátily pod úroveň 33 % bez úpravy dávkování. U zbývající třetiny pacientů zvýšení sérové hladiny kreatininu nereagovalo vždy na snížení dávky nebo na ukončení léčby. V některých případech byla po snížení dávky pozorována pouze stabilizace hodnot sérového kreatininu. Po uvedení deferasiroxu na trh byly hlášeny případy akutního selhání ledvin (viz bod 4.8).
+V některých případech po uvedení deferasiroxu na trh vedlo zhoršení funkce ledvin k jejich selhání, které vyžadovalo přechodnou nebo trvalou potřebu dialýzy.
+
+Důvody zvýšení sérové hladiny kreatininu nebyly objasněny. Zvláštní pozornost je tedy nutno věnovat monitorování sérové hladiny kreatininu u pacientů, kterým je souběžně podáván léčivý přípravek snižující funkci ledvin, a u pacientů léčených vysokými dávkami deferasiroxu a/nebo u málo častých transfuzí krve (erytrocytární masy v dávce < 7 ml/kg/měsíc nebo < 2 jednotky/měsíc u dospělého). I když v klinických studiích nebylo po zvýšení dávek deferasiroxu ve formě dispergovatelných tablet nad 30 mg/kg pozorováno zvýšení počtu nežádoucích účinků týkajících se ledvin, zvýšené riziko nežádoucích účinků týkajících se ledvin při dávkách přípravku Deferasirox Sandoz nad 21 mg/kg nelze vyloučit.
+
+Stanovení sérové hladiny kreatininu se doporučuje provést před zahájením léčby dvakrát. Sérová hladina kreatininu, clearance kreatininu (stanovená Cockcroft-Gaultovou nebo MDRD metodou u dospělých a Schwartzovou metodou u dětí) a/nebo plazmatické hladiny cystatinu C je nutno monitorovat před léčbou, každý týden v prvním měsíci po zahájení léčby nebo po změně dávky přípravku Deferasirox Sandoz (včetně změny lékové formy) a poté jednou měsíčně. U pacientů s již existující poruchou funkce ledvin a pacientů, kteří užívají léčivé přípravky snižující funkci ledvin, může být vyšší riziko komplikací. U pacientů, u kterých se vyvine průjem nebo zvracení, je nezbytné zajistit dostatečnou hydrataci.
+V postmarketingovém období byly hlášeny případy metabolické acidózy, které se objevovaly během léčby deferasiroxem. Většina těchto pacientů měla poruchu funkce ledvin, renální tubulopatii (Fanconiho syndrom), průjem nebo stavy, kdy je známou komplikací acidobazická nerovnováha.Pokud je to klinicky indikováno, má být u těchto populací sledována acidobazická rovnováha. U pacientů s metabolickou acidózou má být zvažováno přerušení léčby přípravkem Deferasirox Sandoz.
+
+Případy závažných forem renální tubulopatie (např. Fanconiho syndrom) a selhání ledvin spojené se změnami vědomí v důsledku hyperamonemické encefalopatie byly hlášeny u pacientů léčených deferasiroxem, zejména u dětí. Je třeba zvážit možnost hyperamonemické encefalopatie a změřit hladinu amoniaku u pacientů, u nichž se vyvinou nevysvětlitelné změny duševního stavu během léčby přípravkem Deferasirox Sandoz.
+
+
+Tabulka 3 Úprava dávky a přerušení léčby pro renální sledování
+
+Sérový kreatinin                 Clearance
+
+
+Před začátkem léčby Kontraindikováno
+Sledování
+-  První měsíc po zahájení léčby nebo po úpravě dávky (včetně změny lékové formy)
+-  Potom
+
+Dvakrát (2x)      a
+
+
+Týdně         a
+
+
+
+
+
+
+měsíčně        a
+kreatininu
+jednou (1x)
+<60 ml.min Týdně
+
+
+
+
+Měsíčně
+Snížení denní dávky o 7 mg/kg/den (potahované tablety),
+jsou-li dodrženy následující renální parametry při dvou po sobě jdoucích návštěvách a není ničím jiným ovlivněno
+
+
+Dospělí pacienti Pediatričtí pacienti
+>33% nad průměrnou hodnotou před léčbou
+> věkově odpovídající ULN**
+a a/nebo
+Snížení <LLN* (<90 ml/min)
+Snížení <LLN* (<90 ml/min)
+Po úprave dávky, přerušení léčby, jestliže
+
+Dospělí a pediatričtí pacienti
+Zůstává >33% nad průměrnou hodnotou před léčbou
+a/nebo         Snížení <LLN* (<90 ml/min)
+*LLN: dolní hranice normálního rozmezí
+**ULN: horní hranice normálního rozmezí
+
+
+Nová léčba může být zahájena v závislosti na individuálním klinickém obrazu.
+
+Snížení dávky nebo ukončení léčby je možno zvážit při výskytu abnormálních hodnot indikátorů ledvinných tubulárních funkcí a/nebo jeli to klinicky indikováno:
+•   proteinurie (stanovení je nutno provádět před léčbou a pak vždy měsíčně)
+•   glykosurie u nediabetiků a snížená hladina draslíku, fosfátů, hořčíku nebo urátů v séru, nebo fosfaturie a aminoacidurie v moči (monitorovat podle potřeby).
+Renální tubulopatie byla hlášena především u dětí a dospívajících s beta-talasemií léčených deferasiroxem.
+
+Pacienty je nutno předat do péče urologovi a případně zvážit další specializovaná vyšetření (např. biopsii ledvin) pokud při snížení dávky nebo vysazení:
+•  zůstává sérová hladina kreatininu významně zvýšena a
+•  existují-li perzistující abnormality jiných markerů renálních funkcí (např. proteinurie, Fanconiho syndrom).
+
+Funkce jater
+U pacientů léčených deferasiroxem bylo pozorováno zvýšení hodnot jaterních testů. U pacientů léčených deferasiroxem byly po jeho uvedení na trh hlášeny případy selhání jater, z nichž některé byly fatální. Závažné formy spojené se změnami vědomí v důsledku hyperamonemické encefalopatie mohou nastat u pacientů léčených deferasiroxem, zejména u dětí. Je třeba zvážit možnost hyperamonemické encefalopatie a změřit hladinu amoniaku u pacientů, u nichž se vyvinou nevysvětlitelné změny duševního stavu během léčby přípravkem Deferasirox Sandoz. U pacientů, ohrožených dehydratací (např.v důsledku průjmu, zvracení), zejména u dětí s akutním onemocněním, je třeba dbát na udržení přiměřené hydratace. Většina hlášení selhání jater zahrnovala pacienty s významnou morbiditou, včetně již existujících chronických onemocnění jater (včetně cirhózy a hepatitidy C) a multiorgánového selhání. Úloha deferasiroxu jako přispívajícího nebo zhoršujícího faktoru však nemůže být vyloučena (viz bod 4.8).
+
+Kontrolní vyšetření sérových hladin aminotransferáz, bilirubinu a alkalické fosfatázy se doporučuje provést před zahájením léčby, pak každé 2 týdny během prvního měsíce léčby a dále pak jednou za měsíc. Jestliže zvýšená hladina aminotransferáz v séru přetrvává, dále se zvyšuje a nejsou známy žádné jiné příčiny tohoto zvýšení, léčba přípravkem Deferasirox Sandoz má být přerušena. Jakmile je příčina abnormálních hodnot jaterních funkčních testů objasněna nebo se hladiny vrátí k normálním hodnotám, je možné uvažovat o opatrném opětovném zahájení léčby nižší dávkou s následným postupným zvyšováním dávky.
+
+Nedoporučuje se podávat deferasirox pacientům s těžkou poruchou funkce jater (Child-Pugh třída C) (viz bod 5.2).
+
+
+
+Tabulka 4  Přehled doporučení pro sledování bezpečnosti
+
+Test                         Frekvence
+
+
+Sérový kreatinin
+
+Clearance kreatininu a/nebo cystatin C v plazmě
+
+
+
+
+Proteinurie
+
+Další ukazatele funkce tubulů ledvin (jako je glykosurie u nediabetických pacientů a nízké hladiny draslíku, fosfátů, hořčíku nebo urátů v krevním séru, fosfaturie, aminoacidurie)
+Dvakrát před léčbou.
+Jednou týdně během prvního měsíce léčby Před léčbou.
+Jednou týdně během prvního měsíce léčby
+nebo po úpravě dávky (včetně změny lékové formy).
+Poté jednou měsíčně. Před léčbou.
+Poté jednou měsíčně.
+Podle potřeby.
+
+
+Sérové hladiny aminotransferáz, bilirubinu, alkalické fosfatázy
+
+
+Vyšetření sluchu a zraku
+
+Tělesná hmotnost, výška a pohlavní vývoj
+Před léčbou.
+Každé 2 týdny během prvního měsíce léčby.
+Poté jednou měsíčně. Před léčbou.
+Poté jednou ročně. Před léčbou.
+Jednou ročně u pediatrických pacientů.
+
+U pacientů s krátkou očekávanou délkou života (například s vysoce rizikovými myelodysplastickými syndromy), zejména pokud souběžná onemocnění zvyšují riziko nežádoucích účinků, může být prospěch z léčby přípravkem Deferasirox Sandoz omezen a může být nižší než riziko. Z těchto důvodů není léčba přípravkem Deferasirox Sandoz u těchto pacientů doporučená.
+
+U starších pacientů má být kvůli vyšší frekvenci nežádoucích účinků (především průjmu) dbáno opatrnosti.
+
+Data o dětech s talasemií nezávislou na podávání krevních transfuzí jsou velmi omezená (viz bod 5.1). Proto musí být léčba přípravkem Deferasirox Sandoz pečlivě sledována, aby bylo možné zjistit nežádoucí účinky a sledovat zátěž železem u pediatrické populace. Před zahájením léčby přípravkem Deferasirox Sandoz u silně železem přetížených dětí s talasemií nezávislou na podávání krevních transfuzí si má být lékař vědom skutečnosti, že důsledky dlouhodobé expozice u těchto pacientů nejsou v současné době známé.
+
+Gastrointestinální onemocnění
+
+U pacientů, kteří užívali deferasirox, včetně dětí a dospívajících, byly hlášeny ulcerace a krvácení
+z horní části gastrointestinálního traktu. U některých pacientů byly pozorovány mnohočetné ulcerace (viz bod 4.8). Byla zaznamenána hlášení tvorby ulcerací komplikovaných perforací gastrointestinálního traktu (GIT). Také byla zaznamenána hlášení fatální gastrointestinální hemoragie, především u starších pacientů s hematologickými malignitami a/nebo nízkými počty trombocytů.
+Lékaři i pacienti mají během léčby přípravkem Deferasirox Sandoz zůstat pozorní k výskytu známek a příznaků gastrointestinálního vředu a krvácení. V případě gastrointestinálních ulcerací nebo krvácení je třeba podávání přípravku Deferasirox Sandoz přerušit a je třeba okamžitě provést další vyšetření a zahájit léčbu. Je třeba věnovat pozornost pacientům, kteří užívají Deferasirox Sandoz v kombinaci s látkami se známým ulcerogenním potenciálem, jako jsou nesteroidní antirevmatika (NSA), kortikosteroidy nebo perorální bisfosfonáty, pacientům užívajícím antikoagulancia a pacientům s počtem trombocytů pod 50 000/mm³ (50 x 10⁹/l) (viz bod 4.5).
+
+Kožní onemocnění
+Během léčby přípravkem Deferasirox Sandoz se může objevit kožní vyrážka. Vyrážka většinou vymizí spontánně. Je-li nutné léčbu přerušit, může být po vymizení vyrážky léčba obnovena nižší dávkou s následným postupným zvyšováním dávky. V závažných případech může být obnovení léčby prováděno s kombinací krátkodobého perorálního podávání kortikosteroidů. Byly hlášeny závažné, život ohrožující nebo fatální, nežádoucí kožní reakce (SCARs) zahrnující Stevensův- Johnsonův syndrom (SJS), toxickou epidermální nekrolýzu (TEN) a lékovou reakci s eozinofilií a systémovými příznaky (DRESS). Při podezření na závažnou nežádoucí kožní reakci musí být podávání přípravku Deferasirox Sandoz okamžitě ukončeno a nesmí být znovu zahájeno. Při předepisování tohoto léku mají být pacienti upozorněni na možné známky a příznaky závažných kožních reakcí a mají být důkladně sledováni.
+Hypersenzitivní reakce
+U pacientů léčených deferasiroxem byly hlášeny případy závažných hypersenzitivních reakcí (jako anafylaxe a angioedém), u většiny případů se reakce vyskytla během prvního měsíce léčby (viz bod 4.8). Objeví-li se takové reakce, je nutné ukončit podávání přípravku Deferasirox Sandoz a zavést odpovídající léčbu. U pacientů, u nichž se objevila hypersenzitivní reakce, nesmí být léčba deferasiroxem znovu zahájena vzhledem k riziku anafylaktického šoku (viz bod 4.3).
+Zrak a sluch
+Byly hlášeny poruchy sluchu (zhoršení sluchu) a zraku (zákal čočky) (viz bod 4.8). Před zahájením léčby se doporučuje vyšetření sluchu a zraku (včetně fundoskopie) a potom v pravidelných intervalech (každých 12 měsíců). Při zaznamenání poruch během léčby je nutné uvažovat o snížení dávky nebo přerušení léčby.
+
+Poruchy krve
+V období po uvedení na trh byly hlášeny případy leukopenie, trombocytopenie nebo pancytopenie (popřípadě zhoršení těchto cytopenií) a zhoršení stavu anemie u pacientů léčených deferasiroxem. Většina z těchto pacientů měla již dříve hematologické poruchy, které jsou často spojené s poškozením kostní dřeně. Nicméně přispívající nebo přitěžující vliv nelze vyloučit. Přerušení léčby má být zváženo u pacientů, u nichž se vyvinula nevysvětlitelná cytopenie.
+
+Další pokyny
+Hladinu sérového feritinu se doporučuje vyšetřovat každý měsíc, aby se stanovila odpověď pacienta na léčbu a zabránilo se nadměrné chelataci (viz bod 4.2). V období léčby vysokými dávkami nebo pokud se hladiny sérového feritinu blíží cílovému rozmezí se doporučuje dávku snížit nebo podrobněji sledovat funkce ledvin a jater a hladinu sérového feritinu. Pokud hladina sérového feritinu soustavně klesá pod 500 µg/l (u potransfuzního přetížení železem) nebo pod 300 µg/l (u syndromů talasemie nezávislých na podávání krevních transfuzí), je nutno uvažovat o přerušení léčby.
+
+Výsledky testů sérového kreatininu, sérového feritinu a sérových aminotransferáz je nutno zaznamenávat a pravidelně vyhodnocovat z hlediska vývoje.
+
+Ve dvou klinických studiích u pediatrických pacientů léčených deferasiroxem déle než 5 let nebylo zjištěno ovlivnění růstu a pohlavního vývoje (viz bod 4.8). Avšak, jako obecné preventivní opatření při léčbě pediatrických pacientů s nadměrnou zátěží železem způsobenou transfuzemi, mají být u pediatrických pacientů sledovány tělesná hmotnost, výška a sexuální vývoj, a to před léčbou a pak v pravidelných intervalech (každých 12 měsíců).
+
+Srdeční poruchy jsou známou komplikací těžkého přetížení železem. Při dlouhodobé léčbě přípravkem Deferasirox Sandoz je nutno u pacientů s těžkým přetížením železem monitorovat funkce srdce.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Bezpečnost deferasiroxu v kombinaci s jinými chelátory železa nebyla stanovena. Z tohoto důvodu se nesmí kombinovat s jinou léčbou chelátory železa (viz bod 4.3).
+
+Interakce s jídlem
+Cmax deferasiroxu ve formě potahovaných tablet byla zvýšena (o 29 %), pokud byl užíván spolu s jídlem bohatým na tuky. Z tohoto důvodu musí být potahované tablety přípravku Deferasirox Sandoz užívány buď nalačno nebo s lehkým jídlem a přednostně vždy ve stejnou denní dobu (viz body 4.2 a 5.2).
+
+Látky snižující systémovou expozici deferasiroxu
+Metabolismus deferasiroxu je závislý na enzymech UGT. Ve studii se zdravými dobrovolníky současné používání deferasiroxu (jednorázová dávka 30 mg/kg, dispergovatelné tablety) a silného induktoru UGT, rifampicinu (opakovaná dávka 600 mg/den), mělo za následek pokles expozice deferasiroxu o 44 % (90% CI: 37 %-51 %). Proto by současné podávání přípravku Deferasirox Sandoz se silnými induktory UGT (jako je rifampicin, karbamazepin, fenytoin, fenobarbital, ritonavir) mohlo vést ke snížení účinnosti přípravku Deferasirox Sandoz. Během kombinace a po kombinaci je nutno monitorovat pacientovu hladinu sérového feritinu a případně upravit dávku přípravku Deferasirox s Sandoz.
+
+V mechanistické studii k určení stupně enterohepatální recyklace kolestyramin významně snižoval expozici deferasiroxu (viz bod 5.2).
+
+Interakce s midazolamem a jinými látkami metabolizovanými enzymem CYP3A4
+Ve studii se zdravými dobrovolníky vedlo současné podávání deferasiroxu ve formě dispergovatelných tablet a midazolamu (substrátu CYP3A4) ke snížení expozice midazolamu o 17 % (90% CI: 8 %-26
+%).
+V běžném klinickém prostředí může být tento účinek ještě výraznější. Vzhledem k možnému snížení účinnosti musí být uplatněna zvýšená opatrnost při současném podávání deferasiroxu v kombinaci
+s látkami metabolizovanými enzymem CYP3A4 (např. cyklosporin, simvastatin, hormonální antikoncepční přípravky, bepridil, ergotamin).
+
+Interakce s repaglinidem a jinými látkami metabolizovanými enzymem CYP2C8
+Ve studii se zdravými dobrovolníky současné podávání deferasiroxu jako středně silného inhibitoru CYP2C8 (30 mg/kg denně, dispergovatelné tablety), a repaglinidu, substrátu CYP2C8, podaného
+v jednorázové dávce 0,5 mg, zvýšilo hodnoty AUC repaglinidu asi 2,3krát (90% CI [2,03-2,63]) a Cmax, repaglinidu 1,6krát (90% CI [1,42-1,84]). Vzhledem k tomu, že pro repaglinid v dávkách vyšších než 0,5 mg nebyly stanoveny interakce, má být současné podávání deferasiroxu s repaglinidem vyloučeno. Pokud je kombinace nezbytná, má být prováděno pečlivé klinické monitorování a monitorování glykemie (viz bod 4.4). Nelze vyloučit interakci deferasiroxu a jiných substrátů CYP2C8 jako paklitaxelu.
+
+Interakce s theofylinem a jinými látkami metabolizovanými enzymem CYP1A2
+Ve studii se zdravými dobrovolníky vyústilo současné podávání deferasiroxu jako inhibitoru CYP1A2 (opakovaná dávka 30 mg/kg/den, dispergovatelné tablety) a substrátu CYP1A2 theofylinu
+
+(jednorázová dávka 120 mg) ve zvýšení AUC theofylinu o 84 % (90% CI: 73 % až 95 %). Cmax jednorázové dávky nebyla ovlivněna, ale zvýšení Cmax theofylinu se očekává u chronického dávkování. Proto není současné užívání deferasiroxu a theofylinu doporučené. Při současném podávání deferasiroxu a theofylinu je doporučeno sledovat koncentraci theofylinu a má se zvážit snížení dávky theofylinu.
+Nelze vyloučit interakci mezi deferasiroxem a dalšími substráty CYP1A2. Pro látky, které jsou převážně metabolizovány CYP1A2 a které mají úzký terapeutický index (např. klozapin, tizanidin) platí stejná doporučení jako pro theofylin.
+
+Další informace
+Souběžné podávání deferasiroxu a antacid obsahujících hliník nebylo formálně studováno. Ačkoli má deferasirox nižší afinitu k hliníku ve srovnání s železem, není doporučeno užívat tablety deferasiroxu s antacidy obsahujícími hliník.
+
+Souběžné podávání deferasiroxu s látkami se známým ulcerogenním potenciálem, jako jsou NSA (včetně kyseliny acetylsalicylové ve vysokých dávkách), kortikosteroidy nebo perorální bisfosfonáty, může zvýšit riziko gastrointestinální toxicity (viz bod 4.4). Současné podávání deferasiroxu s antikoagulancii také může zvýšit riziko gastrointestinálního krvácení. Pokud je deferasirox kombinován s těmito látkami, je vyžadováno pečlivé klinické sledování.
+
+Souběžné podávání deferasiroxu a busulfanu vedlo ke zvýšené expozici busulfanu (AUC), ale mechanismus interakce zůstává neobjasněn. Je-li to možné, má být provedeno vyhodnocení farmakokinetiky (AUC, clearance) testovací dávky busulfanu, aby bylo možné upravit dávkování.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Nejsou k dispozici klinické údaje o podávání deferasiroxu během těhotenství. Studie na zvířatech prokázaly určitou reprodukční toxicitu v dávkách toxických pro matku (viz bod 5.3). Potenciální riziko pro člověka není známé.
+
+Proto se preventivně doporučuje nepodávat přípravek Deferasirox Sandoz v průběhu těhotenství, pokud to není nezbytně nutné.
+
+Přípravek Deferasirox Sandoz může snížit účinnost hormonální antikoncepce (viz bod 4.5). Ženám ve fertilním věku se doporučuje při užívání přípravku Deferasirox Sandoz používat i další nehormonální typ antikoncepce.
+
+Kojení
+Ve studiích na zvířatech bylo zjištěno, že deferasirox je rychle a ve značném rozsahu vylučován do mateřského mléka. Účinek na mláďata nebyl zjištěn. Není známo, zda je deferasirox vylučován do lidského mateřského mléka. V průběhu podávání přípravku Deferasirox Sandoz se kojení nedoporučuje.
+
+Fertilita
+Údaje o fertilitě u lidí nejsou známy. U zvířat nebyly nalezeny nežádoucí účinky na samčí nebo samičí fertilitu (viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Deferasirox Sandoz má mírný vliv na schopnost řídit nebo obsluhovat stroje. Pacienti, u kterých se vyskytly závratě jako méně častý nežádoucí účinek, mají zvýšit opatrnost při řízení nebo obsluze strojů (viz bod 4.8).
+
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Nejčastějšími hlášenými nežádoucími účinky během chronické léčby v období klinických studií s deferasiroxem ve formě dispergovatelných tablet byly u dospělých a pediatrické populace gastrointestinální poruchy (především nauzea, zvracení, průjem nebo bolesti břicha) a kožní vyrážka. Průjem je hlášen častěji u dětských pacientů ve věku od 2 do 5 let a u starších pacientů. Tyto nežádoucí účinky jsou závislé na dávce, jsou převážně mírné až středně závažné, obvykle přechodného charakteru a většinou vymizí při pokračování léčby.
+
+V klinických studiích se u cca 36 % pacientů vyskytlo v závislosti na dávce zvýšení sérového kreatininu, nicméně ve většině případů se hladina pohybovala v normálním rozmezí. Během prvního roku léčby bylo pozorováno průměrné snížení clearance kreatininu u pediatrických i u dospělých pacientů s beta talasemií a potransfuzním přetížením železem, dle záznamů hodnoty v následujících letech léčby již dále neklesaly. Bylo hlášeno zvýšení hladin jaterních aminotransferáz. Je doporučeno bezpečnostní sledování změn parametrů jaterních a ledvinových funkcí. Poruchy sluchu (zhoršení sluchu) a zraku (zákal oční čočky) nejsou obvyklé, nicméně pravidelné roční prohlídky jsou doporučeny (viz bod 4.4).
+
+Při užívání deferasiroxu byly hlášeny závažné nežádoucí kožní reakce (SCARs) zahrnující Stevensův-Johnsonův syndrom (SJS), toxickou epidermální nekrolýzu (TEN) a lékovou reakci s eozinofilií a systémovými příznaky (DRESS) (viz bod 4.4).
+
+Seznam nežádoucích účinků v tabulce
+Nežádoucí účinky jsou seřazeny níže s použitím následující konvence: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1000 až <1/100); vzácné (≥1/10000 až <1/1000); velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit). V každé skupině frekvence jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+Tabulka 5
+Poruchy krve a lymfatického systému
+Není známo                  Pancytopenie1, trombocytopenie1, zhoršení anemie1, neutropenie1
+Poruchy imunitního systému
+Není známo                   Hypersenzitivní    reakce    (včetně anafylaktických reakcí a angioedému)1
+Poruchy metabolismu a výživy
+Není známo                  Metabolická acidóza1
+Psychiatrické poruchy
+Méně časté                   Úzkost, poruchy spánku
+Poruchy nervového systému
+Časté                      Bolest hlavy
+Méně časté                    Závratě
+Poruchy oka
+Méně časté                    Katarakta, makulopatie
+Vzácné                      Optická neuritida
+Poruchy ucha a labyrintu
+Méně časté                    Hluchota
+Respirační, hrudní a mediastinální poruchy
+Méně časté                    Bolest hrtanu
+Gastrointestinální poruchy
+Časté                       Průjem, zácpa, zvracení, nauzea, bolest břicha, abdominální distenze, dyspepsie
+
+Méně časté
+
+
+Vzácné Není známo
+Poruchy jater a žlučových cest
+Gastrointestinální krvácení, žaludeční vřed (včetně mnohočetných vředů), duodenální vřed, gastritida
+Ezofagitida
+Perforace GIT1, akutní pankreatitida1
+Časté                       Zvýšená hladina aminotransferáz
+Méně časté                    Hepatitida, cholelitiáza
+Není známo                    Selhání jater1, 2
+Poruchy kůže a podkožní tkáně
+
+Časté Méně časté Vzácné
+
+Není známo
+
+
+
+Poruchy ledvin a močových cest
+Velmi časté Časté Méně časté
+
+Není známo
+
+
+Celkové poruchy a reakce v místě aplikace
+Vyrážka, svědění Poruchy pigmentace
+Léková reakce s eozinofilií a systémovými příznaky (DRESS)
+Stevensův-Johnsonův syndrom1, hypersenzitivní vaskulitida1, kopřivka1, erythema multiforme1, alopecie1, toxická epidermální nekrolýza (TEN)1
+
+Zvýšená hladina kreatininu v krvi Proteinurie
+Renální tubulární onemocnění2 (získaný Fanconiho syndrom), glykosurie
+Akutní selhání ledvin1, 2, tubulointersticiální nefritida1, nefrolitiáza1, renální tubulární nekróza1
+Méně časté                    Horečka, edém, únava
+
+¹   Nežádoucí účinky hlášené z postmarketingové zkušenosti. Tyto účinky jsou odvozeny ze spontánních hlášení, pro které není vždy možné zodpovědně stanovit frekvenci nebo příčinnou souvislost s léčivým přípravkem.
+²   Byly hlášeny závažné formy spojené se změnami vědomí v důsledku hyperamonemické encefalopatie.
+
+Popis vybraných nežádoucích účinků
+Žlučové kameny a s nimi spojené žlučníkové obtíže byly hlášeny u 2 % pacientů. Zvýšení hladin jaterních aminotransferáz bylo hlášeno jako nežádoucí účinek léku u 2 % pacientů. Zvýšení hladin aminotransferáz vyšší než 10násobek horní hranice normálních hodnot naznačující hepatitidu bylo méně časté (0,3 %). Po uvedení deferasiroxu ve formě dispergovatelných tablet na trh bylo hlášeno jaterní selhání, z nichž některé bylo fatální (viz bod 4.4). V postmarketingovém období byly hlášeny případy metabolické acidózy. Většina těchto pacientů měla poruchu funkce ledvin, renální tubulopatii (Fanconiho syndrom), průjem nebo stavy, kdy je známou komplikací acidobazická nerovnováha (viz bod 4.4). Bez zjevných biliárních předpokladů se objevily případy závažné akutní pankreatitidy.
+Obdobně jako při léčbě jinými chelatačními činidly, byla u pacientů léčených deferasiroxem zřídka pozorována porucha slyšení tónů o vysoké frekvenci a časné katarakty (viz bod 4.4).
+
+Clearance kreatininu u potransfuzního přetížení železem
+V retrospektivní metaanalýze 2102 dospělých a pediatrických pacientů s beta-talasemií a potransfuzním přetížením železem léčených deferasiroxem (dispergovatelné tablety) ve dvou randomizovaných klinických studiích a čtyřech otevřených studiích až po dobu pěti let, byl pozorován během prvního roku léčby průměrný pokles clearance kreatininu u dospělých pacientů v 13,2 % (95% CI: -14,4 % až -12,1 %; n=935) a u pediatrických pacientů v 9,9 % (95% CI: -11,1 % až -8,6 %; n=1142). V podskupině pacientů (n=250 až po dobu pěti let) nebyl pozorován další pokles průměrných
+
+hodnot clearance kreatininu.
+
+Klinická studie u pacientů se syndromy talasemie nezávislé na podávání krevních transfuzí V 1leté studii u pacientů se syndromy talasemie nezávislé na podávání krevních transfuzí a s
+přetížením železem (dispergovatelné tablety v dávce 10 mg/kg/den) patří mezi nejčastější nežádoucí účinky spojené se studijní medikací hlášené pacienty průjem (9,1 %), vyrážka (9,1 %) a nauzea (7,3
+%). Abnormální hladiny sérového kreatininu byly hlášené u 5,5 % pacientů a clearance kreatininu u 1,8
+% pacientů. Více jak dvojnásobné zvýšení hladin jaterních aminotransferáz oproti výchozímu stavu a jejich 5násobné převýšení horního limitu fyziologické hodnoty bylo hlášeno u 1,8 % pacientů.
+Pediatrická populace
+Ve dvou klinických studiích u pediatrických pacientů léčených deferasiroxem déle než 5 let nebylo zjištěno ovlivnění růstu a pohlavního vývoje (viz bod 4.4).
+
+U pediatrických pacientů ve věku od 2 do 5 let je průjem hlášený častěji než u starších pacientů.
+
+Renální tubulopatie byla hlášená především u dětí a dospívajících s beta-talasemií léčených deferasiroxem. Po uvedení deferasiroxu na trh bylo hlášeno velké množství případů metabolické acidózy, která se vyskytla u dětí v souvislosti s Fanconiho syndromem.
+Zejména u dětí a u dospívajících byla hlášena akutní pankreatitida.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit- nezadouci-ucinek.
+
+
+4. 9 Předávkování
+
+Časnými symptomy akutního předávkování jsou zažívací problémy, jako je bolest břicha, průjem, nauzea a zvracení. Byly hlášeny případy poruch funkce jater a ledvin, včetně případů zvýšených hladin jaterních enzymů a kreatininu, s návratem k normě po ukončení léčby. Chybně podaná jednorázová dávka 90 mg/kg vedla k diagnóze Fanconiho syndromu, který ustoupil po léčbě.
+
+Pro deferasirox neexistuje žádné specifické antidotum. Mohou být indikovány standardní postupy pro léčbu předávkování a symptomatická léčba dle klinické potřeby.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: všechny jiné terapeutické přípravky, látky tvořící cheláty s železem, ATC kód: V03AC03
+Mechanismus účinku
+Deferasirox je perorálně účinná chelatační látka, která je vysoce selektivní pro trojmocné železo. Je to trojvazné chelatační činidlo, které váže železo s vysokou afinitou v poměru 2 : 1. Deferasirox podporuje vylučování železa, a to převážně do stolice. Deferasirox má malou afinitu k zinku a mědi, a nepůsobí proto trvalý pokles hladin těchto kovů v séru.
+
+Farmakodynamické účinky
+V bilanční metabolické studii železa provedené u dospělých pacientů s thalesemií s nadměrnou zátěží železa indukoval deferasirox (dispergovatelné tablety) v denních dávkách 10, 20 a 40 mg/kg
+
+průměrnou exkrexi železa 0,119; 0,329 a 0,445 mg Fe/kg tělesné hmotnosti a den.
+
+Klinická účinnost a bezpečnost
+Studie klinické účinnosti byly provedeny u deferasiroxu (dispergovatelné tablety).
+
+Deferasirox byl studován u 411 dospělých (ve věku ≥ 16 let) a 292 pediatrických pacientů (ve věku od 2 do < 16 let) s chronickým přetížením organismu železem v důsledku krevních transfuzí. Z pediatrických pacientů bylo 52 ve věku od 2 do 5 let. Mezi základní onemocnění, která vyžadovala transfuze, patřila beta-talasemie, srpkovitá anemie a jiné kongenitální a získané anemie (myelodysplastický syndrom, Diamond-Blackfanův syndrom, aplastická anemie a jiné velmi vzácné anemie).
+
+Denní léčba deferasiroxem (dispergovatelné tablety) dávkami 20 a 30 mg/kg po dobu jednoho roku dospělých, kteří dostávali opakovaně transfuze, a pediatrických pacientů s beta-talasemií vedla ke snížení indikátorů celkového železa v organismu; koncentrace železa v játrech byla v průměru snížena o 0,4 a 8,9 mg/g jater (suchá hmotnost biopticky získané tkáně), sérová hladina feritinu poklesla v průměru přibližně o 36 a 926 mikrogramů/l. Při těchto stejných dávkách byly poměry vyloučeného železa : příjmu železa 1,02 (udávající netto bilanci železa) a 1,67 (udávající hodnotu netto odstraněného železa). U pacientů s nadměrnou zátěží železem s jinými anemiemi vyvolal deferasirox podobné terapeutické odpovědi. Denní dávky 10 mg/kg (dispergovatelné tablety) po dobu jednoho roku by mohly udržovat hladinu železa v játrech a sérového feritinu a indukovat vyrovnanou bilanci železa u pacientů dostávajících transfuze jen vzácně nebo těch, kteří dostávají výměnné transfuze. Sledování stanovených hodnot sérové hladiny feritinu jednou měsíčně odráží změny koncentrace železa v játrech a ukazuje, že trendy sérové hladiny feritinu mohou být použity k monitorování léčebné odpovědi. Omezené klinické údaje (29 pacientů s normální srdeční funkcí na počátku) získané při použití MRI naznačují, že při léčbě deferasiroxem v dávkách 10 až 30 mg/kg/den (dispergovatelné tablety) po dobu jednoho roku může také dojít ke snížení hladiny železa v srdci (v průměru MRI T2* bylo zvýšeno z 18,3 na 23,0 milisekundy).
+Hlavní analýza pivotní srovnávací studie u 586 pacientů s beta-talasemií a přetížením železem způsobeným transfuzí neprokázala non-inferioritu deferasiroxu ve formě dispergovatelných tablet oproti deferoxaminu v analýze celkové populace pacientů. V post-hoc analýze této studie u podskupiny pacientů s koncentrací železa v játrech ≥ 7 mg Fe/g sušiny léčených deferasiroxem ve formě dispergovatelných tablet (20 a 30 mg/kg) nebo deferoxaminem (35 až ≥ 50 mg/kg) byla non- inferiorní kritéria dosažena. U pacientů s koncentrací železa v játrech < 7 mg Fe/g sušiny léčených deferasiroxem (dispergovatelné tablety) (5 a 10 mg/kg) nebo deferoxaminem (20 až 35 mg/kg) však non-inferiorita nebyla prokázána vzhledem k nerovnováze v dávkování obou chelatačních látek. Tato nerovnováha vznikla, protože pacientům léčeným deferoxaminem bylo dovoleno setrvat na původní podávané dávce, i když ta byla vyšší než dávka stanovená protokolem. Této pivotní studie se účastnilo 56 pacientů ve věku pod 6 let, z nichž 28 dostávalo deferasirox (dispergovatelné tablety).
+Z předklinických i klinických studií se zdá, že deferasirox ve formě dispergovatelných tablet je stejně účinný jako deferoxamin, pokud je používán v poměru dávek 2 : 1 (tj. dávka deferasiroxu ve formě dispergovatelných tablet je numericky polovinou dávky deferoxaminu). Pro deferasirox ve formě potahovaných tablet platí poměr dávek 3:1 (tj. dávka deferasiroxu ve formě potahovaných tablet je numericky jednou třetinou dávky deferoxaminu). Toto doporučené dávkování však nebylo v klinickém hodnocení prospektivně vyhodnoceno.
+
+Dále, u pacientů s koncentrací železa v játrech ≥ 7 mg Fe/g sušiny s různými vzácnými anemiemi nebo srpkovitou anemií, deferasirox ve formě dispergovatelných tablet v dávce do 20 a 30 mg/kg způsobil pokles koncentrace železa v jaterní tkáni a sérového feritinu srovnatelný s poklesem u pacientů s beta- talasemií.
+U 225 pacientů s myelodysplatickým syndromem (nízce/středně riziková skupina 1) a potransfuzním přetížením železem byla provedena placebem kontrolovaná randomizovaná studie. Výsledky této studie naznačují, že existuje pozitivní dopad deferasiroxu na přežití bez příhod (EFS, složený koncový ukazatel zahrnující nefatální srdeční nebo jaterní příhody) a hladiny feritinu v séru. Bezpečnostní profil byl v souladu s předchozími studiemi u dospělých pacientů s MDS.
+
+V 5leté observační studii, které se účastnilo 267 dětí ve věku 2 až <6 let (v době zařazení do studie) s transfuzemi podmíněnou hemosiderózou léčených deferasiroxem , nebyly zaznamenány žádné klinicky významné rozdíly v bezpečnosti a snášenlivosti přípravku deferasiroxu u dětských pacientů ve věku 2 až <6 let oproti celkové dospělé či starší pediatrické populaci, včetně zvýšení hladiny sérového kreatininu o >33 % při ≥2 po sobě jdoucích měřeních, někdy nad horní hranicí normálního rozmezí (3,1 %) a hodnoty alaninaminotransferázy (ALT) více než 5násobně převyšující horní hranici normálních hodnot (4,3 %). U 145 pacientů, kteří dokončili studii, byly hlášeny jednotlivé případy zvýšené hodnoty ALT o 20,0 % a aspartátaminotransferázy o 8,3 %.
+
+V klinické studii týkající se bezpečnosti deferasiroxu ve formě potahovaných a dispergovatelných tablet bylo léčeno po dobu 24 týdnů 173 dospělých a pediatrických pacientů se syndromem talasemie závislé na podávání krevních transfuzí nebo s myelodysplastickým syndromem. Byl pozorován srovnatelný bezpečnostní profil pro potahované i pro dispergovatelné tablety.
+
+U pacientů se syndromy talasemie nezávislé na podávání krevních transfuzí a s přetížením železem byla léčba deferasiroxem ve formě dispergovatelných tablet hodnocena v 1leté, randomizované, dvojitě zaslepené, placebem kontrolované studii. Studie porovnávala účinnost dvou různých režimů deferasiroxu ve formě dispergovatelných tablet (počáteční dávky 5 a 10 mg/kg/den, 55 pacientů v každém rameni) a srovnávacího ramene s placebem (56 pacientů). Do studie bylo zařazeno 145 dospělých a 21 pediatrických pacientů. Primárním parametrem účinnosti byla změna koncentrace železa v játrech (LIC) od výchozího stavu po 12 měsících léčby. Jedním ze sekundárních parametrů účinnosti byla změna sérového feritinu mezi výchozím stavem a čtvrtým čtvrtletím. Při počáteční dávce
+10 mg/kg/denně vedlo podávání deferasiroxu ve formě dispergovatelných tablet ke snížení parametrů celkové hladiny železa v těle. V průměru došlo ke snížení koncentrace železa v játrech o 3,80 mg Fe/g sušiny u pacientů léčených deferasiroxem ve formě dispergovatelných tablet (s počáteční dávkou
+10 mg/kg/den) a zvýšení o 0,38 mg Fe/g suché hmotnosti u pacientů léčených placebem (p<0,001). Sérová hlaadina feritinu v průměru poklesla o 222,0 µg/l u pacientů léčených deferasiroxem ve formě dispergovatelných tablet (s počáteční dávkou 10 mg/kg/den) a vzrostla o 115 µg/l u pacientů léčených placebem (p<0,001).
+5.2  Farmakokinetické vlastnosti
+
+Deferaxirox ve formě potahovaných tablet představuje vyšší biologickou dostupnost v porovnání s deferasiroxem ve formě dispergovatelných tablet. Po úpravě dávky byla léková forma potahovaná tableta (360 mg) ekvivalentní deferasiroxu ve formě dispergovatelných tablet (500 mg), s ohledem na průměr plochy pod křivkou koncentrace léčiva v krvi (AUC), za podmínek nalačno. Cmax se zvýšila o 30 % (90 % CI: 20,3 % - 40,0 %); nicméně analýza klinické expozice/odpovědi neprokázala klinicky významné účinky uvedeného navýšení.
+Absorpce
+Deferasirox (dispergovatelné tablety) je absorbován po perorálním podání a medián doby k dosažení maximální koncentrace v plazmě (tmax) je přibližně 1,5 až 4 hodiny. Absolutní biologická dostupnost (AUC) deferasiroxu (dispergovatelné tablety) je v porovnání s intravenózní dávkou přibližně 70 %. Absolutní biologická dostupnost potahovaných tablet nebyla stanovena. Biologická dostupnost deferasiroxu ve formě potahovaných tablet byla o 36 % vyšší než u lékové formy dispergovatelné tablety.
+
+Ze studie zkoumající vliv jídla, zahrnující podávání potahovaných tablet zdravým dobrovolníkům za stavu nalačno a dále v kombinaci s potravou s nízkým obsahem tuku (obsahu tuku < 10 % kalorií) nebo s vysokým obsahem tuku (obsah tuku > 50 % kalorií), se zjistilo, že AUC a Cmax se mírně snížily u jídla s nízkým obsahem tuku (o 11 % a 16 %). Po tučném jídle došlo naopak ke zvýšení AUC a Cmax (o 18 % a 29 %). Je tedy pravděpodobné, že ke zvýšení Cmax dochází v důsledku změny ve složení a navíc vzhledem k vlivu tučného jídla, a proto se doporučuje užívat potahované tablety buď na lačný žaludek nebo pouze s lehkým jídlem.
+
+Distribuce
+Deferasirox je silně vázán na plazmatické proteiny (99 %), téměř výlučně na sérový albumin a má malý distribuční objem, u dospělých přibližně 14 litrů.
+
+Biotransformace
+Hlavní metabolickou cestou deferasiroxu je glukuronidace s následným vylučováním do žluči. Ve střevě dochází pravděpodobně k dekonjugaci glukuronidů a následné reabsorpci (enterohepatální cyklus), ve studii se zdravými dobrovolníky mělo podávání kolestyraminu po podání jednorázové dávky deferasiroxu za následek 45% pokles expozice deferasiroxu (AUC).
+
+Glukuronidace deferasiroxu probíhá převážně za účasti UGT1A1 a v menším rozsahu UGT1A3. Metabolismus deferasiroxu katalyzovaný cytochromem CYP450 (oxidační) je u lidí minimální (přibližně 8 %). Inhibice metabolismu deferasiroxu hydroxyureou nebyla in vitro pozorována.
+
+Eliminace
+Deferasirox a jeho metabolity jsou primárně vylučovány stolicí (84 % dávky). Vylučování deferasiroxu ledvinami je minimální (8 % dávky). Průměrný eliminační poločas (t1/2) se pohybuje v rozmezí 8 až 16 hodin. Na vylučování deferasiroxu žlučí se podílejí transportéry MRP2 a MXR (BCRP).
+
+Linearita/nelinearita
+Cmax a AUC0-24h deferasiroxu stoupá přibližně lineárně s dávkou za rovnovážného stavu. Při opakovaném podávání se expozice zvyšuje kumulačním faktorem 1,3 až 2,3.
+
+Charakteristika u pacientů
+Pediatrická populace
+Celková expozice deferasiroxem u dospívajících (12 až ≤ 17 let) a dětí (2 až < 12 let) po jednorázovém podání a opakovaných dávkách byla nižší než u dospělých pacientů. U dětí mladších než 6 let byla expozice o 50 % nižší než u dospělých. Vzhledem k tomu, že dávkování je upravováno individuálně podle terapeutické odpovědi, nedá se očekávat, že by toto zjištění mělo klinické důsledky.
+
+Pohlaví
+Ženy mají mírně nižší clearance (o 17,5 %) deferasiroxu ve srovnání s muži. Protože dávkování je upravováno individuálně podle odpovědi, nedá se očekávat, že by toto zjištění mělo klinické důsledky.
+
+Starší pacienti
+U starších pacientů (65 let a více) nebyla farmakokinetika deferasiroxu studována.
+
+Porucha funkce ledvin a jater
+U pacientů s poruchou funkce ledvin nebyla farmakokinetika deferasiroxu studována. Zvýšením aminotransferáz až do pětinásobku horní hranice normálu nebyla farmakokinetika deferasiroxu ovlivněna.
+
+V klinickém hodnocení s jednotlivými dávkami 20 mg/kg deferasiroxu ve formě dispergovatelných tablet byla v porovnání se subjekty s normální funkcí jater průměrná expozice zvýšena o 16 % u subjektů
+s lehkou poruchou funkce jater (Child-Pugh třída A) a o 76 % u subjektů se středně těžkou poruchou funkce jater (Child-Pugh třída B). Průměrná hodnota Cmax deferasiroxu u subjektů s lehkou nebo středně těžkou poruchou funkce jater byla zvýšena o 22 %. U jednoho subjektu s těžkou poruchou funkce jater (Child-Pugh třída C) byla expozice zvýšena 2,8krát (viz body 4.2 a 4.4).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity a hodnocení kancerogenního potenciálu neodhalily žádné
+
+zvláštní riziko pro člověka. Hlavními nálezy byla renální toxicita a zákal oční čočky (katarakta). Podobné nálezy byly pozorovány u novorozených a nedospělých zvířat. Renální toxicita je dávána do souvislosti především s nedostatkem železa u zvířat, která před podáním přípravku nebyla vystavena nadměrné zátěži železem.
+
+Testy genotoxicity byly in vitro negativní (Amesův test, test chromozomální aberace) zatímco deferasirox in vivo vyvolával při letální dávce u potkanů, kteří nebyli vystaveni zátěži železem, tvorbu mikronukleolů v kostní dřeni, avšak nikoli v játrech. Žádný takovýto účinek nebyl pozorován
+u potkanů s předchozí zátěží železem. Pokud byl deferasirox aplikován potkanům po dobu 2 let a transgenním p53+/- heterozygotním myším po dobu 6 měsíců, nebyl kancerogenní.
+
+Potenciál reprodukční toxicity byl hodnocen u potkanů a králíků. Deferasirox nebyl teratogenní, ale při vysokých dávkách, které byly vysoce toxické pro samice potkanů bez nadměrné zátěže železem, vyvolal zvýšený výskyt změn skeletu a mrtvě narozených mláďat. Deferasirox neměl jiné účinky na fertilitu nebo reprodukci.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Jádro tablety:
+Mikrokrystalická celulosa Krospovidon
+Magnesium-stearát Povidon Poloxamer
+Koloidní bezvodý oxid křemičitý
+
+Potahová vrstva tablety (Opadry modrá):
+Hypromelosa
+Oxid titaničitý (E171) Makrogol
+Mastek
+Hlinitý lak indigokarmínu (E132)
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+
+PVC/PVDC//Al blistry.
+PA/Al /PVC//Al blistry.
+
+Velikosti balení:
+30, 90, 100, 300 a 300 (vícečetné balení 10x 30) potahovaných tablet. Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Sandoz s.r.o., Na Pankráci 1724/129, Praha 4 – Nusle, Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO/ REGISTRAČNÍ ČÍSLA
+
+19/493/19-C
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 6. 5. 2021
+
+
+10.  DATUM REVIZE TEXTU
+
+6. 5. 2021

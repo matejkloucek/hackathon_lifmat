@@ -1,0 +1,515 @@
+Sp. zn. sukls25723/2021
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Octanate 500 IU/5 ml prášek a rozpouštědlo pro injekční roztok
+Octanate 1000 IU/5 ml prášek a rozpouštědlo pro injekční roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Octanate 500 IU/5 ml
+Jedna injekční lahvička obsahuje factor VIII coagulationis humanus 500 IU.
+Po rozpuštění v 5 ml rozpouštědla přípravek obsahuje průměrně factor VIII coagulationis humanus 100 IU/ml*.Přípravek obsahuje průměrně ≤ 60 IU von Willebrandova faktoru (VWF:Rco) na ml.
+Octanate 1000 IU/5 ml
+Jedna injekční lahvička obsahuje factor VIII coagulationis humanus 1 000 IU.
+Po rozpuštění v 5 ml rozpouštědla přípravek obsahuje průměrně factor VIII coagulationis humanus
+200 IU/ml*.
+Přípravek obsahuje průměrně ≤ 120 IU von Willebrandova faktoru (VWF:Rco) na ml.
+* Síla (IU) je stanovena použitím chromogenního testu dle Evropského lékopisu. Střední specifická aktivita Octanate je ≥ 100 IU/mg proteinu.
+Vyrobeno z plazmy lidských dárců. Pomocná látka se známým účinkem:
+Sodík až 1,75 mmol (40 mg) na dávku
+Koncentrace sodíku po rekonstituci: 250-350 mmol/l
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+Prášek a rozpouštědlo pro injekční roztok.
+Prášek je bílý nebo světle žlutý, může vypadat také jako drobivá hmota. Rozpouštědlo je čirá, bezbarvá tekutina.
+
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Léčba a profylaxe krvácení u pacientů s hemofilií A (vrozený nedostatek faktoru VIII). Octanate lze použít pro všechny věkové skupiny.
+Přípravek neobsahuje von Willebrandův faktor ve farmakologicky účinném množství, a proto není indikován pro léčbu von Willebrandovy choroby.
+
+4.2  Dávkování a způsob podání
+Léčba má být pod dozorem lékaře, který má zkušenosti s léčbou hemofilie.
+
+
+1/10
+
+Sledování léčby
+V průběhu léčby se doporučuje stanovování hladin faktoru VIII jako vodítko pro dávkování a frekvenci podávání opakovaných infuzí. Odpověď na podání faktoru VIII se může u jednotlivých pacientů lišit s individuálně různými poločasy a dobou obnovení. Dávkování vycházející z tělesné hmotnosti může být nutné upravit u pacientů s podváhou nebo nadváhou. Zejména v případě větších chirurgických výkonů je nezbytné přesné sledování substituční terapie pomocí koagulačních vyšetření (aktivity plazmatického faktoru VIII).
+
+Dávkování
+
+Dávka a délka substituční léčby závisí na závažnosti nedostatku faktoru VIII, místě a rozsahu krvácení a na klinickém stavu pacienta.
+Počet jednotek podaného faktoru VIII je vyjádřen v Mezinárodních jednotkách (IU), které jsou vztaženy k současnému standardu WHO ohledně koncentrátu pro přípravky obsahující faktor
+VIII. Plazmatická aktivita faktoru VIII se vyjadřuje buď v procentech (vzhledem k normální lidské plazmě) nebo v mezinárodních jednotkách (vzhledem k mezinárodnímu standardu faktoru VIII v plazmě).
+Jedna Mezinárodní jednotka (IU) aktivity faktoru VIII se rovná množství faktoru VIII v 1 ml
+normální lidské plazmy.
+Léčba dle potřeby
+Výpočet požadované dávky faktoru VIII je založen na empirickém zjištění, že 1 mezinárodní jednotka (IU) faktoru VIII na 1 kg tělesné hmotnosti zvyšuje aktivitu plazmatického faktoru VIII o 1,5 - 2 % normální aktivity. Potřebná dávka se určuje podle následujícího vzorce:
+
+Potřebné jednotky = tělesná hmotnost (kg) x žádaný vzestup faktoru VIII (%) (IU/dl) x 0,5
+
+Dávka k podání a četnost podávání mají být vždy vztaženy ke klinické účinnosti v individuálním případě.
+
+V případě následujících krvácivých příhod nemá v daném období poklesnout aktivita faktoru VIII pod danou hodnotu plazmatické aktivity (v % z normálu). Následující tabulka může sloužit jako vodítko pro stanovení dávkování při krvácivých příhodách nebo chirurgickém zákroku:
+
+
+Stupeň  krvácení  /  Typ chirurgického výkonu
+
+Krvácení
+Požadovaná hodnota faktoru VIII (%) (IU/dl)
+Frekvence dávkování (hodiny) /
+Délka trvání léčby (dny)
+
+
+Časná hemartróza, krvácení do svalů nebo ústní dutiny
+
+
+
+Intenzivnější hemartróza, krvácení do svalů nebo hematom
+
+Život ohrožující krvácení
+
+Operace
+Menší chirurgický výkon
+Včetně extrakce zubu
+20–40
+
+
+
+
+30–60
+
+
+
+60–100
+
+
+30–60
+
+2/11
+Opakujte infuze každých 12 až 24 hodin, nejméně jeden den, dokud se krvácení, které se vyznačuje bolestí,  nezastaví  nebo  se nedosáhne vyléčení.
+Opakujte infuze každých 12 až 24 hodin po 3–4 dny či více, dokud bolest  a  akutní  postižení nepřejdou.
+Opakujte infuze každých 8 až 24,
+dokud nebezpečí nepomine.
+
+Každých 24 hodin, nejméně 1 den, dokud se nedosáhne vyléčení.
+
+Větší chirurgický výkon
+80–100
+(před operací a po
+operaci)
+Opakujte infuze každých 8 až 24 hodin až do adekvátního zahojení rány,  pak  pokračujte  v terapii nejméně  dalších  7 dní,  abyste udrželi aktivitu faktoru VIII na 30 % až 60 % (IU/dl).
+
+Profylaxe
+
+Pro dlouhodobou profylaxi krvácení u pacientů s těžkou hemofilií A jsou obvyklé dávky 20 až
+40 IU faktoru VIII na kg tělesné hmotnosti v intervalu dvou až tří dnů.
+V některých případech, především u mladších pacientů, mohou být zapotřebí kratší intervaly mezi dávkami nebo vyšší dávky.
+
+Kontinuální infuze
+Před operací je potřeba provést farmakokinetickou analýzu a získat odhad clearance.
+Úvodní rychlost infuze lze vypočítat následujícím způsobem: Clearance × žádoucí hodnota v rovnovážném stavu = rychlost infuze (IU/kg/h).
+Po úvodních 24 hodinách kontinuální infuze by měla být clearance vypočtena znovu každý den s použitím rovnice pro rovnovážný stav se změřenou hodnotou a známou rychlostí infuze.
+Pediatrická populace
+
+Klinická studie prováděná u 15 pacientů ve věku 6 let a mladších neukázala žádné specifické požadavky na dávkování u dětí.
+Dávkování je pro léčbu i profylaxi u dospělých a dětí stejné. Způsob podání
+Intravenózní podání.
+Doporučuje se nepodávat více než 2–3 ml za minutu.
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Sledovatelnost
+Ke zlepšení sledovatelnosti biologických léčivých přípravků se musí zřetelně zaznamenávat název a číslo šarže podaného přípravku.
+
+Hypersenzitivita
+Po podání přípravku Octanate se mohou vyskytnout reakce přecitlivělosti alergického typu. Přípravek obsahuje stopy jiných lidských proteinů než faktor VIII. Jestliže se objeví symptomy hypersenzitivity, pacientům by mělo být doporučeno ihned přerušit podávání přípravku a kontaktovat svého lékaře. Pacienti by měli být informováni o časných projevech reakce přecitlivělosti, jako jsou např. vyrážka, generalizovaná kopřivka, pocit tíhy na prsou, sípot, hypotenze a anafylaxe.
+V případě šoku má být léčba vedena podle zásad běžných pro léčbu šoku.
+
+
+
+3/11
+
+Inhibitory
+Tvorba neutralizujících protilátek (inhibitorů) faktoru VIII je známou komplikací léčby jedinců s hemofilií A. Tyto inhibitory jsou obvykle imunoglobuliny IgG zaměřené proti prokoagulační aktivitě faktoru VIII, které jsou kvantifikovány v Bethesda jednotkách (Bethesda Units, BU) na ml plazmy s použitím modifikovaného testu. Riziko vzniku inhibitorů souvisí se závažností onemocnění i s expozicí faktoru VIII, přičemž toto riziko je nejvyšší během prvních 50 dnů expozice, ale pokračuje v průběhu života, ačkoli toto riziko je méně časté. Klinický význam vzniku inhibitorů bude záviset na titru inhibitoru, přičemž inhibitory nízkého titru představují menší riziko nedostatečné klinické odpovědi než inhibitory vysokého titru.
+
+Obecně platí, že všichni pacienti léčení přípravky s koagulačním faktorem VIII musí být pečlivě sledováni s ohledem na vznik inhibitorů pomocí příslušných klinických pozorování a laboratorních testů. Pokud není dosaženo očekávaných hladin aktivity faktoru VIII v plazmě nebo pokud není krvácení patřičnou dávkou zvládnuto, je třeba provést test na přítomnost inhibitoru faktoru VIII. U pacientů s vysokými hladinami inhibitoru nemusí být terapie faktorem VIII účinná a je třeba zvážit jiné možnosti léčby. Péče o takové pacienty má být vedena lékaři se zkušenostmi v péči o hemofilii a inhibitory faktoru VIII.
+Kardiovaskulární příhody
+U pacientů se stávajícími kardiovaskulárními rizikovými faktory může substituční léčba faktorem VIII zvýšit kardiovaskulární riziko.
+
+Komplikace související s katétrem
+Pokud je nutné zavedení centrálního žilního katétru (CŽK), je třeba sledovat možný výskyt souvisejících komplikací, jako je místní infekce, bakteriémie a trombóza v místě katétru.
+
+Přenosné choroboplodné zárodky
+Standardní opatření zabraňující infekcím způsobeným použitím přípravků vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, vyšetření jednotlivých odběrů a plazmatických poolů na specifické infekční markery a zařazení účinných výrobních kroků pro inaktivaci nebo odstranění virů. Přes všechna tato opatření při podání léků vyráběných z lidské krve nebo plazmy nelze možnost přenosu infekce zcela vyloučit. To platí i pro jakékoli neznámé nebo vznikající viry či jiné typy infekcí.
+
+Přijatá opatření jsou považována za účinná u obalených virů, například virů lidské imunodeficience (HIV), viru hepatitidy B (HBV) a hepatitidy C (HCV), a u neobaleného viru hepatitidy A (HAV).. Omezený účinek mají tato opatření u neobalených virů, jako je parvovirus B19. Infekce parvovirem B19 může být velmi závažná u těhotných žen (fetální infekce) a u jedinců s imunodeficiencí nebo jedinců se zvýšenou erytropoézou (například hemolytická anemie).
+
+U pacientů, kteří pravidelně/opakovaně dostávají přípravky s faktorem VIII vyrobeným z lidské
+plazmy, se má zvážit vhodné očkování (hepatitida A a B)
+
+Při každé aplikaci přípravku Octanate pacientovi se důrazně doporučuje zaznamenat název a číslo šarže přípravku, aby bylo možné zpětně přiřadit k pacientovi číslo použité šarže.
+Tento léčivý přípravek obsahuje až 1,75 mmol (40 mg) sodíku na injekční lahvičku, což odpovídá 2 % doporučeného maximálního denního příjmu sodíku podle WHO pro dospělého, který činí 2 g sodíku.
+Pediatrická populace
+Uvedená upozornění a opatření pro použití platí jak pro dospělé, tak pro děti.
+
+
+
+
+
+
+
+4/11
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Nebyly hlášeny žádné interakce mezi přípravky s humánním koagulačním faktorem VIII a jinými léčivými přípravky.
+
+4.6  Fertilita, těhotenství a kojení
+
+Reprodukční studie na zvířatech nebyly s faktorem VIII prováděny. Vzhledem ke vzácnému výskytu hemofilie A u žen není k dispozici zkušenost s použitím faktoru VIII během těhotenství a kojení. Proto se má přípravek během těhotenství nebo kojení používat pouze tehdy, je-li to nezbytně nutné.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Přípravek Octanate nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Ve vzácných případech byla pozorována hypersenzitivita nebo alergická reakce (která může zahrnovat angioedém, pálení a bodání v místě infuze, zimnice, zarudnutí kůže, generalizovaná kopřivka, bolesti hlavy, vyrážka, hypotenze, apatie, nauzea, neklid, tachykardie, pocit tíhy na prsou, mravenčení, zvracení, sípot) a ve vzácných případech se může vyvinout do závažné anafylaxie (včetně šoku).
+Ve vzácných případech se vyskytla horečka.
+
+K rozvoji neutralizujících protilátek (inhibitorů) může dojít u pacientů s hemofilií A, kteří jsou léčeni faktorem VIII, včetně přípravku Octanate viz bod 5.1. Pokud se takové inhibitory objeví, projeví se tento stav jako nedostatečná klinická odpověď. V těchto případech se doporučuje kontaktovat specializované hemofilické centrum.
+Bezpečnostní informace o přenosných choroboplodných zárodcích viz bod 4.4. Tabulkový přehled nežádoucích účinků
+Níže uvedená tabulka je uspořádána podle systému orgánové klasifikace MedDRA (orgánová třída a preferovaný termín).
+
+Frekvence byly vyhodnoceny podle následující konvence: velmi časté (≥1/10); časté (≥1/100 až
+<1/10); méně časté (≥1/1,000 až <1/100); vzácné (≥1/10 000 až <1/1 000); velmi vzácné
+(<1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+Standardní třída orgánových systémů dle MedDRA Poruchy imunitního systému
+
+Celkové poruchy a reakce
+v místě aplikace
+Poruchy krve a lymfatického systému
+Vyšetření
+Nežádoucí účinek
+
+Hypersenzitivní reakce Anafylaktický šok Pyrexie
+
+Inhibice faktoru VIII
+
+Pozitivita protilátek
+proti faktoru VIII
+Četnost
+
+Vzácné Velmi vzácné Vzácné
+
+Méně časté (PTP)* Velmi časté (PUP)* Vzácné
+*Četnost vychází ze studií se všemi přípravky s faktorem VIII, které zahrnovaly pacienty se závažnou hemofilií A.
+PTP = dříve léčení pacienti, PUP = dříve neléčení pacienti
+
+
+
+5/11
+
+Pediatrická populace
+Frekvence, typ a intenzita nežádoucích účinků u dětí jsou stejné jako u dospělých. Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku.
+Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+Nebyly hlášeny žádné případy předávkování.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Koagulační faktor: krevní koagulační faktor VIII
+
+ATC kód: B02BD02
+Komplex faktoru VIII/von Willebrandova faktoru se skládá ze dvou molekul (FVIII a vWF) s různými fyziologickými funkcemi. Po infuzi hemofilickému pacientovi se faktor VIII naváže na von Willebrandův faktor v krevním řečišti pacienta.
+
+Aktivovaný faktor VIII působí jako kofaktor pro aktivovaný faktor IX tím, že akceleruje konverzi faktoru X na aktivovaný faktor X. Aktivovaný faktor X konvertuje protrombin na trombin. Trombin potom konvertuje fibrinogen na fibrin a může se vytvořit sraženina.
+Hemofilie A je pohlavně vázaná dědičná porucha koagulace krve způsobená sníženou hladinou faktoru VIII:C. způsobující krvácení do kloubů, do svalů nebo do vnitřních orgánů, a to spontánně nebo jako následek traumatu po nehodě nebo chirurgickém zákroku. Touto substituční terapií se plazmatická hladina faktoru VIII zvyšuje a umožní se dočasná korekce deficitu faktoru a korekce tendence ke krvácení.
+
+Upozorňujeme, že počet krvácení přepočtený na rok není pro různé koncentráty faktoru a různé klinické studie srovnatelný.
+Dříve neléčení pacienti
+
+Ke vzniku protilátek proti FVIII dochází převážně u dříve neléčených pacientů (PUP). Do prospektivní, nezaslepené studie hodnotící imunogenitu přípravku Octanate u PUP bylo zařazeno 51 pacientů. 20 pacientů bylo primárně léčeno podle potřeby a 31 pacientů bylo léčeno profylakticky. 44 pacientů splnilo kritéria k vyhodnocení imunogenity (tj. > 50 dní expozice a FVIII:C < 1 %). Inhibitory vymizely během běžné léčby přípravkem Octanate beze změny dávkování nebo frekvence léčby u dvou z pěti pacientů s inhibitory (u jednoho s inhibitorem ve vysokém titru a u jednoho s inhibitorem v nízkém titru). Všechny případy detekovaných inhibitorů byly u pacientů léčených podle potřeby. Průměrný čas do vzniku inhibitorů ve vysokém a nízkém titru byl 10 dní expozice (rozmezí 3–19), respektive 48 dní expozice.
+6/11
+
+Přípravek Octanate je hodnocen pro uvedení terapie imuno-toleranční indukce (ITI) u pokračující výzkumné klinické studie.
+V prozatímní analýze 69 pacientů dosud léčených přípravkem Octanate pomocí ITI terapie dokončilo studii 49 pacientů. U pacientů s úspěšně eliminovanými inhibitory došlo k významné redukci počtu měsíčních krvácení.
+
+5.2  Farmakokinetické vlastnosti
+
+Lidský krevní koagulační faktor VIII (z prášku) je běžnou složkou lidské plazmy a působí jako endogenní faktor VIII. Po podání přípravku průměrně dvě třetiny až tři čtvrtiny faktoru VIII zůstávají v krevním řečišti. Hladina aktivita faktoru VIII v plazmě má dosáhnout 80-120% předpokládané aktivity.
+Aktivita plazmatického faktoru VIII se snižuje dvoufázovým exponenciálním rozpadem. V počáteční fázi distribuce mezi intravaskulárními prostory a ostatními částmi (tělní tekutiny) probíhá s poločasem rozpadu z plazmy od 3 do 6 hodin. V následující pomalejší fázi (která pravděpodobně reflektuje spotřebu faktoru VIII) se poločas pohybuje v rozmezí 8-20 hodin s průměrem 12 hodin. Toto odpovídá skutečnému biologickému poločasu.
+U přípravku Octanate byly ve dvou farmakokinetických studiích s 10 resp. 14 hemofilickými pacienty dosaženy následující výsledky:
+
+
+
+
+
+Studie 1, n = 10
+Střední hodnota ±SD*
+Uzdravení
+(% x IU-1 x
+kg)
+2,4 ± 0,36
+AUC* norm (% x h x IU-1 x kg)
+
+45,5 ± 17,2
+Poločas (h)
+
+
+14,3 ± 4,01
+MRT* (h)
+
+
+19,6 ± 6,05
+Clearance (ml x h-1 x kg)
+
+2,6 ± 1,21
+
+
+
+Studie 2, n = 14
+Střední hodnota ±SD*
+2,4 ± 0,25
+33,4 ± 8,50
+12,6 ± 3,03
+16,6 ± 3,73
+3,2 ± 0,88
+
+
+AUC* = plocha pod křivkou MRT* = střední doba zdržení SD* = standardní odchylka
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Omezené toxikologické údaje dostupné pro tributyl-fosfát (TNBP) a polysorbát 80 (tween 80) – činidla (rozpouštědla/detergenty) použitá při virové inaktivaci SD metodou během výroby přípravku Octanate - ukazují, že nežádoucí účinky vedoucí k předvídanému ohrožení člověka jsou nepravděpodobné.
+Dokonce i dávky několikrát převyšující doporučené dávky na kg váhy u těchto reagencií neukazují žádný toxický vliv na laboratorní zvířata. Mutagenní potenciál nebyl zjištěn u žádné z těchto dvou látek.
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek Prášek:
+-  natrium-citrát
+-  chlorid sodný
+-  chlorid vápenatý
+-  glycin
+
+7/11
+
+Rozpouštědlo: voda pro injekci
+
+6.2  Inkompatibility
+
+Vzhledem k absenci inkompatibilitní studie nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+Má být použita pouze přiložená injekční/infuzní souprava, protože v důsledku adsorpce koagulačního faktoru VIII na vnitřní povrchy některých injekčních/infuzních zařízení může dojít k selhání léčby.
+
+6.3  Doba použitelnosti
+2 roky
+Rekonstituovaný roztok musí být spotřebován okamžitě a pouze během jednoho podání.
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte v chladničce (2 °C - 8 °C). Chraňte před mrazem.
+Uchovávejte lahvičku ve vnějším obalu, aby byl přípravek chráněn před světlem. Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+1 balení Octanate 500 IU/5 ml obsahuje:
+-  Prášek ve skleněné lahvičce (sklo třídy I) se zátkou (bromobutylová pryž) a odtrhovacím víčkem
+-  5 ml rozpouštědla ve skleněné lahvičce (sklo třídy I) se zátkou (chlorobutylová nebo brombutylová pryž) a odtrhovacím víčkem
+-  1 balení vybavení pro intravenózní injekci (1 přepouštěcí set, 1 infuzní set, 1 jednorázová injekční stříkačka)
+-  2 desinfekční alkoholové tampony.
+
+Dostupné velikosti balení se liší množstvím factor VIII coagulationis humanus (lidského krevního koagulačního faktoru VIII):
+Injekční lahvička 500 IU: rekonstituce v 5 ml.
+Injekční lahvička 1 000 IU: rekonstituce v 5 ml
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+•  Čtěte prosím pozorně všechny pokyny a postupujte pečlivě podle nich!
+•  Nepoužívejte přípravek Octanate po uplynutí exspirační doby vyznačené na obalu.
+•  Během níže uvedeného postupu musí být zachována sterilita!
+•  Před podáním rekonstituovaný lékařský výrobek vizuálně zkontrolujte, zda neobsahuje usazeniny, částečky cizího materiálu, zákal a zda nezměnil barvu.
+•  Roztok musí být čirý nebo mírně opalizující. Nepoužívejte zakalené roztoky nebo roztoky
+s usazeninami.
+•  Použijte připravený roztok okamžitě, aby se předešlo mikrobiální kontaminaci.
+•  Používejte pouze přiložený infuzní set. Použití jiného injekčního/infuzního zařízení může způsobit dodatečné riziko a selhání léčby.
+
+Návod na přípravu roztoku:
+
+8/11
+
+1. Nepoužívejte přípravek ihned po vyjmutí z chladničky. Nechejte rozpouštědlo i prášek
+v uzavřených lahvičkách dosáhnout pokojové teploty.
+2.  Odstraňte víčko z obou lahviček a očistěte pryžové zátky jedním z přiložených alkoholových tamponů.
+3.  Přepouštěcí set je znázorněn na obr. 1. Položte lahvičku s rozpouštědlem na rovný povrch a pevně ji držte. Vezměte přepouštěcí set, otočte jej horní stranou dolů. Nasaďte přepouštěcí set jeho modrým koncem na horní část lahvičky s rozpouštědlem a silně jej zatlačte dolů, dokud lahvičku nepropíchnete (obr. 2 + 3). Při připojování lahvičkou neotáčejte.
+
+Adaptér pro prášek (bílá část)
+Adaptér pro rozpouštědl o (modrá část)
+
+
+
+Obr. 1             Obr. 2               Obr. 3
+
+
+4.  Položte lahvičku s práškem na pevný povrch a pevně ji držte. Vezměte lahvičku s rozpouštědlem s připojeným přepouštěcím setem a otočte ji dnem vzhůru. Nasaďte ji bílým koncem na horní část lahvičky s práškem a silně zatlačte dolů, dokud lahvičku nepropíchnete (obr. 4). Při připojování lahvičkou neotáčejte. Rozpouštědlo přeteče samo do lahvičky s práškem.
+
+
+
+
+
+
+
+
+
+Prášek
+
+Obr. 4
+
+
+5.  Zlehka otáčejte se spojenými lahvičkami, dokud se přípravek nerozpustí. Rozpouštění je dokončeno při pokojové teplotě během méně než 10 minut. Během přípravy se může objevit jemné napěnění. Rozšroubujte přepouštěcí set na dvě části (obr. 5). Napěnění zmizí.
+
+Odstraňte prázdnou lahvičku od rozpouštědla spolu s modrou částí přepouštěcího setu.
+
+
+
+
+
+
+Prášek
+
+Obr. 5
+
+
+9/11
+
+Návod na injekci:
+Z důvodu opatrnosti by vám měl být měřen puls před a během injekce. Pokud se vyskytne výrazné zvýšení vašeho pulsu, zpomalte rychlost injekce nebo podávání na krátký čas přerušte.
+
+1. Nasaďte injekční stříkačku na bílou část přepouštěcího setu. Otočte lahvičku dnem vzhůru a nasajte roztok do stříkačky (obr. 6).
+Roztok má být čirý nebo slabě opaleskující.
+Jakmile je roztok převeden do stříkačky, pevně stříkačku uchopte a oddělte ji od přepouštěcího setu
+(obr. 7).
+Odstraňte prázdnou lahvičku společně s bílou částí přepouštěcího setu.
+
+
+Prášek
+Prášek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 6               Obr. 7
+
+2. Vydesinfikujte zamýšlené místo aplikace injekce přiloženým alkoholovým tamponem.
+3. Nasaďte přiloženou infuzní soupravu na stříkačku.
+4. Zaveďte injekční jehlu do zvolené žíly. Pokud používáte turniket pro snadnější viditelnost žíly, tento turniket by měl být odstraněn před zahájením injekce přípravku Octanate.
+5. Do stříkačky se nesmí dostat žádná krev, aby nedošlo k riziku tvorby fibrinových sraženin.
+6. Vstřikujte roztok pomalu do žíly, rychlost nemá být větší než 2-3 ml za minutu.
+Pokud užíváte více než jednu lahvičku Octanate pro jednu léčbu, můžete použít znovu stejnou injekční jehlu a stříkačku. Přepouštěcí set je však vždy pouze pro jedno použití.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Octapharma (IP) SPRL Allée de la Recherche 65 1070 Anderlecht
+Belgie
+
+
+8.   REGISTRAČNÍ CÍSLO(A)
+
+
+75/139/15-C Octanate 500 IU/5 ml
+
+
+10/11
+
+75/140/15-C Octanate 1000 IU/5 ml
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+4. 3. 2015 / 24. 11. 2020
+
+
+10.  DATUM REVIZE TEXTU
+26. 3. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11

@@ -1,0 +1,391 @@
+sp.zn. sukls34866/2021
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+VACTETA 40 IU/0,5 ml injekční suspenze vakcína proti tetanu (adsorbovaná)
+
+2.  KVALITATIVNÍ I KVANTITATIVNÍ SLOŽENÍ
+
+Jedna dávka (0,5 ml) obsahuje:
+
+Léčivá látka:
+tetani anatoxinum purificatum         min. 40 IU*
+adsorbováno na hydroxid hlinitý        max 0,7 mg Al³⁺
+
+
+* Jako spodní hranice intervalu spolehlivosti (p = 0,95) aktivity měřené podle testu popsaného v
+Evropském lékopisu.
+
+Pomocná látka se známým účinkem: sodík <1 mmol v jedné dávce. Úplný seznam pomocných látek viz
+bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Injekční suspenze Popis přípravku:
+Vakcína je bílá až téměř bílá homogenní suspenze
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Přípravek VACTETA je indikován k aktivní imunizaci (základní očkování a přeočkování) nebo poúrazové profylaxi u dětí a dospělých zejména u jedinců s neukončenou preventivní imunizací proti tetanu
+
+4.2  Dávkování a způsob podání
+
+Kojencům od 2 měsíců, dětem, dospívajícím i dospělým se podává stejná dávka (0,5 ml).
+
+Základní očkování Základní očkování se provádí
+a)  u dosud neočkovaných jedinců nebo u jedinců s neprokázaným základním očkováním proti tetanu nebo u jedinců, kteří byli očkováni před více než 15 lety.
+
+
+1/9
+
+b)  u dětí mladších jednoho roku, u kterých ze zdravotních důvodů nelze provést očkování kombinovanými vakcínami proti difterii, tetanu a pertusi, nebo difterii a tetanu
+
+Podávají se celkem 3 dávky (0,5 ml) vakcíny:
+-  1. dávka
+-  2. dávka po 4 až 6 týdnech po první dávce
+-  3. dávka po 6 až 12 měsících po druhé dávce
+
+Základní očkování u dětí mladších jednoho roku, u kterých ze zdravotních důvodů nelze provést očkování kombinovanými vakcínami proti difterii, tetanu a pertusi, nebo difterii a tetanu, se doporučuje provést očkování čtyřmi dávkami vakcíny. První tři dávky vakcíny mají být podány v intervalech 1 až 2 měsíců mezi sebou tak, aby třetí dávka byla podána do konce prvního roku života. Čtvrtá dávka vakcíny má být podána v osmnáctém až dvacátém měsíci života.
+
+Přeočkování
+
+Pediatrická populace
+Po ukončení základního očkování se doporučuje přeočkování dětí, u kterých trvá kontraindikace podání kombinované vakcíny, jednou dávkou (0,5 ml) vakcíny v době od dovršení pátého do dovršení šestého roku věku a v době od dovršení čtrnáctého do dovršení patnáctého roku věku dítěte a dále každých 10 – 15 let.
+
+Dospělí:
+Rutinní přeočkování dospělých se doporučuje v intervalech 10 - 15 let, a to jednou dávkou (0,5 ml) vakcíny.
+
+Přeočkování kombinovanými vakcínami se provádí s ohledem na indikace a časové intervaly platné pro antigeny obsažené v kombinované vakcíně.
+
+Poúrazová profylaxe
+Při immunoprofylaxi tetanu při úrazech, poraněních nebo nehojících se ranách, u nichž je nebezpečí onemocnění tetanem, a dále před některými léčebnými výkony, zejména operacemi na konečníku a tlustém střevě (podle stavu proočkovanosti pacienta) se podává pouze vakcína proti tetanu nebo vakcína proti tetanu v kombinaci s lidským imunoglobulinem proti tetanu.
+
+Poúrazová profylaxe jedinců se provádí v závislosti na podání poslední dávky vakcíny proti tetanu:
+
+U řádně očkovaných pacientů:
+
+Při podání do 5 let před úrazem: Není nutné očkování Při podání 5 až 10 let před úrazem: 0,5 ml vakcíny
+Při podání 10 a více let před úrazem: 0,5 ml vakcíny současně s 250 IU imunoglobulinu proti tetanu
+
+V případě čisté malé rány není nutné podávat imunoglobulin proti tetanu.
+
+🟅  U neúplně očkovaných pacientů:
+U pacientů očkovaných jednou dávkou v době 3 - 6 týdnů před poraněním nebo dvěma dávkami v době
+
+
+2/9
+
+3 týdnů - 10 měsíců před poraněním se podá jedna dávka (0,5 ml) vakcíny proti tetanu.
+
+U neúplně očkovaných pacientů s intervaly jinými, než uvedenými výše nebo u neočkovaných pacientů se podá jedna dávka vakcíny proti tetanu (0,5 ml) a jedna dávka (250 IU) lidského imunoglobulinu proti tetanu a dále se pokračuje v očkování podáním druhé a třetí dávky ve výše uvedených intervalech základního očkování.
+
+🟅  U pacientů starších 60 let
+-   s dokladem o očkování v posledních 10 letech se podá jedna dávka vakcíny (0,5 ml)
+-   bez dokladu o řádném očkování se podá jedna dávka vakcíny (0,5 ml) a jedna dávka (250 IU) lidského immunoglobulinu proti tetanu a dále se pokračuje v očkování podáním druhé a třetí dávky ve výše uvedených intervalech základního očkování.
+
+Lékař rozhodne o případné postexpoziční léčbě podle klinického stavu pacienta a v souladu s místním doporučením.
+
+Zvláštní skupiny pacientů
+U jedinců s poruchou imunity nebo u jedinců léčených imunosupresivy je účinnost imunizace nejistá. V takových případech se doporučuje sérologická kontrola účinnosti imunizace. V případě úrazu je u těchto osob nezbytné současné podání vakcíny a imunoglobulinu proti tetanu.
+
+Způsob podání
+Vzhledem k tomu, že jde o adsorbovanou vakcínu, je doporučeno podat vakcínu intramuskulárně k minimalizaci výskytu lokálních nežádoucích účinků. Doporučeným místem aplikace je anterolaterální strana stehna u kojenců a batolat a oblast deltového svalu u starších dětí, dospívajících a dospělých. K aplikaci může být též použit hluboký subkutánní způsob podání.
+
+Vakcína nesmí být aplikována intradermálně nebo intravenózně. Je nutné se ujistit, že jehla není zavedena do krevní cévy.
+
+4.3  Kontraindikace
+
+•  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+•  Akutní horečnaté onemocnění. Mírné formy infekce nejsou kontraindikací očkování.
+•  Neurologické komplikace po předchozím očkování proti tetanu.
+
+V případě poranění a stanovení kontraindikací pro použití vakcíny má být okamžitě použit lidský
+imunoglobulin proti tetanu.
+
+
+4.4  Zvláštní upozornění a zvláštní opatření pro použití
+
+Očkování má předcházet lékařské vyšetření a přezkoumání zdravotní anamnézy, zaměřené zejména na předchozí očkování a možné nežádoucí účinky.
+Po injekci má pacient zůstat pod lékařským dohledem po dobu 30 minut.
+
+Stejně jako u jiných injekčně podávaných vakcín má být k dispozici okamžitá lékařská péče v případě anafylaktické reakce po podání vakcíny.
+
+
+
+3/9
+
+Pokud po předchozí aplikaci vakcíny obsahující tetanový toxoid došlo ke vzniku syndromu GuillainBarré nebo brachiální neuritidy, má být rozhodnutí o dalším podání jakékoli vakcíny s obsahem tetanového toxoidu založeno na pečlivém posouzení potenciálních přínosů a možných rizik.
+
+Imunitní odpověď na podání vakcíny může být snížena imunosupresivní léčbou nebo imunodeficitem. V takových případech se doporučuje odložit vakcinaci na dobu po ukončení léčby nebo odeznění onemocnění. Avšak vakcinace osob infikovaných HIV nebo osob s chronickým imunodeficitem, jako je AIDS, je doporučena, i přestože jejich protilátková odpověď může být omezená.
+
+Osoby, které dokončily základní očkování nebo byly přeočkovány v posledních 5 letech, nemají být očkovány, protože u nich existuje vyšší riziko hypersenzitivity.
+
+
+Přípravek VACTETA musí být podáván s opatrností osobám s trombocytopenií nebo poruchou krevní srážlivosti, protože po intramuskulárním podání těmto osobám může dojít ke krvácení. V těchto situacích lze zvážit podání vakcíny VACTETA hlubokou subkutánní injekcí, i přes riziko zvýšeného výskytu lokálních reakcí.
+
+U všech adsorbovaných vakcín může dojít ke vzniku přetrvávajícího nodulu v místě injekce, zejména pokud je vakcína podána do povrchových vrstev podkožní tkáně.
+
+Po podání vakcín obsahujících tetanový toxoid byl pozorován výskyt Arthusovy reakce (hypersensitivní reakce typu III). Arthusova reakce se projevuje silnou bolestí, indurací, otokem, krvácením a ojediněle nekrózou. U většiny pacientů se symptomy vyskytnou během několika hodin po vakcinaci (4-12h) a odezní bez následků. Pacientům, u kterých se projevila Arthusova reakce po podání vakcíny s obsahem tetanového toxoidu, nemá být vakcína podávána častěji než 10 let od předešlé dávky vakcíny s obsahem tetanového toxoidu, a to ani v případě profylaktického použití po zranění.
+
+Ve výrobním procesu tohoto léčivého přípravku byl použit jako konzervační látka thiomersal (organomerkurická sloučenina) a jeho zbytky jsou obsaženy v konečném přípravku. Residua thiomersalu mohou vyvolat u citlivých osob hypersenzitivní reakci.
+
+Pomocné látky se známým účinkem:
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce, to znamená, že je v podstatě „bez sodíku“.
+
+4.5  Interakce s jinými léčivými přípravky nebo jiné formy interakce
+
+Přípravek VACTETA může být aplikován současně s jinými vakcínami. Vakcinace má být provedena do odlišných končetin. Při současném podání této vakcíny s jinými vakcínami do různých míst vpichu nebyly hlášeny žádné interakce.
+4.6  Těhotenství a kojení Těhotenství
+Neočkované ženy mají být očkovány v druhém trimestru těhotenství. Ženy, které dostaly první nebo druhou dávku před tím, než bylo potvrzeno jejich těhotenství, mají dokončit očkovací schéma během těhotenství.
+
+
+4/9
+
+Těhotné ženy, které byly očkovány před více než 10 lety, mají být přeočkovány v druhém trimestru těhotenství.
+
+Kojení
+Protilátky proti tetanu jsou vylučovány do mateřského mléka a mohou tak být přeneseny na
+novorozence.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek VACTETA nemá vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8 Nežádoucí účinky
+Následující nežádoucí účinky byly zazanamenány s frekvencí výskytu velmi vzácné (< 1/10 000). Poruchy krve a lymfatického systému
+•  Trombocytopenie
+
+Poruchy imunitního systému
+•  Anafylaktický šok
+•  Anafylaktická reakce
+•  Hypersensitivní reakce
+
+Poruchy nervového systému
+•  Poruchy centrálního a periferního nervového systému jako bolest hlavy, závrať, brachiální neuritida a Guillainův-Barrého syndrom
+
+Respirační, hrudní a mediastinální poruchy
+•  apnoe u předčasně narozených dětí (narozených do 28. týdne těhotenství)
+
+Gastrointestinální poruchy
+•  Reakce hypersenzitivity gastrointestinálního systému
+
+Celkové poruchy a reakce v místě podání
+•  Systémové reakce: bolest hlavy, zvýšená tělesná teplota, zimnice, výrazné pocení a únava. Tyto symptomy jsou velmi vzácné a obvykle vymizí po 24 - 48 hodinách.
+•  Lokální reakce: zarudnutí, bolestivý otok, svědění v místě injekce. Může se objevit zduření lymfatických uzlin. Takové reakce jsou nejčastější u opakovaně očkovaných lidí. Extrémně vzácně se může objevit podkožní uzlík, ze kterého se někdy může vytvořit aseptický absces (1:100 000). Podkožní uzlík, vymizí do 6 týdnů, může být výsledkem vzniku hypersenzitivity na hliník .
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+
+
+5/9
+
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Nebyl hlášen žádný případ předávkování. Předávkování je nepravděpodobné. Vakcína je dodávána v ampulkách obsahujících 1 dávku (0,5 ml).
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: vakcíny, vakcína proti tetanu ATC kód: J07AM01.
+
+Mechanismus účinku
+
+Léčivou látkou vakcíny VACTETA je tetanový toxoid (T), adsorbovaný na hydroxid hlinitý. Toxoid se získává inaktivací bakteriálních toxinů pocházející z kultury bakterií Clostridium tetani formaldehydem. Toxoid si ponechává antigenní vlastnosti přirozeného toxinu, ale postrádá patogenitu. Tetanový toxoid tak vyvolává odezvu imunitního systému, spočívající v produkci protilátek (sérokonverzi) a spouští mechanismus imunitní paměti. Imunizující vlastnosti vakcíny jsou podpořeny hydroxidem hlinitým (adjuvans).
+
+Jedna dávka vakcíny VACTETA nechrání proti tetanu. Po dvou až čtyřech týdnech je následovaná druhou dávkou této vakcíny nebo vakcín DT či Td a po třetí dávce DTP (primární vakcinace), si 90 % subjektů vytvoří imunitu. Nicméně, ta trvá jen krátkou dobu. Doplňující dávka (poslední dávka základního očkování) zajišťuje imunitu po dobu až 10 let.
+
+Booster dávky (přeočkování) zajišťují dlouhotrvající ochranu proti onemocnění. Vakcína odpovídá požadavkům WHO na vakcínu proti tetanu.
+5.2  Farmakokinetické vlastnosti
+
+U vakcín nejsou požadovány.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti přípravku
+
+Údaje z dostupných publikovaných studií na zvířatech se stejným antigenem, který zahrnují jednorázové i opakované aplikace a studie lokální snášenlivosti neodhalily žádné zvláštní riziko ani orgánovou toxicitu.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+
+
+6/9
+
+Isotonický roztok chloridu sodného, adjuvans:
+viz bod 2
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto tento léčivý přípravek nesmí být mísen s žádnými dalšími léčivými přípravky, vakcínami ani imunoglobuliny.
+
+6.3  Doba použitelnosti
+
+3 roky.
+Po otevření ampulky je třeba vakcínu ihned aplikovat.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 °C – 8 °C) ve svislé poloze. Chraňte před mrazem. Uchovávejte ampulky v krabičce, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a velikost balení
+
+Skleněná ampulka (sklo třídy I), krabička. Velikost balení: 1 x 0,5 ml, 5 x 0,5 ml.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Návod k použití
+
+Po roztřepání je vakcína bílá až téměř bílá homogenní suspenze ve skleněných ampulkách. V průběhu uchovávání je možné pozorovat bílý sediment s čirou kapalinou na povrchu.
+Výběr injekční jehly:
+Rozhodnutí o velikosti jehly a místě injekce musí být provedeno pro každou osobu zvlášť podle velikosti svalu a tloušťky tukové tkáně v místě vpichu.
+
+Pohlaví/věk            Délka jehly            Místo aplikace Děti a dospívající
+
+Děti 1- 12 měsíců
+Děti 1 – 2 roky
+
+Děti/dospívající 3-18 let
+25 mm
+25 mm – 32 mm
+16 mm – 25 mm
+16 mm – 25 mm
+25 mm – 32 mm
+Dospělí starší 19 let
+Anterolaterální strana stehna
+Anterolaterální strana stehna * Deltový sval
+Deltový sval *
+Anterolaterální strana stehna
+
+
+Muži i ženy < 60 kg Muži 60 kg – 118 kg
+Ženy 60 – 90 kg Muži > 118 kg Ženy > 90 kg
+25 mm (16 mm)
+25 mm - 38 mm
+25 mm - 38 mm
+38 mm
+38 mm
+Deltový sval Deltový sval Deltový sval Deltový sval Deltový sval
+
+
+
+7/9
+
+* Preferované místo aplikace
+
+
+
+Instrukce pro podání přípravku:
+
+1. Protřepejte před aplikací, dokud nezískáte mléčnou homogenní suspenzi.
+
+2. Vakcínu je třeba vizuálně zkontrolovat na přítomnost cizorodých částic a/nebo změnu fyzikálního vzhledu. Vakcína nesmí být použita v případě jakékoli změny vzhledu vakcíny.
+
+3. Nad rýhou při zúžení ampulky (tj. na spojnici hrdla s tělem ampulky) je umístěna bílá tečka. Jednou rukou uchopte tělo ampulky a druhou rukou hrdlo ampulky tak, aby se bílá tečka nacházela pod bříškem palce.
+
+4. Stisknutím ampulky na opačnou stranu od bílé tečky se odlomí hrdlo ampulky.
+
+5. Vložte jehlu do těla ampulky a natáhněte celý obsah (0,5 ml) do injekční stříkačky a odstraňte vzduchové bubliny.
+
+6. Podejte injekci.
+
+7. Ujistěte se, že jehla nepronikla do krevní cévy.
+
+8. Aplikujete vakcínu.
+
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+BIODRUG s.r.o.
+Boženy Němcovej 8
+811 04 Bratislava Slovenská republika tel. +421 948445762
+e-mail info@biodrug.sk
+
+
+8.  REGISTRAČNÍ ČÍSLO
+
+59/243/14-C
+
+
+9.  DATUM REGISTRACE / DATUM PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 18.6.2014
+Datum posledního prodloužení registrace: 25. 9. 2019
+
+
+8/9
+
+10.  DATUM POSLEDNÍ REVIZE TEXTU
+
+1. 4. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

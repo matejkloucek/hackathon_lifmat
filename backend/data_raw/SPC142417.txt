@@ -1,0 +1,379 @@
+Sp.zn.sukls148981/2016 a sp.zn.sukls90577/2018
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+1 000 ml infuzního roztoku obsahuje:  Kaliumchlorid/glucose     Kaliumchlorid/glucose
+0,15% + 5% B. Braun     0,3% + 5% B. Braun
+
+
+Kalii Chloridum                 1,50 g  3,00 g
+
+
+Glucosum
+(jako glucosum monohydricum)
+50,00 g            50,00 g
+
+Koncentrace elektrolytů:
+Kalium                      20 mmol/l           40 mmol/l
+
+Chloridum                    20 mmol/l           40 mmol/l Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok
+Čirý, bezbarvý až mírně slámově zbarvený vodný roztok
+
+
+
+
+Energie
+Teoretická osmolarita pH
+Kaliumchlorid/glucose 0,15% + 5% B. Braun
+835 kJ/l≙200 kcal/l
+318 mosmol/l
+3,5-6,5
+Kaliumchlorid/glucose 0,3% + 5% B. Braun
+835  kJ/l≙200 kcal/l
+358  mosmol/l
+ 3,5-6,5
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Podání draslíku pro nápravu nebo prevenci deficience draslíku a podání glukózy k pokrytí základních energetických potřeb.
+
+
+1/9
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dávkování závisí na věku, hmotnosti a klinickém stavu pacienta, zvláště u pacientů s renální nebo srdeční insuficiencí. Vzhledem k riziku vzniku hyponatremie může být před podáním přípravku a během něj nutné monitorovat rovnováhu tekutin, hladinu glukózy a sodíku v séru a další elektrolyty, a to zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu – SIADH) a u pacientů současně léčených agonisty vazopresinu.
+Sledování sérových hladin sodíku je obzvláště důležité u fyziologicky hypotonických tekutin. Kaliumchlorid/glucose 0,15% (0,3%) +5% B. Braun se v důsledku metabolizace glukózy v těle (viz body 4.4, 4.5 a 4.8) může po podání změnit na hypotonický.
+Dávkování a rychlost infuze musí být stanoveny na základě sledování EKG a sérových elektrolytů. Musí být zajištěn dostatečný průtok moči.
+Dospělí:
+
+Následující doporučení jsou obecnými pokyny pro draslík, avšak předepisování se řídí místními předpisy. Draslík
+Množství potřebné pro nápravu středně závažného deficitu draslíku a k udržování lze vypočítat podle následujícího vzorce:
+mmol K+požadovaný = (tělesná hmotnost [kg] × 0,2)* × 2 × (sérový-K+cílový** – sérový-K+skutečný [mmol/l])
+* představuje objem extracelulární tekutiny
+** má být 4,5 mmol/l
+Maximální doporučená dávka draslíku je 2–3 mmol/kg tělesné hmotnosti za 24 h. Tekutiny
+Obecně nemá být podáno více než 40 ml tekutiny na 1 kg tělesné hmotnosti za den. V případech, kdy je zapotřebí větší množství draslíku, je třeba zvážit jiné síly přípravku.
+Maximální rychlost infuze
+Až do 5 ml/kg tělesné hmotnosti za hodinu, což odpovídá 0,25 g glukózy na kg tělesné hmotnosti za hodinu a 0,1–0,2 mmol draslíku na kg tělesné hmotnosti za hodinu (u 0,15%, respektive 0,3%).
+Pediatrická populace
+Objem a rychlost podávání infuze závisí na požadavcích jednotlivých pacientů. Může být nutné snížit objemy a rychlosti podávání infuze. Obecně nemá být překročena rychlost substituce 0,5 mmol draslíku na kilogram tělesné hmotnosti za hodinu. Během infuze má být nepřetržitě sledováno EKG
+Maximální denní dávka
+Maximální doporučená dávka draslíku je 2–3 mmol na kilogram tělesné hmotnosti za 24 h. V žádném případě nesmějí být překročeny limity pro denní příjem tekutin.
+
+
+
+
+2/9
+
+Starší pacienti
+Platí v podstatě stejné dávkování jako u dospělých pacientů, je však třeba postupovat opatrně u pacientů s dalšími onemocněními, jako je srdeční nebo renální nedostatečnost, které mohou být často spojeny s vyšším věkem. Viz bod 4.4.
+Délka používání
+Tento léčivý přípravek se smí podávat, dokud existuje indikace pro podání zdroje energie, draslíku a tekutin.
+Způsob podání
+Nitrožilní infuze přes velkou periferní nebo centrální žílu. V případě infuze do centrální žíly nesmí být katétr v síni ani v komoře. Tím se zabrání vzniku lokalizované hyperkalemie.
+Při korekční terapii mají být k infuzi draslíku zásadně používány infuzní pumpy.
+
+4.3 Kontraindikace
+
+• hyperkalemie,
+• závažná porucha funkce ledvin s oligurií a anurií nebo azotemií,
+• hyperchloremie,
+• poranění hlavy (v prvních 24 hodinách),
+• hyperhydratace,¨
+• hyperglykemie,
+• akutní ischemická cévní mozková příhoda.
+4.4 Zvláštní upozornění a opatření pro použití
+
+Zvláštní upozornění
+
+Roztoky obsahující draslík musí být podávány pomalu a až po potvrzení dostatečné funkce ledvin. U pacientů s postižením ledvin musí být jeho používání pečlivě řízeno častým měřením koncentrace draslíku v plazmě a pravidelnou kontrolou EKG. Infuzi je nutné zastavit, pokud se během ní objeví příznaky renální insuficience.
+Doplňky s draslíkem je nutné podávat opatrně u pacientů se srdečním onemocněním, zejména u pacientů užívajících digitalis (viz bod 4.5).
+Při podávání infuze velkého objemu hypotonických tekutin pacientům s edematózními stavy nebo edémem plic je třeba dbát opatrnosti.
+
+Pacientům s hyponatremií, mají být roztoky s nízkým obsahem elektrolytů, zvláště sodíku, také podávány opatrně.
+Je zapotřebí se vyhnout rychlému výraznému poklesu hladiny sodíku v séru, protože to může být spojeno s rizikem osmotického poškození nervového systému.
+
+Kaliumchlorid/glucose 0,15% +5% B. Braun je izotonický roztok. Kaliumchlorid/glucose 0,3% + 5% B. Braun je mírně hypertonický roztok. V těle se však roztok může stát fyziologicky hypotonický kvůli rychlé metabolizaci glukózy (viz bod 4.2).
+
+V závislosti na tonicitě roztoku, na objemu a rychlosti infuze a na klinickém stavu pacienta a jeho schopnosti metabolizovat glukózu může intravenózní podání těchto roztoků způsobit poruchy elektrolytové rovnováhy, především hypo- nebo hyperosmotickou hyponatremii.
+
+3/9
+
+Hyponatremie:
+
+Pacienti s neosmotickým uvolňováním vazopresinu (např. s akutním onemocněním, bolestí, postoperačním stresem, infekcemi, popáleninami a s onemocněním CNS), pacienti s onemocněním srdce, jater a ledvin a pacienti užívající agonisty vazopresinu (viz bod 4.5) jsou obzvláště ohroženi rizikem vzniku akutní hyponatremie po infuzi hypotonických tekutin.
+
+Akutní hyponatremie může vést k akutní hyponatremické encefalopatii (edému mozku) charakterizované bolestí hlavy, nauzeou, záchvaty, letargií a zvracením. U pacientů s edémem mozku je mimořádné riziko vzniku závažného, nevratného a život ohrožujícího poškození mozku.
+Mimořádné riziko vzniku závažného a život ohrožujícího otoku mozku vyvolaného akutní hyponatremií hrozí zejména u dětí, u žen ve fertilním věku a u pacientů se sníženou poddajností mozku (např. s meningitidou, s intrakraniálním krvácením nebo s kontuzí mozku).
+Je nutné dbát opatrnosti, když je roztok podáván pacientům s diabetem a pacientům s poruchou tolerance glukózy z jakéhokoliv jiného důvodu. Bude nutné sledovat hladinu glukózy v krvi.
+
+Roztoky obsahující glukózu se nesmí podávat současně s transfuzí krve, před ní ani po ní stejným infuzním zařízením z důvodu možnosti vzniku pseudoaglutinace.
+
+Je třeba postupovat opatrně, když se roztok podává pacientům se srdečním onemocněním (např. s infarktem myokardu, srdečními arytmiemi v anamnéze), nebo s onemocněními, která mohou navozovat hyperkalemii, jako je renální nebo adrenokortikální nedostatečnost, akutní dehydratace nebo nadměrné poškození tkání, např. spáleniny.
+Pediatrická populace
+Léčba intravenózními tekutinami má být u pediatrické populace pečlivě sledována kvůli potenciálně snížené schopnosti regulace tekutin a elektrolytů. Infuze hypotonických tekutin spolu s neosmotickou sekrecí ADH (při bolesti, pooperačních stavech, nauzee, zvracení) může vést k hyponatremii.
+Roztoky s nízkými koncentracemi solí, zejména sodíku, mají být podávány dětem se zvláštní opatrností a má být pečlivě sledována rovnováha elektrolytů a tekutin.
+Starší pacienti
+Starší pacienti, u kterých je pravděpodobnější výskyt srdeční nedostatečnosti a poruchy funkce ledvin, mají být během léčby pečlivě sledováni a dávkování má být pečlivě upravováno, aby se zabránilo komplikacím se srdečním oběhem a renálním komplikacím vzniklých z přetížení tekutinami.
+Opatření pro použití
+Klinické sledování musí zahrnovat EKG, pravidelné kontroly rovnováhy tekutin, sérových elektrolytů a monitorování hladin krevní glukózy.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+•  Digoxin, srdeční glykosidy
+U pacientů léčených srdečními glykosidy je třeba dbát na to, aby byla udržována konstantní koncentrace draslíku.
+V případě hyperkalemie může být účinek srdečních glykosidů oslaben a v případě hypokalemie může vést k toxicitě srdečních glykosidů. U těchto pacientů je zapotřebí podávání draslíku velmi opatrně přerušit.
+•  Léky s potenciálem vyvolat hyperkalemii
+
+
+4/9
+
+Je nutné postupovat opatrně při současném užívání léků obsahujících draslík a léků s potenciálem vyvolat hyperkalemii, jako jsou:
+• draslík šetřící diuretika, např. spironolakton, triamteren,
+• ACE inhibitory,
+• antagonisté receptoru angiotensinu II
+• nesteroidní antiflogistika
+• cyklosporin,
+• takrolimus,
+• suxamethonium.
+Současné podávání roztoků obsahujících draslík a těchto léků může vést k závažné hyperkalemii, která může dále vést k srdeční arytmii.
+•  Léky způsobující pokles hladiny draslíku v séru
+
+ACTH, kortikosteroidy a kličková diuretika mohou zvyšovat renální eliminaci draslíku.
+•  Léčivé přípravky vedoucí ke zvýšení účinku vazopresinu
+Níže uvedené léky zvyšují účinek vazopresinu, což vede ke sníženému vylučování bezelektrolytové vody ledvinami a ke zvýšenému riziku hyponatremie vzniklé ve zdravotnickém zařízení po nedostatečně balancované léčbě intravenózně podávanými tekutinami (viz body 4.2, 4.4 a 4.8).
+
+Léky stimulující uvolňování vazopresinu, např.:
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání serotoninu, 3,4-methylendioxy-N-methamfetamin, ifosfamid, antipsychotika, narkotika
+Léky posilující účinek vazopresinu, např.:
+chlorpropamid, NSAID, cyklofosfamid
+
+Analoga vazopresinu, např.:
+Desmopresin, oxytocin, vazopresin, terlipresin
+
+Další léčivé přípravky zvyšující riziko vzniku hyponatremie také zahrnují diuretika všeobecně a antiepileptika, jako je oxkarbazepin.
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání přípravku Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun těhotným ženám jsou omezené nebo nejsou k dispozici. Studie reprodukční toxicity na zvířatech jsou nedostatečné (viz bod 5.3). Všechny složky přípravku Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun se však přirozeně nacházejí v těle a jejich biochemické vlastnosti jsou dobře známy, a proto se žádné toxické účinky na těhotenství nepředpokládají.
+Přípravek Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun může být v případě klinické nutnosti použit v období těhotenství.
+
+Vzhledem k riziku vzniku hyponatremie je nutno při podávání infuzního roztoku chloridu draselného 1,5 mg/ml (0,15% w/v) nebo 3 mg/ml (0,3% w/v) a glukózy 50 mg/ml (5% w/v) těhotným ženám během porodu postupovat se zvláštní opatrností, zejména je-li roztok podáván v kombinaci s oxytocinem (viz body 4.4, 4.5 a 4.8).
+Kojení
+Údaje o podávání chloridu draselného a glukózy kojícím ženám jsou omezené nebo nejsou k dispozici.
+
+5/9
+
+Všechny složky tohoto přípravku se však přirozeně nacházejí v těle a jejich biochemické vlastnosti jsou dobře známy, a proto se žádné toxické účinky na kojení nepředpokládají.
+Přípravek Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun může být v případě klinické nutnosti použit v období kojení.
+
+Fertilita
+Nejsou k dispozici žádné údaje.
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Přípravek Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Obecné
+
+Nežádoucí účinky jsou uvedeny podle frekvencí následovně:
+Velmi časté (≥ 1/10) Časté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až < 1/100) Vzácné (≥ 1/10 000 až < 1/1 000) Velmi vzácné (< 1/10 000)
+Není známo (z dostupných údajů nelze určit)
+
+Celkové poruchy a reakce v místě aplikace:
+Není známo: Může se objevit lokální reakce v místě aplikace infuze, včetně lokální bolesti, podráždění žíly a příležitostné tromboflebitidy.
+Poruchy metabolismu a výživy:
+Není známo: Hyponatremie vzniklá ve zdravotnickém zařízení
+Neurologické poruchy:
+Není známo: Hyponatremická encefalopatie
+Hyponatremie vzniklá ve zdravotnickém zařízení může způsobit nevratné poškození mozku a smrt v důsledku rozvinutí akutní hyponatremické encefalopatie (viz body 4.2 a 4.4).
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+
+
+
+
+6/9
+
+4.9 Předávkování
+Symptomy
+V případě předávkování se může objevit hyperkalemie, hyponatremie, hyperhydratace, hyperglykemie, intoxikace draslíkem, edém, metabolické poruchy a poruchy elektrolytů.
+Příznaky hyperkalemie jsou primárně kardiovaskulární poruchy a zahrnují hypotenzi, srdeční arytmii, srdeční blokádu, abnormality EKG s rozvojem bifázických křivek a srdeční zástavu. Další symptomy jsou parestezie končetin, svalová nebo respirační paralýza, areflexie, slabost a duševní zmatenost.
+Léčba
+Okamžité přerušení infuze, sledování EKG, v případě potřeby zvýšení průtoku moči a tím vylučování tekutin a elektrolytů, podání hydrogenuhličitanu sodného a inzulinu.
+Je-li ke zvýšení příjmu draslíku buňkami podán inzulin, má být podána glukóza, aby nedošlo
+k hypoglykemii. U pacientů s přetrvávajícími abnormalitami EKG je možné podat např. kalcium-glukonát jako antagonistu kardiotoxických účinků draslíku. U pacientů s renální insuficiencí může být zapotřebí hemodialýza nebo peritoneální dialýza.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Roztoky ovlivňující rovnováhu elektrolytů, ATC kód: B05B B02
+
+Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun obsahuje glukózu a elektrolyty draslíku a chloridů ve vodě pro injekci.
+Mechanismus účinku
+
+Draslík je hlavní kationt v intracelulární tekutině a je nezbytný pro udržování acidobazické rovnováhy, izotonicity a elektrodynamických vlastností buňky. Elektrolyt je důležitým aktivátorem při mnoha enzymatických reakcích a je nezbytný pro řadu fyziologických pochodů včetně přenosu nervových impulsů, kontrakce srdečních, hladkých a kosterních svalů, žaludeční sekrece, funkce ledvin, syntézy tkání, využití uhlohydrátů a syntézy bílkovin.
+Chlorid je hlavní extracelulární aniont, má velmi podobné fyziologické vlastnosti jako sodík a také draslík. Společně se sodíkem a bikarbonáty hraje chlorid důležitou roli při regulaci acidobazické rovnováhy a změny acidobazické rovnováhy organismu se projevují změnami sérové koncentrace chloridů.
+Glukóza je hlavní uhlohydrát v organismu a pro některé orgány je nezbytný. Samotná glukóza a deriváty metabolismu glukózy jsou v těle využívány jako zdroj energie, slouží k modifikaci bílkovin a lipidů, tvorbě mukopolysacharidů a laktózy, které jsou složkami nukleových kyselin, a konjugátů pro vylučování různých látek.
+Farmakodynamické účinky
+
+U pacientů po operaci, po úrazu a v jiných klinických případech často dochází k vážným ztrátám tekutin a elektrolytů a katabolickým situacím a v důsledku toho ke zhoršení výše uvedených fyziologických funkcí. U těchto pacientů je podání složek obsažených v přípravku Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun indikováno za účelem obnovy hladin elektrolytů, doplnění energie a tím k zabránění dalšího poškození organismu.
+
+
+
+
+
+7/9
+
+5.2 Farmakokinetické vlastnosti
+
+Absorpce
+
+Vzhledem k tomu, že složky přípravku Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun jsou podávány nitrožilní infuzí, jejich biologická dostupnost je 100 %.
+Distribuce
+Infuzně podávaný draslík je aktivně transportován do buněk, kde je jeho koncentrace až 40krát vyšší než mimo buňku. Plazmatické koncentrace draslíku se obvykle pohybují v rozsahu od 3,5 do 5 mmol/l.
+Chloridy jsou rozptýleny převážně v extracelulárním prostoru. Plazmatické koncentrace chloridů jsou normálně usměrňovány na hodnotu 95–107 mmol/l.
+Hodnoty glukózy v plazmě na lačno se pohybují pouze mezi 3,9 a 5,6 mmol/l (70–100 mg/dl).
+Biotransformace
+
+Plazmatické hladiny glukózy jsou regulovány zejména činností jater a dále různých hormonů a kosterních svalů. Glukóza obvykle kompletně oxiduje za vzniku CO2 a vody, ale tato metabolická dráha je omezená. Přebytečná glukóza se uloží jako glykogen nebo se přemění na tuk. Při vážných úrazech a v jiných klinických situacích, např. při diabetu, dochází k ovlivnění clearance, oxidace a recyklace glukózy.
+V takových situacích musí být roztok podáván opatrně, aby nedošlo k hyperglykemii.
+
+Eliminace
+Draslík a chloridy jsou převážně vylučovány ledvinami, ale malá množství tělo ztrácí i pokožkou a trávicím traktem. Konečné produkty úplné oxidace glukózy jsou eliminovány plícemi (oxid uhličitý) a ledvinami (voda). Zejména chirurgické zákroky vedou ke zvýšenému vylučování draslíku v moči při současném zadržování vody a sodíku. Pro jeho doplnění je nezbytné vzít v úvahu, že na homeostázu jednoho elektrolytu mají vliv ostatní elektrolyty a jejich regulace je tedy do určité míry vzájemně závislá.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity, hodnocení kancerogenního potenciálu, reprodukční a vývojové toxicity neodhalily žádné zvláštní riziko pro člověka. Všechny složky přípravku Kaliumchlorid/glucose 0,15% (0,3%) + 5% B. Braun se přirozeně nacházejí v těle a jejich biochemické vlastnosti jsou dobře známy. Toxické účinky se tedy nepředpokládají.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+Voda pro injekci.
+
+6.2 Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+6.3 Doba použitelnosti
+-  neotevřený
+3 roky
+
+8/9
+
+-  po prvním otevření lahve
+Neuplatňuje se. Viz bod 6.6.
+-  po přidání aditiv
+
+Z mikrobiologického hlediska musí být přípravek použit okamžitě, pokud způsob otevření nevylučuje riziko mikrobiální kontaminace. Není-li použit okamžitě, za dobu a podmínky uchovávání zodpovídá uživatel.
+6.4 Zvláštní opatření pro uchovávání
+
+Neotevřený: Neuchovávejte při teplotě nad 25 ℃.
+Podmínky uchovávání tohoto léčivého přípravku po přidání aditiv jsou uvedeny v bodě 6.3.
+6.5 Druh obalu a obsah balení
+
+Lahve z bezbarvého polyethylenu o nízké hustotě o objemu 500 ml a 1 000 ml v baleních po 10. Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Roztok použijte pouze tehdy, je-li čirý, bezbarvý až mírně slámově zbarvený a je-li obal nepoškozený. Roztok nemá obsahovat viditelné částice. Roztok nepodávejte, pokud obal nebo jeho uzávěr jeví viditelné známky poškození.
+Lahve jsou pouze k jednorázovému použití. Lahev a veškerý nepoužitý obsah zlikvidujte. Částečně použitou lahev znovu nenapojujte.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky. Infuzní zařízení musí být naplněno roztokem, aby nedošlo k vniknutí vzduchu do systému.
+V případě nežádoucích účinků je třeba infuzi ihned zastavit.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+B. Braun Melsungen AG
+Carl-Braun-Strasse 1          Poštovní adresa:
+34212 Melsungen, Německo      34209 Melsungen, Německo
+
+tel.+49 (0)5661-71-0
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+Kaliumchlorid/glucose 0,15% + 5% B. Braun: 76/502/12-C Kaliumchlorid/glucose 0,3% + 5% B. Braun: 76/503/12-C
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+
+Datum první registrace: 22. 8. 2012
+
+
+9/9
+
+Datum posledního prodloužení registrace:
+
+10. DATUM REVIZE TEXTU
+
+20. 7. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/9

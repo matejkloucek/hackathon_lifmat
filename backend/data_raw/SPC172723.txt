@@ -1,0 +1,921 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+
+
+
+MONOGRAFIE PŘÍPRAVKU
+VČETNĚ PŘÍBALOVÉ INFORMACE PRO PACIENTA
+
+
+PʳPRIMAQUINE®
+
+Primachin fosfát tablety, USP
+
+26,3 mg primachin fosfátu odpovídá 15 mg primachinu
+
+
+
+
+
+
+Antimalarikum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sanofi-aventis Kanada Inc. 2905, Place Louis-R.-Renaud Laval, Quebec H7V 0A3
+
+
+
+Kontrola č.: 226711
+Datum revize: 27. května 2020
+
+
+
+
+s-a verze 8.0 ze dne 27. května 2020
+
+
+Strana 1 z 24
+
+Monografie přípravku – PRIMAQUINE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strana 2 z 24
+
+POSLEDNÍ VÝZNAMNÉ ZMĚNY NA ŠTÍTKU
+Indikace (1) 05/2020
+Kontraindikace (2) 05/2020
+Dávkování a způsob podání, doporučená dávka a úprava dávky (3.2) 05/2020 Upozornění a opatření při užívání (6) 05/2020
+Upozornění a opatření při užívání, Speciální populace (6.1) 05/2020
+
+OBSAH
+POSLEDNÍ VÝZNAMNÉ ZMĚNY NA ŠTÍTKU                        2
+OBSAH                                                 2
+ČÁST I: INFORMACE PRO ZDRAVOTNICKÉ PRACOVNÍKY              4
+1    INDIKACE                                          4
+1.1  Pediatričtí pacienti                                   4
+1.2  Dospělí pacienti                                     4
+2    KONTRAINDIKACE                                    4
+3    DÁVKOVÁNÍ A ZPŮSOB PODÁNÍ                           5
+3.1  Dávkování                                        5
+3.2  Doporučená dávka a úprava dávky                          5
+3.3  Způsob podání                                      7
+3.4  Vynechaná dávka                                    7
+4    PŘEDÁVKOVÁNÍ                                      7
+5    LÉKOVÁ FORMA, SÍLA, SLOŽENÍ A BALENÍ                    7
+6    VAROVÁNÍ A PREVENTIVNÍ OPATŘENÍ                      8
+6.1  Speciální populace                                   10
+6.1.1  Těhotenství                                     10
+6.1.2  Kojení                                        10
+7    NEŽÁDOUCÍ ÚČINKY                                  10
+7.1  Přehled nežádoucích účinků                             10
+7.2  Méně časté nežádoucí účinky v klinických studiích (< 1 %)            11
+7.3  Nežádoucí účinky v klinických studiích (pediatričtí pacienti)           11
+7.4  Nežádoucí reakce po uvedení na trh                         11
+8    LÉKOVÉ INTERAKCE                                  12
+8.1  Interakce s jinými léčivými přípravky                        12
+9    ÚČINEK A KLINICKÁ FARMAKOLOGIE                      13
+9.1  Mechanizmus účinku                                 13
+9.2  Farmakodynamika                                   13
+9.3  Farmakokinetika                                    13
+Monografie přípravku –
+Strana 3 z 24
+
+10   UCHOVÁVÁNÍ, STABILITA A LIKVIDACE                     16
+11   ZVLÁŠTNÍ POKYNY PRO ZACHÁZENÍ                       16
+12   FARMACEUTICKÉ ÚDAJE                               17
+13   KLINICKÉ STUDIE                                    17
+PŘÍBALOVÁ INFOMRACE PRO PACIENTA                        20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monografie přípravku –
+Strana 4 z 24
+
+ČÁST I: INFORMACE PRO ZDRAVOTNICKÉ PRACOVNÍKY
+
+
+1. INDIKACE
+Přípravek PRIMAQUINE (primachin fosfát) je indikován k radikální léčbě (prevenci relapsu) malárie způsobené Plasmodium vivax a Plasmodium ovale.
+
+Zohledněte oficiální pokyny ke správnému použití antimalarik.
+1.1 Pediatričtí pacienti
+Pediatričtí pacienti bez deficitu G6PD (tělesná hmotnost ≥ 30 kg a schopnost polykat tablety): Na základě údajů předložených a přezkoumaných Health Canada byla potvrzena bezpečnost a účinnost užívání primachinu u dětských pacientů bez deficitu G6PD s hmotností 30 kg nebo vyšší a schopných polykat tablety. Health Canada proto schválila indikaci pro použití u pediatrických pacientů (viz DÁVKOVÁNÍ A ZPŮSOB PODÁNÍ).
+
+Pediatričtí pacienti s mírnou až středně závažnou formou deficitu G6PD (tělesná hmotnost ≥ 20 kg a schopnost polykat tablety): Na základě údajů předložených a přezkoumaných Health Canada byla potvrzena bezpečnost a účinnost užívání primachinu u dětských pacientů s mírnou až středně závažnou formou deficitu G6PD s hmotností 20 kg nebo vyšší a schopných polykat tablety. Health Canada proto schválila indikaci pro použití u pediatrických pacientů (viz DÁVKOVÁNÍ A ZPŮSOB PODÁNÍ).
+1.2 Dospělí pacienti
+Dospělí (> 65 let): Účinnost a bezpečnost užívání primachinu u starších pacientů s malárií způsobenou P. vivax a P. ovale nebyla hodnocena. Z důvodu vyššího výskytu snížené funkce ledvin, jater nebo srdce a souběžného onemocnění nebo jiné farmakoterapie u starších pacientů, je nutné sledovat účinnost užívání a nežádoucí účinky (viz VAROVÁNÍ A PREVENTIVNÍ OPATŘENÍ).
+2. KONTRAINDIKACE
+PRIMAQUINE je kontraindikován:
+• U pacientů s přecitlivělostí na primachin nebo na kteroukoli ze složek přípravku nebo balicí složku. Úplný seznam pomocných látek viz část LÉKOVÁ FORMA, SÍLA, SLOŽENÍ A BALENÍ.
+• U akutně nemocných pacientů trpících systémovým onemocněním, které se projevuje sklonem ke granulocytopenii, jako je revmatoidní artritida a lupus erythematodes, protože primachin může u těchto pacientů způsobit leukopenii.
+• U pacientů užívajících zároveň jiné potenciálně hemolytické léky nebo léky působící depresi myeloidní řady kostní dřeně.
+• Zdá se, že chinakrin potencuje toxicitu antimalarických látek, které jsou strukturně podobné primachinu. Proto je kontraindikováno podávání chinakrinu pacientům, kteří užívají primachin.
+
+Monografie přípravku –
+Strana 5 z 24
+
+•  Obdobně, primachin by neměl být podávat pacientům, kteří v nedávné době užívali chinakrin, protože hrozí vyšší toxicita.
+• U pacientů se závažnou formou deficitu glukózo-6-fosfát dehydrogenázy (G6PD).
+• U těhotných žen.
+3. DÁVKOVÁNÍ A ZPŮSOB PODÁNÍ
+3.1 Dávkování
+Primachin je indikován pouze k radikální léčbě malárie způsobené P. vivax a P. ovale ( k prevenci relapsů malárie způsobené P. vivax a P. ovale) nebo po skončení supresivní léčby chlorochin fosfátem v oblastech s endemickým výskytem malárie způsobené P. vivax nebo
+P. ovale.
+
+Pacientům se záchvatem malárie způsobené P. vivax nebo P. ovale nebo pacientům, kteří mají červené krvinky napadené parazity, by měla být nejprve indikována léčba krevními schizontocidy, které rychle ničí parazity v erytrocytech a ukončí záchvat. Poté by měl být podáván primachin fosfát, aby se docílilo eradikace exo-erytrocytárních parazitů.
+
+Pokud je primachin indikován k prevenci opožděných primárních záchvatů a relapsů malárie způsobené P. vivax nebo P. ovale u osob, které se vrátily z oblastí, kde se tyto druhy plasmodií vyskytují endemicky, léčba primachinem se obvykle zahajuje poslední 2 týdny terapie chlorochinem nebo jiným vhodným antimalarikem nebo se zavádí bezprostředně po skončení této terapie.
+
+Forma deficitu G6PD, kterou pacient trpí, by měla sloužit k určení způsobu podání primachinu k prevenci relapsu.
+3.2 Doporučená dávka a úprava dávky
+Dospělí
+Dospělí pacienti bez deficitu G6PD:
+
+U pacientů s hmotností do 70 kg:
+-  U mírnějších kmenů: 1 tableta 15 mg (primachin) denně po dobu 14 dnů.
+-  U tropických, často recidivujících kmenů: 2 tablety po 15 mg (primachin), tj. 30 mg denně po dobu 14 dnů.
+
+U pacientů s hmotností > 70 kg:
+-  Aby bylo dosaženo celkové dávky 3,5 až 7 mg/kg (primachin) během14 dnů, je třeba užívat dávku alespoň 30 mg denně, a to bez ohledu na kmen (viz KLINICKÉ STUDIE Klinická účinnost/klinické studie).
+
+Dospělí pacienti s mírnou až středně závažnou formou deficitu G6PD:
+- 0,75 mg/kg primachinu jednou týdně po dobu 8 týdnů (viz UPOZORNĚNÍ A PREVENTIVNÍ OPATŘENÍ), nepřesahující jednotlivou dávku 45 mg.
+
+
+Monografie přípravku –
+Strana 6 z 24
+
+Děti
+
+Pediatričtí pacienti bez deficitu G6PD:
+
+- Obvyklá dávka je 0,25 až 0,5 mg/kg/den po dobu 14 dnů, aby bylo dosaženo celkové dávky 3,5 až 7 mg/kg (primachinu) (viz KLINICKÉ STUDIE, Klinická účinnost/Klinické studie).
+- Přípravek PRIMAQUINE není vhodný pro děti, které váží méně než 30 kg nebo nejsou schopny polykat tablety.
+- Dětem s hmotností mezi 30 až 59 kg podávejte 1 tabletu denně po dobu 14 dnů, bez ohledu na druh kmene.
+- Dětem a dospívajícím s hmotností od 60 kg podávejte dávku jako pro dospělé.
+Pediatričtí pacienti s mírnou až středně závažnou formou deficitu G6PD:
+- 0,75 mg/kg primachinu jednou týdně po dobu 8 týdnů (viz UPOZORNĚNÍ A PREVENTIVNÍ OPATŘENÍ), nepřesahující jednotlivou dávku 45 mg (viz tabulka níže).
+- Přípravek PRIMAQUINE není vhodný pro děti, které váží méně než 20 kg nebo nejsou schopny polykat tablety.
+
+
+Tělesná hmotnost pacienta
+20-39 kg
+40-59 kg
+≥ 60 kg
+Dávka jednou týdně po dobu 8 týdnů
+1 tableta
+2 tablety
+3 tablety
+
+Starší pacienti:
+U starších pacientů nebyly provedeny žádné specifické studie. Z důvodu vyššího výskytu snížené funkce ledvin, jater nebo srdce a souběžného onemocnění nebo jiné farmakoterapie u starších pacientů je nutné sledovat účinnost užívání a nežádoucí účinky (viz VAROVÁNÍ A PREVENTIVNÍ OPATŘENÍ).
+
+Poruchy funkce jater:
+
+Účinnost a bezpečnost užívání primachinu nebyly u pacientů s poruchou funkce jater hodnoceny. Primachin je metabolizován v játrech za vzniku aktivních metabolitů a není známo, zda by mohla být ovlivněna jeho účinnost u pacientů s poruchou funkce jater. Pokud je těmto pacientům podáván primachin, je nutné sledovat účinnost a nežádoucí účinky, a to zejména u pacientů s těžkou poruchou funkce jater (viz ÚČINEK A KLINICKÁ FARMAKOLOGIE, Farmakokinetika).
+
+Poruchy funkce ledvin:
+
+Monografie přípravku –
+Strana 7 z 24
+
+Bezpečnost opakovaného podání primachinu nebyla u pacientů s poruchou funkce ledvin hodnocena. Pokud je těmto pacientům podáván primachin, je nutné sledovat nežádoucí účinky, a to zejména u pacientů s těžkou poruchou funkce ledvin (viz ÚČINEK A KLINICKÁ FARMAKOLOGIE, Farmakokinetika).
+3.3 Způsob podání
+Užívání primachinu po jídle může snížit abdominální bolesti nebo křeče spojené s podáváním léku.
+3.4 Vynechaná dávka
+Pokud pacient vynechá dávku, musí ji užít co nejdříve. Pokud se blíží doba následující dávky, je třeba pokračovat v pravidelném dávkovacím režimu. Neužívejte zdvojnásobenou dávku.
+4. PŘEDÁVKOVÁNÍ
+Příznaky
+Křeče v břiše, zvracení, žloutenka, pálení v epigastriu, poruchy CNS (včetně bolesti hlavy a nespavosti), kardiovaskulární poruchy (včetně srdeční dysrytmie a prodloužení QT intervalu), methemoglobinémie (projevující se cyanózou), mírná leukocytóza nebo leukopenie, granulocytopenie a anémie. Může se objevit akutní hemolýza, která může být zvláště závažná u pacientů s deficitem G6PD.
+
+Pro informace o léčbě při podezření na předávkování lékem kontaktujte Toxikologické informační středisko.
+
+Součástí léčby by mělo být buď podání aktivního uhlí, nebo vhodné postupy vedoucí k eliminaci primachinu ze žaludku zvracením nebo žaludeční laváží a poskytnutí respirační a kardiovaskulární podpůrné léčby.
+
+Laktát sodný i.v. lze použít k potlačení depresivních účinků primachinu na srdce. Může být nezbytná i elektrická stimulace srdce.
+
+Ke zvýšení eliminace močí lze podat chlorid amonný v dávce až 12 g denně perorální cestou. Symptomatická methemoglobinémie by měla být léčena metylénovou modří v dávce 1-2 mg/kg.
+5. LÉKOVÁ FORMA, SÍLA, SLOŽENÍ A BALENÍ
+Tabulka - Léková forma, síla, složení a balení.
+
+Způsob podávání
+Léková forma / síla / složení
+Pomocné složky
+
+
+
+
+
+Monografie přípravku –
+Strana 8 z 24
+
+Perorální
+Tableta, 26,3 mg primachin fosfátu
+(odpovídá 15 mg primachinu)
+Karnaubský vosk, celulóza (mikrokrystalická), laktóza, magnézium stearát, černý inkoust Opacode S-1-177003 (obsahuje šelakovou glazuru; propylenglykol; N-butylalkohol; černý oxid železitý; etanol a metanol), Opadry bílá YS- 1-7443 (obsahuje hypromelózu; polyethylenglykol 400; oxid titaničitý; a polysorbát 80), polyethylenglykol 400, červený oxid železitý, škrob a mastek.
+
+Neobsahuje lepek ani tartrazin.
+
+Každá růžová, potahovaná, konvexně kulatá tableta s černým potiskem stylizovaného W a P97 na jedné straně a plochá na druhé straně obsahuje: primachin fosfát USP 26,3 mg (odpovídá 15 mg primachinu).
+
+K dispozici v lahvičkách o obsahu 100 tablet.
+6. VAROVÁNÍ A PREVENTIVNÍ OPATŘENÍ
+Obecné
+Je nutné se vyhnout souběžnému podávání hemolytických látek u všech pacientů (viz LÉKOVÉ INTERAKCE). Pacienti by měli být upozorněni, aby okamžitě vysadili přípravek PRIMAQUINE, pokud se objeví známky naznačující hemolytickou anémii (jako je ztmavnutí moči, bledá kůže, dušnost, závratě a únava) a aby okamžitě kontaktovali svého lékaře.
+
+Kardiovaskulární
+Prodloužení QT intervalu
+Vzhledem k možnému prodloužení QT intervalu je nutná obezřetnost u pacientů se srdečním onemocněním, s anamnézou ventrikulární dysrytmie, nekorigovanou hypokalémií a/nebo hypomagnesémií nebo bradykardií (< 50 tepů za minutu) a při souběžném podávání s léky prodlužujícími QT interval (viz NEŽÁDOUCÍ ÚČINKY a PŘEDÁVKOVÁNÍ).
+
+Řízení a obsluha strojů
+Některé nežádoucí účinky (např. závrať) mohou zhoršit pacientovu schopnost soustředit se a reagovat, a proto představují riziko v situacích, kdy jsou tyto schopnosti obzvlášť důležité (např. při řízení vozidla nebo obsluze strojů).
+
+Hematologické
+Po podání vysokých dávek primachinu byla pozorována anémie, methemoglobinémie a leukopenie (viz PŘEDÁVKOVÁNÍ). Doporučená dávka by proto neměla být překročena. Během léčby je také vhodné provádět rutinní vyšetření krve, zejména krevního obrazu a stanovení hemoglobinu.
+
+Hemolytická anémie a deficit G6PD
+
+
+Monografie přípravku –
+Strana 9 z 24
+
+Vzhledem k riziku hemolytické anémie u pacientů s deficitem G6PD je nutné před použitím primachinu u pacientů vyšetřit G6PD. Před zahájením léčby se doporučuje zkontrolovat, zda pacienti nevykazují klinické příznaky těžké anémie, nebo provést test na hladinu hemoglobinu. V případě závažné anémie by se mělo vyšetření G6PD a léčba primachinem odložit, dokud se pacient nezotaví z anémie, neboť by mohlo dojít k nesprávnému určení diagnózy z důvodu retikulocytózy.
+
+Před léčbou musí být zkontrolovány hodnoty hematokritu a hemoglobinu a je nutné pečlivě sledovat hematologické parametry (např. 3. a 8. den). Vzhledem k limitované výpovědi testu G6PD si lékaři musí být vědomi přetrvávajícího rizika hemolýzy. Pacientům by měla být poskytnuta odpovídající zdravotní a následná péče, aby se předešlo rizikům vzniku hemolýzy. Zvláštní opatrnosti je třeba u osob s osobní nebo rodinnou anamnézou hemolytické anémie.
+V případě mírné až středně závažné formy deficitu G6PD musí být rozhodnutí předepsat primachin založeno na vyhodnocení poměru prospěchu a rizik užívání primachinu. Pokud je zvažována léčba primachinem, měl by být odpovídajícím způsobem upraven dávkovací režim (viz DÁVKOVÁNÍ A ZPŮSOB PODÁNÍ) a je nutné pečlivě sledovat hematologické parametry.
+
+Methemoglobinémie:
+Primachin může u pacientů bez rizikových faktorů způsobit přechodné zvýšení hladin methemoglobinu až o 10 % (viz NEŽÁDOUCÍ ÚČINKY). Masivnější methemoglobinémie může vzniknout u pacientů, kteří trpí deficitem NADH-methemoglobinreduktázy nebo u léčených léky, které vyvolávají methemoglobinémii (jako je dapson nebo sulfonamid, viz LÉKOVÉ INTERAKCE). V těchto případech je nutné pečlivé monitorování krevního obrazu.
+
+Všichni pacienti musejí být poučeni o důležitosti okamžitého vyhledání lékařské pomoci, pokud se u nich objeví příznaky methemoglobinémie (jako např. namodralé rty nebo nehty).
+
+Hepatální/biliární/pankreatické
+Genotyp CYP2D6:
+Na základě neklinických údajů je účinnost primachinu pravděpodobně závislá na tvorbě metabolitů CYP2D6. Proto může být polymorfismus CYP2D6 spojen s variabilitou klinických odpovědí na primachin.
+
+Omezené klinické údaje uvádějí vyšší míru selhání léčby u pacientů, kteří jsou pomalými nebo intermediárními metabolizátory CYP2D6 než u pacientů s normálním nebo extenzivním metabolismem (viz ÚČINEK A KLINICKÁ FARMAKOLOGIE).
+
+V případě selhání léčby může lékař po kontrole dodržování léčebného režimu pacientem zvážit potenciální souběžné podání inhibitorů CYP2D6 (viz LÉKOVÉ INTERAKCE) a určit pacientovu metabolickou kapacitu CYP2D6, je-li to proveditelné. U pomalých metabolizátorů CYP2D6 je třeba zvážit alternativní léčbu.
+
+Sexuální zdraví
+
+Plodnost
+U lidí nejsou k dispozici žádné údaje.
+Monografie přípravku –
+Strana 10 z 24
+
+6.1 Speciální populace
+6.1.1  Těhotenství
+Bezpečnost užívání primachinu během těhotenství nebyla zjišťována. Užívání primachinu je během těhotenství kontraindikováno (i když má těhotná žena normální hodnoty G6PD, u plodu tomu tak být nemusí).
+Předklinické údaje poukazují na potenciální riziko genotoxicity a potenciální embryofetální vývojovou toxicitu. Ačkoli nebyly zjištěny žádné klinické důsledky, údaje o lidech jsou omezené.
+
+Pacienti musí být informováni o potenciálním riziku genotoxicity. Pacientky by měly zabránit těhotenství. Během léčby a v období následujícím po ukončení léčby se doporučuje používat vhodnou antikoncepci:
+−  u léčených žen v plodném věku do proběhnutí 2 ovulačních cyklů (tj. do uplynutí 2 menstruací),
+−  u léčených mužů, jejichž partnerky mohou otěhotnět, po dobu 3 měsíců.
+6.1.2 Kojení
+Po podání primachinu ženám kojícím kojence s normálními hodnotami G6PD, kteří jsou starší více než 1 měsíc byla naměřena nízká hladina primachinu jak v mléce, tak v kojenecké plazmě (odhadovaná dávka absorbovaná kojencem je méně než 1 % při denní dávce 0,5 mg/kg). U kojených dětí jsou údaje o bezpečnosti užívání velmi omezené.
+
+Vzhledem k tomu, že primachin nebo jeho metabolity mohou vyvolat závažné nežádoucí hematologické účinky u kojených dětí, a zejména u těch, které by mohly trpět deficitem G6PD, je třeba rozhodnout, zda přerušit kojení nebo odložit léčbu matky přípravkem PRIMAQUINE až do ukončení kojení.
+7. NEŽÁDOUCÍ ÚČINKY
+7.1 Přehled nežádoucích účinků
+Onemocnění krve a lymfatického systému:
+- U pacientů s deficitem G6PD se hemolytická anémie vyskytuje velmi často a pro pacienty se závažnou formou deficitu G6PD může být závažná nebo smrtelná (viz KONTRAINDIKACE a VAROVÁNÍ A OPATŘENÍ).
+- U pacientů bez deficitu G6PD byla hlášena ztráta hemoglobinu a hemolytická anémie s frekvencí výskytu <0,1 %.
+
+
+
+
+
+
+
+
+
+
+Monografie přípravku –
+Strana 11 z 24
+
+7.2 Méně časté nežádoucí účinky v klinických studiích (< 1 %)
+Onemocnění krve a lymfatického systému:
+- Methemoglobinémie (viz UPOZORNĚNÍ A PREVENTIVNÍ PATŘENÍ)
+
+Srdeční poruchy:
+- Prodloužení QT intervalu
+Poruchy zažívacího traktu:
+- Bolesti břicha
+- Nevolnost
+- Zvracení
+- Epigastrické potíže
+
+Poruchy kůže a podkožních tkání:
+- Pruritus (svědění)
+- Makulopapulární vyrážka
+7.3 Nežádoucí účinky v klinických studiích (pediatričtí pacienti) Pediatrická populace
+Bezpečnostní profil u dětí mladších 4 let je podobný jako u dospělých, s výjimkou vyšší frekvence výskytu gastrointestinálních poruch.
+7.4 Nežádoucí reakce po uvedení na trh
+Onemocnění krve a lymfatického systému:
+- Hladiny methemoglobinémie jsou obvykle nižší než 10 %, ale u jedinců s deficitem NADH methemoglobin reduktázy nebo u pacientů s jinými rizikovými faktory může mít methemoglobinémie závažný průběh (viz UPOZORNĚNÍ A PREVENTIVNÍ OPATŘENÍ a PŘEDÁVKOVÁNÍ).
+- Leukopenie byla pozorována u pacientů s revmatoidní artritidou nebo lupus erythematodes (viz KONTRAINDIKACE).
+
+Srdeční poruchy:
+- Srdeční arytmie a prodloužení QT intervalu se vyskytují hlavně při vyšších dávkách (viz UPOZORNĚNÍ A PREVENTIVNÍ OPATŘENÍ a PŘEDÁVKOVÁNÍ).
+
+Poruchy zažívacího traktu:
+- Příznaky se často zmírní užíváním léku před jídlem (viz DÁVKOVÁNÍ A ZPŮSOB PODÁNÍ).
+Poruchy nervového systému:
+- Závratě
+
+
+
+Monografie přípravku –
+Strana 12 z 24
+
+8. LÉKOVÉ INTERAKCE
+8.1 Interakce s jinými léčivými přípravky
+Farmakodynamické interakce
+Souběžné užívání chinakrinu (mepakrin) a primachinu je kontraindikováno, protože při použití chinakrinu s pamachinem, dalším 8-aminochinolinem, byla pozorována zvýšená toxicita (viz KONTRAINDIKACE).
+
+Je třeba se vyhnout souběžnému podávání hemolytických látek nebo léků vyvolávajících methemoglobinémii (viz UPOZORNĚNÍ A PREVENTIVNÍ OPATŘENÍ). Pokud se nelze vyhnout souběžnému používání, je nutné pečlivě monitorovat krevní obraz.
+
+Opatrnost je nutná, pokud je primachin podáván souběžně s ostatními léky, které prodlužují QT interval, jako jsou antiarytmika třídy IA a III, některá tricyklická antidepresiva, některá antipsychotika, některá antiinfektiva, některá antimalarika, zejména halofantrin, některá antiparazitika (pentamidin) (viz VAROVÁNÍ A PREVENTIVNÍ OPATŘENÍ).
+
+Farmakokinetické interakce
+Účinek jiných látek na primachin:
+
+Opatrnost se doporučuje v případě souběžné léčby silnými inhibitory CYP2D6 (jako jsou SSRI), protože mohou ovlivnit tvorbu aktivních metabolitů primachinu (viz VAROVÁNÍ A PREVENTIVNÍ OPATŘENÍ a ÚČINEK A KLINICKÁ FARMAKOLOGIE, Farmakokinetika).
+
+Expozice primachinu byla při souběžné léčbě mírnými až středně silnými inhibitory CYP2D6 (jako je chlorochin nebo pyronaridin artesunát) nebo mírnými až středně silnými inhibitory CYP3A (jako dihydroartemisinin-piperachin nebo grapefruitový džus) mírně zvýšena, avšak bez klinického významu.
+
+Farmakokinetika primochinu nebyla významně ovlivněna přítomností meflochinu, artemetheru nebo chininu.
+
+Účinek primachinu na jiné léky:
+
+Primachin inhibuje CYP1A2, což může vést ke zvýšené expozici substrátům CYP1A2, jako je duloxetin, alosetron, teofylin a tizanidin. Vzhledem k omezenému množství údajů nelze předpovědět rozsah dopadu na farmakokinetické parametry léků metabolizovaných prostřednictvím CYP1A2. Opatrnosti je třeba při souběžné léčbě substráty CYP1A2 (tj. sledování nežádoucích účinků).
+
+Účinek primachinu na farmakokinetiku substrátů P-glykoproteinu (P-gp) in vivo není znám. In vitro studie však naznačují, že primachin inhibuje P-gp. Proto existuje možnost zvýšených koncentrací substrátů P-gp. Při souběžné léčbě substráty P-gp s úzkým terapeutickým indexem, jako je digoxin a dabigatran, se doporučuje opatrnost (tj. sledování nežádoucích účinků).
+Monografie přípravku –
+Strana 13 z 24
+
+Souběžné podávání primachinu s antimalariky (chlorochin, meflochin, artemether nebo dihydroartemisinin-piperachin a pyronaridin-artesunát), ethinylestradiolem/levonorgestrelem nebo paracetamolem nemá žádný relevantní vliv na jejich farmakokinetiku.
+9. ÚČINEK A KLINICKÁ FARMAKOLOGIE
+9.1 Mechanizmus účinku
+Primachine je 8-aminochinolinové antiprotozoální činidlo.
+
+Mechanismus účinku nebyl plně zjištěn. Hlavními předpoklady byla inhibice mitochondriálního systému spících parazitů a oxidační stres generovaný reaktivními metabolity v infikovaných buňkách.
+9.2 Farmakodynamika
+Bylo zjištěno, že primachin je účinný proti spící jaterní formě P. vivax a P. ovale, konkrétně proti hypnozoitům, a také proti primárnímu a sekundárnímu exoerytrocytárnímu stadiu parazitů, zejména proti schizontům a schizogoniím. U lidí je aktivita primachinu pravděpodobně spojena s hydroxylovanými metabolity generovanými intrahepatálně prostřednictvím CYP2D6, jak bylo prokázáno na myších modelech infikovaných P. berghei.
+
+Primachin je mimo jiné účinný i proti primárním exoerytrocytárním formám P. falciparum a má gametocytocidní účinek na všechny gametocyty rodu Plasmodium, zejména na gametocyty P. falciparum.
+
+Recidiva a rezistence
+K potlačení jaterních hypnozoitů P. vivax je nutná dostatečně dlouhá doba léčby, protože primachin se rychle vylučuje z krve.
+Původ relapsu P. vivax po léčbě primachinem je pravděpodobně multifaktoriální. Může se jednat např. o původ kmene P. vivax, rozlišení mezi opětovným vzplanutím, reinfekcí a relapsem, dodržování léčby primachinem a fenotyp CYP2D6. Nebyl označen žádný genetický marker rezistence, což v podstatě vyvrací možnost skutečné rezistence na primachin.
+
+Prevalence častých recidivujících kmenů P. vivax se může geograficky i časově lišit a je třeba vzít v úvahu místní doporučení týkající se léčby. V případě potřeby je třeba vyhledat pomoc odborníka.
+9.3 Farmakokinetika Vstřebávání:
+Primachin podaný perorálně se rychle vstřebává (tmax je dosaženo za 1-3 hodiny), poté plazmatická koncentrace klesá s monofázickým profilem. Absolutní biologická dostupnost je vysoká (> 70 %). Cmax je přibližně 65 ng/ml u jednorázové dávky 15 mg, 122 ng/ml u jednorázové dávky 30 mg a 174 ng/ml u jednorázové dávky 45 mg
+
+
+
+Monografie přípravku –
+Strana 14 z 24
+
+Vliv jídla na farmakokinetiku primachinu je omezený, s mírným zvýšením průměrné Cmax (nepřesahujícím 26 %) a méně než 15% zvýšením AUC ve srovnání s podmínkami nalačno u zdravých dospělých s dávkou 30 mg.
+Distribuce
+Primachin se váže na plazmatické bílkoviny (především na alfa-1 glykoprotein). Distribuční objem je velký (přibližně 243 l).
+
+Po podání primachinu ženám (N = 21) kojícím děti ve věku mladším než 1 měsíc byla naměřena nízká hladina primachinu a karboxyprimachinu jak v mléce, tak v plazmě kojenců. V průměru kojenci přijímali 3 μg/kg/den primachinu, tj. 0,6 % z denní dávky 0,5 mg/kg po dobu 14 dnů.
+
+Metabolizmus:
+Primachin je vysoce metabolizován. Jeho hlavním cirkulujícím metabolitem je karboxyprimachin, kde se aktivita nepředpokládá. Po jedné dávce je koncentrace karboxyprimachinu v plazmě přibližně 30krát vyšší ve srovnání s primachinem.
+
+Primachin je metabolizován in vitro několika enzymy, jako jsou CYP1A2, 2C19, 2D6, 3A4 a monoaminooxidáza A (MAO-A). Byly identifikovány tři hlavní metabolické dráhy:
+
+-  Oxidativní deaminace terminálního aminu podílejícího se na tvorbě karboxyprimachinu prostřednictvím MAO-A. Karboxyprimachin se dále metabolizuje hlavně na glukuronidový konjugát a na chinon-imin-karboxyprimachin. In vivo účinnost a toxicita chinon-imin-karboxyprimachinu nejsou dosud zcela známy. Účast CYP2D6 na tvorbě chinon-imin-karboxyprimachinu nelze vyloučit.
+-  Hydroxylace chinolinového kruhu vede k tvorbě hydroxylovaných metabolitů s hlavním zapojením CYP2D6. Předpokládá se, že hydroxylované metabolity CYP2D6 hrají roli v účinnosti a hemolytické aktivitě vyvolané primachinem (viz VAROVÁNÍ A OPATŘENÍ a ÚČINNOST A KLINICKÁ FARMAKOLOGIE).
+-  Přímá konjugace primachinu, vedoucí k tvorbě glukuronidových konjugátů.
+
+Ve farmakokinetických studiích nebyly sledovány jiné metabolity než karboxyprimachin.
+
+Studie lékových interakcí
+
+Účinek jiných látek na primachin:
+Na základě in vitro studií není primachin považován za substrát P-gp ani za substrát BCRP.
+
+
+
+
+
+
+
+
+
+
+
+
+Monografie přípravku –
+Strana 15 z 24
+
+Účinek primachinu na jiné léky:
+Na základě in vitro studií nemá primachin žádný nebo jen malý potenciál k inhibici kterékoliv z hlavních lidských izoforem MAO nebo CYP450 (2A6, 2C8, 2C9, 2C19, 2D6, 3A4) účastnících se na biotransformaci léčiva kromě CYP1A2.
+
+Na základě in vitro studií má primachin potenciál inhibovat P-gp. Nejsou k dispozici žádné údaje z
+in vivo studií.
+Eliminace:
+Primachin je metabolizován a minimálně vylučován v nezměněné formě především močí (méně než 4 %).
+
+Hlavní cirkulující metabolit, karboxyprimachin, podléhá dalšímu metabolizmu a není vylučován močí. Po perorálním podání [¹⁴C]-primachinu bylo během 143 hodin nalezeno 64 % dávky v moči (žádné údaje ve stolici), z čehož vyplývá, že moč je hlavní cestou vylučování pro jiné metabolity primachinu.
+
+Terminální poločas je u primachinu přibližně 6 hodin a u karboxyprimachinu 22 hodin.
+Po opakovaných denních dávkách nebyla pozorována žádná akumulace primachinu, zatímco u karboxyprimachinu byla po 14 dnech léčby pozorována 1,7krát vyšší koncentrace Cmax a AUC0-24 ve srovnání s jednou dávkou.
+Linearita/nelinearita
+
+V dávkovacím rozmezí mezi 15 a 45 mg je farmakokinetika primachinu a karboxyprimachinu - lineární.
+
+Speciální populace a podmínky
+Pediatričtí pacienti:
+Populační farmakokinetická analýza provedená u omezené pediatrické populace naznačuje, že u dětí s tělesnou hmotností do 15 kg nebyl při úpravě dávek na tělesnou hmotnost prokázán významný vliv věku nebo tělesné hmotnosti na farmakokinetické parametry primachinu.
+Dospělí pacienti:
+U starších pacientů nejsou k dispozici žádné farmakokinetické studie.
+
+Pohlaví:
+Nebyl prokázán žádný vliv pohlaví.
+
+Genetický polymorfismus:
+Deficit G6PD
+Farmakokinetické parametry u pacientů s deficitem G6PD se nelišily od pacientů bez deficitu.
+
+Polymorfismus CYP2D6
+Na základě experimentů na myších závisí účinnost primachinu pravděpodobně na tvorbě metabolitů CYP2D6. Polymorfismus CYP2D6 může být spojen s variabilitou klinické odpovědi na
+Monografie přípravku –
+Strana 16 z 24
+
+primachin (viz ÚČINNOST A KLINICKÁ FARMAKOLOGIE, Farmakodynamika a Farmakokinetika).
+
+Etnický původ:
+Nebyl prokázán žádný vliv etnického původu.
+
+Hepatální nedostatečnost:
+U pacientů s poruchou funkce jater nejsou k dispozici žádné údaje. Není známo, zda by u pacientů s poruchou funkce jater mohlo dojít k akumulaci primachinu a jeho metabolitů, nebo zda by mohlo dojít k ovlivnění tvorby metabolitů přispívajících k farmakologické účinnosti.
+Renální nedostatečnost:
+Farmakokinetické studie s jednou dávkou prováděné u pacientů s chronickým onemocněním ledvin stadia 4 a 5 ukazují vyšší Cmax primachinu (až 1,7krát vyšší ve srovnání se zdravými subjekty), ale nebyly zjištěny zásadní rozdíly v AUC nebo t1/2. Není známo, zda po opakovaném podávání nedochází k akumulaci metabolitů, které se vylučují především ledvinami.
+10. UCHOVÁVÁNÍ, STABILITA A LIKVIDACE
+Uchovávejte při teplotě 15-30 °C. Uchovávejte mimo dosah a dohled dětí.
+11. ZVLÁŠTNÍ POKYNY PRO ZACHÁZENÍ
+Nejsou k dispozici.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monografie přípravku –
+Strana 17 z 24
+
+ČÁST II: VĚDECKÉ ÚDAJE
+
+
+12. FARMACEUTICKÉ ÚDAJE
+
+Léčivá látka
+Oficiální název:   Primachin fosfát
+
+Chemický název:   (RS)-8- (4-amino-l-methylbutylamino)-6-methoxychinolin difosfát Molekulární vzorec: C15H21N3O·2H3PO4
+Molekulová hmotnost:455,34 Strukturní vzorec:
+
+
+
+
+
+Fyzikálně-chemické
+vlastnosti:       Primachin fosfát je oranžovo-červená krystalická pevná látka. Podle lékopisných standardů je popsán jako „rozpustný“ ve vodě.
+Primachin je dibázická sloučenina s hodnotami pKa 3,2 a 10,4. Primachin fosfát obsahuje chirální uhlík v postranním řetězci diaminu, a proto vykazuje stereoisomerismus. Existuje jako R(+) i S(-) enantiomer, ale komerčně dostupné jsou pouze přípravky obsahující racemickou směs. U primachin fosfátu nebyl popsán žádný polymorfismus.
+
+13. KLINICKÉ STUDIE
+Klinická účinnost/klinické studie
+
+Na základě rozsáhlých klinických zkušeností, přezkoumaných v několika meta-analytických studií P. vivax, primachin zajišťuje účinné radikální vyléčení jak infekcí způsobených P. vivax, tak P. ovale (míra vyléčení relapsů více než 60 až 100 %) u pacientů léčených dávkovacími režimy s dávkou 15 až 30 mg denně po dobu 14 dnů po vhodné schizonticidní léčbě. Faktory ovlivňující účinnost jsou: celková dávka po dostatečně dlouhou dobu léčby, tělesná hmotnost pacienta, dodržování léčby a typ kmene P. vivax. U mírných kmenů je nutná minimální celková dávka 3,5 mg/kg hmotnosti, tj. 0,25 mg/kg/den po dobu 14 dnů léčby. To odpovídá denní dávce 15 mg primachinu po dobu 14 dnů u pacientů s průměrnou tělesnou hmotností 60 kg.
+
+
+Monografie přípravku –
+Strana 18 z 24
+
+U tropických, často recidivujících kmenů P. vivax převládajících ve východní Asii a Oceánii je nutná minimální celková dávka 7 mg/kg tělesné hmotnosti, tj. 0,5 mg/kg/den po dobu 14 dnů léčby. To odpovídá denní dávce 30 mg primachinu po dobu 14 dnů u pacientů s průměrnou tělesnou hmotností 60 kg. U pacientů s tělesnou hmotností nad 70 kg hrozí vyšší riziko selhání léčby, pokud jsou léčeni nízkými dávkami. V omezeném počtu publikovaných studií byly u těchto pacientů podávány vyšší denní dávky primachinu (30 nebo 45 mg denně), aby bylo dosaženo doporučených celkových dávek primachinu.
+
+Údaje u dětí
+Randomizovaných kontrolovaných studií účinnosti u pediatrických pacientů s následným sledováním nejméně 8 týdnů se účastnilo více než 600 pacientů, přičemž většina dětí byla ve věku do 5 let a většině z nich (> 80 %) byla podávána vysoká denní dávka 0,50 mg/kg v různých léčebných režimech. U pacientů, kteří dostávali dávku 0,5 mg/kg po dobu 14 dnů (přibližně 140 pacientů) byla účinnost podobná účinnosti pozorované u dospělých pacientů.
+
+Pacienti s deficitem G6PD
+Celková dávka primachinu převažuje nad pravidelným podávání (účinek „celkové dávky“), proto týdenní podání (tj. režim 0,75 mg/kg týdně po dobu 8 týdnů) umožňuje zmírnit riziko hemolýzy u pacientů s mírnou až středně těžkou/intermediární formou deficitu G6PD, přičemž účinnost primachinu je zachována.
+
+Neklinické bezpečnostní údaje NEKLINICKÉ BEZPEČNOSTNÍ ÚDAJE
+
+Toxicita opakované dávky
+
+Nežádoucí účinky, které nebyly pozorovány v klinických studiích, ale byly pozorovány u zvířat u expozičních hladin blízkých klinickým expozičním hladinám (odhaduje se na 9násobek expozice u opic Cynomolgus při dávce 30 mg podávané člověku a 1,9násobek lidské expozice u potkanů) a s možným následujícím významem pro klinické použití: Ve studiích subchronické toxicity (28 dní) byly hlášeny zánětlivé a degenerativní změny v játrech a ledvinách, zvýšená aktivita AST a ALT (méně než 10krát), alkalické fosfatázy, kreatinfosfokinázy a laktátdehydrogenázy a nižší hladina glukózy v krvi nalačno. U potkanů se vyskytly histopatologické nálezy spočívající v zánětlivých a degenerativních změnách pruhovaného svalstva zahrnujícího myokard, bránici, jazyk a kosterní svalstvo. U opic se také objevila involuce brzlíku, edém a glióza v mozkové kůře.
+
+U potkanů bylo při nižší expozici než je expozice u člověka mimo jiné pozorováno mírné snížení počtu krevních destiček.
+
+Genotoxicita
+Primachin je v literatuře uváděn jako slabé genotoxické činidlo, které vyvolává jak genové mutace, tak chromozomální/DNA zlomy. Publikace uváděly pozitivní výsledky v in vitro testech reverzní genové mutace s použitím bakterií (Amesův test) a ve studiích in vivo s použitím hlodavců (výměna sesterských chromatid v myších buňkách kostní dřeně,
+
+
+
+
+Monografie přípravku –
+Strana 19 z 24
+
+chromozomální abnormality buněk kostní dřeně u myší a vláknových zlomů DNA u více orgánů). Údaje o genotoxicitě získané in vitro nebo na modelech hlodavců naznačují potenciální riziko pro člověka.
+
+Karcinogenicita
+
+Studie kancerogenicity nebyly s primachinem provedeny. Reprodukční a vývojová toxicita
+Na základě údajů u odborné literatury o reprodukční toxikologii byla identifikována potenciální toxicita na embryo-fetální vývoj. Ve studiích na potkanech byly pozorovány nežádoucí účinky na plod (viscerální anomálie, variace skeletu atd.). Tyto účinky byly pozorovány při toxických dávkách pro samice.
+
+Studie plodnosti s primachinem nebyly provedeny. Ve studiích s opakovanými dávkami však nebyly pozorovány žádné účinky na pohlavní žlázy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monografie přípravku –
+Strana 20 z 24
+
+PŘEČTĚTE SI TUTO PŘÍBALOVOU INFORMACI. OBSAHUJE INFORMACE TÝKAJÍCÍ SE BEZPEČNOSTI A ÚČINNÉHO POUŽITÍ LÉČIVÉHO PŘÍPRAVKU
+PŘÍBALOVÁ INFORMACE PRO PACIENTA
+
+PʳPRIMAQUINE®
+
+Primachin fosfát tablety, USP
+
+Dříve než začnete užívat lék PRIMAQUINE nebo pokaždé, když dostanete nové balení, přečtěte si, prosím, pozorně tuto příbalovou informaci. Tato příbalová informace představuje souhrn údajů, avšak neobsahuje všechny údaje o Vašem léku. Máte-li jakékoli dotazy týkající se Vašeho zdravotního stavu, léčby nebo nových informací o přípravku PRIMAQUINE, obraťte se na svého lékaře.
+
+K čemu se přípravek PRIMAQUINE používá?
+PRIMAQUINE se používá k:
+− léčbě určitých forem malárie a
+− zabránění recidivě.
+
+Jak přípravek PRIMAQUINE funguje?
+PRIMAQUINE je typ léku nazývaný antimalarikum.
+− Používá se k léčbě malárie tím, že zabíjí parazita, který se nachází v játrech a způsobuje malárii.
+− Tím dojde k zastavení šíření infekce.
+
+Jaké jsou složky přípravku PRIMAQUINE?
+Léčivá látka: primachin fosfát
+
+Neléčivé složky: karnaubský vosk, celulóza (mikrokrystalická), laktóza, magnézium stearát, černý inkoust Opacode S-1-177003 (obsahuje šelakovou glazuru; propylenglykol; N- butylalkohol; oxid železnato-železitý; etanol a metanol), Opadry bílá YS-1-7443 (obsahuje hypromelózu; polyethylenglykol 400; oxid titaničitý; a polysorbát 80), polyethylenglykol 400, oxid železitý, škrob a mastek. Neobsahuje lepek ani tartrazin.
+
+PRIMAQUINE se dodává v následujících lékových formách:
+Tablety: 26,3 mg primachin fosfátu odpovídá 15 mg primachinu
+Nepoužívejte PRIMAQUINE, pokud:
+• jste alergičtí na:
+− primachin fosfát nebo
+− některou ze složek přípravku (viz Jaké jsou složky přípravku PRIMAQUINE).
+• máte onemocnění, při kterém trpíte nedostatkem bílých krvinek. Příklady zahrnují revmatoidní artritidu nebo lupus erythematodes. Přípravek PRIMAQUINE byste neměli užívat, pokud trpíte závažnou formou systémového onemocnění.
+• užíváte nebo jste nedávno užíval(a) chinakrin. Chinakrin je další lék používaný k léčbě malárie.
+
+Monografie přípravku – PRIMAQUINE                                    Strana 21 z 24
+
+•  užíváte léky, které mohou:
+− poškodit vaše krvinky nebo
+− narušit tvorbu nových krevních buněk.
+• trpíte těžkou formou deficitu G6PD (glukóza-6-fosfát dehydrogenázy). Jedná se o dědičné onemocnění červených krvinek, známé také jako favismus.
+• jste těhotná, můžete být těhotná nebo plánujete otěhotnět. Během užívání přípravku PRIMAQUINE nebo po dobu 2 menstruačních cyklů po ukončení léčby NESMÍTE otěhotnět.
+− Během užívání přípravku PRIMAQUINE a po dobu 2 menstruačních cyklů po ukončení léčby musíte používat spolehlivou antikoncepci.
+•  jste muž a plánujete počít dítě. Během užívání přípravku PRIMAQUINE nebo po dobu
+3 měsíců po ukončení léčby NESMÍTE počít dítě.
+− Během užívání přípravku PRIMAQUINE a po dobu 3 měsíců po ukončení léčby musíte používat spolehlivou antikoncepci, abyste předešli početí dítěte.
+Poraďte se se svým lékařem dříve, než začnete užívat přípravek PRIMAQUINE, abyste se vyvarovali nežádoucím účinkům a zajistili jeho správné používání. Sdělte lékaři
+veškerá onemocnění nebo zdravotní problémy, které se u Vás mohou vyskytnout, včetně případů, kdy:
+• Vy nebo někdo z rodiny trpíte deficitem G6PD (známým také jako favismus). Přípravek PRIMAQUINE se nesmí používat, pokud trpíte závažnou formou deficitu G6PD.
+• trpíte vzácným onemocněním krve zvaným deficit NADH-methemoglobinreduktázy.
+• trpíte anémií. Jedná se nižší počet červených krvinek.
+• trpíte hemolytickou anémií. Jedná se o stav, kdy jsou dochází k rozpadu Vašich červených krvinek dříve, než skončí jejich normální životnost.
+• trpíte onemocněním jater nebo ledvin.
+• jste starší 65 let.
+• kojíte nebo plánujete kojit. Během užívání přípravku PRIMAQUINE by mělo být kojení ukončeno, nebo by léčba přípravkem PRIMAQUINE měla být odložena až do ukončení kojení. Během užívání přípravku PRIMAQUINE byste neměla kojit.
+• jste v minulosti trpěl(a), či v současné době trpíte:
+− srdeční chorobou
+− nepravidelným srdečním rytmem
+− nízkou hladinou hořčíku nebo draslíku v krvi
+− bradykardií (s klidovou srdeční frekvencí pod 50 tepů za minutu)
+
+Další upozornění, se kterými byste se měli seznámit:
+Před zahájením léčby přípravkem PRIMAQUINE provede váš lékař krevní test, aby zjistil, zda netrpíte deficitem G6PD. Důvodem je, že přípravek PRIMAQUINE může způsobit destrukci červených krvinek (hemolýzu) u lidí, kteří trpí deficitem G6PD. Na základě výsledků bude možná potřeba, aby Vám lékař změnil léčbu.
+
+Před a během léčby Vás může lékař poslat na krevní testy, aby se ujistil, že jsou hodnoty červených krvinek v pořádku.
+
+
+
+Monografie přípravku –
+Strana 22 z 24
+
+Okamžitě přestaňte přípravek PRIMAQUINE užívat a obraťte se na svého lékaře, pokud se u Vás objevil jeden z následujících příznaků, jako ztmavnutí moči, bledá kůže, závratě, zmatenost, únavu, motání hlavy, dušnost. Výše uvedené popisují příznaky hemolytické anémie.
+
+Pokud máte namodralé rty nebo nehty, ihned kontaktujte svého lékaře. Jedná se o známky rozpadu červených krvinek (methemoglobinémie).
+Řízení vozidel a obsluha strojů
+Přípravek PRIMAQUINE může způsobit závratě. Neřiďte vozidlo ani neobsluhujte stroje, dokud nevíte, jak na Vás přípravek PRIMAQUINE působí.
+
+Informujte svého lékaře o všech lécích, které užíváte, včetně léků, vitamínů, minerálů, přírodních doplňků nebo alternativních léků.
+
+S přípravkem PRIMAQUINE mohou interagovat následující léčiva:
+• chinakrin. Přípravek PRIMAQUINE se nesmí užívat souběžně s chinakrinem.
+• léky, které mohou zničit nebo poškodit červené krvinky nebo narušit tvorbu červených nebo bílých krvinek, jako např. některá antiinfektiva (sulfamidy, dapson, kotrimoxazol, chinolony), léky používané k léčbě rakoviny, kolchicin, methylenová modř, penicilamin, soli zlata. Přípravek PRIMAQUINE by se neměl užívat společně s těmito léky:
+• léky, o nichž je známo, že ovlivňují způsob, jakým Vaše srdce tluče:
+− to zahrnuje léky používané k poruchám srdečního rytmu:
+o antiarytmika, jako např.
+▪ chinidin
+▪ hydrochinidin
+▪ disopyramid
+▪ sotalol
+▪ dofetilid
+▪ ibutilid
+▪ amiodaron
+− léky používané k léčbě depresí:
+o tricyklická antidepresiva, jako jsou:
+▪ amitriptylin
+▪ imipramin
+− léky používané k léčbě duševních poruch: antipsychotika
+− léky používané k léčbě bakteriálních infekcí:
+o makrolidová antibiotika, jako jsou:
+▪ erythromycin
+o fluorochinolonová antibiotika, jako jsou:
+▪ moxifloxacin
+− léky používané k léčbě malárie (zejména halofantrin),
+− léky používané k léčbě jiných infekcí: pentamidin.
+• léky používané k léčbě deprese, známé jako selektivní inhibitory zpětného vychytávání serotoninu (SSRI), jako je fluoxetin nebo paroxetin.
+• digoxin (k léčbě srdečních onemocnění), dabigatran (k prevenci krevních sraženin), teofylin (k léčbě respiračních poruch), alosetron (k léčbě zvracení) a tizanidin (k léčbě
+Monografie přípravku –
+Strana 23 z 24
+
+nervových poruch).
+Jak se přípravek PRIMAQUINE užívá:
+Užívání přípravku PRIMAQUINE po jídle může pomoci snížit bolest žaludku nebo křeče.
+
+Obvyklá dávka:
+Užívejte přípravek PRIMAQUINE přesně podle pokynů svého lékaře. Pokud si nejste jistý(á), poraďte se se svým lékařem. Abyste byla Vaše léčba co nejefektivnější, měli byste užívat lék tak dlouho, jak Vám doporučí lékař.
+Předávkování:
+Pokud si myslíte, že jste užil(a) příliš mnoho přípravku PRIMAQUINE, okamžitě kontaktujte svého lékaře, pohotovost nebo Toxikologické informační středisko, a to i v případě, že se neobjeví žádné příznaky.
+Mezi příznaky předávkování přípravkem PRIMAQUINE patří křeče v žaludku, zvracení, zežloutnutí kůže a bělma očí, pálení žáhy, problémy se srdcem, včetně problémů se srdečním rytmem, namodralé zabarvení kůže, únava, potíže s dýcháním, dušnost, zmatenost, točení hlavy, závratě, potíže se spánkem, bledá kůže.
+
+Vynechaná dávka:
+Pokud vynecháte dávku přípravku PRIMAQUINE, užijte ji co nejdříve. Pokud je však čas na další dávku, neužívejte dvojnásobnou dávku. Pokračujte v pravidelném užívání, dokud nedoberete všechny léky.
+
+Jaké nežádoucí účinky se mohou vyskytnout pří léčbě přípravkem PRIMAQUINE? Následující část neuvádí veškeré možné nežádoucí účinky, které můžete pociťovat při užívání přípravku PRIMAQUINE. Pokud se u Vás vyskytne kterýkoli z nežádoucích účinků, které zde nejsou uvedeny, kontaktujte svého lékaře. Viz také Další upozornění, se kterými byste se měli seznámit.
+Nežádoucí účinky mohou zahrnovat: nevolnost, zvracení, svědění, žaludeční křeče, anémii (nízký počet červených krvinek), pálení žáhy, vyrážku, závratě, nízký počet bílých krvinek.
+
+
+Závažné nežádoucí účinky a jak se zachovat
+Kontaktujte lékaře
+
+Přestaňte užívat
+
+Příznak / účinek
+
+
+Hemolytická anémie (nízký počet červených krvinek v důsledku jejich rozpadu): ztmavnutí moči, bledá kůže, dušnost, závratě a únava Methemoglobinémie (rozpad červených krvinek): namodralé rty nebo nehty
+Abnormální srdeční rytmus: nepravidelný srdeční rytmus
+Monografie přípravku –
+Pouze v závažných případech
+Ve všech případech
+
+
+
+
+
+
+
+x x
+lék a vyhledejte okamžitou lékařskou pomoc
+
+
+x
+
+
+
+
+
+
+
+Strana 24 z 24
+
+Objeví-li se jakýkoli příznak, který Vás obtěžuje nebo nežádoucí účinek, který zde není uveden, nebo zhorší-li se natolik, že naruší Vaši schopnost vykonávat každodenní činnosti, kontaktujte svého lékaře.
+
+Hlášení nežádoucích účinků
+
+Jakékoli podezření na nežádoucí účinky spojené s používáním zdravotnických produktů můžete nahlásit přímo na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+Poznámka: Potřebujete-li informace o možnosti léčby nežádoucích účinků, kontaktujte svého lékaře.
+
+
+Skladování:
+Uchovávejte při teplotě 15-30 °C. Uchovávejte mimo dosah a dohled dětí.
+Chcete-li získat více informací o přípravku PRIMAQUINE:
+•  Obraťte se na svého lékaře.
+•  Úplnou monografii produktů, která je připravena pro zdravotnické pracovníky a obsahuje příbalovou informaci pro pacienta, naleznete na webových stránkách Státního ústavu pro kontrolu léčiv https://www.sukl.cz/modules/medication/detail.php?kod=0185386
+
+Tuto příbalovou informaci připravila společnost sanofi-aventis Canada Inc. Poslední revize 27. května 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monografie přípravku –
+Strana 25 z 24

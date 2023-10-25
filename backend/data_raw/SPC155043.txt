@@ -1,0 +1,479 @@
+sp.zn. sukls289871/2019 a sukls235690/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+
+Zyrtec 10 mg/ml perorální kapky, roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml roztoku perorálních kapek obsahuje cetirizini dihydrochloridum 10 mg, 1 kapka roztoku
+obsahuje cetirizini dihydrochloridum 0,5 mg.
+
+Pomocné látky se známým účinkem:
+- jeden ml roztoku obsahuje 1,35 mg methylparabenu
+- jeden ml roztoku obsahuje 0,15 mg propylparabenu.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Perorální kapky, roztok.
+
+Čirý, bezbarvý roztok s mírně nasládlou chutí a hořkou příchutí.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Perorální kapky, roztok cetirizin-dihydrochloridu 10 mg/ml, jsou indikovány k léčbě dospělých a pediatrických pacientů od 2 let věku:
+
+-   ke zmírnění nosních a očních symptomů sezónní a celoroční alergické rinitidy.
+-   ke zmírnění symptomů chronické idiopatické kopřivky.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+10 mg jednou denně (20 kapek). Zvláštní populace
+Starší pacienti
+Na základě dostupných údajů se usuzuje, že u starších pacientů s normální funkcí ledvin není nutné dávku snižovat.
+1
+
+Porucha funkce ledvin
+Údaje o poměru účinnost/bezpečnost léčiva nejsou pro pacienty s poruchou funkce ledvin k dispozici. Protože hlavní cestou vylučování cetirizinu jsou ledviny (viz bod 5.2), musí být v případě, kdy nelze použít alternativní léčbu, upraveny intervaly dávek individuálně podle renální funkce. Podle
+následující tabulky nastavte dávkování dle uvedených informací. Aby bylo možné tuto tabulku použít, je třeba u pacienta stanovit clearance kreatininu (CLcr) v ml/min. Hodnotu CLcr (ml/min) lze určit ze
+stanoveného sérového kreatininu (mg/dl) pomocí následujícího vzorce:
+
+
+
+[140 - věk (v letech)] x hmotnost (kg)
+CLcr=                       (x 0,85 pro ženy)
+72 x kreatinin v séru (mg/dl)
+
+Úprava dávkování pro dospělé pacienty s poruchou funkce ledvin
+
+Skupina                  Clearance kreatininu (ml/min)    Dávkování a frekvence
+
+Normální funkce ledvin
+Mírná porucha funkce ledvin
+Středně závažná porucha funkce ledvin Závažná  porucha  funkce  ledvin Konečné   stádium   onemocnění ledvindialyzovaní pacienti
+≥80
+50–79
+30–49
+<30
+<10
+10 mg jednou denně 10 mg jednou denně 5 mg jednou denně
+5 mg jednou za 2 dny
+kontraindikováno
+
+
+Porucha funkce jater
+U pacientů jen s poruchou funkce jater není nutné dávkování upravovat. U pacientů s poruchou funkce jater i ledvin se doporučuje úprava dávky (viz „Porucha funkce ledvin“ výše).
+
+Pediatrická populace
+Děti ve věku od 2 do 6 let: 2,5 mg dvakrát denně (5 kapek 2x denně). Děti ve věku od 6 do 12 let: 5 mg dvakrát denně (10 kapek 2x denně). Dospívající starší 12 let: 10 mg denně (20 kapek).
+U pediatrických pacientů s poruchou funkce ledvin se dávka musí individuálně přizpůsobit podle renální clearance každého pacienta, jeho věku a tělesné hmotnosti.
+
+Způsob podání
+Kapky se podávají perorálně – buď nakapané na lžičku, nebo zředěné vodou ve sklenici. V případě, že se používá naředěný roztok, je zvláště u dětí důležité naředit kapky pouze takovým množstvím vody, aby mohl pacient vypít (spolknout) celý objem roztoku najednou. Naředěný roztok se užívá ihned.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku, na kteroukoli pomocnou látku uvedenou v bodě 6.1, na hydroxyzin nebo na jakýkoli derivát piperazinu.
+
+Pacienti se závažnou poruchou funkce ledvin s clearance kreatininu pod 10 ml/min.
+
+
+2
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Při terapeutických dávkách nebyly prokázány žádné klinicky významné interakce s alkoholem (pro hladinu alkoholu v krvi ve výši 0,5 g/l). Přesto se při současném požívání alkoholu doporučuje opatrnost.
+
+Pozornost je třeba věnovat pacientům s predispozičními faktory retence moči (např. míšní léze, hyperplazie prostaty), protože cetirizin může zvyšovat riziko retence moči.
+
+Opatrnost se doporučuje u pacientů s epilepsií nebo rizikem výskytu křečí.
+
+Methylparaben a propylparaben mohou způsobit alergické reakce (pravděpodobně opožděné).
+
+Odpověď na alergologické kožní testy je tlumena antihistaminiky a je třeba dodržet “wash-out period“ (fáze vyloučení) (3 dny) před jejich provedením.
+
+Pruritus a/nebo kopřivka se mohou objevit, když se cetirizin přestane užívat, dokonce i když se tyto příznaky nevyskytovaly před zahájením léčby. Příznaky mohou být v některých případech intenzivní a mohou vyžadovat opět začít s léčbou. Příznaky by po opětovném zahájení léčby měly vymizet.
+
+Pediatrická populace
+Přípravek se nedoporučuje podávat kojencům a batolatům mladším než 2 roky.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Žádné interakce s tímto antihistaminikem nejsou očekávány z důvodů farmakokinetických a farmakodynamických vlastností cetirizinu a jeho tolerančního profilu. Během provedených
+interakčních studií typu „lék-lék“, zvláště s pseudoefedrinem nebo s theofylinem v dávce 400 mg/den, nebyly prokázány ani farmakodynamické, ani významné farmakokinetické interakce.
+
+Stupeň absorpce cetirizinu není ovlivněn jídlem, snižuje se však rychlost absorpce.
+
+U citlivých pacientů může současné požívání alkoholu nebo užívání jiných látek tlumících CNS
+vyvolat snížení bdělosti a výkonnosti, třebaže cetirizin nezesiluje účinky alkoholu (0,5 g/l v krvi).
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Prospektivně shromážděné údaje o výsledcích těhotenství pro cetirizin nenaznačují potenciál maternální nebo fetální/embryonální toxicity při výše uvedeném dávkování. Studie na zvířatech nenaznačují přímé nebo nepřímé škodlivé účinky na těhotenství, embryonální/fetální vývoj, porod nebo poporodní vývoj. Při podávání těhotným ženám je však třeba opatrnosti.
+
+Kojení
+Cetirizin přechází do mateřského mléka. Riziko nežádoucích účinků u kojených dětí nelze vyloučit. Cetirizin se vylučuje do mateřského mléka v koncentracích dosahujících 25% až 90% koncentrací, které byly naměřeny v plazmě v závislosti na čase odebrání vzorku po podání. Proto je třeba
+opatrnosti při předepisování cetirizinu kojícím ženám.
+
+
+
+3
+
+Fertilita
+Klinické údaje o fertilitě u člověka jsou omezené, ale žádné bezpečnostní riziko nebylo zjištěno. Studie na zvířatech neukazují žádné bezpečnostní riziko pro reprodukci u člověka.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Objektivní měření schopnosti řídit, spánkové latence a výkonnosti na montážní lince neprokázala u doporučené dávky 10 mg žádné klinicky relevantní účinky. Avšak pacienti, kteří pociťují ospalost, nemají řídit, účastnit se potenciálně nebezpečných činností nebo obsluhovat stroje. Nemají
+překračovat doporučenou dávku a měli by vzít v úvahu reakci svého organismu na daný lék.
+
+4.8  Nežádoucí účinky
+
+Klinické studie
+•  Přehled
+Klinické studie prokázaly, že cetirizin má při doporučeném dávkování mírné nežádoucí účinky na CNS včetně somnolence, únavy, závratí a bolestí hlavy. V některých případech byla hlášena paradoxní stimulace CNS.
+
+Přestože je cetirizin selektivní antagonista periferních H1 receptorů a relativně nevykazuje
+anticholinergní působení, byly hlášeny ojedinělé případy obtíží s močením, poruchy akomodace oka a pocit sucha v ústech.
+
+Dále byly hlášeny případy abnormální jaterní funkce se zvýšenou hladinou jaterních enzymů doprovázenou zvýšenou hladinou bilirubinu. Tyto příznaky většinou odezněly po ukončení léčby cetirizin-dihydrochloridem.
+
+•  Seznam nežádoucích účinků
+Dvojitě zaslepené kontrolované klinické studie porovnávající cetirizin s placebem nebo s jinými antihistaminiky v doporučené dávce (10 mg denně u cetirizinu), z nichž jsou k dispozici
+kvantifikované údaje o bezpečnosti, zahrnovaly více než 3 200 subjektů, jimž byl podáván cetirizin. Z tohoto souboru byly pro dávku 10 mg cetirizinu u studií kontrolovaných placebem hlášeny následující nežádoucí účinky s mírou výskytu 1,0 % a vyšší:
+
+
+Nežádoucí účinek
+(WHO-ART)
+Celkové poruchy a reakce v místě aplikace Únava
+Poruchy nervového systému Závratě
+Bolest hlavy
+Gastrointestinální poruchy Bolest břicha
+Sucho v ústech
+Nauzea
+Psychiatrické poruchy Somnolence
+
+Respirační, hrudní a mediastinální poruchy
+Faryngitida
+4
+Cetirizin 10 mg
+(n = 3260)
+
+1,63 %
+
+1,10 %
+7,42 %
+
+0,98 %
+2,09 %
+1,07 %
+
+9,63 %
+
+1,29 %
+Placebo (n
+= 3061)
+
+0,95 %
+
+0,98 %
+8,07 %
+
+1,08 %
+0,82 %
+1,14 %
+
+5,00 %
+
+1,34 %
+
+Přestože byla somnolence statisticky četnější než ve skupině placeba, jednalo se ve většině případů o mírnou až středně závažnou somnolenci. Objektivní testy prokázané jinými studiemi ukázaly, že
+každodenní činnosti obvykle nejsou při doporučené denní dávce u zdravých mladých dobrovolníků ovlivněny.
+
+Pediatrická populace
+Nežádoucí účinky s mírou výskytu od 1 % u dětí ve věku od 6 měsíců do 12 let zahrnutých do klinických studií kontrolovaných placebem jsou:
+
+
+Nežádoucí účinky
+(WHO-ART)
+Gastrointestinální poruchy Průjem Psychiatrické poruchy Somnolence
+Respirační, hrudní a mediastinální poruchy
+Rinitida
+Celkové poruchy a reakce v místě aplikace Únava
+Cetirizin (n
+= 1656)
+
+1,0 %
+
+1,8 %
+
+1,4 %
+
+1,0 %
+Placebo (n
+= 1294)
+
+0,6 %
+
+1,4 %
+
+1,1 %
+
+0,3 %
+Zkušenosti po uvedení přípravku na trh
+
+Kromě nežádoucích účinků hlášených během klinických studií a uvedených výše byly v rámci
+postmarketingových zkušeností (po uvedení přípravku na trh) hlášeny následující nežádoucí účinky.
+
+Nežádoucí účinky jsou rozděleny do tříd orgánových systémů podle MedDRA a podle frekvence
+výskytu určené na základě zkušenosti po uvedení přípravku na trh.
+
+Frekvence jsou definovány následovně: Velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1 000 až <1/100); vzácné (≥1/10 000 až <1/1 000); velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+Poruchy krve a lymfatického systému
+velmi vzácné: trombocytopenie.
+
+Poruchy imunitního systému
+vzácné: hypersenzitivita
+velmi vzácné: anafylaktický šok.
+
+Poruchy metabolismu a výživy
+není známo: zvýšená chuť k jídlu.
+
+Psychiatrické poruchy
+méně časté: agitovanost
+vzácné: agrese, zmatenost, deprese, halucinace, insomnie velmi vzácné: tiky
+není známo: sebevražedné myšlenky, noční můry.
+
+5
+
+Poruchy nervového systému
+méně časté: parestezie vzácné: konvulze
+velmi vzácné: dysgeuzie, synkopa, tremor, dystonie, dyskineze není známo: amnézie, zhoršení paměti.
+
+Poruchy oka
+velmi vzácné: porucha akomodace, rozmazané vidění, okulogyrie.
+
+Poruchy ucha a labyrintu
+není známo: vertigo.
+
+Srdeční poruchy
+vzácné: tachykardie.
+
+Gastrointestinální poruchy
+méně časté: průjem.
+
+Poruchy jater a žlučových cest
+vzácné: abnormální funkce jater (zvýšené hodnoty transaminázy, alkalické fosfatázy, γ-GT a bilirubinu)
+není známo: hepatitida.
+
+Poruchy kůže a podkožní tkáně méně časté: pruritus, vyrážka vzácné: kopřivka
+velmi vzácné: angioneurotický edém, fixní lékový exantém není známo: akutní generalizovaná exantematózní pustulóza.
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+není známo: artralgie.
+
+Poruchy ledvin a močových cest velmi vzácné: dysurie, enuréza není známo: retence moči.
+
+Celkové poruchy a reakce v místě aplikace
+méně časté: astenie, malátnost vzácné: edém.
+
+Vyšetření
+vzácné: zvýšení tělesné hmotnosti.
+
+Popis vybraných nežádoucích účinků
+Pruritus (intenzivní svědění) a/nebo kopřivka byly hlášeny po přerušení léčby cetirizinem.
+
+
+
+6
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv
+Šrobárova 48 100 41 Praha 10 webové stránky:
+www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+
+Příznaky
+
+Příznaky pozorované po předávkování cetirizinem jsou spojeny především s účinky na CNS nebo s jevy, které by mohly naznačovat anticholinergní účinek.
+Nežádoucí účinky hlášené po požití minimálně pěti doporučovaných denních dávek jsou zmatenost,
+průjem, závratě, únava, bolest hlavy, malátnost, rozšíření zornic, svědění, nervozita, sedace, somnolence, stupor, tachykardie, tremor a retence moči.
+
+Léčba
+Není známo žádné specifické antidotum cetirizinu.
+Pokud dojde k předávkování, doporučuje se symptomatická nebo podpůrná léčba. Výplach žaludku může být zvážen, jestliže uplynula krátká doba od požití přípravku. Cetirizin není účinně
+odstraňován hemodialýzou.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antihistaminika pro systémovou aplikaci, piperazinové deriváty, ATC kód R06AE07
+
+Mechanismus účinku
+Cetirizin, lidský metabolit hydroxyzinu, je silný a selektivní antagonista periferních H1 receptorů.
+Studie vázání na receptory in vitro neprokázaly žádnou jinou měřitelnou afinitu než pro H1 receptory.
+
+Farmakodynamické účinky
+Kromě jeho anti-H1 účinků bylo u cetirizinu také prokázáno antialergické působení: při dávce 10 mg
+jednou nebo dvakrát denně inhibuje pozdní fázi průniku eozinofilů do kůže a spojivky atopických pacientů vystavených působení alergenů.
+
+Klinická účinnost a bezpečnost
+Studie u zdravých dobrovolníků ukazují, že cetirizin v dávkách 5 a 10 mg silně inhibuje „wheal and
+flare“ reakci vyvolanou velmi vysokými koncentracemi histaminu v kůži, ale korelace s účinností nebyla prokázána.
+Během šestitýdenní studie kontrolované placebem, které se zúčastnilo 186 pacientů s alergickou rinitidou a současně mírným až středně těžkým astmatem, vedla 10 mg dávka cetirizinu jednou denně ke zlepšení symptomů rinitidy a neovlivnila plicní funkce. Tato studie podporuje bezpečnost podávání cetirizinu alergickým pacientům s mírným až středně těžkým astmatem.
+
+
+7
+
+Ve studii kontrolované placebem nezpůsobil cetirizin podávaný ve vysokých denních dávkách 60 mg po dobu sedmi dnů žádné statisticky významné prodloužení intervalu QT.
+
+Při doporučeném dávkování prokázal cetirizin zlepšení kvality života pacientů s celoroční nebo sezónní alergickou rinitidou.
+
+Pediatrická populace
+Během studie trvající 35 dnů u dětí od 5 do 12 let věku nebyla zjištěna žádná tolerance k
+antihistaminovému účinku cetirizinu (inhibice „wheal and flare“). Po ukončení léčby s opakovaným podáváním cetirizinu obnovila kůže svoji normální reaktivitu na histamin do 3 dnů.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Maximální plazmatická koncentrace v rovnovážném stavu je přibližně 300 ng/ml a dosáhne se jí za 1,0±0,5 hod. Rozložení farmakokinetických parametrů, jako je např. maximální plazmatická koncentrace (Cmax) nebo plocha pod křivkou (AUC), byla u lidských dobrovolníků unimodální.
+Příjmem potravy se nesnižuje míra absorpce cetirizinu, ale dochází ke snížení její rychlosti. Biologická dostupnost cetirizinu je srovnatelná pro roztoky, tobolky i tablety.
+
+Distribuce
+Zdánlivý distribuční objem je 0,50 l/kg. Cetirizin je vázán z 93±0,3 % na plazmatické bílkoviny. Cetirizin neovlivňuje vazbu warfarinu na plazmatické bílkoviny.
+
+Biotransformace
+Cetirizin není při prvním průchodu játry extenzivně metabolizován.
+
+Eliminace
+Terminální poločas je asi 10 hodin a není pozorována žádná akumulace cetirizinu pro denní dávky 10 mg po dobu 10 dnů. Přibližně dvě třetiny dávky jsou vyloučeny močí v nezměněné formě.
+
+Linearita/nelinearita
+Cetirizin má v rozsahu 5 až 60 mg lineární kinetiku.
+
+Porucha funkce ledvin: Farmakokinetika léku byla u pacientů s mírnou poruchou funkce ledvin (clearance kreatininu vyšší než 40 ml/min) podobná jako u zdravých dobrovolníků. U pacientů se středně závažnou poruchou funkce ledvin došlo v porovnání se zdravými dobrovolníky k trojnásobnému zvýšení poločasu a k 70% snížení clearance.
+U hemodialyzovaných pacientů (clearance kreatininu nižší než 7 ml/min), kterým byla perorálně jednorázově podána dávka 10 mg, došlo v porovnání s normálními dobrovolníky k trojnásobnému prodloužení poločasu a 70% snížení clearance. Cetirizin lze špatně odstranit hemodialýzou. U
+pacientů se středně závažnou nebo závažnou poruchou funkce ledvin je nutné upravit dávkování
+(viz bod 4.2).
+
+Porucha funkce jater: U pacientů s chronickými onemocněními jater (hepatocelulární, cholestatická a biliární cirhóza), kterým bylo podáno 10 nebo 20 mg cetirizinu jednorázově, došlo v porovnání se zdravými subjekty k 50% prodloužení poločasu a ke 40% snížení clearance.
+Úprava dávkování je nezbytná pouze u pacientů s poruchou funkce jater, kteří současně trpí i
+poruchou funkce ledvin.
+
+
+8
+
+Starší pacienti: Po podání jedné perorální dávky 10 mg došlo u 16 starších subjektů v porovnání s mladšími subjekty ke zvýšení poločasu přibližně o 50 % a ke snížení clearance o 40 %. Pokles
+clearance cetirizinu u těchto starších dobrovolníků zřejmě souvisel s jejich sníženou funkcí ledvin.
+
+Pediatrická populace: U dětí ve věku 6–12 let byl poločas cetirizinu zhruba 6 hodin a u dětí ve věku
+2–6 let 5 hodin. U kojenců a batolat ve věku 6–24 měsíců je snížen na 3,1 hodiny.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity, hodnocení kancerogenního potenciálu a reprodukční toxicity neodhalily žádné zvláštní riziko pro člověka.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Glycerol 85%, propylenglykol, sodná sůl sacharinu, methylparaben (E218), propylparaben (E216), trihydrát octanu sodného, kyselina octová 99%, čištěná voda.
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+5 let
+Po prvním otevření: 3 měsíce
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+
+Skleněná hnědá lahvička (typu III Ph. Eur.) obsahující 20 ml roztoku, s kapacím uzávěrem z bílého LDPE a vrchním PP dětským bezpečnostním uzávěrem.
+
+Upozornění:
+V členské zemi, ze které je přípravek dovážen (Španělsko) se přípravek nazývá Zyrtec 10 mg/ml gotas
+orales en solución. Tento název je na původní přelepce na lahvičce. Lahvička je opatřena přelepkou
+s českým textem.
+
+6. 6 Zvláštní opatření pro likvidaci přípravku
+
+Žádné zvláštní požadavky.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+9
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+UCB Pharma, S.A., Plaza de Manuel Gomez Moreno, s/n ed. Bronce, planta 5, Madrid, 28020
+Španělsko
+
+
+Souběžný dovozce:
+
+Best Pharm a.s., Beranových 65, 199 02 Praha 9 – Letňany, Česká republika
+
+
+
+8. REGISTRAČNÍ ČÍSLO
+
+24/1030/92-S/C/PI/001/15
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 18.03.2015
+
+Datum posledního prodloužení registrace: 26.03.2020
+
+
+10.  DATUM REVIZE TEXTU
+
+26.03.2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

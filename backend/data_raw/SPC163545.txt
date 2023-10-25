@@ -1,0 +1,922 @@
+Sp. zn. sukls29074/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+Fulvestrant Vipharm 250 mg injekční roztok v předplněné injekční stříkačce
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna předplněná injekční stříkačka obsahuje fulvestrantum 250 mg v 5 ml roztoku. Pomocné látky se známým účinkem (v 5 ml)
+Ethanol (96%) 500 mg
+Benzylalkohol (E1519) 500 mg
+Benzyl-benzoát 750 mg
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Injekční roztok v předplněné injekční stříkačce.
+
+Čirý, bezbarvý až žlutý viskózní roztok bez viditelných částic.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Fulvestrant je indikován:
+-   v monoterapii k léčbě lokálně pokročilého nebo metastatického karcinomu prsu s estrogen pozitivními receptory u postmenopauzálních žen:
+o  které nebyly dříve léčeny endokrinní léčbou nebo
+o  při relapsu onemocnění v průběhu nebo po adjuvantní antiestrogenové terapii nebo progresi onemocnění při léčbě antiestrogeny.
+-   v kombinaci s palbociklibem k léčbě lokálně pokročilého nebo metastatického karcinomu prsu u žen s pozitivními hormonálními receptory (HR), s negativními receptory pro lidský epidermální růstový faktor (HER2), které podstoupily předchozí endokrinní léčbu (viz bod 5.1).
+
+U pre- nebo perimenopauzálních žen, má být kombinovaná léčba s palbociklibem doprovázena podáváním agonisty hormonu uvolňujícího luteinizační hormon (LHRH).
+
+4.2  Dávkování a způsob podání
+Dávkování
+
+Dospělé ženy (včetně starších žen)
+Doporučená dávka je 500 mg jednou měsíčně s dodatečnou dávkou 500 mg podanou po dvou týdnech od zahajovací dávky.
+
+Pokud se fulvestrant používá v kombinaci s palbociklibem, přečtěte si prosím také souhrn údajů o přípravku pro palbociklib.
+
+
+
+1
+
+Před zahájením léčby kombinací fulvestrantu a palbociklibu a během trvání léčby mají být pre-
+/perimenopauzální ženy léčeny agonisty LHRH v souladu s místní klinickou praxí. Zvláštní skupiny pacientek
+Porucha funkce ledvin
+U pacientek s lehkou až středně těžkou poruchou funkce ledvin není zapotřebí žádná úprava dávky (clearance kreatininu ≥ 30 ml/min). U pacientek s těžkou poruchou funkce ledvin nebyla bezpečnost a účinnost prokázána (clearance kreatininu <30 ml/min), a proto se u těchto pacientek doporučuje postupovat s opatrností (viz bod 4.4).
+Porucha funkce jater
+Při léčbě pacientek s lehkou až středně těžkou poruchou funkce jater není zapotřebí žádná úprava dávky. Jelikož však může dojít k větší expozici fulvestrantu, fulvestrant se má u těchto pacientek používat s opatrností. Údaje od pacientek s těžkou poruchou funkce jater nejsou k dispozici (viz body 4.3, 4.4 a 5.2).
+Pediatrická populace
+Bezpečnost a účinnost fulvestrantu u dětí do 18 let nebyly dosud stanoveny. Dostupné údaje jsou uvedeny v
+bodech 5.1 a 5.2, ale nelze z nich však učinit doporučení pro dávkování.
+Způsob podání
+Fulvestrant má být podáván jako dvě následné 5ml injekce a aplikován pomalou intramuskulární injekcí (1-2 minuty/injekci), jedna injekce do každé hýždě (gluteální oblast).
+Opatrnosti je zapotřebí při aplikaci injekce fulvestrantu v dorsogluteální oblasti vzhledem k blízkosti probíhajícího sedacího nervu.
+
+Podrobné instrukce pro podání viz bod 6.6.
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Těhotenství a kojení (viz bod 4.6)
+Těžká porucha funkce jater (viz body 4.4 a 5.2).
+
+4.4  Zvláštní upozornění a opatření pro použití
+Fulvestrant má být podáván s opatrností u pacientek s lehkou až středně těžkou poruchou funkce jater (viz body 4.2, 4.3 a 5.2).
+Fulvestrant má být podáván s opatrností u pacientek s pacientek s těžkou poruchou funkce ledvin (clearance kreatininu <30 ml/min).
+
+Vzhledem k intramuskulární cestě podání je třeba používat fulvestrant s opatrností při léčbě pacientek s krvácivou diatézou, trombocytopenií nebo u pacientek léčených antikoagulancii.
+
+U žen s pokročilou rakovinou prsu se často vyskytují tromboembolické příhody, které byly pozorovány v klinických hodnoceních s fulvestrantem (viz bod 4.8). Na to je třeba brát ohled při předepisování fulvestrantu rizikovým pacientkám.
+Po podání injekce fulvestrantu byly hlášeny nežádoucí účinky v místě aplikace zahrnující ischias, neuralgii, neuropatickou bolest a periferní neuropatii. Opatrnosti je zapotřebí při aplikaci injekce fulvestrantu v dorsogluteální oblasti vzhledem k blízkosti probíhajícího sedacího nervu (viz body 4.2 a 4.8).
+Zatím nejsou k dispozici dlouhodobé údaje o působení fulvestrantu na kosti. Vzhledem k mechanismu účinku fulvestrantu existuje potenciální riziko vzniku osteoporózy.
+Účinnost a bezpečnost fulvestrantu (v monoterapii nebo v kombinaci s palbociklibem) nebyly studovány u pacientek s kritickým viscerálním onemocněním.
+
+2
+
+Pokud je fulvestrant kombinován s palbociklibem, přečtěte si prosím také souhrn údajů o přípravku pro palbociklib.
+Interference s testy na stanovení protilátek proti estradiolu
+Vzhledem ke strukturální podobnosti fulvestrantu a estradiolu může fulvestrant ovlivnit testy na stanovení protilátek proti estradiolu a může tak vést k falešně vyšším hladinám estradiolu.
+Ethanol
+Tento léčivý přípravek obsahuje 500 mg alkoholu (ethanolu) v jedné injekci, což odpovídá 100 mg/ml (10% w/v). Množství alkoholu v jedné injekci tohoto přípravku odpovídá 13 ml piva nebo 5 ml vína.
+Dávka 500 mg tohoto léku (dvě stříkačky) podaná dospělé ženě s tělesnou hmotností 70 kg vede k expozici 14,3 mg/kg ethanolu, což může způsobit zvýšení koncentrace alkoholu v krvi (BAC) asi na 2,4 mg/ml (viz Příloha I zprávy EMA/CHMP/43486/2018). Pro srovnání, pokud dospělý vypije sklenici vína nebo 500 ml piva, BAC bude pravděpodobně činit asi 50 mg/100 ml.
+Souběžné podávání s léčivými přípravky obsahujícími např. propylenglykol nebo ethanol může vést ke kumulaci ethanolu a vyvolat nežádoucí účinky.
+Benzylalkohol
+Tento léčivý přípravek obsahuje benzylalkohol jako pomocnou látku, která může způsobit alergickou reakci.
+
+Pediatrická populace
+Fulvestrant se nedoporučuje podávat dětem a dospívajícím, neboť bezpečnost a účinnost u této skupiny pacientek nebyla stanovena (viz bod 5.1).
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Klinická interakční studie s midazolamem (substrát pro CYP3A4) prokázala, že fulvestrant není inhibitorem CYP3A4. Klinická interakční studie s rifampicinem (induktor CYP3A4) a ketokonazolem (inhibitor CYP3A4) neprokázala žádné klinicky významné změny v clearance fulvestrantu. Tudíž u pacientek, kterým je podáván fulvestrant současně s inhibitory nebo s induktory CYP3A4, není nutné upravovat dávku.
+
+4.6  Fertilita, těhotenství a kojení
+Ženy ve fertilním věku
+Pacientky ve fertilním věku mají používat účinnou antikoncepci během léčby přípravkem Fulvestrant Vipharm
+a ještě 2 roky po podání poslední dávky.
+Těhotenství
+Fulvestrant je kontraindikován v těhotenství (viz bod 4.3). Bylo prokázáno, že fulvestrant po jednorázové intramuskulární dávce u potkanů a králíků prostupuje placentou. Studie na zvířatech prokázaly reprodukční toxicitu včetně zvýšeného výskytu abnormalit a úmrtí plodu (viz bod 5.3).
+Dojde-li v průběhu podávání fulvestranu k otěhotnění, musí být pacientka informována o možném riziku pro plod a potenciálním riziku potratu.
+
+Kojení
+V průběhu léčby fulvestrantem musí být kojení přerušeno. Fulvestrant se u potkanů vylučuje do mateřského mléka. Není známo, zda se fulvestrant vylučuje do mateřského mléka u lidí. Vzhledem k možnosti závažných nežádoucích účinků fulvestrantu pro kojence je kojení v průběhu léčby kontraindikováno (viz bod 4.3).
+Fertilita
+Účinek fulvestrantu na fertilitu u lidí nebyl studován.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+
+
+
+3
+
+Fulvestrant nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje. V průběhu léčby fulvestrantem však byla velmi často hlášena astenie, proto je zapotřebí opatrnosti při řízení nebo obsluze strojů u pacientek, u nichž se tento nežádoucí účinek vyskytnul.
+
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Monoterapie
+V tomto bodě jsou shrnuty informace shrnující všechny nežádoucí účinky z klinických hodnocení, postmarketingových studií a spontánních hlášení. Podle souhrnné analýzy údajů použití fulvestrantu v monoterapii byly nejčastěji hlášenými nežádoucími účinky reakce v místě vpichu, astenie, nauzea a zvýšené jaterní enzymy (ALT, AST, ALP).
+
+V tabulce 1 byly vypočteny následující kategorie frekvencí nežádoucích účinků na základě souhrnné analýzy bezpečnostních údajů ve skupině léčené fulvestrantem 500 mg ve studiích, které porovnávaly fulvestran 500 mg a fulvestrant 250 mg [CONFIRM (studie D6997C00002), FINDER 1 (studie D6997C00004), FINDER 2 (studie D6997C00006) a NEWEST (studie D6997C00003)] nebo ze samostatné studie FALCON (studie D699BC00001), která porovnávala fulvestrant 500 mg s anastrozolem 1 mg. Pokud se liší frekvence výskytu ve studii FALCON a v souhrnné analýze bezpečnostních údajů, uvedena je nejvyšší frekvence. Frekvence uvedené v následující tabulce jsou založeny na všech hlášených nežádoucích účincích bez ohledu na hodnocení kauzality zkoušejícím lékařem. Medián trvání léčby fulvestrantem v dávce 500 mg v rámci souhrnných údajů (zahrnující výše uvedené studie a studii FALCON) byl 6,5 měsíce.
+Tabulkový seznam nežádoucích účinků
+Níže uvedené nežádoucí účinky jsou klasifikovány podle frekvence a třídy orgánových systémů. Frekvence jsou definovány podle následující konvence: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1000 až < 1/100). V každé skupině frekvencí jsou nežádoucí účinky řazeny podle klesající závažnosti.
+Tabulka 1   Nežádoucí účinky hlášené u pacientek léčených fulvestrantem v monoterapii Nežádoucí účinky podle tříd orgánových systémů a frekvence
+
+Infekce a infestace
+Poruchy krve a lymfatického systému Poruchy imunitního systému
+
+Poruchy metabolismu a výživy Poruchy nervového systému Cévní poruchy
+
+Gastrointestinální poruchy Poruchy jater a žlučových cest
+
+
+
+Poruchy kůže a podkožní tkáně
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Poruchy reprodukčního systému a prsu
+
+Celkové poruchy a reakce v místě aplikace
+Časté Časté
+Velmi časté Méně časté Časté
+Časté Velmi časté Časté Velmi časté Časté Velmi časté
+Časté Méně časté
+Velmi časté Velmi časté
+
+Časté Časté Méně časté
+Velmi časté Časté Méně časté
+Infekce močových cest
+Snižený počet krevních destičeke Hypersenzitivní reakcee Anafylaktické reakce
+Anorexiea Bolest hlavy Návaly horkae
+Žilní tromboembolismusa
+Nauzea Zvracení, průjem
+Zvýšení jaterních enzymů (ALT, AST, ALP)a
+Zvýšená hladina bilirubinua Selhání jaterc, f, hepatitidaf, zvýšená hladina gama-GTf
+Vyrážkae
+Bolest kloubů a muskuloskeletální bolestd
+Bolest zada Vaginální krváceníe
+Vaginální moniliázaf, leukoreaf
+Asteniea, reakce v místě injekceb Periferní neuropatiee, ischiase Krvácení  v  místě  aplikacef, hematom  v  místě  aplikacef,
+
+4
+
+neuralgiec, f
+ᵃ  Zahrnuje nežádoucí účinky, u kterých nelze přesně určit vliv fulvestrantu vzhledem k probíhajícímu onemocnění.
+ᵇ  Termín reakce v místě aplikace nezahrnuje termíny krvácení v místě aplikace a hematom v místě aplikace, ischias, neuralgii a periferní neuropatii.
+ᶜ  Příhoda nebyla pozorována v hlavních klinických studiích (CONFIRM, FINDER 1, FINDER 2, NEWEST). Frekvence byla vypočtena za použití horního limitu pro 95% interval spolehlivosti pro odhad bodu. Ten je vypočten jako 3/560 (kde 560 je počet pacientek v hlavních klinických studiích), což odpovídá kategorii frekvence „méně časté“.
+ᵈ Zahrnuje: artralgii a méně často muskuloskeletální bolest, myalgii a bolest končetin
+ᵉ  Kategorie frekvence se liší v souhrnné analýze bezpečnostních dat a ve studii FALCON.
+ᶠ  Nežádoucí účinek nebyl pozorován ve studii FALCON.
+
+Popis vybraných nežádoucích účinků
+Popisy uvedené níže jsou založeny na analýze bezpečnostních údajů u 228 pacientek, které dostaly alespoň jednu (1) dávku fulvestrantu, resp. 232 pacientek, kterým byla podána alespoň jedna (1) dávka anastrozolu ve studii fáze 3 FALCON.
+Bolest kloubů a muskuloskeletální bolest
+Počet pacientek, které ve studii FALCON hlásily nežádoucí účinek bolest kloubů a muskuloskeletální bolest, byl 65 (31,2 %) ve skupině léčené fulvestrantem a 48 (24,1 %) ve skupině léčené anastrozolem. Ze 65 pacientek ve skupině léčené fulvestrantem hlásilo 40 % (26/65) pacientek bolest kloubů a muskuloskeletální bolest během prvního měsíce léčby a 66,2 % (43/65) pacientek během prvních 3 měsíců léčby. Žádné pacientky nehlásily nežádoucí účinky stupně ≥ 3 podle CTCAE a současně nedošlo ke snížení dávky, přerušení léčby nebo vysazení léčby v důsledku těchto nežádoucích účinků.
+
+Kombinovaná terapie s palbociklibem
+Celkový bezpečnostní profil fulvestrantu při použití v kombinaci s palbociklibem je založen na údajích získaných u 517 pacientek s HR-pozitivním, HER2-negativním pokročilým nebo metastatickým karcinomem prsu v randomizované studii PALOMA3 (viz bod 5.1). Nejčastěji hlášenými (≥ 20 %) nežádoucími účinky jakéhokoli stupně u pacientek léčených fulvestrantem v kombinaci s palbociklibem byly neutropenie, leukopenie, infekce, únava, nauzea, anemie, stomatitida, průjem, trombocytopenie a zvracení. Nejčastěji hlášené nežádoucí účinky (≥ 2 %) stupně ≥ 3 byly neutropenie, leukopenie, infekce, anemie, zvýšení AST, trombocytopenie a únava.
+Tabulka 2 uvádí nežádoucí účinky ze studie PALOMA3.
+Medián délky expozice fulvestrantu byl 11,2 měsíce ve skupině léčené fulvestrantem + palbociklibem a 4,8 měsíce ve skupině léčené fulvestrantem + placebem. Medián délky expozice palbociklibu v rameni s fulvestrantem + palbociklibem byl 10,8 měsíce.
+Tabulka 2 Nežádoucí účinky ve studii PALOMA3 (N= 517)
+
+
+
+Třída orgánových systémů Frekvence
+Fulvestrant + palbociklib (n = 345)
+Fulvestrant + placebo (n = 172)
+Všechny
+
+Preferovaný termínᵃ
+
+Infekce a infestace
+Velmi časté
+Všechny stupně
+n (%)
+Stupeň ≥ 3
+n (%)
+stupně  n (%)
+Stupeň ≥ 3
+n (%)
+Infekceb                   188 (54,5)      19 (5,5)     60 (34,9)     6 (3,5)
+Poruchy krve a lymfatického systému
+Velmi časté
+
+Neutropeniec Leukopenied Anemiee
+290 (84,1)
+207 (60,0)
+109 (31,6)
+240 (69,6)
+132 (38,3)
+15 (4,3)
+6 (3,5)
+9 (5,2)
+24 (14,0)
+0
+1 (0,6)
+4 (2,3)
+
+5
+
+Trombocytopenief
+Méně časté
+Febrilní neutropenie
+Poruchy metabolismu a výživy
+Velmi časté
+88 (25,5)
+
+3 (0,9)
+10 (2,9)     0        0
+
+3 (0,9)     0        0
+Snížená chuť k jídlu         60 (17,4)      4 (1,2)     18 (10,5)     1 (0,6)
+Poruchy nervového systému
+Časté
+Dysgeuzie              27 (7,8)       0        6 (3,5)      0
+Poruchy oka
+Časté
+
+Zvýšená tvorba slz Rozmazané vidění Suché oko
+25 (7,2)      0
+24 (7,0)      0
+15 (4,3)      0
+2 (1,2)     0
+3 (1,7)     0
+3 (1,7)     0
+Respirační, hrudní a mediastinální poruchy
+Časté
+Epistaxe               25 (7,2)       0        4 (2,3)      0
+Gastrointestinální poruchy
+Velmi časté
+
+Nauzea Stomatitidag Průjem Zvracení
+Poruchy kůže a podkožní tkáně
+Velmi časté Alopecie Vyrážkah
+Časté
+Suchá kůže
+124 (35,9)
+104 (30,1)
+94 (27,2)
+75 (21,7)
+
+
+
+67 (19,4)
+63 (18,3)
+
+28 (8,1)
+2 (0,6)
+3 (0,9)
+0
+2 (0,6)
+
+
+
+NA
+3 (0,9)
+
+0
+53 (30,8)
+24 (14,0)
+35 (20,3)
+28 (16,3)
+
+
+
+11 (6,4)
+10 (5,8)
+
+3 (1,7)
+1 (0,6)
+0
+2 (1,2)
+1 (0,6)
+
+
+
+NA
+0
+
+0
+Celkové poruchy a reakce v místě aplikace
+Velmi časté
+
+Únava
+Pyrexie
+Časté
+Astenie Vyšetření Velmi časté
+Zvýšení AST
+Časté
+Zvýšení ALT
+152 (44,1)
+47 (13,6)
+
+27 (7,8)
+
+
+
+40 (11,6)
+
+30 (8,7)
+9 (2,6)
+1 (0,3)
+
+1 (0,3)
+
+
+
+11 (3,2)
+
+7 (2,0)
+54 (31,4)
+10 (5,8)
+
+13 (7,6)
+
+
+
+13 (7,6)
+
+10 (5,8)
+2 (1,2)
+0
+
+2 (1,2)
+
+
+
+4 (2,3)
+
+1 (0,6)
+ALT = alaninaminotransferáza; AST = aspartátaminotransferáza; N/n = počet pacientek, NA = nelze určit
+ᵃ  Preferované termíny (PT) jsou uvedeny podle MedDRA 17.1.
+ᵇ  Infekce zahrnují všechny PT, které jsou součástí třídy orgánových systémů Infekce a infestace.
+ᶜ  Neutropenie zahrnuje následující PT: neutropenie, snížený počet neutrofilů.
+
+6
+
+ᵈ Leukopenie zahrnuje následující PT: leukopenie, snížený počet leukocytů.
+ᵉ  Anemie zahrnuje následující PT: anemie, snížený hemoglobin, snížený hematokrit.
+ᶠ  Trombocytopenie zahrnuje následující PT: trombocytopenie, snížený počet krevních destiček.
+ᵍ  Stomatitida zahrnuje následující PT: aftózní stomatitida, cheilitida, glositida, glosodynie, vřed úst, zánět sliznice, bolest úst, orofaryngeální diskomfort, orofaryngeální bolest, stomatitida.
+ʰ  Vyrážka zahrnuje následující PT: vyrážka, makulopapulózní vyrážka, svědící vyrážka, erytematózní vyrážka, papulózní vyrážka, dermatitida, akneiformní dermatitida, toxický kožní výsev.
+
+Popis vybraných nežádoucích účinků
+Neutropenie
+U pacientek, které dostávaly fulvestrant v kombinaci s palbociklibem ve studii PALOMA3, byla u 290 (84,1
+%) pacientek hlášena neutropenie jakéhokoli stupně, u 200 (58,0 %) pacientek byla hlášena neutropenie stupně 3 a u 40 (11,6 %) pacientek byla hlášena neutropenie stupně 4. Ve skupině léčené fulvestrantem + placebem (n = 172) byla u 6 (3,5 %) pacientek hlášena neutropenie jakéhokoli stupně. Ve skupině léčené fulvestrantem a placebem nebyla hlášena neutropenie stupně 3 a 4.
+U pacientek, které dostávaly fulvestrant v kombinaci s palbociklibem, byl medián času do první epizody jakéhokoli stupně neutropenie 15 dní (rozmezí: 13-512 dní) a medián trvání neutropenie stupně ≥ 3 byl 16 dní. Febrilní neutropenie byla hlášena u 3 (0,9 %) pacientek, které dostávaly fulvestrant v kombinaci s palbociklibem.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Existují ojedinělé případy předávkování fulvestrantem u člověka. Pokud dojde k předávkování, doporučuje se symptomatická léčba předávkování. Studie na zvířatech naznačují, že kromě účinků přímo nebo nepřímo závislých na antiestrogenním účinku nebyly u vyšších dávek fulvestrantu prokázány žádné jiné účinky (viz bod 5.3).
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: endokrinní léčba, antiestrogeny, ATC kód: L02BA03 Mechanismus účinku a farmakodynamické účinky
+Fulvesterant je kompetitivním antagonistou estrogenového receptoru (ER) s afinitou srovnatelnou s estradiolem. Fulvestrant blokuje trofický účinek estrogenů bez projevů částečného agonistického (estrogenům podobného) účinku. Mechanismus účinku je spojen s down regulací hladiny proteinu estrogenového receptoru.
+Klinické studie u postmenopausálních žen s primárním karcinomem prsu prokázaly, že fulvestrant významně snižuje hladinu proteinu ER v ER pozitivních nádorech ve srovnání s placebem. Docházelo také k významnému poklesu exprese progesteronového receptoru bez vnitřního agonistického estrogenního účinku. Bylo prokázáno, že fulvestrant 500 mg snižuje počet ER a proliferaci markeru Ki67 ve větší míře než fulvestrant 250 mg u karcinomu prsu v postmenopauzálním neoadjuvantním režimu.
+Klinická účinnost a bezpečnost v pokročilé rakovině prsu
+Monoterapie
+
+7
+
+U 736 postmenopauzálních žen s pokročilým karcinomem prsu s relapsem při adjuvantní endokrinní léčbě nebo po této léčbě nebo progresí po endokrinní léčbě pokročilého onemocnění byla provedena klinická studie fáze 3. Do studie bylo zařazeno 423 pacientek s relapsem nebo progresí při léčbě antiestrogeny (podskupina AE) a 313 pacientek s relapsem nebo progresí při léčbě inhibitory aromatázy (podskupina AI). Tato studie srovnávala účinnost a bezpečnost fulvestrantu 500 mg (n=362) s fulvestrantem 250 mg (n=374). Primárním cílovým parametrem bylo přežití bez progrese (PFS), klíčové sekundární parametry účinnosti zahrnovaly míru objektivní odpovědi (ORR), klinickou míru prospěšnosti (CBR) a celkové přežití (OS). Výsledky účinnosti ze studie CONFIRM jsou shrnuty v tabulce 3.
+
+Tabulka 3 Souhrn výsledků primárních cílových parametrů účinnosti (PFS) a klíčové sekundární parametry účinnosti ze studie CONFIRM
+Proměnná   Druh       Fulvestrant   Fulvestrant       Srovnání mezi skupinami odhadu;       500 mg     250 mg    (Fulvestrant 500 mg/ Fulvestrant 250 mg)
+
+srovnání léčby   (n=362)    (n=374)   Hazard  Ratio
+(HR)
+95% CI   Hodnota p
+PFS     K-M medián v měsících; hazard ratio
+Všechny pacientky          6,5        5,5       0,80     0,68; 0,94     0,006
+- podskupina AE (n = 423)      8,6        5,8       0,76     0,62; 0,94     0,013
+- podskupina AI (n = 313)ᵃ      5,4        4,1       0,85     0,67; 1,08     0,195
+OSᵇ      K-M medián
+
+v   měsících; hazard ratio
+Všechny pacientky
+26,4       22,3       0,81     0,69; 0,96    0,016ᶜ
+
+- podskupina AE (n = 423)      30,6       23,9       0,79     0,63; 0,99    0,038ᶜ
+- podskupina AI (n = 313)ᵃ     24,1       20,8       0,86     0,67; 1,11    0,241ᶜ
+
+
+Proměnná  Druh odhadu;
+Fulvestrant
+500 mg
+Fulvestrant
+250 mg
+Srovnání mezi skupinami (Fulvestrant 500 mg/ Fulvestrant 250 mg)
+
+srovnání léčby
+(n=362)
+(n=374)
+Hazard Ratio (HR)
+95% CI
+Hodnota p
+Proměnná   Druh      Fulvestrant   Fulvestrant       Srovnání mezi skupinami
+odhadu;     500 mg     250 mg  (Fulvestrant 500 mg/Fulvestrant 250 mg)  
+
+srovnání léčby  (N=362)     (n=374)   Absolutní
+rozdíl v %
+95% CI
+ORRᵈ     % paciente k  s  OR; absolutní rozdíl
+Všechny pacientky         13,8       14,6       -0,8     -5,8; 6,3
+- podskupina AE (n = 296)     18,1       19,1       -1,0     -8,2; 9,3
+- podskupina AI (n = 205) ᵃ      7,3        8,3       -1,0     -5,5; 9,8
+CBRᵉ     % pacientek
+
+s CB; absolutní rozdíl v %
+Všechny pacientky
+45,6       39,6       6,0      -1,1; 13,3
+
+
+- podskupina AE (n = 423)     52,4       45,1       7,3      -2,2; 16,6
+
+
+
+8
+
+- podskupina AI (n = 313)ᵃ     36,2       32,3       3,9      -6,1; 15,2
+ᵃ   Fulvestrant je indikován u pacientek, které relabovaly nebo progredovaly na léčbě antiestrogeny. Výsledky v podskupině AI jsou neprůkazné.
+ᵇ   OS je uvedeno pro finální analýzu celkového přežití při 75% úplnosti dat.
+ᶜ   Nominální hodnota p bez úpravy na opakované hodnoty mezi původní analýzou celkového přežití při 50% úplnosti dat a aktualizovanou analýzou celkového přežití při 75% úplnosti dat.
+ᵈ   ORR byl hodnocen u pacientek, u kterých byla hodnotitelná odpověď při vstupu do studie (tj. ty s měřitelným onemocněním při vstupu do studie: 240 pacientek ve skupině fulvestrant 500 mg a 261 pacientek ve skupině fulvestrant 250 mg).
+ᵉ   Pacientky s nejlepší objektivní odpovědí z celkové odpovědi, částečnou odpovědí nebo stabilním onemocněním po dobu ≥ 24 týdnů.
+PFS: přežití bez progrese; ORR: výskyt objektivní odpovědi; OR: relativní riziko; CBR: klinická míra prospěšnosti; CB: klinická prospěšnost; OS: celkové přežití; K-M: Kaplan-Meier; CI: interval spolehlivosti, AI:
+inhibitor aromatázy, AE: antiestrogen.
+
+Byla provedena randomizovaná dvojitě zaslepená dvojitě maskovaná multicentrická klinická studie fáze 3 s fulvestrantem 500 mg ve srovnání s anastrozolem 1 mg u postmenopauzálních žen s lokálně pokročilým nebo metastatickým karcinomem prsu s pozitivitou ER a/nebo pozitivitou PgR, které nebyly dosud léčeny hormonální terapií. Celkem bylo randomizováno 462 pacientek v poměru 1:1, které postupně dostávaly buď fulvestrant 500 mg nebo anastrozol 1 mg.
+Randomizace byla stratifikována podle stavu onemocnění (lokálně pokročilé nebo metastazující), předchozí chemoterapie pokročilého onemocnění a měřitelnosti onemocnění.
+
+Primárním cílovým parametrem účinnosti této studie bylo přežití bez progrese (PFS) hodnocené zkoušejícím podle kritérií RECIST 1.1 (Response Evaluation Criteria in Solid Tumours). Klíčový sekundární cílový parametr účinnosti zahrnoval celkové přežití (OS) a výskyt objektivní odpovědi (ORR).
+Medián věku pacientek zařazených do této studie byl 63 let (rozmezí 36-90 let). Většina pacientek (87,0 %) měla na začátku léčby metastatické onemocnění. Padesát pět procent (55,0 %) pacientek mělo na začátku léčby viscerální metastázy. Celkem 17,1 % pacientkám byla již dříve podávána chemoterapie pro pokročilé onemocnění; 84,2 % pacientek mělo měřitelné onemocnění.
+Ve většině předem specifikovaných podskupin pacientek byly pozorovány konzistentní výsledky. Pro podskupinu pacientek s onemocněním omezeným na neviscerální metastázy (n = 208) byl HR (Hazard ratio, poměr rizik) 0,592 (95 % CI: 0,419; 0,837) pro skupinu s fulvestrantem ve srovnání se skupinou s anastrozolem. V podskupině pacientek s viscerálními metastázami (n = 254) byl HR 0,993 (95 % CI: 0,740; 1,331) pro rameno s fulvestrantem ve srovnání s ramenem s anastrozolem. Výsledky účinnosti studie FALCON jsou uvedeny v tabulce 4 a na obrázku 1.
+
+Tabulka 4   Souhrn výsledků primárního cílového parametru účinnosti (PFS) a klíčových sekundárních cílových parametrů účinnosti (hodnocení zkoušejícího, populace „Intent-To-Treat”) - studie FALCON
+
+
+
+
+Přežití bez progrese
+Fulvestrant 500 mg
+(n = 230)
+Anastrozol 1 mg
+(n= 232)
+
+Počet událostí PFS (%)
+PFS hazard ratio (95 % CI) a hodnota p
+
+PFS Medián [měsíce (95% CI)] Počet událostí OS*
+OS hazard ratio (95 % CI) a hodnota p
+
+ORR**
+143 (62,2 %)      166 (71,6 %)
+HR 0,797 (0,637 – 0,999)
+p = 0,0486
+16,6 (13,8; 21,0)    13,8 (12,0; 16,6)
+67 (29,1 %)       75 (32,3 %)
+HR 0,875 (0,629 – 1,217)
+p = 0,4277
+89 (46,1 %)       88 (44,9 %)
+
+9
+
+ORR odds ratio (95 % CI) a hodnota p
+
+Medián trvání odpovědi (měsíce) CBR
+CBR odds ratio (95 % CI) a hodnota p
+
+*(31 % úplnosti dat) - analýza OS není konečná
+** u pacientek s měřitelným onemocněním
+OR 1,074 (0,716 – 1,614)
+p = 0,7290
+20,0           13,2
+180 (78,3 %)      172 (74,1 %)
+OR 1,253 (0,815 – 1,932)
+p = 0,3045
+
+Obrázek 1.  Kaplan-Meierova křivka pro přežití bez progrese (hodnocení zkoušejícím, populace
+„Intent-To-Treat“) – studie FALCON
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Byly provedeny dvě klinické studie fáze 3. Bylo do nich zařazeno celkem 851 postmenopauzálních žen s pokročilým karcinomem prsu, u kterých došlo k návratu onemocnění při nebo po adjuvantní endokrinní léčbě nebo k progresi po endokrinní léčbě pokročilého onemocnění. Sedmdesát sedm procent (77 %) populace ve studii mělo estrogen receptor pozitivní rakovinu prsu. V těchto studiích byla porovnávána bezpečnost a účinnost podávání fulvestrantu 250 mg jednou měsíčně s denním podáváním 1 mg anastrozolu (inhibitor aromatázy). Celkově byl fulvestrant v dávce 250 mg měsíčně nejméně stejně účinný jako anastrozol, pokud jde o přežití bez progrese, výskyt objektivní odpovědi a doby přežití. Mezi oběma léčenými skupinami nebyly u těchto cílových parametrů studie žádné statisticky významné rozdíly. Primárním cílovým parametrem studie bylo přežití bez progrese. Kombinovaná analýza obou studií prokázala, že k progresi došlo u 83 % pacientek, které dostávaly fulvestrant, oproti 85 % pacientek, které užívaly anastrozol. Kombinovaná analýza obou studií ukázala, že hazard ratio fulvestrantu 250 mg vs anastrozolu pro přežití bez progrese je 0,95 (95 % CI 0,82 až 1,10). Výskyt objektivní odpovědi na fulvestrant 250 mg byl 19,2 % ve srovnání s 16,5 % na anastrozol. Střední doba přežití činila 27,4 měsíce u pacientek léčených fulvestrantem a 27,6 měsíce u pacientek léčených anastrozolem. Hazard ratio fulvestrantu 250 mg vs anastrozolu pro dobu přežití byl 1,01 (95% CI 0,86 až 1,19).
+Kombinovaná terapie s palbociklibem
+Byla provedena mezinárodní randomizovaná dvojitě zaslepená multicentrická studie fáze 3 ve dvou paralelních skupinách s fulvestrantem 500 mg a palbociklibem 125 mg vs. fulvestrant 500 mg a placebo u žen s HR-pozitivním, HER2-negativním lokálně pokročilým karcinomem prsu nevhodným k provedení resekce nebo ke kurativní radiační léčbě nebo metastatickým karcinomem prsu, bez ohledu na stav
+
+
+
+10
+
+menopauzy, jejichž onemocnění progredovalo po předchozí endokrinní léčbě v (neo) adjuvantním nebo metastatickém režimu léčby.
+Celkem 521 pre/peri- a postmenopauzálních žen, které progredovaly nebo během 12 měsíců od dokončení adjuvantní endokrinní léčby nebo během 1 měsíce od předchozí endokrinní léčby u pokročilého onemocnění, bylo randomizováno v poměru 2:1 do ramene s fulvestrantem a palbociklibem nebo do ramene s fulvestrantem a placebem a stratifikováno podle dokumentované citlivosti na předchozí hormonální léčbu, stavu menopauzy při vstupu do studie (pre/peri- vs. postmenopauzální) a podle přítomnosti viscerálních metastáz. Pre/perimenopauzální ženy dostávaly agonistu LHRH goserelin. Pacientky  s  pokročilým/metastatickým  symptomatickým  viscerálním  postižením,  které  byly  v krátkodobém horizontu ohroženy život ohrožujícími komplikacemi (zahrnující pacientky s masivními nekontrolovanými výpotky [pleurální, perikardiální, peritoneální], plicní lymfangitidou a více než s
+50% postižením jater), nebyly způsobilé pro vstup do studie.
+
+Pacientky nadále dostávaly přiřazenou léčbu až do objektivní progrese onemocnění, symptomatického zhoršení, nepřijatelné toxicity, úmrtí nebo nesouhlasu s další účastí ve studii, podle toho, co nastalo dříve. Přesun mezi léčebnými rameny nebyl povolen.
+
+Pacientky byly dobře srovnatelné z pohledu výchozích demografických a prognostických charakteristik v rameni s fulvestrantem a palbociklibem a rameni s fulvestrantem a placebem. Medián věku pacientek zařazených do této studie byl 57 let (rozmezí 29, 88). V každém léčebném rameni byla většina pacientek bílých, které měly zdokumentovanou citlivost na předchozí hormonální léčbu a byly postmenopauzální. Přibližně 20 % pacientek bylo pre/perimenopauzálních. Všechny pacientky byly dříve léčeny systémově a většina pacientek v obou léčebných ramenech byla léčena chemoterapií pro základní diagnózu. Více než polovina (62 %) pacientek měla skóre ECOG PS 0, 60 % mělo viscerální metastázy a 60 % bylo dříve léčeno více než 1 hormonálním režimem pro základní diagnózu.
+Primárním cílovým parametrem studie bylo zkoušejícím stanoveno PFS, vyhodnoceno podle
+RECIST 1.1. Podpůrné analýzy PFS vychází z nezávislého centrálního radiologického posouzení (Independent Central Radiology Review). Sekundární cílové parametry zahrnovaly OR, CBR, OS, bezpečnost léčby a čas do zhoršení (TTD) bolesti, jako cílového parametru.
+Studie dosáhla primárního cílového parametru prodloužení zkoušejícím hodnoceného PFS, při průběžné analýze provedené při dosažení 82 % plánovaných příhod PFS; výsledky překročily předem stanovenou hranici účinnosti podle Haybittle-Peto (α = 0,00135), což prokázalo statisticky významné prodloužení PFS a klinicky významný léčebný účinek. Úplnější aktualizace údajů o účinnosti je uvedena v tabulce 5.
+
+Závěrečná analýza OS byla provedena pro medián 45 měsíců sledování u 310 událostí (60 % randomizovaných pacientek). Byl pozorován rozdíl 6,9 měsíce v mediánu OS v rameni palbociklib + fulvestrant ve srovnání s ramenem placebo + fulvestrant; tento výsledek nebyl statisticky významný na předem stanovené hladině významnosti 0,0235 (jednostranný test). Ve skupině placebo + fulvestrant dostávalo 15,5 % randomizovaných pacientek palbociklib a další inhibitory CDK jako následnou léčbu po progresi onemocnění.
+Výsledky PFS podle posouzení zkoušejícím a konečné údaje OS ze studie PALOMA3 jsou uvedeny v tabulce
+5. Příslušné Kaplanovy-Meierovy křivky jsou uvedeny na obrázcích 2 a 3.
+
+Tabulka 5   Výsledky účinnosti - studie PALOMA3 (hodnocení zkoušejícího, populace „Intent To Treat“)
+
+Aktualizovaná analýza (podle údajů z 23. října 2015)
+
+
+
+Přežití bez progrese
+Fulvestrant      plus palbociklib (n=347)
+Fulvestrant plus placebo (n=174)
+Medián [měsíce (95% CI)]       11,2 (9,5; 12,9)            4,6 (3,5; 5,6)
+Hazard ratio (95% CI) a hodnota p          0,497 (0,398; 0,620), p <0,000001
+
+11
+
+Sekundární cílové parametry
+OR [% (95%CI)]
+OR (measurable disease) [% (95% CI)]
+
+26,2 (21,7; 31,2)
+33,7 (28,1; 39,7)
+
+13,8 (9,0; 19,8)
+17,4 (11,5; 24,8)
+
+
+CBR [% (95% CI)]
+Závěrečné údaje celkového přežití (OS) (podle údajů z 13. dubna 2018)
+68,0 (62,8; 72,9)
+39,7 (32,3; 47,3)
+
+Počet událostí (%)
+Medián [měsíce (95% CI)]
+Hazard ratio (95% CI) a hodnota p†
+201 (57,9)              109 (62.6)
+34,9 (28,8; 40,0)           28,0 (23,6; 34,6)
+0,814 (0,644; 1,029) P=0,0429†
+CBR = klinická míra prospěšnosti; CI = interval spolehlivosti; n = počet pacientek; OR = objektivní odpověď
+Výsledky sekundárních cílových parametrů jsou založeny na potvrzených a nepotvrzených odpovědích podle RECIST 1.1.
+*Není statisticky významné
+†jednostranná hodnota p log-rank testu stratifikovaného na přítomnost viscerálních metastáz a citlivost na předchozí endokrinní terapii podle randomizace.
+
+Obrázek 2 Kaplan-Meierova křivka přežití bez progrese (hodnocení zkoušejícího, populace „Intent To Treat“) - studie PALOMA3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Snížení rizika progrese onemocnění nebo úmrtí ve skupině léčené fulvestrantem a palbociklibem bylo pozorováno ve všech jednotlivých podskupinách pacientek předdefinovaných stratifikací a výchozími charakteristikami. Bylo to zřejmé u žen v pre/perimenopauze (HR 0,46 [95% CI: 0,28; 0,75]) i žen po menopauze (HR 0,52 [95% CI: 0,40; 0,66]) i pacientek s viscerálními metastázami (HR 0,50 [95% CI: 0,38; 0,65]), a s neviscerálními metastázami (HR 0,48 [95% CI: 0,33; 0,71]). Prospěch z léčby byl pozorován u metastatického onemocnění bez ohledu na počet linií předchozí léčby, tj. 0 (HR 0,59
+[95% CI: 0,37; 0,93]), 1 (HR 0,46 [95% CI: 0,32; 0,64]), 2 (HR 0,48 [95% CI: 0,30; 0,76]) nebo >3 linie (HR
+0,59 [95% CI: 0,28; 1,22]) linie léčby.
+
+
+
+
+
+12
+
+Obrázek 3 Kaplan-Meierova křivka celkového přežití (populace ”Intent To Treat”) - studie PALOMA3 (podle údajů z 13. dubna 2018)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Počet pacientek v riziku
+PAL+FUL 347 321 286 247 209 165 148 126 17 PCB+FUL 174 155 135 115 86 68 57 43 7
+FUL = fulvestrant; PAL = palbociklib; PCB = placebo.
+
+Další údaje o účinnosti (OR a TTR) hodnocené u podskupin pacientů s viscerálním onemocněním nebo bez viscerálního onemocnění jsou uvedeny v tabulce 6.
+Tabulka 6   Výsledky účinnosti u pacientek s viscerálním a neviscerálním onemocněním ve studie PALOMA3 (populace „Intent To Treat”)
+
+Viscerální onemocnění         Neviscerální onemocnění
+Fulvestrant    a Fulvestrant    a Fulvestrant    a  Fulvestrant a
+
+
+
+OR [% (95% CI)]
+
+TTR*, medián [měsíce (rozmezí)]
+palbociklib (n = 206)
+35,0
+(28,5; 41,9)
+3,8
+(3,5; 16,7)
+placebo (n = 105)
+13,3
+(7,5; 21,4)
+5,4
+(3,5; 16,7)
+palbociclib (n = 141)
+13,5
+(8,3; 20,2)
+3,7
+(1,9; 13,7)
+placebo (n =
+69)
+14,5
+(7,2; 25,0)
+3,6
+(3,4; 3,7)
+*Výsledky odpovědí podle potvrzených a nepotvrzených odpovědí.
+n = počet pacientek; CI = interval spolehlivosti; OR = objektivní odpověď; TTR = doba do první odpovědi nádoru.
+
+Příznaky hlášené pacientkami byly vyhodnoceny pomocí dotazníku na kvalitu života (QLQ)-C30 Evropské organizace pro výzkum a léčbu rakoviny (EORTC) a jeho modulu pro rakovinu prsu (EORTC QLQ-BR23). Celkový počet 335 pacientek v rameni s fulvestrantem a palbociklibem a
+166 pacientek v rameni s fulvestrantem a placebem vyplnilo dotazník na začátku a nejméně při jedné další návštěvě.
+
+Doba do zhoršení byla předem stanovena jako doba mezi výchozím stavem a prvním výskytem zvýšení skóre o ≥ 10 bodů na škále symptomů bolesti oproti výchozímu stavu. Přidání palbociklibu k fulvestrantu vedlo ke zlepšení symptomů vzhledem k významnému prodloužení doby do zhoršení symptomů bolesti ve srovnání s fulvestrantem plus placebo (medián 8,0 měsíců vs. 2,8 měsíce, HR 0,64 [95% CI: 0,49; 0,85], p
+< 0,001).
+Účinky na endometrium po menopauze
+Předklinické údaje nenaznačují stimulační účinek fulvestrantu na endometrium u postmenopauzálních žen (viz bod 5.3). Dvoutýdenní studie u zdravých žen po menopauze, léčených 20 μg ethinylestradiolu denně, prokázala, že předchozí podávání fulvestrantu 250 mg vedlo k významně snížené stimulaci endometria po
+
+13
+
+menopauze ve srovnání s předchozím podáváním placeba, posuzovaného ultrazvukovým měřením tloušťky endometria.
+Neoadjuvantní léčba po dobu až 16 týdnů u pacientek s karcinomem prsu léčených fulvestrantem 500 mg nebo fulvestrantem 250 mg nevedla ke klinicky významné změně tloušťky děložní sliznice, což svědčí pro absenci agonistického účinku. Neexistuje důkaz pro nežádoucí účinky na děložní sliznici u sledovaných pacientek s karcinomem prsu. Nejsou k dispozici údaje týkající se morfologie endometria.
+Ve dvou krátkodobých studiích (1 a 12 týdnů) u premenopauzálních žen s benigním gynekologickým onemocněním nebyly pozorovány žádné signifikantní změny tloušťky endometria (měřeno ultrazvukem) při srovnání skupin s fulvestrantem a placebem.
+
+Účinky na kosti
+Nejsou k dispozici dlouhodobé údaje o účinku fulvestrantu na kosti. Neoadjuvantní léčba po dobu až 16 týdnů u pacientek s karcinomem prsu léčených fulvestrantem 500 mg nebo fulvestrantem 250 mg nevedla k významným změnám sérových markerů kostního metabolismu.
+
+Pediatrická populace
+Fulvestrant není indikován k použití u dětí. Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s fulvestrantem u všech podskupin pediatrické populace s karcinomem prsu (informace o použití u dětí viz bod 4.2).
+Otevřená studie fáze 2 zjišťovala bezpečnost, účinnost a farmakokinetiku fulvestrantu u 30 dívek ve věku 1 až 8 let s progresivní předčasnou pubertou ve spojení s McCune-Albright Syndromem (MAS). Pediatrické pacientky dostávaly dávku 4 mg/kg fulvestrantu intramuskulárně za měsíc. Tato 12měsíční studie hledala odpověď na řadu MAS cílových parametrů a prokázala snížení frekvence vaginálního krvácení a snížení rychlosti stárnutí kostí. Minimální koncentrace fulvestrantu v ustáleném stavu u dětí v této studii byly konzistentní s koncentracemi u dospělých (viz bod 5.2). V této malé studii nebyly zjištěny žádné nové bezpečnostní údaje, ale 5letá data ještě nejsou k dispozici.
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Po podání intramuskulární injekce fulvestrantu s dlouhou dobou účinku se fulvestrant pomalu vstřebává a maximálních koncentrací v plazmě (Cmₐₓ)je dosaženo po přibližně 5 dnech. Po podání fulvestrantu 500 mg je dosaženo hladin na úrovni rovnovážné koncentrace nebo blízké rovnovážné koncentraci první měsíc po podání (průměr [CV]: AUC 475 [33,4 %] ng.dny/ml, Cmₐₓ 25,1 [35,3 %] ng/ml, Cmin 16,3 [25,9 %] ng/ml). V ustáleném stavu se udržují koncentrace fulvestrantu v plazmě v relativně úzkém rozmezí s přibližně až 3násobným rozdílem mezi maximální a minimální koncentrací. Po intramuskulárním podání je expozice v rozsahu dávek 50 až 500 mg zhruba úměrná dávce.
+
+Distribuce
+Fulvestrant podléhá rozsáhlé a rychlé distribuci. Velký zdánlivý distribuční objem v ustáleném stavu (Vdss) přibližně 3 až 5 l/kg signalizuje, že distribuce je většinou extravaskulární.
+Fulvestrant je ve velké míře (99 %) vázán na bílkoviny plazmy. Váže se hlavně na lipoproteiny velmi nízké hustoty (VLDL), nízké hustoty (LDL) a vysoké hustoty (HDL). Nebyly provedeny interakční studie kompetitivní vazby na bílkoviny. Role globulinu vázajícího pohlavní hormon (sex hormone-binding globulin, SHBG) nebyla stanovena.
+Biotransformace
+Metabolismus fulvestrantu nebyl dosud úplně zhodnocen, ale zahrnuje kombinaci celé řady možných biotransformačních cest, které odpovídají cestám endogenních steroidů. Identifikované metabolity (zahrnující metabolity 17-keton, sulfon, 3-sulfát, 3- a 17-glukuronid) jsou v antiestrogenových modelech buď méně účinné, nebo vykazují podobný účinek jako fulvestrant. Studie na preparátech z lidských jater a rekombinantních lidských enzymech ukazují, že na oxidaci fulvestrantu se podílí pouze CYP3A4 jako jediný P450 izoenzym; in vivo se však zdá, že převládají cesty, které nevyužívají P450. Údaje in vitro naznačují, že fulvestrant neinhibuje izoenzymy CYP450.
+
+14
+
+Eliminace
+Fulvestrant je vylučován především v metabolizované formě. Hlavní cestou exkrece je stolice, močí se vylučuje méně než 1 %. Fulvestrant má vysokou clearance, 11±1,7 ml/min/kg, což předpokládá vysoký hepatální extrakční poměr. Terminální poločas eliminace (t½) po intramuskulární aplikaci se řídí rychlostí absorpce a odhaduje se na 50 dnů.
+Zvláštní skupiny pacientek
+V populační farmakokinetické analýze dat ze studií fáze III, nebyly u fulvestrantu nalezeny žádné rozdíly ve farmakokinetickém profilu s ohledem na věk (rozmezí 33 až 89 let), tělesnou hmotnost (40-127 kg) nebo rasu.
+Porucha funkce ledvin
+Lehká až středně těžká porucha funkce ledvin neovlivnila v klinicky významném rozsahu farmakokinetiku fulvestrantu.
+Porucha funkce jater
+Farmakokinetika fulvestrantu byla sledována v klinickém hodnocení po jednorázovém podání u žen s lehkou až středně těžkou poruchou funkce jater (Child-Pugh skóre A a B). Byla použita vysoká intramuskulární dávka krátkodoběji působícího fulvestrantu. AUC u žen s poruchou funkce jater bylo 2,5krát vyšší než u zdravých jedinců. Předpokládá se, že toto zvýšení expozice po podání fulvestrantu bude dobře tolerováno. Ženy s těžkou poruchou funkce jater (Child-Pugh skóre C) nebyly hodnoceny.
+Pediatrická populace
+V klinické studii provedené u 30 dívek s progresivní předčasnou pubertou spojenou s McCuneAlbright Syndromem (MAS) byla hodnocena farmakokinetika fulvestrantu (viz bod 5.1). Pediatrické pacientky byly ve věku 1 až 8 let a byla jim podávána dávka 4 mg/kg fulvestrantu intramuskulárně za měsíc. Geometrický průměr (směrodatná odchylka) ustálených minimálních koncentrací (Cmin, ss) a AUCss byly 4,2 (0,9) ng/ml, resp. 3680 (1020) ng.h/ml. Ačkoliv jsou získaná data omezená, minimální ustálené koncentrace fulvestrantu u dětí se zdají být konzistentní s koncentracemi u dospělých.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Akutní toxicita fulvestrantu je nízká.
+Referenční léčivý přípravek i jiné lékové formy fulvestrantu byly u všech zvířecích druhů ve studiích s opakovanými dávkami dobře snášeny. Místní reakce včetně myozitidy a granulomů v místě injekce byly připsány vehikulu, avšak závažnost myozitidy u králíků byla vyšší u fulvestrantu ve srovnání se srovnávací skupinou, které byl podán fyziologický roztok. Ve studiích toxicity s opakovanými intramuskulárními dávkami fulvestrantu na potkanech a psech byla antiestrogenní aktivita fulvestrantu odpovědná za většinu pozorovaných účinků, a to především na samičí reprodukční systém, ale také na další orgány, citlivé na hormony u obou pohlaví. U některých psů byl po chronickém podávání (12 měsíců) pozorován zánět arterií zahrnující více různých tkání.
+Ve studiích na psech po perorálním i intravenózním podání byly zjištěny účinky na kardiovaskulární systém (mírná elevace S-T segmentu na EKG [po perorálním podání] a sinusová zástava u jednoho psa [intravenózní podání]). Tyto účinky se vyskytly při hladině fulvestrantu vyšší než u pacientek (Cmₐₓ > 15krát) a je pravděpodobné, že mají omezený klinický význam pro bezpečnost u lidí při podávání klinických dávek.
+Fulvestrant nevykazoval žádný genotoxický potenciál.
+
+Účinky fulvestrantu na reprodukci a vývoj embrya nebo plodu odpovídaly při dávkách podobných dávkám klinickým jeho antiestrogennímu účinku. U potkanů byl pozorován reverzibilní pokles fertility samic a přežití embryí, dystokie a zvýšený výskyt abnormalit plodu včetně tarsální flexury. Králičí samice po podání fulvestrantu neudržely březost. Bylo pozorováno zvýšení hmotnosti placenty a poimplantační ztráta plodů. U králíků došlo ke zvýšenému výskytu změn plodu (zpětný posun pánevního pletence a 27 presakrálních obratlů).
+
+15
+
+Dvouletá studie onkogenity na potkanech (intramuskulární podání fulvestrantu) prokázala zvýšený výskyt benigních granulózních buněčných nádorů vaječníků u potkaních samic při vysokých dávkách 10 mg na potkana/15 dnů a zvýšený výskyt nádorů testikulárních Leydigových buněk u samců. Ve dvouleté studii onkogenity u myší (každodenní perorální podání) byl zjištěn zvýšený výskyt pohlavně vázaných stromálních tumorů vaječníků (jak benigních, tak maligních) po podání dávek 150 a 500 mg/kg/den. Pro úroveň nulového účinku s ohledem na tyto nálezy byla systémová expozice (AUC) u laboratorních potkanů přibližně 1,5krát vyšší než očekávaná expozice u žen a 0,8krát vyšší než expozice u mužů a u myší přibližně 0,8krát vyšší než očekávaná expozice u žen či mužů. Tvorba těchto nádorů odpovídá farmakologicky navozeným endokrinním poruchám zpětnovazebné regulace hladin gonadotropinů vyvolaných antiestrogeny u zvířat s cyklickými změnami. Z tohoto důvodu nejsou tyto poznatky považovány za relevantní k použití fulvestrantu u postmenopauzálních žen s pokročilým karcinomem prsu.
+
+Studie hodnocení rizika pro životní prostředí (ERA) ukázaly, že fulvestrant může mít potenciál ovlivnit negativními účinky vodní prostředí (viz bod 6.6).
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Ethanol (96%) Benzylalkohol (E1519) Benzyl-benzoát Čištěný ricinový olej
+6.2  Inkompatibility
+Vzhledem k tomu, že nebyly provedeny žádné studie kompatibility, nesmí se přípravek mísit s jinými léčivými přípravky.
+6.3  Doba použitelnosti
+
+2 roky
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte a převážejte v chladu (při 2 °C – 8 °C).
+Teplotní výkyvy překračující rozmezí 2 °C – 8 °C mají být omezeny a nesmí překročit 28denní období, kdy je průměrná teplota uchovávání přípravku nižší než 25 °C (ale vyšší než 2 °C – 8 °C). Po teplotních výkyvech by měl být přípravek okamžitě vrácen do doporučených podmínek uchovávání (uchovávejte a převážejte v chladu při teplotě 2 °C – 8 °C). Teplotní výkyvy mají kumulativní vliv na kvalitu přípravku a 28denní období nesmí být překročeno v průběhu celé 2leté doby použitelnosti fulvestrantu (viz bod 6.3). Vystavení přípravku teplotám nižším než 2 °C nemá za následek poškození přípravku za předpokladu, že nebyl uchováván při teplotách nižších než -20 °C.
+Uchovávejte předplněnou injekční stříkačku v původním obalu, aby byl přípravek chráněn před světlem.
+6.5  Druh obalu a obsah balení
+
+Obsah balení:
+Jedna předplněná injekční stříkačka z čirého skla třídy 1 s polystyrenovým pístem a elastomerovou zátkou
+s pevným plastovým ochranným krytem obsahující 5 ml injekčního roztoku fulvestrantu. Přiložena je také bezpečnostní jehla (BD SafetyGlide) pro připojení k válci injekční stříkačky.
+
+
+
+16
+
+Nebo
+
+Dvě předplněné injekční stříkačky z čirého skla třídy 1 s polystyrenovým pístem a elastomerovou zátkou s pevným plastovým ochranným krytem, z nichž každá obsahuje 5 ml injekčního roztoku fulvestrantu. Přiloženy jsou také dvě bezpečnostní jehly (BD SafetyGlide) pro připojení k válci stříkačky.
+
+Nebo
+Šest předplněných injekčních stříkaček z čirého skla třídy 1 s polystyrenovým pístem a elastomerovou zátkou s pevným plastovým ochranným krytem, z nichž každá obsahuje 5 ml injekčního roztoku fulvestrantu. Přiloženo jsou také šest bezpečnostních jehel (BD SafetyGlide) pro připojení k válci stříkačky.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Instrukce pro podání
+
+Aplikujte injekci v souladu s místními předpisy pro podávání velkoobjemových intramuskulárních injekcí.
+POZNÁMKA: Vzhledem k blízkosti probíhajícího sedacího nervu je zapotřebí opatrnosti při aplikaci fulvestrantu v dorsogluteální oblasti (viz bod 4.4).
+Upozornění – bezpečnostní jehlu (BD SafetyGlide chráněná hypodermická jehla) před použitím neautoklávujte. Ruce musí zůstat po celou dobu použití a podání stále za jehlou.
+
+Pro každou ze dvou injekčních stříkaček:
+-   Vyjměte skleněný válec z obalu a zkontrolujte, zda není poškozen.
+-   Sejměte vnější obal bezpečnostní jehly (SafetyGlide).
+-   Parenterální roztoky je třeba před podáním vizuálně zkontrolovat, zda neobsahují pevné částice nebo nedošlo ke změně barvy.
+-   Držte stříkačku za vroubkovanou část (C) ve vertikální poloze. Druhou rukou uchopte uzávěr (A) a opatrně jím otáčejte proti směru hodinových ručiček (viz obrázek 1):
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obrázek 1
+-   Odstraňte uzávěr (A) tahem kolmo vzhůru. Pro udržení sterility se nedotýkejte hrotu stříkačky
+(B) (viz obrázek 2).
+
+
+
+
+
+
+
+
+17
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obrázek 2
+-   Připevněte bezpečnostní jehlu ke koncovce Luer-Lok a otáčejte, dokud pevně nedosedne (viz obrázek 3).
+-   Zkontrolujte, zda je jehla ke koncovce Luer připevněna předtím, než ji otočíte do vertikální polohy.
+-   Stáhněte ochranný kryt jehly přímým tahem, abyste nepoškodil(a) hrot jehly.
+-   Přeneste naplněnou injekční stříkačku na místo aplikace.
+-   Odstraňte pouzdro jehly.
+-   Vytlačte přebytečný vzduch z injekční stříkačky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obrázek 3
+-   Podávejte pomalou intramuskulární injekcí (1-2 minuty/injekci) do hýžďového svalu (gluteální oblast).
+Pro komfort podání je úkos jehly orientován směrem k rameni páčky (viz obrázek 4)
+
+
+
+
+
+
+
+Obrázek 4
+-   Po aplikaci jedním prstem ihned klepněte na rameno páčky, aby se aktivoval ochranný mechanismus (viz obrázek 5).
+
+POZNÁMKA: Vždy aktivujte směrem od sebe a jiných lidí. Až zaslechnete cvaknutí, vizuálně se ujistěte, že hrot jehly je zcela zakrytý.
+
+18
+
+
+
+
+
+
+
+
+
+
+
+
+Obrázek 5
+Likvidace
+Předplněné injekční stříkačky jsou určeny pouze k jednorázovému použití.
+Tento léčivý přípravek může představovat riziko pro vodní prostředí. Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky (viz bod 5.3).
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Vipharm S.A.
+ul. A. i F. Radziwiłłów 9
+05-850 Ożarów Mazowiecki Polsko
+
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+34/034/20-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 3. 11. 2020
+
+
+10.  DATUM REVIZE TEXTU
+3. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19

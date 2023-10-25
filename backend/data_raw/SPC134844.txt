@@ -1,0 +1,546 @@
+sp.zn. sukls298615/2018
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Fluorid (18F) sodný RadioMedic 1 – 10 GBq injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Přípravek obsahuje natrii fluoridum (¹⁸F) s aktivitou 1 - 10 GBq k datu a hodině kalibrace.
+
+Fluor (¹⁸F) se přeměňuje na stabilní kyslík (¹⁸O) s poločasem rozpadu 110 minut za vyzáření pozitronů
+o maximální energii 634 keV s následným anihilačním zářením gama o energii 511 keV.
+
+Pomocná látka se známým účinkem:
+Jeden ml obsahuje 3,5 mg sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Injekční roztok.
+Čirý bezbarvý roztok.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+Pozitronová emisní tomografie (PET) s fluoridem (¹⁸F) sodným je určena k funkčnímu zobrazování onemocnění, u kterých je diagnostickým cílem abnormálně zvýšená osteoblastická aktivita. Zvláště zdokumentované jsou tyto indikace:
+-  Detekce a lokalizace kostních metastází v případě karcinomu u dospělých
+-  Pomocná technika pro stanovení bolesti zad neurčitého původu u dospělých, když konvenční zobrazovací modality nejsou průkazné
+-  Pomocná technika pro detekci přítomnosti kostních lézí při podezření na zneužívání dítěte
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dospělí
+Průměrná doporučená aktivita pro dospělého pacienta o hmotnosti 70 kg je 370 MBq, ale může se pohybovat v rozmezí 100 - 400 MBq v závislosti na tělesné hmotnosti, na typu použité zobrazovací techniky, použití PET/CT (počítačová tomografie) a na způsobu zobrazení. Přípravek se podává přímou intravenózní injekcí.
+Pokud je potřeba, lze PET vyšetření s fluoridem (¹⁸F) sodným v krátkém časovém období opakovat.
+
+Zvláštní populace
+Porucha funkce ledvin
+
+
+
+1/8
+
+U těchto pacientů existuje možnost zvýšené radiační zátěže, proto je třeba pečlivě zvážit dávku
+aktivity, která má být podána.
+
+Pediatrická populace
+Použití u dětí a dospívajících je třeba pečlivě zvážit na základě klinických potřeb a vyhodnocení poměru přínosů a rizik u této skupiny pacientů. Aktivity, které mají být podány dětem lze vypočítat podle doporučení Dosage Card Evropské asociace nukleární medicíny (EANM) pediatrické skupiny.
+
+Aktivita podaná dětem a dospívajícím může být vypočtena vynásobením  základní aktivity koeficientem závislým na hmotnosti (uvedeno níže v tabulce).
+
+A[MBq]ₐplikₒvₐnₐ́ = základní aktivita × koeficient
+
+Základní aktivita pro 2D zobrazení je 26 MBq a pro 3D zobrazení je 14 MBq. Pro děti je doporučeno 3D zobrazení.
+
+
+Hmotnost [kg]
+3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Koeficient 1
+1,14
+1,71
+2,14
+2,71
+3,14
+3,57
+4,00
+4,43
+4,86
+Hmotnost [kg] 22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+Koeficient 5,29
+5,71
+6,14
+6,43
+6,86
+7,29
+7,72
+8,00
+8,43
+8,86
+Hmotnost [kg] 42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+Koeficient 9,14
+9,57
+10,00
+10,29
+10,71
+11,29
+12,00
+12,71
+13,43
+14,00
+
+
+Způsob podání
+Injekce fluoridu (¹⁸F) sodného musí být intravenózní, aby se zabránilo ozáření v důsledku místní
+extravazace a také vzniku obrazových artefaktů.
+Opatření, která mají být přijata před podáním léčivého přípravku
+Pokyny k ředění léčivého přípravku před podáním jsou uvedeny v bodě 12. Pro přípravu pacienta před aplikací viz bod 4.4.
+Aktivita fluoridu (¹⁸F) sodného musí být bezprostředně před injekcí změřena měřičem aktivity.
+
+Pořízení snímků
+Snímání PET kamerou je obvykle zahájeno 60 minut po injekci fluoridu (¹⁸F) sodného.
+Pokud přetrvává dostatečná aktivita pro přiměřenou statistiku impulsů, může být PET vyšetření realizováno i 2-3 hodiny po podání, čímž se redukuje aktivita pozadí.
+Za účelem snížení radiační zátěže močového měchýře a získání kvalitních snímků je doporučeno, aby se pacient před PET zobrazením vymočil.
+4.3  Kontraindikace
+Hypersensitivita na léčivou látku nebo kteroukoliv pomocnou látku uvedenou v bodě 6.1. Těhotenství (viz bod 4.6).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Individuální posouzení poměru benefit/risk
+
+
+2/8
+
+U každého pacienta musí být vystavení ionizujícímu záření odůvodnitelné očekávaným diagnostickým přínosem a musí být provedeno s nejnižší rozumně dosažitelnou hodnotou aplikované aktivity, která ještě zaručí získání požadované diagnostické informace.
+
+
+Porucha funkce ledvin
+U pacientů se sníženou funkcí ledvin je nutné velmi pečlivě zvážit poměr přínosů a rizik, protože u
+nich může dojít ke zvýšení radiační zátěže.
+Pediatrická populace
+Pro informace o použití u dětí a dospívajících viz bod 4.2.
+Je vyžadováno důkladné posouzení indikace z důvodu vyšší efektivní dávky na MBq než
+u dospělých (viz bod 11 Dozimetrie).
+Příprava pacienta
+Za účelem získání snímků co nejvyšší kvality a za účelem snížení radiační zátěže močového měchýře by měl být pacient vyzván, aby vypil dostatečné množství tekutin a aby se před a po PET vyšetření vymočil.
+Interpretace PET snímků získaných pomocí fluoridu (¹⁸F) sodného
+Fluorid (¹⁸F) sodný má vyšší citlivost pro detekci kostních lézí než jiné alternativní přípravky (⁹⁹ᵐTc značené fosfáty a deriváty kyseliny fosforité). Vzhledem k tomu, že fluorid (¹⁸F) sodný nezobrazuje sekundární rakovinové procesy přímo, ale zobrazuje důsledky nádorového onemocnění (osteogenní aktivita následující kostní léze), je fluorid (¹⁸F) sodný méně účinný na detekci raných stadií kostních metastáz, jako jsou metastázy kostní dřeně bez významného poškození kostí.
+Hardwarová fúze funkčních zobrazení fluoridu (¹⁸F) sodného pomocí PET s morfologickými
+zobrazení (např. PET/CT) může vést ke zvýšené citlivosti a specificitě v kostní diagnostice.
+Vzhledem k tomu, že neexistuje významný rozdíl ve vychytávání fluoridu (¹⁸F) sodného maligními nebo benigními lézemi, k diferenciaci mezi kostními metastázami a nemaligními kostními lézemi je výhodné použít fúzní PET/CT zobrazení, nejlépe získané z hybridního PET/CT nebo, pokud není k dispozici, tak doplňkovými diagnostickými postupy (MRI, CT).
+Po proceduře
+Doporučuje se, aby se pacienti v prvních 12 hodinách po podání injekce vyhýbali přímému kontaktu s malými dětmi a těhotnými ženami.
+Zvláštní upozornění
+Tento přípravek obsahuje 3,5 mg sodíku v jednom mililitru. To může být až 1,52 mmol (35 mg) na injekci  v závislosti  na  objemu  aplikovaného  roztoku,  což  odpovídá  1,75  %  doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Opatření s ohledem na rizika pro životní prostředí viz bod 6.6.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly provedeny žádné studie interakcí.
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy, které můžou otěhotnět
+Je-li zvažováno podání radioaktivního léčiva ženě, která může otěhotnět, vždy je nutné se přesvědčit, zda je, či není těhotná. Každá žena, u níž došlo k vynechání menstruace, by měla být považována za těhotnou, není-li prokázán opak. V případě pochybností ohledně možného těhotenství (pokud ženě vynechala menstruace nebo má menstruaci velmi nepravidelnou), by měla být pacientce nabídnuta možnost použití alternativní metody nezahrnující ionizační záření (pokud je k dispozici).
+
+
+
+3/8
+
+Těhotenství
+Použití fluoridu (¹⁸F) sodného v těhotenství je kvůli radiační zátěži plodu kontraindikováno (viz bod 4.3).
+
+Kojení
+Před podáním radiofarmak kojící matce je třeba zvážit možnost odložení podání radionuklidu na dobu, až matka přestane kojit, a také zvážit volbu nejvhodnějšího radiofarmaka s ohledem na vylučování aktivity do mateřského mléka. Jestliže je podání považováno za nutné, kojení by se mělo přerušit na dobu 12 hodin a odstříkané mléko by se mělo znehodnotit.
+Je doporučeno vyhnout se blízkému kontaktu s malými dětmi a těhotnými ženami v prvních
+12 hodinách po aplikaci.
+
+Fertilita
+Nebyly provedeny žádné studie týkající se fertility.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Fluorid (18F) sodný RadioMedic nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo
+obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Vystavení ionizujícímu záření je spojováno se vznikem rakoviny a potenciálním rozvojem dědičných vad. Vzhledem k tomu, že efektivní dávka při podání maximální doporučené aktivity 400 MBq dospělému 70kg pacientovi je 6,8 mSv, je očekávaná pravděpodobnost výskytu nežádoucích účinků velmi nízká.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+V případě podání nadměrné aktivity fluoridu (¹⁸F) sodného je třeba absorbovanou dávku pacienta pokud možno snížit zvýšením eliminace radionuklidu z těla pomocí posílené diurézy a častým močením. Může být užitečné odhadnout efektivní dávku, která byla aplikována.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: diagnostická radiofarmaka; detekce nádorů, jiná diagnostická
+radiofarmaka; ATC kód: V09IX06
+
+Mechanismus účinku
+Afinita fluoridu (¹⁸F) sodného ke kostnímu minerálu (hydroxyapatitu) způsobuje 3 až 10krát vyšší inkorporaci fluoridu (¹⁸F) sodného do kostních oblastí postižených maligními procesy s výslednou osteoblastickou aktivitou nebo osteolytickými defekty oproti nepoškozené kosti. Nekancerózní traumatické, erozivní nebo zánětlivé kostní léze jsou také spojeny se zvýšenou mírou osteogeneze.
+
+
+4/8
+
+Fluorid (¹⁸F) sodný je markerem kostních změn vzniklých v důsledku karcinomu nebo traumatického postižení. Detekuje také nemaligní oblasti fyziologicky nebo patologicky zvýšeného kostního metabolismu.
+
+Farmakodynamické účinky
+Vzhledem k chemickým koncentracím léčivé látky při diagnostických vyšetřeních nevykazuje fluorid (¹⁸F) sodný žádnou farmakodynamickou aktivitu.
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Po intravenózní aplikaci je okolo 50 % fluoridu (¹⁸F) sodného rychle inkorporováno do kostí, kde zůstává po celou dobu svého radioaktivního rozpadu. Zbytek fluoridu (¹⁸F) sodného je distribuován do extracelulární tekutiny a eliminován renální exkrecí během několika hodin. Míra vazby fluoridu (¹⁸F) sodného na plazmatické bílkoviny není známa.
+
+Vychytávání orgány
+Okolo 50 % fluoridu (¹⁸F) sodného je rychle inkorporováno do kostí, kde zůstává po celou dobu svého radioaktivního rozpadu. Za normálních okolností se fluorid (¹⁸F) sodný inkorporuje do kostí rovnoměrně  se  zvýšenou  depozicí  v axiálním  skeletu  a  v  kloubních  koncích  kostí  oproti apendikulárnímu skeletu a středu dlouhých kostí. Zvýšené ukládání se objevuje také kolem míst zlomenin a kostí postižených osteomyelitidou, fibrózní dysplazií, tuberkulózní spondylitidou, Pagetovou chorobou, hyperostózou frontalis interna, myositidou ossificans, v nádorech a v rychle rostoucích epifýzách.
+
+Eliminace
+Eliminace fluoridu (¹⁸F) sodného je převážně renální cestou. U pacientů s normální funkcí ledvin je během prvních 2 hodin po intravenózní aplikaci vyloučeno do moči 20 % fluoridu (¹⁸F) sodného.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Toxikologické studie na potkanech Sprague-Dawley prokázaly, že jednorázová intravenózní injekce fluoridu (¹⁸F) sodného v dávce 5 ml/kg nemá letální účinky. Tento přípravek není určen k pravidelné nebo opakované aplikaci.
+Studie mutagenity a studie dlouhodobé karcinogenity nebyly provedeny.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Izotonický infuzní roztok chloridu sodného, voda pro injekci.
+
+6.2  Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 12.
+
+6.3  Doba použitelnosti
+Maximálně 12 hodin od konce výroby.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25°C. Uchovávejte v souladu s požadavky platných předpisů pro uchovávání radioaktivních látek. Chraňte před mrazem.
+
+6.5  Druh obalu a obsah balení
+
+
+
+5/8
+
+Injekční lahvička pro opakovaný odběr uzavřená pryžovým uzávěrem a hliníkovou objímkou (zapertlovaná). Vnější obal - kontejner z vhodně stínícího materiálu.
+Velikost balení:
+1,0 GBq; 1,25 GBq; 1,5 GBq; 1,75 GBq; 2,0 GBq; 2,25 GBq; 2,5 GBq; 3,0 GBq; 3,5 GBq; 4,0 GBq;
+4,5 GBq; 5,0 GBq; 6,0 GBq; 7,0 GBq; 8,0 GBq; 9,0 GBq; 10,0 GBq/lahvička.
+
+Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecná upozornění
+Radiofarmaka  mohou  přijímat,  používat  a  aplikovat  pouze  oprávněné  osoby  v určených zdravotnických zařízeních. Jejich příjem, skladování, použití, přeprava a likvidace podléhá předpisům a povolením příslušných úřadů.
+Radiofarmaka se musí připravovat takovým způsobem, aby byly dodrženy jak požadavky radiační ochrany, tak farmaceutické jakosti. Mají být přijata adekvátní aseptická opatření.
+Aplikace radiofarmak představuje pro personál riziko vnějšího ozáření nebo kontaminace stopami moči, zvratků a jiných tělních tekutin. Proto je potřeba přijmout bezpečnostní opatření radiační ochrany v souladu s národními předpisy.
+Pokud je jakkoli narušena celistvost lahvičky, přípravek nesmí být použit. Podání by mělo být provedeno  takovým  způsobem,  aby  bylo  dosaženo  maximální  možné  ochrany  pacientů  a zdravotnických pracovníků. Je doporučena osobní ochrana proti β+ záření a anihilačním fotonům, a to použitím vhodného stínění zvláště při práci s lahvičkami a injekčními stříkačkami.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+RadioMedic s.r.o.
+Husinec-Řež 289, 250 68 Řež, Česká republika
+Tel.: 266 173 253
+Fax: 220 940 151
+e-mail: info@radiomedic.cz
+
+8.   REGISTRAČNÍ ČÍSLO
+
+88/396/06-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 1. 11. 2006
+Datum posledního prodloužení registrace: 22. 2. 2012
+
+10.  DATUM REVIZE TEXTU
+
+6. 12. 2018
+11.  DOZIMETRIE
+Dávková konstanta gama pro (¹⁸F) = 154 μGy.m².GBq⁻¹.h⁻¹
+Energie Egama = 511 keV
+Poločas rozpadu fluoru (¹⁸F) = 110 min
+
+
+
+6/8
+
+Následující údaje pocházejí z čtvrtého dodatku publikace ICRP 53 a z publikace ICRP 80 a jsou vypočteny dle následujících předpokladů:
+
+
+
+Orgán
+Absorbovaná dávka na jednotku podané aktivity (mGy/MBq)
+
+
+Nadledviny Močový měchýř Povrch kostí Mozek
+Prsa
+Žlučník Gastrointestinální trakt
+Žaludek Tenké střevo Tlusté střevo
+horní část spodní část
+Srdce Ledviny Játra Plíce Svaly Jícen Vaječníky Slinivka
+Červená kostní dřeň Kůže
+Slezina Varlata Brzlík Štítná žláza Děloha
+Ostatní orgány Efektivní dávka (mSv/MBq)
+Dospělí
+0,0067
+0,15
+0,094
+0,0066
+0,0029
+0,0042
+
+0,0037
+0,0058
+0,0068
+0,0051
+0,0091
+0,0042
+0,013
+0,0040
+0,0045
+0,0058
+0,0037
+0,0083
+0,0050
+0,037
+0,0041
+0,0042
+0,0061
+0,0037
+0,0049
+0,013
+0,0059
+0,017
+15 let
+0,0088
+0,19
+0,075
+0,0075
+0,0037
+0,0051
+
+0,0046
+0,0075
+0,0084
+0,0063
+0,011
+0,0051
+0,016
+0,0052
+0,0058
+0,0071
+0,0048
+0,011
+0,0061
+0,039
+0,0049
+0,0055
+0,0083
+0,0048
+0,0057
+0,015
+0,0073
+0,020
+10 let
+0,013
+0,28
+0,12
+0,011
+0,0060
+0,0082
+
+0,0079
+0,011
+0,013
+0,010
+0,017
+0,0079
+0,024
+0,0078
+0,0086
+0,011
+0,0072
+0,015
+0,0092
+0,076
+0,0077
+0,0084
+0,014
+0,0072
+0,0081
+0,024
+0,011
+0,033
+5 let
+0,020
+0,39
+0,21
+0,016
+0,0095
+0,012
+
+0,011
+0,017
+0,019
+0,015
+0,025
+0,012
+0,036
+0,012
+0,013
+0,016
+0,011
+0,022
+0,014
+0,18
+0,012
+0,013
+0,020
+0,011
+0,012
+0,035
+0,017
+0,056
+1 rok
+0,039
+0,54
+0,48
+0,025
+0,018
+0,023
+
+0,020
+0,030
+0,030
+0,026
+0,037
+0,022
+0,067
+0,023
+0,026
+0,028
+0,022
+0,036
+0,027
+0,44
+0,022
+0,026
+0,032
+0,022
+0,020
+0,050
+0,028
+0,11
+Pokud je PET s fluoridem (¹⁸F) sodným proveden v 2D režimu, efektivní dávka po aplikaci doporučené aktivity 400 MBq pro dospělého pacienta o hmotnosti 70 kg je okolo 6,8 mSv. Při aplikované aktivitě 400 MBq jsou typické radiační dávky / dávky pro kritické orgány: močový měchýř 60 mGy, povrchy kostí 38 mGy, červená dřeň 15 mGy, ledviny 5 mGy a děloha 5 mGy.
+
+Pokud je PET s fluoridem (¹⁸F) sodným proveden v 2D režimu, efektivní dávka po aplikaci doporučené aktivity 200 MBq pro dospělého pacienta o hmotnosti 70 kg je okolo 3,4 mSv. Při aplikované aktivitě 200 MBq jsou typické radiační dávky / dávky pro kritické orgány močový měchýř 30 mGy, povrchy kostí 19 mGy, červená dřeň 8 mGy, ledviny 3 mGy a děloha 3 mGy.
+
+
+
+
+
+
+
+
+7/8
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Balení musí být před použitím zkontrolováno a aktivita změřena pomocí měřiče aktivity.
+Léčivý přípravek může být naředěn injekčním 0,9% roztokem chloridu sodného.
+Odběr je třeba provádět za aseptických podmínek. Injekční lahvičky nesmí být otevřeny. Po desinfekcí zátky by měl být roztok odebrán skrz zátku za použití jednodávkové injekční stříkačky vybavené vhodným ochranným stíněním a jednorázovou sterilní jehlou nebo pomocí povoleného automatického aplikačního systému.
+Pokud je narušena celistvost injekční lahvičky, přípravek se nesmí použít, tak jako u jiných léčivých přípravků.
+Roztok je třeba před použitím vizuálně zkontrolovat. Použít se smí pouze čiré roztoky bez viditelných částic.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8/8

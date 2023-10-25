@@ -1,0 +1,649 @@
+sp. zn. sukls99761/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Ocplex 500 IU prášek a rozpouštědlo pro infuzní roztok
+Ocplex 1000 IU prášek a rozpouštědlo pro infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Ocplex je dodáván jako prášek a rozpouštědlo pro infuzní roztok, obsahující lidský protrombinový
+komplex. Ocplex obsahuje:
+
+
+Název složky
+Ocplex 500 IU Množství v jedné 20ml
+injekční lahvičce
+(IU)
+Ocplex 1000 IU Množství v jedné 40ml
+injekční lahvičce
+(IU)
+Ocplex
+Množství po rekonstituci s vodou na injekci
+(IU/ml)
+
+
+Léčivé látky
+Prothrombinum
+Factor VII coagulationis humanus
+Factor IX coagulationis humanus
+Factor X coagulationis
+Další léčivé látky
+
+280–760
+180–480
+
+500
+
+360–600
+
+560–1520
+360–960
+
+1000
+720–1200
+
+14–38
+9–24
+
+25
+18–30
+Proteinum C              260–620        520–1240           13–31
+Proteinum S              240–640        480–1280           12–32
+
+Obsah celkového proteinu v jedné injekční lahvičce je 260–820 mg (500IU lahvička) / 520–1640 mg (1000IU lahvička). Specifická aktivita přípravku je ≥ 0.6 IU/mg bílkovin, vyjádřena jako aktivita faktoru IX.
+
+Pomocné látky se známým účinkem: sodík (75–125 mg v 500IU lahvičce / 150–250 mg v 1000IU
+lahvičce);
+heparin (100–250 IU v 500IU lahvičce / 200–500 IU v 1000IU lahvičce, odpovídající 0,2–0,5 IU/IU faktoru IX).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Prášek a rozpouštědlo pro infuzní roztok. Prášek je modrobílé barvy.
+Rozpouštědlo je čirá a bezbarvá kapalina.
+
+
+
+
+1/12
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+-  Léčba krvácení a perioperativní profylaxe krvácení u získaného nedostatku koagulačních faktorů protrombinového komplexu, jako např. deficit způsobený léčbou antagonisty vitaminu K nebo při předávkování antagonisty vitaminu K, pokud je požadována rychlá korekce deficitu.
+-  Léčba krvácení a perioperativní profylaxe krvácení u kongenitálního nedostatku koagulačních faktorů II a X závislých na vitaminu K, pokud není dostupný specifický přípravek
+purifikovaného koagulačního faktoru.
+
+4.2  Dávkování a způsob podání Dávkování
+Uvedeny jsou pouze obecné směrnice dávkování. Léčba by měla být zahájena pod dohledem lékaře zkušeného v léčbě poruch koagulace. Dávkování a trvání substituční léčby závisí na závažnosti poruchy, na místě a rozsahu krvácení a na klinickém stavu pacienta.
+Podaná dávka a frekvence podávání by měla být vypočítána individuálně pro jednotlivého pacienta. Intervaly mezi jednotlivými dávkami musí být přizpůsobeny různým poločasům cirkulace jednotlivých koagulačních faktorů protrombinového komplexu (viz bod 5.2).
+Individuální požadované dávky mohou být zjištěny pouze na podkladě pravidelného stanovování individuálních plazmatických hladin potřebných koagulačních faktorů, nebo na globálních testech
+hladin protrombinového komplexu (protrombinový čas, INR), a na trvalém sledování klinického stavu
+pacienta.
+
+V případě větších chirurgických zákroků je zásadní přesné sledování účinku substituční léčby pomocí analýz koagulace (vyšetřování specifických koagulačních faktorů a/nebo globální testy hladin
+protrombinového komplexu).
+
+Krvácení a perioperativní profylaxe krvácení v průběhu léčby antagonisty vitaminu K:
+
+Dávka bude záviset na INR před léčbou a na cíleném sledování INR. Následující tabulka uvádí přibližné dávky (ml rekonstituovaného přípravku na kg tělesné hmotnosti), které jsou potřebné k normalizaci INR (≤ 1,2 a méně v průběhu jedné hodiny) při různých počátečních hladinách INR.
+
+
+Počáteční INR Přibližná dávka
+(ml Ocplex na kg
+tělesné hmotnosti)*
+2–2,5
+0.9–1,3
+2,5–3
+1,3–1,6
+3–3,5
+1,6–1,9
+> 3,5
+> 1,9
+*Jednotlivá dávka nesmí překročit 3000 IU (120 ml Ocplex)
+Korekce zhoršené hemostázy vyvolané antagonisty vitaminu K přetrvává přibližně po 6-8 hodin. Působení vitaminu K, pokud je podán současně, je však obvykle dosaženo za 4-6 hodin. Opakované podávání lidského protrombinového komplexu tedy obvykle není potřebné, pokud byl podán vitamin K.
+
+Poněvadž tato doporučení jsou empirická a zlepšení zdravotního stavu i trvání vlivu se může lišit, je sledování INR nutné.
+
+
+
+
+
+
+
+
+2/12
+
+Krvácení a perioperativní profylaxe u kongenitálního deficitu koagulačních faktorů II a X závislých na vitaminu K, pokud není dosažitelný specifický koagulační faktor:
+
+Vypočítaná dávka potřebná k léčbě je založena na empirickém zjištění, že přibližně 1 IU faktoru II nebo X na kg tělesné hmotnosti zvyšuje aktivitu plazmatického faktoru II nebo X o 0,02 IU a o 0,017 IU/ml.
+Dávka podaného specifického faktoru je vyjádřena v mezinárodních jednotkách (IU), které se vztahují k současným standardům WHO pro každý faktor. Aktivita specifického koagulačního faktoru v
+plazmě je vyjádřena buď v procentech (ve vztahu k normální plazmě), nebo v mezinárodních jednotkách (ve vztahu k mezinárodnímu standardu pro specifický koagulační faktor).
+
+Jedna mezinárodní jednotka (IU) aktivity koagulačního faktoru je ekvivalentní množství obsaženému v jednom ml normální lidské plazmy.
+Například výpočet požadované dávky faktoru X je založen na empirickém zjištění, že jedna mezinárodní jednotka (IU) faktoru X na kg tělesné hmotnosti zvyšuje aktivitu faktoru X v plazmě o 0,017 IU/ml. Požadovaná dávka je pak určena za pomoci následujícího vzorce:
+Požadovaný počet jednotek = tělesná hmotnost v kg x žádaný vzestup hladiny faktoru X (IU/ml)
+x 60,
+kde 60 (ml/kg) je převrácená hodnota odhadovaného recovery.
+
+Požadovaná dávka pro faktor II:
+Požadovaný počet jednotek = tělesná hmotnost v kg x žádaný vzestup hladiny faktoru II (IU/ml)
+x 50
+Pokud je znám individuální recovery, pak by pro výpočet měla být použita tato hodnota.
+
+Pediatrická populace
+Nejsou dostupné žádné údaje ohledně použití přípravku Ocplex u pediatrické populace.
+Způsob podání
+Ocplex se musí podávat intravenózně. Infuze by měla za použití aseptické techniky začít rychlostí
+1 ml za minutu, později pak 2-3 ml za minutu.
+
+4.3  Kontraindikace
+
+-  Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-  Známá alergie na heparin nebo heparinem indukovaná trombocytopénie v anamnéze.
+-  Pacienti s deficitem IgA se známými protilátkami proti IgA.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Sledovatelnost
+Aby se zlepšila sledovatelnost biologických léčivých přípravků, má se přehledně zaznamenat název podaného přípravku a číslo šarže.
+Je třeba požádat o radu specialistu zkušeného v léčbě poruch koagulace.
+
+U pacientů se získaným nedostatkem koagulačních faktorů závislých na vitaminu K (např. indukovaným léčbou antagonisty vitaminu K) by měl být přípravek Ocplex použit pouze tehdy, jestliže je nutná rychlá korekce hladin protrombinového komplexu, jako např. při rozsáhlejším krvácení nebo naléhavé operaci. V jiných případech obvykle dostačuje snížení dávky antagonistů vitaminu K a/nebo podání vitaminu K.
+
+
+
+
+3/12
+
+Pacienti, kteří jsou léčení antagonisty vitaminu K, mohou mít skrytý hyperkoagulabilní stav a infuze koncentrátu protrombinového komplexu jej může aktivovat.
+Pokud dojde k reakci alergického nebo anafylaktického typu, je třeba infuzi okamžitě přerušit. V případě šoku je třeba zahájit jeho standardní léčbu.
+Standardní opatření k prevenci infekcí způsobených použitím léčivých přípravků připravovaných z lidské krve nebo plazmy zahrnují selekci dárců, vyšetřování jednotlivých odběrů a plazmatických poolů na specifické ukazatele infekce a zařazení účinných výrobních postupů pro inaktivaci a
+odstranění virů.
+Přesto však, pokud jsou podávány léčivé přípravky vyrobené z lidské krve nebo plazmy, nelze zcela vyloučit možnost přenosu infekčních agens. To se týká také neznámých nebo nově objevených virů a jiných patogenů.
+
+Přijatá opatření jsou pokládána za účinná proti obaleným virům jako např. virus lidské imunodeficience (HIV), virus hepatitidy B (HBV) a virus hepatitidy C (HCV). Mohou mít omezenou účinnost proti neobaleným virům jako je virus hepatitidy A (HAV) a parvovirus B19. Infekce parvovirem B19 může být závažná pro těhotné ženy (infekce plodu) a pro jedince s imunodeficitem nebo zvýšenou erytropoézou (např. u hemolytické anémie).
+U pacientů, kteří dostávají pravidelně nebo opakovaně přípravky protrombinového komplexu vyrobené z lidské plazmy, se doporučuje vhodná vakcinace (proti hepatitidě A a B).
+Důrazně doporučujeme při každém podání přípravku Ocplex pacientovi zaznamenat název přípravku a číslo šarže, aby bylo uchováno spojení mezi pacientem a šarží přípravku.
+
+Pokud jsou pacienti s kongenitálním nebo získaným deficitem léčeni lidským protrombinovým komplexem, zvláště pokud je léčba opakována, vzniká riziko trombózy nebo diseminované
+intravaskulární koagulace. U pacientů, kteří dostávají lidský protrombinový komplex, je třeba pečlivě sledovat známky nebo příznaky intravaskulární koagulace nebo trombózy. Vzhledem k riziku
+trombembolických komplikací je nutné pečlivé sledování, jestliže podáváme lidský protrombinový komplex pacientům, kteří mají v anamnéze onemocnění věnčitých tepen srdce, pacientům s jaterním onemocněním, peri- a postoperačním pacientům, novorozencům nebo pacientům s rizikem
+trombembolických událostí nebo diseminované intravaskulární koagulace. U každého z těchto stavů je třeba pečlivě zvážit potenciální prospěšnost proti riziku těchto komplikací.
+
+Nemáme žádné údaje týkající se použití přípravku Ocplex v případech perinatálního krvácení způsobeného nedostatkem vitaminu K u novorozence.
+Tento léčivý přípravek obsahuje 75–125 mg (injekční lahvička s 500 IU) nebo 150–250 mg (injekční lahvička s 1 000 IU) sodíku v jedné injekční lahvičce, což odpovídá 3,8–6,3 % nebo 7,5–12,5 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí
+2 g sodíku.
+
+U kongenitálního nedostatku kteréhokoli na vitaminu K závislého faktoru je třeba použít specifický koagulační faktor, pokud je k dispozici.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Lidský protrombinový komplex neutralizuje vliv léčby antagonisty vitaminu K. Interakce s jinými léčivými přípravky nejsou známy.
+Interference s biologickými testy:
+Pokud jsou prováděny testy srážlivosti, které jsou citlivé na heparin, pak je třeba u pacientů, kteří
+
+
+
+
+4/12
+
+dostávají vysoké dávky lidského protrombinového komplexu, brát v úvahu heparin, který je složkou podávaného přípravku.
+
+
+4.6  Fertilita, těhotenství a kojení
+
+Údaje o bezpečnosti lidského protrombinového komplexu při podávání těhotným a kojícím ženám
+nejsou k dispozici.
+
+Studie na zvířatech jsou nedostatečné z hlediska posouzení účinku na těhotenství, embryonální a fetální vývoj, porod a postnatální vývoj. Proto by lidský protrombinový komplex neměl být během těhotenství a kojení podáván, pokud to není nezbytně nutné.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit a používat stroje nebyly provedeny.
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Substituční léčba může vést k tvorbě cirkulujících protilátek inhibujících jeden nebo více faktorů lidského protrombinového komplexu. Pokud se takovýto inhibitor vyskytne, projeví se nízkým klinickým účinkem léčby.
+
+Reakce alergického nebo anafylaktického typu se mohou vzácně vyskytnout (≥1/10 000 až <1/1 000),
+včetně závažných anafylaktických reakcí.
+Vzestup tělesné teploty byl pozorován velmi vzácně (<1/10 000).
+
+Je riziko tromboembolických episod v důsledku podání lidského protrombinového komplexu (viz bod
+4.4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/12
+
+Tabulkový seznam nežádoucích účinků přípravku Ocplex
+Níže uvedená tabulka je uspořádána podle tříd orgánových systémů podle MedDRA (třída orgánových systémů a preferovaný termín). Frekvence vycházejí z údajů z klinických studií a jsou definovány takto: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (<1/10 000) nebo není známo (z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů podle databáze
+MedDRA
+Psychiatrické poruchy Cévní poruchy
+
+
+Respirační, hrudní
+a mediastinální poruchy
+
+
+
+Celkové poruchy a reakce v místě aplikace Vyšetření
+
+
+
+
+Poranění, otravy a procedurální komplikace
+Nežádoucí účinky
+
+úzkost
+hluboká žilní trombóza trombóza
+hypertenze
+plicní embolie bronchospasmus hemoptýza epistaxe
+pálení v místě injekce
+d-dimery zvýšené
+plazmatický trombin zvýšený
+abnormální jaterní
+funkce
+krevní sraženina
+v zařízení
+Frekvence
+
+méně časté časté
+méně časté méně časté méně časté méně časté méně časté méně časté
+méně časté méně časté méně časté
+méně časté méně časté
+Níže uvedené nežádoucí účinky byly hlášeny od uvedení přípravku Ocplex na trh. Vzhledem k tomu,
+že poregistrační hlášení nežádoucích účinků je dobrovolné a vychází z populace nejisté velikosti, nelze spolehlivě odhadnout frekvenci těchto účinků.
+
+Poruchy imunitního systému
+Anafylaktický šok, hypersenzitivita
+Poruchy nervového systému
+Tremor
+Srdeční poruchy
+Srdeční zástava, tachykardie
+Cévní poruchy
+Oběhový kolaps, hypotenze
+Respirační, hrudní a mediastinální poruchy
+Dyspnoe, respirační selhání
+
+
+
+
+
+
+6/12
+
+Gastrointestinální poruchy
+Nauzea
+Poruchy kůže a podkožní tkáně
+Kopřivka, vyrážka
+Celkové poruchy a reakce v místě aplikace
+Třesavka
+
+Ocplex obsahuje heparin. Proto se může vzácně objevit náhlé, alergickou reakcí vyvolané, snížení počtu krevních destiček pod 100.000/µl nebo 50 % původního počtu (trombocytopenie typu II). U
+pacientů, kteří nebyli dříve hypersensitivní na heparin, se může snížení počtu trombocytů objevit za 6- 14 dní po zahájení léčby. U pacientů dříve hypersensitivních na heparin může nastat snížení během několika málo hodin.
+U pacientů, u kterých se objeví tato alergická reakce, se musí léčba přípravkem Ocplex okamžitě přerušit. Tito pacienti nesmí dostat v budoucnosti přípravky obsahující heparin.
+Bezpečnost ve vztahu k přenosným patogenům viz bod 4.4. Pediatrická populace
+Nejsou dostupné žádné údaje ohledně použití přípravku Ocplex u pediatrické populace.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Použití vysokých dávek lidského protrombinového komplexu bylo spojeno s případy infarktu myokardu, diseminované intravaskulární koagulace, venózní trombózy a plicní embolie.
+Proto je při předávkování zvýšené riziko vývoje trombembolických komplikací nebo diseminované intravaskulární koagulace.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antihemorhagika, krevní koagulační faktory IX, II, VII a X
+v kombinaci, ATC kód: B02BD01.
+
+Koagulační faktory II, VII, IX a X, které jsou syntetizovány v játrech za pomoci vitaminu K, se obecně nazývají protrombinový komplex.
+
+
+
+
+
+
+
+
+
+
+
+7/12
+
+Faktor VII je zymogen aktivní serinové proteázy faktoru VIIa, kterou je zahájen zevní systém srážení krve. Komplex tkáňového faktoru - faktoru VIIa aktivuje koagulační faktory X a IX, čímž se vytváří faktory IXa a Xa. Další aktivací koagulační kaskády je aktivován protrombin (faktor II), a transformován na trombin. Působením trombinu je fibrinogen přeměněn na fibrin, což má za následek vytvoření koagula. Normální vytváření trombinu je rovněž životně důležité pro funkci destiček jako
+součást primární hemostázy.
+
+Izolovaný závažný nedostatek faktoru VII vede ke snížené tvorbě trombinu, tendenci ke krvácení v důsledku zhoršené tvorby fibrinu, a zhoršení primární hemostázy. Izolovaný nedostatek faktoru IX představuje jednu z klasických hemofilií (hemofilie B). Izolovaný nedostatek faktoru II nebo faktoru X je velmi vzácný, ale v závažné formě způsobuje tendenci ke krvácení podobnou té, kterou
+pozorujeme při klasické hemofilii.
+
+K získanému nedostatku koagulačních faktorů závislých na vitaminu K dochází v průběhu léčby
+antagonisty vitaminu K. Pokud je nedostatek závažný, má za následek tendenci k těžkému krvácení, které je charakterizováno retroperitonálním krvácením nebo krvácením do mozku spíše než do svalů a kloubů. Závažná jaterní insuficience má rovněž za následek významně snížené hladiny koagulačních faktorů závislých na vitaminu K a tendenci ke klinickému krvácení, která je však komplexní v
+důsledku současně pokračující intravaskulární koagulace nízkého stupně, nízké hladiny destiček, nedostatku inhibitorů koagulace a porušené fibrinolýzy.
+
+Podání lidského protrombinového komplexu způsobí vzestup plazmatických hladin koagulačních faktorů závislých na vitaminu K a může dočasně korigovat koagulační poruchu u pacientů trpících nedostatkem jednoho nebo několika těchto faktorů.
+
+5.2  Farmakokinetické vlastnosti
+Rozmezí plazmatických poločasů je následující:
+
+
+Koagulační faktor
+Faktor II Faktor VII Faktor IX Faktor X
+poločas
+48–60 hodin
+1.5–6 hodin
+20–24 hodin
+24–48 hodin
+
+Ocplex se podává intravenózně, a proto je v organizmu okamžitě dostupný.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Kromě údajů obsažených v jiných bodech tohoto SPC nejsou žádné jiné předklinické údaje, které by byly důležité pro klinickou bezpečnost.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Prášek:
+Heparin: 0,2–0,5 IU/IU FIX Dihydrát natrium-citrátu
+Rozpouštědlo:
+Voda na injekci
+
+
+
+
+
+
+8/12
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky.
+
+6.3  Doba použitelnosti
+
+3 roky.
+
+Chemická a fyzikální stabilita po rekonstituci byla prokázána po dobu maximálně 8 hodin při +25 °C.
+Pokud z mikrobiologického hlediska způsob otevření/ rekonstituce nevylučuje nebezpečí mikrobiální kontaminace, přípravek by měl být použit okamžitě. Není-li použit okamžitě, doba a podmínky jeho uchovávání po otevření před použitím jsou v odpovědnosti uživatele.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25°C. Chraňte před mrazem.
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+
+Velikosti balení:
+
+Ocplex 500 IU
+Jedno balení obsahuje:
+
+- Prášek v injekční lahvičce (sklo třídy I) se zátkou (halobutylová pryž) a odtrhovacím víčkem (hliník)
+- 20 ml vody na injekci v injekční lahvičce (sklo třídy I nebo třídy II) se zátkou (halobutylová pryž) a
+odtrhovacím víčkem (hliník)
+- Jeden přepouštěcí set Nextaro® Ocplex 1000 IU
+Jedno balení obsahuje:
+- Prášek v injekční lahvičce (sklo třídy I) se zátkou (halobutylová pryž) a odtrhovacím víčkem (hliník)
+- 40 ml vody na injekci v injekční lahvičce (sklo třídy I) se zátkou (halobutylová pryž) a odtrhovacím víčkem (hliník)
+- Jeden přepouštěcí set Nextaro®
+
+6.6   Návod k použití přípravku, zacházení s ním a k jeho likvidaci
+Přečtěte si, prosím, celý tento návod a pečlivě podle něj postupujte!
+V průběhu níže popsaného postupu musí být dodržována aseptická technika přípravy! Při pokojové teplotě se přípravek rychle rekonstituuje.
+Roztok musí být čirý nebo lehce opalescentní. Nepoužívejte roztoky, které jsou zkalené, nebo
+obsahují usazeniny. Před podáním musí být rekonstituovaný přípravek vizuálně překontrolován, zda
+neobsahuje částice nebo není odlišně zbarven. Po rekonstituci musí být roztok okamžitě použit.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+9/12
+
+Návod pro rekonstituci:
+
+1.  Je-li to nutné, zahřát rozpouštědlo (vodu na injekci) a prášek v uzavřených injekčních lahvičkách až dosáhnou pokojovou teplotu. Tuto teplotu je třeba v průběhu rekonstituce udržovat.
+Pokud je pro zahřátí použita vodní lázeň, je třeba dbát na to, aby se voda nedostala do styku s pryžovými zátkami nebo uzávěry injekčních lahviček. Teplota vodní lázně by neměla být vyšší, než 37°C.
+2. Odstraňte odtrhovací víčka z injekčních lahviček s práškem a rozpouštědlem a vhodným způsobem dezinfikujte pryžové zátky.
+3.  Odloupněte víčko vnějšího obalu zařízení Nextaro® . Položte injekční lahvičku s rozpouštědlem na rovný povrch a pevně ji držte. Aniž byste sejmul(a) vnější obal, nasaďte zařízení Nextaro® jeho modrým koncem na horní část injekční lahvičky s rozpouštědlem a silně jej zatlačte dolů, dokud injekční lahvičku nepropíchnete (obr. 1). Při nasazování zařízením neotáčejte! Zařízení Nextaro® přidržujte na injekční lahvičce s rozpouštědlem, opatrně z něj odstraňte vnější obal a ujistěte se, že Nextaro® zůstává pevně spojeno s injekční lahvičkou s rozpouštědlem (obr. 2).
+
+
+
+
+
+
+
+
+
+
+injekční lahvička
+s rozpouštědlem
+
+
+obr. 1                           obr. 2
+injekční lahvička
+s rozpouštědlem
+
+
+
+
+
+4. Položte injekční lahvičku s práškem na pevný povrch a pevně ji držte.
+Vezměte injekční lahvičku s rozpouštědlem s připojeným zařízením Nextaro® a otočte ji dnem vzhůru. Nasaďte ji bílým koncem konektoru zařízení Nextaro® na horní část injekční lahvičky s práškem a silně zatlačte dolů, dokud injekční lahvičku nepropíchnete (obr. 3). Při nasazování zařízením neotáčejte! Rozpouštědlo přeteče samo do injekční lahvičky s práškem.
+
+
+
+injekční lahvička
+s rozpouštědlem
+
+
+
+
+
+
+
+
+
+injekční lahvička
+s práškem
+obr. 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/12
+
+5.  Zlehka otáčejte se spojenými injekčními lahvičkami, dokud se přípravek nerozpustí. Ocplex se při pokojové teplotě rozpouští rychle na bezbarvý až lehce namodralý roztok.
+Rozšroubujte zařízení Nextaro® na dvě části
+(obr. 4).
+prázdná injekční lahvička na
+
+
+Odstraňte prázdnou injekční lahvičku od rozpouštědla spolu s modrou částí zařízení Nextaro®.
+
+
+
+
+
+obr. 4
+
+
+
+
+
+injekční lahvička
+s práškem
+Pokud se prášek úplně nerozpustí, nebo se vytvoří sraženina, pak tento přípravek nepoužívejte. Návod pro infuzi:
+Z preventivních důvodů by se měl kontrolovat puls pacienta před aplikací infuze a v jejím průběhu. Pokud dojde k význačnému zvýšení frekvence tepu, je třeba snížit rychlost infuze nebo podávání přerušit.
+1. Nasaďte 20ml (pro 500 IU) nebo 40ml (pro 1000 IU) injekční stříkačku na výstup luerova zámku
+na bílé části zařízení Nextaro®. Otočte injekční lahvičku dnem vzhůru a nasajte roztok do stříkačky.
+Jakmile je roztok převeden do stříkačky, pevně stříkačku uchopte a oddělte ji od zařízení
+Nextaro®. Odstraňte Nextaro® spolu s prázdnou injekční lahvičkou.
+2. Dezinfikujte vhodným způsobem zamýšlené místo vpichu.
+3. Podávejte roztok pomalu intravenózně: zpočátku 1 ml/min, později ne rychleji než 2-3 ml/min.
+
+Vzhledem k riziku vytvoření fibrinového koagula nesmí do stříkačky vniknout žádná krev. Zařízení
+Nextaro® je vždy pouze pro jedno použití.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Octapharma (IP) SPRL Allée de la Recherche 65 1070 Anderlecht
+Belgie
+
+
+8.   REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+Ocplex 500 IU prášek a rozpouštědlo pro infuzní roztok: 75/059/07-C Ocplex 1000 IU prášek a rozpouštědlo pro infuzní roztok: 75/502/15-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Ocplex 500 IU prášek a rozpouštědlo pro infuzní roztok Datum první registrace: 7. 2. 2007
+Datum posledního prodloužení registrace: 19. 1. 2014
+
+
+
+
+
+
+
+11/12
+
+Ocplex 1000 IU prášek a rozpouštědlo pro infuzní roztok Datum první registrace: 14. 10. 2015
+Datum posledního prodloužení registrace: 2. 4. 2020
+
+10.  DATUM REVIZE TEXTU
+
+7/2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12

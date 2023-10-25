@@ -1,0 +1,312 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+
+Odborné informace (souhrn údajů o léčivu/SPC)
+
+
+Varitect® CP 25 I.U./ml infuzní roztok
+1. Označení léčivého přípravku
+Varitect® CP 25 IU / ml infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Lidský imunoglobulin proti varicella zoster
+50 mg / ml proteinů lidské plazmy (z toho nejméně 96% imunoglobulin G), s obsahem protilátek proti
+viru varicella-zoster 25 IU / ml.
+Rozdělení podtříd IgG (přibližné hodnoty):
+IgG1 62%
+IgG2 33%
+IgG3 3%
+IgG4 2%
+
+Maximální hladina imunoglobulinu A (IgA) je 2 000 mikrogramů / ml. Vyrobeno z plazmy od lidských dárců.
+Úplný seznam ostatních složek viz oddíl 6.1.
+
+3. APLIKAČNÍ FORMA
+Infuzní roztok
+Čirý nebo slabě opaleskující a bezbarvý až slabě nažloutlý roztok.
+4. KLINICKÉ ÚDAJE
+
+4.1 Oblasti použití
+Profylaxe planých neštovic po expozici u:
+-  Dětí, které nikdy neměly plané neštovice a které jsou vystaveny imunosupresivní, cytostatické nebo radiační terapii nebo trpí významnou deficitem imunity
+-  Dospělých s imunodeficiencí, kteří musí být po pečlivém vyšetření považováni za náchylné a kteří byli určitě vystaveni riziku nákazy
+-  Novorozenců narozených matkám, u nichž se objevily neštovice do 5 dnů před a 2 dny po narození dítěte
+-  Dětí, předčasně narozených matkám, které předtím neměly plané neštovice, potřebují-li zatím novorozenci stálou nemocniční péči
+-  Předčasně narozených dětí, které se narodily po méně než 28 týdnech nebo váží méně než
+1 000 g, bez ohledu na to, zda matka v minulosti měla plané neštovice či nikoli.
+
+Adjuvantní léčba pacientů s virem varicella zoster, zejména u pacientů s imunodeficitem a rizikem
+generalizace varicella zoster.
+
+4.2 Dávkování a způsob použití
+Dávkování
+
+1
+
+Prevence proti planým neštovicím
+1 ml (25 IU) na kg tělesné hmotnosti. V případě opakované expozice, např. při kontaktu v domácnosti se preferují vyšší dávky. K prevenci po expozici by měl být přípravek Varitect CP použit co nejdříve, nejpozději do 96 hodin po expozici.
+
+Léčba herpes zoster
+1–2 ml (25–50 IU) na kg tělesné hmotnosti s dalším podáním v závislosti na klinickém průběhu.
+Děti a mladiství
+Dávkování u dětí a dospívajících (0-18 let) se neliší od dávkování u dospělých, protože dávka pro každou indikaci je uvedena v závislosti na tělesné hmotnosti a je upravena podle klinického výsledku výše zmíněných onemocnění.
+
+Porucha funkce jater
+Neexistují žádné důkazy, které by naznačovaly úpravu dávky.
+
+Porucha funkce ledvin
+Žádná úprava dávky, pokud to není klinicky opodstatněné, viz bod 4.4.
+Starší pacienti
+Žádná úprava dávky, pokud to není klinicky opodstatněné, viz bod 4.4.
+
+Druh aplikace
+Intravenózní podání
+Varitect CP se podává intravenózně rychlostí infuze zpočátku 0,1 ml/kg tělesné hmotnosti/hod. dobu 10 minut. Viz bod 4.4. V případě vedlejších účinků musí být buď snížena rychlost infuze nebo musí být infuze zastavena. Pokud je lék dobře snášen, může se rychlost infuze postupně zvyšovat až
+maximálně na 1 ml/kg tělesné hmotnosti/hod a ponechat takto po zbytek infuze.
+4.3 Kontraindikace
+- Přecitlivělost na léčivou látku (imunoglobulin proti varicella zoster) nebo na kteroukoli další složku uvedenou v bodě 6.1.
+- Pacienti se selektivním nedostatkem IgA, u kterých se vytvořily protilátky proti IgA, protože podání přípravku obsahujícího IgA může vést k anafylaxi.
+
+4.4 Zvláštní upozornění a preventivní opatření
+
+Sledovatelnost
+Za účelem zlepšení sledovatelnosti biologických léčivých přípravků by měl být jasně dokumentován obchodní název a číslo šarže použitého léčivého přípravku.
+Preventivní opatření pro aplikaci
+Možným komplikacím se lze často vyhnout, pokud je zajištěno, že pacienti:
+-  nebudou přecitlivělí na lidský imunoglobulin, čehož se dosáhne počátečním pomalým podáváním přípravku (0,1 ml / kg / hod.).
+-  jsou po celou dobu infuze pečlivě sledováni a jsou sledovány příznaky nežádoucích účinků.
+Zejména u pacientů, kteří dostávají lidský imunoglobulin poprvé, kteří byli dříve léčeni jiným imunoglobulinovým přípravkem nebo u nichž došlo k delší přestávce v léčbě, musí být sledovány možné vedlejší účinky po celou dobu trvání první infuze a jednu hodinu po první infuzi v nemocnici. Všichni ostatní pacienti by měli být sledováni po dobu nejméně 20 minut po podání.
+
+2
+
+U všech pacientů vyžaduje léčba imunoglobuliny:
+-  adekvátní hydrataci před zahájením infuze imunoglobulinu,
+-  sledování vylučování moči,
+-  sledování hladiny kreatininu v séru,
+-  vyvarování se současného užívání kličkových diuretik (viz bod 4.5).
+
+Pokud se objeví jakýkoli nežádoucí účinek, musí být buď snížena rychlost infuze, nebo musí být infuze
+zastavena. Nezbytná léčba bude záviset na typu a závažnosti vedlejšího účinku.
+Infuzní reakce
+Určité nežádoucí účinky (např. bolest hlavy, pocit horka, zimnice, bolest svalů, sípání, bušení srdce, bolesti v bederní oblasti, nevolnost, nízký krevní tlak) mohou souviset s rychlostí infuze. Rychlost infuze doporučená v části Dávkování musí být přísně dodržována a pacienti musí být sledováni po celou dobu infuze a musí být sledování s ohledem na příznaky nežádoucích účinků. Určité nežádoucí účinky se mohou vyskytovat častěji u:
+-  pacientů, kteří dostávají lidský imunoglobulin poprvé, nebo ve vzácných případech při změně
+imunoglobulinového preparátu nebo po dlouhé přestávce v léčbě
+-  pacientů s neléčenou infekcí nebo chronickým zánětem.
+Přecitlivělost
+Hypersenzitivní reakce jsou vzácné. Anafylaktický šok se může objevit u pacientů:
+-  s nedetekovatelným IgA, kteří mají anti-IgA protilátky
+-  kteří tolerovali předchozí léčbu lidským imunoglobulinem.
+
+V případě šoku je třeba dodržovat současná standardní lékařská opatření k léčbě šoku.
+
+Tromboembolie
+Existují klinické důkazy o souvislosti mezi podáním intravenózních imunoglobulinů (IVIg) a tromboembolickými příhodami, jako je infarkt myokardu, iktus (cévní mozková příhoda), plicní embolie a trombóza hlubokých žil. Předpokládá se, že vysoký příjem imunoglobulinů vede u
+rizikových pacientů k relativnímu zvýšení viskozity krve. Opatrnost je nutná při předepisování a infuzi imunoglobulinů u následujících osob: obézní pacienti a pacienti s rizikovými faktory pro trombotické příhody jako je pokročilý věk, hypertenze, diabetes mellitus, známé cévní onemocnění nebo
+trombotické epizody, pacienti se získanými nebo dědičnými trombofilními poruchami, pacienti s delší fyzickou nehybností, pacienti s těžkou hypovolemií a pacienti s nemocemi, které zvyšují viskozitu krve.
+
+U pacientů, u nichž existuje riziko tromboembolických nežádoucích účinků, by měly být přípravky IVIg podávány s nejnižší možnou rychlostí infuze a v nejnižší možné dávce.
+
+Akutní selhání ledvin
+U pacientů léčených intravenózně imunoglobulinem (IVIg) byly popsány případy akutního selhání
+ledvin. Ve většině případů byly identifikovány rizikové faktory, např. předchozí ledvinová
+nedostatečnost, diabetes mellitus, hypovolemie, nadváha, doprovodná nefrotoxická medikace nebo věk nad 65 let.
+
+Před a po infuzi IVIg je třeba zkontrolovat v odpovídajících intervalech ledvinové parametry, zejména u pacientů s potenciálně zvýšeným rizikem vzniku akutního selhání ledvin. Pacientům, u nichž je riziko akutního selhání ledvin, by měly být přípravky IVIG podávány nejnižší možnou rychlostí infuze a v nejnižší možné dávce.
+V případě narušení funkce ledvin je třeba zvážit vysazení imunoglobulinového přípravku.
+3
+
+Zprávy o poruchách ledvinových funkcí a akutním selhání ledvin sice byly spojeny s užíváním mnoha schválených přípravků IVIg obsahujících různé další složky, jako je sacharóza, glukóza a maltóza, ale podíl přípravků obsahujících sacharózu jako stabilizátor byl nepřiměřeně vysoký. U rizikových pacientů lze zvážit užívání imunoglobulinových přípravků bez výše uvedených ostatních složek.
+Varitect CP neobsahuje sacharózu, glukózu ani maltózu.
+
+Syndrom aseptické meningitidy (AMS)
+Při léčbě intravenózními imunoglobuliny (přípravky IVIg) byly hlášeny případy aseptické meningitidy (AMS). Syndrom se obvykle objevuje během několika málo hodin až 2 dny po zahájení léčby IVIg.
+Vyšetření mozkomíšního moku vykazuje pleocytózu, jedná se až o několik tisíc buněk na mm3,
+převážně granulocytární řady, a vykazuje rovněž zvýšenou hladinu proteinů až na několik set mg/dl. AMS se může vyskytovat častěji při léčbě vysokými dávkami IVIg (2 g/kg).
+U pacientů, kteří vykazují tyto příznaky, by mělo být provedeno pečlivé neurologické vyšetření, včetně vyšetření mozkomíšního moku, aby se vyloučily jiné příčiny meningitidy.
+Přerušení léčby IVIg vedlo během několika dní k remisi AMS bez následného poškození.
+
+Hemolytická anémie
+Intravenózní imunoglobuliny (přípravky IVIg) mohou obsahovat protilátky proti krevním skupinám, které působí jako hemolysiny a mohou způsobit, že erytrocyty budou in vivo naplněny
+imunoglobulinem, což způsobí pozitivní přímou antiglobulinovou reakci (Coombsův test) a zřídka i hemolýzu. V důsledku léčby IVIg se může vyvinout hemolytická anémie v důsledku zvýšené sekvestrace erytrocytů. Pacienti léčení IVIg by měli být sledováni s ohledem na klinické symptomy a příznaky hemolýzy (viz bod 4.8).
+
+Neutropenie / leukopenie
+Po léčbě IVIg byly hlášeny případy přechodného snížení počtu neutrofilů a / nebo epizody neutropenie, někdy závažné. Tyto příznaky se obvykle objevují během několika hodin nebo dnů po podání IVIg a spontánně odezní během 7 až 14 dnů.
+Akutní plicní nedostatečnost spojená s transfuzí (TRALI)
+U pacientů léčených IVIg byly hlášeny případy akutního nekardiogenního plicního edému [akutní plicní nedostatečnost spojená s transfuzí (Transfusion Related Acute Lung Injury (TRALI)]. TRALI se vyznačuje těžkou hypoxií, dyspnoí, tachypnoí, cyanózou, horečkou a hypotenzí. Příznaky TRALI se
+obvykle vyvinou během transfuze nebo do 6 hodin po ní, často během 1–2 hodin. Pacienti léčení IVIg by proto měli být v souvislosti s těmito příznaky sledováni a pokud se v plicích objeví nežádoucí účinky, infuze IVIg by měla být okamžitě zastavena. TRALI je potenciálně život ohrožující stav, který vyžaduje okamžitou intenzivní péči.
+Účinek na sérologické testy
+Po užití imunoglobulinu může dočasné zvýšení různých pasivně přenášených protilátek v krvi pacienta vést k falešně pozitivním výsledkům sérologických vyšetření.
+Pasivní přenos protilátek proti antigenům erytrocytů, např. A, B a D může zfalšovat některá sérologická vyšetření na protilátky erytrocytů, jako je přímý antiglobulinový test (DAT, přímý Coombsův test).
+
+Přenosné patogeny
+Mezi standardní opatření k prevenci infekcí při podávání léků vyrobených z lidské krve nebo plazmy patří výběr dárců, testování jednotlivých darů a vzorků plazmy na specifické markery infekce a
+zavedení účinných výrobních kroků k inaktivaci / eliminaci virů. Nelze však zcela vyloučit možnost přenosu patogenů při podávání léčivých přípravků vyrobených z lidské krve nebo plazmy. To platí také pro dříve neznámé nebo nově se objevující viry a jiné patogeny.
+
+4
+
+Přijatá opatření se považují za účinná proti obaleným virům, jako je virus lidské imunodeficience (HIV), virus hepatitidy B (HBV) a hepatitidy C (HCV), a proti neobalenému viru hepatitidy A (HAV).
+Eliminace /inaktivace viru může mít omezenou hodnotu u neobalených virů, jako je Parvovirus B19.
+Klinické zkušenosti potvrdily, že viry hepatitidy A nebo parvoviry B19 nejsou přenášeny
+imunoglobuliny, a rovněž se předpokládá, že hladina protilátek významně přispívá k bezpečnosti proti virům.
+
+4.5 Interakce s jinými léky a jiné formy interakce
+Živé oslabené očkovací látky
+Podávání imunoglobulinu může snížit účinnost živých oslabených vakcín, jako jsou vakcíny proti spalničkám, zarděnkám, příušnicím a neštovicím, po dobu nejméně 6 týdnů až 3 měsíců. Po podání tohoto léčivého přípravku musí být před očkováním živými oslabenými vakcínami dodržena čekací doba 3 měsíce. U očkování proti spalničkám může toto snížení účinnosti trvat až rok. U pacientů, kteří dostávají vakcínu proti spalničkám, by proto měl být kontrolován stav protilátek.
+
+Kličková diuretika
+Vyvarujte se současného podávání kličkových diuretik.
+Děti a mladiství
+Lze předpokládat, že k interakcím uvedeným u dospělých může docházet také u dětí a mladistvých.
+4.6 Plodnost, těhotenství a kojení Těhotenství
+Bezpečnost tohoto léčivého přípravku pro použití během těhotenství nebyla v kontrolovaných klinických studiích zkoumána, proto by měl být podáván těhotným ženám a kojícím matkám pouze
+po pečlivém zvážení poměru rizika a prospěchu. Bylo prokázáno, že intravenózní imunoglobulinové přípravky procházejí placentou, zejména ve třetím trimestru. Klinické zkušenosti s imunoglobuliny ukazují, že nelze očekávat žádné škodlivé účinky na průběh těhotenství, plod nebo novorozence.
+Kojení
+Imunoglobuliny přecházejí do mateřského mléka. Neočekávají se žádné nepříznivé účinky na kojení
+novorozenců / kojenců.
+
+Plodnost
+Klinické zkušenosti s imunoglobuliny nenaznačují žádné škodlivé účinky na plodnost.
+
+4.7 Účinky na řízení dopravních prostředků a schopnost obsluhy strojů
+Varitect CP může mít malý vliv na schopnost řídit a obsluhovat stroje. Pacienti, u nichž se během léčby vyskytnou nežádoucí účinky, by měli před řízením nebo obsluhou strojů počkat, až odezní.
+
+4.8 Vedlejší účinky
+Shrnutí bezpečnostního profilu
+Mezi nežádoucí účinky způsobené normálními imunoglobuliny (seřazené podle klesající frekvence) patří (viz také bod 4.4):
+-  Zimnice, bolest hlavy, závratě, horečka, zvracení, alergické reakce, nevolnost, bolesti kloubů, nízký krevní tlak a mírná bolest dolní části zad
+-  reverzibilní hemolytické reakce; zejména u pacientů s krevními skupinami A, B a AB a (ve vzácných případech) hemolytická anémie s povinností transfuze
+-  (ve vzácných případech) náhlý pokles krevního tlaku a v ojedinělých případech anafylaktický šok, i když u pacientů po předchozím použití nebyla prokázána přecitlivělost
+
+5
+
+-  (ve vzácných případech) dočasné kožní reakce (včetně kožního lupus erythematodes – frekvence není známa)
+-  (ve velmi vzácných případech) tromboembolické reakce, jako je srdeční infarkt (infarkt myokardu), cévní mozková příhoda, krevní sraženiny v cévách v plicích (plicní embolie), krevní sraženiny v žíle (trombóza hlubokých žil)
+-  Případy reverzibilní aseptické meningitidy
+-  Případy zvýšení hladiny kreatininu v séru a/nebo akutní selhání ledvin
+-  Případy akutní plicní nedostatečnosti spojené s transfuzí (TRALI). Informace o riziku infekce: viz bod 4.4
+
+Tabulkový seznam nežádoucích účinků
+Tabulka uvedená výše odpovídá klasifikaci systémových orgánů MedDRA (SOC) a úroveň upřednostňovaných pojmů (PT). Frekvence byly stanoveny podle následující konvence: velmi časté (≥ 1/10); časté (≥ 1/100, <1/10); méně časté (≥ 1/1 000 až <1/100); vzácné (≥ 1/10 000 až <1/1 000);
+velmi vzácné (<1/10 000); není známo (frekvenci nelze z dostupných údajů určit).
+
+Nežádoucí účinky z klinických studií:
+V programu klinických studií (2 klinické studie, jednorázová dávka) s imunoglobulinovými přípravky
+proti varicella-zoster (VZVIg) od společnosti Biotest nebyly v souvislosti s produkty VZVIg od společnosti Biotest zjištěny žádné závažné nežádoucí účinky. Byla identifikována pouze jedna nezávažná nežádoucí příhoda (mírná bolest hlavy). Nelze přitom vyloučit příčinnou souvislost s produktem.
+
+Vedlejší účinky, které se objevily po uvedení na trh (frekvence není známá a nelze ji odhadnout z
+dostupných údajů):
+
+
+Třídy systémových orgánů dle databáze
+MedDRA
+Onemocnění imunitního systému Onemocnění nervového systému Cévní onemocnění
+Onemocnění gastrointestinálního traktu Onemocnění kůže a podkožní tkáně
+Obecná onemocnění a reakce v místě aplikace
+Vedlejší účinky
+
+Přecitlivělost Bolest hlavy Hypotenze Nevolnost
+Erytém, pruritus, vyrážka Zimnice, horečka
+Děti a mladiství
+Lze předpokládat, že k vedlejším účinkům uvedeným u dospělých může docházet také u dětí a mladistvých.
+
+Hlášení při podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9 Předávkování
+
+
+6
+
+Předávkování může vést k přetížení tekutinami a hyperviskozitě, zejména u rizikových pacientů, včetně starších osob nebo pacientů se sníženou funkcí srdce nebo ledvin.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: imunitní séra a imunoglobuliny, specifické imunoglobuliny, ATC kód:
+J06BB03.
+Přípravek Varitect CP obsahuje hlavně imunoglobulin G (IgG) s vysokým titrem protilátek proti virům
+varicella-zoster. Jeho distribuce podtřídy IgG téměř odpovídá distribuci lidské plazmy. Děti a mladiství
+Lze předpokládat, že u dětí a mladistvých platí stejné farmakodynamické vlastnosti.
+
+5.2 Farmakokinetické vlastnosti
+Varitect CP je v krevním řečišti příjemce po intravenózním podání biologicky okamžitě zcela dostupný. Distribuuje se relativně rychle mezi plazmu a extravaskulární tekutinu. Po 3–5 dnech je dosaženo rovnováhy mezi intra- a extravaskulárním kompartmentem.
+Varitect CP má eliminační poločas přibližně 22,5 dne. Tento poločas se může u jednotlivých pacientů lišit, zejména u pacientů se syndromem primární imunodeficience. IgG a komplex IgG se štěpí v buňkách retikuloendoteliálního systému.
+5.3 Preklinické údaje vztahující se k bezpečnosti
+Imunoglobuliny jsou normální součástí lidského těla. Studie chronické toxicity a embryo-fetální toxicity nejsou z důvodu indukce a interference s protilátkami proveditelné. Klinické zkušenosti neposkytly žádné náznaky karcinogenních nebo mutagenních účinků. Experimentální studie na zvířatech nejsou považovány za nutné.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam ostatních složek
+Glycin, voda pro injekční účely.
+
+6.2 Nekompatibilita
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky nebo s jinými produkty IVIg.
+
+6.3 Doba použitelnosti
+3 roky.
+Z mikrobiologického hlediska by měl být infuzní roztok použit okamžitě. Pokud není použit okamžitě,
+je za dobu a podmínky uchovávání odpovědný uživatel.
+
+6.4 Zvláštní preventivní opatření pro uchování
+Uchovávejte v lednici (2 °C–8 °C).
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem. Chraňte před mrazem.
+
+6.5 Druh a obsah nádoby
+Roztok připravený k použití pro intravenózní infuzi v lahvičkách (sklo typu II) se zátkou (bromobutyl) a ochranným víčkem (hliník).
+Balení obsahuje 1 lahvičku s 5 ml (125 IU), 20 ml (500 IU) nebo 50 ml (1250 IU) roztoku.
+
+
+
+7
+
+6.6 Zvláštní preventivní opatření pro likvidaci přípravku a další pokyny pro manipulaci
+Přípravek by se měl před použitím zahřát na pokojovou nebo tělesnou teplotu. Před použitím by měla být provedena vizuální kontrola léku: roztok musí být čirý nebo mírně opaleskující. Roztoky, které jsou zakaleny nebo mají nějaké usazeniny, se nesmí používat! Veškerý nepoužitý přípravek nebo odpadní materiál musí být zlikvidován v souladu s příslušnými požadavky.
+
+7. DRŽITEL LICENCE
+Biotest Pharma GmbH
+Landsteinerstraße 5
+63303 Dreieich
+Německo
+Tel .: +49 6103 801-0
+Fax: +49 6103 801-150
+E-mail: mail@biotest.com
+
+8. ČÍSLO LICENCE
+203a / 95
+9. DATUM UDĚLENÍ LICENCE/PRODLOUŽENÍ LICENCE
+20/12/1999, 20/12/2004, 20/12/2009
+
+10. STAV INFORMACÍ
+08/2019
+
+11. OMEZENÍ PRODEJE
+Pouze na předpis.
+
+12. ZEMĚ PŮVODU KREVNÍ PLAZMY
+Německo, Kanada, Rakousko, Švýcarsko, Česká republika, Maďarsko, USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8

@@ -1,0 +1,518 @@
+Sp. zn. sukls258622/2019, sukls258623/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1.  NÁZEV PŘÍPRAVKU
+
+Silodosin MSN 4 mg tvrdé tobolky
+Silodosin MSN 8 mg tvrdé tobolky
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Silodosin MSN 4 mg tvrdé tobolky
+Jedna tvrdá tobolka obsahuje silodosinum 4 mg.
+
+Silodosin MSN 8 mg tvrdé tobolky
+Jedna tvrdá tobolka obsahuje silodosinum 8 mg. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Tvrdá tobolka.
+
+Silodosin MSN 4 mg tvrdé tobolky
+Bílý až téměř bílý prášek naplněný do tvrdých želatinových tobolek velikosti „3“ s bílým neprůhledným tělem s potiskem „4 mg“ a bílým neprůhledným víčkem s potiskem „M“ černým inkoustem.
+
+Silodosin MSN 8 mg tvrdé tobolky
+Bílý až téměř bílý prášek naplněný do tvrdých želatinových tobolek velikosti „1“ s bílým neprůhledným tělem s potiskem „8 mg“ a bílým neprůhledným víčkem s potiskem „M“ černým inkoustem.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Léčba známek a příznaků benigní hyperplazie prostaty (BHP) u dospělých mužů.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Doporučená dávka je jedna tobolka silodosinu o síle 8 mg denně. Pro zvláštní skupiny pacientů se doporučuje jedna tobolka silodosinu o síle 4 mg denně (viz níže).
+
+Starší pacienti
+U starších pacientů není třeba upravovat dávku (viz bod 5.2).
+
+Porucha funkce ledvin
+U pacientů s lehkou poruchou funkce ledvin (Clcr ≥ 50 až ≤ 80 ml/min) není třeba upravovat dávku. U pacientů se středně těžkou poruchou funkce ledvin (Clcr ≥ 30 až < 50 ml/min) se doporučuje zahájit léčbu dávkou 4 mg jednou denně, která se může po jednom týdnu léčby zvýšit na 8 mg jednou denně, v závislosti na individuální odpovědi pacienta na léčbu. U pacientů s těžkou poruchou funkce ledvin (Clcr
+< 30 ml/min) se použití tohoto přípravku nedoporučuje (viz body 4.4 a 5.2).
+
+Porucha funkce jater
+U pacientů s lehkou až středně těžkou poruchou funkce jater není třeba upravovat dávku. Jelikož nejsou k dispozici žádné údaje, používání přípravku u pacientů s těžkou poruchou funkce jater se nedoporučuje (viz body 4.4 a 5.2).
+
+Pediatrická populace
+Neexistuje žádné relevantní použití silodosinu u pediatrické populace v indikaci benigní hyperplazie
+prostaty (BHP).
+
+Způsob podání Perorální podání.
+Tobolka se má užívat s jídlem, pokud možno ve stejnou denní dobu. Tobolka se nemá rozlamovat ani
+kousat, ale má se polykat celá a, pokud možno, má se zapít sklenicí vody.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Peroperační syndrom plovoucí duhovky (Intraoperative Floppy Iris Syndrome, IFIS)
+IFIS (varianta syndromu malé zornice) byl pozorován během operace katarakty u některých pacientů užívajících v době operace α1-blokátory nebo dříve léčených α1-blokátory. To může vést k nárůstu procedurálních komplikací během operace.
+U pacientů s plánovanou operací katarakty se zahájení léčby silodosinem nedoporučuje. Doporučuje se přerušení léčby α1-blokátory 1–2 týdny před operací katarakty, ale přínos a doba trvání přerušení léčby před operací katarakty nebyly dosud stanoveny.
+Během preoperačního hodnocení má oční chirurg spolu s oftalmologickým týmem vzít v úvahu, zda pacient s plánovanou operací katarakty je nebo byl léčen silodosinem, aby byla zajištěna vhodná opatření k zvládnutí IFIS během operace.
+
+Ortostatické účinky
+Četnost výskytu ortostatických účinků souvisejících se silodosinem je velmi nízká. U jednotlivých pacientů se však může vyskytnout snížení krevního tlaku, vedoucí ve vzácných případech až k synkopě. Při prvních příznacích ortostatické hypotenze (například posturální závratě) si má pacient sednout nebo lehnout, dokud příznaky nevymizí. U pacientů s ortostatickou hypotenzí se léčba silodosinem nedoporučuje.
+
+Porucha funkce ledvin
+U pacientů s těžkou poruchou funkce ledvin (Clcr < 30 ml/min) se používání silodosinu nedoporučuje (viz
+body 4.2 a 5.2).
+
+Porucha funkce jater
+Používání silodosinu u pacientů s těžkou poruchou funkce jater se nedoporučuje vzhledem k chybějícím údajům (viz body 4.2 a 5.2).
+
+Karcinom prostaty
+Jelikož BHP a karcinom prostaty mohou mít stejné příznaky a mohou se vyskytovat současně, mají být pacienti s podezřením na BHP před zahájením terapie silodosinem nejprve vyšetřeni, aby se vyloučila přítomnost karcinomu prostaty. Před léčbou a potom v pravidelných intervalech se má provádět vyšetření per rectum a, je-li to nutné, má se určit hladina prostatického specifického antigenu (PSA).
+
+Léčba silodosinem vede ke snížení objemu spermatu během orgasmu, což může mít dočasný nepříznivý vliv na mužskou fertilitu. Po přerušení léčby silodosinem tento účinek vymizí (viz bod 4.8).
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Silodosin je ve velké míře metabolizován, zejména prostřednictvím CYP3A4, alkoholdehydrogenázy a UGT2B7. Silodosin je také substrát glykoproteinu-P. Látky inhibující (jako je ketokonazol, itrakonazol, ritonavir nebo cyklosporin) nebo indukující (jako je rifampicin, barbituráty, karbamazepin, fenytoin) tyto enzymy a transportéry mohou ovlivnit plazmatické koncentrace silodosinu a jeho aktivního metabolitu.
+
+Alfa-blokátory
+K dispozici nejsou adekvátní údaje o bezpečném užívání silodosinu ve spojení s dalšími antagonisty α-adrenergních receptorů. Proto se současné používání s jinými antagonisty α-adrenergních receptorů nedoporučuje.
+
+Inhibitory CYP3A4
+Ve studii interakcí byly při současném podání silného inhibitoru CYP3A4 (ketokonazol v dávce 400 mg) pozorovány 3,7krát vyšší maximální plazmatické koncentrace silodosinu a 3,1krát vyšší expozice silodosinu (tj. AUC). Současné užívání se silnými inhibitory CYP3A4 (například s ketokonazolem, itrakonazolem, ritonavirem nebo cyklosporinem) se nedoporučuje.
+Při současném podávání silodosinu se středně silným inhibitorem CYP3A4, například s diltiazemem, byla pozorována zvýšená hodnota AUC silodosinu přibližně o 30 %, ale hodnota Cmax a biologický poločas nebyly ovlivněny. Tato změna není klinicky relevantní a není třeba upravovat dávku.
+
+Inhibitory PDE-5
+Mezi silodosinem a maximálními dávkami sildenafilu nebo tadalafilu byly pozorovány minimální farmakodynamické interakce. V placebem kontrolované studii s 24 jedinci ve věku 45-78 let užívajícími silodosin nevyvolalo podle vyhodnocení ortostatických testů (ve stoje oproti vleže) současné podávání 100 mg sildenafilu nebo 20 mg tadalafilu klinicky významné průměrné snížení hodnot systolického nebo diastolického krevního tlaku. U jedinců starších 65 let bylo průměrné snížení krevního tlaku v různých časech mezi 5 a 15 mmHg (systolický tlak) a 0 a 10 mmHg (diastolický tlak). Pozitivní ortostatické testy byly pouze nepatrně častější během současného podávání; avšak neobjevila se žádná symptomatická ortostáza ani závrať. Pacienti užívající inhibitory PDE-5 současně se silodosinem mají být sledováni pro možné nežádoucí účinky.
+
+Antihypertenziva
+V programu klinických studií byla řada pacientů současně léčena antihypertenzní terapií (většinou s přípravky působícími na renin-angiotenzinový systém, beta-blokátory, antagonisty kalcia a diuretiky) bez nárůstu četnosti výskytu ortostatické hypotenze. Při zahájení současné léčby antihypertenzivy je však nutná opatrnost a pacienty je třeba sledovat ohledně výskytu možných nežádoucích účinků.
+
+Digoxin
+Ustálené hladiny digoxinu, substrátu glykoproteinu-P, nebyly významně ovlivněny při současném podávání 8 mg silodosinu jednou denně. Dávku není třeba upravovat.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství a kojení
+Neuplatňuje se, neboť silodosin je určen pouze pro muže.
+
+Fertilita
+V klinických studiích byl během léčby silodosinem pozorován výskyt ejakulace se sníženým objemem spermatu nebo bez spermatu (viz bod 4.8), a to z důvodu farmakodynamických vlastností silodosinu. Před zahájením léčby je nutné pacienta informovat, že k tomuto účinku může docházet, a že může mít dočasný nepříznivý vliv na mužskou fertilitu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Silodosin má malý nebo má mírný vliv na schopnost řídit nebo obsluhovat stroje. Pacienti však mají být informováni o možném výskytu příznaků souvisejících s posturální hypotenzí (například závrať) a mají být upozorněni na to, aby byli při řízení a obsluhování strojů opatrní, než zjistí, jak na ně silodosin působí.
+
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Bezpečnost silodosinu byla hodnocena ve čtyřech dvojitě zaslepených kontrolovaných klinických studiích fáze II-III (s 931 pacienty užívajícími 8 mg silodosinu jednou denně a 733 pacienty užívajícími placebo) a ve dvou dlouhodobých otevřených navazujících studiích. Celkem 1 581 pacientů užívalo silodosin v dávce 8 mg jednou denně, včetně 961 pacientů užívajících přípravek po dobu alespoň 6 měsíců a 384 pacientů užívajících přípravek po dobu 1 roku.
+
+Nejčastěji hlášenými nežádoucími účinky spojenými se silodosinem v placebem kontrolovaných studiích a během dlouhodobého užívání byly poruchy ejakulace jako retrográdní ejakulace a anejakulace (snížený objem ejakulátu nebo absence ejakulátu), s četností výskytu 23 %. Tento účinek může dočasně ovlivnit mužskou fertilitu. Tento účinek je reverzibilní během několika dnů po přerušení léčby (viz bod 4.4).
+
+Tabulkový seznam nežádoucích účinků
+V tabulce níže jsou uvedeny nežádoucí účinky hlášené ze všech klinických studií a
+z postmarketingového sledování z celého světa, u kterých existuje náležitá kauzální souvislost s užíváním přípravku, a které jsou seřazeny podle tříd orgánových systémů a četnosti výskytu podle databáze MedDRA: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1 /100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit). V každé skupině četností jsou pozorované nežádoucí účinky seřazeny podle klesající závažnosti.
+
+
+
+Velmi časté
+Časté
+Méně časté
+Vzácné
+Velmi vzácné
+Není známo
+
+
+
+
+
+Poruchy imunitního systému
+
+
+Psychiatrické
+poruchy
+Poruchy nervového systému
+Srdeční poruchy
+Cévní poruchy
+Respirační, hrudní a mediastinální poruchy
+Gastrointestinální
+poruchy
+
+Poruchy jater a
+žlučových cest
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+
+
+
+závrať
+
+
+ortostatická
+hypotenze
+nasální
+kongesce
+
+průjem
+
+
+
+
+
+
+
+
+snížení libida
+
+
+
+
+tachykardie¹ hypotenze¹
+
+
+
+nauzea, sucho v ústech abnormální funkční jaterní testy¹ kožní vyrážka¹, pruritus¹, kopřivka¹,
+polékový kožní výsev¹
+
+
+
+
+
+
+
+
+
+
+synkopa, ztráta vědomí¹ palpitace¹
+alergické reakce zahrnující otok obličeje, zduřelý jazyk a faryngeální edém¹
+
+
+
+Poruchy reprodukčního systému a prsu
+
+
+Poranění, otravy a procedurální komplikace
+poruchy ejakulace, včetně retrográdní ejakulace, anejakula- ce
+
+
+
+erektilní
+dysfunkce
+
+
+
+
+
+
+
+peroperační syndrom plovoucí duhovky
+1 nežádoucí účinky ze spontánních hlášení z postmarketingového sledování z celého světa (četnosti vypočteny z příhod hlášených v klinických studiích fáze I-IV a z neintervenčních studií).
+
+Popis vybraných nežádoucích účinků
+
+Ortostatická hypotenze
+Incidence ortostatické hypotenze v klinických studiích kontrolovaných placebem byla 1,2 % u silodosinu a 1 % u placeba. Ortostatická hypotenze může někdy vést k synkopě (viz bod 4.4).
+
+Peroperační syndrom plovoucí duhovky (IFIS)
+IFIS byl hlášen během operací katarakty (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Silodosin byl hodnocen u zdravých mužů v dávkách až 48 mg/den. Nežádoucím účinkem limitujícím dávku byla posturální hypotenze. Krátce po požití se může zvážit vyvolání zvracení nebo výplach žaludku. Jestliže předávkování silodosinem vede k hypotenzi, je třeba poskytnout kardiovaskulární podporu. Dialýza by pravděpodobně neměla velký přínos, protože silodosin se ve velké míře (96,6 %) váže na proteiny.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Urologika, antagonisté alfa-adrenergních receptorů, ATC kód: G04CA04.
+
+Mechanismus účinku
+Silodosin je vysoce selektivní pro α1A-adrenergní receptory, které jsou u člověka primárně lokalizovány v prostatě, bázi a krčku močového měchýře, pouzdru prostaty a prostatické části močové trubice.
+Blokáda α1A-adrenergních receptorů způsobuje, že se hladké svalstvo v těchto tkáních relaxuje, čímž dojde ke snížení subvezikální rezistence dolních močových cest, a to bez ovlivnění kontraktility hladké svaloviny detrusoru močového měchýře. To má za následek zmírnění jak jímacích symptomů (iritační příznaky), tak mikčních symptomů (obstrukční příznaky) (Lower urinary tract symptoms, LUTS, symptomy dolních močových cest), souvisejících s benigní hyperplazií prostaty.
+Silodosin má podstatně nižší afinitu pro α1B-adrenergní receptory, které jsou primárně lokalizovány v kardiovaskulárním systému. In vitro bylo prokázáno, že poměr vazby silodosinu na receptory α1A:α1B je extrémně vysoký (162:1).
+
+Klinická účinnost a bezpečnost
+V dvojitě zaslepené, placebem kontrolované klinické studii fáze II vyhledávající velikost dávky, provedené s 4 nebo 8 mg silodosinu podávaného jednou denně bylo pozorováno výraznější zlepšení skóre indexu symptomů podle Americké urologické asociace (American Urologic Association, AUA) u 8 mg silodosinu (-6,8 ± 5,8; n = 90; p = 0,0018) a u 4 mg silodosinu (-5,7 ± 5,5; n = 88; p = 0,0355) v
+porovnání s placebem (-4,0 ± 5,5; n = 83).
+
+Přes 800 pacientů se středně těžkými až těžkými příznaky BHP (International Prostate Symptom Score, IPSS, mezinárodní skóre prostatických symptomů, počáteční hodnota ≥ 13) užívalo 8 mg silodosinu jednou denně ve dvou placebem kontrolovaných klinických studiích fáze III provedených ve Spojených státech amerických a v jedné placebem kontrolované a aktivně kontrolované klinické studii provedené v Evropě. Ve všech studiích byli pacienti bez odpovědi na placebo během 4týdenní úvodní fáze s placebem randomizováni do skupiny užívající studijní léčbu. Ve všech studiích došlo u pacientů užívajících silodosin podle vyhodnocení po 12 týdnech léčby k výraznějšímu zmírnění jímacích (iritačních) a mikčních (obstrukčních) příznaků BHP v porovnání s placebem. Údaje pozorované u populací Intent-to- treat (populace všech randomizovaných pacientů) v každé z těchto studií jsou uvedeny níže:
+
+
+
+
+
+Léčebná
+
+
+Počet
+IPSS
+Celkové skóre
+IPSS
+Iritační příznaky
+IPSS
+Obstrukční příznaky
+
+Studie
+skupina
+pacien-
+Počáteční
+Změna od Rozdíl
+Změna od Rozdíl
+Změna od Rozdíl
+
+tů
+hodnota
+počáteční (95% CI)
+počáteční
+(95% CI)
+počáteční (95% CI)
+
+
+
+
+US-1
+
+
+Silodosin
+Placebo Silodosin
+
+
+233
+228
+233
+(± SD)
+
+22 ± 5
+21 ± 5
+21 ± 5
+hodnoty
+
+-6,5
+-3,6
+-6,3
+oproti placebu
+-2,8* (-3,9;
+-1,7)
+-2,9*
+hodnoty
+
+-2,3
+-1,4
+-2,4
+oproti placebu
+-0,9* (-1,4;
+-0,4)
+-1,0*
+hodnoty
+
+-4,2
+-2,2
+-3,9
+oproti placebu
+-1,9* (-2,6;
+-1,2)
+-1,8*
+
+US-2
+Placebo
+229
+21 ± 5
+-3,4
+(-4,0; -1,8) -1,3
+(-1,5;
+-0,6)
+-2,1
+(-2,5;
+-1,1)
+
+Silodosin
+371
+19 ± 4
+-7,0
+-2,3*
+-2,5
+-0,7°
+-4,5
+-1,7*
+
+Europe
+Tamsulosin 376
+19 ± 4
+-6,7
+(-3,2;
+-1,4)
+-2,4
+(-1,1;
+-0,2)
+-4,2
+(-2,2;
+-1,1)
+
+Placebo
+185
+19 ± 4
+-4,7
+-1,8
+-2,9
+
+-2.0* (-2,9;
+-1,1)
+* p < 0,001 oproti placebu; ° p = 0,002 oproti placebu
+-0.6°
+(-1,1;
+-0,2)
+-1.4* (-2,0;
+-0,8)
+
+V aktivně kontrolované klinické studii provedené v Evropě bylo prokázáno, že dávka 8 mg silodosinu jednou denně je srovnatelná s dávkou 0,4 mg tamsulosinu jednou denně: upravený průměrný rozdíl (95% CI) v celkovém skóre IPSS mezi terapiemi byl u populace podle protokolu (per-protocol) 0,4 (-0,4 až 1,1). Výskyt odpovědi (tj. zlepšení celkového skóre IPSS o alespoň 25 %) byla výrazně vyšší ve skupině se silodosinem (68%) a s tamsulosinem (65%) v porovnání se skupinou s placebem (53%).
+
+V dlouhodobé otevřené navazující fázi těchto kontrolovaných studií, ve kterých pacienti užívali silodosin po dobu až jednoho roku, bylo zlepšení příznaků díky léčbě silodosinem ve 12. týdnu léčby zachováno po dobu 1 roku.
+
+V klinickém hodnocení fáze IV prováděném v Evropě u pacientů s průměrným celkovým vstupním skóre IPSS 18,9 bodu odpovídalo 77,1 % pacientů na silodosin (posuzováno jako změna v IPSS celkovém skóre od výchozího stavu alespoň o 25 %). Přibližně polovina pacientů hlásila zlepšení nejvíce obtěžujících příznaků udávaných na začátku (tj. noční močení, časté močení, oslabení proudu při močení, naléhavá potřeba močit, přerušované močení a neúplné vyprazdňování), jak bylo vyhodnoceno pomocí dotazníku inkontinence ICS-male.
+
+V žádné klinické studii provedené se silodosinem nebylo pozorováno významné snížení krevního tlaku měřeného vleže.
+
+Denní dávka 8 mg a 24 mg silodosinu neměla ve srovnání s placebem statisticky významný vliv na intervaly EKG nebo srdeční repolarizaci.
+
+Pediatrická populace
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií se silodosinem u všech podskupin pediatrické populace s BHP (informace o použití u dětí viz bod 4.2).
+
+5.2  Farmakokinetické vlastnosti
+
+Farmakokinetika silodosinu a jeho hlavních metabolitů byla hodnocena u dospělých mužů s BHP i bez BHP po jednorázovém a opakovaném podání dávky v rozmezí od 0,1 mg do 48 mg denně.
+Farmakokinetika silodosinu má v tomto rozmezí dávek lineární průběh.
+Expozice hlavnímu metabolitu v plazmě, silodosin-glukuronidu (KMD-3213G), je v ustáleném stavu asi 3krát vyšší než expozice silodosinu. Silodosin a jeho glukuronid dosáhnou ustálené hladiny po 3, resp. po 5 dnech léčby.
+
+Absorpce
+Silodosin podaný perorálně se dobře absorbuje a absorpce je přímo úměrná dávce. Absolutní biologická dostupnost je přibližně 32 %.
+In vitro studie s buňkami Caco-2 ukázala, že silodosin je substrát glykoproteinu-P. Jídlo snižuje hodnotu
+Cmax o přibližně 30 %, zvyšuje čas tmax o přibližně 1 hodinu a má malý vliv na hodnotu AUC.
+
+U zdravých mužů v cílové věkové skupině (n = 16, průměrný věk 55 ± 8 let) byly po perorální dávce 8 mg jednou denně podávané bezprostředně po snídani po dobu 7 dnů získány následující farmakokinetické parametry: Cmax 87 ± 51 ng/ml (SD), tmax 2,5 hodiny (rozmezí 1,0–3,0), AUC 433 ± 286 ng • h/ml.
+
+Distribuce
+Silodosin má distribuční objem 0,81 l/kg a je z 96,6 % vázán na plazmatické proteiny. Nedistribuuje se do krevních buněk.
+Vazba silodosin-glukuronidu na proteiny je 91 %.
+
+Biotransformace
+Silodosin je ve velké míře metabolizován prostřednictvím glukuronidace (UGT2B7), alkoholdehydrogenázy, aldehyddehydrogenázy a oxidativních cest, hlavně prostřednictvím CYP3A4. Hlavní metabolit v plazmě, glukuronidový konjugát silodosinu (KMD-3213G), který byl in vitro prokázán jako aktivní, má prodloužený biologický poločas (přibližně 24 hodin) a dosahuje asi čtyřikrát vyšší plazmatické koncentrace než silodosin. In vitro údaje naznačují, že silodosin nemá potenciál inhibovat nebo indukovat enzymatické systémy cytochromu P450.
+
+Eliminace
+Po perorálním podání ¹⁴C-značeného silodosinu byla radioaktivita po 7 dnech vyloučena přibližně z 33,5 % v moči a 54,9 % ve stolici. Tělesná clearance silodosinu byla přibližně 0,28 l/h/kg. Silodosin se vylučuje hlavně ve formě metabolitů, velmi malé množství nezměněného přípravku se vylučuje močí. Terminální poločas parentní látky a jeho glukuronidu je přibližně 11, resp. 18 hodin.
+
+Zvláštní skupiny pacientů
+
+Starší pacienti
+Expozice silodosinu a jeho hlavním metabolitům se s věkem výrazně nemění, a to ani v případě pacientů ve věku nad 75 let.
+
+Pediatrická populace
+Silodosin nebyl hodnocen u pacientů mladších než 18 let.
+
+Porucha funkce jater
+Ve studii s jednorázovou dávkou se farmakokinetika silodosinu u devíti pacientů se středně těžkou poruchou funkce jater (Childovo-Pughovo skóre 7 až 9) v porovnání s devíti zdravými jedinci nezměnila. Výsledky této studie je potřeba interpretovat opatrně, jelikož tito pacienti měli normální biochemické hodnoty, ukazující normální metabolickou funkci, a do skupiny pacientů se středně těžkou poruchou funkce jater byli zařazeni na základě ascitu a jaterní encefalopatie.
+Farmakokinetika silodosinu nebyla studována u pacientů s těžkou poruchou funkce jater.
+
+Porucha funkce ledvin
+Ve studii s jednorázovou dávkou vedla expozice silodosinu (volnému) u jedinců s lehkou (n = 8) a středně těžkou poruchou funkce ledvin (n = 8) v průměru ke zvýšení hodnot Cmax (1,6krát) a AUC (1,7krát) v porovnání s jedinci s normální funkcí ledvin (n = 8). U jedinců s těžkou poruchou funkce ledvin (n = 5) se zvýšila expozice 2,2krát pro hodnotu Cmax a 3,7krát pro hodnotu AUC. Expozice hlavním metabolitům, silodosin-glukuronidu a KMD-3293 byla rovněž zvýšená.
+
+Sledování plazmatické hladiny v klinické studii fáze III ukázalo, že hladiny celkového silodosinu se po 4 týdnech léčby u pacientů s lehkou poruchou funkce ledvin (n = 70) v porovnání s pacienty s normální funkcí ledvin (n = 155) nezměnily, zatímco u pacientů se středně těžkou poruchou funkce ledvin (n = 7) se v průměru zdvojnásobily.
+Zhodnocení údajů o bezpečnosti u pacientů zařazených ve všech klinických studiích nenaznačuje, že by lehká porucha funkce ledvin (n = 487) znamenala další bezpečnostní riziko během léčby silodosinem (například zvýšený výskyt závratě nebo ortostatické hypotenze) v porovnání s pacienty s normální funkcí ledvin (n = 955). U pacientů s lehkou poruchou funkce ledvin proto není třeba upravovat dávku. Vzhledem k omezeným zkušenostem s pacienty se středně těžkou poruchou funkce ledvin (n = 35) se doporučuje nižší počáteční dávka 4 mg. U pacientů s těžkou poruchou funkce ledvin se podávání silodosinu nedoporučuje.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, hodnocení kancerogenního, mutagenního a teratogenního potenciálu neodhalily žádné zvláštní riziko pro člověka. Účinky na zvířata (ovlivnění štítné žlázy u hlodavců) byly pozorovány pouze po expozicích výrazně převyšujících maximální expozici u člověka, což svědčí o malém významu při klinickém použití.
+U samců potkanů se pozorovala snížená fertilita od úrovně expozice přibližně dvakrát vyšší, než je expozice při maximální doporučené dávce u člověka. Pozorovaný účinek byl reverzibilní.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+
+Obsah tobolky Mannitol
+Předbobtnalý kukuřičný škrob Magnesium-stearát Polysorbát 80
+Metakřemičitan hořečnato-hlinitý
+Butylhydroxytoluen
+
+Tobolka
+Želatina
+Oxid titaničitý (E 171)
+
+Inkoust
+Šelak
+Propylenglykol
+Koncentrovaný roztok amoniaku Černý oxid železitý (E 172) Hydroxid draselný
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+2 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+
+Tobolky jsou dodávány v bílých neprůhledných blistrech z PVC/PE.EVOH.PE/Aclar-Al, balených v krabičkách.
+
+Balení po 5, 10, 20, 30, 50, 90, 100 tobolkách. Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+MSN Labs Europe Limited KW20A, Corradino Park Paola PLA 3000
+Malta
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+Silodosin MSN 4 mg tvrdé tobolky: Reg. č.: 87/341/19-C Silodosin MSN 8 mg tvrdé tobolky: Reg. č.: 87/342/19-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+8. 6. 2021
+
+10.  DATUM REVIZE TEXTU
+
+8. 6. 2021

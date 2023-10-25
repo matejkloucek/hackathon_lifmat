@@ -1,0 +1,632 @@
+sp.zn.sukls128676/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+MEDROL 4 mg tablety MEDROL 16 mg tablety
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tableta obsahuje methylprednisolonum 4 mg , 16 mg. Pomocné látky se známým účinkem: monohydrát laktosy.
+Úplný seznam pomocných látek viz 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+tablety
+Medrol 4 mg:
+Bílé, elipsovité tablety na jedné straně se čtvrtící rýhou, na druhé s vyraženým nápisem Medrol 4.
+
+Medrol 16 mg:
+Bílé, elipsovité tablety na jedné straně se čtvrtící rýhou, na druhé s nápisem Medrol 16.
+
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Přípravek MEDROL tablety je indikován u těchto onemocnění:
+
+ENDOKRINNÍ PORUCHY
+
+Primární nebo sekundární insuficience kůry nadledvin. (V těchto indikacích jsou lékem první volby hydrokortizon nebo kortizon. V případě potřeby lze syntetická analoga glukokortikoidů použít v kombinaci s mineralokortikoidy. V raném dětství je přívod mineralokortikoidů zvláště důležitý).
+•  kongenitální hyperplazie nadledvin
+•  nehnisavá thyreoiditida
+•  hyperkalcemie doprovázející zhoubné nádory
+
+OSTATNÍ PORUCHY
+-  Revmatické poruchy
+
+Jako doplňková terapie pro krátkodobé podávání (pro převedení pacienta přes akutní fázi nebo
+exacerbaci) při těchto onemocněních:
+•  psoriatická artritida
+•  revmatoidní artritida včetně juvenilní revmatoidní artritidy (u vybraných případů může být nutná udržovací terapie nízkými dávkami)
+•  ankylozující spondylitida
+
+•  akutní a subakutní bursitida
+•  akutní nespecifická tendosynovitida
+•  akutní dnavá artritida
+•  posttraumatická osteoartritida
+•  synovitida při osteoartritidě
+•  epikondylitida
+-  Systémová onemocnění pojiva
+
+Při exacerbaci nebo jako udržovací terapie ve vybraných případech u:
+•  systémového lupus erythematodes
+•  systémové dermatomyositidy (polymyositidy)
+•  akutní revmatické karditidy
+•  revmatické polymyalgie velkobuněčné arteritidy
+
+-  Kožní onemocnění
+
+•  pemfigus
+•  bulózní herpetiformní dermatitida
+•  těžké případy erythema multiforme (Stevens-Johnsonův syndrom)
+•  exfoliativní dermatitida
+•  mycosis fungoides
+•  těžká forma psoriázy
+•  těžká forma seborrhoické dermatitidy
+-  Alergické stavy
+
+Léčba závažných nebo invalidizujících alergických stavů, nezvládnutelných běžnými terapeutickými
+postupy:
+•  sezónní nebo celoroční alergická rhinitida
+•  sérová nemoc
+•  bronchiální astma
+•  hypersenzitivní reakce na léky
+•  kontaktní dermatitida
+•  atopická dermatitida
+-  Oční onemocnění
+
+Těžké akutní a chronické alergické a zánětlivé procesy postihující oko a oční adnexa, jako jsou
+například:
+•  marginální vřed rohovky alergické etiologie
+•  herpes zoster ophthalmicus
+•  záněty předního segmentu oka
+•  difúzní zadní uveitida a chorioiditida
+•  sympatická oftalmie
+•  alergická konjunktivitida
+•  keratitida
+•  chorioretinitida
+•  zánět zrakového nervu
+•  iritida a iridocyklitida
+
+-  Respirační onemocnění
+
+•  symptomatická sarkoidóza
+•  Löfflerův syndrom nezvládnutelný jiným způsobem
+•  berylióza
+•  fulminantní nebo diseminovaná plicní tuberkulóza, při současném podávání vhodných
+antituberkulotik
+•  aspirační pneumonie
+-  Hematologická onemocnění
+
+•  idiopatická trombocytopenická purpura u dospělých
+•  sekundární trombocytopenie u dospělých
+•  získaná (autoimunitní) hemolytická anémie
+•  erythroblastopenie (erythroblastová anémie)
+•  kongenitální (erythroidní) hypoplastická anémie
+
+-  Onkologická onemocnění
+K paliativní terapii u:
+•  leukémií a lymfomů u dospělých
+•  akutních leukémií v dětství
+-  Edematózní stavy
+
+K navození diurézy nebo remise proteinurie u nefrotického syndromu bez urémie, u idiopatického nefrotického syndromu nebo u nefrotického syndromu při lupus erythematodes.
+
+-  Gastrointestinální onemocnění
+
+K převedení pacienta přes kritické období choroby u:
+•  ulcerózní kolitidy
+•  Crohnovy choroby
+-  Nervový systém
+
+•  akutní exacerbace roztroušené sklerózy
+•  terapie mozkového edému při mozkových nádorech
+-  Ostatní
+
+Tuberkulózní meningitidas přítomnou nebo hrozící blokádou arachnoideálního prostoru, současně s podáváním vhodné antituberkulózní chemoterapie.
+Trichinóza s neurologickým postižením nebo s postižením myokardu.
+
+-  Transplantace orgánů
+
+4.2  Dávkování a způsob podání
+Úvodní dávka tablet methylprednisolonu se různí podle indikace. V méně závažných případech bývají obvykle dostačující nižší dávky, zatímco u určitých pacientů je nutné podávat vyšší počáteční dávky. Mezi klinické jednotky, při nichž mohou být indikovány vysoké dávky, patří edém mozku (200-1000 mg/den), orgánové transplantace (až 7 mg/kg/den) a roztroušená skleróza. Při léčbě akutních exacerbací
+
+roztroušené sklerózy se ukázalo být účinné perorální podávání methylprednisolonu v dávce 500 mg/den po dobu 5 dnů nebo 1000 mg/den po dobu 3 dnů. Pokud se po uplynutí přiměřené doby neobjeví uspokojivá klinická odpověď na léčbu, podávání tablet methylprednisolonu by mělo být ukončeno a pacient převeden na jinou vhodnou terapii. Při ukončení dlouhodobé léčby se doporučuje lék vysazovat postupně, nikoliv najednou.
+Po dosažení příznivé odezvy na léčbu je třeba stanovit vhodnou udržovací dávku postupným snižováním úvodní dávky po malých množstvích a ve vhodných časových intervalech, dokud není dosaženo nejnižší dávky, která ještě vyvolá adekvátní klinickou odpověď. Pro správné stanovení dávky je zapotřebí neustálé sledování pacienta. Mezi situace, ve kterých může být zapotřebí dávkování upravit, patří změny klinického stavu v důsledku remise nebo exacerbace choroby, individuální reakce pacienta na podávání léku a vliv vystavení nemocného zátěžovým situacím, které nesouvisí přímo s léčeným onemocněním. V naposled jmenované situaci může být zapotřebí dávky methylprednisolonu zvýšit na dobu danou stavem pacienta.
+
+Je třeba zdůraznit, že požadavky jednotlivých pacientů na dávkování se různí a dávky musí být
+stanoveny individuálně podle charakteru léčeného onemocnění a podle reakce pacienta na terapii.
+
+LÉČBA KAŽDÝ DRUHÝ DEN
+Léčba každý druhý den je režimem podávání kortikosteroidů, při kterém je dvojnásobek obvyklé denní dávky kortikosteroidů podáván každý druhý den v ranních hodinách. Účelem tohoto způsobu léčby je poskytnout nemocným na dlouhodobé léčbě příznivé účinky kortikoidů a současně minimalizovat některé nežádoucí projevy, včetně potlačení osy hypofýza-nadledviny, vývoje cushingoidního habitu, příznaků z vysazení kortikoidů a zpomalení růstu u dětí.
+4.3  Kontraindikace
+
+Přípravek Medrol je kontraindikován u pacientů se:
+•  systémovými mykózami
+•  hypersenzitivitou na léčivou látku nebo kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+Podávání živých nebo živých oslabených vakcín je kontraindikováno u pacientů užívajících imunosupresívní dávky kortikosteroidů.
+4.4   Zvláštní upozornění a opatření pro použití Imunosupresivní účinky/zvýšená náchylnost k infekcím.
+Kortikosteroidy mohou zvyšovat náchylnost k infekcím, mohou maskovat některé projevy infekčních onemocnění a během jejich podávání může dojít k rozvoji nových infekcí. Během léčby kortikosteroidy se může projevit snížení odolnosti organismu vůči infekcím a neschopnost lokalizovat infekční procesy. Infekce v jakékoliv lokalizaci, způsobené různými patogeny, včetně virových, bakteriálních, plísňových, protozoálních nebo helmintických organizmů, mohou vzniknout ve spojitosti s užíváním samotných kortikosteroidů i jejich kombinací s jinými imunosupresivními látkami ovlivňujícími buněčnou imunitu, humorální imunitu nebo funkci neutrofilů. Tyto infekce mohou být mírné, závažné a někdy i smrtelné. Se stoupající dávkou kortikosteroidů stoupá i výskyt infekčních komplikací.
+
+Pacienti, kteří užívají léky potlačující imunitní odpověď organismu, jsou více náchylní k infekcím než zdraví jedinci. Varicela a spalničky mohou mít například závažnější nebo dokonce i fatální průběh u neimunních dětí nebo dospělých, kteří užívají kortikosteroidy.
+
+Podávání živých nebo živých oslabených vakcín je kontraindikováno u pacientů užívajících imunosupresivní dávky kortikosteroidů. Usmrcené nebo inaktivované vakcíny mohou být pacientům užívajícím imunosupresivní dávky kortikosteroidů podány, ale odpověď na tuto vakcinaci může být
+
+snížena.  Indikované  imunizační  postupy  mohou  být  provedeny  u  pacientů  užívajících
+neimunosupresivní dávky kortikosteroidů.
+
+Použití kortikosteroidů u nemocných s aktivní tuberkulózou by mělo být vyhrazeno pro případy fulminantní  nebo  diseminované  tuberkulózypři  současné  léčbě  vhodnými  antituberkulózními chemoterapeutiky. Pokud jsou kortikosteroidy indikovány u pacientů s latentní tuberkulózou nebo s tuberkulinovou reaktivitou, je nezbytné pečlivé sledování nemocných, jelikož může dojít k reaktivaci onemocnění.  V  průběhu  dlouhodobé  léčby  kortikosteroidy  by  měli  tito  pacienti  dostávat chemoprofylaxi.
+
+U pacientů užívajících kortikosteroidy byl zaznamenán výskyt Kaposiho sarkomu. Přerušení užívání
+kortikosteroidův takových případech může vést ke klinické remisi.
+
+Role kortikosteroidů při septickém šoku je kontroverzní. Rané studie hlásily jak pozitivní, tak škodlivé účinky. V poslední době se ukázalo, že by doplňkové užívání kortikosteroidů mohlo být prospěšné pacientům s diagnostikovaným septickým šokem, kteří trpí insuficiencí nadledvin. Přesto se doplňkové používání kortikosteroidů v běžné praxi při septickém šoku nedoporučuje. Systematické přezkoumání nevedlo k průkazu prospěšnosti krátkodobého podávání vysokých dávek kortikosteroidů a nepodpořilo tedy jejich užívání. Meta-analýzy a přezkoumání závěrů nicméně naznačují, že delší užívání (5-11 dní) nízkých dávek kortikosteroidů může snížit úmrtnost, především u jedinců s vasopresor-dependentním septickým šokem.
+
+Imunitní systém
+
+Mohou se vyskytnout alergické reakce (např. angioedém).
+Vzhledem k tomu, že u pacientů užívajících kortikosteroidní léčbu byly pozorovány vzácné případy kožních a anafylaktických a pseudoanafylaktických reakcí, je třeba před podáním léčby provést příslušná preventivní opatření, zvláště pokud anamnéza pacienta obsahuje alergii na přípravek.
+
+Tento léčivý přípravek obsahuje laktózu získanou z kravského mléka. U pacientů se známou nebo suspektní hypersenzitivitou na bílkovinu kravského mléka, jeho složky nebo jiné mléčné výrobky, je třeba postupovat opatrně, protože přípravek může obsahovat stopová množství mléčných složek.
+Endokrinní systém
+
+Pacientům léčeným kortikosteroidy, kteří jsou vystaveni neobvyklému stresu, se doporučuje zvýšené dávkování kortikosteroidů s rychlým nástupem účinku před, během i po stresové situaci.
+
+Farmakologické dávky dlouhodobě podávaných kortikosteroidů mohou vést k supresi hypotalamo- hypofyzární-adrenální (HPA) osy (sekundární adrenokortikální insuficience). Stupeň a trvání vzniklé adrenokortikální insuficience se mezi pacienty liší. Závisí na dávce, frekvenci, času podání a celkovém trvání glukokortikoidové léčby. Tento nežádoucí účinek lze minimalizovat použitím léčby každý druhý den (viz bod 4.2 Dávkování a způsob podání, léčba každý druhý den).
+
+V případě, že je glukokortikoidová léčba vysazena náhle, může dojít k rozvoji akutní adrenální
+insuficience s fatálním následkem.
+
+Vznik polékové insuficience kůry nadledvin lze minimalizovat postupným snižováním dávek. Tento typ relativní insuficience může po přerušení terapie přetrvávat po dobu několika měsíců. Pokud je pacient vystaven jakékoliv zátěži během tohoto období, měla by být opět zavedena hormonální terapie.
+
+V případě náhlého vysazení glukokortikoidů se může vyskytnout „syndrom z vysazení“ steroidů, který zdánlivě nesouvisí s adrenokortikální nedostatečností. Tento syndrom zahrnuje symptomy jako: anorexie, nevolnost, zvracení, letargie, bolest hlavy, horečka, bolest kloubů, deskvamace, myalgie,
+
+ztráta hmotnosti a/nebo hypotenze. Tyto projevy jsou spíše považovány za následek náhlé změny v koncentraci glukokortikoidů než za důsledek jejich nízkých hladin.
+Jelikož glukokortikoidy mohou vyvolat nebo zhoršit Cushingův syndrom, neměly by být podávány pacientům, kteří trpí Cushingovou chorobou.
+Kortikosteroidy vykazují silnější účinky u pacientů s hypotyreózou.
+
+Metabolismus a výživa
+
+Kortikosteroidy, včetně methylprednisolonu, mohou zvyšovat hladinu glukosy v krvi, zhoršit již existující diabetes a predisponovat pacienty dlouhodobě léčené kortikosteroidy ke vzniku diabetes mellitus.
+Psychiatrické poruchy
+
+Během léčby glukokortikoidy se mohou objevit psychické poruchy jako například euforie, nespavost, změny nálad, změny osobnosti až těžká deprese či manifestace pravé psychózy. Kortikosteroidy mohou rovněž prohloubit již existující emoční labilitu a zesílit psychotické sklony.
+
+Při užívání systémových steroidů se mohou objevit potencionálně závažné psychiatrické nežádoucí účinky (viz bod 4.8 Nežádoucí účinky, Psychiatrické nežádoucí účinky). Symptomy se obvykle objeví během několika dnů či týdnů od začátku léčby. Většina účinků vymizí se snížením dávky nebo s vysazením léku, nicméně v některých případech je zapotřebí specifická léčba. Psychologické nežádoucí účinky byly hlášeny po vysazení kortikosteroidů, četnost není známa. V případě výskytu psychologických symptomů by pacienti/ošetřovatelé měli vyhledat lékařskou pomoc, a to především při podezření na depresivní stavy nálad nebo sebevražedné myšlenky. Pacienti/ošetřovatelé by měli být připraveni na možnost výskytu psychiatrických poruch během léčby nebo okamžitě po snížení dávky/vysazení systémových steroidů.
+Nervový systém
+Kortikosteroidy by měly být užívány s opatrností u pacientů se záchvatovitými onemocněními. Kortikosteroidy by měly být užívány s opatrností u pacientů s myastenií gravis (viz prohlášení o
+myopatii v části Muskuloskeletální poruchy).
+
+Ačkoliv se v rámci kontrolovaných klinických studií ukázalo, že kortikosteroidy jsou účinné v urychlení léčby akutní exacerbace roztroušené sklerózy, tyto studie neukazují, že kortikosteroidy ovlivňují celkový výsledek nebo přirozenou anamnézu onemocnění. Studie ukazují, že k dosažení výrazného účinku jsou potřeba relativně vysoké dávky kortikosteroidů (viz bod 4.2 Dávkování a způsob podání).
+
+U pacientů užívajících kortikosteroidy, typicky při dlouhodobém podávání vysokých dávek, byly
+hlášeny případy epidurální lipomatózy.
+
+Oční poruchy
+
+U systémového i lokálního použití kortikosteroidů může být hlášena porucha zraku. Pokud se u pacienta objeví symptomy, jako je rozmazané vidění nebo jiné poruchy zraku, má být zváženo odeslání pacienta k očnímu lékaři za účelem vyšetření možných příčin, mezi které patří katarakta, glaukom nebo vzácná onemocnění, např. centrální serózní chorioretinopatie (CSCR), která byla hlášena po systémovém i lokálním použití kortikosteroidů. Centrální serózní chorioretinopatie může vést k odchlípení sítnice.
+
+Dlouhodobé užívání kortikosteroidů může způsobit vznik zadních subkapsulárních katarakt, nukleárních katarakt (především u dětí), exoftalmu nebo zvýšení nitroočního tlaku, které může vyústit v glaukom s
+
+možným poškozením zrakových nervů. U pacientů užívajících glukokortikoidy je zvýšené riziko
+výskytu sekundárních plísňových a virových infekcí oka.
+
+Kortikosteroidy by měly být používány s opatrností u pacientů trpících herpes simplex ophthalmicus z důvodu možné perforace rohovky.
+Srdeční poruchy
+
+Nežádoucí účinky glukokortikoidů na kardiovaskulární systém, jako je dyslipidémie a hypertenze, mohou léčené pacienty s existujícími kardiovaskulárními rizikovými faktory učinit ještě náchylnějšími pro další kardiovaskulární onemocnění, pokud jsou tyto kortikoidy podávány ve vysokých dávkách a dlouhodobě. Proto se u těchto pacientů doporučuje používat kortikosteroidy uváženě a doporučuje se věnovat pozornost riziku změny a v případě potřeby dalšímu monitorování srdeční činnosti.
+Nízké dávky a podávání obden mohou snížit výskyt komplikací u léčby kortikosteroidy.
+
+Systémové kortikosteroidy by měly být v případech městnavého srdečního selhání užívány s opatrností
+a pouze pokud je to nezbytně nutné.
+
+Cévní poruchy
+
+Při podávání kortikosteroidů byl hlášen výskyt trombózy, včetně venózní tromboembolie. Proto se kortikosteroidy musí používat s opatrností u pacientů, kteří trpí tromboembolickými poruchami nebo k nim mohou mít predispozici.
+Kortikosteroidy by měly být používány s opatrností u pacientů s hypertenzí.
+
+Gastrointestinální poruchy
+
+Vysoké dávky kortikosteroidů mohou vyvolat akutní zánět slinivky břišní.
+
+Neexistuje jednoznačný všeobecně přijímaný názor na to, zda jsou kortikosteroidy samy o sobě zodpovědné za vznik peptických vředů během terapie. Nicméně je zřejmé, že podávání glukokortikoidů může maskovat symptomy peptického vředu, takže jeho perforace a krvácení mohou proběhnout bez výraznější bolestivosti. Léčba glukokortikoidy může maskovat zánět pobřišnice nebo jiné známky či příznaky spojené s gastrointesinálními poruchami jako je perforace, obstrukce či zánět slinivky břišní. V kombinaci  s nesteroidními  protizánětlivými  léky  (NSA)  existuje  zvýšené  riziko  rozvoje gastrointestinálních vředů.
+Kortikosteroidy je nutné podávat opatrně pacientům s nespecifickou ulcerózní kolitidou, pokud existuje riziko perforace, abscesu nebo jiné pyogenní infekce, divertikulitidy, čerstvé střevní anastomózy či aktivního nebo latentního peptického vředu.
+
+Hepatobiliární poruchy
+
+Byly hlášeny hepatobiliární poruchy, které byly ve většině případů po vysazení léčby reverzibilní. Proto je vyžadováno příslušné sledování.
+
+Muskuloskeletální poruchy
+
+Po podání vysokých dávek kortikosteroidů byly hlášeny případy akutní myopatie. Nejčastěji se tyto případy vyskytovaly u pacientů s poruchami nervosvalového přenosu (např. myasthenia gravis) nebo u pacientů souběžně užívajících anticholinergika, jako například přípravky blokující nervosvalový přenos (např. pankuronium). Tato forma akutní myopatie má generalizovanou formu, může postihovat oční a
+
+dýchací svalstvo a může vyústit v kvadruparézu. Může dojít ke zvýšení hladiny kreatinkinázy. Po
+vysazení kortikosteroidů může klinické zlepšení a zotavení vyžadovat týdny až roky.
+
+Častým, avšak nepříliš často rozpoznaným nežádoucím účinkem, který doprovází dlouhodobé podávání vysokých dávek glukokortikoidů, je osteoporóza.
+
+
+Účinky na játra a žlučové cesty
+
+Vzácně byly hlášeny poruchy jater a žlučových cest, které byly ve většině případů reverzibilní po přerušení léčby. Proto je nutné pacienta vhodným způsobem sledovat.
+
+Poruchy ledvin a močových cest
+
+U pacientů se systémovou sklerózou je nutná obezřetnost z důvodů zvýšené incidence sklerodermické renální krize pozorované u kortikoidů, včetně methylprednisolonu.
+
+Kortikosteroidy by měly být používány s opatrností u pacientů s renální insuficiencí.
+
+V případě renálního selhání není potřeba upravovat dávky. Methylprednisolon je hemodialyzovatelný.
+Vyšetření
+
+Průměrné a vysoké dávky hydrokortizonu nebo kortizonu mohou vyvolat vzestup krevního tlaku, retenci solí a tekutin a zvýšené vylučování draslíku. Výskyt těchto účinků je méně pravděpodobný při použití syntetických derivátů, pokud nejsou podávány ve vysokých dávkách. Může být zapotřebí snížený přísun solí v potravě a náhrada draslíku. Všechny kortikosteroidy vedou ke zvýšenému vylučování vápníku.
+
+Poranění, otravy a procedurální komplikace
+Systémové kortikosteroidy nejsou indikovány k léčbě traumatického poranění mozku, a proto by se u těchto případů neměly rutinně používat. Výsledky multicentrické studie odhalily zvýšenou mortalitu za 2 týdny nebo 6 měsíců po zranění u pacientů, kterým byl podáván natrium-methylprednisolon-sukcinát v porovnání s pacienty léčenými placebem. Nebyla stanovena příčinná souvislost s léčbou natrium- methylprednisolon-sukcinátem.
+
+Jiné
+
+Výskyt komplikací léčby glukokortikoidy závisí na výši dávky a na době trvání léčby. V každém individuálním případě je proto nutné zvážit poměr rizika a možného přínosu terapie, a to jak z hlediska výše dávky a délky trvání terapie, tak z hlediska rozhodnutí o každodenním nebo intermitentním podávání.
+
+K léčbě by měly být použity nejnižší možné dávky kortikosteroidů, a pokud je možné dávku snížit, snížení by mělo být postupné.
+
+Očekává se, že souběžná léčba s inhibitory CYP3A, včetně léčivých přípravků obsahujících kobicistat, zvyšuje riziko systémových nežádoucích účinků.  Je nutné vyvarovat se používání této kombinace, pokud přínos nepřeváží zvýšené riziko vzniku systémových nežádoucích účinků kortikosteroidů. V takovém  případě  je  třeba  pacienty  sledovat  z hlediska  systémových  nežádoucích  účinků kortikosteroidů (viz bod 4.5).
+
+Aspirin a nesteroidní protizánětlivá agens by měly být používány s opatrností, pokud jsou podávány společně s kortikosteroidy.
+
+Feochromocytomová krize, která může být fatální, byla hlášena po podání systémových kortikosteroidů. Kortikosteroidy by se měly podávat pacientům s podezřením nebo identifikovaným feochromocytomem pouze po zhodnocení přínosu a rizika.
+
+Použití u dětí
+
+U kojenců i starších dětí podstupujících dlouhodobou kortikosteriodovou léčbu je třeba pečlivě sledovat růst a vývoj.
+U dětí, které jsou dlouhodobě léčeny glukokortikoidy a každý den dostávají několik dílčích dávek, může dojít ke zpomalení růstu. Použití tohoto dávkovacího schématu by proto mělo být omezeno pouze na nejzávažnější indikace. Těmto nežádoucím účinkům lze obvykle předejít nebo je minimalizovat podáním glukokortikoidů každý druhý den (Viz bod 4.2 Dávkování a způsob podání, léčba každý druhý den).
+Kojenci a děti dlouhodobě léčené kortikosteroidy jsou více ohroženy výskytem zvýšeného nitrolebního
+tlaku.
+Vysoké dávky kortikosteroidů mohou u dětí vyvolat zánět slinivky břišní. Přípravek obsahuje monohydrát laktosy.
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, nedostatečností laktázy nebo
+malabsorpcí glukózy by tento přípravek neměli užívat.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Methylprednisolon  je  substrátem  enzymu  cytochrom  P450  (CYP),  kterým  je  také  převážně metabolizován.CYP3A4 je dominantní enzym nejpočetnější podskupiny CYP v játrech dospělého člověka. Katalyzuje 6β-hydroxylaci steroidů, základní 1. fázi metabolismu endogenních i syntetických kortikosteroidů. Mnohé jiné sloučeniny jsou také substráty CYP3A4. U některých z nich bylo prokázáno (stejně jako u jiných léků), že mění metabolismus glukokortikoidů indukcí (zvýšenou aktivizací) nebo inhibicí enzymu CYP3A4.
+
+INHIBITORY CYP3A4 – léky, které inhibují aktivitu CYP3A4, obecně snižují hepatickou clearance a zvyšují plazmatickou koncentraci léků, které jsou substráty CYP3A4, například methylprednisolon. Je možné, že v přítomnosti inhibitorů CYP3A4, bude potřeba dávku methylprednisolonu titrovat, aby se předešlo steroidní toxicitě.
+
+INDUKTORY CYP3A4 – léky, které indukují aktivitu CYP3A4, obecně zvyšují hepatickou clearance, což má za následek snížení plazmatické koncentrace léků, které jsou substráty pro CYP3A4. Současné podávání může vyžadovat zvýšení dávky methylprednisolonu, aby se dosáhlo požadovaného výsledku.
+SUBSTRÁTY CYP3A4 – v přítomnosti dalšího substrátu CYP3A4 může být hepatická clearance methylprednisolonu ovlivněna, což vyžaduje odpovídající úpravu dávek. Při současném užívání je více pravděpodobný výskyt nežádoucích účinků spojených s užitím každého z léků samostatně.
+
+ÚČINKY  NEZÁVISLÉ  NA  CYP3A4  –  další  interakce  a  účinky,  které  se vyskytujíu methylprednisolonu jsou popsány níže v tabulce 1.
+Tabulka 1 - seznam a popis nejčastějších a/nebo klinicky významných lékových interakcí nebo účinků
+methylprednisolonu.
+
+Léková skupina nebo Typ -
+LÉKU nebo LÁTKY antibakteriální ISONIAZID
+
+antibiotikum, antituberkulotikum RIFAMPIN
+antikoagulancia (perorální)
+
+
+
+
+antikonvulzivum KARBAMAZEPIN
+antikonvulzivum FENOBARBITAL FENYTOIN
+anticholinergika NEUROMUSKULÁRNÍ BLOKÁTORY
+
+
+
+
+
+
+
+inhibitory cholinesterázy
+
+antidiabetika
+
+antiemetikum APREPITANT FOSAPREPITANT
+antimykotika ITRAKONAZOL KETOKONAZOL
+Farmakokinetické urychlovače
+KOBICISTAT
+antivirotika INHIBITORY HIV PROTEÁZY
+
+
+Inhibitory aromatázy
+AMINOGLUTETIMID
+Blokátor kalciového kanálu
+DILTIAZEM
+kontraceptiva (perorální) ETHINYLESTRADIOL/ NORETHINDRON
+GRAPEFRUITOVÝ DŽUS
+Imunosupresivum
+Interakce/Účinek
+
+INHIBITORCYP3A4.   Dále   existuje   možný   účinek methylprednisolonu na zvýšení rychlosti acetylování a clearance isoniazidu.
+
+INDUKTOR CYP3A4
+
+Vliv  methylprednisolonu  na  perorální  antikoagulancia  je variabilní. Bylo zaznamenáno jak zvýšení, tak snížení účinků antikoagulancií při současném podání s kortikosteroidy. K udržení požadovaného antikoagulačního účinku by měly být sledovány koagulační parametry.
+
+INDUKTOR (a SUBSTRÁT) CYP3A4 INDUKTORY CYP3A4
+Kortikosteroidy mohou ovlivňovat účinek anticholinergik.
+1) Při současném podání vysokých dávek kortikosteroidů a anticholinergik, jako například léků blokujících nervosvalový přenos, byl hlášen rozvoj akutní myopatie (více informací viz bod
+4.4 Zvláštní upozornění a opatření pro použití, Muskuloskeletální poruchy.).
+2) U pacientů užívajících kortikosteroidy byl hlášen antagonismus účinku neuromuskulární blokády pankuronia a vekuronia. Tyto vzájemné účinky mohou být očekávány u všech kompetitivních neuromuskulárních blokátorů.
+Steroidy  mohou  snížit  účinek  inhibitorů  cholinesterázy  u myasthenia gravis.
+Protože kortikosteroidy mohou zvýšit koncentrace glukózy v krvi,
+může být nutné upravit dávkování antidiabetik.
+
+INHIBITORY (a SUBSTRÁT) CYP3A4
+
+
+INHIBITORY (a SUBSTRÁT) CYP3A4 INHIBITORY CYP3A4
+INHIBITORY (a SUBSTRÁTY) CYP3A4
+1) Inhibitory proteázy, jako například indinavir a ritonavir, mohou zvyšovat plazmatické koncentrace kortikosteroidů.
+2) Kortikosteroidy mohou indukovat metabolismus inhibitorů HIV proteázy s následkem snížení její plazmatické koncentrace.
+Adrenální suprese vyvolaná aminoglutetimidem může zhoršit endokrinní změny vyvolané dlouhodobou léčbou glukokortikoidy.
+INHIBITOR (a SUBSTRÁT) CYP3A4 INHIBITORY (a SUBSTRÁT) CYP3A4 INHIBITOR CYP3A4
+INHIBITOR (a SUBSTRÁT) CYP3A4
+
+Léková skupina nebo Typ - LÉKU nebo LÁTKY CYKLOSPORIN
+
+
+
+
+
+
+
+Imunosupresivum CYKLOFOSFAMID TAKROLIMUS
+makrolidová antibiotika KLARITHROMYCIN ERYTHROMYCIN
+makrolidové antibiotikum
+TROLEANDOMYCIN
+NSA (nesteroidní protizánětlivé léky)
+ASPIRIN ve vysokých dávkách (kyselina acetylsalicylová)
+
+
+
+Látky zvyšující vylučování draslíku
+Interakce/Účinek
+
+1) Při současném užívání cyklosporinu a methylprednisolonu se uplatňuje vzájemná inhibice metabolismu CYP3A4, což může vést ke zvýšení plazmatické koncentrace některého z léků nebo obou. Je proto možné, že při současném podání se mohou s větší pravděpodobností vyskytnout nežádoucí účinky spojené s užitím každého z léků samostatně.
+2) Při současném užití cyklosporinu a methylprednisolonu byl hlášen výskyt křečí.
+
+SUBSTRÁTY CYP3A4
+
+
+INHIBITORY (a SUBSTRÁTY) CYP3A4
+
+INHIBITOR CYP3A4
+1) Při současném užívání kortikosteroidů s NSA může častěji docházet k tvorbě vředů a gastrointestinálnímu krvácení.
+2)  Methylprednisolon  může  zvyšovat  clearance  aspirinu podávaného ve vysokých dávkách, což může vést ke snížení sérových hladin salicylátu. Vysazení methylprednisolonu může vést ke zvýšení sérových hladin salicylátu a zvýšenému riziku salicylátové toxicity.
+Jsou-li kortikosteroidy podávány souběžně s látkami zvyšujícími vylučování draslíku (například diuretiky), je třeba pacienty pečlivě sledovat, zda se u nich nevyvine hypokalemie. Zvýšené riziko hypokalemie existuje také u souběžného užívání kortikosteroidů s amfotericinem B, xanteny nebo beta2 agonisty.
+
+4.6  Fertilita, těhotenství a kojení
+
+Fertilita
+Studie na zvířatech prokázaly, že kortikosteroidy nepříznivě ovlivňují plodnost (viz bod 5.3
+Předklinické údaje vztahující se k bezpečnosti). Avšak data z těchto studií nejsou dostatečná.
+
+Těhotenství
+V některých studiích provedených na zvířatech se prokázalo, že podávání vysokých dávek kortikosteroidů během březosti může způsobit malformace plodu. Ačkoliv se nezdá, že by podání kortikosteroidů těhotným ženám vedlo ke vzniku kongenitálních abnormalit, výsledky studií při léčbě těhotných žen poškození plodu zcela nevylučují.
+
+Protože nebyly provedeny adekvátní reprodukční studie s metylprednisolonem u lidí, měl by být tento léčivý přípravek použit v těhotenství pouze po pečlivém posouzení poměru přínosu a rizika pro matku a plod.
+Některé kortikosteroidy rychle pronikají placentou. V jedné retrospektivní studii byl zjištěn častější výskyt nižší porodní váhy u dětí narozených ženám užívajícím kortikosteroidy. Ukazuje se, že u lidí je riziko nízké porodní váhy závislé na dávce a může být minimalizováno podáváním nižších dávek kortikosteroidů.  Přestože  se  neonatální  adrenální  insuficience  u  novorozenců  vystavených kortikosteroidům v děloze jeví vzácná, novorozenci narození matkám, které během těhotenství užívaly značné dávky kortikosteroidů, by měli být pečlivě sledováni a vyšetřeni s ohledem na projevy nedostatečnosti funkcí nadledvin.
+
+Vliv kortikosteroidů na průběh porodu není znám.
+U dětí narozených ženám léčených dlouhodobě kortikoidy během těhotenství byl pozorován šedý zákal. Kojení
+Kortikosteroidy se vylučují do mateřského mléka. Kortikosteroidy, které se dostávají do mateřského mléka, mohou u kojených dětí zpomalit růst a zasahovat do tvorby endogenních glukokortikoidů. Tento léčivý přípravek by se měl používat během kojení pouze po pečlivém posouzení poměru přínosu a rizika pro matku a plod.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Účinky kortikosteroidů na schopnost řídit a obsluhovat stroje nebyly systematicky hodnoceny. Při léčbě kortikosteroidy se mohou vyskytnout nežádoucí účinky, například nevolnost, závrať, poruchy vidění a únava. Pokud pacienti takové příznaky pocítí, neměli by řídit a obsluhovat stroje.
+4.8  Nežádoucí účinky
+
+
+
+Tabulka 2. Tabulka nežádoucích účinků
+Třída orgánových systémů
+(MedDRA v. 18.0)
+
+Frekvence: není známo
+(z dostupných údajů nelze určit)
+
+Infekce a infestace
+Poruchy krve a lymfatického systému
+Poruchy imunitního systému Endokrinní poruchy
+
+Poruchy metabolismu a
+výživy
+
+
+
+Psychiatrické poruchy
+
+
+
+
+
+Poruchy nervového systému
+
+
+Poruchy oka
+
+Poruchy ucha a labyrintu
+Srdeční poruchy Cévní poruchy
+Respirační, hrudní a mediastinální poruchy
+Poruchy jater a žlučových
+cest
+Oportunní infekce, infekce, peritonitida# Leukocytóza
+
+Přecitlivělost na lék, anafylaktoidní reakce, anafylaktické reakce, Cushingoidní syndrom, hypopituitarismus, steroidní abstinenční syndrom
+Metabolická acidóza, epidurální lipomatóza, retence sodíku, retence tekutin, hypokalemická alkalóza, dyslipidemie, snížená tolerance glukózy, zvýšená potřeba insulinu (nebo perorálních
+hypoglykemických agens u diabetiků), lipomatóza, zvýšená chuť
+k jídlu (která může vést k nárůstu tělesné hmotnosti)
+Afektivní poruchy (včetně depresivní nálady, euforické nálady, citové lability, drogové závislosti, sebevražedných myšlenek), psychotické poruchy (včetně mánie, bludů, halucinací, schizofrenie), duševní poruchy, změny osobnosti, stavy
+zmatenosti, úzkost,změny nálad, abnormální chování, insomnie,
+podrážděnost
+Zvýšený nitrolební tlak (s edémem papily [benigní intrakraniální hypertenze]), záchvat, ztráta paměti, kognitivní poruchy, závratě, bolest hlavy
+Chorioretinopatie, katarakta, glaukom, exoftalmus, rozmazané vidění (viz také bod 4.4)
+Vertigo
+Městnavé srdeční selhání (u disponovaných pacientů) Trombóza, hypertenze, hypotenze, trombotické příhody Plicní embolie, singultus
+Zvýšené hodnoty jaterních enzymů
+
+Tabulka 2. Tabulka nežádoucích účinků
+Třída orgánových systémů
+(MedDRA v. 18.0)
+
+Frekvence: není známo
+(z dostupných údajů nelze určit)
+
+Gastrointestinální poruchy
+
+
+
+Poruchy kůže a podkožní tkáně
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Poruchy reprodukčního systému a prsu
+Celkové poruchy a reakce v místě aplikace
+Vyšetření
+
+
+Poranění, otravy a
+procedurální komplikace
+Žaludeční vředy (s možností perforace a krvácení peptického vředu), perforace střev, žaludeční krvácení, pankreatitida,
+ulcerózní zánět jícnu, esofagitida, nadýmání, bolest břicha, průjem, dyspepsie, nevolnost
+Angioedém, hirsutismus, petechie, ekchymóza, atrofie kůže, zarudnutí, zvýšená potivost, kožní strie, vyrážka, svědění, kopřivka, akné
+Svalová slabost, myalgie, myopatie, svalová atrofie, osteoporóza, osteonekróza, patologická zlomenina, neuropatická artropatie, artralgie, zpomalení růstu
+Nepravidelná menstruace
+
+Zhoršené hojení ran, periférní otok, únava, malátnost
+
+Zvýšení nitroočního tlaku, snížení tolerance sacharidů, snížení draslíku v krvi, zvýšení vápníku v moči, zvýšení močoviny
+v krvi, potlačení reaktivity při kožních testech Kompresivní fraktura páteře, ruptura šlachy
+† Peritonitida může být primárně projevenou známkou či příznakem gastrointestinální poruchy jako je perforace, obstrukce či zánět slinivky břišní (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+
+Neexistuje klinický syndrom akutního předávkování kortikosteroidy. Hlášení akutní otravy a/nebo smrti po akutním předávkování kortikosteroidy jsou vzácné. V případě předávkování neexistuje žádný specifický protilék. Léčba při předávkování má být podpůrná a symptomatická. Methylprednisolon je dialyzovatelný.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: hormony (léčiva s hormonální aktivitou)
+ATC kód: HO2ABO4
+Methylprednisolon patří do skupiny syntetických glukokortikoidů.
+
+Methylprednisolon je silný protizánětlivý steroid. Má větší protizánětlivý účinek než prednisolon a menší tendenci vyvolávat retenci sodíku a tekutin. Relativní účinek methylprednisolonu vůči hydrokortizonu je nejméně 4 ku1.
+FARMAKODYNAMIKA
+Glukokortikoidy difundují buněčnou membránou a tvoří komplexy se specifickými cytoplazmatickými receptory. Tyto komplexy poté vstupují do buněčného jádra, vážou se na DNA (chromatin) a stimulují transkripci mRNA s následnou proteosyntézou řady enzymů, jejichž aktivita, jak se zdá, je v konečném důsledku zodpovědná za účinky glukokortikoidů po celkovém podání. Glukokortikoidy nemají důležitý vliv jen na zánětlivé a imunologické procesy; zasahují významně rovněž do metabolismu glycidů, bílkovin a tuků. Ovlivňují také kardiovaskulární systém, kosterní svalstvo a centrální nervový systém.
+
+Účinky na zánětlivé a imunologické procesy:
+Protizánětlivých, imunosupresivních a antialergických vlastností glukokortikoidů se využívá ve většině terapeutických indikací. Tyto vlastnosti jsou podkladem těchto následujících účinků:
+-  redukce počtu imunoaktivních buněk v blízkosti zánětlivého ložiska,
+-  omezení vazodilatace,
+-  stabilizace membrán lysozomů,
+-  inhibice fagocytózy,
+-  snížení tvorby prostaglandinů a příbuzných látek.
+Dávka 4,4 mg methylprednisolon acetátu (4 mg methylprednisolonu) má stejný glukokortikoidní (protizánětlivý) účinek jako 20 mg hydrokortizonu. Mineralokortikoidní účinky methylprednisolonu jsou minimální (200 mg methylprednisolonu má stejné mineralokortikoidní účinky jako 1 mg dezoxykortikosteronu).
+Účinky na metabolismus glycidů a proteinů:
+Glukokortikoidy mají katabolický účinek na metabolismus proteinů. Uvolněné aminokyseliny jsou v játrech, v procesu glukoneogeneze, přeměněny na glukózu a glykogen. Dochází k poklesu resorpce glukózy v periferních tkáních, což může vést k hyperglykémii a glykosurii, zvláště u pacientů, kteří jsou náchylní k diabetu.
+
+Účinky na metabolismus tuků:
+Glukokortikoidy se vyznačují lipolytickou aktivitou, jež postihuje především tkáně končetin. Zároveň však vyvolávají i lipogenezi, jejíž projevy jsou nejzřetelnější v oblasti hrudníku, krku a hlavy. Tyto účinky vedou ke změně rozložení tuku v organismu.
+
+Maximální farmakologická účinnost kortikosteroidů nastupuje s určitým zpožděním vůči maximálním hladinám v plazmě, což naznačuje, že většina účinků látek této skupiny je zprostředkována spíše ovlivněním aktivity enzymů, než přímým působením léku.
+
+5.2  Farmakokinetické vlastnosti
+Farmakokinetika methylprednisolonu je lineární, nezávislá na způsobu podání.
+
+Absorpce:
+Methylprednisolon  se  rychle  vstřebává.  Maximální  hladina  plazmatické  koncentrace methylprednisolonu po perorálním podání zdravým dospělým jedincům je dosažena během 1,5 až 2,3 hodin po podání dávky. Absolutní biologická dostupnost po perorálním podání u zdravých jedinců je zpravidla vysoká (82-89%).
+
+Distribuce:
+Methylprednisolon se široce distribuuje do tkání, prochází hematoencefalickou bariérou a vylučuje se do mateřského mléka. Jeho zdánlivý objem distribuce je přibližně 1,4 l/kg. Vazba methylprednisolonu na proteiny plasmy u člověka je přibližně 77%.
+
+Metabolismus:
+Methylprednisolon se u člověka metabolizuje v játrech na neaktivní metabolity. Hlavními metabolity jsou 20α-hydroxymethylprednisolon a 20β-hydroxymethylprednisolon. Metabolismus v játrech probíhá primárně prostřednictvím enzymu CYP3A4 (Seznam lékových interakcí na základě metabolismu zprostředkovaného CYP3A4 viz bod 4.5 Interakce s jinými léčivými přípravky a jiné formy interakce).
+
+Methylprednisolon, stejně jako mnoho substrátů CYP3A4, může být také substrátem pro ATP- binding casette-transportní p-glykoprotein, který ovlivňuje distribuci do tkání a interakce s jinými léky.
+Eliminace:
+Průměrný poločas rozpadu methylprednisolonu je v rozmezí 1,8 až 5,2 hodin. Celková clearance je přibližně 5 až 6 ml/min/kg.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Databáze neklinických údajů v kombinaci s údaji o bezpečnosti shromážděnými v průběhu několika let klinických  studií  a  prostřednictvím  poregistračního  sledování,  podporují  použití  tablet methylprednisolonu jako bezpečného a účinného protizánětlivého agens pro léčbu krátkodobých zánětlivých poruch.
+
+Na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání u myší, potkanů, králíků a psů nebyla v případě nitrožilního, intraperitoneálního, subkutánního, intramuskulárního nebo orálního podání zjištěna žádná neočekávaná rizika. Toxicita zjištěná u studií s opakovanými dávkami je stejná jako očekávaná toxicita v případě průběžného působení exogenních adrenokortikálních steroidů.
+Karcinogenní potenciál:
+Methylprednisolon nebyl formálně hodnocen v karcinogenních studiích s hlodavci. Byly získány variabilní výsledky s jinými glukokortikoidy, jejichž karcinogenita se testovala na myších a potkanech. Z publikovaných údajů však vyplývá, že několik příbuzných glukokortikoidů včetně budesonidu, prednisolonu a triamcinolonacetonidu může zvyšovat incidenci hepatocelulárních adenomů a karcinomů po perorálním podání samečkům potkanů v pitné vodě. K těmto tumorogenním účinkům docházelo u dávek, které byly nižší než typické klinické dávky v mg/m².
+
+Mutagenní potenciál:
+Methylprednisolon nebyl formálně hodnocen  z hlediska genotoxicity. Avšak methylprednisolon- sulfonát, jehož struktura se podobá methylprednisolonu, nebyl mutagenní s anebo bez metabolické aktivace v Salmonella typhimurium při 250 až 2 000 µg/plotnu, nebo v savčím buněčném genovém mutačním testu využívajícím vaječníkové buňky čínského křečka při 2 000 až 10 000 µg/ml. Methylprednisolon suleptanát neindukoval neplánovanou DNA syntézu v primárních hepatocytech potkanů při 5 až 1 000 µg/ml. Navíc, z průzkumu zveřejněných údajů vyplývá, že prednisolonfarnezylát (PNF), jenž má podobnou strukturu jako methylprednisolon, nebyl mutagenní s metabolickou aktivací anebo bez ní v Salmonella typhimurium a Escherichia coli kmenech při 312 až 5 000 µg/plotnu. V linii fibroblastických buněk křečka čínského způsobil PNF mírné zvýšení incidence strukturálních chromozomálních aberací s metabolickou aktivací při nejvyšší testované koncentraci 1 500 µg/ml.
+Reprodukční toxicita
+Bylo prokázáno, že kortikosteroidy snižují fertilitu při podání potkanům. Avšak data z těchto studií
+nejsou dostatečná.
+
+Ukázalo se, že kortikosteroidy snižují plodnost, pokud se padávají potkanům. Samečkům potkanů se podával kortikosteron v dávkách 0, 10 a 25 mg/kg/den subkutánní injekcí jedenkrát denně po dobu 6 týdnů, a pářili se s neošetřenými samičkami. Po 15-ti dnech se vysoká dávka snížila na 20 mg/kg/den.
+
+Bylo pozorováno snížení počtu kopulačních spojení, což mohl být sekundární následek snížení hmotnosti vedlejších orgánů. Snížil se počet implantací a živých plodů.
+
+U řady druhů byl prokázán teratogenní účinek kortikosteroidů, pokud byly podávány v dávkách odpovídajících lidské dávce. V reprodukčních studiích na zvířatech bylo prokázáno, že glukokortikoidy, například methylprednisolon, zvýšily incidenci malformit (rozštěp patra, kosterní malformace), embryo- fetální letality (např. zvýšení resorpcí) a intrauterinní růstové retardace.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam všech pomocných látek
+
+monohydrát laktosy, kukuřičný škrob, sacharosa, kalcium-stearát
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+Medrol 4 mg: 3 roky
+Medrol 16 mg: 5 let
+
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+
+6.5  Druh obalu a obsah balení
+
+Medrol 4 mg: bílá HDPE lahvička s dětským bezpečnostním PP uzávěrem, krabička; průhledný PVC/Al blistr, krabička
+Medrol 16 mg: skleněná lahvička s uzávěrem z plastické hmoty, krabička;
+blistr PVC/Al, krabička
+Balení:
+Medrol 4 mg: 30 a 100 tablet
+Medrol 16 mg: 50 a 14 tablet
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Pfizer, spol. s r.o., Stroupežnického 17, 150 00 Praha 5, Česká republika
+
+8.   REGISTRAČNÍ ČÍSLO/A
+
+MEDROL 4 mg: 56/156/88-A/C MEDROL 16 mg: 56/156/88-B/C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 25.3.1988
+Datum posledního prodloužení registrace: 4.11.2009
+
+
+10.  DATUM REVIZE TEXTU
+
+24. 6. 2020

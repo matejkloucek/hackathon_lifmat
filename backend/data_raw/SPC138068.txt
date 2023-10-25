@@ -1,0 +1,594 @@
+Sp.zn.sukls20795/2019, sukls20804/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Bupivacaine Accord 2,5 mg/ml injekční roztok
+Bupivacaine Accord 5 mg/ml injekční roztok
+
+2. KVALITATIVNÍ I KVANTITATIVNÍ SLOŽENÍ
+2,5 mg/ml
+Jeden ml obsahuje bupivacaini hydrochloridum 2,5 mg (jako monohydrát)
+5 ml obsahuje bupivacaini hydrochloridum 12,5 mg (jako monohydrát) 10 ml obsahuje bupivacaini hydrochloridum 25 mg (jako monohydrát) 20 ml obsahuje bupivacaini hydrochloridum 50 mg (jako monohydrát)
+
+5 mg/ml
+Jeden ml obsahuje bupivacaini hydrochloridum 5 mg (jako monohydrát) 2 ml obsahují bupivacaini hydrochloridum 10 mg (jako monohydrát)
+4 ml obsahují bupivacaini hydrochloridum 20 mg (jako monohydrát)
+5 ml obsahuje bupivacaini hydrochloridum 25 mg (jako monohydrát) 10 ml obsahuje bupivacaini hydrochloridum 50 mg (jako monohydrát) 20 ml obsahuje bupivacaini hydrochloridum 100 mg (jako monohydrát)
+
+Pomocné látky se známým účinkem:
+Jeden ml přípravku Bupivacaine Accord 2,5 mg/ml obsahuje 0,15 mmol (3,4 mg) sodíku. Jeden ml přípravku Bupivacaine Accord 5 mg/ml obsahuje 0,14 mmol (3,2 mg) sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Injekční roztok.
+Čirý, bezbarvý nebo téměř bezbarvý roztok.
+pH roztoku je 4,0 až 6,5.
+Osmolarita roztoku je 270 - 320 mOsmol/kg H2O
+
+4. KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Bupivacaine Accord je indikován pro:
+•  Chirurgická anestezie u dospělých a dospívajících starších než 12 roků.
+•  Léčba akutní bolesti u dospělých a dětí starších než 1 rok.
+
+
+1
+
+Bupivacaine Accord je určen pro použití pouze u perkutánní infiltrace, nitrokloubního bloku, periferních nervových bloku(ů) a centrálních nervových bloků (kaudální nebo epidurální)
+k prodloužené lokální anestezii. Bupivacaine Accord se také používá pro úlevu od bolesti během
+porodu.
+4.2. Dávkování a způsob podání
+
+Dávkování
+Dávkování se mění a závisí na oblasti, která má být anestetizována, vaskularitě tkání, počtu neuronálních segmentů, které mají být blokovány, individuální toleranci a použité technice anestezie.
+
+Dosavadní zkušenosti naznačují jednorázovou dávku až 150 mg bupivakain-hydrochloridu. Následně mohou být 2 hodiny použity dávky až do 50 mg. Maximální dávka 2 mg / kg nemá být překročena v žádném 4-hodinovém období.
+
+Dospělí a děti od 12 roků
+Následující tabulka shrnuje doporučené dávkování přípravku pro nejčastější techniky regionální anestezie. Dávky uvedené v tabulce je třeba považovat za potřebné k vyvolání účinné nervové blokády u dospělého člověka a jsou určitým návodem pro použití přípravku. Faktory ovlivňující jednotlivé nervové blokády jsou popsány v odborných učebnicích.
+Při dlouhodobé blokádě podáváním infúze či intermitentních injekcí je třeba mít na paměti, že se zvyšuje riziko projevů celkové toxicity i lokální neurotoxicity.
+Vedle těchto doporučení je k výpočtu požadované dávky anestetika důležitá zkušenost lékaře a znalost fyzického stavu pacienta. Měla by být použita nejnižší dávka anestetika potřebná k vyvolání dostatečné anestezie.
+
+Tabulka 1 Doporučené dávkování pro dospělé
+
+
+Koncentrace
+
+mg/ml
+CHIRURGICKÁ ANESTEZIE
+Lumbální epidurální blok ⁽¹⁾
+Objem ml
+Dávka
+
+mg
+Nástup účinku
+min
+Trvání účinku
+hod
+chirurgie     5,0        15-30      75-150      15-30      2-3
+Lumbální epidurální blok ⁽¹⁾
+
+Sectio Caesarea
+5,0        15-30      75-150      15-30      2-3
+Thorakální epidurální blok ⁽¹⁾
+chirurgie     2,5        5-15       12,5-37,5    10-15      1,5-2
+5,0        5-10       25-50      10-15      2-3
+Kaudální epidurální blok ⁽¹⁾
+2,5        20-30      50-75      20-30      1-2
+
+2
+
+5,0        20-30      100-150     15-30      2-3
+
+Blokády velkých nervů ⁽²⁾
+
+např. plexus brachialis, n. femoralis, n. ischiadicus
+5.0        10-35      50-175      15-30      4-8
+Regionální blokády
+
+např. blokády malých nervů a infiltrace
+2,5
+
+
+5,0
+<60
+
+
+30
+<150
+
+
+150
+1-3
+
+
+1-10
+3-4
+
+
+3-8
+
+
+
+Koncentrace
+
+mg/ml
+LÉČBA AKUTNÍ BOLESTI
+Lumbální epidurální blok
+Objem ml
+Dávka
+
+mg
+Nástup účinku
+min
+Trvání účinku
+hod
+
+intermitentní injekce ⁽³⁾ (např. léčba pooperační bolesti)
+2,5
+6-15;
+
+min. interval 30 min
+15-37.5;
+
+min. interval 30 min
+2-5
+1-2
+Lumbální epidurální blok
+
+kontinuální infúze (4)
+1,25       10-15/h     12,5-18,8/h   -         -
+
+2,5
+5-7,5/h
+12,5-18,8/h   -        -
+
+Lumbální epidurální blok
+
+kontinuální infúze (4) (léčba porodní bolesti)
+1,25       5-10/h      6,25-12,5/h   -         -
+Thorakální epidurální blok
+
+kontinuální infúze
+1,25       5-10/h      6,3-12,5/h    -         -
+
+2,5
+4-7,5/h
+10-18,8/h    -        -
+
+Intraartikulární blok ⁽⁶⁾
+
+
+
+
+3
+
+např. injekce po artroskopii kolena
+2,5        ≤40       ≤100⁵⁾      5-10       2-4 h po
+výplachu
+Regionální blokády
+
+blokády malých nervů a infiltrace
+2,5        ≤60       ≤150       1-3        1-4
+Včetně testovací dávky.⁽²⁾ Dávku pro blokády velkých nervů je třeba upravit podle místa aplikace a klinického stavu pacienta. Interskalání a supraklavikulární bloky brachiálního plexu mohou být spojeny s vyšším výskytem závažných nežádoucích účinků bez ohledu na použité lokální anestetikum, viz bod 4.4 .
+⁽³⁾ Celkově maximálně 400 mg bupivakainu za 24 hodin.
+⁽⁴⁾ Tento roztok je často používán pro epidurální anestezii v kombinaci s vhodným opioidem. Celkově maximálně 400 mg bupivakainu za 24 hodin.
+⁽⁵⁾ Pokud je bupivakain používán u téhož pacienta i pro jiné techniky, nesmí celková dávka překročit
+150 mg.
+⁽⁶⁾ Existují poregistrační hlášení projevů chondrolýzy u pacientů, kterým byla pooperačně podávána intraartikulární infuze lokálních anestetik. Bupivacaine Accord není schválen v této indikaci (viz bod 4.4).
+⁽⁷⁾ Bupivakain bez adrenalinu.
+Obecně platí, že chirurgická anestezie (např. epidurální podání) vyžaduje vyšší koncentraci a dávku lokálního anestetika. Pokud je požadována méně intenzivní nervová blokáda (např. útlum porodní bolesti), používají se nižší koncentrace anestetika. Objem podaného anestetika má vliv na rozsah anestezie.
+Před podáním hlavní dávky je vhodné znovu provést aspiraci, aby se zabránilo intravaskulární aplikaci dávku aplikovat pomalu rychlostí 25-50 mg/min nebo v postupně se zvyšujících dávkách za stálého sledování vitálních funkcí a slovního kontaktu s pacientem. Neúmyslná intravaskulární injekce může mít za následek dočasné zvýšení srdeční frekvence a náhodná intratekální injekce může mít za následek příznaky bloku páteře. Objeví-li se toxické příznaky, injekci okamžitě přerušit. (viz bod 4.8.1)
+Současné poznatky ukazují, že 400 mg bupivakainu aplikovaného v průběhu 24 hodin představuje dobře tolerovanou dávku u průměrného dospělého člověka.
+Pediatrická populace od 1 do 12 let:
+Postupy regionální anestezie u dětí by měl provádět kvalifikovaný lékař obeznámený s touto populací pacientů i samotnou technikou.
+Dávky uvedené v tabulce je třeba považovat za doporučené pro použití v pediatrii. Existují však individuální rozdíly. U dětí s velkou tělesnou hmotností je často třeba postupně snižovat dávku a vycházet přitom z ideální tělesné hmotnosti. Faktory ovlivňující jednotlivé nervové blokády jsou popsány v odborných učebnicích.
+Měla by být použita nejnižší potřebná dávka k vyvolání adekvátní analgezie.
+Tabulka 2 Doporučené dávkování pro děti od 1 do 12 roků.
+
+
+Koncentrace
+
+mg/ml
+Objem
+
+ml/kg
+Dávka
+
+mg/kg
+Nástup účinku
+min
+Trvání účinku
+hod
+LÉČBA AKUTNÍ BOLESTI (per- a postoperativní)
+
+
+4
+
+Kaudální epidurální blok
+Lumbální epidurální blok
+Thorakální epidurální blok ⁽ᵃ⁾
+Regionální blokády (např. blokády malých nervů a infiltrace)
+
+
+Periferní nervové blokády (např. ilioingvinální - iliohypogastrická)
+2.5
+
+2.5
+
+2.5
+
+2.5
+
+
+
+5.0
+2.5
+
+
+
+5.0
+0.6-0.8
+
+0.6-0.8
+
+0.6-0.8
+1.5-2
+
+1.5-2
+
+1.5-2
+
+0.5- 2.0
+
+
+
+0.5- 2.0
+0.5- 2.0
+
+
+
+0.5- 2.0
+20-30
+
+20-30
+
+20-30
+
+
+
+
+
+
+
+
+b)
+
+
+
+b)
+2-6
+
+2-6
+
+2-6
+
+⁽ᵃ⁾ Thorakální epidurální blok by měl být realizován postupnými dávkami až je dosažena žádoucí
+hloubka anestezie.
+⁽ᵇ⁾ Nástup a trvání periferní nervové blokády závisí na typu blokády a podané dávce.
+Dávku potřebnou pro děti je nutné vypočítat na základě znalosti tělesné hmotnosti až do dávky 2
+mg/kg.
+Před podáním hlavní dávky a v průběhu podávání hlavní dávky je třeba opakovaně provádět aspiraci, aby se předešlo intravaskulární aplikaci. Dávku je třeba podávat pomalu v postupných dávkách, zvláště při podání anestetika lumbálním a thorakálním epidurálním přístupem a neustále pečlivě sledovat vitální funkce pacienta.
+U dětí starších než 2 roky byla provedena peritonsilární infiltrace bupivakainem 2,5 mg/ml v dávce
+7,5-12,5 mg na tonsilu.
+Ilioingvinální - iliohypogastrické blokády byly provedeny u dětí od 1 roku s bupivakainem 2,5 mg/ml a v dávce 0,1-0,5 ml/kg, ekvivalent 0,25-1,25 mg/kg. Dětem ve věku od 5 let byl podáván bupivakain 5 mg/ml v dávce 1,25-2 mg/kg.
+K blokádám penisu byl používán bupivakain 5 mg/ml v celkové dávce 0,2-0,5 ml/kg, ekvivalentní 1- 2,5 mg/kg.
+Bezpečnost a účinnost přípravku Bupivacaine Accord s adrenalinem nebo bez adrenalinu u dětí ve
+věku do 1 roku nebyla stanovena. Jsou dostupné pouze omezené údaje.
+Bezpečnost a účinnost intermitentních bolusových injekcí nebo kontinuální infuze epidurálním přístupem nebyla stanovena. Jsou dostupné pouze omezené údaje.
+4.3. Kontraindikace
+-  Hypersenzitivita na léčivou látku, na lokální anestetika amidového typu nebo kteroukoliv pomocnou látku uvedenou v bodě 6.1.
+-  Intravenózní regionální anestezie (Bier's-blok)
+-  Porodnický paracervikální blok
+Epidurální anestezie, bez ohledu na použité lokální anestetikum, má své vlastní kontraindikace, které zahrnují:
+
+
+
+5
+
+-  Aktivní onemocnění centrálního nervového systému, jako je meningitida, dětská obrna, intrakraniální hemoragie, subakutní kombinovaná degenerace chordy v důsledku perniciózní anémie, otravy krve (septikémie), nedávné poranění páteře a mozkových a míšních nádorů
+-  Tuberkulóza páteře
+-  Pyogenní infekce kůže v místě nebo v blízkosti místa lumbální punkce
+-  Kardiogenní nebo hypovolemický šok
+-  Poruchy koagulace nebo pokračující antikoagulační léčba
+
+Injekční roztoky bupivakain-hydrochloridu jsou kontraindikovány pro aplikaci do zanícených nebo infikovaných oblastí.
+
+
+4.4. Zvláštní upozornění a opatření pro použití
+Byly hlášeny případy srdeční zástavy v průběhu podávání bupivakainu pro epidurální anestezii či blokádu periferních nervů, kde resuscitace těchto pacientů byla obtížná a vyžadovala prodloužení doby na reakcí pacienta. V některých případech resuscitace byla prakticky nemožná i při správné a okamžité intervenci.
+Podobně jako jiná anestetika může i bupivakain vyvolat nervově centrální a kardiovaskulární projevy akutní toxicity, pokud je podáván pro lokální anestezii tak, že je dosaženo vysokých plazmatických koncentrací anestetika, např. při nezamýšlené intravaskulární aplikaci nebo při aplikaci v místech s bohatou vaskularizací. V důsledku vysokých plazmatických koncentrací bupivakainu byly hlášeny komorové arytmie, fibrilace, náhlé srdeční selhání a smrt.
+Lokální nebo celková anestezie by měla být vždy prováděna na pracovištích, kde je možné provést adekvátní resuscitaci. Je nutné dodržovat opatření, aby se zabránilo intravaskulární injekci (viz bod 4.2).
+Stejně tak by měl být zajištěn přístup do cévního řečiště ještě před zahájením anestezie, kde se plánuje zavedení nervového bloku. Ošetřující personál by měl být obeznámen s postupy diagnostiky a léčby projevů nežádoucích účinků, systémové toxicity a jiných komplikací (viz bod 4.9 a 4.8).
+Blokády velkých nervů mohou být spojeny s potřebou aplikovat velké objemy lokálního anestetika v místech s bohatou vaskularizací, často to vede k uzávěru velkých cév, což způsobuje vyšší riziko intravaskulární injekce a / nebo systémové absorpce., To může mít za následek vysoké plazmatické koncentrace léčiva.
+Předávkování nebo náhodné nitrožilní injekce můžou vyvolat toxické reakce.
+Injekce opakovaných dávek bupivakainu může způsobit významné zvýšení hladin v krvi, ke které dochází po každé opakované aplikaci v důsledku pomalé akumulace léčiva. Tolerance se mění v závislosti na stavu pacienta.
+Regionální anestezie je často považována za optimální anesteziologický přístup, nicméně některé skupiny pacientů vyžadují speciální pozornost, aby se snížilo riziko závažných nežádoucích účinků:
+•  starší pacienti a pacienti v celkově špatném zdravotním stavu, kterým musí být podány redukované dávky úměrné jejich klinickému stavu
+•  pacienti s částečnou nebo kompletní blokádou převodního systému, neboť lokální anestetika mohou zpomalovat srdeční vedení,
+•  bupivakain-hydrochlorid má být podáván s opatrností pacientům s epilepsií , pacientům s
+pokročilým poškozením jater a závažnou ledvinnou dysfunkcí,
+•  pacientky v pokročilém stádiu těhotenství,
+•  pacienti léčení antiarytmiky třídy III (např. amiodaron) by měli být pečlivě sledováni a monitorováno EKG, neboť kardiální účinky obou skupin léčiv jsou aditivní,
+U pacientů s alergií na esterová lokální anestetika (prokain, tetrakain, benzokain, atd.), nebyla
+prokázána zkřížená senzitivita vůči anestetikům amidového typu, jako je například bupivakain.
+
+
+6
+
+Některé techniky regionální anestezie mohou být spojeny s výskytem závažných nežádoucích účinků bez ohledu na použité anestetikum:
+•  Lokální anestetika by měla být používána s opatrností pro epidurální anestezie u pacientů s poškozením kardiovaskulární funkce, protože mohou být méně schopni kompenzovat funkční změny spojené s prodlouženým AV převodem způsobeným těmito léky.
+•  Fyziologické účinky vytvořené centrální nervovou blokádou jsou výraznější v přítomnosti hypotenze. U pacientů s hypovolémií se v důsledku jakékoliv příčiny může náhle rozvinout závažná hypotenze během epidurální anestezie. Je třeba se vyhnout epidurální anestezii, nebo ji používat s opatrností u pacientů s neléčenou hypovolémií nebo výrazně zhoršeným žilním návratem.
+•  Retrobulbární injekce lokálního anestetika mohou vzácně dosáhnout lebečního subarachnoidálního prostoru a způsobit dočasnou slepotu, kardiovaskulární kolaps, apnoe, křeče apod.
+•  Retro- a peribulbární injekce lokálního anestetika může vést k malému riziku trvalé dysfunkce očních svalů. Primární příčinou je traumatické a/nebo lokální toxické poškození svalů a/nebo nervů. Závažnost tkáňové reakce je závislá na stupni traumatického poškození, koncentraci lokálního anestetika a trvání expozice. Z tohoto důvodu by měla být použita nejnižší účinná koncentrace a dávka lokálního anestetika.
+•  Vazokonstriktiva mohou tkáňovou reakci dále zhoršovat, a proto by se měla používat jen
+tehdy, pokud jsou indikována.
+•  Malé dávky lokálních anestetik aplikované do hlavy a krku, včetně retrobulbárních, zubních a hvězdicových gangliových bloků, mohou způsobovat systémovou toxicitu v důsledku intraarteriální injekce.
+•  Injekce adrenalinu společně s bupivakainem v oblastech koncových tepen (např. penilní blok, Oberst blok) může způsobit ischemickou nekrózu tkání
+•  Existují poregistrační hlášení projevů chondrolýzy u pacientů, kterým byla pooperačně podávána intraartikulárně kontinuální infuze lokálních anestetik. Většina hlášených případů chondrolýzy se týkala ramenního kloubu. Vzhledem k mnoha faktorům, které mohly přispět k tomuto projevu a nekonzistenci vědecké literatury týkající se mechanismu tohoto účinku, nelze potvrdit kauzální vztah. Intraartikulární kontinuální infuze není schválenou indikací pro připravek Bupivacaine Accord.
+Epidurální anestezie lokálním anestetikem může vyvolat hypotenzi a bradykardii, které je třeba předvídat a přijmout vhodná opatření. Pokud se hypotenze rozvíjí, má být okamžitě léčena intravenózním podáváním sympatomimetika, opakovaně podle potřeby. Závažná hypotenze může vyplývat z hypovolemie v důsledku krvácení nebo dehydratace, nebo aortální okluze u pacientů s masivním ascitem, velkými břišními nádory nebo pozdním těhotenstvím. Uvedené hypotenzi je třeba se vyhnout u pacientů se srdeční dekompenzací.
+U pacientů s hypovolémií v důsledku jakékoliv příčiny se může během epidurální anestezie.rozvinout náhle závažná hypotenze..
+Epidurální anestezie může způsobit ochrnutí mezižeberních nervů a pacienti s pleurálními výpotky mohou trpět dýchacími potížemi. Septikemie může zvýšit riziko vzniku intraspinálního abscesu v pooperačním období.
+Pokud je bupivakain podáván jako intraartikulární injekce, je třeba postupovat velmi opatrně, pokud lze předpokládat čerstvé intraartikulární trauma, resp. obnažení větších kloubních ploch chirurgickým zákrokem, což může urychlit absorpci a vést k vzestupu plazmatických koncentrací anestetika.
+
+Pediatrická populace
+Bezpečnost a účinnost přípravku Bupivacaine Accord u dětí do 1 roku nebyla stanovena. Existují pouze omezené údaje.
+Použití přípravku Bupivacaine Accord k intraartikulární blokádě u dětí od 1 do 12 roků nebylo dokumentováno.
+
+7
+
+Použití přípravku Bupivacaine Accord k blokádě velkých nervů u dětí od 1 do 12 roků nebylo dokumentováno.
+Epidurální anestezie u dětí by měla být realizována postupnými dávkami odpovídajícími věku a tělesné hmotnosti, neboť zejména epidurální anestezie thorakálním přístupem může vést k závažné hypotenzi a poruše dýchání.
+Jeden ml injekčního roztoku obsahuje přibližně 0,15 mmol sodíku (pokud je použita síla 2,5 mg/ml), nebo 0,14 mmol sodíku (pokud je použita síla 5 mg/ml). To je třeba vzít v úvahu u pacientů na dietě s nízkým obsahem sodíku.
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Současné podávání bupivakainu a jiných lokálních anestetik či léčiv strukturně podobných lokálním anestetikům amidového typu, např. některých antiarytmik - lidokain, mexiletin – musí být vedeno
+s opatrností z důvodu systémových toxických účinků, které jsou v tomto případě aditivní.
+Specifické interakční studie s bupivakainem a antiarytmiky třídy III, např. amiodaron, nebyly provedeny, ale zvýšená pozornost je v tomto případě namístě (viz bod 4.4).
+Pediatrická populace
+Interakční studie byly provedeny pouze u dospělých. Interakce v pediatrické populaci nejsou známé.
+
+4.6. Fertilita, těhotenství a kojení
+Těhotenství
+Údaje o použití bupivakainu u těhotných žen nejsou k dispozici nebo jsou pouze omezené (méně než 300 ukončených těhotenství). Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Proto mají být injekce bupivakainu podávány v těhotenství pouze, pokud potencionální přínos převáží potencionální riziko pro plod.
+Nežádoucí účinky způsobené lokálními anestetiky, jako je fetální bradykardie, acidóza a tlumení centrální nervové soustavy, se zdají být pro plod nejvíce patrné v anestezii paracervikálního bloku. Takové účinky mohou být způsobeny vysokými koncentracemi anestetika v plodu. (Viz bod 4.4).
+
+Kojení
+Bupivakain přestupuje do mateřského mléka, ale v tak malých množstvích, že při terapeutických dávkách neexistuje riziko ovlivnění dítěte. Proto je možné po regionální anestézii kojit.
+
+Fertilita
+K dispozici nejsou žádné údaje o účinku bupivakain-hydrochloridu na lidskou fertilitu.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Bupivakain má malý vliv na schopnost řídit a obsluhovat stroje. Vedle přímého účinku anestetika, lokální anestetika můžou mít velmi mírný vliv na duševní funkce a koordinaci i při absenci zjevné toxicity centrální nervové soustavy, a může dočasně zhoršit lokomoci a bdělost.
+4.8. Nežádoucí účinky
+Náhodné sub-arachnoidální injekce můžou vést k velmi vysoké míšní anestezií s případnou apnoe a závažnou hypotenzí.
+Profil nežádoucích účinků přípravku Bupivacaine Accord je podobný jako u jiných dlouhodobě účinných lokálních anestetik. Nežádoucí účinky léčiva lze přitom těžko odlišit od fyziologických projevů nervové blokády (např. pokles krevního tlaku, bradykardie), přímých vlivů (např. traumatizace nervu), nebo nepřímých projevů (např. epidurální absces) způsobený injekční jehlou.
+8
+
+Neurologické poškození je vzácnou, nicméně dobře známou komplikací regionální, zvláště epidurální a spinální anestezie. To může být způsobeno několika příčinami, např. přímé poranění míchy nebo míšních nervů, syndrom přední spinální arterie, injekcí dráždivé látky, nebo injekce non-sterilního roztoku. To může mít za následek v lokalizovaných oblastech parestézie nebo anestézie, svalové slabosti, ztrátu kontroly svěrače a paraplegii. Ojediněle se jedná o trvalé následky
+Tabulka se seznamem nežádoucích účinků
+Nežádoucí účinky, které se vyskytly buď během klinických hodnocení nebo byly spontánně hlášeny, jsou uvedeny v tabulce níže, rozdělené podle orgánových systémů a frekvence. Jejich frekvence je definována za použití následujících pravidel: velmi časté (≥1/10), (časté (≥1/100 až <1/10), méně časté (≥1/1000 až <1/100), vzácné (≥1/10000 až <1/1000), velmi vzácné (<1/10000) nebo neznámá frekvence (není možné odhadnout z dostupných dat).
+Tabulka 3
+Tabulka nežádoucích účinků
+
+
+Třída orgánových systémů
+Poruchy imunitního systému Poruchy nervového systému
+
+
+
+
+
+
+
+
+
+
+
+Oční poruchy Srdeční poruchy
+
+
+Cévní poruchy
+
+
+Respirační, hrudní a mediastinální poruchy
+Gastrointestinální poruchy
+
+
+Poruchy ledvin a močových
+cest
+Četnost výskytu
+Vzácné
+
+Časté Méně časté
+
+
+
+
+
+
+Vzácné
+
+
+Vzácné Časté Vzácné
+Velmi časté Časté Vzácné
+Velmi časté Časté
+Časté
+Nežádoucí účinky
+Alergické reakce, anafylaktická reakce / šok (viz bod 4.4)
+Parestézie, závratě
+Známky a příznaky toxicity na CNS (křeče, cirkumorální parestézie, necitlivost jazyka, poruchy vidění a slyšení (hyperakusie), ztráta vědomí, třes, točení hlavy, zvonění v uších, dysartrie, záškuby svalů).
+Neuropatie, poranění periferních nervů, arachnoitida, paréza a paraplegie
+Diplopie
+Bradykardie (viz bod 4.4)
+Zástava srdce (viz bod 4.4), srdeční arytmie
+Hypotenze (viz bod 4.4) Hypertenze (viz bod 4.4) Útlum dechu
+Nauzea Zvracení Retence moči
+
+
+
+9
+
+Jaterní dysfunkce, s reverzibilním zvyšováním S-ALT, S-AST, alkalickými fosfáty a bilirubinem, byla pozorována po opakovaných injekcích nebo dlouhodobých infuzích bupivakainu. Pokud se objeví známky jaterní dysfunkce během léčby bupivakainem, měl by být vysazen.
+Pediatrická populace
+Nežádoucí účinky u dětí jsou podobné jako u dospělých, avšak u dětí je někdy obtížné zjistit časné projevy toxicity v případech, že regionální blokáda je prováděna v celkové anestezii.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9. Předávkování
+Při náhodné intravaskulární aplikaci přípravku jsou systémové toxické projevy zřejmé v průběhu několika sekund až minut. Při předávkování je v závislosti na místě aplikace dosaženo maximálních plazmatických koncentrací asi v průběhu 15-60 minut od podání a projevy systémové toxicity nastupují tedy později.
+Akutní systémová toxicita
+Projevy systémové toxicity zahrnují symptomatologii centrálního nervového systému a systému kardiovaskulárního. Tyto reakce jsou způsobeny vysokými plazmatickými koncentracemi lokálního anestetika, které mohou být dosaženy po náhodné intravaskulární aplikaci, předávkování nebo výjimečně rychlé absorpci ze silně vaskularizované oblasti (viz bod 4.4). Centrální projevy jsou společné pro všechna lokální anestetika amidového typu, zatímco kardiální projevy jsou více závislé na typu léčiva, kvalitativně i kvantitativně.
+K projevům toxicity vyvolaným účinkem anestetika na centrální nervový systém patří známky a příznaky s odstupňovanou závažností. Prvními symptomy jsou obvykle lehké točení hlavy, cirkumorální parestezie, necitlivost jazyka, hyperakuse, tinnitus a poruchy zraku. Závažnější symptomy, které předcházejí nástupu generalizovaných křečí, zahrnují dysartrii, svalový třes a svalové záškuby. Tyto známky nesmí být chybně považovány za neurotické projevy. Obvykle následuje závažná porucha vědomí se záchvatem tonicko-klonických křečí trvajícím několik sekund až minut. V průběhu křečí se rychle vyvíjí hypoxie a hyperkapnie jako výsledek zvýšené svalové aktivity a zhoršené plicní ventilace. V těžkých případech se objevuje apnoe. Rozvíjí se acidóza, hyperkalémie a hypoxie, které zvyšují toxický účinek lokálního anestetika.
+K obnovení vitálních funkcí však může dojít rychle, což je výsledkem rychlé redistribuce farmaka z centrálního nervového systému, následné metabolizace a vylučování. Pokud nebyly aplikovány vysoké dávky lokálního anestetika, zotavení může být rychlé.
+Kardiovaskulární projevy systémové toxicity lze pozorovat v těžkých případech a obvykle jim předcházejí příznaky toxicity CNS. U pacientů utlumených sedativy nebo při současné aplikaci celkových anestetik mohou prodromální centrální příznaky toxicity chybět. Výsledkem vysokých systémových koncentrací lokálního anestetika je hypotenze, bradykardie, arytmie a někdy i srdeční zástava. Vzácně došlo k srdeční zástavě při vysokých koncentracích lokálního anestetika i bez předchozích centrálních projevů systémové toxicity.
+U dětí může být těžké zjistit časné projevy toxicity v případech, že regionální blokáda je prováděna v celkové anestezii.
+
+10
+
+Léčba akutní toxicity
+V případě akutních toxických projevů je nutné okamžitě přerušit aplikaci lokálního anestetika.
+Léčba pacienta se systémovou toxicitou se skládá z odstranění křečí a zajištění dostatečné ventilace s kyslíkem, pokud je to nutné asistovanou nebo řízenou ventilaci (dýchání). Objeví-li se křeče, musí být co nejrychleji léčeny intravenózní injekcí antikonvulziva. Prodloužené trvání křečí může ohrozit ventilaci a oxygenaci pacienta. Pokud tomu tak je, je nutná injekce k relaxaci svalů, usnadní ventilaci, a oxygenace může být řízena. V takových situacích je nutno zvážit endotracheální intubaci.
+Poté, co byly křeče zastaveny a byla zajištěna dostatečná ventilace plic, není obvykle nutná žádná jiná léčba. Pokud je přítomna hypotenze, je vhodná léčba vasopresory, přednostně s inotropní aktivitou, např. efedrin, který se podává intravenózně.
+Pokud hrozí zástava oběhu, měla by být zahájena okamžitá kardiopulmonální resuscitace. Optimální
+oxygenace a ventilace a oběhová podpora, stejně jako léčba acidózy jsou životně důležité.
+Pokud se vyskytuje kardiovaskulární deprese (hypotenze, bradykardie) měla by být brána v úvahu vhodná léčba intravenózními roztoky, vazopresorickými, inotropními léky a / nebo emulze lipidů. U dětí by měly být dávky úměrné věku a hmotnosti.
+Srdeční zástava v důsledku bupivakainu může být odolná vůči elektrické defibrilaci a resuscitace musí pokračovat, energicky po delší dobu.
+Vysoký stupeň nebo totální spinální blokáda způsobující respirační paralýzu a hypotenzi během epidurální anestezie by měla být léčena zabezpečením a udržením průchodnosti dýchacích cest a dodáváním kyslíku asistovanou nebo řízenou ventilací.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: lokální anestetikum amidového typu. ATC klasifikace: N01BB01.
+Mechanismus účinku s farmakodynamickým efektem
+Bupivakain hydrochlorid je dlouhodobě účinné lokální anestetikum amidového typu s anestetickým i analgetickým účinkem. Ve vysokých dávkách vyvolává chirurgickou anestezii, v nižších dávkách senzorickou blokádu (analgezii) s méně vyznačenou motorickou blokádou.
+Nástup a trvání lokálně anestetického účinku bupivakainu závisí na dávce a místě aplikace.
+Bupivakain, podobně jako jiná lokální anestetika, vyvolává reverzibilní blokádu propagace impulzů podél nervového vlákna tím, že vazbou na sodíkové kanály brání influxu sodíkových iontů přes membránu nervového vlákna. Sodíkové kanály nervových membrán jsou považovány za receptory pro molekuly lokálního anestetika.
+Podobný účinek vykazují lokální anestetika i na jiných excitabilních membránách, např. v mozku a myokardu. Pokud je rychle dosaženo vysokých plazmatických koncentrací, objevují se známky toxicity, především centrální a kardiovaskulární.
+Projevy toxicity CNS (viz 4.8.1) zpravidla předcházejí projevům kardiovaskulárním, protože se objevují při nižších plazmatických koncentracích anestetika. Přímý vliv lokálních anestetik na srdce zahrnuje negativně dromotropní a negativně inotropní účinek a eventuálně srdeční zástavu.
+Nepřímé kardiovaskulární účinky (hypotenze a bradykardie) se mohou objevit po epidurální aplikaci a závisí na rozsahu současné blokády sympatiku.
+5.2. Farmakokinetické vlastnosti
+Absorpce
+Bupivakain má hodnotu disociační konstanty (pKa) = 8,2 a hodnotu rozdělovacího koeficientu (D) = 346; 25 °C n-oktanol / fosfátový pufr pH 7,4. Aktivita metabolitů bupivakainu je nižší než aktivita bupivakainu.
+
+
+11
+
+Plazmatická koncentrace bupivakainu závisí na podané dávce, způsobu podání a vaskularizaci místa aplikace.
+Bupivakain vykazuje úplnou absorpci bifázického charakteru z epidurálního prostoru s poločasy absorpce 7 minut, resp. 6 hodin. Pomalejší fáze absorpce je limitujícím faktorem pro eliminaci bupivakainu. Zdánlivý eliminační biologický poločas po epidurální aplikaci je delší než po intravenózní aplikaci.
+Distribuce a eliminace
+Bupivakain má hodnotu celkové plazmatické clearance (Clp) 0,58 l/min, hodnotu distribučního objemu v ustáleném stavu (Vd ss) 73 l, eliminační biologický poločas (T1/2) 2,7 hod. a střední hepatální extrakční poměr (EH) 0,38 po intravenózním podání. V plazmě je z 96% vázán, především na kyselý alfa1-glykoprotein. Clearance bupivakainu je téměř úplně zprostředkována jaterním metabolismem a závisí spíše na aktivitě jaterních enzymů než na průtoku krve játry.
+Pediatrická populace
+Farmakokinetika bupivakainu u dětí je podobná farmakokinetice u dospělých.
+Vzestup celkové plazmatické koncentrace byl pozorován v průběhu kontinuální epidurální infúze. Je to důsledek zvýšení koncentrace kyselého alfa1-glykoproteinu v plazmě po operaci. Podíl farmakologicky aktivní volné frakce léčiva je podobný před operací i po operaci.
+Bupivakain snadno přechází přes placentární bariéru a brzy je dosaženo rovnovážné koncentrace volné frakce. Stupeň vazby na plazmatické proteiny u plodu je menší než u matky, což má za následek celkově nižší plazmatické koncentrace na straně plodu
+Bupivakain je intenzivně metabolizován v játrech, především hydroxylací aromatického kruhu na 4- hydroxybupivakain a N-dealkylací na pipekolylxylidin (PPX). Obě reakce jsou zprostředkovány isoenzymy 3A4 cytochromu P 450. V průběhu 24 hodin se vyloučí do moči asi 1% z podané dávky bupivakainu v nezměněné formě a asi 5% jako N-dealkylovaný metabolit PPX. Plazmatické koncentrace PPX a 4-hydroxybupivakainu v průběhu kontinuálního podání jsou ve srovnání s bupivakainem nízké.
+5.3. Předklinické údaje vztahující se k bezpečnosti
+V předklinických studiích s bupivakainem zaměřených na bezpečnostní farmakologii, akutní a chronickou toxicitu, data neukazují na žádné jiné, než ty, které již hlášeny jinde v tomto dokumentu zmíněny.
+Mutagenní a karcinogenní potenciál bupivakainu nebyl stanoven.
+Bupivakain prochází placentou. Ve studiích reprodukční toxicity byly pozorovány snížení přežití mláďat potkanů a embryoletalita u králíků při podávání dávek bupivakainu, které byly pěti nebo devítinásobky maximální doporučené denní dávky u lidí. Studie u opic makak rhesus ukázaly změněné postnatální chování po expozici bupivakainem při narození.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+chlorid sodný
+hydroxid sodný (E524) na úpravu pH
+voda na injekci
+6.2. Inkompatibility
+Tento léčivý přípravek nesmí být smíchán s jinými léčivými přípravky s výjimkou těch uvedených v bodě 6.6.
+6.3. Doba použitelnosti
+3 roky.
+
+12
+
+Po naředění: Byla prokázána chemická a fyzikální stabilita přípravku pro 7 dní při teplotě 20 °C – 25 °C v non-PVC obalech. Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, jsou doba a podmínky uchovávání přípravku po otevření před použitím na odpovědnosti uživatele a normálně by neměly být delší než 24 hodin při 2°C – 8°C, pokud ředění a přidání aditiv neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4. Zvláštní opatření pro uchovávání
+Chraňte před chladem a mrazem.
+6.5. Druh obalu a obsah balení
+Ampule z čirého skla třídy I a lahvičky z čirého skla třídy I s pryžovou zátkou a odtrhovacím uzávěrem.
+Bupivacaine Accord 2,5 mg/ml injekční roztok:
+5ml ampule s bílým páskem jsou dostupné v balení po 5 a 10 ampulích.
+10ml ampule se zeleným páskem jsou dostupné v balení ro 5, 10, 15 a 20 ampulích.
+20ml lahvičky s chlorobutylovým pryžovým uzávěrem a oranžovým odtrhovacím víčkem jsou dostupné v balení po 1 lahvičce.
+
+Bupivacaine Accord 5 mg/ml injekční roztok:
+2 ml ampule s dvěmi oranžovými proužky jsou dostupné v balení po 5 a 10 ampulích.
+4 ml ampule s červeným páskem jsou dostupné v balení po 5 a 10 ampulích.
+5 ml ampule s modrým páskem jsou dostupné v balení po 5 a 10 ampulích.
+10 ml ampule se žlutým páskem jsou dostupné v balení po 5, 10, 15 a 20 ampulích.
+20 ml lahvičky s chlorobutylovým pryžovým uzávěrem a oranžovým odtrhovacím víčkem jsou dostupné v balení po 1 lahvičce.
+Na trhu nemusí být všechny velikosti balení.
+6.6. Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Pouze k jednorázovému použití. Po otevření ihned spotřebujte.
+Pouze čiré roztoky bez částic by měly být použity. Všechen nepoužitý roztok musí být zlikvidován. Způsob přípravy 1,25 mg / ml koncentrace:
+Bupivacaine Accord 2,5 mg/ml injekční roztok:
+•  Vyjměte 250 ml rozpouštědla z 500ml non-PVC vaku/lahve a přidejte 250 ml přípravku Bupivacaine Accord 2,5 mg/ml injekční roztok do 500ml non-PVC vaku/lahve tak, aby byla výsledná koncentrace 1,25 mg/ml.
+•  Vak/láhev by měla být lehce protřepána kvůli stejnoměrnosti. Bupivacaine Accord 5 mg/ml injekční roztok:
+•  Vyjměte 125 ml rozpouštědla z 500 ml non-PVC vaku/lahve a přidejte 125 ml přípravku Bupivacaine Accord 2,5 mg/ml injekční roztok do 500 ml non-PVC vaku/lahve tak, aby byla výsledná koncentrace 1,25 mg/ml.
+•  Taška/láhev by měla být lehce protřepána kvůli stejnoměrnosti.
+
+Způsob přípravy 2,5 mg / ml koncentrace:
+Bupivacaine Accord 5 mg/ml injekční roztok:
+•  Vyjměte 250 ml rozpouštědla z 500 ml non-PVC vaku/lahve a přidejte 250 ml přípravku Bupivacaine Accord 5 mg/ml injekční roztok do 500 ml non-PVC vaku/lahve tak, aby byla výsledná koncentrace 2,5 mg/ml.
+
+13
+
+•  Vak/láhev by měla být lehce protřepána kvůli stejnoměrnosti.
+Bupivacaine Accord je kompatibilní při mísení s 0,9% w/v (9 mg/ml) roztoku chloridu sodného a Ringer- laktátovým roztokem. Nicméně, tento léčivý přípravek se nesmí mísit s jinými léčivými přípravky.
+Všechen nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Do 28. 3. 2019:
+Accord Healthcare Limited Sage House, 319 Pinner Road
+North Harrow, Middlesex, HA1 4HF
+Velká Británie
+
+Od 29. 3. 2019:
+Accord Healthcare Polska Sp. z o.o. ul. Taśmowa 7
+02-677, Varšava Polsko
+
+8. REGISTRAČNÍ ČÍSLO
+Bupivacaine Accord 2,5 mg/ml injekční roztok:01/027/16-C Bupivacaine Accord 5 mg/ml injekční roztok:01/028/16-C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 27. 1. 2016
+
+10. DATUM REVIZE TEXTU
+27. 2. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

@@ -1,0 +1,442 @@
+sp.zn. sukls21574/2021
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Gentamicin Lek 80 mg/2 ml injekční/infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna ampulka se 2 ml injekčního roztoku obsahuje gentamicinum 80 mg (jako gentamicini sulfas).
+Pomocné látky se známým účinkem:
+Tento přípravek obsahuje 16 mg propylenglykolu, 1,6 mg methylparabenu, 0,2 mg propylparabenu,
+1,6 mg disiřičitanu sodného v 1 ampulce.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Injekční/infuzní roztok
+
+Popis přípravku:
+Bezbarvý nebo téměř bezbarvý, čirý roztok.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Gentamicin Lek je indikován k léčbě vážných systémových infekcí vyvolaných aerobními gramnegativními mikroorganismy, citlivými na gentamicin, jako jsou např. tyto infekce:
+• sepse
+• závažné opakované infekce močových cest
+• infekce dolních dýchacích cest
+•  infekce centrálního nervového systému (včetně meningitidy), k systémové a intratekální
+aplikaci
+• infekce kostí a kloubů
+• endokarditida
+• kožní infekce a infekce měkkých tání
+• infekce popálenin, zranění a chirurgických ran
+•  břišní infekce a jejich prevence, zejména po chirurgických výkonech na močových cestách a
+v trávicím ústrojí (obvykle v kombinaci s metronidazolem a klindamycinem).
+
+Gentamicin je lék volby také při léčbě těžkých bakteriálních infekcí vyvolaných neznámými původci a infekcí, doprovázejících onemocnění a situace závažnou měrou snižující odolnost
+
+
+1/11
+
+organismu (např. diabetes mellitus, leukemie, terapie glukokortikoidy). V těchto případech se gentamicin obvykle používá v kombinaci s beta-laktamovými antibiotiky.
+Gentamicin je účinný zejména při infekcích vyvolaných gramnegativními mikroorganismy a stafylokoky. Je účinný také při závažných novorozeneckých infekcích.
+Je nutné brát v úvahu oficiální doporučení o vhodném použití antibakteriálních látek.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Gentamicin Lek se může podávat intramuskulárně, intravenózně nebo intratekálně. Dávkování, cesta podání a interval mezi jednotlivými dávkami závisí na typu a závažnosti infekce, na citlivosti mikroorganismu a na stavu pacienta (na věku, na funkci ledvin). Podání v jediné denní dávce má silnější  baktericidní  účinek,  protože  je  dosaženo  vyšší  koncentrace  gentamicinu.  Také antibakteriální účinek dávky následující je v důsledku prodlouženého intervalu výraznější. Vhodná výchozí dávka se orientačně vypočte na základě pacientovy tělesné hmotnosti. V jediné denní dávce se gentamicin nepodává pacientům s poruchami imunity, s těžkou poruchou renálních funkcí a s infekční endokarditidou a těhotným ženám.
+
+Dospělí, děti (2 – 11 let) a dospívající (12 – 16 let)
+Doporučená denní dávka u dětí, dospívajících a dospělých s normální funkcí ledvin je 3-6 mg/kg
+tělesné hmotnosti denně, podaná v jedné (upřednostňováno) až dvou jednotlivých dávek.
+
+Kojenci a batolata (28 dní a 23 měsíců)
+Doporučená denní dávka u dětí od 1 měsíce života je 4,5-7,5 mg/kg tělesné hmotnosti denně, podaná v jedné (upřednostňováno) až dvou jednotlivých dávek.
+
+Novorozenci (0 – 27 dní)
+Doporučená denní dávka u novorozenců je 4-7 mg/kg tělesné hmotnosti denně. Vzhledem
+k delšímu eliminačnímu poločasu má být novorozencům podána v jedné dávce.
+
+Porucha funkce ledvin
+Při poruše funkce ledvin je třeba dávkování gentamicinu upravit. Úvodní dávka je stejná jako u pacientů s normální funkcí ledvin; při další léčbě je však třeba prodloužit intervaly mezi jednotlivými dávkami.
+Protože clearance aminoglykosidů výrazně koreluje s clearance kreatininu, dá se požadované dávkování gentamicinu vypočítat na základě clearance kreatininu.
+
+Při stanovení dávek gentamicimu je třeba si uvědomit, že dávkování určené tímto postupem je pouze přibližné a že stejnými dávkami může být u různých pacientů dosaženo rozdílných koncentrací gentamicinu v séru. Proto je třeba koncentraci gentamicinu sledovat a dávkování přiměřeně upravovat.
+
+Starší pacienti
+U starších pacientů je eliminační poločas gentamicinu prodloužen následkem snížené glomerulární filtrace. Snížení glomerulární filtrace se u starších pacientů neprojeví vždy zvýšením koncentrace kreatininu v séru. Proto je třeba u starších pacientů stanovovat clearance kreatininu.
+
+Monitorování
+Doporučuje se sledování gentamicinu v séru, obzvláště u starších pacientů, novorozenců a u pacientů se sníženou funkcí ledvin. Vzorky se odebírají na konci dávkovacího intervalu (minimální
+2/11
+
+koncentrace). Tato minimální koncentrace nemá překročit 2 μg/ml, pokud je gentamicin podáván dvakrát denně, a 1 μg/ml, pokud je gentamicin podáván jednou denně.
+Intravenózní podání
+Dávky jsou stejné jako při podání intramuskulárním. Gentamicin se aplikuje buď přímo pomalou intravenózní injekcí (3 – 5 minut, ale ne déle než 15 minut) anebo pomalou infuzí (30 – 60 minut). Maximální dávka při přímé intravenózní injekci je pro dospělého pacienta 80 mg gentamicinu; dávku vyšší je nutno podat krátkodobou infuzí.
+
+Podává-li se gentamicin v krátkodobé infuzi, obvyklý objem rozpouštědla (běžného izotonického roztoku chloridu sodného 9 mg/ml, tj. 0,9% roztoku, anebo glukózy 50 mg/ml, tj. 5% infuzního roztoku glukózy) je 100 ml pro dospělé; pro děti je objem rozpouštědla přiměřeně menší, v závislosti na dávce. Koncentrace gentamicinu v roztoku nesmí překročit 1 mg/ml (0,1 %). Infuze trvá 20 až 30 minut, pokud se podává několikrát denně. Jestliže se celodenní dávka přípravku podává jedinou infuzí za den, trvá aplikace 30 až 60 minut.
+
+Maximální denní dávka gentamicinu je 7,5 mg/kg, podaná rozděleně ve třech jednotlivých dávkách.
+
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+U běžných bakteriálních infekcí se délka léčby řídí průběhem onemocnění. Terapie v rozmezí 7 – 14 dní je obvykle postačující.
+
+4.3  Kontraindikace
+
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-  Hypersenzitivita na aminoglykosidy.
+
+4.4  Zvláštní upozornění a opatření pro použití
+U pacientů s pokročilou poruchou funkce ledvin nebo s preexistující hluchotou nitroušního původu má být gentamicin použit pouze ve vitální indikaci.
+Jelikož má gentamicin vlastnosti neuromuskulárního blokátoru, zvláštní pozornost má být věnována pacientům s existujícími neuromuskulárními poruchami (např. myasthenia gravis, Parkinsonova choroba).
+
+Stejná pozornost má být věnována pacientům, kterým jsou souběžně podávána myorelaxancia (např. u peroperační aplikace gentamicinu).
+
+Léčba gentamicinem může způsobit nadměrný růst rezistentních mikroorganismů. Pokud k tomu dojde, má být zahájena odpovídající léčba.
+Při kombinaci gentamicinu s jinými antibiotiky byl pozorován průjem a pseudomembranózní kolitida. Tyto diagnózy je třeba vzít v úvahu u každého pacienta, u kterého se během léčby nebo bezprostředně po ní objeví průjem. Gentamicin má být vysazen, pokud má pacient během léčby závažný průjem a/nebo průjem s příměsí krve, a má být zahájena odpovídající léčba. Léky, které inhibují peristaltiku, se nesmí podávat (viz bod 4.8).
+
+
+
+3/11
+
+Upozornění
+-  Aby se předešlo nežádoucím účinkům, doporučuje se průběžné (před, během i po) sledování renálních funkcí (kreatinin v séru, clearance kreatininu), funkce vestibulární a kochleární, stejně jako hepatálních a laboratorních parametrů.
+-  Striktně dávkovat podle clearance kreatininu (nebo sérové koncentrace kreatininu). U pacientů s
+poruchou funkce ledvin, musí být dávkování upraveno podle stavu funkce ledvin.
+-  U pacientů s poruchou funkce ledvin, kteří dostávají další gentamicin lokálně (inhalací, endotracheální instilací) musí být vzato při úpravě dávkování během systémové terapie do úvahy rovněž množství lokálně absorbovaného gentamicinu.
+-  Monitoring sérových koncentrací gentamicinu v průběhu léčby, aby nedošlo k překročení maximálních hladin 10-12 mg/l (práh toxicity pro kochleovestibulární systém) při obvyklém podávání denní dávky vícekrát denně nebo při minimálních hladinách převyšujících 2 mg/l.
+-  Je-li to možné, měla by být délka léčby omezena na 10-14 dnů (viz bod 4.2).
+-  Vyvarovat se léčby aminoglykosidy bezprostředně po předchozí léčbě aminoglykosidy; je-li to
+možné, má být mezi nimi interval 7-14 dnů.
+-  Vyvarovat se, je-li to možné, současnému podávání jiných ototoxických a nefrotoxických látek.
+Je-li to nevyhnutelné, je obzvláště vyžadován pečlivý monitoring renálních funkcí.
+-  Zajistit patřičnou hydrataci a produkci moče.
+Gentamicin Lek obsahuje methylparaben, propylparaben, disiřičitan sodný, propylenglykol a sodík.
+Přípravek Gentamicin Lek obsahuje methylparaben (E 218) a propylparaben (E 216). Mohou způsobit alergické reakce (pravděpodobně zpožděné) a výjimečně bronchospasmus Přípravek Gentamicin Lek obsahuje disiřičitan sodný (E 223).
+Vzácně může způsobovat těžké alergické reakce a bronchospasmus.
+Tento léčivý přípravek obsahuje propylenglykol. Současné podávání s jakýmkoli substrátem alkoholdehydrogenázy, jako je ethanol, může vyvolat závažné nežádoucí účinky u novorozenců. Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v 1 ampulce, to znamená, že je v podstatě „bez sodíku“.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Antibiotika
+Kombinovaná  léčba  vhodnými  antibiotiky  (např.  beta-laktamová  antibiotika)  může  vést
+k synergickému účinku.
+
+Synergické  účinky  byly  popsány  s acylaminopeniciliny  na  Pseudomonas  aeruginosa, s ampicilinem na Enterococci a s cefalosporiny na Klebsiella pneumoniae.
+
+Potenciálně nefrotoxické a ototoxické léky
+Kvůli zvýšenému riziku výskytu nežádoucích účinků je u pacientů, současně nebo následně léčených potenciálně nefrotoxickými nebo ototoxickými léky, jako jsou např. amfotericin B, kolistin, cyklosporin, cisplatina, vankomycin, kličková diuretika, jako jsou kyselina etakrynová a furosemid, nutný pečlivý monitoring.
+
+V případě, že lék obsahuje cisplatinu, je nutné vzít v úvahu, že nefrotoxicita gentamicinu může být zvýšena dokonce ještě 3-4 týdny po podání těchto látek.
+
+Methoxyfluranová anestezie
+
+4/11
+
+Aminoglykosidy mohou zvýšit nefrotoxický účinek methoxyfluranu. Je-li podáván současně, jsou možné extrémně závažné nefropatie. Anesteziolog má být před chirurgickým výkonem upozorněn na používání aminoglykosidů.
+
+Myorelaxancia a ether
+Aktivita  aminoglykosidů  ve  smyslu  neuromuskulární  blokády  je  zvyšována  etherem  a myorelaxancii.
+Je-li gentamicin podáván během nebo bezprostředně po chirurgickém výkonu, neuromuskulární blokáda může být zvýšena a prodloužena, jsou-li použity nedepolarizující myorelaxancia. Tyto interakce mohou způsobit neuromuskulární blokádu a respirační paralýzu. Kvůli zvýšenému riziku mají být takoví pacienti být obzvlášť pečlivě monitorováni.
+Injekce kalcium-chloridu může neuromuskulární blokádu vyvolanou aminoglykosidy zvrátit.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání gentamicinu těhotným ženám nejsou k dispozici. Studie na zvířatech prokázaly reprodukční toxicitu gentamicinu (viz bod 5.3). Gentamicin prostupuje placentou a existuje potenciální riziko poškození vnitřního ucha a ledvin plodu. Proto má být gentamicin používán během těhotenství pouze v případě vitální indikace.
+
+Kojení
+Gentamicin se vylučuje do lidského mateřského mléka v malém množství. Pro potenciální závažné nežádoucí účinky aminoglykosidů na kojence má být zváženo přerušení kojení anebo používání léčivého přípravku s ohledem na význam podávání léčiva pro matku.
+
+Fertilita
+V testech akutní toxicity na laboratorních zvířatech gentamicin neovlivnil fertilitu ani reprodukční
+funkce (viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Nejsou známy.
+
+4.8  Nežádoucí účinky
+
+Za určitých okolností má gentamicin ototoxické a/nebo nefrotoxické účinky. Porucha funkce ledvin je často pozorováno u pacientů léčených gentamicinem a po vysazení léčby je obvykle reverzibilní. Ve většině případů je nefrotoxicita spojena s nepřiměřeně vysokými dávkami nebo prolongovanou léčbou, preexistujícími renálními abnormalitami nebo je spojena s podáváním jiných látek, o nichž je známo, že jsou nefrotoxické.
+
+Nežádoucí účinky, které se mohou v průběhu terapie gentamicinem objevit, se podle frekvence výskytu třídí takto:
+-  velmi časté ( ≥1/10)
+-  časté (≥1/100 až <1/10)
+-  méně časté (≥1/1 000 až <1/100)
+-  vzácné (≥1/10 000 až <1/1 000)
+-  velmi vzácné (<10 000)
+-  není známo (z dostupných údajů nelze určit).
+
+5/11
+
+V každé této skupině četnosti jsou nežádoucí účinky seřazeny sestupně podle závažnosti, v souladu s terminologií MedDRA.
+
+Frekvence nežádoucích účinků na jednotlivé orgánové systémy:
+
+Infekce a infestace
+Není známo : superinfekce (způsobená bakteriemi rezistentními na gentamicin), pseudomembranózní kolitida.
+
+Poruchy krve a lymfatického systému
+Velmi vzácné: Trombocytopenie, leukopenie, anémie, eozinofilie, granulocytopenie
+Vzácné:  Syndrom  charakterizovaný  hypokalemií,  hypokalcemií  a  hypomagnesemií  -  při dlouhodobé terapii (déle než 4 týdny) vysokými dávkami gentamicinu.
+
+Poruchy imunitního systému
+Není známo: anafylaktické reakce (včetně anafylaktického šoku) a hypersenzitivita
+
+Poruchy nervového systému
+Není známo: poškození sluchového nervu (n. VIII), porucha vestibulárního ústrojí a porucha
+sluchu.
+
+V případě ototoxických reakcí převažují vestibulární poruchy. Poruchy sluchu nejdříve postihuji vysokofrekvenční rozmezí a jsou většinou ireverzibilní. Nejdůležitějším rizikovým faktorem je již existující renální insuficience. Riziko navíc roste s výší celkové a denní dávky.
+
+Příznaky ototoxického působení jsou např. vertigo, tinitus, ztráta sluchu, nauzea, zvracení,
+nystagmus.
+
+Velmi vzácné: polyneuropatie a periferní parestezie.
+
+Jelikož má gentamicin vlastnosti neuromuskulárního blokátoru, zvláštní pozornost je vyžadována u pacientů s poruchou neuromuskulárního přenosu (např. myasthenia gravis, Parkinsonova choroba) stejně jako při souběžném podávání myorelaxancií.
+
+Poruchy ucha a labyrintu
+Není známo: ireverzibilní ztráta sluchu, hluchota.
+
+Poruchy jater a žlučových cest
+Vzácné: Reverzibilní zvýšení jaterních enzymů (aminotransferázy, alkalická fosfatáza) a sérových koncentrací bilirubinu.
+
+Poruchy ledvin a močových cest
+Časté: Porucha funkce ledvin. Renální dysfunkce, jako je porucha rychlosti glomerulární filtrace, je pozorována u přibližně 10 % pacientů a je většinou reverzibilní. Nejdůležitějšími rizikovými faktory jsou vysoká celková dávka, dlouhodobá léčba a zvýšené sérové hladiny (vysoké nejnižší hladiny). Dalšími rizikovými faktory jsou věk, hypovolemie a šok.
+Mezi klinické známky poškození ledvin patří: proteinurie, cylindrurie, hematurie, oligurie a zvýšené hladiny kreatininu a urey v séru.
+
+Velmi vzácné: akutní selhání ledvin, syndrom podobný Fanconiho syndromu (Fanconi-like syndrom) u pacientů dlouhodobě léčených vysokými dávkami.
+6/11
+
+Poruchy kůže a podkožní tkáně
+Není známo: Stevensův-Johnsonův syndrom, toxická epidermální nekrolýza.
+
+
+Celkové poruchy a reakce v místě aplikace Není známo: bolest v místě aplikace.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosu a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu: Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+
+Gentamicin má úzké terapeutické rozmezí. V případě akumulace (např. jako následek poruchy funkce ledvin) se může objevit porucha funkce ledvin a poškození vestibulokochleárního nervu.
+
+Léčba při předávkování
+Přerušit léčbu. Žádné specifické antidotum není. Gentamicin může být z krve odstraněn hemodialýzou (peritoneální dialýzou je odstranění pomalejší a není kontinuální).
+
+Léčba neuromuskulární blokády
+V případě neuromuskulární blokády (obvykle vyvolané interakcemi, viz bod 4.5) se doporučuje podání kalcium-chloridu a může být zapotřebí zavést řízené dýchání.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Aminoglykosidová antibiotika, jiné aminoglykosidy, gentamicin
+ATC kód: J01GB03
+Mechanismus účinku
+Gentamicin je baktericidní antibiotikum, které se ireverzibilně váže na 30S-podjednotku ribozomů, a tím inhibuje proteinovou syntézu a růst bakterií.
+Mechanismy rezistence
+Rezistence bakterií na gentamicin je dána změnami ribozomů, neúčinností transferu gentamicinu do buňky a dekompozicí gentamicinu různými enzymy. Tento poslední mechanismus má pro rezistenci v klinické praxi největší význam. V průběhu léčby se rezistence na gentamicin vyvine velmi vzácně.
+
+Hraniční hodnoty
+Hraniční koncentrace MIC (minimální inhibiční koncentrace) EUCAST pro gentamicin (verze 3.1, 2013):
+
+Patogen Enterobacteriaceae Pseudomonas spp. Acinetobacter spp. Staphylococcus spp. Staphylococcus aureus
+Citlivý
+≤ 2 mg/l
+≤ 4 mg/l
+≤ 4 mg/l
+≤ 1 mg/l
+≤ 1 mg/l
+Rezistentní
+> 4 mg/l
+> 4 mg/l
+> 4 mg/l
+> 1 mg/l
+> 1 mg/l
+7/11
+
+Koaguláza-negativní stafylokoky Enterococcus spp.
+Hraniční  koncentrace
+druhově nezávislé ²
+H. influenzae
+M. catarrhalis
+≤ 1 mg/l Poznámka¹
+≤ 2 mg/l
+NP
+> 1 mg/l
+
+Poznámka¹
+
+> 4 mg/l NP
+
+
+² Test vysoké aminoglykosidové rezistence. Enterokoky mají vlastní rezistenci na aminoglykosidy a proto je monoterapie aminoglykosidy neúčinná. Pravděpodobná je synergie mezi aminoglykosidy a peniciliny nebo glykopeptidy proti enterokokům bez získané vysoké rezistence. Z tohoto důvodu je veškeré testování určeno k rozlišení mezi vlastní a vysokou získanou rezistencí. Negativní test: Izoláty s gentamicinem s MIC ≤128 mg/l nebo průměrem ≥8 mm. Izolát je divoký typ pro gentamicin a má nízkou vlastní rezistenci. To nemusí platit pro ostatní aminoglykosidy. Lze předpokládat synergii s peniciliny nebo glykopeptidy, pokud je izolát citlivý na penicilin nebo glykopeptidy. Pozitivní test: Izoláty s gentamicinem s MIC >128 mg/l nebo průměrem <8 mm. Izolát má vysokou rezistenci na gentamicin a další aminoglykosidy kromě streptomycinu, který v případě  potřeby  musí  být  testován  zvlášť.  Není  žádná  synergie  mezi  peniciliny  nebo glykopeptidy.
+² Druhově nezávislé kritické koncentrace byly stanoveny na základě farmakokinetických a farmakodynamických údajů pro intravenózní dávkování gentamicinu 3-4,5 mg/kg/den. Při absenci farmakokinetických a farmakodynamických dat jsou kritické koncentrace určeny hlavně na základě farmakokinetických dat a dřívějších kritických koncentrací.
+
+NP = možné cíle terapie gentamicinem, ale není dostatek průkazů na určení kritické koncentrace.
+
+Antibakteriální spektrum
+Přednostní rezistence vybraných mikrobiálních druhů může být variabilní jak v rozdílných oblastech, tak i v průběhu času, a zejména při léčbě těžkých infekcí je vhodné získat lokální informace o rezistenci. Podle potřeby je nutné vyžádat radu experta, jestliže převládající rezistence je taková, že účinnost léčiva je přinejmenším u některých typů infekcí sporná.
+
+Gentamicin je účinný proti některým grampozitivním organismům (Staphylococcus spp.) a proti
+široké škále gramnegativních mikroorganismů:
+Gramnegativní bakterie citlivé na gentamicin:
+-  většina enterobakterií: Escherichia coli, Enterobacter spp., Klebsiella, Proteus (indolpozitivní i indolnegativní),  Salmonella,  Shigella,  Providencia,  Serratia,  Citrobacter,  Hafnia, Edwardsiella,
+-  Pseudomonas aeruginosa,
+-  Brucella,  Moraxella,  Pasteurella  multocida,  Francisella  tularensis,  Acinetobacter calcoaceticus, Aeromonas spp,
+-  Campylobacter pylori, C. jejuni.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Maximální koncentrace 0,5 až 2 hodiny po intramuskulárním podání 80 mg gentamicinu se
+pohybuje od 4 do 12 μg/ml. Podobné koncentrace jsou dosaženy také po intravenózní infuzi.
+
+8/11
+
+Distribuce
+Distribuční objem gentamicinu přibližně odpovídá objemu extracelulární tekutiny. U novorozenců činí voda až 70-75 % tělesné hmotnosti, u dospělých je to 50-55 %. Podíl extracelulární tekutiny je vyšší (40 % tělesné hmotnosti v porovnání s 25 % u dospělých). Z toho důvodu je distribuční objem gentamicinu na kilogram tělesné hmotnosti ovlivněn a snižuje se s rostoucím věkem od 0,5 do 0,7 l/kg pro předčasně narozené novorozence, do 0,25 l/kg pro dospívající. Vyšší objem distribuce na kilogram tělesné hmotnosti znamená, že pro odpovídající maximální koncentraci je třeba podat vyšší dávku na kilogram tělesné hmotnosti.
+Gentamicin se váže na plazmatické proteiny z cca 10 až 30 %. Hematoencefalickou bariérou proniká špatně, v likvoru nedosáhne zvýšených hladin ani při meningitidě.
+Gentamicin prostupuje placentou, ve fetálním oběhu dosahuje zhruba 40 % koncentrace přítomné v mateřské krvi.
+Eliminační poločas gentamicinu je 2,5 hodiny a při poruše renálních funkcí je prodloužen.
+
+Biotransformace
+Gentamicin se v organismu nemetabolizuje.
+
+Eliminace
+Gentamicin se vylučuje v nezměněné, mikrobiologicky aktivní formě přednostně ledvinami. U pacientů s normální funkcí ledvin je eliminační poločas přibližně 2 až 3 hodiny. U novorozenců je rychlost eliminace snížena z důvodu nevyvinutých renálních funkcí.
+Eliminační poločas se u novorozenců v gestačním věku 26 až 34 týdnů pohybuje okolo 8 hodin v porovnání s přibližně 6,7 hodinami u novorozenců v gestačním věku 35 až 37 týdnů. Hodnoty clearance se pak rovněž zvyšují z přibližně 0,05 l/hod u novorozenců v gestačním věku 27 týdnů na 0,2 l/hod u novorozenců v gestačním věku 40 týdnů.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Testy akutní toxicity prokázaly nízkou toxicitu gentamicinu u myší, potkanů, králíků, morčat a opic. Hodnoty LD50 ležely mezi 20 mg/kg a 180 mg/kg po intravenózním podání a mezi 430 mg/kg a 780 mg/kg po podání intramuskulárním. Po opakovaném podávání dávek až 200 mg/kg denně potkanům, králíkům, psům a morčatům po dobu až 50 dní byly toxické změny zjištěny především v ledvinách a sluchovém ústrojí. Po opakované aplikaci se v místě podání objevily topické toxické účinky.
+Gentamicin neovlivnil fertilitu ani reprodukční funkce. U laboratorních zvířat byly pozorovány embryotoxické účinky.
+Gentamicin nemá mutagenní ani karcinogenní účinky.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Dinatrium-edetát methylparaben (E218) disiřičitan sodný (E223) propylenglykol propylparaben (E216)
+hydroxid sodný (pro úpravu pH) kyselina sírová (pro úpravu pH) voda pro injekci
+9/11
+
+6.2  Inkompatibility
+
+Beta-laktamová antibiotika mohou in vitro a méně často in vivo inaktivovat gentamicin. Tato reakce je významná, zejména použije-li se spolu s gentamicinem penicilin, karbenicilin a tikarcilin, a objeví se hlavně in vitro; proto se gentamicin a beta-laktamová antibiotika nesmějí mísit ve stejné injekční stříkačce nebo infuzní lahvi.
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 6.6.
+
+6.3  Doba použitelnosti
+
+5 let
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+
+6.5  Druh obalu a obsah balení
+
+Bezbarvá skleněná ampulka označená zeleným identifikačním proužkem a červenou tečkou.
+
+10 ampulek s 2 ml roztoku.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky. Roztok je bezbarvý nebo téměř bezbarvý, je čirý a neobsahuje viditelné částice.
+Před aplikací je třeba roztok k injekci/infuzi pečlivě prohlédnout, aby se zajistilo, že je čirý, neobsahuje  sraženiny  a  nezměnil  barvu.  Jestliže  je  vzhled  přípravku  pozměněn,  roztok k injekci/infuzi nepoužívejte.
+
+Gentamicin se ke krátkodobé intravenózní infuzi ředí do 100 ml 0,9% roztokem chloridu sodného pro injekci (9 mg/ml) anebo 5% roztokem glukózy pro infuzi (50 mg/ml). Koncentrace gentamicinu v roztoku nesmí překročit 1 mg/ml.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Lek Pharmaceuticals d.d., Verovškova 57, 1526 Ljubljana, Slovinsko
+
+8.   REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+15/ 278/91-B/C
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 28.8.1991
+Datum posledního prodloužení registrace: 12.6.2013
+10/11
+
+10.  DATUM REVIZE TEXTU
+19. 4. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11

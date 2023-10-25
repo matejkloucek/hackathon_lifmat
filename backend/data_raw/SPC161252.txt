@@ -1,0 +1,635 @@
+Sp. zn. sukls111869/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Olanzapin Sandoz 10 mg potahované tablety
+
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje olanzapinum 10 mg.
+
+Pomocné látky se známým účinkem:
+Jedna potahovaná tableta obsahuje 296,44 mg laktózy (jako monohydrát laktózy). Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Potahovaná tableta.
+Bílá, kulatá tableta, o průměru přibližně 10 mm, s půlicí rýhou na jedné straně.
+Potahovanou tabletu lze rozdělit na dvě stejné dávky.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+Dospělí
+Olanzapin je indikován k léčbě schizofrenie.
+Olanzapin je účinný pro udržení klinického zlepšení během pokračující terapie u pacientů, kteří na začátku léčby vykázali zlepšení.
+
+Olanzapin je indikován k léčbě středně těžkých až těžkých manických epizod.
+U pacientů, kteří na léčbu olanzapinem reagovali příznivě, je olanzapin indikován k prevenci recidivy bipolární afektivní poruchy (viz bod 5.1).
+4.2 Dávkování a způsob podání
+Dospělí
+Schizofrenie: doporučená zahajovací dávka olanzapinu je 10 mg/den.
+
+Manická epizoda: zahajovací dávka je 15 mg v jedné denní dávce v monoterapii nebo 10 mg denně v
+kombinaci (viz. bod 5.1).
+
+Prevence recidivy bipolární afektivní poruchy: doporučená zahajovací dávka je 10 mg/den. U pacientů, kteří byli v manické epizodě léčeni olanzapinem, je třeba v léčbě pokračovat kvůli prevenci recidivy stejnou dávkou. Pokud se objeví nová manická, smíšená nebo depresivní epizoda, léčba olanzapinem musí pokračovat (s optimalizací dávky podle potřeby) s přídatnou léčbou příznaků poruchy nálady podle klinické indikace.
+
+Během léčby schizofrenie, manických epizod a prevence recidivy bipolární afektivní poruchy může být denní dávkování následně přizpůsobeno na základě individuálního klinického stavu v rozmezí 5 až 20 mg/den. Zvýšení na vyšší než doporučenou zahajovací dávku se doporučuje jen po patřičném opětovném klinickém vyšetření a nemělo by se zpravidla objevit v intervalech kratších než 24 hodin. Olanzapin může
+
+1
+
+být podáván bez ohledu na příjem jídla, protože absorpce není ovlivňována potravou. Při vysazování
+olanzapinu je třeba zvážit postupné snižování dávky.
+Zvláštní populace Starší pacienti
+U pacientů starších 65 let není běžně indikována nižší zahajovací dávka (5 mg/den), ale v odůvodněných klinických případech je nutno ji zvážit (viz bod 4.4).
+
+Porucha funkce ledvin a/nebo jater
+U těchto pacientů je vhodné zvážit nižší zahajovací dávku (5 mg). V případě středně těžké nedostatečnosti jater (cirhóza, Child-Pugh třída A nebo B) má být zahajovací dávka 5 mg, kterou lze zvyšovat pouze opatrně.
+Kuřáci
+Ve srovnání s kuřáky není třeba nekuřákům rutinně upravovat ani zahajovací dávku, ani dávkové rozmezí.
+Metabolismus olanzapinu může být kouřením indukován. Doporučuje se klinické sledování, a v případě potřeby může být zváženo zvýšení dávky olanzapinu (viz bod 4.5).
+
+Při přítomnosti více než jednoho faktoru, který může zpomalovat metabolismus (ženské pohlaví, vyšší věk, nekuřák), je třeba zvážit snížení zahajovací dávky. Zvyšování dávek, i když je indikováno, musí být u takových pacientů prováděno opatrně.
+(Viz body 4.5 a 5.2)
+
+Pediatrická populace
+Podávání olanzapinu dětem a mladistvým ve věku do 18 let se vzhledem k nedostatečným údajům o bezpečnosti a účinnosti nedoporučuje. V krátkodobých studiích u adolescentních pacientů byly hlášeny vyšší hodnoty přibývání na váze a hladin lipidů a prolaktinu než ve studiích u dospělých (viz bod 4.4, 4.8, 5.1 a 5.2).
+
+4.3 Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Pacienti se známým rizikem glaukomu s úzkým úhlem.
+4.4 Zvláštní upozornění a opatření pro použití
+Při antipsychotické léčbě může trvat několik dní až týdnů, než dojde ke zlepšení klinického stavu pacienta.
+Po tuto dobu má být pacient pod pečlivou kontrolou.
+
+Psychózy a poruchy chování souvisejících s demencí
+Olanzapin není doporučen k podávání u pacientů s psychózou a/nebo poruchami chování souvisejících s demencí z důvodu zvýšené incidence mortality a zvýšeného rizika cerebrovaskulárních příhod. V placebem kontrolovaných studiích (v trvání 6-12 týdnů) u starších pacientů (střední hodnota věku 78 let) s psychózou a poruchami chování souvisejícími s demencí byla u pacientů léčených olanzapinem dvojnásobná incidence úmrtí ve srovnání s pacienty užívajícími placebo (3,5 % vs. 1,5 %). Vyšší incidence úmrtí nesouvisela s dávkou olanzapinu (průměrná denní dávka 4,4 mg) nebo s délkou léčby. Rizikovými faktory, které se mohou podílet na zvýšené mortalitě u této skupiny pacientů, jsou věk nad 65 let, dysfagie, sedace, malnutrice a dehydratace, plicní onemocnění (např. pneumonie, eventuálně i s aspirací) nebo současné užívání benzodiazepinů. Vyšší incidence úmrtí u pacientů léčených olanzapinem ve srovnání s pacienty užívajícími placebo byla však na uvedených rizikových faktorech nezávislá.
+
+Ve stejných klinických studiích byly hlášeny cerebrovaskulární nežádoucí příhody (CVAE, např. iktus, tranzitorní ischemické ataky), včetně úmrtí. U pacientů léčených olanzapinem bylo zaznamenáno trojnásobné zvýšení výskytu cerebrovaskulárních nežádoucích příhod ve srovnání s placebem (1,3 % vs. 0,4 %). U všech pacientů léčených olanzapinem nebo placebem, u nichž se cerebrovaskulární příhoda vyskytla, byly přítomny rizikové faktory. K faktorům, které byly zjištěny jako rizikové u pacientů
+
+2
+
+léčených olanzapinem, patřil věk nad 75 let a vaskulární a/nebo smíšená demence. Účinnost olanzapinu v těchto studiích nebyla stanovena.
+
+Parkinsonova choroba
+Použití olanzapinu na léčbu psychózy související s podáváním dopaminového agonisty u pacientů s Parkinsonovou chorobou se nedoporučuje. V klinických studiích bylo velmi často a s vyšší frekvencí než u placeba zaznamenáno zhoršení parkinsonské symptomatiky a halucinací (viz bod 4.8), přičemž olanzapin nebyl v léčení psychotických příznaků účinnější než placebo. V těchto studiích museli být pacienti na začátku studie stabilizováni na nejnižší účinné dávce antiparkinsonika (dopaminový agonista). Toto antiparkinsonikum jim bylo podáváno ve stejné dávce po celou zbývající dobu studie. Počáteční dávka olanzapinu byla 2,5 mg/den a podle uvážení zkoušejícího mohla být titrována do maximální dávky 15 mg/den.
+
+Neuroleptický maligní syndrom (NMS)
+NMS je potenciálně život ohrožující stav spojený s podáváním antipsychotik. Vzácné případy označené jako NMS byly rovněž hlášeny v souvislosti s olanzapinem. Klinické příznaky NMS jsou hyperpyrexie, svalová rigidita, narušená psychika a autonomní nestabilita (nepravidelný pulz nebo tlak krve, tachykardie,  pocení  a  srdeční  arytmie).  Další  příznaky  mohou  zahrnovat  zvýšenou  hladinu kreatinfosfokinázy, myoglobinurii (rhabdomyolýzu) a akutní renální selhání. Pokud se u pacienta objeví příznaky podezřelé ze spojení s NMS nebo pokud se objeví nevysvětlitelně vysoká horečka i bez dalších klinických známek NMS, musí být všechna antipsychotika včetně olanzapinu vysazena.
+
+Hyperglykémie a diabetes
+Méně často byly hlášeny hyperglykémie a/nebo rozvoj či exacerbace diabetu, spojené příležitostně s ketoacidózou nebo kómatem, včetně několika fatálních případů (viz bod 4.8). V některých případech tomu předcházelo zvýšení tělesné hmotnosti, což mohlo být predispozičním faktorem. Doporučuje se příslušné monitorování v souladu s platnými pokyny pro antipsychotickou léčbu, například měření glukosy na začátku léčby, 12 týdnů po zahájení léčby olanzapinem a potom každoročně. U pacientů léčených jakýmikoliv antipsychotickými přípravky, včetně přípravku Olanzapin Sandoz, je třeba kontrolovat výskyt známek a příznaků hyperglykémie (např. polydipsie, polyurie, polyfagie a slabost). U diabetických pacientů a pacientů s rizikovými faktory pro rozvoj diabetu se doporučuje příslušné monitorování s pravidelným sledováním hladiny glukosy. Je třeba pravidelně kontrolovat tělesnou hmotnost, například na počátku léčby, 4, 8 a 12 týden po zahájení léčby olanzapinem a potom čtvrtletně.
+Změny hladin lipidů
+V placebem kontrolovaných klinických studiích byly u pacientů léčených olanzapinem pozorovány nežádoucí změny hladin lipidů (viz bod 4.8). Změny lipidového profilu mají být ošetřeny podle klinické potřeby, obzvláště u pacientů s dyslipidemií a u pacientů s rizikovými faktory pro rozvoj poruch lipidů. Pacienti užívající jakékoliv antipsychotické přípravky, včetně přípravku Olanzapin Sandoz, musí být pravidelně sledováni ohledně lipidů v souladu s platnými pokyny pro antipsychotickou léčbu, např. na počátku léčby, 12 týdnů po zahájení léčby olanzapinem a poté každých 5 let.
+
+Anticholinergní aktivita
+Ačkoliv byla in vitro prokázána anticholinergní aktivita, zkušenosti během klinických studií ukázaly nízkou incidenci souvisejících příhod. Protože klinické zkušenosti s podáváním olanzapinu u pacientů s jiným souběžným onemocněním jsou omezené, doporučuje se zvýšená pozornost, pokud je olanzapin předepisován pacientům s hypertrofií prostaty, paralytickým ileem nebo podobnými stavy.
+
+Jaterní funkce
+Často, obzvlášť v počátcích léčby, bylo pozorováno přechodné asymptomatické zvýšení hladiny jaterních transamináz, alaninaminotransferázy (ALT) a aspartátaminotransferázy (AST). U pacientů s vyšší hladinou ALT a/nebo AST se známkami a příznaky poškození jater, se sníženou funkcí jater v anamnéze a u pacientů léčených potenciálně hepatotoxickými přípravky je třeba opatrnosti. V případě vyšší hladiny ALT a/nebo AST během léčby je třeba hladinu sledovat a zvážit snížení dávek. Je-li u pacientů diagnostikována hepatitida (včetně hepatocelulárního, cholestatického nebo kombinovaného poškození jater), je třeba léčbu olanzapinem ukončit.
+
+
+3
+
+Neutropenie
+Opatrnosti je třeba u pacientů s nízkým počtem leukocytů a/nebo neutrofilů z jakýchkoliv příčin, u pacientů užívajících léky způsobující neutropenii, u pacientů s anamnézou polékového útlumu kostní dřeně nebo útlumem kostní dřeně způsobeným souběžným onemocněním, radiační terapií nebo chemoterapií, u pacientů s hypereozinofilií nebo s myeloproliferativní chorobou. Neutropenie byla při současném podávání olanzapinu a valproátu hlášena často (viz bod 4.8).
+Přerušení léčby
+Při náhlém přerušení léčby olanzapinem byly vzácně (≥0,01 % a <0,1%) hlášeny akutní příznaky jako pocení, nespavost, třes, úzkost, nevolnost nebo zvracení.
+QT interval
+V klinických studiích bylo u pacientů léčených olanzapinem klinicky významné prodloužení QTc. intervalu (korekce QT podle Fridericii [QTcF] ≥500 milisekund [ms] kdykoliv po vstupním vyšetření u pacientů se vstupní hodnotou QTcF<500 ms) méně časté (0,1 až 1 %), bez signifikantních rozdílů v průvodních srdečních příhodách ve srovnání s placebem. Přesto je třeba, zvýšené opatrnosti, je-li olanzapin předepisován s lékem prodlužujícím QTc interval, obzvlášť u starších pacientů, u pacientů s vrozeným prodloužením QT intervalu, městnavým srdečním selháním, srdeční hypertrofií, hypokalémií nebo hypomagnesémií.
+
+Tromboembolismus
+Časová souvislost s léčbou olanzapinem a žilním tromboembolismem byla hlášena méně často (≥0.1 % a
+<1%). Příčinná souvislost mezi výskytem žilního tromboembolismu (VTE) a léčbou olanzapinem nebyla prokázána.  Jelikož  však  pacienti  se  schizofrenií  často  mají  získané  rizikové  faktory  žilního trombolembolismu, musí být identifikovány všechny možné rizikové faktory žilního trombolembolismu, např. imobilizace pacienta a musí být přijata preventivní opatření.
+
+Obecný vliv na CNS
+Vzhledem k primárnímu účinku olanzapinu na centrální nervovou soustavu je třeba opatrnosti při současném užívání s jinými centrálně působícími léky či alkoholem. Protože olanzapin působí in vitro jako dopaminový antagonista, může působit proti účinku přímých a nepřímých agonistů dopaminu.
+
+Záchvaty křečí
+Olanzapin musí být používán opatrně u pacientů s křečemi v anamnéze, anebo u těch, kteří mají snížený práh křečí. U pacientů léčených olanzapinem byly křeče hlášeny méně často. Ve většině těchto případů byly hlášeny křeče v anamnéze či jiné rizikové faktory.
+
+Tardivní dyskineze
+V ročních nebo kratších srovnávacích studiích byl olanzapin statisticky významně méně často spojen s náhlou dyskinezí. Přesto riziko tardivní dyskineze při dlouhodobém užívání vzrůstá, a proto se u pacienta léčeného olanzapinem se symptomy tardivní dyskineze musí zvážit snížení dávky anebo přerušení podávání. Tyto symptomy se mohou přechodně zhoršit nebo i objevit po přerušení léčby.
+Posturální hypotenze
+V klinických studiích byla zřídka u starších pacientů pozorována posturální hypotenze. U pacientů starších
+65 let je doporučeno pravidelně měřit krevní tlak.
+
+Náhlá srdeční smrt
+V postmarketingovém sledování olanzapinu byly u pacientů léčených olanzapinem nahlášeny případy náhlé srdeční smrti. V retrospektivní observační kohortové studii bylo riziko předpokládané náhlé srdeční smrti u pacientů léčených olanzapinem přibližně dvojnásobné oproti pacientům, kteří neužívali antipsychotika. V této studii bylo riziko při užívání olanzapinu porovnatelné s rizikem užívání atypických antipsychotik spojených do jedné analýzy.
+
+Pediatrická populace
+
+
+
+4
+
+Olanzapin není indikován pro použití v léčbě dětí a dospívajících. Klinické studie provedené u pacientů ve věkovém rozmezí 13 až 17 let ukázaly různé nežádoucí účinky, včetně přírůstku tělesné hmotnosti, změny metabolických parametrů a zvýšení hladiny prolaktinu (viz body 4.8 a 5.1).
+
+Olanzapin Sandoz obsahuje laktózu
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo
+malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Interakční studie byly provedeny pouze u dospělých.
+
+Potenciální interakce ovlivňující účinky olanzapinu
+Vzhledem k tomu, že je olanzapin metabolizován izoenzymem CYP1A2, mohou látky, které specificky
+tento izoenzym indukují nebo inhibují, farmakokinetiku olanzapinu ovlivnit.
+
+Indukce CYP1A2
+Kouření a karbamazepin mohou indukovat metabolismus olanzapinu, což může vést ke snížení koncentrace olanzapinu. Bylo pozorováno pouze mírné až střední zvýšení clearance olanzapinu. Klinický dopad je pravděpodobně minimální, nicméně se doporučuje klinické monitorování, přičemž v případě potřeby je možné zvážit zvýšení dávek olanzapinu (viz bod 4.2).
+
+Inhibice CYP1A2
+Prokázalo  se,  že  fluvoxamin,  specifický  inhibitor  CYP1A2,  významně  inhibuje  metabolismus olanzapinu. Střední hodnota zvýšení Cmax olanzapinu fluvoxaminem byla 54 % u žen nekuřaček a 77 % u mužů kuřáků. Střední hodnota zvýšení AUC olanzapinu byla 52 % u žen nekuřaček a 108 % u mužů kuřáků. U pacientů užívajících fluvoxamin nebo jiné inhibitory CYP1A2, jako např. ciprofloxacin, je třeba uvážit snížení zahajovací dávky olanzapinu. Při zahájení léčby inhibitorem CYP1A2 je třeba zvážit snížení dávek olanzapinu.
+Snížení biologické dostupnosti
+Aktivní uhlí snižuje biologickou dostupnost olanzapinu po perorálním podání o 50 až 60 %, proto by se mělo užívat nejméně 2 hodiny před nebo po užití olanzapinu.
+Fluoxetin (inhibitor CYP2D6), jednorázové dávky antacida (hliník, hořčík) nebo cimetidinu neměly na
+farmakokinetiku olanzapinu významný vliv.
+
+Potenciál olanzapinu ovlivnit účinky jiných léčiv
+Olanzapin může antagonizovat účinky přímých a nepřímých agonistů dopaminu.
+Olanzapin in vitro neinhibuje hlavní izoenzymy CYP450 (např. 1A2, 2D6, 2C9, 2C19, 3A4). Neočekávají se proto žádné zvláštní interakce, což dokazují in vivo studie, které neprokázaly inhibici metabolismu následujících léčivých látek: tricyklická antidepresiva (reprezentující převážně cestu metabolizace prostřednictvím CYP2D6), warfarin (CYP2C9), theofylin (CYP1A2) nebo diazepam (CYP3A4 a 2C19).
+Olanzapin nevykazoval interakci se současně podávaným lithiem nebo biperidenem.
+Terapeutické monitorování plazmatických hladin valproátu neukázalo, že při zahájení současné léčby olanzapinem je nutná úprava dávkování.
+
+Obecný vliv na CNS
+Zvýšená opatrnost je zapotřebí u pacientů požívajících alkohol nebo užívajících léčivé přípravky působící tlumivě na CNS.
+Současné užívání olanzapinu a léčivých přípravků pro léčbu Parkinsonovy choroby a demence se u
+pacientů s Parkinsonovou chorobou a demencí nedoporučuje (viz bod 4.4).
+
+QTc interval
+Zvýšená opatrnost je zapotřebí u pacientů užívajících současně olanzapin a léčivé přípravky, u kterých je známo, že prodlužují QTc interval (viz bod 4.4).
+
+
+5
+
+4.6 Fertilita, těhotenství a kojení
+Těhotenství
+Neexistují žádné odpovídající a dobře kontrolované studie u těhotných žen. Pacientky je nutno poučit, aby během užívání olanzapinu svého lékaře informovaly o tom, že otěhotněly nebo že otěhotnění plánují. Kvůli nedostatku zkušeností je však možno olanzapin v těhotenství podávat pouze tehdy, pokud jeho prospěšnost vyváží potenciální nebezpečí pro plod.
+
+U novorozenců, kteří byli během třetího trimestru těhotenství vystaveni vlivu antipsychotik (včetně olanzapinu), existuje riziko nežádoucích účinků včetně extrapyramidových příznaků a/nebo příznaků z vysazení. Tyto příznaky se mohou lišit v délce trvání i v závažnosti. Byly hlášeny případy agitovanosti, hypertonie, hypotonie, tremoru, somnolence, respirační tísně nebo poruch příjmu potravy. Proto mají novorozenci být pečlivě monitorováni.
+
+Kojení
+Ve studii u kojících zdravých žen byl olanzapin vylučován do mateřského mléka. Průměrná expozice dítěte (mg/kg) v ustáleném stavu byla odhadnuta na 1,8 % dávky olanzapinu podaného matce (mg/kg). Pacientky je nutno poučit, aby během užívání olanzapinu nekojily.
+
+Fertilita
+Účinky na fertilitu nejsou známy (viz bod 5.3 Preklinické informace).
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Studie hodnotící účinky na schopnost řídit nebo obsluhovat stroje nebyly provedeny. Jelikož olanzapin může způsobit somnolenci a závrať, pacienti mají být upozorněni na nebezpečí vyplývající z obsluhy strojů včetně řízení motorových vozidel.
+
+4.8 Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Dospělí
+Nejčastěji hlášenými (pozorované u ≥ 1 % pacientů) nežádoucími účinky spojenými s užíváním olanzapinu v klinických studiích byla somnolence, přírůstek hmotnosti, eozinofilie, zvýšené hladiny prolaktinu, cholesterolu, glukosy a triglyceridů (viz bod 4.4), glykosurie, zvýšená chuť k jídlu, závratě, akatizie, parkinsonismus, leukopenie, neutropenie (viz bod 4.4), dyskineze, ortostatická hypotenze, anticholinergní účinky, přechodné asymptomatické zvýšení jaterních aminotransferáz (viz bod 4.4), vyrážka, asténie, únava, horečka, artralgie, zvýšené hodnoty alkalické fosfatázy, vysoké hladiny gamaglutamyltransferázy, kyseliny močové a kreatinfosfokinázy a otok.
+
+Tabulkový přehled nežádoucích účinků
+Následující tabulka uvádí seznam nežádoucích účinků a laboratorních nálezů zjištěných ze spontánních hlášení a z klinických studií. V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti. Četnosti jsou definovány následovně:
+velmi časté (≥ 1/10)
+časté (≥1/100 až <1/10)
+méně časté (≥1/1 000 až <1/100) vzácné (≥1/10 000 až <1/1 000) velmi vzácné (< 1/10 000)
+není známo (z dostupných údajů nelze určit).
+
+
+Velmi časté  Časté              Méně časté      Vzácné         Není známo Poruchy krve a lymfatického systému
+
+Eozinofilie Leukopenie Neutropenie
+Poruchy imunitního systému Poruchy metabolismu a výživy
+
+
+
+
+Hypersenzitivita¹¹
+Thrombocytopenie¹¹
+6
+
+Přírůstek
+hmotnosti¹
+Zvýšené hladiny
+cholesterolu²,³
+Zvýšené hladiny glukosy⁴ Zvýšené hladiny triglyceridů²,⁵
+Glykosurie
+Zvýšená chuť k jídlu
+Vznik nebo exacerbace diabetu, spojené příležitostně
+s ketoacidózou
+nebo
+kómatem, včetně několika fatálních případů (viz bod 4.4)
+Hypotermie
+
+Poruchy nervového systému
+
+Somnolence
+Závratě Akatizie⁶ Parkinsonismus⁶ Dyskineze⁶
+Křeče, kdy ve většině případů byly hlášeny
+křeče v anamnéze či
+jiné rizikové
+faktory
+pro vznik křečí¹¹ Dystonie (včetně okulogyrické krize)¹¹
+Tardivní dyskineze¹¹ Amnézie⁹ Dysartrie Koktavost¹¹ Syndrom neklidných nohou
+Neuroleptický maligní
+syndrom (viz bod 4.4)¹²
+Příznaky
+z vysazení⁷,¹²
+
+
+Srdeční poruchy
+
+
+
+
+Cévní poruchy Ortostatická hypotenze
+
+
+
+
+
+
+Respirační, hrudní a mediastinální poruchy
+
+Gastrointestinální poruchy
+Mírné       přechodné anticholinergní    účinky včetně  obstipace  a  suché ústní sliznice
+Poruchy jater a žlučových cest
+Přechodné asymptomatické zvýšení  hladiny  jaterních aminotransferáz   (ALT,
+
+Bradykardie Prodloužení QTc intervalu (viz bod 4.4)
+
+Venózní tromboembolismus (včetně pulmonární embolie a hluboké žilní
+trombózy) (viz bod
+4.4.)
+
+Epistaxe⁹ Břišní distenze⁹ Hypersalivace
+
+Ventrikulární tachykardie/fibrilace, náhlá smrt (viz bod 4.4)¹¹
+
+
+
+
+
+
+
+
+
+
+
+
+Pankreatitida
+
+
+
+
+Hepatitida (včetně hepatocelulárního, cholestatického nebo
+7
+
+AST) obzvlášť na počátku léčby (viz bod 4.4)
+kombinovaného poškození jater)¹¹
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+Poruchy kůže a podkožní tkáně
+Vyrážka
+
+Fotosenzitivní reakce Alopecie
+
+Léková
+reakce   s
+eozinofilií  a systémovými příznaky (drug reaction with eosinophilia and systemic symptoms, DRESS)
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Artralgie⁹                       Rhabdomyolýza¹¹
+Poruchy ledvin a močových cest
+
+Inkontinence moči Močová retence Opožděný start Močení¹¹
+Stavy spojené s těhotenstvím, šestinedělím a perinatálním obdobím
+
+
+
+
+
+Poruchy reprodukčního systému a prsu
+
+
+
+
+
+Syndrom  z vysazení léku u novorozenců (viz bod 4.6)
+
+Erektilní dysfunkce u mužů Snížené libido u mužů a žen
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+Astenie Únava Otok Horečka¹⁰
+Amenorea Zvětšení prsou Galaktorea u žen Gynekomastie/ zvětšení prsou u mužů.
+Priapismus¹²
+
+Vyšetření Zvýšené plazmatické hladiny prolaktinu⁸
+
+Zvýšené hodnoty alkalické fosfatázy¹⁰ Vysoká hladina Kreatinfosfokinázy¹¹
+Vysoká       hladina gammaglutamyltransferázy¹⁰ Vysoká  hladina  kyseliny močové¹⁰
+
+Zvýšená hodnota celkového bilirubinu
+
+¹Klinicky významné zvýšení tělesné hmotnosti bylo pozorováno napříč všemi základními kategoriemi dle
+BMI (Body Mass Index). Při krátkodobé léčbě (střední hodnota 47 dnů) bylo zvýšení tělesné hmotnosti o
+≥ 7 % velmi časté (22,2 %), zvýšení tělesné hmotnosti o ≥ 15 % bylo časté (4,2 %) a o ≥ 25 % bylo méně časté (0,8 %). Při dlouhodobém užívání (nejméně 48 týdnů) bylo u pacientů zvýšení tělesné hmotnosti o ≥ 7 %, ≥ 15 % a ≥ 25 % velmi časté (64,4 %, 31,7 % a 12,3 %).
+
+²Střední hodnoty zvýšení hodnot lipidů nalačno (celkový cholesterol, LDL cholesterol a triglyceridy) byly vyšší u pacientů bez prokázané poruchy regulace tuků na začátku léčby.
+
+
+9
+
+³Pozorováno u normálních počátečních hladin nalačno (< 5,17 mmol/l), kdy došlo ke zvýšení hladin na vysoké (≥ 6,2 mmol/l). Změny počátečních hodnot celkového cholesterolu nalačno z hraničních (≥ 5,17 -
+< 6,2 mmol/l) na vysoké (≥ 6,2 mmol/l) byly velmi časté.
+
+⁴Pozorováno u normálních počátečních hladin glukosy nalačno (< 5,56 mmol/l), kdy došlo ke zvýšení hladin na vysoké (≥ 7 mmol/l). Změny počátečních hodnot glukosy nalačno z hraničních (≥ 5,56 - < 7 mmol/l) na vysoké (≥ 7 mmol/l) byly velmi časté.
+
+⁵Pozorováno u normálních počátečních hladin nalačno (< 1,69 mmol/l), které vzrostly na vysoké (≥ 2,26 mmol/l). Změny počátečních hladin triglyceridů nalačno z hraničních hodnot (≥ 1,69 mmol/l - < 2,26 mmol/l) na vysoké (≥ 2,26mmol/l) byly velmi časté.
+⁶V klinických studiích byl výskyt parkinsonismu a dystonie u pacientů léčených olanzapinem číselně vyšší, ale statisticky se významně nelišil od placeba. Parkinsonismus, akatizie a dystonie se vyskytly vzácněji při užívání olanzapinu než při užívání odpovídajících dávek haloperidolu. Vzhledem k nedostatku podrobných informací o akutních a pozdních extrapyramidových příznacích v anamnéze není možné rozhodnout, zda olanzapin způsobuje pozdní dyskinezi a/nebo další pozdní extrapyramidové příznaky méně často.
+
+⁷Při náhlém přerušení léčby olanzapinem byly hlášeny akutní příznaky jako pocení, nespavost, třes, úzkost, nevolnost a zvracení.
+
+⁸V klinických hodnoceních trvajících až 12 týdnů překročily plazmatické koncentrace prolaktinu horní hranici normálního rozmezí u přibližně 30 % pacientů léčených olanzapinem s normální počáteční hladinou prolaktinu. U většiny těchto pacientů bylo zvýšení obvykle mírné a zůstalo pod dvojnásobkem horní hranice normálního rozmezí.
+
+⁹ Nežádoucí účinek zjištěný z klinických studií v integrované databázi olanzapinu.
+¹⁰ Odhadnuto z naměřených hodnot z klinických studií v integrované databázi olanzapinu.
+
+¹¹ Nežádoucí účinek zjištěný ze spontánních postmarketingových hlášení, jehož četnost výskytu byla určena s využitím integrované databáze olanzapinu.
+¹² Nežádoucí účinek zjištěný ze spontánních postmarketingových hlášení, jehož četnost výskytu byla odhadnuta na horní hranici 95% intervalu spolehlivosti s využitím integrované databáze olanzapinu.
+
+Dlouhodobá expozice (nejméně 48 týdnů)
+Podíl pacientů, u kterých se projevily nežádoucí, klinicky významné změny přírůstku tělesné hmotnosti, glukosy, celkového/LDL/HDL cholesterolu nebo triglyceridů, se v průběhu času zvyšuje. U dospělých pacientů, kteří dokončili léčbu v délce 9-12 měsíců, se nárůst střední hodnoty glukosy v krvi zpomalil přibližně po 6 měsících.
+
+Další informace týkající se specifických populací
+V klinických studiích u starších pacientů s demencí byla léčba olanzapinem spojena s vyšší incidencí úmrtí a cerebrovaskulárních nežádoucích příhod ve srovnání s placebem (viz bod 4.4). Velmi časté nežádoucí účinky spojené s užíváním olanzapinu u této skupiny pacientů byly abnormální chůze a pády. Často byla pozorována pneumonie, zvýšení tělesné teploty, letargie, erythém, zrakové halucinace a inkontinence moči.
+
+V klinických studiích u pacientů s léky (dopaminovými agonisty) navozenou psychózou související s Parkinsonovou chorobou bylo velmi často a s vyšší frekvencí, než u placeba zaznamenáno zhoršení parkinsonské symptomatiky a halucinace.
+V jedné klinické studii u pacientů v manické fázi bipolární poruchy měla léčba valproátem v kombinaci s olanzapinem za následek 4,1% incidenci neutropenie; potenciálně přispívajícím faktorem by mohly být vysoké plazmatické hladiny valproátu. Současné podání olanzapinu s lithiem nebo valproátem vedlo ke
+
+10
+
+zvýšení výskytu (≥10 %) tremoru, sucha v ústech, zvýšené chuti k jídlu a přírůstku hmotnosti. Často byly také hlášeny poruchy řeči. Při léčbě olanzapinem v kombinaci s lithiem nebo divalproexem došlo v akutní fázi léčby (trvající max. 6 týdnů) ke zvýšení tělesné hmotnosti o ≥7 % u 17,4 % pacientů. Dlouhodobá léčba olanzapinem (trvající max. 12 měsíců) pro prevenci recidivy u pacientů s bipolární poruchou byla doprovázena zvýšením tělesné hmotnosti o >7 % u 39,9 % pacientů.
+
+Pediatrická populace
+Olanzapin není indikován pro použití v léčbě dětí a dospívajících mladších 18 let. Ačkoli nebyly provedeny studie navržené pro porovnání dospívajících a dospělých pacientů, údaje z klinických studií dospívajících byly porovnány s údaji získanými ze studií u dospělých.
+
+Následující tabulka shrnuje nežádoucí účinky hlášené s vyšší četností výskytu u dospívajících pacientů (ve věku 13-17 let) oproti dospělým pacientům, nebo nežádoucí účinky identifikované pouze v průběhu krátkodobých klinických studií u dospívajících pacientů. Zdá se, že se klinicky významné zvýšení tělesné hmotnosti (≥ 7 %) ve srovnání s dospělou populací vyskytuje u dospívajících pacientů s vyšší frekvencí. Velikost váhového přírůstku a procento dospívajících, u kterých došlo ke klinicky významnému nárůstu tělesné hmotnosti, byly vyšší při dlouhodobém užívání (nejméně 24 týdnů) ve srovnání s krátkodobým užíváním.
+
+V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+Ohodnocení četnosti výskytu: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10).
+
+Poruchy metabolismu a výživy
+Velmi časté: přírůstek hmotnosti¹³, zvýšené hladiny triglyceridů¹⁴, zvýšená chuť k jídlu.
+Časté: zvýšené hladiny cholesterolu¹⁵
+Poruchy nervového systému
+Velmi časté: sedace (včetně: hypersomnie, letargie, somnolence).
+Gastrointestinální poruchy
+Časté: sucho v ústech
+Poruchy jater a žlučových cest
+Velmi časté: zvýšení hladiny jaterních aminotransferáz (ALT/AST; viz bod 4.4).
+Vyšetření
+Velmi časté: snížené hodnoty celkového bilirubinu, zvýšení hodnoty GMT, zvýšení plazmatických
+hladin prolaktinu¹⁶.
+
+¹³Zvýšení tělesné hmotnosti (kg) při krátkodobé léčbě (průměrně 22 dnů) o ≥ 7 % bylo velmi časté (40,6 %), zvýšení tělesné hmotnosti o ≥ 15 % bylo časté (7,1 %) a o ≥ 25 % časté (2,5 %). Při dlouhodobém užívání (nejméně 24 týdnů) došlo u 89,4 % ke zvýšení tělesné hmotnosti o ≥ 7 %, u 55,3 % o ≥ 15 % a u 29,1 % o ≥ 25 % oproti počáteční tělesné hmotnosti.
+
+¹⁴Pozorováno u normálních počátečních hladin nalačno (< 1,016 mmol/l), které vzrostly na vysoké (≥ 1,467 mmol/l) a změny počátečních hladin triglyceridů nalačno z hraničních hodnot (≥ 1,016 mmol/l - < 1,467 mmol/l) na vysoké (≥ 1,467 mmol/l).
+
+¹⁵Změny počátečních hodnot celkového cholesterolu nalačno, kdy došlo ke zvýšení hladin z normálních (< 4,39 mmol/l) na vysoké (≥ 5,17 mmol/l), byly pozorovány často. Změny počátečních hodnot celkového cholesterolu nalačno z hraničních (≥ 4,39 - < 5,17 mmol/l) na vysoké (≥ 5,17 mmol/l) byly velmi časté.
+¹⁶Zvýšení plazmatické hladiny prolaktinu bylo hlášeno u 47,4 % dospívajících pacientů. Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+
+11
+
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9 Předávkování
+Projevy a symptomy:
+Mezi velmi časté příznaky předávkování (incidence >10 %) patří tachykardie, agitovanost/agresivita, dysartrie, různé extrapyramidové symptomy a nižší stupeň vědomí pohybující se mezi sedací a kómatem. Další zdravotně významné důsledky předávkování zahrnují delirium, křeče, kóma, možný neuroleptický maligní syndrom, útlum dýchání, aspiraci, hypertenzi nebo hypotenzi, srdeční arytmie (< 2 % případů předávkování) a zástavu dýchání a srdeční činnosti. Smrtelné případy se vyskytly už po akutním předávkování dávkou 450 mg, ale rovněž bylo popsáno přežití po akutním předávkování přibližně 2 g olanzapinu per os.
+
+Léčba
+Proti olanzapinu neexistuje žádné specifické antidotum. Vyvolání zvracení se nedoporučuje. Mohou být indikovány jiné standardní postupy používané při léčbě předávkování (např. výplach žaludku, podání aktivního uhlí). Ukázalo se, že současné podání aktivního uhlí snižuje biologickou dostupnost olanzapinu po perorálním podání o 50 až 60 %.
+Podle klinického stavu je potřebné zahájit symptomatickou léčbu a sledování vitálních funkcí, zahrnující léčbu hypotenze, cirkulačního kolapsu a podporu funkce dýchání. Nepoužívejte adrenalin, dopamin nebo jiná beta sympatomimetika, protože stimulace beta adrenergních receptorů může prohloubit hypotenzi. Sledování kardiovaskulárních parametrů je nezbytné kvůli diagnostice možných poruch srdečního rytmu. Pacient musí být až do uzdravení pod pečlivým lékařským dohledem.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: psycholeptika, diazepiny, oxazepiny, thiazepiny a oxepiny,
+ATC kód: N05A H03.
+
+Farmakodynamické účinky
+Olanzapin je antipsychotická, antimanická a náladu stabilizující látka, se širokým farmakologickým
+profilem zahrnujícím řadu receptorových systémů.
+V preklinických studiích olanzapin vykazoval afinitu k řadě receptorů (Ki <100 nM) pro serotonin 5HT2A/2C, 5HT3, 5HT6, dopamin D1, D2, D3, D4, D5; cholinergní muskarinové receptory (m1-m5), alfa1 adrenergní a  histaminové  H1  receptory. Behaviorální  studie  olanzapinu na  zvířatech prokázaly antagonistické působení olanzapinu na 5HT, dopaminové a cholinergní receptory, které je v souladu s profilem vazby na receptory. Olanzapin vykazoval in vitro větší afinitu k serotoninovým 5HT2 receptorům než k dopaminovým D2 receptorům a v in vivo modelech vyšší 5HT2 aktivitu než aktivitu D2. Elektrofyziologické studie ukázaly, že olanzapin selektivně snižuje aktivitu mezolimbických (A10) dopaminergních neuronů bez výraznějšího účinku na striatální (A9) dráhy ovládající motoriku. Olanzapin oslabuje podmíněnou únikovou odpověď (conditioned avoidance response) v testu ukazujícím na antipsychotickou aktivitu v dávkách nižších než jsou dávky, které vyvolávají katalepsii, což je účinek ukazující na motorické nežádoucí účinky. Na rozdíl od některých typických antipsychotik olanzapin zvyšuje odpověď v "anxiolytickém testu".
+Ve studii účinku jednorázové dávky (10 mg) s využitím pozitronové emisní tomografie (PET) u zdravých dobrovolníků obsazoval olanzapin více 5HT2A receptory než dopaminové D2 receptory. Navíc zobrazovací studie s využitím SPECT (Single Photen Emission Computed Tomography) odhalila, že obsazenost D2 receptorů ve striatu u schizofrenních pacientů odpovídajících na olanzapin byla nižší než u pacientů odpovídajících na jiná antipsychotika a risperidon, zatímco u pacientů odpovídajících na klozapin byla srovnatelná.
+Klinická účinnost
+
+
+
+12
+
+Ve dvou ze dvou placebem kontrolovaných a dvou ze tří porovnávacích studií s aktivním komparátorem s více než 2 900 schizofrenními pacienty s pozitivními i negativními symptomy vykazoval olanzapin statisticky významně vyšší zlepšení jak u negativních, tak i pozitivních symptomů.
+
+V  mezinárodní  dvojitě zaslepené srovnávací  studii  zahrnující  1 481  pacientů se schizofrenií, shizoafektivními a příbuznými chorobami s různými stupni přidružených depresivních symptomů (výchozí hodnota na Montgomeryho-Asbergově stupnici měření deprese 16,6) prokázala prospektivní sekundární analýza skóre změn nálady mezi výchozími a konečnými hodnotami statisticky významné zlepšení (p=0,001) ve prospěch olanzapinu (-6,0) oproti haloperidolu (-3,1).
+U pacientů s manickou nebo smíšenou epizodou bipolární afektivní poruchy vykázal olanzapin ve snížení manických symptomů za 3 týdny vyšší účinnost než placebo a valproát semisodium (divalproex) Olanzapin  také  vykázal  srovnatelnou  účinnost  s  haloperidolem  ve  smyslu  podílu  pacientů  v symptomatické remisi mánie a deprese po 6 a 12 týdnech. Ve studii u pacientů léčených lithiem nebo valproátem minimálně 2 týdny vedlo přidání olanzapinu v dávce 10 mg (v kombinaci s lithiem nebo valproátem) k větší redukci symptomů mánie než léčba lithiem nebo valproátem v monoterapii za 6 týdnů
+.
+Ve 12měsíční studii prevence recidivy u pacientů s manickou epizodou, kteří dosáhli remise při léčbě olanzapinem a byli poté randomizováni k užívání olanzapinu nebo placeba, prokázal olanzapin vůči placebu v primárním parametru recidivy bipolární afektivní poruchy statisticky významně vyšší účinnost. Olanzapin také vykázal ve srovnání s placebem statisticky významnou výhodu v prevenci recidivy jak mánie, tak deprese.
+Ve druhé 12měsíční studii prevence recidivy u pacientů s manickou epizodou, kteří dosáhli remise při léčbě kombinací olanzapinu a lithia a byli poté randomizováni k užívání samotného olanzapinu nebo lithia, nebyl olanzapin v primárním kritériu účinnosti spočívajícím v recidivě bipolární afektivní poruchy statisticky horší než lithium (olanzapin 30,0 %, lithium 38,3 %; p=0,055).
+V 18-měsíční studii s kombinovanou léčbou u pacientů s manickou nebo smíšenou epizodou, kteří byli stabilizováni při léčbě olanzapinem spolu se stabilizátorem nálady (lithium nebo valproát), nebyla dlouhodobá kombinovaná léčba olanzapinem spolu s lithiem nebo valproátem statisticky významně lepší než léčba samotným lithiem nebo valproátem pokud jde o prodloužení doby do recidivy bipolární afektivní poruchy definované podle syndromových (diagnostických) kritérií.
+
+Pediatrická populace
+Kontrolovaná data u dospívajících (ve věku od 13 do 17 let) jsou omezeny na krátkodobé studie u schizofreniie (6 týdnů) a mánie spojené s bipolární poruchou typu I (3 týdny), které se týkají méně než 200 dospívajících. Olanzapin se používal ve flexibilní dávce začínající na 2,5 mg a stoupající až do 20 mg/den. Během léčby olanzapinem dospívající přibývali na váze statisticky významně více než dospělí. Rozsah změn hladin celkového cholesterolu nalačno, LDL cholesterolu, triglyceridů a prolaktinu (viz body 4.4 a 4.8) byl u dospívajících větší než u dospělých. Kontrolované údaje o přetrvávání účinku nebo o dlouhodobé bezpečnosti nejsou k dispozici (viz body 4.4 a 4.8).
+Informace o dlouhodobé bezpečnosti jsou omezeny na nekontrolované údaje z nezaslepených studií.
+
+5.2 Farmakokinetické vlastnosti
+Absorpce
+Olanzapin se po perorálním podání dobře vstřebává a dosahuje maximální koncentrace v plazmě za 5 až 8 hodin. Absorpce není jídlem ovlivněna. Absolutní perorální biologická dostupnost vztažená k intravenóznímu podání nebyla stanovena.
+Distribuce v organismu
+Při plazmatické koncentraci 7 až 1000 ng/ml se olanzapin váže přibližně z 93 % na plazmatické bílkoviny, především na albumin a kyselý α1-glykoprotein.
+Biotransformace
+Olanzapin je metabolizován v játrech cestou konjugace a oxidace. Hlavní metabolit v cirkulaci je 10-N- glukuronid, který neprostupuje hematoencefalickou bariérou. Cytochromy P450-CYP1A2 a P450- CYP2D6 přispívají k tvorbě N-desmethyl- a 2-hydroxymethylmetabolitů; oba ve studiích na zvířatech in
+13
+
+vivo vykazují významně nižší farmakologickou aktivitu než olanzapin. Převážná část farmakologické aktivity je způsobena mateřskou látkou, olanzapinem.
+
+Eliminace
+Po perorálním podání se střední hodnoty poločasu eliminace olanzapinu u zdravých jedinců lišily podle věku a pohlaví.
+U zdravých starších jedinců (65 let a více) byla střední hodnota poločasu eliminace v porovnání se zdravými jedinci mladšími 65 let prodloužena (51,8 h versus 33,8 h), přičemž clearance byla snížena (17,5 versus 18,2 l/h). Farmakokinetická variabilita pozorovaná u starších jedinců je v mezích variability u mladších jedinců. U 44 schizofrenických pacientů starších 65 let nebylo dávkování 5 až 20 mg/den spojeno se zvláštním profilem nežádoucích příhod.
+
+U žen oproti mužům byly střední hodnoty poločasu eliminace poněkud prodlouženy (36,7 versus 32,3 h), přičemž clearance byla snížena (18,9 versus 27,3 l/h). Přesto však olanzapin vykázal (5-20 mg) u žen (n=467) i mužů (n=869) srovnatelný bezpečnostní profil.
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin (clearance kreatininu <10 ml/min) ve srovnání se zdravými subjekty nebyl ve středních hodnotách poločasu eliminace (37,7 versus 32,4 h) nebo clearance (21,2 versus 25,0 l/h) žádný významný rozdíl. Studie hmotové bilance ukázala, že přibližně 57 % radioaktivně značeného olanzapinu se objevilo v moči, převážně jako metabolity.
+Porucha funkce jater
+Malá studie vlivu poruchy funkce jater u 6 subjektů s klinicky významnou cirhózou (klasifikace Childs Pugh A (n = 5) a B (n = 1)) prokázala malý vliv na farmakokinetiku perorálně podávaného olanzapinu (jednotlivá dávka 2,5 – 7,5 mg): Subjekty s lehkou až středně těžkou dysfunkcí jater měly ve srovnání se subjekty bez jaterní dysfunkce (n = 3) lehce zvýšenou systémovou clearance a rychlejší poločas eliminace. Mezi subjekty s cirhózou bylo více kuřáků (4/6; 67 %), než mezi subjekty bez jaterní dysfunkce (0/3; 0
+%).
+Kouření
+U nekuřáků oproti kuřákům (ženy i muži) byl průměrný poločas vylučování prodloužen (38,6 versus 30,4 h) a clearance snížena (18,6 versus 27,7 l/h).
+
+Plazmatická clearance olanzapinu je nižší u starších než u mladších jedinců, u žen než u mužů a u nekuřáků oproti kuřákům. Závažnost vlivu věku, pohlaví a kouření na clearance a poločas vylučování olanzapinu je v porovnání s celkovou variabilitou mezi jednotlivci malá.
+Klinická studie provedená u bělochů, Japonců a Číňanů žádné rozdíly ve farmakokinetice u těchto tří
+skupin nezjistila.
+Pediatrická populace
+Dospívající (od 13 do 17 let věku): Farmakokinetika olanzapinu je podobná u dospívajících i dospělých. V klinických hodnoceních byla u dospívajících průměrná expozice olanzapinu vyšší přibližně o 27 %. Demografické rozdíly mezi dospívajícími a dospělými zahrnují nižší průměrnou tělesnou hmotnost a menší počet kuřáků mezi dospívajícími. Tyto faktory možná přispívají k vyšší průměrné expozici u dospívajících.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Akutní toxicita (po jednorázové dávce)
+Příznaky toxicity po perorálním podání u hlodavců byly charakteristické pro silné neuroleptické sloučeniny: hypoaktivita, kóma, tremor, klonické křeče, slinění a zpomalení nárůstu hmotnosti. Medián letálních dávek byl přibližně 210 mg/kg (myši) a 175 mg/kg (potkani). Psi snášeli jednorázovou perorální dávku 100 mg/kg s nulovou mortalitou. Mezi klinické příznaky patřil útlum, ataxie, tremor, zrychlený
+
+
+14
+
+puls, namáhavé dýchaní, mióza a anorexie. U opic vyvolaly jednorázové perorální dávky až do 100 mg/kg vyčerpanost a vyšší dávky poruchu vědomí.
+
+Toxicita po opakovaném podávání
+Ve studiích, které trvaly u myší až 3 měsíce a u potkanů a psů až 1 rok, byly hlavními účinky útlum CNS, anticholinergní účinky a periferní hematologické poruchy. Na útlum CNS se vyvinula tolerance. Růstové parametry byly při vysokých dávkách sníženy. Reverzibilní účinky spojené se zvýšenou hladinou prolaktinu u potkanů zahrnovaly pokles hmotnosti ovárií a uteru a morfologické změny vaginálního epitelu a prsní žlázy.
+
+Hematologická toxicita
+U všech druhů byly pozorovány účinky na hematologické ukazatele včetně na dávce závislého poklesu počtu leukocytů v krvi u myší a nespecifického poklesu leukocytů v krvi u potkanů; cytotoxický účinek na kostní dřeň však prokázán nebyl. U několika psů, kterým bylo podáváno 8 až 10 mg/kg/den (celková expozice olanzapinu [plocha pod křivkou - AUC] je 12 až 15krát vyšší než expozice člověka při dávce 12 mg), se vyvinula reverzibilní neutropenie, trombocytopenie nebo anémie. U psů s cytopenií nebyly pozorovány žádné nežádoucí účinky na progenitorové a proliferující buňky kostní dřeně.
+Reprodukční toxicita
+Olanzapin nemá žádné teratogenní účinky. U potkaních samců sedace ovlivnila páření. Estrální cykly byly ovlivněny dávkou 1,1 mg/kg (což je 3násobek maximální dávky pro člověka), a reprodukční parametry byly u potkanů ovlivněny dávkou 3 mg/kg (což je 9násobek maximální dávky pro člověka). U potomstva potkanů, kterým byl podáván olanzapin, bylo pozorováno opoždění fetálního vývoje a přechodný pokles aktivity.
+Mutagenita
+Olanzapin nebyl mutagenní ani klastogenní v žádném ze standardních testů, které zahrnovaly bakteriální
+testy mutagenity a in vitro a in vivo testy na savcích.
+
+Karcinogenita
+Na základě výsledků studií na myších a potkanech bylo zjištěno, že olanzapin není karcinogenní.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+
+Jádro tablety
+Laktóza (jako monohydrát laktózy) Hyprolóza
+Krospovidon Mikrokrystalická celulóza Magnesium-stearát
+Potah tablety Polyvinylalkohol Makrogol 3350
+Oxid titaničitý (E 171)
+Mastek
+6.2 Inkompatibility
+Neuplatňuje se.
+
+6.3 Doba použitelnosti
+2 roky
+
+HDPE lahvička:
+Doba použitelnosti po prvním otevření: 6 měsíců
+
+15
+
+6.4 Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+Podmínky uchovávání po prvním otevření HDPE lahvičky:
+Uchovávejte při teplotě do 25 °C.
+
+6.5 Druh obalu a obsah balení
+
+Potahované tablety jsou baleny do Al/Al blistrů a vloženy do krabičky, nebo jsou baleny do HDPE lahvičky s vysoušedlem ve víčku.
+
+Velikosti balení:
+Blistr: 7, 10, 14, 20, 28, 30, 35, 50, 56, 60, 70, 98, 100, 500 potahovaných tablet
+Lahvička: 50, 100, 250, 500 potahovaných tablet Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Sandoz s.r.o., Na Pankráci 1724/129, 140 00 Praha 4 – Nusle, Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+68/194/08-C
+
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 30. 4. 2008
+Datum posledního prodloužení registrace: 13. 1. 2016
+
+10.  DATUM REVIZE TEXTU
+1. 5. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16

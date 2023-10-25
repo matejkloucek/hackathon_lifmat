@@ -1,0 +1,843 @@
+Sp. zn. sukls4872/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Fludarabine Accord 25 mg/ml koncentrát pro injekční/infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml obsahuje fludarabini phosphas 25 mg.
+2 ml roztoku obsahují fludarabini phosphas 50 mg.
+Pomocná látka se známým účinkem:
+Jeden ml obsahuje méně než 1 mmol sodíku. Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+
+Koncentrát pro injekční/infuzní roztok
+
+Čirý, bezbarvý nebo slabě hnědo-žlutý roztok bez částic. pH: 6.0 – 7.1
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Léčba chronické lymfocytární leukemie (CLL) B-buněčného typu u dospělých pacientů, kteří mají dostatečnou rezervu kostní dřeně.
+
+Léčba fludarabinem v první linii má být zahájena pouze u dospělých pacientů v pokročilém
+stadiu
+nemoci, tj. Rai III/IV (Binet C) nebo Rai I/II (Binet A/B), kteří mají doprovodné příznaky nebo známky progredujícího onemocnění.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+
+Doporučená dávka fludarabin-fosfátu je 25 mg/m² tělesného povrchu podávaná intravenózně
+jednou denně po dobu 5 po sobě následujících dnů v intervalu 28 dnů (viz bod 6.6).
+
+Potřebná dávka přípravku (vypočítaná podle povrchu těla pacienta) se natáhne naředěný roztok do injekční stříkačky. Pro intravenózní bolusovou injekci se tato dávka dále zředí v 10 ml 0,9% roztoku chloridu sodného (9 mg/ml). Případně lze potřebnou dávku nataženou do stříkačky naředit ve 100 ml 0,9% (9 mg/ml) roztoku chloridu sodného a podat jako infuzi během přibližně 30 minut.
+
+1
+
+Délka léčby závisí na úspěšnosti léčby a na schopnosti pacienta léčbu snášet.
+
+Pacientům s CLL se má fludarabin podávat až do dosažení optimální odpovědi na léčbu (úplná nebo částečná remise, obvykle 6 cyklů), pak má být léčba přerušena.
+
+Zvláštní skupiny pacientů
+Pacienti s poruchou funkce ledvin
+Dávky mají být upraveny pro pacienty se sníženou funkcí ledvin. Je-li clearance kreatininu mezi 30 až 70 ml/min, má se dávka snížit až o 50 % a pacient má být sledován po hematologické stránce ke zjištění míry toxicity (viz bod 4.4).
+
+Léčba fludarabinem je kontraidikována, je-li clearance kreatininu < 30 ml/min (viz bod 4.3).
+
+Pacienti s poruchou funkce jater
+Údaje o používání fludarabinu u pacientů s poruchou funkce jater nejsou k dispozici. V této
+skupině pacientů má být fludarabine používán s opatrností (viz bod 4.4).
+
+Pediatrická populace
+Bezpečnost a účinnost fludarabinu není u dětí do 18 let věku stanovena. Proto se použití fludarabinu u dětí nedoporučuje.
+
+Starší populace
+Vzhledem k omezeným údajům o použití fludarabinu u starších pacientů (> 75 let) je třeba dbát opatrnosti při podávání fludarabinu těmto pacientům.
+
+U pacientů ve věku 65 let nebo starších má být před zahájením léčby stanovena clearance
+kreatininu, (viz „Pacienti s poruchou funkce ledvin“ a bod 4.4).
+
+Způsob podání
+
+Přípravek Fludarabine Accord má být podáván pod dohledem kvalifikovaného lékaře se zkušenostmi s protinádorovou léčbou.
+Fludarabin musí být podáván pouze intravenózně. Nebyly hlášeny žádné nežádoucí účinky při podání mimo žílu. Nicméně podání mimo žílu se musí zabránit.
+Opatření, která je třeba přijmout před manipulací s léčivým přípravkem
+Návod k manipulaci a rekonstituci tohoto léčivého přípravku před podáním viz bod 6.6.
+
+4.3  Kontraindikace
+
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 tohoto přípravku.
+-  Porucha funkce ledvin (s clearance kreatininu < 30 ml/min)
+-  Dekompenzovaná hemolytická anemie
+-  Koje
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+
+2
+
+Myelosuprese
+
+U pacientů léčených fludarabinem byl hlášen těžký útlum kostní dřeně, zejména anemie, trombocytopenie a neutropenie. Ve studii fáze I s intravenózním podáváním u dospělých pacientů se solidními tumory byla průměrná doba k dosažení nejnižšího počtu granulocytů 13 dní (rozmezí 3 - 25 dnů) a k dosažení nejnižšího počtu trombocytů 16 dní (rozmezí 2 - 32 dní). Většina pacientů měla hematologickou poruchu přítomnu již na začátku jako základní onemocnění, buď v důsledku nemoci nebo předchozí myelosupresivní léčby.
+
+Lze pozorovat kumulativní myelosupresi. Přestože chemoterapií indukovaná myelosuprese je často reverzibilní, podávání fludarabinu vyžaduje pečlivé hematologické monitorování.
+
+Fludarabin-fosfát je silným protinádorovým přípravkem s potenciálně významnými toxickými nežádoucími účinky. Pacienti, kteří se podrobují léčbě, mají být pečlivě sledováni se zřetelem na hematologické i nehematologické příznaky toxicity. Doporučuje se pravidelně sledovat periferní  krevní  obraz,  aby  byla  včas  zachycena  případná  anemie,  neutropenie  a trombocytopenie.
+
+U dospělých pacientů byly hlášeny závažné případy hypoplazie kostní dřeně ve všech třech řadách nebo aplazie dřeně vedoucí k pancytopenii, někdy vedoucí k úmrtí pacienta. Trvání klinicky významné cytopenie v popsaných případech se pohybovalo přibližně od 2 měsíců přibližně do 1 roku. Tyto případy se vyskytly jak u dříve léčených tak u předem neléčených pacientů.
+
+Jako v případě jiných cytotoxických látek, je třeba opatrnosti při podávání fludarabin-fosfátu, jestliže se uvažuje o odběru hematopoetických kmenových buněk.
+
+Autoimunitní poruchy
+
+Během léčby nebo po léčbě fludarabinem byly hlášeny život ohrožující, někdy fatální, autoimunitní projevy (viz bod 4.8) a to bez ohledu na předchozí anamnézu autoimunitních procesů nebo na hodnoty Coombsova testu. U většiny pacientů, u kterých došlo k rozvoji hemolytické anemie a kteří znovu podstoupili léčbu fludarabinem, se hemolytický proces opakoval. Pacienti léčení fludarabinem musí být pečlivě sledováni z hlediska projevů hemolýzy.
+Pokud dojde k hemolýze, doporučuje se přerušit léčbu fludarabinem. Nejčastějším léčebným opatřením při autoimunitní hemolytické anemii je transfuze krve (ozářené, viz níže) a adrenokortikoidní léčba.
+•  Porucha funkce jater
+
+Fludarabin má být používán s opatrností pacientům s poruchou funkce jater kvůli riziku jaterní toxicity. Fludarabin-fosfát má být podáván pouze v případě, že očekávaný přínos převáží potenciální riziko. Tito pacienti mají být pečlivě sledováni pro známky zvýšené toxicity a dávkování má být upraveno nebo léčba přerušena, pokud je indikováno (viz bod 4.2).
+
+Neurotoxicita
+
+
+
+3
+
+Vliv dlouhodobého podávání fludarabinu na centrální nervový systém není znám. Pacienti v několika studiích však snášeli doporučené dávky po relativně dlouhou dobu (až 26 léčebných cyklů).
+Pacienti mají být pečlivě sledováni z hlediska známek výskytu neurologických účinků.
+
+Ve studiích zaměřených na stanovení dávek u pacientů s akutní leukemií bylo intravenózní podávání fludarabinu ve vysokých dávkách spojeno s těžkými neurologickými nežádoucími účinky, včetně oslepnutí, kómatu a úmrtí. Tyto příznaky se vyskytly v rozmezí 21 až 60 dní po podání poslední dávky. Tato silná toxicita fludarabinu pro centrální nervový systém se projevila u 36 % pacientů léčených intravenózně dávkami přibližně 4x vyššími (96 mg/m²/den po dobu 5 - 7 dnů), než jsou dávky doporučené. U pacientů léčených dávkami v rozmezí doporučených dávek pro léčbu chronické lymfatické leukemie (CLL) se těžké příznaky toxicity pro centrální nervový systém vyskytly vzácně (kóma, křeče a agitovanost) nebo méně často (zmatenost) (viz bod 4.8).
+
+V postmarketingovém sledování byly příznaky neurotoxicity pozorovány dříve nebo později
+než v klinických studiích.
+Podávání fludarabinu může být spojeno s leukoencefalopatií (LE), akutní toxickou leukoencefalopatií (ATL) nebo s reverzibilním syndromem okcipitální leukoencefalopatie (RPLS).
+Tyto účinky se mohou objevit:
+•  při podávání doporučených dávek,
+•  pokud je fludarabin podáván po léčbě nebo současně s léčbou přípravky, o nichž je známo, že LE, ATL či RPLS zapříčiňují,
+•  pokud je fludarabin podáván pacientům s jinými rizikovými faktory, jako je ozáření v oblasti hlavy nebo celotělová radiační terapie, transplantace hematopoetických kmenových buněk, reakce štěpu proti hostiteli, porucha funkce ledvin nebo hepatální encefalopatie.
+•  při podávání vyšších než doporučených dávek.
+Příznaky LE, ATL či RPLS mohou zahrnovat bolest hlavy, nauzeu a zvracení, záchvaty, poruchy zraku jako je ztráta vidění, změněný stav vědomí a fokální neurologické deficity. Další účinky mohou zahrnovat optickou neuritidu a papilitidu, zmatenost, somnolenci, agitovanost, paraparézu/kvadruparézu, svalové spasmy a inkontinenci.
+Leukoencefalopatie, ATL či RPLS mohou být ireverzibilní, život ohrožující nebo fatální.
+
+Při jakémkoli podezření na LE, ATL nebo RPLS je třeba léčbu fludarabinem přerušit. Pacienti mají být monitorováni, vyšetřeni zobrazovacími metodami, především pomocí MRI. Pokud se diagnóza potvrdí, má být léčba fludarabinem ukončena trvale.
+
+Syndrom nádorového rozpadu
+
+Syndrom nádorového rozpadu byl hlášen u pacientů s chronickou lymfatickou leukemií s velkými nádorovými masami. Vzhledem k tomu, že odpověď na léčbu fludarabinem může nastat již během prvního týdne léčby, je nutné u pacientů s rizikem této komplikace podniknout patřičná opatření, případně je možné doporučit těmto pacientům při prvním léčebném cyklu hospitalizaci.
+
+Reakce štěpu proti hostiteli spojená s transfuzí
+
+
+
+4
+
+Reakce štěpu proti hostiteli spojená s transfuzí (reakce imunokompententních lymfocytů podaných transfuzí vůči hostiteli) byla pozorována u pacientů léčených fludarabinem po podání transfuze neozářené krve. U vysokého počtu pacientů bylo toto onemocnění fatální. K minimalizaci rizika s transfuzí související reakce štěpu proti hostiteli, je proto nutné, aby pacienti, kteří potřebují krevní transfuzi a u nichž probíhá nebo právě proběhla léčba fludarabinem, dostali pouze iradiovanou (ozářenou) krev.
+
+Karcinom kůže
+
+U některých pacientů došlo během léčby nebo po léčbě fludarabinem ke zhoršení nebo recidivě již existujících kožních karcinomatózních lézí nebo přímo ke vzniku karcinomu kůže.
+
+Špatný zdravotní stav
+
+Pacientům ve špatném zdravotním stavu je nutné podávat fludarabin s opatrností a po pečlivém zvážení očekávaného přínosu léčby a jejích rizik. To se týká obzvlášť pacientů se závažnou poruchou  funkce  kostní  dřeně  (trombocytopenie,  anemie  a/nebo  granulocytopenie), imunodeficientních pacientů nebo pacientů, kteří mají v anamnéze oportunní infekci.
+
+Porucha funkce ledvin
+
+Celková tělesná clearance hlavního plazmatického metabolitu 2-F-ara-A vykazuje korelaci s clearance kreatininu, což ukazuje na důležitost renální exkrece při eliminaci sloučeniny z organismu. Pacienti se sníženou funkcí ledvin vykazovali zvýšenou celkovou tělesnou expozici (AUC 2F-ara-A). Jsou k dispozici pouze omezené údaje o pacientech s poruchou funkce ledvin (clearance kreatininu <70 ml/min).
+
+Fludarabin se pacientům s poruchou funkce ledvin musí podávat s opatrností. U pacientů se středně těžkou poruchou funkce ledvin (clearance kreatininu mezi 30 ml/min a 70 ml/min) je třeba dávku snížit až o 50 % a pacienta je třeba pečlivě sledovat (viz bod 4.2). Léčba fludarabinem je kontraindikována, pokud je clearance kreatininu < 30 ml/min (viz bod 4.3).
+
+Starší pacienti
+Jelikož jsou k dispozici omezené údaje o podávání fludarabinu starším pacientům (> 75 let), je
+třeba dbát opatrnosti při podávání přípravku Fludarabine Accord těmto pacientům.
+U pacientů ve věku 65 let nebo starších je třeba před zahájením léčby změřit clearance
+kreatininu, viz „Pacienti s poruchou funkce ledvin“ a bod 4.2
+
+Těhotenství
+
+Fludarabin se nemá používat během těhotenství, pokud to není zcela nezbytné (např. život ohrožující  situace;  není  k  dispozici  jiná  bezpečnější  alternativní  léčba  bez  snížení terapeutického přínosu; léčba je nezbytná). Přípravek může způsobit poškození plodu (viz body 4.6 a 5.3). Předepisující lékař má zvážit použití fludarabinu pouze v případě, že možný přínos léčby převažuje možné riziko pro plod.
+
+Je třeba, aby se ženy během léčby fludarabinem vyvarovaly otěhotnění.
+
+
+5
+
+Ženy ve fertilním věku musí být informovány o možném riziku pro plod.
+
+Antikoncepce
+
+Ženy i muži ve fertilním věku musí používat vhodná antikoncepční opatření během léčby a alespoň po dobu 6 měsíců po ukončení léčby (viz bod 4.6).
+
+Vakcinace
+
+Během léčby a po léčbě fludarabinem je nutné se vyvarovat očkování živou vakcínou.
+
+Možnosti opětovné léčby po úvodní léčbě fludarabinem
+
+Přechodu z úvodní léčby fludarabinem na chlorambucil u pacientů neodpovídajících na léčbu fludarabinem je třeba se vyvarovat, protože většina pacientů rezistentních na fludarabin vykazuje rezistenci i na chlorambucil.
+
+Pomocné látky
+
+Jedna injekční lahvička obsahující fludarabinum 25 mg, koncentrát pro injekční nebo infuzní
+roztok, obsahuje méně než 1 mmol sodíku (23 mg), tj. je v podstatě “bez sodíku”.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Při klinickém hodnocení intravenózně podávaného fludarabinu v kombinaci s pentostatinem (deoxykoformycinem) k léčbě refraktorní chronické lymfatické leukemie (CLL) byla nepřijatelně vysoká incidence fatální pulmonální toxicity. Proto se použití fludarabinu v kombinaci s pentostatinem nedoporučuje.
+
+Dipyridamol a ostatní inhibitory vychytávání adenosinu mohou snižovat terapeutickou účinnost
+fludarabinu.
+Klinické studie a pokusy in vitro ukázaly, že při použití fludarabinu v kombinaci s cytarabinem došlo ke zvýšení maximální intracelulární koncentrace a intracelulární expozice Ara-CTP (aktivního metabolitu cytarabinu) v leukemických buňkách. Plazmatická koncentrace Ara-C a rychlost eliminace Ara-CTP nebyly ovlivněny.
+4.6  Fertilita, těhotenství a kojení
+
+Fertilita
+
+Ženy ve fertilním věku musí být informovány o možném riziku pro plod.
+
+Jak sexuálně aktivní muži, tak ženy ve fertilním věku musí během léčby a alespoň po dobu 6 měsíců po ukončení léčby používat účinnou antikoncepci (viz bod 4.4).
+
+Těhotenství
+
+Předklinické údaje na potkanech prokázaly přechod fludarabinu a/nebo jeho metabolitů placentou. Výsledky studií embryonální toxicity na potkanech a králících po intravenózním
+
+6
+
+podávání prokázaly embryoletální a teratogenní potenciál při použití terapeutických dávek (viz bod 5.3).
+
+Údaje o podávání fludarabinu těhotným ženám v prvním trimestru jsou velmi omezené.
+
+Fludarabin se nemá používat během těhotenství, pokud to není zcela nezbytné (např. život ohrožující  situace;  není  k  dispozici  jiná  bezpečnější  alternativní  léčba  bez  snížení terapeutického přínosu; léčba je nezbytná). Fludarabin může způsobit poškození plodu. Předepisující lékař má zvážit použití fludarabinu pouze v případě, že možný přínos léčby převažuje možné riziko pro plod.
+
+Kojení
+Není známo, zda se fludarabin nebo jeho metabolity vylučují do lidského mateřského mléka. Z předklinických údajů jsou však důkazy o tom, že fludarabin a/nebo jeho metabolity mohou
+přestupovat z krve matky do mléka.
+Vzhledem k možnosti vzniku závažných nežádoucích účinků fludarabinu u kojených dětí, je
+fludarabin u kojících matek kontraindikován (viz bod 4.3).
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Fludarabin může snížit schopnost řídit nebo obsluhovat stroje, vzhledem k tomu, že byla
+pozorována např. únava, slabost, poruchy zraku, zmatenost, agitovanost a záchvaty křečí.
+
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Na základě zkušeností s použitím fludarabinu patří mezi nejčastější nežádoucí účinky myelosuprese (neutropenie, trombocytopenie a anemie), infekce včetně pneumonie, kašel, horečka, únava, slabost, nauzea, zvracení a průjem. Mezi další často hlášené nežádoucí účinky patří zimnice, otoky, malátnost, periferní neuropatie, poruchy zraku, anorexie, mukozitida, stomatitida a kožní vyrážka. U pacientů léčených fludarabinem se vyskytly závažné oportunní infekce. Následkem závažných nežádoucích účinků došlo rovněž k úmrtím.
+Tabulkový přehled nežádoucích účinků
+Následující tabulka uvádí nežádoucí účinky podle tříd orgánových systémů (klasifikace MedDRA). Uváděné četnosti výskytu jsou založeny na údajích z klinických studií bez ohledu na příčinnou souvislost s fludarabinem. Vzácné nežádoucí účinky byly většinou hlášeny po uvedení fludarabinu na trh.
+
+
+Třída orgánových systémů podle MedDRA
+Infekce a infestace
+Velmi časté
+≥ 1/10
+
+Infekce/ oportunní infekce (jako je reaktivace latentní virová
+Časté
+≥ 1/100 až
+< 1/10
+Méně časté
+≥ 1/1 000
+až < 1/100
+Vzácné
+≥ 1/10 000 až
+< 1/1 000
+Lymfoproliferati vní porucha (související
+s EB virem)
+Není známo
+
+7
+
+
+
+
+
+
+
+
+
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy)
+
+
+
+
+
+
+
+
+
+Poruchy krve a
+lymfatického systému
+
+Poruchy imunitního systému
+
+
+
+
+
+
+
+
+Poruchy metabolismu
+a výživy
+
+
+
+
+
+
+
+
+
+Poruchy nervového systému
+infekce, např. progresivní multifokální leukoencefalopati e, virus herpes zoster, virus Epstein-Barrové), pneumonie
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neutropenie, anemie, trombocytopenie
+
+
+
+
+
+
+
+
+Myelodysplastic ký syndrom a akutní myeloidní leukemie (zejména spojená s předchozí, souběžnou či následnou léčbou alkylačními látkami, inhibitory topoizomerázy či ozařováním) Myelosuprese
+
+
+
+
+
+
+
+
+
+
+
+
+Anorexie
+
+
+
+
+
+
+
+
+
+
+Periferní
+neuropatie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Autoimunitní poruchy (včetně autoimunitní hemolytické anemie, Evansova syndromu, trombocytopenick é purpury, získané hemofilie, pemfigu)
+Syndrom nádorového rozpadu (včetně renálního selhání, metabolické acidózy, hyperkalemie, hypokalcemie, hyperurikemie, hematurie, urátové krystalurie, hyperfosfatemie) Zmatenost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kóma, záchvaty,
+agitovanost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cerebrální krvácení, leukoencef alopatie ( viz bod
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy oka
+
+
+
+Srdeční poruchy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy zraku
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slepota, optická neuritida, optická neuropatie Srdeční selhání, arytmie
+4.4),
+akutní leukoencef alopatie ( viz bod 4.4),
+reverzibiln í syndrom okcipitální leukoencef alopatie ( RLPS) (
+viz bod 4.4)
+
+
+
+
+
+Respirační, hrudní a mediastinální poruchy
+
+
+Gastrointestinální
+poruchy
+
+
+
+
+Poruchy jater a
+žlučových cest
+
+Poruchy kůže a podložní tkáně
+
+
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+Kašel
+
+
+
+
+Zvracení, průjem,
+nauzea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horečka, únava,
+slabost
+
+
+
+
+
+Stomatitida
+
+
+
+
+
+
+
+
+Vyrážka
+
+
+
+
+
+
+
+Edém,
+mukozitida,
+Plicní toxicita (včetně plicní fibrózy, pneumonitidy, dyspnoe) Gastrointestinální krvácení, abnormální hodnota pankreatických enzymů Abnormální hodnota jaterních enzymů
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karcinom kůže, epidermální toxická nekrolýza (Lyellova typu), Stevens- Johnsonův syndrom
+Plicní krvácení
+
+
+9
+
+zimnice,
+malátnost
+
+
+K popisu určitého nežádoucího účinku je uveden nejvhodnější termín klasifikace MedDRA. Synonyma či související stavy nejsou uvedeny, ale je též nutné vzít je v úvahu. Terminologie nežádoucích účinků je založena na klasifikaci MedDRA verze 16.1
+
+V každé skupině četností jsou nežádoucí účinky řazeny dle klesající závažnosti. Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41, Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Podávání vysokých dávek přípravku fludarabinu bylo spojeno s leukoencefalopatií, akutní toxickou leukoencefalopatií či reverzibilním syndromem okcipitální leukoencefalopatie (RPLS). Příznaky mohou zahrnovat bolest hlavy, nauzeu a zvracení, záchvaty, poruchy zraku jako je ztráta vidění, změněný stav vědomí a fokální neurologické deficity. Další účinky mohou zahrnovat optickou neuritidu a papilitidu, zmatenost, somnolenci, agitovanost, paraparézu/kvadruparézu, svalové spasmy a inkontinenci, ireverzibilní toxicitu centrálního nervového systému, pro kterou je charakteristické pozdní oslepnutí, kóma a smrt. Léčba vysokými dávkami je také spojena s těžkou trombocytopenií a neutropenií způsobenou útlumem kostní dřeně.
+Specifické antidotum při předávkování fludarabinem není známo. Léčba spočívá ve vysazení léku a v podpůrné léčbě.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Cytostatika, antimetabolity, analogy purinu
+ATC kód: L01BB05
+
+Mechanismus účinku
+Fludarabin obsahuje fludarabin-fosfát je ve vodě rozpustný fluoridovaný analog nukleotidu antivirové látky vidarabinu, 9-β-D-arabinofuranosyladeninu (ara-A), který je relativně rezistentní vůči deaminaci adenosindeaminázou.
+
+Fludarabin-fosfát je rychle defosforylován na 2F-ara-A, který vstupuje do buněk a pak je fosforylován intracelulárně deoxycytidinkinázou na aktivní trifosfát, 2F-ara-ATP. Ukázalo se, že tento metabolit inhibuje ribonukleotidreduktázu, DNA polymerázu alfa/delta a epsilon, DNA primázu a DNA ligázu a tím inhibuje syntézu DNA.
+
+
+10
+
+Dále dochází k částečné inhibici RNA polymerázy II a k následnému snížení syntézy proteinů.
+
+Přestože některé aspekty mechanismu účinku 2F-ara-ATP jsou ještě nejasné, předpokládá se, že vliv na syntézu DNA, RNA a proteinů v souhrnu přispívá k inhibici buněčného růstu, dominujícím faktorem je přitom inhibice syntézy DNA. Studie in vitro navíc prokázaly, že expozice CLL lymfocytů 2F-ara-A vyvolává rozsáhlou fragmentaci DNA a odumírání buněk apoptózou.
+
+Klinická účinnost a bezpečnost
+Klinická studie fáze III u pacientů s dříve neléčenou chronickou B lymfocytární leukemií, ve které se srovnávala léčba fludarabinem oproti léčbě chlorambucilem (40 mg/m² každé 4 týdny) u 195 a 199 pacientů, přinesla následující výsledky: statisticky významně vyšší celkovou četnost odpovědí a četnost kompletních odpovědí po léčbě fludarabinem v 1. linii ve srovnání s léčbou chlorambucilem (61,1 % oproti 37,6 % a 14,9 % oproti 3,4 %); statisticky významně delší dobu trvání odpovědi (19 oproti 12,2 měsícům) a dobu do progrese choroby (17 oproti 13,2 měsícům) u skupiny pacientů léčených fludarabinem. Medián přežívání u pacientů v těchto dvou skupinách byl 56,1 měsíců při léčbě fludarabinema 55,1 měsíců při léčbě chlorambucilem, nebyl zjištěn statisticky významný rozdíl. Podíl pacientů udávajících toxické účinky byl u pacientů léčených fludarabinem (89,7 %) a léčených chlorambucilem (89,9 %) srovnatelný. Zatímco rozdíl ve výskytu hematologických toxicit nebyl u obou léčebných skupin statisticky významný, u pacientů léčených fludarabinem byl významně vyšší počet pacientů s toxickými účinky na leukocyty (p = 0,0054) a na lymfocyty (p = 0,0240), než u pacientů léčených chlorambucilem. Podíl pacientů, kteří uváděli nauzeu, zvracení a průjem, byl významně nižší u pacientů s fludarabinem (p < 0,0001, p < 0,0001 a p = 0,0489) než u pacientů léčených chlorambucilem. Také jaterní toxicita byla uváděna u významně nižšího podílu (p = 0,0487) pacientů ve skupině léčené fludarabinem než ve skupině léčené chlorambucilem.
+
+Pacienti, kteří zpočátku odpovídají na fludarabin, mají naději, že budou na monoterapii fludarabinem znovu odpovídat.
+
+Randomizovaná studie porovnávající léčbu fludarabinem oproti cyklofosfamidu, adriamycinu a prednisonu (CAP) u 208 pacientů s CLL ve stádiu Binet B nebo C přinesla následující výsledky u podskupiny 103 pacientů, kteří byli již dříve léčeni: vyšší celkovou četnost odpovědí a četnost kompletních odpovědí při léčbě fludarabinem ve srovnání s CAP (45 % oproti 26 % a 13 % oproti 6 %); doba trvání odpovědi a celková doba přežívání byly podobné u léčby fludarabinem i CAP. Během sledované doby léčby 6 měsíců byl počet úmrtí 9 (fludarabin) oproti 4 (CAP).
+
+Post-hoc analýzy, ve kterých se použila data do 6 měsíců po začátku léčby, ukázaly v podskupině pacientů s již dříve léčeným stádiem Binet C rozdíl mezi křivkou přežívání pro fludarabin a CAP ve prospěch CAP.
+
+5.2  Farmakokinetické vlastnosti
+
+•  Farmakokinetika fludarabinu (2F-ara-A) v plasmě a moči
+Farmakokinetika fludarabinu (2F-ara-A) byla studována po intravenózním podání rychlé bolusové injekce, po krátkodobé infuzi i po kontinuální infuzi a po perorálním podání fludarabin-fosfátu (2F-ara-AMP)
+
+
+11
+
+Nebyla nalezena jasná korelace mezi farmakokinetikou 2F-ara-A a účinností léčby pacientů s nádorovým onemocněním.
+
+Výskyt neutropenie a změny hematokritu však ukazují, že cytotoxicita fludarabin-fosfátu snižuje hematopoézu v závislosti na dávce.
+•  Distribuce a metabolismus
+
+2F-ara-AMP je ve vodě rozpustné proléčivo fludarabinu (2F-ara-A), které se rychle a kvantitativně defosforyluje v lidském organismu na nukleosid fludarabinu (2F-ara-A).
+Jiný metabolit, 2F-ara-hypoxantin, který představuje hlavní metabolit u psů, byl u lidí pozorován jen v malé míře.
+
+Po podání jednorázové infuze 25 mg 2F-ara-AMP na m² tělesného povrchu onkologickým pacientům po dobu 30 minut dosáhl 2F-ara-A průměrné maximální koncentrace v plazmě 3,5- 3,7 μmol na konci infuze. Odpovídající hladiny 2F-ara-A po páté dávce ukazují na střední akumulaci s průměrnou maximální hladinou 4,4 - 4,8 μmol na konci infuze. Během 5denního léčebného cyklu spodní plazmatické hladiny 2F-ara-A stoupnou asi dvakrát. Akumulaci 2F- ara-A po několika léčebných cyklech lze vyloučit. Postmaximální hladiny klesají ve třech fázích, úvodní poločas je přibližně 5 minut, střední poločas je 1-2 hodiny a terminální poločas přibližně 20 hodin.
+
+Srovnání výsledků farmakokinetiky 2F-ara-A mezi různými studiemi prokázalo střední celkovou plazmatickou clearance (CL) 79 ± 40 ml/min/m² (2,2 ± 1,2 ml/min/kg) a střední distribuční objem (Vss) 83 ± 55 l/m² (2,4 ± 1,6 l/kg). Údaje svědčí o vysoké interindividuální variabilitě. Po intravenózním a perorálním podání fludarabin-fosfátu se plazmatické hladiny 2F-ara-A a plochy pod časovou křivkou plazmatických hladin zvyšují lineárně s dávkou, zatímco poločasy, plazmatická clearance a distribuční objemy zůstávají konstantní, nezávislé na dávce, což ukazuje na lineární chování vzhledem k dávce.
+•  Eliminace
+2F-ara-A je eliminován převážně renální exkrecí. Močí je vyloučeno 40 - 60% intravenózně podané dávky. Hmotnostní bilanční studie s ³H-2F-ara-AMP u laboratorních zvířat prokázaly úplné vyloučení radioaktivně značené látky močí.
+•  Charakteristika u pacientů
+Jelikož u jedinců s poruchou funkce ledvin je snížena celková tělesná clearance, je nutno snížit u těchto pacientů dávky. Studie in vitro s lidskými plazmatickými proteiny neprokázaly nijak výraznou tendenci 2F-ara-A vázat se na proteiny.
+• Buněčná farmakokinetika fludarabin-trifosfátu
+
+2F-ara-A je aktivně transportován do leukemických buněk, kde je refosforylován na monofosfát a následně na difosfát a trifosfát. Trifosfát, 2F-ara-ATP, je hlavním intracelulárním metabolitem a jediným známým metabolitem s cytotoxickou aktivitou. Nejvyšší hladiny 2F-ara-ATP v leukemických lymfocytech pacientů s CLL byly pozorovány při mediánu 4 hodiny a vykazovaly značné rozdíly s průměrnou nejvyšší koncentrací přibližně 20 μM. Hodnoty 2F- ara-ATP v leukemických buňkách byly vždy výrazně vyšší než maximální hodnoty 2F-ara-A v plazmě, což svědčí pro akumulaci látky v cílových buňkách. Inkubace leukemických lymfocytů in vitro prokázala lineární vztah mezi extracelulární expozicí 2F-ara-A (součin koncentrace 2F-
+
+12
+
+ara-A a doby inkubace) a intracelulárním zmnožením 2F-ara-ATP. Vyloučení 2F-ara-ATP z
+cílových buněk vykazuje střední hodnoty poločasu 15 a 23 hodin.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+•  Systémová toxicita
+Ve studiích zaměřených na akutní toxicitu vyvolalo jednorázové podání fludarabinu v dávce o dva řády převyšující terapeutické dávky příznaky těžké intoxikace nebo smrt. Podle očekávání vzhledem  k  cytotoxické  sloučenině  byla  postižena  kostní  dřeň,  lymfoidní  orgány, gastrointestinální sliznice, ledviny a mužské gonády. U pacientů byly pozorovány těžké nežádoucí účinky již při podání dávek blížících se k doporučeným terapeutickým dávkám (faktor 3 až 4) zahrnující těžkou neurotoxicitu, někdy fatální (viz bod 4.9).
+Studie zaměřené na systémovou toxicitu po opakovaném podání fludarabin-fosfátu prokázaly také očekávaný účinek v nadprahové dávce na rychle proliferující tkáně. Závažnost morfologických projevů stoupala s dávkou a délkou podávání a pozorované změny byly obecně považovány za reverzibilní. V zásadě zkušenosti získané z terapeutického využití fludarabinu ukazují na srovnatelný toxikologický profil u lidí, ačkoliv u pacientů byly navíc pozorovány další nežádoucí účinky jako neurotoxicita (viz bod 4.8).
+
+•  Embryotoxicita
+Výsledky intravenózních embryotoxických studií na potkanech a králících prokázaly embryoletální a teratogenní potenciál fludarabin-fosfátu, což se projevilo malformacemi kostry, ztrátou hmotnosti plodu a postimplantační ztrátou. Vzhledem k úzké hranici bezpečnosti mezi teratogenními dávkami u zvířat a terapeutickými dávkami u lidí a vzhledem k analogii s dalšími antimetabolity, u kterých se předpokládá interference s procesem diferenciace, je terapeutické použití fludarabinu spojeno se závažným rizikem teratogenního účinku u člověka (viz bod 4.6).
+•  Genotoxický potenciál, tumorigenicita
+Bylo prokázáno, že fludarabin-fosfát vyvolává chromozomální aberace v cytogenetických testech in vitro, způsobuje poškození DNA v testu výměny sesterských chromatid, zvyšuje četnost mikronukleů v in vivo mikronukleovém testu na myších. Fludarabin však byl negativní v testech genových mutací a v testu dominantní letality u myších samců. Mutagenní potenciál byl tedy prokázán v somatických buňkách, ale nebyl demonstrován v buňkách zárodečných.
+
+Známá aktivita fludarabin-fosfátu na úrovni DNA a výsledky testů mutagenicity podporují názor, že fludarabin-fosfát má karcinogenní potenciál. Nebyly prováděny žádné studie na zvířatech řešící přímo otázku karcinogenity, protože podezření na zvýšené riziko sekundárních tumorů vzniklých na základě léčby fludarabin-fosfátem může být ověřeno výlučně na základě epidemiologických dat.
+
+•  Lokální tolerance
+Podle výsledků experimentů na zvířatech po intravenózním podání fludarabin-fosfátu se neočekává výrazná lokání iritace v místě podání. Ani po chybné aplikaci injekce nebyla pozorována výrazná lokální iritace po paravenózním, intraarteriálním a intramuskulárním podání vodného roztoku obsahujícího 7,5 mg fludarabin-fosfátu/ml.
+
+Podobnost  pozorovaných  lézí  v  gastrointestinálním  traktu  po  intravenózním  nebo intragastrickém podání ve zvířecích experimentech podporují předpoklad, že fludarabin- fosfátem vyvolává enteritidu jakožto systémový účinek.
+
+13
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+manitol
+dihydrát hydrogenfosforečnanu sodného
+voda na injekci
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s žádnými dalšími léčivými přípravky s výjimkou těch, které jsou uvedeny v bodu 6.6.
+
+6.3  Doba použitelnosti
+
+2 roky
+
+Byla prokázána chemická a fyzikální stabilita přípravku 0,2 mg/ml a 6,0 mg/ml po naředění s 0,9% chloridem sodným a 5% roztokem glukózy po dobu 7 dní při teplotě 2-8 °C a po dobu 5 dní při teplotě 20-25 °C v ne-PVC vacích a skleněných lahvičkách.
+
+.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při 2 °C – 8 °C, pokud ředění neproběhla za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 °C – 8 °C). Chraňte před mrazem.
+Pro skladování naředěného přípravku viz bod 6.3
+
+6.5  Druh obalu a obsah balení
+
+2ml injekční lahvičky z čirého skla třídy I uzavřené fluorotekovým pryžovým uzávěrem a
+hliníkovým odtrhovacím víčkem.
+
+2ml injekční lahvičky obsahují fludarabini phosphas 50 mg a jsou dostupné v balení po 1 lahvičce, 5 a 10 lahvičkách.
+Na trhu nemusí být dostupné všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním Naředění
+Potřebná dávka přípravku (vypočítaná podle povrchu těla pacienta) se natáhne do injekční stříkačky.
+
+
+14
+
+Pro intravenózní bolusovou injekci se tato dávka dále zředí v 10 ml 0,9% roztoku chloridu sodného (9 mg/ml). Případně lze potřebnou dávku nataženou do stříkačky naředit ve 100 ml 0,9% roztoku chloridu sodného (9 mg/ml) nebo v 5% injekčním roztoku dextrózy a podat infuzí po dobu asi 30 minut.
+
+V klinických studiích byl přípravek rozpouštěn ve 100 ml nebo 125 ml 5% injekčního roztoku
+dextrózy nebo 0,9 % roztoku chloridu sodného.
+
+Kontrola před použitím
+Naředěný přípravek je čirý, bezbarvý nebo slabě hnědo-žlutý roztok. Před použitím musí být vizuálně zkontrolován.
+
+Smí být použity pouze čiré, bezbarvé nebo slabě hnědo-žluté roztoky prosté částic. Fludarabine Accord nemá být použit v případě poškozeného obalu.
+
+Zacházení s přípravkem a jeho likvidace
+S fludarabinem nesmějí zacházet těhotné ženy.
+
+Pravidla pro správnou manipulaci s přípravkem musí být v souladu s místními pravidly pro
+zacházení s cytotoxickými látkami.
+
+Při přípravě roztoku a veškeré manipulaci s fludarabinem je třeba dbát opatrnosti. Pro případ náhodného kontaktu s přípravkem, např. při rozbití injekční lahvičky nebo rozlití jejího obsahu, je nutné se chránit latexovými rukavicemi a ochrannými brýlemi. Dojde-li ke kontaktu roztoku s kůží nebo sliznicemi, má být postižená oblast pečlivě omyta mýdlem a vodou. Dojde-li ke kontaktu s očima, důkladně je vypláchněte velkým množstvím vody. Je třeba se vyvarovat inhalace par přípravku.
+Tento léčivý přípravek je určen pouze k jednorázovému použití. Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Do 28. 3. 2019:
+Accord Healthcare Limited Sage House, 319 Pinner Road
+North Harrow, Middlesex, HA1 4HF
+Velká Británie
+
+Od 29. 3. 2019:
+Accord Healthcare Polska Sp. z o.o.,
+ul. Taśmowa 7,
+02-677, Varšava,
+Polsko
+
+8.  REGISTRAČNÍ ČÍSLO
+44/476/15-C
+
+
+
+15
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 23. 9. 2015
+
+10.  DATUM REVIZE TEXTU
+
+13. 2. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16

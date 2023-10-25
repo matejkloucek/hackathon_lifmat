@@ -1,0 +1,1631 @@
+Sp. zn. sukls18098/2021
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Capecitabine Pharmagen 500 mg potahované tablety
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje capecitabinum 500 mg Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Potahovaná tableta
+Potahované tablety broskvové barvy ve tvaru tobolky s označením „500“ na jedné straně. Rozměry jsou přibližně 17,1 mm x 8,1 mm.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Capecitabine Pharmagen je indikován k léčbě:
+
+- adjuvantní léčbě pacientů po operaci karcinomu tlustého střeva stadia III (stadia C podle Dukese)
+(viz bod 5.1).
+
+- metastazujícího kolorektálního karcinomu (viz bod 5.1).
+
+- první linie pokročilého karcinomu žaludku v kombinaci s režimem obsahujícím platinu (viz bod
+5.1).
+
+-  pacientů s lokálně pokročilým nebo metastazujícím karcinomem prsu v kombinaci s docetaxelem (viz bod 5.1) po selhání cytotoxické chemoterapie. Předchozí terapie má zahrnovat antracyklin.
+
+-  pacientů s lokálně pokročilým nebo metastazujícím karcinomem prsu po selhání chemoterapeutického režimu zahrnujícího taxany a antracykliny nebo pacientů, u kterých není další léčba antracykliny indikována.
+
+4.2  Dávkování a způsob podání
+
+Capecitabine Pharmagen má být předepisován pouze kvalifikovaným lékařem, který má dostatečné zkušenosti s používáním protinádorových léčivých přípravků. Doporučuje se pečlivé sledování všech pacientů během prvního cyklu léčby.
+V případě progrese onemocnění nebo netolerovatelné toxicity přípravku má být léčba přerušena. V tabulce 1 resp. v tabulce 2 je uveden výpočet standardní a snížené dávky, který vychází z plochy povrchu těla při úvodních dávkách přípravku Capecitabine Pharmagen 1250 mg/m² a 1000 mg/m².
+
+Dávkování
+
+Doporučené dávkování (viz bod 5.1):
+Monoterapie
+1
+
+Karcinom tlustého střeva, konečníku a karcinom prsu
+Při monoterapii kapecitabinem v adjuvantní léčbě karcinomu tlustého střeva, v léčbě metastazujícího kolorektálního karcinomu nebo lokálně pokročilého nebo metastazujícího karcinomu prsu je doporučena úvodní dávka 1250 mg/m² užívaná dvakrát denně (ráno a večer; to odpovídá celkové denní dávce 2500 mg/m²) po dobu 14 dnů s následující 7denní přestávkou bez podávání přípravku. Při adjuvantní léčbě pacientů s karcinomem tlustého střeva ve stadiu III se doporučuje délka léčby 6 měsíců.
+Kombinovaná léčba
+Karcinom tlustého střeva, konečníku a karcinom žaludku
+Při kombinované léčbě má být doporučená úvodní dávka kapecitabinu snížena na 800 - 1000 mg/m² při podávání 2x denně po dobu 14 dnů s následnou přestávkou 7 dní nebo na 625 mg/m² dvakrát denně při kontinuálním podávání (viz bod 5.1). V kombinaci s irinotekanem je doporučená úvodní dávka 800 mg/m² při podávání 2x denně po dobu 14 dnů s následnou přestávkou 7 dnů, irinotekan se podává v dávce 200 mg/m² v den 1. Přidání bevacizumabu do kombinovaného režimu úvodní dávku kapecitabinu neovlivňuje. Podle souhrnu údajů o přípravku pro cisplatinu má být u pacientů užívajících kapecitabin v kombinaci s cisplatinou před zahájením léčby cisplatinou podána premedikace k udržení odpovídající hydratace a premedikace antiemetiky. U pacientů léčených kombinací kapecitabin + oxaliplatina je doporučena premedikace antiemetiky dle souhrnu údajů
+o přípravku pro oxaliplatinu. Adjuvantní léčba pacientů s karcinomem tlustého střeva stadia III je
+doporučena v trvání 6 měsíců.
+
+Karcinom prsu
+V kombinaci s docetaxelem je doporučená úvodní dávka kapecitabinu v léčbě metastazujícího karcinomu prsu 1250 mg/m² dvakrát denně po dobu 14 dnů s následující 7denní přestávkou bez podávání přípravku, docetaxel se podává v dávce 75 mg/m² ve formě intravenózní infuze trvající 1 hodinu každé 3 týdny. U pacientů užívajících kapecitabin v kombinaci s docetaxelem by má být před zahájením léčby docetaxelem podána premedikace perorálními kortikosteroidy, např. dexamethasonem, podle instrukcí uvedených v souhrnu údajů o přípravku pro docetaxel.
+Výpočet dávky přípravku Capecitabine Pharmagen
+Tabulka 1  Výpočet standardní a snížené dávky kapecitabinu provedený na základě plochy povrchu těla při úvodní dávce 1250 mg/m²
+
+Dávka 1250 mg/m² (dvakrát denně)
+
+
+Plná dávka
+1250 mg/m²
+Počet 150mg a/nebo 500mg tablet na jedno podání (každá dávka je podávána ráno a večer)
+Snížená dávka
+(75 %)
+950 mg/m²
+Snížená dávka
+(50 %)
+625 mg/m²
+
+
+Plocha tělesného povrchu (m²)
+≤1,26
+1,27 – 1,38
+1,39 – 1,52
+1,53 – 1,66
+1,67 – 1,78
+1,79 – 1,92
+1,93 – 2,06
+2,07 – 2,18
+≥2,19
+Podávaná dávka (mg)
+
+1500
+1650
+1800
+2000
+2150
+2300
+2500
+2650
+2800
+
+150 mg
+
+- 1
+2
+- 1
+2
+- 1
+2
+
+500 mg
+
+3
+3
+3
+4
+4
+4
+5
+5
+5
+Podávaná dávka (mg)
+
+1150
+1300
+1450
+1500
+1650
+1800
+1950
+2000
+2150
+Podávaná dávka (mg)
+
+800
+800
+950
+1000
+1000
+1150
+1300
+1300
+1450
+
+
+
+
+
+
+2
+
+Tabulka 2  Výpočet standardní a snížené dávky kapecitabinu provedený na základě plochy povrchu těla při úvodní dávce 1000 mg/m²
+
+Dávka 1250 mg/m² (dvakrát denně)
+
+
+
+
+Plocha
+Plná dávka
+1000 mg/m²
+Podávaná
+Počet 150mg a/nebo 500mg tablet na jedno podání (každá dávka je podávána ráno a večer)
+Snížená dávka
+(75 %)
+750 mg/m²
+Podávaná
+Snížená dávka
+(50 %)
+500 mg/m²
+Podávaná
+
+tělesného
+povrchu (m²)
+≤1,26
+1,27 – 1,38
+1,39 – 1,52
+1,53 – 1,66
+1,67 – 1,78
+1,79 – 1,92
+1,93 – 2,06
+2,07 – 2,18
+≥2,19
+dávka (mg)
+
+1150
+1300
+1450
+1600
+1750
+1800
+2000
+2150
+2300
+150 mg
+
+1
+2
+3
+4
+5
+2
+- 1
+2
+500 mg
+
+2
+2
+2
+2
+2
+3
+4
+4
+4
+dávka (mg)
+
+800
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1750
+dávka (mg)
+
+600
+600
+750
+800
+800
+900
+1000
+1050
+1100
+
+Úprava dávkování během léčby:
+
+Obecně
+Projevy toxicity v důsledku podávání kapecitabinu mohou být řešeny symptomatickou léčbou a/nebo úpravou dávek (přerušením léčby nebo snížením dávky). Jakmile dojde ke snížení dávky, nemá být být dávka již později zvyšována. V případě toxicity, která dle mínění lékaře nebude závažná nebo život ohrožující, jako jsou například alopecie, změna chuti, změny nehtů, je možno v léčbě pokračovat stejnou dávkou bez redukce nebo přerušení. Pacienty léčené kapecitabinem je třeba informovat, že
+v případě výskytu středně těžkých nebo těžkých nežádoucích účinků je nutno okamžitě přerušit léčbu. Dávky kapecitabinu vynechané z důvodu toxicity se nenahrazují. Dále je uvedena doporučená úprava dávkování při projevech toxicity přípravku.
+Tabulka 3  Schéma snížení dávky kapecitabinu (třítýdenní cyklus nebo kontinuální léčba)
+
+Stupeň toxicity *
+
+
+• Stupeň 1
+• Stupeň 2
+-1. výskyt
+-2. výskyt
+-3. výskyt
+-4. výskyt
+• Stupeň 3
+Změny dávky v průběhu léčebného cyklu
+Udržovací dávka Přerušit léčbu, dokud nedojde
+ke zlepšení na stupeň 0-1
+
+Trvale ukončit léčbu
+Úprava dávek pro příští léčebný cyklus/dávku (% úvodní dávky) Udržovací dávka
+
+100%
+75%
+50%
+Není relevantní
+-1. výskyt              Přerušit léčbu, dokud nedojde          75%
+
+-2. výskyt
+ke zlepšení na stupeň 0-1
+50%
+-3. výskyt                Trvale ukončit léčbu         Není relevantní
+• Stupeň 4
+
+-1. výskyt
+
+
+
+
+
+-2. výskyt
+Trvale přerušit léčbu nebo pokud lékař usoudí, že pokračování léčby je
+v nejlepším zájmu pacienta, přerušit léčbu, dokud nedojde ke zlepšení na stupeň 0-1 Trvale ukončit léčbu
+50 %
+
+
+
+
+
+Není relevantní
+* Dle Obecných kritérií toxicity Skupiny klinických studií Národního institutu Kanady pro zhoubné nádory (National Cancer Institute of Canada Clinical Trial Group (NCIC CTG) Common Toxicity
+3
+
+Criteria) (verze 1) nebo dle Obecných terminologických kritérií nežádoucích účinků programu hodnocení nádorové léčby Amerického národního institutu pro zhoubné nádory (Common Terminology Criteria for Adverse Events (CTCAE) of the Cancer Therapy Evaluation Program, US National Cancer Institute), verze 4.0. Palmoplantární erytrodysestezie („hand-foot“ syndrom) a hyperbilirubinemie viz bod 4.4.
+
+Hematologie
+Pacienti se vstupním počtem neutrofilů <1,5 x 10⁹/l a/nebo počtem trombocytů <100 x 10⁹/l nemají být kapecitabinem léčeni. V případě, že neplánované laboratorní vyšetření v průběhu léčebného cyklu ukáže, že počet neutrofilů klesl pod 1,0 x 10⁹/l nebo počet trombocytů klesl pod 75 x 10⁹/l, má být léčba kapecitabinem přerušena.
+Úprava dávky z důvodu toxicity v případě, kdy je kapecitabin užíván v kombinaci s dalšími léčivými přípravky v třítýdenním cyklu
+Jestliže je kapecitabin užíván v kombinaci s dalšími léčivými přípravky v třítýdenním cyklu, má být úprava dávky z důvodu toxicity prováděna podle tabulky 3, pokud jde o kapecitabin a podle příslušného souhrnu údajů o přípravku, pokud jde o další léčivý přípravek (léčivé přípravky).
+V případě, kdy je na začátku léčebného cyklu indikováno odložení léčby kapecitabinem nebo se odložení léčby týká dalšího léčivého přípravku (dalších léčivých přípravků), má být odloženo podávání všech léčivých přípravků až do doby, dokud nejsou splněny požadavky ke znovuzahájení léčby všemi léčivými přípravky.
+
+Pokud se v průběhu léčebného cyklu projeví toxicita, která podle ošetřujícího lékaře není způsobena kapecitabinem, je možno v léčbě kapecitabinem pokračovat a dávku dalšího léčivého přípravku upravit v souladu s příslušným souhrnem údajů o přípravku.
+Pokud je nutné léčbu dalším léčivým přípravkem (dalšími léčivými přípravky) trvale ukončit, je
+možné po splnění kritérií pokračovat v léčbě kapecitabinem.
+Toto doporučení platí pro všechny indikace a pro všechny zvláštní skupiny pacientů.
+
+Úprava dávky z důvodu toxicity v případě, kdy je kapecitabin užíván kontinuálně v kombinaci s dalšími léčivými přípravky
+Jestliže je kapecitabin užíván nepřetržitě v kombinaci s dalšími léčivými přípravky, má být úprava dávky z důvodu toxicity prováděna podle tabulky 3, pokud jde o kapecitabin a podle příslušného souhrnu údajů o přípravku, pokud jde o další přípravek (přípravky).
+Úprava dávkování u zvláštních skupin pacientů:
+Porucha funkce jater
+U pacientů s poruchou funkce jater nejsou k dispozici dostatečná data týkající se bezpečnosti a účinnosti, tak aby mohla být doporučena vhodná úprava dávkování. Neexistují žádné informace týkající se použití přípravku u pacientů s poruchou funkce jater v důsledku cirhózy nebo hepatitidy.
+
+Porucha funkce ledvin
+Kapecitabin je kontraindikován u pacientů s těžkou poruchou funkce ledvin (clearance kreatininu méně než 30 ml/min [Crockroft a Gault] před zahájením léčby). U pacientů se středně těžkou poruchou funkce ledvin (clearance kreatininu 30 – 50 ml/min před zahájením léčby) je incidence nežádoucích účinků 3. nebo 4. stupně zvýšena ve srovnání s celkovou populací. U pacientů se středně těžkou poruchou funkce ledvin před zahájením léčby se doporučuje snížení úvodní dávky na 75 %
+z úvodní dávky 1250 mg/m². Při úvodní dávce 1000 mg/m² není u pacientů se středně těžkou poruchou funkce ledvin před zahájením léčby nutná redukce dávky. U pacientů s mírnou poruchou funkce ledvin (clearance kreatininu 51 – 80 ml/min před zahájením léčby) se nedoporučuje žádná úprava úvodní dávky. Pokud dojde u pacientů v průběhu léčby k rozvoji nežádoucích účinků 2., 3. nebo 4. stupně, je nutné pečlivé sledování a okamžité přerušení léčby s následnou úpravou dávek podle výše uvedené tabulky 3. Pokud vypočtená clearance kreatininu v průběhu léčby klesne pod
+4
+
+hodnotu 30 ml/min, má být léčba přípravkem Capecitabine Pharmagen ukončena. Tato doporučení úpravy dávkování při poruše funkce ledvin platí jak pro monoterapii, tak pro kombinovanou léčbu (viz též níže bod „Starší pacienti“).
+
+Starší pacienti
+Při monoterapii kapecitabinem není nutná žádná úprava úvodní dávky. Ve srovnání s mladšími pacienty však byly u pacientů ≥ 60 let pozorovány častěji nežádoucí účinky 3. nebo 4. stupně vznikající v souvislosti s léčbou.
+Pokud byl kapecitabin použit v kombinaci s jinými léčivými přípravky, byl u starších pacientů (≥ 65 let) ve srovnání s mladšími pacienty pozorován vyšší výskyt nežádoucích účinků stupně 3 a 4, včetně těch, které vedly k ukončení léčby. U pacientů ≥ 60 let se doporučuje pečlivé monitorování.
+-   V kombinaci s docetaxelem: u pacientů ve věku 60 let a starších byla zaznamenána zvýšená incidence nežádoucích účinků 3. nebo 4. stupně vznikajících v souvislosti s léčbou a závažných nežádoucích účinků vznikajících v souvislosti s léčbou (viz bod 5.1). U pacientů ve věku 60 let a starších se doporučuje snížení počáteční dávky kapecitabinu na 75 % (950 mg/m² 2x denně).
+Pokud u pacientů ≥ 60 let léčených sníženou počáteční dávkou kapecitabinu v kombinaci
+s docetaxelem není pozorováno žádné zvýšení toxicity, dávka kapecitabinu může být opatrně zvyšována na 1250 mg/m² dvakrát denně.
+Pediatrická populace
+Nejsou k dispozici relevantní údaje o použití kapecitabinu v pediatrické populaci v indikaci karcinom tlustého střeva, konečníku, žaludku a prsu.
+
+Způsob podání
+Tablety přípravku Capecitabine Pharmagen se mají spolknout a zapít vodou do 30 minut po jídle.
+Tablety přípravku Capecitabine Pharmagen se nemají drtit ani krájet.
+
+4.3  Kontraindikace
+
+•   Těžké a neočekávané reakce na léčbu fluorpyrimidiny v anamnéze.
+•   Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 nebo na fluoruracil.
+•   Známý úplný deficit dihydropyrimidindehydrogenázy (DPD) (viz bod 4.4).
+•  V průběhu těhotenství a kojení.
+•   U pacientů s těžkou leukopenií, neutropenií nebo trombocytopenií.
+•   U pacientů s těžkou poruchou funkce jater.
+•   U pacientů s těžkou poruchou funkce ledvin (clearance kreatininu méně než 30 ml/min).
+•   Nedávná nebo souběžná léčba brivudinem (viz body 4.4 a 4.5 pro lékové interakce).
+•   Při existenci kontraindikace pro použití některého léčivého přípravku v kombinovaném režimu nelze příslušný léčivý přípravek použít.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Dávku limitující toxicita
+Dávku limitující toxicita zahrnuje průjem, bolest břicha, nauzeu, stomatitidu a syndrom ruka – noha (kožní reakce ruka – noha, palmoplantární erytrodysestezie). Většina nežádoucích účinků je reverzibilní a nevyžaduje trvalé přerušení léčby, někdy však může být nutné vynechání nebo snížení dávek.
+Průjem
+Pacienti s těžkými průjmy musí být pečlivě monitorováni a v případě dehydratace je třeba doplnit tekutiny a elektrolyty. Může být použita standardní protiprůjmová léčba (např. loperamid). Průjem 2. stupně dle NCIC CTC je definován jako zvýšení počtu stolic na 4-6 během dne nebo noční průjmovitá stolice, průjem 3. stupně jako zvýšení počtu stolic na 7-9 během dne nebo inkontinence a malabsorpce. Průjem 4. stupně je definován jako zvýšení počtu stolic ≥ 10 za den, makroskopicky krvavý průjem nebo nutnost parenterální podpůrné léčby. Dle potřeby by má být dávka redukována (viz bod 4.2).
+
+5
+
+Dehydratace
+Dehydrataci je nutno předcházet a v případě výskytu je nutno ji korigovat. Pacienti s anorexií, astenií, nauzeou, zvracením nebo průjmem mohou být rychle dehydratováni. Dehydratace může způsobit akutní selhání ledvin, zvláště u pacientů se sníženou funkcí ledvin nebo při souběžném podávání kapecitabinu s léčivými přípravky se známým nefrotoxickým účinkem. Akutní selhání ledvin následně po dehydrataci může vést potenciálně i k úmrtí. Při výskytu dehydratace stupně 2 (či vyššího) má být léčba kapecitabinem okamžitě přerušena a dehydratace upravena. Léčba nemá být znovu zahájena, dokud pacient není rehydratován a všechny vyvolávající příčiny nejsou upraveny nebo pod kontrolou. V případě potřeby se má upravit dávka s ohledem na vyvolávající nežádoucí účinek (viz bod 4.2).
+Syndrom ruka-noha
+Syndrom ruka-noha (také známý jako kožní reakce na rukou a nohou, palmoplantární erytrodysestezie nebo chemoterapií navozený akrální erytém). Syndrom ruka-noha 1. stupně je definován jako pocit necitlivosti, dysestezie/parestezie, mravenčení, nebolestivý otok nebo erytém na rukou a/nebo nohou a/nebo pocit diskomfortu, který nenarušuje pacientovy běžné denní aktivity.
+Syndrom ruka-noha 2. stupně je definován jako bolestivý erytém a otok na rukou a/nebo nohou a/
+nebo pocit diskomfortu, který ovlivňuje pacientovy běžné denní aktivity.
+Syndrom ruka-noha 3. stupně je charakterizován mokvajícími deskvamacemi, ulceracemi, tvorbou puchýřů a výraznou bolestí rukou a/nebo nohou a/nebo těžkým diskomfortem znemožňujícím pacientovi vykonávat práci nebo běžné denní aktivity. Přetrvávající nebo závažný syndrom ruka-noha (stupně 2 a výše) může nakonec vést ke ztrátě otisků prstů, což může mít dopad na identifikaci pacienta. Pokud se objeví syndrom ruka-noha 2. nebo 3. stupně, má být podávání kapecitabinu přerušeno, dokud příznaky nevymizí nebo se jejich intenzita nesníží na úroveň 1. stupně. Po proběhlém syndromu ruka-noha 3. stupně mají být následné dávky kapecitabinu sníženy. Je-li kapecitabin užíván v kombinaci s cisplatinou, nedoporučuje se k symptomatické nebo k sekundární profylaktické léčbě syndromu ruka-noha používat vitamín B6 (pyridoxin), který podle publikovaných údajů může snižovat účinnost cisplatiny. Je prokázáno, že v profylaxi syndromu ruka-noha u pacientů léčených kapecitabinem je účinný dexpanthenol.
+Kardiotoxicita
+S léčbou fluorpyrimidiny byly spojeny projevy kardiotoxicity zahrnující akutní infarkt myokardu, anginu pectoris, arytmie, kardiogenní šok, náhlou smrt a elektrokardiografické změny (včetně velmi vzácných případů prodloužení QT intervalu). Tyto nežádoucí účinky mohou být častější u pacientů s předchozí anamnézou ischemické choroby srdeční. U pacientů užívajících kapecitabin byly zaznamenány srdeční arytmie (včetně fibrilace komor, torsade de pointes a bradykardie), angina pectoris, akutní infarkt myokardu, srdeční selhání a kardiomyopatie. Opatrnosti je třeba u pacientů s anamnézou významného srdečního onemocnění, arytmií nebo anginou pectoris (viz bod 4.8).
+
+Hypokalcemie nebo hyperkalcemie
+V průběhu léčby kapecitabinem byla zaznamenána hypo- nebo hyperkalcemie. Opatrnosti je třeba
+u pacientů s preexistující hypo- nebo hyperkalcemií (viz bod 4.8).
+
+Onemocnění centrálního nebo periferního nervového systému
+Opatrnosti je třeba u pacientů s onemocněním centrálního nebo periferního nervového systému, např. mozkovými metastázami nebo neuropatií (viz bod 4.8).
+
+Diabetes mellitus nebo poruchy elektrolytové rovnováhy
+Opatrnost je nutná u pacientů s diabetem mellitem nebo s poruchami elektrolytové rovnováhy, neboť v průběhu léčby kapecitabinem může dojít ke zhoršení těchto stavů.
+
+Antikoagulační léčba kumarinovými deriváty
+V interakční studii s podáním jednotlivé dávky warfarinu došlo k signifikantnímu zvýšení průměrné AUC (+ 57 %) S-warfarinu. Tyto výsledky naznačují interakci vznikající pravděpodobně v důsledku inhibice isoenzymatického systému 2C9 cytochromu P450 kapecitabinem. U pacientů užívajících kapecitabin zároveň s perorální antikoagulační léčbou kumarinovými deriváty má být antikoagulační odpověď (INR nebo protrombinový čas) pečlivě monitorována a dávka antikoagulancia přiměřeně
+6
+
+upravena (viz bod 4.5).
+
+Porucha funkce jater
+Vzhledem k nedostatku údajů o bezpečnosti a účinnosti podávání kapecitabinu u pacientů s poruchou funkce jater mají být pacienti s mírnou až středně těžkou poruchou funkce jater pečlivě monitorováni, a to bez ohledu na přítomnost či nepřítomnost jaterních metastáz. Pokud dojde v důsledku léčby ke zvýšení hladiny bilirubinu na > 3,0 x horní hranice normy nebo ke zvýšení hladin jaterních aminotransferáz (ALT, AST) na > 2,5 x horní hranice normy, má být podávání kapecitabinu přerušeno. Monoterapie kapecitabinem může být znovu zahájena při poklesu hladiny bilirubinu na
+≤ 3,0 x horní hranice normy nebo při snížení hladin jaterních aminotransferáz na ≤ 2,5 x horní hranice normy.
+Porucha funkce ledvin
+U pacientů se středně těžkou poruchou funkce ledvin (clearance kreatininu 30- 50 ml/min) je incidence nežádoucích účinků 3. nebo 4. stupně ve srovnání s celkovou populací zvýšena (viz bod 4.2 a 4.3).
+Deficit dihydropyrimidindehydrogenázy (DPD)
+Aktivita DPD je limitující pro rychlost katabolismu fluoruracilu (viz bod 5.2). Pacienti s deficitem DPD jsou proto vystaveni zvýšenému riziku toxicity související s fluorpyrimidiny, včetně např. stomatitidy, průjmu, zánětu sliznic, neutropenie a neurotoxicity.
+K rozvoji toxicity související s deficitem DPD zpravidla dochází během prvního léčebného cyklu nebo po zvýšení dávky.
+
+Úplný deficit DPD
+Úplný deficit DPD je vzácný (0,01 – 0,5 % bělochů). Pacienti s úplným deficitem DPD jsou vystaveni vysokému riziku život ohrožující nebo fatální toxicity a nesmí být přípravkem Capecitabine Pharmagen léčeni (viz bod 4.3).
+
+Částečný deficit DPD
+Částečný deficit DPD postihuje odhadem 3 – 9 % bělošské populace. Pacienti s částečným deficitem DPD jsou vystaveni zvýšenému riziku těžké a potenciálně život ohrožující toxicity. K omezení této toxicity je třeba zvážit nižší počáteční dávku. Deficit DPD je třeba považovat za parametr, který je nutné brát v úvahu spolu s dalšími rutinními opatřeními při snižování dávky. Nižší počáteční dávka může mít vliv na účinnost léčby. Nedojde-li k výskytu závažné toxicity, lze za podmínky pečlivého sledování pacienta následné dávky zvýšit.
+
+Testování ke stanovení deficitu DPD
+Před zahájením léčby přípravkem Capecitabine Pharmagen se doporučuje provést vyšetření fenotypu a/nebo genotypu, ačkoliv optimální metodika vyšetření před léčbou není jednoznačně určena. Je třeba zohlednit příslušná klinická doporučení.
+
+Genotypová charakterizace deficitu DPD
+Testováním vzácných mutací genu DPYD před léčbou lze identifikovat pacienty s deficitem DPD. Úplnou absenci nebo částečné snížení enzymatické aktivity DPD mohou vyvolat čtyři varianty DPYD c.1905+1G>A (označovaná také jako DPYD*2A), c.1679T>G (DPYD*13), c.2846A>T a c.1236G>A/HapB3. Se zvýšeným rizikem závažné nebo život ohrožující toxicity mohou souviset i další vzácné varianty.
+Některé homozygotní a složené heterozygotní mutace v místě genu DPYD (např. kombinace uvedených čtyř variant s alespoň jednou alelou c.1905+1G>A nebo c.1679T>G) prokazatelně způsobují úplnou nebo téměř úplnou absenci enzymatické aktivity DPD.
+Pacienti s některými heterozygotními variantami DPYD (včetně variant c.1905+1G>A, c.1679T>G, c.2846A>T a c.1236G>A/HapB3) mají zvýšené riziko závažné toxicity při léčbě fluorpyrimidiny. Četnost výskytu heterozygotního genotypu c.1905+1G>A v genu DPYD u pacientů bělošské rasy je kolem 1 %, u c.2846A>T 1,1 %, u c.1236G>A/HapB3 2,6 – 6,3 % a u c.1679T>G 0,07 – 0,1 %.
+Údaje o četnosti výskytu uvedených čtyř variant DPYD u jiných populací, než je bělošská, jsou omezené. V současnosti se má za to, že se uvedené čtyři varianty DPYD (c.1905+1G>A, c.1679T>G,
+7
+
+c.2846A>T a c.1236G>A/HapB3) prakticky nevyskytují v populacích afrického (afroamerického)
+nebo asijského původu.
+
+Fenotypová charakterizace deficitu DPD
+K fenotypové charakterizaci deficitu DPD se doporučuje měření hladin endogenního substrátu DPD uracilu (U) v krevní plazmě před léčbou.
+Zvýšené koncentrace uracilu před léčbou jsou spojeny se zvýšeným rizikem toxicity. Ačkoli hraniční hodnoty uracilu pro určení úplného a částečného deficitu DPD nejsou jednoznačně stanoveny, hladiny uracilu v krvi ≥ 16 ng/ml a < 150 ng/ml je třeba považovat za ukazatel částečného deficitu DPD spojeného se zvýšeným rizikem toxicity při léčbě fluorpyrimidiny. Hladinu uracilu v krvi ≥ 150 ng/ml je třeba považovat za ukazatel úplného deficitu DPD spojeného s rizikem život ohrožující nebo fatální toxicity při léčbě fluorpyrimidiny.
+
+Oftalmologické komplikace
+Pacienti mají být pečlivě sledováni z důvodu oftalmologických komplikací, jako jsou keratitida a onemocnění rohovky, zvláště pokud mají oční onemocnění v anamnéze. Léčba očních onemocnění má být zahájena dle klinických potřeb.
+
+Závažné kožní reakce
+Přípravek Capecitabine Pharmagen může vyvolat závažné kožní reakce, jako jsou Stevens-Johnsonův syndrom a toxická epidermální nekrolýza. Podávání přípravku Capecitabine Pharmagen má být trvale ukončeno u pacientů, u kterých se v průběhu léčby vyskytne závažná kožní reakce.
+
+Brivudin
+Brivudin nesmí být podáván současně s kapecitabinem. Po této lékové interakci byly hlášeny případy končící úmrtím. Mezi ukončením léčby brivudinem a zahájením léčby kapecitabinem musí být alespoň 4týdenní odstup. Léčba brivudinem může být zahájena 24 hodin po poslední dávce kapecitabinu (viz body 4.3 a 4.5).
+V případě náhodného podání brivudinu pacientům, kteří jsou léčeni kapecitabinem, mají být provedena účinná opatření ke snížení toxicity kapecitabinu. Doporučuje se okamžitý nástup do nemocnice. Všechna opatření mají být zahájena k zabránění systémových infekcí a dehydratace.
+
+Tablety přípravku Capecitabine Pharmagen se nemají drtit ani krájet. V případě expozice buď pacienta, nebo pečovatele rozdrceným nebo rozkrojeným tabletám přípravku Capecitabine Pharmagen se mohou objevit nežádoucí účinky (viz bod 4.8).
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Studie interakcí byly provedeny pouze u dospělých. Interakce s dalšími léčivými přípravky
+Substráty cytochromu P450 2C9
+Kromě warfarinu nebyly provedeny studie interakcí mezi kapecitabinem a dalšími substráty CYP2C9. Při současném podávání kapecitabinu a substrátů 2C9 (např. fenytoinu) je nutno postupovat opatrně. Viz též níže interakce s antikoagulancii s obsahem kumarinových derivátů a bod 4.4.
+Antikoagulační léčba kumarinovými deriváty
+U pacientů užívajících zároveň s kapecitabinem kumarinová antikoagulancia jako jsou warfarin nebo fenprokumon byly zaznamenány poruchy koagulačních parametrů a/nebo krvácení. Tyto nežádoucí účinky se objevily během několika dnů až několika měsíců po zahájení léčby kapecitabinem a
+v několika případech v průběhu 1 měsíce po ukončení léčby kapecitabinem. V klinické farmakokinetické interakční studii došlo při léčbě kapecitabinem po podání jednotlivé dávky 20 mg warfarinu ke zvýšení AUC S-warfarinu o 57 % a zároveň k 91% zvýšení hodnot INR. Vzhledem
+k tomu, že metabolismus R-warfarinu nebyl ovlivněn, tyto výsledky naznačují, že kapecitabin působí
+„down regulaci“ izoenzymu 2C9, ale nemá žádný vliv na izoenzymy 1A2 a 3A4. Pacienti užívající kumarinová antikoagulancia zároveň s kapecitabinem mají být pravidelně monitorováni s ohledem na
+8
+
+možnost změn koagulačních parametrů (PT nebo INR) a dávka antikoagulancia má být odpovídajícím způsobem upravena.
+Fenytoin
+Při současném užívání kapecitabinu s fenytoinem byly zaznamenány zvýšené plazmatické koncentrace fenytoinu, které v jednotlivých případech vyústily v symptomy fenytoinové intoxikace. Pacienti užívající fenytoin zároveň s kapecitabinem mají být pravidelně monitorováni s ohledem na možnost zvýšené plazmatické koncentrace fenytoinu.
+
+Kyselina folinová/kyselina listová
+Studie s kombinací kapecitabinu a kyseliny folinové ukázala, že kyselina folinová nemá žádný větší vliv na farmakokinetiku kapecitabinu ani jeho metabolitů. Kyselina folinová však ovlivňuje farmakodynamiku kapecitabinu, jehož toxicita může být kyselinou folinovou zvýšena: maximální tolerovaná dávka (MTD) kapecitabinu užívaná samostatně při intermitentním režimu podávání je 3000 mg/m² za den, zatímco při užívání zároveň s kyselinou folinovou (30 mg perorálně 2x denně) je tato maximální tolerovaná dávka kapecitabinu jen 2000 mg/m² za den. Zvýšení toxicity může být významné při přechodu z 5-FU/LV na režim s kapecitabinem. K významnému zvýšení toxicity může také dojít při doplnění nedostatku folátu kyselinou listovou v důsledku podobnosti kyseliny folinové
+s kyselinou listovou.
+Brivudin
+Byly popsány klinicky významné interakce mezi brivudinem a fluorpyrimidiny (např. kapecitabin, fluoruracil, tegafur) vznikající v důsledku inhibice dihydropyrimidindehydrogenázy brivudinem. Tato interakce vedoucí ke zvýšení fluorpyrimidinové toxicity je potenciálně fatální. Z tohoto důvodu nesmí být brivudin podáván současně s kapecitabinem (viz body 4.3 a 4.4). Mezi ukončením léčby sorivudinem nebo jeho chemicky příbuznými analogy, jako je brivudin, a zahájením léčby kapecitabinem musí být alespoň 4týdenní odstup. Léčba brivudinem může být zahájena 24 hodin po poslední dávce kapecitabinu.
+Antacida
+Byl hodnocen vliv antacid s obsahem hydroxidu hlinitého a hydroxidu hořečnatého na farmakokinetiku kapecitabinu. Pozorováno bylo mírné zvýšení plazmatických koncentrací kapecitabinu a jednoho metabolitu (5´- DFCR); nebyl zaznamenán žádný vliv na další 3 velké metabolity (5´- DFUR, 5-FU a FBAL).
+
+Alopurinol
+U 5-FU byly zaznamenány interakce s alopurinolem vedoucí k možnému snížení účinnosti 5-FU. Současné užívání alopurinolu a kapecitabinu má být vyloučeno.
+
+Interferon alfa
+Maximální tolerovaná dávka (MTD) kapecitabinu byla při podávání zároveň s interferonem alfa-2a (3 MIU/m²/den) 2000 mg/m² denně ve srovnání s 3000 mg/m² denně při užívání samotného kapecitabinu.
+Radioterapie
+Maximální tolerovaná dávka (MTD) kapecitabinu byla 3000 mg/m² denně při podávání samotného kapecitabinu, zatímco v kombinaci s radioterapií při léčbě karcinomu rekta byla MTD kapecitabinu 2000 mg/m² denně, a to jak při kontinuálním podávání, tak při podávání od pondělí do pátku v průběhu šestitýdenní léčebné kůry s radioterapií.
+
+Oxaliplatina
+Pokud byl kapecitabin podáván v kombinaci s oxaliplatinou nebo v kombinaci s oxaliplatinou a bevacizumabem, neobjevily se klinicky významné rozdíly v expozici kapecitabinu nebo jeho metabolitů, volné ani celkové platiny.
+
+Bevacizumab
+Bevacizumab neměl za přítomnosti oxaliplatiny klinicky významný vliv na farmakokinetické
+
+9
+
+parametry kapecitabinu ani jeho metabolitů.
+
+Interakce s potravinami
+V průběhu všech klinických studií byli pacienti instruováni, aby užívali kapecitabin během 30 minut po jídle. Vzhledem k tomu, že všechny současné údaje o účinnosti a bezpečnosti vycházejí z podávání kapecitabinu s jídlem, doporučuje se, aby byl kapecitabin užíván s jídlem. Užívání s jídlem snižuje míru absorpce kapecitabinu (viz bod 5.2).
+4.6  Fertilita, těhotenství a kojení
+Ženy ve fertilním věku/Antikoncepce u mužů a žen
+Ženám ve fertilním věku je třeba doporučit, aby předcházely otěhotnění v průběhu léčby kapecitabinem. V případě otěhotnění v průběhu léčby kapecitabinem musí být pacientce objasněno potenciální riziko pro plod. Během léčby a po dobu 6 měsíců po poslední dávce kapecitabinu má být používána účinná metoda antikoncepce.
+Na základě nálezů genetické toxicity mají pacienti mužského pohlaví s partnerkami v reprodukčním věku během léčby a po dobu 3 měsíců po poslední dávce kapecitabinu používat účinnou antikoncepci.
+
+Těhotenství
+Nebyly provedeny žádné studie u těhotných žen užívajících kapecitabin. Lze však předpokládat, že by v případě podávání těhotným ženám mohl kapecitabin způsobit poškození plodu. Ve studiích reprodukční toxicity u zvířat způsobovalo podávání kapecitabinu embryoletalitu a teratogenitu. Tyto nálezy jsou očekávanými účinky fluorpyrimidinových derivátů. Kapecitabin je kontraindikován
+v průběhu těhotenství.
+Kojení
+Není známo, zda je kapecitabin vylučován do mateřského mléka u lidí. Nebyly provedeny žádné studie k posouzení vlivu kapecitabinu na tvorbu mléka nebo jeho přítomnosti v lidském mateřském mléce. U kojících myší bylo v mléce nalezeno značné množství kapecitabinu a jeho metabolitů.
+Vzhledem k tomu, že potenciální riziko poškození kojeného dítěte není známo, kojení musí být během léčby kapecitabinem a po dobu 2 týdnů po poslední dávce přerušeno.
+Fertilita
+Nejsou k dispozici žádné údaje o vlivu přípravku Capecitabine Pharmagen na fertilitu. Ženy ve fertilním věku a muži byli zařazeni do klíčových studií s přípravkem Capecitabine Pharmagen, pouze pokud souhlasili s použitím přijatelných antikoncepčních metod, aby se zabránilo těhotenství po dobu trvání studie a přiměřenou dobu po jejím ukončení.
+Ve studiích na zvířatech byl pozorován vliv na fertilitu (viz bod 5.3).
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Kapecitabin má malý nebo mírný vliv na schopnost řídit nebo obsluhovat stroje. Kapecitabin může vyvolat závratě, únavu a nauzeu.
+
+4.8  Nežádoucí účinky
+Shrnutí bezpečnostního profilu
+Celkový bezpečnostní profil kapecitabinu je založený na údajích od více než 3000 pacientů léčených kapecitabinem v monoterapii, nebo léčených kapecitabinem v kombinaci s různými režimy chemoterapie v rozličných indikacích. Bezpečnostní profil kapecitabinu v monoterapii metastazujícího karcinomu prsu, metastazujícího kolorektálního karcinomu a při adjuvantní terapii různých karcinomů tlustého střeva je srovnatelný. Podrobnosti o hlavních studiích, včetně popisů studií a hlavních výsledků týkajících se účinnosti, jsou uvedeny v bodě 5.1.
+Nejčastěji hlášenými a/nebo klinicky relevantními nežádoucími účinky přípravku byly gastrointestinální poruchy (zejména průjem, nauzea, zvracení, bolest břicha a stomatitida), syndrom ruka-noha (palmoplantární erytrodysestezie), únava, astenie, anorexie, kardiotoxicita, zhoršení renální
+10
+
+dysfunkce u preexistující poruchy funkce ledvin a tromboembolismus.
+
+Shrnutí nežádoucích účinků do tabulky
+Nežádoucí účinky považované zkoušejícími za možná, pravděpodobně nebo vzdáleně související s podáváním kapecitabinu jsou shrnuty v tabulce 4 pro kapecitabin v monoterapii a v tabulce 5 pro kapecitabin podávaný v kombinaci s různými režimy chemoterapie v rozličných indikacích.
+Nežádoucí účinky jsou dále uspořádány podle četnosti výskytu: velmi časté (≥ 1/10), časté (≥ 1/100 až
+< 1/10), méně časté (≥ 1/1000 až < 1/100), vzácné (≥ 1/10000 až < 1/1000), velmi vzácné (< 1/10000).
+V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+Monoterapie kapecitabinem:
+Tabulka 4 ukazuje nežádoucí účinky související s podáváním kapecitabinu v monoterapii založené na souhrnných analýzách bezpečnostních dat ze tří hlavních studií zahrnujících více jak 1900 pacientů (studie M66001, SO14695 a SO14796). Nežádoucí účinky jsou podle frekvence výskytu zařazeny do příslušné skupiny, a to podle celkové incidence zjištěné ze souhrnné analýzy.
+Tabulka 4     Souhrn nežádoucích účinků souvisejících s léčbou při monoterapii kapecitabinem
+
+Tělesný systém
+
+
+
+
+
+Infekce a infestace
+Velmi časté
+
+Všechny stupně
+
+
+
+-
+Časté
+
+Všechny stupně
+
+
+
+Herpetické infekce, nazofaryngitida, infekce dolních dýchacích cest
+Méně časté
+
+Závažné a/nebo život ohrožující (stupeň 3-4) nebo považované za
+medicínsky relevantní Sepse, infekce močového traktu, celulitida, tonsilitida, faryngitida, orální kandidóza, chřipka, gastroenteritida, mykotická infekce, infekce, absces v zubu
+Vzácné/velmi vzácné (zkušenosti po uvedení přípravku na trh)
+
+Novotvary benigní, -         -
+maligní a blíže neurčené
+Lipom
+
+Poruchy krve a lymfatického
+systému
+
+
+
+
+
+
+
+Poruchy
+imunitního systému Poruchy metabolismu a výživy
+
+Psychiatrické
+poruchy
+
+Poruchy
+nervového systému
+-
+
+
+
+
+
+
+
+
+
+-
+
+
+Anorexie
+
+
+
+-
+
+
+-
+Neutropenie, anemie
+
+
+
+
+
+
+
+
+
+-
+
+
+Dehydratace, pokles
+tělesné hmotnosti
+
+
+Insomnie, deprese
+
+
+Bolest hlavy, letargie, závrať, parestezie, dysgeuzie
+Febrilní neutropenie, pancytopenie, granulocytopenie, trombocytopenie, leukopenie, hemolytická anemie, zvýšení mezinárodního normalizovaného poměru (INR)/prodloužení protrombinového času Hypersenzitivita
+
+
+Diabetes, hypokalemie, poruchy chuti k jídlu, malnutrice, hypertriacylglycerolemie Stav zmatenosti, panická ataka, depresivní nálada, pokles libida
+Afázie, porucha paměti, ataxie, synkopa, porucha rovnováhy, porucha smyslového vnímání,
+
+
+
+
+
+
+
+
+
+
+Angioedém (vzácné)
+
+
+
+
+
+
+
+
+
+
+Toxická leukoencefalopatie (velmi vzácné)
+
+11
+
+Tělesný systém
+
+
+
+
+
+
+Poruchy oka
+
+
+
+
+
+Poruchy ucha a labyrintu
+Srdeční poruchy
+
+
+
+
+
+
+
+Cévní poruchy
+
+
+
+Respirační, hrudní a mediastinální poruchy
+Velmi časté
+
+Všechny stupně
+
+
+
+
+-
+
+
+
+
+
+-
+
+-
+Časté
+
+Všechny stupně
+
+
+
+
+Zvýšené slzení, konjunktivitida, podráždění očí
+
+
+
+-
+
+-
+
+
+
+
+
+
+
+Tromboflebitida
+
+
+
+Dyspnoe, epistaxe, kašel, rýma
+Méně časté
+
+Závažné a/nebo život ohrožující (stupeň 3-4) nebo považované za
+medicínsky relevantní periferní neuropatie Snížená zraková ostrost, diplopie
+
+
+
+
+Vertigo, bolest ucha
+
+Nestabilní angina pectoris, angina pectoris, ischemie/infarkt myokardu, atriální fibrilace, arytmie, tachykardie, sinusová tachykardie, palpitace
+
+Trombóza hlubokých žil, hypertenze, petechie, hypotenze, návaly, chlad v periferních částech těla Plicní embolie, pneumotorax, hemoptýza, astma, námahová dušnost
+Vzácné/velmi vzácné (zkušenosti po uvedení přípravku na trh)
+
+
+Stenóza slzovodů (vzácné), onemocnění rohovky (vzácné), keratitida (vzácné), keratitis punctata (vzácné)
+
+
+Fibrilace komor (vzácné), prodloužení QT intervalu (vzácné), torsade de pointes (vzácné), bradykardie (vzácné), vazospasmus (vzácné)
+
+Gastrointestinální
+poruchy
+
+
+
+
+
+
+Poruchy jater a
+žlučových cest
+
+
+Poruchy kůže a podkožní tkáně
+Průjem, zvracení, nauzea, stomatitida, bolest břicha
+
+
+
+
+
+
+
+
+Syndrom
+palmoplantární
+Gastrointestinální krvácení, zácpa, bolest horní poloviny břicha, dyspepsie, flatulence, sucho v ústech
+
+
+
+Hyperbilirubinemie, abnormality jaterních testů
+
+Vyrážka, alopecie, erytém, suchá kůže,
+Obstrukce střeva, ascites, enteritida, gastritida, dysfagie, bolest dolní poloviny břicha, ezofagitida, břišní diskomfort, refluxní choroba jícnu, kolitida, krev ve stolici
+Žloutenka
+
+
+
+Puchýř, vřed na kůži, vyrážka, kopřivka,
+
+
+
+
+
+
+
+
+Selhání jater (vzácné), cholestatická hepatitida (vzácné) Kožní lupus erythematodes
+
+
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Poruchy ledvin a
+močových cest
+erytrodysestezie** pruritus,
+hyperpigmentace kůže, makulární exantém, kožní deskvamace, dermatitida, poruchy pigmentace, poruchy nehtů
+Bolest končetin, bolest
+zad, artralgie
+
+
+
+
+12
+fotosenzitivní reakce, palmární erytém, otok obličeje, purpura, kožní reakce na aktinoterapii v místě předešlého ozáření (recall syndrom)
+
+Otok kloubů, bolest kostí, bolest v obličeji, svalová a kosterní ztuhlost, svalová slabost Hydronefróza, inkontinence moči,
+(vzácné), závažné kožní reakce, jako jsou Stevens- Johnsonův syndrom a toxická epidermální nekrolýza (velmi vzácné) (viz bod 4.4)
+
+Tělesný systém
+
+
+
+
+
+
+
+
+Poruchy
+reprodukčního systému a prsu
+Celkové poruchy a
+Velmi časté
+
+Všechny stupně
+
+
+
+
+
+
+
+
+
+Únava, astenie
+Časté
+
+Všechny stupně
+
+
+
+
+
+
+
+
+
+Pyrexie, periferní
+Méně časté
+
+Závažné a/nebo život ohrožující (stupeň 3-4) nebo považované za
+medicínsky relevantní hematurie, nykturie, zvýšení hladiny kreatininu v krvi Vaginální krvácení
+
+
+Edém, zimnice,
+Vzácné/velmi vzácné (zkušenosti po uvedení přípravku na trh)
+reakce v místě             edém, malátnost, bolest onemocnění podobné
+
+aplikace
+na hrudi
+chřipce, třesavka, zvýšení tělesné teploty
+** Na základě postmarketingových zkušeností může přetrvávající nebo závažný syndrom palmoplantární erytrodysestezie vést nakonec ke ztrátě otisků prstů (viz bod 4.4).
+Kabecitabin v kombinované léčbě:
+Tabulka 5 shrnuje nežádoucí účinky spojené s užíváním kapecitabinu v kombinaci s různými režimy chemoterapie v rozličných indikacích vycházející z bezpečnostních dat od více než 3000 pacientů. Nežádoucí účinky jsou přiřazeny do příslušných skupin frekvence (velmi časté nebo časté) podle své nejvyšší incidence pozorované v jakékoli z hlavních klinických studií a jsou pouze přiřazeny, pokud se vyskytly navíc ve srovnání s nežádoucími účinky při monoterapii kapecitabinem nebo které se vyskytly s vyšší frekvencí v porovnání s monoterapií kapecitabinem (viz tabulka 4). Méně časté nežádoucí účinky zaznamenané u kapecitabinu v kombinované terapii jsou shodné s nežádoucími účinky zaznamenanými u kapecitabinu v monoterapii nebo zaznamenané při monoterapii
+u kombinovaných léčivých přípravků (v literatuře a/nebo v příslušném SPC).
+Některé z nežádoucích účinků jsou běžně pozorované reakce pro kombinované léčivé přípravky (např. periferní senzorická neuropatie u docetaxelu nebo oxaliplatiny, hypertenze pozorovaná
+u bevacizumabu); nicméně jejich zhoršení v průběhu terapie kapecitabinem nemůže být vyloučeno.
+Tabulka 5  Souhrn s léčbou souvisejících nežádoucích účinků hlášených u pacientů léčených kapecitabinem v kombinaci, které byly pozorovány navíc oproti nežádoucím účinkům zjištěným při léčbě kapecitabinem v monoterapii, nebo které se při srovnání s monoterapií kapecitabinem vyskytovaly častěji
+
+
+Tělesný systém
+
+
+Infekce a infestace  -
+Velmi časté
+
+Všechny stupně
+Časté
+
+Všechny stupně Herpes zoster, infekce močového traktu, orální kandidóza, infekce horních cest dýchacích, rinitida, chřipka, ⁺infekce, opar
+Vzácné/velmi vzácné (zkušenosti po uvedení přípravku na trh)
+
+Poruchy krve a
+⁺Neutropenie, ⁺leukopenie,
+Útlum kostní dřeně, ⁺febrilní
+
+lymfatického systému ⁺anemie, ⁺neutropenická
+horečka, trombocytopenie
+neutropenie
+
+Poruchy imunitního systému
+Poruchy
+metabolismu a výživy
+
+Psychiatrické
+poruchy
+-
+
+Pokles chuti k jídlu
+
+
+-
+Hypersenzitivita
+
+Hypokalemie, hyponatremie, hypomagnezemie, hypokalcemie, hyperglykemie Poruchy spánku, anxieta
+
+13
+
+Tělesný systém
+
+
+Poruchy nervového
+Velmi časté
+
+Všechny stupně
+Parestezie, dysestezie,
+Časté
+
+Všechny stupně
+Neurotoxicita, tremor,
+Vzácné/velmi vzácné (zkušenosti po uvedení přípravku na trh)
+systému       periferní neuropatie, periferní neuralgie, hypersenzitivní
+
+
+
+Poruchy oka
+
+
+Poruchy ucha a labyrintu
+Srdeční poruchy Cévní poruchy
+senzorická neuropatie, dysgeuzie, bolest hlavy Zvýšené slzení
+
+
+-
+
+-
+
+Otoky dolních končetin, hypertenze, ⁺embolismus a trombóza
+reakce, hypestezie
+
+Poruchy zraku, suché oči, bolest očí, poruchy vidění, rozmazané vidění Tinnitus, hypakuze
+
+Fibrilace síní, srdeční ischemie/infarkt myokardu Návaly, hypotenze, hypertenzní krize, návaly horka, zánět žil
+Respirační, hrudní a Bolest v krku, dysestezie  Škytavka, faryngolaryngeální
+
+mediastinální poruchy Gastrointestinální poruchy
+
+
+
+
+
+
+
+
+Poruchy jater a žlučových cest Poruchy kůže a podkožní tkáně
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně Poruchy ledvin a močových cest
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+Poranění, otravy a procedurální komplikace
+faryngu
+
+Zácpa, dyspepsie
+
+
+
+
+
+
+
+
+
+-
+
+Alopecie, poruchy nehtů
+
+
+Myalgie, artralgie, bolest
+končetin
+
+
+
+
+Pyrexie, slabost, ⁺letargie, intolerance teploty
+bolesti, dysfonie
+
+Krvácení do horní části zažívacího traktu, vřed v ústech, gastritida,
+abdominální distenze, refluxní choroba jícnu, bolest úst, dysfagie, rektální hemoragie, bolest dolní části břicha, ústní dysestezie, ústní parestezie, ústní hypestezie, břišní diskomfort
+Abnormální jaterní funkce
+
+Hyperhidróza, erytematózní vyrážka, kopřivka, noční pocení
+Bolest čelisti, svalové křeče, trismus, svalová slabost
+
+Hematurie, proteinurie, pokles renální clearance kreatininu, dysurie
+Zánět sliznic, bolest končetin, bolest, zimnice, bolesti na hrudi, příznaky podobné chřipce, ⁺horečka, reakce související s infuzí, reakce
+v místě vpichu, bolest v místě infuze, bolest v místě vpichu Kontuze
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Akutní selhání ledvin následně po dehydrataci (vzácné)
+⁺ Pro každý nežádoucí účinek byla frekvence založena na nežádoucích účincích všech stupňů. Pro výrazy označené “+” byla frekvence založena na nežádoucích účincích stupně 3 a 4. Nežádoucí účinky jsou přiřazeny podle nejvyšší incidence pozorované při kterékoli z hlavních kombinovaných studií.
+
+Popis vybraných nežádoucích účinků
+
+14
+
+Syndrom ruka-noha (viz bod 4.4):
+Ve studiích při monoterapii s kapecitabinem v dávce 1250 mg/m² 2x denně ve dnech 1 až 14 každé 3 týdny (zahrnující studie s adjuvantní terapií u karcinomu tlustého střeva, s léčbou metastazujícího kolorektálního karcinomu a léčbou karcinomu prsu) byly pozorovány všechny stupně syndromu ruka- noha s frekvencí 53 % až 60 % a s frekvencí 63 % v rameni kapecitabin/docetaxel při léčbě metastazujícího karcinomu prsu. Při kombinované terapii s dávkou kapecitabinu 1000 mg/m² 2x denně ve dnech 1 až 14 každé 3 týdny byl pozorován syndrom ruka-noha všech stupňů závažnosti s frekvencí 22 % až 30 %.
+
+Metaanalýza 14 klinických hodnocení s daty od více než 4700 pacientů léčených kapecitabinem
+v monoterapii nebo kapecitabinem v kombinaci s různými režimy chemoterapie v mnohých indikacích (karcinom tlustého střeva, kolorektální karcinom, karcinom žaludku a karcinom prsu) ukázala, že syndrom ruka-noha (všechny stupně) se vyskytl u 2066 (43 %) pacientů po středním čase 239 [95% interval spolehlivosti 201, 288] dní po začátku léčby kapecitabinem. Ve všech kombinovaných studiích byly následující proměnné statisticky významně spojeny se zvýšeným rizikem vzniku syndromu ruka-noha: zvýšení počáteční dávky kapecitabinu (gram), snížení kumulativní dávky kapecitabinu (0,1*kg), zvýšení relativní intenzity dávky v prvních šesti týdnech, prodloužení trvání léčby (týdny), stoupající věk (v přírůstcích 10 let), ženské pohlaví a dobrý výkonnostní stav ECOG na začátku (0 oproti ≥1).
+Průjem (viz bod 4.4):
+Kapecitabin může způsobovat průjem, což bylo pozorováno až u 50 % pacientů.
+
+Výsledky metaanalýzy 14 klinických hodnocení s daty od více než 4700 pacientů léčených kapecitabinem ukázaly, že ve všech kombinovaných studiích byly následující proměnné statisticky významně spojeny se zvýšeným rizikem vzniku průjmu: zvýšení počáteční dávky kapecitabinu (gram), prodloužení trvání léčby (týdny), stoupající věk (v přírůstcích 10 let) a ženské pohlaví. Následující proměnné byly statisticky významně spojeny se sníženým rizikem vzniku průjmu: zvýšení kumulativní dávky kapecitabinu (0,1*kg) a zvýšení relativní intenzity dávky v prvních šesti týdnech.
+
+Kardiotoxicita (viz bod 4.4):
+U kapecitabinu v monoterapii byly podle shrnutí analýz z klinických bezpečnostních dat ze 7 klinických studií zahrnujících 949 pacientů (2 klinické studie fáze III a 5 klinických studií fáze II
+u metastazujícího kolorektálního karcinomu a metastazujícího karcinomu prsu) navíc k nežádoucím účinkům popsaným v tabulce 4 a 5 pozorovány další nežádoucí účinky s incidencí menší než 0,1 %: kardiomyopatie, srdeční selhání, náhlá smrt a ventrikulární extrasystoly.
+Encefalopatie:
+Navíc k nežádoucím účinkům popsaným v tabulce 4 a 5 byla na základě výše zmíněné analýzy
+z klinických bezpečnostních dat ze 7 klinických studií s užitím kapecitabinu v monoterapii spojena také encefalopatie, a to s incidencí nižší než 0,1 %.
+
+Expozice rozdrceným nebo rozkrojeným tabletám kapecitabinu:
+V případě expozice rozdrceným nebo rozkrojeným tabletám kapecitabinu byly hlášeny následující nežádoucí účinky: podráždění očí, otok očí, kožní vyrážka, bolest hlavy, parestezie, průjem, nauzea, podrážděný žaludek a zvracení.
+
+Zvláštní skupiny pacientů
+
+Starší pacienti (viz bod 4.2):
+Analýza bezpečnostních dat od pacientů ve věku 60 let a starších léčených kapecitabinem
+v monoterapii a analýza pacientů léčených kapecitabinem spolu s docetaxelem v kombinované terapii ukazují zvýšení incidence k léčbě vztažených nežádoucích účinků stupně 3 a 4 a k léčbě vztažených závažných nežádoucích účinků v porovnání s pacienty mladšími 60 let. Pacienti ve věku 60 let a starší léčení kapecitabinem spolu s docetaxelem také časněji přerušovali léčbu kvůli nežádoucím účinkům
+v porovnání s pacienty mladšími 60 let.
+
+15
+
+Výsledky metaanalýzy 14 klinických hodnocení s daty od více než 4700 pacientů léčených kapecitabinem ukázaly, že ve všech kombinovaných studiích byl stoupající věk (v přírůstcích 10 let) statisticky významně spojen se zvýšeným rizikem vzniku syndromu ruka-noha a průjmu a se sníženým rizikem vzniku neutropenie.
+Pohlaví
+Výsledky metaanalýzy 14 klinických hodnocení s daty od více než 4700 pacientů léčených kapecitabinem ukázaly, že ve všech kombinovaných studiích bylo ženské pohlaví statisticky významně spojeno se zvýšeným rizikem vzniku syndromu ruka-noha a průjmu a se sníženým rizikem vzniku neutropenie.
+Pacienti s poruchou funkce ledvin (viz body 4.2, 4.4, a 5.2):
+Analýza bezpečnostních dat od pacientů léčených kapecitabinem v monoterapii (kolorektální karcinom) s výchozí poruchou funkce ledvin ukázala zvýšení incidence k léčbě vztažených nežádoucích účinků stupně 3 a 4 v porovnání s pacienty s normální funkcí ledvin (36 % pacientů bez poruchy funkce ledvin n=268, oproti 41 % s mírnou poruchou funkce ledvin, n=257, resp. 54 % se středně těžkou poruchou funkce ledvin, n=59) (viz bod 5.2). Pacienti se středně těžkou poruchou funkce ledvin vykazují zvýšení incidence snížení dávky (44 %) oproti 33 % u pacientů bez poruchy funkce ledvin a 32 % u pacientů s mírnou poruchou funkce ledvin a zvýšení incidence časného přerušení léčby (21 % přerušení během prvních dvou cyklů) oproti 5 % u pacientů bez poruchy funkce ledvin a 8 % u pacientů s mírnou poruchou funkce ledvin.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Akutní předávkování se projevuje nauzeou, zvracením, průjmem, mukozitidou, gastrointestinální iritací a krvácením a útlumem kostní dřeně. Léčebná opatření při předávkování mají zahrnovat obvyklé terapeutické a podpůrné postupy k úpravě stávajícího klinického stavu a předcházení dalších možných komplikací.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: cytostatikum (antimetabolit), ATC kód: L01BC06
+
+Kapecitabin je necytotoxický fluorpyrimidinkarbamát, který působí jako perorálně podávaný prekurzor cytotoxické látky 5-fluoruracilu (5-FU). Kapecitabin je aktivován cestou několika enzymatických kroků (viz bod 5.2). Enzym podílející se na konečné konverzi na 5-FU, thymidin fosforyláza (ThyPase), se nachází v nádorových tkáních, ale také v malém množství i ve tkáních nenádorových. V humánních modelech nádorových onemocnění s xenoimplantáty vykazoval kapecitabin v kombinaci s docetaxelem synergický účinek, který se může vztahovat k “up regulaci” thymidin fosforylázy způsobené docetaxelem.
+Je prokázáno, že metabolismus 5-FU v anabolické cestě blokuje methylaci deoxyuridinové kyseliny na kyselinu thymidinovou a interferuje tak se syntézou deoxyribonukleové kyseliny (DNA). Inkorporace 5-FU vede taktéž k inhibici RNA a proteinové syntézy. Vzhledem k tomu, že DNA a RNA jsou
+16
+
+nezbytné pro buněčné dělení a růst, účinek 5-FU způsobující deficit thymidinu vyvolává nevyvážený růst a úmrtí buněk. Vliv na deprivaci DNA a RNA je výraznější u těch buněk, které rychleji proliferují a které rychleji metabolizují 5-FU.
+
+Karcinom tlustého střeva a kolorektální karcinom:
+
+Monoterapie kapecitabinem při adjuvantní léčbě karcinomu tlustého střeva
+Údaje z jedné multicentrické, randomizované, kontrolované klinické studie fáze III u pacientů
+s karcinomem tlustého střeva III. stadia (stadium C podle Dukese) opravňují použití kapecitabinu
+v adjuvantní léčbě u pacientů s karcinomem tlustého střeva (studie XACT; M66001). V této studii bylo 1987 pacientů randomizováno do skupiny léčené kapecitabinem (1250 mg/m² dvakrát denně po dobu dvou týdnů s následnou týdenní přestávkou; podáváno ve 3týdenních cyklech po dobu 24 týdnů) nebo do skupiny léčené 5-FU a leukovorinem (režim Mayo Clinic: 20 mg/m² leukovorinu i.v.
+s následným i.v. bolusem 5-FU v dávce 425 mg/m² 1. až 5. den léčby, každých 28 dní po dobu 24 týdnů). Kapecitabin byl přinejmenším rovnocenný i.v. 5-FU/LV, pokud jde o délku přežití bez známek onemocnění u populace, léčené podle protokolu (poměr rizik 0,92; 95% interval spolehlivosti 0,80- 1,06). V populaci všech randomizovaných pacientů vykázaly testy rozdílů mezi kapecitabinem a 5- FU/LV, pokud jde o délku přežití bez známek onemocnění a o délku celkového přežití, poměr rizik 0,88 (95% interval spolehlivosti 0,77 – 1,01; p = 0,068), respektive 0,86 (95% interval spolehlivosti 0,74 – 1,01; p = 0,060). Medián doby sledování pacientů byl v době analýzy 6,9 roku. V předem plánované multivariační Coxově analýze byla prokázána superiorita kapecitabinu ve srovnání
+s bolusovým 5-FU/LV. V plánu statistické analýzy byly předem definovány následující faktory zahrnuté do modelu: věk, doba od operace do randomizace, pohlaví, vstupní hladina CEA, vstupní stav lymfatických uzlin a stát. V celé randomizované populaci byl kapecitabin lepší ve srovnání
+s 5-FU/LV při hodnocení přežití bez známek onemocnění (poměr rizik 0,849; 95% interval spolehlivosti 0,739 - 0,976; p = 0,0212), stejně jako při hodnocení celkového přežití (poměr rizik 0,828; 95% interval spolehlivosti 0,705 - 0,971; p = 0,0203).
+
+Kombinovaná léčba v adjuvantní terapii karcinomu tlustého střeva
+Data z multicentrické randomizované kontrolované studie fáze III u pacientů s karcinomem tlustého střeva stadia III (Dukes C) podporují použití kapecitabinu v kombinaci s oxaliplatinou (XELOX)
+k adjuvantní léčbě pacientů s karcinomem tlustého střeva (studie NO16968). V této studii bylo 944 pacientů randomizováno k 24 týdnů trvající léčbě kapecitabinem v třítýdenních cyklech (1000 mg/m² dvakrát denně po dobu dvou týdnů s následnou týdenní přestávkou) v kombinaci s oxaliplatinou
+(130 mg/m² v intravenózní infuzi podávané po dobu 2 hodin v den 1 každé 3 týdny); 942 pacientů bylo randomizováno k léčbě 5-FU bolus + leukovorin. Při primárním hodnocení doby přežití bez známek onemocnění v celé populaci pacientů („ITT“) byl režim XELOX významně lepší než
+5-FU/leukovorin (poměr rizik 0,80, 95% interval spolehlivosti [0,69-0,93]; p=0,0045). Četnost tříletého přežití bez známek onemocnění byla 71 % při léčbě režimem XELOX oproti 67 % při léčbě 5- FU/leukovorin. Výsledky hodnocení sekundárního cílového parametru, přežití bez relapsu, tyto výsledky podporují při poměru rizik 0,78 (95% interval spolehlivosti [0,67-0,92]; p=0,0024) pro XELOX oproti 5- FU/leukovorin. Při léčbě režimem XELOX byl pozorován trend lepšího celkového přežití s poměrem rizik 0,87 (95% interval spolehlivosti [0,72-1,05]; p=0,1486), což znamená 13% redukci rizika úmrtí. Četnost pětiletého celkového přežití byla 78 % pro XELOX oproti 74 % pro
+5-FU/leukovorin. Data o účinnosti byla získána při střední době sledování 59 měsíců pro celkové přežití a 57 měsíců pro přežití bez známek onemocnění. Četnost ukončení léčby z důvodu nežádoucích účinků byla vyšší v rameni XELOX v kombinované terapii (21 %) ve srovnání s ramenem s 5-FU/LV v monoterapii (9 %) při hodnocení všech zařazených pacientů („ITT“).
+Monoterapie kapecitabinem při léčbě metastazujícího kolorektálního karcinomu
+Údaje ze dvou multicentrických, randomizovaných, kontrolovaných klinických studií fáze III
+s identickým designem (SO14695; SO14796) opravňují použití kapecitabinu jako léku první linie
+k léčbě metastazujícího kolorektálního karcinomu. V těchto studiích bylo 603 pacientů randomizováno k léčbě kapecitabinem (1250 mg/m² dvakrát denně po dobu dvou týdnů s následnou týdenní přestávkou; podáváno ve 3týdenních cyklech). Celkem 604 pacientů bylo randomizováno k léčbě
+5-FU a leukovorinem (režim Mayo: 20 mg/m² leukovorinu i.v. s následným i.v. bolusem 5-FU v dávce
+425 mg/m² 1. až 5. den léčby, každých 28 dní). Celková míra objektivní odpovědi v celé
+17
+
+randomizované populaci (dle posouzení zkoušejícího) byl 25,7 % (kapecitabin) oproti 16,7 % (režim Mayo); p < 0,0002. Medián doby do progrese onemocnění byl 140 dní (kapecitabin) oproti 144 dnům (režim Mayo). Medián doby přežití byl 392 dní (kapecitabin) oproti 391 dnům (režim Mayo).
+V současné době nejsou k dispozici komparativní data srovnávající monoterapii kapecitabinem při kolorektálním karcinomu s kombinovanými režimy v první linii.
+
+Kombinovaná léčba v první linii u metastazujícího karcinomu tlustého střeva a konečníku
+Data z multicentrické, randomizované, kontrolované klinické studie fáze III (NO16966) podporují použití kapecitabinu v kombinaci s oxaliplatinou nebo v kombinaci s oxaliplatinou a bevacizumabem v první linii léčby metastazujícího karcinomu tlustého střeva a konečníku. Studie měla dvě části: iniciální část se dvěma rameny, ve které bylo randomizováno 643 pacientů do dvou různých léčebných skupin zahrnujících léčbu režimy XELOX nebo FOLFOX-4. V následující části se schématem 2x2 faktoriál bylo randomizováno 1401 pacientů do 4 různých skupin zahrnujících léčbu XELOX plus placebo, FOLFOX-4 plus placebo, XELOX plus bevacizumab a FOLFOX-4 plus bevacizumab.
+Léčebné režimy jsou uvedeny v tabulce 6.
+
+Tabulka 6  Léčebné režimy ve studii NO16966 (metastazující karcinom tlustého střeva a konečníku)
+
+Lék
+FOLFOX-4 nebo Oxaliplatina
+Úvodní dávka
+85 mg/m² i.v. 2 hod.
+Režim
+Oxaliplatina den 1, každé 2 týdny
+
+FOLFOX-4 +
+Bevacizumab
+Leukovorin
+200 mg/m² i.v. 2 hod.
+Leukovorin den 1 a 2, každé 2 týdny
+5-fluoruracil i.v. bolus/infuze, vždy
+
+5-Fluoruracil
+400 mg/m² i.v. bolus, následně v den 1 a 2, každé 2 týdny
+600 mg/ m2 i.v. 22 hod
+
+
+
+
+
+XELOX nebo XELOX+
+Bevacizumab
+Placebo nebo bevacizumab
+Oxaliplatina Kapecitabin
+
+
+Placebo nebo bevacizumab
+5 mg/kg i.v. 30-90 min.
+
+130 mg/m² i.v. 2 hod.
+1000 mg/m² perorálně dvakrát denně
+
+7,5 mg/kg i.v. 30-90 min.
+Den 1, před FOLFOX-4, každé 2
+týdny
+Oxaliplatina den 1, každé 3 týdny
+Kapecitabin perorálně dvakrát denně po dobu 2 týdnů (následně 1 týden bez léčby)
+Den 1, před XELOX, každé 3 týdny
+5-Fluoruracil:    i.v. bolus bezprostředně po leukovorinu
+
+Při porovnání režimů s kombinací XELOX proti režimům s kombinací FOLFOX-4 byla u populace pacientů splňujících kritéria zařazení prokázána non-inferiorita režimu XELOX ve smyslu doby přežití bez známek progrese (viz tabulka 7). Výsledky naznačují, že z hlediska celkové doby přežití jsou režimy XELOX i FOLFOX rovnocenné (viz tabulka 7). Porovnání režimu XELOX plus bevacizumab versus FOLFOX-4 plus bevacizumab bylo předem specifikovanou explorativní analýzou. Při tomto porovnání léčebných podskupin byl režim XELOX plus bevacizumab podobný ve srovnání s režimem FOLFOX-4 + bevacizumab z hlediska doby přežití bez progrese (poměr rizik 1,01; 97,5 % interval spolehlivosti 0,84 - 1,22). Medián doby sledování v době primární analýzy všech zařazených pacientů (populace „intent-to-treat“) byl 1,5 roku.; v tabulce 7 jsou rovněž zahrnuta data z analýzy po dalším roce sledování. Analýza doby přežití bez progrese při léčbě však nepotvrdila celkové výsledky analýzy doby přežití do progrese a celkové doby přežití: poměr rizik XELOX oproti FOLFOX-4 byl 1,24 s 97,5% intervalem spolehlivosti 1,07 - 1,44. I když analýzy citlivosti ukazují, že rozdíly ve schématu režimů a časování hodnocení nádoru mají vliv na analýzu doby přežití bez progrese na léčbě, úplné vysvětlení těchto výsledků nebylo nalezeno.
+
+
+
+
+
+
+
+18
+
+Tabulka 7  Klíčové výsledky účinnosti v analýze non-inferiority ve studii NO16966
+
+PRIMÁRNÍ ANALÝZA
+
+
+XELOX/XELOX+P/ XELOX+BV
+(EPP*: N=967; ITT**: N=1017)
+FOLFOX-4/FOLFOX-4+P/ FOLFOX-4+BV
+(EPP*: N = 937; ITT**: N= 1017)
+
+
+
+
+
+Populace
+Parametr: Přežití bez progrese
+EPP ITT
+
+
+
+
+
+241
+
+244
+
+
+Střední doba do příhody (dny)
+
+
+
+
+
+259
+
+259
+Poměr rizik (97,5% interval spolehlivosti)
+
+
+1,05 (0,94; 1,18)
+
+1,04 (0,93; 1,16)
+Parametr: Celkové přežití
+
+
+EPP ITT
+577
+
+581
+549
+
+553
+0,97 (0,84; 1,14)
+
+0,96 (0,83; 1,12)
+DALŠÍ 1 ROK SLEDOVÁNÍ
+
+
+
+
+
+Populace
+Parametr: Přežití bez progrese
+EPP ITT
+
+
+
+
+
+242
+
+244
+
+
+Střední doba do příhody (dny)
+
+
+
+
+
+259
+
+259
+Poměr rizik (97,5% interval spolehlivosti)
+
+
+1,02 (0,92; 1,14)
+
+1,01 (0,91; 1,12)
+Parametr: Celkové přežití
+
+
+EPP ITT
+600
+
+602
+594
+
+596
+1,00 (0,88; 1,13)
+
+0,99 (0,88; 1,12)
+*EPP = pacienti splňující vstupní kritéria (eligible patient population); **ITT = všichni zařazení pacienti (intent-to-treat population)
+
+
+V randomizované, kontrolované studie fáze III (CAIRO) byl studován účinek použití kapecitabinu
+v úvodní dávce 1000 mg/m² po dobu 2 týdnů každé 3 týdny v kombinaci s irinotekanem v první linii léčby pacientů s metastazujícího karcinomem tlustého střeva a konečníku. Celkem 820 pacientů bylo randomizováno buď k léčbě sekvenční (n=410), nebo k léčbě kombinované (n=410). Sekvenční léčba sestávala z první linie léčby kapecitabinem (1250 mg/m² dvakrát denně po dobu 14 dnů), druhé linie léčby irinotekanem (350 mg/m² v den 1) a třetí linie léčby kombinací kapecitabinu (1000 mg/m² dvakrát denně po dobu 14 dnů) s oxaliplatinou (130 mg/m² v den 1). Kombinovaná léčba sestávala
+z první linie léčby kapecitabinem (1000 mg/m² dvakrát denně po dobu 14 dnů) v kombinaci
+s irinotekanem (250 mg/m² v den 1) a druhé linie léčby kombinací kapecitabinu (1000 mg/m² dvakrát denně po dobu 14 dnů) s oxaliplatinou (130 mg/m² v den 1). Všechny léčebné cykly byly podávány
+v intervalu 3 týdnů. V první linii léčby byla v populaci intent-to-treat střední doba přežití bez progrese při monoterapii kapecitabinem 5,8 měsíce (95% interval spolehlivosti 5,1- 6,2 měsíce) a 7,8 měsíce (95% interval spolehlivosti 7,0 - 8,3 měsíce; p=0,0002) pro XELIRI. Nicméně to bylo spojeno se zvýšeným výskytem gastrointestinální toxicity a neutropenie v průběhu první linie léčby s XELIRI (26 % s XELIRI a 11 % v první linii s kapecitabinem).
+
+U pacientů s metastazujícím karcinomem tlustého střeva a konečníku bylo provedeno porovnání
+19
+
+XELIRI s 5-fluoruracil + irinotekan (FOLFIRI) ve třech randomizovaných studiích. Režimy XELIRI zahrnovaly kapecitabin 1000 mg/m² dvakrát denně ve dnech 1 až 14 v 3týdenním cyklu v kombinaci s irinotekanem 250 mg/m² v den 1. V největší studii (BICC-C) byli pacienti randomizováni buď
+k otevřené léčbě FOLFIRI (n=144), bolusem 5-fluoruracilu (mIFL) (n=145) nebo XELIRI (n=141) a byli dále randomizováni buď k dvojitě zaslepené léčbě celekoxibem nebo placebem. Medián PFS byl 7,6 měsíce u FOLFIRI, 5,9 měsíce u mIFL (p=0,004 ve srovnání s FOLFIRI) a 5,8 měsíce u XELIRI (p=0,015). Medián OS byl 23,1 měsíce u FOLFIRI, 17,6 měsíce u mIFL (p=0,09) a 18,9 měsíce
+u XELIRI (p=0,27). U pacientů léčených XELIRI byla zaznamenána nadměrná gastrointestinální
+toxicita v porovnání s FOLFIRI (průjem 48 % u XELIRI a 14 % u FOLFIRI).
+
+Ve studii EORTC byli pacienti randomizováni buď k otevřené léčbě FOLFIRI (n=41), nebo XELIRI (n=44) s dodatečnou randomizací buď k dvojitě zaslepené léčbě celekoxibem, nebo placebem. Medián PFS a doba celkového přežití (OS) byly kratší u XELIRI ve srovnání s FOLFIRI (PFS 5,9 vs. 9,6 měsíce a OS 14,8 vs. 19,9 měsíce), kromě toho byla hlášena zvýšená míra výskytu průjmu u pacientů s XELIRI režimy (41 % XELIRI, 5,1 % FOLFIRI).
+
+Ve studii publikované Skofem a kol. byli pacienti randomizováni k léčbě FOLFIRI nebo XELIRI. Celkový výskyt odpovědi byl 49 % v rameni XELIRI a 48 % v rameni FOLFIRI (p=0,76). Na konci léčby bylo bez průkazu onemocnění 37 % pacientů z ramene XELIRI a 26 % pacientů z ramene FOLFIRI (p=0,56). Toxicita byla podobná mezi jednotlivými režimy léčby s výjimkou výskytu neutropenie, která byla hlášena častěji u pacientů léčených FOLFIRI.
+
+Montagnani a kol. použili výsledky z výše uvedených tří studií, aby provedli souhrnnou analýzu randomizovaných studií porovnávajících léčebné režimy FOLFIRI a XELIRI v léčbě metastatického karcinomu tlustého střeva a konečníku. S FOLFIRI bylo spojováno výrazné snížení rizika progrese onemocnění (HR, 0,76; 95% CI, 0,62-0,95; p <0,01), tento výsledek byl dosažen částečně díky nízké toleranci použitých režimů XELIRI.
+
+Údaje z randomizované klinické studie (Souglakos a kol., 2012) porovnávající FOLFIRI + bevacizumab s XELIRI + bevacizumab neprokázaly výrazný rozdíl v PFS ani OS mezi jednotlivými režimy léčby. Pacienti byli randomizováni buď k léčbě FOLFIRI plus bevacizumab (rameno-A, n=167), nebo XELIRI plus bevacizumab (rameno-B, n=166). V rameni B byl v režimu XELIRI použit kapecitabin 1000 mg/m² dvakrát denně po dobu 14 dnů + irinotekan 250 mg/m² v den 1. Medián PFS (progression-free survival) byl 10,0 měsíců u FOLFIRI-Bev a 8,9 měsíce u XELIRI-Bev (p=0,64), celkové přežití 25,7 měsíce u FOLFIRI-Bev a 27,5 měsíce u XELIRI-Bev (p=0,55) a výskyt odpovědi 45,5 % v FOLFIRI-Bev a 39,8 % u XELIRI-Bev (p=0,32). U pacientů léčených XELIRI + bevacizumab byl hlášen výrazně vyšší výskyt průjmu, febrilní neutropenie a kožních reakcí ruka-noha než u pacientů léčených FOLFIRI + bevacizumab s výrazným nárůstem zpoždění léčby, redukcí dávek a přerušení léčby.
+
+Data z multicentrické, randomizované, kontrolované studie fáze II (AIO KRK 0604) podporují užití kapecitabinu v úvodní dávce 800 mg/m² po dobu dvou týdnů každé 3 týdny v kombinaci
+s irinotekanem a bevacizumabem v první linii léčby pacientů s metastazujícím karcinomem tlustého střeva a konečníku. 120 pacientů bylo randomizováno k modifikované léčbě XELIRI s kapecitabinem (800 mg/m² dvakrát denně po dobu dvou týdnů s následnou 7denní přestávkou), s irinotekanem
+(200 mg/m² v 30minutové infuzi v den 1 každé 3 týdny) a bevacizumabem (7,5 mg/kg v 30- až 90minutové infuzi v den 1 každé 3 týdny);127 pacientů bylo randomizováno k léčbě kapecitabinem (1000 mg/m² dvakrát denně po dobu dvou týdnů s následnou 7denní přestávkou), oxaliplatinou (130 mg/m² ve dvouhodinové infuzi v den 1 každé 3 týdny) a bevacizumabem (7,5 mg/kg v 30- až 90minutové infuzi v den 1 každé 3 týdny). Následná střední doba dalšího sledování pacientů této studie byla 26,2 měsíců, odpovědi na léčbu jsou zaznamenány v tabulce níže:
+Tabulka 8:  Klíčové výsledky účinnosti studie AIO KRK
+
+
+XELOX + bevacizumab (ITT: N=127)
+
+20
+Modifikovaná léčba
+XELIRI+
+bevacizumab (ITT:
+Poměr rizik 95% interval spolehlivosti
+
+N= 120)        p-hodnota
+Přežití bez progrese po 6 měsících
+
+ITT
+95% interval spolehlivosti
+Medián přežití bez progrese
+76%
+69 - 84%
+84%            -
+77 - 90%
+
+ITT
+95% interval spolehlivosti
+Medián celkového přežití
+ITT
+95% interval spolehlivosti
+10,4 měsíce
+9,0 – 12,0
+
+
+24,4 měsíce
+19,3 – 30,7
+12,1 měsíce
+10,8 – 13,2
+
+
+25,5 měsíce
+21,0 – 31,0
+0,93
+0,82 – 1,07
+P=0,30
+
+0,90
+0,68 – 1,19
+P=0,45
+
+
+Kombinovaná léčba ve druhé linii u metastazujícího karcinomu tlustého střeva a konečníku
+Data z multicentrické randomizované kontrolované studie fáze III (NO16967) podporují použití kapecitabinu v kombinaci s oxaliplatinou ve druhé linii léčby metastazujícího karcinomu tlustého střeva a konečníku. V této studii bylo 627 pacientů s metastazujícímo kolorektálním karcinomem, kteří byli v první linii léčeni irinotekanem v kombinaci s fluorpyrimidinovým režimem, randomizováno k léčbě režimem XELOX nebo FOLFOX-4. Dávkovací schéma režimů XELOX a FOLFOX-4 (bez přidání placeba nebo bevacizumabu) je uvedeno v tabulce 6. Bylo prokázáno, že
+v populaci intent-to-treat ani v populaci per protokol není režim XELOX horší než režim FOLFOX-4 při hodnocení doby přežití bez progrese (viz tabulka 9). Výsledky ukazují, že při hodnocení celkového přežití je režim XELOX rovnocenný režimu FOLFOX-4 (viz tabulka 9). Medián doby sledování
+v populaci intent-to-treat v době primární analýzy činil 2,1 roku; v tabulce 9 jsou uvedena rovněž data z analýz po dalších 6 měsících sledování.
+Tabulka 9  Klíčové výsledky účinnosti v analýze non-inferiority ve studii NO16967
+
+PRIMÁRNÍ ANALÝZA
+
+
+XELOX
+
+(PPP*: N=251; ITT**: N=313)
+FOLFOX-4
+
+(PPP*: N = 252; ITT**: N= 314)
+
+
+
+
+
+Populace
+Parametr: Přežití bez progrese
+PPP ITT
+
+
+
+
+
+154
+
+144
+
+
+Střední doba do příhody (dny)
+
+
+
+
+
+168
+
+146
+Poměr rizik (95% interval spolehlivosti)
+
+
+1,03 (0,87; 1,24)
+
+0,97 (0,83; 1,14)
+Parametr: Celkové přežití
+
+
+PPP ITT
+388
+
+363
+401
+
+382
+1,07 (0,88; 1,31)
+
+1,03 (0,87; 1,23)
+DALŠÍCH 6 MĚSÍCŮ SLEDOVÁNÍ
+
+
+
+
+
+Populace
+
+
+Střední doba do příhody (dny)
+Poměr rizik (95% interval spolehlivosti)
+              Parametr:     Přežití     bez     progrese                            
+
+
+21
+
+PPP ITT
+154
+
+143
+166
+
+146
+1,04 (0,87; 1,24)
+
+0,97 (0,83; 1,14)
+Parametr: Celkové přežití
+
+
+PPP ITT
+393
+
+363
+402
+
+382
+1,05 (0,88; 1,27)
+
+1,02 (0,86; 1,21)
+*PPP = pacienti léčení dle protokolu (per-protocol population); **ITT = všichni zařazení pacienti (intent-to-treat population)
+
+
+Pokročilý karcinom žaludku:
+Údaje z multicentrické randomizované kontrolované klinické studie fáze III (ML17032) u pacientů
+s pokročilým karcinomem žaludku podporují použití kapecitabinu jako léčby první linie u pokročilého karcinomu žaludku. V této klinické studii bylo 160 pacientů randomizováno do skupiny léčené kapecitabinem (1000 mg/m² dvakrát denně po dobu dvou týdnů s následující 7denní přestávkou) a cisplatinou (80 mg/m² ve formě dvouhodinové infuze každé 3 týdny). Celkem 156 pacientů bylo randomizováno do skupiny léčené 5-FU (800 mg/m² denně, kontinuální infuze ve dnech 1 až 5 každé 3 týdny) a cisplatinou (80 mg/m² ve formě infuze trvající 2 hodiny podané v den 1 každé 3 týdny).
+Z hlediska doby přežití bez známek progrese byla v analýze per protokol prokázána non-inferiorita léčby kapecitabinem v kombinaci s cisplatinou proti léčbě 5-FU v kombinaci s cisplatinou (poměr rizik 0,81; 95% interval spolehlivosti 0,63 - 1,04). Střední doba přežití bez progrese činila 5,6 měsíce (kapecitabin + cisplatina) oproti 5,0 měsíce (5-FU + cisplatina). Poměr rizik týkající se doby přežití (doba celkového přežití) byl podobný výsledkům doby přežití bez známek progrese onemocnění (poměr rizik 0,85; 95% interval spolehlivosti 0,64 – 1,13). Střední doba přežití činila 10,5 měsíce (kapecitabin + cisplatina) oproti 9,3 měsíce (5-FU + cisplatina).
+Údaje získané v randomizované multicentrické klinické studii fáze III, která byla prováděna za účelem srovnání kapecitabinu oproti 5-FU a oxaliplatiny oproti cisplatině u pacientů s pokročilým karcinomem žaludku, podporují používání kapecitabinu jako léčby první linie u pokročilého karcinomu žaludku (REAL-2). V tomto klinickém hodnocení bylo v uspořádání 2x2 faktoriál randomizováno 1002 pacientů do jedné ze 4 z níže uvedených léčebných skupin:
+-   ECF: epirubicin (50 mg/m² jako bolus vždy v den 1 každé 3 týdny), cisplatina (60 mg/m² ve formě infuze trvající 2 hodiny vždy v den 1 každé 3 týdny) a 5-FU (200 mg/m² denně ve formě kontinuální infuze využívající centrální žilní přístup).
+-   ECX: epirubicin (50 mg/m² jako bolus vždy v den 1 každé 3 týdny), cisplatina (60 mg/m² ve formě infuze trvající 2 hodiny vždy v den 1 každé 3 týdny) a kapecitabin (625 mg/m² dvakrát denně kontinuálně).
+-   EOF: epirubicin (50 mg/m² jako bolus vždy v den 1 každé 3 týdny), oxaliplatina (130 mg/m² formou infuze trvající 2 hodiny vždy v den 1 každé tři týdny) a 5-FU (200 mg/m² denně ve formě kontinuální infuze využívající centrální žilní přístup).
+-   EOX: epirubicin (50 mg/m² jako bolus vždy v den 1 každé 3 týdny), oxaliplatina (130 mg/m² formou infuze trvající 2 hodiny vždy v den 1 každé tři týdny) a kapecitabin (625 mg/m² dvakrát denně kontinuálně).
+Primární analýzy účinnosti v populaci per protokol prokázaly non-inferioritu celkového přežití
+v léčebných režimech s kapecitabinem při srovnání s režimy založenými na 5-FU (poměr rizik 0,86;
+95% interval spolehlivosti: 0,8 - 0,99) stejně jako při srovnání režimů s oxaliplatinou a režimů
+s cisplatinou (poměr rizik 0,92; 95% interval spolehlivosti: 0,80 - 1,1). Střední doba celkového přežití činila 10,9 měsíce pro režimy s kapecitabinem a 9,6 měsíce pro režimy s 5-FU. Střední doba celkového přežití činila 10,0 měsíce pro režimy s cisplatinou a 10,4 měsíce pro režimy s oxaliplatinou.
+Kapecitabin byl také používán v kombinaci s oxaliplatinou k léčbě pokročilého karcinomu žaludku. Studie monoterapie kapecitabinem naznačují, že u pokročilého karcinomu žaludku je kapecitabin
+
+22
+
+aktivní.
+Karcinom tlustého střeva a konečníku a karcinom žaludku: metaanalýza
+Metaanalýza šesti klinických studií (studie SO14695, SO14796, M66001, NO16966, NO16967, M17032) podporuje nahrazení 5-FU kapecitabinem v monoterapii i kombinované léčbě gastrointestinálních nádorů. Společná analýza zahrnuje 3097 pacientů léčených režimy
+s kapecitabinem a 3074 pacientů léčených režimy s 5-FU. Střední doba celkového přežití činila 703 dní (95% interval spolehlivosti 671; 745) u pacientů léčených režimem s kapecitabinem a 683 dní (95% interval spolehlivosti 646; 715) u pacientů léčených režimem s 5-FU. Poměr rizik pro celkové přežití měl hodnotu 0,94 (95% interval spolehlivosti 0,89; 1,0, p = 0,0489), což ukazuje, že režimy s kapecitabinem nejsou podřízené režimům s 5-FU.
+
+Karcinom prsu:
+Kombinovaná terapie s kapecitabinem a docetaxelem v léčbě lokálně pokročilého nebo metastazujícího karcinomu prsu
+Údaje z jedné multicentrické, randomizované, kontrolované klinické studie fáze III podporují použití kapecitabinu v kombinaci s docetaxelem v léčbě pacientů s lokálně pokročilým nebo metastazujícím karcinomem prsu po selhání cytotoxické chemoterapie, zahrnující antracyklin. V této studii bylo
+k léčbě kapecitabinem randomizováno 255 pacientů (1250 mg/m² 2x denně po dobu dvou týdnů
+s následující týdenní přestávkou a docetaxel 75 mg/m² ve formě intravenózní infuze trvající 1 hodinu každé 3 týdny). Celkem 256 pacientů bylo randomizováno k léčbě samotným docetaxelem
+(100 mg/m² ve formě intravenózní infuze trvající 1 hodinu každé 3 týdny). Doba přežití byla delší ve větvi s kombinovanou léčbou kapecitabinem + docetaxelem (p=0,0126). Medián doby přežití byl 442 dní (kapecitabin + docetaxel) oproti 352 dnům (samotný docetaxel). Celková míra objektivní odpovědi v celé randomizované populaci (dle posouzení zkoušejícího) byl 41,6 % (kapecitabin + docetaxel) oproti 29,7 % (samotný docetaxel); p=0,0058. Doba do progrese onemocnění byla delší ve větvi s kombinovanou léčbou kapecitabinem a docetaxelem (p<0,0001). Medián doby do progrese onemocnění byl 186 dní (kapecitabin + docetaxel) oproti 128 dnům (samotný docetaxel).
+
+Monoterapie kapecitabinem u pacientů po selhání chemoterapeutického režimu zahrnujícího taxany a antracykliny nebo u pacientů, u kterých není léčba antracykliny indikována
+Údaje ze dvou multicentrických klinických studií II. fáze podporují použití kapecitabinu v monoterapii k léčbě pacientů po selhání chemoterapeutického režimu zahrnujícího taxany a antracykliny nebo pacientů, u kterých není další léčba antracykliny indikována. V těchto studiích bylo celkem 236 pacientů léčených kapecitabinem (1250 mg/m² 2 x denně po dobu 2 týdnů s následující týdenní přestávkou). Celková míra objektivní odpovědi (dle posouzení zkoušejícího) byla 20 % (první studie) a 25 % (druhá studie). Medián doby do progrese onemocnění byl 93 a 98 dní. Medián doby přežití byl 384 a 373 dní.
+
+Všechny indikace:
+Metaanalýza 14 klinických hodnocení s daty od více než 4700 pacientů léčených kapecitabinem
+v monoterapii nebo kapecitabinem v kombinaci s různými režimy chemoterapie v mnohých indikacích (karcinom tlustého střeva, kolorektální karcinom, karcinom žaludku a prsu) ukázala, že pacienti léčení kapecitabinem, u nichž se vyvinul syndrom ruka-noha, měli delší celkové přežití ve srovnání
+s pacienty, u kterých ke vzniku syndromu ruka-noha nedošlo: medián celkového přežití 1100 dnů
+(95% interval spolehlivosti 1007; 1200) oproti 691 dnům (95% interval spolehlivosti 638; 754)
+s poměrem rizik 0,61 (95% interval spolehlivosti 0,56; 0,66).
+
+Pediatrická populace:
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií
+s referenčním léčivým přípravkem obsahujícím kapecitabin u všech podskupin pediatrické populace
+u adenokarcinomu tlustého střeva a konečníku, adenokarcinomu žaludku a karcinomu prsu (informace
+o použití u dětí viz bod 4.2).
+
+
+23
+
+5.2  Farmakokinetické vlastnosti
+Farmakokinetika kapecitabinu byla hodnocena v rozmezí dávek 502-3514 mg/m²/den. Parametry
+kapecitabinu, 5´-deoxy-5-fluorcytidinu (5´-DFCR) a 5´-deoxy-5-fluoruridinu (5´-DFUR) měřené 1. a
+14. den byly obdobné. AUC 5-FU byla o 30-35 % vyšší 14. den. Vzhledem k nelineární farmakokinetice účinného metabolitu vede redukce dávek kapecitabinu ke snížení systémové expozice 5-FU více než proporcionálně vzhledem k dávce.
+
+Absorpce
+Po perorálním podání je kapecitabin rychle a rozsáhle absorbován s následnou výraznou konverzí na metabolity 5´-DFCR a 5´-DFUR. Podávání zároveň s jídlem snižuje míru absorpce kapecitabinu, což však vede pouze k malému ovlivnění AUC 5´- DFUR a AUC následného metabolitu 5-FU. Čtrnáctý den při podávání dávek 1250 mg/m² po jídle byly vrcholové plazmatické koncentrace (Cmₐₓ v μg/ml) pro kapecitabin, 5´- DFCR, 5´-DFUR, 5-FU a FBAL 4,67; 3,05; 12,1; 0,95 a 5,46. Čas k dosažení vrcholové plazmatické koncentrace (Tmₐₓ v hodinách) byl 1,50; 2,00; 2,00; 2,00 a 3,34. AUC ₀₋∞
+v μg/h/ml byla 7,75; 7,24; 24,6; 2,03 a 36,3.
+
+Distribuce
+Ve studiích in vitro s lidskou plazmou bylo prokázáno, že se kapecitabin, 5´-DFCR, 5´- DFUR a 5–FU
+váží z 54 %, 10 %, 62 % a 10 % na plazmatické bílkoviny, zejména na albumin.
+Biotransformace
+Kapecitabin je nejdříve metabolizován hepatální karboxylesterázou na 5´-DFCR, který je dále přeměňován na 5´-DFUR cytidindeaminázou lokalizovanou zejména v játrech a nádorových tkáních. K další katalytické aktivaci 5´-DFUR dochází pomocí thymidinfosforylázy (ThyPase). Enzymy podílející se na katalytické aktivaci se nacházejí v nádorových tkáních, ale v menší míře též ve tkáních nenádorových. Postupná enzymatická biotransformace kapecitabinu na 5-FU vede k vyšším koncentracím v nádorových tkáních. Zdá se, že u kolorektálního karcinomu je tvorba 5-FU nejvíce lokalizována do stromálních buněk nádoru. Po perorálním podání kapecitabinu pacientům
+s kolorektálním karcinomem byl poměr koncentrace 5-FU v kolorektálním karcinomu ke koncentraci
+5-FU v přilehlých tkáních 3,2 (rozmezí 0,9 - 8,0). Poměr koncentrace 5-FU v nádoru ke koncentraci
+v plazmě byl 21,4 (rozmezí 3,9 - 59,9, n=8), zatímco poměr koncentrace 5-FU ve zdravých tkáních ke koncentraci v plazmě byl 8,9 (rozmezí 3 – 25,8, n=8). Měřením aktivity thymidinfosforylázy bylo zjištěno, že je tato aktivita 4x vyšší v primárním kolorektálním nádoru než v přilehlých nenádorových tkáních. Na základě imunohistochemických studií se zdá být thymidinfosforyláza z největší části lokalizována ve stromálních buňkách nádoru.
+
+5-FU je dále katabolizován enzymem dihydropyrimidindehydrogenázou (DPD) na mnohem méně toxický dihydro-5-fluoruracil (FUH₂). Dihydropyrimidináza štěpí pyrimidinový kruh za vzniku
+5-fluor-ureidopropionové kyseliny (FUPA). Nakonec ß-ureido-propionáza rozkládá FUPA na
+α-fluor-ß-alanin (FBAL), který je vylučován močí. Aktivita dihydropyrimidindehydrogenázy (DPD) je omezujícím faktorem. Deficit DPD může vést ke zvýšené toxicitě kapecitabinu (viz bod 4.3 a 4.4).
+Eliminace
+Eliminační poločas (t₁/₂ v hodinách) kapecitabinu, 5´-DFCR, 5´-DFUR, 5 -FU a FBAL byl 0,85; 1,11; 0,66; 0,76 resp. 3,23. Kapecitabin a jeho metabolity jsou vylučovány v převládající míře močí; 95,5 % podané dávky kapecitabinu je nalezeno v moči. Vylučování stolicí je minimální (2,6 %). Hlavním metabolitem vyloučeným do moči je FBAL, který představuje 57 % podané dávky. Asi 3 % podané dávky se vyloučí močí v nezměněné formě.
+Kombinovaná léčba
+Studie fáze I hodnotící vliv kapecitabinu na farmakokinetiku docetaxelu nebo paklitaxelu a naopak neprokázaly žádný účinek kapecitabinu na farmakokinetiku docetaxelu ani paklitaxelu (Cmₐₓ a AUC) a taktéž žádný účinek docetaxelu nebo paklitaxelu na farmakokinetiku 5´-DFUR.
+Farmakokinetika u zvláštních skupin pacientů
+U 505 pacientů s kolorektálním karcinomem po léčbě kapecitabinem v dávce 1250 mg/m² 2x denně
+
+24
+
+byla provedena populační farmakokinetická analýza. Pohlaví, přítomnost nebo absence jaterních metastáz před léčbou, stav výkonnosti dle Karnofského, celkový bilirubin, sérový albumin, AST ani ALT neměly statisticky významný vliv na farmakokinetiku 5´-DFUR, 5-FU a FBAL.
+
+Pacienti s poruchou funkce jater v důsledku metastáz v játrech: podle farmakokinetických studií
+u pacientů s karcinomem a s mírnou až středně těžkou poruchou funkce jater v důsledku jaterních metastáz může biologická dostupnost kapecitabinu a expozice 5-FU vzrůstat ve srovnání s pacienty bez poruchy funkce jater. Nejsou žádné farmakokinetické údaje týkající se použití u pacientů s těžkou poruchou funkce jater.
+Pacienti s poruchou funkce ledvin: ve farmakokinetických studiích u pacientů s karcinomem a
+s mírnou až středně těžkou poruchou funkce ledvin nebyl prokázán vliv clearance kreatininu na farmakokinetiku intaktní látky a 5-FU. Bylo zjištěno, že clearance kreatininu ovlivňuje systémovou expozici 5´- DFUR (35% zvýšení AUC při snížení clearance kreatininu o 50 %) a FBAL (114% zvýšení AUC při snížení clearance kreatininu o 50 %). FBAL je metabolit bez antiproliferativní aktivity.
+Starší pacienti: z populační farmakokinetické analýzy zahrnující pacienty různého věku (27 – 86 let) včetně 234 pacientů (46 %) ve věku 65 let a starších vyplynulo, že věk nemá žádný vliv na farmakokinetiku 5´-DFUR a 5-FU. AUC pro FBAL se zvyšuje s věkem (při 20% zvýšení věku pacienta dochází k 15% zvýšení AUC pro FBAL). K tomuto zvýšení dochází pravděpodobně
+v důsledku změn renální funkce.
+Etnické faktory: Hodnoty Cmₐₓ a AUC kapecitabinu byly následně po perorálním podání v dávce
+825 mg/m² dvakrát denně po dobu 14 dnů o 36 % respektive 24 % nižší u japonských pacientů (n=18) ve srovnání s hodnotami u pacientů bílé rasy (n=22). Japonští pacienti měli také o 25 % nižší hodnoty Cmₐₓ a o 34 % nižší hodnoty AUC FBAL než pacienti bílé rasy. Klinický význam těchto rozdílů je neznámý. K žádným významným odchylkám nedošlo v expozici vůči ostatním metabolitům
+(5´-DFCR, 5´-DFUR a 5-FU).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Ve studiích toxicity opakovaných dávek vedlo perorální denní podávání kapecitabinu makaku jávskému a myším k toxickým účinkům na gastrointestinální, lymfatický a hemopoetický systém, což je pro fluorpyrimidiny typické. Tyto toxické účinky byly reverzibilní. Dále byly po podání kapecitabinu pozorovány toxické účinky na kůži charakterizované degenerativními/regresivními změnami. Kapecitabin neměl toxické účinky na játra a CNS. Kardiovaskulární toxicita (např. prodloužení intervalu PR a QT) byla zaznamenána u makaka jávského po intravenózním podání
+(100 mg/kg), nikoli však po opakovaných perorálních dávkách (1379 mg/m²/den).
+Dvouletá studie kancerogenity u myší neprokázala žádné kancerogenní účinky kapecitabinu.
+
+Ve standardních studiích fertility bylo pozorováno poškození fertility u myších samic dostávajících kapecitabin; toto ovlivnění fertility však bylo po určitém období bez podávání látky reverzibilní. Dále byly v průběhu 13týdenní studie pozorovány atrofické a degenerativní změny reprodukčních orgánů u myších samců; také tyto změny byly po období bez podávání látky reverzibilní (viz bod 4.6).
+
+Ve studiích embryotoxicity a teratogenity u myší bylo pozorováno zvýšení fetální resorpce a teratogenity závislé na velikosti dávky. U opic byly při vysokých dávkách pozorovány aborty a embryoletalita, ale nebyla zaznamenána teratogenita.
+
+Kapecitabin neměl mutagenní účinky ve studiích in vitro na bakteriích (Amesův test) ani na savčích buňkách (test V79/HPRT genové mutace na buňkách čínského křečka). Kapecitabin však měl, podobně jako další nukleosidové analogy (např. 5-FU), klastogenní účinky na lidské lymfocyty (in vitro) a byl zaznamenán pozitivní trend v mikronukleovém testu s myší kostní dření (in vivo).
+
+
+
+25
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Jádro tablety:
+sodná sůl kroskarmelosy mikrokrystalická celulosa hypromelosa
+koloidní bezvodý oxid křemičitý
+magnesium-stearát
+Potahová vrstva tablety:
+hypromelosa
+oxid titaničitý (E171) mastek
+makrogol
+červený oxid železitý (E172)
+žlutý oxid železitý (E172)
+6.2  Inkompatibility
+Neuplatňuje se.
+6.3  Doba použitelnosti
+3 roky.
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 30 °C.
+6.5  Druh obalu a obsah balení
+Al–PVC/PVDC a Al-PVC-PE-PVDC blistry 120 potahovaných tablet
+6.6  Zvláštní opatření pro likvidaci přípravku
+Žádné zvláštní požadavky.
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+PHARMAGEN CZ s.r.o.
+Reinerova 1712/9
+163 00 Praha 6 – Řepy Česká republika
+8.  REGISTRAČNÍ ČÍSLO(A)
+44/218/14-C
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 2. 7. 2014
+Datum posledního prodloužení registrace: 27. 9. 2017
+26
+
+10. DATUM REVIZE TEXTU
+19. 1. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27

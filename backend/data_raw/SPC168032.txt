@@ -1,0 +1,406 @@
+sp.zn. sukls154401/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Sabril 500 mg potahované tablety
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje vigabatrinum 500 mg
+
+Pomocné látky se známým účinkem: 1 potahovaná tableta obsahuje 0,58 mg sodíku. Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Potahovaná tableta.
+Popis přípravku: bílé nebo téměř bílé oválné, potahované tablety s půlicí rýhou na jedné straně a označené Sabril na straně druhé.
+Půlicí rýha má pouze usnadnit dělení tablety pro snazší polykání, nikoliv její rozdělení na stejné dávky.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Sabril se užívá v kombinaci s dalšími antiepileptiky k léčbě rezistentní parciální epilepsie s i bez
+sekundární generalizace, kterou nelze uspokojivě zvládnout jinými antiepileptiky, nebo pokud nejsou jiné kombinace antiepileptik tolerovány.
+Používá se v monoterapii infantilních spasmů (Westův syndrom).
+
+4.2  Dávkování a způsob podání
+Léčba Sabrilem může být zahájena pouze specialistou na epilepsii, neurologii nebo dětskou neurologii. Následné kontroly mají být prováděny pod dohledem odborníka na epilepsii, neurologii nebo dětskou neurologii.
+Sabril se užívá jedenkrát nebo dvakrát denně, může se užívat před nebo po jídle.
+Jestliže se kontrola epilepsie významně nelepší, léčba vigabatrinem má být ukončena. Vigabatrin by se měl postupně vysadit pod přísným lékařským dohledem.
+Dospělí
+Počáteční dávka 1 g denně má být přidána k současné pacientově antiepileptické léčbě. Je-li třeba, denní dávka může být postupně zvyšována vždy o 0,5 g v týdenních nebo delších intervalech v
+závislosti na klinické odpovědi a snášenlivosti. Maximální účinnosti bývá obvykle dosaženo při
+použití dávek v rozmezí od 2 do 3 g denně. Nejvyšší doporučená dávka jsou 3 g denně. Neexistuje přesný vztah mezi plazmatickou koncentrací a účinností. Trvání účinku léku je závislé spíše na rychlosti resyntézy transaminázy GABA než na plazmatické koncentraci léku (viz body 5.1 a 5.2).
+
+Pediatrická populace
+Doporučená počáteční dávka je 40 mg/kg/den. Doporučené udržovací dávky v závislosti na tělesné hmotnosti jsou:
+
+1/10
+
+Tělesná hmotnost: 10 až 15 kg  0,5 - 1 g/den
+15 až 30 kg  1 - 1,5 g/den
+30 až 50 kg  1,5 - 3 g/den
+> 50 kg   2 - 3 g/den
+
+Maximální doporučená dávka v každé hmotnostní kategorii by neměla být překročena. Dávka 3 g
+denně má být podávána pouze ve zvláštních případech a musí být pečlivě sledován výskyt možných nežádoucích účinků.
+
+Kojenci - Monoterapie infantilních spasmů (Westův syndrom).
+Doporučená počáteční dávka je 50 mg/kg/den. Pokud je to nutné, může být dávka postupně v týdenních intervalech zvyšována až do 150 mg/kg/den. Klinické odpovědi bývá dosaženo obvykle po 2 týdnech. Vyšší dávky byly podávány velmi malému počtu pacientů.
+
+Starší pacienti a pacienti s poruchou funkce ledvin
+Protože se vigabatrin vylučuje ledvinami, je třeba věnovat zvýšenou opatrnost při podávání pacientům s clearance kreatininu nižší než 60 ml/min. Vzhledem ke snížené clearance u starších pacientů s normální nebo sníženou funkcí ledvin, je potřebná zvýšená opatrnost. Zvážena by měla být úprava dávky nebo dávkovacích intervalů. U těchto pacientů mohou být účinné nižší udržovací dávky přípravku. Tito pacienti musí být monitorováni kvůli nežádoucím účinkům, jako je sedace a zmatenost (viz bod 4.4 a 4.8).
+
+4.3  Kontraindikace
+
+Přecitlivělost na vigabatrin nebo na kteroukoliv pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+S výjimkou léčby infantilních spasmů léčba přípravkem Sabril nemá být zahájena jako monoterapie.
+
+U pacientů užívajících vigabatrin byl s vysokou prevalencí hlášen výskyt defektů zorného pole přibližně u 1/3 pacientů). Frekvence zjištěné v otevřené klinické studii jsou uvedeny v bodě 5.1.
+Defekty se objeví obvykle po několika měsících až letech léčby vigabatrinem. Stupeň omezení
+zorného pole může být těžký. Většina pacientů s perimetricky potvrzenou poruchou nepociťuje žádné příznaky, proto je možné tento nežádoucí účinek spolehlivě zjistit pouze systematickou perimetrií, kterou je obvykle možné provést jen u pacientů starších 9 let. Specifická metoda vyvinutá k testování periferního vidění u dětí ve věku starších 3 let, která je založena na zrakových evokovaných
+potenciálech (VEP), je dostupná na vyžádání. Tato metoda v současnosti není schválena pro stanovení poruch zorného pole v souvislosti s vigabatrinem. U dospělých, kteří nejsou schopni spolupracovat při perimetrii, může být vhodná elektroretinografie (viz níže Defekty zorného pole).
+Dostupná data naznačují, že poruchy zorného pole jsou nevratné i po ukončení léčby vigabatrinem. Omezení zorného pole po ukončení léčby vigabatrinem nelze vyloučit. Proto by měl být vigabatrin používán po pečlivém posouzení poměru přínosů a rizik ve srovnání s alternativní léčbou.
+Vigabatrin se nedoporučuje u pacientů s preexistujícími klinicky významnými poruchami zorného pole.
+Pacienti mají podstoupit systematické vyšetření zaměřené na defekty zorného pole a sníženou zrakovou ostrost při zahájení léčby vigabatrinem, a poté v pravidelných intervalech. Testování zorného pole a zrakové ostrosti má pokračovat v 6měsíčních intervalech po celou dobu trvání léčby vigabatrinem (viz Defekty zorného pole a Zraková ostrost).
+
+Defekty zorného pole (DZP)
+Na základě dostupných dat je obvyklým charakteristickým rysem defektu zorného pole koncentrické zúžení zorného pole na obou očích, obecně větší nazálně než temporálně. V oblasti centrální části zorného pole (v mezích 30° excentricky) je často patrný prstencovitý nasální defekt. Těžké případy se mohou projevovat tunelovým viděním. U těžkých případů byla hlášena i slepota.
+
+
+2/10
+
+Většina pacientů s perimetricky potvrzenými defekty nezaregistrovala spontánně žádné symptomy, ani v tom případě, kdy byl na perimetru pozorován těžký defekt.
+Souhrnné údaje z průzkumu prevalence naznačují, že defekty zorného pole se vyvinou až u 1/3
+pacientů užívajících vigabatrin. U mužů může být riziko vyšší než u žen. Frekvence výskytu zjištěné v otevřené klinické studii jsou uvedeny v bodě 5.1. Možná spojitost mezi rizikem poškození zorného
+pole a mírou užívání vigabatrinu z hlediska velikosti denní dávky (velikost denní dávky od 1 g do více než 3 g) a délky léčby byla prokázána v otevřené klinické studii.
+Údaje ze systematického screeningu účastníků v klinických studiích naznačují, že riziko vzniku defektů zorného pole je s pokračováním terapie vigabatrinem nízké, pokud se u pacienta nevyskytly po 3 až 4 letech léčby.
+Je-li to možné, je vhodný test zorného pole (perimetrie) za použití standardního statického perimetru (Humphrey nebo Octopus) nebo kinetického perimetru (Goldmannova). Tento test musí být proveden před zahájením léčby a pak v šestiměsíčních intervalech. Pro zjišťování DZP spojených
+s vigabatrinem je vhodnější statická perimetrie.
+
+Elektroretinografie může být užitečná, ale měla by být použita pouze u dospělých, kteří nejsou schopni spolupracovat při perimetrii. Na základě dostupných dat prvý oscilační potenciál a 30Hz kmitočtová
+odpověď elektroretinogramu ukazuje srovnatelnost vigabatrinem asociovaných DZP. Odpovědi jsou opožděné a redukované pod normální limity. Takovéto změny nejsou viditelné u pacientů léčených vigabatrinem bez DZP.
+Pacientovi nebo pečovateli musí být poskytnut důkladný popis četnosti a průvodních jevů vývoje DZP v průběhu léčby vigabatrinem. Pacient musí být poučen o nutnosti sdělit jakékoli zrakové problémy a symptomy, jež mohou souviset se zúžením zorného pole. Pokud se vyvinou zrakové symptomy, musí být pacient vyšetřen oftalmologem.
+
+Je-li v průběhu sledování pozorováno zúžení zorného pole, je zapotřebí zvážit postupné vysazení vigabatrinu. Pokud je rozhodnuto v léčbě pokračovat, je třeba častější sledování (perimetrické), aby byla zjištěna progrese či hrozící defekt zraku.
+Vigabatrin se nemá užívat současně s jinými retinotoxickými léky.
+
+Na základě aktuálně dostupných údajů (k datu schválení doprovodných textů) defekty zorného pole mohou být následkem zvýšených hladin GABA v sítnici.
+Současné užívání vigabatrinu a klonazepamu může zvýšit sedativní účinek nebo vést ke vzniku kómatu. Nutnost současného podávání musí být pečlivě posouzena.
+
+Zraková ostrost
+Prevalence snížené zrakové ostrosti u pacientů léčených vigabatrinem není známa.
+Porucha sítnice, rozmazané vidění, atrofie optiku nebo neuritida optiku mohou vést k poklesu zrakové ostrosti (viz bod 4.8). Zraková ostrost má být posouzena při konzultaci s očním lékařem před
+zahájením léčby vigabatrinem a v 6měsíčních intervalech v průběhu léčby.
+
+Pediatrická populace
+Málokdy je možná perimetrie u dětí do 9 let. Velmi pečlivě musí být zváženo riziko léčby proti přínosu léčby pro dítě. V současné době není vytvořena metoda pro stanovení nebo vyloučení
+diagnózy defektů zorného pole dětí, u kterých nemůže být provedena standardní perimetrie. Specifická metoda vyvinutá k testování periferního vidění u dětí ve věku od 3 let, založená na zrakových
+potenciálech sítnicových polí (VEP), je dostupná na vyžádání. Tato metoda v současnosti není
+schválena pro stanovení poruch zorného pole v souvislosti s vigabatrinem. Jestliže metoda odhalí normální centrální zrakovou odpověď a chybějící periferní odpověď, musí být znovu posouzen poměr prospěchu a rizika léčby vigabatrinem a zváženo postupné vysazení přípravku. Přítomnost periferního vidění nevylučuje možnost rozvoje DZP. Elektroretinografie může být užitečná, ale měla by být
+použita pouze u dětí do 3 let.
+
+
+3/10
+
+Neurologická a psychiatrická onemocnění
+
+Na základě výsledků studií na zvířatech (viz bod 5.3) se doporučuje sledovat u pacientů léčených vigabatrinem nežádoucí účinky postihující neurologické funkce.
+
+Vzácně byly brzy po zahájení léčby vigabatrinem hlášeny příznaky encefalopatie, jako je zvýšená sedace, stupor a zmatenost ve spojitosti s nespecifickou aktivitou pomalých vln
+v elektroencefalogramu. Rizikové faktory pro rozvoj těchto reakcí zahrnují vyšší než doporučenou
+úvodní dávku, rychlejší zvyšování dávky, než je doporučeno, a selhání ledvin. Tyto nežádoucí příhody byly po snížení dávky a vysazení vigabatrinu reverzibilní (viz bod 4.8).
+Podobně jako u jiných antiepileptik se při léčbě vigabatrinem u některých pacientů může zvýšit frekvence záchvatů včetně status epilepticus nebo se může objevit nový typ záchvatů (viz bod 4.8).
+Tento jev může být také následkem předávkování, poklesu plazmatické koncentrace současné antiepileptické léčby nebo paradoxním efektem.
+
+Podobně jako u jiných antiepileptik náhlé vysazení vigabatrinu může vést ke vzniku tzv. "rebound" záchvatů. Proto se v případech, kdy je třeba vigabatrin vysadit, doporučuje vysazovat jej pozvolna, postupným snižováním dávek po dobu 2 - 4 týdnů.
+
+Vigabatrin je nutno užívat s opatrností u pacientů s anamnézou psychózy, depresí nebo behaviorálních poruch. V průběhu léčby vigabatrinem byly zaznamenány některé psychiatrické nežádoucí účinky (např. agitovanost, deprese, abnormální myšlení, paranoidní reakce). Tyto účinky se vyskytovaly
+u pacientů s psychiatrickou anamnézou i bez ní. Byly obvykle reverzibilní a vymizely při snížení dávky nebo postupném vysazování přípravku.
+Sebevražedné představy a chování
+Během léčby antiepileptiky v různých indikacích byly u některých pacientů hlášeny případy
+sebevražedných představ a chování. Metaanalýza randomizovaných, placebem kontrolovaných klinických studií antiepileptik rovněž prokázala mírně zvýšené riziko sebevražedných představ a chování. Mechanismus vzniku není znám a dostupná data nevylučují možnost zvýšeného rizika u vigabatrinu. Proto u pacientů mají být sledovány příznaky sebevražedných představ či chování a zvážena vhodná léčba. Pacienty (a jejich pečovatele) je nutné poučit, aby v případě výskytu
+sebevražedných představ nebo chování okamžitě vyhledali lékaře.
+
+Starší pacienti a pacienti s poruchou funkce ledvin
+Vigabatrin se vylučuje ledvinami, a proto má být užíván se zvýšenou opatrností u pacientů s clearance kreatininu nižší než 60 ml/min a u starších pacientů. U těchto nemocných mají být pečlivě
+monitorovány nežádoucí účinky, především projevy útlumu a zmatenosti (viz bod 4.2).
+
+Vyšetření MRI
+Byly hlášeny případy abnormálních nálezů při vyšetření mozku MRI (magnetic resonance imaging) zejména u mladších dětí léčených pro infantilní spasmy vysokými dávkami vigabatrinu. Klinický
+význam těchto nálezů je v současnosti neznámý. Dále byly hlášeny případy intramyelinového edému (IME), a to především u kojenců léčených kvůli infantilním spasmům (viz bod 4.8). IME byl hlášen jako reverzibilní po vysazení přípravku, a proto v případě výskytu IME se doporučuje vigabatrin
+postupně vysadit.
+
+Poruchy hybnosti
+Poruchy hybnosti zahrnující dystonii, dyskinezi a hypertonii byly hlášeny u pacientů léčených pro infantilní spasmy. Poměr přínosu a rizika léčby vigabatrinem by měl být zvážen u každého pacienta individuálně. Jestliže se nově objeví poruchy hybnosti během léčby vigabatrinem, má být zváženo snížení dávky nebo postupné vysazování vigabatrinu.
+
+Přípravek Sabril obsahuje méně než 1 mmol (23 mg) sodíku v 1 tabletě, to znamená, že je v podstatě
+„bez sodíku“.
+
+
+4/10
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Vzhledem k tomu, že vigabatrin není metabolizován ani se neváže na bílkoviny a neindukuje enzymy jaterního cytochromu P450, které se podílejí na metabolismu léků, jsou interakce s ostatními léky nepravděpodobné. Avšak v některých studiích bylo při současném podávání s vigabatrinem pozorováno snížení plazmatické hladiny fenytoinu o 16 – 33 %. Přesný důvod tohoto poklesu není
+zatím znám, nicméně ve většině případů se uvedená interakce nezdá být klinicky relevantní.
+V průběhu klinických studií byly sledovány plazmatické koncentrace karbamazepinu, fenobarbitalu, primidonu a natrium-valproátu a žádné signifikantní interakce nebyly pozorovány.
+Vigabatrin může vést ke snížení měřené plazmatické aktivity alaninaminotransferázy (ALT) a
+v menším rozsahu i aspartátaminotransferázy (AST). Suprese ALT se pohybuje mezi 30 % až 100 %. Proto mohou být jaterní testy u pacientů užívajících vigabatrin kvantitativně nespolehlivé (viz bod 4.8).
+Vigabatrin může zvýšit množství aminokyselin v moči, a to může vést k falešně pozitivním testům u určitých vzácně se vyskytujících genetických poruch metabolismu (např. alfa aminoadipová acidurie).
+Současné užívání vigabatrinu a klonazepamu může zvýšit sedativní účinek nebo vést ke vzniku kómatu (viz bod 4.4).
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Odpovídající kontrolované studie s vigabatrinem u těhotných žen nebyly provedeny. Vigabatrin nemá být podáván v těhotenství, pokud potenciální riziko pro plod není zdůvodněno klinickým přínosem pro pacientku.
+
+Riziko spojené s epilepsií a antiepileptiky obecně
+Prevalence vrozených vad u dětí matek léčených antiepileptiky je 2 až 3násobně vyšší než v běžné
+populaci. Nejčastěji jsou hlášené rozštěp rtu, kardiovaskulární malformace a defekty neurální trubice. Polyterapie antiepileptiky může být spojena s vyšším rizikem vrozených vad než monoterapie, proto je důležité upřednostnit monoterapii, kdykoli je to možné.
+
+Všem pacientkám, které mohou otěhotnět nebo jsou ve fertilním věku, má být poskytnuta odborná konzultace. Jestliže pacientka plánuje otěhotnět, je nutné antiepileptickou léčbu znovu přehodnotit.
+Jestliže pacientka otěhotní, nesmí být antiepileptická léčba náhle přerušena, protože zhoršení onemocnění může mít závažné následky pro matku a plod.
+
+Riziko spojené s vigabatrinem
+Ze spontánních hlášení jsou dostupné údaje o těhotných ženách užívajících vigabatrin, u jejichž potomků byly hlášeny vrozené vady nebo došlo ke spontánnímu potratu. Vzhledem k omezeným
+údajům a vzhledem k současné léčbě dalšími antiepileptiky nelze dospět k definitivnímu závěru, zda vigabatrin užívaný v těhotenství zvyšuje riziko malformací.
+Studie u zvířat prokázaly reprodukční toxicitu (viz bod 5.3).
+
+O případném výskytu defektu zorného pole u dětí vystavených působení vigabatrinu in utero je k dispozici omezené množství údajů.
+
+Kojení
+Vigabatrin se vylučuje do lidského mateřského mléka. O účinku vigabatrinu na novorozence/kojence nejsou dostatečné informace. Je třeba rozhodnout, zda ukončit kojení nebo vysadit léčbu přípravkem Sabril. Při rozhodování je nutné zvážit výhody kojení pro dítě a výhody léčby pro matku.
+
+Fertilita
+Studie na potkanech neprokázaly žádný vliv na fertilitu samců ani samic (viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+5/10
+
+Pacienti s nekontrolovanou epilepsií obecně nesmí řídit ani manipulovat s potenciálně nebezpečnými stroji. Vzhledem ke skutečnosti, že v klinických studiích byla pozorována ospalost při užívání přípravku Sabril, pacienti mají být upozorněni na tuto skutečnost před zahájením léčby.
+
+Významně mohou schopnost řídit a obsluhovat stroje ovlivnit také defekty zorného pole, které byly často hlášeny v souvislosti s užíváním Sabrilu. Pacient proto musí být pravidelně perimetricky
+kontrolován (viz bod 4.4). O případném vykonávání těchto činností rozhodne ošetřující lékař.
+
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky uvedené níže jsou seřazeny podle frekvence výskytu jako:
+velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1000 až <1/100); vzácné (≥1/10000 až
+<1/1000); velmi vzácné (<1/10000); není známo (z dostupných údajů nelze určit).
+
+Vyšetření*
+Časté: zvýšení tělesné hmotnosti
+
+Poruchy nervového systému
+Velmi časté: somnolence
+Časté: porucha řeči, bolest hlavy, závrať, parestesie, poruchy koncentrace a paměti, mentální poruchy (porucha myšlení), třes
+Méně časté: poruchy koordinace (ataxie), poruchy hybnosti, jako je dystonie, dyskineze a hypertonie, a to buď samostatně, nebo ve spojení s abnormálním nálezem při vyšetření MRI (viz bod 4.4)
+Vzácné: encefalopatie**
+Velmi vzácné: zánět očního nervu
+Není známo: Byly hlášeny případy výskytu abnormálního MRI při vyšetření mozku, intramyelinový edém (především u kojenců) (viz bod 4.4)
+Poruchy oka:
+Velmi časté: defekt zorného pole
+Časté: rozmazané vidění, diplopie, nystagmus Vzácné: onemocnění sítnice (převážně periferní) Velmi vzácné: atrofie optického nervu
+Není známo: snížená zraková ostrost
+Gastrointestinální poruchy
+Časté: nauzea, zvracení, bolest břicha
+Poruchy kůže a podkožní tkáně
+Časté: alopecie
+Méně časté: vyrážka
+Vzácné: angioedém, kopřivka
+Celkové poruchy a reakce v místě aplikace
+Velmi časté: únava
+Časté: edém, podrážděnost
+
+Poruchy jater a žlučových cest
+Velmi vzácné: hepatitida
+
+Psychiatrické poruchy***
+Velmi časté: excitace (u dětí), agitovanost (u dětí)
+Časté: agitovanost, agrese, nervozita, deprese, paranoidní reakce, insomnie Méně časté: hypománie, mánie, psychotické poruchy
+Vzácné: sebevražedné pokusy Velmi vzácné: halucinace
+
+6/10
+
+Poruchy krve a lymfatického systému
+Časté: anémie
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Velmi časté: artralgie
+*Laboratorní údaje naznačují, že léčba vigabatrinem nezpůsobuje renální toxicitu. Bylo pozorováno snížení hodnot ALT a AST, které je považováno za důsledek inhibice těchto aminotranferáz vigabatrinem.
+** Brzy po zahájení léčby vigabatrinem byla popsána vzácná hlášení encefalopatických symptomů, jako je výrazná sedace, stupor a zmatenost ve spojení s nespecifickými pomalými vlnami na
+elektroencefalogramu. Tyto nežádoucí účinky byly po snížení dávky nebo přerušení léčby vigabatrinem plně reverzibilní (viz bod 4.4).
+*** Během léčby vigabatrinem byly hlášeny psychiatrické reakce. Ty se objevily u pacientů
+s psychiatrickou anamnézou i bez ní a po snížení dávky vigabatrinu nebo po jeho postupném vysazení byly obvykle reverzibilní (viz bod 4.4). Častým psychiatrickým nežádoucím účinkem v klinických
+studiích byla deprese, ale zřídka vyžadovala přerušení léčby vigabatrinem.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Příznaky
+Byly zaznamenány případy předávkování vigabatrinem. U popsaných případů předávkování se dávky přípravku pohybovaly v rozmezí od 7,5 do 30 g, i když bylo popsáno i požití 90 g. Téměř v polovině případů se jednalo o požití více léků. Nejčastějšími příznaky předávkování byly ospalost nebo kóma, dalšími méně častými vertigo, bolest hlavy, psychóza, respirační deprese nebo apnoe, bradykardie, hypotenze, agitovanost, podrážděnost, zmatenost, abnormální chování, poruchy řeči. Předávkování v žádném z případů nevedlo k úmrtí.
+Léčba
+V případě předávkování vigabatrinem neexistuje žádné specifické antidotum, léčba je symptomatická. Měla by být zvážena opatření vedoucí k odstranění nevstřebané látky. Podle studií in vitro aktivní uhlí vigabatrin významně neadsorbovalo. Účinnost hemodialýzy při předávkování vigabatrinem není
+známa. V ojedinělých případech u pacientů s renálním selháním, kteří dostali plné terapeutické dávky vigabatrinu, hemodialýza snižovala jeho plazmatické hladiny o 40 až 60 %.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antiepileptika, ATC kód: N03AG04
+Vigabatrin je antiepileptikum s přesně definovaným mechanismem účinku. Léčba vigabatrinem vede ke zvýšení koncentrace GABA (gamaaminomáselné kyseliny), hlavního inhibičního neurotransmiteru v mozku. Vigabatrin je selektivní, ireverzibilní inhibitor transaminázy kyseliny gamaaminomáselné (GABA-T), enzymu zodpovědného za odbourávání GABA.
+
+
+
+7/10
+
+Kontrolované a dlouhodobé klinické studie prokázaly, že vigabatrin snižuje frekvenci záchvatů při "add-on" léčbě u pacientů s epilepsií, která není uspokojivě zvládána konvenčními antiepileptiky nebo pokud je použit v monoterapii při infantilních spasmech.
+Vigabatrin je účinné antiepileptikum zejména u komplexních parciálních záchvatů.
+V dvojitě zaslepených kontrolovaných studiích byl vigabatrin podáván pacientům s epilepsií po dobu 4 měsíců a v nekontrolované studii, která zahrnovala i 16 pediatrických pacientů, kteří užívali vigabatrin od 1 do 30 měsíců (nejčastěji 11 měsíců).
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Vigabatrin je látka rozpustná ve vodě. Z gastrointestinálního traktu se vstřebává rychle a úplně. Rozsah absorpce není ovlivněn jídlem. Doba do dosažení maximální plasmatické koncentrace (tmax) je přibližně 1hodina.
+
+Distribuce
+Vigabatrin je široce distribuován, zdánlivý distribuční objem je o něco větší než celková tělesná voda.
+Vazba na plasmatické bílkoviny je zanedbatelná. Vztah plazmatické koncentrace vigabatrinu a
+koncentrace vigabatrinu v mozkomíšním moku k dávce je v doporučeném dávkovém rozmezí lineární. Nebyl nalezen přímý vztah mezi plazmatickými hladinami vigabatrinu a jeho účinností. Trvání účinku je závislé na rychlosti resyntézy transaminázy GABA.
+Biotransformace
+Vigabatrin není významně metabolizován. V plazmě nebyly identifikovány žádné metabolity.
+
+Eliminace
+Vigabatrin je vylučován renální exkrecí s terminálním poločasem 5-8 hodin. Perorální clearance (Cl/F) vigabatrinu je přibližně 7 l/h (tj. 0,10 l/h/kg). Přibližně 70 % jednorázově podané látky bylo zachyceno v nezměněné formě v moči v prvních 24 hodinách po podání.
+
+Farmakokinetické/farmakodynamické vztahy
+Mezi plasmatickou koncentrací a účinností není přímá korelace. Trvání účinku léčivé látky závisí na rychlosti resyntézy GABA transaminázy.
+Pediatrická populace
+Farmakokinetické vlastnosti vigabatrinu byly zkoumány ve skupinách šesti novorozenců (15-26 dní), šesti kojenců a batolat (5-22 měsíců) a šesti dětí (4,6-14,2 roků) s refrakterní epilepsií. Po podání jednorázové dávky 37-50 mg/kg vigabatrinu ve formě perorálního roztoku bylo Tmax přibližně 2,5
+hodiny u novorozenců a kojenců a 1hodina u dětí. Průměrný terminální poločas vigabatrinu byl přibližně 7,5 hodiny u novorozenců, 5,7 hodiny u kojenců a 5,5 hodiny u dětí. Průměrné hodnoty Cl/F aktivního S-enanciomeru vigabatrinu byly u kojenců 0,591 l/h/kg a u dětí 0,446 l/h/kg.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Studie hodnotící bezpečnost u zvířat provedené u potkanů, myší, psů a opic prokázaly, že vigabatrin nemá signifikantní nežádoucí účinky na játra, ledviny, plíce, srdce ani zažívací trakt.
+Retinální degenerace (retinotoxicita související s podáváním vigabatrinu) byla pozorována na mikroskopické úrovni u potkanů-albínů, kterým byl vigabatrin podáván v potravě nebo sondou ve
+vysokých dávkách (100 a 300 mg/kg/den); nebyla pozorována u zvířat, kterým byl podáván inaktivní R enantiomer, ale byla pozorována při podávání aktivního S enantiomeru v dávce 150 mg/kg/den. U potkanů, psů a opic s normální pigmentací nebyla degenerace pozorována. Retinální změny byly u
+potkanů-albínů charakterizované jako fokální nebo multifokální poruchy organizace zevní jádrové vrstvy s přesunutím jader do oblasti tyčinek a čípků. Tyto léze byly pozorovány u 80-100 % zvířat při perorální dávce 300 mg/kg/den. Histologický vzhled těchto lézí byl podobný, jako byl pozorovaný u potkanů-albínů po nadměrné expozici světlu.
+
+
+8/10
+
+V mozku byly histologicky pozorovány mikrovakuolizace v bílé hmotě u potkanů a psů při dávkách 30 a 50 mg/kg/den a u myší při dávkách 100 mg/kg/den nebo vyšších.
+Tento účinek byl způsoben oddělením zevní lamelární vrstvy myelinových vláken, což je změna
+charakteristická pro otok v bílé hmotě mozkové. U potkanů i psů (myši nebyly testované) byl otok v bílé hmotě mozkové reverzibilní po přerušení léčby vigabatrinem. U potkanů však přetrvávaly
+reziduální změny - zduření axonů a mineralizované mikročástice. U opic nebyly zaznamenány žádné léze po 6 letech léčby dávkami 50 a 100 mg/kg/den. U opic, které dostávaly dávku 300 mg/kg/den po dobu 16 měsíců, byly minimální mikrovakuolizace pozorovány se stejnými rozdíly mezi léčenými i kontrolními zvířaty.
+
+Pokusy na zvířatech ukazují, že vigabatrin nemá negativní vliv na plodnost nebo vývoj mláděte. Nebyl zaznamenán teratogenní účinek v dávkách do 150 mg/kg (trojnásobek lidské dávky) u potkanů nebo
+v dávkách do 100 mg/kg u králíků. Avšak u králíků byl lehce zvýšen výskyt rozštěpu patra v dávkách 150-200 mg/kg.
+U králíků souviselo podávání vigabatrinu s minimálním výskytem rozštěpu patra u plodu při dávce 150 (2%) a 200 (9%) mg/kg/den (trojnásobek až čtyřnásobek doporučené dávky u lidí). Posuzováno dle snížení tělesné hmotnosti a spotřeby potravy, byly tyto vyšší dávky toxické rovněž pro matku.
+Snížená tělesná hmotnost a různé kostní deformace byly pozorovány u plodů myší, kterým byla
+aplikována jednorázová dávka vigabatrinu 300 mg/kg intraperitoneálně (šestinásobek doporučené dávky u lidí); další účinky na embryo byly pozorovány po jednorázové dávce 450 mg/kg i.p. (devítinásobek doporučené lidské dávky) a to zvýšená resorpce a 2% incidence pupeční kýly; samičí úmrtnost byla pozorována po dávce 600 mg/kg i.p. Při perorálním podání v dávce do 150 mg/kg/den (trojnásobek doporučené lidské dávky), nebyl vigabatrin u potkanů teratogenní.
+Studie s vigabatrinem neodhalily mutagenní ani kancerogenní účinky.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Mikrokrystalická celulosa, povidon, sodná sůl karboxymethylškrobu, magnesium-stearát, hypromelosa, oxid titaničitý, makrogol 8000.
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+
+6.5  Druh obalu a obsah balení
+
+Al/PVC blistr, krabička.
+Velikost balení: 100 potahovaných tablet.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+9/10
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+sanofi-aventis, s.r.o., Evropská 846/176a, 160 00 Praha 6, Česká republika
+
+
+8.   REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+21/566/94-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 4. 5. 1994
+Datum posledního prodloužení registrace: 8. 12. 2010
+
+
+10.  DATUM REVIZE TEXTU
+
+13. 1. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/10

@@ -1,0 +1,421 @@
+sp.zn. sukls285546/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+MultiHance 529 mg/ml injekční roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Dimeglumini gadobenas 529 mg v 1 ml roztoku, odpovídá: acidum gadobenicum 334 mg (0,5M) + megluminum 195 mg.
+
+5 ml injekčního roztoku obsahuje: acidum gadobenicum 1670 mg (2,5 mmol) ve formě dimeglumini gadobenas [dimeglumini gadobenas 2645 mg = acidum gadobenicum 1670 mg + megluminum 975 mg] 10 ml injekčního roztoku obsahuje: acidum gadobenicum 3340 mg (5 mmol) ve formě dimeglumini gadobenas [dimeglumini gadobenas 5290 mg = acidum gadobenicum 3340 mg + megluminum 1950 mg]
+15 ml injekčního roztoku obsahuje: acidum gadobenicum 5010 mg (7,5 mmol) dimeglumini gadobenas [dimeglumini gadobenas 7935 mg = acidum gadobenicum 5010 mg + megluminum 2925 mg]
+20 ml injekčního roztoku obsahuje: acidum gadobenicum 6680 mg (10 mmol) ve formě dimeglumini gadobenas [dimeglumini gadobenas 10580 mg = acidum gadobenicum 6680 mg + megluminum 3900 mg]
+Osmolalita při 37 ºC: 1,970 osmol/kg
+Viskozita při 37 ºC: 5,3 mPa.s
+Úplný seznam pomocných látek viz bod 6.1
+
+
+3.  LÉKOVÁ FORMA
+Injekční roztok
+Popis přípravku: čirý, bezbarvý roztok, prakticky prostý částic.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Tento léčivý přípravek je určen pouze k diagnostickým účelům.
+
+Přípravek MultiHance je paramagnetická kontrastní látka k diagnostickému zobrazení jater u dospělých
+a dětí (ve věku od 2 let) magnetickou rezonancí (MRI).
+Přípravek MultiHance má být použit pouze tehdy, je-li získání diagnostických informací nezbytné, není- li možné tyto informace získat vyšetřením magnetickou rezonancí (MRI) bez použití kontrastní látky a je-li nutné zobrazení fázového opoždění.
+4.2  Dávkování a způsob podání Dávkování
+Doporučená dávka kyseliny gadobenové podaná injekčně u dospělých pacientů a dětí je 0,05 mmol/kg
+tělesné hmotnosti (0,1 ml/kg roztoku o molární koncentraci 0,5 M).
+
+
+
+
+1/9
+
+Musí být použita nejnižší možná dávka, která zajišťuje dostatečný kontrast pro diagnostické účely. Dávka se má vypočítat na základě tělesné hmotnosti pacienta a nemá překročit doporučenou dávku na kilogram tělesné hmotnosti uvedenou v tomto bodě.
+
+Způsob podání
+MultiHance má být natažen do stříkačky těsně před použitím a nemá být ředěn. Všechen nespotřebovaný přípravek má být zlikvidován, nesmí být použit k dalším MRI vyšetřením.
+
+K minimalizaci potenciálního rizika extravazace přípravku MultiHance v měkkých tkáních je důležité zajistit, aby i.v. jehla nebo kanyla byla správně zavedena do žíly.
+Přípravek se podává intravenózně buď jako bolus, nebo pomalou injekcí (10 ml/min).
+
+K zajištění aplikace celé dávky MultiHance má následovat podání malého množství fyziologického
+roztoku do kanyly.
+
+
+Pokontrastní sběr obrazových dat:
+Dynamické zobrazení:
+
+Bezprostředně po injekci bolusu.
+
+Játra
+Opožděné zobrazení:
+V rozmezí 40 a 120 min po injekci, v závislosti na individuálních zobrazovacích potřebách.
+
+Zvláštní populace
+
+Porucha funkce ledvin
+Podání přípravku MultiHance je třeba se vyhnout u pacientů se závažnou poruchou ledvin (GFR < 30 ml/min/1,73 m²) a u pacientů v perioperačním období transplantace jater, nejedná-li se o zcela nepostradatelnou diagnostickou informaci, nedosažitelnou pomocí MRI bez použití kontrastní látky (viz bod 4.4). Jestliže se nelze podání přípravku MultiHance vyhnout, je nutno, aby dávka nepřevýšila 0,05 mmol/kg tělesné hmotnosti. Z důvodu nedostatku informací o opakovaném podání se injekce přípravku MultiHance smí opakovat pouze s nejméně 7denním odstupem.
+
+Porucha funkce jater
+U pacientů s poruchou funkce jater není nutná úprava dávky, protože porucha funkce jater měla malý účinek na farmakokinetiku přípravku MultiHance.
+Starší osoby (ve věku 65 let a starší)
+Úprava dávkování není považována za potřebnou. U starších pacientů je třeba zvýšené obezřetnosti (viz
+bod 4.4).
+
+Pediatrická populace
+Není nutná úprava dávkování.
+Použití přípravku MultiHance se nedoporučuje u dětí do 2 let.
+4.3  Kontraindikace
+
+MultiHance je kontraindikován
+-  u pacientů s hypersenzitivitou na léčivou látku nebo na kteroukoli pomocnou látku uvedenou
+v bodě 6.1.
+-  u pacientů s anamnézou alergických či nežádoucích reakcí na jakékoli gadoliniové cheláty.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+
+
+
+
+2/9
+
+Použití diagnostických kontrastních médií, jako např. MultiHance, je omezeno na nemocnice či kliniky vybavené jednotkami intenzívní péče, kde je dostupné vybavení pro kardiopulmonální resuscitaci.
+
+Pacienti mají zůstat pod přísným dohledem během 15 minut po injekci, neboť většina vážných reakcí nastává v tomto časovém období. Pacient má zůstat v nemocnici jednu hodinu po podání injekce.
+Při použití přípravku MultiHance je třeba dodržovat všeobecné bezpečnostní postupy pro zobrazení magnetickou rezonancí, zvláště vyloučení feromagnetických těles, např. kardiostimulátorů nebo svorek na aneurysmatech, kloubní náhrady apod.
+Zvláštní pozornost je třeba věnovat pacientům s kardiovaskulárním onemocněním.
+
+U pacientů trpících epilepsií nebo mozkovými lézemi se může pravděpodobnost záchvatu během vyšetření zvýšit. Při vyšetřování těchto pacientů jsou nutná bezpečnostní opatření (např. monitorování pacientů) a mělo by být k dispozici vybavení a léky pro rychlou léčbu případného záchvatu.
+
+Po podání kyseliny gadobenové se gadolinium může ukládat v mozku a jiných tělesných tkáních (kostech, játrech, ledvinách, kůži) a v závislosti na výši dávky vyvolat zvýšení intenzity signálu T1- váženého zobrazení v mozku, zejména v nucleus dentatus, globus pallidus a v thalamu. Klinické důsledky nejsou známy. Možné diagnostické výhody použití kyseliny gadobenové u pacientů, u nichž jsou nutná opakovaná vyšetření, je třeba zvážit s ohledem na potenciální depozici gadolinia v mozku a jiných tkáních.
+
+Hypersenzitivní reakce
+Stejně jako u jiných gadoliniových chelátů má být zvážena možnost reakce zejména u pacientů s anamnézou astmatu nebo jiných alergických onemocnění, včetně závažné, život ohrožující nebo fatální anafylaktické a anafylaktoidní reakce postihující jeden nebo více tělesných systémů, především dýchací cesty, kardiovaskulární a/nebo mukokutánní systémy.
+
+Před podáním MultiHance je nutné zajistit vyškolený personál a léky k léčbě alergické reakce.
+
+Během uchovávání se může z dimeglumin-gadobenátu  uvolnit nepatrné množství benzylalkoholu (<0,2%). Nicméně se MultiHance nemá používat u pacientů s přecitlivělostí na benzylalkohol v anamnéze.
+
+Stejně jako u jiných gadoliniových chelátů nemá být kontrastní MRI prováděno během 7 hodin po MRI vyšetření s pomocí MultiHance, aby mohlo dojít k eliminaci přípravku MultiHance z organismu.
+Snažte se zabránit lokální extravazaci při intravenózním podání MultiHance. Pokud dojde k lokálním reakcím, je třeba je vyhodnotit a léčit podle potřeby (viz bod 4.8).
+
+Porucha funkce ledvin
+Před podáním MultiHance se u všech pacientů doporučuje provést screeningové laboratorní vyšetření
+k odhalení porušené funkce ledvin.
+
+Existují zprávy o nefrogenní systémové fibróze (NSF) v souvislosti s podáním některého z kontrastních přípravků obsahujících gadolinium u pacientů se závažnou, akutní nebo chronickou poruchou funkce ledvin (GFR < 30 ml/min/1,73 m²). Zvláštní riziko je u pacientů podstupujících transplantaci jater vzhledem k vysokému výskytu akutního selhání ledvin v této skupině. Vzhledem k možnosti výskytu NSF po podání přípravku MultiHance je třeba se vyhnout jeho podávání u pacientů se závažnou poruchou funkce ledvin a u pacientů v perioperačním období transplantace jater, nejedná-li se o zcela nepostradatelnou diagnostickou informaci, nedosažitelnou pomocí MRI bez použití kontrastní látky.
+
+
+
+
+3/9
+
+Hemodialýza krátce po podání MultiHance může být vhodným postupem k jeho odstranění z těla. Neexistují důkazy na podporu zahájení hemodialýzy k prevenci nebo k léčbě NSF u pacientů, kteří hemodialýzu dosud nepodstupují.
+
+Starší osoby
+Vzhledem k možnému zhoršení ledvinové clearence dimeglumin-gadobenátu u starších osob je zvláště důležité provádět u pacientů ve věku 65 let a starších screeningové vyšetření k odhalení porušené funkce ledvin.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Během klinického výzkumu MultiHance nebyly prováděny studie interakcí s jinými přípravky. Během programu klinického zkoušení však nebyly zaznamenány žádné lékové interakce.
+4.6  Fertilita, těhotenství a kojení Těhotenství
+Nejsou k dispozici údaje o podávání dimeglumin-gadobenátu těhotným ženám. Studie provedené na
+zvířatech odhalily reprodukční toxicitu po opakovaném podávání vysokých dávek (viz bod 5.3). MultiHance se nepodává během těhotenství, pokud klinický stav ženy nevyžaduje použití dimeglumin- gadobenátu.
+Kojení
+Kontrastní přípravky obsahující gadolinium jsou ve velmi malých množstvích vylučovány do mateřského mléka (viz bod 5.3). V klinických dávkách se neočekávají žádné účinky na dítě vzhledem k malému množství vylučovanému do mléka a omezenému vstřebávání ze střeva. Rozhodnutí, zda po podání MultiHance v kojení pokračovat nebo ho na 24 hodin přerušit, je na lékaři a kojící matce.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+MultiHance nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje..
+4.8  Nežádoucí účinky
+
+V průběhu klinického vývoje přípravku MultiHance byly pozorovány následující účinky.
+
+
+Třídy orgánových systémů
+
+Poruchy imunitního systému Poruchy nervového systému Poruchy oka
+Klinické studie
+
+Časté
+(≥ 1/100, < 1/10)
+
+
+
+Bolesti hlavy
+
+
+Méně časté
+(≥ 1/1 000, < 1/100)
+
+
+
+Parestézie, závratě,
+porucha chuti
+
+
+Vzácné
+(≥ 1/10 000, < 1/1 000)
+Anafylaktické/ anafylaktoidní reakce, hypersenzitivní reakce Křeče, synkopa, hypestezie, třes, parosmie
+Poruchy zraku
+Postmarketingové sledování
+Není známo**
+
+Anafylaktický šok
+
+
+Ztráta vědomí
+
+
+Konjunktivitida
+
+
+Srdeční poruchy
+
+
+
+Cévní poruchy
+Atrioventrikulární blok prvního stupně, tachykardie
+
+Hypertenze, hypotenze, návaly horka
+Myokardiální ischémie, bradykardie
+Srdeční zástava, Kounisův syndrom***, cyanóza
+
+
+4/9
+
+Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+Poruchy kůže a podkožní tkáně
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně Poruchy ledvin a močových cest Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+Vyšetření
+
+
+
+Nauzea
+
+
+
+Průjem, zvracení, sucho v ústech Kopřivka, vyrážka včetně erytematózní vyrážky, makulární a makulopapulózní vyrážka, svědění
+
+
+
+Proteinurie
+
+Horečka, pocit horka, reakce v místě injekce včetně bolesti, zánětu, pálení, pocitu tepla či chladu, nepříjemných pocitů, erytému, parestezie a svědění v místě injekce Abnormality na EKG
+*, zvýšení bilirubinu v krvi, zvýšení sérových transamináz, gama- glutamyl-transferázy, a kreatininu
+Plicní edém, dyspnoe laryngeální spasmus, sípání, rinitida, kašel Zvýšené vylučování slin, bolest břicha Otok obličeje, zvýšené pocení
+
+
+Myalgie
+
+
+
+
+Bolest na hrudi, astenie, malátnost, zimnice
+
+
+
+
+
+Snížení albuminu v krvi, zvýšení alkalické fosfatázy v krvi, zvýšení železa v krvi, zvýšení laktát- dehydrogenázy v krvi
+Respirační selhání, otok hrtanu, bronchospasmus, Otok v ústech
+
+Angioedém
+
+
+
+
+
+
+
+
+
+Otok v místě vpichu, puchýřky v místě injekce
+* Abnormality na EKG zahrnují prodloužení QT intervalu na EKG, zkrácení QT intervalu na EKG, inverze vlny na elektrokardiogramu T, prodloužení elektrokardiogramu PR, komplexní prodloužení na elektrokardiogramu QRS.
+** Vzhledem k tomu, nebyly pozorovány reakce v průběhu klinických studií s 5712 subjekty, nejlepší odhad je, že jejich relativní výskyt je vzácný (≥ 1/10 000 až <1/1000).
+K popisu určité reakce a jejich příznaků a souvisejících podmínek je používán nejvhodnější termín podle MedDRA (verze 16.1).
+*** Alergický akutní koronární syndrom
+
+Laboratorní výsledky však byly většinou pozorovány u pacientů s důkazem předchozího poškození jaterní funkce nebo již existujícím metabolickým onemocněním.
+Většina těchto příhod byla nezávažná, přechodná a spontánně ustupující bez následků. Nebyla prokázána žádná korelace s věkem, pohlavím či podanou dávkou.
+Stejně  jako  u  jiných  gadoliniových  chelátů  byly  zaznamenány  případy  anafylaktických  / anafylaktoidních / hypersenzitivních reakcí. Tyto reakce se projevily s různým stupněm závažnosti, včetně anafylaktického šoku a smrti, a postihovaly jeden nebo více orgánových systémů, především respirační, kardiovaskulární a/nebo mukokutánní systémy.
+
+U pacientů s anamnézou křečí, mozkových nádorů nebo metastáz nebo jiných mozkových poruch byly hlášeny křeče po podání MultiHance (viz bod 4.4).
+Zaznamenány byly reakce v místě vpichu injekce způsobené extravazací kontrastního média vedoucí k lokální bolesti nebo pocitu pálení, otok, vznik puchýřů a ve vzácných případech, kdy je lokalizovaný závažný otok, nekróza. Vzácně byla hlášena lokalizovaná tromboflebitida (viz bod 4.4).
+
+Byly hlášeny izolované případy nefrogenní systémové fibrózy (NSF) po MultiHance, většinou u pacientů, u nichž byly podány i jiné kontrastní přípravky obsahující gadolinium (viz bod 4.4).
+
+
+
+5/9
+
+Pediatrická populace
+Bezpečnostní profil MultiHance je u dětí a dospělých podobný.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Nebyly zaznamenány žádné případy předávkování. Proto ukazatele a symptomy předávkování nejsou charakterizovány. Zdravým dobrovolníkům byly podávány dávky až 0,4 mmol/kg bez jakýchkoli vážných nežádoucích příhod. Dávky překračující schválené dávkování však nejsou doporučovány. V případě předávkování by měl být pacient pečlivě sledován a symptomaticky léčen.
+
+MultiHance může být odstraněn hemodialýzou. Nebyl však podán důkaz, že by hemodialýza byla vhodná k prevenci nefrogenní systémové fibrózy (NSF).
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: paramagnetické kontrastní látky ATC kód V08CA 08
+
+Mechanismus účinku a farmakodynamické účinky
+Gadolinium -chelát, dimeglumin- gadobenát, zkracuje longitudinální (T1) a transverzální (T2) dobu relaxace protonů vodíku ve tkáních.
+
+Relaxivita dimeglumin- gadobenátu ve vodném roztoku je r1 = 4,39 a r2 = 5,56 mM⁻¹s⁻¹ při 20 MHz. Dimeglumin–gadobenát zaznamenává značné zvýšení relaxivity při přechodu z vodného roztoku do roztoků obsahujících sérové proteiny, hodnoty r1 a r2 v lidské plazmě byly 9,7 a 12,5.
+
+Klinická účinnost a bezpečnost
+U zobrazení jater může MultiHance zobrazit ložiska, která nebyla viditelná při nekontrastním MRI vyšetření pacientů se známým nebo suspektním karcinomem jater nebo metastázami. Původ lézí zobrazených po kontrastním vyšetření přípravkem MultiHance nebyl ověřen patologicko-anatomickým vyšetřením. Kromě toho tam, kde byl hodnocen účinek na léčbu pacienta, nebylo vždy zobrazení ložisek zvýrazněných po podání kontrastní látky spojováno se změnou v pacientově léčbě.
+
+V játrech vykazuje MultiHance silné a perzistující rozšíření intenzity signálu normálního parenchymu při T1-váženém zobrazení. Rozšíření intenzity signálu přetrvává na vysokém stupni nejméně po dobu dvou hodin po podání dávek 0,05 nebo 0,10 mmol/kg. Kontrast mezi jaterními lézemi a normálním parenchymem je pozorován téměř okamžitě po injekci bolu (do 2-3 minut) při T1-váženém dynamickém zobrazení. Kontrast má tendenci se snižovat v pozdějším časovém odstupu z důvodu sycení nespecifických lézí.
+Postupné vyplavování gadobenátu z ložisek a naopak přetrvávání zvýšené intenzity signálu normálního parenchymu se považuje za příčinu nižšího prahu (vyšší senzitivity) pro detekci nasycených ložisek mezi 40. a 120. minutou po podání MultiHance.
+
+
+
+6/9
+
+Data z pivotních studií fáze II a III u pacientů s karcinomem jater ukazují, že ve srovnání s jinými referenčními  zobrazeními (např. peroperační  ultrasonografie,  počítačová tomografická  angio- portografie - CTAP nebo počítačová tomografie po intraarteriální injekci iodovaného oleje) vykazovala MR vyšetření s podáním přípravku MultiHance průměrnou senzitivitu 95 % a průměrnou specifitu 80
+% v detekci karcinomu jater nebo metastáz u pacientů s vysokým podezřením na tuto diagnózu.
+
+5.2  Farmakokinetické vlastnosti
+
+Modelování lidské farmakokinetiky bylo dobře popsáno za použití biexponenciálního rozkladného modelu. Distribuce se pohybuje mezi 0,085 a 0,117 hod; eliminační poločas mezi 1,17 a 1,68 hod. Celkový distribuční objem pohybující se mezi 0,170 a 0,248 l/kg tělesné hmotnosti ukazuje, že látka je distribuována do plazmy a mezibuněčného prostoru.
+Gadobenát je rychle eliminován z plazmy a je vylučován hlavně v moči a v menší míře žlučí. Celková plazmatická clearance pohybující se mezi 0,098 a 0,133 l/hod/kg tělesné hmotnosti a renální clearance pohybující se mezi 0,082 a 0,0104 l/hod/kg tělesné hmotnosti ukazují, že látka je eliminována převážně glomerulární filtrací. Hodnoty plazmatické koncentrace a plocha pod křivkou (AUC) ukazují statisticky signifikantní lineární závislost na podané dávce. Gadobenát se vylučuje nezměněn močí v množstvích odpovídajících 78% - 94% podané dávky během 24 hodin. Ve stolici byla zajištěna 2 – 4 % z podané dávky.
+Narušení hematoencefalické bariéry nebo abnormální vaskularita umožní průnik gadobenátu do ložisek. Populační farmakokinetická analýza byla provedena z údajů o systémové koncentraci přípravku
+v průběhu času od 80 subjektů (40 zdravých dospělých dobrovolníků a 40 pediatrických pacientů) ve
+věku od 2 do 47 let po intravenózním podání dimeglumin-gadobenátu. Kinetiku gadolinia s klesajícím věkem až do 2 let je možno popsat dvoukompartmentovým modelem se standardními alometrickými koeficienty a clearance kreatininu jako kovariátem (odrážejícím rychlost glomerulární filtrace) pro clearance gadolinia. Hodnoty farmakokinetických parametrů (vztažené na dospělou tělesnou hmotnost) odpovídaly dříve zaznamenaným hodnotám pro MultiHance a fyziologickým procesům, které jsou považovány za základní pro distribuci a eliminaci přípravku MultiHance: distribuce do extracelulární tekutiny (přibližně 15 l u dospělých, neboli 0,21 l/kg) a eliminace glomerulární filtrací (přibližně 130 ml plazmy za minutu u dospělých, neboli 7,8 l/hod a 0,11 l/hod/kg). Clearance a distribuční objem se u mladších subjektů progresivně snižovaly v důsledku menší velikosti těla. Tento jev může být z velké míry důvodem normalizace farmakokinetických parametrů dle tělesné hmotnosti. Podle této analýzy poskytuje dávkování přípravku MultiHance u pediatrických pacientů, založené na tělesné hmotnosti, podobnou systémovou expozici (AUC) a maximální koncentraci (Cmax), jaké jsou pozorovány u dospělých, a tato analýza potvrzuje, že u pediatrické populace v doporučeném věkovém rozmezí (od 2 let) není nutná úprava dávkování.
+Kyselina gadobenová je lineární kontrastní látka obsahující gadolinium (GdCA). Studie prokázaly, že po expozici těmto látkám se gadolinium ukládá v organismu. K retenci dochází v mozku a jiných tkáních a orgánech. Po podání lineárních GdCA to může v závislosti na výši dávky vyvolat zvýšení intenzity signálu T1-váženého zobrazení v mozku, zejména v nucleus dentatus, globus pallidus a v thalamu. Zvýšení intenzity signálu a neklinické údaje dokazují, že lineární GdCA uvolňují gadolinium.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje neodhalily žádné zvláštní riziko pro člověka na základě konvenčních studií bezpečnostní farmakologie, toxicity opakované dávky, genotoxicity, karcinogenního potenciálu.
+
+Preklinické účinky byly ve skutečnosti pozorovány pouze při expozici považované za značně přesahující maximální expozici u člověka, což nasvědčuje malé klinické významnosti.
+Pokusy na zvířatech odhalily nízkou místní toleranci MultiHance, zvláště v případě náhodného extravazálního podání, kdy je možno pozorovat vážné lokální reakce jako nekrózu či krusty.
+
+
+7/9
+
+Lokální tolerance v případě náhodného intraarteriálního podání nebyla zkoumána, proto je zvláště důležité se ujistit, že i.v. jehla či kanyla byla správně zavedena do žíly (viz bod 4.2).
+
+Těhotenství a kojení:
+Ve studiích na zvířatech se neprojevily žádné účinky na vývoj embrya či plodu při každodenním intravenózním podávání dimeglumin-gadobenátu  u potkanů. U potomků potkanů dále nebyly pozorovány žádné nežádoucí účinky na tělesný a behaviorální vývoj. Po opakovaných každodenních dávkách u králíků byly zaznamenány izolované případy odchylek na skeletu a dva případy viscerálních malformací.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1.  Seznam pomocných látek
+
+Voda pro injekci
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+
+6.3  Doba použitelnosti
+
+3 roky
+Z mikrobiologického hlediska má být přípravek použit okamžitě po natažení do stříkačky.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem.
+
+6.5  Druh obalu a obsah balení
+
+Druh obalu: lahvička z bezbarvého skla se zátkou z elastomeru, hliníkový uzávěr, PP odlamovací kryt, krabička.
+Velikost balení: 5, 10, 15, 20 ml.
+
+Na trhu nemusí být dostupné všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+MultiHance se natahuje do stříkačky těsně před použitím a nesmí být ředěn. Před použitím se ujistěte, že obal a uzávěr nebyly poškozeny, že není roztok zabarvený a že neobsahuje částice.
+
+Jestliže je MultiHance podáván pomocí injektorového systému, je třeba zlikvidovat všechny propojovací kanyly a eventuální další spojovací části po vyšetření každého pacienta. Instrukce týkající se náhradního materiálu musí být k dispozici od příslušného výrobce.
+Oddělitelnou část štítku z lahviček je třeba vlepit do dokumentace pacienta, aby byl přesně zaznamenán použitý kontrastní přípravek s obsahem gadolinia. Též je nutno poznamenat podanou dávku. Pokud je vedena elektronická dokumentace, měl by být rovněž do záznamů pacienta uveden název podaného léčivého přípravku, číslo šarže a dávka.
+
+
+8/9
+
+Pouze k jednorázovému použití. Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován
+v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Bracco Imaging Deutschland GmbH 78467 Konstanz
+Německo
+
+8.  REGISTRAČNÍ ČÍSLO
+
+48/495/00-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 4.10.2000
+Datum posledního prodloužení registrace: 1.12.2010
+
+
+10.  DATUM REVIZE TEXTU
+
+6. 5. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

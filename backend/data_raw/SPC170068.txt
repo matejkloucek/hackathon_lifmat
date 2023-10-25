@@ -1,0 +1,525 @@
+Sp. zn. sukls25243/2021
+
+Souhrn údajů o přípravku
+
+l. NÁZEV PŘÍPRAVKU
+OCTANINE F 500
+OCTANINE F 1000
+Prášek a rozpouštědlo pro injekční roztok
+
+2. KVANTITATIVNÍ A KVALITATIVNÍ SLOŽENÍ
+
+-  OCTANINE F 500 je dodáván jako prášek a rozpouštědlo pro injekční roztok obsahující Factor
+IX coagulationis humanus 500 IU v l injekční lahvičce.
+Po rekonstituci s 5 ml vody na injekci (Ph.Eur.) obsahuje přibližně l00 IU/ml lidského koagulačního
+faktoru IX.
+
+-  OCTANINE F 1000 je dodáván jako prášek a rozpouštědlo pro injekční roztok obsahující Factor
+IX coagulationis humanus 1000 IU v l injekční lahvičce.
+Po rekonstituci s 10 ml vody na injekci (Ph.Eur.) obsahuje přibližně l00 IU/ml lidského koagulačního faktoru IX.
+
+OCTANINE F je vyroben z plazmy lidských dárců.
+Síla (IU) je určena jednostupňovým koagulačním testem dle Evropského lékopisu v porovnání s mezinárodním  standardem  Světové  zdravotnické  organizace  (WHO).  Specifická  účinnost OCTANINE F je přibližně 100 IU/mg bílkoviny.
+
+Pomocné látky se známým účinkem
+Tento léčivý přípravek obsahuje až 69 mg sodíku v jedné injekční lahvičce přípravku OCTANINE F
+500 a až 138 mg sodíku v jedné injekční lahvičce přípravku OCTANINE F 1000 .
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Prášek a rozpouštědlo pro injekční roztok
+Prášek je bílý nebo světle žlutý, může vypadat i jako drobivá hmota.
+
+4. KLINICKÉ ÚDAJE
+4.l. Terapeutické indikace
+Léčba a profylaxe krvácení u pacientů s hemofilií B (vrozený nedostatek faktoru IX).
+
+4.2. Dávkování a způsob podání
+Léčba by měla být zahájena pod dozorem lékaře, který má zkušenosti s léčbou hemofilie.
+
+Dříve neléčení pacienti
+Bezpečnost a účinnost přípravku OCTANINE F u dříve neléčených pacientů nebyla dosud stanovena.
+
+
+
+
+1
+
+Sledování terapie
+U opakovaných infuzí se během léčby doporučuje sledování hladiny faktoru IX jako vodítko pro další dávkování a četnost podávání. Jednotliví pacienti mohou individuálně reagovat na podání faktoru IX dosažením různých hodnot in vivo recovery a vykazováním různých poločasů. Dávkování vycházející z tělesné hmotnosti si může u pacientů s podváhou nebo nadváhou vyžádat určité úpravy. Zejména v případě větších chirurgických výkonů je nezbytné přesné sledování substituční terapie pomocí koagulačních vyšetření (aktivity plazmatického faktoru IX).
+
+Dávkování
+Dávkování a délka trvání substituční léčby závisí na stupni nedostatku faktoru IX, na místě a rozsahu krvácení a na klinickém stavu pacienta.
+Počet jednotek podaného faktoru IX je vyjádřen v Mezinárodních jednotkách (IU), které jsou vztaženy k současnému standardu WHO pro přípravky obsahující faktor IX. Plasmatická aktivita faktoru IX se vyjadřuje buď v procentech (vzhledem k normální lidské plazmě) nebo v mezinárodních jednotkách (vzhledem k Mezinárodnímu Standardu faktoru IX v plazmě).
+Jedna mezinárodní jednotka (IU) aktivity faktoru IX je ekvivalent množství faktoru IX v l ml normální lidské plazmy.
+
+Léčba „on demand“
+Výpočet požadované dávky faktoru IX je založen na zkušenosti, že aplikace l mezinárodní jednotky (IU) faktoru IX na kg těl.hm. zvýší aktivitu faktoru IX v plazmě o l% normální aktivity.. Pro výpočet požadované dávky lze použít následující vzorec:
+
+Požadovaná dávka = tělesná hmotnost (kg) x požadovaný vzestup faktoru IX (%)(IU/dl) x 0,8
+
+Dávka a četnost podávání by měly být vždy vztaženy ke klinické účinnosti v individuálním případě.
+
+V případě následujících krvácivých příhod by aktivita faktoru IX neměla klesnout pod stanovenou plazmatickou hladinu (v %) v odpovídající době. Následující tabulka může sloužit jako vodítko pro stanovení dávkování při krvácivých příhodách nebo chirurgickém zákroku:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+Stupeň  krvácení  /  Typ chirurgického výkonu
+
+Krvácení
+Požadovaná hodnota faktoru IX (%) (IU/dl)
+Frekvence dávkování (hodiny) / Délka trvání léčby (dny)
+
+
+Časná hemartróza, krvácení do svalů nebo ústní dutiny
+20–40
+Opakujte  infuze  každých  24  hodin, nejméně jeden den, dokud se krvácení, které se vyznačuje bolestí, nezastaví nebo se nedosáhne vyléčení.
+
+
+Intenzivnější    hemartróza, krvácení do svalů nebo hematom
+30–60
+Opakujte infuze každých 24 hodin po 3–4 dny  či  více,  dokud  bolest  a  akutní nemohoucnost nepřejdou.
+
+
+Život ohrožující krvácení
+60–100
+Opakujte infuze každých 8 až 24, dokud není nebezpečí zažehnáno.
+
+Operace
+
+
+Menší          operace
+Včetně extrakce zubu
+30–60
+Každých 24 hodin, nejméně 1 den, dokud
+se nedosáhne vyléčení.
+
+
+Větší operace
+80–100
+(před operací a po operaci)
+Opakujte infuze každých 8 až 24 hodin až do  adekvátního  zahojení  rány,  pak pokračujte v terapii nejméně dalších 7 dní, abyste udrželi aktivitu faktoru IX na 30 % až 60 % (IU/dl).
+
+
+Profylaxe
+Na dlouhodobou profylaxi krvácení u pacientů s těžkou hemofilií B jsou obvyklé dávky 20 – 40 IU faktoru IX na kilogram tělesné hmotnosti v intervalu 3-4 dnů. V některých případech, zvláště u mladších pacientů, je nutné použít kratších intervalů nebo vyšších dávek.
+
+Kontinuální infuze
+K dispozici není dostatek údajů pro doporučení kontinuální infuze OCTANINE F u chirurgických zákroků.
+
+
+Pediatrická populace
+Ve studii prováděné u 25 dětí ve věku do 6 let byla střední dávka podávaná v jednom expozičním dnu podobná u profylaxe i u léčby krvácení, tj. 35 – 40 IU/kg těl. hm.
+
+Způsob podávání
+Intravenózní podání.
+Doporučuje se neaplikovat více než 2-3 ml za minutu.
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.
+
+4.3. Kontraindikace
+- přecitlivělost na léčivou látku nebo kteroukoli pomocnou látku uvedenou v bodě 6.1.
+- známá alergie se snížením počtu trombocytů během heparinové léčby (heparinem indukovaná
+trombocytopenie [HIT] typu II)
+
+
+
+
+3
+
+4.4. Zvláštní upozornění a zvláštní opatření pro použití
+
+Sledovatelnost
+Aby se zlepšila sledovatelnost biologických léčivých přípravků má se přehledně zřetelně zaznamenat název podaného přípravku a číslo šarže.
+
+
+Hypersezitivita
+Při podávání přípravku OCTANINE F může dojít ke vzniku reakce z přecitlivělosti. Přípravek obsahuje stopy jiných lidských proteinů než faktor IX a heparin. Projeví-li se příznaky přecitlivělosti, měli by být pacienti instruováni, aby ihned přestali přípravek používat a obrátili se na svého lékaře. Pacienti by měli být informováni o časných projevech reakce z přecitlivělosti, jako jsou např. vyrážka, generalizovaná kopřivka, pocit tíhy na prsou, sípot, hypotenze a anafylaxe.
+
+V případě šoku má být zahájena standardní léčba šoku.
+
+Inhibitory
+Po opakované léčbě přípravkem obsahujícím lidský koagulační faktor IX by pacienti měli být pomocí příslušného biologického vyšetření sledováni na vývoj neutralizujících protilátek (inhibitorů), které jsou vyjádřeny v Bethesda jednotkách (BU).
+
+V literatuře jsou uváděny údaje poukazující na souvislost mezi výskytem inhibitoru faktoru IX a alergickými reakcemi. U pacientů se zkušeností s alergickými reakcemi by tudíž měla být zjišťována přítomnost inhibitoru. Je třeba vzít na vědomí, že u pacientů s inhibitory faktoru IX je také vyšší riziko výskytu anafylaktické reakce s následnou reakcí s faktorem IX.
+
+Protože při používání přípravků obsahujících faktor IX hrozí nebezpečí výskytu alergických reakcí, mají se počáteční dávky faktoru IX dle posouzení ošetřujícím lékařem provádět pod dohledem lékaře a mají se zajistit odpovídající podmínky pro zvládnutí alergických reakcí.
+
+Tromboembolismus
+Kvůli potenciálnímu riziku trombotických komplikací by měl být u pacientů s onemocněním jater, pacientů v postoperačním období, novorozenců nebo pacientů s rizikem trombotických příhod nebo DIC zajištěn klinický dohled nad časnými příznaky trombotické a konsumptivní koagulopatie spolu s příslušným biologickým vyšetřením. V každém z výše uvedených případů je nutno zvážit přínos terapie přípravkem OCTANINE F a možné riziko těchto komplikací.
+
+Kardiovaskulární příhody
+U pacientů s rizikovými faktory pro vznik kardiovaskulárních příhod může substituční terapie faktorem IX zvýšit kardiovaskulární riziko.
+
+Komplikace související s použitím katetrů
+
+Je-li třeba použít zařízení k přístupu k centrálním cévám, je třeba zvažovat rizika komplikací souvisejících s použitím těchto zařízení včetně místních infekcí, přítomnosti bakterií v krvi a trombózy v místě použití katetru.
+
+Přenosné látky
+Standardní opatření zabraňující přenosu infekce v souvislosti s používáním léčivých přípravků vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, testování jednotlivých odběrů krve a plazmatických poolů na specifické infekční markery a zařazení účinných výrobních kroků, při nichž jsou inaktivovány nebo odstraněny viry. Přesto nemůže být při podávání léků vyráběných z lidské krve nebo plazmy zcela vyloučena možnost přenosu infekce. To platí i pro jakékoli neznámé nebo vznikající viry a jiné patogeny.
+
+4
+
+Přijatá opatření jsou považována za účinná u tzv. obalených virů, jako například virů získané lidské imunodeficience (HIV), virů hepatitidy B (HBV) a virů hepatitidy C (HCV) a u neobaleného viru hepatitidy A (HAV).
+Omezený účinek mají tato opatření u neobalených virů jako je parvovirus B19. Infekce parvovirem B19 může být velmi závažná u těhotných žen (fetální infekce) a u imunodeficientních jedinců nebo jedinců se zvýšenou erytropoézou (například hemolytická anemie).
+U pacientů, kteří pravidelně nebo opakovaně dostávají přípravky s faktorem IX vyrobeným z lidské plazmy, je třeba zvážit vhodné očkování (hepatitida A a B).
+
+
+Pacienti na kontrolované sodíkové dietě
+
+Tento léčivý přípravek obsahuje až 69 mg sodíku v jedné injekční lahvičce přípravku OCTANINE F 500, což odpovídá 3,45 % doporučeného maximálního denního příjmu 2 g sodíku dle WHO pro dospělou osobu a
+až 138 mg sodíku v jedné injekční lahvičce přípravku OCTANINE F 1000, což odpovídá 6,9 % doporučeného maximálního denního příjmu 2 g sodíku dle WHO pro dospělou osobu.
+To je třeba vzít v úvahu u pacientů na kontrolované sodíkové dietě.
+
+Pediatrická populace
+Uvedená varování a preventivní opatření se vztahují stejnou měrou na dospělé i na děti.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Nebyly hlášeny žádné interakce přípravku obsahujícího lidský koagulační faktor IX s jinými léky.
+4.6. Fertilila, těhotenství a kojení
+S faktorem IX nebyly prováděny reprodukční studie na zvířatech. Vzhledem k vzácnému výskytu hemofilie B u žen nejsou zkušenosti s podáváním faktoru IX během těhotenství a kojení. Proto se doporučuje používání faktoru IX během těhotenství a kojení jen tehdy, je-li to nezbytně nutné.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+OCTANINE F nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8. Nežádoucí účinky
+
+Přehled bezpečnostního profilu
+U pacientů léčených přípravky obsahujícími faktor IX byly vzácně pozorovány symptomy jako hypersenzitivita nebo alergická reakce (např.angioedém, pálení a bodání v místě aplikace infúze, zimnice, zarudnutí kůže, generalizovaná kopřivka, bolesti hlavy, vyrážka, hypotenze, apatie, nevolnost, neklid, tachykardie, pocit tíhy na prsou, mravenčení, zvracení, sípot). V některých případech vyústily tyto reakce k anafylaxi společně s časově blízkým vývojem inhibitoru faktoru IX (viz také 4.4). Nefrotický syndrom byl hlášen po terapii imuno-toleranční indukce u pacientů s hemofilií B s inhibitorem faktoru IX a prodělanou alergickou reakcí.
+
+Vzácně byla pozorována horečka.
+U pacientů s hemofilií B se mohou vyvinout protilátky (inhibitory) proti faktoru IX. Jestliže se tyto inhibitory objeví, projeví se tato skutečnost jako nedostatečná klinická odpověď organismu. V takovém případě se doporučuje kontaktovat specializované hemofilické centrum. V provedené studii s 25 dětmi s hemofilií B bylo 6 pacientů dříve neléčených a střední počet expozičních dní na OCTANINE F byl 38 (rozmezí 8-90). Všichni pacienti měli základní hladinu inhibitoru faktoru IX <0,4 BU. Žádný inhibitor nebyl během studie pozorován.
+
+
+5
+
+Po podání přípravků obsahujících faktor IX je potenciální riziko tromboembolických epizod, vyšší riziko je u méně čištěných přípravků. Použití nízko čištěných přípravků, obsahujících faktor IX, je spojeno s případy výskytu infarktu myokardu, disseminované intravaskulární koagulace, žilní trombózy a plicní embolie. Při používání přípravků obsahujících vysoce čištěný faktor IX k podobným vedlejším účinkům dochází jen vzácně.
+Informace o bezpečnosti z hlediska přenosných agens viz bod 4.4.
+
+Tabulární přehled nežádoucích účinků
+Tabulka uvedená dále byla zpracována v souladu s klasifikací tříd orgánových systémů dle MedDRA (SOC a úroveň přednostně používaným termínem).
+Frekvence byly vyhodnoceny v souladu s následující konvencí: velmi časté (≥1/10); časté (≥1/100 až
+<1/10); méně časté (≥1/1 000 to <1/100); vzácné (≥1/10 000 až <1/1 000); velmi vzácné (<1/10 000),
+neznámé (nelze odhadnout na základě dostupných údajů).
+
+
+
+Standard MedDRA
+Třídy orgánových soustav
+
+Poruchy imunitního systému Cévní poruchy
+Poruchy ledvin a močových cest
+Celkové poruchy a reakce v místě
+aplikace
+Vyšetřní
+
+*Termín nejnížší úrovně MedDRA
+Popis vybraných nežádoucích účinků
+
+
+Vzácné
+Přecitlivělost
+Nežádoucí účinky
+
+Velmi vzácné
+Anafylaktický šok Tromboembolické události* Nefrotický syndrom Heparinem indukovaná trombocytopenie Pyrexie Pozitivní  protilátky  proti faktoru IX
+Vzhledem k přítomnosti heparinu v přípravku OCTANINE F může být vzácně pozorováno náhlé, alergickou reakcí vyvolané snížení počtu krevních destiček na hodnoty pod 100 000/μl nebo na 50 % výchozí hodnoty před terapií (trombocytopenie typu II) . U pacientů, kteří původně nebyli alergičtí na heparin, dochází ke snížení počtu trombocytů za 6 až l4 dnů od počátku léčby. U pacientů na heparin již alergických dochází ke snížení počtu trombocytů během několika hodin.
+Toto závažné snížení trombocytů může být doprovázeno nebo může vyvolat arteriální nebo žilní trombózy, tromboembolismus, vážné poruchy koagulace (konsumptivní koagulopatii), nekrózy kůže v místě vpichu injekce, krvácení „jako po pokousání blechou“ (petechiální hemoragie), purpuru nebo dehtovitou stolici. Pokud se objeví tyto alergické reakce, musí se podávání OCTANINE F ihned přerušit. Pacient musí být dále informován o tom, že v budoucnu již nesmí užívat žádné přípravky obsahující heparin. Kvůli tomuto vzácně se vyskytujícímu účinku na krevní destičky, který je vyvolaný heparinem, je nutné sledovat počet krevních destiček, a to zvláště na počátku léčby.
+
+Pediatrická populace
+Četnost, typ a závažnost nežádoucích reakcí u dětí se předpokládá na stejné úrovni jako u dospělých.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na daresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+6
+
+4.9. Předávkování
+Nebyly hlášeny žádné případy předávkování.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.l. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antihemoragika: krevní koagulační faktor IX,
+ATC kód: B02BD04
+
+Faktor IX je jednořetězcový glykoprotein o molekulární hmotnosti asi 68.000 daltonů. Je to koagulační faktor závislý na vitaminu K a je syntetizován v játrech. Faktor IX je aktivován faktorem XIa ve vnitřním koagulačním systému a komplexem faktoru VII a tkáňového faktoru ve vnějším koagulačním systému. Aktivovaný faktor IX v kombinaci s aktivovaným faktorem VIII aktivují faktor X. Aktivovaný faktor X přeměňuje protrombin na trombin. Trombin dále přeměňuje fibrinogen na fibrin, a tím se umožní tvorba koagula.
+Hemofilie B je pohlavně vázaná dědičná porucha koagulace krve způsobená sníženou hladinou faktoru
+IX. Způsobuje krvácení do kloubů, do svalů nebo do vnitřních orgánů, a to spontánního nebo posttraumatického charakteru. Touto substituční terapií se plazmatická hladina faktoru IX zvyšuje a umožní se dočasná korekce deficitu faktoru a korekce tendence ke krvácení.
+
+Pediatrická populace
+V provedené studii s 25 dětmi ve věku do 6 let bylo 6 pacientů dříve neléčených. Recovery po podání
+>25 IU OCTANINE F/kg těl. hm. bylo sledováno během prvních 3 měsíců léčby a po 12-24 měsících. Přírůstkové recovery (geometrická střední hodnota ± standardní odchylka, jednostupňová zkouška, aktuální síla) bylo počítáno 0,8 ± 1,4 a 0,9 ± 1,3 %/IU/kg při prvním resp. druhém hodnocení.
+
+5.2. Farmakokinetické vlastnosti
+Ve farmakokinetické studii s 13 pacienty s hemofilií B starších 12 let (průměrný věk 28 let, rozmezí 12 – 61 let) s OCTANINE F byly zjištěny následující výsledky:
+
+
+N=13
+
+Přírůstkové recovery
+[IU/dl]/[IU/kg]
+Median 1,2
+Střední hodnota 1,3
+Standardní odchylka 0,5
+Minimum 0,8
+Maximum 2,4
+
+
+AUC*nₒrm
+(IU x dl⁻¹ x h x IU⁻¹ x kg)
+32,4
+37.,7
+13,0
+24,5
+64,0
+
+
+Poločas (h)
+MRT (h)
+Clearance (ml x h⁻¹ x kg) AUC = plocha pod křivkou MRT = střední doba zdržení
+27,8
+39,4
+3,1
+29,1
+40,0
+2,9
+5,2
+7,3
+0,9
+22,0
+30,2
+1,6
+36,8
+51,6
+4,1
+Přírůstkové recovery bylo také testováno v další studii. Meta-analýzy všech recovery hodnocení (n=19) vykázaly střední hodnotu recovery 1,1 [IU/dl]/[IU/kg].
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Lidský koagulační faktor IX (z koncentrátu) je normální složkou lidské plazmy a působí jako endogenní
+faktor IX.
+Studie na zvířatech jsou omezené a neukazují žádná dodatečná rizika k těm, která již byla zmíněna
+v jiných částech SPC.
+
+
+7
+
+6. FARMACEUTICKÉ ÚDAJE
+6.l. Seznam pomocných látek Prášek:
+Heparin Chlorid sodný Natrium-citrát
+Arginin-hydrochlorid Lysin-hydrochlorid
+
+Rozpouštědlo:
+Voda na injekci
+6.2. Inkombatibility
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+Mají se používat jen schválené injekční a infúzní sety, protože by mohlo dojít k selhání léčby v důsledku adsorpce faktoru IX na vnitřní stěnu některých injekčních nebo infúzních setů.
+6.3. Doba použitelnosti
+2 roky.
+Biochemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 72 hodin při 25 oC. Z mikrobiologického hlediska by měl být rekonstituovaný přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatelů a tato doba by neměla být delší než uchovávání 8 hodin při pokojové teplotě (25 oC).
+6.4. Zvláštní opatření pro uchovávání
+
+Neuchovávejte při teplotě nad 25°C.
+Nezmrazujte.Uchovávejte lahvičku v krabičce, aby byl přípravek chráněn před světlem. Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+6.5. Druh obalu a obsah balení
+OCTANINE F je dodáván jako kombinované balení sestávající ze dvou krabiček spojených plastovým páskem.
+OCTANINE F 500:
+Krabička 1:   prášek ve 30 ml skleněné injekční lahvičce (sklo typu I), se zátkou (bromobutylová pryž) a víčkem (hliník), příbalová informace.
++
+Krabička 2:   5 ml rozpouštědla (voda na injekci) (sklo typu I nebo II), se zátkou (chlorobutylová nebo bromobutylová pryž) a víčkem (hliník).
+
+OCTANINE F 1000:
+Krabička 1:   prášek ve 30 ml skleněné injekční lahvičce (sklo typu I), se zátkou (bromobutylová pryž) a víčkem (hliník), příbalová informace.
++
+Krabička 2:  10 ml rozpouštědla (voda na injekci) (sklo typu I nebo II), se zátkou (halobutylová pryž) a víčkem (hliník).
+Krabička 2 také obsahuje následující příslušenství:
+1 balení vybavení pro intravenózní injekci (1 přepouštěcí set, 1 infuzní set, 1 jednorázová injekční stříkačka)
+2 desinfekční alkoholové tampony
+6.6. Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+8
+
+•  Čtěte prosím pozorně všechny pokyny a postupujte pečlivě podle nich.
+•  Nepoužívejte Octanine F po uplynutí exspirační doby vyznačené na obalu.
+•  Během níže uvedeného postupu musí být zachována sterilita.
+•  Rekonstituovaný přípravek je nutné před podáním vizuálně zkontrolovat, zda neobsahuje pevné částice nebo nedošlo ke změně zabarvení.
+•  Roztok by měl být čirý nebo slabě opaleskující. Nepoužívejte zakalené roztoky nebo
+roztoky s usazeninami.
+•  Použijte připravený roztok okamžitě, aby se předešlo mikrobiální kontaminaci.
+•  Používejte pouze přiložený infuzní set. Použití jiného injekčního/infuzního zařízení může způsobit dodatečné riziko a selhání léčby.
+Návod na přípravu roztoku:
+1. Nepoužívejte přípravek ihned po vyjmutí z chladničky. Nechejte rozpouštědlo i prášek v uzavřených injekčních lahvičkách dosáhnout pokojové teploty.
+2. Odstraňte víčko z obou injekčních lahviček a očistěte pryžové zátky jedním z přiložených alkoholových tamponů.
+3. Přepouštěcí set je znázorněn na obr. 1. Položte injekční lahvičku s rozpouštědlem na rovný povrch a pevně ji držte. Vezměte přepouštěcí set, otočte jej horní stranou dolů. Nasaďte přepouštěcí set jeho modrým koncem na horní část injekční lahvičky s rozpouštědlem a silně jej zatlačte dolů, dokud injekční lahvičku nepropíchnete (obr. 2 + 3). Při připojování lahvičkou neotáčejte.
+
+
+
+
+
+
+
+
+
+Obr. 1
+Adaptér pro prášek (bílá část)
+Adaptér pro rozpouště dlo (modrá část)
+
+
+
+
+
+
+
+
+Obr. 2                   Obr. 3
+4 Položte injekční lahvičku s práškem na pevný povrch a pevně ji držte. Vezměte injekční lahvičku s
+
+Rozpouštědlo
+
+
+
+
+
+
+
+
+
+
+
+
+Prášek
+rozpouštědlem s připojeným přepouštěcím setem a otočte ji dnem vzhůru. Nasaďte ji bílým koncem na horní část injekční lahvičky s práškem a silně zatlačte dolů, dokud injekční lahvičku nepropíchnete (obr. 4). Při připojování lahvičkou neotáčejte. Rozpouštědlo přeteče samo do injekční lahvičky s práškem.
+
+Obr. 4                 5. Zlehka otáčejte se spojenými injekčními lahvičkami, dokud se přípravek nerozpustí. Rozpouštění je dokončeno při pokojové teplotě během méně než 10 minut. Během přípravy se může objevit jemné napěnění. Rozšroubujte přepouštěcí set na dvě části (obr. 5). Napěnění zmizí.
+
+
+
+9
+
+Odstraňte prázdnou injekční lahvičku od rozpouštědla spolu s modrou částí přepouštěcího setu.
+
+
+Rozpouštědlo
+
+
+
+
+
+
+
+
+
+
+
+
+Prášek
+
+Obr. 5
+
+Návod na injekci:
+
+Z důvodu opatrnosti by vám měl být měřen puls před a během podání injekce. Pokud se vyskytne
+výrazné zvýšení vašeho pulsu, zpomalte rychlost injekce nebo podávání na krátký čas přerušte.
+
+
+1. Nasaďte injekční stříkačku na bílou část přepouštěcího setu. Otočte injekční lahvičku dnem vzhůru a nasajte roztok do injekční stříkačky (obr. 6).
+Roztok by měl být čirý nebo slabě opaleskující.
+Jakmile je roztok převeden do injekční stříkačky, pevně injekční stříkačku uchopte a oddělte ji od přepouštěcího setu (obr. 7). Odstraňte prázdnou injekční lahvičku společně s bílou částí přepouštěcího setu.
+
+Prášek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prášek
+Obr. 7
+
+2. Vydesinfikujte zamýšlené místo aplikace injekce přiloženým alkoholovým tamponem.
+3. Nasaďte přiloženou infuzní soupravu na injekční stříkačku.
+
+10
+
+4. Zaveďte injekční jehlu do zvolené žíly. Pokud používáte turniket pro snadnější viditelnost žíly, tento turniket by měl být odstraněn před zahájením injekce OCTANINE F.
+Do injekční stříkačky se nesmí dostat žádná krev, aby nedošlo k riziku tvorby fibrinových sraženin.
+5. Vstřikujte roztok pomalu do žíly, rychlost by neměla být větší než 2-3 ml za minutu.
+
+Pokud užíváte více než jednu injekční lahvičku OCTANINE F pro jednu léčbu, můžete použít znovu stejnou injekční jehlu a injekční stříkačku. Přepouštěcí set je však vždy pouze pro jedno použití.
+
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Octapharma (IP) SPRL Allée de la Recherche 65 1070 Anderlecht
+Belgie
+
+8. REGISTRAČNÍ ČÍSLO (A)
+
+Octanine F 500:    75/492/93-A/C Octanine F 1000:    75/492/93- B/C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 30. 6. 1993
+Datum první registrace: 28. 11. 2014
+
+10. DATUM POSLEDNÍ REVIZE TEXTU
+
+březen 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11

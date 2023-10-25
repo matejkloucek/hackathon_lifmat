@@ -1,0 +1,342 @@
+Sp. zn. sukls249895/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Granisetron Kabi 1 mg/ml injekční roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Léčivou látkou je granisetronum.
+Jeden ml injekčního roztoku obsahuje granisetronum 1 mg (ve formě hydrochloridu). Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Injekční roztok.
+Injekční roztok je čirý bezbarvý roztok.
+
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+
+Přípravek Granisetron Kabi je indikován u dospělých k prevenci a léčbě
+-  akutní nauzey a zvracení v souvislosti s chemoterapií a radioterapií.
+-  pooperační nauzey a zvracení.
+
+Přípravek Granisetron Kabi je indikován k prevenci opožděné nauzey a zvracení v souvislosti
+s chemoterapií a radioterapií.
+Přípravek Granisetron Kabi je indikován u dětí ve věku 2 let a starších k prevenci a léčbě akutní nauzey a zvracení v souvislosti s chemoterapií.
+4.2 Dávkování a způsob podání
+
+Dávkování
+Nauzea a zvracení indukované chemoterapií a radioterapií (CINV a RINV)
+
+Prevence (akutní a opožděná nauzea)
+Před zahájením chemoterapie se dávka 1-3 mg (10-40 µg/kg) přípravku Granisetron Kabi podává buď pomalou intravenózní injekcí nebo naředěný v intravenózní infuzi po dobu 5 minut.
+Roztok má být naředěn na 5 ml/mg.
+
+Léčba (akutní nauzea)
+Dávka 1-3 mg (10-40 µg/kg) přípravku Granisetron Kabi se podává buď pomalou intravenózní injekcí nebo naředěný v intravenózní infuzi podávané po dobu 5 minut. Roztok má být naředěn na 5 ml/mg. Další udržovací dávky přípravku Granisetron Kabi lze podat alespoň v 10minutových intervalech. Maximální dávka, kterou lze podat v průběhu 24 hodin, nesmí překročit 9 mg.
+
+
+
+1
+
+Kombinace s adrenokortikoidními steroidy
+Účinnost  parenterálně  podaného  granisetronu  lze  zvýšit  přidáním  intravenózní  dávky adrenokortikoidního steroidu, např. 8-20 mg dexamethasonu podaného před zahájením cytostatické léčby nebo 250 mg methyl-prednisolonu podaného před zahájením chemoterapie a krátce po jejím ukončení.
+
+Pediatrická populace
+U dětí ve věku 2 let a starších byla bezpečnost a účinnost přípravku Granisetron Kabi dobře stanovena pro prevenci a léčbu (kontrolu) akutní nauzey a zvracení v souvislosti s chemoterapií a prevenci opožděné nauzey a zvracení v souvislosti s chemoterapií. Dávka 10-40 µg/kg tělesné hmotnosti (až do 3 mg) se podává ve formě i.v. infuze, naředěná do 10-30 ml infuzní tekutiny a podávaná po dobu 5 minut před zahájením chemoterapie. Je-li to nutné, lze během 24 hodin podat jednu další dávku. Tato další dávka se nesmí podat dříve než 10 minut po úvodní infuzi.
+
+Pooperační nauzea a zvracení (PONV)
+Dávka 1 mg (10 µg/kg) přípravku Granisetron Kabi se podává pomalou intravenózní injekcí. Maximální dávka přípravku Granisetron Kabi, kterou lze podat v průběhu 24 hodin, nesmí překročit 3 mg.
+Při prevenci PONV je nutné podávání dokončit před zahájením anestezie.
+
+Pediatrická populace
+V současné době dostupné údaje jsou popsány v bodě 5.1. Na jejich základě však není možné podat doporučení pro dávkování. Nejsou dostatečné klinické důkazy pro doporučení podávání injekčního roztoku u dětí v prevenci a léčbě postoperační nauzey a zvracení (PONV).
+
+Starší pacienti a pacienti s poruchou funkce ledvin
+
+U starších pacientů ani u pacientů s poruchou funkce ledvin nebo jater nejsou nutná žádná zvláštní opatření pro použití.
+Pacienti s poruchou funkce jater
+
+Dosud nejsou k dispozici žádné důkazy pro zvýšení incidence nežádoucích účinků u pacientů s poruchou funkce jater. Na základě kinetiky má být granisetron podáván u této skupiny pacientů s určitou opatrností, i když není nutná úprava dávky (viz bod 5.2).
+
+Způsob podání
+Podávat jej lze buď pomalou intravenózní injekcí (během 30 sekund) nebo ve formě intravenózní infuze naředěný do 20 až 50 ml infuzní tekutiny a podané během 5 minut.
+Návod k naředění tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4 Zvláštní upozornění a opatření pro použití
+
+Vzhledem k tomu, že granisetron může tlumit motilitu tlustého střeva, je nutné pacienty s příznaky subakutní střevní obstrukce po aplikaci přípravku Granisetron Kabi pečlivě sledovat.
+
+
+2
+
+Stejně jako u ostatních 5-HT3  antagonistů, byly u granisetronu hlášeny změny EKG včetně prodloužení QT intervalu. U pacientů s preexistujícími arytmiemi nebo poruchami srdečního vedení mohou tyto změny vést ke klinickým důsledkům. Proto je třeba opatrnosti u pacientů s kardiální komorbiditou, při podávání kardiotoxické chemoterapie a/nebo při současných elektrolytových abnormalitách (viz bod 4.5).
+
+Mezi 5-HT3 antagonisty (např. dolasetron, ondansetron) byla hlášena zkřížená senzitivita.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné ampulce, to znamená, že je v podstatě „bez sodíku“.
+
+Serotoninový syndrom
+Při použití 5-HT3 antagonistů buď samotných nebo většinou v kombinaci s dalšími serotoninergními léky (včetně selektivních inhibitorů zpětného vychytávání serotoninu (SSRI), a inhibitorů zpětného vychytávání serotoninu a noradrenalinu (SNRI) byly hlášeny případy serotoninového syndromu. Doporučuje se příslušné sledování pacientů zaměřené na přítomnost příznaků podobných serotoninovému syndromu.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Stejně jako u ostatních 5-HT3 antagonistů, byly u granisetronu hlášeny případy EKG změn včetně prodloužení QT intervalu. U pacientů současně léčených léčivými přípravky, o kterých je známo, že prodlužují QT interval a/nebo léky s proarytmogenním účinkem, mohou tyto změny vést ke klinickým důsledkům (viz bod 4.4).
+
+Ve studiích se zdravými dobrovolníky nebyly mezi granisetronem a benzodiazepiny (lorazepam), neuroleptiky (haloperidol) ani antiulcerózními léčivými přípravky (cimetidin) prokázány žádné interakce. Ke zjevným lékovým interakcím nedochází ani mezi granisetronem a emetogenní protinádorovou chemoterapií.
+U pacientů podstupujících anestezii se neprováděly žádné zvláštní studie interakcí. Serotoninergní léčivé přípravky (např. SSRI a SNRI)
+Po souběžném užívání 5-HT3 antagonistů s jinými serotoninergními léčivými přípravky (včetně SSRI
+a SNRI) byly hlášeny případy serotoninového syndromu (viz bod 4.4).
+
+4.6 Fertilita, těhotenství a kojení
+Těhotenství
+
+K dispozici jsou pouze omezené údaje týkající se použití granisetronu u těhotných žen. Studie na zvířatech nenaznačují žádné přímé ani nepřímé škodlivé účinky s ohledem na reprodukční toxicitu (viz bod 5.3). Z preventivních důvodů je ale vhodné vyvarovat se podávání granisetronu v průběhu těhotenství.
+Kojení
+Není známo, zda se granisetron nebo jeho metabolity vylučují do mateřského mléka. Jako preventivní opatření se kojení během léčby přípravkem Granisetron Kabi nedoporučuje.
+
+Fertilita
+U potkanů neměl granisetron žádné škodlivé účinky na reprodukci nebo fertilitu.
+
+
+
+3
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Granisetron Kabi má nulový nebo zanedbatelný vliv na schopnost řídit a obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Shrnutí bezpečnostního profilu
+Nejčastěji hlášenými nežádoucími účinky u granisetronu jsou bolest hlavy a zácpa, které mohou být přechodné. U granisetronu byly hlášeny změny EKG včetně prodloužení QT intervalu (viz body 4.4. a 4.5).
+
+Shrnutí nežádoucích účinků do tabulky
+
+Následující tabulka shrnující nežádoucí účinky vychází z klinických studií týkajících se granisetronu a dalších 5-HT3 antagonistů a z údajů získaných po uvedení těchto přípravků na trh.
+Četnosti výskytu nežádoucích účinků uvedené v tabulce níže jsou následující: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1000 až <1/100), vzácné (≥1/10000 až < 1/1000) a velmi vzácné (<1/10000).
+
+Poruchy imunitního systému
+Méně časté                   Reakce přecitlivělosti, např. anafylaxe, kopřivka
+Psychiatrické poruchy
+Časté                      Insomnie
+Poruchy nervového systému
+Velmi časté                   Bolest hlavy
+Méně časté                   Extrapyramidové reakce
+Serotoninový syndrom
+Srdeční poruchy
+Méně časté                   Prodloužení QT intervalu
+Gastrointestinální poruchy
+Velmi časté                  Zácpa
+Časté                      Průjem
+Poruchy jater a žlučových cest
+Časté                      Elevace jaterních transamináz*
+Poruchy kůže a podkožní tkáně
+Méně časté                   Vyrážka
+*U pacientů dostávajících srovnávací léčbu se objevují s podobnou frekvencí.
+Popis vybraných nežádoucích účinků
+
+U granisetronu, stejně jako u ostatních 5-HT3 antagonistů, byly hlášeny případy změn EKG včetně
+prodloužení QT intervalu (viz body 4.4 a 4.5).
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+
+
+4
+
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Přípravek Granisetron Kabi nemá žádné specifické antidotum. Případné předávkování injekcí se léčí symptomaticky. Byly hlášeny jednotlivé intravenózní dávky až do 38,5 mg granisetronu doprovázené jen mírnou bolestí hlavy, ale bez dalších hlášených klinických následků.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antiemetika, antagonisté serotoninových 5-HT3 receptorů.
+ATC kód: A04AA02.
+
+Neurologické mechanismy, serotoninem zprostředkovaná nauzea a zvracení
+Serotonin je hlavním neurotransmiterem, který je zodpovědný za zvracení po chemoterapii nebo radioterapii.  5-HT3  receptory  jsou  lokalizovány  na  třech  místech:  zakončení  n.vagus  v gastrointestinálním traktu a chemorecepční spouštěcí zóny (CTS, chemoreceptor trigger zones) centra zvracení v mozkovém kmeni lokalizované v area postrema a nucleus tractus solitarius. Chemorecepční spouštěcí zóny jsou lokalizovány v kaudální části čtvrté mozkové komory (area postrema). Tato struktura nemá dostatečně účinnou hematoencefalickou bariéru a může tak detekovat emetogenní látky ze systémové cirkulace i z mozkomíšního moku. Centrum zvracení je lokalizované v medulárních strukturách mozkového kmene. Většinu informací přijímá z chemorecepčních spouštěcích zón, informace z trávícího traktu pak prostřednictvím n.vagus a sympatického nervstva.
+Po vystavení záření nebo cytotoxickým látkám se serotonin (5-HT) uvolňuje z enterochromafinních buněk ve sliznici tenkého střeva, které jsou v bezprostřední blízkosti aferentních neuronů n.vagus, na kterých jsou lokalizovány 5-HT3  receptory. Uvolnění  serotoninu aktivuje neurony n.vagus prostřednictvím 5-HT3 receptorů, což vede okamžitě k těžké emetogenní odpovědi zprostředkované prostřednictvím chemorecepční spouštěcí zóny v area postrema.
+
+Mechanismus účinku
+Granisetron je  účinné  antiemetikum.  Je  vysoce  selektivním  antagonistou  receptorů  5- hydroxytryptaminu (5-HT3 ). Studie s radioaktivně značenými molekulami prokázaly, že granisetron má pouze zanedbatelnou afinitu k ostatním typům receptorů, včetně vazebných míst pro 5-HT a dopamin D2 .
+
+Nauzea a zvracení vyvolané chemoterapií a radioterapií
+Bylo prokázáno, že granisetron podaný intravenózně má profylaktický účinek proti nauzee a zvracení vyvolaným protinádorovou chemoterapií u dospělých a dětí od 2 do 16 let.
+
+Postoperační nauzea a zvracení
+Bylo prokázáno, že granisetron podaný intravenózně má profylaktický i léčebný účinek u postoperační nauzey a zvracení u dospělých.
+
+Farmakologické vlastnosti granisetronu
+
+
+
+
+5
+
+Byly hlášeny interakce s neurotropiky a dalšími léčivými látkami prostřednictvím jejich účinku na
+cytochrom P450 (viz bod 4.5).
+
+Studie in vitro prokázaly, že cytochrom P450 podskupiny 3A4 (zahrnutý do metabolismu některých hlavních narkotických látek) není granisetronem nijak ovlivněn. Ačkoli u ketokonazolu bylo prokázáno, že inhibuje oxidaci aromatického cyklu granisetronu in vitro, nejsou tyto účinky považovány za klinicky významné.
+
+Ačkoli u antagonistů 5-HT3 receptorů bylo pozorováno prodloužení QT intervalu (viz bod 4.4), tento účinek je takového výskytu a rozsahu, že u normálních subjektů nemá klinický význam. Nicméně se při léčbě pacientů užívajících současně léky, o kterých je známo, že prodlužují QT interval, doporučuje monitorovat EKG i klinické abnormality (viz bod 4.5).
+
+Pediatrická populace
+Použití granisetronu v klinické praxi zaznamenal Candiotti a spol. Prospektivní, multicentrická, randomizovaná, dvojitě zaslepená studie paralelních skupin hodnotila 157 dětí ve věku od 2 do 16 let, které podstoupily elektivní chirurgický zákrok. U většiny pacientů byla pozorována úplná kontrola postoperační nauzey a zvracení v průběhu prvních 2 hodin po chirurgickém výkonu.
+5.2 Farmakokinetické vlastnosti
+
+Farmakokinetika po perorálním podání je lineární až do 2,5násobku doporučené dávky u dospělých pacientů. Z extenzivního programu na zjištění dávky je zřejmé, že antiemetická účinnost nekoreluje jednoznačně ani s podanými dávkami, ani s plazmatickými koncentracemi granisetronu.
+
+Čtyřnásobné zvýšení úvodní profylaktické dávky granisetronu nevedlo k rozdílu ani v počtu pacientů reagujících na léčbu ani v délce trvání příznaků.
+
+Distribuce
+Granisetron je široce distribuován, se středním distribučním objemem asi 3 l/kg. Na plazmatické bílkoviny se váže asi 65 % granisetronu.
+
+Biotransformace
+Granisetron se primárně metabolizuje v játrech prostřednictvím oxidace s následnou konjugací. Hlavními složkami jsou 7-OH-granisetron a jeho sulfátové a glukuronidové konjugáty. Ačkoli u 7-OH- granisetronu i indazolin-N-desmethyl-granisetronu byly pozorovány antiemetické vlastnosti, není pravděpodobné, že by se významně podílely na farmakologické aktivitě granisetronu u člověka.
+In vitro studie na jaterních mikrosomech prokázaly, že hlavní cesta metabolismu granisetronu je inhibována ketokonazolem, což naznačuje na metabolismus zprostředkovaný cytochromem P450 podskupiny 3A (viz bod 4.5).
+
+Eliminace
+
+Clearance probíhá převážně prostřednictvím metabolismu v játrech. Močí se vylučuje průměrně 12 % granisetronu v nezměněné formě a asi 47 % ve formě metabolitů. Zbytek se vylučuje stolicí ve formě metabolitů. Střední plazmatický poločas u pacientů po perorální i intravenózní aplikaci je přibližně 9 hodin, individuálně však může docházet k velké variabilitě.
+Farmakokinetický(é) vztah(y)
+Renální selhání
+
+
+
+6
+
+U pacientů s těžkým renálním selháním jsou farmakokinetické údaje po podání jedné intravenózní dávky obvykle srovnatelné s údaji získanými od zdravých subjektů.
+
+Porucha funkce jater
+Celková plazmatická clearance intravenózní dávky byla u pacientů s poruchou funkce jater způsobenou nádorovým postižením jater asi poloviční ve srovnání s hodnotami získanými od pacientů bez jaterního poškození. Přesto není třeba dávku nijak upravovat (viz bod 4.2).
+
+Starší osoby
+
+U starších subjektů se farmakokinetické parametry po podání jednotlivé intravenózní dávky pohybovaly ve stejném rozmezí jako u ostatních (mladších) subjektů.
+Pediatrická populace
+
+U dětí je farmakokinetika po podání jednotlivých intravenózních dávek podobná jako u dospělých, pokud jsou vhodné parametry (distribuční objem, celková plazmatická clearance) normalizovány na tělesnou hmotnost.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, reprodukční toxicity a genotoxicity neodhalily žádné zvláštní riziko pro člověka. Studie kancerogenního potenciálu při použití doporučených dávek pro člověka neodhalily žádné zvláštní riziko pro člověka. Kdyby se však podával ve vyšších dávkách a po delší dobu, nelze riziko kancerogenního potenciálu vyloučit.
+Studie provedené s klonovanými lidskými srdečními iontovými kanály prokázaly, že granisetron má potenciál ovlivňovat srdeční repolarizaci prostřednictvím blokády kaliových HERG kanálů. Bylo prokázáno, že granisetron blokuje natriové a kaliové kanály, což může ovlivňovat depolarizaci i repolarizaci prostřednictvím prodloužení PR, QRS a QT intervalů. Tyto údaje pomáhají objasnit molekulární mechanismy, pomocí kterých se projevují některé změny na EKG (zvláště prodloužení QT a QRS intervalů) související s touto třídou přípravků. Nedochází však ke změnám srdeční frekvence, krevního tlaku ani EKG křivky. Pokud se změny objeví, nemají obvykle klinický význam.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+Monohydrát kyseliny citrónové Kyselina chlorovodíková (k úpravě pH) Chlorid sodný
+Hydroxid sodný (k úpravě pH)
+Voda pro injekci
+
+6.2 Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3 Doba použitelnosti
+Doba použitelnosti konečného léčivého přípravku:
+3 roky
+
+
+7
+
+Po prvním otevření:
+Po prvním otevření musí být přípravek okamžitě spotřebován.
+
+Po naředění:
+Chemická a fyzikální stabilita byla stanovena na 24 hodin při teplotě 25 °C, chránit před přímým slunečním zářením.
+
+Z mikrobiologického hlediska by měl být přípravek spotřebován okamžitě. Jestliže není spotřebován okamžitě, doba uchovávání a podmínky před upotřebením jsou na zodpovědnosti uživatele a neměly by být delší než 24 hodin při teplotě 2-8 °C, pokud zředění nebylo prováděno za kontrolovaných a validovaných aseptických podmínek.
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte vnitřní obal v krabičce, aby byl přípravek chráněn před světlem. Chraňte před mrazem. Podmínky uchovávání tohoto léčivého přípravku po jeho naředění jsou uvedeny v bodě 6.3.
+6.5 Druh obalu a obsah balení
+3 ml, typ I čiré skleněné ampulky 1 ml, typ I čiré skleněné ampulky
+
+Velikost balení:
+5 x 1 ml, 10 x 1 ml
+5 x 3 ml, 10 x 3 ml
+
+Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Pouze k jednorázovému použití. Jakékoliv nespotřebované množství musí být odborně znehodnoceno. Naředěné injekce a infuze se musí zkontrolovat vizuálně před podáním, zda neobsahují částice. Mohou se použít pouze čiré roztoky bez viditelných částic.
+
+Příprava infuze
+Dospělí: Obsah 1ml ampulky se může zředit na objem 5 ml; obsah 3ml ampulky se může zředit na objem
+15 ml.
+Granisetron Kabi může být také ředěn na 20 – 50 ml kompatibilním infuzním roztokem a může být podáván 5 minutovou intravenózní infuzí v některém z následujících roztoků:
+
+0,9% roztoku chloridu sodného 5% roztok glukózy
+Roztok Ringer-laktátu
+
+K ředění se nesmí používat jiné roztoky. Použití u pediatrické populace
+Děti ve věku 2 let a starší: K přípravě dávky 10-40 µg/kg se vhodný objem přípravku odebere a naředí infuzním roztokem (jako pro dospělé) do celkového objemu 10 až 30 ml.
+
+
+
+8
+
+Granisetron Kabi se nesmí mísit s jinými léčivými přípravky.
+Granisetron je kompatibilní s dinatrium-dexamethason-fosfátem při koncentraci granisetronu 10-60 µg/ml a koncentraci dexamethasonfosfátu 80-480 µg/ml zředěných v 0,9% roztoku chloridu sodného nebo v 5% roztoku glukózy a to po dobu 24 hodin.
+
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+20/098/09-C
+
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 4. 2. 2009
+Datum posledního prodloužení registrace: 30. 1. 2013
+
+
+10. DATUM REVIZE TEXTU
+
+9. 1. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9

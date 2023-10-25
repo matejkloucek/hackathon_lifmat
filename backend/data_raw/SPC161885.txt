@@ -1,0 +1,404 @@
+Sp. zn. sukls143774/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.   NÁZEV PŘÍPRAVKU
+
+Alergimed 5 mg potahované tablety
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna potahovaná tableta obsahuje levocetirizini dihydrochloridum 5 mg.
+
+Pomocná látka se známým účinkem: 65,95 mg monohydrátu laktózy v jedné potahované tabletě.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Potahovaná tableta.
+
+Bílé kulaté bikonvexní potahované tablety s půlicí rýhou, s vyraženým značením „161“ na jedné straně a „H“ na druhé straně.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Symptomatická léčba alergické rinitidy (včetně perzistující alergické rinitidy) a kopřivky. Alergimed je určený pro dospělé a děti od 6 let věku.
+4.2  Dávkování a způsob podání
+Dávkování
+
+Dospělí a dospívající od 12 let věku
+Doporučená denní dávka je 5 mg (1 potahovaná tableta).
+Starší pacienti
+U starších pacientů se středně těžkou až těžkou poruchou funkce ledvin se doporučuje upravitdávku (viz níže Porucha funkce ledvin).
+
+Porucha funkce ledvin
+Intervaly podávání se musí individuálně přizpůsobit podle renálních funkcí. Úpravu dávkování je možné určit pomocí následující tabulky. K použití této tabulky je třeba stanovení clearance kreatininu (CLCR) v ml/min. CLCR (ml/min) lze vypočítat na základě hodnoty sérového kreatininu (mg/dl) pomocí následujícího vzorce:
+
+
+𝐶𝐿𝑐𝑟 =
+[140 − 𝑣ě𝑘 (𝑟𝑜𝑘𝑦)𝑥 ℎ𝑚𝑜𝑡𝑛𝑜𝑠𝑡 (𝑘𝑔)]
+𝑚𝑔 72 𝑥 𝑘𝑟𝑒𝑎𝑡𝑖𝑛𝑖𝑛 𝑣 𝑠é𝑟𝑢 ( 𝑑𝑙 )
+𝑥 (0,85 𝑝𝑟𝑜 ž𝑒𝑛𝑦)
+
+
+
+1/10
+
+Úprava dávkování u pacientů s poruchou funkce ledvin:
+Clearance
+
+Skupina
+
+Normální funkce ledvin Mírná porucha funkce ledvin
+Středně závažná porucha funkce ledvin Závažná porucha funkce ledvin Terminální stádium onemocnění ledvin – dialyzovaní pacienti
+kreatininu (ml/min)
+≥ 80
+50-79
+30-49
+< 30
+< 10
+Dávkování a frekvence
+
+1 tableta jednou denně 1 tableta jednou denně
+1 tableta jednou za 2 dny
+1 tableta jednou za 3 dny kontraindikováno
+U pediatrických pacientů s poruchou funkce ledvin musí být dávka nastavena individuálně s ohledem na renální clearance pacienta a jeho tělesnou hmotnost. Nejsou k dispozici žádné specifické údaje o použití u dětí s poruchou funkce ledvin.
+
+Porucha funkce jater
+U pacientů s izolovanou poruchou funkce jater není potřeba žádná úprava dávkování. U pacientů s poruchou funkce jater i ledvin se doporučuje úprava dávkování (viz výše Porucha funkce ledvin).
+Pediatrická populace
+Děti od 6 do 12 let věku:
+Doporučená denní dávka je 5 mg (1 potahovaná tableta)
+Pro děti od 2 do 6 let věku není možné pro lékovou formu potahované tablety dávkování upravit. Doporučuje se použít pediatrické lékové formy levocetirizinu.
+
+Způsob podání
+Potahované tablety se podávají perorálně, polykají se celé, zapíjejí se tekutinou a mohou se užívat s jídlem nebo bez jídla.
+
+Délka podávání:
+Intermitentní alergická rinitida (symptomy trvající méně než 4 dny v týdnu nebo méně než 4 týdny v roce) má být léčena podle charakteru onemocnění a anamnézy; léčbu je možné přerušit po vymizení příznaků a znovu zahájit při jejich opětovném nástupu. U perzistující alergické rinitidy (symptomy trvající déle než 4 dny v týdnu nebo déle než 4 týdny v roce) může být pacientovi navržena kontinuální léčba po dobu expozice alergenům.
+K dispozici jsou klinické zkušenosti s podáváním levocetirizinu po dobu léčby až 6 měsíců. Roční klinická zkušenost je k dispozici pro cetirizin (racemát) v indikacích chronická kopřivka a chronická alergická rinitida.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku, na cetirizin, na hydroxyzin, na jiný piperazinový derivát nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+Závažná porucha funkce ledvin s clearance kreatininu nižší než 10 ml/min.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Při současném požívání alkoholu je doporučena opatrnost (viz bod 4.5).
+
+Opatrnosti je třeba u pacientů s predispozicí ke vzniku retence moči (např. míšní léze, hyperplazie prostaty), protože levocetirizin může zvýšit riziko retence moči.
+
+
+2/10
+
+U pacientů s epilepsií nebo s rizikem výskytu křečí se doporučuje opatrnost, protože levocetirizin může způsobit zhoršení záchvatu.
+
+Odpověď na alergologické kožní testy je tlumena antihistaminiky a je třeba dodržet “wash-out periodu“ (fáze vyloučení) (3 dny) před jejich provedením.
+Pruritus se může objevit, když se levocetirizin přestane užívat, dokonce i když se tyto příznaky nevyskytovaly před zahájením léčby. Tyto příznaky mohou samovolně vymizet. Příznaky mohou být v některých případech intenzivní a mohou vyžadovat opět začít s léčbou. Příznaky by po opětovném zahájení léčby měly vymizet.
+Pediatrická populace
+Podávání potahovaných tablet dětem do 6 let se nedoporučuje, protože tato léková forma nedovoluje odpovídající úpravu dávkování. Doporučuje se použít pediatrickou lékovou formu levocetirizinu.
+
+Alergimed obsahuje laktózu. Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+S levocetirizinem se neprováděly žádné interakční studie (ani studie s induktory CYP3A4); studie s racemátem cetirizinu prokázaly, že se nevyskytují žádné klinicky významné nežádoucí interakce (s antipyrinem, azithromycinem, cimetidinem, diazepamem, erythromycinem, glipizidem, ketokonazolem a pseudoefedrinem). Ve studii s opakovaným podáváním theofylinu (400 mg jednou denně) byl pozorován malý pokles clearance cetirizinu (16%); dostupnost theofylinu nebyla současným podáváním cetirizinu změněna.
+
+Ve studii s opakovaným podáváním dávek ritonaviru (600 mg dvakrát denně) a cetirizinu (10 mg denně) byl rozsah expozice cetirizinu zvýšený o 40 %, zatímco dostupnost ritonaviru byla při současném podávání cetirizinu mírně pozměněna (-11 %).
+Stupeň absorpce levocetirizinu není jídlem snížen, snižuje se však rychlost absorpce.
+
+U citlivých pacientů může současné podávání cetirizinu nebo levocetirizinu a alkoholu nebo dalších látek tlumících centrální nervový systém způsobit další snížení bdělosti a výkonnosti.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Údaje o podávání levocetirizinu těhotným ženám jsou omezené (méně než 300 ukončených těhotenství) nebo nejsou k dispozici. Avšak údaje získané z rozsáhlého souboru těhotných žen (více než 1000 ukončených těhotenství) pro cetirizin (racemát levocetirizinu) nenaznačují žádné malformační účinky nebo fetální/neonatální toxicitu. Studie na zvířatech nenaznačují přímé nebo nepřímé škodlivé účinky na březost, embryonální/fetální vývoj, porod nebo postnatální vývoj (viz bod 5.3). Podávání levocetirizinu v těhotenství lze zvážit, pokud je to nezbytně nutné.
+
+Kojení
+Pro cetirizin (racemát levocetirizinu) bylo prokázáno vylučování do lidského mateřského mléka. Tudíž vylučování levocetirizinu do lidského mateřského mléka je pravděpodobné. Nežádoucí účinky spojené s užíváním levocetirizinu mohou být pozorovány u kojenců. Proto je třeba opatrnosti při užívání levocetirizinu kojícími ženami.
+Fertilita
+
+
+
+3/10
+
+Pro levocetirizin nejsou k dispozici žádné klinické údaje.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Srovnávací klinické studie neprokázaly, že by levocetirizin v doporučené dávce ovlivňoval duševní bdělost, reaktivitu nebo schopnost řídit. Přesto mohou někteří pacienti pociťovat během léčby levocetirizinem spavost, únavu nebo astenii. Proto pacienti, kteří se chystají řídit, vykonávat potenciálně nebezpečné činnosti nebo obsluhovat stroje, mají vzít v úvahu svou reakci na léčivý přípravek.
+
+4.8  Nežádoucí účinky
+
+Dospělí a dospívající od 12 let věku:
+V terapeutických studiích se ženami a muži od 12 do 71 let věku mělo 15,1 % pacientů ve skupině s 5 mg levocetirizinu alespoň jeden nežádoucí účinek v porovnání s 11,3 % ve skupině s placebem. 91,6 % těchto nežádoucích účinků bylo mírných až středně závažných.
+
+V terapeutických studiích byl výskyt předčasného ukončení studie (dropout rate) v důsledku nežádoucích účinků 1,0 % (9/935) u pacientů s 5 mg levocetirizinu, a 1,8 % (14/771) s placebem.
+Klinických terapeutických studií s levocetirizinem se účastnilo 935 subjektů, kteří užívali doporučenou dávku 5 mg léčivé látky denně. V souhrnu dat z těchto studií byly hlášeny následující incidence nežádoucích účinků s frekvencí 1 % nebo vyšší (časté: ≥ 1/100 až < 1/10) po podání 5 mg levocetirizinu nebo placeba:
+
+
+Preferovaný termín (WHOART)
+Bolest hlavy Spavost
+Sucho v ústech Únava
+Placebo (n= 771)
+25 (3,2 %)
+11 (1,4 %)
+12 (1,6 %)
+9 (1,2 %)
+Levocetirizin 5 mg (n=935)
+24 (2,6 %)
+49 (5,2 %)
+24 (2,6 %)
+23 (2,5 %)
+
+Dále byl pozorován méně častý výskyt nežádoucích účinků (méně časté ≥ 1/1000 až < 1/100) jako astenie a bolest břicha.
+Výskyt sedativních nežádoucích účinků, jako je spavost, únava a astenie, byl pozorován častěji (8,1%) po 5 mg levocetirizinu než po užití placeba (3,1%).
+Pediatrická populace
+Ve dvou placebem kontrolovaných studiích u pediatrických pacientů od 6 do 11 měsíců věku a od 1 roku do méně než 6 let věku užívalo 159 dětí levocetirizin v dávce 1,25 mg denně po dobu 2 týdnů a v dávce 1,25 mg dvakrát denně, v uvedeném pořadí. Následující incidence nežádoucích účinků byla hlášena s frekvencí 1 % nebo vyšší po podání levocetirizinu nebo placeba.
+
+
+Třídy orgánových systémů a preferovaný termín Gastrointestinální poruchy
+Průjem Zvracení Zácpa
+Poruchy nervového systému
+Spavost
+Psychiatrické poruchy
+Poruchy spánku
+Placebo (n=83)
+
+0
+1 (1,2 %)
+0
+
+2 (2,4 %)
+
+0
+Levocetirizin (n=159)
+
+3 (1,9 %)
+1 (0,6 %)
+2 (1,3 %)
+
+3 (1,9 %)
+
+2 (1,3 %)
+
+
+
+
+4/10
+
+U dětí ve věku 6-12 let byly provedeny dvojitě zaslepené, placebem kontrolované studie, ve kterých 243 dětí užívalo 5 mg levocetirizinu denně po různou dobu v rozmezí od méně než 1 týden po 13 týdnů. Následující incidence nežádoucích účinků byla hlášena s frekvencí 1 % nebo vyšší po podání levocetirizinu nebo placeba.
+
+Preferovaný termín Placebo (n=240) Levocetirizin 5 mg (n=243)
+Bolest hlavy        5 (2,1 %)         2 (0,8 %)
+Spavost          1 (0,4 %)         7 (2,9 %)
+
+Zkušenosti po uvedení na trh
+Nežádoucí účinky hlášené po uvedení na trh jsou rozdělené podle tříd orgánových systémů a podle frekvence. Frekvence nežádoucích účinků je definována následovně: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10000 až < 1/1000); velmi vzácné (< 1/10000); není známo (z dostupných údajů nelze určit).
+•   Poruchy imunitního systému:
+Není známo: hypersenzitivita včetně anafylaxe
+•   Poruchy metabolismu a výživy: Není známo: zvýšená chuť k jídlu
+•   Psychiatrické poruchy:
+Není známo: agresivita, agitovanost, halucinace, deprese, nespavost, sebevražedné myšlenky, noční můry
+•   Poruchy nervového systému:
+Není známo: křeče, parestezie, závratě, synkopa, třes, dysgeuzie
+•   Poruchy ucha a labyrintu: Není známo: vertigo
+•   Poruchy oka:
+Není známo: poruchy zraku, rozmazané vidění, okulogyrie
+•   Srdeční poruchy:
+Není známo: palpitace, tachykardie
+•   Respirační, hrudní a mediastinální poruchy: Není známo: dyspnoe
+•   Gastrointestinální poruchy:
+Není známo: nauzea, zvracení, průjem
+•   Poruchy jater a žlučových cest: Není známo: hepatitida
+•   Poruchy ledvin a močových cest: Není známo: dysurie, retence moči
+•   Poruchy kůže a podkožní tkáně:
+Není známo: angioedém, fixní lékový exantém, pruritus, vyrážka, kopřivka
+•   Poruchy svalové a kosterní soustavy a pojivové tkáně: Není známo: myalgie, artralgie
+•   Celkové poruchy a reakce v místě aplikace: Není známo: edém
+•  Vyšetření:
+Není známo: zvýšení tělesné hmotnosti, abnormální jaterní testy
+
+Popis vybraných nežádoucích účinků
+Pruritus byl hlášen po přerušení léčby levocetirizinem.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+
+
+5/10
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+
+Příznaky
+Příznaky předávkování mohou zahrnovat ospalost u dospělých. U dětí se může na počátku léčby objevit vzrušení a neklid následované ospalostí.
+Léčba předávkování
+Není známé žádné specifické antidotum levocetirizinu.
+
+Pokud dojde k předávkování, doporučuje se symptomatická nebo podpůrná léčba. Pokud je doba od požití krátká, je možné zvážit provedení výplachu žaludku. Levocetirizin není možné účinně odstranit hemodialýzou.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antihistaminika pro systémovou aplikaci, piperazinové deriváty, ATC kód: R06AE09.
+
+Mechanismus účinku
+Levocetirizin, R-enantiomer cetirizinu, je účinný a selektivní antagonista periferních H1-receptorů.
+
+Vazebné  studie  prokázaly,  že  levocetirizin  má  značnou  afinitu  k  lidským  H1-receptorům (Ki = 3,2 nmol/l). Levocetirizin má dvojnásobnou afinitu ve srovnání s cetirizinem (Ki = 6,3 nmol/l). Levocetirizin se uvolňuje z H1-receptorů s poločasem 115 ± 38 min. Levocetirizin dosahuje po jednorázovém podání 90% obsazenosti receptorů za 4 hodiny a 57% obsazenosti za 24 hodin.
+
+Farmakodynamické studie u zdravých dobrovolníků prokázaly, že levocetirizin má v poloviční dávce účinek srovnatelný s cetirizinem jak na kůži, tak i v nose.
+
+Farmakodynamické účinky
+Farmakodynamická aktivita levocetirizinu byla studována v následujících randomizovaných kontrolovaných studiích:
+Ve studii porovnávající účinek 5 mg levocetirizinu, 5 mg desloratadinu a placeba na histaminem indukovanou reakci „wheal and flare“ (kožní erupce s okolním zarudnutím) vedla léčba levocetirizinem ke statisticky významnému zmenšení (p<0,001) v porovnání s placebem a desloratadinem - tento účinek byl nejvyšší po prvních 12 hodinách a přetrvával po dobu 24 hodin.
+
+V placebem kontrolovaných studiích v modelu komorové expozice alergenům byl pozorován nástup účinku 5 mg levocetirizinu na příznaky vyvolané pylem jednu hodinu po podání léčivé látky.
+V in vitro studiích (Boydenova komůrka a tkáňové kultury) bylo prokázáno, že levocetirizin inhibuje eotaxinem  indukovanou  transendoteliální  migraci  eosinofilů  přes  dermální  i  plicní  buňky. Farmakodynamická experimentální studie in vivo (metoda kožní komůrky) prokázala u 14 dospělých pacientů v porovnání s placebem tři hlavní inhibiční mechanismy (inhibici uvolňování VCAM-1, modulaci vaskulární permeability a pokles uvolňování eosinofilů) na reakci vyvolanou pylem v prvních 6 hodinách po podání 5 mg levocetirizinu.
+
+
+6/10
+
+Klinická účinnost a bezpečnost
+Účinnost a bezpečnost levocetirizinu byla prokázána v řadě dvojitě zaslepených, placebem kontrolovaných klinických studií u dospělých pacientů se sezónní, celoroční i perzistující alergickou rinitidou. V některých studiích bylo prokázáno, že levocetirizin výrazně zlepšuje příznaky alergické rinitidy včetně nosní kongesce.
+
+Šestiměsíční klinická studie s 551 dospělými pacienty (z toho 276 bylo léčeno levocetirizinem) s perzistující alergickou rinitidou (s příznaky přítomnými 4 dny v týdnu po dobu nejméně čtyř po sobě jdoucích týdnů) s citlivostí na roztoče a pyly trav prokázala, že levocetirizin v dávce 5 mg byl klinicky a statisticky významně účinnější než placebo z hlediska celkového zmírnění skóre příznaků alergické rinitidy v celém průběhu trvání studie bez výskytu tachyfylaxe. Během celé studie levocetirizin významně zlepšil kvalitu života pacientů.
+
+V placebem kontrolované klinické studii zahrnující 166 pacientů s chronickou idiopatickou urtikarií bylo 85 pacientů léčeno placebem a 81 pacientů levocetirizinem 5 mg jednou denně po dobu více než 6 týdnů. Léčba levocetirizinem vedla k významnému snížení závažnosti svědění během prvního týdne a po celou dobu trvání léčby v porovnání s placebem. Levocetirizin také v porovnání s placebem vedl k rozsáhlému zlepšení kvality života z hlediska zdraví, stanovené dermatologickým indexem kvality života.
+
+Chronická idiopatická urtikarie byla studována jako klinický model nemocí s urtikarií. Jelikož je uvolňování histaminu kauzálním faktorem všech nemocí s urtikarií, předpokládá se, že levocetirizin bude účinně poskytovat symptomatickou úlevu nejen u chronické idiopatické urtikarie, ale i u ostatních nemocí s urtikarií.
+Na EKG nedochází při podávání levocetirizinu k žádnému významnému ovlivnění QT intervalu. Pediatrická populace
+Bezpečnost a účinnost tablet levocetirizinu u dětí byla studována ve dvou placebem kontrolovaných
+studiích zahrnujících pacienty ve věku 6-12 let trpících sezónní a celoroční alergickou rinitidou. V obou studiích levocetirizin významně zlepšil příznaky a kvalitu života pacientů z hlediska zdraví.
+
+U dětí mladších 6 let byla klinická bezpečnost stanovena z několika krátkodobých nebo dlouhodobých studií:
+−   jedné klinické studie, ve které bylo 29 dětí ve věku 2-6 let s alergickou rinitidou léčeno levocetirizinem 1,25 mg 2x denně po dobu 4 týdnů.
+−   jedné klinické studie, ve které bylo 114 dětí ve věku 1-5 let s alergickou rinitidou nebo chronickou idiopatickou urtikarií léčeno levocetirizinem 1,25 mg 2x denně po dobu 2 týdnů.
+−   jedné klinické studie, ve které bylo 45 dětí ve věku 6-11 měsíců s alergickou rinitidou nebo chronickou idiopatickou urtikarií léčeno levocetirizinem 1,25 mg 1x denně po dobu 2 týdnů.
+−   jedné dlouhodobé klinické studie (18 měsíců) s 255 atopickými subjekty ve věku 12-24 měsíců při zařazení léčenými levocetirizinem.
+Profil bezpečnosti byl podobný jako v krátkodobých studiích s dětmi ve věku 1-5 let.
+5.2  Farmakokinetické vlastnosti
+
+Farmakokinetický profil levocetirizinu je lineární a na dávce a čase nezávislý, s nízkou variabilitou mezi jednotlivými subjekty. Farmakokinetický profil je stejný jak po podání samotného enantiomeru, tak i cetirizinu. Nedochází k žádné chirální inverzi v procesu absorpce a eliminace.
+
+Absorpce
+Po perorálním podání je levocetirizin rychle a ve velkém množství absorbován. U dospělých je maximální plazmatické koncentrace dosaženo za 0,9 hodiny po podání. Ustáleného stavu je dosaženo
+
+
+7/10
+
+za 2 dny. Maximální koncentrace je obvykle 270 ng/ml po podání jedné 5mg dávky a 308 ng/ml po podávání opakované dávky 5 mg levocetirizinu jednou denně. Stupeň absorpce je nezávislý na dávce a není ovlivněn příjmem potravy, ale maximální koncentrace je potravou snížena a zpožděna.
+
+Distribuce
+U člověka nejsou k dispozici žádné údaje týkající se tkáňové distribuce ani přechodu levocetirizinu přes hematoencefalickou bariéru. U potkanů a u psů byly nalezeny nejvyšší tkáňové hladiny v játrech a v ledvinách, nejnižší v CNS kompartmentu.
+
+U člověka se levocetirizin váže z 90 % na plazmatické proteiny. Distribuce levocetirizinu je omezená, protože distribuční objem je 0,4 l/kg.
+Biotransformace
+U člověka se metabolizuje méně než 14 % dávky levocetirizinu, a proto se předpokládá, že rozdíly dané genetickým polymorfismem nebo současným podáváním enzymatických inhibitorů jsou zanedbatelné. Metabolická přeměna spočívá v aromatické oxidaci, N- a O-dealkylaci a konjugaci s taurinem. Proces dealkylace je primárně zprostředkován CYP3A4, zatímco aromatická oxidace zahrnuje mnohočetné a/nebo neurčené CYP izoformy. Levocetirizin neměl žádný vliv na aktivitu CYP izoenzymů 1A2, 2C9, 2C19, 2D6, 2E1 a 3A4 při koncentracích značně převyšujících maximální koncentrace dosažené při perorální dávce 5 mg.
+
+Vzhledem k omezenému metabolismu a nulovému metabolickému inhibičnímu potenciálu je interakce levocetirizinu s jinými látkami, i naopak, nepravděpodobná.
+
+Eliminace
+Plazmatický poločas je u dospělých 7,9 ± 1,9 hodiny. Poločas je kratší u malých dětí. Průměrná zdánlivá celková tělesná clearance u dospělých je 0,63 ml/min/kg. Levocetirizin a jeho metabolity jsou vylučovány převážně močí, v průměrném množství 85,4 % dávky. Vylučování stolicí představuje jenom 12,9 % dávky. Levocetirizin je vylučován glomerulární filtrací i aktivní tubulární sekrecí.
+
+Zvláštní skupiny pacientů Porucha funkce ledvin
+Zdánlivá tělesná clearance levocetirizinu je úměrná clearance kreatininu. Proto se doporučuje u pacientů se středně těžkou a těžkou poruchou funkce ledvin upravit intervaly podávání levocetirizinu na základě clearance kreatininu. U pacientů s anurií a v konečném stadiu renálního onemocnění se snižuje celková tělesná clearance přibližně o 80 % ve srovnání se zdravými jedinci. Množství levocetirizinu odstraněného standardní 4hodinovou hemodialýzou bylo < 10%.
+
+Pediatrická populace
+Údaje z pediatrické farmakokinetické studie s perorálním podáním jednorázové dávky 5 mg levocetirizinu u 14 dětí ve věku 6-11 let s tělesnou hmotností v rozmezí 20-40 kg ukazují, že hodnoty Cmax a AUC jsou asi 2x vyšší, než bylo zjištěno u zdravých dospělých dobrovolníků ve zkřížené srovnávací studii. U této pediatrické populace byla střední hodnota Cmax 450 ng/ml, vyskytující se průměrně v čase 1,2 hodiny, hmotnostně normalizovaná, celková tělesná clearance byla o 30 % vyšší a poločas eliminace o 24 % kratší ve srovnání s dospělými. Nebyla provedena farmakokinetická studie u pediatrických pacientů mladších než 6 let. Retrospektivní populační farmakokinetická analýza byla provedena u 323 subjektů (181 dětí ve věku 1-5 let, 18 dětí ve věku 6-11 let a 124 dospělých ve věku 18-55 let), kteří dostali jednorázové nebo opakované dávky levocetirizinu v rozmezí 1,25-30 mg. Údaje z této analýzy ukázaly, že po podání 1,25 mg jednou denně dětem ve věku 6 měsíců až 5 let se očekávají plazmatické koncentrace podobné jako u dospělých, kterým bylo podáváno 5 mg jednou denně.
+Starší pacienti
+U starších subjektů jsou k dispozici pouze omezené farmakokinetické údaje. Po opakovaném denním perorálním podání 30 mg levocetirizinu po dobu 6 dní u 9 starších subjektů (65-74 let) byla celková tělesná clearance přibližně o 33 % nižší ve srovnání s mladšími dospělými subjekty. Dispozice
+
+
+8/10
+
+racemického cetirizinu se ukázala být více závislá na renální funkci než na věku. Toto zjištění je patrně platné i pro levocetirizin, neboť oba, levocetirizin i cetirizin, jsou převážně vylučovány močí. Tudíž u starších pacientů má být dávka levocetirizinu nastavena podle jejich renální funkce.
+
+Pohlaví
+Farmakokinetické výsledky pro 77 pacientů (40 mužů, 37 žen) byly hodnoceny pro možný vliv pohlaví. Poločas byl trochu kratší u žen (7,08 ± 1,72 h) než u mužů (8,62 ± 1,84 h), avšak perorální clearance vztažená na tělesnou hmotnost u žen (0,67 ± 0,16 ml/min/kg) se jeví jako srovnatelná s mužskou (0,59 ± 0,12 ml/min/kg). Stejná denní dávka a dávkovací interval je použitelný pro muže i ženy s normální renální funkcí.
+Rasa
+Vliv lidské rasy na levocetirizin nebyl studován. Protože levocetirizin je převážně vylučován renálně a nejsou žádné významné rasové rozdíly v clearance kreatininu, neočekávají se rozdílné farmakokinetické charakteristiky levocetirizinu napříč rasami. Nebyly pozorovány žádné rasově závislé rozdíly v kinetice racemického cetirizinu.
+
+Porucha funkce jater
+Farmakokinetika levocetirizinu u pacientů s poruchou funkce jater nebyla zkoumána. U pacientů s chronickým jaterním onemocněním (hepatocelulární, cholestatickou a biliární cirhózou), kterým bylo podáno 10 nebo 20 mg racemátu cetirizinu jednorázově, došlo v porovnání se zdravými subjekty k 50% prodloužení poločasu a ke 40% snížení clearance.
+Farmakokinetický/farmakodynamický vztah:
+Účinek na histaminem indukované kožní reakce není přímou funkcí plazmatické koncentrace.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity, hodnocení kancerogenního potenciálu, reprodukční toxicity neodhalily žádné zvláštní riziko pro člověka.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Jádro tablety:
+Monohydrát laktózy Mikrokrystalická celulóza Koloidní bezvodý oxid křemičitý Magnesium-stearát
+
+Potahová vrstva:
+potahová soustava Opadry YS-1-7003 bílá, složená z: Oxid titaničitý (E171)
+Hypromelóza Makrogol 400
+Polysorbát 80
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+
+
+
+9/10
+
+6.3  Doba použitelnosti
+
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+Al-OPA/Al/PVC blistr Velikosti balení:
+OTC: 1, 2, 4, 5, 7, 10, 14, 15, 20 a 21 potahovaných tablet
+Rx: 28, 30, 40, 50, 56, 60, 70, 80, 90, 98, 100, 112 a 120 potahovaných tablet Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Medreg s.r.o.
+Na Florenci 2116/15 Nové Město
+110 00 Praha 1 Česká republika
+
+8.   REGISTRAČNÍ ČÍSLO
+
+24/156/15-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 18. 3. 2015
+Datum posledního prodloužení registrace: 22. 9. 2019
+
+10.  DATUM REVIZE TEXTU
+1. 6. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/10

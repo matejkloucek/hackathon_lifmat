@@ -1,0 +1,348 @@
+Sp. zn. sukls23568/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+
+Tanyz 0,4 mg tvrdé tobolky s řízeným uvolňováním
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tvrdá tobolka s řízeným uvolňováním obsahuje tamsulosini hydrochloridum 0,4 mg. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Tvrdá tobolka s řízeným uvolňováním
+
+Oranžově/olivově zelená tobolka. Tobolky obsahují bílé až téměř bílé pelety.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutická indikace
+
+Léčba symptomů dolních močových cest (LUTS) na podkladě benigní hyperplazie prostaty (BHP).
+
+4.2  Dávkování a způsob podání
+Dávkování
+Jedna tobolka denně po snídani nebo po prvním denním jídle.
+
+Při poruše funkce ledvin není nutná úprava dávkování. U pacientů s lehkou až středně těžkou poruchou funkce jater není nutná úprava dávkování (viz také 4.3 „Kontraindikace“).
+Pediatrická populace
+Pro užití tamsulosinu u dětí není relevantní indikace.
+
+Bezpečnost a účinnost tamsulosinu u dětí < 18 let nebyla stanovena. V současnosti dostupné údaje
+jsou popsány v bodě 5.1.
+
+Způsob podání Perorální podání.
+Tobolka se nedrtí ani neláme, jinak může být narušeno prodloužené uvolňování léčivé látky.
+
+4.3  Kontraindikace
+
+Hypersenzitivita  na  tamsulosin-hydrochlorid,  včetně  lékem  vyvolaného  angioedému,  nebo
+na kteroukoli pomocnou látku uvedenou v bodě 6.1. Ortostatická hypotenze v anamnéze.
+Těžká porucha funkce jater.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+1
+
+Stejně jako u ostatních antagonistů α1-adrenoreceptorů se může během léčby tamsulosinem v individuálních případech objevit pokles krevního tlaku, což může vzácně vyvolat synkopu. Při prvních příznacích ortostatické hypotenze (závrať, slabost) si má pacient sednout nebo lehnout, dokud tyto příznaky neodezní.
+Před zahájením léčby tamsulosinem má být pacient vyšetřen, aby byla vyloučena ostatní onemocnění, která mají stejné symptomy jako benigní hyperplazie prostaty. Prostata má být vyšetřena prstem per rectum a v případě nutnosti má být před léčbou a pak v pravidelných intervalech stanovena hladina prostatického specifického antigenu (PSA).
+K léčbě pacientů s těžkou poruchou funkce ledvin (clearance kreatininu < 10 ml/min) se má přistupovat s opatrností, neboť s těmito pacienty není dostatek zkušeností.
+Po užití tamsulosinu byl vzácně hlášen angioedém. Léčba má být okamžitě přerušena, pacient má být monitorován až do vymizení edému a tamsulosin již nemá být znovu podáván.
+Peroperační syndrom plovoucí duhovky (IFIS, varianta syndromu malé zornice) byl pozorován během operací katarakty a glaukomu u některých pacientů současně či v minulosti léčených tamsulosinem. IFIS může zvýšit riziko očních komplikací během operace a po ní.
+
+Přerušení léčby tamsulosinem 1-2 týdny před operací katarakty nebo glaukomu je považováno za užitečné, nicméně přínos tohoto přerušení není zcela jednoznačný. IFIS byl také hlášen u pacientů, kteří přerušili léčbu tamsulosinem před delší dobou před těmito operacemi.
+
+Nedoporučuje se zahajovat léčbu tamsulosin-hydrochloridem u pacientů, u kterých je plánována operace katarakty nebo glaukomu. Při předoperační přípravě mají oční specialisté vzít v úvahu, zda pacient indikovaný k operaci katarakty nebo glaukomu je nebo byl léčen tamsulosinem, aby byla zajištěna příslušná opatření k případnému zvládnutí IFIS během operace.
+
+Tamsulosin-hydrochlorid nemá být podáván v kombinaci se silnými inhibitory CYP3A4 u pacientů
+s pomalým metabolizačním CYP2D6 fenotypem.
+
+S opatrností je třeba tamsulosin-hydrochlorid užívat souběžně se silnými a středně silnými inhibitory
+CYP3A4 (viz bod 4.5).
+
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tobolce, to znamená, že je
+v podstatě „bez sodíku“.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Studie interakcí byly provedeny pouze u dospělých.
+
+Při souběžném podávání tamsulosinu s atenololem, enalaprilem nebo teofylinem nebyly pozorovány žádné interakce. Souběžné podávání cimetidinu způsobuje vzestup plazmatických hladin tamsulosinu, zatímco aplikace furosemidu vyvolává jejich pokles, hladiny tamsulosinu však zůstávají v normálním rozmezí a změna dávkování tedy není nutná.
+
+Za podmínek in vitro ani diazepam, ani propranolol, trichlormethiazid, chlormadinon, amitriptylin, diklofenak, glibenklamid, simvastatin nebo warfarin nemění volnou frakci tamsulosinu v lidské plazmě. Tamsulosin rovněž nemění volné frakce diazepamu, propranololu, trichlormethiazidu nebo chlormadinonu.
+
+Souběžné podávání tamsulosin-hydrochloridu se silnými inhibitory CYP3A4 může vést ke zvýšené expozici tamsulosin-hydrochloridu. Souběžné podávání s ketokonazolem (známým silným inhibitorem CYP3A4) vedlo ke 2,8násobnému vzestupu AUC a 2,2násobnému vzestupu Cmax tamsulosin-
+
+2
+
+hydrochloridu.
+
+Tamsulosin-hydrochlorid nemá být podáván v kombinaci se silnými inhibitory CYP3A4 u pacientů
+s pomalým metabolizačním CYP2D6 fenotypem.
+
+Tamsulosin hydrochlorid má být užíván s opatrností v kombinaci se silnými a středně silnými
+inhibitory CYP3A4.
+
+Souběžné podávání tamsulosin hydrochloridu s paroxetinem, silným inhibitorem CYP2D6, vedlo k 1,3násobnému vzestupu Cmax a k 1,6násobnému vzestupu AUC tamsulosinu. Tyto vzestupy se však nepovažují za klinicky významné.
+Souběžné podávání jiných antagonistů α1-adrenoreceptorů může vést k hypotenzi.
+4.6  Fertilita, těhotenství a kojení
+
+Přípravek Tanyz není indikován pro použití u žen.
+
+Poruchy  ejakulace  byly  pozorovány  v  krátkodobých  a  dlouhodobých  klinických  studiích s tamsulosinem. Po uvedení na trh byly hlášeny případy poruch ejakulace, retrográdní ejakulace a selhání ejakulace.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly provedeny žádné studie účinku přípravku na schopnost řídit a obsluhovat stroje. Pacienti však mají být informováni o možnosti vzniku závratí.
+4.8  Nežádoucí účinky
+
+Hodnocení nežádoucích účinků je na základě následujících četností:
+-   Velmi časté (≥1/10)
+-   Časté (≥1/100 až <1/10)
+-   Méně časté (≥1/1 000 až <1/100)
+-   Vzácné (≥1/10 000 až <1/1 000)
+-   Velmi vzácné (<1/10 000)
+-   Není známo (z dostupných údajů nelze určit)
+V každé skupině četnosti jsou nežádoucí účinky řazeny podle klesající závažnosti.
+
+
+Třídy  orgánových systémů
+Časté
+Méně časté
+Vzácné
+Velmi
+vzácné
+Není známo
+
+
+Poruchy  nervového systému
+Poruchy oka
+
+
+
+Srdeční poruchy
+závrať
+(1,3 %)
+bolest hlavy
+
+
+
+
+
+palpitace
+synkopa
+
+
+rozmazané vidění*, zhoršení zraku*
+
+
+Cévní poruchy
+ortostatická
+hypotenze
+
+
+
+
+3
+
+Respirační, hrudní a mediastinální poruchy
+rinitida
+epistaxe*
+
+
+Gastrointestinální
+poruchy
+
+
+Poruchy   kůže   a podkožní tkáně
+
+
+Poruchy reprodukčního systému a prsu
+
+
+
+
+
+Celkové  poruchy  a reakce v místě aplikace
+
+
+
+
+
+
+
+
+poruchy ejakulace, včetně
+retrográdní ejakulace  a selhání ejakulace
+zácpa, průjem, nauzea, zvracení vyrážka, svědění, kopřivka
+
+
+
+
+
+
+
+
+astenie
+
+
+
+
+angioedém
+
+
+
+
+Stevensův- Johnsonův syndrom
+
+priapismus
+sucho
+v ústech*
+
+
+erythema multiforme*, exfoliativní dermatitida*
+
+
+* zaznamenáno po uvedení přípravku na trh
+
+Během post-marketingového sledování byly pozorovány případy varianty malé zornice, známé také jako peroperační syndrom plovoucí duhovky (IFIS – Intraoperative Floppy Iris Syndrome) související s léčbou tamsulosinem při operaci katarakty nebo glaukomu (viz též bod 4.4).
+Post-marketingové zkušenosti: kromě výše uvedených nežádoucích účinků byly v souvislosti s podáváním tamsulosinu hlášeny také atriální fibrilace, arytmie, tachykardie a dyspnoe. Vzhledem k tomu, že tyto spontánně hlášené příhody pocházejí z celosvětové post-marketingové zkušenosti, nelze jejich četnost a úlohu tamsulosinu v jejich příčinách spolehlivě určit.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Příznaky
+Předávkování tamsulosin-hydrochloridem může vést až k těžkým hypotenzivním účinkům. Těžké hypotenzivní účinky byly pozorovány v případech s různou mírou předávkování.
+
+Léčba
+Pokud se po předávkování vyskytne akutní hypotenze, je nutná kardiovaskulární podpora. Krevní tlak a srdeční puls se upraví po položení pacienta na lůžko. Pokud toto opatření nepomůže, mohou se použít přípravky na zvýšení objemu nebo, pokud je třeba, i vazopresorika. Je třeba sledovat renální funkce a použít případně obecná opatření. Dialýza je neúčinná vzhledem k silné vazbě tamsulosinu na plazmatické bílkoviny.
+
+
+4
+
+Ve snaze zabránit absorpci lze vyvolat zvracení. Při požití většího množství léčivého přípravku lze provést výplach žaludku, podat aktivní uhlí a osmotické laxativum, jako např. síran sodný.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antagonisté alfa-adrenergních receptorů, ATC kód: G04CA02. Přípravek je určen výhradně k terapii onemocnění prostaty.
+Mechanismus účinku
+Tamsulosin se selektivně a kompetitivně váže na postsynaptické alfa1-adrenergní receptory, zejména
+na podtyp alfa1A, které způsobují relaxaci hladkého svalstva prostaty a uretry.
+Farmakodynamické účinky
+Tamsulosin zvyšuje maximální průtok moči. V důsledku relaxace hladkého svalstva v prostatě a uretře dochází ke snížení obstrukce, což zmírňuje vyprazdňovací symptomy.
+Rovněž zlepšuje symptomy jímací, na jejichž vzniku se významnou měrou podílí nestabilita močového měchýře. Účinky na symptomy plnění a vyprazdňování močového měchýře se udržují během dlouhodobé léčby. Nutnost chirurgické léčby nebo katetrizace se těmito účinky významně oddaluje.
+Alfa1-blokátory  mohou  snižovat  krevní  tlak  snížením  periferní  rezistence.  Během  studií
+s tamsulosinem nebyl pozorován významný pokles krevního tlaku.
+Pediatrická populace
+U dětí s neuropatickým močovým měchýřem byla provedena randomizovaná dvojitě zaslepená, placebem kontrolovaná studie s dávkovým rozmezím. Celkový počet 161 dětí (ve věku od 2 do 16 let) byl randomizován a léčen jednou ze tří úrovní dávek tamsulosinu (nízká [0,001 až 0,002 mg/kg], střední [0,002 až 0,004 mg/kg], a vysoká [0,004 až 0,008 mg/kg]) nebo placebem. Primární cílový parametr byl definován jako odpověď u pacientů, kteří sníží hodnotu únikového tlaku detrusoru (LPP) na < 40 cm H2O na základě dvou hodnocení denně. Sekundární cílový parametr byl: Aktuální a percentuální změna v hodnotě únikového tlaku detrusoru oproti počátku, zlepšení nebo stabilizace hydronefrozy a hydrouretry a změna v objemu moči získané katetrizací a počet mokrých příhod v době katetrizace, tak jak bylo zaznamenáno v katetrizačním diáři. Nebyly nalezeny statisticky významné rozdíly mezi skupinou léčenou placebem a jednou ze tří skupin léčených tamsulosinem ani v primárním ani v sekundárním cílovém parametru. Odpověď na dávku nebyla pozorována u žádné úrovně podávané dávky.
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Tamsulosin je absorbován ze střeva a je téměř úplně biologicky dostupný. Absorpce tamsulosinu je krátce po jídle snížená. Rovnoměrnost absorpce lze podpořit tím, že přípravek Tanyz bude každý den užíván po stejném denním jídle.
+Kinetika tamsulosinu je lineární.
+Po jednotlivé dávce přípravku Tanyz po jídle je dosaženo maximální plazmatické koncentrace tamsulosinu asi po 6 hodinách a ustáleného stavu je dosaženo do pátého dne opakovaného podání, přičemž Cmax je přibližně o dvě třetiny vyšší než po podání jednotlivé látky. Ačkoli toto zvýšení bylo pozorováno u starších pacientů, tytéž výsledky lze očekávat také u mladších pacientů.
+V plazmatických koncentracích tamsulosinu existují značné rozdíly mezi jednotlivými pacienty, a to jak po podání jednotlivé dávky, tak po opakovaném podání.
+Distribuce
+U člověka se tamsulosin váže přibližně z 99 % na plazmatické bílkoviny a jeho distribuční objem je
+
+5
+
+malý (přibližně 0,2 l/kg).
+
+Biotransformace
+Tamsulosin má malý efekt prvního průchodu játry, je pomalu metabolizován. Většina tamsulosinu je přítomna v plazmě v nezměněné formě. Tamsulosin se metabolizuje v játrech.
+U potkanů nebyla pozorována téměř žádná indukce mikrosomálních jaterních enzymů vyvolaná
+tamsulosinem.
+Výsledky získané in vitro naznačují, že na metabolismu tamsulosin-hydrochloridu se podílejí zejména CYP3A4 a CYP2D6, v menší míře pak ostatní CYP isoenzymy. Inhibice enzymů CYP3A4 a CYP2D6 může vést ke zvýšené expozici tamsulosin hydrochloridu (viz bod 4.4 a 4.5).
+Žádný z metabolitů nevykazuje vyšší aktivitu než samotná léčivá látka.
+
+Eliminace
+Tamsulosin a jeho metabolity jsou vylučovány hlavně močí, přičemž asi 9 % dávky je v nezměněné formě.
+Po jednotlivé dávce přípravku Tanyz po jídle a v ustáleném stavu je dosaženo poločasu eliminace
+po 10 až 13 hodinách.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Byly provedeny studie toxicity po podání jednotlivé dávky nebo po opakovaném podání u myší, potkanů a psů. Dále byla zkoumána reprodukční toxicita u potkanů, karcinogenita u myší a potkanů, a in vivo a in vitro studie genotoxicity.
+Celkový profil toxicity zjištěný po podání vysokých dávek tamsulosinu odpovídá známému farmakologickému působení alfa-adrenergních antagonistů.
+U psů byly po podání velmi vysokých dávek zaznamenány změny EKG. Nepředpokládá se, že tento nález má nějaký klinicky význam. Tamsulosin neprokázal žádné relevantní genotoxické vlastnosti.
+
+Při podávání tamsulosinu u samic myší a potkanů byla hlášena vyšší incidence proliferativních změn v mléčné žláze. Tyto nálezy, které jsou pravděpodobně zprostředkovány hyperprolaktinémií a vyskytovaly se pouze po podávání vysokých dávek, jsou považovány za nevýznamné.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Obsah tobolky
+Mikrokrystalická celulosa (E 460) Disperze kopolymeru MA/EA (1:1) Polysorbát 80 (E 433)
+Natrium-lauryl-sulfát Triethyl-citrát (E 1505) Mastek (E 553b)
+
+Pouzdro tobolky
+Želatina (E 441)
+Indigokarmín (E 132)
+Oxid titaničitý (E 171)
+Žlutý oxid železitý (E 172) Červený oxid železitý (E 172) Černý oxid železitý (E 172)
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6
+
+6.3  Doba použitelnosti
+
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Blistry
+Uchovávejte v původním obalu.
+
+Lahvičky
+Uchovávejte v dobře uzavřené lahvičce.
+
+6.5  Druh obalu a obsah balení
+
+Blistr PVC/PE/PVDC/Al v krabičce
+Velikost balení: 10, 14, 20, 28, 30, 50, 56, 60, 90, 100 nebo 200 tobolek s řízeným uvolňováním
+
+HDPE lahvička s PP dětským bezpečnostním uzávěrem.
+Velikost balení: 10, 14, 20, 28, 30, 50, 56, 60, 90, 100 nebo 200 tobolek s řízeným uvolňováním Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovinsko
+
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+87/484/05-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 14. 12. 2005
+Datum posledního prodloužení registrace: 2. 12. 2010
+
+10.  DATUM REVIZE TEXTU
+
+10. 3. 2021
+
+Podrobné informace o tomto léčivém přípravku jsou k dispozici na webových stránkách Státního ústavu pro kontrolu léčiv (www.sukl.cz).
+
+
+
+
+
+
+7

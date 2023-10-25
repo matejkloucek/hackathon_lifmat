@@ -1,0 +1,289 @@
+sp.zn. sukls296829/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Ultratag RBC
+Kit pro radiofarmakum
+(Katalogové číslo Curium Netherlands : DRN 4350)
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Reakční lahvička 10 ml obsahuje:
+Stannosi chloridum dihydricum  96 mikrogramů maximum Pomocné látky se známým účinkem:
+Reakční lahvička obsahuje: glukosa 5,50 mg Stříkačka II obsahuje: glukosa 12,0 mg
+Tento přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce, tj. v podstatě je
+„bezsodíkový“.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+3.1. Léková forma
+Kit pro radiofarmakum.
+Součásti kitu jsou určeny pouze pro značení erytrocytů techneciem(⁹⁹ᵐTc), není možné přímé podání pacientovi!
+Reakční lahvička:
+Sterilní lyofilizát ve formě bílého prášku nebo pelet obsahující dihydrát chloridu cínatého, dihydrát citronanu sodného a glukózu. Obsah je určen k rozředění přidáním 1,0-3,0 ml čerstvě odebrané krve za použití heparinu nebo ACD jako antikoagulační přísady.
+Stříkačka I:
+Injekční stříkačka předem naplněná čirým bezbarvým roztokem chlornanu sodného.
+Stříkačka II:
+Injekční stříkačka předem naplněná čirým bezbarvým roztokem kyseliny citrónové, dihydrátu citronanu sodného a glukózy.
+Obsah obou stříkaček je určen pro přidání do reakční lahvičky dle návodu k přípravě techneciem (⁹⁹ᵐTc) značených erytrocytů.
+Jejich obsah není možné přímo aplikovat pacientovi!
+
+3.2. Vlastnosti označeného produktu
+Erytrocyty označené techneciem (⁹⁹ᵐTc) jsou při využití kitu Ultratag RBC stabilní nejméně 6 hodin. Nicméně je nutné aplikovat je bezprostředně po přípravě.
+
+
+
+1
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+Jednotlivé složky kitu Ultratag RBC nejsou určeny k přímému podání pacientovi, jejich účelem je příprava techneciem (⁹⁹ᵐTc) značených erytrocytů. Pouze takto označené erytrocyty je možné aplikovat pacientovi.
+Erytrocyty označené techneciem (⁹⁹ᵐTc) jsou využívány na zobrazení krevního oběhu, včetně primocirkulační radionuklidové angiografie, rovnovážné radionuklidové ventrikulografie, pro detekci lokalizace krvácení do zažívacího traktu, pro vyšetřování jaterních lézí, zejména rozlišení mezi hemangiomy a ostatními poruchami jako jsou hepatomy, cysty a abscesy a dále pro venografie
+v případě suspektní hluboké žilní trombózy.
+
+4.2 Dávkování a způsob podání
+Při přípravě značených erytrocytů kitem Ultratag RBC je nutno postupovat důsledně dle návodu ke značení.
+Doporučené množství technecistanu(⁹⁹ᵐTc) pro průměrného pacienta (70 kg) se pohybuje v rozmezí 370 až 740 MBq.
+Bezprostředně před podáním má být aktivita připravená k aplikaci změřena ve vhodném zařízení.
+
+4.3 Kontraindikace
+Hypersenzitivita na na účinnou látku či na kteroukoliv z pomocných látek.
+
+4.4. Zvláštní upozornění a opatření pro použití
+
+Pacient má být vyzván k volnému příjmu tekutin po aplikaci. Během 4-6 hodin po aplikaci je vhodné močit co nejčastěji, aby byla minimalizována dávka pro močový měchýř.
+
+Radiofarmaka by neměla být aplikována dětem mladším 18 let, pokud předpokládaný přínos vyšetření nepřevýší možná rizika.
+
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na pracovištích k tomu určených. Při skladování, přípravě a aplikaci radiofarmak a likvidaci odpadu je nutno dbát jak zásad ochrany zdraví před ionizujícím zářením vyplývajících z příslušných předpisů SÚJB (Zákon č. 18/1997 Sb. v platném znění a navazující vyhlášky), tak pokynů místních orgánů hygienické služby.
+Příprava radiofarmak musí být v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP. Je nutné dodržovat zásady aseptické práce a správné výrobní praxe pro radiofarmaka.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Nejsou známy.
+
+4.6 Těhotenství a kojení
+Pokud je nezbytné aplikovat radioaktivní látku ženám v reprodukčním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou pokud se neprokáže opak. Kde trvá nejistota, radiační zátěž pacientky musí být
+
+
+
+2
+
+minimalizována při zachování klinického přínosu vyšetření. Je nutno uvážit alternativní metodiky bez ionizujícího záření.
+Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se nezbytná vyšetření provádějí v případě, že předpokládaný přínos vyšetření převáží možná rizika pro matku a plod.
+Před aplikací kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Je-li aplikace nezbytná, je nutné přerušit kojení na 24 hodin a mléko, které se v prsu vytvoří, je nutno odsát a znehodnotit. Kojení je možné obnovit za předpokladu, že úroveň v mléku nezpůsobí radiační zátěž dítěte větší než 1 mSv.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Vliv není znám.
+
+4.8 Nežádoucí účinky
+
+Poruchy imunitního systému.
+Četnost není známa (z dostupných dat nelze určit):
+Alergické a anafylaktické reakce.
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a
+s možným vznikem dědičných poškození. Pro vyšetřovací metody nukleární medicíny je frekvence těchto nežádoucích účinků nízká vzhledem k nízké radiační zátěži pacientů.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Není možné.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+Označení erytrocytů techneciem (⁹⁹ᵐTc) in vitro je provedeno přidáním 1,0-3,0 ml nesrážlivé (heparinem nebo ACD) krve do reakční lahvičky. Část cínatých iontů prochází difúzí membránou erytrocytu a hromadí se intracelulárně. Následující přidání chlornanu sodného do reakční lahvičky způsobí oxidaci cínatých iontů lokalizovaných extracelulárně. Chlornan membránou erytrocytu neprochází, proto je tento proces oxidace selektivní pro přebytečný extracelulární cínatý ion. Kyselina citronová, citronan sodný a glukosový roztok se přidává k vyvázání zbylých cínatých iontů, usnadnění jejich oxidace chlornanem a k redukci nadbytečného množství chlornanu.
+
+
+
+3
+
+K označení erytrocytů v reakční lahvičce dochází po přidání roztoku technecistanu (⁹⁹ᵐTc) sodného. Technecistan prochází membránou a je intracelulárně redukován přítomnými cínatými ionty.
+Redukované technecium již zpětně ven neprochází a zůstává uvnitř erytrocytu. Označení krvinek je plně ukončeno během 20 minut po přidání radioaktivního roztoku. Účinnost značení při použití uvedené metody je minimálně 95 %. Po ukončení procesu značení jsou erytrocyty aplikovány zpět pacientovi a je provedeno scintigrafické zobrazení.
+
+5.2 Farmakokinetické vlastnosti
+Po i.v. podání se červené krvinky rozptýlí v krevním řečišti s přibližným distribučním objemem 5,6 % tělesné hmotnosti. Technecium (⁹⁹ᵐTc) zůstává v krvi s biologickým poločasem asi 29 hodin.
+Z celkového množství technecia (⁹⁹ᵐTc) v krevním řečišti během 24 hodin po aplikaci zůstává vázáno na erytrocyty 95 %. Asi 25 % aplikované dávky je během prvních 24 hodin vyloučeno močí.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+A. Reakční lahvička 10 ml obsahuje:
+Dihydrát citronanu sodného Glukosa
+Roztok kyseliny chlorovodíkové q.s. k úpravě pH Roztok hydroxidu sodného q.s. k úpravě pH.
+
+B. Stříkačka I obsahuje:
+Chlornan sodný Voda na injekci
+Roztok hydroxidu sodného q.s. k úpravě pH
+
+C. Stříkačka II obsahuje:
+Monohydrát kyseliny citronové Dihydrát citronanu sodného Glukosa
+Voda na injekci q.s.
+
+6.2 Inkompatibility
+Neuplatňuje se.
+
+6.3 Doba použitelnosti
+15 měsíců
+Datum exspirace uvedeno na obalu.
+
+6.4 Zvláštní opatření pro uchovávání
+Balení kitu Ultratag RBC nutno uchovávat při teplotě do 25 °C.
+Stříkačku I uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+
+6.5 Druh obalu a velikost obalu
+1 balení přípravku obsahuje 5 kitů pro značení:
+
+
+4
+
+Každý kit se skládá z těchto součástí:
+•  1x reakční lahvička (Reaction vial) objemu 10 ml, ze skla typu I Ph.Eur., která je uzavřena pryžovou zátkou (Ph.Eur.) a hliníkovou objímkou s plastovou odnímatelnou krytkou.
+•  1x injekční stříkačka (Syringe I) objemu 2,25 ml, ze skla typu I Ph.Eur., předem naplněná, s butylkaučukovým krytem typu 1 Ph.Eur. s povrchovou úpravou flurotec.
+•  1x injekční stříkačka (Syringe II) objemu 2,25 ml, ze skla typu I Ph.Eur., předem naplněná, s butylkaučukovým krytem typu 1 Ph.Eur. s teflonovou povrchovou úpravou.
+Uvedené součásti kitu jsou baleny v jedné plastikové krabičce spolu s 2 kusy plastikových injekčních pístů, 2 kusy jednorázových podkožních injekčních jehel a štítků k označení produktu.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Kit neobsahuje antikoagulační přísadu, proto použijte heparin nebo ACD. Nedostatečně antikoagulačně upravená krev není použitelná k aplikaci zpět pacientovi!
+Pro stínění reakční lahvičky použijte olověný kontejner s minimální tloušťkou stěny 3-4 mm včetně víčka. Při aplikaci pacientovi použijte stíněnou injekční stříkačku a širokou injekční jehlu jako ochranu před hemolýzou.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+
+8. REGISTRAČNÍ ČÍSLO
+88/043/96-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+17.1.1996 / 12.12.2012
+
+10. DATUM REVIZE TEXTU
+01.11. 2019
+
+11. DOZIMETRIE
+Jsou uvedeny odhadnuté absorbované dávky pro dospělého (70 kg) po i.v. injekci maximální dávky 740 MBq techneciem (⁹⁹ᵐTc) značených erytrocytů, podle ICRP 53 (Vol 18, č.1-4, 1987): "Radiation dose to patients from radiopharmaceuticals".
+
+Absorbovaná dávka (mGy/MBq):
+orgán         dospělý      15 let     10 let       5 let       1 rok Nadledviny      8,7E-03      1,1E-02    1,7E-02      2,7E-02     4,9E-02
+Stěna moč. měchýře  9,2E-03      1,2E-02    1,7E-02      2,5E-02     4,6E-02 Povrch kostí      9,2E-03      1,3E-02    2,3E-02      3,9E-02     7,8E-02 Prsní žlázy       4,3E-03      4,5E-03    7,2E-03      1,1E-02     1,9E-02 GIT:
+stěna žaludku     4,8E-03      6,1E-03    9,5E-03      1,4E-02     2,4E-02
+
+
+5
+
+tenké střevo      4,4E-03      5,3E-03    8,1E-03      1,2E-02     2,2E-02
+tlusté střevo
+horní část       4,3E-03      5,5E-03    7,9E-03      1,3E-02     2,1E-02 dolní část       3,9E-03      5,3E-03    8,0E-03      1,1E-02     2,1E-02 Srdce         2,3E-02      2,8E-02    4,1E-02      6,2E-02     1,1E-01 Ledviny        1,0E-02      1,2E-02    1,9E-02      3,0E-02     5,5E-02 Játra          7,5E-03      8,8E-03    1,4E-02      2,1E-02     3,8E-02 Plíce          1,4E-02      1,8E-02    2,9E-02      4,5E-02     8,5E-02 Vaječníky       4,2E-03      5,4E-03    7,9E-03      1,2E-02     2,1E-02 Slinivka břišní     6,2E-03      7,5E-03    1,1E-02      1,7E-02     2,9E-02
+Červená kostní dřeň  7,3E-03      8,8E-03    1,3E-02      2,0E-02     3,5E-02 Slezina         1,5E-02      1,8E-02    2,8E-02      4,4E-02     8,4E-02 Varlata         2,7E-03      3,7E-03    5,4E-03      8,3E-03     1,5E-02 Štítná žláza      4,9E-03      7,1E-03    1,2E-02      1,9E-02     3,5E-02 Děloha         4,7E-03      5,7E-03    8,5E-03      1,3E-02     2,2E-02 Ostatní tkáně     3,7E-03      4,4E-03    6,4E-03      9,8E-03     1,8E-02
+
+Efektivní dávkový ekvivalent (mSv/MBq)
+8,5E-03    1,1E-02     1,6E-02     2,5E-02     4,6E-02
+
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Návod ke značení
+1. Odeberte 1-3 ml nesrážlivé krve (za použití heparinu nebo ACD). JAKO ANTIKOAGULANS NEPOUŽÍVAT EDTA ANI OXALÁT !
+2. Širokou jehlou (19-21 G) přidejte 1-3 ml nesrážlivé krve do reakční lahvičky a šetrně promíchejte, aby došlo k rozpuštění obsahu lahvičky. Nechte reagovat 5 minut.
+3. Přidejte obsah stříkačky I, šetrně promíchat překlopením 4-5 x.
+4. Přidejte obsah stříkačky II, šetrně promíchat překlopením 4-5 x.
+5. Reakční lahvičku vložte do olověného stínění s víčkem a minimální tloušťkou 3 - 4 mm. Přidejte 370 - 3 700 MBq eluátu technecistanu (⁹⁹ᵐTc) sodného v maximálním objemu 3 ml.
+6. Šetrně promíchejte obsah lahvičky překlopením 4-5x. Nechte reagovat po dobu 20 minut za občasného promíchání.
+7. Takto označené erytrocyty se doporučuje aplikovat do 30 minut.
+8. Je-li vyžadováno, je možné provést před aplikací kontrolu účinnosti označení (viz bod kontrola kvality značení). Typická účinnost označení je větší než 95 %.
+9. Než se odebere do injekční stříkačky potřebné množství pro podání pacientovi, je nutné obsah reakční lahvičky promísit.
+10. Určete aktivitu obsahu a zaznamenejte na průvodní dokumenty a na štítky označující obsah.
+
+Kontrola kvality značení
+Je-li požadováno, účinnost značení je možno provést následujícím způsobem:
+Přidejte 0,2 ml označených erytrocytů do centrifugační zkumavky s 2 ml 0,9% roztoku chloridu sodného. Proveďte centrifugaci 5 minut a pak opatrně odpipetujte oddělenou plazmu. Změřte aktivitu v plazmě a oddělených erytrocytech. Výpočet proveďte dle následujícího schématu:
+
+
+
+
+
+6
+
+% účinnosti značení  =   aktivita erytrocyty      x 100
+aktivita erytrocyty + plasma
+
+Fyzikální charakteristiky technecia (⁹⁹ᵐTc) jsou uvedeny v pokynech pro používání
+⁹⁹Mo/⁹⁹ᵐTc-generátoru.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7

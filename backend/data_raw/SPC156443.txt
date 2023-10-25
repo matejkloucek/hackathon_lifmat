@@ -1,0 +1,628 @@
+sp.zn.sukls73179/2020
+
+Souhrn údajů o přípravku
+
+1.   NÁZEV PŘÍPRAVKU
+
+Asicord 1 mg/ml koncentrát pro infúzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Asicord je sterilní roztok milrinoni lactas odpovídající milrinonum 1 mg v 1 ml. Pomocné látky se známým účinkem: sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jedné dávce, tj. v podstatě je „bez sodíku“.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Koncentrát pro infúzní roztok. Čirá, bezbarvá až slabě nažloutlá tekutina.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Dospělí
+Asicord je indikován ke krátkodobé léčbě (48 hodin) závažného městnavého srdečního selhání v případě, že není účinná běžná udržovací léčba (glykosidy, diuretika, vasodilatancia a/nebo inhibitory angiotenzin konvertujícího enzymu (ACE inhibitory))
+
+Děti
+Asicord je indikován ke krátkodobé léčbě (nejvýše 35 hodin)
+-  závažného městnavého srdečního selhání v případě, že není účinná běžná udržovací léčba (glykosidy, diuretika, vasodilatancia a/nebo inhibitory angiotenzin konvertujícího enzymu (ACE inhibitory))
+-  akutního srdečního selhání včetně nízkého srdečního výdeje po operaci srdce.
+
+4.2  Dávkování a způsob podání
+Pouze k intravenóznímu podání. Dávkování
+Dospělí:
+Asicord má být podán v zahajovací dávce 50 µg/kg podávané po dobu 10 minut, po níž obvykle následuje kontinuální infúze v titrované dávce 0,375 µg/kg/min až 0,75 µg/kg/min (standardně 0,5
+µg/kg/min) podle hemodynamické odpovědi a možného nástupu nežádoucích účinků jako hypotenze a arytmie.
+Celková dávka nemá překročit 1,13 mg/kg/den.
+
+
+1
+
+Následující tabulka ukazuje rychlost udržovací infúze pro roztok o koncentraci 200 µg/ml připravený přidáním 400 ml rozpouštědla na 100 ml injekčního roztoku (40 ml rozpuštědla na 10 ml ampuli nebo 80 ml na 20 ml ampuli).
+
+
+Udržovací dávka (v mikrogramech/kg/min)
+
+0,375
+0,400
+0,500
+0,600
+0,700
+0,750
+Udržovací infúze (v
+mikrogramech/kg/hod)
+
+22,5
+24,0
+30,0
+36,0
+42,0
+45,0
+200 µg/ml
+Rychlost infúze (ml/kg/hod) 0,11
+0,12
+0,15
+0,18
+0,21
+0,22
+Je možno použít roztoky různých koncentrací podle potřeby tekutin u daného pacienta. Délka léčby závisí na odpovědi pacienta.
+
+Starší pacienti:
+Dosavadní zkušenosti nasvědčují tomu, že u pacientů s normální funkcí ledvin nejsou nutná žádná speciální doporučení pro dávkování. U starších pacientů může být snížena renální clearance,
+v takovém případě mohou být zapotřebí nižší dávky přípravku Asicord.
+Porucha funkce ledvin:
+Úprava dávkování je nezbytná. Úprava dávkování u pacientů s poruchou funkce ledvin se zakládá na údajích od pacientů s běžnou poruchou funkce ledvin, ale bez městnavého srdečního selhání, kteří
+vykazují signifikantní zvýšení terminálního eliminačního poločasu milrinonu. Zahajovací dávka se nemění, ale může být nutné snížení rychlosti udržovací infúze v závislosti na závažnosti poruchy funkce ledvin (clearance kreatininu) (viz následující tabulka):
+
+
+Clearance kreatininu (ml/min/1,73m²)
+
+5
+10
+20
+30
+40
+50
+Udržovací dávka (v mikrogramech/kg/min)
+
+0,20
+0,23
+0,28
+0,33
+0,38
+0,43
+200 µg/ml
+Rychlost udržovací infúze
+(ml/kg/hod)
+0,06
+0,07
+0,08
+0,10
+0,11
+0,13
+
+Pediatrická populace:
+V publikovaných studiích bylo použito následující dávkování pro kojence a děti:
+-  Intravenózní zahajovací dávka: 50 až 75 µg/kg podaná během 30 až 60 minut
+-  Intravenózní kontinuální infúze: má být zahájena na základě hemodynamické odpovědi a možného výskytu nežádoucích účinků v dávce 0,25 až 0,75 µg/kg/min po dobu nejvýše 35 hodin
+Ve studiích zaměřených na výskyt syndromu nízkého srdečního výdeje u kojenců a dětí do 6 let věku po korekční operaci vrozené srdeční vady, se po počáteční dávce 75 μg/kg podané během 60 minut a následované infuzí 0,75 μg/kg/min podávané po dobu 35 hodin významně snížilo riziko vzniku syndromu nízkého srdečního výdeje.
+Je zapotřebí brát v úvahu výsledky farmakokinetických studií (viz bod 5.2).
+
+Porucha funkce ledvin:
+Vzhledem k nedostatku údajů, podávání milrinonu pediatrickým pacientům s poruchou funkce ledvin
+není doporučeno (další informace viz bod 4.4).
+
+
+2
+
+Ductus arteriosus persistens:
+V případě, že je milrinon nutné použít u předčasně narozených nebo v termínu narozených dětí s rizikem rozvoje nebo již existujícím ductus arteriosus persistens, musí být zvážena nutnost terapie proti potenciálnímu riziku (viz body 4.4, 4.8, 5.2 a 5.3).
+
+
+Způsob podání
+
+Návod na ředění léčivého přípravku před podáním viz bod 6.6.
+
+Je třeba zabránit extravazálnímu podání. K prevenci lokálního podráždění je třeba použít největší žílu. Během léčby milrinonem je nutné pečlivé monitorování včetně sledování krevního tlaku, srdeční frekvence, klinického stavu, elektrokardiogramu, rovnováhy tekutin, elektrolytů a renální funkce (tj.
+sérového kreatininu). Musí být k dispozici vybavení k okamžité léčbě potenciálních nežádoucích kardiálních účinků (např. život ohrožujících komorových arytmií). Rychlost infúze je třeba přizpůsobit hemodynamické odpovědi.
+Délka léčby se určí na základě klinické odpovědi. Pacienti nemají být ponecháni na infúzi déle než 48 hodin vzhledem k nedostatečným důkazům o bezpečnosti a účinnosti dlouhodobé léčby městnavého srdečního selhání (viz bod 4.4).
+
+4.3  Kontraindikace
+
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-  Závažná hypovolémie.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Milrinon se nedoporučuje ihned po akutním infarktu myokardu, dokud pro tuto indikaci nebude prokázaná bezpečnost a účinnost. Použití pozitivně inotropních látek, jako je milrinon, během
+akutních fází infarktu myokardu může vést k nežádoucímu zvýšení spotřeby kyslíku myokardem (MVO2). Přestože milrinon nezvyšuje MVO2 u pacientů s chronickým srdečním selháváním, u
+pacientů v akutní fázi infarktu myokardu je zapotřebí zvýšená opatrnost.
+
+Během léčby přípravkem Asicord je nutné pečlivé monitorování včetně sledování krevního tlaku, srdeční frekvence, klinického stavu, elektrokardiogramu, rovnováhy tekutin, elektrolytů a renální funkce (tj. sérového kreatininu). Musí být k dispozici vybavení k okamžité léčbě potenciálních
+nežádoucích kardiálních účinků (např. život ohrožujících komorových arytmií).
+
+U pacientů se závažným obstrukčním onemocněním aortální či pulmonární chlopně nebo hypertrofickou subaortální stenózou (KMP) milrinon nemá být používán místo chirurgického řešení obstrukce. Stejně jako všechny léky s inotropními/vasodilatačními vlastnostmi může milrinon zhoršit výtokovou obstrukci u těchto stavů.
+
+U vysoce rizikové populace léčené milrinonem byly pozorovány supraventrikulární a komorové arytmie. Někdy byl pozorován vzestup komorové ektopie včetně nesetrvalé komorové tachykardie.
+Vzhledem k potenciálnímu nebezpečí arytmií, které vždy existuje u srdečního selhávání a které se dále zvyšuje podáváním dalších léků a jejich kombinací, je třeba pacienty léčené milrinonem pečlivě
+během podávání infúze monitorovat a infúze má být ukončena při výskytu arytmií.
+
+Může dojít ke zrychlení komorové odpovědi u pacientů s nekontrolovaným flutterem nebo fibrilací síní. Proto má být u těchto pacientů zvážena možnost digitalizace nebo jiné léčby prodlužující A-V vedení, neboť milrinon vyvolává mirné zvýšení vodivosti A-V uzlu.
+Milrinon může vyvolat hypotenzi v důsledku vasodilatačního účinku, proto je třeba opatrnosti při
+podávání přípravku Asicord pacientům, kteří jsou již před léčbou hypotenzní. U pacientů, u nichž po podání přípravku Asicord dojde k nadměrnému snížení krevního tlaku, má být léčba ukončena, dokud
+3
+
+hypotenzivní účinek nevyprchá, a potom může být léčba v nutném případě znovu zahájena, ale při nižší rychlosti infúze.
+
+Pokud se předpokládá signifikantní pokles srdečního plnícího tlaku v důsledku předchozí intenzívní diuretické terapie, musí být milrinon podáván se zvýšenou opatrností a za pečlivého monitorování krevního tlaku, srdeční frekvence a dalších klinicky relevantních symptomů.
+Během léčby je třeba monitorovat změny tekutin a elektrolytů a hladinu sérového kreatininu. Zlepšení minutového srdečního výdeje s následným vzestupem diurézy vyžaduje snížení dávky diuretik. Ztráty draslíku způsobené nadměrnou diurézou mohou vést u digitalizovaných pacientů k arytmiím. Proto je třeba hypokalémii korigovat suplementací draslíkem před nebo v průběhu léčby přípravkem Asicord.
+
+Při srdečním selhání často dochází k poklesu hladin hemoglobinu včetně anémie. Vzhledem k riziku trombocytopenie nebo anémie je u pacientů se sníženým počtem trombocytů nebo sníženou hladinou hemoglobinu zapotřebí pečlivé sledování příslušných laboratorních parametrů.
+
+Nejsou k dispozici zkušenosti z kontrolovaných studií s infúzemi milrinonu po dobu delší než
+48 hodin. Během intravenózní léčby milrinonem byly hlášeny případy reakcí v místě infúze (viz bod 4.8). Proto je třeba pečlivé monitorování místa podání infúze, aby se zabránilo případné extravazaci.
+Pediatrická populace:
+Následující informace je třeba brát v úvahu společně s upozorněními a opatřeními uvedenými pro použití u dospělých pacientů:
+U novorozenců po otevřené operaci srdce, je nutno během podávání přípravku Asicord sledovat
+srdeční frekvenci a rytmus, systémový arteriální krevní tlak sledovaný pomocí pupečního arteriálního katétru nebo periferního katétru, centrální žilní tlak, srdeční index, srdeční výdej, systémovou cévní rezistenci, plicnicový tlak a síňový tlak. K laboratorním hodnotám, které je třeba sledovat, patří počet krevních destiček, draslík v séru, funkce jater a ledvin.
+Frekvence sledování je dána dle počátečních hodnot a je třeba vyhodnotit odpověď novorozence na
+změny v terapii.
+
+Literatura uvádí, že u pediatrických pacientů s porušenou funkcí ledvin bylo zaznamenáno výrazné narušení clearance milrinonu a klinicky významné nežádoucí účinky, avšak specifická clearance
+kreatininu, při které musí být upraveno dávkování u pediatrických pacientů, není jasně dána, a proto se nedoporučuje použití u těchto pacientů (viz bod 4.2).
+Podávání milrinonu pediatrickým pacientům má být zahájeno pouze v případě, že je pacient
+hemodynamicky stabilní.
+
+Opatrnost musí být věnována novorozencům s rizikovými faktory pro intraventrikulární hemoragii (jako jsou předčasně narození kojenci, novorozenci s nízkou porodní váhou), protože milrinon může vyvolat trombocytopenii. V klinických studiích u pediatrických pacientů se signifikantně zvýšilo riziko trombocytopenie úměrně s dobou podávání infúze. Klinická data naznačují, že trombocytopenie v souvislosti s milrinonem je častější u dětí než u dospělých (viz bod 4.8).
+V klinických studiích s milrinonem bylo zjištěno zpomalené uzavření ductus arteriosus u pediatrických pacientů. Proto je nutné u předčasně narozených a v termínu narozených dětí s rizikem rozvoje otevřeného ductus arteriosus nebo s již existujícím otevřeným ductus arteriosus zvážit nutnost terapie oproti potenciálním rizikům (viz body 4.2, 4.8, 5.2 a 5.3).
+
+Zvláštní skupiny pacientů:
+Neexistují žádná speciální doporučení ohledně podávání starším pacientům (viz bod 4.2). Žádný vliv věku na výskyt nežádoucích účinků nebyl pozorován. Kontrolované farmakokinetické studie neprokázaly žádné změny farmakokinetiky milrinonu u starších pacientů.
+Asicord má být používán s opatrností u pacientů s poruchou funkce jater.
+4
+
+U pacientů se závažnou poruchou funkce ledvin je třeba upravit dávkování (viz bod 4.2).
+
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jedné dávce, tj. v podstatě je „bez sodíku“.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Inkompatibility: viz bod 6.2.
+
+Furosemid nebo bumetanid se nemá podávat ve stejné infúzi s milrinon-laktátem, aby nedošlo
+k precipitacím.
+
+Milrinon nesmí být ředěn intravenózní infúzí hydrogenuhličitanu sodného.
+
+Během léčby milrinonem je třeba pečlivě sledovat změny tekutin a elektrolytů a sérové hladiny kreatininu. Zlepšení srdečního výdeje a následné zvýšení diurézy mohou vyžadovat snížení dávky diuretika. Ztráta draslíku v důsledku nadměrné diurézy může digitalizované pacienty predisponovat k arytmiím. Proto je před nebo během použití milrinonu zapotřebí korigovat hypokalémii
+suplementací draslíkem.
+
+Souběžné podávání inotropních látek zvyšuje pozitivně inotropní účinky.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství:
+Ačkoli studie na zvířatech neodhalily žádné poškození plodu či jiné škodlivé účinky tohoto léku na reprodukční funkci, bezpečnost milrinonu v těhotenství u člověka dosud nebyla stanovena. Milrinon má být v těhotenství používán pouze v případě, kdy potenciální přínos odůvodňuje potenciální rizika pro plod.
+
+Kojení:
+Údaje o vylučování milrinonu do mateřského mléka jsou nedostatečné. Je třeba rozhodnout, zda
+ukončit kojení nebo vysadit léčbu přípravkem Asicord na základě zhodnocení přínosu kojení pro dítě a přínosu léčby pro ženu.
+Fertilita:
+Viz bod 5.3.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící schopnost řídit či obsluhovat stroje nebyly provedeny.
+
+4.8  Nežádoucí účinky
+
+Následující nežádoucí účinky jsou seřazeny podle tříd orgánových systémů a frekvence výskytu dle
+následujících konvencí: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥ 1/1 000 až
+<1/100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+
+Třídy orgánovýc h systémů
+
+Poruchy
+
+Velmi časté (≥1/10)
+
+Časté
+(≥1/100 až
+<1/10)
+
+Méně časté
+(≥1/1000 až
+<1/100)
+
+Trombocytop
+5
+Vzácné (≥1/10 000 až
+<1/100 0)
+
+Velmi vzácné
+(<1/10000)
+Není známo
+(z
+dostupných údajů nelze určit)
+Pokles počtu
+
+
+Třídy orgánovýc h systémů
+
+krve a
+lymfatické ho systému
+
+Poruchy imunitního systému Poruchy metabolis mu a
+výživy Poruchy nervového systému
+Srdeční
+poruchy
+
+
+
+
+
+
+
+
+
+
+Respirační, hrudní a mediastinál ní poruchy Poruchy jater a
+žlučových
+cest
+
+Poruchy kůže a podkožní tkáně
+Celkové poruchy a reakce
+v místě
+aplikace
+
+Velmi časté (≥1/10)
+
+Časté
+(≥1/100 až
+<1/10)
+
+
+
+
+
+
+
+
+
+
+
+
+Bolesti hlavy,
+obvykle mírné až střední závažnosti Komorová
+ektopická aktivita
+Komorová tachykardie (nesetrvalá či setrvalá)
+
+Supraventrikulár ní arytmie
+Hypotenze
+
+Méně časté
+(≥1/1000 až
+<1/100)
+
+enie*
+
+
+
+
+
+
+Hypokaléme
+
+
+
+Třes
+
+
+Fibrilace komor Angina pectoris/boles t na hrudi
+
+
+
+
+
+
+
+
+
+
+
+Abnormální výsledky
+jaterních funkčních testů
+Vzácné (≥1/10 000 až
+<1/100 0)
+
+Velmi vzácné
+(<1/10000)
+
+
+
+
+
+Anafylaktický šok
+
+
+
+
+
+
+
+
+Torsades de pointes
+
+
+
+
+
+
+
+
+
+
+Bronchospasm us
+
+
+
+
+
+
+
+Kožní reakce jako vyrážka
+Není známo
+(z
+dostupných údajů nelze určit)
+erytrocytů a/nebo koncentrace hemoglobinu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reakce v místě infúze
+*U kojenců a dětí se riziko trombocytopenie signifikantně zvyšuje s délkou infúze. Klinické údaje
+naznačují, že trombocytopenie související s milrinonem je častější u dětí než u dospělých (viz bod 4.4).
+
+Nebyla stanovena souvislost mezi výskytem supraventrikulárních či komorových arytmií a
+plazmatickou hladinou milrinonu. Život ohrožující arytmie jsou často spojeny s již přítomnými rizikovými faktory jako existující arytmie, metabolické poruchy (např. hypokalémie), zvýšené sérové hladiny digoxinu nebo zavedený katétr. Klinické údaje naznačují, že arytmie související s milrinonem jsou méně časté u dětí než u dospělých.
+6
+
+Pediatrická populace:
+Poruchy nervového systému
+Není známo: intraventrikulární hemoragie (viz bod 4.4)
+
+Vrozené, familiární a genetické vady
+Není známo: otevřený ductus arteriosus *** (viz body 4.2, 4.4, 5.2 a 5.3)
+
+***V literatuře byly popsány možné fatální následky otevřeného ductus arteriosus, které jsou způsobené kombinací nadměrné plicní cirkulace následované plicním edémem a hemoragiemi a
+snížené orgánové perfúze s následným intraventrikulárním krvácením a nekrotizující enterokolitidou. Dlouhodobé bezpečnostní údaje pro pediatrické pacienty nejsou zatím k dispozici.
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Příznaky:
+Vysoké dávky milrinonu mohou vyvolat hypotenzi (vzhledem k vasodilatačnímu účinku) a srdeční arytmii.
+Léčba:
+Podávání milrinonu musí být přerušeno až do stabilizace pacienta. Není známé žádné specifické
+antidotum milrinonu, je nutno provést obvyklá opatření k podpoře krevního oběhu.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Kardiaka; kardiotonika, kromě srdečních glykosidů; inhibitory
+fosfodiesterázy.
+ATC kód: C01CE02
+
+Mechanismus účinku
+Milrinon patří mezi pozitivně inotropní a vazodilatačně působící látky s malou chronotropní aktivitou. Současně zlepšuje uvolnění levé komory při diastole.
+Liší se od digitalisových glykosidových katecholaminů či inhibitorů angiotensin-konvertujícího enzymu ve struktuře a mechanismu účinku.
+
+Farmakodynamické účinky
+Milrinon je selektivním inhibitorem fosfodiesterázy III (PDE III) v srdečních a cévních svalech.
+Vyvolává mírné zvýšení vodivosti A-V uzlu, ale jinak nemá žádné další signifikantní elektrofyziologické účinky.
+
+
+
+7
+
+Klinická účinnost a bezpečnost
+V klinických studiích bylo prokázáno, že milrinon vyvolává rychlé zlepšení hemodynamických
+projevů městnavého srdečního selhání včetně srdečního výdeje, plicního kapilárního tlaku v zaklínění a cévního odporu bez klinicky signifikantních účinků na srdeční frekvenci nebo spotřebu kyslíku myokardem.
+Hemodynamické zlepšení během intravenózní terapie milrinonem je doprovázeno klinickým symptomatickým zlepšením městnavého srdečního selhání měřeným změnou klasifikace dle Newyorské srdeční společnosti.
+Pediatrická populace:
+V literatuře byly nalezeny klinické studie u pacientů léčených z důvodu syndromu nízkého srdečního výdeje po srdeční operaci, septickém šoku nebo plicní hypertenzi. Obvyklé dávkování zahrnovalo
+zahajovací dávku 50 až 75 µg/kg podávaných po dobu 30 až 60 minut následovanou intravenózní kontinuální infúzí 0,25 až 0,75 µg/kg/min po dobu až 35 hodin. V těchto studiích milrinon prokázal zvýšení srdečního výdeje, snížení srdečního plnícího tlaku a snížení systémového a plicního cévního odporu s minimálními změnami v srdeční frekvenci a spotřeby kyslíku myokardem.
+Studie dlouhodobějšího používání milrinonu nepostačují k doporučení delšího podávání než 35 hodin.
+Některé studie hodnotily pediatrické použití milrinonu u pacientů s nehyperdynamickým septickým šokem (Barton et al., 1996; Lindsay et al., 1998); účinek milrinonu na pulmonální hypertenzi po
+bypassu a po korekci Fallotovy tetralogie (Chu et al., 2000); kombinovaný účinek oxidu dusnatého a milrinonu na plicní oběh po zákroku Fontanova typu (Cai et al., 2008).
+Výsledky těchto studií byly nepřesvědčivé. Proto nelze použití milrinonu v těchto indikacích doporučit.
+5.2  Farmakokinetické vlastnosti
+
+Absorpce a distribuce
+Při in vitro testech vazby na proteiny krevní plazmy bylo zjištěno, že 70 – 91 % milrinonu je vázáno na proteiny krevní plazmy v terapeuticky relevantních koncentracích. Za šest až dvanáct hodin
+kontinuální udržovací infúze v dávce 0,50 mikrogramů/kg/min jsou rovnovážné koncentrace
+milrinonu asi 200 ng/ml.
+
+Po intravenózních injekcích milrinonu v dávkách 12,5 mikrogramů/kg až 125 mikrogramů/kg u pacientů se srdeční nedostatečností byl zjištěn distribuční objem 0,38 l/kg, průměrný terminální eliminační poločas 2,3 h a clearance 0,13 l/kg/h.
+Po intravenózních injekcích milrinonu v dávkách 0,20 mikrogramů/kg až 0,7 mikrogramů/kg u pacientů se srdeční nedostatečností byl zjištěn distribuční objem 0,45 l/kg, průměrný terminální
+eliminační poločas 2,4 h a clearance 0,14 l/kg/h. Tyto farmakokinetické vlastnosti nebyly závislé na velikosti dávky. Hodnota plochy pod křivkou koncentrace a času je však závislá na dávce přípravku.
+Pomocí ultracentrifugace lze prokázat, že 70 % milrinonu je vázáno na proteiny lidské plazmy
+v plazmatických koncentracích 70 až 400 n/ml.
+U pacientů se srdeční nedostatečností se clearance a poločas prodlužují, na rozdíl od zdravých subjektů, podle míry poruchy funkce jejich ledvin.
+Údaje od pacientů se závažnou poruchou funkce ledvin (clearance kreatininu nižší než 30 ml/min)
+ukázaly, že terminální eliminační poločas se při poruše funkce ledvin prodlužuje.
+
+Biotransformace a eliminace
+U člověka je milrinon ve velké míře vylučován močí. Nejvýznamnějšími produkty exkrece u člověka jsou milrinon (83 %) a jeho o-glukuronidový metabolit (12 %). U zdravých subjektů je eliminace močí rychlá, přibližně 60 % dávky je v moči zjištěno během prvních dvou hodin po podání a přibližně 90 % během prvních osmi hodin po podání. Průměrná renální clearance milrinonu i.v. je přibližně 0,3 l/min, což nasvědčuje aktivnímu vylučování.
+
+Pediatrická populace:
+Milrinon je eliminován mnohem rychleji u dětí než dospělých, ale u kojenců se projevila významně nižší clearance milrinonu než u dětí a u předčasně narozených dětí byla clearance ještě nižší. V
+8
+
+návaznosti na tuto rychlejší clearanci v porovnání s dospělými byla ustálená rovnovážná plazmatická koncentrace milrinonu nižší u dětí než dospělých. U pediatrické populace s normální funkcí ledvin
+byla plazmatická koncentrace milrinonu v ustáleném stavu přibližně 100 – 300 ng/ml po 6 až 12 hodinách infúze v dávce 0,5-0,75 µg/kg/min.
+
+Po intravenózní infúzi v dávce 0,5 až 0,75 µg/kg/min podané novorozencům, kojencům a dětem po
+otevřené operaci srdce byl distribuční objem milrinonu okolo 0,35 až 0,9 l/kg bez významného rozdílu mezi těmito skupinami pacientů. Po intravenózní infúzi v dávce 0,5 µg/kg/min podané velmi
+předčasně narozeným novorozencům jako prevence udržení systémového oběhu po narození byl distribuční objem milrinonu okolo 0,5 l/kg.
+Několik farmakokinetických studií ukázalo, že v pediatrické populaci stoupá clearance s rostoucím věkem. Clearance u kojenců je výrazně nižší než u dětí (3,4 až 3,8 ml/kg/min proti 5,9 až
+6,7 ml/kg/min). U novorozenců byla clearance milrinonu okolo 1,64 ml/kg/min a u předčasně narozených novorozenců ještě nižší (0,64 ml/kg/min).
+Střední terminální poločas milrinonu je mezi 2 a 4 hodinami u kojenců a dětí a střední eliminační poločas je 10 hodin u předčasně narozených dětí.
+Bylo odvozeno, že optimální dávka milrinonu u pediatrických pacientů, tak aby bylo dosaženo plazmatických hladin nad prahem farmakodynamické účinnosti, je vyšší než u dospělých, ale
+optimální dávka u předčasně narozených novorozenců, tak aby bylo dosaženo plazmatických hladin nad prahem farmakodynamické účinnosti, je nižší než u dětí.
+Otevřený ductus arteriosus:
+Milrinon je vylučován ledvinami a jeho distribuční objem je omezen na extracelulární prostor, což ukazuje, že objemové přetížení a hemodynamické změny spojené s otevřeným ductus arteriosus mohou ovlivnit distribuci a vylučování milrinonu (viz body 4.2, 4.4, 4.8 a 5.3).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Akutní toxicita
+Při perorálním podání je LD50 u samců myší 137 mg/kg a u samic myší 170 mg/kg, kdežto LD50 u
+samců potkanů je 91 mg/kg a u samic potkanů 153 mg/kg.
+Po intravenózním podání milrinonu se u králíků vyskytly fokální epikardiální a endokardiální
+hemoragie a fokální myokardiální fibrózy (zejména v papilárním svalu a endokardiálních oblastech).
+Subakutní toxicita
+Subakutní toxicita byla hodnocena u potkanů a psů. U psů se ve všech léčených skupinách vyskytly endokardiální hemoragie a myokardiální fibrózy po kumulativním a frakčním podávání milrinonu v množství těsně nad terapeutickou dávkou.
+Subchronická a chronická toxicita
+Perorální a intravenózní podání milrinonu potkanům, psům a opicím v terapeutických dávkách nebo
+v dávkách mírně převyšujících terapeutickou dávkou vedlo k degeneraci a fibrózám myokardu a zejména v oblastech papilárních svalů levé komory k subendokardiálním hemoragiím.
+Léze na koronárních cévách, charakteristické periarteriálním edémem a zánětem, byly pozorovány pouze u psů.
+Kancerogenita
+Dlouhodobé studie neprokázaly kancerogenní potenciál u myší ani u potkanů. U potkanů byly pozorovány endokardiální hemoragie a nekrózy a fibrózy myokardu. Při nejvyšším dávkování byly degenerace a fibrózy myokardu zaznamenány u myší. V žaludku myší byly zjištěny nekrózy a vředy.
+Mutagenita
+Důkladné in vitro i in vivo studie mutagenity měly negativní výsledky.
+
+Fertilita/reprodukční toxikologie
+Milrinon podávaný perorálně potkanům v dávkách 40x přesahujících běžné dávky u lidí neměl žádný vliv na samčí ani samičí fertilitu.
+9
+
+Toxikologické reprodukční studie na potkanech a králících neprokázaly teratogenní efekt milrinonu
+ani v dávkách přesahujících 10x běžnou (perorální) a 2,5x běžnou (intravenózní) terapeutickou dávku u lidí.
+Třígenerační studie (P, F1, F2 generace) u potkanů, kterým byl perorálně podáván milrinon,
+neprokázala žádný vliv léku na vývoj nebo reprodukční výkonnost matek nebo jejich potomstva, a to ani v nejvyšších dávkách (přesahujících 40x běžnou terapeutickou dávku u lidí).
+Embryonální/fetální dávka ve vztahu k sérovým koncentracím u matky:
+Placentární přenos milrinonu do plodu je zdokumentován ve studii březích opic, kterým byly
+intravenózně podávány humánní dávky. Poměr sérových hodnot u matky ku sérovým hladinám u plodu činil 4:1.
+Zvířecí mláďata:
+Za účelem objasnění účinků PDE 3 inhibitorů na dilataci ductus arteriosus byla provedena preklinická studie sledující tyto účinky u mláďat potkanů narozených přibližně v plánovaném termínu porodu a
+dále pak u potkaních plodů - a to jak u plodů v době blízké plánovanému termínu porodu, tak i plodů před plánovaným termínem porodu. Postnatální dilatace ductus arteriosus milrinonem byla studována při 3 různých dávkách (10, 1, 0,1 mg/kg). Dilatační účinek milrinonu na fetální ductus kontrahovaný indometacinem byl zkoumán při současném podávání milrinonu (10, 1, 0,1 mg/kg) a indometacinu (10 mg/kg) samicím potkanů během dne 21 (blízko termínu) a 19 (před termínem). Tato in vivo studie ukázala, že milrinon vyvolává na dávce závislou dilataci fetálně a postnatálně kontrahovaného ductus arteriosus. Dilatační účinek byl silnější při injekci podané okamžitě po narození než 1 hodinu po
+narození. Navíc studie prokázala, že nezralý ductus arteriosus je k účinkům milrinonu citlivější než vyvinutý ductus arteriosus (viz body 4.2, 4.4, 4.8 a 5.2).
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Kyselina mléčná
+glukosa
+voda pro injekci
+hydroxid sodný (k úpravě pH)
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být směšován s jinými léčivými přípravky kromě přípravků uvedených
+v bodě 6.6.
+
+Následující léčivé látky či roztoky na rekonstituci/ředění nemají být podávány současně:
+Furosemid či bumetanid nemají být podávány v intravenózních soupravách obsahujících milrinon, aby se zabránilo precipitaci.
+Milrinon nesmí být ředěn intravenózní infúzí hydrogenuhličitanu sodného.
+Jiné léky nesmí být směšovány s přípravkem Asicord, pokud nejsou k dispozici další údaje o kompatibilitě.
+
+6.3  Doba použitelnosti
+3 roky před prvním otevřením.
+
+Chemická a fyzikální stabilita po naředění byla prokázána po dobu 72 hodin při pokojové teplotě (15
+- 25°C) nebo v chladničce (2 – 8 °C).
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a
+podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně
+doba nemá být delší než 24 hodin (při 2 až 8°C), pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+10
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání (viz bod 6.3). Chraňte před mrazem.
+6.5  Druh obalu a obsah balení
+
+Ampule z bezbarvého skla typu I o velikosti 10 nebo 20 ml v krabičkách po 10 kusech.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Infúzní roztok naředěný dle pokynů chloridem sodným 4,5 mg/ml (0,45 %), chloridem sodným
+9 mg/ml (0,9 %) nebo glukosy 50 mg/ml (5 %) se musí připravit krátce před použitím.
+Pouze k jednorázovému použití.
+
+Naředěný roztok musí být před podáním vizuálně zkontrolován, jestli neobsahuje částice nebo není
+zabarven.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Pharmaselect International Beteiligungs GmbH Ernst-Melchior-Gasse 20
+1020 Vídeň
+Rakousko
+
+
+8.   REGISTRAČNÍ ČÍSLO
+
+83/536/12-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+
+Datum první registrace: 12.9.2012
+Datum posledního prodloužení registrace: 13. 4. 2017
+
+10. DATUM REVIZE TEXTU
+
+24. 4. 2020
+
+
+
+
+
+
+
+
+11

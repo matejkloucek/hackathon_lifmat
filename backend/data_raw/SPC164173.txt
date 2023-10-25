@@ -1,0 +1,462 @@
+sp.zn. sukls254410/2020
+
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+FORTILIP 267 mg tvrdé tobolky
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tobolka obsahuje: fenofibratum 267,0 mg. Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Tvrdé tobolky.
+Popis přípravku: tvrdé želatinové tobolky s vrchní částí olivově zelenou a spodní částí karamelovou, obsahující voskovitý bílo-béžový prášek.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Přípravek FORTILIP 267 mg je indikován jako doplněk k dietě a jiné nefarmakologické léčbě (např. cvičení, snižování hmotnosti) v následujících případech:
+
+•  Léčba závažné hypertriglyceridémie s nízkou hladinou nebo bez nízké hladiny HDL cholesterolu.
+•  Smíšená hyperlipidémie, kdy je léčba statiny kontraindikována nebo není tolerována.
+4.2  Dávkování a způsob podání
+
+Odpověď na léčbu má být monitorována stanovením hladin lipidů v séru. Pokud po několika měsících (např. 3 měsících) nebylo dosaženo uspokojivé odpovědi, má být zvážena doplňková či odlišná léčba.
+Dávkování
+
+Dospělí
+Doporučená dávka je 200 mg fenofibrátu denně. V případě potřeby může být dávka zvýšena až na 267 mg denně (jedna tobolka přípravku FORTILIP 267 mg) během jídla.
+Zvláštní skupiny pacientů
+
+Starší pacienti (≥ 65 let)
+Žádná úprava dávky není nutná. Doporučuje se obvyklá dávka, s výjimkou snížené funkce ledvin s odhadovanou glomerulární filtrací (eGFR) < 60 ml/min/1,73 m² (viz Pacienti s poruchou funkce ledvin).
+
+
+
+
+
+
+
+
+
+
+1/9
+
+Pacienti s poruchou funkce ledvin
+Fenofibrát se nesmí užívat, pokud je přítomna těžká porucha funkce ledvin, definovaná jako eGFR < 30 ml/min/1,73 m².
+Pokud se eGFR pohybuje mezi 30 a 59 ml/min/1,73 m², dávka nesmí překročit 100 mg standardního nebo 67 mg mikronizovaného fenofibrátu jednou denně.
+Pokud se v průběhu sledování eGFR trvale sníží na < 30 ml/min/1,73 m², musí být podávání fenofibrátu ukončeno.
+Pacienti s poruchou funkce jater
+Užití přípravku FORTILIP 267 mg u pacientů s poruchou funkce jater se pro nedostatek údajů nedoporučuje.
+Pediatrická populace
+Bezpečnost a účinnost fenofibrátu u dětí a dospívajících mladších 18 let nebyla dosud stanovena. Nejsou dostupné žádné údaje. Proto se použití fenofibrátu u pediatrických pacientů mladších 18 let nedoporučuje.
+
+Způsob podání
+Přípravek je určen k perorálnímu podání. Tobolka se má polykat celá během jídla.
+
+4.3  Kontraindikace
+
+Přípravek je kontraindikován v těchto případech:
+
+-  těžká renální insuficience (odhadovaná glomerulární filtrace < 30 ml/min/1,73 m²)
+-  porucha funkce jater (včetně biliární cirhózy a nevysvětlené přetrvávající abnormality jaterních funkcí)
+-  symptomatická onemocnění žlučníku
+-  chronická nebo akutní pankreatitida s výjimkou případů akutní pankreatitidy způsobené těžkou hypertriglyceridemií
+-  hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+-  známá fotoalergie nebo fototoxické reakce během léčby fibráty nebo ketoprofenem
+
+4.4  Zvláštní upozornění a opatření pro použití
+Sekundární příčiny hyperlipidemie
+Sekundární příčiny hyperlipidemie, jako nekontrolovaný typ 2 diabetes mellitus, hypothyreóza, nefrotický syndrom, dysproteinemie, obstrukční onemocnění jater, farmakologická léčba, alkoholismus, musí být před zvažovanou léčbou fenofibrátem adekvátně léčeny. U pacientů s hyperlipidemií, kteří užívají estrogen, nebo antikoncepční přípravky obsahující estrogen je třeba zjistit, zda je hyperlipidemie primárního nebo sekundárního původu (možné zvýšení hodnot lipidů způsobené perorálním estrogenem).
+Svaly
+V souvislosti s podáváním fibrátů a dalších přípravků snižujících lipidy byla zaznamenána svalová toxicita včetně vzácných případů rhabdomyolýzy (se selháním ledvin nebo bez něj). Výskyt této poruchy se zvyšuje v případě hypoalbuminémie a předchozí ledvinové nedostatečnosti. Pacienti s predispozicí ke vzniku myopatie nebo rhabdomyolýzy, včetně pacientů starších 70ti let, s osobní či rodinnou anamnézou dědičných svalových poruch, renálním poškozením, hypothyreózou a vysokým příjmem alkoholu, mohou mít zvýšené riziko vzniku rhabdomyolýzy. U takových pacientů je nezbytné zvážit přínos léčby fenofibrátem a její možná rizika.
+Podezření na svalovou toxicitu je třeba zvažovat u pacientů s difuzní myalgií, myositidou, svalovými křečemi a slabostí nebo výrazným zvýšením CPK svalového původu (hladiny přesahující pětinásobně horní hranici normální hodnoty). V takových případech má být léčba fenofibrátem zastavena.
+
+Riziko svalové toxicity se kromě toho dále zvyšuje v případech, kdy je lék užíván společně s dalším fibrátem nebo v kombinaci s inhibitorem HMG-CoA reduktázy (viz "Interakce"), zvláště v případě dřívějšího svalového onemocnění. Z tohoto důvodu má být současné předepisování fenofibrátu s
+
+
+2/9
+
+inhibitorem HMG-CoA reduktázy nebo s jiným fibrátem vyhrazeno pouze pro pacienty se závažnou kombinovanou dyslipidemií a vysokým kardiovaskulárním rizikem bez anamnézy svalového onemocnění, při pečlivém sledování potenciální svalové toxicity.
+
+Funkce jater
+Jako u jiných přípravků snižující lipidy bylo u některých pacientů zaznamenáno zvýšení hladin transamináz. Ve většině případů bylo toto zvýšení přechodné, mírné a asymptomatické. Doporučuje se monitorovat hladiny transamináz každé 3 měsíce v průběhu prvních 12 měsíců léčby a dále pravidelně. Pozornost je třeba věnovat pacientům, u nichž se rozvine zvýšení hladin transamináz, léčba má být ukončena, pokud se hladiny AST (SGOT) a ALT (SGPT) zvýší více než 3krát nad horní hranici normálního rozmezí. Objeví-li se příznaky ukazující na hepatitidu (např. žloutenka, svědění) a diagnóza je potvrzena laboratorními testy, má být léčba fenofibrátem ukončena.
+Funkce ledvin
+FORTILIP 267 mg je kontraindikován u těžké poruchy funkce ledvin (viz bod 4.3).
+FORTILIP 267 mg má být používán s opatrností u pacientů s mírnou až středně těžkou renální insuficiencí. Dávka má být upravena u pacientů s odhadovanou glomerulární filtrací 30 až 59 ml/min/1,73 m² (viz bod 4.2).
+U pacientů léčených fenofibrátem v monoterapii nebo fenofibrátem podávaným současně se statiny byla hlášena reverzibilní zvýšení sérového kreatininu. Zvýšení sérového kreatininu byla obecně stabilní v čase, bez známek pokračujícího vzestupu sérového kreatininu při dlouhodobé léčbě, a měla tendenci k návratu do výchozí hodnoty po ukončení léčby.
+V průběhu klinických studií došlo u 10 % pacientů užívajících fenofibrát současně se simvastatinem ke zvýšení kreatininu o více než 30 μmol/l oproti výchozí hodnotě ve srovnání se 4,4 % pacientů užívajících pouze statiny. 0,3 % pacientů užívajících kombinovanou léčbu mělo klinicky významné zvýšení hladin kreatininu > 200 μmol/l.
+Léčba má být přerušena, pokud hladina kreatininu přesáhne o 50 % horní hranici normálního rozmezí. Doporučuje se, aby byla hladina kreatininu měřena v průběhu prvních 3 měsíců po zahájení léčby a poté v pravidelných intervalech.
+
+Pankreas
+U pacientů užívajících fenofibrát byla zaznamenána pankreatitida (viz bod Kontraindikace a Nežádoucí účinky). Její výskyt může představovat buď selhání účinku u pacientů s vážnou hypertriglyceridemií jako přímý účinek léčivé látky, nebo sekundární jev způsobený tvorbou kamenů nebo kalu ve žlučových cestách s obstrukcí společného žlučovodu.
+Přípravek Fortilip obsahuje sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné kapsli, to znamená, že je v podstatě „bez sodíku“.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Kombinovaná léčba je také předmětem odstavce "Zvláštní upozornění a opatření pro použití". Perorální antikoagulancia
+Fenofibrát zvyšuje účinek perorálních antikoagulancií a může zvýšit riziko krvácení. Doporučuje se snížení dávky antikoagulancií asi o třetinu na počátku léčby a potom v případě nutnosti její postupné upravování na základě monitorování INR (International Normalised Ratio).
+Inhibitory HM-CoA reduktázy
+Riziko závažné svalové toxicity je zvýšeno, pokud je fibrát podáván současně s inhibitory HMG-CoA reduktázy nebo jinými fibráty. Tato kombinační léčba má být používána s opatrností a pacienti mají být přísně monitorováni na příznaky svalové toxicity (viz bod 4.4 Zvláštní upozornění a opatření pro použití).
+
+
+
+
+
+
+
+3/9
+
+Cyklosporin
+Během současného podávání fenofibrátu a cyklosporinu byly zaznamenány závažné případy reverzibilního poškození ledvinných funkcí. Proto musí být funkce ledvin těchto pacientů pečlivě monitorovány a léčba fenofibrátem ukončena v případě vážné změny laboratomích parametrů.
+
+Glitazony
+Během současného podávání fenofibrátu a glitazonů byly zaznamenány případy reversibilní paradoxní redukce HDL-cholesterolu. Je proto doporučováno monitorovat HDL-cholesterol v případě, kdy je jedna z těchto léčivých látek přidána ke druhé. Pokud je hladina HDL-cholesterolu příliš nízká, doporučuje se zastavení léčby jedním z přípravků.
+Enzymy cytochromu P450
+Studie in vitro používající lidské jaterní mikrozomy ukázaly, že fenofibrát a kyselina fenofibrová neinhibují izoformy cytochromu (CYP) P450 CYP3A4, CYP2D6, CYP2E1 nebo CYP1A2. V terapeutických koncentracích jsou slabými inhibitory CYP2C19 a CYP2A6 a slabými až středními inhibitory CYP2C9.
+Pacienti užívající fenofibrát spolu s léčivými látkami s úzkým terapeutickým indexem, které jsou metabolizovány CYP2C19, CYP2A6 a zvláště CYP2C9, by měli být pečlivě sledováni a pokud je to nezbytné, doporučuje se úprava dávky léčivých přípravků.
+
+4.6  Těhotenství a kojení
+Těhotenství
+Neexistují adekvátní údaje o používání fenofibrátu u těhotných žen. Studie na zvířatech neprokázaly žádný teratogenní účinek. Embryotoxický účinek byl prokázán v dávkách toxických pro matku (viz bod SPC Předklinické údaje vztahující se k bezpečnosti). Potenciální riziko pro lidi není známo. Proto má být přípravek FORTILIP 267 mg podáván během těhotenství jen po důkladném zvážení poměru možného přínosu k rizikům léčby.
+Kojení
+Není známo, zda se fenofibrát nebo jeho metabolity u člověka vylučují do mateřského mléka. Riziko pro kojené dítě nelze vyloučit. Proto nemá být fenofibrát během kojení užíván.
+
+Fertilita
+U zvířat byly pozorovány reversibilní účinky na fertilitu (viz bod 5.3). Klinická data o vlivu užívání fenofibrátu na fertilitu nejsou k dispozici.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+FORTILIP 267 mg nemá žádný nebo má zanedbatelný vliv na schopnost řídit a obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Nejčastěji hlášenými nežádoucími účinky během léčby fenofibráty jsou zažívací, žaludeční nebo střevní poruchy.
+Během klinických studií kontrolovaných placebem (n=2344) byly pozorovány následující nežádoucí účinky v těchto frekvencích:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4/9
+
+Třída orgánových systémů podle
+databáze MedDRA
+
+Poruchy krve a lymfatického systému Poruchy imunitního systému Poruchy
+nervového systému
+Cévní poruchy
+
+
+
+Gastrointestinální poruchy
+
+
+
+
+Poruchy jater a žlučových cest
+
+Poruchy kůže a podkožní tkáně
+
+Poruchy pohybového ústrojí, pojivové tkáně a kostí Poruchy
+reprodukčního systému a prsu Vyšetření
+Časté
+(≥1/100 až <1/10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gastrointestinální známky a příznaky (abdominální bolest, nauzea, zvracení, průjem, plynatost)
+zvýšené transaminázy (viz bod 4.4)
+
+
+
+
+
+
+
+
+
+
+zvýšená hladina homocysteinu
+v krvi**
+Méně časté (≥1/1000 až <1/100)
+
+
+
+
+
+
+
+
+
+bolest hlavy
+
+
+tromboembolie (plicní embolie, hluboká žilní trombóza)* pankreatitida*
+
+
+
+
+
+cholelitiáza (viz bod 4.4)
+
+kožní přecitlivělost (např. vyrážky, svědění, kopřivka) poruchy svalů (např. myalgie, myositida, svalové křeče a slabost)
+sexuální dysfunkce
+
+
+zvýšený kreatinin v krvi
+Vzácné (≥1/10000 až
+<1/1000 )
+
+
+snížený hemoglobin, snížený počet bílých krvinek hypersenzitivita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hepatitida
+
+
+alopecie, fotosenzitivní reakce
+
+
+
+
+
+
+
+
+zvýšená močovina v krvi
+Velmi vzácné (<1/10 000),
+včetně jednotlivých hlášení
+* Ve studii FIELD, randomizované, placebem kontrolované studii provedené s 9795 pacienty s diabetes mellitus typu 2, bylo pozorováno statisticky významné zvýšení případů pankreatitidy u pacientů užívajících fenofibrát oproti pacientům, kteří dostávali placebo (0,8% oproti 0,5%; p=0,031). Ve stejné studii byl hlášen statisticky významný vzestup incidence plicní embolie (0,7% v placebové skupině oproti 1,1% ve fenofibrátové skupině; p=0,022) a statisticky nevýznamné zvýšení případů hluboké žilní trombózy (placebo: 1,0% [48/4900 pacientů] oproti fenofibrátu 1,4% [67/4895 pacientů]; p=0,074).
+
+** Ve studii FIELD bylo pozorováno průměrné zvýšení hladiny homocysteinu v krvi u pacientů léčených fenofibrátem 6,5 umol/l, které bylo po přerušení léčby fenofibrátem reversibilní. Zvýšené riziko žilních trombotických příhod může se zvýšenou hladinou homocysteinu souviset. Klinický význam není jasný.
+
+Navíc k těmto nežádoucím příhodám hlášeným během klinického hodnocení byly v průběhu postmarketingového užívání fenofibrátu spontánně hlášeny dále uvedené nežádoucí účinky. Přesná frekvence nemůže být z dat, která jsou k dispozici, odhadnuta, a je proto uvedena jako „neznámá“:
+
+
+
+
+
+5/9
+
+Respirační, hrudní a mediastinální poruchy: intersticiální plicní onemocnění
+Poruchy pohybového ústrojí, pojivové tkáně a kostí: rhabdomyolýza
+Poruchy jater a žlučových cest: žloutenka, komplikace cholelithiázy (např. cholecystitida, cholangitida, biliární kolika)
+Poruchy kůže a podkožní tkáně: závažné kožní reakce (např. erythema multiforme, Stevens-Johnsonův syndrom, toxická epidermální nekrolýza)
+Celkové poruchy a reakce v místě aplikace: únava.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Byly zaznamenány pouze blíže nespecifikované případy předávkování fenofibrátem. Ve většině případů nebyly hlášeny žádné příznaky předávkování.
+Není známo žádné specifické antidotum. Pokud je podezření na předávkování, má být zahájena symptomatická léčba v souběhu s další vhodnou podpůrnou péčí. Fenofibrát není možno eliminovat hemodialýzou.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Hypolipidemika, fibráty. ATC kód: C10AB05
+
+Hypolipidemikum (látka snižující hladinu cholesterolu a triglyceridů), fibrát.
+
+FORTILIP 267 mg je galenická formulace obsahující 267 mg fenofibrátu v polotuhé formě Lidose, plně bioekvivalentní s mikronizovanou formou.
+
+Fenofibrát je derivát kyseliny fibrové, jehož účinky na úpravu hladiny lipidů u lidí jsou zprostředkovány aktivací receptoru typu alfa aktivovaného peroxisomovým proliferátorem (PPAR alfa).
+
+Prostřednictvím aktivace PPAR alfa fenofibrát zvyšuje lipolýzu a eliminaci aterogenních částic bohatých na triglyceridy z plazmy aktivací lipoprotein-lipázy a snížením tvorby apoproteinu CIII. Aktivace PPAR alfa také vyvolává zvýšení syntézy apoproteinů AI a AII.
+
+Výše zmíněné účinky fenofibrátu vedou ke snížení frakcí o velmi nízké a nízké hustotě (VLDL a LDL) obsahujících apoprotein B a ke zvýšení frakce o vysoké hustotě (HDL) obsahující apoprotein AI a AII.
+Kromě toho prostřednictvím úpravy syntézy a katabolismu VLDL frakce fenofibrát zvyšuje clearance LDL a snižuje VLDL, jejichž hladiny jsou zvýšeny u aterogenního fenotypu lipoproteinu, což je běžná porucha u pacientů s rizikem ischemické choroby srdeční.
+
+Během klinických studií s fenofibrátem se celkový cholesterol snížil o 20-25%, triglyceridy o 40-55% a HDL cholesterol se zvýšil o 10-30%.
+
+
+
+6/9
+
+U pacientů s hypercholesterolémií, u nichž byly hladiny LDL cholesterolu sníženy o 20-35% vedl celkový účinek na cholesterol ke snížení poměru celkového cholesterolu k HDL cholesterolu, LDL cholesterolu k HDL cholesterolu nebo Apo B k Apo AI. Všechny citované hodnoty jsou ukazateli aterogenního rizika.
+
+Extravaskulární zásoby cholesterolu (tendinózní a tuberózní xanthomy) mohou být výrazně sníženy nebo dokonce zcela eliminovány během léčby fenofibrátem.
+U pacientů se zvýšenými hladinami fibrinogenu léčených fenofibrátem se ukázalo významné snížení tohoto parametru jako u pacientů se zvýšenými hladinami Lp(a). Při léčbě fenofibrátem se snižují další zánětlivé markery jako C reaktivní protein.
+Urikosurický účinek fenofibrátu vedoucí ke snížení hladiny kyseliny močové přibližně o 25% by měl být dalším přínosem u dyslipidemických pacientů s hyperurikémií.
+
+U fenofibrátu se ukázal antiagregační účinek na krevní destičky u zvířat a v klinických studiích, kde se ukázalo snížení agregace destiček vyvolané ADP, kyselinou arachidonovou a epinefrinem.
+
+Existují důkazy, že léčba fibráty může snížit výskyt ischemické choroby srdce, ale nebylo prokázáno snížení mortality z jakékoli příčiny v primární ani sekundární prevenci kardiovaskulárního onemocnění.
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Fenofibrát není detekovatelný v plazmě v nezměněné formě; hlavním metabolitem je kyselina fenofibrová. Maximální plazmatická koncentrace je dosahována za 4-5 hodin po perorálním podání léčiva. Po podání 200 mg fenofibrátu denně, ve formě Lidose nebo mikronizované, je dosahováno plazmatické koncentrace kolem 15 mikrogramů/ml. Při kontinuální léčbě jsou plazmatické koncentrace stabilní u všech jedinců.
+Vstřebávání fenofibrátu se zvyšuje při podání s potravou.
+Kyselina fenofibrová se silně váže na plazmatický albumin (více než 99%) a je schopna vytěsnit antagonisty vitamínu K z jejich vazebných míst a tím potencovat jejich antikoagulační účinek (viz bod 4.5).
+Plazmatický poločas
+Poločas eliminace kyseliny fenofibrové činí asi 20 hodin.
+
+Metabolismus a vylučování
+Přípravek se vylučuje zejména močí. Prakticky celé množství účinné látky se vyloučí během 6 dní. Fenofibrát se vylučuje hlavně ve formě kyseliny fenofibrové a jejího glukuronidového konjugátu. U starších pacientů je celková pozorovaná plazmatická clearance kyseliny fenofibrové nezměněná. Fenofibrát není substrátem pro CYP 3A4. Jaterní mikrozomální metabolismus není zapojen.
+
+Farmakokinetické studie sledující podání jedné dávky i kontinuální podávání prokázaly, že nedochází ke kumulaci léčiva.
+
+Kyselina fenofibrová není eliminována hemodialýzou.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+V tříměsíční neklinické studii s potkany, kteří dostávali perorálně aktivní metabolit fenofibrátu - kyselinu fenofibrovou, byla pozorována toxicita pro kosterní svalstvo (zvláště pro svaly bohaté na typ I svalových vláken – na pomalá oxidační svalová vlákna) a srdeční degenerace, anemie a snížená tělesná hmotnost.
+Při dávkách až do 30 mg/kg (přibližně 17krát vyšší expozice než při maximální doporučené dávce u lidí) nebyla pozorována skeletální toxicita. Při expozici dávce přibližně 3krát převyšující expozici při maximální doporučené dávce u lidí nebyly zaznamenány známky kardiomyotoxicity. U psů léčených po dobu 3 měsíců se objevily reversibilní vředy a eroze gastrointestinálního traktu. Při expozici přibližně
+
+
+7/9
+
+5krát převyšující expozici při maximální doporučené dávce u lidí nebyly v této studii zaznamenány gastrointestinální léze.
+
+Studie mutagenity fenofibrátu byly negativní.
+
+U potkanů a myší byly zjištěny jaterní nádory po vysokých dávkách, které lze přisoudit proliferaci peroxisomu. Tyto změny jsou specifické pro malé hlodavce a nebyly pozorovány
+u jiných zvířecích druhů. Pro terapeutické použití u člověka to nemá význam.
+
+Studie u myší, potkanů a králíků neodhalily žádné teratogenní účinky. Embryotoxické účinky byly pozorovány v dávkách v rozmezí toxicity pro matku. Při vysokých dávkách bylo pozorováno prodloužení gestace a potíže při porodu.
+
+Ve studiích toxicity po opakovaných dávkách kyseliny fenofibrové u mladých psů byla pozorována reversibilní hypospermie, testikulární vakuolizace a nezralost ovarií. Avšak v neklinických studiích reprodukční toxicity s fenofibrátem nebyl zaznamenán vliv na fertilitu.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+glyceromakrogol-laurát makrogol 20 000 hyprolosa
+sodná sůl karboxymethylškrobu (typ A)
+
+Složení želatinových tobolek:
+želatina
+červený oxid železitý (E172) žlutý oxid železitý (E172) černý oxid železitý (E172) oxid titaničitý (E171) indigokarmín (E132).
+
+6.2  Inkompatibility
+
+Dosud nebyly zjištěny.
+6.3  Doba použitelnosti
+
+2 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky pro uchovávání.
+
+6.5  Druh obalu a obsah balení
+Blistr Al/PVC bezbarvý, průhledný, krabička. Velikost balení: 30, 50, 60, 90, 100 tobolek.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+8/9
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+do 31. 10. 2020
+
+PharmaSwiss Česká republika s.r.o. Jankovcova 1569/2c
+170 00 Praha 7 Česká republika
+
+od 1. 11. 2020
+
+Bausch Health Ireland Limited
+3013 Lake Drive, Citywest Business Campus Dublin 24, D24PPT3
+Irsko
+
+8.   REGISTRAČNÍ ČÍSLO
+
+31/193/04-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 29.12.2004
+Datum posledního prodloužení registrace: 1.9.2010
+
+
+10.  DATUM REVIZE TEXTU
+
+13. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

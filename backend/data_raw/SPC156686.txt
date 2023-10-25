@@ -1,0 +1,442 @@
+Sp. zn. sukls41150/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Vinblastin Teva 1 mg/ml injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna lahvička 10 ml obsahuje vinblastini sulfas 10 mg.
+1 ml injekčního roztoku obsahuje vinblastini sulfas 1 mg Pomocná látka se známým účinkem:
+Lahvička 10 ml obsahuje 90 mg chloridu sodného (což odpovídá 35 mg sodíku).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Injekční roztok
+Popis přípravku: Vinblastin Teva je čirý, bezbarvý až nažloutlý roztok. Hodnota pH 3,5-5,5; osmolalita 286 mOsm/l.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Přípravek Vinblastin Teva se může použít v monoterapii, ale obvykle se používá v kombinaci s jinými cytostatickými přípravky a/nebo v kombinaci s radioterapií následujících malignit:
+
+-   zhoubný lymfom nehodgkinského typu
+-   Hodgkinova choroba
+-   pokročilý testikulární karcinom
+-    rekurentní nebo metastazující karcinom prsu (jestliže režim založený na antracyklinu selhal)
+-   histiocytóza Langerhansových buněk (histiocystóza X)
+
+4.2  Dávkování a způsob podání
+
+Tento přípravek je určen pouze k intravenóznímu podání. Podává se výhradně pod dohledem lékaře se zkušenostmi s podáváním vinblastin-sulfátu.
+
+PŘÍPRAVEK  VINBLASTIN  TEVA  SE  PODÁVÁ  POUZE  INTRAVENÓZNĚ.  JINÉ ZPŮSOBY PODÁNÍ JSOU ŽIVOTU NEBEZPEČNÉ.
+
+V případě chybného intratekálního podání viz bod 4.4.
+Návod pro použití/zacházení s přípravkem viz bod 6.6.
+
+Před každým podáním je nezbytné zkontrolovat počet neutrofilů. Dávkování
+1
+
+Úvodní dávka
+Dospělí
+Je vhodné začít terapii dávkou 0,1 mg/kg (3,7 mg/m²) intravenózně (i.v.) jednou týdně, po které se provede kontrola počtu leukocytů za účelem stanovení citlivosti pacienta na přípravek.
+Peditrická populace
+Je vhodné začít terapii dávkou 2,5 mg/m² i.v., po které se provede kontrola počtu leukocytů za účelem stanovení citlivosti pacienta na přípravek.
+Udržovací dávka
+Leukopenie jako reakce na podání vinblastin-sulfátu se mění. Proto se nedoporučuje podávat vinblastin-sulfát častěji než jednou za sedm dní. Nízká denní dávka vinblastin-sulfátu se nedoporučuje a to ani, kdyby celková týdenní dávka byla stejná jako doporučená dávka, protože frekvence a závažnost toxicity by mohla být vyšší. Úvodní dávka se může týdně zvyšovat o 0,05 mg/kg (1,8 mg/m²) dospělým a 1,25 mg/m² dětem.
+
+Obvyklá dávka je 5,5-7,5 mg/m², průměrná dávka 0,15-0,2 mg/kg nebo 4-6 mg/m² u dospělých. Po dosažení maximální dávky, která snižuje počet leukocytů přibližně na 3 000/mm³, dávku nezvyšujte. U některých pacientů může leukopenii způsobovat už dávka 0,1 mg/kg (3,7 mg/m²), u jiných ji vyvolá dávka vyšší než 0,3 mg/kg (11,1 mg/m²) a velmi zřídka až dávka 0,5 mg/kg (18,5 mg/m²). Avšak pro většinu pacientů se bude týdenní dávka pohybovat mezi 0,15 a 0,2 mg/kg.
+Po stanovení dávky vinblastin-sulfátu vyvolávající výše uvedenou leukopenii se bude jako udržovací dávka podávat množství rovnající se předchozí stanovené dávce, a to v jednotýdenních odstupech. Takže pacient bude dostávat maximální dávku, která ještě nevyvolá leukopenii. Maximální dávka je 0,5 mg/kg (18,5 mg/m²) pro dospělé. Obvyklá dávka pro děti je 7,5 mg/m², jednorázově se podává 12,5 mg/ m².
+
+Další dávka vinblastin-sulfátu se může podat teprve tehdy, až se počet leukocytů zvýší alespoň na 4 000/mm³ a po uplynutí sedmidenního intervalu. V některých případech se může onkolytický účinek projevit ještě před tím, než se projeví leukopenie. V těchto případech již nebude nutné další dávku zvyšovat. Udržovací terapie neurčené délky je založena na maximální dávce, kterou lze podávat jako ambulantní léčbu jednou za sedm až čtrnáct dní, aniž by se počet leukocytů snížil na nebezpečnou hodnotu.
+
+Dávkování při zhoršené funkci jater
+Jestliže je první den léčby funkce jater abnormální, bude dávka vinblastin-sulfátu 100% při koncentraci bilirubinu < 25 µmol/l (nebo < 1,5 mg/dl), 50% při hodnotách 25-50 µmol/l (nebo 1,5 – 3,0 mg/dl). Vinblastin-sulfát má být podán, pokud je hodnota bilirubinu  > 50 µmol/l (nebo  > 3 mg/dl).
+
+Dávkování při zhoršené funkci ledvin
+Protože metabolismus a vylučování probíhá primárně v játrech, není nutné u pacientů se zhoršenou funkcí
+ledvin upravovat dávkování.
+Kombinovaná terapie
+Při kombinované léčbě se může dávkování a frekvence od výše uvedených týdenních standardních dávek lišit. Správné dávkování v rámci režimu kombinované léčby lze zjistit z aktuální lékařské literatury.
+
+Způsob podání
+Přípravek Vinblastin Teva se podává výhradně intravenózně a nesmí se podávat intramuskulárně, subkutánně ani intratekálně.
+Intratekální podání vede ke smrtelné neurotoxicitě a je tudíž kontraindikováno.
+
+Požadovaná injekční dávka přípravku Vinblastin Teva se může podat intravenózní infuzí nebo jako bolus
+do žíly. Podání ve formě bolusu je zvláště vhodné pro ambulantní léčbu pacienta. Pokud se jehla do žíly
+
+2
+
+zavede správně a nedochází k úniku látky mimo ni, což může vyvolat celulitidu nebo flebitidu, lze injekci aplikovat během jedné minuty. Abychom zabránili extravazaci vinblastin-sulfátu, doporučuje se jehlu a injekční stříkačku propláchnout před vytažením jehly žilní krví. Pokud dojde k extravazaci, je nutné podávání okamžitě přerušit a zbývající část dávky podat do jiné žíly.
+Vinblastin Teva se nesmí naředit ve velkém množství roztoku (např. 100 až 250 ml) a nepodává se jako pomalá infuze (během 30 až 60 minut či déle), neboť se tím může zvýšit riziko podráždění. V souvislosti se zvýšeným nebezpečím trombózy se nedoporučuje podávat přípravek Vinblastin Teva do končetiny s cévní obstrukcí nebo s tendencí ke vzniku obstrukce v důsledku komprese nebo invaze nádoru, flebitidy nebo varixy.
+Pokud se dodává rekonstituovaný vinblastin-sulfát v odlišném obalu než v originální lahvičce přípravku, například v injekční stříkačce, vyžaduje se označit vnější obal nápisem: “Výhradně pro intravenózní podání”.
+
+4.3 Kontraindikace
+
+-  Hypersenzitivita na léčivou látku nebo na jakýkoli jiný vinca-alkaloid nebo na kteroukoli pomocnou
+látku uvedenou v bodě 6.1
+-  Leukopenie nesouvisející s nádorem
+-  Těžká nekontrolovaná infekce. V tomto případě je před podáním vinblastin-sulfátu třeba infekci kontrolovat antiseptiky nebo antibiotiky.
+-  Intratekální podání přípravku Vinblastin Teva
+-  Kojení (viz bod 4.6)
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Přípravek Vinblastin Teva se podává výhradně pod dohledem lékaře specializovaného na podávání onkolytické terapie, přednostně na odděleních, která mají s touto terapií zkušenosti.
+Injekční stříkačky obsahující tento přípravek musí být označeny „POUZE INTRAVENÓZNÍ PODÁNÍ. JINÉ ZPŮSOBY PODÁNÍ JSOU ŽIVOTU NEBEZPEČNÉ.“
+Injekční stříkačky připravené magistraliter obsahující přípravek musí být na obalu opatřeny přelepkou s informací  “PONECHEJTE  V OBALU  AŽ  DO  DOBY  PODÁNÍ  INJEKCE.  ŽIVOTU NEBEZPEČNÉ  PŘI  JINÉM  ZPŮSOBU  PODÁNÍ.  URČENO  VÝHRADNĚ  PRO INTRAVENÓZNÍ PODÁNÍ.”
+
+Přípravek Vinblastin Teva se smí podávat pouze intravenózně. Intratekální podání vede ke smrtelné
+neurotoxicitě.
+Jestliže se po podání dávky vinblastin-sulfátu objeví leukopenie s hodnotami nižšími než 2 000 leukocytů/mm³, je nutné pacienta pečlivě sledovat a další dávku podat teprve po dosažení normálních hodnot leukocytů. Po léčbě vinblastin-sulfátem lze předpokládat největší pokles počtu granulocytů do 5 až 10 dní od posledního dne podání. Návrat počtu granulocytů k normálu je pak celkem rychlý a dochází k němu obvykle za dalších sedm až čtrnáct dní. Pacienti s ulcerací kůže, kachektičtí nebo starší pacienti mají k leukopenii vyvolané vinblastin-sulfátem větší sklon. Proto se výslovně nedoporučuje, aby tito pacienti přípravek užívali. U pacientů s infiltrací kostní dřeně nádorovými buňkami může po podání vinblastin-sulfátu docházet k výraznější supresi kostní dřeně.
+
+Počet trombocytů se sice obvykle v důsledky léčby vinblastin-sulfátem významně nesnižuje, nicméně u pacientů, u nichž nedávno došlo po předchozí léčbě ozařováním nebo jinými onkolytickými přípravky ke zhoršení stavu kostní dřeně, může dojít k trombocytopenii (méně než 150 000 destiček/mm³). Pokud nepředcházela jiná chemoterapie či ozařování, pak se jen vzácně vyskytne snížení počtu trombocytů pod hodnotu 150 000/mm³, ačkoli obecně může vinblastin-sulfát významnou granulocytopenii vyvolávat. K rychlému uzdravení trombocytopenie zpravidla dochází za několik dní.
+
+
+3
+
+Vliv vinblastin-sulfátu na počet červených krvinek a na hemoglobin není obvykle nijak významný, pokud krevní obraz není ovlivněn ještě jinou léčbou.
+
+Stomatitida a neurotoxicita, i když nejsou časté a jsou přechodné, mohou být invalidizující. Dlouhodobé každodenní užívání nízkých dávek vinblastin-sulfátu se nedoporučuje, a to ani v případech, kdy je celková týdenní dávka stejná jako dávka doporučovaná. Je velmi důležité přesně dodržovat předepsaný rozpis dávkování. Jestliže se dlouhodobě podávají množství rovnající se předepsané týdenní dávce rozděleně do sedmi dní, objevují se křeče, těžké a trvalé poškození centrálního nervového systému a dokonce smrt.
+V průběhu léčby a ještě po dobu 6 měsíců od jejího ukončení mají ženy i muži dodržovat antikoncepční opatření (viz bod 4.6).
+
+V současné době neexistuje důkaz, který by svědčil o tom, že je samotný vinblastin-sulfát u člověka karcinogenní, přestože se u některých pacientů po radiační terapii a po jeho podávání v kombinaci s alkylačními látkami objevila leukémie. Přestože v tuto chvíli není ani žádný průkaz mutagenního potenciálu vinblastin-sulfátu, je nutná při jeho užívání stejná opatrnost jako u všech cytostatik.
+Po podávání vinca-alkaloidů se vyskytly případy akutní dyspnoe a těžkých bronchospazmů. Tyto reakce se objevují častěji v případech, kdy se vinblastin-sulfát kombinuje s mitomycinem C. Může být nezbytná agresivní léčba, a to zvláště při pulmonální dysfunkci v anamnéze. Tyto reakce se mohou objevovat za několik minut nebo až za několik hodin po podání vinblastin-sulfátu, popřípadě až do 2 týdnů po podání mitomycinu. Po podání bronchodilatačních látek, kortikosteroidů a kyslíku dojde u většiny pacientů ke kompletní nápravě stavu. Avšak u řady pacientů se vyskytovala progresivní dyspnoe, která vyžaduje chronické užívání kortikosteroidů. Vinblastin-sulfát se nemá podat znovu (viz též bod 4.5).
+
+Opatrnost je nutná v případě jaterní insuficience, protože bude pravděpodobně docházet ke zpomalenému vylučování a bude tedy nezbytné upravit dávkování (viz bod 4.2).
+Opatrnost je nutná u pacientů s ischemickou chorobou srdeční.
+Tento přípravek se obecně nedoporučuje podávat v kombinaci s živými oslabenými vakcínami,
+fenytoinem nebo itrakonazolem (viz bod 4.5).
+Z důvodu možné úpravy dávky je nutné pečlivě sledovat periferní nervový systém.
+U remise či indukce lymfomu se mohou objevit zvýšené hodnoty kyseliny močové v séru; proto je
+nutné tyto hodnoty sledovat nebo uplatnit příslušná opatření.
+V průběhu léčby vinblastin-sulfátem je nutné vyhýbat se intenzivnímu slunění. Je třeba zabránit kontaktu vinblastin-sulfátu s očima.
+U starších pacientů se může zhoršit ortostatická hypotenze.
+V případě podezření na nedostatečnou sekreci ADH se musí monitorovat hladiny elektrolytů a rovnováha tekutin.
+
+Zácpa, která se může objevit jako nežádoucí účinek léčby vinblastin-sulfátem, reaguje dobře na běžné prostředky jako klystýr a laxativa. Zácpa může mít formu zaklínění v oblasti horní části tlustého střeva a rektum se může při palpačním vyšetření jevit jako prázdné. Pro průkaz tohoto stavu je vhodný rentgenový snímek břicha. Aby se předešlo vzniku zácpy, doporučuje se zavést pacientům léčenými vysokými dávkami vinblastin-sulfátu rutinní preventivní opatření proti zácpě.
+Opatření při podávání a rekonstituci
+Jestliže dojde k rozlití během ředění a/nebo během podávání, vzniká riziko poškození pokožky či rohovky. V těchto případech je třeba postižená místa opláchnout nebo vypláchnout dostatečným množstvím vody. Při přípravě a podávání je nutné dodržovat příslušná opatření pro zacházení s cytostatiky jako použití ochranných rukavic, obličejové masky a ochranných brýlí.
+Je nutné se vyvarovat extravazace. Případná difúze látky do okolních tkání při intravenózním podání může vyvolat jejich značné podráždění. Podávání se musí neprodleně přerušit a zbytek dávky podat do jiné žíly.
+
+
+4
+
+Lokální injekce hyaluronidázy a mírné ohřátí v místě extravazace umožní disperzi přípravku, která zamezí
+vzniku obtíží a zabrání možné celulitidě a flebitidě.
+
+Intratekální podání přípravku Vinblastin Teva vede ke smrtelné neurotoxicitě.
+Při náhodném podání přípravku Vinblastin Teva intratekální cestou se doporučují níže uvedená opatření. V jednom případě se podařilo zastavit postupující paralýzu dospělého, kterému se podal podobný vinca- alkaloid, vinkristin-sulfát, intratekální cestou, pomocí následující léčby. Tato léčba musí být zahájena okamžitě:
+1.  Lumbálně bylo odebráno co možná největší množství mozkomíšního moku, které bylo ještě bezpečné.
+2.  Subarachnoidální oblast byla propláchnuta roztokem Ringer-laktátu, a to kontinuální infuzí pomocí katétru v laterální mozkové komoře rychlostí 150 ml za hodinu. Mok se odebíral lumbálně.
+3.  Jakmile to bylo možné, zředilo se 25 ml čerstvě zmražené plazmy v 1 litru roztoku Ringem-laktátu a naředěný roztok se infuzí podával cerebrálním ventrikulárním katétrem rychlostí 75 ml za hodinu. Mok se znovu odebíral lumbálně. Rychlost infuze se upravovala tak, aby byla v mozkomíšním moku zajištěna hladina proteinů 150 mg/ml. Dále se postup opakoval znovu od kroku 3 s jedním litrem rozředěné čerstvě zmražené plazmy.
+4.  Intravenózně se podávalo 10 g kyseliny glutamové, a 24 hodin poté následovalo podání 500 mg per os třikrát denně po dobu jednoho měsíce nebo až do stabilizace neurologické dysfunkce. Role kyseliny glutamové není v této souvislosti zcela jasná. Pravděpodobně ovšem není zásadní.
+5.   Intravenózně se podávala kyselina folinová, a to jako 100 mg bolus, pak se podávala v infuzi rychlostí 25 mg/h po dobu 24 hodin, dále jako bolus v dávkách 25 mg po 6 hodinách po dobu jednoho týdne. Pyridoxin se podával v dávce 50 mg po 8 hodinách intravenózní infuzí po dobu 30 min. Jejich úloha při snižování neurotoxicity není jasná.
+
+Pomocné látky
+Sodík
+Tento léčivý přípravek obsahuje 35 mg sodíku v jedné injekční lahvičce, což odpovídá 1,8 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Vzhledem ke zvýšenému nebezpečí vzniku trombóz u nádorových onemocnění se často používají antikoagulancia. Vysoká variabilita srážlivosti existující při těchto onemocněních mezi jednotlivými pacienty i možnost interakcí mezi perorálními antikoagulancii a chemoterapií si v případě nutnosti jejich použití vyžaduje monitorování hodnot INR (International Normalised Ratio).
+
+Kombinace  vinblastin-sulfátu  s jinými  myelotoxickými  nebo  neurotoxickými  látkami  nebo s ozařováním větších ploch zvyšuje nebezpečí toxicity. Pokud se chemoterapie podává v kombinaci s radioterapií přes portály zahrnující játra, má se podání vinblastin-sulfátu odložit na dobu po ukončení ozařování.
+Opatrně se musí vinblastin-sulfát podávat pacientům užívajících souběžně léčivé přípravky, o nichž je známo, že inhibují metabolizmus této látky cestou isoenzymů jaterního cytochromu CYP3A, nebo u pacientů s poruchami jaterních funkcí. Současné podávání vinblastin-sulfátu a inhibitoru metabolismu této cesty může vyvolat rychlejší nástup vedlejších účinků nebo jejich zvýšenou závažnost.
+
+Současné perorální nebo intravenózní podání digitoxinu v kombinaci s chemoterapeutiky včetně
+vinblastin-sulfátu může vést ke snížení hladin digitoxinu a snížení jeho účinnosti.
+
+Současné perorální nebo intravenózní podání fenytoinu v kombinaci s chemoterapeutiky včetně vinblastin-sulfátu může vést ke snížení hladin fenytoinu a k vyšší frekvenci záchvatů. Dávky fenytoinu se upraví podle hladiny v krvi. Nakolik přispívá vinblastin-sulfát k této interakci, není známo. Možná
+
+5
+
+interakce je následkem sníženého vstřebávání fenytoinu a zvýšeného metabolismu a zrychleného vylučování.
+
+V případě kombinace vinblastin-sulfátu s mitomycinem C byla popsána ireverzibilní plicní toxicita, a to zvláště již postižené tkáně (viz bod 4.4). Vinblastin-sulfát použitý jako součást kombinované léčby s mitomycinen může vést k akutnímu respiračnímu útlumu a pulmonální infiltraci. Případy respiračního útlumu s intersticiálními plicními infiltráty se vyskytovaly u pacientů při terapii zahrnující vinblastin- sulfát, mitomycin a progesteron (MVP).
+Při současné léčbě s cisplatinou byly hlášeny vyšší plazmatické koncentrace vinblastin-sulfátu.
+
+Raynaudův fenomén a gangréna se vyskytovaly po současném podávání vinblastin-sulfátu a bleomycinu, hlášeny byly ale i jiné cévní příhody (jako infarkt myokardu a mozkově-cévní příhody) po kombinované léčbě vinblastin-sulfátem, bleomycinem a cisplatinou.
+
+Po podání vinblastin-sulfátu se může zesílit neurotoxicita cisplatiny nebo interferonu a kardiotoxicita interferonu.
+Vyskytovat se mohou farmakodynamické i farmakokinetické interakce vinblastin-sulfátu s jinými
+cytostatiky a s imunosupresivy, které se projeví zesílením terapeutických, ale i toxických účinků. Během radioterapie a po ní jsou také možné interakce s ozařováním.
+Erytromycin může zvyšovat toxicitu vinblastin-sulfátu.
+Současné užití vinblastin-sulfátu a itrakonazolu může zvyšovat nebezpečí vzniku neurotoxicity nebo
+paralytického ileu.
+Léčba cytotoxickými přípravky zahrnujícími i vinblastin-sulfát může snižovat sérové hladiny
+antikonvulsiv.
+
+Vinblastin-sulfát může působit na vychytávání methotrexátu buňkami. Interakce mezi vinblastin-sulfátem a alkylačními látkami a methotrexátem může během buněčného cyklu vést ke zvýšení celkového cytotoxického účinku.
+
+Pacienti léčení imunosupresivní chemoterapií se nesmí očkovat živými vakcínami kvůli nebezpečí systémového onemocnění, které může být až smrtelné. Toto nebezpečí se zvyšuje u jedinců, kteří již mají sníženou imunitu v důsledku svého základního onemocnění. Pokud to je možné, použije se neživá vakcína.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+U člověka není o použití vinblastin-sulfátu v době těhotenství dostatek informací. Potenciálně škodlivé účinky během těhotenství jsou zřejmé z farmakologické aktivity. Předklinické studie prokazují genotoxicitu, teratogenitu a další reprodukční toxicitu (viz bod 5.3). Vinblastin-sulfát se tedy nemá během těhotenství užívat, pokud to není nevyhnutelně nutné.
+Pokud je léčba vinblastin-sulfátem během těhotenství absolutně nevyhnutelná nebo pokud dojde k otěhotnění během léčby, má být pacientka informována o nebezpečí pro nenarozené dítě a má být pečlivě sledována. Je třeba zvážit možnou genetickou konzultaci.
+Kojení
+Není známo, zda vinblastin-sulfát přechází do mateřského mléka. Proto je při kojení kontraindikován. V průběhu léčby vinblastin-sulfátem se musí kojení přerušit.
+
+Antikoncepce
+Muži i ženy v reprodukčním věku mají během léčby vinblastin-sulfátem a ještě nejméně tři měsíce, lépe však šest měsíců po ní, dodržovat účinná antikoncepční opatření.
+Fertilita
+
+6
+
+Vinblastin-sulfát může mít vliv na fertilitu mužů a žen. Podobně jako u mnoha léčivých přípravků chybí informace o vlivu vinblastin-sulfátu na spermatogenezi. U člověka byla popsána aspermie. Studie na zvířatech svědčí o přerušeném dělení v metafázi a o degenerativních změnách zárodečných buněk (viz bod 5.3).
+Po léčbě vinblastin-sulfátem je možná reverzibilní nebo ireverzibilní neplodnost mužů i žen. U několika pacientek léčených vinblastin-sulfátem v kombinaci s jinými léčivými přípravky se objevila amenorea. Menstruace se často obnovila.
+Mužům se doporučuje před zahájením léčby vinblastin-sulfátem zvážit možnost konzervace spermií.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Není známo, nakolik tento přípravek ovlivňuje schopnost řídit motorová vozidla. Vzhledem k nežádoucím účinkům se však doporučuje vzít v úvahu možnost potenciálního ovlivnění schopnosti řídit motorová vozidla.
+
+4.8  Nežádoucí účinky
+Frekvence výskytu nežádoucích účinků vinblastin-sulfátu obecně souvisí obvykle s velikostí podané dávky. Většina nežádoucích účinků obecně nepřetrvává déle než 24 hodin.
+
+Níže uvedené nežádoucí účinky jsou klasifikovány podle frekvence výskytu následujícím způsobem:
+Velmi časté (≥ 1/10)
+Časté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až < 1/100) Vzácné (≥ 1/10 000 až < 1/1 000) Velmi vzácné (< 1/10 000)
+Není známo (z dostupných údajů nelze určit)
+Poruchy krve a lymfatického systému
+Velmi časté
+Leukopenie je nejčastějším nežádoucím účinkem a je dávku limitujícím faktorem.
+Časté
+Anemie, trombocytopenie a myelosuprese
+Není známo
+Hemolytická anemie
+
+Endokrinní poruchy
+Vzácné
+SIADH (syndrom nepřiměřené sekrece ADH) se vyskytoval u doporučeného dávkování a u vyšších dávek
+(viz též bod 4.9).
+
+Psychiatrické poruchy
+Méně časté Mentální deprese Není známo Psychóza
+Poruchy nervového systému
+Časté
+Parestezie, ztráta hlubokých šlachových reflexů
+Vzácné
+Pocit hluchoty, periferní neuritida, bolest hlavy, křeče, točení hlavy. U pacientů léčených kombinovanou chemoterapií zahrnující bleomycin a cisplatinu s vinblastin-sulfátem byly hlášeny případy cévních mozkových příhod.
+Není známo
+
+7
+
+Neurogenní bolest (např. v oblasti obličeje a čelisti), periferní neuropatie, paralýza hlasivek.
+
+Poruchy oka
+Není známo
+Těžké epiteliální eroze s blefarospazmem, otoky očních víček a preaurikulárních lymfatických uzlin
+po kontaktu s rohovkou.
+
+Poruchy ucha a labyrintu
+Vzácné
+Ototoxicita, poškození vestibulární i kochleární větve n. VIII. Projevy zahrnují částečnou nebo absolutní hluchotu, která může být dočasná nebo trvalá, a potíže s rovnováhou, včetně točení hlavy, nystagmu a vertigem.
+Není známo
+Tinnitus
+
+Srdeční poruchy
+Vzácné
+Sinusová tachykardie, angina pectoris, AV blokáda, arytmie
+Není známo
+U pacientů léčených kombinací bleomycinu, cisplatiny a vinblastin-sulfátu byly hlášeny případy infarktu
+myokardu.
+Cévní poruchy
+Není známo
+Byla popsána náhodná hypertenze a těžká hypotenze. U pacientů léčených kombinací bleomycinu, cisplatiny a vinblastin-sulfátu pro nádor varlat se vyskytoval Raynaudův fenomén.
+Ortostatická hypotenze
+
+Respirační, hrudní a mediastinální poruchy
+Méně časté
+Faryngitida
+Po podání vinca-alkaloidů byly hlášeny akutní dechové potíže (bronchospazmy). U pacientů užívajících současně nebo v minulosti mitomycin-C se může od několika minut až do několika hodin po podání vinblastin-sulfátu objevit zástava dechu, chrčení, abnormální infiltráty. Poruchy funkce plic, které jsou způsobeny plicní toxicitou této kombinace se mohou objevit až dva týdny po podání mitomycinu C. Oba přípravky musejí být okamžitě vysazeny (viz body 4.4 a 4.5).
+
+Gastrointestinální poruchy
+Velmi časté Nauzea, zvracení Časté
+Zácpa (viz bod 4.4), ileus, krvácení ze starého peptického vředu, hemoragická enterokolitida, krvácení z
+konečníku, anorexie a průjem
+Není známo
+Stomatitida, bolest v oblasti žaludku, bolest v oblasti břicha, citlivost příušních žláz
+
+Poruchy jater a žlučových cest
+Není známo
+Jaterní fibróza
+
+Poruchy kůže a podkožní tkáně
+Velmi časté
+Vypadávání vlasů, není obvykle totální a v řadě případů začnou vlasy znovu růst již během udržovací léčby. Byla hlášena tvorba puchýřů v ústech a na pokožce.
+Není známo
+
+8
+
+Dermatitida, fototoxicita
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Není známo
+Svalová atrofie
+
+Poruchy ledvin a močových cest
+Není známo
+Retence moči, trombotická mikroangiopatie s renální insuficiencí
+Poruchy reprodukčního systému a prsu
+Není známo
+Snížení fertility, aspermie
+
+Celkové poruchy a reakce v místě aplikace
+Méně časté
+Bolest v místě nádoru, malátnost
+Není známo
+Slabost, horečka, extravazace v podkožních tkáních při intravenózním podání roztoku vinblastin-sulfátu může vést k celulitidě, nekróze a tromboflebitidě, bolestivosti v místě vpichu, a to zvláště po podání do malých cév.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+
+Symptomy
+Předávkování vinblastin-sulfátem vede ke zhoršení nežádoucích účinků (viz bod 4.8). Suprese kostní dřeně – zvláště leukopenie – mohou být výraznější. Kromě toho se může objevit neurotoxicita (parestezie, periferní neuropatie) podobná neurotoxicitě pozorované při podání vincristin-sulfátu.
+
+Léčba
+Vinblastin-sulfát nemá žádné antidotum. Léčba je symptomatická a podpůrná.
+Doporučuje se podávání vinblastin-sulfátu vysadit. Je-li to nezbytné, musí se zavést celková podpůrná opatření a podat krevní transfuze. Při předávkování se doporučují následující opatření:
+1.  Prevence účinků „syndromu nepřiměřené sekrece ADH“ omezením tekutin a podáním diuretika působícího na Henleovu kličku a funkci distálního tubulu
+2.  Podání léku proti křečím
+3.  Tekutá strava v důsledku potenciálního ileu
+4.  Sledování kardiovaskulárních funkcí
+5.  Každodenní hematologické testy
+6.  Studie na zvířatech naznačují, že kyselina listová může mít ochranný účinek, a proto lze uplatnit
+následující režim:
+100 mg i.v. každé 3 hodiny po dobu 48 hodin a každých 6 hodin po dobu dalších 48 hodin.
+Hemodialýza je pro vylučování tohoto léčivého přípravku neúčinná.
+
+
+9
+
+Na základě farmakokinetického profilu se dá očekávat, že zvýšené hodnoty budou přetrvávat po dobu minimálně 72 hodin.
+
+Při požití vinblastin-sulfátu se doporučuje podat perorálně aktivní uhlí rozpuštěné ve vodě, a to společně
+s purgativem. Použití cholestyraminu za těchto okolností se neuvádí.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antineoplastika, alkaloidy a vinca-alkaloidy ATC kód: L01CA 01
+Vinblastin patří k vinca-alkaloidům, váže se na tubulin a narušuje funkci mikrotubulů nejen tím, že zabraňuje polymerizaci, ale i tím, že vyvolává depolymerizaci vzniklých mikrotubulů. Tím narušuje normální reorganizaci mikrotubulární sítě, která je nezbytná pro interfázi a mitózu. Kromě zastavení mitózy, se zdá, že jsou vinca-alkaloidy také cytotoxické pro neproliferující buňky ve fázi G1- a v S-fázi.
+Hematologické účinky: během léčby vinblastin-sulfátem lze očekávat leukopenii; pro léčbu je důležitým vodítkem počet leukocytů. Obecně bude leukopenie výraznější a bude trvat déle, pokud je podaná dávka vyšší.
+Po zahájení léčby vinblastin-sulfátem bude předpokládaný počet leukocytů nejnižší 5-10 dní po posledním dni podání. Poté se bude tento počet poměrně rychle regenerovat (během 7-14 dní). Při nižším dávkování v rámci udržovací léčby nebývá leukopenie obvykle problémem. Počet trombocytů sice obvykle v důsledku léčby vinblastin-sulfátem výrazně neklesá, avšak sporadicky se může vyskytovat těžká trombocytopenie. Je to méně časté než u jiných cytostatik.
+Trombocytopenie (méně než 200 000 trombocytů na mm³) se může vyskytnout také u pacientů s inhibicí kostní dřeně v důsledku předchozího ozařování nebo léčby jinými onkolytiky. Jestliže nepředcházelo ozařování nebo jiná chemoterapie, pak bude počet trombocytů klesat pod hladinu 200 000/mm³ jen vzácně, a to i přesto, že vinblastin vyvolá zjevnou leukopenii. Do několika málo dní dochází zpravidla i k rychlému ústupu trombocytopenie. Vliv vinblastinu na počet erytrocytů a hladiny HGB není obvykle významný, pokud ovšem není obraz komplikován ještě jiným typem léčby.
+
+5.2  Farmakokinetické vlastnosti
+
+Vinblastin vykazuje velký distribuční objem; může to být 27,3 l/kg. Studie na potkanech prokázaly, že nejvyšší koncentrace radioaktivity se vyskytovaly v plicích, játrech, slezině a v ledvinách 2 hodiny po injekci značeného vinblastinu. Vinblastin se většinou váže na sérové proteiny (> 99 %). Metabolizuje se na aktivní deacetylvinblastin.
+Vinblastin vykazuje snížení sérové koncentrace po rychlém intravenózním podání ve třech fázích (s vysokou variabilitou jak interindividuální, tak intraindividuální):
+-  Velmi rychlé strmé snížení koncentrace (fáze alfa, poločas 4 minuty)
+-  Poněkud kratší střední perioda (fáze beta, poločas 1,6 hodiny)
+-  Mnohem delší koncová fáze (fáze gama, poločas 25 hodin s rozpětím 17-31 hodin)
+
+Nejdůležitější cestou vylučování je pravděpodobně žluč, a proto se může toxicita tohoto léčivého přípravku zvyšovat při změněné žlučové exkreci. Po podání značeného vinblastinu se u pacientů 10 % radioaktivity objevilo ve stolici, 14 % v moči, zatímco zbývající radioaktivitu se nepodařilo zachytit. Systémová clearance je 0,74 l/kg/hod.
+Přes hematoencefalickou bariéru přechází vinblastin špatně a po intravenózním podání se v mozkomíšním
+moku neobjevuje v terapeutických koncentracích.
+
+
+10
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Studie na zvířatech zaměřené na reprodukci prokázaly nepříznivé účinky jak na fertilitu, tak na embryonální toxicitu. Studie chronické toxicity prokázaly inhibici spermatogeneze a gastrointestinální toxicitu.  Různé  testy  genotoxicity  prokázaly, že  vinblastin  může  vyvolávat  chromosomální abnormality, mikrojádra a polyploidii. Vinblastin je potenciálně karcinogenní. Jiné předklinické informace nepřinášejí žádné nové poznatky než ty, které jsou již uvedeny v klinických informacích.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Chlorid sodný
+Voda na injekci
+6.2  Inkompatibility
+
+Tento léčivý přípravek se nesmí mísit s žádnými jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 6.6.
+6.3  Doba použitelnosti
+
+3 roky
+
+Chemická a fyzikální stabilita roztoku po naředění byla prokázána na dobu 6 hodin při pokojové teplotě (15 - 25 °C) a normálních světelných podmínkách, pokud byl roztok naředěn na koncentraci 0,5 mg/ml 0,9% roztokem NaCl nebo 5% roztokem glukosy.
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po naředění před použitím jsou v odpovědnosti uživatele a normálně by tato doba neměla být delší než 24 hodin při 2 - 8 °C, pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 - 8 °C). Chraňte před mrazem.
+Uchovávejte lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+Uchovávání přípravku po naředění viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+
+10 ml injekční lahvička z bezbarvého skla typu I se zátkou z bromobutylové pryže, hliníkový uzávěr s bílým odtrhovacím krytem.
+Jedna krabička obsahuje jednu lahvičku.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Podávání
+Vinblastin Teva může podávat pouze kvalifikovaný zdravotník se zkušenostmi s používáním chemoterapeutik, nebo je podání možné pod přímým dohledem takového kvalifikovaného zdravotníka.
+
+Příprava
+
+
+11
+
+Chemoterapeutika k podání připravuje pouze odborník, který byl zaškolen v bezpečném použití přípravku.
+Rozpuštění prášku a natažení do injekčních stříkaček se provádí pouze v prostorách k tomuto účelu vyhrazených.
+Personál provádějící tyto úkony má být řádně chráněn oděvem, rukavicemi a očním štítem.
+S cytotoxickými látkami nemají manipulovat těhotné ženy.
+
+Vinblastin Teva, roztok na injekci se může ředit v 0,9% roztoku NaCl nebo v 5% roztoku glukosy na koncentraci 0,5 mg/ml a podává se intravenózně. Roztok se musí připravovat bezprostředně před použitím.
+Vinblastin Teva roztok na injekci neobsahuje konzervační látku a je tudíž vhodný pouze jako přípravek
+k jednorázovému podání.
+
+Kontaminace
+V případě zasažení pokožky nebo očí se musí zasažená oblast umýt hojným množstvím vody nebo fyziologického roztoku. K ošetření přechodného popálení pokožky lze použít nedráždivý krém. V případě zasažení očí je nutné vyhledat lékařskou pomoc.
+V případě rozlití či rozsypání si musí personál navléct rukavice a rozlitý či rozsypaný materiál setřít houbou, která je na daném pracovišti k tomuto účelu k dispozici. Zasaženou oblast umyjeme vodou dvakrát. Všechny roztoky a houby uložíme do plastového pytle a pevně ho uzavřeme.
+
+Exkrementy a zvratky se musí pečlivě uklidit.
+
+Likvidace
+Injekční stříkačky, nádoby, absorpční materiály, roztok a jakýkoli další kontaminovaný materiál se musí uložit do silného plastového pytle nebo jiného nepropustného obalu k likvidaci spálením.
+Veškerý nespotřebovaný produkt, poškozené lahvičky nebo kontaminovaný odpadní materiál se musí uložit do nádob na odpad určených konkrétně k tomuto účelu a musí se zlikvidovat v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Teva Pharmaceuticals CR, s.r.o.
+Radlická 3185/1c
+Praha, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+
+44/314/09-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 1. 4. 2009
+Datum posledního prodloužení registrace: 29. 5. 2012
+
+10.  DATUM REVIZE TEXTU
+
+3. 4. 2020
+
+
+
+
+12

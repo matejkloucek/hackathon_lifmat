@@ -1,0 +1,317 @@
+Sp.zn. sukls74088/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+Omnic Tocas 0,4 mg tablety s prodlouženým uvolňováním
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna tableta s prodlouženým uvolňováním obsahuje tamsulosini hydrochloridum 0,4 mg,
+Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+Tablety s prodlouženým uvolňováním.
+Kulaté žluté bikonvexní potahované tablety, z jedné strany vyraženo „04“.
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Symptomy dolních močových cest (LUTS) na podkladě benigní hyperplazie prostaty (BPH).
+4.2  Dávkování a způsob podání
+Perorální podání.
+Jedna tableta denně.
+Omnic Tocas lze užívat nezávisle na jídle.
+Tableta se polyká celá a nesmí se rozdrtit nebo žvýkat, protože by se tak narušilo prodloužené
+uvolňování léčivé látky.
+V případě poškození ledvin není snížení dávek tamsulosinu opodstatněné.
+Úprava dávek u mírné až středně těžké insuficience jater není opodstatněná (viz bod 4.3).
+
+Pediatrická populace
+Omnic Tocas není určen pro podání dětem.
+Bezpečnost a účinnost tamsulosinu u dětí mladších 18 let nebyla dosud stanovena.
+Dostupná data jsou popsána v bodě 5.1.
+
+4.3  Kontraindikace
+Hypersenzitivita na tamsulosin-hydrochlorid, včetně léků způsobujících angioedém nebo na
+kteroukoli pomocnou látku uvedenou v bodě 6.1. Ortostatická hypotenze v anamnéze.
+Těžká jaterní insuficience.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Stejně jako u ostatních antagonistů α1-adrenergních receptorů může při léčbě přípravkem Omnic Tocas v jednotlivých případech dojít k poklesu krevního tlaku a v důsledku toho, i když jen zřídka, k mdlobám. Při prvních příznacích ortostatické hypotenze (závratě, slabost) si má pacient sednout nebo lehnout, dokud tyto příznaky nevymizí.
+Před zahájením terapie přípravkem Omnic Tocas má být pacient pečlivě vyšetřen s cílem vyloučit ostatní onemocnění, jejichž symptomy mohou být shodné s příznaky benigní hyperplazie prostaty. Před zahájením léčby a poté v pravidelných intervalech má být provedeno digitální vyšetření per rectum a pokud je zapotřebí, má být stanovena hladina prostatického specifického antigenu (PSA).
+K léčbě pacientů s těžkým poškozením funkce ledvin (clearance kreatininu < 10 ml / min ) je třeba přistupovat s velkou opatrností, neboť pro tyto pacienty nejsou k dispozici údaje z klinických studií. Peroperační syndrom plovoucí duhovky (IFIS – Intraoperative Floppy Iris Syndrome, varianta syndromu malé zornice) byl pozorován během operací katarakty a glaukomu u některých pacientů současně či v minulosti léčených tamsulosin-hydrochloridem. IFIS může zvýšit riziko očních komplikací během operace a po operaci.
+
+Přerušení léčby tamsulosin-hydrochloridem 1-2 týdny před operací katarakty nebo glaukomu je považováno za užitečné, nicméně přínos tohoto přerušení nebyl stanoven. IFIS byl zaznamenán i u pacientů, kteří přerušili užívání tamsulosinu delší dobu před těmito operacemi.
+Zahajování léčby tamsulosin-hydrochloridem u pacientů plánovaných k operaci katarakty nebo glaukomu se nedoporučuje. Během předoperační rozvahy mají oční specialisté vzít v úvahu, zda pacient indikovaný k operaci katarakty nebo glaukomu je nebo byl léčen tamsulosinem, aby byla zajištěna příslušná opatření k případnému zvládnutí IFIS během operace.
+Tamsulosin-hydrochlorid nemá být používán v kombinaci se silnými inhibitory CYP3A4, u pacientů s fenotypem se slabou schopností metabolizace CYP2D6.
+
+Tamsulosin-hydrochlorid je třeba užívat s opatrností v kombinaci se silnými a středně silnými
+inhibitory CYP3A4 (viz bod 4.5). Zbytek tablety se může objevit ve stolici.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Studie interakcí byly provedeny pouze u dospělých.
+Při současném podávání tamsulosin-hydrochloridu s atenololem, enalaprilem nebo theofylinem
+nebyly žádné interakce zaznamenány.
+
+Současné podávání cimetidinu způsobuje vzestup plazmatických hladin tamsulosinu a současná
+aplikace furosemidu vyvolává jejich pokles. Hladiny tamsulosinu však zůstávají v normálním rozmezí a změna dávkování tedy není nutná.
+Za podmínek in vitro ani diazepam, ani propranolol, trichlormethiazid, chlormadinon, amitriptylin,
+diklofenak, glibenklamid, simvastatin nebo warfarin nemění volnou frakci tamsulosinu v lidské
+plazmě. Tamsulosin rovněž nemění volné frakce diazepamu, propranololu, trichlormethiazidu nebo
+chlormadinonu.
+Diklofenak a warfarin však mohou zvýšit rychlost eliminace tamsulosinu.
+
+Současné podávání tamsulosin-hydrochloridu se silnými inhibitory CYP3A4 může vést ke zvýšené expozici tamsulosin-hydrochloridu. Současné podávání s ketokonazolem (známým silným inhibitorem CYP3A4) vedlo ke 2,8násobnému vzestupu AUC a 2,2násobnému vzestupu Cmax tamsulosin- hydrochloridu. Tamsulosin-hydrochlorid nemá být používán v kombinaci se silnými inhibitory CYP3A4 u pacientů s fenotypem se slabou schopností metabolizace CYP2D6.
+Tamsulosin-hydrochlorid je třeba užívat s opatrností v kombinaci se silnými a středně silnými
+inhibitory CYP3A4.
+Současné podávání tamsulosin-hydrochloridu s paroxetinem, silným inhibitorem CYP2D6, vedlo k 1,3násobnému vzestupu AUC a 1,6násobnému vzestupu Cmax tamsulosinu. Tyto vzestupy se však nepovažují za klinicky významné.
+
+Současné podávání jiných antagonistů α1-adrenergních receptorů může vést k hypotenzi.
+4.6  Fertilita, těhotenství a kojení
+Omnic Tocas není určen ženám.
+
+Na základě krátkodobých i dlouhodobých studií byly pozorovány poruchy ejakulace. Po uvedení přípravku na trh byly hlášeny příhody jako porucha ejakulace, retrográdní ejakulace a selhání ejakulace.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Studie hodnotící účinky na schopnost řídit a obsluhovat stroje nebyly provedeny. Pacienti však mají být informováni o možnosti vzniku závratí.
+4.8  Nežádoucí účinky
+
+Třídy
+orgánových
+systémů podle databáze MedDRA Poruchy
+nervového systému Poruchy oka
+
+
+
+Srdeční poruchy Cévní poruchy
+
+Respirační,
+hrudní a
+mediastinální
+poruchy
+Gastrointestinální
+poruchy
+
+Poruchy kůže a podkožní tkáně
+
+
+Poruchy
+reprodukčního systému a prsu
+Časté
+
+(>1/100,
+<1/10)
+
+závratě (1,3%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+poruchy ejakulace včetně
+retrográdní ejakulace a selhání ejakulace
+Méně časté
+
+(>1/1000,
+<1/100)
+
+bolesti hlavy
+
+
+
+
+
+
+palpitace ortostatická hypotenze rinitida
+
+
+
+zácpa, průjem,
+nauzea, zvracení vyrážka, svědění, kopřivka
+Vzácné
+
+(>1/10000,
+<1/1000)
+
+synkopa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+angioedém
+Velmi vzácné
+
+(<1/10000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stevens- Johnsonův syndrom
+
+priapismus
+Není známo
+
+(nelze
+z dostupných dat určit)
+
+
+
+rozmazané vidění* zhoršení
+vidění*
+
+
+
+epistaxe*
+
+
+
+sucho v
+ústech*
+
+erythema multiforme* exfoliativní dermatitida*
+
+
+Celkové poruchy a reakce v místě aplikace
+astenie
+* zaznamenáno po uvedení přípravku na trh.
+
+Během postmarketingového sledování byly pozorovány případy varianty malé zornice, známé také jako peroperační syndrom plovoucí duhovky (IFIS – Intraoperative Floppy Iris Syndrome) související s léčbou tamsulosinem při operaci katarakty nebo glaukomu. (viz též bod 4.4).
+Postmarketingové zkušenosti: Kromě výše uvedených nežádoucích účinků byly v souvislosti
+s podáváním tamsulosinu hlášeny také atriální fibrilace, arytmie, tachykardie a dyspnoe. Vzhledem
+k tomu, že tyto spontánně hlášené příhody pocházejí z celosvětové postmarketingové zkušenosti, nelze jejich četnost a úlohu tamsulosinu v jejich příčinách spolehlivě určit.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování Příznaky
+Předávkování tamsulosin-hydrochloridem může vést až k těžkým hypotenzivním účinkům. Tyto těžké hypotenzivní účinky byly pozorovány v případech s různou mírou předávkování.
+
+Léčba
+Pokud dojde k akutní hypotenzi po předávkování, je nutná podpora kardiovaskulárních funkcí. Krevní tlak a srdeční frekvence se upraví k normálu po položení pacienta. V případě, že uložení pacienta do horizontální polohy nevede k úpravě krevního tlaku ani srdeční frekvence, lze použít látky zvětšující intravazální objem a pokud je to nutné, pak vazokonstriktiva. Měla by být zavedena celková podpůrná terapie a sledovány renální funkce. Dialýza nebude pravděpodobně mít žádoucí efekt, protože tamsulosin se ve velmi vysoké míře váže na bílkoviny krevní plazmy.
+Ve snaze zabránit resorpci lze vyvolat zvracení. Pokud dojde k předávkování velkým množstvím látky, lze použít výplach žaludku a podat aktivní uhlí a osmoticky působící laxativa, jako je síran sodný.
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: léčiva k terapii benigní hyperplazie prostaty, antagonisté
+α1-adrenergních receptorů
+ATC kód: G04CA02
+Mechanismus účinku:
+Tamsulosin se selektivně a kompetitivně váže na postsynaptické adrenergní α1-receptory, převážně na jejich podtypy označované α1A a α1D. Dochází tak k relaxaci hladkého svalstva prostaty a uretry.
+Farmakodynamické účinky
+Omnic Tocas zvyšuje maximální průtok moči. V důsledku relaxace hladkého svalstva v prostatě a v uretře dochází ke snížení obstrukce, což zmírňuje vyprazdňovací symptomy. Rovněž zmírňuje symptomy jímací, na jejichž vzniku se významnou měrou podílí instabilita močového měchýře.
+Účinky na symptomy plnění a vyprazdňování močového měchýře se udržují během dlouhodobé léčby. Nutnost chirurgické léčby nebo katetrizace se těmito účinky významně oddaluje.
+Antagonisté α1-adrenergních receptorů mohou vyvolat pokles krevního tlaku díky snížení periferní
+rezistence. Během studií s přípravkem Omnic Tocas nebylo klinicky významné snížení krevního tlaku pozorováno.
+Pediatrická populace
+Byla provedena dvojitě zaslepená, randomizovaná, placebem kontrolovaná studie u dětí s neurogenním močovým měchýřem, při které byly srovnávány různé dávky tamsulosinu. Celkem 161 dětí (ve věku od 2 do 16 let) bylo randomizováno a léčeno jednou ze tří dávek tamsulosinu (nízká [0,001 až 0,002 mg/kg], střední [0,002 až 0,004 mg/kg] a vysoká [0,004 až 0,008 mg/kg]) a nebo bylo podáno placebo. Jako primární cíl studie byl stanoven počet pacientů, u kterých došlo ke snížení tlaku, při kterém dochází k úniku moči (leak point pressure LPP) na 40 cm H₂O, (stanoveno na
+základě dvou hodnocení ve stejném dni). Sekundární cíle byly: skutečná a procentuální změna oproti výchozímu LPP, zlepšení nebo stabilizace hydronefrózy a hydroureteru, změny v objemu moči
+získané katetrizací a dále počet pomočení v době katetrizace (zaznamenáno v katetrizačním deníku).
+Mezi placebem a jakoukoli ze 3 podaných dávek tamsulosinu nebyl zjištěn žádný statisticky
+významný rozdíl, a to jak pro primární, tak i sekundární cíl. Nebyla zaznamenána žádná léčebná odpověď ani na jednu z podaných dávek.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Omnic Tocas je tableta s prodlouženým uvolňováním, kde jako matrix slouží neiontový gel. Složení TOCAS umožňuje konzistentní pomalé uvolňování tamsulosinu, jehož výsledkem je adekvátní expozice jen s malými fluktuacemi po dobu 24 hodin.
+Tamsulosin-hydrochlorid podávaný ve formě tablety s prodlouženým uvolňováním je absorbován ze
+
+střeva. Na lačno se z podané dávky odhadem absorbuje přibližně 57 %.
+Míra a rozsah absorpce tamsulosin-hydrochloridu podávaného ve formě tablet s prodlouženým
+uvolňováním není ovlivněna podáním nízkotučné potravy. U potravy s vysokým obsahem tuku míra absorpce stoupá o 64 % (AUC), resp. 149 % (Cmax) ve srovnání s podáním na lačno.
+Kinetika tamsulosinu je lineární.
+Po podání jednotlivé dávky přípravku Omnic Tocas na lačno dosáhnou plazmatické koncentrace maxima přibližně za 6 hodin (medián). V ustáleném stavu, jehož je dosaženo při opakovaném podání látky do čtvrtého dne, se objevují maximální plazmatické koncentrace po 4 až 6 hodinách, na lačno i po nasycení. Maximální plazmatické koncentrace stoupají z přibližně 6 ng/ml po první dávce na 11
+ng/ml při ustáleném stavu.
+V důsledku prodlouženého uvolňování léčivé látky přípravku Omnic Tocas se minimální hodnoty
+plazmatické koncentrace pohybují na 40 % maximální koncentrace, a to jak na lačno, tak po nasycení. U plazmatických hladin po jednorázovém i opakovaném podání existují značné individuální rozdíly.
+Distribuce
+U člověka se tamsulosin přibližně z 99 % váže na bílkoviny krevní plazmy a jeho distribuční objem je malý (přibližně 0,2 l/kg).
+Biotransformace
+Tamsulosin se pomalu metabolizuje a efekt prvního průchodu látky je malý. Většina tamsulosinu je přítomna v plazmě v nezměněné formě. Tamsulosin se metabolizuje v játrech.
+U potkanů nebyla indukce mikrozomálních jaterních enzymů vyvolaná tamsulosinem prakticky pozorována.
+Výsledky získané in vitro naznačují, že na metabolismu tamsulosin-hydrochloridu se podílejí zejména CYP3A4 a CYP2D6, v menší míře pak ostatní CYP isoenzymy. Inhibice enzymů CYP3A4 a CYP2D6 může vést ke zvýšené expozici tamsulosin hydrochloridu (viz bod 4.4 a 4.5).
+Žádný z metabolitů látky nevykazuje aktivitu vyšší, než látka původní.
+Eliminace
+Tamsulosin a jeho metabolity jsou vylučovány zejména močí. U přípravku Omnic Tocas se odhaduje,
+že přibližně 4 - 6 % podané dávky se vylučuje v nezměněné podobě.
+Eliminační poločas tamsulosinu přípravku Omnic Tocas činí přibližně 19 hodin po podání jednotlivé dávky, resp. 15 hodin při ustáleném stavu.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Toxicita po podávání jednotlivých i opakovaných dávek byla zkoumána u myší, potkanů a psů. Dále byla zkoumána reprodukční toxicita u potkanů, karcinogenita u myší a potkanů a rovněž genotoxicita in vivo a in vitro.
+Celkový toxický profil, jak je vidět u vysokých dávek tamsulosinu, odpovídá známému farmakologickému působení α - adrenergních antagonistů.
+Při velmi vysokých dávkách se objevily změny EKG u psů, ale považují se za klinicky nevýznamné. Tamsulosin nevykazuje žádné relevantní genotoxické vlastnosti.
+Byl nalezen zvýšený výskyt proliferativních změn v mléčné žláze potkaních a myších samiček. Tyto nálezy, které jsou pravděpodobně způsobeny hyperprolaktinémií a objevují se jen při vysokých
+dávkách, jsou považovány za klinicky nevýznamné.
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Jádro tablety:
+makrogol 7000000
+makrogol 8 000 magnesium-stearát.
+
+Potahová vrstva tablety:
+potahová soustava Opadry 03F22733 žlutá:
+hypromelosa 2910/6, makrogol 8 000, žlutý oxid železitý (E 172).
+
+6.2  Inkompatibility
+Neuplatňuje se.
+6.3  Doba použitelnosti
+3 roky
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+6.5  Druh obalu a obsah balení
+Blistr (OPA/Al/PVC/ Al), krabička.
+Velikost balení: 10, 30 nebo 100 tablet.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+Žádné zvláštní požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Astellas Pharma s.r.o. Rohanské nábřeží 678/29 186 00 Praha 8 - Karlín Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO
+87/005/05-C
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+26. 1. 2005 / 22.9.2010
+
+10.  DATUM REVIZE TEXTU
+12. 5. 2020

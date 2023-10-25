@@ -1,0 +1,504 @@
+Sp.zn. sukls13792/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+Vancomycin MIP Pharma 500 mg prášek pro infuzní roztok Vancomycin MIP Pharma 1000 mg prášek pro infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna  injekční  lahvička  obsahuje  vancomycini  hydrochloridum  500 mg,  odpovídající vancomycinum 500 000 IU.
+Jedna  injekční  lahvička  obsahuje  vancomycini  hydrochloridum  1000 mg,  odpovídající vancomycinum 1 000 000 IU.
+Úplný seznam pomocných látek viz bod 6.1
+
+3.  LÉKOVÁ FORMA
+Prášek pro infuzní roztok.
+Jemný prášek, bílý s růžovým až hnědým odstínem.
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Intravenózní podání
+Vankomycin je indikován ve všech věkových skupinách k léčbě následujících infekcí (viz body 4.2, 4.4 a 5.1):
+- komplikované infekce kůže a měkkých tkání (cSSTI)
+- infekce kostí a kloubů
+- komunitní pneumonie (CAP)
+- nozokomiální pneumonie (HAP), včetně ventilátorové pneumonie (pneumonie spojené s umělou ventilací - VAP)
+- infekční endokarditida
+-  bakteriemie, která se objeví v souvislosti nebo je podezření na souvislost s některou výše uvedenou indikací.
+
+Vankomycin je rovněž indikován ve všech věkových skupinách k peroperační antibakteriální profylaxi u pacientů, u nichž existuje vysoké riziko vzniku bakteriální endokarditidy a kteří podstupují velký chirurgický výkon.
+
+Je nutno vzít v úvahu oficiální doporučení ke správnému používání antibakteriálních léčiv.
+4.2  Dávkování a způsob podání Dávkování
+Kde je to vhodné, má být vankomycin podáván v kombinaci s jinými antibakteriálními léčivy.
+Intravenózní podání
+Iniciální dávka má být založena na celkové tělesné hmotnosti. Následující úpravy dávky mají být založeny na sérových koncentracích, aby bylo dosaženo cílových terapeutických koncentrací. Pro následující dávky a dobu podávání je nutno vzít v úvahu funkci ledvin.
+
+Pacienti ve věku od 12 let a starší
+Doporučená dávka je 15 až 20 mg/kg tělesné hmotnosti každých 8 až 12 hodin (nesmí se překročit 2 g na jednu dávku).
+
+U vážně nemocných pacientů může být použita nasycovací dávka 25–30 mg/kg tělesné hmotnosti pro usnadnění dosažení cílové udržovací koncentrace vankomycinu v séru.
+
+Kojenci a děti ve věku od jednoho měsíce do 12 let
+Doporučená dávka je 10 až 15 mg/kg tělesné hmotnosti každých 6 hodin (viz bod 4.4).
+
+Novorozenci narození v termínu (od narození do postnatálního věku 27 dnů) a novorozenci narození předčasně (od narození do předpokládaného data termínu narození plus 27 dnů).
+Pro stanovení dávkovacího režimu pro novorozence je nutné vyžádat radu lékaře zkušeného v léčbě novorozenců. Jedna možná cesta dávkování vankomycinu u novorozenců je uvedena v následující tabulce: (viz bod 4.4)
+
+
+PMA (týdny)
+<29
+29-35
+>35
+Dávka (mg/kg)
+15
+15
+15
+Interval podávání (h)
+24
+12
+8
+PMA: doba od poslední menstruace (postmenstruační věk - [doba, která uplynula od prvního dne poslední menstruace do porodu (gestační věk) plus doba, která uplynula po porodu (poporodní věk)].
+
+Peroperační profylaxe bakteriální endokarditidy ve všech věkových skupinách
+Doporučená dávka je iniciální dávka 15 mg/kg před zahájením anestezie. V závislosti na trvání chirurgického výkonu může být vyžádána druhá dávka vankomycinu.
+
+Trvání léčby
+Tabulka níže ukazuje navrhované trvání léčby. V jednotlivém případě musí být trvání léčby přizpůsobeno typu a závažnosti onemocnění a individuální klinické odpovědi.
+
+
+Indikace
+Komplikované infekce kůže a měkkých tkání
+- Bez nekrotizace
+- Nekrotizující Infekce kostí a kloubů Komunitní pneumonie
+Nozokomiální pneumonie, včetně ventilátorové pneumonie Infekční endokarditida
+Trvání léčby
+
+7 až 14 dnů
+4 až 6 týdnů*
+4 až 6 týdnů**
+7 až 14 dnů
+7 až 14 dnů
+4 až 6 týdnů***
+*   Pokračujte až do doby, kdy není nutné další chirurgické vyčištění rány, pacient se klinicky zlepšil a je afebrilní
+nejméně po dobu 48 až 72 hodin.
+**   V případě infekcí protetických kloubů by mělo být zváženo dlouhodobější podávání perorální supresní léčby vhodnými antibiotiky.
+***  Trvání a nutnost kombinované léčby je založena na typu chlopně a (mikro)organismu.
+
+Zvláštní populace
+Starší pacienti
+Mohou být potřebné nižší udržovací dávky vzhledem k poklesu funkce ledvin závislém na věku.
+
+Porucha funkce ledvin
+
+U dospělých a pediatrických pacientů s poruchou funkce ledvin je třeba věnovat pozornost spíše počáteční  startovací  dávce  následované  minimálními  hladinami  vankomycinu  v  séru  než plánovanému dávkovacímu schematu, zvláště u pacientů s těžkou poruchou funkce ledvin nebo u těch, kteří podstupují léčbu nahrazující funkci ledvin (renal replacement therapy - RRT) vzhledem k mnoha proměnným faktorům, které u nich mohou ovlivnit hladiny vankomycinu.
+
+U pacientů s lehkou nebo středně těžkou poruchou funkce ledvin se počáteční dávka nesmí snižovat. U pacientů s těžkou poruchou funkce ledvin je vhodnější raději prodloužit interval mezi podáním než podávat nižší denní dávky.
+
+Musí se věnovat odpovídající pozornost souběžnému podávání léčivých přípravků, které mohou snížit clearance vankomycinu a/nebo zesílit jeho nežádoucí účinky (viz bod 4.4).
+
+Vankomycin je špatně dialyzovatelný intermitentní hemodialýzou. Nicméně použití membrán s vysokou propustností (high-flux) a kontinuální léčby nahrazující funkci ledvin (continuous renal replacement therapy -CRRT) zvyšuje clearance vankomycinu a obecně vyžaduje náhradní dávku (obvykle po hemodialýze v případě intermitentní hemodialýzy).
+Dospělí
+Úprava dávky u dospělých pacientů může být založena na odhadovaném poměru glomerulární filtrace (eGFR) podle následujícího vzorce:
+
+Muži: [tělesná hmotnost (kg) x 140 - věk (roky)]/ 72 x sérový kreatinin (mg/dl) Ženy: 0,85 x hodnota vypočtená podle výše uvedeného vzorce.
+Obvyklá počáteční dávka pro dospělé pacienty je 15 až 20 mg/kg, má být podána každých 24 hodin u pacientů s clearance kreatininu mezi 20 až 49 ml/min. U pacientů s těžkou poruchou funkce ledvin (clearance kreatininu nižší než 20 ml/min) nebo u pacientů na léčbě nahrazující funkci ledvin, odpovídající načasování a velikost následných dávek ve velké míře závisí na způsobu RRT a má být založeno na nejnižších sérových hladinách vankomycinu a na reziduální funkci ledvin (viz bod 4.4). V závislosti na klinické situaci se musí zvážit pozdržení další dávky po dobu čekání na výsledky stanovení hladin vankomycinu.
+U kriticky nemocných pacientů s poruchou funkce ledvin počáteční nasycovací dávka (25 až 30 mg/kg) nemá být snižována.
+
+Pediatrická populace
+Úprava dávky u pediatrických pacientů ve věku 1 rok a starších může být založena na odhadované rychlosti glomerulární filtrace (eGFR) pomocí revidovaného Schwartzova vzorce:
+
+eGFR (ml/min/1,73 m² ) = (výška cm x 0,413)/ sérový kreatinin (mg/dl) eGFR (ml/min/1,73 m²) = (výška cm x 36,2)/ sérový kreatinin (μmol/l)
+Pro novorozence a kojence ve věku do 1 roku je potřeba vyhledat radu odborníka, protože revidovaný Schwartzův vzorec u nich nelze aplikovat.
+
+Orientační doporučení dávkování pro pediatrickou populaci jsou uvedena v tabulce níže a sledují ty samé principy jako u dospělých pacientů.
+
+GFR (ml/min/1,73 m2)
+50-30
+29-10
+< 10
+Intermitentní hemodialýza Peritoneální dialýza
+Kontinuální terapie nahrazující funkci ledvin
+IV dávka
+15 mg/kg
+15 mg/kg
+
+10-15 mg/kg
+
+15 mg/kg
+Frekvence
+po 12 hodinách
+po 24 hodinách
+
+Opakovaná dávka na základě hladin*
+
+Opakovaná dávka na základě hladin*
+*  Odpovídající časování a velikost následných dávek ve velké míře závisí na způsobu RRT a má být založeno na sérových hladinách vankomycinu získaných před podáním dávky a na reziduální funkci ledvin. V závislosti na klinické situaci se musí zvážit pozdržení další dávky po dobu čekání na výsledky stanovení hladin vankomycinu.
+
+Porucha funkce jater
+U pacientů s poruchou funkce jater není zapotřebí žádná úprava dávky.
+
+Těhotenství
+U těhotných žen mohou být potřebné signifikantně vyšší dávky pro dosažení terapeutických sérových koncentrací (viz bod 4.6).
+Obézní pacienti
+U obézních pacientů musí být úvodní dávka individuálně upravena podle celkové tělesné hmotnosti jako u neobézních pacientů.
+
+Monitorování sérových koncentrací vankomycinu
+Frekvence monitorování léčivého přípravku (therapeutic drug monitoring - TDM) je potřeba individualizovat na základě klinické situace a odpovědi na léčbu, v rozmezí od denních vzorků, které mohou být vyžadovány u některých hemodynamicky nestabilních pacientů, až po vzorky nejméně jednou týdně u stabilních pacientů, vykazujících terapeutickou odpověď.
+U pacientů s normální funkcí ledvin má být sérová hladina vankomycinu monitorována druhý den léčby těsně před podáním další dávky.
+
+U pacientů s intermitentní hemodialýzou mají být hladiny vankomycinu obvykle vyšetřeny před hemodialýzou.
+
+Minimální terapeutické hladiny vankomycinu v krvi mají normálně být 10-20 mg/l, v závislosti na místě infekce a citlivosti patogenu. Klinickými laboratořemi jsou obvykle doporučovány nejnižší hladiny 15-20 mg/l, aby lépe pokryly patogeny klasifikované jako citlivé s MIC ≥1 mg/l (viz body 4.4 a 5.1).
+Metody založené na modelech mohou být užitečné v předpovědi individuálního dávkovacího režimu pro dosažení odpovídající AUC. Přístup založený na modelu může být užitečný jak pro výpočet personalizované úvodní dávky, tak pro úpravu dávky založené na výsledcích TDM (viz bod 5.1).
+
+Způsob podání
+
+Intravenózní podání
+Intravenózní vankomycin je obvykle podáván jako intermitentní infuze a dávkovací doporučení uvedená v tomto bodě pro intravenózní podání odpovídají tomuto typu podání.
+
+Vankomycin se musí podávat pouze pomalou intravenózní infuzí v trvání nejméně jedné hodiny nebo rychlostí nejvýše 10 mg/min (podle toho, co je delší), jež je dostatečně naředěna (nejméně 100 ml na 500 mg nebo nejméně 200 ml na 1000 mg) (viz bod 4.4).
+
+Pacienti, jejichž příjem tekutin musí být omezen, mohou rovněž dostat roztok 500 mg/50 ml nebo 1000 mg/100 ml, ačkoliv riziko nežádoucích účinků vyvolaných infuzí může být u těchto vyšších koncentrací zvýšeno.
+
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+Kontinuální infuze vankomycinu může být zvážena, např. u pacientů s nestabilní clearance vankomycinu.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Vankomycin nesmí být podáván intramuskulárně vzhledem k riziku nekrózy v místě podání.
+4.4  Zvláštní upozornění a opatření pro použití
+Hypersenzitivní reakce
+Jsou možné závažné a ojediněle fatální hypersenzitivní reakce (viz body 4.3 a 4.8). V případě hypersenzitivních reakcí se musí léčba vankomycinem okamžitě ukončit a musí být zahájena neodkladná opatření.
+
+U pacientů používajících vankomycin po dlouhé časové období nebo souběžně s jinými přípravky, které mohou způsobit neutropenii nebo agranulocytózu, má být v pravidelných intervalech monitorován počet leukocytů. Všem pacientům, kterým je podáván  vancomycin, mají být prováděna pravidelná hematologická vyšetření, analýza moči a testy jaterních a renálních funkcí.
+Vankomycin se má používat s opatrností u pacientů s alergickými reakcemi na teikoplanin, protože se může objevit zkřížená hypersenzitivita, včetně fatálního anafylaktického šoku.
+
+Spektrum antibakteriální aktivity
+Vankomycin má spektrum antibakteriální aktivity omezeno na grampozitivní organismy. Není vhodný k použití jako samostatné léčivo pro léčbu některých typů infekcí, pokud není patogen již určen a není známo, že je citlivý, anebo je vysoké podezření, že nejpravděpodobnější patogen či patogeny jsou vhodné pro léčbu vankomycinem.
+
+Racionální použití vankomycinu má brát do úvahy bakteriální spektrum aktivity, bezpečnostní profil a standard antibakteriální léčby pro léčbu jednotlivého pacienta.
+
+Ototoxicita
+Ototoxicita, která může být přechodná nebo trvalá (viz bod 4.8) byla hlášena u pacientů s předcházející hluchotou, kteří dostávali vysoké intravenózní dávky, nebo kteří byli souběžně léčeni jiným ototoxickým přípravkem, jako jsou aminoglykosidy. Vankomycinu je potřeba se vyhnout rovněž u pacientů s předcházející ztrátou sluchu. Hluchotě může předcházet tinitus. Zkušenosti s jinými antibiotiky naznačují, že hluchota může být progredující navzdory přerušení léčby. Pro snížení rizika ototoxicity mají být pravidelně hodnoceny krevní hladiny a doporučuje se pravidelné monitorování sluchových funkcí.
+
+K poškození sluchu jsou obzvláště náchylní starší pacienti. Monitorování vestibulárních a sluchových funkcí u starších pacientů má být prováděno během léčby a po léčbě. Je potřeba se vyhnout souběžnému nebo následnému podání jiných ototoxických látek.
+
+Reakce související s infuzí
+Rychlé podání bolusu (např. během několika minut) může být spojeno s vystupňovanou hypotenzí (včetně šoku a vzácněji srdeční zástavy), reakcí podobné odpovědi na histamin a makulopapulózní nebo erytematózní vyrážkou („syndrom rudého muže” nebo „syndrom rudého krku”). Vankomycin má být podán v pomalé infuzi v naředěném roztoku (2,5 až 5,0 mg/ml) rychlostí ne vyšší než 10 mg/min a po dobu nejméně 60 minut, aby se zabránilo reakcím spojeným s rychlou infuzí. Zastavení infuze obvykle vede k rychlému vymizení těchto reakcí.
+Frekvence reakcí vztahujících se k infuzi (hypotenze, zrudnutí, erytém, kopřivka a svědění) se zvyšuje při souběžném podání anestetik (viz bod 4.5). To může být omezeno podáním vankomycinu infuzí po dobu nejméně 60 minut, před uvedením do anestezie.
+Závažné kožní nežádoucí reakce (SCAR)
+Závažné kožní nežádoucí reakce (SCAR), včetně Stevensova-Johnsonova syndromu (SJS), toxické epidermální nekrolýzy (TEN), lékové reakce s eozinofilií a systémovými příznaky (DRESS) a akutní generalizované exantematózní pustulózy (AGEP), které mohou být život ohrožující nebo fatální, byly hlášeny v souvislosti s léčbou vankomycinem (viz bod 4.8). Většina z těchto reakcí se objevila během několika dní až osmi týdnů po zahájení léčby vankomycinem.
+Při předepisování léku mají být pacienti informováni o známkách a příznacích a pečlivě monitorováni s ohledem na možný výskyt kožní reakce. Pokud se objeví známky a příznaky naznačující tyto reakce, musí se vankomycin okamžitě vysadit a má být zvážena alternativní léčba. Pokud se u pacienta při léčbě vankomycinem vyvinula SCAR, nesmí být léčba vankomycinem nikdy znovu zahájena.
+
+Reakce se vztahem k místu podání
+U  mnoha  pacientů  dostávajících  vankomycin  intravenózně  se  mohou  objevit  bolest  a tromboflebitida, a mohou být příležitostně závažné. Frekvence a závažnost tromboflebitidy může být minimalizována pomalým podáním léčivého přípravku jako naředěného roztoku (viz bod 4.2) a pravidelnou změnou míst infuze.
+Účinnost  a  bezpečnost  vankomycinu  nebyly  stanoveny  pro  intratekální,  intralumbální  a intraventrikulární cesty podání.
+
+Nefrotoxicita
+Vankomycin má být podáván s opatrností u pacientů s poruchou funkce ledvin, včetně anurie, jelikož možnost rozvoje toxických účinků je mnohem vyšší při prodloužených vysokých koncentracích v krvi. Riziko toxicity je zvýšeno vysokými koncentracemi v krvi nebo prodlouženou léčbou.
+Pravidelné monitorování hladin vankomycinu v krvi je indikováno při léčbě vysokou dávkou a při dlouhodobém podávání, zvláště u pacientů s poruchou funkce ledvin nebo poruchou sluchu, stejně tak jako při souběžném podávání nefrotoxických nebo ototoxických léčiv (viz body 4.2 a 4.5).
+
+Pediatrická populace
+Současná doporučená intravenózní dávkování pro pediatrickou populaci, zejména pro děti ve věku do 12 let, mohou vést k subterapeutickým hladinám vankomycinu u podstatného počtu dětí. Nicméně bezpečnost zvýšeného dávkování vankomycinu nebyla patřičně hodnocena a všeobecně nemohou být doporučeny dávky vyšší než 60 mg/kg/den.
+
+Vankomycin má být podáván se zvláštní opatrností u předčasně narozených novorozenců a mladších kojenců, vzhledem k nezralosti ledvin a možnému zvýšení sérových koncentrací vankomycinu.  Proto  musí  být  u  těchto  dětí  pozorně  monitorovány  krevní  koncentrace vankomycinu. Souběžné podání vankomycinu a anestetik bylo u dětí spojeno s erytémem a zarudnutím podobným histaminové reakci. Podobně souběžné použití s nefrotoxickými léčivy jako aminoglykosidová antibiotika, NSAID (např. ibuprofen pro uzávěr zjevného ductus arteriosus) nebo amfotericin B, je spojeno se zvýšeným rizikem nefrotoxicity (viz bod 4.5), a proto je indikováno častější monitorování sérových hladin vankomycinu.
+
+Použití u starších pacientů
+Přirozený pokles glomerulární filtrace s přibývajícím věkem může vést ke zvýšeným sérovým koncentracím, jestliže dávka není upravena (viz bod 4.2).
+
+Interakce s anestetiky
+Anestetiky vyvolaná deprese myokardu může být vankomycinem zesílena. Během anestezie musí být dávka dobře naředěna a podávána pomalu za pečlivého monitorování srdce. Změny polohy mají být odloženy, dokud infuze není dokončena, pro umožnění posturální adaptace (viz bod 4.5).
+
+Pseudomembranózní enterokolitida
+V případě závažného přetrvávajícího průjmu se musí vzít do úvahu možnost pseudomembranozní enterokolitidy, která by mohla být život ohrožující (viz bod 4.8). Nesmí se podávat antidiaroika.
+
+Superinfekce
+Prodloužené podávání vankomycinu může mít za následek přerůstání necitlivých organismů. Nezbytné je pozorné sledování pacienta. Jestliže se během léčby objeví superinfekce, mají být přijata odpovídající opatření.
+
+Poruchy oka
+Vankomycin není registrován pro intrakamerální nebo intravitreální podání, včetně profylaxe endoftalmitidy.
+Po intrakamerálním nebo intravitreálním podání vankomycinu během nebo po operaci katarakty byla v jednotlivých případech pozorována hemoragická okluzivní vaskulitida retinálních cév (HORV), včetně trvalé ztráty zraku.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Jiná potenciálně nefrotoxická nebo ototoxická léčiva
+Souběžné  nebo  následné  podávání  vankomycinu  s jinými  potenciálně  ototoxickými  nebo nefrotoxickými látkami (např. piperacilin/tazobaktam) může zvýšit ototoxicitu nebo nefrotoxicitu (viz bod 4.4). Zejména v případech současného podávání aminoglykosidů je nezbytné pečlivé monitorování. V těchto případech musí být maximální dávka vankomycinu omezena na 500 mg každých 8 hodin.
+
+Anestetika
+Uvádí se, že výskyt potenciálních nežádoucích účinků (jako je hypotenze, erytém, urtikarie a pruritus) se zvyšuje, pokud je vankomycin podáván souběžně s anestetiky. Tomu lze zabránit podáním vankomycinu alespoň 60 minut před uvedením do celkové anestezie. (Viz také část 4.4).
+
+Svalová relaxancia
+
+Podává-li  se  vankomycin  v průběhu  chirurgického  zákroku  nebo  bezprostředně  po  něm, myorelaxační účinek současně podávaných myorelaxancií (např. sukcinylcholinu) se může prohloubit nebo zesílit.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Adekvátní údaje o podávání vankomycinu během těhotenství nejsou k dispozici. Studie reprodukční toxicity na zvířatech neprokázaly žádný vliv na dobu březosti, nebo vývoj embrya a plodu (viz bod 5.3).
+Vankomycin však prostupuje placentou a nelze vyloučit potenciální riziko ototoxického a nefrotoxického působení na embryo a novorozence. Vankomycin se proto může v průběhu těhotenství podávat pouze tehdy, pokud je to nezbytně nutné a po pečlivém vyhodnocení poměru přínosu a rizika.
+
+Kojení
+Vankomycin se vylučuje do mateřského mléka a proto se v období kojení má podávat pouze tehdy, když jiná antibiotika selhala.  Opatrnosti je třeba při podávání vankomycinu kojícím matkám z důvodu možného výskytu nežádoucích reakcí u kojence (poruchy střevní flory s průjmy, osídlení kvasinkami a možná senzibilizace). Po zvážení významu tohoto léčivého přípravku pro kojící matku je třeba rozhodnout, zda se má kojení ukončit.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Vankomycin nemá žádný nebo má zanedbatelný vliv na schopnost řídit a obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Nejčastějšími nežádoucími účinky jsou flebitida, pseudoalergické reakce a zrudnutí horní části trupu (syndrom “rudého muže”) ve spojení s příliš rychlou intravenózní infuzí vankomycinu.
+V souvislosti s léčbou vankomycinem byly hlášeny závažné kožní nežádoucí reakce (SCAR), včetně Stevensova-Johnsonova syndromu (SJS), toxické epidermální nekrolýzy (TEN), lékové reakce s eozinofilií a systémovými příznaky (DRESS) a akutní generalizované exantematózní pustulózy (AGEP). (viz bod 4.4).
+
+Tabulkový seznam nežádoucích účinků
+V každé skupině frekvencí jsou nežádoucí účinky seřazeny sestupně podle klesající závažnosti. Níže uvedené nežádoucí účinky jsou definovány s použitím vyjadřování frekvence a tříd orgánových systémů podle databáze MedDRA:
+Velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10000 až < 1/1000); velmi vzácné (< 1/10000), není známo (z dostupných údajů nelze určit).
+
+Třída orgánových systémů
+Frekvence      Nežádoucí účinek Poruchy krve a lymfatického systému:
+Vzácné        Reverzibilní neutropenie, agranulocytóza, eosinofilie, trombocytopenie, pancytopenie.
+Poruchy imunitního systému:
+Vzácné       Hypersenzitivní reakce, anafylaktické reakce
+Poruchy ucha a labyrintu:
+Méně časté      Přechodná nebo trvalá ztráta sluchu Vzácné        Vertigo, tinitus, závratě
+Srdeční poruchy:
+Velmi vzácné    Srdeční zástava
+Cévní poruchy:
+Časté         Pokles krevního tlaku
+Vzácné       Vaskulitida
+Respirační, hrudní a mediastinální poruchy:
+Časté         Dyspnoe, stridor
+Gastrointestinální poruchy:
+
+Vzácné Velmi vzácné Není známo
+Nauzea
+Pseudomembranózní enterokolitida Zvracení, průjem
+Poruchy kůže a podkožní tkáně:
+
+Časté
+
+Velmi vzácné Není známo
+Zrudnutí horní části trupu (syndrom rudého muže), exantém a zánět sliznice, svědění, kopřivka
+Exfolativní dermatitida, Stevens-Johnsonův syndrom, Toxická epidermální nekrolýza (TEN), Lineární IgA bulozní dermatóza
+Léková reakce s eozinofilií a systémovými příznaky (DRESS syndrom),
+AGEP (Akutní generalizovaná exantematozní pustulóza)
+Poruchy ledvin a močových cest:
+
+Časté
+
+Vzácné Není známo
+Renální insuficience manifestovaná primárně jako zvýšené hladiny sérového kreatininu a sérové urey
+Intersticiální nefritida, akutní selhání ledvin Akutní tubulární nekróza
+Celkové poruchy a reakce v místě aplikace:
+Časté         Flebitida, zrudnutí horní části trupu a obličeje
+Vzácné        Léková horečka, třes, bolest a svalové křeče hrudních a zádových svalů
+
+Popis vybraných nežádoucích účinků
+Reverzibilní neutropenie obvykle začíná jeden týden nebo později po zahájení intravenózní léčby nebo po celkové dávce vyšší než 25 g.
+Během nebo krátce po podání rychlé infuze se mohou objevit anafylaktické/anafylaktoidní reakce včetně sípání. Reakce odezní pokud je podávání ukončeno obvykle během 20 minut až 2 hodin. Infuze s vankomycinem se musí podávat pomalu (viz body 4.2 a 4.4). Po intramuskulárním injekci se může objevit nekróza.
+Tinitus, možná předcházející nástupu hluchoty, musí být považován za indikaci k ukončení léčby.
+Ototoxicita byla primárně hlášena u pacientů, kterým byly podávány vysoké dávky nebo u pacientů, kteří souběžně dostávali léčbu jiným ototoxickým léčivým přípravkem jako jsou aminoglykosidy nebo u pacientů kteří měli pre-existující pokles funkce ledvin nebo sluchu.
+Pediatrická populace
+Bezpečnostní profil je obecně konzistentní mezi dětmi a dospělými pacienty. U dětí byla popsána nefrotoxicita, obvykle ve spojení s jinými nefrotoxickými léčivy, jako např. aminoglykosidy.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Byla hlášeny toxické projevy způsobené předávkováním. Intravenózní podání dávky 500 mg dvouletému dítěti mělo za následek fatální intoxikaci. Podání celkem 56 g během 10 dní dospělému pacientovi způsobilo selhání ledvin. Při některých vysoce rizikových stavech (např. v případě závažnéporuchy funkce ledvin) se mohou objevit vysoké hladiny vankomycinu v séru a ototoxické a nefrotoxické účinky.
+
+Opatření v případě předávkování
+•  Žádné specifické antidotum není známo.
+•  Je nutná symptomatická terapie a udržování renálních funkcí.
+•  Vankomycin se hemodialýzou nebo peritoneální dialýzou špatně odstraňuje z krve. Ke snížení koncentrace  vankomycinu  v séru  byla  použita  hemofiltrace  nebo  hemoperfuze  s polysulfonovými pryskyřicemi.
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: glykopeptidová antibiotika ATC kód: J01XA01
+
+Mechanismus účinku
+Vankomycin je tricyklické glykopeptidové antibiotikum, které inhibuje syntézu buněčné stěny u citlivých bakterií vysoce afinitní vazbou na D-alanyl-D-alaninové zakončení jednotky prekurzoru buněčné stěny. Léčivo je baktericidní pro dělící se mikroorganizmy. Navíc narušuje permeabilitu bakteriální buněčné membrány a syntézu RNA.
+
+Farmakokinetický/ farmakodynamický vztah (PK/PD)
+
+Vankomycin ukazuje aktivitu nezávislou na dávce s plochou pod křivkou koncentrací (AUC) rozdělenou minimální inhibiční koncentrací (MIC) cílového organismu jako primární předpovědní ukazatel účinnosti. Na základě údajů in vitro, zvířecích a v omezené míře dostupných údajů u lidí byl stanoven poměr AUC/MIC s hodnotou 400 jako cílový PK/PD pro dosažení klinické účinnosti vankomycinu. Pro dosažení tohoto cíle tam, kde MIC je ≥ 1,0 mg/l, je požadováno dávkování v horním rozmezí a vysoké sérové koncentrace (15-20 mg/l) (viz bod 4.2).
+
+Mechanismus rezistence
+Získaná rezistence na glykopeptidy je nejčastější u enterokoků a je založená na získání různých “van” genových komplexů, které modifikují cílový D-alanyl-D-alanin na D-alanyl-D-laktát nebo D- alanyl-D-serin, které váží vankomycin slabě. V některých zemích je pozorován vzrůstající počet případů  rezistence,  zvláště  u  enterokoků;  zvláště  alarmující  jsou  multirezistentní  kmeny Enterococcus faecium.
+
+“Van” geny byly vzácně nalezeny u bakterie Staphylococcus aureus, kde změny buněčné stěny mají za následek „střední” citlivost, která je nejčastěji heterogenní. Rovněž byly hlášeny methicilin- rezistentní kmeny stafylokoka (MRSA) se sníženou citlivostí na vankomycin. Snížená citlivost nebo rezistence na vankomycin u rodu Staphylococcus není dobře pochopena. Je vyžadováno několik genetických prvků a mnohočetné mutace.
+
+Neexistuje zkřížená rezistence mezi vankomycinem a jinými třídami antibiotik. Objevuje se zkřížená rezistence s jinými glykopeptidovými antibiotiky, jako je teikoplanin. Sekundární rozvoj rezistence v průběhu léčby je vzácný.
+
+Synergismus
+Kombinace vankomycinu s aminoglykosidovým antibiotikem má synergický účinek proti mnoha kmenům  Staphylococcus  aureus,  non-enterokokové  skupině  D-streptokoků,  enterokokům  a streptokokům rodu viridans. Kombinace vankomycinu s cefalosporinem má synergický účinek proti některým oxacilin-rezistentním kmenům Staphylococcus epidermidis, a kombinace vankomycinu s rifampicinem má synergický účinek proti Staphylococcus epidermidis a částečně synergický účinek proti některým kmenům Staphylococcus aureus. Jelikož vankomycin v kombinaci s cefalosporinem může mít rovněž antagonistický účinek proti některým kmenům Staphylococcus epidermidis a v kombinaci s rifampicinem proti některým kmenům Staphylococcus aureus, je vhodné testování předchozího synergismu.
+
+Mají být získány vzorky pro bakteriální kultury, aby bylo možno izolovat a identifikovat vyvolávající organismy a stanovit jejich citlivost na vankomycin.
+
+Hraniční hodnoty testů citlivosti
+Vankomycin je aktivní vůči grampozitivním bakteriím jako stafylokoky, streptokoky, enterokoky, pneumokoky a klostridia. Gramnegativní bakterie jsou rezistentní.
+
+Prevalence získané rezistence pro vybrané druhy se může geograficky a v čase měnit a jsou žádoucí lokální informace o vybraných druzích, zvláště při léčbě závažných infekcí. Pokud je to potřebné, má být vyhledána rada specialisty, jestliže lokální prevalence rezistence je taková, že užitečnost léčiva alespoň u některých typů infekcí je sporná. Tato informace pouze poskytuje přibližné vodítko ke zhodnocení, zda jsou mikroorganismy citlivé na vankomycin.
+
+Hraniční hodnoty minimální inhibiční koncentrace stanovené Evropskou komisí pro testování antimikrobiální citlivosti (European Committee on Antimicrobial Susceptibility Testing -EUCAST) jsou následující:
+
+
+Staphylococcus aureus¹ Staphylococcus koaguláza-negativní Enterococcus spp.
+Streptokoky skupiny A, B, C a G
+Streptococcus pneumoniae
+Grampozitivní anaerobní bakterie
+Citlivé
+≤ 2 mg/l
+≤ 4 mg/l
+≤ 4 mg/l
+≤ 2 mg/l
+
+≤ 2 mg/l
+≤ 2 mg/l
+Rezistentní
+> 2 mg/l
+> 4 mg/l
+> 4 mg/l
+> 2 mg/l
+
+> 2 mg/l
+> 2 mg/l
+¹ S. aureus s MIC vankomycinu 2 mg/l jsou na hranici distribuce divokého typu, a proto se může vyskytnout narušená klinická odpověď.
+
+
+Obvykle citlivé druhy Grampozitivní druhy
+Enterococcus faecalis Staphylococcus aureus
+Staphylococcus aureus methicilin-rezistentní Koaguláza-negativní stafylokok
+Streptococcus spp. Streptococcus pneumoniae Enterococcus spp.
+Staphylococcus spp.
+
+Anaerobní druhy
+Clostridium spp. kromě Clostridium innocuum Eubacterium spp.
+Peptostreptococcus spp.
+
+Druhy, u kterých může být problémem získaná rezistence
+Enterococcus faecium
+
+Přirozeně rezistentní druhy
+Všechny gramnegativní bakterie
+
+Grampozitivní aerobní druhy Erysipelothrix rhusiopathiae Heterofermentative Lactobacillus Leuconostos spp.
+Pediococcus spp.
+Anaerobní druhy
+Clostridium innocuum
+
+Výskyt rezistence na vankomycin se liší od jedné nemocnice k druhé a proto je třeba kontaktovat lokální mikrobiologické laboratoř kvůli získání lokálních informací
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+
+Vankomycin je podáván intravenózně k léčbě systémových infekcí.
+
+V případě pacientů s normální funkcí ledvin, intravenózní infuse opakovaných dávek 1g vankomycinu (15 mg/kg) během 60 minut navodí přibližné průměrné plazmatické koncentrace 50- 60 mg/l, 20-25 mg/l a 5-10 mg/l, okamžitě po infuzi, 2 hodiny, resp. 11 hodin po dokončení infuze. Plazmatické hladiny dosažené po opakovaných dávkách jsou podobné hladinám dosaženým po jednorázové dávce.
+
+Distribuce
+Distribuční objem je přibližně 60 l/1,73 m² tělesného povrchu. Při sérových koncentracích vankomycinu od 10 mg/l do 100 mg/l, je vazba léčiva na plazmatické bílkoviny přibližně 30-55%, měřeno ultrafiltrací.
+
+Vankomycin snadno prochází placentou a je distribuován do pupečníkové krve. U mozkových plen nepostižených zánětem vankomycin prochází přes hematoencefalickou bariéru jen v malé míře.
+
+Biotransformace
+Metabolismus léčiva je velmi malý. Po parenterálním podání je téměř kompletně vyloučeno jako mikrobiologicky aktivní látka (přibližně 75-90 % během 24 hodin) glomerulární filtrací ledvinami.
+
+Eliminace
+Eliminační poločas vankomycinu je 4 až 6 hodin u pacientů s normální funkcí ledvin a 2,2-3 hodiny u dětí. Plazmatická clearance je přibližně 0,058 l/kg/h a renální clearance přibližně 0,048 l/kg/h. V prvních 24 hodinách je přibližně 80 % podané dávky vankomycinu vyloučeno močí cestou glomerulární filtrace. Porucha funkce ledvin zpožďuje vylučování vankomycinu. U anefrických pacientů je průměrný poločas 7,5 dne. V těchto případech je indikováno doplňkové monitorování plazmatických koncentrací vzhledem k ototoxicitě léčby vankomycinem.
+
+Vylučování žlučí je nevýznamné (méně než 5% dávky).
+Ačkoliv vankomycin není účinně eliminován hemodialýzou nebo peritoneální dialýzou, bylo hlášeno zvýšení clearance vankomycinu při hemoperfuzi a hemofiltraci.
+Linerarita/nelinearita
+Koncentrace vankomycinu obecně stoupají proporcionálně s vyšší dávkou. Plazmatické koncentrace během podávání opakovaných dávek jsou podobné jako po podání jednorázové dávky.
+
+Characteristiky u zvláštních skupin
+
+Porucha funkce ledvin
+Vankomycin je primárně odstraňován glomerulární filtrací. U pacientů s poruchou funkce ledvin je terminální eliminační poločas vankomycinu prodloužen a celková tělesná clearance je snížena.
+Následně má být optimální dávka vypočítána v souladu s doporučeným dávkováním uvedeným v bodě 4.2 Dávkování a způsob podání.
+
+Porucha funkce jater
+Farmakokinetika vankomycinu není u pacientů s poruchou funkce jater ovlivněna.
+
+Těhotné ženy
+U těhotných žen mohou být potřebné významně vyšší dávky pro dosažení terapeutických sérových koncentrací (viz bod 4.6).
+
+Pacienti s nadváhou
+U pacientů s nadváhou může být ovlivněna distribuce vankomycinu kvůli zvýšení distribučního objemu, renální clearance a možným změnám ve vazbě na plazmatické bílkoviny. U zdravých dospělých mužů byly v této subpopulaci nalezeny vyšší než očekávané sérové koncentrace vankomycinu (viz bod 4.2).
+
+Pediatrická populace
+Farmakokinetika vankomycinu ukázala širokou variabilitu mezi jednotlivci u předčasně a v termínu narozených novorozenců. Po intravenózním podání u novorozenců distribuční objem vankomycinu kolísá mezi 0,38 a 0,97 l/kg, podobný hodnotám u dospělých, zatímco clearance kolísá mezi 0,63 a 1,4 ml/kg/min. Poločas kolísá mezi 3,5 a 10 hodinami a je delší než u dospělých, což odráží obvyklé nižší hodnoty clearance u novorozenců.
+
+U kojenců a starších dětí distribuční objem kolísá mezi 0,26-1,05 l/kg zatímco clearance kolísá mezi 0,33-1,87 ml/kg/min.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti a toxicity po opakovaném podávání neodhalily žádné zvláštní riziko pro člověka.
+Jsou dostupné omezené údaje o mutagenních účincích, které nevykazují žádné známky rizika. Dlouhodobé  studie  karcinogenního  potenciálu  na  zvířatech  nejsou  dostupné.  Ve  studiích teratogenity, během kterých potkani a králíci dostávali dávky odpovídající lidským dávkám v přepočtu na tělesný povrch (mg/m²), nebyly pozorovány přímé ani nepřímé teratogenní účinky.
+Studie na zvířatech týkající se perinatálního a postnatálního období a vlivu na fertilitu nejsou k dispozici.
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Žádné
+
+6.2  Inkompatibility
+Roztoky vankomycinu mají nízké pH, což může při smísení s jinými látkami vést k chemické a fyzikální nestabilitě. Každý parenterální roztok je proto nutné před použitím vizuálně zkontrolovat a ověřit, jestli nedošlo k precipitaci nebo změně barvy. Aby se zabránilo precipitaci, mají se stříkačky a intravenózní katetry opláchnout fyziologickým roztokem chloridu sodného mezi podáním přípravku Vancomycin MIP Pharma a jiných léků.
+
+Tento léčivý přípravek nesmí být mísen s ostatními léčivými přípravky mimo těch, které jsou uvedeny v bodu 6.6.
+
+Bylo prokázáno, že směsi roztoků vankomycinu a betalaktamových antibiotik jsou fyzikálně inkompatibilní.  Pravděpodobnost  precipitace  se  zvyšuje  se  zvyšujícími  se  koncentracemi vankomycinu. Doporučuje se mezi podáním těchto antibiotik dostatečně propláchnout hadičky intravenózního infuzního setu. Doporučuje se také zředit roztoky vankomycinu na koncentraci 5 mg/ml nebo nižší.
+
+6.3  Doba použitelnosti
+2 roky
+
+Doba použitelnosti připraveného infuzního roztoku
+
+Chemická a fyzikální stabilita připraveného infuzního roztoku byla prokázána po dobu 96 hodin při teplotě 2 °C - 8 °C. Z mikrobiologického hlediska má být přípravek použit okamžitě. Pokud není přípravek použit okamžitě, je za dobu a podmínky uchovávání přípravku po otevření před použitím odpovědný uživatel a normálně nemá tato doba být delší než 24 hodin při teplotě 2 °C - 8 °C, pokud rekonstituce/naředění neproběhly za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+
+Podmínky uchovávání rekonstituovaného a naředěného léčivého přípravku viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+Injekční lahvičky z bezbarvého skla třídy I s bromobutylovou pryžovou zátkou a odklápěcím víčkem.
+Balení s 1 nebo 5 injekčními lahvičkami.
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Prášek se musí rozpustit a výsledný koncentrát pak před použitím dále naředit.
+
+Příprava koncentrátu pro infuzní roztok
+Rozpusťte obsah 500 mg lahvičky v 10 ml sterilní vody pro injekci. Rozpusťte obsah 1000 mg lahvičky v 20 ml sterilní vody proinjekci.
+Jeden ml rekonstituovaného roztoku obsahuje 50 mg vankomycini hydrochloridum.
+
+Příprava infuzního roztoku
+Infuzní koncentrát je možno ředit sterilní vodou pro injekci, 9 mg/ml roztokem chloridu sodného nebo roztokem glukózy 50 mg/ml.
+Lahvička s obsahem 500 mg: Pro získání roztoku pro infuzi o koncentraci 5 mg/ml zřeďte 10 ml koncentrátu pro infuzi 90 ml ředicího roztoku.
+Lahvička s obsahem 1000 mg: Pro získání roztoku pro infuzi o koncentraci 5 mg/ml zřeďte 20 ml koncentrátu pro infuzi 180 ml ředicího roztoku.
+Koncentrace vankomycini hydrochloridum v roztoku pro infuzi nesmí být větší než 2,5 - 5 mg/ml.
+
+Vzhled infuzního roztoku
+Roztok se má zkontrolovat vizuálně s ohledem na obsah částic a změnu barvy před podáním. Roztok se smí používat pouze v případě, pokud je čirý a neobsahuje žádné částice.
+Podmínky uchovávání naředěného léčivého přípravku viz bod 6.3.
+
+Podávání
+Vancomycin se podává pouze ve formě pomalé intravenózní infuze trvající nejméně jednu hodinu nebo maximální dávku 10 mg / min (podle toho, co je delší) (viz také kapitola 4.2).
+Aby se předešlo precipitaci v důsledku nízkého pH vankomycin-hydrochloridu v roztoku, je třeba všechny intravenózní kanyly a katetry propláchnout fyziologickým roztokem.
+
+Roztoky vankomycinu jsou obecně podávány samostatně, pokud není prokázána chemická a fyzikální kompatibilita s jiným infuzním roztokem (viz bod 6.2).
+
+Likvidace
+Injekční lahvičky jsou určeny pouze pro jednorázové použití. Nepoužitý přípravek je nutné zlikvidovat.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+MIP Pharma GmbH Kirkeler Straße 41 D-66440 Blieskastel Německo
+Telefon: 0049-6842/9609-0 Fax: 0049-6842/9609-355
+
+8.  REGISTRAČNÍ ČÍSLO/ČÍSLA
+Vancomycin MIP Pharma 500 mg: 15/027/15-C Vancomycin MIP Pharma 1000 mg: 15/028/15-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 29. 4. 2015
+Datum posledního prodloužení registrace: 8. 4. 2016
+10.  DATUM REVIZE TEXTU
+25. 3. 2021

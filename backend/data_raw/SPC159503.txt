@@ -1,0 +1,494 @@
+Sp. zn. sukls107668/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+MEDOPEXOL 0,088 mg tablety MEDOPEXOL 0,18 mg tablety MEDOPEXOL 0,7 mg tablety
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+MEDOPEXOL 0,088 mg: Jedna tableta obsahuje pramipexoli dihydrochloridum monohydricum 0,125 mg, což odpovídá pramipexolum 0,088 mg.
+MEDOPEXOL 0,18 mg: Jedna tableta obsahuje pramipexoli dihydrochloridum monohydricum 0,25 mg, což odpovídá pramipexolum 0,18 mg.
+MEDOPEXOL 0,7 mg: Jedna tableta obsahuje pramipexoli dihydrochloridum monohydricum 1,0 mg,
+což odpovídá pramipexolum 0,7 mg.
+Poznámka:
+Dávky pramipexolu publikované v literatuře odpovídají formě soli pramipexolu. Dávky budou proto uváděny jak ve formě báze pramipexolu, tak i jako sůl pramipexolu (v závorkách).
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Tableta
+MEDOPEXOL 0,088 mg: bílé, kulaté, ploché tablety (průměr: cca 6,5 mm)
+MEDOPEXOL 0,18 mg: bílé, bikonvexní, oválné tablety s půlící rýhou na obou stranách (rozměry: cca 8 mm x 4 mm). Tabletu lze rozdělit na stejné dávky.
+MEDOPEXOL 0,7 mg: bílé, kulaté, ploché tablety s půlící rýhou na jedné straně (průměr: cca 9 mm). Tabletu lze rozdělit na stejné dávky.
+
+4. KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+MEDOPEXOL je indikován u dospělých k léčbě projevů a příznaků idiopatické Parkinsonovy nemoci, buď samostatně (bez levodopy) nebo v kombinaci s levodopou, tj. v průběhu onemocnění až do pozdních stádií, kdy se účinek levodopy vytrácí nebo je proměnlivý a kdy dochází k výkyvům léčebného efektu (dosažení horní hranice dávky nebo tzv. „on-off“ kolísání).
+MEDOPEXOL je indikován u dospělých k symptomatické léčbě středně těžkého až těžkého idiopatického syndromu neklidných nohou (RLS) v dávkách až 0,54 mg báze (0,75 mg soli) (viz bod 4.2).
+4.2  Dávkování a způsob podání
+Pro dávkování, které nelze zajistit přípravkem MEDOPEXOL, jsou k dispozici další síly jiných léčivých přípravků s obsahem pramipexolu.
+
+
+
+
+
+1/14
+
+Dávkování
+Parkinsonova nemoc
+Denní dávka se podává ve stejných dílčích dávkách třikrát denně.
+Zahajovací léčba
+Dávky je třeba zvyšovat postupně každých 5–7 dní od počáteční dávky 0,264 mg báze (0,375 mg soli). Pokud pacienti netrpí žádnými neúnosnými nežádoucími účinky, dávka by měla být titrována tak, aby se dosáhlo maximálního terapeutického účinku.
+
+Schéma zvyšování dávky přípravku MEDOPEXOL
+
+Týden
+
+
+
+1
+2
+3
+Dávka   (mg pramipexolu báze)
+
+3 x 0,088
+3 x 0,18
+3 x 0,35
+Celková denní dávka   (mg pramipexolu báze)
+0,264
+0,54
+1,1
+Dávka (mg soli
+pramipexolu)
+
+
+3 x 0,125
+3 x 0,25
+3 x 0,5
+Celková denní dávka (mg soli pramipexolu)
+
+0,375
+0,75
+1,50
+
+
+Pokud je třeba dávku dále zvýšit, je nutno denní dávku navyšovat o 0,54 mg báze (0,75 mg soli) v týdenních intervalech až do maximální dávky 3,3 mg báze (4,5 mg soli) denně.
+Je však třeba poznamenat, že výskyt somnolence narůstá při dávkách vyšších než 1,5 mg (soli) denně
+(viz bod 4.8).
+Udržovací léčba
+Jednotlivá dávka pramipexolu se má pohybovat v rozmezí od 0,264 mg báze (0,375 mg soli) do maximálně 3,3 mg báze (4,5 mg soli) denně. Během zvyšování dávky v pivotních studiích byla účinnost pozorována od denní dávky 1,1 mg báze (1,5 mg soli). Další úpravy dávky je nutno provést na základě klinické odpovědi a výskytu nežádoucích účinků. V klinických studiích bylo přibližně 5 % pacientů léčeno dávkami nižšími než 1,1 mg báze (1,5 mg soli). U pokročilé Parkinsonovy nemoci mohou být dávky pramipexolu vyšší než 1,1 mg báze (1,5 mg soli) denně užitečné u pacientů, kde se předpokládá snížení dávky levodopy. Doporučuje se snižovat dávkování levodopy v průběhu jak zvyšování dávek, tak i během udržovací léčby přípravkem MEDOPEXOL, a to v závislosti na reakci jednotlivých pacientů (viz bod 4.5).
+Přerušení léčby
+Náhlé přerušení dopaminergní léčby může vést k vývoji neuroleptického maligního syndromu nebo abstinenčního syndromu při vysazení dopaminového agonisty. Pramipexol je třeba postupně redukovat o 0,54 mg báze (0,75 mg soli) denně do dosažení denní dávky 0,54 mg báze (0,75 mg soli). Poté je nutno dávku snižovat o 0,264 mg báze (0,375 mg soli) denně (viz bod 4.4). Abstinenční syndrom při vysazení dopaminového agonisty se může přesto při snižování dávky vyskytnout a před opětovným zahájením postupného snižování dávky může být nezbytné její přechodné zvýšení (viz bod 4.4).
+Pacienti s poruchou funkce ledvin
+Vylučování pramipexolu je závislé na renální funkci. Pro zahájení léčby se doporučuje následující schéma dávkování:
+• U pacientů s clearance kreatininu nad 50 ml/min není třeba snižovat denní dávku nebo četnost dávkování.
+
+
+
+
+2/14
+
+•  U pacientů s clearance kreatininu mezi 20 a 50 ml/min je nutno zahajovací denní dávku přípravku MEDOPEXOL podat ve dvou rozdělených dávkách, zpočátku 0,088 mg báze (0,125 mg soli) dvakrát denně (0,176 mg báze/0,25 mg soli denně). Maximální denní dávka 1,57 mg báze pramipexolu (2,25 mg soli) nemá být překročena.
+•  Pacientům s clearance kreatininu pod 20 ml/min je třeba denní dávku přípravku MEDOPEXOL podávat jednorázově, zpočátku v dávce 0,088 mg báze (0,125 mg soli) denně. Maximální denní dávka 1,1 mg báze pramipexolu (1,5 mg soli) nemá být překročena.
+Pokud se funkce ledvin zhoršuje během udržovací léčby, denní dávka přípravku MEDOPEXOL má být snížena o stejné procento, o které klesla clearance kreatininu, tj. pokud clearance kreatininu poklesne o 30 %, pak má být denní dávka přípravku MEDOPEXOL snížena o 30 %. Pokud je clearance kreatininu mezi 20 a 50 ml/min, lze denní dávku podávat ve dvou rozdělených dávkách, pokud je clearance kreatininu nižší než 20 ml/min v jedné denní dávce.
+Pacienti s poruchou funkce jater
+Úprava dávek u pacientů s poruchou funkce jater pravděpodobně není nutná, protože přibližně 90 % vstřebané léčivé látky je vylučováno ledvinami. Možný vliv jaterní insuficience na farmakokinetiku přípravku MEDOPEXOL však nebyl studován.
+Pediatrická populace
+Bezpečnost a účinnost přípravku MEDOPEXOL nebyla u dětí do 18 let stanovena. Není odpovídající využití přípravku MEDOPEXOL v léčbě Parkinsonovy nemoci u pediatrické populace.
+Syndrom neklidných nohou
+Doporučená počáteční dávka přípravku MEDOPEXOL je 0,088 mg báze (0,125 mg soli) užívaná jednou denně 2–3 hodiny před spaním. Pro pacienty, u nichž je potřebná další symptomatická úleva, je možno dávku zvyšovat po 4–7 dnech do maxima 0,54 mg báze (0,75 mg soli) denně (jak je ukázáno v tabulce níže).
+Dávkovací schéma přípravku MEDOPEXOL
+
+Titrační krok
+
+1
+2*
+3*
+4*
+* je-li třeba
+Dávka podávaná jednou denně večer (mg báze)
+0,088
+0,18
+0,35
+0,54
+Dávka podávaná jednou denně večer (mg soli)
+0,125
+0,25
+0,50
+0,75
+
+Po 3měsíční léčbě je třeba zvážit odpověď pacienta a potřebu, zda v léčbě pokračovat. Jestliže je léčba přerušena na více než několik dní, mělo by dávkování být znovu zahájeno postupným zvyšováním dávek dle tabulky výše.
+Přerušení léčby
+Protože denní dávka při léčbě syndromu neklidných nohou nepřesáhne 0,54 mg báze (0,75 mg soli), MEDOPEXOL může být vysazen bez postupného snižování. Ve 26týdenní placebem kontrolované studii byl rebound fenomén symptomů RLS po náhlém přerušení léčby (zhoršení závažnosti symptomů ve srovnání s výchozím stavem) pozorován u 10 % pacientů (14 z 135). Napříč všemi dávkami byl zjištěn podobný účinek.
+
+
+
+
+
+3/14
+
+Porucha funkce ledvin
+Eliminace pramipexolu je závislá na funkci ledvin. U pacientů s clearance kreatininu nad 20 ml/min není vyžadována redukce denní dávky.
+Použití přípravku MEDOPEXOL nebylo zkoumáno u pacientů na hemodialýze nebo u pacientů s těžkou
+poruchou funkce ledvin.
+Porucha funkce jater
+Úprava dávky u pacientů s poruchou funkce jater není vyžadována, protože přibližně 90 % absorbované léčivé látky je vylučováno ledvinami.
+Pediatrická populace
+Podávání přípravku MEDOPEXOL dětem a dospívajícím ve věku do 18 let se vzhledem
+k nedostatečným údajům o bezpečnosti a účinnosti nedoporučuje.
+Tourettův syndrom
+Pediatrická populace
+Užívání přípravku MEDOPEXOL se nedoporučuje u dětí a dospívajících do 18 let, protože účinnost a bezpečnost nebyla u této populace stanovena. MEDOPEXOL se nesmí užívat u dětí nebo dospívajících s Tourettovým syndromem vzhledem k negativnímu poměru přínosu a rizika pro tento syndrom (viz bod 5.1).
+Způsob podání
+Tablety se musí užívat perorálně, zapíjejí se vodou a mohou být užívány s jídlem nebo bez jídla.
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+Při předepsání přípravku MEDOPEXOL pacientovi s poruchou funkce ledvin při Parkinsonově nemoci se doporučuje snížení dávky v souladu s bodem 4.2.
+Halucinace
+Halucinace jsou známé jako nežádoucí účinek léčby agonisty dopaminu a levodopou. Pacienti musí být informováni o možnosti výskytu halucinací (většinou zrakových).
+Dyskineze
+U pokročilé Parkinsonovy nemoci se při kombinované léčbě s levodopou může v průběhu počáteční titrace přípravku MEDOPEXOL objevit dyskineze. Pokud k tomu dojde, je třeba snížit dávku levodopy.
+Dystonie
+U pacientů s Parkinsonovou chorobou byla po zahájení nebo postupném zvýšení dávky pramipexolu příležitostně hlášena axiální dystonie včetně antekolis, kamptokormie a pleurototonu (Pisa syndrom). Ačkoli dystonie může být symptomem Parkinsonovy choroby, po snížení nebo vysazení pramipexolu se symptomy u těchto pacientů zlepšily. Pokud dojde k dystonii, je třeba přehodnotit dopaminergní medikaci a zvážit úpravu dávky pramipexolu.
+Náhlý nástup spánku a somnolence
+Pramipexol je spojován s výskytem somnolence a epizodami náhlého nástupu spánku, a to zejména u pacientů s Parkinsonovou nemocí. Méně často byl hlášen náhlý nástup spánku během denních aktivit, v některých případech bez uvědomění si či předcházejících varovných příznaků. Pacienti musí být o této skutečnosti informováni a upozorněni na nutnou opatrnost při řízení vozidla nebo obsluze strojů během léčby přípravkem MEDOPEXOL. Pacienti, kteří zaznamenali spavost a/nebo epizody náhlého nástupu spánku, nesmí řídit vozidla a obsluhovat stroje. Dále je nutno zvážit snížení dávek nebo ukončení léčby.
+
+
+
+4/14
+
+Vzhledem k možným aditivním účinkům je nutná opatrnost v případech, kdy pacienti užívají jiné léky se sedativním účinkem nebo alkohol v kombinaci s pramipexolem (viz body 4.5, 4.7 a 4.8).
+Poruchy kontroly impulzivity
+Pacienti mají být pravidelně monitorováni z důvodů možnosti rozvoje impulzivních poruch. Pacienti a jejich ošetřovatelé by měli být upozorněni, že u pacientů léčených agonisty dopaminu, včetně přípravku MEDOPEXOL, se mohou rozvinout symptomy impulzivních poruch včetně patologického hráčství, zvýšeného libida, hypersexuality, nutkavého utrácení nebo nakupování, záchvatovitého a nutkavého přejídání. Pokud se tyto příznaky objeví, mělo by se zvážit snížení dávky nebo postupné vysazení přípravku.
+Mánie a delirium
+Pacienti mají být pravidelně monitorováni z důvodu rozvoje mánie a deliria. Pacienti a jejich ošetřovatelé mají být upozorněni, že u pacientů léčených pramipexolem se může objevit mánie a delirium. Pokud se tyto příznaky objeví, má se zvážit snížení dávky nebo postupné vysazení přípravku.
+Pacienti s psychotickými poruchami
+Pacienti s psychotickým onemocněním mají být léčeni agonisty dopaminu pouze tehdy, pokud potenciální přínos převáží rizika.
+Je třeba se vyhnout současnému podávání antipsychotických léků s pramipexolem (viz bod 4.5).
+Oftalmologické kontroly
+V pravidelných intervalech nebo v případě poruchy zraku se doporučují oftalmologické kontroly.
+Závažné kardiovaskulární onemocnění
+V případě závažného kardiovaskulárního onemocnění je třeba opatrnost. Z důvodu obecného rizika posturální hypotenze spojené s dopaminergní léčbou, a to zejména na počátku léčby, se doporučuje monitorovat krevní tlak.
+Neuroleptický maligní syndrom
+Při náhlém přerušení dopaminergní léčby byly hlášeny příznaky připomínající neuroleptický maligní
+syndrom (viz bod 4.2).
+Abstinenční syndrom při vysazení dopaminového agonisty (dopamine agonist withdrawal syndrome, DAWS)
+Syndrom DAWS byl hlášen u dopaminových agonistů včetně pramipexolu (viz bod 4.8). Při ukončení léčby u pacientů s Parkinsonovou nemocí má být dávka pramipexolu snižována postupně (viz bod 4.2). Omezené údaje ukazují, že pacienti s impulzivními poruchami a pacienti léčení vysokými denními dávkami a/nebo vysokými kumulativními dávkami dopaminových agonistů mohou být vystaveni vyššímu riziku rozvoje syndromu DAWS. Abstinenční příznaky při vysazení mohou zahrnovat apatii, úzkost, depresi, únavu, pocení a bolest a na levodopu nereagují. Pacienti mají být o možných abstinenčních příznacích při vysazení informováni před zahájením snižování dávky a před vysazením pramipexolu. Během snižování dávky a vysazování mají být pacienti pečlivě sledováni. V případě závažných a/nebo přetrvávajících abstinenčních příznaků lze zvážit opětovné přechodné podávání pramipexolu v nejnižší účinné dávce.
+Augmentace
+Zprávy z literatury naznačují, že při použití dopaminergních léčivých přípravků v jiné indikaci může dojít k augmentaci. Augmentace znamená časnější nástup symptomů večer (nebo dokonce odpoledne), zvýšení intenzity symptomů a rozšíření symptomů na další končetiny.
+Augmentace byla specificky hodnocena v kontrolované klinické studii trvající 26 týdnů a byla zjištěna u 11,8 % pacientů ve skupině s pramipexolem (n = 152) a u 9,4 % pacientů v placebové skupině (n = 149). Analýza doby do vzniku augmentace podle Kaplanovy-Meierovy metody neprokázala žádný významný rozdíl mezi skupinou s pramipexolem a skupinou s placebem.
+
+
+5/14
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Vazba na plazmatické proteiny
+Pramipexol se ve velmi malém rozsahu (<20 %) váže na plazmatické proteiny a u člověka dochází k jeho zanedbatelné biotransformaci. Z těchto důvodů jsou nepravděpodobné interakce s jinými léčivými přípravky, které ovlivňují vazbu na plazmatické bílkoviny nebo vylučování biotransformací. Protože anticholinergika jsou vylučována zejména biotransformací, je potenciál pro interakce omezený, i když interakce s anticholinergiky nebyla studována. Nedochází k žádným farmakokinetickým interakcím se selegilinem a levodopou.
+Inhibitory/kompetitory aktivního renálního eliminačního transportu
+Cimetidin snižoval renální clearance pramipexolu přibližně o 34 %, pravděpodobně inhibicí kationtového sekrečního transportního systému v renálních tubulech. Proto léčivé přípravky, které inhibují tuto aktivní renální vylučovací cestu anebo jsou touto cestou vylučovány, jako je cimetidin, amantadin, mexiletin, zidovudin, cisplatina, chinin a prokainamid mohou interagovat s pramipexolem, což vede ke snížení clearance pramipexolu. Pokud jsou tyto léčivé přípravky podávány současně s přípravkem MEDOPEXOL, je nutno zvážit snížení dávky pramipexolu.
+Kombinace s levodopou
+Pokud se podává MEDOPEXOL v kombinaci s levodopou, doporučuje se během zvyšování dávky přípravku MEDOPEXOL dávku levodopy snížit a dávkování jiných antiparkinsonik udržovat konstantní.
+V případech, kdy pacienti užívají jiné léky se sedativním působením nebo alkohol v kombinaci s pramipexolem, je vzhledem k možným aditivním účinkům nutná opatrnost (viz body 4.4, 4.7 a 4.8).
+Antipsychotické léky
+Je třeba se vyhnout současnému podávání antipsychotických léků s pramipexolem (viz bod 4.4), např. jestliže může být očekáván antagonistický účinek.
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Vliv na těhotenství a kojení nebyl u lidí zkoumán. Pramipexol nebyl teratogenní u potkanů a králíků, ale byl embryotoxický u potkanů v dávkách toxických pro matku (viz bod 5.3). MEDOPEXOL by neměl být podáván během těhotenství, pokud to není zcela nutné, tj. jen pokud potenciální přínos ospravedlňuje případné riziko pro plod.
+Kojení
+Protože léčba pramipexolem u lidí snižuje sekreci prolaktinu, očekává se inhibice laktace. Vylučování pramipexolu do mateřského mléka nebylo u žen studováno. U potkanů byla radioaktivita související s léčivou látkou vyšší v mateřském mléce než v plazmě.
+Vzhledem k nedostatku údajů u lidí by neměl být přípravek MEDOPEXOL podáván během kojení. Avšak pokud je jeho užívání nevyhnutelné, je nutno kojení přerušit.
+Fertilita
+Nebyly provedeny žádné studie vlivu na fertilitu u lidí. Ve studiích na zvířatech ovlivňoval pramipexol estrální cyklus a snižoval plodnost samic, což lze u agonistů dopaminu očekávat. Tyto studie však neprokázaly přímé nebo nepřímé škodlivé účinky na samčí plodnost.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+MEDOPEXOL může mít velký vliv na schopnost řídit a obsluhovat stroje.
+Mohou se objevit halucinace nebo somnolence.
+Pacienti léčení přípravkem MEDOPEXOL, u kterých dochází ke spavosti a/nebo k epizodám náhlého spánku, musí být informováni o tom, aby neřídili vozidla a nevykonávali aktivity, kde zhoršená
+
+
+6/14
+
+pozornost může vystavit je samotné nebo jejich okolí riziku závažného poranění nebo úmrtí (např. při obsluze strojů), a to do té doby, dokud takové opakující se epizody a somnolence nevymizí (viz též body 4.4, 4.5 a 4.8).
+4.8  Nežádoucí účinky
+Na základě analýzy souhrnu placebem kontrolovaných studií, které zahrnuly celkem 1923 pacientů léčených pramipexolem a 1354 pacientů léčených placebem, byly v obou skupinách hlášeny nežádoucí účinky opakovaně. 63 % pacientů léčených pramipexolem a 52 % pacientů léčených placebem ohlásilo nejméně jeden nežádoucí účinek po léku.
+Většina nežádoucích účinků se obvykle objeví v časné fázi léčby a většinou vymizí i v případě, že léčba
+pokračuje.
+Nežádoucí účinky jsou rozdělené do tříd orgánových systémů podle frekvence výskytu (počet pacientů, u kterých se očekává výskyt nežádoucího účinku) za použití následujících kritérií:
+Velmi časté (≥1/10) Časté (≥1/100 až <1/10)
+Méně časté (≥1/1000 až <1/100) Vzácné (≥1/10 000 až <1/1000) Velmi vzácné (<1/10 000)
+Není známo (z dostupných údajů nelze určit)
+Parkinsonova nemoc, nejčastější nežádoucí účinky
+Nejčastěji (≥ 5 %) hlášenými nežádoucími účinky u pacientů s Parkinsonovou nemocí, častější po podání pramipexolu než po podání placeba, byly nauzea, dyskineze, hypotenze, závratě, somnolence, nespavost, zácpa, halucinace, bolest hlavy a únava. Výskyt somnolence se zvyšuje s dávkami vyššími než 1,5 mg soli pramipexolu denně (viz bod 4.2). Častějším nežádoucím účinkem při kombinaci s levodopou byla dyskineze. Hypotenze se může vyskytnout na začátku léčby, zvláště pokud je pramipexol titrován příliš rychle.
+Tabulka 1: Parkinsonova nemoc
+Třída orgánových systémů            Nežádoucí účinek
+Infekce a infestace
+Méně časté                     pneumonie
+Endokrinní poruchy
+Méně časté                     nepřiměřená sekrece antidiuretického hormonu¹
+Psychiatrické poruchy
+
+Časté
+
+
+Méně časté
+
+
+
+Vzácné
+Poruchy nervového systému
+abnormální sny, symptomy poruch kontroly impulzivity a nutkavé chování; stav zmatenosti, halucinace, insomnie
+záchvatovité přejídání¹, nutkavé nakupování, bludy,  hyperfagie¹,  hypersexualita,  poruchy libida, paranoia, patologické hráčství, neklid, delirium
+mánie
+Velmi časté                     závratě, dyskineze, somnolence
+
+
+
+7/14
+
+Třída orgánových systémů
+Časté Méně časté
+Poruchy oka
+Nežádoucí účinek
+bolest hlavy
+amnézie, hyperkineze, náhlý nástup spánku,
+synkopa
+Časté                        zhoršení zraku včetně diplopie, rozmazané vidění a snížení zrakové ostrosti
+Srdeční poruchy
+Méně časté                     srdeční selhání¹
+Cévní poruchy
+Časté                        hypotenze
+Respirační, hrudní a mediastinální poruchy
+Méně časté                     dyspnoe, škytavka
+Gastrointestinální poruchy
+Velmi časté                     nauzea
+Časté                        zácpa, zvracení
+Poruchy kůže a podkožní tkáně
+Méně časté                     hypersenzitivita, pruritus, vyrážka
+Celkové poruchy a reakce v místě aplikace
+
+Časté
+Není známo
+
+
+Vyšetření
+Časté
+
+Méně časté
+únava, periferní edém
+abstinenční syndrom při vysazení dopaminového agonisty včetně apatie, úzkosti, deprese, únavy, pocení a bolesti
+
+
+snížení tělesné hmotnosti včetně snížení chuti
+k jídlu
+zvýšení tělesné hmotnosti
+¹ Tento nežádoucí účinek byl zjištěn na základě zkušeností po uvedení na trh. S 95% pravděpodobností není frekvence výskytu větší než “méně časté”, ale může být nižší. Přesný odhad frekvence není možný, protože nežádoucí účinek nebyl zjištěn v databázi klinické studie u 2 762 pacientů s Parkinsonovou nemocí, kteří byli léčeni pramipexolem.
+Syndrom neklidných nohou, nejčastější nežádoucí účinky
+Nejčastěji (≥5 %) hlášenými nežádoucími účinky u pacientů se syndromem neklidných nohou léčených pramipexolem byly nauzea, bolest hlavy, závratě a únava. Nauzea a únava byly častěji hlášeny u žen léčených pramipexolem (20,8 % a 10,5 %, v tomto pořadí) ve srovnání s muži (6,7 % a 7,3 %, v tomto pořadí).
+Tabulka 2: Syndrom neklidných nohou
+Třída orgánových systémů            Nežádoucí účinek
+Infekce a infestace
+Méně časté                     pneumonie¹
+
+
+8/14
+
+Třída orgánových systémů            Nežádoucí účinek Endokrinní poruchy
+Méně časté                     nepřiměřená sekrece antidiuretického hormonu¹
+Psychiatrické poruchy
+
+Časté Méně časté
+
+
+
+
+
+
+Poruchy nervového systému
+Časté Méně časté
+Poruchy oka
+abnormální sny, insomnie
+behaviorální  symptomy  poruch  kontroly impulzivity  a  nutkavé  chování  jako  je: záchvatovité  přejídání,  nutkavé  nakupování, hypersexualita   a   patologické   hráčství¹; zmatenost,  bludy¹,  halucinace,  hyperfagie¹, porucha  libida,  paranoia¹,  neklid,  mánie¹, delirium¹
+
+
+závratě, bolest hlavy, somnolence
+amnézie¹, dyskineze, hyperkineze¹, náhlý nástup spánku, synkopa
+Méně časté                     zhoršení zraku včetně diplopie, rozmazaného vidění a snížení zrakové ostrosti
+Srdeční poruchy
+Méně časté                     srdeční selhání¹
+Cévní poruchy
+Méně časté                     hypotenze
+Respirační, hrudní a mediastinální poruchy
+Méně časté                     dyspnoe, škytavka
+Gastrointestinální poruchy
+Velmi časté                     nauzea
+Časté                        zácpa, zvracení
+Poruchy kůže a podkožní tkáně
+Méně časté                     hypersenzitivita, pruritus, vyrážka
+Celkové poruchy a reakce v místě aplikace
+
+Časté Méně časté
+Není známo
+
+
+Vyšetření
+únava periferní edém
+abstinenční syndrom při vysazení dopaminového agonisty včetně apatie, úzkosti, deprese, únavy, pocení a bolesti
+Méně časté                     snížení tělesné hmotnosti včetně snížení chuti
+k jídlu, zvýšení tělesné hmotnosti
+
+
+
+
+9/14
+
+¹ Tento nežádoucí účinek byl zjištěn na základě zkušeností po uvedení přípravku na trh. S jistotou 95 % není údaj v kategorii frekvence výskytu větší než „méně časté“, ale může být nižší. Přesný odhad frekvence není možný, protože nežádoucí účinek nebyl uveden v databázi klinického hodnocení u 1395 pacientů se syndromem neklidných nohou léčených pramipexolem.
+Somnolence
+Pramipexol je často spojován se somnolencí a méně často byl spojován s nadměrnou denní spavostí
+a epizodami náhlého nástupu spánku (viz také bod 4.4).
+Poruchy libida
+Pramipexol může být méně často spojen s poruchami libida (zvýšení nebo snížení).
+Symptomy poruch kontroly impulzivity
+U pacientů léčených agonisty dopaminu včetně přípravku MEDOPEXOL se mohou rozvinout symptomy jako patologické hráčství, zvýšené libido, hypersexualita, nutkavé utrácení nebo nakupování a záchvatovité a nutkavé přejídání (viz bod 4.4).
+V průřezovém, retrospektivním sledování a případové studii zahrnující 3090 pacientů s Parkinsonovou nemocí, mělo 13,6 % všech pacientů, kteří dostali dopaminergní nebo nedopaminergní léčbu, během posledních 6 měsíců symptomy poruchy kontroly impulzivity. Pozorované manifestace zahrnují patologické hráčství, nutkavé nakupování, záchvatovité přejídání a nutkavé sexuální chování (hypersexualita). Možné nezávislé rizikové faktory pro poruchy kontroly impulzivity zahrnují dopaminergní léčbu a vyšší dávky dopaminergních léků, mladší věk (≤ 65 let), pacient není ženatý/vdaná a hráčské chování v rodinné anamnéze.
+Abstinenční syndrom při vysazení dopaminového agonisty
+Při snižování dávky nebo ukončení podávání dopaminových agonistů, včetně pramipexolu, se mohou objevit nemotorické nežádoucí účinky. Příznaky zahrnují apatii, úzkost, depresi, únavu, pocení a bolest (viz bod 4.4).
+Srdeční selhání
+U pacientů s pramipexolem bylo hlášeno v klinických studiích a při sledování po uvedení na trh srdeční selhání. Ve farmakoepidemiologické studii bylo podávání pramipexolu spojeno se zvýšením rizika srdečního selhání ve srovnání se skupinou, které nebyl pramipexol podáván (pozorovaný poměr rizik 1,86; 95% CI; 1,21–2,85).
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+Nejsou žádné klinické zkušenosti s masivním předávkováním. Očekávané nežádoucí účinky by měly vztah k farmakodynamickému profilu agonistů dopaminu, včetně nauzey, zvracení, hyperkineze, halucinací, agitace a hypotenze. Pro případ předávkování agonistou dopaminu není k dispozici žádné zavedené antidotum. Pokud jsou přítomny příznaky stimulace centrálního nervového systému, může být indikováno podání neuroleptického přípravku. Zvládnutí předávkování může vyžadovat obecná podpůrná opatření spolu s laváží žaludku, podáním tekutin nitrožilně, podáním aktivního uhlí a monitorováním elektrokardiogramu.
+
+
+
+
+10/14
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antiparkinsonika, agonisté dopaminu, ATC kód: N04BC05
+Mechanismus účinku
+Pramipexol je agonista dopaminu, který se s vysokou selektivitou a specificitou váže na dopaminové
+receptory podskupiny D2, z nichž má přednostní afinitu k receptorům D3, a má plnou vnitřní aktivitu.
+Pramipexol zmírňuje parkinsonické motorické deficity stimulací receptorů dopaminu ve striatu. Studie na zvířatech ukázaly, že pramipexol inhibuje syntézu dopaminu, jeho uvolňování a přeměnu.
+Mechanismus  účinku  pramipexolu  při  léčbě  syndromu  neklidných  nohou  není  známý. Neurofarmakologický nález nasvědčuje zapojení primárního dopaminergního systému.
+Farmakodynamické účinky
+U zdravých dobrovolníků byl pozorován pokles prolaktinu závislý na dávce. V klinické studii u zdravých dobrovolníků, kde byl pramipexol titrován rychleji (každé 3 dny) než je doporučeno až do dávky 3,15 mg báze pramipexolu (4,5 mg soli) denně, bylo pozorováno zvýšení krevního tlaku a srdeční frekvence. U pacientů ve studiích takový účinek pozorován nebyl.
+Klinická účinnost a bezpečnost u Parkinsonovy nemoci
+Pramipexol u pacientů zmírňuje projevy a příznaky idiopatické Parkinsonovy nemoci. Placebem kontrolované klinické studie zahrnovaly přibližně 1800 pacientů léčených pramipexolem ve stádiu I–IV dle Hoehnové a Yahra. Z toho přibližně 1000 pacientů bylo v pokročilejších stádiích, byli současně léčeni levodopou a měli motorické komplikace.
+Při časné a pokročilé Parkinsonově nemoci byla účinnost pramipexolu v kontrolovaných klinických studiích po dobu přibližně šest měsíců stálá. V otevřených pokračujících studiích, které trvaly déle než tři roky, nedošlo ke známkám poklesu účinnosti.
+V kontrolované dvojitě zaslepené klinické studii, která trvala dva roky, zahájení léčby pramipexolem významně oddálilo nástup motorických komplikací a snížilo jejich výskyt v porovnání se zahájením léčby levodopou. Toto oddálení motorických komplikací pramipexolem by mělo být zváženo proti většímu zlepšení motorických funkcí při levodopě (měřeno průměrnou změnou skóre UPDRS). Celkový výskyt halucinací a somnolence byl obecně vyšší ve fázi navyšování dávky v pramipexolové skupině. Během udržovací fáze však nebyl žádný významný rozdíl. Tyto skutečnosti je třeba při zahajování léčby pramipexolem u pacientů s Parkinsonovou nemocí zvažovat.
+Pediatrická populace
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s pramipexolem u všech podskupin pediatrické populace s Parkinsonovou nemocí (informace o použití u dětí viz bod 4.2).
+Klinická účinnost a bezpečnost u syndromu neklidných nohou
+Účinnost pramipexolu byla hodnocena ve čtyřech klinických studiích kontrolovaných placebem u přibližně 1000 pacientů se středně těžkým až velmi těžkým idiopatickým syndromem neklidných nohou.
+Základem pro posouzení účinnosti byly průměrné změny od výchozích hodnot ve škále IRLS (Restless Legs Syndrome Rating Scale) a ve škále CGI-I (Clinical Global Impression-Improvement). V obou hodnocených veličinách byly pozorovány statisticky významné změny ve srovnání s placebem ve skupinách s dávkami pramipexolu 0,25 mg, 0,5 mg and 0,75 mg soli pramipexolu. Po 12 týdnech léčby se výchozí skóre IRLS zlepšilo z 23,5 na 14,1 bodů pro placebo a z 23,4 na 9,4 bodů pro pramipexol (dávky sloučeny). Upravený průměrný rozdíl byl -4,3 bodu (CI 95% -6,4; -2,1 bodu, p-hodnota
+<0,0001). CGI-I podíly respondentů (zlepšený, velice zlepšený) byly 51,2 % pro placebo a 72,0 % pro pramipexol (rozdíl 20 % CI 95%: 8,1 %; 31,8 %, p<0,0005). Účinnost byla pozorována již při dávce 0,088 mg báze (0,125 mg soli) denně po prvním týdnu léčby.
+
+
+11/14
+
+Pramipexol významně redukoval počet periodických pohybů končetin během času na lůžku v placebem
+kontrolované polysomnografické studii trvající přes 3 týdny.
+Dlouhodobější účinnost byla hodnocena v placebem kontrolované klinické studii. Po 26 týdnech léčby byl upravený průměrný rozdíl v celkovém skóre IRLS 13,7 bodu pro skupinu s pramipexolem a 11,1 bodu pro placebovou skupinu se statisticky významným (p = 0,008) průměrným léčebným rozdílem -2,6. CGI-I podíly respondentů (více zlepšený, velice zlepšený) byly 50,3 % (80/159) pro placebo a 68,5 % (111/162) pro pramipexol (p=0,001), což odpovídá počtu 6 pacientů potřebných léčit (NNT) (CI 95 %: 3,5; 13,4).
+Pediatrická populace
+Evropská agentura pro léčivé přípravky udělila odklad povinnosti předložit výsledky studií s pramipexolem u jedné nebo více podskupin pediatrické populace se syndromem neklidných nohou (informace o použití u dětí viz bod 4.2).
+Klinická účinnost a bezpečnost u Tourettova syndromu
+Účinnost pramipexolu (0,0625–0,5 mg/denně) u pediatrických pacientů ve věku 6–17 let s Tourettovým syndromem byla hodnocena v 6týdenní, dvojitě zaslepené, randomizované, placebem kontrolované studii s flexibilním dávkováním. Celkem 63 pacientů bylo randomizováno (43 byl podáván pramipexol, 20 placebo). Primárním hodnocenou veličinou byla změna od výchozích hodnot skóre TTS (Total Tic Score) na škále Yale Global Tic Severity Scale (YGTSS). Nebyl pozorován žádný rozdíl u pramipexolu ve srovnání s placebem ani pro primární hodnocenou veličinu ani pro sekundární hodnocené veličiny, včetně celkového skóre YGTSS, Global Impression of Improvement (PGI-I), Clinical Global Impression (CGI-I) nebo Clinical Global Impressions of Severity of Illness (CGI-S). Nežádoucí účinky vyskytující se nejméně u 5 % pacientů ve skupině s pramipexolem a častěji ve skupině pacientů léčených pramipexolem než u pacientů užívajících placebo byly: bolest hlavy (27,9 %, placebo 25,0 %), somnolence (7,0 %, placebo 5,0 %), nauzea (18,6 %, placebo 10,0 %), zvracení (11,6 %, placebo 0,0 %), bolest v horní části břicha (7,0 %, placebo 5,0 %), ortostatická hypotenze (9,3 %, placebo 5,0 %), myalgie (9,3 %, placebo 5,0 %), poruchy spánku (7,0 %, placebo 0,0 %), dušnost (7,0 %, placebo 0,0 %) a infekce horních cest dýchacích (7,0 %, placebo 5,0 %). Další významné nežádoucí účinky vedoucí k přerušení medikace ve studii u pacientů užívajících pramipexol byly stav zmatenosti, poruchy řeči a zhoršení stavu (viz bod 4.2).
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Pramipexol je po perorálním podání rychle a kompletně absorbován. Absolutní biologická dostupnost je vyšší než 90 % a maximální plazmatické koncentrace se objevují mezi 1. a 3. hodinou. Současné podávání s jídlem nesnížilo rozsah absorpce pramipexolu, ale rychlost absorpce byla snížena. Pramipexol má lineární kinetiku a malou variabilitu plazmatických hladin mezi jednotlivými pacienty.
+Distribuce
+U lidí je vazba pramipexolu na proteiny velmi nízká (<20 %) a distribuční objem je vysoký (400 l). U potkanů byly pozorovány vysoké koncentrace v mozku (přibližně osminásobné ve srovnání s plazmou).
+Biotransformace
+Pramipexol je u lidí metabolizován pouze v malé míře.
+Eliminace
+Hlavní cestou eliminace je renální vylučování nezměněného pramipexolu. Přibližně 90 % dávky označené ¹⁴C je vyloučeno ledvinami, zatímco méně než 2 % se nachází ve stolici. Celková clearance pramipexolu je přibližně 500 ml/min a renální clearance je přibližně 400 ml/min. Eliminační poločas (t1/2) kolísá od 8 hodin u mladých jedinců do 12 hodin u starších jedinců.
+
+
+
+
+12/14
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Studie toxicity po opakovaných dávkách ukázaly, že pramipexol ovlivňoval funkce zejména v oblasti CNS  a  reprodukčního  systému  samic,  a  to  pravděpodobně  v důsledku  nadměrného farmakodynamického účinku pramipexolu.
+Poklesy diastolického a systolického tlaku a srdeční frekvence byly zaznamenány u miniprasat, a u opic
+byl zaznamenán sklon k hypotenzivnímu účinku.
+Možné účinky pramipexolu na reprodukční funkci byly zkoumány u potkanů a králíků. Pramipexol nebyl teratogenní u potkanů a králíků, ale byl embryotoxický u potkanů v dávkách toxických pro matky. Vzhledem k selekci zvířecích druhů a omezení zkoumaných parametrů nebyly nežádoucí účinky pramipexolu na graviditu a samčí plodnost úplně objasněny.
+U potkanů bylo pozorováno zpoždění v sexuálním vývoji (tj. oddělení předkožky a otevření pochvy). Relevance pro člověka není známa.
+Pramipexol nebyl genotoxický. Ve studii kancerogenity se vyvinula u samců potkanů hyperplazie Leydigových buněk a adenomy, což se vysvětluje prolaktin inhibičním účinkem pramipexolu. Toto zjištění nemá klinický význam u člověka. Stejná studie též ukázala, že v dávce 2 mg/kg (soli) a vyšší byl pramipexol spojen s degenerací sítnice u albinotických potkanů. Poslední nález nebyl pozorován ani u pigmentovaných potkanů, ani ve dvouleté studii kancerogenity u albinotických myší, ani u žádného jiného zkoumaného druhu.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Mannitol (E 421) Kukuřičný škrob Hyprolosa
+Koloidní bezvodý oxid křemičitý
+Magnesium-stearát
+6.2  Inkompatibility
+Neuplatňuje se.
+6.3  Doba použitelnosti
+3 roky
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky uchovávání.
+6.5  Druh obalu a obsah balení OPA/Aluminium/PVC/Aluminium blistry Jeden blistr obsahuje 10 tablet.
+Krabička obsahuje 3 nebo 10 blistrů (30 nebo 100 tablet).
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky.
+
+
+
+
+13/14
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+MEDOCHEMIE Ltd., 1-10 Constantinoupoleos str., 3011 Limassol, Kypr
+
+8. REGISTRAČNÍ ČÍSLO(A)
+MEDOPEXOL 0,088 mg tablety: 27/564/09-C MEDOPEXOL 0,18 mg tablety: 27/565/09-C MEDOPEXOL 0,7 mg tablety: 27/566/09-C
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 15. 7. 2009
+Datum posledního prodloužení registrace: 8. 1. 2018
+
+10. DATUM REVIZE TEXTU
+29. 4. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14/14

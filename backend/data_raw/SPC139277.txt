@@ -1,0 +1,560 @@
+Sp.zn. sukls282327/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Levobupivacaine Kabi 5 mg/ml injekční/infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml roztoku obsahuje levobupivacainum 5 mg jako levobupivacaini hydrochloridum.
+Jedna  ampulka  s 10  ml  roztoku  obsahuje levobupivacainum 50  mg jako  levobupivacaini hydrochloridum.
+
+Pomocná látka se známým účinkem:
+Tento léčivý přípravek obsahuje 3,6 mg sodíku v ml, což odpovídá 0,18 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3. LÉKOVÁ FORMA
+
+Injekční/infuzní roztok. Čirý bezbarvý roztok. pH 4,0-6,0
+Osmolarita: 271–372 mosmol/l
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Dospělí a dospívající (≥ 12 let věku)
+
+Anestezie v chirurgii
+- Velké chirurgické zákroky (svodná anestezie), např. epidurální (včetně anestezie při císařském řezu),
+intratekální, perineurální (periferní nervová blokáda)
+- Malé chirurgické zákroky např. infiltrační anestezie (včetně peribulbární blokády v oční chirurgii)
+
+Léčba bolesti
+- Kontinuální epidurální infuze, jednorázově či opakovaně podaný epidurální bolus zejména při pooperační analgezii a analgezii v průběhu porodu.
+
+Děti (< 12 let věku)
+Analgezie: perineurální (ilioinguinální/iliohypogastrická blokáda).
+
+U pediatrické populace < 6 měsíců věku nejsou k dispozici žádné údaje.
+
+4.2 Dávkování a způsob podání
+Levobupivakain má být podáván pouze kvalifikovaným lékařem či pod jeho dohledem.
+
+1
+
+Dávkování
+Níže uvedená tabulka uvádí dávkování při nejčastěji používaných blokádách. K dosažení analgetického účinku (např. epidurální podání při léčbě bolesti) se doporučují nižší koncentrace i menší dávky. Tam, kde je nutná hluboká a dlouhotrvající anestezie pro dosažení vysokého stupně motorické blokády (např. při epidurální nebo peribulbární anestezii), lze použít vyšší koncentrace. Před aplikací a v jejím průběhu je třeba provést opatrnou aspiraci, aby nedošlo k intravaskulárnímu podání léčiva.
+
+K dispozici jsou pouze omezené zkušenosti týkající se bezpečnosti při podávání levobupivakainu po dobu delší než 24 hodin. Za účelem minimalizace rizika závažných neurologických komplikací je nutné pečlivě sledovat pacienta a dobu podávání levobupivakainu (viz bod 4.4).
+Maximální dávka
+Maximální dávkování musí být stanoveno s ohledem na tělesnou hmotnost a fyzický stav pacienta, s ohledem na koncentraci látky, oblast a způsob podání. Existuje individuální variabilita v nástupu a trvání blokády. Zkušenosti z klinických studií ukazují, že k nástupu senzorické blokády dostatečné k chirurgickým výkonům dochází po 10-15 minutách po epidurálním podání a k vymizení účinku za 6-9 hodin po podání.
+
+Doporučená maximální jednorázová dávka je 150 mg. Pokud zákrok vyžaduje déletrvající motorickou a senzorickou blokádu, lze dávky podat opakovaně. Maximální doporučená dávka v průběhu 24 hodin je 400 mg. Dávka použitá k léčbě pooperační bolesti nesmí překročit 18,75 mg/h.
+
+Porodnictví
+K anestezii při císařském řezu nesmí být použity koncentrace vyšší než 5,0 mg/ml (viz bod 4.3). Maximální doporučená dávka je 150 mg.
+U analgezie během porodu nesmí dávka podaná v epidurální infuzi překročit 12,5 mg/hodinu. Pediatrická populace
+U dětí (< 12 let věku) je maximální doporučená analgetická dávka (pro ilioinguinální/iliohypogastrickou
+blokádu) 1,25 mg/kg pro každou stranu těla.
+Maximální dávkování má být upraveno podle tělesné hmotnosti, tělesné konstituce a fyzického stavu pacienta/dítěte.
+Bezpečnost a účinnost podávání levobupivakainu u dětí v jiných indikacích nebyla stanovena. Zvláštní skupiny pacientů
+U oslabených, starších a akutně nemocných pacientů mají být podány nižší dávky levobupivakainu odpovídající fyzickému stavu pacienta.
+Při léčbě pooperačních bolestí je třeba do celkové dávky započítat i dávku podanou během chirurgického výkonu.
+
+Relevantní údaje u pacientů s poruchou funkce jater nejsou k dispozici (viz body 4.4 a 5.2).
+
+Tabulka s doporučeným dávkováním
+
+
+Dospělí a dospívající (≥ 12 let věku)
+
+
+Anestezie v chirurgii Epidurální (pomalý) bolus² v chirurgii
+-u dospělých
+
+Koncentra ce (mg/ml)¹
+
+
+
+5,0-7,5
+
+Dávka
+
+
+
+
+10-20 ml (50-150 mg)
+
+Motorický blok
+
+
+
+
+střední až úplný
+2
+
+Pomalá epidurální aplikace³ při císařském řezu
+Intratekální anestezie Periferní nervová blokáda Anestezie v oftalmologii (peribulbární blok)
+Lokální infiltrace
+- u dospělých
+Léčba bolesti⁴
+Porodní analgezie (epidurální
+bolus⁵)
+Porodní analgezie (epidurální
+infuze)
+Pooperační bolest
+5,0
+
+5,0
+2,5-5,0
+7,5
+
+
+2,5
+
+
+2,5
+1,25⁶
+
+1,25⁶
+2,5
+15-30 ml (75-150 mg)
+
+3 ml (15 mg)
+1-40 ml (2,5-150 mg max.)
+5–15 ml (37,5-112,5 mg)
+
+
+1-60 ml (2,5-150 mg max.)
+
+
+6-10 ml (15-25 mg)
+4-10 ml/h (5-12,5 mg/h)
+
+10-15 ml/h (12,5-18,75 mg/h)
+5-7,5 ml/h (12,5–18,75 mg/h)
+střední až úplný
+
+střední až úplný střední až úplný střední až úplný
+
+
+−
+
+
+minimální až střední minimální až střední
+
+minimální až střední
+¹Injekční/infuzní roztok levobupivakainu je dostupný v koncentracích 5,0 a 7,5 mg/ml. Přípravek Bupivacaine Kabi v síle 7,5 mg/ml není v ČR registrován, na trhu jsou k dispozici jiné přípravky s obsahem levobupivakainu v síle 7,5 mg/ml
+²Podávaný po dobu 5 minut (viz také text).
+³Podávaná po dobu 15-20 minut.
+⁴Je-li levobupivakain kombinován s jinými látkami, např. opioidy při léčbě bolesti, je třeba dávku levobupivakainu snížit a raději použít roztok o nižší koncentraci (např. 1,25 mg/ml).
+⁵Minimální doporučený interval mezi intermitentními injekcemi je 15 minut.
+⁶Informace o ředění viz bod 6.6.
+Pediatrická populace (< 12 let věku)
+
+
+
+Ilioinguinální/iliohypogastrická blokáda u dětí <12 let věku²
+Koncentra ce(mg/ml)¹ 2,5
+
+5,0
+Dávka
+
+0,5 ml/kg pro každou stranu těla (1,25 mg/kg pro každou stranu těla)
+0,25 ml/kg pro každou
+stranu těla (1,25 mg/kg pro
+každou stranu těla)
+Motorický blok
+
+
+
+−
+¹Injekční/infuzní roztok levobupivakainu je dostupný v koncentracích 5,0 a 7,5 mg/ml. Přípravek Bupivacaine Kabi v síle 7,5 mg/ml není v ČR registrován, na trhu jsou k dispozici jiné přípravky s obsahem levobupivakainu v síle 7,5 mg/ml. Přípravek s obsahem levobupivakainu v síle 2,5 mg/ml není v ČR registrován.
+²K dispozici nejsou žádné údaje pro pediatrickou populaci < 6 měsíců věku.
+
+Způsob podání
+Přípravek Levobupivacaine Kabi je indikován k epidurálnímu, intratekálnímu a perineurálnímu podání (periferní nervový blok) a k lokální infiltraci (včetně peribulbární aplikace) (viz tabulka dávkování výše).
+
+Před i během podávání ve formě bolusu je potřeba provést opakovaně aspiraci. Bolus má být aplikován pomalu v postupně se zvyšujících dávkách rychlostí 7,5-30 mg/min. Po celou dobu je třeba sledovat vitální funkce pacienta a udržovat s ním verbální kontakt.
+Dojde-li k projevům toxicity, musí být aplikace léčiva okamžitě přerušena.
+
+Návod k ředění tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+4.3 Kontraindikace
+
+
+3
+
+Je nutno vzít v úvahu obecné kontraindikace související s lokální anestezií, bez ohledu na druh použitého lokálního anestetika.
+
+Roztok levobupivakainu je kontraindikován u pacientů se známou hypersenzitivitou na levobupivakain, lokální anestetika amidového typu nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 (viz bod 4.8).
+Roztok levobupivakainu nesmí být použit k intravenózní regionální anestezii (Bierův blok).
+
+Roztok levobupivakainu je kontraindikován u pacientů se závažnou hypotenzí, jako např. při kardiogenním či hypovolemickém šoku.
+Roztok levobupivakainu je kontraindikován pro použití v porodnictví pro paracervikální blok (viz bod 4.6).
+
+4.4 Zvláštní upozornění a opatření pro použití
+Veškeré typy lokální a regionální anestezie za použití levobupivakainu mají být prováděny pouze na dobře technicky vybavených pracovištích vyškoleným odborným personálem, který má dostatek zkušeností se zvládáním příslušných anesteziologických postupů a je schopen diagnostikovat a terapeuticky zvládnout jakýkoliv neočekávaný nežádoucí účinek, jež se může vyskytnout.
+
+Levobupivakain může vyvolat akutní alergické reakce, kardiovaskulární účinky a neurologické poškození (viz bod 4.8).
+
+Levobupivakain má být podáván s opatrností při regionální anestezii u pacientů s poruchami kardiovaskulárních funkcí, např. se závažnými srdečními arytmiemi (viz bod 4.3).
+U pacientů s preexistujícím onemocněním CNS může po vstupu lokálních anestetik do centrálního nervového systému intratekální nebo epidurální cestou dojít ke zhoršení některé z těchto poruch. Z tohoto důvodu má být důkladně klinicky posouzeno, zda u těchto pacientů volit epidurální nebo intratekální anestezii.
+
+Epidurální anestezie
+Při epidurálním podání má být koncentrovaný roztok levobupivakainu (0,5–0,75%) podáván ve zvyšujících se dávkách 3 až 5 ml s dostatečným časovým odstupem mezi jednotlivými dávkami z důvodu odhalení toxických projevů při jeho neúmyslné intravaskulární či intratekální aplikaci. V souvislosti s lokálními anestetiky, včetně levobupivakainu, byly hlášeny případy závažné bradykardie, hypotenze a oslabeného dýchání se srdeční zástavou (z nichž některé byly fatální). Je-li nutno podat větší množství přípravku, například při epidurálním bloku, doporučuje se podat tzv. testovací dávku 3-
+5 ml lidokainu s adrenalinem. Neúmyslnou intravaskulární aplikaci lze potom rozpoznat podle přechodného vzestupu tepové frekvence a nechtěnou intratekální aplikaci podle známek spinální blokády.
+Před podáním a během každé doplňkové injekce, přidané do infuze během kontinuálního nebo intermitentního podávání léku, je nutno provést aspiraci. Dokonce, i když je aspirace krve negativní, stále existuje možnost intravaskulární aplikace léku. V průběhu epidurální anestezie je před podáním plné dávky doporučeno podat počáteční testovací dávku a sledovat její účinky.
+
+Epidurální anestezie bez ohledu na typ použitého lokálního anestetika může způsobit hypotenzi a bradykardii. Všichni pacienti musí mít zajištěn žilní přístup a vždy musí být k dispozici potřebné roztoky, vazopresory, anestetika s antikonvulzivními vlastnostmi, myorelaxancia, atropin, pomůcky k resuscitaci a kvalifikovaný personál (viz bod 4.9).
+
+Epidurální analgezie
+
+4
+
+Z období po uvedení levobupivakainu na trh byly hlášeny případy syndromu cauda equina a další známky neurotoxicity (viz bod 4.8), které časově souvisely s podáváním levobupivakainu k epidurální analgezii po dobu 24 hodin nebo déle. Tyto příhody byly závažnější a v některých případech měly i trvalé následky, pokud byl levobupivakain podáván po dobu přesahující 24 hodin. Z toho důvodu lze levobupivakain podávat po dobu delší než 24 hodin pouze po pečlivém zvážení a pouze tehdy, pokud možný přínos podání levobupivakainu pro pacienta převažuje možná rizika.
+Před každým podáním lokálního anestetika je nutné provést aspiraci krve nebo cerebrospinální tekutiny (podle místa blokády), a to jak před podáním první dávky, tak i všech následných dávek, aby se zabránilo intavaskulární a intratekální aplikaci. Negativní aspirace nicméně nezaručuje, že k intravaskulární či intratekální aplikaci nedošlo. Levobupivakain má být používán s opatrností u pacientů, kterým jsou podávána jiná lokální anestetika nebo látky strukturálně podobné lokálním anestetikům amidového typu, protože může dojít ke sčítání toxických účinků těchto léčiv.
+
+Rozsáhlý regionální nervový blok
+Pacient má mít zavedený i.v. katetr napojený na infuzi k zajištění funkční žilní cesty. Má být použita nejnižší dávka lokálního anestetika, která ještě vede k účinné anestezii, z důvodu zamezení vysokým plazmatickým hladinám léku a závažným nežádoucím účinkům. Je nutno vyvarovat se rychlému podání většího objemu roztoku lokálního anestetika a pokud je to možné, má být dávka podána vždy frakcionovaně.
+
+Použití v oblasti hlavy a krku
+I malé dávky lokálního anestetika aplikovaného do oblasti hlavy a krku, zahrnující blokády retrobulbární, zubní a blokádu ganglion stellatum, mohou vést k nežádoucím účinkům, jež jsou srovnatelné s příznaky systémové toxicity pozorovanými při nechtěném intravaskulárním podání vyšších dávek. Injekční aplikace vyžaduje maximální opatrnost. Tyto reakce mohou být způsobeny v důsledku retrográdního toku do krevního oběhu mozku při intraarteriálním podání lokálního anestetika. Také mohou být způsobeny napíchnutím dura mater optického nervu při retrobulbárním bloku a difundováním části anestetika subdurálním prostorem do středního mozku. Při těchto typech bloků musí být pacienti kontinuálně sledováni a je nutno monitorovat jejich dechové funkce a krevní oběh. K léčbě možných nežádoucích účinků musí být okamžitě dostupné pomůcky k resuscitaci a kvalifikovaný personál.
+Použití při oftalmologických výkonech
+Lékaři provádějící retrobulbární blok si mají být vědomi toho, že po aplikaci lokálního anestetika byly hlášeny případy zástavy dechu. Jako u všech ostatních anestetických výkonů, i při retrobulbárním bloku musí být vždy zajištěna okamžitá dostupnost zařízení, léků a kvalifikovaného personálu ke zvládnutí útlumu či zástavy dechu, křečí, stimulace nebo deprese srdeční činnosti. Tak jako u ostatních anestetických výkonů, i při oftalmologickém bloku musí být u pacienta kontinuálně sledovány možné známky těchto nežádoucích účinků.
+
+Chondrolýza
+U pacientů, kteří dostávali pooperační intraartikulární kontinuální infuzi lokálních anestetik byly po uvedení na trh hlášeny případy chondrolýzy. Většina hlášených případů chondrolýzy se týkala ramenního kloubu. Vzhledem k mnoha přispívajícím faktorům a také nesrovnalostem ve vědecké literatuře týkající se mechanismu účinku, nebyla příčina stanovena. Intraartikulární kontinuální infuze není schválenou indikací pro levobupivacaine.
+
+Zvláštní skupiny pacientů
+Oslabení, starší a akutně nemocní pacienti: u oslabených, starších a akutně nemocných pacientů má být levobupivakain používán s opatrností (viz bod 4.2).
+
+Porucha funkce jater: vzhledem k tomu, že levobupivakain je metabolizován v játrech, má být používán s opatrností u pacientů s onemocněním jater nebo omezeným krevním průtokem játry, např. u alkoholiků nebo u pacientů s jaterní cirhózou (viz bod 5.2).
+
+5
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Z in vitro studií vyplývá, že metabolismus levobupivakainu je zprostředkován izoformami CYP3A4 a CYP1A2. Ačkoliv nebyly provedeny žádné klinické studie, lze očekávat, že metabolismus levobupivakainu může být ovlivněn inhibitory CYP3A4, jako je např. ketokonazol a inhibitory CYP1A2, jako jsou např. methylxanthiny.
+
+Levobupivakain má být používán se zvýšenou opatrností u pacientů léčených antiarytmiky s lokálně anestetickými účinky, např. mexiletinem, nebo antiarytmiky III. třídy, protože jejich toxické účinky se mohou vzájemně sčítat.
+
+Nebyly provedeny žádné klinické studie, které by hodnotily levobupivakain v kombinaci s adrenalinem.
+
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Roztok levobupivakainu je kontraindikován pro použití v porodnictví pro paracervikální blok. Vzhledem ke zkušenostem s bupivakainem víme, že při paracervikálním bloku se může objevit bradykardie u plodu (viz bod 4.3).
+
+Klinické údaje o používání levobupivakainu v prvním trimestru těhotenství nejsou k dispozici. Studie na zvířatech nenaznačují teratogenní působení, ukázaly však embryofetální toxicitu při hladinách systémové expozice ve stejném rozmezí jako při klinickém použití (viz bod 5.3). Potenciální riziko pro člověka není známo. Levobupivakain proto nemá být podáván v časném stadiu těhotenství, pokud to není nezbytně nutné.
+Nicméně dosud, i přes bohatou klinickou zkušenost s používáním bupivakainu v porodnické operativě (na konci těhotenství nebo při porodu), nebyl jeho fetotoxický účinek pozorován.
+Kojení
+Není známo, zda se levobupivakain nebo jeho metaboolity vylučují do lidského mateřského mléka.
+Stejně jako bupivakain, i levobupivakain je pravděpodobně minimálně vylučován do mateřského mléka.
+Tudíž je kojení po lokální anestezii možné.
+
+Fertilita
+Nejsou k dispozici žádné údaje nebo jsou k dispozici pouze omezené údaje ke zhodnocení vlivu
+levobupivakainu na fertilitu.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Levobupivakain může mít výrazný vliv na schopnost řídit nebo obsluhovat stroje. Pacienty je třeba upozornit, aby neřídili ani neobsluhovali stroje, dokud neodezní veškeré účinky anestezie a bezprostřední následky chirurgického zákroku.
+
+4.8 Nežádoucí účinky
+Profil nežádoucích účinků levobupivakainu je stejný jako u jiných přípravků z této skupiny. Nejčastěji hlášenými nežádoucími účinky jsou hypotenze, nauzea, anemie, zvracení, závratě, bolest hlavy, pyrexie, pooperační bolesti, bolest zad a fetální distres při použití v porodnictví (viz tabulka níže).
+
+
+
+
+6
+
+Nežádoucí účinky hlášené spontánně nebo pozorované v klinických studiích jsou popsány v následující tabulce. V rámci každé třídy orgánových systémů jsou nežádoucí účinky seřazeny podle frekvence výskytu za použití následující konvence:
+Velmi časté (≥ 1/10)
+Časté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až < 1/100)
+Vzácné (≥ 1/10 000 až < 1/1 000)
+Není známo (z dostupných údajů nelze určit)
+
+
+Třída orgánového systému
+
+Poruchy krve a lymfatického systému
+Poruchy imunitního systému
+
+
+Poruchy nervového systému
+
+
+
+
+
+
+
+
+Poruchy oka
+
+
+
+Srdeční poruchy
+
+
+
+Cévní poruchy Respirační, hrudní a
+mediastinální poruchy
+
+
+Gastrointestinální poruchy
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Poruchy ledvin a močových cest
+Frekvence výskytu Velmi časté
+
+Není známo
+
+Není známo Časté
+Časté
+Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Velmi časté Není známo Není známo Není známo Není známo Není známo Velmi časté Časté
+Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Časté
+Není známo Není známo Není známo
+Nežádoucí účinek
+
+Anemie
+
+Alergické reakce (v závažných případech anafylaktický šok)
+Hypersenzitivita
+Závratě Bolest hlavy Křeče
+Ztráta vědomí Somnolence Synkopa Parestezie Paraplegie Paralýza¹
+Rozmazané vidění Ptóza²
+Mióza² Enoftalmus²
+Atrioventrikulární blok Srdeční zástava
+Ventrikulární tachyarytmie
+Tachykardie Bradykardie Hypotenze
+Zrudnutí (flush)² Zástava dechu Laryngeální edém Apnoe
+Kýchání Nauzea Zvracení
+Orální hypestezie
+Ztráta kontroly svěrače¹ Angioedém
+Kopřivka Svědění Hyperhidróza Anhidróza² Erytém Bolest zad
+Svalové záškuby Svalová slabost
+Dysfunkce močového měchýře¹
+
+7
+
+Stavy spojené s těhotenstvím, šestinedělím a perinatálním
+obdobím
+Poruchy reprodukčního systému
+a prsu
+Celkové poruchy a reakce v místě aplikace
+Vyšetření
+
+Poranění, otravy a procedurální
+komplikace
+Časté
+
+
+Není známo Časté
+Není známo Není známo Časté
+Fetální distres
+
+
+Priapismus¹ Pyrexie
+Snížený srdeční výdej
+Změny na elektrokardiogramu Pooperační bolest
+¹Toto může být známkou nebo příznakem syndromu cauda equina (viz informace v bodě 4.8).
+²Toto může být známkou nebo příznakem přechodného Hornerova syndromu (viz informace v bodě 4.8).
+
+Nežádoucí účinky lokálních anestetik amidového typu jsou vzácné, mohou však vzniknout v důsledku předávkování nebo neúmyslného intravaskulárního podání a mohou být závažné.
+
+Byla pozorována zkřížená senzitivita mezi jednotlivými zástupci ze skupiny lokálních anestetik amidového typu (viz bod 4.3).
+Nechtěné intratekální podání lokálního anestetika může způsobit vysokou spinální anestezii.
+
+Kardiovaskulární účinky souvisejí s útlumem převodního systému srdečního a snížením excitability a kontraktility myokardu. Tomu obvykle předcházejí příznaky významné CNS toxicity, např. křeče, ale vzácně může dojít k srdeční zástavě i bez prodromálních účinků na CNS.
+
+Neurologické poškození je vzácnou, ale prokázanou komplikací lokální, zvláště epidurální a spinální anestezie. Může k němu dojít přímým poraněním míchy nebo míšních nervů, následkem syndromu přední spinální arterie, podáním dráždivé látky či nesterilního roztoku. Vzácně se jedná o trvalé poškození.
+
+V souvislosti s léčbou levobupivakainem byly hlášeny případy prolongované slabosti nebo poruch senzorických funkcí, z nichž některé mohou být trvalé. Je obtížné určit, zda jsou dlouhodobé následky způsobeny lékovou toxicitou nebo nerozpoznaným traumatem v průběhu operace nebo jinými mechanickými faktory, jako je zavedení katetru nebo manipulace s ním.
+
+V souvislosti s podáním levobupivakainu byly hlášeny případy syndromu cauda equina nebo známky a příznaky možného poranění koncové části míchy či míšních nervových kořenů (včetně parestezie, slabosti nebo paralýzy dolních končetin, inkontinence stolice a/nebo moči a priapismu). Tyto příhody byly závažnější a v některých případech měly i trvalé následky, pokud byl levobupivakain podáván po dobu delší než 24 hodin (viz bod 4.4).
+Nelze však určit, zda jsou tyto účinky způsobeny působením levobupivakainu, mechanickým traumatem míchy nebo míšních nervových kořenů nebo hromaděním krve v dolní části míšního vaku.
+V souvislosti s použitím lokálních anestetik, včetně levobupivakainu, byly hlášeny případy přechodného Hornerova syndromu (ptóza, mióza, enoftalmus, unilaterální pocení a/nebo zrudnutí). Tyto případy odezní po ukončení léčby.
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+
+8
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+Při nechtěné intravaskulární aplikaci lokálního anestetika může dojít k okamžité toxické reakci. V případě předávkování nemusí být maximální koncentrace v plazmě dosaženo dříve než 2 hodiny po podání, v závislosti na místě podání, proto mohou být známky toxicity zpožděny. Působení léku může být prodlouženo.
+
+K systémovým nežádoucím účinkům při předávkování nebo nechtěném intravaskulárním podání, které byly hlášeny u anestetik s dlouhodobým účinkem, patří účinky na CNS a kardiovaskulární účinky.
+
+Účinky na CNS
+Křeče je třeba léčit okamžitě intravenózním podáním thiopentalu či diazepamu v odpovídající dávce. Thiopental a diazepam působí útlum CNS, dýchání a srdeční činnosti. Jejich aplikace může proto vést k apnoi. Inhibitory nervosvalového přenosu může lékař použít pouze tehdy, je-li schopen zajistit průchodnost dýchacích cest a komplexní péči o paralyzovaného pacienta.
+Nejsou-li křeče neprodleně léčeny, mohou spolu s následnou hypoxií, hyperkapnií a kardiodepresivním účinkem lokálního anestetika způsobit srdeční arytmii, fibrilaci komor nebo srdeční zástavu.
+
+Kardiovaskulární účinky
+Hypotenzi lze předejít nebo ji alespoň zmírnit předchozím dostatečným zavodněním a/nebo pomocí vazopresorů. Dojde-li ke vzniku hypotenze, je třeba intravenózně podat roztoky krystaloidů nebo koloidů a/nebo postupně se zvyšující dávky vazopresorů, např. efedrin 5−10 mg. Je třeba neprodleně léčit i jakoukoliv další možnou příčinu hypotenze.
+
+Při závažné bradykardii postačí k úpravě srdeční frekvence na přijatelné hodnoty obvykle 0,3–1,0 mg atropinu.
+K léčbě srdečních arytmií přistupujte obvyklým způsobem a při fibrilaci komor je třeba provést
+kardioverzi.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: lokální anestetika, amidy. ATC kód: N01BB10
+
+Levobupivakain je dlouhodobě působící lokální anestetikum a analgetikum. Blokuje vedení vzruchu v senzitivních i motorických nervech především ovlivněním napěťově řízených sodíkových kanálů v buněčné membráně. Blokuje také kaliové a kalciové kanály. Ovlivňuje přenos a vedení vzruchu i v jiných  tkáních,  z  hlediska  výskytu  nežádoucích  účinků  je  významné  především ovlivnění kardiovaskulárního a centrálního nervového systému.
+Levobupivakain se po podání chová jako zásada, kdežto racemát bupivakainu se chová jako hydrochloridová sůl. To vede k většímu množství léčivé látky v roztoku levobupivakanu přibližně o 13 % ve srovnání s bupivakainem. V klinických studiích vykazoval levobupivakain při stejné nominální koncentraci podobné klinické účinky jako bupivakain.
+
+9
+
+V klinických farmakologických studiích používajících model blokády ulnárního nervu byl účinek
+levobupivakainu ekvipotentní s bupivakainem.
+
+Jsou pouze omezené zkušenosti z hlediska bezpečnosti s léčbou levobupivakainem po dobu přesahující
+24 hodin.
+
+5.2 Farmakokinetické vlastnosti
+
+Absorpce
+V klinických studiích byla kinetika distribuce levobupivakainu po intravenózní aplikaci v podstatě stejná jako u bupivakainu.
+
+Plazmatická koncentrace levobupivakainu po jeho podání závisí na dávce, a jelikož je absorpce z místa aplikace ovlivněna prokrvením tkáně, tak také na cestě podání. Zkušenosti z klinických studií ukazují nástup senzorické blokády adekvátní chirurgickému zákroku 10-15 minut po epidurálním podání s časem regrese v rozmezí 6-9 hodin.
+
+V rámci klinických farmakologických studií byl při intravenózním podání 40 mg levobupivakainu průměrný poločas přibližně 80 ± 22 min., Cmax 1,4 ± 0,2 µg/ml a AUC 70 ± 27 µg.min/ml.
+Po epidurálním podání levobupivakainu v dávkách 75 mg (0,5 %) a 112,5 mg (0,75 %) a také po podání levobupivakainu v dávkách 1 mg/kg (0,25 %) a 2 mg/kg (0,5%), jež byly použity k blokádě brachiálního plexu, byly průměrná Cmax a AUC (v čase 0-24 hodin) přibližně úměrné velikosti dávky. Po epidurálním podání levobupivakainu v dávce 112,5 mg (0,75 %) činily průměrná Cmax 0,58 µg/ml a průměrná AUC 3,56 µg.h/ml.
+Distribuce
+Vazba levobupivakainu na plazmatické bílkoviny u člověka byla hodnocena in vitro. Při koncentracích
+v rozsahu 0,1-1,0 µg/ml dosahovala více než 97 %.
+Distribuční objem po intravenózním podání činil 67 litrů.
+Biotransformace
+Nejsou k dispozici relevantní údaje u pacientů s poruchou funkce jater (viz bod 4.4).
+
+Levobupivakain je extenzivně metabolizován. Ve stolici ani v moči jej v jeho nezměněné podobě nelze detekovat. Hlavní metabolit levobupivakainu, 3-hydroxylevobupivakain, je vylučován do moči ve formě konjugátů kyseliny glukuronové a esteru kyseliny sírové. Studie in vitro prokázaly, že levobupivakain je prostřednictvím izoformy CYP3A4 metabolizován na desbutyl-levobupivakain a prostřednictvím izoformy CYP1A2 na 3-hydroxylevobupivakain. V těchto studiích byla prokázána podobnost metabolizmu levobupivakainu a bupivakainu.
+
+O racemizaci levobupivakainu in vivo nejsou žádné důkazy.
+Eliminace
+Nejsou k dispozici žádné údaje u pacientů s poruchou funkce ledvin. Levobupivakain je výrazně metabolizován a v nezměněné formě se do moči nevylučuje.
+
+Po intravenózním podání byla průměrná celková plazmatická clearance levobupivakainu 39 litrů/hodinu
+a jeho terminální poločas byl 1,3 hodiny.
+Během 48 hodin po intravenózním podání se vyloučilo průměrně 95 % látky močí (71 %) a stolicí
+(24 %).
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+
+10
+
+Ve studii embryofetální toxicity u potkanů byla pozorována zvýšená incidence dilatace ledvinových pánviček, dilatace ureterů, dilatace čichové komory a výskytu nadpočetných žeber v torakolumbální oblasti. V této studii byly hladiny systémové expozice ve stejném rozmezí jako při klinickém použití. Nebyl prokázán vztah mezi podáváním levobupivakainu a výskytem malformací.
+
+Při standardním testování mutagenity a klastogenity nebyla prokázána genotoxicita levobupivakainu.
+Kancerogenita testována nebyla.
+
+6. FARMACEUTICKÉ INFORMACE
+
+6.1 Seznam pomocných látek
+
+Chlorid sodný
+Hydroxid sodný (k úpravě pH)
+Kyselina chlorovodíková (k úpravě pH) Voda pro injekci
+
+6.2 Inkompatibility
+
+Ředění levobupivakainu alkalickým roztokem může způsobit jeho precipitaci, a proto nesmí být
+levobupivakain ředěn nebo podáván společně s hydrogenuhličitanem sodným.
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3 Doba použitelnosti
+2 roky
+
+Doba použitelnosti po prvním otevření: Přípravek musí být použit okamžitě. Doba použitelnosti po naředění:
+Chemická a fyzikální stabilita přípravku Levobupivacaine Kabi po naředění roztokem chloridu sodného 9 mg/ml (0,9%) na výslednou koncentraci 0,625 mg/ml a 1,25 mg/ml byla prokázána po dobu 30 dnů při teplotách 2 °C – 8 °C, tak i teplotách 20 °C – 25 °C.
+Chemická a fyzikální stabilita přípravku Levobupivacaine Kabi po naředění roztokem chloridu sodného 9 mg/ml (0,9%) na výslednou koncentraci 0,625 mg/ml a 1,25 mg/ml a po smíchání:
+-  s klonidin-hydrochloridem 8,4 µg/ml, morfin-sulfátem 50 µg/ml, fentanyl-citrátem 2-4 µg/ml, byla prokázána po dobu 30 dnů při teplotách 2 °C – 8 °C, tak i teplotách 20 °C –25 °C.
+-  se sufentanilem o koncentraci 0,4 µg/ml, byla prokázána po dobu 30 dnů při teplotách 2 °C – 8 °C
+a po dobu 7 dnů při teplotách 20 °C – 25 °C.
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, jsou doba a podmínky uchovávání přípravku po otevření před použitím na odpovědnosti uživatele a normálně by neměly být delší než 24 hodin při 2 °C – 8 °C, pokud ředění a přidání aditiv neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+Podmínky uchovávání naředěného léčivého přípravku jsou uvedeny v bodě 6.3.
+
+6.5 Druh obalu a obsah balení
+
+
+11
+
+10ml polypropylenové ampulky zatavené ve sterilním blistru. Balení obsahuje 5, 10 nebo 20 ampulek. Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Pouze k jednorázovému použití. Veškerý nepoužitý roztok zlikvidujte.
+Nepoužívejte, je-li obal poškozen.
+
+Roztok/naředěný roztok musí být před použitím vizuálně zkontrolován. Mají být použity pouze čiré
+roztoky bez přítomnosti viditelných částic.
+
+Je-li potřeba, aby byl povrch ampulky sterilní, použijte ampulku ze sterilního blistru. Povrch ampulky
+není sterilní, jestliže došlo k porušení sterilního blistru.
+
+K ředění roztoku levobupivakainu používejte injekční roztok chloridu sodného 9 mg/ml (0,9%). Ředění provádějte za aseptických podmínek.
+
+Klonidin 8,4 µg/ml, morfin 0,05 mg/ml, fentanyl 2-4 µg/ml a sufentanil 0,4 µg/ml jsou kompatibilní
+s levobupivakainem v injekčním roztoku chloridu sodného 9 mg/ml (0,9%). Doba použitelnosti přípravku po naředění je uvedena v bodě 6.3.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+
+8. REGISTRAČNÍ ČÍSLO(A)
+01/330/14-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 24. 9. 2014
+Datum posledního prodloužení registrace: 15. 10. 2018
+
+
+10. DATUM REVIZE TEXTU
+
+20. 3. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+12

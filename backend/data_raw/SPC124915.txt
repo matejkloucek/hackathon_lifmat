@@ -1,0 +1,306 @@
+sp.zn. sukls198215/2018
+SOUHRN ÚDAJU O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Geloplasma infuzní roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+GELATINA SUCCINATA*
+odpovídá gelatina                       3,0000 g
+NATRII CHLORIDUM                   0,5382 g
+MAGNESII CHLORIDUM HEXAHYDRICUM      0,0305 g KALII CHLORIDUM                    0,0373 g
+NATRII LACTATIS SOLUTIO 50%
+odpovídá natrii lactas                     0,3360 g
+
+na 100 ml infuzního roztoku
+
+*částečně hydrolyzovaná a sukcinylovaná Úplný seznam pomocných látek viz bod 6.1.
+Elektrolyty:
+Sodík         150 mmol/l
+Draslík        5 mmol/l
+Hořčík        1,5 mmol/l
+Chloridy       100 mmol/l
+Laktát        30 mmol/l
+Celková osmolalita:     295 mosmol/kg
+pH:              5,8 až 7,0
+
+
+3. LÉKOVÁ FORMA
+
+Infuzní roztok
+Čirý a bezbarvý až slabě nažloutlý roztok.
+
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+
+Léčba šoku u náhlých stavů:
+-  hypovolémie, jako výsledek šoku z: hemoragie, dehydratace, prosakování kapilár, popálenin;
+-  vazoplegický šok traumatického, chirurgického, septického nebo toxického původu.
+
+
+1
+
+Léčba relativní hypovolémie spojené s hypotenzí v kontextu vazoplegie vyvolané účinkem hypotenzivně působících léčivých přípravků, zvláště během anestézie.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dávkování a rychlost podávání závisí na individuálním stavu pacienta, okolnostech a odpovědi na vaskulární náhradu.
+Modifikovaná rozpustná želatina se podává i.v. infuzí (infuze po kapkách). Rychlost infuze se může zvýšit použitím pumpy.
+Dávkování a rychlost infuze závisí na potřebách pacienta a na potřebě doplnění krevního objemu a hemodynamickém stavu pacienta.
+Podávaná dávka je průměrně 500 až 1000 ml (1-2 vaky), někdy více.
+U dospělých a dětí vážících více než 25 kg se obecně aplikuje 500 ml (1 vak), podávaných přiměřenou rychlostí závisející na stavu pacienta. Rychlost infuze se může v případě těžké hemoragie zvýšit.
+Jestliže ztráta krve/tekutiny činí u dospělých více než 1,5 l (tj. je vyšší než 20% krevního objemu), měla by být obvykle podána krev současně s přípravkem Geloplasma.
+Hemodynamický, hematologický a koagulační systém by měl být monitorován.
+
+Pediatrická populace
+Viz výše.
+
+Způsob podání
+Roztok se podává výhradně intravenózně.
+
+4.3 Kontraindikace
+
+-  Hypersenzitivita na roztoky obsahující želatinu nebo na kteroukoli pomocnou látku
+uvedenou v bodě 6.1
+-  Hypersenzitivita na galaktózu-α-1,3-galaktózu (alfa-Gal) nebo je-li známá alergie na červené maso (savčí maso) nebo na vnitřnosti (viz bod 4.4)
+-  převažující extracelulární hyperhydratace,
+-  hyperkalémie,
+-  metabolická alkalóza,
+-  konec těhotenství (během porodních stahů/porodu) viz bod 4.6
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Upozornění
+Tento roztok se nesmí podávat intramuskulárně.
+Vzhledem k přítomnosti laktátových iontů může roztok způsobit metabolickou alkalózu.
+
+Roztok rozpustné želatiny se nesmí použít v infuzi současně s krví nebo jejími deriváty (červené krvinky oddělené od plazmy, plazma, plazmatické frakce), ale s použitím dvou separátních infuzních systémů.
+
+Stanovení krevní skupiny, nepravidelných protilátek a některých laboratorních krevních testů je možné u pacientů, kteří dostali až 2 litry rozpustné želatiny, přestože interpretace je u
+
+2
+
+hemodiluce omezená a může být upřednostněno odebrání vzorků pro tyto testy před infuzí rozpustné želatiny.
+Protože existuje možnost vzniku alergických (anafylaktických /anafylaktoidních) reakcí, je nutné průběžné monitorování pacienta.
+
+Kvůli možným zkříženým reakcím zahrnujícím alergen galaktóza-alfa-1,3-galaktóza (alfa- Gal), by riziko alergie a tedy i anafylaktické reakce na roztoky obsahující želatinu, mohlo být výrazně vyšší u pacientů, kteří v minulosti prodělali alergickou reakci na červené maso (savčí maso) nebo na vnitřnosti a/nebo byli pozitivně testováni na anti-alfa-Gal IgE protilátky. U těchto pacientů nesmí být použity koloidní roztoky obsahující želatinu (viz 4.3).
+
+Porucha funkce jater
+Tento roztok nemusí mít alkalizační účinek u pacientů s poruchou funkce jater, protože laktátový metabolismus může být porušen.
+
+V případě alergické reakce musí být infuze okamžitě zastavena a podána příslušná léčba. Tento léčivý přípravek obsahuje 5 mmol draslíku na litr. Je nutno vzít v úvahu u pacientů se sníženou funkcí ledvin a u pacientů na dietě s nízkým obsahem draslíku.
+Tento léčivý přípravek obsahuje 150 mmol sodíku na litr. Nutno vzít v úvahu u pacientů na dietšě s nízkým obsahem sodíku.
+
+Opatření
+Použití roztoku vyžaduje klinické a laboratorní monitorování stavu pacienta:
+-  krevní tlak, a je-li to možné, centrální žilní tlak;
+-  výdej moče;
+-  hematokrit a elektrolyty;
+Zvláště u následujících stavů:
+-  městnavé srdeční selhání;
+-  poškození funkcí plic
+-  těžké poškození renálních funkcí;
+-  edém s retencí vody/elektrolytů;
+-  oběhové přetížení
+-  léčba kortikosteroidy a jejich deriváty,
+-  závažné poruchy koagulace.
+Hematokrit by se neměl snížit pod 25%, u starších pacientů by se neměl snížit pod 30%. Je třeba se vyvarovat poruše krevní srážlivosti zapříčiněné zředěním koagulačních faktorů. Jestliže je infundováno více než 2 000 - 3 000 ml přípravku Geloplasma před a během operace, doporučuje se, aby koncentrace bílkovin v séru byla zkontrolována po operaci, zvláště objeví- li se známky edému tkání.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Současné intravenózní podávání jiných léčivých přípravků je nevhodné, protože nebyla studována farmakokinetika složených směsí.
+Protože tento roztok obsahuje draslík, je vhodné vyhnout se užívání léčivých přípravků, které mohou způsobit hyperkalemii (např. kalium šetřící diuretika, ACE inhibitory).
+
+4.6 Fertilita, těhotenství a kojení
+
+
+3
+
+Těhotenství
+Nejsou k dispozici žádné nebo je k dispozici jen málo údajů o použití přípravku Geloplasma u
+těhotných žen. Studie reprodukční toxicity na zvířatech jsou nedostatečné (viz bod 5.3).
+Jakkoli žádný embryotoxický účinek nebyl až dosud pozorován, je zde riziko závažných anafylaktických/anafylaktoidních reakcí s následným fetálním a neonatálním distresem sekundárně při mateřské hypotenzi.
+Vzhledem k možnosti alergické reakce tento léčivý přípravek nesmí být podáván ženám na
+konci těhotenství.
+Tak jako u všech léčivých přípravků by prospěch a rizika použití měly být vzaty v úvahu u pacientů za těchto podmínek: tento přípravek by měl být předepsán, jestliže potenciální prospěch převyšuje nad potenciálními riziky na plod. Neměl by být použit k prevenci hypovolémie, v průběhu porodu s podáním analgezie nebo epidurální anestezie, i když může být použit k léčbě hypovolémie v případě, že je potřeba doplnit objem plazmy během těhotenství.
+
+Kojení
+Není známo, zda se přípravek/metabolity vylučují do lidského mateřského mléka. Riziko pro
+novorozence/kojence nelze vyloučit.
+
+Fertilita
+Nejsou k dispozici žádné údaje o účincích přípravku Geloplasma na lidskou nebo zvířecí
+fertilitu.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Neuplatňuje se.
+
+4.8 Nežádoucí účinky
+
+Nežádoucí účinky jsou rozděleny podle tříd orgánových systémů a četnosti dle následující
+konvence:
+Velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1000 až <1/100), vzácné
+(≥1/10000 až <1/1000), velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit)
+
+Nežádoucí účinky pozorované během podávání přípravku Geloplasma:
+
+
+
+
+Poruchy imunitního systému
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+Vzácné
+≥1/10000 až <1/1000
+Anafylaktický šok (viz body
+4.3 a 4.4, zejména pro
+hypersenzitivitu na galaktózu- α-1,3-galaktózu (alfa-Gal) a alergii na červené maso nebo na vnitřnosti)
+Alergická kožní reakce
+Velmi vzácné
+<1/10000
+
+4
+
+Cévní poruchy Srdeční poruchy
+Respirační,hrudní a
+mediastinální poruchy
+Celkové poruchy a reakce v
+místě aplikace
+Hypotenze
+Zpomalení srdeční činnosti Respirační potíže
+
+Horečka, zimnice
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41, Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+Vyšší dávky mohou být příčinou objemového přetížení s významným poklesem hematokritu a plazmatických bílkovin.
+Zvýšení tlaku v plicním oběhu vede k pronikání tekutin do extravaskulárního prostoru a může být příčinou plicního edému.
+Dojde-li k předávkování, zastavte infuzi a podejte rychle působící diuretika.
+V případě předávkování by měl být pacient léčen symptomaticky a hladina elektrolytů by měla být monitorována.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Krevní deriváty, frakce plazmatických bílkovin, náhrady plazmy. ATC kód: B05AA
+
+Modifikovaná rozpustná želatina v izotonickém roztoku je podobná extracelulární tekutině, používá se k naplnění cévního systému a úpravě vodní a elektrolytové rovnováhy.
+Tento roztok umožňuje:
+-  náhradu  krevního  objemu,  objem  objemem,  bez  expanze  plazmy  následkem intravaskulárního převodu intersticiálních tekutin,
+-  hemodiluci se snížením krevní viskozity a zlepšení mikrocirkulace
+-  rehydrataci extravaskulárního prostoru.
+Tento roztok přispívá k obnově iontové rovnováhy a korekce acidózy. Rozpustná želatina také slabě zvyšuje výdej moči.
+
+
+
+5
+
+Rozpustná želatina může být používána samostatně, bez potřeby transfuze, k pokrytí ztráty krve od 10 do 20% celkového krevního objemu, a nahradit krev pro podání infuze limitovaného objemu (kolem 500 ml).
+Neinterferuje s určením krevních skupin a je neutrální vůči mechanizmu srážlivosti.
+V případě těžkého krvácení zaručuje střídavé podávání krve a rozpustné želatiny adekvátní hemodiluci (úprava krevního objemu a udržování onkotického tlaku).
+
+5.2 Farmakokinetické vlastnosti
+
+Distribuce a eliminace modifikované rozpustné želatiny podávané intravenózní infuzí závisí na mnoha faktorech: velikosti částic, molekulární hmotnosti, elektrickém náboji, podávaném objemu, rychlosti podávání atd. Přítomnost částic o nízké molekulární hmotnosti vysvětluje vliv na ledviny a zvýšené vylučování moče.
+Modifikovaná rozpustná želatina zajišťuje efektivní plnění cévního systému za 4 až 5 hodin po
+podání.
+Modifikovaná rozpustná želatina je rychle vylučována (75% za 24 hodin), především
+ledvinami.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Preklinická data týkající se bezpečnosti jsou omezená a neposkytují dodatečné informace.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Hydroxid sodný, anhydrid kyseliny jantarové, kyselina jantarová, koncentrovaná kyselina
+chlorovodíková, voda pro injekci.
+
+6.2 Inkompatibility
+Fyzikálně-chemické inkompatibility s některými antibiotiky (chlortetracyklin, amfotericin B
+(i.v.), oxytetracyklin, vankomycin).
+Protože nejsou studie kompatibility k dispozici, tento léčivý přípravek se nesmí mísit s jinými léčivými přípravky.
+
+6.3 Doba použitelnosti
+
+2 roky pro PVC vak
+2 roky pro freeflex (polyolefinový) vak Po prvním otevření okamžitě spotřebujte.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem.
+Neuchovávejte v chladničce.
+
+6.5 Druh obalu a obsah balení
+
+6
+
+PVC vak, s přebalem
+Velikost balení: 1 x 500ml, 15 x 500 ml freeflex (polyolefinový) vak s přebalem Velikost balení: 20 x 500 ml
+Na trhu nemusí být všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Musí být zajištěno aseptické zacházení s roztokem. Před upotřebením se ujistěte, že obal není porušen a roztok je čirý.
+Každý poškozený obal nebo obal, ze kterého vytéká roztok, zlikvidujte. Zbylé množství roztoku
+po podání nesmí být za žádných okolností opět později použito.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o.
+Na Strži 1702/65, Nusle
+140 00 Praha 4, Česká republika
+
+
+8. REGISTRAČNÍ ČÍSLO
+
+75/236/06-C
+
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 19. 7. 2006
+Datum posledního prodloužení registrace: 13. 3. 2008
+
+10. DATUM REVIZE TEXTU
+
+23. 5. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7

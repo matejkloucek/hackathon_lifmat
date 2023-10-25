@@ -1,0 +1,349 @@
+sp.zn. sukls68886/2020 a sukls155936/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Siofor 850 mg potahované tablety
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna potahovaná tableta obsahuje metformini hydrochloridum 850 mg, což odpovídá 662,9 mg metforminu.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3. LÉKOVÁ FORMA
+Potahovaná tableta
+Bílá, oválná potahovaná tableta s půlicí rýhou po obou stranách.
+
+Půlicí rýha má pouze usnadnit dělení tablety pro snazší polykání, nikoliv její rozdělení na stejné dávky.
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1. Terapeutické indikace
+Léčba diabetes mellitus typu 2, zejména u pacientů s nadváhou, v případě, že dietní opatření a cvičení nevedou k dostatečné regulaci glykemie.
+-  Siofor lze použít u dospělých s diabetem mellitem typu 2 k monoterapii nebo v kombinaci s ostatními perorálními antidiabetiky nebo s inzulinem.
+-  Siofor lze použít u dětí starších 10 let a dospívajících s diabetem mellitem typu 2 k monoterapii nebo v kombinaci s inzulinem.
+Snížení diabetických komplikací bylo prokázáno u dospělých pacientů s diabetem typu 2 a nadváhou, kteří byli léčeni metformin hydrochloridem jako lékem první volby poté, co předepsaná dieta selhala (viz bod 5.1.).
+
+4.2. Dávkování a způsob podání
+Dávkování
+Dospělí s normální funkcí ledvin (GFR ≥ 90 ml/min) Monoterapie a kombinace s ostatními perorálními antidiabetiky
+Obvyklá zahajovací dávka je 1 potahovaná tableta 2krát nebo 3krát denně během jídla nebo po jídle.
+Dávkování by mělo být po 10 až 15 dnech upraveno podle naměřených hladin glukózy v krvi. Pomalé zvyšování dávky může zlepšit gastrointestinální snášenlivost.
+Maximální doporučená dávka metformin hydrochloridu je 3 g denně, užívá se ve třech jednotlivých dávkách.
+Plánujete-li přechod z léčby jiným perorálním antidiabetikem, přerušte podávání jiného léčiva a léčbu metformin hydrochloridem zahajte výše uvedenou dávkou.
+
+
+
+1
+
+Kombinace s inzulinem
+Pro dosažení lepší kontroly hladiny glukózy v krvi lze použít metformin hydrochlorid a inzulin v kombinované terapii. Obvyklé počáteční dávkování metformin hydrochloridu je 850 mg 2krát nebo 3krát denně, zatímco dávka inzulinu se upraví podle naměřených hladin glukózy v krvi.
+
+Starší pacienti
+Vzhledem k možnému snížení funkce ledvin u starších pacientů by dávkování metformin hydrochloridu mělo být upraveno v závislosti na funkčnosti ledvin. Pravidelné hodnocení funkce ledvin je nezbytné (viz bod 4.4.).
+
+Porucha funkce ledvin
+Rychlost glomerulární filtrace má být vyšetřena před zahájením léčby přípravky s obsahem metforminu a následně minimálně každý rok. U pacientů se zvýšeným rizikem další progrese poruchy funkce ledvin a u starších pacientů má být renální funkce vyšetřována častěji, např. každých 3–6 měsíců.
+
+
+GFR ml/min
+
+
+
+60–89
+Celková maximální denní dávka
+(bude rozdělena do 2–3 denních dávek)
+3 000 mg
+Další skutečnosti ke zvážení
+
+
+
+V souvislosti se zhoršením funkce ledvin může být zváženo snížení dávky.
+
+
+45–59
+
+30–44
+
+
+
+
+
+< 30
+2 000 mg
+
+1 000 mg
+
+
+
+
+
+-
+Před zahájením léčby metforminem mají být znovu vyhodnoceny faktory, které mohou zvyšovat riziko laktátové acidózy (viz bod 4.4).
+Úvodní dávkou je nejvýše polovina maximální dávky. Metformin je kontraindikován.
+
+
+Pediatrická populace
+Monoterapie a kombinace s inzulinem:
+-  Siofor mohou užívat děti starší 10 let a dospívající.
+-  Obvyklá počáteční dávka je 500 mg (Siofor 500 mg potahované tablety) nebo 850 mg (Siofor 850 mg potahované tablety) metformin hydrochloridu jedenkrát denně během jídla nebo po jídle.
+
+Dávkování by mělo být po 10 až 15 dnech upraveno podle naměřených hladin glukózy v krvi. Pomalé zvyšování dávky může zlepšit gastrointestinální snášenlivost.
+Maximální doporučená dávka metformin hydrochloridu je 2 g denně, užívá se ve 2 (Siofor 850 mg potahované tablety) nebo 3 (Siofor 500 mg potahované tablety) jednotlivých dávkách.
+
+4.3. Kontraindikace
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+-  Jakýkoli  typ  akutní  metabolické  acidózy  (jako  je  laktátová  acidóza,  diabetická ketoacidóza), diabetické prekóma
+-  Závažné renální selhání (GFR < 30 ml/min)
+-  Akutní stavy, které mohou ovlivnit funkci ledvin, např.: dehydratace, závažná infekce, šok
+-  Intravaskulární podání jodovaných kontrastních látek (viz bod 4.4.)
+
+
+2
+
+-  Onemocnění, která mohou ve tkáních vyvolat hypoxii (zejména akutní nebo zhoršující se chronické onemocnění), např.:
+● dekompenzované srdeční selhání
+● respirační selhání
+● infarkt myokardu v nedávné době
+● šok
+-  Jaterní nedostatečnost, akutní intoxikace alkoholem, alkoholismus
+
+4.4. Zvláštní upozornění a opatření pro použití
+
+Laktátová acidóza
+Laktátová acidóza je velmi vzácná, ale vážná metabolická komplikace, která se nejčastěji vyskytuje při akutním zhoršení renální funkce nebo při kardiorespiračním onemocnění či sepsi. K akumulaci metforminu dochází při akutním zhoršení renální funkce; tím se pak zvyšuje riziko laktátové acidózy. V případě dehydratace (závažný průjem nebo zvracení, horečka nebo snížený příjem tekutin) má být metformin dočasně vysazen a doporučuje se kontakt se zdravotnickým odborníkem. Podávání léčivých přípravků, které mohou akutně narušit renální funkci (jako jsou antihypertenziva, diuretika a NSAID), má být u pacientů léčených metforminem zahajováno s opatrností. Další rizikové faktory laktátové acidózy jsou nadměrné požívání alkoholu, jaterní insuficience, nedostatečně kontrolovaný diabetes, ketóza, dlouhotrvající hladovění a jakékoli stavy související s hypoxií, stejně jako souběžné užívání léčivých přípravků, které mohou způsobit laktátovou acidózu (viz body 4.3 a 4.5).
+
+Diagnóza:
+Pacienti a/nebo pečovatelé mají být informováni o riziku laktátové acidózy. Laktátová acidóza je charakterizována acidotickou dušností, bolestí břicha, svalovými křečemi, astenií a hypotermií následovanou kómatem. V případě suspektních příznaků má pacient ukončit užívání metforminu a vyhledat okamžitě lékařskou pomoc. Diagnostické laboratorní nálezy zahrnují snížené pH krve (< 7,35), zvýšenou plazmatickou hladinu laktátu (> 5 mmol/l) a zvýšenou aniontovou mezeru a poměr laktát/pyruvát.
+
+Lékař by měl pacienty upozornit na riziko a příznaky laktátové acidózy.
+
+Funkce ledvin
+Protože se metformin vylučuje ledvinami, před zahájením léčby má být vyšetřena rychlost glomerulární filtrace a následně v pravidelných intervalech kontrolována, viz bod 4.2.:
+-  alespoň jednou ročně u pacientů s normální funkcí ledvin
+-  alespoň dvakrát až čtyřikrát ročně u pacientů s clearance kreatininu na spodní mezi normálních hodnot, a u starších pacientů.
+Metformin je kontraindikován u pacientů s GFR < 30 ml/min a má být dočasně vysazen při výskytu stavů, které mění renální funkci, viz bod 4.3.
+U starších pacientů je snížení funkce ledvin časté a asymptomatické. Zvláštní pozornost vyžadují případy, kdy může dojít ke zhoršení funkce ledvin, např. při zahájení léčby antihypertenzivy, diuretiky nebo při zahájení terapie nesteroidními antirevmatiky (NSA).
+
+Srdeční funkce
+U pacientů se srdečním selháním je větší riziko hypoxie a poruchy funkce ledvin. Pacienti se stabilním chronickým srdečním selháním mohou užívat metformin pouze tehdy, jsou-li pravidelně monitorovány jejich srdeční a renální funkce.
+U pacientů s akutním a nestabilním srdečním selháním je metformin kontraindikován (viz bod 4.3).
+
+Aplikace jodovaných kontrastních látek
+Intravaskulární podání jodovaných kontrastních látek může vést k nefropatii indukované kontrastní látkou s následnou akumulací metforminu a zvýšeným rizikem laktátové acidózy. Metformin má být vysazen před nebo v době provedení zobrazovacího vyšetření a jeho podávání nesmí být znovu zahájeno nejméně 48 hodin po provedení vyšetření za předpokladu, že byla znovu vyhodnocena renální funkce a bylo zjištěno, že je stabilní, viz body 4.2 a 4.5.
+3
+
+Operace
+Podávání metforminu musí být ukončeno během operace v celkové, spinální nebo epidurální anestézii. Léčba může být znovu zahájena nejdříve 48 hodin po operaci nebo obnovení perorální výživy a za předpokladu, že renální funkce byla znovu vyhodnocena a bylo zjištěno, že je stabilní.
+
+Další upozornění:
+-  Všichni pacienti by měli i nadále dodržovat předepsanou dietu s pravidelným přísunem sacharidů během dne. Pacienti s nadváhou by měli pokračovat v dietě omezující přísun energie.
+- Obvyklá laboratorní vyšetření používaná k monitorování diabetu by měla být prováděna pravidelně.
+-  Samotný metformin nevyvolává hypoglykemii; opatrnosti je zapotřebí při jeho současném užívání v kombinaci s inzulinem nebo jinými perorálními antidiabetiky (např. deriváty sulfonylurey nebo meglitinidy).
+Pediatrická populace
+Diagnóza diabetu 2. typu má být potvrzena před zahájením léčby metforminem.
+V jednoletých kontrolovaných klinických studiích nebyl zaznamenán vliv metforminu na růst a pohlavní dospívání, avšak výsledky dlouhodobého sledování těchto specifických parametrů nejsou k dispozici. Proto se u dětí léčených metforminem, a to zejména prepubertálních dětí, doporučuje pečlivé sledování účinku metforminu na tyto parametry.
+
+Děti ve věku 10–12 let
+Do kontrolovaných klinických studií prováděných u dětí a dospívajících bylo zařazeno jen 15 subjektů ve věku 10 a 12 let. I když se účinnost a bezpečnost metforminu u těchto dětí nelišila od účinnosti a bezpečnosti u starších dětí a dospívajících, při předepisování dětem ve věku 10 a 12 let se doporučuje zvláštní opatrnost.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Současné užívání se nedoporučuje
+Alkohol
+Intoxikace alkoholem je spojená se zvýšeným rizikem laktátové acidózy, a to zvláště při:
+- hladovění, malnutrici,
+- nebo poruše funkce jater
+Konzumaci alkoholu nebo užívání léčivých přípravků s obsahem alkoholu je třeba se vyhýbat.
+
+Jodované kontrastní látky
+Metformin musí být vysazen před nebo v době provedení zobrazovacího vyšetření a jeho podávání nesmí být znovu zahájeno nejméně 48 hodin po provedení vyšetření za předpokladu, že byla znovu vyhodnocena renální funkce a bylo zjištěno, že je stabilní, viz body 4.2 a 4.4.
+
+Kombinace vyžadující zvláštní opatrnost
+Některé léčivé přípravky mohou nepříznivě ovlivnit renální funkci, což může zvýšit riziko laktátové acidózy; jsou to např. NSAID, včetně selektivních inhibitorů cyklooxygenázy (COX) II, ACE inhibitory, antagonisté receptoru pro angiotenzin II a diuretika, zvláště kličková. Při zahájení nebo užívání takových přípravků v kombinaci s metforminem je nutné pečlivé monitorování renální funkce.
+Léčivé přípravky s vnitřním hyperglykemickým účinkem (např. glukokortikoidy (systémové a lokální podání) a sympatomimetika)
+Mohlo by být potřeba častější sledování hladiny glukózy v krvi, a to zvláště na začátku léčby. Je-li to nutné, upravujte dávkování metforminu během léčby příslušnými léčivými přípravky a po jejím ukončení.
+
+
+
+4
+
+Transportéry pro organické kationty (OCT)
+Metformin je substrátem pro oba transportéry OCT1 a OCT2.
+
+Souběžné podávání metforminu s
+-    Inhibitory OCT1 (jako je verapamil) může snížit účinnost metforminu.
+-    Induktory OCT1 (jako je rifampicin) může zvýšit gastrointestinální absorpci a účinnost metforminu.
+-    Inhibitory OCT2 (jako je cimetidin, dolutegravir, ranolazin, trimethoprim, vandetanib, isavukonazol) může snížit renální vylučování metforminu, což povede ke zvýšení koncentrace metforminu v plazmě.
+-    Inhibitory obou OCT1 a OCT2 (jako krizotinib, olaparib) může ovlivnit účinnost a renální eliminace metforminu.
+Je proto doporučována opatrnost, a to zejména u pacientů s poruchou funkce ledvin, kdy jsou tyto léky podávány s metforminem, protože se může zvýšit koncentrace metforminu v plazmě. Jestliže je to potřebné, může být zvažována úprava dávky metforminu, jelikož inhibitory/induktory OCT mohou mít vliv na účinnost metforminu.
+
+
+4.6. Fertilita, těhotenství a kojení
+Těhotenství
+Nekontrolovaný diabetes v těhotenství (gestační nebo permanentní) je spojen se zvýšeným rizikem kongenitálních abnormalit a perinatální mortality.
+Omezené množství údajů získaných při použití metforminu u těhotných žen nenaznačuje zvýšené riziko kongenitálních abnormalit. Studie na zvířatech nenaznačují žádné škodlivé účinky na průběh těhotenství, vývoj embrya nebo plodu, porod či postnatální vývoj (viz bod 5.3).
+
+Plánuje-li pacientka otěhotnět nebo je-li těhotná, doporučuje se, aby diabetes nebyl léčen metforminem, ale aby k udržení hladin glukózy v krvi co nejblíže normálním hodnotám byl použit inzulin, a tím se snížilo riziko malformací plodu.
+
+Kojení
+Metformin se vylučuje do lidského mateřského mléka. U kojených novorozenců/kojenců léčených matek nebyl prokázán žádný účinek metforminu. Avšak protože k dispozici jsou jen omezené údaje, kojení se v průběhu léčby metforminem nedoporučuje. Rozhodnutí, zda přerušit kojení, by mělo být provedeno s ohledem na přínosy kojení a možné riziko nežádoucích účinků na dítě.
+Fertilita
+Fertilita samců nebo samic potkanů nebyla metforminem ovlivněna, když byl podáván v dávkách 600 mg/kg/den, které jsou při srovnání plochy povrchu těla přibližně trojnásobkem maximální doporučené denní dávky pro člověka.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Metformin při monoterapii nezpůsobuje hypoglykemii, a proto nemá žádný nebo zanedbatelný vliv na schopnost řídit motorová vozidla a obsluhovat stroje. Při používání metforminu v kombinaci s jinými antidiabetiky (deriváty sulfonylurey, inzulinem, meglitinidy) by však pacienti měli být na riziko vzniku hypoglykemie upozorněni.
+
+4.8. Nežádoucí účinky
+
+
+
+
+
+
+
+
+5
+
+Při léčbě metforminem se mohou vyskytnout následující nežádoucí účinky. Četnost výskytu je definována následovně:
+Velmi častý (≥ 1/10) Častý (≥ 1/100, < 1/10)
+Méně častý (≥ 1/1000, < 1/100) Vzácný (≥ 1/10000, < 1/1000) Velmi vzácný (< 1/10000)
+Není známo (z dostupných údajů nelze určit)
+Poruchy metabolismu a výživy
+Velmi vzácné:
+- Laktátová acidóza (viz bod 4.4)
+- Snížení absorpce vitaminu B12 provázené poklesem jeho hladiny v séru při dlouhodobém užívání metforminu. Jestliže se u pacienta projeví megaloblastická anémie, doporučuje se vzít v úvahu tuto etiologii.
+Poruchy nervového systému
+Časté:
+Poruchy chuti
+Gastrointestinální poruchy
+Velmi časté:
+Gastrointestinální poruchy jako nevolnost, zvracení, průjem, bolesti břicha a ztráta chuti k jídlu. Tyto nežádoucí účinky se vyskytují nejčastěji při zahajování léčby a ve většině případů spontánně odezní. V rámci jejich prevence se doporučuje užívat metformin ve 2 nebo 3 denních dávkách během jídla nebo po jídle. Gastrointestinální snášenlivost lze zlepšit i pomalým zvyšováním dávky.
+Poruchy jater a žlučových cest
+Velmi vzácné:
+Ojedinělé případy abnormalit v jaterních funkčních testech nebo hepatitida, které vymizí po vysazení metforminu
+Poruchy kůže a podkožní tkáně
+Velmi vzácné:
+Kožní reakce jako erytém, svědění, kopřivka
+
+Pediatrická populace
+V publikovaných a poregistračních údajích a v kontrolovaných klinických studiích provedených u omezeného vzorku pediatrické populace ve věku 10 až 16 let dokumentujících léčbu v průběhu jednoho roku bylo hlášení nežádoucích účinků obdobné jako hlášení u dospělých, a to jak z hlediska povahy tak i závažnosti.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu: Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9. Předávkování
+Hypoglykemie nebyla pozorována ani po požití dávek až do 85 g metformin hydrochloridu, ačkoliv laktátová acidóza se za těchto podmínek objevila. Výrazné předávkování metforminem nebo přítomnost rizikových faktorů mohou vést k laktátové acidóze. Laktátová acidóza je závažný zdravotní stav, který vyžaduje hospitalizaci pacienta. Nejúčinnější metodou pro odstranění laktátu a metforminu je hemodialýza.
+
+6
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: ANTIDIABETIKA, KROMĚ INZULINŮ, BIGUANIDY Kód ATC: A10BA02
+Mechanismus účinku
+Metformin může působit prostřednictvím tří mechanismů:
+(1) Snížením tvorby glukózy v játrech inhibicí glukoneogeneze a glykogenolýzy;
+(2) Ve svalech zvýšením citlivosti na inzulin, zlepšením vychytávání a využití glukózy na periferii;
+(3) Oddálením absorpce glukózy ve střevech.
+Ovlivněním glykogensyntázy stimuluje metformin intracelulární syntézu glykogenu. Metformin zvyšuje transportní kapacitu všech dosud známých typů membránových přenašečů glukózy (GLUT).
+Farmakodynamické účinky
+Metformin je biguanid s antihyperglykemickým účinkem, snižuje jak bazální tak i postprandiální hladinu glukózy v plasmě. Nestimuluje sekreci inzulinu, a proto nezpůsobuje hypoglykemii.
+U člověka metformin příznivě ovlivňuje metabolismus tuků, a to nezávisle na ovlivnění glykemie. Tento účinek byl při terapeutických dávkách pozorován v kontrolovaných střednědobých i dlouhodobých klinických studiích; metformin snižuje hladinu celkového cholesterolu, LDL cholesterolu a triglyceridů.
+Klinická účinnost a bezpečnost
+Prospektivní randomizovaná studie (UKPDS) potvrdila dlouhodobý přínos intenzivní kontroly hladiny glukózy v krvi u dospělých pacientů s diabetem typu 2.
+Analýza výsledků u pacientů s nadváhou léčených metformin hydrochloridem poté, co se neosvědčila pouze předepsaná dieta, odhalila:
+-  významné snížení absolutního rizika všech komplikací spojených s diabetem ve skupině pacientů léčených metformin hydrochloridem (29,8 případů/1000 pacientů/rok) ve srovnání se samotnou dietou (43,3 případů/1000 pacientů/rok), p = 0,0023, a ve srovnání  se  skupinami  pacientů  léčených  kombinací  s deriváty  sulfonylurey  a inzulinovou monoterapií (40,1 případů/1000 pacientů/rok), p = 0,0034;
+-  významné snížení absolutního rizika mortality v souvislosti s diabetem: metformin hydrochlorid    -    7,5 případů/1000 pacientů/rok,    samotná    dieta    - 12,7 případů/1000 pacientů/rok (p = 0,017);
+-  významné snížení absolutního rizika celkové mortality: metformin hydrochlorid - 13,5 případů/1000 pacientů/rok   ve   srovnání   se   samotnou   dietou   - 20,6 případů/1000 pacientů/rok (p = 0,011), a ve srovnání se skupinami pacientů léčených  kombinací  s  deriváty  sulfonylurey  a  inzulinovou  monoterapií 18,9 případů/1000 pacientů/rok (p = 0,021);
+-  významné snížení absolutního rizika infarktu myokardu: metformin hydrochlorid - 11 případů/1000 pacientů/rok, samotná dieta - 18 případů/ 1000 pacientů/rok (p = 0,01).
+
+Přínos z hlediska klinických výsledků nebyl u metformin hydrochloridu při použití jako léku druhé volby v kombinaci s deriváty sulfonylurey pozorován.
+U diabetu typu 1 byla kombinace metformin hydrochloridu a inzulinu použita u vybraných pacientů. Klinické přínosy této kombinace však nebyly formálně potvrzeny.
+Pediatrická populace
+Kontrolované klinické studie provedené u omezeného vzorku pediatrické populace ve věku 10–16 let a sledující léčbu po dobu 1 roku prokázaly stejnou kontrolu glykemie, jako byla pozorována u dospělých.
+
+
+7
+
+5.2. Farmakokinetické vlastnosti
+Absorpce
+Po perorálním podání metformin hydrochloridu je Tmax  2,5 hodiny. Absolutní biologická dostupnost z tablet s obsahem 500 mg nebo 850 mg metformin hydrochloridu je u zdravých jedinců přibližně 50–60 %. Po perorálním podání bylo ve stolici zjištěno 20–30 % neabsorbovaného léčiva. Po perorálním podání je absorpce metforminu saturovatelná a neúplná. Předpokládá se, že farmakokinetika absorpce metforminu není lineární.
+Při doporučených dávkách metformin hydrochloridu a doporučeném dávkovacím schématu je rovnovážné koncentrace v plasmě dosaženo v průběhu 24 až 48 hodin a tato koncentrace obvykle nepřevyšuje hodnotu 1 µg/ml. V kontrolovaných klinických studiích nepřevyšovaly maximální hladiny metforminu v plazmě (Cmax) hodnotu 4 µg/ml, a to ani při maximálních dávkách.
+Potrava snižuje míru absorpce metforminu a také ji mírně prodlužuje. Po orálním podání tablety 850 mg metformin hydrochloridu byla zjištěna o 40 % nižší maximální koncentrace v plasmě; pozorováno bylo také snížení AUC (plocha pod křivkou) o 25 % a prodloužení doby pro dosažení maximální koncentrace v plazmě o 35 minut. Klinický význam těchto zjištění není znám.
+Distribuce
+Vazba na plazmatické bílkoviny je zanedbatelná. Metformin hydrochlorid se rozděluje do erytrocytů. Maximální koncentrace v krvi je nižší než maximální koncentrace v plazmě a je jí dosaženo přibližně ve stejném čase. Červené krvinky s největší pravděpodobností vytvářejí sekundární distribuční kompartment. Průměrná hodnota distribučního objemu (Vd) byla v intervalu 63–276 l.
+Biotransformace
+Metformin se vylučuje v moči v nezměněné formě. U člověka nebyly identifikovány žádné metabolity.
+
+Eliminace
+Renální clearance metforminu je > 400 ml/min, což ukazuje, že metformin se vylučuje prostřednictvím glomerulární filtrace a tubulární sekrece. Po perorálním podání je eliminační poločas terminální fáze přibližně 6,5 hodin.
+Při poruše funkce ledvin se renální clearance snižuje úměrně ke clearance kreatininu a poločas eliminace se tak prodlužuje, což vede ke zvýšení hladiny metforminu v plazmě.
+Pediatrická populace
+Hodnocení jednorázového podání:
+Po jednorázové dávce 500 mg metformin hydrochloridu byl u pediatrických pacientů prokázán stejný farmakokinetický profil jako u zdravých dospělých.
+Hodnocení opakovaného podání:
+Údaje jsou omezené na jednu studii. Po opakovaném podání 500 mg metformin hydrochloridu dvakrát denně po dobu sedmi dnů byla u pediatrických pacientů maximální koncentrace v plasmě (cmax) a systémová dostupnost (AUC0-t) snížena o cca 33 %, resp. 40 % v porovnání s dospělými diabetiky, kteří užívali opakovaně dávku 500 mg dvakrát denně po dobu 14 dnů. Protože se však dávkování upravuje individuálně podle kontroly glykemie, má tato informace omezenou klinickou významnost.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Konvenční studie farmakologické bezpečnosti, toxicity po opakovaném podání, genotoxicity, karcinogenního potenciálu a reprodukční toxicity neodhalily žádná zvláštní rizika pro člověka.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1. Seznam pomocných látek
+Jádro tablety:
+
+8
+
+Hypromelosa, povidon, magnesium-stearát Potah tablety:
+Hypromelosa, makrogol 6000, oxid titaničitý (E 171)
+
+6.2. Inkompatibility
+Neuplatňuje se.
+
+6.3. Doba použitelnosti
+3 roky
+
+6.4. Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5. Druh obalu a obsah balení
+Blistr vyrobený z průhledné pevné PVC/Al folie, krabička. Velikost balení: 30, 60 nebo 120 potahovaných tablet
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6. Zvláštní opatření pro likvidaci přípravku
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Berlin-Chemie AG, Glienicker Weg 125, 12489 Berlín, Německo
+
+
+8. REGISTRAČNÍ ČÍSLO(A)
+18/647/96-C
+
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 23.10.1996
+Datum posledního prodloužení registrace: 21.5.2014
+
+
+10. DATUM REVIZE TEXTU
+21. 7. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+9

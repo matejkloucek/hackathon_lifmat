@@ -1,0 +1,460 @@
+Sp.zn. sukls71910/2018 a sp.zn.sukls71892/2018
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Vzduch medicinální syntetický Linde medicinální plyn, stlačený
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Obsahuje:
+Oxygenum 21,0 – 22,4 % V/V
+
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Medicinální plyn, stlačený
+Vzduch medicinální syntetický Linde je bezbarvý plyn bez chuti a bez zápachu.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Vzduch medicinální syntetický se užívá inhalačně a je indikován jako náhrada běžného okolního vzduchu, kdykoliv je to potřeba ve zdravotnictví.
+
+Vzduch medicinální syntetický je indikován:
+-  Jako součást průtoku čerstvého plynu při ventilační terapii
+-  Jako součást průtoku čerstvého plynu při anestezii
+-  Jako hnací plyn pro nebulizaci
+Vzduch medicinální syntetický je indikován pro všechny věkové skupiny tj. dospělé, novorozence, kojence, děti a dospívající.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Vzduch medicinální syntetický je možné použít u všech věkových skupin.
+Kdykoliv je třeba, je vhodné jej míchat s medicinálním kyslíkem. Vznikne tak směs plynů o žádoucím obsahu kyslíku podle dále uvedeného výpočtu, který slouží ke zjištění adekvátní oxygenace (PaO2/SaO2/SpO2):
+
+Koncentrace kyslíku je dána rovnicí:
+
+FiO2 = (litry vzduchu/ min x 0,21 + litry kyslíku/min x 1,00) x 100 litry podávané směs (litry vzduchu/ min + litry kyslíku/min)
+Příklad: (4 x 0,21 + 4 x 1,00) x 100 / 8 = 484/8 = 60,5 % kyslíku (FiO2 0,605)
+Pediatrická populace
+Vzduch medicinální syntetický je možné použít u všech věkových skupin včetně novorozenců, kojenců, dětí a dospívajících.
+
+Způsob podání
+Jako součást průtoku čerstvého plynu při ventilační terapii
+
+Pro spontánně dýchající pacienty:
+Pro podporovanou ventilaci nebo při řízené ventilaci přes obličejovou masku, endotracheální trubici anebo tracheotomii. Při intenzivní péči je vzduch medicinální syntetický často podáván ve směsi s medicinálním kyslíkem během „neinvazivní ventilace“ pro dosažení požadovaného FiO2.
+Pro asistovanou ventilaci:
+Ventilátor je přístroj, který se používá k zajištění dýchání. Většinou se používá krátkodobě během léčby na jednotkách intenzivní péče, např. během léčby vážného plicního onemocnění nebo v jiných případech ovlivňujících normální dýchání. Během intenzivní péče je směs vzduchu medicinálního syntetického a kyslíku medicinálního obvykle podávána ventilátorem při zajišťováni asistované nebo řízené mechanické ventilace přes obličejovou masku, orotracheální trubici nebo tracheotomii. Při intenzivní péči je směs vzduchu medicinálního syntetického a kyslíku medicinálního často podávána systémy, které zabraňují zpětnému vdechování.
+
+Jako součást průtoku čerstvého plynu při anestezii
+Kyslíkem obohacený vzduch je často používán jako čerstvý plyn v průběhu anestezie. Směs vzduchu medicinálního syntetického a kyslíku medicinálního je podávána kvůli dosažení požadované hodnoty FiO2 a je dopravována anesteziologickým přístrojem do dýchacího okruhu. Směs vzduchu medicinálního syntetického a kyslíku medicinálního je
+obvykle podávána systémy, které zabraňují zpětnému vdechování a obsahují absorbent oxidu uhličitého. Plyn v dýchacím okruhu tak recirkuluje a může být opakovaně použit. Toto vyžaduje monitorování koncentrace vdechovaného vzduchu.
+Jako hnací plyn pro nebulizaci
+Nebulizátor je přistroj k podávání léků, užívaný buď v akutních případech, nebo při domácí péči při mnoha respiračních onemocněních. Nebulizátory jsou poháněny plynem, většinou vzduchem medicinálním syntetickým nebo kyslíkem medicinálním, nebo ultrazvukem.
+Nebulizery jsou používány k vytvoření aerosolu z léčiva ve formě roztoku a dopravení dávky léčiva přímo do plic. Aerosol je podáván přes masku, náustek, orotracheální trubici nebo tracheotomii.
+
+Opatření, která je nutno učinit před zacházením s léčivým přípravkem nebo před jeho podáním, viz bod 6.6
+
+4.3  Kontraindikace
+
+Při podání při atmosférickém tlaku neexistují žádné absolutní kontraindikace.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Vzduch medicinální syntetický je indikován pouze jako náhrada za běžný atmosférický vzduch a pacientům má být podáván za normobarického tlaku. Je obvykle míchán s jinými plyny, např. kyslíkem nebo kombinován s anestetiky. Může být používán v kombinaci
+s broncholytickými léčivy.
+
+Je-li medicinální vzduch podáván ve směsi s jinými inhalačními prostředky, je třeba, aby frakce kyslíku v inhalované směsi (inspirační frakce kyslíku, FiO2) byla vždy udržována na minimální hodnotě 21,0 % (viz bod 4.2).
+Vzduch medicinální syntetický musí být podáván pomocí k tomu určených zařízení. Riziko baro-traumatu způsobené natlakovaným plynem nebo průtokem dodávaného plynu musí být bráno v úvahu hlavně u zařízení, která nejsou opatřena redukčním ventilem.
+
+Pediatrická populace
+Neexistují žádná speciální upozornění ani opatření pro použití pro pediatrickou populaci. Platí stejná speciální upozornění a opatření pro použití jako u ostatní populace.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+U medicinálního vzduchu nejsou popsány žádné interakce. Pediatrická populace
+Nejsou popsány žádné interakce vzduchu medicinálního syntetického u pediatrické populace.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Vzduch medicinální syntetický může být používán během těhotenství.
+Kojení
+Vzduch medicinální syntetický může být používán během kojení.
+
+Fertilita
+Vzduch medicinální syntetický může být používán u fertilních žen.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Vzduch medicinální syntetický Linde nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Nejsou známy žádné nežádoucí účinky vzduchu medicinálního syntetického. Pediatrická populace
+
+Nejsou známy žádné nežádoucí účinky vzduchu medicinálního syntetického u pediatrické populace.
+
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+
+Předávkování vzduchem medicinálním syntetickým není možné, přesto musí být podáván pomocí k tomu určených zařízení. Musí být bráno v úvahu potencionální riziko náhodného baro-traumatu, hlavně pokud je medicinální vzduch podáván zařízením bez redukčního ventilu.
+
+Pediatrická populace
+Nejsou dosažitelné žádné další informace pro pediatrickou populaci.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina:
+Všechny jiné terapeutické přípravky - medicinální plyny: ATC kód: V03AN05
+
+Vzduch medicinální syntetický Linde je indikován jako náhrada za běžný atmosférický vzduch ve zdravotnictví. Nejsou známy ani předpokládány žádné farmakologické účinky. Medicinální vzduch obsahuje kyslík v podobné koncentraci jako okolní vzduch (21%) a je tedy vhodný k udržování odpovídající hladiny kyslíku ve zdravých subjektech.
+
+Vzduch medicinální syntetický Linde obsahuje 21,0 – 22,4 % obj. kyslíku, zbytek tvoří dusík. Dusík je možné považovat za inertní. Dusík není absorbován a je vyloučen, aniž by prošel nějakou změnou v metabolismu.
+
+Farmakodynamika popsaná v této kapitole souvisí s aktivní složkou vzduchu syntetického medicinálního, kterou je kyslík. Kyslík má pro život zásadní význam a musí být kontinuálně přiváděn ke všem tkáním, aby byla zachována produkce energie v buňkách. Cílovým místem působení kyslíku jsou mitochondrie v jednotlivých buňkách, kde se kyslík účastní enzymatické řetězové reakce, při níž vzniká energie. Kyslík je zásadní složkou buněčného metabolismu pro vytváření energie, pro produkci adenosintrifosfátu (ATP) v mitochondriích.
+S rostoucím FiO2 vdechované směsi roste parciální tlak vzduchu dodávaného do buněk. Mechanismus účinku
+
+Kyslík tvoří základ pro aerobní metabolismus nepřetržitě produkující vnitrobuněčnou energii.
+
+Farmakodynamické účinky
+Kyslík je životně důležitý pro vznik energie uvnitř buněk. Kyslík se účastní aerobního metabolismu v mitochondriích umožňujícího tvorbu energie v buňkách.
+
+Klinická účinnost a bezpečnost
+Kyslík je životně důležitý pro udržování buněčného metabolismu a pro buněčnou homeostázu. Nedostatek kyslíku rychle navodí anaerobní buněčný stav, nefunkčnost a následnou buněčnou smrt. Kyslík je tak životně důležitý pro přirozený buněčný život. Pokud je vzduch medicinální syntetický míchán s medicinálním kyslíkem, existuje riziko hyperoxygenace, která může způsobit vznik volných radikálů. Pokud je schopnost výměny aktivních kyslíkových částic překonána, hrozí riziko buněčné toxicity nebo zánětlivé reakce způsobené kyslíkovými radiály.
+
+Pediatrická populace
+Kyslík je životně důležitý pro všechny věkové skupiny. Schopnost řídit hypoxii je stejná u novorozenců, dětí i dospívajících. Schopnost výměny kyslíkových radikálů je nižší u novorozenců. Tudíž potenciální negativní účinky hyperoxygenace u novorozenců narůstají.
+
+5.2  Farmakokinetické vlastnosti
+
+Medicinální vzduch je podáván inhalačně. Farmakokinetika (PK) medicinálního vzduchu popsaná v této části souvisí s jeho aktivní složkou, tj. medicinálním kyslíkem. Dusík není absorbován a je vyloučen, aniž by prošel nějakou změnou v metabolizmu.
+
+Absorpce
+Kyslík je podáván inhalačně a následně přenášen do plicních sklípků. Alveolární parciální tlak kyslíku (také označovaný jako PAO2) je řídící silou pro přenos kyslíku z okysličených plicních sklípků přes alveolo-kapilární prostor do krve vedoucí ke vzniku arteriálního tlaku kyslíku (PaO2). V kapilárách obklopujících okysličené plicní sklípky je kyslík rozpuštěn v plazmě, ale také vázán na hemoglobin.
+(Obsah kyslíku: SaO2 x 1,36 x Hb + PAO2 x 0,04ml/l)
+Distribuce
+Kyslík je transportován oběhovým systémem. Většina kyslíku je přenášena ve formě vázané na hemoglobin. Dodávky kyslíku závisí na jeho obsahu a výkonu srdce. Perfuze tkání závisí na výkonu srdce, oběhovém systému, krevním tlaku a regionální perfuzi.
+Biotransformace
+Kyslík difunduje z krve do periferních kapilárních lůžek, obohacuje buňky, kde je součástí vnitrobuněčného metabolismu, produkce aerobní energie.
+
+Eliminace
+Výsledným efektem aerobního metabolismu je vznik energie (adenosintrifosfátu ATP) a oxidu uhličitého, který je vylučován z těla pulmonální ventilací.
+
+Farmakokinetické/ farmakodynamické vztahy
+
+Příjem kyslíku do plic je závislý na ventilaci a odpovídající perfuzi. Dostupnost kyslíku závisí na výkonu srdce a perfuzi tkání. K regulaci perfuze tkáně ve zdravém stavu slouží vyladěná hemostáza.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Nejsou dosažitelné žádné neklinické údaje. Posouzení rizika pro životní prostředí
+V porovnání s atmosférickým vzduchem, obsahuje vzduch medicinální syntetický méně
+argonu, oxidu uhličitého a méně významných dalších složek. Jelikož složení medicinálního vzduchu je podobné normálnímu atmosférickému vzduchu, kromě hladiny nečistot, které jsou zredukovány čištěním, neexistují žádná zvláštní rizika spojená s aktivní látkou.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Dusík
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+3 roky pro tlakové lahve o vodní kapacitě 5 l a menší 5 let pro tlakové lahve o vodní kapacitě větší než 5 l
+6.4  Zvláštní opatření pro uchovávání
+
+-  Nekuřte a nepoužívejte oheň v místech, kde jsou skladovány nebo používány medicinální plyny.
+-  Tlakové lahve musí být uchovávány na místech určených pro uchovávání medicinálních plynů.
+-  Tlakové lahve je nutné skladovat v krytém prostředí, chránit před povětrnostními vlivy, uchovávat v suchu a čistotě, mimo hořlavý materiál, a nevystavovat extrémním teplotám.
+-  U lahve vybavené uzavíracím ventilem z chromované mosazi s vestavěným regulátorem tlaku a průtoku (integrovaný ventil) musí být uživatel připraven na jejich výměnu, pokud ukazatel tlaku dosáhne žlutého pole, a vyměnit ji, pokud dosáhne pole červeného. Instrukce k zacházení s integrovaným ventilem najdete v Návodu k použití, který je přikládán k integrovanému ventilu.
+-  Musí být přijata opatření zabraňující nárazům nebo pádům.
+-  Tlakové lahve obsahující různé druhy plynů musí být uchovávány odděleně.
+-  Plné a prázdné tlakové lahve musí být uchovávány odděleně.
+-  Po dodání od výrobce musí mít lahev neporušenou plastovou krytku ventilu.
+-  Tlakové lahve by měly být uchovávány při teplotě od -40 °C do +65 °C.
+
+6.5  Druh obalu a obsah balení
+
+Obaly (včetně materiálu) a ventilů:
+
+2 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+2 l ocelová lahev s uzavíracím ventilem G3/4”z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+2 l ocelová lahev s ventilem pin index z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+2 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+2 l hliníková lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+2 l hliníková lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+2 l hliníková lahev s ventilem pin index z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+2 l hliníková lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+2 l hliníková lahev s uzavíracím ventilem z chromované mosazi s vestavěným regulátorem tlaku a průtoku
+Plnicí tlak:      200 bar při 15 °C
+Obsah:        400 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+
+
+3 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+3 l ocelová lahev s uzavíracím ventilem G3/4”z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+3 l ocelová lahev s uzavíracím ventilem pin index z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+3 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+3 l hliníková lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+3 l hliníková lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+3 l hliníková lahev s ventilem pin index z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+3 l hliníková lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+
+Obsah:        600 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+5 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        1 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+5 l ocelová lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        1 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+5 l ocelová lahev s ventilem pin index z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        1 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+5 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        1 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+5 l hliníková lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        1 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+5 l hliníková lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        1 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+5 l hliníková lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        1 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      150 bar při 15 °C
+Obsah:        1 500 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      150 bar při 15 °C
+
+Obsah:        1 500 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l ocelová lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l ocelová lahev s ventilem pin index z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l hliníková lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l hliníková lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l hliníková lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak       200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+10 l hliníková lahev s uzavíracím ventilem z chromované mosazi s vestavěným regulátorem tlaku a průtoku
+Plnicí tlak:      200 bar při 15 °C
+Obsah:        2 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+20 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi
+
+Plnicí tlak:      150 bar při 15 °C
+Obsah:        3 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+20 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        4 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+20 l ocelová lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        4 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+20 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        4 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+30 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        6 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+40 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      150 bar při 15 °C
+Obsah:        6 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+40 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      150 bar při 15 °C
+Obsah:        6 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+40 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        8 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+50 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      150 bar při 15 °C
+Obsah:        7 500 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+50 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi
+
+Plnicí tlak:      150 bar při 15 °C
+Obsah:        7 500 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+50 l ocelová lahev s uzavíracím ventilem G5/8”- vnitřní z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        10 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+50 l ocelová lahev s uzavíracím ventilem G3/4” z chromované mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        10 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+50 l ocelová lahev s výstupním ventilem W 24x2 z chromniklové mosazi Plnicí tlak:      200 bar při 15 °C
+Obsah:        10 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+Svazek 12 x 50 l ocelových lahví vzájemně propojených měděným potrubím s uzavíracím ventilem G5/8”- vnitřní z mosazi
+Plnicí tlak:      200 bar při 15 °C
+Obsah:        120 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+Svazek 12 x 50 l ocelových lahví vzájemně propojených měděným potrubím s uzavíracím ventilem G3/4” z mosazi
+Plnicí tlak:      200 bar při 15 °C
+Obsah:        120 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+Svazek 12 x 50 l ocelových lahví vzájemně propojených měděným potrubím s výstupním uzavíracím ventilem W 24x2 z mosazi
+Plnicí tlak:      200 bar při 15 °C
+Obsah:        120 000 litrů plynu při tlaku 1 bar a teplotě 15 °C
+
+
+Barevné značení
+
+Horní zaoblená část lahve  bílý pruh              číslo odstínu RAL: 9010
+černý pruh             číslo odstínu RAL: 9005 Válcová část lahve      bílá                 číslo odstínu RAL: 9010
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Všeobecné
+-  Medicinální plyny používejte pouze pro medicinální účely.
+-  V prostorách, kde se skladují nebo podávají medicinální plyny, nekuřte a nepracujte s otevřeným ohněm.
+-  Nikdy nepoužívejte olej ani mazivo, ani když je ventil lahve zaseklý nebo je-li obtížné připojit odběrové zařízení.
+-  S ventily a prostředky, které k nim patří, manipulujte čistýma rukama bez mastného povlaku (bez krému na ruce apod.).
+-  Při čištění lahve nebo připojeného zařízení nepoužívejte hořlavé přípravky a zejména látky na olejnaté bázi. Pokud budete na pochybách, ověřte slučitelnost.
+-  Před použitím ověřte, zda zbývá dostatečné množství produktu, umožňující dokončit jeho plánované podání.
+-  Používejte pouze standardní přístroje, které jsou navržené pro podávání medicinálního vzduchu.
+Příprava k použití
+-  Před použitím sundejte z ventilu plastovou krytku.
+-  Používejte pouze odběrová zařízení, která jsou navržena k použití ve spojení s medicinálním vzduchem.
+-  Ověřte, zda je přípojka na spojovacím prvku nebo regulátoru tlaku / průtoku čistá, a zda jsou spoje v dobrém stavu.
+-  K dotažení regulátorů tlaku / průtoku, které jsou určené k ručnímu připojení, nikdy nepoužívejte nářadí, protože by mohlo dojít k poškození spoje.
+-  Než otevřete ventil, ověřte, zda je správně připojeno odběrové zařízení.
+-  Ventil lahve neotevírejte násilím – otevřete nejméně o polovinu otáčky.
+-  Zkontrolujte, zda plyn neuniká. Postupujte podle pokynů, které byly dodány spolu
+s regulátorem tlaku / průtoku. Nezkoušejte únik z ventilu nebo prostředku opravit jinak než výměnou balení nebo o-kroužku.
+-  V případě úniku zavřete ventil a odpojte regulátor tlaku / průtoku. Označte vadnou lahev, odložte ji stranou a vraťte ji svému dodavateli.
+
+Použití plynové lahve
+-  Nezapomeňte lahve během používání připevnit k vhodné opoře ve svislé poloze, aby nemohly spadnout.
+-  U lahve vybavené uzavíracím ventilem z chromované mosazi s vestavěným regulátorem tlaku a průtoku (integrovaný ventil) musí být uživatel připraven na jejich výměnu, pokud ukazatel tlaku dosáhne žlutého pole, a vyměnit ji, pokud dosáhne pole červeného.
+-  Jestliže v lahvi zůstává již malé množství plynu (tlak cca 2 bar), je nutno ventil lahve uzavřít. Je důležité, aby v lahvi zůstal slabý přetlak plynu, protože ji chrání před kontaminací.
+-  Po použití je třeba ventil lahve uzavřít za použití normální síly a odtlakovat připojení.
+
+Transport tlakových lahví
+-  Během přepravy dopravními vozidly, by nádoby měly být upevněny pásy proti pádu.
+-  Větší lahve musí být přepravovány odpovídajícím typem vozidla. Zvláštní pozornost musí být věnována ujištění, že připojená zařízení nejsou uvolněna.
+
+Po datu použitelnosti vraťte lahev dodavateli.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Linde Gas a.s.
+U Technoplynu 1324
+198 00 Praha 9 Česká republika
+
+8.  ČÍSLO REGISTRACE
+89/411/13-C
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 18. 12. 2013
+
+10.  DATUM REVIZE TEXTU
+
+6. 4. 2018

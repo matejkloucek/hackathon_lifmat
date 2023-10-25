@@ -1,0 +1,576 @@
+Sp.zn.sukls 236417/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Supracain 40 mg/ml + 5 mikrogramů/ml injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml injekčního roztoku obsahuje articaini hydrochloridum 40 mg a epinephrinum 5 mikrogramů
+(jako epinephrini hydrochloridum).
+
+Pomocné látky se známým účinkem: disiřičitan sodný (E 223). Jedna ampulka obsahuje celkem 0,04 mmol (1,03 mg) sodíku.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý bezbarvý roztok bez mechanických nečistot.
+
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Lokální a lokoregionální anestezie pro stomatologické zákroky.
+Přípravek Supracain je indikovaný u dospělých, dospívajících a dětí od 4 let (nebo od 20 kg tělesné
+hmotnosti).
+
+4.2  Dávkování a způsob podání
+Pouze pro profesionální použití lékaři nebo stomatology.
+
+Dávkování
+Pro všechny populace se má použít nejnižší dávka vedoucí k účinné anestezii. Nezbytné dávkování se musí určit individuálně.
+
+Pro rutinní zákroky je normální dávka pro dospělé pacienty 1 ampulka, ale pro účinnou anestezii může být dostačující necelý obsah jedné ampulky. Dle zvážení stomatologa může být nezbytné pro rozsáhlejší zákroky použít více ampulek bez překročení maximální doporučené dávky.
+Souběžné použití sedativ ke snížení úzkosti pacienta:
+Maximální bezpečná dávka lokálního anestetika se může u sedovaných pacientů vzhledem k aditivnímu účinku na depresi centrálního nervového systému snížit (viz bod 4.5).
+Dospělí a dospívající (12 až 18 let)
+
+
+1
+
+U dospělých a dospívajících je maximální dávka artikainu 7 mg/kg s absolutní maximální dávkou artikainu 500 mg. Maximální dávka 500 mg artikainu odpovídá zdravému dospělému o tělesné hmotnosti vyšší než 70 kg.
+Tabulka níže ilustruje maximální doporučenou dávku:
+
+
+Tělesná hmotnost
+pacienta (kg)
+
+40
+50
+60
+70 a více
+Maximální dávka artikain- hydrochloridu (mg) 280
+350
+420
+490
+Dávka
+epinefrinu (mg)
+
+0,035
+0,044
+0,053
+0,061
+Celkový objem (ml) a ekvivalentní počet ampulek (2 ml)
+7,0 (3,5 ampule)
+8,8 (4,4 ampule)
+10,5 (5,3 ampule)
+12,3 (6,2 ampule)
+
+Děti (4 až 11 let)
+Bezpečnost přípravku Supracain u dětí do 4 let nebyla stanovena. Nejsou dostupné žádné údaje. Injikované množství se má určit dle věku, tělesné hmotnosti dítěte a rozsahu operace. Průměrná účinná dávka artikainu je 2 mg/kg pro jednoduché a 4 mg/kg pro komplexní zákroky. Má se použít nejnižší dávka vedoucí k účinné anestezii. U dětí od 4 let (nebo od 20 kg tělesné hmotnosti) je pro zdravé dítě o tělesné hmotnosti 55 kg maximální dávka artikainu pouze 7 mg/kg s absolutní maximální dávkou 385 mg artikainu.
+Tabulka níže ilustruje maximální doporučenou dávku:
+
+
+Tělesná hmotnost
+pacienta (kg)
+
+20
+30
+40
+55
+Maximální dávka artikain- hydrochloridu (mg) 140
+210
+280
+385
+Dávka
+epinefrinu (mg)
+
+0,018
+0,026
+0,035
+0,048
+Celkový objem (ml) a ekvivalentní počet ampulí (2 ml)
+3,5 (1,8 ampule)
+5,3 (2,7 ampule)
+7,0 (3,5 ampule)
+9,6 (4,8 ampule)
+
+Zvláštní skupiny pacientů
+Vzhledem k nedostatku klinických údajů je třeba starším pacientům a pacientům s poruchou funkce ledvin věnovat zvláštní pozornost, aby se jim podala co nejnižší dávka vedoucí k účinné anestezii (body 4.4 a 5.2). U těchto pacientů se mohou zejména po opakovaném podání objevit zvýšené plazmatické hladiny přípravku. V případě, že je nutná další injekce, má se pacient přísně monitorovat, aby se identifikovaly jakékoliv příznaky relativního předávkování (viz bod 4.9).
+
+Pacienti s poruchou funkce jater
+Zvláštní opatrnosti je třeba kvůli tomu, aby se u pacientů s poruchou funkce jater podala co nejnižší dávka vedoucí k účinné anestezii, zejména po opakovaném podání, i když 90 % artikainu je nejprve inaktivováno nespecifickými plazmatickým esterázami v tkáni a krvi.
+
+Pacienti s deficitem plazmatické cholinesterázy
+Zvýšené plazmatické hladiny přípravku se mohou objevit u pacientů s deficitem cholinesterázy nebo podstupujících léčbu inhibitory acetylcholinesterázy, protože přípravek je inaktivován v 90 % plazmatickými esterázami, viz body 4.4 a 5.2. Proto se má použít nejnižší dávka vedoucí k účinné anestezii.
+Způsob podání
+Infiltrace a perineurální podání v dutině ústní.
+Lokální anestetika se mají injikovat s opatrností, pokud je přítomen zánět a/nebo infekce v místě aplikace. Rychlost injekce má být velmi pomalá (1 ml/min).
+2
+
+Opatření, která je nutno učinit před zacházením s léčivým přípravkem nebo před jeho podáním
+Tento léčivý přípravek má používat pouze lékař nebo stomatolog dostatečně vyškolený a obeznámený s diagnózou a léčbou systémové toxicity, nebo se má podávat pod jeho dohledem. Před zahájením regionální anestezie lokálními anestetiky musí být zajištěna dostupnost vhodného resuscitačního vybavení a léků, aby byla možná rychlá léčba jakýchkoliv respiračních a kardiovaskulárních akutních příhod. Stav vědomí pacienta se má monitorovat po každé injekci lokálního anestetika.
+Při použití přípravku Supracain pro infiltraci nebo regionální blokádu se má injekce podávat vždy pomalu a s předchozí aspirací.
+
+Pokyny pro zacházení s léčivým přípravkem před jeho podáním jsou uvedeny v bodě 6.6.
+4.3  Kontraindikace
+
+•  Přecitlivělost na artikain (nebo na jakékoliv lokální anestetikum amidového typu), na epinefrin nebo na jakoukoliv pomocnou látku uvedenou v bodě 6.1.
+•  Pacienti s epilepsií nekontrolovanou léčbou.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Před použitím tohoto léčivého přípravku je důležité:
+•  dotázat se pacienta na současnou terapii a anamnézu,
+•  udržovat verbální kontakt s pacientem,
+•  mít k dispozici resuscitační vybavení (viz bod 4.9).
+Zvláštní upozornění
+Tento léčivý přípravek se musí používat se zvláštní opatrností u pacientů s následujícími poruchami a je třeba zvážit odložení stomatologického zákroku, pokud je stav závažný a/nebo nestabilní.
+Pacienti s kardiovaskulárními poruchami:
+V následujících případech se má používat nejnižší dávka vedoucí k účinné anestezii:
+•  Tvorba srdečního impulzu a poruchy vedení (např. atrioventrikulární blok 2. nebo 3. stupně, významná bradykardie).
+•  Akutní dekompenzované srdeční selhání (akutní městnavé srdeční selhání).
+•  Hypotenze
+•  Pacienti s paroxysmální tachykardií nebo absolutní arytmie s rychlou srdeční akcí.
+•  Pacienti s nestabilní anginou pectoris nebo anamnézou recentního (méně než 6 měsíců) infarktu
+myokardu.
+•  Pacienti s recentním (3 měsíce) koronarním bypassem.
+•  Pacienti užívající nekardioselektivní beta-blokátory (např. propranolol) (riziko hypertenzní krize nebo závažné bradykardie) (viz bod 4.5).
+•  Pacienti s nekontrolovanou hypertenzí.
+•  Souběžná léčba tricyklickými antidepresivy, protože tyto léčivé látky mohou zesílit kardiovaskulární účinky epinefrinu. (viz bod 4.5).
+Tento léčivý přípravek se musí používat s opatrností u pacientů s následujícími poruchami:
+Pacienti s epilepsií
+Vzhledem ke konvulzivnímu účinku se mají všechna lokální anestetika používat velmi opatrně.
+
+Pacienti s deficitem plazmatické cholinesterázy
+Pokud se objeví klinické příznaky předávkování při obvyklé dávce anestetika a při vyloučení injekce do cévy, existuje podezření na deficit plazmatické cholinesterázy. V tomto případě je třeba při další injekci postupovat opatrně a aplikovat sníženou dávku.
+3
+
+Pacienti s onemocněním ledvin
+Má se používat nejnižší dávka vedoucí k účinné anestezii.
+Pacienti s těžkou poruchou funkce jater
+Kvůli přítomnosti onemocnění jater se má tento léčivý přípravek používat s opatrností, i když 90 % artikainu je nejprve inaktivováno nespecifickými plazmatickými esterázami v tkáni a krvi.
+Pacienti s myastenia gravis léčení inhibitory acetylcholinesterázy
+Má se používat nejnižší dávka vedoucí k účinné anestezii.
+
+Pacienti s porfyrií
+Přípravek Supracain se má použít u pacientů s akutní porfyrií pouze v případě, že není k dispozici bezpečnější alternativa. U všech pacientů s porfyrií jsou nutná odpovídající opatření, protože tento léčivý přípravek může spustit porfyrii.
+
+Pacienti se souběžnou léčbou halogenovanými inhalačními anestetiky
+Má se používat nejnižší dávka léčivého přípravku vedoucí k efektivní anestezii (viz bod 4.5).
+
+Pacienti podstupující léčbu antiagregačními/antikoagulačními látkami
+Přípravek Supracain se má kvůli vysokému riziku krvácení podávat s opatrností u pacientů, kteří užívají antiagregační/antikoagulační přípravky nebo trpí poruchou koagulace. Vyšší riziko krvácení je více spojeno se zákrokem než s přípravkem.
+Staří pacienti
+Zvýšené plazmatické hladiny přípravku se mohou u těchto pacientů objevit zejména po opakovaném podání. V případě, že je nutná opakovaná injekce, má se pacient přísně monitorovat, aby se identifikovaly jakékoliv příznaky relativního předávkování (viz bod 4.9). Proto se má použít nejnižší dávka vedoucí k účinné anestezii.
+
+Vzhledem k nižšímu obsahu epinefrinu (5 mikrogramů/ml) se má použít injekční roztok přípravku
+Supracain u:
+•  Pacientů s kardiovaskulárními chorobami (například srdeční selhání, onemocnění koronárních tepen, anamnéza infarktu myokardu, srdeční arytmie, hypertenze)
+•  Pacientů s poruchami mozkové cirkulace, anamnézou cévní mozkové příhody
+Vzhledem ke zvýšenému riziku recidivy se doporučuje, aby byla stomatologická léčba při použití
+artikainu/epinefrinu odložena o šest měsíců po cévní mozkové příhodě.
+•  Pacientů s nekontrolovaným diabetem
+Tento léčivý přípravek se má používat opatrně kvůli hyperglykemickému účinku epinefrinu.
+•  Pacientů s tyreotoxikózou
+Tento léčivý přípravek se má používat opatrně kvůli přítomnosti epinefrinu.
+•  Pacientů s feochromocytomem
+Tento léčivý přípravek se má používat opatrně kvůli přítomnosti epinefrinu.
+•  Pacientů s akutním glaukomem s uzavřeným úhlem
+Tento léčivý přípravek se má používat opatrně kvůli přítomnosti epinefrinu.
+Má se použít nejnižší dávka vedoucí k účinné anestezii.
+
+Tento léčivý přípravek se musí používat bezpečně a efektivně za odpovídajících podmínek Epinefrin narušuje proudění krve v dásních a potenciálně může způsobit lokální tkáňovou nekrózu. Po mandibulárním bloku byly hlášeny velmi vzácné případy prodlouženého nebo ireverzibilního poškození nervu a ztráta chuti.
+
+
+4
+
+Lokální anestetické účinky mohou být sníženy v případě injekce tohoto přípravku do zanícené nebo infikované oblasti.
+
+Dávka se musí také snížit v případě hypoxie, hyperkalemie a metabolické acidózy.
+Existuje riziko pokousání (rty, tvář, sliznice a jazyk), zejména u dětí. Pacienta je třeba informovat, aby do obnovení normální citlivosti nežvýkal žvýkačku.
+Pokud existuje jakékoliv riziko alergické reakce, zvolte pro anestezii odlišný přípravek (viz bod 4.3). Pomocné látky
+Tento léčivý přípravek obsahuje disiřičitan sodný, siřičitan, který může vzácně způsobit těžké alergické
+reakce a bronchospasmus.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné ampulce, to znamená že je
+v podstatě „bez sodíku“.
+Pokud existuje jakékoliv riziko alergické reakce, zvolte pro anestezii odlišný přípravek (viz bod 4.3).
+Opatření pro použití
+
+Riziko spojené s náhodnou intravaskulární injekcí
+Náhodná intravaskulární injekce může náhle způsobit vysoké hladiny epinefrinu a artikainu v systémové cirkulaci. To může být spojeno se silnou nežádoucí reakcí, jako jsou konvulze následované depresí centrálního nervového systému a kardiorespirační depresí a kómatem, progredující do respirační a cirkulační zástavy. Proto se má před injekčním podáním lokálního anestetika provést aspirace, aby se zajistilo, že jehla nepronikne během injekce do krevní cévy. Nicméně absence krve ve stříkačce nezaručuje, že se zabrání intravaskulární injekci.
+
+Riziko spojené s intraneurální injekcí
+Náhodná intraneurální injekce může vést k posunu léku retrográdně podél nervu.
+Aby se předešlo intraneurální injekci a zabránilo se poškození nervu ve spojení s nervovými blokádami, má se jehla vždy mírně povytáhnout, pokud pacient během injekce pociťuje elektrický šok nebo pokud je injekce obzvlášť bolestivá. Pokud dojde k poškození nervu jehlou, mohl by se neurotoxický účinek zhoršit potenciální chemickou neurotoxicitou artikainu a přítomností epinefrinu, protože to může narušit perineurální krevní zásobení a zabránit lokálnímu výplachu artikainu.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Interakce s artikainem
+
+Interakce vyžadující opatrnost při použití:
+Další lokální anestetika
+Toxicita lokálních anestetik je aditivní.
+Celková dávka pro všechna podaná lokální anestetika nemá překročit maximální doporučenou dávku použitého přípravku.
+
+Sedativa (depresory centrálního nervového systému, např. benzodiazepiny, opioidy)
+Pokud se pro snížení vnímání pacienta použijí sedativa, je třeba použít snížené dávky anestetik, protože lokální anestetika, jako sedativa, jsou depresory CNS, které mohou mít v kombinaci aditivní účinek (viz bod 4.2).
+
+Interakce s epinefrinem
+Interakce vyžadující opatrnost při použití:
+5
+
+Halogenovaná volatilní anestetika (např. halotan)
+Vzhledem k senzibilizaci srdce na arytmogenní účinky katecholaminů se mají používat snížené dávky tohoto léčivého přípravku: riziko těžké komorové arytmie.
+Před podáním lokálního anestetika během celkové anestezie se doporučuje promluvit si s
+anesteziologem.
+
+Postganglionární adrenergní blokátory (např. guanadrel, guanethidin a rauwolfiové alkaloidy) Snížené dávky tohoto léčivého přípravku se mají použít za přísného lékařského dohledu s opatrnou aspirací v důsledku možného zvýšení odpovědi na adrenergní vazokonstriktory: riziko hypertenze a další kardiovaskulární účinky.
+Neselektivní beta-adrenergní blokátory (např. propranolol, nadolol)
+Kvůli možnému zvýšení krevního tlaku a zvýšenému riziku bradykardie se mají používat snížené dávky tohoto léčivého přípravku.
+Tricyklická antidepresiva (TCA) (např. amitriptylin, desipramin, imipramin, nortriptylin,
+maprotilin a protriptylin)
+Dávka a rychlost podání tohoto léčivého přípravku se má snížit kvůli zvýšenému riziku těžké
+hypertenze.
+Inhibitory COMT (inhibitory katechol-O-methyltransferázy) (např. entakapon, tolkapon)
+Mohou se objevit arytmie, zvýšení srdeční frekvence a variabilita krevního tlaku.
+Pacientům užívajícím inhibitory COMT se má během stomatologické anestezie podat snížené množství epinefrinu.
+
+Inhibitory MAO (A-selektivní (např. moklobemid) a neselektivní (např. fenelzin,
+tranylcypromin, linezolid))
+Pokud není možné se vyhnout souběžnému použití těchto léků, dávka a rychlost podání tohoto přípravku se musí snížit a přípravek se má použít za přísného lékařského dohledu v důsledku možné potenciace účinků epinefrinu vedoucí k riziku hypertenzní krize.
+
+Léky způsobující arytmie (například antiarytmika, jako je digitalis, chinidin)
+Podávání dávky tohoto léčivého přípravku se má snížit kvůli zvýšenému riziku arytmie, pokud se epinefrin a digitalisové glykosidy podávají pacientům souběžně. Doporučuje se opatrná aspirace před podáním.
+
+Ergotový typ oxytocinových přípravků (např. methysergid, ergotamin, ergonovin) Používejte tento léčivý přípravek pod přísným lékařským dohledem kvůli aditivnímu nebo synergickému zvýšení krevního tlaku a/nebo ischemické odpovědi.
+
+Sympatomimetické vasopresory (např. hlavně kokain, ale také amfetaminy, fenylefrin,
+pseudoefedrin, oxymetazolin)
+Existuje riziko adrenergní toxicity.
+Pokud byly sympatomimetické vasopresory použity během 24 hodin, má se plánované stomatologické ošetření odložit.
+
+Fenothiaziny (a jiná neuroleptika)
+Používejte s opatrností u pacientů, kteří užívají fenothiaziny, vzhledem k riziku hypotenze kvůli možné inhibici účinku epinefrinu.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+6
+
+Studie na zvířatech provedené s artikainem v dávce 40 mg/ml + epinefrin v dávce 10 mikrogramů/ml a také se samotným artikainem neprokázaly nežádoucí účinky na těhotenství, embryonální/fetální vývoj, porod nebo postnatální vývoj (viz bod 5.3).
+Studie na zvířatech ukázaly, že je epinefrin toxický na reprodukci při dávkách vyšších, než je maximální doporučená dávka (viz bod 5.3).
+
+Neexistují zkušenosti s použitím artikainu u těhotných žen s výjimkou během porodu. Epinefrin a artikain přecházejí placentální bariéru, i když artikain přechází v menším rozsahu než jiná lokální anestetika. Sérové koncentrace artikainu naměřené u novorozenců byly asi 30 % hladin u matky. V případě nechtěného intravaskulárního podání u matky může epinefrin snížit perfuzi dělohy.
+Kojení
+V důsledku rychlého poklesu sérových hladin a rychlé eliminace se v mateřském mléku nenachází klinicky relevantní množství artikainu. Epinefrin přechází do mateřského mléka, ale také má krátký biologický poločas. Není obvykle nutné zastavovat kojení kvůli krátkodobému použití, počínaje 5 hodin po anestezii.
+Fertilita
+Studie na zvířatech s artikainem v dávce 40 mg/ml + epinefrin v dávce 10 mikrogramů/ml neukázaly vliv na fertilitu (viz bod 5.3). V terapeutických dávkách se nežádoucí účinky na lidskou fertilitu neočekávají.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Kombinace injekčního roztoku artikain-hydrochloridu s epinefrin-tartarátem může mít zanedbatelný vliv na schopnost řídit a obsluhovat stroje. Po podání přípravku Supracain se mohou objevit závratě (včetně vertiga, poruch zraku a únavy) (viz bod 4.8 SmPC). Proto pacienti nemají opustit stomatologickou ordinaci, dokud se po stomatologickém zákroku neobnoví jejich schopnosti (obecně během 30 minut).
+
+4.8  Nežádoucí účinky
+a) Souhrn bezpečnostního profilu
+Nežádoucí účinky po podání artikainu/epinefrinu jsou podobné těm, které se pozorují u dalších lokálních amidových anestetik / vazokonstrikčních látek. Tyto nežádoucí účinky jsou obecně závislé na dávce. Mohou být také důsledkem hypersenzitivity, idisynkrasie nebo snížené tolerance pacienta. Poruchy nervového systému, lokální reakce v místě injekce, hypersenzitivita, srdeční poruchy a cévní poruchy jsou nejčastěji se vyskytující nežádoucí účinky.
+Závažné nežádoucí účinky jsou obecně systémové.
+b) Tabulkový souhrn nežádoucích účinků
+Hlášené nežádoucí účinky pocházejí ze spontánního hlášení, klinických studií a literatury. Klasifikace frekvencí vychází z konvence: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10000).
+Není známo (z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů dle MedDRA
+Infekce a infestace
+Poruchy imunitního systému Psychiatrické
+poruchy
+Frekvence
+
+časté
+méně časté
+
+vzácné není známo
+Nežádoucí účinky
+
+gingivitida
+alergické¹, anafylaktické / anafylaktoidní reakce
+
+nervozita / úzkost⁴ euforická nálada
+7
+
+Poruchy nervového systému
+
+
+
+
+
+
+
+
+
+
+
+Poruchy oka
+
+Poruchy ucha a labyrintu
+Srdeční poruchy
+
+
+Cévní poruchy
+
+
+
+
+Respirační, hrudní a mediastinální poruchy
+Gastrointestinální
+poruchy
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+
+Celkové poruchy a reakce v místě aplikace
+časté
+
+
+
+
+méně časté vzácné
+
+
+velmi vzácné
+
+
+vzácné
+
+vzácné
+
+časté vzácné není známo časté
+méně časté
+vzácné není známo
+
+vzácné
+není známo časté
+méně časté vzácné
+není známo méně časté vzácné
+není známo méně časté vzácné není známo
+méně časté vzácné
+není známo
+neuropatie: neuralgie (neuropatická bolest), hypestezie / necitlivost (orální a periorální)4, hyperestezie, dysestezie (orální a periorální), včetně dysgeusie (například kovová chuť, poruchy chuti), ageusie, alodynie, termohyperestezie, bolest hlavy
+pocit pálení
+porucha n. facialis² (obrna, paralýza a paréza), Hornerův syndrom (ptóza víčka, enoftalmus, mióza), somnolence (ospalost), nystagmus
+parestezie³ (přetrvávající hypestezie a ztráta vnímání chuti) po mandibulárním nebo dolním alveolárním nervovém bloku
+diplopie (paralýza okulomotorických svalů)4, porucha zraku (dočasná slepota)⁴, ptóza, mióza, enoftalmus
+hyperakuze, tinitus4
+
+bradykardie, tachykardie palpitace
+poruchy vedení (atrioventrikulární blok) hypotenze (s možným cirkulačním kolapsem) hypertenze
+návaly horka
+lokální / regionální hyperemie, vazodilace, vazokonstrikce
+bronchospasmus / astma, dyspnoe2 dysforie (chrapot)1
+otok jazyka, rtů a dásní
+stomatitida, glositida, nauzea, zvracení, průjem
+gingivální / orální slizniční exfoliace (olupování) /
+ulcerace
+dysfagie, otok tváří, glosodynie
+vyrážka (erupce), svědění
+angioedém (tvář / jazyk / rty / hrdlo / hrtan /
+periorbitální edém), kopřivka
+erytém, hyperhidróza
+bolest krku
+svalové záškuby4
+zhoršení neuromuskulárních příznaků Kearns-
+Sayreova syndromu, trismus
+bolest v místě injekce
+exfoliace místa injekce / nekróza, únava, astenie
+(slabost) / zimnice
+lokální otok, pocit horka, pocit chladu
+
+
+8
+
+c) Popis vybraných nežádoucích reakcí
+1 Alergické reakce se nemají zaměnit za epizody synkop (srdeční palpitace kvůli epinefrinu).
+2 Po podání artikainu v kombinaci s epinefrinem bylo popisováno 2týdenní zpoždění vzniku paralýzy obličeje a stav se o 6 měsíců později nezměnil.
+3 Tyto neurální patologie se mohou objevit s různými příznaky abnormálních pocitů. Parestezii je možné definovat jako spontánní abnormální obvykle nebolestivé pocity (např. pálení, píchání, mravenčení nebo svědění) trvající déle, než se u anestezie očekává. Většina případů parestezie hlášených po stomatologickém ošetření je přechodných a ustupují během dnů, týdnů nebo měsíců. Přetrvávající parestezie, zejména po nervových blokádách v mandibule, je charakterizována pomalým, nekompletním nebo žádným zotavením.
+4 Několik nežádoucích příhod, jako je agitovanost, anxieta/nervozita, třes, porucha řeči mohou být varovnými příznaky před depresí CNS. Při výskytu těchto příznaků je třeba pacienty požádat, aby hyperventilovali a je třeba je sledovat (viz bod 4.9 v SmPC).
+d) Pediatrická populace
+Bezpečnostní profil byl podobný u dětí a dospívajících od 4 do 18 let ve srovnání s dospělými. Náhodné poranění měkkých tkání však bylo pozorováno častěji, zejména u dětí ve věku 3 až 7 let, v důsledku prodloužené anestezie měkkých tkání.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování Typy předávkování
+Předávkování lokálním anestetikem v širším smyslu se často používá pro popis:
+•  Absolutního předávkování,
+•  Relativního předávkování, jako je:
+o neúmyslná injekce do krevní cévy, nebo
+o abnormální rychlá absorpce do systémové cirkulace, nebo
+o prodloužený metabolismus a eliminace léku.
+V případě relativního předávkování udávají pacienti obecně příznaky během prvních minut. Zatímco v případě absolutního předávkování se příznaky toxicity v závislosti na místě injekce objeví později po injekci.
+
+Symptomy
+V důsledku předávkování (absolutní nebo relativní), protože excitace může být přechodná nebo může chybět, mohou být první příznaky ospalost přecházející ve ztrátu vědomí a dechovou zástavu.
+
+Kvůli artikainu:
+Příznaky jsou závislé na dávce a mají progresivní závažnost ve smyslu neurologických projevů (presynkopa, synkopa, bolest hlavy, neklid, agitovanost, zmatenost, dezorientace, závrať (točení hlavy), třes, stupor, hluboká deprese CNS, ztráta vědomí, kóma, konvulze (zahrnující tonicko-klonické křeče), porucha řeči (např. dysartrie, logorea), vertigo, porucha rovnováhy (disekvilibrium)), očních projevů (mydriáza, rozmazané vidění, porucha akomodace), následované cévní (bledost (lokální,
+
+9
+
+regionální, celková)), respirační (apnoe (dechová zástava), bradypnoe, tachypnoe, zívání, respirační deprese) a nakonec srdeční (srdeční zástava, deprese myokardu) toxicitou.
+Acidóza zhoršuje toxické účinky lokálních anestetik.
+Kvůli epinefrinu:
+Příznaky jsou závislé na dávce a mají progresivní závažnost ve smyslu neurologických projevů (neklid, agitovanost, presynkopa, synkopa) následované cévní (bledost (lokální, regionální, celková)), respirační (apnoe (dechová zástava), bradypnoe, tachypnoe, respirační deprese) a nakonec kardiální (srdeční zástava, deprese myokardu) toxicitou.
+
+Léčba předávkování
+Před podáním regionální anestezie lokálními anestetiky musí být zajištěna dostupnost resuscitačního vybavení a léků, aby byla možná rychlá léčba jakýchkoliv respiračních a kardiovaskulárních akutních příhod.
+Kvůli závažnosti příznaků z předávkování musí lékaři/stomatologové implementovat protokoly, které řeší nutnost včasného zajištění dýchacích cest a poskytnutí asistované ventilace.
+
+Stav vědomí pacienta se má monitorovat po každé injekci lokálního anestetika.
+Pokud se objeví příznaky akutní systémové toxicity, musí se injekce lokálního anestetika okamžitě zastavit. Změňte polohu pacienta na polohu na zádech, pokud je to třeba.
+
+Příznaky z CNS (konvulze, deprese CNS) se musí rychle léčit odpovídajícím zajištěním dýchacích cest a dechovou podporou a podáváním antikonvulzní medikace.
+
+Optimální oxygenace a ventilační a oběhová podpora a také léčba acidózy mohou předejít srdeční zástavě.
+Pokud dojde ke kardiovaskulární depresi (hypotenze, bradykardie), je nutné zvážit odpovídající léčbu intravenózními tekutinami, vazopresorickými a/nebo inotropními látkami. Dětem se mají podat dávky odpovídající věku a tělesné hmotnosti. V případě srdeční zástavy je třeba okamžitě zahájit kardiopulmonární resuscitaci.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Nervový systém / lokální anestetika / anestetika, lokální / amidy /
+artikain, kombinace
+ATC kód: N01BB58
+
+Mechanizmus účinku a farmakodynamické účinky:
+Artikain, lokální amidové anestetikum, reverzibilně blokuje nervové vedení prostřednictvím dobře známého mechanismu, který běžně pozorujeme u dalších lokálních anestetik amidového typu. To zahrnuje pokles nebo bránění velkému přechodnému zvýšení permeability excitabilních membrán pro sodík (Na+), který je normálně produkován mírnou depolarizací membrány. Tyto aktivity vedou
+k anestetickému účinku. Jak postupně dochází k anestetickému účinku v nervu, práh pro elektrickou excitabilitu se postupně zvyšuje, rychlost nárůstu akčního potenciálu se snižuje a zpomaluje se vedení impulzu. pKa artikainu bylo odhadnuto na 7,8.
+
+Epinefrin, jako vazokonstriktor, působí přímo na α- a β-adrenergní receptory; β-adrenergní účinky převažují. Epinefrin prodlužuje trvání účinku artikainu a snižuje riziko nadměrného vychytávání
+10
+
+artikainu do systémové cirkulace.
+
+Klinická účinnost a bezpečnost: Supracain má nástup za 1,5-1,8 minuty pro infiltraci a za 1,4-3,6 minuty pro nervový blok.
+Trvání anestezie artikainu v dávce 40 mg/ml s epinefrinem o koncentraci 1: 100 000 je 60 až 75 minut pro pulpální anestezii a 180 až 360 minut pro anestézii měkkých tkání.
+Ve farmakodynamických vlastnostech nebyl pozorován žádný rozdíl mezi dospělou a pediatrickou
+populací.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Ve třech publikovaných klinických studiích popisujících farmakokinetický profil kombinace artikain- hydrochloridu v dávce 40 mg/ml s epinefrinem v dávce 10 nebo 5 mikrogramů/ml byly hodnoty Tmₐₓ mezi 10 a 12 minutami, s hodnotami Cmₐₓ v rozsahu od 400 do 2100 ng/ml.
+V klinických studiích provedených u dětí bylo Cmₐₓ 1382 ng/ml a Tmₐₓ 7,78 minut po infiltraci dávkou 2 mg/kg tělesné hmotnosti.
+
+Distribuce
+Vysoká vazba artikainu na proteiny byla pozorována u lidského sérového albuminu (68,5-80,8 %) a
+∝/β-globulinů (62,5-73,4 %). Vazba na γ-globulin (8,6-23,7 %) byla mnohem nižší. Adrenalin je vazokonstriktor přidaný k artikainu pro zpomalování absorpce do systémové cirkulace a tím prodlužuje udržování tkáňové koncentrace aktivního artikainu. Distribuční objem v plazmě byl asi 4 l/kg.
+
+Biotranformace
+Artikain podléhá hydrolýze jeho karboxylové skupiny nespecifickými esterázami v tkáni a v krvi. Vzhledem k tomu, že je tato hydrolýza velmi rychlá, je asi 90 % artikainu touto cestou inaktivováno. Artikain je dále metabolizován v jaterních mikrosomech. Artikainová kyselina je hlavní produkt cytochromem P450 indukovaným metabolismem artikainu, a je dále metabolizována za vzniku glukuronidu kyseliny artikainové.
+Eliminace
+Po dentální injekci byl eliminační poločas artikainu cca 20 - 40 minut. V klinické studii bylo prokázáno, že plazmatické koncentrace artikainu a kyseliny artikainové se rychle snižují po submukózní injekci. Velmi malé množství artikainu bylo detekováno v plazmě od 12 do 24 hodin po injekci. Více než 50 % dávky bylo během 8 hodin po podání eliminováno močí, 95 % jako kyselina artikainová. Během 24 hodin bylo asi 57 % (68 mg) a 53 % (204 mg) dávky eliminováno močí.
+Renální eliminace nezměněného artikainu představovala pouze asi 2 % na celkové eliminaci.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Předklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, chronické toxicity, reprodukční toxicity a genotoxicity neodhalily žádné zvláštní riziko pro člověka při terapeutických dávkách.
+
+Při supraterapeutických dávkách má artikain kardiodepresivní vlastnosti a může vyvolávat vazodilatační účinky.
+Epinefrin vykazuje sympatomimetické účinky.
+Subkutánní injekce artikainu v kombinaci s adrenalinem indukovala nežádoucí účinky od dávky 50 mg/kg/den u potkanů a 80 mg/kg/den u psů po 4 týdnech denní opakované dávky. Tyto nálezy však mají malý význam pro jeho klinické použití jako akutní podání.
+11
+
+Ve studiích embryotoxicity s artikainem nebylo pozorováno žádné zvýšení fetální mortality nebo malformací při denních i.v. dávkách do 20 m/kg u potkanů a 12,5 mg/kg u králíků.
+Teratogenita byla pozorována u zvířat léčených adrenaliem pouze po expozicích považovaných za dostatečně převyšující maximální expozici u člověka, což svědčí o malém významu při klinickém použití.
+Studie reprodukční toxicity provedené s artikainem v dávce 40 mg/ml + epinefrin v dávce 10 mikrogramů/ml podávaným subkutálně s dávkami do 80 mg/kg/den neukázaly žádné nežádoucí účinky na fertilitu, embryonální/fetální vývoj nebo pre- a postnatální vývoj.
+Během in vitro a in vivo studií provedených s artikaiem samotným nebo v in vivo studii provedené
+s artikainem v kombinaci s epinefrinem nebyly pozorovány žádné genotoxické účinky. Ve studiích genotoxicity in vitro a in vivo s epinefrinem byly zjištěny protichůdné nálezy.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+disiřičitan sodný chlorid sodný voda pro injekci
+
+6.2  Inkompatibility
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+2 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C. Uchovávejte ampulky v krabičce, aby byl přípravek chráněn před světlem.
+6.5  Druh obalu a obsah balení
+
+Skleněná ampulka, vložka s přepážkami, krabička. Velikost balení: 10 ampulek po 2 ml
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Aby se předešlo riziku infekce (například přenos hepatitidy), musí být stříkačka a jehly používané pro odběr roztoku vždy nové a sterilní.
+Tento léčivý přípravek se nesmí používat v případě, že je roztok zkalený nebo má změněnou barvu.
+
+Ampulky jsou určeny k jednorázovému použití. Pokud se použije pouze část ampulky, musí se zbytek
+zlikvidovat.
+Použijte okamžitě po otevření ampulky.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+12
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Zentiva, k. s., U Kabelovny 130, 102 37 Praha 10, Česká republika
+
+
+8.   REGISTRAČNÍ ČÍSLO
+01/169/87-C
+
+
+9.   DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 13. 8. 1987
+Datum posledního prodloužení registrace: 24. 5. 2017
+
+
+10.  DATUM REVIZE TEXTU
+14. 11. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13

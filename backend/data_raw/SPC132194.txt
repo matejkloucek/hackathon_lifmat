@@ -1,0 +1,901 @@
+Tento dokument je odbornou informací k léčivému pčípravku, kterÿ je pčedmètem specifického Iéćebného programu. Odborná informace byla pčedložena žadatelem o specifickÿ Iéčebnÿ program. Nejedná se o dokument schválenÿ Státním ústavem pro kontrolu Iéčiv.
+
+PLNÉ ZNÈNÍ SOUHRNU ÚDAJÙ O PÏÎÍPRAVKU
+1.  INDIKACE A POUŻITÍ
+BAT [Botulinovÿ sedmivalentní antitoxin (A, B, C, D, E, F, G) - (koñskÿ)] je smës imunních globulinních fragmentû určenych pro léčbu symptomatického botulismu po prokázané nebo možné expozici botulinovému neurotoxinu sérotypu A, B, C, E, F či G u dospëlych a détskÿch pacientñ.
+
+Úćinnost BAT je podložena vÿsledky studií úćinnosti provedenych na modelech zvíreciho botulismu.
+
+2.   DÁVKOVÁNÍ A PODÁVÁNÍ
+BAT je určen pouze pro intravenózní podání.
+
+2.1.   Dávkování a podávání
+•  Každá lahvička BAT obsahuje minimální množství sérotypil A, B, C, D, E, F, a G antitoxinu fvir Kvalitativní a kvantitativní složení (3)].
+•  Pro dospëlou, dëtskou a kojeneckou populaci podejte dávku BAT podle tabulky 1. Podrobnosti pediatrického dávkování dle váhy jsou udány v tabulce 2.
+• Podávejte všechny BAT dávky po načedèní 1:10 béžnÿm fyziologickÿm roztokem pomalou intravenózní infÚzí doporučenou infúzní iychlostí podle tabulky 1.
+•  V príibëhu podání infúze monitorujte základní životní funkce. Pokud je infúze tolerována, miiže bÿt její rychlost postupnê zvÿšena na maximální możnou iychlost, kterou je możné pokračovat do konce podávání pčípravku. Zpomalte rychlost infúze, pokud se u pacienta vyskytnou známky diskomfortu nebo nežádoucí reakce spojené s podáváním infúze.
+
+Tabułka 1.       Dåvkovåni a rychlost infúse BAT
+
+Skupina pacientíi
+
+
+
+
+Dospëlí
+(> 17 rokù)
+Dëti
+(I rok aż
+<l7 let)
+Dńvka
+
+
+
+
+
+
+jedna lahvička
+
+20 - 100% dospélé dávky
+Ûvodní rychlost infúze
+(prvních 30 minut)
+
+
+
+
+0.5 ml/min
+
+0.01 mlfkg/min nepfekračujte rychlost urćenou pro dospëlé
+Postupné zvyśovånl ryehlosti infúze, pokud je tolerovăno (kaźdycb 30 minut)
+dvojnásobná
+rychlost
+0.01 ml/kg/min
+Maximální
+rychlost infúze
+
+
+
+
+
+2 ml/min
+
+0.03 ml/kg/min nepžekračujte rychlost určenou pro dospëlé
+
+
+Emergent BioSolutions          Confidential and Proprietary             Page 3 of 20
+
+Kojenci (< 1 rok)  10% dospélé dávky  0.01 ml/kg/min   0.01 ml/kg/min   0.03 ml/kg/min nezávisle na télesné
+hmotnosti
+
+Vypocítejte pediatrickou dávku BAT podle télesné váhy dle tabulky 2.
+Tabulka 2.   Doporučend diivkovlni BAT podle SalisburskJch pravidel (1 rok až < 17 let)
+
+Tčlesnš hmotnost
+t*g)
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+>_ 55
+’Dávkovaci schéma odpovídá SalisburskJm pravidlíim (1):
+• Télesná hmotnost S 30 kg: 2x váha (kg) = % dospélé dávky
+Procenta dospilč ddvky
+(%)
+20"
+30
+40
+50
+60
+65
+70
+15
+80
+100
+• Télesná hmotnosti > 30 kg: váha (kg) + 30 = % dospélé dávky
+
+• Nepiesáhnõte dávku 1 lahviéky bez ohledu na télesnou hmotnost.
+
+“ Minimúlni pediatrickã dávka je 20% dospélé dlvky. Dãvkování pro kojence viz Tabulka I.
+
+2.2.   Príprava
+1. Piineste lahviéku do místnosti s pokojovou teplotou.
+•  Pokud je zmrzla, rozmražte lahvičku umistčnim do ledničky v teplotnim rozmezi mezi 36 až 46 °F (2 to 8 °C) na pFibližnč 14 hodin než se obsah rozmrazi.
+•  Pčipravek se muže rozmrazit rychle umistčnim pri pokojov‹i teplotč po dobu jedn‹i hodiny, nfisledovane ponorenim do vody o teplotč 98.6 °F (37 °C) než dojde k úplnému rozmra2ení.
+•  Nerozmraàujte pFípravek v mikrovlnné troubê. Lahviéku znovu nezamraàujte.
+2. Prohl‹idnčte si lahvičku, abyste se ujistili, že neni poškozend tčsnčni nebo lahvička. Pokud je lahvička poškozena, zlikvidujte ji.
+
+Emergent BioSolutions          Confidential and Proprietaiy             Page 4 of 20
+
+3. V pràbëhu piípravy s lahvičkou netFepejte, aby se zabránilo pènëní.
+4. Nared'te 1:10 v injekci 0.9% chloridu sodného (fyziologickÿ roztok) pridáním roztoku BAT z lahvičky do príslušného množství fyziologického roztoku v infúzním vaku. K íedëní nepoužívejte jiné roztoky. Vzhledem k tomu, ñe obsah lahvičky miiže bÿt rozdílny (obsah lahvičky mûže bÿt od 10 do 22 mililitrii), je požadováno 90 až 200 ml fyziologického roztoku. Vyprázdnëte cely objem lahvičky, abyste získali celkovÿ objem lahvičky. Pokud je požadována pouze část objemu lahvičky (pro pediatrické dávkování), musí bÿt vyprázdnéna celá lahvička, aby by1 zajištén správny vÿpoćet dávky. [Tabulka 2).
+5. Pred podáním si prohlédnëte pčípravek, zda neobsahuje částice nebo nejsou zmëny ve zbarvení. Nepoužívejte, jestliñe je roztok zakaleny, zaméenÿ nebo obsahuje částice jiné než nëkolik priisvitnych añ bílych bílkovinnÿch částic.
+6. Pouéijte intravenózní katetr s bëžnou infúzní pumpou. Použijte l 5micronovy sterilní, nepyrogenní, nízkoproteinovy in-line filtr.
+7. Lahvičky s BAT jsou urćeny pro jednorázovou spotrebu a neobsahují konzervační látky. Po otevčení lahvičky použijte její obsah k prípravë infúzního vaku, podejte co nejrychleji.
+8. Nespotrebované léčivo zlikvidujte.
+
+3. KVALITATIVNÍ A KVANTITATIYNÍ SLOŽENÍ
+BAT je sterilní roztok čištënych F (ab ') 2 plus F (ab') i závislÿch imunních globulinovÿch fragmentú získanych z koñské plazmy, vykazujících antitoxinovou aktivitu k botulinnímu neurotoxinu A, B, C, D, E, F a G.
+Każdá injekční lahvička, bez ohledu na velikost nebo objem plnëní, obsahuje minimální rnnožství:
+•  4,500 U antitoxinu sérotyp A
+• 3,300 U antitoxinu sérotypu B
+• 3,000 U antitoxinu sérotypu C
+•  600 U antitoxinu sérotypu D
+•  5,100 U antitoxinu sérotypu E
+•  3,000 U antitoxinu sérotypu F a
+•  600 U antitoxinu sérotypu G
+4.   KONTRAINDIKACE
+Žádné.
+
+
+
+
+Emergent BioSolutions          Confidential and Proprietary             Page 5 of 20
+
+5 . ZVLÁŠTNÍ UPOZORNÈNÍ A ZVLÁŠTNÍ OPATÎÌENÍ PRO POUŽITÍ
+
+5.1.   Hypersenzitivní reakce
+Podání BAT miiže vyvolat závažné hypersenzitivní reakce, včetnë anafylaktickÿch a anafylaktoidních reakcí. Pacienti, kterí byli již v piedchorobí léčeni końskym antivenem/antitoxinem s anamnézou hypersensitivity ke koním, anamnézou astmatu nebo senné rÿmy mají vétší riziko rozvoje závażné hypersenzitivní reakce na BAT. PFi podání BAT je nutné mít k dispozici pFíslušné vybavení, léky včetnë epinefrinu a zdravotnickÿ personál vyškolenÿ k léčbë hypersenzitivity, anafylaxe a šoku.
+Všichni pacienti musí byt sledováni, zda-li se u nich nerozvíjí známky a pnznaky akutní alergické reakce (napi. koprivka, svêdèní, erytém, angioedém, bronchospamus s pískoty či kašlem, laryngeální edém, hypotenze nebo tachykardie) v pràbêhu nebo po podźní infúze s BAT. V pčípadë hypersenzitivní reakce, je nutné okamžité pčerušit podávání BAT a začít s akutní léčbou obtíéí. Léky pro akutní léčbu hypersenzitivních reakcí, jako je epinefrin, musí bÿt okamžitê k dispozici.
+U pacientû s rizikem hypersenzitivní reakce zaćnëte podávat BAT nejnižší moźnou rychlostí (< 0.01 ml/min) za prsného dohledu.
+
+5.2. Opoždëné alergické reakce (sérová nemoc)
+Opoždêné alergické reakce (sérová nemoc napr. teplota, urtikariální nebo makulopapulární vyrážka, myalgie, artralgie nebo lymfadenopatie) se mohou objevit po podání BAT, typicky 10-21 dní po podání infúzi. Je nutné sledovat, zda-li se u pacienté nerozvĘí známky a pčíznaky opoždëné alergické reakce.
+Pokud je podezčení na rozvoj opoždëné alergické reakce, je nutné začít s pčísluśnou léčbou.
+
+5.3. Reakce bëhem podávání infuze
+Zimnice, teplota, bolesti hlavy, nauzea a zvracení mohou souviset s rychlostí podávané infúze. Take se mohou rozvinout myalgie, únava nebo vasovagální reakce. Je nutné pozornë sledovat, zda-li bëhem podávání infúze nebo bezprostFedné po ní nedocházi u pacìentú k rozvoji tèchto reakcí.
+Pokud se u pacienta rozvíjí infuzní reakce, zpomalte rychlost infúze a podejte symptomatickou terapii. Pči zhoršení symptomii, ukončete podávání infúze a zahajte odpovídající léčbu.
+5.4. Ovlivnëní merení glukozy v krvi
+Maltóza obsażená v BAT mííže ovlivnit nëkteré typy systémû monitorujících glukózu v krvi napi. pokud jsou zaloñeny na metodë glukózo dehydrogenáza pyrroloquinoline — quinonové dehydrogenase pyrroloquinoline-quinone (GDH-PQQ). Namërené hodnoty mohou bÿt falešnë zvÿsené, což méže vest k nepčimêrenému podání inzulinu a vyústit v život ohroéující
+
+Emergent BioSolutions          Confidential and Proprietary              Page 6 of 20
+
+hypoglykémii. Piípady skutećné hypoglykémie mohou byt naopak neléćeny, pokud je stav hypoglykémie maskován zvÿšenÿmi hodnotami glukózy v krvi [viz Lékové interakce  )].
+
+5.5. Prenos infekčnich agens
+Protože je BAT vyrobeno z koñské plazmy, je zde riziko pFenosu infekčních agens napr. virû. Koùská plazma je testována na piítomnost určitÿch infekčních agens a vÿrobní proces BAT zahrnuje metody k inaktivaci a odstranëní určitÿch viríi [viz Popis (11)J. PFesto miiže bÿt piípravkem potenciálnë pieneseno onemocnëní. Nebyly zaznamenány prípady prenosu virového onemocnëní v souvislosti k použítím BAT.
+Je nutné hlásit všechny infekce, o kterÿch je lékar pFesvèdčen, že by mohly bÿt pFeneseny BAT Emergent BioSolutions Canada Inc. na I-800-768-2304. Pred podáním sdëlte pacientovi nebo jeho zákonnému zástupci informace o všech rizicích a vÿhodách tohoto prípravku [viz Poradenství pacientovi (17)J.
+
+6. VEDLEJŠÍ REAKCE
+Mezì nejčastêjší vedlejãí reakce porozované u ž 5 % zdravÿch dobrovolníkñ v klinickÿch studiích patíily bolesti hlavy, nausea, svëdéní a koprivka.
+Men.i nejćastëjší vedlejší reakce porozované u >_ l % pacientii v klinickych studiich patrily teploty, vyrážka, zimnice, nausea a edémy.
+Následující závañné vedlejší reakce jsou podrobnë probrány v jinych sekcích pod názvy:
+•  Hypersenzitivní reakce [viz Zvláštní upozornêní a zvláštní opatrení pro použití (5.1)]
+• Opoždéná alergická reakce/sérová nemoc fviz Zvlóśtní upozornéní a zvláśtní opatrení pro použití (5.2)]
+•  Infúzní reakce [viz Zvláštní upozornéní a zvláštní opatrení pro použití (5.3)J
+
+6.1.  Zkušenosti z klinickÿch studii
+Vzhledem k tomu, že kłinické studie se provádéjí za velmi proménli ch podmíne( míra nežádoucícli účinkíì pozorovaná v klinickfch studiích s léčivou látkou riemûže byt prímo srovnávána s hodnotami v klinickfch studiích s jirifim léči m prípravkem a nemusí odrážet data pozorovaná v praxi.
+V randomizované, dvojitë zaslepené studii s paralelní skupinou provádéné za účelem vyhodnoceni bezpećnosti BAT u zdravÿch subjektú a stanovení farmakokinetiokého profilu sedmi botulinovÿch antitoxinovÿch sérotypii obsaženÿch v BAT po intravenózním (IV) podání, bylo 40 subjektú randomizováno k podání bud’jedné (n = 20) nebo dvou lahviček (n
+= 20) BAT.
+Ve druhé paralelním skupiné, randomizované, dvojitè zaslepené farmakodynamické studii, bylo 26 zdravÿch subjektii randomizováno k podání BAT ve fyziologickém roztoku (n = 16) nebo placeba (0,9% fyziologickÿ roztok, n = 10).
+
+Emergent BioSolutions          Confidential and Proprietary            Page 7 of 20
+
+Nejčastéjšími nežádoucími účinky u všech zdravÿch subjektii byla bolest hlavy (9%), pruritus (5%), nevolnost (5%) a koprivka (5%).
+Další nežádoucí účinky hlášené u ménë než 4% pacientii zahmovaly pyrexii a nepríjemné pocity v krku.
+Všechny hlášené nežádoucí reakce byly považovány za mírné nebo strednè závañné. Nebyly hlášeny žádné závažné nežádoucí reakce. Byly hlášeny dvë mírné akutní alergické reakce, které vyžadovaly predčasné ukončení infúze a léčby. Reakce byly definovány jako mírné, pokud byly jedincem pocifované, ale tolerovatelné. Strednë závañné byly definovány jako obtíže, které ovlivñují bëžnou kaźdodenní činnost.
+BAT byl podán celkovë byl 231 subjektúm s podezčením nebo potvrzenÿm botulismem v otevčené observační klinické studii s rozšírenÿm pčístupem podporované Centry pro kontrolu a prevenci nemocí (CDC).
+Vétiina dospèlÿch (213/216) a pediatrickÿch (13/15) subjekté dostala jednu dávku BAT. Trem dospélym jedinciim byla podána druhá dávka BAT a dvëma pediatrickÿm subjektûm byly podány dvè dávky pro kojence (10% dávky pro dospélé). Podání druhé dávky se pohybovalo od sedmi hodin do jednoho mésíce po podání první dávky.
+Bezpečnostní data CDC aktivnè shromáždila od ošetrujících lékačii. Nicménë nebylo provedeno žádné monitorování bezpečnosti v místé a k určení ćetnosti hlášení nežádoucích účinkii se CDC se spoléhalo na vyhledávané informace poskytnuté ošetrujícími lékari. Z 231 subjektû, kterÿm byl podáván BAT, byly k dispozici bezpečnostní informace od 228 subjektíi. Nežádoucí účinky byly hlášeny u 10% všech subjekté. Nejčastéjšími nežádoucími úćinky byla pyrexie (4%), vyráñka (2%), zimnice (1%), nauzea (1%) a edém (1%). Další nežádoucí účinky byly hlášeny u ménë než 1% jedincíi. Žádny subjekt nemél anafylaxi. U jednoho subjektu se vyskytla vážná nežádoucí reakce - hemodynamická nestabilita s projevy bradykardie, tachykardie a asystolie béhem podávání BAT. U jednoho subjektu se dvanáct dní po podání BAT projevila mírná sérová nemoc (< 1%) s myalgií, artralgií a tmavou močí.
+Tabulha 3. Shrnutí nežádoucícb poIé1‹ovÿch reahcí hldfienÿch u jedincu po aplikaci BAT v rámci
+klinichycb studii CDC z rozsírenÿm pristupem
+
+
+Tžidénì die orgdnovÿch systému
+
+
+
+Všechny orgánové systémy Postižení srdce
+
+
+Postiźeni gastrointestinálního traktu
+Název
+
+
+
+celkové
+Srdečni zástava Bradykardie Tachykardie Zvraceni Nauzea
+Celkovë
+(N=228)
+Pocet udúlosti
+37
+1
+i 1
+1
+2
+
+
+Poćet jedincu
+23
+1
+1
+I 1
+2
+
+
+% jedincu
+
+10.1
+0.4
+0.4
+0.4
+0.4
+0.9
+
+
+Emergent BioSolutions
+Confidential and Proprietary
+Page 8 of 20
+
+
+
+Tčídëní dIe orgénovÿch systémii
+
+
+
+Celkové projevy a projevy na stianë podäni
+
+
+
+
+
+Postiżení imunitního systému
+Vyšetfení
+
+
+Psychiatrické posti2eni
+
+Postižená ledvin a moćovÿch cest
+Respiraćní, hrudní a mediastinální postiženJ
+Postižení kúże a podkoži
+
+
+
+Cévní postiżeni
+Název
+
+
+
+Pyrexie Plicní obtlže Edém Zimnice Neklid Sérovãnemoc
+Zvÿšení krevníhotlaku
+Zvÿšená hodnota bílych krvinek
+Agitovanost Úzkost
+Močová retence Bronchospasmus
+Erytém Hyperhidróza Vyräżka
+Hemodynamická nestabilita Hypotenze
+Cekovg (N=228)
+Počet
+udńlostí
+9
+1
+2
+3
+l
+1
+1
+1
+
+
+
+1
+1
+
+
+1
+1
+4
+l
+
+1
+
+
+Poèet
+jedincu
+9
+1
+2
+3
+I I 1
+l
+
+1
+
+I I
+
+
+l 4 I
+1
+
+
+
+%» jedincu
+
+3.9
+0.4
+0.9
+1.3
+0.4
+0.4
+0.4
+04
+
+0.4
+0.4
+0.4
+0.4
+
+04
+0.4
+1.8
+0.4
+
+0.4
+Všechny neżádouci reakce byly klasifikovány v souladu s klasifikací MedDRA verze 15.0 a iàzeny dle medicínského vÿmamu a udanÿch orgánovÿch systému.
+
+6.2. Postmarketingové zkusenosti
+U pacientii léćenych BAT byly zaznamenány následující hypersenzitivní/alergické reakce:
+• Anafylaktickÿ šok
+• Angioedém
+• Koprivka
+
+6.3.  Immunogenicita
+Stejnê jako u všech terapeutickÿch proteinii existuje možnost immunogenicity. Všichni jedinci ze dvou klinickÿch studií byly testováni na imunogenicitu proti BAT píed začátkem a na konci studii (28. den) za použití validovaného testu. V priibêhu dvou pokusû probéhla sérokonverze u jedenácti jedincé. V kañdé klinické studii se u jednoho subjektu projevila pri
+
+Emergent BioSolutions          Confidential and Proprietary             Page 9 of 20
+
+podávání BAT mírná alergická reakce. Oba jedinci mëli na počátku a na konci pííslušnych studií negativní na protilátky proti BAT. Detekce tvorby protilátek je vysoce závislá na citlivosti a specificitë testu. Navíc pozorovanÿ vÿskyt pozitivity protilátek (včetnë neutralizačních protilátek) v testu miiže byt ovlivnên nëkolika faktory, včetnë metodiky testování, zacházení se vzorkem, naćasování odbëru vzorkú, soubëžné užívanÿch léké a základního onemocnëní. Z tèchto díivodú miiže byt srovnávání produkce protilátek proti BAT s produkcí protilátek proti jinym pčípravkûm zavádêjící.
+
+7. LÉKOVÉ INTERAKCE
+Laboratorní lékové interakce: mérení glukózy v krvi
+Maltóza obsažená v BAT miiže ovlivnit nëkteré typy systémii monitorujících glukózu v krvi viz Zvláśtní upozornéní a zvláštní opaNerií pro použití(5 4)]. Naméčené hodnoty mohou bÿt falešnë zvyšené, což miiže vest k nepčiméienému podání inzulinu a vyústit do život ohrožující hypoglykémie. Piípady skutečné hypoglykémie mohou byt naopak neléčeny.
+U pacientíi léčenych BAT se mohou používat pouze testy specifické pro glukózu.
+Informace o metodé mërení hladiny glukózy v krvi, vćetnè informací o testovacích proužcích, musí byt pećlivé posouzeny a musí bÿt potvrzeno, že metoda je vhodná k použití pči léčbè parenterálním prípravkem obsahujícím maltózu. Pokud se vyskytnou nejasnosti, kontaktujte vÿrobce méíicí metody k ujišténí o možnosti použití pči léćbë parenterálním pčípravkem obsahujícím maltózu.
+
+8. UŽITÍ U ZVLÁŠTNİCH POPULACÍ
+
+8.1. Tëhotenstvi
+Shrnulí rizika
+Neexistují žádné údaje k potvrzení prítomnosti nebo nepFítomnost rizika pči použití BAT u lidí a zvirat.
+8.2. Laktace
+Shrnutí rizika
+Nejsou k dispozici údaje k potvrzení prítomnosti nebo nepFítomností BAT v materském
+mléce, vlivu na kojené díté nebo jeho dopadu na laktaci.
+Zvażte prínos kojení pro vyvoj a zdraví dítëte, klinickÿ stay matky a potrebu podávat BAT kojící matce a všechny piípadné nepčíznivé účinky BAT na kojené dítë.
+
+8.3. Použití u dëtí
+Účinnost BAT u dètí nebyla stanovena. Jsou k dispozici pouze limitovaná data o bezpečnosti u détí.
+
+Emergent BioSolutions          Confidential and Propńetaiy            Page 10 of 20
+
+Na zàkladè klinické studie CDC s rozéiienym prístupem dostalo BAT patnàct detskJch subjektii (ve véku od 10 dnii do 17 let vcetnè jednoho novorozence, 3 kojencíi a batolat, 4 dètí a 7 adolescenté). 3-1etému subjektu a kojenci byly podàny dvè kojenecké dàvky a ostatním 13 pediatrickym subjektém pediatrické dàvky dle Salisburského pravidla [Tabulka 2.]
+Byly zaznamenány dvé neáádouci reakce u dvou pediatrickJch subjektú. U jednoho subjektu byla zaznamenána pyrexie po podání infuse s BAT, u druhého subjektu se rozvinula váúnà neàádoucí reakce hemodynamické nestability s tachykardií, bradykardií a asystolií v priibéhu podávání infúze s BAT.
+Dávkování u pediatrickych pacientii se provádí dle SalisburskJch pravidel.
+
+8.4. Pouziti v geriatrii
+Bezpeünost, farmakokinetika a efektivita BAT nebyla u geriatrickJch subjektii stanova.
+Na základé rozéíiené studie CDC dostalo BAT tricet sest geriatrickJch subjekté. Nezádoucí reakce po infuzi BAT se vyskytla u jednoho subjektu, a to vyráñka.
+
+11. POPIS
+BAT (BotulinovJ sedmivalentní antitoxin (A, B, C, D, E, F, G) - (koñskJ)) je sterilní roztok F(ab’)2 a F(ab')2z vislych protilátkovJch fragmentii pFipravenych z plazmy koní, kteFí byli imunizováni specifickym sérotypem botulinního toxoidu a toxinu. Finální sedmivalentní prípravek je zhotoven smícháním sedmi antitoxiníi. BAT je dodáván v lahviékách o velikosti objemu 20 nebo 50 mililitrú, lahviéky jsou naplnény 10 al 22 mililitry úéinné látky. BAT se podává intravenózné.
+
+Vyrobní proces kaédého jednotlivého typu antitoxinu zahrnuje éisténí globulinovJch frakcí vJménnou kationtovou chromatografií, étepení pepsinem ke vzniku F (ab ') 2 plus F (ab') 2 závislych frakcí imunoglobulinu, uzití aniontoméniéové chromatografie k odstranéní pepsinu jakoé i daláích neüistot a filtraci. Navíc zahrnuje vJrobní proces dva stupné virové inaktivace
+/ odstranéní viru; oéetiení rozpoustédly / detergenty a filtraci viríi [Tabulka 4.]
+Osetrení rozpoustédly / detergenty je efektivní pri inaktivaci známych lipidy obalenych viríí jakoje virus koñské encefalitidy, koóské arteritidy, virus západonilské horecky, koñské infekcní anémie, koñsky herpeticky virus, virus vztekliny a koñské chripky. Vyrobní proces BAT take zahrnuje masivní filtracní postupy efektivní k redukci hladin nékterJch lipidy obalenych virii (viz vJée) tak jako neobalenych virii véetné koñskJch rinovirii, koñskJch adenoviríi a adenoasociovanych virú a koñskJch parvovirii.
+
+
+Tabulka 4.   Kapacita virové clearance zpracování BAT
+ObalenJ
+
+Genom     RNA   RNA    RNA    DNA
+
+
+Emergent BioSoIutions         Confidential and Proprietary
+
+
+
+RNA   DNA
+
+Neobaleny
+
+DNA
+
+
+Page 11 of 20
+
+
+
+RNA
+
+Virus Rod
+XMuLV
+
+Retrovirus
+
+
+
+Flavivirus
+BVDV
+
+Flavivirus
+Obaleny
+PRV
+
+Herpesvirus
+Pl3
+
+Paramyxovirus
+Ad2
+
+Adenovirus
+Porcinni Parvovirus
+Parvovirus
+Neobaleny
+EMC
+
+Picornavirus
+
+
+Yelikost (nm) Nanofiltmce
+(1 ßio)
+SfD (logo)
+Celkové sníżeni (1 8io)
+80-110
+
+2.7
+
+* 4.3
+ñ 7.0
+40-70
+
+2.1
+
+5.1
+ñ 7.2
+50-70
+
+* 4.5
+
+n.t.
+* 4.5
+150-200
+
+n.t
+
+* 5.1
+* 5.1
+100-200
+
+n.t.
+
+* 5.5
+* 5.5
+70-90
+
+E 4.7
+
+n.t.
+E 4.7
+18-24
+
+4.5
+
+n.t. 4.5
+25-30
+
+E 4.5
+
+n.t.
+? 4.5
+XMuLV: Yirus XcnoDopni virus myši leukemia; spccifickÿ pfiklad pro końskou infgkčnl anćmii, a pÑklad pro lipidy obalené viry stsjnć velikosti jako virus vezikuléml stomatitidy ( rod Rhabdoviry).
+WNV: Virus západonilské horeèky; relevantnl virus, specifickÿ pliklad pro lipidy obalené viry včetné arbovirù, které zahrnuji jak Flaviviry tak Togaviiy a zahrnujl viry kodské encefaltidy (rod Togaviry) a koñské virové arteritidy ( rod Arteriviry dffve Togaviry) .
+BVDV: Virus bovinniho virového prùjmu; releYantni virus a specifickÿ pïiklad pro lipidy obalené viry vtetnë arbovirù, kłeré zahmuji jak Flaviviry tak Togavity a zahmujl viry końské encefaltidy (Rod Togavirù) a kofiské virové arteritidy ( Rod Arteriviry dfive Togaviry) PRV: Pseudorabickÿ virus; specificiei płlklad pro kofìské herpetické viry a nespecifiekÿ pfiklad pro lipidy obalcné viry.
+PI3: Parainßuenza ìIl virus, pfíklad pro lipidy obalené RNA viry a viry stcjného rodu, orthomyxoviry, které zahmujl viry końské chfipky. Ad2: Adenovirus, specifickÿ pftklad pro koí\ské adenoviry.
+EMC: Virus Encephalomyokarditiy, specifickÿ pffklad pro kodské parvoviry a adenoasocianované viry, nespecifickÿ pIlkIad pro malé lipidy obalené a lipidy neobalené viry.
+n.t. — netestovãno
+
+
+Součástí BAT je 10% maltóza a 0,03% polysorbát 80. Získany sypkÿ materiál obsahuje piibližnê 3-7 g% (30-70 miligramú / mililitr) bílkoviny.
+Účinnost produktu je vyjádrena v jednotkách založenÿch na testu neutralizace myší (MNA). Každá jednotka BAT je určena k neutralizaci 10 000 inyších inWaperitoneální smrtelnÿch dávek 50% jednotek (MIPLD50) botulinního neurotoxinu sérotypu A,B,C,D,F a G a 1000 MIPLD5osérotypu E. Each unit of BAT is designed to neutralize 10,000 mouse intraperitoneal lethal dose 50% units (MIPLDso) of botulinum neurotoxin for serotype A, B, C, D, F, aid G and 1,000 MIPLD o of serotype E.
+
+12. KLINICKÁ FARMAKOLOGIE
+
+12.1. Mechanismus úcinku
+Mechanismus piisobení BAT spočívá v pasivní imunizaci końskÿmi polyklonálními protilátkovÿmi fragmenty (primámé F(ab')2a Fab) proti botulinovému neurotoxinu (BoNT) A, B, C, D, E, F a G. Bëhem cirkulace se polyklonální protilátkové fragmetny naváží na volné BoNT. Toto zamezí BoNT v interakci s gangliosidovÿmi kotevními místy a proteinovÿmi receptory na cholinergních nervovÿch zakončeních. Toto na druhou stranu
+
+
+Emergent BioSolutions          Confidential and Proprietary             Page 12 of 20
+
+zabrañuje zaclenéní BoNT do cilovJch bunék. Komplexy protilátka / antigen se pak vyluéují z obéhu orgány, které se podílejí na zpracování imunitních komplexíi.
+Experimentální díikaz o mnozství cirkulujícího antitoxinu potrebného pro potlaéení intoxikace BoNT není pine dokumentován. Vysledek lécby závisí, stejne jako u jinych srovnatelnych stavii, pieváiné na üasovém intervalu od nástupu symptomii a podání antitoxinu.
+12.2. Farmakodynamika
+Byla provedena klinická studie odpovédi na dávku, ve které byl pou2it sval nohy extentor digitorum brevis (EDB) jako modelovJ príklad pro mérení svalové paralyzy po expozici botulotoxinu. V tomto modelovém príkladu podání BAT zabránilo u subjektii projevíim snízené svalové funkce po expozici botulinovému neurotoxinu (BoNT) sérotypu A a B. U subjektã lééenych pomocí placeba (n=l0) se projevila ztráta svalové síly EDB vêtãí nez 50% v prúbéhu tr dnii po expozici botulinovému neurotoxinu (BoNT) sérotypu A a B. V pokusné skupinó BAT (n = 16) byla svalová funkce EDB v tase stabilní, co2 naznaéuje, ze BAT má úcinnost pro zachování svalové funkce aí 28 dní po expozici BoNT jak sérotypem A tak B.
+
+12.3. Farmakokinetika
+Farmakokinetika sedmi botulinovJch antitoxinovJch serotypii byla stanovena u zdravJch subjektii po intravenóznl aplikaci jedne (n=20) nebo dvou lahvićek (n=20) BAT. Riiznć farmakokineticke parametry shmuje tabulka 5.
+
+Farmakokinetické parametry se liàily na zàkladé mnozství namereného sérotypu. Nejkratsí polocasy mèly antitoxiny sérotypii D a E. Naopak antitoxiny sérotypé B a C móly poloéasy nejdelsí. Hodnoty AUC0-‹x› a Cmax se zvysovaly pomèrnym zpiisobem k dàvce BAT, kterà se zvysovala z jedné lahvicky na dvé. Kromè toho se priimèrné hodnoty clearance pro sedm sérotypé antitoxinu jevily podobné u obou lééenych skupin, coz naznaéuje linearitu dàvky BAT v rozsahu sledované dàvky.
+Tabulka 5.  Farmakokinetické parametry (priimer) pro antitoxin sérotypu A az G u osob po
+intravenózním podúnf jedné nebo dvou lahviêek BAT
+
+Sérotyp antitoxinu
+A
+
+
+B
+Lécend skupina
+l lahviéka 2 lahviéky
+1 lahvidka 2lahviéky l lahviúka 2lahviéky
+AUCm
+(£f‘hr/mL)
+26.00
+56.09
+29.30
+62.55
+37.34
+86.25
+Co••
+(LI/izil.)
+2.69
+6.23
+1.90
+4.28
+2.26
+4.89
+
+(hr)
+8.64
+10.20
+34.20
+57.10
+29.60
+45.60
+CI
+(mLfhr)
+293
+285
+196
+181
+t44
+127
+Vu (mL)
+3637
+3993
+9607
+14865
+6066
+8486
+
+
+
+Emergent BioSolutions
+Confidential and Proprietary
+Page 13 of 20
+
+D E F
+Sérotyp anitoxinu
+G
+llahvička 2lahvičky llahvićka 2lahvičky
+1 lahvička
+2 lahvičky
+Léćenń skupina
+1 lahvićka
+2 lahvičky
+7.62
+14.83
+7.16
+15.66
+31.40
+63.19
+AUCm
+(U•br/mL)
+7.05
+14.66
+0.81
+1.60
+0.94
+1.75
+2.37
+4.29
+C•o (U/mL)
+0.59
+1.19
+7.51
+7.77
+7.75
+7.32
+14.10
+18.20
+tic
+(hr) I1.70
+14.70
+137
+151
+1250
+1110
+169
+168
+CI
+(mŁfhr) 149
+144
+1465
+1653
+14172
+11596
+3413
+4334
+Vø
+(mL) 2372
+3063
+AUC = obsah plochy pod kfivkou; Cl = cleamnce; M = maximálni sérovfi koncentrøce; BAT = heptavalentni botulinnl antitoxin (A, B, C, D, E, £, G)- (koíìskÿ); t¡ø= poločas; T = čøs k dosażen( maximålnl plazmatické koncentrace; U = jednotka; Va = distribuční objem
+
+
+13. NEKLINICKÁ TOXIKOLOGIE
+
+13.2. Toxikologie a farmakologie zvíéat
+Nebyly provádény toxikologické studie pro BAT a jeho slożky.
+Hodnocení novÿch możností léčby botulismu pomocí kontrolovanÿch lidskÿch studií je neetické a nemożné. Proto je účinnost BAT pro léćbu botulismu založena na dobre kontrolovanych studiích účinnosti provedenych u morčat a makakú rhesus.
+
+Morčata
+V kontrolované studii terapeutické účinnosti byla morčata intoxikována intramuskulární injekcí rûznymi BoNT sérotjpy (A, B, C, D, E, F nebo G) v dávce l,5x intramuskulámí letální dávky morčete 50% jednotek (GPlİ'vfLD50) do pravé zadní končetiny. In a controlled therapeutic efficacy study, guinea pigs were intoxicated with various BoNT serotypes (A, B, C, D, E, F or G) at a dose of 1.5x guinea pig intramuscular lethal dose 50% units (GPIMLDso) via intramuscular injection into the right hind limb. Poté byla zvííata léčena placebem nebo 1x sníženou lidskou dávkou BAT ( hmotnost odpovídá prûmêmé hmotnosti človéka vážícího 70 kilogramû), po nástupu klinickÿch príznakû botulismu (slabost pravé zadní končetiny, slinéní, slzení, slabost končetin a zmëny dechové frekvence a typu dycháni). Léčba pomocí BAT vedla ke statisticky vÿznamnému zlepšení stupnë prežiti zvíčat v rozsahu všech testovanych sérotypii [Tabulka 6.].
+Tabulka 6.     Shrnutí údøju o prezití z morćat z terapeutické studie účinnosti BAT
+
+Sérotyp neurotoxinu
+Léćenå skupina
+Míra prežití (%)
+Oboustrannÿ Fisherñv
+ezaktni test (hodnota p)
+
+A
+
+Emergent BioSolutions
+lx BAT        34/34 (100%)
+
+Confidential and Proprietary
+p 0.0001
+
+Page 14 of 20
+
+
+
+
+
+B
+
+
+
+
+D
+
+E
+
+F
+
+Sérotyp neurotoxinu
+
+G
+Kontrolní placebo Placebo Control lx BAT
+Kontrolní placebo lx BAT
+Kontrolní placebo lx BAT
+Kontrolní placebo lx BAT Kontrolní placebo lx BAT
+Kontrolní placebo
+L4denå shupina Group
+
+1x BAT
+Kontrolní placebo
+0/34 (0%)
+
+34/34 (100%)
+1/34 (3%)
+33/34 (97%)
+4/34 (12%)
+33/34 (97%)
+5/34 (15%)
+34/34 (100%)
+0/34 (0%)
+34/34 (100%)
+4/34 (12%)
+Mírø péežití (%)
+
+3d/34 (100%)
+17/34 (50%)
+
+
+p<0.0001
+
+
+p<0.0001
+
+
+p 0.0001
+
+
+p+0.0001
+
+
+p+0.0001
+
+
+Oboustrønny Fisherûv exahtaí test (hodnota p)
+p<0.0001
+BAT - heptavalentni botulinnl antitoxin (A, B, C, D, E, F, G) — (koñskÿ).
+
+
+Nehumánní primáti
+V kontrolované studii terapeutické účinnosti byli makaci rhesus intoxikováni intravenómí injekcí BoNT sérotypem A v dávce l,7x intravenózní letální dávky nehumánních primátíi 50% (NHPLD50) na kilogram tëlesné hmotnosti.
+In a controlled therapeutic efficacy study, rhesus macaques were intoxicated with BoNT serotype A delivered intravenously at a dose of 1.7x nonhuman primate intravenous lethal dose 50% (NHPLDso) «nits per kilogram of body weight.
+Poté byla zvírata léčena placebem nebo lx sníženou lidskou dávkou BAT ( hmotnost odpovídá príimémé hmotnosti človëka váñícího 70 kilogramé), po nástupu klinickych príznakú botulismu (ptóza, svalová slabost nebo respirační obtíée). Léčba pomocí BAT vedla ke statisticky vÿznamnému zlepšení stupnè prežití. [Tabulka 7.].
+
+
+Tabulka 7.   Shrnutí údaju o péežití z makaku Rhesus z terapeutické studie účinnosti BAT
+
+Léčená skupina
+
+In BAT
+Kontrolní placebo
+Mira prežití (%)
+
+14/30 (47%)
+0/30 (0%)
+Oboustranny Fisherúv exaktni
+test (hodnota p) p<0.0001
+BAT = Botulinovÿ sedmivalentni antitoxin (A, B, C, D, E, F, G) — (końskÿ).
+
+
+Emergent BioSolutions          Confidential and Proprietary            Page 15 of 20
+
+
+14. KLINICKÉ STUDIE
+Úüinnost BAT je zaloéena na studiích úúinnosti, které prokázaly prínos pro pre2ití na modelech zvírecího botulismu /vir Neklinická toxikologíe (13.2)]. Bezpecnost byla testována u zdravJch dospélych pacientñ a u pacientii s podeziením na botulismus, kteFí byli léteni pomocí BAT v rámci oteviené klinické studie.
+Farmakokinetické, farmakodynamické a bezpecnostní profily BAT byly hodnoceny ve dvou klinickJch studiích. V téchto klinickJch studiích bylo prokázáno, ze BAT má vyhovující bezpecnostní profil, pokud je zdravému jedinci intravenózné podána jedna nebo dvé lahvicky BAT. V randomizované, monocentrické, dvojité zaslepené studii byla farmakokinetika a bezpecnost BAT hodnocena u 40 zdravJch jedincii, kterí dostávali bud’jednu (n = 20) nebo dvé (n = 20) lahviéky BAT intravenózní infuzí. Hladiny BAT v séru byly méreny u jedincé za pouzití testu neutralizace myéí (MNA) [viz Klinická farmakologie (12.3)}.
+V randomizované monocentrické, dvojite zaslepené klinické studii byla farmakodynainika a bezpecnost BAT hodnocena u 26 zdravJch jedincé, kterí dostávali bud’jednu lahvicku s BAT (n = 16) nebo placebo (n = 10) intravenózní infuzí. Byla prokázána úcinnost BAT pro prevenci paralyzy svalu nohy extentor digitorum brevis (EDB) po podání botulinního neurotoxinu sérotypu A nebo B [viz Klinická farmakologie (12.2)).
+Pro poskytnutí dodateéné podpory pro úéinnost demonstrovanou na zvírecích modelech, byla provedena predbéüná analyza dat z Centra pro kontrolu a prevenci chorob (Centers for Disease Control and Prevention (CDC)) otevrenou, observaéní klinickou studií s rozsírenym prístupem pro léébu BAT u subjektíi s podezíením nebo prokázanym botulismem. U 148 subjektu lécenych BAT v analyzovaném období mélo 109 subjektii závereénou diagnózu vJskytu suspektního nebo potvrzeného botulismu a byli zarazeni do sledované populace.
+Strední doba od nástupu prznakíi botulismu k léébé BAT byla 3,6 dne (rozsah: 0,25 - 38 dní). dasná lééba (ñ 2 dny po nástupu priznakii) BAT byla spojena s kratsí délkou hospitalizace, kratsí dobou pobytu na jednotce intenzivní péce (JIP) a kratsí dobou potreby
+mechanické ventilace ve srovnání s pozdeji nasazenou léübou [Tabulka 81 aje v souladu s mechanismem úéinku [viz Klinická farmakologie (12.1.)].
+
+
+Tabulha 8. Shrnuti délky hospitalizace, pobytu na JIP a potéeby mecbanické ventilace u pacientii Centrn pro kontrolu nemocí (CDC) lééenych BAT
+
+
+
+Hospitalizace
+
+
+Pobyt na JIP
+Doba od pocátku symptomu k lécbe
+2 dny
+> 2 dny
+¿ 2 dny
+> 2 dny
+Poéet pacientú (N)
+
+14
+72
+13
+70
+Prum6rná doba ve dziecb
+12.4 (9.28)
+26.1 (26.37)
+9.2 (7.40)
+15.8 (18.76)
+
+
+
+Emergent BioSo[utions
+Confidential and Proprietary
+Page 16 of 20
+
+Mechanická ventilace     2 dny           9
+> 2 dny          41
+11.6 (7.83)
+23.4 (21.11)
+
+
+15. ODKAZY
+I. Lack JA, Stuart-Taylor ME. Calculation of drug dosage and body surface area of children. Br I Anaesth. 1997; 78:601-605.
+
+16. ZPÛSOB DODÁNÙ SKLADOVÁNÍ A MANIPULACE S PÎÍÍPRAVKEM
+
+16.1 Druh obalu a obsah balení
+
+BATje dodáván ve 20 nebo 50 mililitrovÿch sklenënych lahvičkách se zátkou z butylové pryže a hliníkovÿm tësnëním s plastovÿm odklápëcím krytem, náplń lahvičky se pohybuje od 10 do 22 ml. Každá injekční lahvička, bez ohledu na velikost nebo objem plńëní, obsahuje minimální mnożství: > 4,500 U antitoxinu sérotypu A, > 3,300 U antitoxinu sérotypu B, > 3000 U antitoxinu sérotypu C, > 600 U antitoxinu sérotypu D, > 5,100 U antitoxinu sérotypu E, 3,000 U antitoxinu sérotypu F, a > 600 U antitoxinu sérotypu G. BAT není vyrábčn. s prírodním latexem.
+Národní registracní číslo  Popis produktu
+60492-0075-2      Samostatná 50 mililitrová sklenéná lahvička.
+60492-0075-3      Samostatná 20 millilitrová sklenëná lahvička.
+
+16.2. Słdadováni a zacházení s pžípravkem
+•  Uchovávejte zmrażené pri teplota S 5°F (5 -l5°C) do doby pouéití.
+•  Po rozmražení miiże bÿt BAT — Botulinovÿ sedmivalentní antitoxin (A, B, C, D, E, F, G)
+— (koñskÿ) uskladnén pFi teploté 2-8°C (36-48°F) maximální 36 mësícíi nebo 48 mêsícii od data vÿroby, podle toho co nastane dríve. Znovu nezamražujte.
+• Po otevčení použijte obsah lahvićky k píípravë infuzního vaku a podejte co nejrychleji.
+•  Lahvićky BAT jsou určené pro jednorázové užití a neobsahují konzervační látky. Nepouźité zbylé léčivo zlikvidujte.
+
+17. PORADENSTVÍ PRO PACIENTY
+Viz označení pro pacienty schválené FDA (Informace pro pacienty).
+• Podejte pacientovi následující informace:
+
+Emergent BioSolutions          Confidential and Proprietary            Page 17 of 20
+
+•  BAT je vyroben z końské plazmy a méže obsahovat infekční agens jako jsou viry,
+které mohou zpíisobit nemoc.
+•  Riziko, že tyto pfipravky pienášejí infekční agens, bylo sníženo kontrolou koní k pràkazu píedchozí expozice určitÿm viriim, testováním na pčítomnost nëkterÿch probíhajících virovÿch infekcí a inaktivací a / nebo odstranëním určitÿch virú béhem vÿroby.
+•  I pres tato opatFení, méže bÿt pčípravek potencionálnë zdrojem prenosu infekce.
+• Existuje take możnost, že prípravek obsahuje neznámé infekční agens.
+•  Informujte pacienta o tom, že osoby, které již byly v minulosti léčeny kofiskÿm protivenem/antitoxinem, mající známou alergii na konë, astma nebo sennou rÿmu (sezónní alergie) jsou ve zvÿšeném nebezpečí rizika hypersenzitivní reakce a mohou dostat BAT jen tehdy, když prínos podání preváñí jeho riziko.
+•  Informujte pacienta o možném ovlivnéni nëkterÿch typii monitoračních systémii nespecifickÿch pro glukózu.
+• Maltóza obsañená v BAT miiée ovlivñovat nëkteré typy systémã monitorujících hladinu glukozy v krvi.
+•  U pacientíi léčenych BAT je nutné pouéít pouze monitorační systémy specìfické pro glukózu.
+•  Tato interference miiže zpiisobit falešné zvÿšenou hladinu glukózy, což miiže vest k neléčení hypoglykémie nebo k neopodstatënému podání inzulinu, které mûže vyvolat život ohrožující hypoglykémii.
+
+BATT a jména a názvy značek, produktu, služeb a funkcí, loga a sloganu společnosti Emergent BioSolutions Inc. jsou ochranné znämky nebo registrované ochranné znãmky společnosti Emergent BioSolutions Inc. nebo jejích dcečinÿch společností ve Spojenÿch stźtech nebo jinÿch zemích. Všechna práve vyhrazena.
+Vyrobce:
+Emergent BioSolutions Canada Inc. 155 Innovation Drive
+Winnipeg, Manitoba Canada,
+R3T 5Y3
+Licenční číslo USA 2084
+
+
+
+
+
+
+
+Emergent BioSolutions          Confidential and Propńetary            Page 18 of 20
+
+INFORMACE PRO PACIENTY
+BAA[Botulinovÿ sedmivalentní antitoxin (A, B, C, D, E, F, G) — (koñskÿ)]
+Co je botulismus?
+Botulismus je onemocnëní, které se projevuje ochmutím svalii a je zpñsobené toxinem produkovanÿm bakterií Clostridium botulinum.
+Botulismus míiže zpiisobovat:
+• Dvojité vidëní
+• Rozmazané vidèní
+• Pokles očních víček
+• SetFelou éeć
+• Poruchy polykání
+• Suchost v ústech
+•  Šírící se svalovou slabost
+• Obtížné dychání
+Botulismus míïže zpiisobovat také ochrnutí a smrt. Obtíže se projevují od tií hodin do nëkolika dní po expozici toxinu. Zlepšení míiže trvat tÿdny až mësìce. Bëhem tohoto období mnoho pacientii‘vyžaduje nemocniční léćbu.
+Účinnost BAT byla zkoušena na studiích se zvíraty s botulismem.
+Co je BAT?
+BAT je botulinovÿ antitoxin vyrobenÿ z plazmy koní. Obsahuje protilátkové částice, které jsou schopny neutralizovat botulinovÿ toxin. BAT sniżuje závažnost nemoci. Léčba BAT nezvrátí ochrnutí, ale miïže zkrátit dobu trvání a rozsah ochmutí.
+Komu by mël bÿt BAT podán?
+Váš lékaF Vám mûže podat BAT pokud má podezíení, že jste byl/i vystaveni botulinovému toxinu.Léčbu byste méli dostat co nejrychleji, aby bylo możné zastavit rozvoj choroby.
+Pokud prínos léčby není vëtší neé její rizika, nemël byste dostávat BAT jestliže máte známou alergii na konë nebo koñské produkty, astma nebo sennou rÿmu (sezónní alergii).
+Jak Vám bude BAT podán?
+BAT se podává nitroéilnë. Dávku BAT určí Váš lékai. Podání léku méée trvat nëkolik hodin. Váš lékai rozhodne, zda-li budete potFebovat více než jednu injekci.
+
+Jaké jsou nejčastéjší možné nebo pravdépodobné vedlejší účinky BAT? Nejčastêjšími vedlejšími reakcemi po podãní BAT jsou:
+• Bolesti hlavy
+
+Emergent BioSolutions          Confidential and Proprietary            Page 19 of 20
+
+• Teplota
+•  Vyráñka
+•  Koprivka
+•  Zimnice
+•  Pocit na zvracení
+• Pocení
+Nekteií lidé mohou mít pocity chladu, potíze s dycháním a rychly vzestup télesné teploty v prébehu prvních 20 afi 60 minut po zahájeni lééby BAT. Tyto obtíée miiée vyreéit Váé lékar.
+BAT méée zpiisobit alergickou reakce. Oznamte svému lékari bez prodlení, pokud máte obtíée s dycháním, otoky jazyka nebo rtú nebo bu3ení srdce nebot’ to miiñe bit známka alergické reakce.
+Sdelte svému lékaFi, pokud máte bolesti v kloubech a zádech, teplotu a vyráñku v priibéhu jednoho do trí tJdnii od podání BAT. Mohou to byt pfíznaky “sérové nemoci” po podání BAT a trvat nékolik tJdnii. Lékar Vám méze predepsat léky ke zmírnéni obtízí zpiisobené sérovou nemocí.
+Pokud máte obavu z toho, ze u Vás doblo k rozvoji nezádoucích reakGí, sdélte to svému lékari. Miizete poéádat svého lékaFe o dodatecné souhrnné informace k lécivu, které má k dispozici.
+Jaké dalsí informace potrebujete vedet o BAT?
+BATje vyrobeno z koiiske plazmy. Kone jsou pečlive vyšetreni, plasma pečlive vyčiitčna, ale je tu male riziko pčenosu viru. Navštivte sv‹iho ldkače, pokud objevite nejak‹i priznaky, kter‹i vas znepokojuji.
+Ne2ádoucí úcinky mézete hlásit píímo spoleénosti Emergent BioSolutions Canada Inc. na éíslo 1-800-7682304 nebo systémem hláéení FDA MedWatch na adrese l-800-FDA-1088.
+BATZ a jména a nàzvy znaéek, produktu, sluéeb a funkci, loga a sloganu spoleénosti Emergent BioSolutions Inc. jsou ochranné znàmky nebo registrované ochranné znàmky spoleônosti Emergent BioSolutions Inc. nebo jejich dceiinÿch spoleénosti ve Spojenÿch stàtech nebo jinych zemich. Véechna präve vyhrazena.
+Vyrobce:
+Emergent BioSolutions Canada Inc.
+155 Innovation Drive Winnipeg, Manitoba Canada, R3T 5Y3
+Licenéní éíslo USA 2084
+
+
+
+
+
+Emergent BioSolutions          Confidential and Proprietary            Page 20 of20

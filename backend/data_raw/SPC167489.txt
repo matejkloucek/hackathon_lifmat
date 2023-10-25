@@ -1,0 +1,739 @@
+Sp. zn. sukls185318/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Zypsilan 20 mg tvrdé tobolky Zypsilan 40 mg tvrdé tobolky Zypsilan 60 mg tvrdé tobolky Zypsilan 80 mg tvrdé tobolky
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Zypsilan 20 mg:
+Jedna tvrdá tobolka obsahuje ziprasidonum 20 mg ve formě ziprasidoni hydrogenosulfas dihydricus.
+Zypsilan 40 mg:
+Jedna tvrdá tobolka obsahuje ziprasidonum 40 mg ve formě ziprasidoni hydrogenosulfas dihydricus.
+
+Zypsilan 60 mg:
+Jedna tvrdá tobolka obsahuje ziprasidonum 60 mg ve formě ziprasidoni hydrogenosulfas dihydricus.
+
+Zypsilan 80 mg:
+Jedna tvrdá tobolka obsahuje ziprasidonum 80 mg ve formě ziprasidoni hydrogenosulfas dihydricus. Pomocná látka se známým účinkem:
+20 mg     40 mg       60 mg        80 mg
+Laktosa (mg/tobolka)   57,43      114,86       172,30       229,73
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Tvrdá tobolka. Tvrdé tobolky 20 mg:
+Vrchní část tobolky je pastelově zelená, spodní část je bílá. Tobolka obsahuje narůžovělý až nahnědlý prášek.
+Tvrdé tobolky 40 mg:
+Vrchní část tobolky je tmavě zelená, spodní část je pastelově zelená. Tobolka obsahuje narůžovělý až nahnědlý prášek.
+Tvrdé tobolky 60 mg:
+Vrchní část tobolky je tmavě zelená, spodní část je bílá. Tobolka obsahuje narůžovělý až nahnědlý prášek.
+Tvrdé tobolky 80 mg:
+Vrchní část tobolky je pastelově zelená, spodní část je bílá. Tobolka obsahuje narůžovělý až nahnědlý prášek.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+
+1
+
+Ziprasidon je indikován k léčbě schizofrenie u dospělých.
+Ziprasidon je indikován k léčbě manických nebo smíšených epizod střední závažnosti u bipolární afektivní poruchy u dospělých a u dětí a dospívajících ve věku 10-17 let (prevence epizod bipolární afektivní poruchy nebyla zjišťována – viz bod 5.1).
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Dospělí
+Dávka doporučená při akutní léčbě schizofrenie a manické fáze bipolární poruchy je 40 mg dvakrát denně užívaná při jídle. Denní dávkování se poté může upravit na základě individuálního klinického stavu až do maximální dávky 80 mg dvakrát denně. V indikovaných případech lze maximální doporučené dávky dosáhnout již ve třetím dnu léčby.
+Je zvláště důležité nepřekračovat maximální dávku, neboť bezpečnostní profil dávek nad 160 mg/den nebyl potvrzen a podávání ziprasidonu je spojováno s prodloužením intervalu QT, které je závislé na dávce (viz body 4.3 a 4.4).
+Při udržovací léčbě mají pacienti se schizofrenií dostávat nejnižší účinnou dávku ziprasidonu; v mnoha případech postačuje dávka 20 mg dvakrát denně.
+
+Starší osoby
+Nižší zahajovací dávka není rutinně indikována, avšak má být zvážena u osob starších 65 let, pokud to odůvodňuje klinický stav.
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin není nutná žádná úprava dávky (viz bod 5.2).
+Porucha funkce jater
+U pacientů s poruchou funkce jater mají být zváženy nižší dávky (viz body 4.4 a 5.2).
+Pediatrická populace Bipolární mánie:
+Doporučená dávka při léčbě akutní bipolární mánie u pediatrických pacientů (ve věku 10-17 let) je jednorázová dávka 20 mg 1. den, s jídlem. Ziprasidon se poté podává ve dvou dávkách denně s jídlem a titruje se v průběhu 1-2 týdnů až na dávku 120-160 mg denně pro pacienty s hmotností ≥ 45 kg, nebo na dávku 60-80 mg denně pro pacienty s hmotností nižší než 45 kg. Další dávkování je nutné nastavit podle individuálního klinického stavu pacienta v rozmezí 80-160 mg denně pro pacienty s hmotností
+≥ 45 kg, nebo 40-80 mg denně pro pacienty s hmotností nižší než 45 kg. V klinických studiích bylo možné asymetrické dávkování, kdy ranní dávky byly o 20 mg nebo 40 mg nižší než večerní (viz body 4.4, 5.1 a 5.2).
+
+Je zvláště důležité nepřesahovat nejvyšší dávku stanovenou na základě hmotnosti, vzhledem k tomu, že bezpečnostní profil nejvyšší dávky (160 mg/den pro děti s hmotností ≥ 45 kg a 80 mg/den pro děti s hmotností < 45 kg) nebyl potvrzen a ziprasidon je spojován s prodloužením QT intervalu závislého na dávce (viz body 4.3 a 4.4).
+
+Schizofrenie:
+Bezpečnost a účinnost ziprasidonu u pediatrických pacientů se schizofrenií nebyla zjišťována (viz body 4.4 a 5.1).
+Způsob podání
+Přípravek Zypsilan se má podávat spolu s jídlem.
+
+4.3  Kontraindikace
+-   Známá hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+2
+
+-   Známé prodloužení intervalu QT.
+-   Vrozený syndrom dlouhého intervalu QT.
+-   Nedávný akutní infarkt myokardu.
+-   Nekompenzované srdeční selhání.
+-   Arytmie léčené antiarytmickými léčivými přípravky třídy IA a III.
+-   Souběžná léčba léčivými přípravky, které prodlužují interval QT, jako jsou antiarytmika třídy IA a III, oxid arsenitý, halofantrin, levacetylmethadol, mesoridazin, thioridazin, pimozid, sparfloxacin, gatifloxacin, moxifloxacin, dolasetron-mesylát, meflochin, sertindol nebo cisaprid (viz body 4.4 a 4.5).
+4.4  Zvláštní upozornění a opatření pro použití
+
+Je třeba zajistit anamnézu včetně vyhodnocení rodinné anamnézy a somatické vyšetření pro identifikaci pacientů, kterým se léčba ziprasidonem nedoporučuje (viz bod 4.3).
+Interval QT
+Ziprasidon způsobuje lehké až středně těžké na dávce závislé prodloužení intervalu QT (viz bod 4.8 a 5.1). Ziprasidon se nemá podávat spolu s léčivými přípravky, o kterých je známo, že prodlužují interval QT (viz body 4.3 a 4.5). Opatrnost se doporučuje u pacientů s těžkou bradykardií. Poruchy elektrolytů, jako je hypokalemie a hypomagnesemie, zvyšují riziko maligních arytmií a mají být před zahájením léčby ziprasidonem korigovány. Pokud se léčí pacient se stabilním srdečním onemocněním, je třeba před zahájením léčby uvážit vyšetření EKG.
+Pokud se vyskytnout srdeční symptomy, jako jsou palpitace, vertigo, synkopa nebo záchvaty, potom je třeba vzít v úvahu možnost maligní srdeční arytmie a provést vyšetření srdce včetně EKG. Pokud je interval QTc delší než 500 ms, potom se doporučuje zastavení léčby (viz bod 4.3).
+Po uvedení na trh se u pacientů s více současnými rizikovými faktory, kteří užívali ziprasidon, vzácně vyskytly torsades de pointes.
+Pediatrická populace
+Bezpečnost a účinnost ziprasidonu v léčbě schizofrenie nebyla u dětí a dospívajících stanovena (viz bod 5.1).
+Neuroleptický maligní syndrom (NMS)
+NMS je vzácný, avšak potenciálně fatální syndrom, který byl uváděn v souvislosti s podáváním antipsychotických léčivých přípravků včetně ziprasidonu. K potlačení NMS je třeba okamžitě přerušit podávání všech antipsychotických léčivých přípravků.
+Závažné kožní reakce
+Byly hlášeny lékové kožní reakce s eosinofilií a systémovými příznaky (Drug Reaction with Eosinophilia and Systemic Symptoms - DRESS syndrom) při podání ziprasidonu. DRESS syndrom se skládá z kombinace tří nebo více následujících příznaků: z kožní reakce (jako je vyrážka nebo exfoliativní dermatitida), eosinofilie, horečky, lymfadenopatie, a dále z jedné nebo více systémových komplikací, jako je hepatitida, nefritida, pneumonitida, myokarditida a perikarditida.
+Jiné závažné kožní nežádoucí reakce, jako je Stevensův-Johnsonův syndrom, byly hlášeny při podání ziprasidonu.
+Závažné kožní nežádoucí reakce bývají někdy fatální. Pokud se vyskytnou závažné kožní nežádoucí reakce, je nutné vysazení léčby ziprasidonem.
+
+Tardivní dyskineze
+Existuje možnost, že ziprasidon způsobí po dlouhodobé léčbě tardivní dyskinezi nebo jiné tardivní extrapyramidové syndromy. Pacienti s bipolární poruchou jsou zvláště náchylní, pokud jde o tuto skupinu symptomů. Dochází k nim častěji s prodlužující se léčbou a s rostoucím věkem. Pokud se vyskytnou známky a symptomy tardivní dyskineze, je třeba zvážit snížení dávky nebo přerušení podávání ziprasidonu.
+
+
+3
+
+Pády
+Ziprasidon může způsobit somnolenci, závratě, posturální hypotenzi a poruchy chůze, které mohou být příčinou pádů. Při léčbě pacientů s vyšším rizikem je třeba opatrnosti a má se zvážit nižší zahajovací dávka (např. u starších a oslabených pacientů) (viz bod 4.2).
+Záchvaty
+U pacientů s anamnézou záchvatů se doporučuje opatrnost.
+
+Porucha funkce jater
+U pacientů s těžkou poruchou funkce jater je nedostatek zkušeností a v této skupině má být ziprasidon užíván s opatrností (viz body 4.2 a 5.2).
+Zvýšené riziko cerebrovaskulárních příhod u populace s demencí
+V randomizovaných, placebem kontrolovaných klinických studiích zaměřených na populaci s demencí bylo při léčbě některými atypickými antipsychotiky pozorováno zhruba trojnásobně zvýšené riziko cerebrovaskulárních příhod. Mechanismus vzniku tohoto zvýšeného rizika není znám. Zvýšené riziko nelze vyloučit ani pro jiná antipsychotika nebo jiné populace pacientů. U pacientů s těmito rizikovými faktory pro cévní mozkové příhody se má ziprasidon užívat s opatrností.
+Zvýšená úmrtnost u starších pacientů s demencí
+Data ze dvou velkých observačních studií ukázala, že starší pacienti s demencí léčení antipsychotiky mají mírně zvýšené riziko úmrtí a/nebo možných cerebrovaskulárních příhod ve srovnání s těmi, kteří antipsychotika neužívají. Z dostupných dat však nelze spolehlivě odhadnout přesnou míru rizika, a i jeho příčina zůstává neznámá.
+Ziprasidon není určen k léčbě poruch chování způsobených demencí.
+
+Žilní tromboembolismus
+V souvislosti s užíváním antipsychotik se vyskytly případy žilního tromboembolismu (VTE). Vzhledem k tomu, že u pacientů léčených antipsychotiky jsou často přítomny získané rizikové faktory pro VTE, mají být před i během léčby přípravkem Zypsilan tyto rizikové faktory rozpoznány a následně mají být uplatněna preventivní opatření.
+Priapismus
+V souvislosti s užíváním antipsychotik včetně ziprasidonu byly hlášeny případy priapismu. Stejně jako u jiných antipsychotik se tento nežádoucí účinek nezdá být závislý na dávce a nekoreluje s délkou léčby.
+Hyperprolaktinémie
+Stejně jako u jiných léčivých přípravků, které antagonizují receptory dopaminu D2, může ziprasidon zvyšovat hladiny prolaktinu. V souvislosti s užíváním léčivých přípravků zvyšujících hladinu prolaktinu byly hlášeny poruchy jako je galaktorea, amenorea, gynekomastie a impotence. Pokud je dlouhodobá hyperprolaktinémie spojená s hypogonadismem, může dojít až k poklesu hustoty kostí.
+
+Laktosa
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktázy nebo malabsorpcí glukosy a galaktosy, nemají tento přípravek užívat.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Farmakokinetické a farmakodynamické studie interakcí mezi ziprasidonem a jinými léčivými přípravky, které prodlužují interval QT, nebyly prováděny. Aditivní účinek ziprasidonu a těchto léčivých přípravků nelze vyloučit, proto nemá být ziprasidon podáván spolu s léčivými přípravky, které prodlužují interval QT, jako jsou antiarytmika třídy IA a III, oxid arsenitý, halofantrin, levacetylmethadol, mesoridazin, thioridazin, pimozid, sparfloxacin, gatifloxacin, moxifloxacin, dolasetron-mesylát, meflochin, sertindol nebo cisaprid (viz bod 4.3).
+
+
+4
+
+Pediatrická populace
+U dětí nebyly provedeny žádné studie interakcí ziprasidonu s jinými léčivými přípravky.
+
+Léky ovlivňující CNS/alkohol
+Vzhledem k primárním účinkům ziprasidonu se vyžaduje opatrnost, pokud je užíván v kombinaci s jinými léčivými přípravky s účinkem na centrální nervovou soustavu a alkoholem.
+Účinek ziprasidonu na jiné léčivé přípravky
+In vivo studie s dextromethorfanem neprokázala významnou inhibici CYP2D6 při plazmatických koncentracích nižších o 50 %, než které byly zjištěny po podání 40 mg ziprasidonu dvakrát denně. In vitro data naznačují, že ziprasidon může být mírným inhibitorem CYP2D6 a CYP3A4. Je nicméně nepravděpodobné, že by ziprasidon klinicky významně ovlivňoval farmakokinetiku léčivých přípravků metabolizovaných izoformami cytochromu P450.
+Perorální kontraceptiva – podání ziprasidonu nemělo za následek žádné významné změny farmakokinetiky estrogenu (ethinylestradiol, substrátu CYP3A4) nebo složek progesteronu.
+Lithium - souběžné podávání lithia se ziprasidonem nemělo žádný účinek na farmakokinetiku lithia.
+
+Jelikož ziprasidon a lithium jsou spojeny se změnami přenosu nervových impulzů v srdečním svalu, může  tato  kombinace  zapříčinit  riziko  farmakodynamických  interakcí  včetně  arytmií. V kontrolovaných klinických studiích ale nevykazovala kombinace ziprasidonu s lithiem zvýšené klinické riziko, v porovnání s podáváním ziprasidonu samotného.
+O souběžné medikaci spolu se stabilizátorem nálady karbamazepinem jsou k dispozici omezené údaje.
+
+Farmakokinetická interakce ziprasidonu s valproátem není pravděpodobná z důvodu neexistující společné metabolické cesty obou přípravků. V klinické studii u pacientů se při souběžném podání ziprasidonu s valproátem ukázalo, že průměrné koncentrace valproátu jsou v terapeutickém rozmezí v porovnání s valproátem podávaným s placebem.
+
+Účinek jiných léčivých přípravků na ziprasidon
+Ketokonazol (400 mg/den), inhibitor CYP3A4, který rovněž inhibuje P-gp, zvýšil sérové koncentrace ziprasidonu o < 40 %. Sérové koncentrace S-methyl-dihydroziprasidonu a ziprasidon-sulfoxidu byly při očekávaném Tmax ziprasidonu zvýšeny o 55 % resp. o 8 %. Další prodloužení QTc nebylo pozorováno. Změny ve farmakokinetice v důsledku souběžného podání se silnými inhibitory CYP3A4 se nezdají být klinicky významné, není proto vyžadována úprava dávky. Údaje in vitro a ze studií na zvířatech naznačují, že ziprasidon může být substrátem P-glykoproteinu (P-gp). In vivo relevance pro člověka není známa. Vzhledem k tomu, že ziprasidon je substrát CYP3A4 a indukce CYP3A4 a P-gp je propojená, může souběžné podání s induktory CYP3A4 a P-gp, jako je karbamazepin, rifampicin nebo třezalka tečkovaná, způsobit snížení plazmatických koncentrací ziprasidonu.
+
+Léčba karbamazepinem v dávce 200 mg dvakrát denně po dobu 21 dnů způsobovala snížení hladiny ziprasidonu přibližně o 35 %.
+Antacida – opakované dávky antacid obsahujících hliník a hořčík nebo cimetidin neměly klinicky významný účinek na farmakokinetiku ziprasidonu u nasycených pacientů.
+
+Serotonergní léčivé přípravky
+Objevily se jednotlivé případy serotoninového syndromu, časově spojených s užíváním ziprasidonu v kombinaci s jinými serotonergními léčivými přípravky, jako jsou SSRI (viz bod 4.8). Příznaky serotoninového syndromu mohou zahrnovat zmatenost, agitovanost, horečku, pocení, ataxii, hyperreflexii, myoklonus a průjem.
+Vazba na bílkoviny
+
+
+5
+
+Ziprasidon se silně váže na plazmatické proteiny. Vazba ziprasidonu na plazmatické proteiny in vitro nebyla ovlivněna ani warfarinem ani propranololem, což jsou 2 léky silně se vázající na plazmatické proteiny, ani ziprasidon neovlivňoval vazbu těchto léků v plazmě u člověka. Proto je potenciál lékových interakcí se ziprasidonem z důvodu vytěsnění nepravděpodobný.
+
+4.6  Fertilita, těhotenství a kojení
+
+Studie reprodukční toxicity ukázaly nežádoucí účinky na reprodukční proces při dávkách spojených s toxicitou pro matku a/nebo se sedativními účinky. Nebyl nalezen žádný důkaz teratogenity (viz bod 5.3).
+
+Těhotenství
+U těhotných žen nebyly provedeny žádné studie. Jelikož je zkušenost u lidí omezená, nedoporučuje se užívání ziprasidonu během těhotenství, pokud očekávaný přínos pro matku nepřeváží nad potenciálním rizikem pro plod.
+
+Antipsychotika jako skupina
+U novorozenců, kteří byli během třetího trimestru těhotenství vystaveni vlivu antipsychotik (včetně ziprasidonu), existuje riziko nežádoucích účinků včetně extrapyramidových příznaků a/nebo příznaků z vysazení. Tyto příznaky se mohou lišit v délce trvání i v závažnosti. Byly hlášeny případy agitovanosti, hypertonie, hypotonie, tremoru, somnolence, respirační tísně nebo poruch příjmu potravy. Proto mají být novorozenci pečlivě monitorováni. Přípravek Zypsilan nemá být užíván během těhotenství, pokud to není nezbytně nutné. Jestliže je nutné lék během těhotenství vysadit, nesmí se tak učinit náhle.
+
+Kojení
+Nebyly provedeny žádné adekvátní a dobře kontrolované studie u kojících žen. V ojedinělých případech bylo zjištěno, že ziprasidon je detekovatelný v mateřském mléce. Pacientkám dostávajícím ziprasidon se nedoporučuje kojit. Je-li léčba nezbytná, je třeba kojení ukončit.
+
+Fertilita
+Nebyly provedeny žádné adekvátní a dobře kontrolované studie u žen a mužů užívajících ziprasidon.
+
+Antikoncepce – ženám ve fertilním věku, které užívají ziprasidon, se doporučuje používat vhodnou metodu antikoncepce.
+4.7  Účinky na schopnosti řídit a obsluhovat stroje
+
+Ziprasidon může způsobit somnolenci a může ovlivnit schopnost řídit vozidla a obsluhovat stroje. Pacienti, u kterých lze předpokládat, že budou řídit vozidla nebo obsluhovat stroje, mají být náležitým způsobem poučeni.
+
+4.8  Nežádoucí účinky
+Perorálně podaný ziprasidon byl užit v klinických studiích s přibližně 6500 dospělými subjekty (viz bod 5.1). Nejčastějšími nežádoucími účinky ve studiích schizofrenie byly insomnie, somnolence, bolest hlavy a agitovanost. Ve studiích bipolární afektivní poruchy byly nejčastějšími nežádoucími účinky sedace, bolest hlavy a somnolence.
+
+Tabulka uvedená níže obsahuje nežádoucí účinky vyplývající z kontrolovaných studií schizofrenie a bipolární afektivní poruchy.
+
+Všechny nežádoucí účinky jsou tříděny podle třídy a frekvence (velmi časté (≥ 1/10), časté (≥ 1/100 až
+< 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit)).
+
+
+6
+
+Níže uvedené nežádoucí účinky mohou být rovněž spojeny se základním onemocněním a/nebo souběžně užívanými léky.
+
+
+Třída orgánových systémů
+
+
+
+
+Poruchy imunitního systému Infekce a infestace Poruchy krve a lymfatického systému Endokrinní poruchy Poruchy metabolismu a výživy Psychiatrické poruchy
+
+
+
+
+Poruchy nervového systému
+
+
+
+
+
+
+
+
+
+
+
+Poruchy oka
+
+
+Poruchy ucha a labyrintu Srdeční poruchy
+Cévní poruchy
+Velmi časté
+≥ 1/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insomnie
+
+
+
+
+
+Somnolenc e, bolest hlavy
+Časté
+≥ 1/100 až
+< 1/10
+
+
+
+
+
+
+
+Rinitida
+
+
+
+
+
+
+
+
+
+Mánie, agitovanost, úzkost, neklid
+
+
+
+Dystonie, extrapyramido vé poruchy, parkinsonismu s, tardivní diskineze, diskineze, hypertonie, akatizie, třes, závratě, sedace
+
+
+
+Rozmazané vidění, porucha vidění
+
+
+Tachykardie Hypertenze
+Méně časté
+≥ 1/1 000 až
+< 1/100
+
+
+
+
+Hypersenzitivita
+
+
+
+
+
+
+
+Hyperprolaktine mie
+Zvýšená chuť k jídlu
+
+Panická ataka, noční můry, nervozita, depresivní syndrom, snížení libida
+Synkopa, záchvat grand mal, ataxie, akineze, syndrom neklidných nohou, porucha chůze, slintání, parestezie, hypestezie, dysartrie, porucha pozornosti, hypersomnie, letargie Okulogyrická krize, fotofobie, suché oko Vertigo, tinitus, bolest ucha Palpitace
+Hypertenzní krize, ortostatická hypotenze, hypotenze
+Vzácné
+≥ 1/10 000 až
+< 1/1 000
+
+
+
+
+Anafylaktická reakce
+
+
+
+Lymfopenie, zvýšený počet eozinofilů
+
+
+Hypokalcemie
+
+
+Hypománie, bradyfrenie, anorgasmie, oploštění
+
+
+Neuroleptický maligní syndrom, serotoninový syndrom, pokles obličejových svalů, paréza
+
+
+
+
+
+
+
+
+Amblyopie, svědění oka
+
+
+
+Torsades de pointes Systolická hypertenze, diastolická hypertenze, nestabilní krevní tlak
+Frekvenc e není známa (z dostupný ch údajů nelze
+určit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Žilní embolizac e
+
+7
+
+Třída orgánových systémů
+
+
+
+
+Respirační, hrudní a mediastinální poruchy Gastrointestiná lní poruchy
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Poruchy ledvin a močových cest
+Stavy spojené s těhotenstvím, šestinedělím a perinatálním obdobím Poruchy reprodukčního systému a prsu
+
+Celkové poruchy a reakce v místě aplikace
+Velmi časté
+≥ 1/10
+Časté
+≥ 1/100 až
+< 1/10
+
+
+
+
+
+
+
+
+Zvracení, průjem, nauzea, zácpa, hypersekrece slin, sucho v ústech, dyspepsie Vyrážka
+
+
+
+
+
+
+
+
+
+
+
+
+Svalová ztuhlost
+
+
+
+
+
+
+
+
+
+
+
+
+Sexuální dysfunkce u mužů
+
+Horečka, bolest, astenie, únava
+Méně časté
+≥ 1/1 000 až
+< 1/100
+
+
+
+
+Stažení hrdla, dušnost, orofaryngeální bolest Dysfagie, gastritida,
+gastroesofageální reflux, břišní dyskomfort, porucha jazyka, flatulence Kopřivka, makulopapulózní vyrážka, akné, alopecie
+
+
+
+
+
+
+
+
+Tortikolis, svalové spazmy, bolest končetin, muskuloskeletáln í dyskomfort, ztuhlost kloubů Močová inkontinence, dysurie
+
+
+
+
+
+Galaktorea, gynekomastie, amenorea
+
+Dyskomfort v oblasti hrudníku, žízeň
+Vzácné
+≥ 1/10 000 až
+< 1/1 000
+
+
+
+
+Laryngospasmus, škytavka
+
+
+Řídká stolice
+
+
+
+
+
+
+Léková reakce s eozinofilií a systémovými příznaky (DRESS syndrom), psoriáza, angioedém, alergická dermatitida, otok obličeje, erytém, papulózní vyrážka, podráždění kůže Trismus
+
+
+
+
+
+Močová retence, enuréza
+
+Příznaky z vysazení u novorozenců
+
+
+Priapismus, zvýšená erekce, erektilní dysfunkce Pocit horka
+Frekvenc e není známa (z dostupný ch údajů nelze
+určit)
+
+
+
+
+8
+
+Třída orgánových systémů
+
+
+
+
+Vyšetření
+Velmi časté
+≥ 1/10
+Časté
+≥ 1/100 až
+< 1/10
+
+
+
+
+Snížení tělesné hmotnosti, zvýšení tělesné hmotnosti
+Méně časté
+≥ 1/1 000 až
+< 1/100
+
+
+
+
+Prodloužení QT na EKG, změna testů funkce jater
+Vzácné
+≥ 1/10 000 až
+< 1/1 000
+
+
+
+
+Zvýšení sérové laktátdegydrogená zy
+Frekvenc e není známa (z dostupný ch údajů nelze
+určit)
+
+V krátkodobých a dlouhodobých klinických studiích se ziprasidonem zaměřených na schizofrenii a bipolární mánii se tonicko-klonické záchvaty a hypotenze vyskytovaly méně často, u méně než 1 % pacientů léčených ziprasidonem.
+Ziprasidon způsobuje lehké až středně těžké prodloužení intervalu QT v závislosti na dávce (viz bod 5.1). V klinických studiích zaměřených na schizofrenii byl pozorován vzrůst o 30 až 60 ms u 12,3 % (976/7 941) záznamů EKG pacientů léčených ziprasidonem a u 7,5 % (73/975) záznamů EKG pacientů léčených placebem. Prodloužení o > 60 ms bylo pozorováno u 1,6 % 128/7 941) a 1,2 % (12/975) záznamů u pacientů léčených ziprasidonem respektive placebem. Výskyt prodloužení intervalu QTc nad 500 ms byl u 3 z celkem 3266 (0,1 %) pacientů léčených ziprasidonem a u 1 z celkem 538 (0,2 %) pacientů léčených placebem. Srovnatelné nálezy byly pozorovány v klinických studiích zaměřených na bipolární mánii.
+
+Při klinických studiích dlouhodobé udržovací léčby schizofrenie byly hladiny prolaktinu u pacientů léčených ziprasidonem občas zvýšeny, avšak u většiny pacientů se vrátily k normálním rozmezím bez přerušení léčby. Navíc byly potenciální klinické projevy (například gynekomastie a zvětšení prsů) vzácné.
+Pediatrická populace a dospívající s bipolární mánií a dospívající se schizofrenií
+V placebem kontrolované studii s bipolární afektivní poruchou u pacientů ve věku 10-17 let byly nejčastější nežádoucí účinky (hlášené s četností vyšší než 10 %) sedace, somnolence, bolest hlavy, únava, nauzea a závrať. V placebem kontrolované studii se schizofrenií u pacientů ve věku 13-17 let byly nejčastější nežádoucí účinky (hlášené s četností vyšší než 10 %) somnolence a extrapyramidové poruchy. Četnost, typ a závažnost nežádoucích účinků u těchto subjektů byly obecně podobné těm hlášeným u dospělých léčených ziprasidonem s bipolární afektivní poruchou nebo schizofrenií.
+
+Ziprasidon byl spojován s podobným lehkým až středně těžkým prodloužením QT intervalu závislým na dávce v pediatrických studiích s bipolární poruchou a schizofrenií jako ve studiích s dospělými pacienty. Tonicko-klonické záchvaty a hypotenze nebyly v placebem kontrolovaných pediatrických studiích s bipolární poruchou hlášeny.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+
+9
+
+Zkušenosti s předávkováním, ziprasidonem jsou omezené. Největší potvrzené jednotlivé požití ziprasidonu je 12 800 mg. V tomto případě byly hlášeny extrapyramidové symptomy a délka intervalu QTc 446 ms (bez následků na srdci). Obecně se po předávkování nejčastěji uvádějí extrapyramidové symptomy, somnolence, tremor a úzkost.
+Možnost otupělosti, záchvatů nebo dystonické reakce hlavy a krku po předávkování může vést k riziku aspirace při vyvolaném zvracení. Má se ihned zahájit kardiovaskulární sledování včetně nepřetržitého sledování EKG pro detekci možných arytmií. Neexistuje žádné specifické antidotum proti ziprasidonu.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Antipsychotika, deriváty indolu, ATC kód: N05AE04. Mechanismus účinku
+Ziprasidon vykazuje vysokou afinitu k dopaminovým receptorům typu 2 (D2) a podstatně vyšší afinitu k serotoninovým receptorům, typu 2A  (5HT2A). Blokáda receptorů byla 12 hodin po podání jednorázové dávky 40 mg vyšší než 80 % pro serotoninové receptory typu 2A a vyšší než 50 % pro receptory D2 podle výsledků pozitronové emisní tomografie (PET). Ziprasidon rovněž interaguje se serotoninovými receptory 5HT2C, 5HT1D a 5HT1A, kde afinity pro tato místa jsou stejné nebo vyšší než afinita  pro  D2  receptor.  Ziprasidon  vykazuje  střední  afinitu  k neuronovým  serotoninovým a norepinefrinovým transportérům. Ziprasidon vykazuje střední afinitu k histaminovým H (1) a alfa (1) receptorům. Ziprasidon vykazuje nepatrnou aktivitu k muskarinovým M (1) receptorům.
+
+Ukázalo se, že ziprasidon je antagonistou pro serotoninové receptory typu 2A (5HT2A) a dopaminové receptory typu 2 (D2). Uvažuje se, že terapeutická aktivita je částečně zprostředkována touto kombinací antagonistických aktivit. Ziprasidon je rovněž vysoce účinným antagonistou receptorů 5HT2C  a 5HT1D, vysoce účinným antagonistou receptoru 5HT1A  a inhibuje neuronové zpětné vychytávání norepinefrinu a serotoninu.
+
+Klinická účinnost a bezpečnost
+Schizofrenie
+Ve studii trvající 52 týdnů byl ziprasidon účinný při udržování klinického zlepšení během pokračující terapie u pacientů, kteří vykazovali počáteční odpověď na léčbu: nebyl zde jasný důkaz vztahu dávka- odpověď mezi jednotlivými skupinami pacientů užívajících ziprasidon. V této studii, která zahrnovala pacienty s pozitivními i negativními symptomy, byla účinnost ziprasidonu prokázána jak pro pozitivní, tak pro negativní symptomy.
+Výskyt přírůstku tělesné hmotnosti hlášený jako nepříznivý účinek v krátkodobých (4 až 6 týdnů) studiích schizofrenie byl nízký, a to stejně u pacientů léčených ziprasidonem i placebem (v obou skupinách 0,4 %). V jednoleté studii kontrolované placebem byl pozorován medián úbytku hmotnosti 1 až 3 kg u pacientů léčených ziprasidonem a 3 kg u pacientů léčených placebem.
+
+Ve dvojitě slepé komparativní studii schizofrenie byly měřeny metabolické parametry včetně hmotnosti a hladin insulinu, celkového cholesterolu a triacylglycerolů a indexu insulinové resistence (IR) na lačno. U pacientů dostávajících ziprasidon nenastaly žádné významné změny kteréhokoliv z těchto metabolických parametrů oproti výchozím hodnotám.
+
+Výsledky rozsáhlé poregistrační studie bezpečnosti
+Cílem randomizované poregistrační studie s 18 239 pacienty trpícími schizofrenií, s navazujícím jednoletým obdobím sledování, bylo zjistit, zda je účinek ziprasidonu na QT interval spojen se zvýšeným rizikem úmrtnosti (bez sebevražd). Tato studie, probíhající v podmínkách přirozené klinické praxe, neprokázala rozdíl v četnosti celkové mortality (bez sebevražd) mezi léčbou ziprasidonem a olanzapinem (primární cíl). Tato studie rovněž neprokázala rozdíl v sekundárních cílech úmrtnosti ze všech příčin, úmrtnosti v důsledku sebevraždy, úmrtnosti v důsledku náhlého
+
+10
+
+úmrtí; ve skupině léčené ziprasidonem však byla pozorována nevýznamná, numericky vyšší četnost kardiovaskulární mortality. Ve skupině léčené ziprasidonem byla také pozorována statisticky významně vyšší  četnost hospitalizace ze  všech příčin,  především kvůli  rozdílům  v počtu psychiatrických hospitalizací.
+
+Manická fáze bipolární poruchy
+Účinnost ziprasidonu při mánii u dospělých byla zjišťována ve dvou placebem kontrolovaných, dvojitě slepých třítýdenních studiích, ve kterých se srovnával ziprasidon s placebem, a v jedné dvojitě slepé dvanáctitýdenní studii srovnávající ziprasidon s haloperidolem a placebem. Tyto studie zahrnovaly zhruba 850 pacientů splňujících kritéria DSM-IV pro bipolární poruchu I s akutní manickou nebo smíšenou epizodou, s psychotickými znaky nebo bez nich. Výchozí přítomnost psychotických znaků v těchto studiích byla 49,7 %, 34,7 % nebo 34,9 %. Účinnost byla hodnocena s použitím stupnice Mania Rating Scale (MRS). Stupnice Clinical Global Impression-Severity (CGI-S) byla buď současně použitou primární,  nebo  klíčovou  sekundární  proměnnou  účinnosti  v těchto studiích.  Léčba ziprasidonem (40 až 80 mg 2x denně, střední denní dávka 120 mg), vedla ke statisticky významně vyššímu zlepšení skóre MRS i CGI-S při poslední návštěvě (3 týdny) ve srovnání s placebem. V uvedené 12týdenní studii léčba haloperidolem (střední denní dávka 16 mg) poskytla významně vyšší snížení skóre MRS ve srovnání se ziprasidonem (střední denní dávka 121 mg). Ziprasidon vykazoval účinnost srovnatelnou s haloperidolem ve smyslu podílu pacientů zachovávajících odpověď na léčbu od týdne 3 do týdne 12.
+
+Pediatrická populace
+Účinnost ziprasidonu v léčbě bipolární poruchy I u pediatrických pacientů (10-17 let) byla hodnocena ve 4týdenní studii kontrolované placebem (n=237) s hospitalizovanými i ambulantními pacienty, kteří splnili DSM-IV kritéria bipolární poruchy I s manickými nebo smíšenými epizodami s psychotickými projevy nebo bez nich a měli výchozí Y-MRS skóre ≥ 17. Tato dvojitě slepá, placebem kontrolovaná studie porovnávala flexibilně dávkovaný perorální ziprasidon (80-160 mg/den (40-80 mg 2x denně) rozdělený do 2 dávek u pacientů s hmotností ≥ 45 kg; 40-80 mg/den (20-40 mg 2x denně) u pacientů s hmotností < 45 kg) s placebem. Ziprasidon byl podáván jako jednorázová dávka 20 mg první den, potom byl titrován během 1-2 týdnů ve 2 denních dávkách až na dávku 120-160 mg/den u pacientů s hmotností ≥ 45 kg nebo 60-80 mg/den u pacientů s hmotností < 45 kg. Bylo umožněno asymetrické dávkování s ranní dávkou o 20 mg nebo 40 mg nižší než večerní. Ziprasidon byl lepší než placebo u změny celkového Y-MRS skóre ve 4. týdnu oproti výchozím hodnotám. V této klinické studii byla průměrná podaná dávka 119 mg u pacientů s hmotností ≥ 45 kg a 69 mg u pacientů s hmotností
+< 45 kg.
+
+Bipolární mánie
+Bezpečnost ziprasidonu byla hodnocena u 237 pediatrických pacientů (10-17 let), kteří se zúčastnili klinické studie bipolární mánie s více dávkami; celkem 31 pediatrických pacientů s bipolární poruchou I dostávali perorální ziprasidon po dobu nejméně 180 dnů.
+
+Ve 4týdenní studii s pediatrickými pacienty (10-17 let) s bipolární mánií nebyly mezi pacienty užívajícími ziprasidon a placebo zaznamenány rozdíly v průměrné změně tělesné hmotnosti, glykémie nalačno, celkového cholesterolu, LDL cholesterolu nebo hladiny triacylglycerolů oproti výchozím hodnotám.
+
+Neexistují dlouhodobé dvojitě slepé klinické studie vyhodnocující účinnost a toleranci ziprasidonu u dětí a dospívajících.
+Neexistují žádné dlouhodobé klinické studie zkoumající účinnost ziprasidonu při prevenci opakování manických/depresivních symptomů.
+
+Schizofrenie
+Pediatrický program pro schizofrenii zahrnoval krátkodobou 6týdenní placebem kontrolovanou studii následovanou prodlouženou 26týdenní otevřenou studií, které měly za cíl sledovat účinnost, bezpečnost a toleranci perorálně podávaného ziprasidonu (40-80 mg 2x denně s jídlem), a to během
+
+11
+
+dlouhodobého podávání dospívajícím pacientům ve věku 13 až 17 let (včetně) s diagnózou schizofrenie.  Pediatrická studie  ziprasidonu  při léčbě  schizofrenie  byla ukončena  z důvodu nedostatečné účinnost (viz bod 4.2).
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Po perorálním podání opakovaných dávek ziprasidonu s jídlem se maximální koncentrace v krevním séru obvykle objevují 6 až 8 hodin po podání. Absolutní biologická dostupnost dávky 20 mg je v sytém stavu 60 %. Farmakokinetické studie prokázaly, že se biologická dostupnost ziprasidonu zvyšuje až o 100 % přítomností potravy. Proto se doporučuje užívat ziprasidon s jídlem.
+Distribuce
+Distribuční objem je zhruba 1,1 litru/kg. Více než 99 % ziprasidonu je vázáno na proteiny v krevním séru.
+Biotransformace a eliminace
+Střední terminální poločas ziprasidonu je přibližně 6,6 hodin po perorálním podání. Rovnovážného stavu je dosaženo během 1-3 dnů. Střední clearance ziprasidonu podaného nitrožilně je 5 ml/min/kg. Přibližně 20 % podané dávky je vylučováno močí a cca 66 % je vylučováno stolicí.
+Ziprasidon v případě terapeutického dávkovacího rozmezí 40-80 mg 2x denně u nasycených jedinců vykazuje lineární kinetiku.
+Po perorálním podání je ziprasidon extenzivně metabolizován a jen velmi malé množství je vylučováno močí (< 1 %) nebo stolicí (< 4 %) v nezměněné podobě. Ziprasidon je primárně vylučován 3 metabolickými cestami, z nichž se pak v séru vyskytují jeho 4 hlavní metabolity: benzisothiazol piperazin (BITP) sulfoxid, BITP sulfon, ziprasidon sulfoxid a S-methyl-dihydroziprasidon. Ziprasidon v nezměněné podobě představuje v séru zhruba 44 % z celkového množství látek souvisejících s lékem.
+Ziprasidon je primárně metabolizován 2 cestami: redukcí a metylací za vzniku S-methyl- dihydroziprasidonu, což představuje přibližně 2/3 metabolizmu, a oxidativním metabolizmem, což představuje zbývající 1/3. In vitro studie za použití lidských jaterních buněk naznačují, že S-methyl- dihydroziprasidon vzniká ve dvou krocích. Z těchto studií vyplývá, že první krok je zprostředkován primárně chemickou redukcí glutathionem a souběžně enzymatickou redukcí aldehydoxidázou. Druhým krokem je metylace zprostředkovaná thiol-methyl-transferázou. In vitro studie naznačují, že hlavním cytochromem P450 katalyzujícím oxidativní metabolizmus ziprasidonu je CYP3A4, s potenciálním malým přispěním CYP1A2.
+Ziprasidon, S-methyl-dihydroziprasidon a ziprasidon-sulfoxid vykazovaly během testování in vitro společné  vlastnosti,  které  mohou  mít  za  následek  prodloužení  QTc  intervalu.  S-methyl- dihydroziprasidon je většinou vylučován stolicí pomocí biliární exkrece s menším příspěvkem metabolismu katalyzovaného CYP3A4. Ziprasidon-sulfoxid je vylučován ledvinami a sekundárně metabolizován katalyzací přes CYP3A4.
+
+Zvláštní populace
+Farmakokinetický screening pacientů neukázal žádné významné farmakokinetické rozdíly mezi kuřáky a nekuřáky.
+Nebyly pozorovány žádné významné rozdíly farmakokinetiky ziprasidonu vzhledem k věku nebo pohlaví. Farmakokinetika ziprasidonu u pediatrických pacientů ve věku 10-17 let byla podobná té u dospělých, po korekci rozdílů v tělesné hmotnosti.
+Konzistentně se skutečností, že renální clearance přispívá k celkové clearance velice málo, nebyly zaznamenány žádné progresivní vzrůsty expozice ziprasidonu při podávání ziprasidonu osobám s různými stupni renální funkce. Expozice u osob s lehkou (clearance kreatininu 30 až 60 ml/min), středně těžkou (clearance kreatininu 10 až 29 ml/min) a těžkou poruchou funkce ledvin (vyžadující dialýzu) byly 146 %, 87 % a 75 % hodnot zjištěných u zdravých osob (clearance kreatininu
+> 70 ml/min) po perorálním podání 20 mg dvakrát denně po dobu 7 dnů. Není známo, zda u těchto pacientů stoupají koncentrace metabolitů v krevním séru.
+
+
+12
+
+Při lehkém až středně těžkém zhoršení jaterní funkce (klasifikace Child Pugh A nebo B) způsobeném cirhózou byly koncentrace v krevním séru po perorálním podání o 30 % vyšší a terminální poločas byl zhruba o 2 hodiny delší než u normálních pacientů. Vliv poruchy funkce jater na koncentrace metabolitů v krevním séru není znám.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, genotoxicity a karcinogenního potenciálu neodhalily žádné zvláštní riziko pro člověka. V reprodukčních studiích u potkanů a králíků neprokazoval ziprasidon žádnou teratogenitu. Při dávkách toxických pro matku, které se projevily poklesem tělesné hmotnosti, byly pozorovány nežádoucí účinky na fertilitu a snížení tělesné hmotnosti mláďat. Při koncentracích v krevní plazmě matky extrapolovaným k hodnotám podobným maximálním koncentracím při podávání terapeutických dávek u lidí se vyskytla zvýšená perinatální mortalita a opožděný funkční vývoj potomstva.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Jádro tobolky:
+Monohydrát laktosy Předbobtnalý škrob (kukuřičný) Povidon K-25
+Magnesium-stearát
+
+Obal tobolky:
+Oxid titaničitý (E171) Želatina Indigokarmín (E132)
+Žlutý oxid železitý (E172)
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+5 let
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 30 °C.
+Uchovávejte v původním obalu, aby byl přípravek chráněn před vlhkostí.
+
+6.5  Druh obalu a obsah balení
+
+PVC/PVDC-Al blistr: 14, 20, 28, 30, 50, 56, 60, 90 a 100 tvrdých tobolek v krabičce. Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Žádné zvláštní požadavky.
+
+
+
+13
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovinsko
+
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+Zypsilan 20 mg : 68/127/09-C Zypsilan 40 mg : 68/128/09-C Zypsilan 60 mg : 68/129/09-C Zypsilan 80 mg : 68/130/09-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 4. 2. 2009
+Datum posledního prodloužení registrace: 19. 6. 2013
+
+10.  DATUM REVIZE TEXTU
+
+26. 10. 2020
+
+Podrobné informace o tomto léčivém přípravku jsou k dispozici na webových stránkách Státního ústavu pro kontrolu léčiv (www.sukl.cz).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

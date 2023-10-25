@@ -12,6 +12,7 @@ from backend.apis.hello_api import hello_api
 from backend.apis.drugs_api import drugs_api
 from backend.apis.medicine_api import medicine_api
 from backend.apis.active_ingredient_api import active_ingredient_api
+from backend.apis.chat_api import chat_api
 
 app_config = dotenv_values(".env")
 
@@ -77,7 +78,8 @@ def setup_db(flask_app):
 
             # get medicine name
             full_name_list = data['nazev_pripravku'].split()
-            medicine_name = full_name_list[0]
+            medicine_name = full_name_list[0].lower().capitalize()\
+                .replace(',', '')
             assert medicine_name != ""
             if medicine_name in parsed_medicine_names:
                 # todo: better this
@@ -184,6 +186,7 @@ def add_namespaces(api: Api):
     api.add_namespace(drugs_api)
     api.add_namespace(medicine_api)
     api.add_namespace(active_ingredient_api)
+    api.add_namespace(chat_api)
 
 
 app = create_app()

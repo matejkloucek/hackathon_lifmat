@@ -1,0 +1,186 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+1. NÁZEV PŘÍPRAVKU
+FOMEPIZOLE SERB 5mg/ml. Koncentrát pro přípravu infuzního roztoku.
+2.KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ.
+l ml obsahuje fomepizolsulfát 8 mg (odpovídá fomepizol 5 mg).
+Jedna ampule s 20 ml obsahuje fomepizolsulfát 160 mg, odpovídá fomepizol 100 mg. Další složky se známým účinkem:
+Jedna ampule s 20 ml obsahuje 2,4 mmol natria.
+3. APLIKAČNÍ FORMA
+Koncentrát k přípravě infuzního roztoku FOMEPIZOLE SERB je čirý a bezbarvý roztok
+4.KLINICKÉ ÚDAJE
+4.1.indikační oblast.
+FOMEPIZOLE SERB J je antidotum, které se používá k terapii akutní intoxikace etylenglykolem.
+4.2. Dávkování, způsob a délka aplikace.
+Dávkování:
+U každého podezření na možnost intoxikace etylenglykolem. Po požití toxické látky i při nepřítomnosti příznaků intoxikace je nutno začít s terapií tak rychle, jak je možné.
+V případě, že není k dispozici hladina etylenglykolu, řídíme se následujícími kritérii:
+-  anamnéza pacienta
+-  osmolální gap ≥ 20 mOsm/kg H2O
+metabolická acidóza s aniontovým gapem > 16,mmol/l (za přítomnosti vysoké hladiny glykolu)
+-  oxaláty v moči
+Po přijetí pacienta by měla být stanovena plazmatická hladina etylenglykolu, čekání na
+výsledek ale nesmí být příčinou odkladu zahájení terapie. Plazmatická hladina etylenglykolu má být kontrolována po 12–14 hodinách.
+
+Dávkování by mělo být v závislosti na plazmatické koncentraci etylenglykolu a renálních funkcích upraveno takto:
+
+Aplikace u pacientů s normálními renálními funkcemi nebo mírnou až střední renální
+insuficiencí (sérový kreatinin v mezích 100-265 umol/l), která nevyžaduje hemodialýzu:
+
+Terapie má být aplikována v pomalé intravenózní infuzi po dobu 30 až 45 minut. Infuze má být zahájena úvodní dávkou 15 mg/kg a opakována v časových intervalech 12 hodin až do poklesu plazmatických koncentrací etylenglykolu na hodnotu pod 0,2 g/l (3,2 mmol/l).
+Dávkování Fomepizolu (mg/kg t,hm)
+Úvodní dávka   2.dávka     3.dávka     4.dávka     5.dávka     6.dávka (po 12 hod.)   (po 24 hod.)   (po 36 hod.)  (po 48 hod.)  (po 60hod.)
+15          10         10       10       7,5 – 15      5–15
+Počet následných dávek a dávky po 48 hodinách jsou závislé na úvodní dávce a na dynamice plazmatických koncentrací etylenglykolu během terapie.
+Obecně u výchozích plazmatických koncentrací etylenglykolu mezi 3 – 6 g/l (48 – 96 mmol/l) se doporučuje 4 – 6 následných dávek. Pro výchozí hodnoty 0,35 – 1,5 g/l (5,6 – 24 mmol/l) se
+doporučuje 1–3 dávky.
+Podání pacientům se závažnou poruchou funkce ledvin (sérový kreatinin > 265 umol/l (3 mg/dl):
+Při terapii fomepizolem je nutná hemodialýza.
+Úvodní dávka 15 mg/kg bude kapat 30-45 minut. Na ni naváže kontinuální infuze (1 ml/kg/hod. Fomepizol) po celou dobu průběhu hemodialýzy.
+Dávkování fomepizolu v průběhu veno-venózní hemofiltrace, stejně jako jiných metod extrakorporální eliminace není známo.
+Hemodialýza a podání fomepizolhemisulfátu by mělo být ukončeno, když metabolická acidóza dále nepokračuje a plazmatická koncentrace etylenglykolu klesla pod 0,2 g/l (3,2 mmol/l).
+
+
+Hemodialýza má být zahájena také tehdy, když se během terapie fomepizolem objeví aspoň jeden z následujících parametrů:
+-  pH (arteriální krev) < 7,10
+pokles pH arteriální krve > 0,05 v rozmezí pH, které navzdory infuzi bikarbonátu leží mimo normální rozmezí.
+-  nemožnost udržet pH arteriální krve > 7,30 i přes infuzi bikarbonátu.
+-  Pokles sérové koncentrace bikarbonátu o více než 5 ml/l navzdory terapii bikarbonátem
+-  vzestup sérového kreatininu na více než 90 umol/l (1 mg/dl).
+
+Podání starším pacientům:
+Klinické zkušenosti se staršími pacienty jsou omezené. Terapie musí být přizpůsobena renálním funkcím (viz výše).
+Děti a mladiství:
+Nejsou žádné údaje o farmakokinetických vlastnostech fomepizolu u dětí. Klinické zkušenosti jsou jen omezené a zakládají se na analogických, na tělesné hmotnosti závislých dávkách.
+
+Podání pacientům s omezenou funkcí jater:
+Nejsou žádné klinické údaje.
+
+
+
+Způsob aplikace:
+FOMEPIZOLE SERB 5mg/ml, koncentrát k přípravě infuzního roztoku je nutné před
+použitím zředit (viz i odstavec 6.6.). Zředěný roztok má být aplikován v pomalé intravenózní infuzi.
+
+4.3. Kontraindikace:
+Přecitlivělost na účinnou látku a další pyrazoly nebo na některou v odstavci 6.1. jmenovanou složku.
+
+4.4. Zvláštní upozornění a preventivní opatření pro aplikaci:
+Zahájená terapie otravy etylenglykolem pomocí ethanolu nevylučuje použití Fomepizolu. Avšak kombinace ethanolu a fomepizolu se zpravidla nedoporučuje. (viz odstavec 4.5)
+.
+U  některých  pacientů  je  možno  pozorovat  lehčí  alergické  reakce  (kožní  vyrážka, hypereosinofilie). Pokud se tyto symptomy objeví, musí být pacient pečlivě sledován...
+
+U těžkých příznaků alergické reakce (angioedém, bronchospasmus, anafylaktický šok), pokud není  jiná  možná  příčina,  musí  být  podávání  fomepizolu  přerušeno.  Opatření  jsou symptomatická. Má následovat podání ethanolu a je třeba zvážit hemodialýzu.
+
+Intoxikace etylenglykolem vede v těžkých případech k metabolické acidóze (aniontový gap nad 16 mmol/l), křečím a kómatu a k renální insuficienci.
+
+Terapie otravy etylenglykolem má za cíl zabránit tvorbě toxických metabolitů etylenglykolu, jakož i ke korekci metabolické acidózy, dále dosáhnout dostatečné hydratace (orálně nebo i.v., pokud je nutné) aby se předešlo nebezpečí dehydratace a hypernatrémie, dále pak urychlená eliminace etylenglykolu močí a pokud je to nezbytné, i odstranění toxických metabolitů pomocí hemodialýzy.
+Klinická monitorace pacienta zahrnuje pravidelné kontroly plazmatických koncentrací etylenglykolu, krevních plynů, pH krve, elektrolytů, sérového kreatininu, vyšetření moči včetně oxalátů.
+Doporučuje se kontrola jaterních transamináz a krevního obrazu za měsíc po terapii. U preexistující jaterní insuficience jsou nutné časté kontroly transamináz.
+
+FOMEPIZOL SERB 5 mg/l koncentrát pro přípravu infuzního roztoku se nesmí aplikovat nezředěný. Zředěný roztok se nesmí podat jako bolusová injekce.
+Tento léčebný přípravek obsahuje natrium 55 mg (2,4 mmol) v 1 ampuli, což odpovídá 2,8 % maximálního denního, příjmu natria v potravě pro dospělého podle doporučení WO. U
+pacientů, kteří musí dodržovat dietu s kontrolou natria, se doporučuje použít k naředění roztok glukózy (viz odstavec 6.6.).
+
+4.5. Interakce s jinými léčivy a další interakce
+
+Kombinace s ethanolem: Současné podání alkoholu a fomepizolu snižuje eliminační potenci obou substancí. Ačkoli klinický účinek fomepizolu se nezdá být omezen, pro jistotu se současné podání fomepizolu a alkoholu nedoporučuje (viz odstavec 4.4.)
+
+4.6.Fertilita, těhotenství a kojení:
+Těhotenství:
+O použití fomepizolu u těhotných nejsou žádné klinické údaje. Experimentální studie na zvířatech ukazují na reprodukční toxicitu (viz odstavec 5.3). Potenciální riziko pro člověka není známo. Fomepizol smí být aplikován během těhotenství jen tehdy, když je to bezpodmínečně nutné.
+
+Kojení:
+Nejsou žádné informace, zda fomepizol přechází do mateřského mléka. Po dobu terapie fomepizolem se doporučuje kojení přerušit.
+
+Fertilita:
+Neproběhly žádné studie týkající se fertility.
+
+4.7 Vliv na schopnost řízení motorových vozidel a obsluhu strojů:
+V této souvislosti je nutno upozornit na riziko omámenosti nebo závratí v průběhu terapie.
+V prvních dnech po ukončení terapie by pacienti neměli řídit motorová vozidla ani obsluhovat stroje.
+
+4.8 Nežádoucí účinky
+
+Orgánové systémy             velmi časté           časté
+≥ 1/10)          ( ≥ 1/100 < 1/10)
+
+Nemoci krve a lymfatického systému                  eosinofilie, anémie
+Psychiatrická onemocnění                        úzkost, stavy neklidu Onemocnění nervového systému      omámenost         vertigo, konvulze,
+bolest hlavy        nystagmus, poruchy řeči
+Oční onemocnění                             poruchy zraku
+Kardiální poruchy                            tachykardie, bradykardie
+Cévní poruchy                              vzestup krevního tlaku
+GIT                                   nauzea, zvracení, průjem,
+dyspepsie, škytavka
+
+Onemocnění jater a žlučníku                          zvýšení transamináz
+Kůže a podkoží                                  svědění, vyrážka
+
+
+Kosterní svaly a pojivo                        zvýšené hodnoty kreatinfosfokinázy
+
+
+Jiná onemocnění a potíže v místě aplikace         bolesti v místě vpichu, zánět v místě vpichu
+
+4.9.: Předávkování:
+U zdravých dobrovolníků po dávce 50 -100 mg/kg byla pozorována omámenost, pocit opilosti, nauzea, závrať, nystagmus a poruchy řeči.
+Vzhledem k tomu, že fomepizol je dialyzovatelný, měla by se při závažném předávkování zvážit hemodialýza.
+5.: FARMAKOLOGICKÉ VLASTNOSTI
+5.1.: Farmakodynamické vlastnosti:
+Farmakoterapeutická skupina: antidotum, kód V03AB34
+Fomepizol je kompetitivní inhibitor alkoholdehydrogenázy (ADH). ADH katalyzuje první krok odbourávání  etylenglykolu  v játrech.  Terapie  fomepizolem  blokuje  tvorbu  toxických metabolitů etylenglykolu a vede k prodloužení jeho plazmatického eliminačního poločasu. Etylenglykol tak může být vyloučen ledvinami v nezměněné formě, čímž indukuje osmotickou polyurii.
+Spontánní plazmatický eliminační poločas etylenglykolu 4 hodiny se působením Fomepizolu prodlužuje na 10–16 hodin.
+Účinnost fomepizolu v léčbě intoxikací etylenglykolem byla prokázána na základě iniciálních dávek 20 mg/kg, popřípadě 50 mg/kg u psů a opic.
+U zdravých dobrovolníků byla farmakologická účinnost fomepizolu prokázána nepřímo důkazem metabolické interakce s etanolem, který je rovněž metabolizován ADH. Orální nebo intravenózní dávky fomepizolu 7–20 mg/kg/den dají považovat za účinné.
+
+
+5.1.: Farmakokinetické vlastnosti:
+Distribuční objem fomepizolu je kolem 0,7 l/kg.
+Pro dávky mezi 7 až 20 mg/kg není kinetika eliminace lineární a má charakter nasycenosti. Opakovaná dávka fomepizolu indukuje nezávislý metabolismus.
+Fomepizol se v organismu skoro úplně metabolizuje. Nejdůležitější produkt jeho odbourávání je
+4-karboxypyrazol. Ten in vitro nemá blokující účinek na aktivitu lidské ADH. Enzymy
+odpovědné za odbourávání fomepizolu nejsou známy. V preklinických studiích fomepizol prokázal jak inhibiční, tak i indukční schopnosti na aktivitu izoenzymů CYP450.
+Porovnatelné studie na lidech nebyly provedeny, takže nemohou být určeny žádné údaje o ovlivnění kinetiky jiných léků, které jsou rovněž metabolizovány CYP450.
+Fomepizol a produkty jeho odbourávání se vylučují hlavně ledvinami. Jen 2-3% podaného množství fomepizolu se vylučuje močí v nezměněné formě. Fomepizol je dialyzovatelný. Koeficient extrakce je kolem 0,75 a rychlost vylučování mezi 0,41 a 1,15 mg/kg/h.
+
+5.3. Preklinické údaje vztahující se k bezpečnosti
+Ve studiích na zvířatech vztahujících se k toxicitě nebyly shledány žádné důkazy specifické toxicity. Fomepizolhemisuolfát nevykazuje žádné známky mutagenních nebo klastogenních změn.
+Karcinogenní potenciál a reprodukční toxicita fomepizolu nebyly dosud vyšetřeny.
+Konvenční studie se zřetelem na reprodukční toxicitu provedeny nebyly. Avšak z literatury je známo, že fomepizol podávaný intraperitoneálně myším (mg/kg/den) 11.den březosti v dávce odpovídající 6,5násobku úvodní dávky, vyvolal efekty embryotoxické (zvýšená fetální resorpce) i teratogenní (zvýšený počet deformací předních končetin).
+6. FARMACEUTICKÉ ÚDAJE
+6.1.: Seznam pomocných látek
+Chlorid sodný, aqua pro injectione
+6.2 Inkompatibility
+Tento léčebný přípravek se nesmí mísit s jinými přípravky, kromě těch, které jsou uvedeny v odstavci číslo 6.6.
+6.3 Doba použitelnosti
+3 roky
+Po naředění: (viz odstavec 6.4.) 24 hodin
+6.4. Zvláštní opatření pro uchovávání
+Chraňte před mrazem.
+Po naředění (viz odstavec 6.6.) byla prokázána chemická a fyzikální stabilita připraveného roztoku po dobu 24 hodin při teplotě 25°C. Z mikrobiologického hlediska by připravený roztok měl být použit bez prodlení. Pokud není okamžitě použit, má za dobu a podmínky uchovávání odpovědnost uživatel. Za normálních okolností by připravený roztok neměl být uchováván déle než 24 hodin při teplotě 25°C, s výjimkou situace, že by jeho příprava proběhla za kontrolovaných a validizovaných aseptických podmínek.
+6.5. Druh obalu a obsah balení
+Balení s 5 ampulemi (bezbarvé sklo typ I) po 20 ml.
+6.6. Zvláštní opatření pro likvidaci přípravku a zacházení s ním
+Smí být používány jen čiré a bezbarvé roztoky bez viditelných částic.
+Určeno jen pro jednorázové použití. Nespotřebované roztoky se musí být zlikvidovány.
+FOMEPIZOLE SERB 5 ml, koncentrát pro přípravu infuzního roztoku, musí být před použitím naředěn. Příprava infuzního roztoku musí probíhat za aseptických podmínek.
+Koncentrát musí být naředěn 0,9% roztokem NaCl nebo 5% roztokem glukózy pro intravenózní aplikaci.
+
+Pacienti s normální funkcí ledvin:
+Každá jednotlivá dávka se naředí 100–250 ml jednoho z výše uvedených roztoků a nechá se kapat v časovém rozmezí 30-45 minut, jak je popsáno v odstavci 4.2.
+Pacienti se sníženou funkcí ledvin:
+Pro aplikaci fomepizolu v kontinuální infuzi u dialyzovaných pacientů má být koncentrát
+naředěn nižším objemem výše uvedených roztoků tak, aby nedošlo k objemovému přetížení.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+SERB S.A.
+Avenue Louise 480
+1050 Brussel Belgie
+8. REGISTRAČNÍ ČÍSLO
+52450.00.00
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum udělení registrace: 20.únor 2002
+Datum posledního prodloužení registrace: 21. září 2010
+10. DATUM REVIZE TEXTU
+05/2019

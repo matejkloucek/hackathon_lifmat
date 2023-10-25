@@ -1,0 +1,865 @@
+Sp. zn. sukls260447/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Ceftazidim MIP 1 g prášek pro injekční/infuzní roztok (IM/IV)
+Ceftazidim MIP 2 g prášek pro injekční/infuzní roztok (IV)
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Ceftazidim MIP 1 g: jedna injekční lahvička obsahuje ceftazidimum 1 g (jako ceftazidimum pentahydricum). Ceftazidim MIP 2 g: jedna injekční lahvička obsahuje ceftazidimum 2 g (jako ceftazidimum pentahydricum).
+
+Pomocná látka se známým účinkem:
+Ceftazidim MIP 1 g: uhličitan sodný, odpovídá asi 52 mg sodíku v jedné injekční lahvičce
+Ceftazidim MIP 2 g: uhličitan sodný, odpovídá asi 104 mg sodíku v jedné injekční lahvičce Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+Ceftazidim MIP 1 g: Prášek pro injekční/infuzní roztok (IM/IV) Ceftazidim MIP 2 g: Prášek pro injekční/infuzní roztok (IV) Bílý nebo světle žlutý prášek
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Přípravek Ceftazidim MIP je indikován k léčbě níže uvedených infekčních onemocnění u dospělých i dětí
+včetně novorozenců (tj. od narození).
+
+- Nozokomiální pneumonie
+- Bronchopulmonální infekce u cystické fibrózy
+- Bakteriální meningitida
+- Chronický hnisavý zánět středouší (otitis media suppurativa chronica)
+- Maligní zánět zevního zvukovodu (otitis externa maligna)
+- Komplikované infekce močových cest
+- Kompikované infekce kůže a měkkých tkání
+- Komplikované intraabdominální infekce
+- Infekce kostí a kloubů
+- Peritonitida související s dialýzou u pacientů na kontinuální ambulantní peritoneální dialýze (CAPD)
+Léčba pacientů s bakteriemií, která se objeví v souvislosti s jakoukoli z infekcí zmíněných výše, nebo u které
+je podezření, že souvisí s jakoukoli z těchto infekcí.
+
+Ceftazidim lze u pacientů s neutropenií použít k léčbě horečky, pokud je podezření, že je způsobená bakteriální infekcí.
+Ceftazidim lze použít v peroperační profylaxi infekcí močových cest u pacientů podstupujících transuretrální
+resekci prostaty (TURP).
+
+Při výběru ceftazidimu je třeba vzít v úvahu jeho antibakteriální spektrum, které je omezeno převážně na
+aerobní gramnegativní bakterie (viz body 4.4 a 5.1).
+Ceftazidim je třeba vždy, kdy by možné spektrum bakterií, které způsobují dané onemocnění, nespadalo do
+
+jeho spektra účinnosti, podávat společně s dalšími antibakteriálními přípravky.
+
+Je třeba věnovat pozornost standardizovaným doporučením léčby (oficiálním pokynům), týkajících se
+vhodného užívání antibiotických přípravků.
+
+4.2  Dávkování a způsob podání Dávkování
+Tabulka 1: Dospělí a děti ≥ 40 kg
+
+
+Intermitentní podávání
+Infekce
+Bronchopulmonální infekce u cystické fibrózy
+
+Febrilní neutropenie Nozokomiální pneumonie Bakteriální meningitida Bakteriemie*
+Infekce kostí a kloubů
+Komplikované infekce kůže a měkkých tkání Komplikované intraabdominální infekce Peritonitida související s dialýzou u pacientů na CAPD
+Komplikované infekce močových cest Peroperační profylaxe u transuretrální resekce prostaty (TURP)
+Chronický hnisavý zánět středouší Otitis externa maligna Kontinuální infuze
+Infekce
+Febrilní neutropenie Nozokomiální pneumonie
+Bronchopulmonální infekce u cystické fibrózy Bakteriální meningitida
+Bakteriemie*
+Infekce kostí a kloubů
+Komplikované infekce kůže a měkkých tkání Komplikované intraabdominální infekce Peritonitida souvsející s dialýzou u pacientů na CAPD
+
+Dávka, kterou je třeba aplikovat
+100 až 150 mg/kg/den každých 8 hodin; maximální
+dávka 9 g/den¹
+2 g každých 8 hodin
+
+
+
+1-2 g každých 8 hodin
+
+
+
+
+1-2 g každých 8 nebo 12 hodin
+1 g při úvodu do anestezie a druhá dávka při odstranění katetru
+1 g až 2 g každých 8 hodin
+
+
+Dávka, kterou je třeba aplikovat
+Nasycovací dávka 2 g následovaná kontinuální infuzí s dávkou 4 až 6 g každých 24 hodin¹
+¹  U dospělých pacientů s normálními renálními funkcemi byla použita dávka 9 g/den bez nežádoucích účinků.
+* Souvisí-li s jakoukoli z infekcí shrnutých v bodě 4.1, nebo je-li podezření, že může mít souvislost s jakoukoli z těchto infekcí.
+
+Tabulka 2: Děti < 40 kg
+
+
+Kojenci a batolata > 2 měsíce a děti < 40 kg
+Intermitentní podávání
+Infekce                Obvyklá dávka
+
+Komplikované infekce močových
+cest
+Chronický hnisavý zánět středouší
+Otitis externa maligna
+Děti s neutropenií
+100-150 mg/kg/den ve třech rozdělených dávkách, maximální dávka 6 g/den
+
+150 mg/kg/den ve třech
+
+
+
+
+
+
+
+
+
+
+
+
+Kontinuální infuze
+
+
+
+
+
+
+
+
+
+
+
+
+
+Novorozenci a kojenci ≤ 2 měsíce
+Intermitentní podávání
+Bronchopulmonální infekce u cystické fibrózy
+Bakteriální meningitida
+Bakteriemie*
+Infekce kostí a kloubů Komplikované infekce kůže a měkkých tkání
+Komplikované intraabdominální
+infekce
+Peritonitida související s dialýzou u pacientů na CAPD
+
+Febrilní neutropenie Nozokomiální pneumonie Bronchopulmonální infekce u cystické fibrózy
+Bakteriální meningitida
+Bakteriemie*
+Infekce kloubů a kostí Komplikované infekce kůže a měkkých tkání
+Komplikované intraabdominální
+infekce
+Peritonitida související s dialýzou u pacientů na CAPD
+Infekce
+rozdělených dávkách; maximální dávka 6 g/den
+
+
+100-150 mg/kg/den ve třech rozdělených dávkách, maximální dávka 6 g/den
+
+
+
+
+
+Nasycovací dávka 60-100 mg/kg, poté  infuze  s  dávkou  100- 200 mg/kg/den, maximální dávka 6 g/den
+
+
+
+
+
+
+
+
+
+Obvyklá dávka
+Většina infekcí            25-60  mg/kg/den  ve  dvou
+rozdělených dávkách¹
+¹  U novorozenců a kojenců ≤ 2 měsíce může být sérový poločas ceftazidimu 3-4násobně delší než u dospělých pacientů.
+* Souvisí-li s jakoukoli z infekcí shrnutých v bodě 4.1, nebo je-li podezření, že může mít souvislost s jakoukoli z těchto infekcí.
+
+Pediatrická populace
+Bezpečnost a účinnost přípravku ceftazidim podávaného ve formě kontinuální infuze novorozencům a kojencům ≤ 2 měsíců nebyla zatím stanovena.
+
+Starší pacienti
+Vzhledem k tomu, že u starších pacientů dochází v souvislosti s věkem ke snížení clearance ceftazidimu,
+nemá jeho denní dávka u pacientů starších 80 let obvykle přesáhnout 3 g.
+
+Porucha funkce jater
+Dostupné údaje neukazují na nutnost úpravy dávky u pacientů s lehkou až středně těžkou poruchou funkce jater. U pacientů s těžkou poruchou funkce jater nejsou k dispozici žádné studijní údaje (viz rovněž bod 5.2). Doporučuje se pečlivé klinické sledování bezpečnosti a účinnosti.
+Porucha funkce ledvin
+Ceftazidim se vylučuje v nezměněné formě ledvinami. Proto je třeba u pacientů s poruchou funkce ledvin
+dávkování snížit (viz rovněž bod 4.4).
+
+Je třeba podat nasycovací dávku 1 g. Udržovací dávka má být založena na clearance kreatininu:
+
+Tabulka 3: Doporučené udržovací dávky přípravku Ceftazidim MIP u pacientů s poruchou funkce ledvin – intermitentní infuze
+
+Dospělí a děti ≥ 40 kg
+
+
+Clearance kreatininu (ml/min)
+
+50-31
+30-16
+15-6
+< 5
+Přibližná hodnota kreatininu v séru µmol/l (mg/dl) 150-200 (1,7-2,3)
+200-350 (2,3-4,0)
+350-500 (4,0-5,6)
+> 500 (> 5,6)
+Doporučená jednotlivá dávka ceftazidimu (g)
+
+1
+1
+0,5
+0,5
+Frekvence dávkování (hodinový interval)
+
+12
+24
+24
+48
+
+U pacientů s těžkou infekcí je třeba zvýšit jednotlivou dávku o 50 % nebo je potřeba zvýšit frekvenci
+dávkování.
+U dětí je třeba clearance kreatininu upravit podle tělesného povrchu nebo ideální tělesné hmotnosti (LBM, lean body mass).
+Děti < 40 kg
+
+
+Clearance kreatininu (ml/min)**
+
+50-31
+30-16
+15-6
+< 5
+Přibližná hodnota kreatininu v séru* µmol/l (mg/dl) 150-200 (1,7-2,3)
+200-350 (2,3-4,0)
+350-500 (4,0-5,6)
+> 500 (> 5,6)
+Doporučená jednotlivá dávka v mg/kg tělesné hmotnosti
+25
+25
+12.5
+12,5
+Frekvence dávkování (hodinový interval)
+
+12
+24
+24
+48
+* Hodnoty kreatininu v séru jsou pomocné hodnoty, které nemusí vždy určovat přesně stejný stupeň snížení funkce u všech pacientů se sníženou funkcí ledvin.
+** Odhadnutá na základě tělesného povrchu nebo naměřená.
+
+Doporučuje se pečlivé klinické sledování bezpečnosti a účinnosti.
+Tabulka 4: Doporučené udržovací dávky přípravku Ceftazidim MIP u poruchy renálních funkcí – kontinuální
+infuze
+
+Dospělí a děti ≥ 40 kg
+
+
+Clearance kreatininu (ml/min)
+
+50-31
+
+30-16
+
+≤ 15
+Přibližná hodnota kreatininu v
+séru µmol/l (mg/dl)
+150-200 (1,7-2,3)
+
+200-350 (2,3-4,0)
+
+> 350 (> 4,0)
+Frekvence dávkování (hodinový
+interval)
+Nasycovací dávka 2 g následovaná
+1 g až 3 g/24 hodin Nasycovací dávka 2 g následovaná
+1 g/24 hodin Nebylo hodnoceno
+Výběru dávky je třeba věnovat pozornost. Doporučuje se pečlivé klinické sledování bezpečnosti a účinnosti.
+
+Děti < 40 kg
+
+Bezpečnost a účinnost přípravku ceftazidim podávaného ve formě kontinuální infuze dětem s poruchou funkce ledvin a s hmotností < 40 kg nebyla zatím stanovena. Doporučuje se pečlivé klinické sledování bezpečnosti a účinnosti.
+Pokud se dětem s poruchou funkce ledvin podává kontinuální infuze, je třeba clearance kreatininu upravit podle tělesného povrchu nebo ideální tělesné hmotnosti (lean body mass).
+
+Haemodialýza
+Sérový poločas se během hemodialýzy pohybuje v rozmezí 3 až 5 hodin.
+
+Po každé hemodialýze je třeba znovu podat udržovací dávku ceftazidimu, jak je doporučeno v tabulce níže.
+
+Peritoneální dialýza
+Ceftazidim lze použít u pacientů na peritoneální dialýze a na kontinuální ambulantní peritoneální dialýze
+(CAPD).
+Kromě intravenózního podání může být ceftazidim přidán i přímo do dialyzačního roztoku (obvykle 125 až
+250 mg do 2 litrů dialyzačního roztoku).
+
+Pacienti s renálním selháním na kontinuální arterio-venózní hemodialýze nebo vysokoprůtokové (high-flux) hemofiltraci na jednotkách intenzivní péče: 1 g buď jako jednotlivá dávka nebo v rozdělených dávkách. Při nízkoprůtokové (low-flux) hemofiltraci je třeba postupovat podle doporučení pro poruchu funkce ledvin.
+U pacientů na veno-venózní hemofiltraci a veno-venózní hemodialýze se postupuje podle doporučeného dávkování v tabulce níže.
+Tabulka 5: Doporučené dávkování u kontinuální veno-venózní hemofiltrace
+
+Reziduální renální        Udržovací dávka (mg) pro rychlost ultrafiltrace (ml/min)¹:
+
+funkce (clearance       5
+kreatininu v ml/min)
+16,7
+33,3         50
+
+0          250
+5          250
+10          250
+15          250
+20          500
+250
+250
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+750
+750
+750
+¹ Udržovací dávku je třeba podávat každých 12 hodin
+
+Tabulka 6: Pokyny pro dávkování u kontinuální veno-venózní hemodialýzy
+
+Reziduální renální      Udržovací dávka (mg) při rychlosti přítoku dialyzátu (ml/min)¹:
+
+funkce (clearance kreatininu v
+1,0 litru/h
+Rychlost ultrafiltrace (litr/h)
+2,0 litru/h
+Rychlost ultrafiltrace (litry/h)
+
+ml/min)
+0
+5
+10
+15
+20
+0,5
+500
+500
+500
+500
+750
+1,0
+500
+500
+500
+750
+750
+2,0
+500
+750
+750
+750
+1000
+0,5
+500
+500
+500
+750
+750
+1,0
+500
+500
+750
+750
+750
+2,0
+750
+750
+1000
+1000
+1000
+¹ Udržovací dávku je třeba podávat každých 12 hodin.
+
+Způsob podání
+Přípravek Ceftazidim MIP se podává intravenózně (injekčním bolusem nebo infuzí), nebo hlubokou intramuskulární injekcí. Doporučená místa pro intramuskulární aplikaci jsou zevní horní kvadrant m.glutei maximi nebo laterální část stehna. Přípravek Ceftazidim MIP se může podávat přímo do žíly nebo prostřednictvím kanyly intravenózní linky, pokud pacient dostává parenterální roztoky.
+
+Standardní doporučený způsob podání je pomocí intravenózní intermitentní injekce nebo kontinuální infuze. Intramuskulární podání je třeba zvážit pouze v případě, kdy intravenózní cesta není možná nebo je pro pacienta méně vhodná.
+Dávka závisí na závažnosti, citlivosti, místě a typu infekce a na věku a renálních funkcích pacienta.
+
+Návod k rekonstituci tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku, na kterýkoli jiný cefalosporin nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Přípravek Ceftazidim MIP je kontraindikován u pacientů se známou těžkou hypersenzitivitou (např. anafylaktickou  reakcí)  na  kterékoli  beta-laktamové  antibiotikum  (penicilin,  monobaktamy  nebo karbapenemy).
+
+4.4  Zvláštní upozornění a opatření pro použití
+Hypersenzitivní reakce
+Stejně jako u všech beta-laktamových antibiotik byly zaznamenány závažné a občas fatální hypersenzitivní reakce. Pokud dojde k těžkým hypersenzitivním reakcím, je nutné léčbu ceftazidimem okamžitě přerušit a zahájit příslušná lékařská opatření.
+Před zahájením terapie přípravkem Ceftazidim MIP je nutné potvrdit, zda pacient v minulosti neprodělal těžkou hypersenzitivní reakci na ceftazidim, jiná cefalosporinová antibiotika nebo na jakákoli beta-laktamová antibiotika. Pacientům s anamnézou méně závažné hypersenzitivní reakce na jiná beta-laktamová antibiotika je nutné věnovat zvláštní pozornost.
+
+Spektrum antibakteriální aktivity
+Ceftazidim má omezené spektrum antibakteriální aktivity. V monoterapii není vhodný k léčbě některých typů infekcí, pokud již není prokázaný patogen a není známo, že je citlivý, nebo pokud není silné podezření, že nejpravděpodobnější patogen nebo patogeny by byly vhodné k léčbě ceftazidimem. To se týká zvláště rozvahy u léčby pacientů s bakteriemií a léčby bakteriální meningitidy, infekcí kůže a měkkých tkání nebo infekcí kostí a kloubů. Ceftazidim je navíc citlivý k hydrolýze určitými širokospektrými beta-laktamázami (ESBL, extended spectrum beta lactamases). Proto když vybíráme k léčbě ceftazidim, je třeba vzít v úvahu informace o prevalenci mikroorganismů produkujících ESBL.
+Pseudomembranózní kolitida
+Kolitida související s užíváním antibiotik nebo pseudomembranózní kolitida byla zaznamenána téměř u všech antibakteriálních přípravků, včetně ceftazidimu. Jejich závažnost se může pohybovat od mírných forem až k formám život ohrožujícím. Proto je důležité zvážit tuto diagnózu u všech pacientů, u kterých se v průběhu léčby ceftazidimem nebo následně po jejím ukončení objeví průjem (viz bod 4.8). Je třeba zvážit přerušení léčby ceftazidimem a podání specifické léčby Clostridium difficile. Nesmí se podávat léčivé přípravky, které inhibují peristaltiku.
+Funkce ledvin
+Současná léčba vysokými dávkami cefalosporinů a nefrotoxickými léčivými přípravky, jako jsou aminoglykosidy nebo silná diuretika (např. furosemid), může nepříznivě ovlivnit renální funkce.
+Ceftazimid je vylučován ledvinami, a proto je třeba podle stupně poruchy funkce ledvin snížit jeho dávku. Pacienty s poruchou funkce ledvin je třeba pečlivě monitorovat s ohledem na bezpečnost i účinnost. Pokud nebyly u pacientů s poruchou funkce ledvin dávky sníženy, byly občas zaznamenány neurologické následky (viz body 4.2 a 4.8).
+
+Přerůstání necitlivých organismů
+Protrahovaná léčba může vést k přerůstání necitlivých mikroorganismů (např. enterokoků a plísní), které vyžaduje přerušení léčby nebo další vhodná opatření. Je nezbytné opakované hodnocení zdravotního stavu pacienta.
+
+Interference s laboratorními testy
+Při užívání ceftazidimu nejsou ovlivněny testy na glykosurii založené na enzymatické bazi, ale může se objevit slabá interference (falešná pozitivita) s testy založenými na redukci mědi (Benedictův test, Fehlingův test, Clinitest).
+
+Užívání ceftazidimu nemá vliv na metodu stanovení kreatininu využívající alkalický pikrát.
+
+Pozitivní výsledek Coombsova testu při užívání ceftazidimu u asi 5% pacientů může interferovat s křížovým krevním testem.
+Obsah sodíku
+Důležité informace o složkách přípravku Ceftazidim MIP:
+Přípravek Ceftazidim MIP 1 g obsahuje asi 52 mg sodíku v jedné lahvičce, což odpovídá 2,6 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Přípravek Ceftazidim MIP 2 g obsahuje asi 104 mg sodíku v jedné lahvičce, což odpovídá 5,2 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Toto je třeba vzít v úvahu u pacientů na dietě s řízeným příjmem sodíku.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Studie interakcí byly provedeny pouze s probenecidem a furosemidem.
+
+Souběžná aplikace vysokých dávek nefrotoxických léčivých přípravků může nepříznivě ovlivnit renální
+funkce (viz bod 4.4).
+Chloramfenikol prokázal in vitro antagonistický účinek k ceftazidimu a dalším cefalosporinům. Klinický význam tohoto zjištění není znám, avšak plánuje-li se souběžná aplikace ceftazidimu s chloramfenikolem, je nutné vzít možnost antagonistického působení v úvahu.
+4.6  Fertilita, těhotenství a kojení Těhotenství
+O užívání ceftazidimu u těhotných žen jsou k dispozici pouze omezené údaje. Studie na zvířatech nenaznačují přímé ani nepřímé škodlivé účinky na těhotenství, embryonální/fetální vývoj, porod ani postanatální vývoj (viz bod 5.3).
+
+Přípravek Ceftazidim MIP je možné předepsat těhotným ženám pouze pokud přínos léčby převyšuje možné riziko.
+Kojení
+Ceftazidim se v malém množství vylučuje do mateřského mléka. Neočekává se však, že by v terapeutických dávkách ovlivňoval kojené dítě. Ceftazidim je možné používat během kojení.
+
+Fertilita
+Źádné údaje nejsou k dispozici.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit a obsluhovat stroje nebyly provedeny. Mohou se však objevit nežádoucí účinky (např. závrať), které mohou schopnost řídit a obsluhovat stroje ovlivnit (viz bod 4.8).
+
+4.8  Nežádoucí účinky
+
+Nejčastějsími nežádoucími účinky jsou eozinofilie, trombocytóza, flebitida nebo tromboflebitida při intravenózním podání, průjem, přechodné zvýšení jaterních enzymů, makulopapulární vyrážka nebo kopřivka, bolest a/nebo zánět po intramuskulární injekci a pozitivní výsledek Coombsova testu.
+
+K určení frekvence častých a méně častých nežádoucích účinků byly použity údaje ze sponzorovaných i
+nesponzorovaných klinických studií. Frekvence všech dalších nežádoucích účinků byly stanoveny převážně
+
+pomocí údajů z hlášení po uvedení přípravku na trh a ukazují spíše na vyšší počet hlášení, než na skutečnou frekvenci jejich výskytu. V každé skupině četností jsou nežádoucí účinky řazeny podle jejich klesající závažnosti. Pro klasifikaci frekvence byla použita následující úmluva:
+
+Velmi časté (≥ 1/10)
+Ćasté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až < 1/100) Vzácné (≥ 1/10 000 až < 1/1 000) Velmi vzácné (< 1/10 000)
+Není známo (z dostupných údajů nelze stanovit)
+
+
+Třída orgánového
+systému
+Infekce a infestace
+
+
+Poruchy krve a lymfatického systému
+
+Poruchy imunitního systému
+
+
+Poruchy nervového systému
+
+Cévní poruchy
+
+
+
+Gastrointestinální
+poruchy
+
+
+
+
+Poruchy jater a
+žlučových cest
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+
+
+
+Poruchy ledvin a močových cest
+Časté
+
+
+
+
+Eosinofilie Trombocytóza
+
+
+
+
+
+
+
+
+
+Flebitida nebo tromboflebitida při intravenózním podání
+Průjem
+
+
+
+
+
+Přechodné elevace jednoho nebo vice jaterních enzymů³ Makulopapulární vyrážka nebo kopřivka
+Méně časté
+
+Kandidóza (včetně vaginitidy a orální kandidózy) Neutropenie Leukopenie Trombocytopenie
+
+
+
+
+
+Bolest hlavy
+Závrať
+
+
+
+
+
+Průjem a kolitida související s léčbou antibiotiky² (viz bod 4.4)
+Bolest břicha Nauzea Zvracení
+
+
+
+Pruritus
+
+
+
+
+
+
+
+
+
+
+
+
+Přechodné zvýšení urey v krvi, dusíku močoviny v krvi a/nebo sérového
+Velmi vzácné
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intersticiální nefritida Akutní renální selhání
+Není známo
+
+
+
+
+Agranulocytóza Hemolytická anemie Lymfocytóza Anafylaxe (včetně bronchospazmu a/nebo hypotenze) (viz bod 4.4) Neurologické klinické následky¹ Parestezie
+
+
+
+
+Poruchy chuti
+
+
+
+
+
+Žloutenka
+
+
+Toxická epidermální nekrolýza
+Stevens-Johnsonův syndrom
+Erythema multiforme Angioneurotický edém
+Léková reakce s eozinofilií a systémovými příznaky (DRESS)⁴
+
+
+Celkové poruchy a reakce v místě aplikace
+
+Vyšetření
+
+Bolest a/nebo zánět po intramuskulárním podání
+Pozitivní
+Coombsův test⁵
+kreatininu
+Horečka
+¹  U pacientů se zhoršenou funkcí ledvin, u kterých nebyla dávka přípravku ceftazidim vhodně snížena, byly hlášeny neurologické následky zahrnující tremor, myoklonus, křeče, encefalopatii a kóma.
+²  Průjem a kolitida mohou souviset s Clostridium difficile a mohou se projevovat jako psudomembranózní kolitida.
+³ ALT, AST, LDH, GMT, alkalická fosfatáza.
+⁴ Vzácně se vyskytla hlášení, kde byl DRESS syndrom spojován s ceftazidimem.
+⁵  Pozitivní výsledek Coombsova testu se objevil asi u 5 % pacientů a může interferovat s křížovým krevním
+testem.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+
+Předávkování může vést k neurologickým následkům zahrnujícím encefalopatii, konvulze a kóma.
+
+Příznaky předávkování se mohou objevit u pacientů s poruchou funkce ledvin, kterým nebyla vhodně snížena dávka přípravku ceftazidim (viz body 4.2 a 4.4).
+
+Sérové hladiny ceftazidimu lze snížit hemodialýzou nebo peritoneální dialýzou.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antibakteriální léčiva pro systémovou aplikaci. Cefalosporiny třetí generace ATC kód: J01DD02
+Mechanismus účinku
+Ceftazidim inhibuje syntézu stěny bakteriální buňky po navázání na protein vázající penicilin (PBP, penicillin binding protein). Výsledkem je přerušení biosyntézy buněčné stěny (peptidoglykan), což vede k rozkladu bakteriální buňky a usmrcení bakterie.
+Vztah FK/FD
+U cefalosporinů bylo prokázáno, že nejdůležitějším farmakokineticko-farmakodynamickým indexem, který koreluje s in vivo účinností, je procento dávkového intervalu, při kterém koncentrace nevázaného ceftazidimu zůstává nad minimální inhibiční koncentrací (MIC) pro jednotlivé cílové druhy (tj. % T>MIC).
+Mechanismus rezistence
+Bakteriální rezistence vůči ceftazidimu může být způsobena jedním nebo více z následujících mechanismů:
+-  hydrolýza  beta-laktamázami.  Ceftazidim  může  být  účinně  hydrolyzován  širokospektrými  beta- laktamázami (ESBL), včetně SHV skupiny ESBL, a chromozomálně kódovanými enzymy (AmpC), které mohou být indukovány nebo trvale aktivovány u některých aerobních gramnegativních bakteriálních kmenů
+
+- snížení afinity ceftazidimu k proteinům vázajícímu penicilin (PBP)
+-  nepropustnost vnější membrány, které zabrání přístupu ceftazidimu k PBP v gramnegativních mikoorganismech
+- bakteriální efluxní transmembránová pumpa
+
+Hraniční hodnoty pro rozlišování citlivosti a rezistence
+Hraniční hodnoty minimální inhibiční koncentrace (MIC), které umožňují oddělit citlivé patogeny od rezistentních, jsou dle EUCAST (European Committee on Antimicrobial Susceptibility Testing) (2020-01- 01): následující
+
+Mikoorganismy          Hraniční hodnoty pro rozlišování citlivosti a rezistence (mg/l)
+
+
+Enterobacterales Pseudomonas spp.¹ Aeromonas spp.
+FK/FD druhově nespecifické hraniční hodnoty)²
+S = citlivý, R = rezistentní.
+S                     R
+≤ 1                    > 4
+≤ 0,001                   > 8
+≤ 1                     > 4
+≤ 4                    > 8
+¹  Hraniční hodnoty pro rozlišování citlivosti a rezistence související s léčbou vysokými dávkami.
+²  Mezní body se týkají denní intravenózní dávky 1 g x 3 a vysoké dávky alespoň 2 g x 3.
+
+
+Mikrobiální citlivost
+Prevalence získané rezistence se může u vybraných druhů geograficky a v čase lišit. Je nutná místní informace o rezistenci, zvláště při léčbě těžkých infekcí. Pokud je místní prevalence rezistence taková, že použití ceftazidimu je přinejmenším u některých typů infekcí sporné, je třeba se poradit s odborníkem.
+
+Často citlivé druhy
+Grampozitivní aerobní mikoorganismy:
+Streptococcus pyogenes Streptococcus agalactiae
+Gramnegativní aerobní mikroorganismy:
+Citrobacter koseri Haemophilus influenzae Moraxella catarrhalis Neisseria meningitidis Pasteurella multocida Proteus mirabilis Proteus spp. (další) Providencia spp.
+Druhy, u nichž může být problém se získanou rezistencí
+Gramnegativní aerobní mikoorganismy: Acinetobacter baumannii £⁺ Burkholderia cepacia
+Citrobacter freundii Enterobacter aerogenes Enterobacter cloacae Escherichia coli Klebsiella pneumoniae Klebsiella spp. (další) Pseudomonas aeruginosa Serratia spp.
+Morganella morganii
+Grampozitivní aerobní mikroorganismy:
+Staphylococcus aureus£
+
+Streptococcus pneumoniae££
+Viridans skupina streptococcus
+Grampozitivní anaerobní mikroorganismy:
+Clostridium perfringens Peptostreptococcus spp.
+Gramnegativní anaerobní mikroorganismy:
+Fusobacterium spp.
+Přirozeně rezistentní organismy
+Grampozitivní aerobní mikroorganismy:
+Enterococci včetně Enterococcus faecalis a Enterococcus faecium Listeria spp.
+Grampozitivní anaerobní mikroorganismy:
+Clostridium difficile
+Gramnegativní anaerobní mikroorganismy:
+Bacteroides spp. (většina kmenů Bacteroides fragilis je rezistentních). Další:
+Chlamydia spp. Mycoplasma spp. Legionella spp.
+£  Methicillin-citlivý S.aureus se považuje za přirozeně málo citlivý na ceftazidim. Všechny methicillin-
+rezistentní kmeny S.aureus jsou rezistentní i na ceftazidim.
+££ U S.pneumonie, který je středně citlivý nebo rezistentní na penicilin, lze očekávat alespoň sníženou
+citlivost na ceftazidim.
+⁺ Vysoký podíl rezistence byl pozorován v jedné nebo více oblastí/zemí/regionů v rámci EU.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Po intramuskulárním podání je rychle dosaženo následujících maximálních plazmatických hladin: 18 mg/l po podání dávky 500 mg a 37 mg/l po podání dávky 1 g. Pět minut po nitrožilní bolusové injekci jsou hladiny v séru následující: 46 mg/l po podání dávky 500 mg, 87 mg/l po podání dávky 1 g a 170 mg/l po podání dávky
+2 g. Kinetika ceftazidimu je po jednorázové dávce v rozmezí 0,5 až 2 g podané intravenózně nebo intramuskulárně lineární.
+Distribuce
+Méně než 10 % ceftazidimu je vázáno na plazmatické bílkoviny. Koncentrací převyšujících minimální inhibiční koncentrace (MIC) pro běžné patogeny lze dosáhnout v tělesných tkáních, tekutinách a sekretech, jako jsou kosti, srdce, žluč, sputum, komorový mok a synoviální, pleurální a peritoneální tekutina. Ceftazidim snadno prostupuje placentou a je vylučován do mateřského mléka. Penetrace ceftazidimu intaktní hematoencefalickou bariérou je slabá, takže v nepřítomnosti zánětu dosahuje v mozkomíšním moku nízkých hladin. Při meningitidě však ceftazidim dosahuje v mozkomíšním moku terapeutických koncentrací 4 až 20 mg/l, nebo i vyšších.
+
+Metabolizace
+Ceftazidim není v organismu metabolizován.
+
+Eliminace
+Po parenterálním podání klesají plazmatické hladiny s poločasem kolem 2 h. Ceftazidim je vylučován v metabolicky nezměněné, účinné formě glomerulární filtrací do moči; během 24 h se touto cestou vyloučí 80 až 90 % podané dávky. Žlučí se vylučuje méně než 1 % podané dávky.
+
+Zvláštní skupiny pacientů
+
+Porucha funkce jater
+U pacientů s poruchou funkce jater je eliminace ceftazidimu snížena a je třeba snížit dávku (viz bod 4.2).
+
+Porucha funkce jater
+
+Lehká až středně těžká porucha funkce jater neměla u pacientů, kteří užívali 2 g ceftazidimu intravenózně každých 8 hodin po dobu 5 dnů, na farmakokinetiku ceftazidimu žádný vliv za předpokladu, že nebyla přítomná porucha renálních funkcí (viz bod 4.2).
+
+Starší pacienti
+Snížení clearance pozorované u starších pacientů bylo primárně způsobeno snížením renální clearance ceftazidimu souvisejícím s věkem. Průměrný eliminační poločas se po podání jednorázové dávky nebo při opakovaném dávkování 2 g 2 x denně bolusovou injekcí i.v. po dobu 7 dnů u pacientů ve věku 80 let a starších pohyboval v rozmezí 3,5 až 4 hodin.
+
+Pediatrická populace
+Po podávání 25 až 30 mg/kg nedonošeným i donošeným novorozencům se poločas ceftazidimu prodloužil o 4,5 až 7,5 hodiny. Od 2 měsíců věku se však již poločas pohyboval v rozmezí odpovídajícím dospělým pacientům.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity, reprodukční a vývojové toxicity neodhalily žádné zvláštní riziko pro člověka. Studie kancerogenity nebyly s ceftazidimem provedeny.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Uhličitan sodný
+
+6.2  Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+Ceftazidim je méně stabilní ve formě injekce uhličitanu sodného než v jiných intravenózních roztocích.
+Nedoporučuje se používat jako rozpouštědlo.
+Ceftazidim a aminoglykosidy nemíchejte v jedné aplikační soupravě ani stříkačce.
+Po přidání vankomycinu do ceftazidimu ve formě roztoku byla hlášená precipitace. Mezi aplikacemi těchto dvou látek doporučujeme aplikační soupravy a intravenózní kanyly propláchnout.
+
+6.3  Doba použitelnosti
+
+4 roky
+
+Doba použitelnosti připraveného roztoku
+Chemická a fyzikální stabilita připraveného roztoku byla prokázána po dobu 6 hodin při teplotě 25 °C a 12 hodin při teplotě 2 °C - 8 °C. Po rozpuštění s lidokainem: použijte ihned (do 2 hodin). Z mikrobiologického hlediska má být přípravek použit okamžitě.
+
+6.4  Zvláštní opatření pro uchovávání
+Neuchovávejte při teplotě nad 30 °C. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a velikost balení
+
+Ceftazidim MIP 1 g: Prášek v injekční lahvičce o objemu 15 ml z bezbarvého skla (třída I), uzavřené zátkou z brombutylové pryže (třída I) a modrým hliníkovým odtrhávacím víčkem.
+Ceftazidim MIP 2 g: Prášek v injekční lahvičce o objemu 50 ml z bezbarvého skla (třída II), uzavřené zátkou z brombutylové pryže (třída I) a modrým hliníkovým odtrhávacím víčkem.
+
+Velikosti balení: balení s 1, 5 nebo 10 lahvičkami. Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Při rozpouštění přípravku se uvolňuje oxid uhličitý a vzniká přetlak. Bublinky oxidu uhličitého v
+rekonstituovaném roztoku nejsou na závadu.
+
+Návod k rekonstituci
+V tabulce jsou uvedeny přidávané objemy a koncentrace roztoků, které lze použít v případě, kdy je nutné
+rozdělení dávek.
+
+
+Velikost lahvičky            Potřebné množství rozpouštědla (ml)
+Přibližná koncentrace (mg/ml)
+
+1 g prášek pro injekční/infuzní roztok
+1 g  Intramuskulární injekce Intravenózní bolusová injekce Intravenózní infuze
+2 g prášek pro injekční/infuzní roztok
+2 g  Intravenózní bolusová injekce Intravenózní infuze
+
+3 ml
+10 ml
+50 ml*
+
+10 ml
+50 ml*
+
+260
+90
+20
+
+170
+40
+* Poznámka: Rozpouštědlo se přidává ve dvou dávkách
+
+Roztoky mohou mít světle žlutou až jantarovou barvu, v závislosti na koncentraci, použitém rozpouštědle (ředidle) a podmínkách uchovávání. Tyto rozdíly v barvě roztoků nemají nepříznivý vliv na účinnost přípravku.
+
+Kompatibilita s intravenózními roztoky
+Následující rozpouštědla jsou vhodná pro přípravu roztoku:
+- voda pro injekce
+- roztok glukózy 50 mg/ml (5%)
+- roztok chloridu sodného 9 mg/ml (0,9%)
+Pro intramuskulární podání lze k přípravě injekčního roztoku ceftazidimu použít 1% injekční roztok lidokain- hydrochloridu.
+Návod k přípravě roztoků pro bolusovou injekci
+1.  Jehlou injekční stříkačky propíchněte uzávěr lahvičky a vstříkněte do lahvičky doporučený objem
+rozpouštědla. Odstraňte injekční jehlu.
+2.  Třepejte lahvičkou, aby došlo k rozpuštění obsahu. Při rozpouštění se uvolňuje oxid uhličitý. Roztok bude čirý za 1 až 2 minuty.
+3.  Obraťte lahvičku dnem vzhůru. Jehlou injekční stříkačky s úplně stlačeným pístem propíchněte uzávěr lahvičky a natáhněte všechen roztok z lahvičky do stříkačky (přetlak v lahvičce může usnadnit natahování roztoku). Dbejte na to, aby otvor jehly stále zůstával v roztoku a nezanořil se do uzávěru. Natažený roztok může obsahovat bublinky oxidu uhličitého, kterým není třeba věnovat pozornost.
+Roztok lze podávat přímo do žíly nebo prostřednictvím kanyly intravenózní linky, pokud pacient dostává parenterální roztoky. Ceftazidim je kompatibilní s většinou běžně používaných roztoků k intravenóznímu podání.
+Návod k přípravě roztoků pro nitrožilní infuzi
+K přípravě použijte celkem 50 ml kompatibilního ředícího roztoku, který se přidává ve DVOU krocích, jak je
+popsáno níže:
+
+1.  Jehlou injekční stříkačky propíchněte uzávěr lahvičky a vstříkněte do lahvičky první dávku rozpouštědla
+(10 ml rozpouštědla).
+2.  Vytáhněte jehlu ven a protřepávejte obsah lahvičky, dokud nevznikne čirý roztok.
+3.  Nepropichujte uzávěr protipřetlakovou jehlou dříve, než dojde k úplnému rozpuštění přípravku. Propíchněte uzávěr lahvičky protipřetlakovou jehlou, která vyrovná přetlak uvnitř lahvičky.
+4.  Rekonstituovaný roztok přeneste do konečného transportního média (např. mini-vak nebo infuzní set)
+tak, aby byl celkový objem 50 ml a podávejte pomocí intravenózní infuze po dobu 15 až 30 minut.
+UPOZORNĚNÍ: K zachování sterility přípravku je důležité, aby se uzávěr lahvičky nepropichoval protipřetlakovou jehlou dříve, než dojde k úplnému rozpuštění prášku na čirý roztok.
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+MIP Pharma GmbH Kirkeler Str. 41
+66440 Blieskastel
+Německo
+Telefon: 0049 (0) 6842 9609 0
+Fax: 0049 (0) 6842 9609 355
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+Ceftazidim MIP 1 g: 15/165/15-C Ceftazidim MIP 2 g: 15/166/15-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 13. 5. 2015
+Datum posledního prodloužení registrace: 9. 3. 2020
+
+10.  DATUM REVIZE TEXTU
+
+2. 12. 2020

@@ -1,0 +1,237 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1   NÁZEV PŘÍPRAVKU
+Capreomycin injekce
+
+2   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje kapreomycin sulfát (odpovídá přibližně 1 g kapreomycinu)
+
+3   LÉKOVÁ FORMA
+
+prášek pro injekční roztok
+4   KLINICKÉ ÚDAJE
+4.1  Oblast použití
+Účinky:  Kapreomycin  působí  proti  lidskému  kmenu  Mycobacterium tuberculosis.
+Zkřížená rezistence se často objevuje mezi kapreomycinem a viomycinem. Různá  míra  zkřížené  rezistence  byla  hlášena  mezi  kapreomycinem  a kanamycinem a neomycinem. Zkřížená rezistence nebyla pozorována mezi kapreomycinem a isoniazidem, aminosalicylovou kyselinou, cykloserinem, streptomycinem, etionamidem ani etambutolem.
+Indikace: Kapreomycin by se měl podávat současně s jinými antituberkulotiky vhodnými pro léčbu plicních infekcí způsobených kmeny Mycobacterium tuberculosis citlivými na kapreomycin, v případě, že antituberkulotika první volby (isoniazid, rifampicin, streptomycin a etambutol) nebyla účinná nebo nemohla být podána kvůli toxicitě nebo rezistenci bakterií.
+
+
+4.2  Dávkování a způsob podání
+
+Obvyklá denní dávka je 1 g (nemělo by se však překročit celkové množství 20 mg/kg/den), podávaná hlubokou intramuskulární injekcí pouze po dobu 60 až 120 dnů, dále se podává 1 g intramuskulárně 2x-3x týdně. Kapreomycin se vždy podává v kombinaci, minimálně ještě s jedním antituberkulotikem, na něž je Mycobacterium citlivé.
+Kapreomycin se ředí do 2 ml 0,9% roztoku chloridu sodného pro intravenózní infuzi nebo ve vodě pro injekce. Pro úplné rozpuštění léku postačí 2-3 minuty.
+
+Je-li třeba podat dávku 1 g, použijte obsah celé lahvičky. Při podávání dávek nižších než 1 g postupujte při ředění léku podle tabulky:
+
+Ředicí roztok (ml)
+
+2,15
+2,63
+3,3
+4,3
+Přibližný objem roztoku kapreomycinu (ml)
+2,85
+3,33
+4,0
+5,0
+Přibližná průměrná koncentrace (mg/ml) odpovídající aktivitě kapreomycinu v mg
+370
+315
+260
+210
+
+Starší pacienti: Dávkování viz dospělí. Redukujte dávku léku, je-li poškozena funkce ledvin.
+
+Pacienti se sníženou funkcí ledvin: Dávky by měly být redukovány podle clearance s použitím následující tabulky. Tyto dávky jsou vypočítány tak, aby v ustáleném stavu bylo dosaženo
+hladiny 10 mikrogramů kapreomycinu na mililitr při různé poruše renálních funkcí:
+
+
+Clearance kreatininu
+Clearance kapreomycinu
+Poločas
+Dávky pro následující intervaly dávkování (mg/kg)
+
+(ml/min) 0
+10
+20
+30
+40
+50
+60
+80
+100
+110
+(l/kg/h x 10²)
+0,54
+1,01
+1,49
+1,97
+2,45
+2,92
+3,40
+4,35
+5,31
+5,78
+(hod) 55,5
+29,4
+20,0
+15,1
+12,2
+10,2
+8,8
+6,8
+5,6
+5,2
+24 hod
+1,29
+2,43
+3,58
+4,72
+5,87
+7,01
+8,16
+10,40
+12,70
+13,90
+48 hod
+2,56
+4,87
+7,15
+9,45
+11,70
+14,00
+72 hod
+3,87
+7,30
+10,70
+14,20
+
+Pediatrická populace
+Lék není určen pro pediatrické použití, protože bezpečnost podávání kapreomycinu u kojenců a dětí nebyla prokázána. Nejsou k dispozici žádné údaje.
+4.3  Kontraindikace
+
+Hypersenzitivita na aktivní látku.
+4.4  Zvláštní upozornění a opatření při užívání
+Upozornění
+Pacientům s renální insuficiencí nebo již existujícím poškozením sluchu lze kapreomycin podávat jen s velkou opatrností a zároveň je třeba posoudit riziko dalšího poškození osmého hlavového nervu nebo renálního postižení a přínos léčby.
+Kapreomycin se musí podávat pouze ve spojení s odpovídajícími dávkami jiných antituberkulotik. Použití samotného kapreomycinu umožňuje rychlý vývoj kmenů, které jsou na něj rezistentní.
+Opatření
+Protože je kapreomycin potenciálně ototoxický, měla by být provedena audiometrie a vestibulární vyšetření před zahájením léčby a v pravidelných intervalech během léčby.
+
+Po celou dobu léčby by měly být pravidelně vyšetřovány renální funkce a u pacientů se známou nebo předpokládanou poruchou funkce ledvin je třeba upravit dávkování léku (viz „Dávkování a způsob podávání“).
+Jelikož se během léčby kapreomycinem může objevit hypokalémie, měly by být často vyšetřovány hladiny draslíku v séru.
+Po vysokých dávkách kapreomycinu se mohou objevit parciální neuromuskulární blokády.
+Kapreomycin je třeba podávat opatrně pacientům s alergií v anamnéze, zvláště s alergií na léky.
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Nedoporučuje se současně podávat jiná antituberkulotika, které mají také ototoxický a nefrotoxický potenciál (např. streptomycin, viomycin). Jen s velkou opatrností lze současně podávat léky, které nejsou indikovány k léčbě tuberkulózy, ale mají ototoxický nebo nefrotoxický potenciál (např. polymixin, kolistin sulfát, amikacin, gentamycin, tobramycin, vankomycin, kanamycin a neomycin).
+
+
+4.6  Plodnost, těhotenství a kojení
+
+Těhotenství
+Bezpečnost podávání kapreomycinu v těhotenství nebyla zjišťována. Bylo prokázáno, že kapreomycin je teratogenní pro potkany, je-li podáván v 3,5násobku dávky pro člověka. Nebyly provedeny žádné odpovídající a dobře kontrolované studie u těhotných žen.
+Kapreomycin lze v těhotenství podat, pokud možný přínos převáží potenciální riziko poškození plodu.
+Plodnost
+Žádné studie, které by stanovily možnou karcinogenitu, mutagenitu nebo vliv na snížení plodnosti, nebyly provedeny.
+Kojení
+Není známo, zda se kapreomycin vylučuje do mateřského mléka. Kojícím ženám lze kapreomycin podávat jen s velkou opatrností.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Není relevantní.
+4.8  Nežádoucí účinky
+
+Renální: Byla pozorována zvýšená hladina sérového kreatininu nebo močoviny v krvi a abnormality močového sedimentu. V jednom případě byla hlášena toxická nefritida u pacienta s tuberkulózou a portální cirhózou, který byl léčen kapreomycinem (1 g) a kyselinou
+aminosalicylovou denně po dobu jednoho měsíce. U tohoto pacienta se vyvinula renální nedostatečnost a oligurie. Pacient zemřel. Při pitvě byla zjištěna odeznívající akutní tubulární nekróza.
+U jednoho pacienta byla hlášena porucha elektrolytového hospodářství podobná Bartterovu syndromu.
+
+Hepatální: Snížená exkrece bromsulftaleinu beze abnormalit sérových enzymů byla
+zaznamenána u pacienta s již existujícím poškozením jater. Patologické hodnoty jaterních funkčních testů byly hlášeny u velkého množství pacientů, kteří dostávali kapreomycin v kombinaci s dalšími antituberkulotiky, o kterých je známo, že způsobují změny jaterních funkcí. Doporučuje se pravidelně kontrolovat jaterní testy.
+Hematologické: Byla pozorována leukocytóza a leukopenie. Byly hlášeny vzácné případy trombocytopenie. U většiny pacientů, kteří užívali kapreomycin denně, byla zjištěna
+eozinofilie vyšší než 5%, která se však upravila snížením dávkování kapreomycinu na 2 až 3 dávky týdně.
+
+Hypersenzitivita: Kopřivka a makulopapulární vyrážky, spojené v některých případech s horečnatými reakcemi, byly hlášeny při současném podávání kapreomycinu a dalších antituberkulotik.
+
+Ušní: Byla zaznamenána klinická a subklinická ztráta sluchu. Některé audiometrické změny se ukázaly jako reverzibilní a jiné, s trvalou sluchovou ztrátou již po vysazení kapreomycinu neprogredovaly. Došlo i k výskytu tinitu a vertiga.
+
+Reakce v místě vpichu: V místě vpichu byla hlášena bolest a zatvrdnutí. V oblasti vpichu se vyskytovalo také nadměrné krvácení a sterilní abscesy.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+Známky a příznaky: U pacientů intoxikovaných kapreomycinem byla hlášena hypokalémie, hypokalcémie, hypomagnezémie a porucha elektrolytového hospodářství podobná Bartterovu syndromu. Nefrotoxicita, včetně akutní tubulární nekrózy a ototoxicita, včetně závratí, tinitu, vertiga a ztráty vnímat vysoké tóny (viz Upozornění a bezpečnostní upozornění). Po rychlém intravenózním podání může dojít k neuromuskulární blokádě nebo paralýze dechových svalů.
+Při požití kapreomycinu je intoxikace nepravděpodobná, protože z intaktního zažívacího traktu se vstřebává méně než 1 % léku.
+Léčba: Doporučuje se symptomatická a podpůrná léčba. Aktivní uhlí může účinněji zabránit vstřebávání léku než zvracení nebo výplach žaludku.
+Pacienti předávkovaní kapreomycinem, kteří mají normální renální funkce, by měli být hydratováni tak, aby výdej moče dosáhl 3–5 ml/kg/h. Je třeba sledovat bilanci tekutin, hladiny elektrolytů a clearance kreatininu.
+Hemodialýza je účinná u pacientů se závažným onemocněním ledvin.
+
+
+5   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antimykobakteriální látky ATC kód: J04AB30
+Kapreomycin působí proti lidskému kmenu Mycobacterium tuberculosis.
+5.2  Farmakokinetické vlastnosti
+Absorpce kapreomycin sulfátu z gastrointestinálního traktu je zanedbatelná a musí být tedy podáván parenterálně.
+Maximální sérová koncentrace po podání jedné intramuskulární dávky 1 g je přibližně 20-50 μg/ml a je jí dosaženo za 1 až 2 hodiny po podání. Naměřené sérové koncentrace po 24 hodinách byly nízké a po každodenním podání 1 g po dobu 30 dnů osobám s normální funkcí ledvin nedocházelo k významné akumulaci.
+Kapreomycin se vylučuje močí v zásadě nezměněný a přibližně 50 % z dávky 1 g, podané intramuskulárně se vyloučí do 12 hodin.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neexistují žádné předklinické údaje relevantní pro předepisujícího lékaře, které již nebyly začleněny do jiných částí tohoto souhrnu údajů o přípravku.
+
+
+6   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Žádný.
+6.2  Nekompatibilita
+Není k dispozici.
+
+
+6.3  Doba použitelnosti
+
+Tři roky.
+Rekonstituované roztoky Capreomycinu injekce lze skladovat při teplotě do 25 °C po dobu 24 hodin. Nepoužitou část zlikvidujte.
+
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+
+Podmínky uchovávání po rekonstituci léčivého přípravku viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+
+Injekční lahvička z čirého skla s gumovou zátkou, s hliníkovým nebo plastovým těsněním, obsahující kapreomycin sulfát (odpovídá přibližně 1 g kapreomycinu), ve formě sterilního bílého prášku.
+6.6  Zvláštní opatření pro likvidaci přípravku a další manipulaci s ním
+
+Roztok může získat až světle slámovou barvu a časem ztmavnout, změna barvy však nesouvisí se ztrátou účinku ani s rozvojem toxicity.
+Žádné zvláštní požadavky na likvidaci.
+
+Veškerý nespotřebovaný léčivý přípravek či odpadní materiál musí být zlikvidován v souladu s místními požadavky.
+7   DRŽITEL ROZHODNUTÍ O REGISTRACI
+King Pharmaceuticals Ltd Donegal Street Ballybofey
+County Donegal Irsko
+
+
+8   MARKETINGOVÁ REGISTRAČNÍ ČÍSLA
+PL 14385/0006
+
+
+9   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 19. listopadu 1997
+Datum posledního prodloužení registrace: 1. června 2010
+
+
+10  DATUM REVIZE TEXTU
+19/11/2015

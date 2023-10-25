@@ -1,0 +1,1100 @@
+sp.zn. sukls442987/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+Natriumjodid (¹³¹I) Diagnostikkapseln 1,11–3,7 MBq tvrdá tobolka
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna tobolka obsahuje natrii (¹³¹I) iodidum 3,7 MBq (100 µCi) k datu první kalibrace (1,11 MBq/tobolka, 2,035 MBq/tobolka a 3,7 MBq/tobolka).
+
+Souhrn fyzikálních vlastností radionuklidu v léčivé látce:     jod-¹³¹I
+Fyzikální poločas přeměny:                     8,02 dní
+
+Jod-¹³¹I je vyráběn štěpením uranu-²³⁵U nebo bombardováním stabilního telluru neutrony
+v jaderném reaktoru. Je přeměňován emisí záření gama s energiemi 365 keV (81,7 %), 637 keV (7,2
+%), 284 keV (6,1 %) a záření beta s maximální energií 606 keV na stabilní xenon-¹³¹Xe.
+
+Nominální aktivita jedné tobolky k následným datům kalibrace v týdenních intervalech je uvedena v následující tabulce:
+
+
+Datum kalibrace
+1
+2
+3
+Dny po první kalibraci
+0
+7
+14
+Aktivita (v MBq) (µCi)
+3,7 (100)
+2,035 (54,9)
+1,11 (30)
+
+Pomocná látka se známým účinkem
+-    Sodík:     85,28 mg/tobolka. Nutno vzít v úvahu u pacientů s dietou s nízkým obsahem sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Tvrdá tobolka.
+Bílá neprůhledná želatinová tobolka.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+
+
+
+1/13
+
+•  Jodid-(¹³¹I) sodný může být ve formě značené sloučeniny použit pro studium kinetiky radioaktivního jodu. Odhad jeho vychytávání štítnou žlázou a efektivní poločas mohou být využity pro výpočet aktivity potřebné pro terapii radioaktivním jodem.
+•  Při léčbě karcinomu štítné žlázy je jodid-(¹³¹I) sodný používán k identifikaci jejích zbytků po ablaci a ke zjišťování metastáz.
+•  Benigní stavy štítné žlázy jsou zobrazovány pouze tehdy, nejsou-li k dispozici radiofarmaka s vhodnějšími radiačními vlastnostmi poskytující příznivější dozimetrické údaje.
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dospělí
+Pro dospělé pacienty (70 kg) jsou doporučovány tyto aktivity:
+•  Studie vychytávání štítnou žlázou:                      0,2–3,7 MBq
+•  Pro identifikaci metastáz a zbytků štítné žlázy po ablaci štítné žlázy:   maximální aktivita
+400 MBq
+•  Pro zobrazování štítné žlázy:                         7,4–11 MBq
+Snímky jsou obvykle pořízeny za 4 hodiny a poté opět za 18–24 hodin (scintigraficky také za 72
+hodin).
+
+Starší pacienti
+Není nutná žádná úprava dávky v závislosti na věku pacienta.
+
+Porucha funkce ledvin
+U těchto pacientů je možná zvýšená expozice záření, proto se vyžaduje pečlivé zvážení podávané
+aktivity.
+
+Pediatrická populace
+Diagnostická aktivita podávaná dítěti staršímu 10 let a dospívajícímu má být zlomkem dávky pro dospělého vypočítaná metodou využívající tělesné hmotnosti nebo povrchu těla podle následujících vztahů:
+
+aktivita dospělému (MBq) x váha dítěte (kg) pediatrická dávka (MBq) = ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+70 kg
+aktivita dospělému (MBq) x povrch těla dítěte (m²) pediatrická dávka (MBq) = ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+1,73 m²
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2/13
+
+Korekční faktory stanovené jako vodítko jsou následující:
+
+Podíl z dávky pro dospělého
+
+22 kg = 0,50
+24 kg = 0,53
+26 kg = 0,56
+28 kg = 0,58
+30 kg = 0,62
+32 kg = 0,65
+34 kg = 0,68
+36 kg = 0,71
+38 kg = 0,73
+40 kg = 0,76
+42 kg = 0,78
+44 kg = 0,80
+46 kg = 0,82
+48 kg = 0,85
+50 kg = 0,88
+52–54 kg = 0,90
+56–58 kg = 0,92
+60–62 kg = 0,96
+64–66 kg = 0,98
+68 kg = 0,99
+(Pracovní skupina pro pediatrii EANM)
+
+Způsob podání
+
+Tobolka je podávána perorálně a zapíjí se. Má být spolknuta celá.
+
+U pacientů s podezřením na onemocnění gastrointestinálního traktu je třeba věnovat podání tobolek přípravku Natriumjodid (¹³¹I) Diagnostikkapseln velkou pozornost. Pro zajištění dobrého průchodu tobolky do žaludku a horní části tenkého střeva má být celá tobolka spolknuta s dostatečným množstvím tekutiny. Doporučuje se současné použití antagonistů H2 receptorů nebo inhibitorů protonové pumpy.
+Návod pro přípravu pacienta je uveden v bodě 4.4.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Dále je použití přípravku kontraindikováno:
+• v těhotenství,
+•  pro diagnostické účely u dětí mladších 10 let,
+•  pro zobrazení štítné žlázy, vyjma případů po maligních onemocněních, nebo kdy jod-¹²³I nebo technecium-⁹⁹ᵐTc nejsou dostupné,
+•  u pacientů s dysfagií, strikturou jícnu, aktivním zánětem žaludku, žaludečními erozemi a
+žaludečním vředem,
+•  u pacientů s podezřením na sníženou gastrointestinální motilitu.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Možnost přecitlivělosti nebo anafylaktické reakce
+Pokud jsou pozorovány příznaky přecitlivělosti nebo anafylaktická reakce, podání léčivého přípravku musí být okamžitě přerušeno a je-li to nezbytné, musí být zahájena intravenózní léčba. Pro okamžitá opatření při pohotovostním zásahu musí být okamžitě dostupné potřebné léčivé přípravky a zařízení k podpoře životních funkcí, jako například endotracheální trubice a zařízení pro umělou ventilaci.
+Odůvodnění individuálního přínosu/rizika
+
+
+
+3/13
+
+Vystavení  každého  pacienta  ionizujícímu  záření  musí  být  opodstatněné  na  základě  jeho pravděpodobného přínosu. Aplikovaná aktivita musí být vždy taková, aby výsledná dávka záření byla tak nízká, jak je jen možné, aby byla zároveň získána požadovaná diagnostická informace.
+
+Porucha funkce ledvin
+U těchto pacientů je možná zvýšená expozice záření, proto se vyžaduje pečlivé zvážení poměru přínosů a rizik.
+
+Pediatrická populace
+Informace o použití u pediatrické populace, viz bod 4.2.
+
+Příprava pacienta
+Před zahájením vyšetření by měl být pacient dobře hydratován a vyzván k co nejčastějšímu vyprazdňování během prvních hodin po vyšetření, aby se radiace snížila. U prokazatelně inkontinentních pacientů by měla být po podání přípravku Natriumjodid (¹³¹I) Diagnostikkapseln přijata zvláštní opatření, jako je cévkování močového měchýře, aby se minimalizovalo riziko radioaktivní kontaminace. Pro nakládání s radioaktivním odpadem musí být dodržovány národní pokyny.
+
+Zvláštní upozornění
+Tento léčivý přípravek obsahuje 85,28 mg sodíku/tobolka. Nutno vzít v úvahu u pacientů s dietou s nízkým obsahem sodíku.
+
+Opatření vztahující se k ohrožení životního prostředí jsou uvedena v bodě 6.6.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Je nutné znát předešlou farmakoterapii a příslušnou medikaci, včetně níže uvedených léčiv, jejichž užívání by mělo být před podáním jodidu-(¹³¹I) sodného vysazeno:
+
+
+Léčivé látky
+antithyreoidální látky (např. karbimazol,
+methimazol, propylthiouracil), chloristan
+salicyláty, steroidy, nitroprussid sodný, bromsulfoftalein sodný, antikoagulancia, antihistaminika, antiparazitika, peniciliny, sulfonamidy, tolbutamid, thiopental
+fenylbutazon
+expektorancia a vitamíny s obsahem jodu přípravky s hormony štítné žlázy amiodaron*, benzodiazepiny, lithium
+vodorozpustné kontrastní látky s obsahem jodu
+perorálně podávané látky na cholecystografii
+Doba vysazení před podáním
+jodidu-(131I) sodného
+2–5 dní před podáním až několik dní po podání
+
+1 týden
+
+1–2 týdny
+přibližně 2 týdny
+2–6 týdnů
+přibližně 4 týdny
+do 3 měsíců
+do 1 roku
+* vzhledem k dlouhému biologickému poločasu amiodaronu může být vychytávání jodu ve štítné žláze sníženo po dobu několika měsíců.
+
+
+4/13
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Je-li nutné podat radioaktivní léčivo ženě, která může být těhotná, vždy je nutné se o tom přesvědčit. Každá žena, které vynechala perioda, má být považována za těhotnou, dokud se neprokáže opak. V případě nejistoty (když ženě vynechala perioda, je-li perioda velmi nepravidelná atd.) by se měly pacientce nabídnout, pokud existují, alternativní metody bez ionizujícího záření.
+
+Těhotenství
+Použití jodidu-(¹³¹I) sodného je v těhotenství kontraindikováno (viz bod 4.3). Absorbovaná dávka této látky v děloze je pravděpodobně v rozsahu 11–511 mGy a štítná žláza plodu v průběhu druhého a třetího trimestru velmi ochotně koncentruje jod.
+
+Kojení
+Před podáním radiofarmaka kojící matce je třeba uvážit možnost pozdržení podání do chvíle, než matka kojení ukončí a také nejvhodnější volbu radiofarmaka s ohledem na vylučování aktivity do mléka.
+
+Kojení má být po podání jodidu-(¹³¹I) sodného ukončeno.
+
+V souladu s místními předpisy má být omezen blízký kontakt s kojenci a těhotnými ženami. Doba závisí na podané dávce. Pokud je podaná aktivita nižší než 112 MBq, nejsou vyžadována žádná omezení blízkého kontaktu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Tento přípravek nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným vývojem dědičných vad. Efektivní dávka obdržená po podání aktivity 3,7 MBq je při 55% vychytávání štítnou žlázou 88,8 mSv. Výskyt nežádoucích účinků je očekáván s nízkou pravděpodobností.
+
+Ve všech případech je nutné zabezpečit, aby rizika spojená s ozářením byla nižší než rizika samotného onemocnění.
+
+Frekvence nežádoucích účinků jsou definovány takto:
+Velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10 000) a není známo (z dostupných údajů nelze určit).
+Poruchy imunitního systému
+-    není známo      -    hypersenzitivita
+
+Gastrointestinální poruchy
+-    není známo      -    nauzea, zvracení
+
+Vrozené, familiální a genetické vady
+-    není známo      -    vrozené poruchy štítné žlázy*
+
+
+
+
+5/13
+
+* vrozená porucha štítné žlázy je následkem užití radioaktivního jodu v těhotenství, které je však absolutně kontraindikováno.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Vysoká expozice záření způsobená předávkováním může být snížena podáním látek blokujících štítnou žlázu, jako např. chloristanem draselným, použitím emetik a podporou diurézy s častým vyprazdňováním močového měchýře.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina:   diagnostická radiofarmaka; štítná žláza; jodid-(¹³¹I) sodný
+ATC kód:              V09FX03
+
+V množství používaném při diagnostických indikacích nejsou známy farmakologické účinky jodidu. Více než 90 % radiačních účinků pochází ze záření beta, které má střední dosah 0,5 mm.
+
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Jodid-(¹³¹I) sodný je po perorálním podání rychle absorbován z horní části gastrointestinálního traktu  (90  %  v průběhu  60  minut).  Jeho  farmakokinetika  je  shodná  s farmakokinetikou neradioaktivního jodu.
+
+Vychytávání orgány
+Po  vstupu  do  krevního  řečiště  je  jodid-(¹³¹I)  sodný  distribuován  do  mimothyroidálního kompartmentu. Odtud je převážně vychytáván štítnou žlázou nebo vylučován ledvinami. Malá množství jodidu-(¹³¹I) sodného jsou vychytávána slinnými žlázami, žaludeční sliznicí a mohou být také lokalizována v mateřském mléce, placentě a v cévnaté pleteni.
+
+Eliminace
+Po podání jodidu-(¹³¹I) sodného má přibližně 40 % aktivity efektivní poločas 0,4 dne a zbývajících 60 % 8 dní. Močí jsou tato množství vylučována z 37–75 %, stolicí přibližně 10 % a velmi nepatrně potem.
+
+Poločas
+Efektivní poločas radioaktivního jodu v plazmě je v řádu 12 hodin, zatímco pro radioaktivní jod vychytávaný štítnou žlázou je asi 6 dní.
+
+
+6/13
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Akutní toxicita se neočekává a ani nebyla pozorována.
+
+Nejsou k dispozici údaje o toxicitě po opakovaných dávkách jodidu sodného, ani jeho účinky na reprodukci zvířat nebo údaje o jeho možné mutagenitě či kancerogenitě.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Pentahydrát thiosíranu sodného Dihydrát hydrogenfosforečnanu sodného Hydroxid sodný
+Voda na injekci
+Tobolka:
+Želatina
+Oxid titaničitý Natrium-lauryl-sulfát Kyselina octová
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+
+6.3  Doba použitelnosti
+
+Doba použitelnosti tohoto přípravku je 5 týdnů od data první kalibrace uvedeného na štítku.
+
+
+Velikost balení
+(v MBq)
+3,7
+2,035
+1,11
+Doba použitelnosti
+(ve dnech po datu kalibrace
+uvedeném na štítku)
+35
+28
+21
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem.
+
+Uchovávejte v původním olověném kontejneru nebo v ekvivalentním stínění.
+
+Skladování radiofarmak má být prováděno v souladu s národními předpisy pro radioaktivní látky.
+
+6.5  Druh obalu a obsah balení
+
+
+
+7/13
+
+Přípravek je dodáván v polystyrenové nádobce se stlačitelným uzávěrem z polyetylénu. Tato
+nádobka je uložena ve stínícím olověném obalu.
+
+Velikost balení:
+Jednotlivá balení obsahují 10 tobolek, z nichž každá má aktivitu 1,11 MBq, 2,035 MBq nebo 3,7 MBq.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecné varování
+Radiofarmaka mohou být přijímána, používána a podávána pouze oprávněnými osobami v určených zdravotnických zařízeních. Způsob jejich příjmu, skladování, používání, manipulace a likvidace je dán předpisy a/nebo příslušnými povoleními místních kompetentních úřadů.
+
+Radiofarmaka by měla být připravována způsobem, který vyhovuje požadavkům na radiační bezpečnost a farmaceutickou kvalitu. Musí být dodržována příslušná aseptická opatření.
+Postupy by měly být provedeny tak, aby se minimalizovalo riziko kontaminace přípravku a ozařování personálu. Je povinné adekvátní stínění.
+
+Podávání radiofarmak představuje pro ostatní osoby riziko z vnějšího ozáření nebo kontaminace z úniku moči, zvracení atd. Proto musí být, v souladu s národními předpisy, přijata bezpečnostní opatření radiační ochrany.
+
+Veškerý materiál použitý k přípravě a podávání radiofarmak, včetně nepoužitého radiofarmaka a jeho obalu, se musí dekontaminovat, nebo s ním zacházet jako s radioaktivním odpadem podle předpisů místních kompetentních úřadů.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+GE Healthcare Buchler GmbH & Co. KG Gieselweg 1
+38110 Braunschweig
+Německo
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+88/378/93-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace:               12.05.1993
+Datum posledního prodloužení registrace:     11.08.2010
+
+
+
+
+
+8/13
+
+10.  DATUM REVIZE TEXTU
+16. 1. 2019
+
+
+11.  DOZIMETRIE
+Model ICRP se vztahuje k intravenóznímu podání. Vzhledem k tomu, že absorpce radioaktivního jodu je rychlá a úplná, je možné tento model využít také v případě perorálního podání, ale s ohledem na žaludeční vylučování a vylučování slin je nutné navíc uvažovat také radiační dávku na žaludeční stěnu. Za předpokladu, že střední doba setrvání v žaludku je 0,5 hodiny, absorbovaná dávka na žaludeční stěnu vzroste u jodu-¹³¹I přibližně o 30 %, nicméně efektivní dávka je prakticky totožná.
+
+Radiační dávka do jednotlivých orgánů, které nemusí být cílovým orgánem léčby, může být významně ovlivněna patofyziologickými změnami vyvolanými průběhem onemocnění.
+V rámci posouzení poměru přínosů a rizik je doporučováno, aby byla před podáním vypočtena efektivní dávka a pravděpodobné radiační dávky do cílového orgánu nebo jednotlivých cílových orgánů. Aktivita pak může být upravena podle hmotnosti štítné žlázy, biologického poločasu a
+„recyklačního” faktoru, který bere v úvahu fyziologický stav pacienta (včetně deplece jodu) a jeho základní patologii.
+
+Níže uvedené tabulky ukazují údaje o dozimetrii převzaté z Publikace ICRP 53 a 60 (International Commission on Radiological Protection, Radiation Dose to Patients from Radiopharmaceuticals).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/13
+
+JODID-(131I)
+Blokovaná štítná žláza, 0% vychytávání
+
+
+
+Orgán
+Absorbovaná dávka
+na jednotku podané aktivity (mGy/MBq)
+
+
+nadledviny
+močový měchýř – stěna povrchy kostí
+prs
+GI trakt
+žaludek – stěna tenké střevo tlusté střevo
+-  stěna horní část
+-  stěna dolní část
+ledviny játra plíce vaječníky pankreas
+červená dřeň slezina varlata štítná žláza děloha ostatní tkáň
+
+Efektivní dávka
+(mSv/MBq)
+Dospělý
+0,037
+0,61
+0,032
+0,033
+
+0,034
+0,038
+
+0,037
+0,043
+0,065
+0,033
+0,031
+0,042
+0,035
+0,035
+0,034
+0,037
+0,029
+0,054
+0,032
+
+0,061
+15 let
+0,042
+0,75
+0,038
+0,033
+
+0,04
+0,047
+
+0,045
+0,052
+0,08
+0,04
+0,038
+0,054
+0,043
+0,042
+0,04
+0,045
+0,038
+0,067
+0,039
+
+0,078
+10 let
+0,067
+1,1
+0,061
+0,052
+
+0,064
+0,075
+
+0,07
+0,082
+0,12
+0,065
+0,06
+0,084
+0,069
+0,065
+0,065
+0,075
+0,063
+0,11
+0,062
+
+0,12
+5 let
+0,11
+1,8
+0,097
+0,085
+
+0,1
+0,12
+
+0,12
+0,13
+0,17
+0,1
+0,096
+0,13
+0,11
+0,1
+0,1
+0,12
+0,1
+0,17
+0,1
+
+0,19
+1 rok
+0,2
+3,4
+0,19
+0,17
+
+0,19
+0,22
+
+0,21
+0,23
+0,31
+0,2
+0,19
+0,24
+0,21
+0,19
+0,2
+0,23
+0,2
+0,3
+0,19
+
+0,368
+Stěna močového měchýře přijímá 50 % z efektivní dávky. Neúplné blokování:
+Efektivní dávka (mSv/MBq) s malým vychytáváním ve štítné žláze:
+
+
+vychytávání 0,5 %
+vychytávání 1,0 %
+vychytávání 2,0 %
+0,395
+0,802
+1,5
+0,648
+1,28
+2,41
+0,953
+1,91
+3,6
+2,01
+4,07
+7,77
+3,74
+7,48
+14,3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/13
+
+15% vychytávání štítnou žlázou
+
+
+
+Orgán
+Absorbovaná dávka
+na jednotku podané aktivity (mGy/MBq)
+
+
+nadledviny
+močový měchýř – stěna povrchy kostí
+prs
+GI trakt
+žaludek – stěna tenké střevo tlusté střevo
+-  stěna horní část
+-  stěna dolní část
+ledviny játra plíce vaječníky pankreas
+červená dřeň slezina varlata štítná žláza děloha ostatní tkáň
+
+Efektivní dávka
+(mSv/MBq)
+Dospělý
+0,036
+0,52
+0,047
+0,043
+
+0,46
+0,28
+
+0,059
+0,042
+0,06
+0,032
+0,053
+0,043
+0,052
+0,054
+0,042
+0,028
+210
+0,054
+0,065
+
+10,5
+15 let
+0,043
+0,64
+0,067
+0,043
+
+0,58
+0,35
+
+0,065
+0,053
+0,075
+0,041
+0,071
+0,059
+0,062
+0,074
+0,051
+0,035
+340
+0,068
+0,089
+
+17,1
+10 let
+0,071
+0,98
+0,094
+0,081
+
+0,84
+0,62
+
+0,1
+0,082
+0,11
+0,068
+0,12
+0,092
+0,1
+0,099
+0,081
+0,058
+510
+0,11
+0,14
+
+25,6
+5 let
+0,11
+1,5
+0,14
+0,13
+
+1,5
+1
+
+0,16
+0,13
+0,17
+0,11
+0,19
+0,14
+0,15
+0,14
+0,12
+0,094
+1100
+0,17
+0,22
+
+56
+1 rok
+0,22
+2,9
+0,24
+0,25
+
+2,9
+2
+
+0,28
+0,23
+0,29
+0,22
+0,33
+0,26
+0,27
+0,24
+0,23
+0,18
+2000
+0,31
+0,4
+
+102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/13
+
+35% vychytávání štítnou žlázou
+
+
+
+Orgán
+Absorbovaná dávka
+na jednotku podané aktivity (mGy/MBq)
+
+
+nadledviny
+močový měchýř – stěna povrchy kostí
+prs
+GI trakt
+žaludek – stěna tenké střevo tlusté střevo
+-  stěna horní část
+-  stěna dolní část
+ledviny játra plíce vaječníky pankreas
+červená dřeň slezina varlata štítná žláza děloha ostatní tkáň
+
+Efektivní dávka
+(mSv/MBq)
+Dospělý
+0,042
+0,4
+0,076
+0,067
+
+0,46
+0,28
+
+0,058
+0,04
+0,056
+0,037
+0,09
+0,042
+0,054
+0,086
+0,046
+0,026
+500
+0,05
+0,11
+
+24,4
+15 let
+0,05
+0,5
+0,12
+0,066
+
+0,59
+0,35
+
+0,065
+0,051
+0,072
+0,049
+0,12
+0,057
+0,069
+0,12
+0,059
+0,032
+790
+0,063
+0,16
+
+39,6
+10 let
+0,087
+0,76
+0,16
+0,13
+
+0,85
+0,62
+
+0,1
+0,08
+0,11
+0,082
+0,21
+0,09
+0,11
+0,16
+0,096
+0,054
+1200
+0,1
+0,26
+
+59,4
+5 let
+0,14
+1,2
+0,23
+0,22
+
+1,5
+1
+
+0,17
+0,13
+0,17
+0,14
+0,33
+0,14
+0,18
+0,22
+0,15
+0,089
+2600
+0,16
+0,41
+
+130
+1 rok
+0,28
+2,3
+0,35
+0,4
+
+3
+2
+
+0,3
+0,24
+0,29
+0,27
+0,56
+0,27
+0,32
+0,35
+0,28
+0,18
+4700
+0,3
+0,71
+
+237
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/13
+
+55% vychytávání štítnou žlázou
+
+
+
+Orgán
+Absorbovaná dávka
+na jednotku podané aktivity (mGy/MBq)
+
+
+nadledviny
+močový měchýř – stěna povrchy kostí
+prs
+GI trakt
+žaludek – stěna tenké střevo tlusté střevo
+-  stěna horní část
+-  stěna dolní část
+ledviny játra plíce vaječníky pankreas
+červená dřeň slezina varlata štítná žláza děloha ostatní tkáň
+
+Efektivní dávka
+(mSv/MBq)
+Dospělý
+0,049
+0,29
+0,11
+0,091
+
+0,46
+0,28
+
+0,058
+0,039
+0,051
+0,043
+0,13
+0,041
+0,058
+0,12
+0,051
+0,026
+790
+0,046
+0,16
+
+38,4
+15 let
+0,058
+0,36
+0,17
+0,089
+
+0,59
+0,35
+
+0,067
+0,049
+0,068
+0,058
+0,18
+0,056
+0,076
+0,18
+0,068
+0,031
+1200
+0,06
+0,24
+
+62
+10 let
+0,11
+0,54
+0,22
+0,19
+
+0,86
+0,62
+
+0,11
+0,078
+0,1
+0,097
+0,3
+0,09
+0,13
+0,22
+0,11
+0,052
+1900
+0,099
+0,37
+
+93,3
+5 let
+0,17
+0,85
+0,32
+0,31
+
+1,5
+1
+
+0,18
+0,13
+0,17
+0,17
+0,48
+0,15
+0,21
+0,29
+0,17
+0,087
+4100
+0,16
+0,59
+
+205
+1 rok
+0,34
+1,6
+0,48
+0,56
+
+3
+2
+
+0,32
+0,24
+0,29
+0,33
+0,8
+0,27
+0,38
+0,46
+0,33
+0,17
+7400
+0,3
+1
+
+373
+
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Přípravek je tobolka pro perorální podání a má být použit v souladu s bodem 4.2.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13/13
