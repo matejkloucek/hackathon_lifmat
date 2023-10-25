@@ -1,14 +1,23 @@
 import { ActiveIngredientDetail } from "../model/ActiveIngredientDetail";
-import { Stack, Typography } from "@mui/material";
+import { Dialog, IconButton, Stack, Typography } from "@mui/material";
 import { Border, FontWeight } from "../theme/utils";
 import { Colors } from "../theme/colors";
 import { MedicineDetailBox } from "./MedicineDetailBox";
+import QRCode from "qrcode.react";
+import { useState } from "react";
+import LinkIcon from "@mui/icons-material/Link";
 
 type Props = {
   activeIngredient: ActiveIngredientDetail;
 };
 
 export const ActiveIngredientPage = ({ activeIngredient }: Props) => {
+  const [dialogOpen, setDialogOpen] = useState<boolean>(false);
+  const [pdfPath, setPdfPath] = useState<string>("");
+
+  const handleClose = () => {
+    setDialogOpen(false);
+  };
   const alternativeText = () => {
     if (activeIngredient.medicines.length > 4) {
       return (
@@ -84,12 +93,28 @@ export const ActiveIngredientPage = ({ activeIngredient }: Props) => {
       {activeIngredient.medicines.length > 0 &&
         activeIngredient.medicines.map((entry) => (
           <Stack border={Border.Grey.Thick} width={"1000px"} bgcolor={Colors.grey50} paddingX={1} marginY={3}>
-            <Typography marginTop={1} fontWeight={FontWeight.Bold} fontSize={20}>
-              {entry.name}
-            </Typography>
+            <Stack direction={"row"}>
+              <Typography marginTop={1} fontWeight={FontWeight.Bold} fontSize={20}>
+                {entry.name}
+              </Typography>
+              <IconButton
+                size={"large"}
+                onClick={() => {
+                  setDialogOpen(true);
+                  setPdfPath(entry.name); //todo: replace name with actual pdf path
+                }}
+              >
+                <LinkIcon sx={{ marginTop: "3px" }} />
+              </IconButton>
+            </Stack>
             <MedicineDetailBox medicine={entry} />
           </Stack>
         ))}
+      <Dialog open={dialogOpen} onClose={handleClose}>
+        <Stack padding={2} width={"300px"} height={"300px"} alignItems={"center"} justifyContent={"center"}>
+          <QRCode value={pdfPath} size={250} />
+        </Stack>
+      </Dialog>
     </Stack>
   );
 };
