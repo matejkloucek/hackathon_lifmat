@@ -5,6 +5,6 @@ export const parseDrugsAndIngredients = (data: any[]): DrugsAndIngredients[] => 
   return data.map((entry) => ({
     id: entry.id,
     name: entry.name,
-    type: entry.type === "drug" ? DrugType.Drug : DrugType.Ingredient,
+    type: entry.type === "medicine" ? DrugType.Drug : DrugType.Ingredient,
   }));
 };
