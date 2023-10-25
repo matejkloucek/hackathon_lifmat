@@ -1,14 +1,23 @@
 import { Medicine } from "../model/Medicine";
-import { Stack, Typography } from "@mui/material";
+import { Dialog, IconButton, Stack, Typography } from "@mui/material";
 import { Border, FontWeight } from "../theme/utils";
 import { Colors } from "../theme/colors";
 import { MedicineDetailBox } from "./MedicineDetailBox";
+import LinkIcon from "@mui/icons-material/Link";
+import { useState } from "react";
+import QRCode from "qrcode.react";
 
 type Props = {
   medicine: Medicine;
 };
 
 export const MedicinePage = ({ medicine }: Props) => {
+  const [dialogOpen, setDialogOpen] = useState<boolean>(false);
+  const [pdfPath, setPdfPath] = useState<string>("");
+
+  const handleClose = () => {
+    setDialogOpen(false);
+  };
   const alternativesText = () => {
     if (medicine.alternativeMedicines.length > 1 && medicine.alternativeMedicines.length < 5) {
       return (
@@ -80,7 +89,7 @@ export const MedicinePage = ({ medicine }: Props) => {
   };
   return (
     <Stack marginBottom={10}>
-      <Stack direction={"row"} marginTop={5}>
+      <Stack direction={"row"} marginTop={5} alignItems={"center"}>
         <Typography fontSize={20} marginRight={"6px"}>
           Detail léku
         </Typography>
@@ -90,6 +99,15 @@ export const MedicinePage = ({ medicine }: Props) => {
         <Typography fontSize={20} marginLeft={"3px"}>
           :
         </Typography>
+        <IconButton
+          size={"large"}
+          onClick={() => {
+            setDialogOpen(true);
+            setPdfPath(medicine.name); //todo: replace name with actual pdf path
+          }}
+        >
+          <LinkIcon />
+        </IconButton>
       </Stack>
       <Stack border={Border.Grey.Thick} width={"1000px"} bgcolor={Colors.grey50} paddingX={1} marginTop={1}>
         <MedicineDetailBox medicine={medicine} />
@@ -98,12 +116,28 @@ export const MedicinePage = ({ medicine }: Props) => {
       {medicine.alternativeMedicines.length > 0 &&
         medicine.alternativeMedicines.map((entry) => (
           <Stack border={Border.Grey.Thick} width={"1000px"} bgcolor={Colors.grey50} paddingX={1} marginY={3}>
-            <Typography marginTop={1} fontWeight={FontWeight.Bold} fontSize={20}>
-              {entry.name}
-            </Typography>
+            <Stack direction={"row"}>
+              <Typography marginTop={1} fontWeight={FontWeight.Bold} fontSize={20}>
+                {entry.name}
+              </Typography>
+              <IconButton
+                size={"large"}
+                onClick={() => {
+                  setDialogOpen(true);
+                  setPdfPath(entry.name); //todo: replace name with actual pdf path
+                }}
+              >
+                <LinkIcon sx={{ marginTop: "3px" }} />
+              </IconButton>
+            </Stack>
             <MedicineDetailBox medicine={medicine} />
           </Stack>
         ))}
+      <Dialog open={dialogOpen} onClose={handleClose}>
+        <Stack padding={2} width={"300px"} height={"300px"} alignItems={"center"} justifyContent={"center"}>
+          <QRCode value={pdfPath} size={250} />
+        </Stack>
+      </Dialog>
     </Stack>
   );
 };
