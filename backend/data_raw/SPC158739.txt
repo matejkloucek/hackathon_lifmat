@@ -1,0 +1,365 @@
+sp.zn. sukls108211/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Kybernin P 500 IU prášek a rozpouštědlo pro injekční/infuzní roztok Kybernin P 1000 IU prášek a rozpouštědlo pro injekční/infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ¨
+Kybernin P je dodáván jako prášek a rozpouštědlo pro injekční/infuzní roztok.
+Jedna injekční lahvička obsahuje nominálně antithrombinum III 500 IU/1000 IU, vyrobeného z plazmy lidských dárců.
+
+Po rekonstituci v 10 ml/20 ml vody pro injekci obsahuje 1 ml roztoku přibližně antithrombinum III 50 IU vyrobeného z plazmy lidských dárců.
+Aktivita (IU) se určuje pomocí chromogenního substrátového testu podle Ph.Eur. Specifická aktivita přípravku Kybernin P je přibližně 5 IU/mg proteinu.
+Pomocné látky se známým účinkem:
+Tento léčivý přípravek obsahuje maximálně 44,76 mg sodíku v jedné injekční lahvičce přípravku s 500 IU antithrombinu III, což odpovídá 2 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Tento léčivý přípravek obsahuje maximálně 89,52 mg sodíku v jedné injekční lahvičce přípravku
+s 1000 IU antithrombinu III, což odpovídá 4,5 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+Prášek a rozpouštědlo pro injekční/infuzní roztok.
+Popis přípravku:
+Prášek: bílý, jemný prášek. Rozpouštědlo: čirý, bezbarvý roztok
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Prevence a léčba tromboembolických komplikací u:
+-  dědičného deficitu antithrombinu III
+-  získaného deficitu antithrombinu III
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+U vrozeného nedostatku by mělo být dávkování individuální pro každého pacienta s ohledem na rodinnou anamnézu tromboembolických příhod, současné klinické rizikové faktory a laboratorní vyšetření.
+Dávkování a doba trvání substituční léčby u získaného deficitu závisí na plazmatické hladině
+antithrombinu III, na přítomnosti známek zvýšeného obratu, na základním onemocnění a závažnosti
+
+1
+
+klinickém stavu. Podávané množství a četnost podávání by měla být vždy stanovena na základě klinické účinnosti a laboratorního vyšetření v individuálním případě.
+Počet jednotek antithrombinu III je vyjádřen v mezinárodních jednotkách (IU), které jsou vztaženy k aktuálnímu standardu WHO pro antithrombin III. Aktivita antithrombinu III v plazmě se vyjadřuje buď v procentech (vzhledem k normální lidské plazmě), nebo v mezinárodních jednotkách (vzhledem k mezinárodnímu standardu pro antithrombin III v plazmě).
+
+Jedna mezinárodní jednotka (IU) aktivity antithrombinu III je ekvivalentní množství antithrombinu III v jednom ml normální lidské plazmy. Výpočet požadované dávky antithrombinu III je založen na empirickém zjištění, že 1 mezinárodní jednotka (IU) antithrombinu III na kg tělesné hmotnosti zvyšuje plazmatickou antithrombinovou aktivitu přibližně o 1,5 %.
+Počáteční dávka se určuje podle následujícího vzorce:
+
+Požadované jednotky = tělesná hmotnost [kg] × (100 – skutečná aktivita antithrombinu III [%]) × 2/3
+
+Počáteční cílová aktivita antithrombinu III závisí na klinickém stavu. Pokud je stanovena indikace pro substituci  antithrombinu III,  má být dávkování dostatečné, aby se  dosáhlo cílové  aktivity antithrombinu III a byla udržena účinná hladina. Dávkování se má stanovit a sledovat na základě laboratorních měření biologické aktivity antithrombinu III, které mají být prováděny alespoň dvakrát denně do stabilizace pacienta, pak jednou denně, nejlépe bezprostředně před další infuzí. Úprava dávkování má zohlednit jak známky zvýšeného obratu antithrombinu III podle laboratorních hodnot, tak i klinický průběh. Aktivita antithrombinu III má být během léčby udržována nad 80 %, pokud klinické údaje nevyžadují jinou účinnou hladinu.
+
+Obvyklá počáteční dávka při vrozeném nedostatku je 30-50 IU/kg.
+
+Potom se dávkování, frekvence a délka trvání léčby má upravit podle biologických údajů a klinické
+situace.
+
+Pediatrická populace
+40 – 60 IU antithrombinu III na kg tělesné hmotnosti denně v závislosti na stavu koagulace. Jestliže to klinický stav vyžaduje, mohou být v individuálních případech podávány vyšší dávky. V takových případech musí být aktivita antithrombinu III sledována častěji a neměla by překročit 120 %.
+
+Způsob podání
+Pokyny pro rekonstituci přípravku před podáním, viz bod 6.6.
+Podávejte pomalu intravenózně injekcí nebo infuzí (max. 4 ml/min).
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Údaje z klinických studií a systematických revizí ohledně použití antithrombinu III k léčbě předčasně narozených dětí v neschválené indikace syndromu dechové tísně novorozence (Infant Respiratory Distress Syndrome, IRDS) svědčí o zvýšeném riziku intrakraniálního krvácení a mortality při nepřítomnosti prokázaného příznivého účinku.
+
+Možné jsou hypersenzitivní reakce alergického typu podobně jako v případě všech intravenózních léků s obsahem proteinů. Pacienti se musejí po dobu infuze podrobně monitorovat a pečlivě pozorovat ohledně jakýchkoliv příznaků. Pacienty je třeba informovat o časných příznacích reakcí z přecitlivělosti, které zahrnují vyrážky, generalizovanou kopřivku, napětí v hrudi, sípání, hypotenzi
+a anafylaxi. Pokud se po podání objeví tyto příznaky, je třeba, aby se pacienti spojili se svým lékařem. V případě šoku je třeba poskytnout standardní lékařské ošetření.
+2
+
+Virová bezpečnost
+Standardní opatření k prevenci přenosu infekce v souvislosti s používáním léčivých přípravků vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, testování jednotlivých odběrů krve a plazmatických poolů na specifické markery infekce a zařazení účinných výrobních kroků pro inaktivaci / odstranění virů. Přes všechna tato opatření při přípravě léků vyráběných z lidské krve nebo plazmy, možnost přenosu infekce nemůže být zcela vyloučena. To platí i pro jakékoli neznámé nebo vznikající viry a jiné patogeny.
+
+Přijatá opatření jsou považována za účinná u obalených virů, jako je virus lidské imunodeficience (HIV), virus hepatitidy B (HBV), virus hepatitidy C (HCV) a pro neobalené viry jako je virus hepatitidy A (HAV) a parvovirus B19.
+
+Vhodné očkování (hepatitida A a B), by mělo být zváženo u pacientů, kteří pravidelně/opakovaně dostávají přípravky s antithrombinem pocházející z lidské plazmy.
+
+Důrazně se doporučuje, aby byly zaznamenány název a číslo šarže přípravku při každém podání přípravku Kybernin P pacientovi pro zachování souvislosti mezi pacientem a šarží přípravku.
+Klinické a biologické sledování při použití antithrombinu III spolu s heparinem:
+-  Při úpravě dávkování heparinu a zabránění nadměrné hypokoagulaci se mají pravidelně provádět kontroly rozsahu antikoagulace (APPT a případně aktivita anti-FXa) v krátkých intervalech, zejména v prvních minutách/hodinách po zahájení používání antithrombinu III.
+-  Každodenní měření hladiny antithrombinu III na úpravu individuální dávky vzhledem k riziku snížení hladiny antithrombinu III při dlouhodobé léčbě nefrakcionovaným heparinem.
+Obsah sodíku
+Tento léčivý přípravek obsahuje maximálně 44,76 mg sodíku v jedné injekční lahvičce přípravku s 500 IU antithrombinu III, což odpovídá 2 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Tento léčivý přípravek obsahuje maximálně 89,52 mg sodíku v jedné injekční lahvičce přípravku
+s 1000 IU antithrombinu III, což odpovídá 4,5 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Heparin: náhrada antithrombinu III během podávání heparinu v terapeutických dávkách zvyšuje riziko krvácení. Účinek antithrombinu III je výrazně zvýšený heparinem. Biologický poločas antithrombinu III může výrazně klesnout při současném podávání heparinu v důsledku zrychleného metabolismu antithrombinu III. Proto u pacientů se zvýšeným rizikem krvácení je třeba klinicky a biologicky sledovat souběžné podávání antithrombinu III s heparinem.
+
+4.6  Fertilita, těhotenství a kojení
+Zkušenosti s bezpečností přípravků s obsahem lidského antithrombinu III během těhotenství u lidí jsou
+omezené.
+Bezpečnost používání Kyberninu P u těhotných žen nebyla stanovena v kontrolovaných klinických studiích. Údaje z experimentálních studií na zvířatech nepostačují k určení míry bezpečnosti vzhledem k reprodukci, vývoji embrya nebo plodu, průběhu gestace a pre- a postnatálnímu vývoji.
+
+Neexistuje žádná negativní zkušenost, pokud jde o léčbu během těhotenství a kojení.
+Proto má být Kybernin P podáván těhotným nebo kojícím ženám s nedostatkem antithrombinu III pouze pokud je to jednoznačně indikováno, přičemž v případě těchto pacientek je třeba vzít v úvahu, že těhotenství znamená zvýšené riziko tromboembolických událostí.
+
+
+
+
+
+3
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Hypersenzitivita nebo alergické reakce (které mohou zahrnovat angioedém, pálení a píchání v místě infuze, zimnici, zčervenání, generalizovanou kopřivku, bolest hlavy, kopřivku, hypotenzi, letargii, nauzea, neklid, tachykardii, tlak na hrudi, mravenčení, zvracení, pískání) byly pozorovány vzácně, a v některých případech mohou přejít až do těžké anafylaxe (včetně šoku).
+
+Ve vzácných případech byla pozorována horečka.
+
+Následující nežádoucí účinky byly získány z postmarketingových zkušeností.
+V případě, že jsou k dispozici údaje, byly použity následující standardní kategorie četnosti:
+
+Velmi časté     > 1/10
+Časté         > 1/100 až < 1/10
+Méně časté      > 1/1000 až < 1/100
+Vzácné        > 1/10 000 až < 1/1000
+Velmi vzácné    > 1/10 000 (včetně hlášených jednotlivých případů)
+
+
+Třída orgánových systémů Poruchy nervového systému
+
+
+
+Celkové poruchy a reakce v místě aplikace
+Nežádoucí účinky Hypersenzitivita / anafylaktické reakce včetně těžké anafylaxe a šoku
+Horečka
+Frekvence
+Vzácné
+
+
+
+Vzácné
+
+Informace o virové bezpečnosti jsou uvedeny v bodě 4.4.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Nebyly hlášeny žádné příznaky předávkování antithrombinem III.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina:
+Antitrombotika, hepariny ATC kód: B01AB02
+Antithrombin III s molekulovou hmotností 58 kD je glykoprotein složený ze 432 aminokyselin, který patří do velké skupiny serpinů (inhibitory serinproteázy). Je to jeden z nejdůležitějších přirozených inhibitorů krevní koagulace. Inhibiční působení je založeno na tvorbě kovalentní vazby mezi
+
+4
+
+antithrombinem III a aktivním centrem serinových proteáz. K faktorům, které jsou inhibovány nejsilněji, patří trombin a faktor Xa, ale také faktory aktivace kontaktu, vlastního systému a faktor VIIa/komplex tkáňových faktorů. Aktivitu antithrombinu III značně zvyšuje heparin a antikoagulační účinky heparinu závisí na přítomnosti antithrombinu III.
+
+Antithrombin III obsahuje dvě funkčně důležité domény. První doména obsahuje reaktivní centrum a představuje místo štěpení pro proteinázy, jako je například trombin, předpoklad pro tvorbu stabilního komplexu proteináza-inhibitor. Druhá doména se váže na glykosaminoglykan a je zodpovědná za interakci s heparinem a příbuznými látkami, což urychluje inhibici trombinu. Komplexy inhibitor- koagulační enzym se odstraňují prostřednictvím retikuloendoteliálního systému.
+Aktivita antithrombinu III u dospělých je 80-120 % a u novorozenců je asi 40-60 %.
+
+5.2  Farmakokinetické vlastnosti
+
+Intravenózní podání znamená, že přípravek je dostupný okamžitě po podání; jeho biologická dostupnost je přímo úměrná podané dávce. U 5 zdravých testovaných osob bylo po podání zjištěno 65 % podané dávky in vivo (kvantifikováno při tmax = 1,15 hodin).
+Kybernin je distribuován a metabolizován stejným způsobem jako fyziologický inhibitor.
+
+Biologický poločas je 2,5 dne, ale za podmínek akutní spotřeby může být zkrácen na několik hodin. U takových pacientů je nutné stanovovat aktivitu antithrombinu III několikrát denně. Pro tyto účely je vhodná analytická metoda s využitím chromogenního substrátu.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Toxikologické vlastnosti
+Lidský antithrombin III je normální složkou lidské plazmy. Testování toxicity po jednorázovém podání má malý význam a nedovoluje odhadnout toxické či letální dávky. Na zvířecích modelech nebyly nalezeny žádné známky akutní toxicity.
+
+Testování toxicity po opakovaném podání na zvířatech je neproveditelné, protože se tvoří protilátky proti heterologním proteinům.
+Mutagenita
+Dosavadní zkušenosti z klinické praxe nenaznačují, že by přípravek měl toxické účinky na embryo či plod. Nebyly pozorovány onkogenní ani mutagenní účinky.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Prášek:
+Glycin Chlorid sodný
+Dihydrát natrium-citrátu
+Kyselina chlorovodíková 35% nebo hydroxid sodný (na úpravu pH)
+
+Rozpouštědlo:
+Voda pro injekci
+
+6.2  Inkompatibility
+
+Vzhledem k pozorované ztrátě aktivity antithrombinu III se nedoporučuje použít hydroxyethylškrob (HES) jako rozpouštědlo na infuze.
+
+
+5
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky v injekční stříkačce/infuzní soupravě s výjimkou těch, které jsou uvedeny v bodě 6.6.
+Stejným žilním přístupem nemají být podávány dopamin, dobutamin a furosemid.
+
+6.3  Doba použitelnosti
+
+3 roky.
+
+Kybernin P nesmí být používán po uplynutí doby použitelnosti uvedené na obalu a injekční lahvičce.
+
+Chemická a fyzikální stabilita po rekonstituci před použitím byla prokázána na dobu 8 hodin při pokojové teplotě (do 25 °C).
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele.
+
+Pokud již byla injekční lahvička otevřená, obsah se musí okamžitě použít.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem.
+
+Podmínky uchovávání po rekonstituci přípravku viz bod 6.3.
+6.5  Druh obalu a obsah balení
+
+Prášek (500/1000 IU) v injekční lahvičce (sklo třídy II) se zátkou, hliníkovým uzávěrem
+a odtrhovacím víčkem (polypropylen).
+Rozpouštědlo (10/20 ml) v injekční lahvičce (sklo třídy I) se zátkou, hliníkovým uzávěrem
+a odtrhovacím víčkem (polypropylen).
+
+Transferový set
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecné pokyny
+Prášek se úplně rozpustí v dodaném množství vody pro injekci za aseptických podmínek. Získá se čirý nebo slabě opalizující roztok.
+
+Pro podání infuzí se doporučuje k ředění použít 5% roztok lidského albuminu. K přípravě ředění do poměru 1:5 jsou také vhodné tyto roztoky: Ringerův laktátový roztok, fyziologický roztok chloridu sodného, 5% roztok glukosy, nebo polygelin.
+
+Rekonstituovaný přípravek musí být vizuálně zkontrolován na výskyt částic a změnu barvy před podáním. Roztok musí být čirý nebo slabě opalizující. Nepoužívejte roztoky, které jsou zakalené nebo obsahují usazeniny.
+
+
+Rekonstituce
+Pro správné zacházení s dvojitým hrotem Transofix postupujte podle následujících kroků:
+
+
+
+6
+
+1. Po odstranění jedné ze dvou ochranných krytek zatlačte odkrytý
+hrot kolmo na pryžovou zátku injekční lahvičky s rozpouštědlem.
+
+
+
+
+
+
+2. Odstraňte ochrannou krytku z druhého hrotu.
+
+
+
+
+
+
+
+
+3. Nejdříve propíchněte tímto hrotem zátku injekční lahvičky
+s přípravkem.
+
+
+
+
+
+
+
+4. Otočte celou sestavu o 180°.
+
+
+
+
+
+
+
+
+5. Postavte injekční lahvičku s přípravkem dnem dolů. Rozpouštědlo nyní přeteče do injekční lahvičky s přípravkem.
+
+
+
+
+
+
+
+6. Vytáhněte dvojitý hrot Transofix spolu s injekční lahvičkou od rozpouštědla z injekční lahvičky s přípravkem a následně se přípravek Kybernin P rozpustí. Rekonstituovaný přípravek Kybernin P můžete natáhnout do injekční stříkačky a podat.
+
+
+
+
+
+
+
+7
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+CSL Behring GmbH
+Emil-von-Behring-Strasse 76
+35041 Marburg, Německo
+
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+75/131/84-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace:19.3.1984
+Datum posledního prodloužení registrace: 19.9.2012
+
+10.  DATUM REVIZE TEXTU
+
+24. 6. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8

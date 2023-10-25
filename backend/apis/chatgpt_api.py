@@ -6,6 +6,7 @@ import time
 # openai.api_key = "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"
 # openai.api_key = "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"
 
+
 def get_completion(prompt, model="gpt-3.5-turbo-0301"):
     messages = [{"role": "user", "content": prompt}]
     response = openai.ChatCompletion.create(
@@ -14,6 +15,7 @@ def get_completion(prompt, model="gpt-3.5-turbo-0301"):
         temperature=0,)
 
     return response.choices[0].message["content"]
+
 
 def clean_data():
     pass

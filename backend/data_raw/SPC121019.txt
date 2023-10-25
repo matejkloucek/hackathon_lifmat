@@ -1,0 +1,424 @@
+sp. zn. sukls124025/2013
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Nano-Albumon 1 mg kit pro radiofarmakum
+
+2. KVALITATIVNÍ I KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje:
+Léčivou látku: 1,0 mg Seroalbuminum humanum aggregatum (1,0 mg nanokoloidu lidského albuminu)
+
+Pomocné látky:
+Úplný seznam pomocných látek viz bod 6.1.
+
+Radionuklid není součástí kitu.
+
+Nejméně 95% koloidních částic lidského albuminu má průměr ≤ 80 nm.
+NANO-ALBUMON kit je připraven z lidského sérového albuminu získaného z krve dárců testovaných podle předpisů EEC a shledaných negativními na:
+- povrchový antigen (HBsAg) hepatitídy B
+- protilátky proti viru lidské imunodeficience (anti-HIV 1/2)
+- protilátky proti viru hepatitidy C (anti-HCV)
+
+
+3. LÉKOVÁ FORMA
+
+Kit pro radiofarmakum
+Bílý až nažloutlý prášek pro přípravu injekčního roztoku.
+K rekonstituci s injekčním roztokem technecistanu-(⁹⁹ᵐTc) sodného.
+
+4. KLINICKÉ ÚDAJE
+
+4.1. Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+Po značení s injekčním roztokem technecistanu- (⁹⁹ᵐTc) sodného je získaný roztok indikován
+pro:
+- scintigrafii kostní dřeně: pro vizualizaci defektů rozložení kostní dřeně a lokalizaci kostní dřeně  do  dlouhých  kostí  objevující  se  u  myelofibrózy,  hemolytické  anémie  nebo myelofibrozních procesů. Přípravek není vhodný pro studium hematopoetické aktivity kostní dřeně.
+-lymfoscintigrafii: vhodná pro průkaz úplné nebo částečné obstrukce lymfatických cest, nebo ztráty  funkce  RES  lymfatických  uzlin  a  pro  sledování  efektu  externího a endolymfatického ozáření.
+
+
+
+Strana 1 (celkem 10)
+
+4.2. Dávkování a způsob podání
+Dávky pro dospělé
+Přesné dávkování vždy určí lékař. Doporučená dávka pro dospělého pacienta je pro scintigrafii kostní dřeně i.v. podání 185 - 500 MBq a pro lymfoscintigrafii s.c. podání do podkožního vaziva 18,5 - 110 MBq. Při subkutánní aplikaci je nutná aspirace pro zjištění nechtěného poranění krevních cév.
+Diagnostická referenční úroveň pro scintigrafii kostní dřeně je 500 MBq. Vyšší aktivity lze podat pouze ve zvlášť zdůvodnitelných případech.
+
+Dávky pro děti
+Použití u dětí a dospívajících je třeba pečlivě zvážit na základě klinických potřeb a posouzení poměru rizik / přínosů v této skupině pacientů. Aktivity pro podání dětem           a dospívajícím mohou být vypočteny dle doporučení Paediatric Task Group EANM z tělesné hmotnosti dle následující tabulky.
+
+Podíl z dávky pro dospělé
+
+3 kg = 0.10        22 kg = 0.50           42 kg = 0.78
+4 kg = 0.14        24 kg = 0.53           44 kg = 0.80
+6 kg = 0.19        26 kg = 0.56           46 kg = 0.82
+8 kg = 0.23        28 kg = 0.58           48 kg = 0.85
+10 kg = 0.27        30 kg = 0.62           50 kg = 0.88
+12 kg = 0.32        32 kg = 0.65         52-54 kg = 0.90
+14 kg = 0.36        34 kg = 0.68         56-58 kg = 0.92
+16 kg = 0.40        36 kg = 0.71         60-62 kg = 0.96
+18 kg = 0.44        38 kg = 0.73         64-66 kg = 0.98
+20 kg = 0.46        40 kg = 0.76           68 kg = 0.99
+
+U velmi malých dětí (do 1 roku) je nezbytná minimální dávka 20 MBq (sken kostní dřeně) pro získání obrazu dostatečné kvality.
+U dětí lze přípravek zředit až 1:50 injekčním roztokem chloridu sodného.
+
+Způsob podání
+Tento  léčivý  přípravek  musí  být  rekonstituován  před  podáním  pacientovi.  Pokyny k rekonstituci tohoto léčivého přípravku před jeho podáním jsou uvedeny v bodě 12.
+Tento přípravek není určen pro pravidelné nebo kontinuální podávání.
+
+Intravenózní podání
+-  pro zobrazení kostní dřeně
+
+Subkutánní podání
+- pro konvenční lymfoscintigrafii
+Aplikovaná aktivita závisí od počtu aplikačních míst (je rozdělena na jedno nebo více subkutánních - intersticiálních injekcí) a na vyšetřovaných anatomických oblastech a na časovém intervalu mezi injekcí a zobrazením. Aplikovaný objem by neměl překročit 0,2 až 0,3 ml. Maximální objem 0,5 ml na injekci je kritický.
+Na požadovaném místě se podává subkutánně po kontrole aspirací, zdali nedošlo nechtěně k
+napíchnutí cév.Pořízení obrazů
+- zobrazení kostní dřeně může být provedeno za 45-60 minut po podání
+
+
+Strana 2 (celkem 10)
+
+- při lymfoscintigrafii dolních končetin jsou dynamické obrázky pořízeny ihned po injekci a statické zobrazování o 30-60 minut později. Při parasternálnm lymfatickém zobrazení mohou být vyžadovány opakované injekce a další zobrazování.
+
+4.3. Kontraindikace
+Přecitlivělost na léčivou látku, na kteroukoli pomocnou látku nebo na některou ze složek značeného  radiofarmaka.  Použití  (⁹⁹ᵐTc)-koloidních  částic  lidského  albuminu  je kontraindikováno u osob v anamnéze s přecitlivělosti na přípravky obsahující lidský albumin. Během těhotenství je lymfoscintigrafie zahrnující pánev přísně kontraindikována kvůli akumulaci radiofarmaka v lymfatických uzlinách.
+Lymfoscintigrafie je kontraindikována u pacientů s kompletní blokádou lymfatického systému.
+
+4.4. Zvláštní upozornění a opatření pro použití
+Těhotenství viz bod 4.6
+Přípravek se bez rekonstituce s technecistanem-( ⁹⁹ᵐTc) sodným nesmí podávat pacientům. Přípravek v lahvičce před nasátím do injekční stříkačky jemně promíchejte. V případě nutnosti doplňte objem izotonickým roztokem chloridu sodného bez oxidačních látek.
+
+Připravenost v případě přecitlivělosti nebo anafylaktických reakcí
+Pokud dojde k hypersenzitivní nebo anafylaktické reakci, musí být podávání léčivého přípravku okamžitě přerušeno a pokud je třeba zahájena intravenózní léčba. Pro umožnění okamžitého zásahu v případě nouze, musí být okamžitě k dispozici potřebné léčivé přípravky a vybavení, jako jsou endotracheální trubice a resuscitační zařízení.
+
+Individuální odůvodnění přínosu/rizika
+U každého pacienta musí být radiační expozice odůvodnitelná dle pravděpodobného přínosu. Podaná aktivita by vždy měla být tak nízká, s jakou lze odůvodnitelně dosáhnout požadované diagnostické informace.
+
+Přípravek nemá být podáván těhotným ženám nebo kojícím matkám nebo pacientům mladším 18 let s výjimkou, kdy hodnota požadované klinické informace převažuje riziko radiační zátěže vzniklé pacientovi. U žen ve fertilním věku by vyšetření mělo být provedeno během prvních 10 dnů po začátku menstruace.
+Pediatrická populace
+Pro informace o použití u pediatrické populace, viz bod 4.2. nebo 5.1.
+Je nutné pečlivé zvážení indikace, protože efektivní dávka na MBq je vyšší než u dospělých
+(viz. bod 11).
+
+Dospívající viz. bod 4.2
+
+Důrazně se doporučuje, aby název přípravku a číslo šarže byly uvedeny při každém podání (⁹⁹ᵐTc)-nanokoloidu albuminu pacientovi, pro zachování spojení mezi pacientem a číslem šarže přípravku.
+
+Standardní opatření k zabránění přenosu infekcí z léčiv vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, testování jednotlivých dárců a plazmatických poolů na hledání konkrétních infekčních agens a také účinné výrobní kroky pro inaktivaci/eliminaci viru z výrobního procesu. Přesto nelze riziko přenosu infekčních agens odstranit úplně, dokud jsou
+
+
+
+Strana 3 (celkem 10)
+
+používána léčiva vyráběná z lidské krve nebo plazmy. To stejné platí i pro nové viry neznámé povahy a další patogeny.
+
+Neexistují žádné zprávy o přenosu viru v souvislosti s albuminem, provedené v souladu se specifikacemi v Ph. Eur. a v souladu s běžnými postupy.
+
+Lymfoscintigrafie je kontraidikována u pacientů s úplnou lymfatickou obstrukcí kvůli potenciálnímu radiačnímu nebezpečí v místech vpichu. Podkožní injekce musí být podána bez tlaku do volné pojivové tkáně.
+
+Preventivní opatření s ohledem na nebezpečí pro životní prostředí jsou uvedeny v bodě 6.6.
+
+Lidský albumin obsažený v přípravku NANO-ALBUNOM kit odpovídá požadavkům " Note for Guidance on Plasma Derived Products ", CPMP / BWP / 269/95, rev. 2. Pro výrobu NANO-ALBUMON kit byl použit pouze lidský albumin z plazmy dárců, jejichž krev byla při příležitosti každého odběru kontrolována individuálně vhodnými metodami proti HBsAg a protilátkám proti HIV-1, HIV-2 a HCV a byla shledána negativní. Krev nebo plazma dárců ze země, kde se objevilo několik případů vCJK, se nepoužívá k výrobě lidského albuminu.
+
+Příprava pacienta
+Pacient by měl být před zahájením vyšetření dobře hydratován. Pro snížení ozáření by měl být vyzván k močení tak často, jak je to jen možné v průběhu prvních hodin po vyšetření.
+
+Zvláštní upozornění
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jedné dávce, tj. je v podstatě "bez sodíku".
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Jodované kontrastní látky používané v lymfoangiografii mohou interferovat s lymfatickým zobrazením pomocí přípravku (⁹⁹ᵐTc)-NANO-ALBUMON kit.
+
+4.6. Fertilita, těhotenství a kojení
+Ženy ve fertilním věku
+Je-li nutné podat radioaktivní léčivý přípravek ženám ve fertilním věku, je vždy nutno pátrat po možném těhotenství. Každá žena, které vynechala menstruace, má být považována za těhotnou, dokud se neprokáže opak. V případě nejistoty je důležité, aby radiační expozice byla minimální v souladu s dosažením požadované klinické informace. Vždy by měly být zváženy alternativní techniky bez ionizujícího záření.
+
+Těhotenství
+Subkutánní podání přípravku (⁹⁹ᵐTc)-NANO-ALBUMON kit pro lymfoscintigrafii je přísně kontraindikováno během těhotenství kvůli jeho možnému hromadění v pánevních lymfatických uzlinách.
+Radionuklidové procedury prováděné u těhotných žen rovněž zahrnují radiační dávku na plod. Proto by v průběhu těhotenství měla být prováděna jen naléhavá vyšetření, kdy předpokládaný přínos vysoce převažuje riziko způsobené matce a plodu. Intravenózní dávka 500 MBq (⁹⁹ᵐTc)-NANO-ALBUMON kitu vede k odhadované expozici dělohy 0,9 mGy. Expozice dělohy vyšší než 0,5 mGy je považována za potenciální riziko pro plod.
+
+Kojení
+
+
+Strana 4 (celkem 10)
+
+Před podáním radiofarmaka kojící matce by mělo být zváženo, zda lze vyšetření odůvodnitelně odložit, dokud matka nepřestane kojit a zda byl proveden výběr nejvhodnějšího radiofarmaka s ohledem na sekreci radioaktivity do mateřského mléka. Je-li podání považováno za nutné, kojení by mělo být přerušeno po dobu 13 hodin a odsáté mléko zlikvidováno. Po tuto dobu by měl být omezen blízky kontakt s malými dětmi.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+NANO-ALBUMON kit nemá žádný, nebo má zanedbatelný vliv na schopnost řídit
+a obsluhovat stroje.
+
+4.8. Nežádoucí účinky
+Frekvence nežádoucích účinků jsou definovány takto: Velmi časté (≥1/10)
+Časté (≥1/100 to <1/10)
+Méně časté (≥1/1000 to <1/100) Vzácné (≥1/10000 to <1/1000) Velmi vzácné (<1/10000)
+Není známo (nelze odhadnout z dostupných údajů)
+
+
+Vrozené, familiární a genetické vady Frekvence není známa (nelze odhadnout z dostupných údajů)
+Novotvary  benigní,  maligní  a  blíže neurčené (zahrnující cysty a polypy) Frekvence není známa (nelze odhadnout z dostupných údajů)
+
+Dědičné vady.
+
+
+
+Vznik rakoviny.
+
+
+Poruchy imunitního systému
+Vzácné
+
+Frekvence není známa (nelze odhadnout z
+dostupných údajů)
+
+Alergická (hypersenzitivní) reakce na
+protein
+Alergické reakce (včetně velmi vzácné život ohrožující anafylaxe).
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+www.sukl.cz/nahlasit-nezadouci-ucinek
+
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným rozvojem dědičných vad. Protože efektivní dávka je 2,5 mSv při podání maximální doporučené aktivity 500 MBq, je výskyt těchto nežádoucích účinků očekáván s nízkou možností.
+Pokud   je   pacientovi   podáno   radiofarmakum   obsahující   protein,   jako
+(⁹⁹ᵐTc)-NANO-ALBUMON kit, mohou se vyvinout hypersenzitivní reakce.
+Proto musí být vždy k dispozici v průběhu vyšetření adekvátní léky a resuscitační zařízení.
+
+Strana 5 (celkem 10)
+
+Informace o bezpečnosti vzhledem k přenosným agens viz bod 4.4.
+
+4.9. Předávkování
+V pokusech na potkanech a králících nebyly pozorovány toxické příznaky při 500-násobku maximální dávky pro pacienta.
+Riziko předávkování spočívá v neúmyslně vysokém vystavení ionizujícímu záření.
+Při předávkování podanou radioaktivitou při použití (⁹⁹ᵐTc)- nanokoloidu albuminu, nelze doporučit žádné praktické opatření pro uspokojivé snížení expozice tkání, protože značený přípravek se špatně vylučuje močí a stolicí.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Diagnostická radiofarmaka,  částice a koloidy značené
+techneciem-(⁹⁹ᵐTc).
+ATC kód: V09DB01
+
+(⁹⁹ᵐTc)-NANO-ALBUMON kit v chemických koncentracích a aktivitách používaných pro diagnostické postupy nevykazuje žádné farmakodynamické účinky.
+
+5.2. Farmakokinetické vlastnosti
+
+Po i.v. podání se přípravek rychle fagocytuje v RES jater, sleziny a asi z 15 - 20% v kostní dřeni. Po s.c. podání do vazivové tkáně se přípravek filtruje lymfatickými kapilárami proudem intersticiální tekutiny a transportuje se lymfatickými cévami do místních lymfatických uzlin a dále do sekundárních lymfatických uzlin. Část podané dávky je v místě vpichu fagocytována histiocyty, další část se objeví v krvi a akumuluje se hlavně v buňkách RES jater, sleziny a kostní dřeni. Stopové množství je eliminováno ledvinami.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Studie genotoxicity, karcinogenity a reprodukční toxicity nebyly provedeny.
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Dihydrát chloridu cínatého (II)
+Dihydrogenfosforečnan sodný a hydrogenfosforečnan sodný
+Glukóza
+
+
+6.2. Inkompatibility
+Nejsou známé.
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch uvedených
+v bodě 4.4, 6.6 a 12..
+
+6.3. Doba použitelnosti
+18 měsíců od data výroby.
+Doba použitelnosti značeného přípravku je 6 hodin po rekonstituci.
+6.4. Zvláštní opatření pro uchovávání
+
+
+Strana 6 (celkem 10)
+
+Kit uchovávejte při teplotě 2 ᵒC – 25 ᵒC. Uchovávejte lahvičky v krabičce, aby byl přípravek chráněn před světlem.
+Značený přípravek uchovávejte při teplotě 2 - 25ᵒ C a chraňte před světlem.
+Uchovávání radiofarmak musí být v souladu s národními předpisy pro radioaktivní materiály.
+
+6.5. Druh obalu a obsah balení
+Přípravek je dodáván v 8 ml, bezbarvých injekčních lahvičkách k opakovanému odběru, uzavřených sterilní gumovou zátkou, hliníkovou objímkou stočenou pod okraj a plastovým odklápěcím víčkem, umístěných v tvarované papírové vložce vložené do kartónové krabičky. Balení obsahuje: 3, 6 nebo 12 injekčních lahviček, 3, 6 nebo 12 samolepicích štítků pro uvedení parametrů značeného přípravku, souhrn údajů o přípravku a příbalovou informaci. Na trhu nemusí být všechny velikosti balení.
+
+6.6. Zvláštní opatření pro likvidaci přípravku
+Všeobecná upozornění
+Radiofarmaka mají být přijímána, používána a podávána pouze oprávněnými osobami v určených klinických zařízeních. Jejich příjem, skladování, používání, přeprava a likvidace se řídí předpisy a/nebo příslušnými oprávněními místních kompetentních úřadů.
+Radiofarmaka mají být připravena takovým způsobem, který vyhovuje požadavkům radiační bezpečnosti a farmaceutické kvalitě. Mají být přijata příslušná aseptická opatření.
+
+Obsah lahvičky je určen výhradně pro použití při přípravě (⁹⁹ᵐTc)-NANO-ALBUMON kitu
+a nesmí být pacientovi podáván přímo bez předchozí rekonstituce.
+
+Pokyny k rekonstituci léčivého přípravku před jeho podáním, viz bod 12.
+
+Pokud je kdykoliv při přípravě tohoto přípravku ohrožena integrita lahvičky, nesmí být použita.
+
+S techneciem (⁹⁹ᵐTc)-značeným NANO-ALBUMON kitem je nutné zacházet opatrně a vhodná bezpečnostní opatření musí být přijata pro minimalizaci ozáření klinických pracovníků. Rovněž je nutné věnovat pozornost minimalizaci ozáření pacienta v souladu s řádnou péčí o pacienta.
+
+Obsah  kitu  před  rekonstitucí  není  radioaktivní.  Nicméně,  po  rekonstituci  přidáním technecistanu-(⁹⁹ᵐTc) sodného  Injekce, Ph. Eur., musí být zajištěno přiměřené stínění konečného přípravku.
+Podávání radiofarmak představuje riziko pro jiné osoby z externího ozáření nebo kontaminací z rozlité moči, zvratků apod. Proto musí být přijata opatření radiační ochrany v souladu s národními předpisy.
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+MEDI-RADIOPHARMA Kft.
+Szamos u. 10-12, 2030 Érd, Maďarsko
+Tel.: 0036-23-521-261
+Fax: 0036-23-521-260
+E-mail: : mediradiopharma-kft@mediradiopharma.hu
+
+
+Strana 7 (celkem 10)
+
+8. REGISTRAČNÍ ČÍSLO
+
+88/174/91-C
+
+9. DATUM REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+24.05.1991 / 13.09.2006
+
+10. DATUM REVIZE TEXTU
+
+7. 3. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strana 8 (celkem 10)
+
+11. DOZIMETRIE
+Technecium-(⁹⁹ᵐTc) se přeměňuje s emisí záření gama se střední energii 140 keV a poločasem
+rozpadu 6,02 hodiny na technecium-(⁹⁹Tc), které lze považovat za kvazi-stabilní.
+Radiační dávky absorbované pacientem vážícím 70 kg, po intravenózní injekci koloidních částic (⁹⁹ᵐTc)-lidského albuminu, jsou uvedeny dále.
+
+Orgán
+
+Játra
+Močový měchýř (stěna)
+Slezina
+Kostní dřeň (červená) Vaječníky
+Varlata
+Celé tělo
+Absorbovaná dávka (µGy/MBq)
+78
+25
+18
+14
+3,2
+1,1
+5,1
+
+Efektivní dávka je asi 4,85 mSv po podání aktivity 500 MBq 70 kg vážícímu pacientovi.
+Po podání 500 MBq aktivity je radiační dávka do kritického orgánu (jater) 39 mGy a radiační dávka do cílového orgánu (červené kostní dřeně) je 7,0 mGy.
+
+Radiační dávky absorbované 70 kg vážícím pacientem po s.c. injekci (⁹⁹ᵐTc)- značených koloidních částic lidského albuminu jsou uvedeny dále.
+
+
+Orgán
+
+Místo injekce Lymfatické uzliny Játra
+Močový měchýř (stěna)
+Slezina
+Kostní dřeň (červená) Vaječníky
+Varlata
+Celé tělo
+Absorbovaná dávka (µGy/MBq)
+12000
+590
+16
+9,7
+4,1
+5,7
+5,9
+3,5
+4,6
+
+Po podání aktivity 110 MBq dospělému vážícímu 70 kg je efektivní dávka asi 0,44 mSv.
+
+Po podání aktivity 110 MBq je radiační dávka do cílového orgánu (lymfatických uzlin) 65 mGy a do kritického orgánu (místa injekce) je 1320 mGy.
+Odhad radiační dávky pro řadu orgánu je založen na údajích MIRD pro člověka a hodnotách
+MIRD S a byl vypočítaný z údajů biodistribuce a krevní clearence.
+
+12. NÁVOD NA PŘÍPRAVU RADIOFARMAKA
+Obsah kitu před přípravou není radioaktivní. Po přidání injekce technecistanu- (⁹⁹ᵐTc) sodného, Ph.Eur., musí být zajištěno odpovídající stínění konečného přípravku.
+Musí být přijata opatření radiační ochrany v souladu s národními předpisy. Přípravek neobsahuje žádné bakteriostatické konzervační látky. (⁹⁹ᵐTc)-NANO-ALBUMON kit je nutno použít do šesti (6) hodin od rekonstituce. Lahvička se rekonstituuje s injekcí sterilního technecistanu-(⁹⁹ᵐTc)  sodného  bez  oxidačních  látek  o  aktivitě  maximálně  2,22GBq.
+
+
+Strana 9 (celkem 10)
+
+Po uplynutí doby použitelnosti by měl být přípravek a všechen odpad zlikvidován v souladu s místními předpisy pro radioaktivní materiály. Jako u každého léčivého přípravku, pokud je kdykoli při přípravě ohrožena integrita lahvičky, nesmí být použita.
+
+Příprava injekce
+
+1. Lahvičku s lyofilizovanou směsí vložte do olověného kontejneru.
+2. Za aseptických podmínek přidejte do lahvičky injekční roztok technecistanu (⁹⁹ᵐTc) sodného o objemu 1 - 3 ml a o maximální aktivitě 2,22 GBq, po vnitřní stěně lahvičky.
+3. Před odejmutím stříkačky odeberte stejné množství dusíku pro vyrovnání tlaku v lahvičce. (Nepoužívejte odvzdušňovací jehlu).
+4. Obsah lahvičky několikrát jemně promíchejte převracením do rozpuštění lyofilizované směsi.
+5. Značení probíhá 20 minut při pokojové teplotě.
+6. Během značení obsah lahvičky několikrát jemně promíchejte převracením.
+7. Účinnost značení přesahuje 95%.
+
+Při přípravě dodržujte předpisy pro aseptickou práci a pro práci s radioaktivními látkami.
+
+Stanovení radiochemické čistoty 99mTc - NANO – ALBUMON kit Metoda:       tenkovrstvá chromatografie
+Stacionární fáze:   proužky ITLC / -SG
+
+Mobilní fáze:    methyethylketon (MEK)
+
+Na start chromatogramu naneste 5 µl značeného přípravku a chromatogram vložte do vyvíjecí komory (nasycené parami mobilní fáze) a nechte vzestupně vyvíjet. Po vyvinutí chromatogram vysušte a rozstříhejte na 1,0 cm dílky. Jejich aktivitu změřte ve vhodném přístroji. Paralelně se značeným přípravkem nechte vyvíjet i injekci technecistanu (⁹⁹ᵐTc)
+sodného.
+.
+Vyhodnocení:        ⁹⁹ᵐTc - nanokoloid          RF = 0,0
+volný ⁹⁹ᵐTcO4-              RF = 0,9 - 1,0 RF = 0,9 – 1,0 nesmí být více než 5%.
+Charakteristika injekce
+Netoxická, biologicky odbouratelná.
+Vzhled        lehce opalescentní
+Objem        1 – 3 ml
+pH          6 – 7,4
+Účinnost značení  více než 95%
+Velikost částic    více než 70% do 100 nm
+
+
+
+
+
+Strana 10 (celkem 10)

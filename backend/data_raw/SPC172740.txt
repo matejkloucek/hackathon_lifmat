@@ -1,0 +1,740 @@
+sp.zn. sukls275625/2018
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Aldea 0,5 mg tvrdé tobolky
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tvrdá tobolka obsahuje anagrelidum 0,5 mg (ve formě anagrelidi hydrochloridum
+monohydricum).
+
+Pomocná látka se známým účinkem:
+Jedna tvrdá tobolka obsahuje 67,64 mg laktosy (jako monohydrát). Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Tvrdá tobolka
+
+Tobolky s šedým neprůhledným víčkem a bílým neprůhledným tělem, na víčku je černým inkoustem
+natištěno „1453“, na těle „0.5“. Tobolky obsahují bílý až téměř bílý prášek.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Přípravek Aldea je indikován ke snížení zvýšeného počtu trombocytů u rizikových pacientů
+s esenciální trombocytemií (ET), u nichž došlo k intoleranci stávající léčby nebo tato léčba nesnížila zvýšený počet trombocytů na přijatelnou úroveň.
+Rizikový pacient
+Rizikový pacient s esenciální trombocytemií je definován jako pacient, který splňuje jedno nebo
+několik z následujících kritérií:
+-   věk nad 60 let nebo
+-   počet trombocytů > 1000 x 10⁹/l nebo
+-   anamnéza trombohemoragických příhod.
+
+4.2  Dávkování a způsob podání
+
+Léčbu přípravkem Aldea má zahájit klinický pracovník, který má zkušenosti s léčbou esenciální
+trombocytemie.
+
+Dávkování
+
+Doporučovaná počáteční dávka anagrelidu je 1 mg/den; měla by být podávána perorálně ve dvou samostatných dávkách (0,5 mg/dávka).
+Počáteční dávka má být zachována alespoň po dobu jednoho týdne. Po uplynutí jednoho týdne lze dávku individuálně titrovat, aby bylo dosaženo nejnižší účinné dávky, která zajistí snížení a/nebo
+
+
+1
+
+zachování počtu trombocytů pod hodnotou 600 x 10⁹/l, ideálně pak v rozmezí 150 x 10⁹/l až
+400 x 10⁹/l. Dávka se nesmí v rozmezí jednoho týdne navýšit o více než 0,5 mg/den; doporučená maximální jednotlivá dávka by neměla přesáhnout 2,5 mg (viz bod 4.9). V průběhu klinického vývoje byly používány dávky 10 mg/den.
+
+Účinky léčby anagrelidem je nutno pravidelně monitorovat (viz bod 4.4). Pokud činí počáteční dávka více než 1 mg/den, je třeba zjišťovat počet trombocytů v prvním týdnu léčby jednou za dva dny a poté minimálně jednou týdně, dokud není dosaženo stabilní udržovací dávky. Do 14 až 21 dnů od zahájení léčby dochází zpravidla ke snížení počtu trombocytů; u většiny pacientů nastává adekvátní odpověď
+na léčbu při dávkách 1 až 3 mg/den a na této úrovni je i zachována (další informace o klinických účincích najdete v bodě 5.1).
+Starší pacienti
+Zjištěné farmakokinetické rozdíly mezi staršími pacienty a mladými pacienty s esenciální
+trombocytemií (viz bod 5.2) neopravňují k užívání různého počátečního režimu nebo různého stupně titrace dávky za účelem dosažení režimu léčby anagrelidem upravené na míru jednotlivým pacientům.
+
+V průběhu klinického vývoje bylo přibližně 50 % pacientů léčených anagrelidem ve věku nad 60 let a nebylo u nich zapotřebí dávku nijak speciálně upravovat. Jak se však předpokládalo, u této věkové
+skupiny se vyskytovaly závažné nežádoucí účinky (především kardiální) v dvojnásobné míře.
+
+Porucha funkce ledvin
+U této populace pacientů existují omezené farmakokinetické údaje. Před zahájením léčby anagrelidem u pacientů s poruchou funkce ledvin mají být nejdříve vyhodnoceny potenciální přínosy a rizika (viz bod 4.3).
+
+Porucha funkce jater
+U této populace pacientů existují omezené farmakokinetické údaje. Metabolismus jater ovšem představuje hlavní cestu clearance anagrelidu a funkce jater by tedy mohla tento proces ovlivnit. Proto se nedoporučuje léčit anagrelidem pacienty se středně těžkou nebo těžkou poruchou funkce jater. Před zahájením léčby anagrelidem u pacientů s mírnou poruchou funkce jater mají být nejdříve
+vyhodnoceny potenciální přínosy a rizika (viz bod 4.3 a 4.4).
+
+Pediatrická populace
+
+Bezpečnost a účinnost anagrelidu u dětí nebyly dosud stanoveny. Zkušenosti s podáváním u dětí a dospívajících jsou velmi omezené; anagrelid má být u této skupiny pacientů podáván s opatrností.
+Vzhledem k nedostatku specifických pokynů pro pediatrické pacienty se zvažuje, že by pro
+pediatrickou populaci mohla mít význam kritéria WHO pro diagnostiku esenciální trombocytemie (ET) u dospělých. Pokyny k diagnostice esenciální trombocytemie mají být pečlivě dodržovány a v případě nejistoty má být diagnóza pravidelně přezkoumána, zejména je nutná snaha o odlišení od
+hereditární nebo sekundární trombocytózy, což může zahrnovat genetickou analýzu a biopsii kostní dřeně.
+U vysoce rizikových pediatrických pacientů se obvykle zvažuje cytoredukční terapie.
+
+Léčba anagrelidem má být zahájena pouze v případě, že se u pacienta objeví známky progrese
+onemocnění nebo pokud má pacient trombózu. Pokud se léčba zahájí, je nutné pravidelně sledovat přínosy a rizika léčby anagrelidem a pravidelně hodnotit potřebu pokračující léčby.
+Cíle týkající se trombocytů přiřazuje ošetřující lékař každému pacientovi zvlášť.
+
+O ukončení léčby se má uvažovat u pediatrických pacientů, kteří přibližně po 3 měsících nereagují uspokojivě na léčbu.
+V současnosti dostupné údaje jsou popsány v bodech 4.4, 4.8, 5.1 a 5.2, ale na jejich základě nelze učinit žádná doporučení ohledně dávkování.
+
+
+2
+
+Způsob podání
+
+Perorální podání. Tobolky je třeba polykat vcelku. Nedrťte ani nerozpouštějte obsah v tekutině.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Pacienti se středně těžkou nebo těžkou poruchou funkce jater.
+Pacienti se středně těžkou nebo těžkou poruchou funkce ledvin (clearance kreatininu < 50 ml/min).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Porucha funkce jater
+Před zahájením léčby anagrelidem u pacientů s mírnou poruchou funkce jater mají být nejdříve
+vyhodnoceny potenciální přínosy a rizika. Nedoporučuje se aplikace u pacientů se zvýšenou hladinou transamináz (nad pětinásobek horní hranice normální hodnoty) (viz bod 4.2 a 4.3).
+
+Porucha funkce ledvin
+Před zahájením léčby anagrelidem u pacientů s poruchou funkce ledvin mají být nejdříve vyhodnoceny potenciální přínosy a rizika (viz bod 4.2 a 4.3).
+Monitoring
+Pacient musí být v průběhu léčby pod pečlivým dohledem klinického pracovníka; v rámci tohoto dohledu je třeba zajistit úplné vyšetření krevního obrazu (hemoglobin a počty leukocytů a
+trombocytů), posouzení funkce jater (ALT a AST), ledvin (sérový kreatinin a urea) a stanovení elektrolytů (draslík, hořčík a vápník).
+Trombocyty
+Počet trombocytů se bude během čtyř dnů od ukončení léčby anagrelidem zvyšovat a do 10 až 14 dnů se vrátí k úrovni před léčbou, s možností opětovného překročení vstupních hodnot. Z toho důvodu má být počet trombocytů pravidelně sledován.
+
+Kardiovaskulární systém
+Byly hlášeny závažné kardiovaskulární nežádoucí účinky včetně případů torsade de pointes,
+ventrikulární tachykardie, kardiomyopatie, kardiomegalie a městnavého srdečního selhání (viz bod
+4.8).
+
+Je třeba postupovat s opatrností při použití anagrelidu u pacientů se známými rizikovými faktory pro prodloužení intervalu QT, jako je kongenitální syndrom dlouhého intervalu QT, získané prodloužení intervalu QTc v anamnéze, léčivé přípravky, které mohou prodloužit interval QTc a hypokalemie.
+
+Také je třeba postupovat opatrně u populací, které mohou mít vyšší maximální koncentraci (Cmax)
+anagrelidu nebo jeho aktivního metabolitu 3-hydroxyanagrelidu v plazmě, např. při zhoršené funkce jater nebo při použití s inhibitory CYP1A2 (viz bod 4.5).
+Doporučuje se pečlivé sledování účinku na interval QTc.
+
+Před zahájením terapie anagrelidem se u všech pacientů doporučuje vyšetření kardiovaskulárního systému včetně vstupního EKG a echokardiografie. U všech pacientů mají být během léčby pravidelně sledovány možné účinky (např. pomocí EKG nebo echokardiografie), které mohou vyžadovat další kardiovaskulární vyšetření. Před podáním anagrelidu musí být upravena hypokalemie nebo
+hypomagnesemie a v průběhu terapie je vhodné pravidelně sledovat hladinu draslíku a hořčíku.
+
+Anagrelid je inhibitor cyklické AMP fosfodiesterázy (cAMP) III a vzhledem k jeho pozitivně inotropnímu a chronotropnímu účinku má být anagrelid podáván s opatrností pacientům všech věkových skupin, kteří trpí srdečním onemocněním nebo u nich existuje podezření na srdeční
+
+3
+
+onemocnění. Kromě toho se závažné kardiovaskulární nežádoucí účinky vyskytovaly i u pacientů bez podezření na srdeční onemocnění, jejichž výsledky kardiovaskulárních vyšetření před léčbou byly normální.
+
+Anagrelid by se měl podávat pouze tehdy, pokud potenciální přínosy léčby převažují nad potenciálními riziky.
+Plicní hypertenze
+U pacientů léčených anagrelidem byly hlášeny případy plicní hypertenze. Před zahájením léčby
+anagrelidem a v jejím průběhu mají být pacienti vyšetřeni z hlediska známek a příznaků základního kardiopulmonálního onemocnění.
+Pediatrická populace
+Data o užívání anagrelidu u pediatrických pacientů jsou velmi omezená a anagrelid má být u této skupiny pacientů užíván s opatrností (viz body 4.2, 4.8, 5.1 a 5.2).
+
+Stejně jako u dospělé populace mají být před zahájením léčby a pravidelně v jejím průběhu prováděna vyšetření kompletního krevního obrazu a funkční hodnocení srdce, jater a ledvin. Onemocnění může progredovat do myelofibrózy nebo AML. Přestože míra takové progrese není známa, trvá u dětí
+nemoc déle, a proto může v porovnání s dospělými existovat zvýšené riziko maligní transformace.
+U dětí má být pravidelně sledována progrese onemocnění podle standardních klinických postupů, např. fyzikálním vyšetřením, zhodnocením významných markerů onemocnění a biopsií kostní dřeně.
+
+Jakékoli abnormality mají být ihned vyhodnoceny a mají být přijata vhodná opatření, která mohou také zahrnovat snížení dávky, přerušení nebo ukončení léčby.
+Klinicky významné interakce
+Anagrelid je inhibitor cyklické AMP fosfodiesterázy (cAMP) III (PDE III). Souběžné užívání s jinými inhibitory PDE III, jako je milrinon, amrinon, enoximon, olprinon a cilostazol, se nedoporučuje.
+Souběžné užívání anagrelidu a kyseliny acetylsalicylové je spojováno se závažnými hemoragickými příhodami (viz bod 4.5).
+
+Pomocné látky
+Přípravek Aldea obsahuje laktózu. Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je v podstatě „bez sodíku“.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Uskutečnily se omezené studie farmakokinetiky a/nebo farmakodynamiky zkoumající možné interakce mezi anagrelidem a jinými léčivými přípravky.
+
+Účinky jiných léčivých látek na anagrelid
+•   Studie interakcí in vivo u člověka prokázaly, že digoxin a warfarin neovlivňují
+farmakokinetické vlastnosti anagrelidu.
+Inhibitory CYP1A2
+•   Anagrelid je primárně metabolizován CYP1A2. Je známo, že CYP1A2 je inhibován několika
+léčivými přípravky, včetně fluvoxaminu a enoxacinu, přičemž takovéto léčivé přípravky mohou
+teoreticky nepříznivě ovlivnit clearance anagrelidu.
+Induktory CYP1A2
+•   Induktory CYP1A2 (např. omeprazol) mohou snižovat expozici anagrelidu zvýšením hladiny jeho hlavního aktivního metabolitu. Dopad na profily bezpečnosti a účinnosti anagrelidu nebyl zjišťován. Z toho důvodu se u pacientů užívajících souběžně induktory CYP1A2 doporučuje
+klinické a biologické sledování. Pokud je to potřebné, lze upravit dávku anagrelidu.
+
+
+
+4
+
+Účinky anagrelidu na jiné léčivé látky
+•   Anagrelid vykazuje omezenou inhibiční aktivitu vůči CYP1A2, což může představovat
+teoretický potenciál pro interakci s ostatními souběžně podávanými léčivými přípravky, které sdílí tentýž mechanismus clearance, např. theofylin.
+•   Anagrelid je inhibitor PDE III. Účinky léčivých přípravků podobných vlastností, jako jsou inotropní látky milrinon, enoximon, amrinon, olprinon a cilostazol, mohou být vlivem
+anagrelidu zvýrazněny.
+•   Studie interakce in vivo u člověka prokázaly, že anagrelid neovlivňuje farmakokinetické
+vlastnosti digoxinu a warfarinu.
+•   V dávkách doporučovaných k léčbě esenciální trombocytemii může anagrelid potencovat účinky jiných léčivých přípravků, které inhibují či modifikují činnost trombocytů, např. kyseliny acetylsalicylové.
+•   V klinické studii interakcí u zdravých subjektů bylo prokázáno, že souběžné opakované
+podávání 1 mg anagrelidu jedenkrát denně a 75 mg kyseliny acetylsalicylové jedenkrát denně může zvýšit antiagregační účinek obou léčivých látek na krevní destičky v porovnání s podáním kyseliny acetylsalicylové samotné. U některých pacientů s esenciální trombocytemií léčených
+souběžně kyselinou acetylsalicylovou a anagrelidem došlo k závažné hemoragii. Z toho důvodu mají být před zahájením léčby zhodnocena možná rizika současného podávání anagrelidu a
+kyseliny acetylsalicylové, zejména u pacientů s vysokým rizikovým profilem pro krvácení.
+•   Anagrelid může u některých pacientů vyvolat intestinální poruchy a snižovat absorpci perorálních hormonálních antikoncepčních přípravků.
+Interakce s jídlem
+•   Vlivem jídla dochází k opožděné absorpci anagrelidu, nikoliv však k výrazné změně celkového účinku na organismus.
+•   Účinky potravy na biologickou dostupnost nejsou pro použití anagrelidu považovány za klinicky významné.
+Pediatrická populace
+Studie interakcí byly provedeny pouze u dospělých.
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Ženy ve fertilním věku musí během léčby anagrelidem používat vhodnou antikoncepci.
+
+Těhotenství
+Adekvátní údaje o podávání anagrelidu těhotným ženám nejsou k dispozici. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Potenciální riziko pro člověka není známo. Proto se podávání přípravku Aldea v těhotenství nedoporučuje.
+Pokud bude anagrelid užíván v těhotenství, nebo pokud pacientka během léčby tímto léčivým přípravkem otěhotní, měla by být seznámena s potenciálním rizikem pro plod.
+
+Kojení
+Není známo, zda se anagrelid/metabolity vylučují do lidského mateřského mléka. Dostupné údaje
+u zvířat prokázaly vylučování anagrelidu/metabolitů do mléka. Riziko pro kojeného novorozence/dítě nelze vyloučit. Kojení má být během léčby anagrelidem přerušeno.
+Fertilita
+Nejsou dostupné žádné údaje týkající se účinku anagrelidu na fertilitu u lidí. U samců potkana nebyl prokázán žádný vliv anagrelidu na fertilitu ani reprodukční schopnost. U samic potkana narušoval
+anagrelid proces uhnízdění vajíčka při použití dávek přesahujících terapeutické rozmezí (viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+
+
+
+5
+
+V klinickém vývoji byly často hlášeny závratě. Doporučuje se, aby pacienti neřídili ani neobsluhovali stroje, pokud se u nich po užití anagrelidu vyskytnou závratě.
+
+4.8  Nežádoucí účinky
+
+Shrnutí bezpečnostního profilu
+Bezpečnost anagrelidu byla zkoumána ve čtyřech otevřených klinických studiích. Ve třech studiích byla zkoumána bezpečnost na 942 pacientech, kterým byl podáván anagrelid v průměrné dávce
+2 mg/den. V rámci těchto studií byl anagrelid podáván 22 pacientům po dobu až čtyř let.
+
+V pozdější studii byla zkoumána bezpečnost na 3660 pacientech, kterým byl podáván anagrelid
+v průměrné dávce 2 mg/den. V rámci této studie byl anagrelid podáván 34 pacientům po dobu až pěti
+let.
+
+Mezi nejčastěji hlášené nežádoucí účinky související s anagrelidem patřily bolesti hlavy, které se vyskytovaly přibližně u 14 %, palpitace, které se vyskytovaly přibližně u 9 %, zadržování tekutin a nauzea – v obou případech s přibližně 6% výskytem, a průjem s 5% výskytem. Tyto nežádoucí účinky léku byly na základě farmakologie anagrelidu předpokládány (inhibice PDE III). Postupná titrace
+dávek může tyto účinky zmírnit (viz bod 4.2).
+
+Seznam nežádoucích účinků ve formě tabulky
+Nežádoucí účinky vycházející z klinických studií, ze studií bezpečnosti po uvedení přípravku na trh a ze spontánních hlášení jsou uvedeny v tabulce níže. V rámci systémů orgánových tříd jsou seřazeny pod následujícími nadpisy: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až
+< 1/100); vzácné (≥ 1/10000 až < 1/1000); velmi vzácné (< 1/10000), není známo (z dostupných údajů nelze určit). V každé skupině četností jsou nežádoucí účinky uvedeny v pořadí podle klesající
+závažnosti.
+
+
+Třída orgánových
+Frekvence nežádoucích účinků
+
+systémů - MedDRA Poruchy krve a lymfatického
+systému
+
+Poruchy metabolismu a výživy Poruchy nervového
+systému
+
+
+
+
+
+Poruchy oka
+
+
+Poruchy ucha a labyrintu
+Srdeční
+poruchy
+Velmi
+časté
+
+
+
+
+
+
+
+Bolest hlavy
+Časté
+
+Anémie
+
+
+
+Retence tekutin
+
+Závrať
+
+
+
+
+
+
+
+
+
+
+
+
+Tachycardie Palpitace
+Méně časté
+
+Pancytopenie Trombocytopenie Haemoragie
+Ekchymóza Edém
+Pokles tělesné hmotnosti Deprese
+Amnézie Zmatenost Nespavost Parestézie Hypestézie Nervozita Sucho v ústech
+
+
+
+
+
+Ventrikulární tachykardie
+Městnavé srdeční selhání
+Fibrilace síní
+Vzácné
+
+
+
+
+
+Zvýšení  tělesné
+hmotnosti
+
+Migréna Dysartrie Somnolence Abnormální koordinace
+
+
+
+Diplopie Abnormality vidění Tinnitus
+
+Infarkt myokardu Kardiomyopatie Kardiomegalie Perikardiální
+výpotek
+Není známo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torsade de pointes
+
+6
+
+
+
+
+
+
+
+Respirační, hrudní a
+mediastinální
+poruchy
+
+
+
+Gastrointestinál ní poruchy
+
+
+
+
+
+
+
+Poruchy jater a
+žlučových cest
+
+Poruchy kůže a podkožní tkáně
+
+
+Poruchy svalové a kosterní
+soustavy a
+pojivové tkáně Poruchy ledvin a močových cest
+Celkové
+poruchy a
+reakce v místě
+aplikace
+
+Vyšetření
+
+
+
+
+
+
+
+
+
+
+
+
+
+Průjem Zvracení
+Bolest břicha Nauzea Flatulence
+
+
+
+
+
+
+
+Vyrážka
+
+
+
+
+
+
+
+
+
+
+
+Únava
+Supraventrikulární tachykardie Arytmie Hypertenze Synkopa
+
+Plicní hypertenze
+Pneumonie
+Pleurální výpotek Dušnost
+Epistaxe
+
+
+Gastrointestinální krvácení Pankreatitida Anorexie Dyspepsie
+Zácpa
+Poruchy
+gastrointestinálního
+traktu Zvýšení koncentrace
+jaterních enzymů Alopecie Svědění
+Odlišné zabarvení kůže
+Artralgie Myalgie Bolest zad
+
+
+Impotence
+
+
+Bolest na hrudi Horečka Zimnice
+Malátnost
+Slabost
+Angina pectoris Posturální hypotenze Vasodilatace Prinzmetalova angina
+Plicní infiltráty
+
+
+
+
+
+
+Kolitida Gastritida
+Krvácení z dásní
+
+
+
+
+
+
+
+
+
+Suchá kůže
+
+
+
+
+
+
+
+
+Selhání ledvin
+Nokturie
+
+Onemocnění
+podobné chřipce
+Bolest Astenie
+
+Zvýšená hladina
+kreatininu v krvi
+
+
+
+
+
+
+Intersticiální plicní
+onemocnění včetně pneumonitidy a alergické alveolitidy
+
+
+
+
+
+
+
+
+
+Hepatitida
+
+
+
+
+
+
+
+
+
+
+
+Tubulointersti ciální nefritida
+
+Pediatrická populace
+48 pacientům ve věku 6-17 let (19 dětem a 29 dospívajícím) byl podáván anagrelid po dobu až 6,5 roku buď v klinických studiích, nebo jako součást registru pacientů (viz bod 5.1).
+Většina pozorovaných nežádoucích účinků je uvedena v souhrnu údajů o přípravku. Údaje
+o bezpečnosti jsou však omezené a neumožňují provést významné srovnání dospělých a pediatrických pacientů (viz bod 4.4).
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu: Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+7
+
+4.9  Předávkování
+
+Po uvedení přípravku na trh byly zaznamenány případy úmyslného předávkování anagrelidem. Mezi příznaky patří sinusová tachykardie a zvracení. Symptomy odezněly po zavedení konzervativní léčby.
+Bylo prokázáno, že anagrelid podávaný ve vyšších dávkách, než je doporučeno, snižuje krevní tlak a
+v některých případech vyvolává hypotenzi. Jedna 5mg dávka anagrelidu může vést k poklesu krevního
+tlaku, obvykle doprovázenému závratěmi.
+
+Specifické antidotum nebylo identifikováno. V případě předávkování je nutný bezprostřední klinický dohled nad pacientem, a to včetně sledování počtu trombocytů pro případ možného výskytu
+trombocytopenie. Dávku je třeba vhodně pozastavit nebo snížit, dokud se počet trombocytů nevrátí do normálního rozmezí.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Jiná cytostatika, ATC kód: L01XX35.
+Mechanismus účinku
+Přesný mechanismus, kterým anagrelid snižuje počet trombocytů v krvi, není znám. Ve studii s buněčnými kulturami anagrelid potlačoval expresi transkripčních faktorů včetně GATA-1 a FOG-1 potřebných pro megakaryocytopoézu, což v konečném důsledku vedlo ke snížené produkci trombocytů.
+
+In vitro studie tvorby megakaryocytů u člověka stanovily, že inhibiční působení anagrelidu na tvorbu trombocytů u člověka je dáno zpomalením zrání megakaryocytů a zmenšováním jejich velikosti a ploidie. Na vzorcích biopsie kostní dřeně léčených pacientů byly pozorovány doklady podobného působení in vivo.
+Anagrelid je inhibitor fosfodiesterázy (cAMP) III. Klinická účinnost a bezpečnost
+Bezpečnost a účinnost anagrelidu jakožto látky snižující počet trombocytů byly hodnoceny ve čtyřech otevřených klinických studiích bez kontrolních skupin (čísla studií 700-012, 700-014, 700-999 a 13970- 301) zahrnujících více než 4000 pacientů s myeloproliferativními neoplaziemi (MPN). U pacientů s esenciální trombocytemií byla kompletní odpověď definována jako snížení počtu trombocytů na ≤ 600 x 10⁹/l nebo ≥ 50% snížení výchozí hodnoty a zachování tohoto sníženého stavu po dobu alespoň čtyř týdnů. Ve studiích 700-012, 700-014, 700-999 a ve studii 13970-301 se doba do kompletní odpovědi pohybovala od čtyř do dvanácti týdnů. Klinický přínos s ohledem na trombohemoragické příhody nebyl přesvědčivě prokázán.
+Účinky na tepovou frekvenci a interval QTc
+Účinek dvou dávkových hladin anagrelidu (jednotlivá dávka 0,5 mg a 2,5 mg) na tepovou frekvenci a interval QTc byl hodnocen ve dvojitě zaslepené, randomizované, placebem a léčivou látkou kontrolované, zkřížené studii u zdravých dospělých mužů a žen.
+Během prvních 12 hodin bylo pozorováno zvýšení tepové frekvence, které bylo závislé na dávce. Maximální zvýšení se objevilo přibližně v době maximální koncentrace. Maximální změna průměrné tepové frekvence se objevila za 2 hodiny po podání a byla +7,8 tepů za minutu při dávce 0,5 mg a +29,1 tepů za minutu při dávce 2,5 mg.
+
+Přechodné zvýšení průměrného intervalu QTc bylo pozorováno u obou dávek v průběhu období zvyšující se tepové frekvence. Maximální změna průměrného intervalu QTcF (korekce podle Fridericii)
+
+
+
+8
+
++5,0 ms se objevila za 2 hodiny při dávce 0,5 mg a maximální změna průměrného intervalu QTcF +10,0
+ms se objevila za 1 hodinu při dávce 2,5 mg.
+
+Pediatrická populace
+V otevřené klinické studii s 8 dětmi a 10 dospívajícími (zahrnující pacienty, kteří nikdy nebyli léčeni anagrelidem nebo kterým byl před studií podáván anagrelid po dobu až 5 let) byl medián hladiny trombocytů snížený na kontrolované hladiny po 12 týdnech léčby. Průměrná denní dávka byla spíše vyšší u dospívajících.
+Ve studii pediatrického registru se medián počtu trombocytů od diagnózy snížil a zůstal zachován až po dobu 18 měsíců u 14 pediatrických pacientů s ET (4 dětí, 10 dospívajících) léčených anagrelidem. V otevřených studiích, které byly provedeny dříve, bylo snížení mediánu počtu trombocytů pozorováno u 7 dětí a 9 dospívajících léčených po dobu 3 měsíců až 6,5 roku.
+
+Průměrná celková denní dávka anagrelidu napříč všemi studiemi u pediatrických pacientů s ET byla vysoce variabilní, ale údaje celkově naznačují, že u dospívajících by bylo možné použít podobné
+počáteční a udržovací dávky jako u dospělých a že pro děti starší než 6 let by byla vhodnější nižší počáteční dávka 0,5 mg/den (viz body 4.2, 4.4, 4.8, 5.2). U všech pediatrických pacientů je nutná pečlivá titrace denní dávky specifické pro pacienta.
+
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Po perorálním podání anagrelidu se u člověka absorbuje minimálně 70 % z gastrointestinálního traktu. U subjektů, kterým byl přípravek podáván na lačno, se nejvyšší hladina v plasmě dostavuje přibližně po 1 hodině od podání. Farmakokinetické údaje získané od zdravých jedinců potvrdily, že potravou se snižuje Cmax anagrelidu o 14 %, ale AUC se zvyšuje o 20 %. Potrava taktéž snížila Cmax účinného metabolitu, 3-hydroxyanagrelidu, o 29 %, přestože na AUC neměla žádný vliv.
+Biotransformace
+Anagrelid je primárně metabolizován CYP1A2 za tvorby 3-hydroxyanagrelidu, který je dále metabolizován CYP1A2 na neúčinný metabolit, 2-amino-5, 6-dichloro-3, 4-dihydrochinazolin.
+Eliminace
+Plasmatický poločas anagrelidu je krátký, přibližně 1,3 hodiny a jak se předpokládalo na základě
+poločasu, neexistují důkazy o kumulaci anagrelidu v plasmě. Méně než 1 % je vyloučeno močí jako anagrelid. Průměrná koncentrace 2-amino-5, 6-dichloro-3, 4-dihydrochinazolinu v moči je přibližně 18 – 35 % podané dávky.
+
+Dále tyto výsledky neprokazují autoindukci clearance anagrelidu.
+
+Linearita
+Proporčnost dávky se projevuje v dávkovém rozmezí 0,5 mg až 2 mg.
+
+Pediatrická populace
+Farmakokinetické údaje pocházející od dětí a dospívajících exponovaných na lačno (věkové rozmezí 7 – 16 let) s esenciální trombocytemií ukazují, že normalizovaná expozice z hlediska dávky, Cmax a AUC anagrelidu byly v porovnání s dospělými u dětí/dospívajících spíš vyšší. Rovněž existoval trend k vyšší expozici aktivnímu metabolitu při normalizované dávce.
+Starší pacienti
+Farmakokinetické údaje pocházející od starších pacientů na lačno (věkové rozmezí 65 - 75 let)
+s esenciální trombocytemií v porovnání s dospělými pacienty (věkové rozmezí 22 – 50 let) na lačno ukazují, že Cmax a AUC anagrelidu byly vyšší o 36 %, respektive o 61 % u starších pacientů, zatímco Cmax a AUC aktivního metabolitu 3-hydroxyanagrelidu byly nižší o 42 %, respektive 37 % u starších
+
+
+
+9
+
+pacientů. Tyto rozdíly byly pravděpodobně způsobeny nižším metabolizmem anagrelidu na 3-hydroxyanagrelid při prvním průchodu játry u starších pacientů.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Toxicita opakovaných dávek
+Po opakovaném perorálním podávání anagrelidu v dávkách 1 mg/kg/den a vyšších bylo u psů pozorováno krvácení v subendokardiální oblasti a fokální nekróza myokardu u samců i samic, přičemž samci byli k těmto účinkům senzitivnější. Hladina bez pozorovaného účinku (NOEL - no observed effect level) u samců psů (0,3 mg/kg/den) odpovídá 0,1násobku, 0,1násobku, resp. 1,6násobku hodnot AUC u člověka pro anagrelid v dávce 2 mg/den, resp. pro příslušné metabolity BCH24426 a RL603.
+Reprodukční toxicita
+
+Fertilita
+Bylo zjištěno, že u samců potkana nemá anagrelid při perorálních dávkách až do dávky 240 mg/kg/den (> 1000násobek dávky 2 mg/den, určené na základě plochy povrchu těla) žádný vliv na fertilitu a reprodukční schopnosti. U samic potkana bylo při dávce 30 mg/kg/den pozorováno zvýšení počtu
+preimplantačních a postimplantačních ztrát a snížení průměrného počtu živých embryí. Hodnoty NOEL (10 mg/kg/den) pro tento účinek byly 143krát, 12krát, resp. 11krát vyšší než hodnoty AUC u člověka po podání dávky anagrelidu 2 mg/den, resp. pro metabolity BCH24426 a RL603.
+Studie embryofetálního vývoje
+Dávky anagrelidu, které byly u potkanů a králíků toxické pro matku, souvisely se zvýšenou resorpcí embryí a mortalitou plodů.
+
+Ve studii prenatálního a postnatálního vývoje u samic potkana byl při perorálních dávkách anagrelidu
+≥ 10 mg/kg zjištěn jiný než nežádoucí účinek v podobě prodloužené doby gestace. Při dávce
+odpovídající NOEL (3 mg/kg/den) byly hodnoty AUC pro anagrelid a metabolity BCH24426 a RL603 14krát, 2krát a 2krát (v uvedeném pořadí) vyšší než hodnoty AUC u člověka po podání perorální dávky anagrelidu 2 mg/den.
+
+Anagrelid v dávce ≥ 60 mg/kg prodloužil délku porodů u samic, respektive mortalitu plodů. Při dávce odpovídající NOEL (30 mg/kg/den) byly hodnoty AUC pro anagrelid, resp. metabolity BCH24426 a RL603 425krát, 31krát, resp. 13krát vyšší než hodnoty AUC u člověka po podání perorální dávky anagrelidu 2 mg/den.
+
+Mutagenní a kancerogenní potenciál
+Studie genotoxického potenciálu anagrelidu neprokázaly žádné mutagenní ani klastogenní účinky.
+
+V dvouleté studii kancerogenního účinku u potkanů byly pozorovány non-neoplastické a neoplastické nálezy, které souvisely s nadměrným farmakologickým účinkem nebo byly takovému účinku přisuzovány. Patří k nim zvýšený výskyt nadledvinových feochromocytomů ve srovnání s kontrolou u samců při všech dávkách (≥ 3 mg/kg/den) a u samic, kterým bylo podáváno 10 mg/kg/den a více.
+Nejnižší dávka u samců (3 mg/kg/den) odpovídá 37násobku expozice podle AUC u člověka po podání dávky 1 mg dvakrát denně. Děložní adenokarcinomy epigenetického původu by mohly souviset
+s enzymatickou indukcí skupiny CYP1. Byly pozorovány u samic, kterým bylo podáváno
+30 mg/kg/den, což odpovídá 572násobku expozice podle AUC u člověka po podání dávky 1 mg dvakrát denně.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Obsah tobolky
+Monohydrát laktosy
+
+
+10
+
+Mikrokrystalická celulóza Sodná sůl kroskarmelosy Hyprolosa
+Magnesium-stearát
+
+Tobolka
+Želatina
+Čištěná voda
+Oxid titaničitý (E171) Černý oxid železitý ((E172)
+
+Inkoust
+Šelak
+Černý oxid železitý (E 172)
+Hydroxid draselný (E525)
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+2 roky
+
+Lahvička obsahující 30 tvrdých tobolek:
+Doba použitelnosti po prvním otevření: 30 dní.
+Po prvním otevření uchovávejte v dobře uzavřené lahvičce na suchém místě.
+
+Lahvička obsahující 100 tvrdých tobolek:
+Doba použitelnosti po prvním otevření: 100 dní.
+Po prvním otevření uchovávejte v dobře uzavřené lahvičce na suchém místě.
+
+6.4  Zvláštní opatření pro uchovávání
+Blistry:
+Uchovávejte při teplotě do 30 °C.
+
+Lahvičky:
+Uchovávejte při teplotě do 30 °C. Uchovávejte v původním obalu, aby byl přípravek chráněn před vlhkostí.
+Podmínky uchovávání tohoto léčivého přípravku po jeho prvním otevření jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+
+OPA/Al/PVC/Al blistr obsahující 30 nebo 100 tvrdých tobolek nebo HDPE lahvička s dětským
+bezpečnostním uzávěrem s indukčním těsněním obsahující 30 tvrdých tobolek nebo HDPE lahvička s dětským bezpečnostním šroubovacím uzávěrem s indukčním těsněním obsahující 100 tvrdých tobolek.
+Každá lahvička obsahuje jako vysoušedlo 1 nádobku se silikagelem.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Žádné zvláštní požadavky.
+
+
+
+
+11
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+AV Medical CZ s.r.o., Dobronická 1257, 14800 Praha 4 - Kunratice, Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+16/257/18-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 27. 5. 2021
+
+10.  DATUM REVIZE TEXTU
+
+27. 5. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12

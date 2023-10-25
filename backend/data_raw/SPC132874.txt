@@ -1,0 +1,836 @@
+sp.zn. sukls132607/2017, sukls132612/2017
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1. NÁZEV PŘÍPRAVKU
+
+SOLICARE 5 mg potahované tablety
+SOLICARE 10 mg potahované tablety
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+SOLICARE 5 mg:
+Jedna tableta obsahuje solifenacini succinas 5 mg, což odpovídá solifenacinum 3,8 mg.
+Pomocná látka se známým účinkem: monohydrát laktosy (132,85 mg).
+
+SOLICARE 10 mg:
+Jedna tableta obsahuje solifenacini succinas 10 mg, což odpovídá solifenacinum 7,5 mg.
+Pomocná látka se známým účinkem: monohydrát laktosy (127,85 mg).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Potahovaná tableta.
+
+SOLICARE 5 mg: kulatá světle žlutá bikonvexní potahovaná tableta s označením „CC” na jedné straně a „31“na druhé straně.
+Velikost tablety je 7,6 mm.
+
+SOLICARE 10 mg: kulatá světle růžová bikonvexní potahovaná tableta s označením „CC”
+na jedné straně a „32“na druhé straně.
+Velikost tablety je 7,6 mm.
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Symptomatická léčba urgentní inkontinence a/nebo zvýšené frekvence močení a naléhavosti močení u pacientů s hyperaktivním močovým měchýřem.
+
+4.2 Dávkování a způsob podání Dávkování
+Dospělí, včetně starších osob
+
+
+1/11
+
+Doporučená dávka je 5 mg solifenacin-sukcinátu jednou denně. V případě potřeby je možno dávku zvýšit na 10 mg solifenacin-sukcinátu jednou denně.
+
+Zvláštní populace
+Pediatrická populace
+Bezpečnost a účinnost přípravku SOLICARE u dětí zatím nebyla stanovena. Z tohoto důvodu není SOLICARE určen pro podávání dětem.
+
+Pacienti s poruchou funkce ledvin
+U pacientů s mírnou až středně těžkou poruchou funkce ledvin (clearance kreatininu
+> 30 ml/min) není úprava dávky nutná. Pacienty s těžkou poruchou funkce ledvin (clearance kreatininu ≤ 30 ml/min) je třeba léčit s opatrností a dávkou ne vyšší než 5 mg denně (viz bod 5.2).
+
+Pacienti s poruchou funkce jater
+U pacientů s mírnou poruchou funkce jater není úprava dávky nutná. Pacienty se středně těžkou poruchou funkce jater (Child-Pughovo skóre 7 až 9) je třeba léčit s opatrností a dávkou ne vyšší než 5 mg denně (viz bod 5.2).
+Vysoce účinné inhibitory cytochromu P450 3A4
+Pokud se SOLICARE podává současně s ketokonazolem nebo jinými vysoce účinnými inhibitory CYP3A4, jako jsou např. ritonavir, nelfinavir nebo itrakonazol, v terapeutických dávkách, neměla by maximální denní dávka přesáhnout 5 mg (viz bod 4.5).
+
+Způsob podání
+SOLICARE se užívá perorálně, polyká se celá tableta a zapíjí tekutinou. Může se užívat s jídlem i bez něj.
+
+4.3 Kontraindikace
+
+Solifenacin je kontraindikován u pacientů s močovou retencí, závažnými gastrointestinálními
+poruchami (včetně toxického megakolon), myasthenia gravis a glaukomem s úzkým úhlem
+a u pacientů, u kterých existuje riziko vzniku těchto stavů.
+- Pacienti přecitlivělí na léčivou látku nebo některou z pomocných látek uvedených v bodě 6.1.
+- Pacienti podstupující léčbu hemodialýzou (viz bod 5.2).
+- Pacienti s těžkou poruchou funkce jater (viz bod 5.2).
+- Pacienti s těžkou poruchou funkce ledvin nebo středně těžkou poruchou funkce jater
+a se současnou léčbou silným inhibitorem CYP3A4, např. ketokonazolem (viz bod 4.5).
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Před léčbou přípravkem SOLICARE je třeba zvážit jiné možné příčiny častého močení (srdeční selhání, onemocnění ledvin). Pokud je přítomna močová infekce, je nutno zahájit léčbu vhodnými antibiotiky.
+
+SOLICARE je třeba podávat opatrně pacientům s:
+- klinicky významnou obstrukcí močových cest s rizikem vzniku retence moči;
+- poruchami gastrointestinálního traktu obstrukčního typu;
+- rizikem snížené motility gastrointestinálního traktu;
+
+
+
+2/11
+
+- těžkou poruchou funkce ledvin (clearance kreatininu ≤ 30 ml/min; viz bod 4.2 a 5.2), dávky
+u těchto pacientů by neměly překročit 5 mg;
+- středně těžkou poruchou funkce jater (Child-Pughovo skóre 7 až 9; viz bod 4.2 a 5.2), dávky
+u těchto pacientů by neměly překročit 5 mg;
+- současnou léčbou silným inhibitorem CYP3A4, např. ketokonazolem (viz bod 4.2 a 4.5);
+- hiátovou hernií nebo gastroesofageálním refluxem a s terapií léky, které mohou vyvolat nebo zhoršit zánět jícnu (jako jsou bisfosfonáty);
+- vegetativní neuropatií.
+U pacientů s rizikovými faktory, jako jsou předcházející výskyt syndromu dlouhého QT intervalu a hypokalémie, bylo pozorováno prodloužení QT intervalu a výskyt torsade de pointes.
+
+U pacientů s neurogenními příčinami zvýšené aktivity detrusoru nebyla bezpečnost a účinnost
+stanovena.
+
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+U pacientů, kteří užívají solifenacin-sukcinát, byl hlášen výskyt angioedému s obstrukcí dýchacích cest. Pokud dojde k výskytu angioedému, podávání solifenacin-sukcinátu má být okamžitě ukončeno a má být zavedena příslušná léčba a/nebo jiná opatření.
+
+U pacientů, kteří užívají solifenacin-sukcinát, byl hlášen výskyt anafylaktického šoku.
+U pacientů, u kterých dojde k výskytu anafylaktických reakcí, má být podávání solifenacin- sukcinátu okamžitě ukončeno a má být zavedena příslušná léčba a/nebo jiná opatření.
+Plného účinku přípravku SOLICARE lze dosáhnout nejdříve po 4 týdnech léčby.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Farmakologické interakce 
+Současné podávání s jinými anticholinergními látkami může mít za následek výraznější léčebný účinek i nežádoucí účinky. Mezi ukončením léčby přípravkem SOLICARE a zahájením jiné
+anticholinergní terapie je nutná přestávka přibližně 1 týden. Léčebný účinek solifenacinu může být snížen současným podáváním agonistů cholinergních receptorů.
+Solifenacin může snižovat účinek léčiv, která stimulují motilitu gastrointestinálního traktu jako
+jsou metoklopramid a cisaprid.
+
+Farmakokinetické interakce 
+In vitro studie prokázaly, že v terapeutických koncentracích solifenacin neinhibuje CYP1A1/2, 2C9, 2C19, 2D6 nebo 3A4 z lidských jaterních mikrozómů. Solifenacin tedy pravděpodobně
+neovlivňuje clearance léků metabolizovaných těmito CYP izoenzymy.
+
+Účinky jiných léčivých přípravků na farmakokinetiku solifenacinu 
+Solifenacin je metabolizován CYP3A4. Současné podávání ketokonazolu (200 mg denně), silného inhibitoru CYP3A4, má za následek dvojnásobné zvýšení AUC u solifenacinu. Podávání ketakonazolu v dávce 400 mg denně vede k trojnásobnému zvýšení AUC u solifenacinu. Pokud je tedy SOLICARE podáván současně s ketokonazolem nebo jinými silnými inhibitory CYP3A4 (např. ritonavir, nelfinavir, itrakonazol) v terapeutických dávkách, měla by se jeho maximální
+dávka omezit na 5 mg (viz bod 4.2).
+
+
+
+3/11
+
+Současná léčba solifenacinem a silným inhibitorem CYP3A4 je kontraindikována u pacientů
+s těžkou poruchou funkce ledvin a středně těžkou poruchou funkce jater.
+Účinky indukce enzymů na farmakokinetiku solifenacinu a jeho metabolitů nebyly studovány,
+stejně jako vliv substrátů s vyšší afinitou k CYP3A4 na expozici solifenacinu. Vzhledem k tomu, že solifenacin je metabolizován CYP3A4, jsou možné farmakokinetické interakce s jinými
+substráty s vyšší afinitou k CYP3A4 (např. verapamil, diltiazem) a s induktory CYP3A4 (např.
+rifampicin, fenytoin, karbamazepin).
+Účinek solifenacinu na farmakokinetiku jiných léčivých přípravků 
+Orální kontraceptiva
+SOLICARE nevykazuje žádnou farmakokinetickou interakci s kombinovanými orálními
+kontraceptivy (ethinylestradiol/levonorgestrel).
+
+Warfarin
+SOLICARE nemění farmakokinetiku R-warfarinu nebo S-warfarinu nebo jejich účinek
+na protrombinový čas.
+Digoxin
+SOLICARE nemá žádný vliv na farmakokinetiku digoxinu.
+
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Nejsou k dispozici žádné údaje o ženách, které otěhotněly během užívání solifenacinu. Studie na zvířatech nenaznačují přímé škodlivé účinky na fertilitu, embryonální a fetální vývoj nebo porod (viz bod 5.3). Míra potenciálního rizika pro člověka není známá. Při předepisování těhotným ženám je nutno postupovat opatrně.
+
+Kojení 
+Nejsou k dispozici žádné údaje o vylučování solifenacinu do mateřského mléka. U myší jsou solifenacin a jeho metabolity vylučovány do mléka a způsobují na dávce závislé špatné
+prospívání novorozených mláďat (viz bod 5.3). Během kojení je tedy třeba se užívání přípravku
+SOLICARE vyhnout.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Vzhledem k tomu, že solifenacin může stejně jako ostatní anticholinergika způsobit rozmazané
+vidění a méně často i ospalost a únavu (viz bod 4.8), může být schopnost řídit a obsluhovat stroje negativně ovlivněna.
+
+4.8 Nežádoucí účinky
+
+Shrnutí bezpečnostního profilu 
+Vzhledem k farmakologickému účinku solifenacinu může SOLICARE způsobit anticholinergní nežádoucí účinky, které jsou obecně mírné až střední intenzity. Výskyt těchto nežádoucích
+účinků závisí na dávce.
+Nejčastěji hlášeným nežádoucím účinkem u solifenacinu bylo sucho v ústech. Objevilo se
+u 11 % pacientů léčených dávkou 5 mg denně, u 22 % pacientů léčených 10 mg denně a u 4 % pacientů na placebu. Intenzita tohoto účinku byla obecně nízká a jen příležitostně vedla
+k vysazení léčiva. Celkově byla compliance u tohoto přípravku velmi vysoká (přibližně 99 %)
+a přibližně 90 % pacientů dokončilo celou studii trvající 12 týdnů.
+
+
+4/11
+
+
+
+Souhrnná tabulka nežádoucích účinků 
+
+
+Třídy orgánových systémů
+Velmi
+časté
+≥ 1/10
+Časté
+≥ 1/100 až
+< 1/10
+Méně časté
+≥ 1/1 000 až
+< 1/100
+Vzácné
+≥ 1/10 000 až
+< 1/1 000
+Velmi vzácné
+< 1/10 000
+Není známo (z dostupných údajů nelze stanovit)
+
+
+Infekce
+a infestace
+Poruchy imunitního systému Poruchy
+metabolismu a výživy Psychiatrické poruchy
+
+Poruchy nervového systému
+infekce močových
+cest,
+cystitída
+
+
+
+
+
+
+
+
+
+somnolence,
+dysgeuzie
+
+
+
+
+
+
+
+
+
+
+
+
+závratě*, bolesti hlavy*
+
+
+
+
+
+
+
+
+
+halucinace*, stavy zmatenosti*
+
+
+
+anafylaktické reakce*
+
+snížená chuť k jídlu*, hyperkalémie* delirium*
+
+
+Oční poruchy
+Srdeční
+poruchy
+
+
+
+
+Respirační, hrudní
+a mediastinální poruchy Gastrointesti- nální poruchy
+
+
+
+Hepatální
+a hepatobiliárn í poruchy
+
+Poruchy kůže
+a podkoží
+
+
+
+
+
+
+
+
+
+
+
+
+sucho v
+ústech
+rozmazané vidění
+
+
+
+
+
+
+
+
+
+
+
+zácpa, nevolnost, dyspepsie, bolest
+břicha
+suchost očí
+
+
+
+
+
+
+
+
+suchost v nose
+
+
+
+refluxní choroba jícnu,
+suché hrdlo
+
+
+
+
+
+
+suchá kůže
+
+
+
+
+
+
+
+
+
+
+
+
+
+obstrukce tračníku, zaklíněná stolice, zvracení*
+
+
+
+
+pruritus,*
+vyrážka*,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+erythema multiforme*, kopřivka*, angioedém*
+glaukom*
+
+torsade de pointes*, prodloužení QT na elektrokardiogramu
+*,
+atriální fibrilace*, palpitace*, tachykardie* dysfonie*
+
+
+
+ileus*,
+břišní diskomfort*
+
+
+
+jaterní porucha*, abnormální výsledky funkčních jaterních testů* exfoliativní
+dermatitída *
+
+
+5/11
+
+Třídy orgánových systémů
+Velmi
+časté
+≥ 1/10
+Časté
+≥ 1/100 až
+< 1/10
+Méně časté
+≥ 1/1 000 až
+< 1/100
+Vzácné
+≥ 1/10 000 až
+< 1/1 000
+Velmi vzácné
+< 1/10 000
+Není známo (z dostupných údajů nelze stanovit)
+
+
+Poruchy
+svalové
+a kosterní
+soustavy a
+pojivové tkáně Poruchy ledvin a močových cest
+Celkové
+poruchy
+a reakce v
+místě aplikace
+
+
+
+
+
+obtížné močení
+
+
+únava,
+periferní otoky
+
+
+
+
+
+retence moči
+svalová slabost*
+
+
+
+
+porucha funkce ledvin*
+* zaznamenáno po uvedení solifenacinu na trh.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky,
+aby hlásili podezření na nežádoucí účinky prostřednictvím národního systému hlášení nežádoucích účinků uvedeného v Dodatku V.
+
+4.9 Předávkování
+
+Příznaky
+Předávkování solifenacin-sukcinátem může mít za následek vážné anticholinergní účinky. Nejvyšší dávka solifenacin-sukcinátu podaná náhodně jednomu pacientovi ve výši 280 mg během 5 hodin vedla k psychickým změnám nevyžadujícím hospitalizaci.
+
+Léčba 
+V případě předávkování solifenacin-sukcinátem by měl být pacient léčen aktivním uhlím. Výplach žaludku je užitečný, pokud se provede do 1 hodiny, ale nemělo by se vyvolávat zvracení.
+
+Stejně jako u ostatních anticholinergik mohou být příznaky léčeny následujícím způsobem:
+- Těžké centrální anticholinergní účinky jako halucinace nebo výrazná excitace: léčit
+fysostigminem nebo karbacholem.
+- Křeče nebo výrazná excitace: léčit benzodiazepiny.
+- Respirační insuficience: léčit umělou ventilací.
+- Tachykardie: léčit betablokátory.
+- Retence moči: léčit katetrizací.
+- Mydriáza: léčit pilokarpinem v očních kapkách a/nebo umístit pacienta do temné místnosti.
+Stejně jako u ostatních antimuskarinik je třeba při předávkování věnovat zvláštní pozornost pacientům se známým rizikem prodloužení QT intervalu (tj. s hypokalémií, bradykardií nebo současným podáváním léků, které prodlužují QT interval) a relevantních již existujících
+srdečních chorob (tj. ischémie myokardu, arytmie, městnavého srdečního selhání).
+
+
+
+
+
+6/11
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Antispasmodika močových cest, ATC kód: G04BD08. Mechanismus účinku: 
+Solifenacin je kompetitivní antagonista specifických cholinergních receptorů.
+Močový měchýř má parasympatickou cholinergní inervaci. Acetylcholin způsobuje kontrakci hladkého svalstva detrusoru prostřednictvím muskarinových receptorů, z nichž rozhodující roli
+hraje subtyp M3. Farmakologické studie in vitro i in vivo ukazují, že solifenacin je kompetitivní inhibitor subtypu M3 muskarinových receptorů. Dále se prokázalo, že solifenacin je specifickým antagonistou muskarinových receptorů vykazujícím žádnou nebo jen nízkou afinitu k různým
+dalším testovaným receptorům a iontovým kanálům.
+
+Farmakodynamické účinky: 
+Solifenacin byl testován v dávkách 5 mg a 10 mg v několika dvojitě zaslepených
+randomizovaných kontrolovaných klinických studiích na mužích i ženách s hyperaktivitou
+močového měchýře.
+Jak je uvedeno v přiložené tabulce, v porovnání s placebem měly dávky 5 mg a 10 mg
+za následek statisticky významné zlepšení primárních i sekundárních cílů. Nástup účinku byl
+pozorován do 1 týdne po zahájení léčby a zůstal po dobu sledovaných 12 týdnů stabilní. Dlouhodobá otevřená studie dokázala, že účinnost přetrvává po dobu alespoň 12 měsíců.
+Po 12 týdnech se přibližně 50 % pacientů, kteří trpěli inkontinencí, zcela zbavilo příhod
+inkontinence a u 35 % pacientů frekvence močení klesla pod 8-krát za den. Léčba příznaků
+hyperaktivity močového měchýře se pozitivně odrazila v řadě hodnocených kritérií kvality života jako jsou celkové vnímání zdravotního stavu, vnímání inkontinence, pracovní, fyzická a sociální omezení, emoce, intenzita příznaků, měřítka intenzity, kvalita spánku a zachování životní energie.
+
+Výsledky (souhrnná data) ze 4 kontrolovaných studií fáze 3 s léčbou v délce 12 týdnů
+
+
+
+
+
+Frekvence močení/24 hod.
+Placebo  Solifenacin 5 mg
+1x denně
+Solifenacin 10 mg
+1x denně
+Tolterodin 2 mg
+2x denně
+
+Průměrná počáteční hodnota (baseline) Průměrné snížení z baseline
+Změna z baseline v %
+n (počet)
+p-hodnota*
+Počet příhod nucení/24 hod. Průměrná počáteční hodnota (baseline) Průměrné snížení z baseline
+Změna z baseline v %
+n (počet)
+p-hodnota*
+Počet příhod inkontinence/24 hod. Průměrná počáteční hodnota (baseline) Průměrné snížení z baseline
+Změna z baseline v %
+n (počet)
+p-hodnota*
+11,9
+1,4
+(12 %)
+1 138
+
+
+6,3
+2,0
+(32 %)
+1 124
+
+
+2,9
+1,1
+(38 %)
+781
+12,1
+2,3
+(19 %)
+552
+< 0,001
+
+5,9
+2,9
+(49 %)
+548
+< 0,001
+
+2,6
+1,5
+(58 %)
+314
+< 0,001
+11,9
+2,7
+(23 %)
+1 158
+< 0,001
+
+6,2
+3,4
+(55 %)
+1 151
+< 0,001
+
+2,9
+1,8
+(62 %)
+778
+< 0,001
+12,1
+1,9
+(16 %)
+250
+0,004
+
+5,4
+2,1
+(39 %)
+250
+0,031
+
+2,3
+1,1
+(48 %)
+157
+0,009
+
+
+
+7/11
+
+
+
+
+Počet příhod nykturie/24 hod. Průměrná počáteční hodnota (baseline) Průměrné snížení z baseline
+Změna z baseline v %
+n (počet)
+p-hodnota*
+Objem moči na 1 močení
+Průměrná počáteční hodnota (baseline) Průměrné zvýšení z baseline
+Změna z baseline v %
+n (počet)
+p-hodnota*
+Počet vložek/24 hod.
+Průměrná počáteční hodnota (baseline) Průměrné snížení z baseline
+Změna z baseline v % n (počet)
+p-hodnota*
+Placebo
+
+
+
+1,8
+0,4
+(22 %)
+1 005
+
+
+166 ml
+9 ml
+(5 %)
+1 135
+
+
+3,0
+0,8
+(27 %)
+238
+Solifenacin 5 mg
+1x denně
+
+2,0
+0,6
+(30 %)
+494
+0,025
+
+146 ml
+32 ml
+(21 %)
+552
+< 0,001
+
+2,8
+1,3
+(46 %)
+236
+< 0,001
+Solifenacin 10 mg
+1x denně
+
+1,8
+0,6
+(33 %)
+1 035
+< 0,001
+
+163 ml
+43 ml
+(26 %)
+1 156
+< 0,001
+
+2,7
+1,3
+(48 %)
+242
+< 0,001
+Tolterodin 2 mg
+2x denně
+
+1,9
+0,5
+(26 %)
+232
+0,199
+
+147 ml
+24 ml
+(16 %)
+250
+< 0,001
+
+2,7
+1,0
+(37 %)
+250
+0,010
+
+Poznámka:  Ve 4 pivotních studiích byla použita dávka solifenacinu 10 mg a placebo.
+Ve 2 ze 4 studií byla použita i dávka solifenacinu 5 mg a 1 studie zahrnovala i tolterodin v dávce 2 mg 2 x denně.
+Ne všechny parametry a léčebné skupiny byly posuzovány v každé jednotlivé studii. Z tohoto důvodu se uvedená čísla pacientů liší podle sledovaného parametru a léčebné skupiny.
+
+*p - hodnota se týká srovnání s placebem.
+
+5.2 Farmakokinetické vlastnosti
+
+Absorpce 
+Po užití tablet dosahuje solifenacin maximální plazmatické koncentrace (Cmax) za 3 až 8 hodin.
+Hodnota tmax nezávisí na dávce. Hodnota Cmax a plocha pod křivkou (AUC) stoupá
+proporcionálně s dávkou v rozmezí 5 až 40 mg. Absolutní biologická dostupnost je přibližně
+90 %.
+Příjem potravy nemá na Cmax a AUC žádný vliv.
+Distribuce 
+Zdánlivý distribuční objem solifenacinu po intravenózním podání je 600 litrů. Solifenacin je ve vysoké míře (přibližně 98 %) vázán na plazmatické proteiny, především na kyselý α1- glykoprotein.
+
+Biotransformace
+Solifenacin je ve významné míře metabolizován v játrech, především cytochromem P 450 3A4 (CYP3A4). Existují nicméně alternativní metabolické dráhy, které k metabolismu solifenacinu rovněž mohou přispívat. Systémová clearance solifenacinu je přibližně 9,5 l/hod a konečný poločas solifenacinu je 45 – 68 hodin. Po perorálním podání lze v plazmě kromě solifenacinu identifikovat ještě jeden farmakologicky aktivní metabolit (4R-hydroxy-solifenacin) a tři metabolity neaktivní (N-glukuronid, N-oxid a 4R-hydroxy-N-oxid solifenacinu).
+
+Eliminace
+Po jednorázovém podání solifenacinu značeného ¹⁴C bylo přibližně 70 % radioaktivity
+detekováno v moči a 23 % ve stolici po dobu 26 dnů. Ukázalo se, že přibližně 11 % radioaktivity
+
+
+8/11
+
+v moči připadá na nezměněnou léčivou látku; asi 18 % na N-oxid metabolit, 9 % na 4R-hydroxy- N-oxid metabolit a 8 % na 4R-hydroxy metabolit (aktivní).
+
+Linearita/nelinearita 
+V rozmezí terapeutických dávek je farmakokinetika lineární.
+Jiné zvláštní skupiny
+Starší osoby
+Není nutná žádná úprava dávky v závislosti na věku pacienta. Studie na starších pacientech
+prokázaly, že expozice solifenacinu (po podání 5 mg a 10 mg jednou denně) vyjádřená jako AUC se u zdravých starších osob (65 – 80 let) nelišila od hodnot mladých zdravých osob (mladších
+55 let). U starších osob byla průměrná míra absorpce vyjádřená jako tmax mírně pomalejší
+a konečný poločas byl přibližně o 20 % delší. Tyto malé rozdíly nejsou považovány za klinicky signifikantní.
+U dětí a dospívajících nebyla farmakokinetika solifenacinu stanovena.
+Pohlaví
+Farmakokinetika solifenacinu není ovlivněna pohlavím.
+
+Rasa
+Farmakokinetika solifenacinu není ovlivněna rasou.
+
+Porucha funkce ledvin
+Hodnoty AUC a Cmax solifenacinu u pacientů s mírnou až středně těžkou poruchou funkce ledvin nebyly významně odlišné od hodnot nalezených u zdravých dobrovolníků. U pacientů s těžkou poruchou funkce ledvin (clearance kreatininu ≤ 30 ml/min) byla expozice solifenacinu významně větší než v kontrolní skupině: Cmax stoupla přibližně o 30 %, AUC o více než 100 % a t1/2 o více než 60 %. Byla pozorována statisticky významná závislost mezi clearance kreatininu
+a solifenacinu.
+Farmakokinetika u pacientů léčených hemodialýzou nebyla studována.
+
+Porucha funkce jater
+U pacientů se středně těžkou poruchou funkce jater (Child-Pughovo skóre 7 až 9) není Cmax
+ovlivněna, AUC se zvyšuje o 60 % a t1/2 je dvojnásobný. Farmakokinetika u pacientů s těžkou poruchou funkce jater nebyla studována.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Předklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podání, genotoxicity, hodnocení kancerogenního potenciálu
+a reprodukční toxicity neodhalily žádné zvláštní riziko pro člověka.
+Ve studii pre- a postnatálního vývoje na myších měla léčba matky solifenacinem během kojení za následek nižší míru poporodního přežití, snížení hmotnosti mláďat a jejich pomalejší fyzický vývoj. Tyto parametry byly závislé na dávce a jejich míra je klinicky relevantní.
+Zvýšená mortalita v závislosti na dávce bez předešlých klinických projevů se vyskytla u mláďat myší, jejichž léčba započala 10. nebo 21. den po narození s dávkami, které dosáhly
+farmakologického efektu, a obě skupiny měly vyšší mortalitu v porovnání s dospělými jedinci. U myších mláďat, jejichž léčba započala 10. den po porodu, byla expozice v plazmě vyšší než u dospělých myší, při léčbě po 21. dni po porodu a dále byla systémová expozice srovnatelná jako u dospělých myší. Klinický dopad zvýšené mortality u myších mláďat není znám.
+
+
+
+9/11
+
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Jádro tablety: 
+monohydrát laktosy kukuřičný škrob hypromelosa
+koloidní oxid kremičitý bezvodý
+magnesium-stearát
+
+Potahová vrstva: 
+SOLICARE 5 mg:
+hypromelosa 2910 (6 cp) (E464)
+makrogol 4000 (E1521) oxid titaničitý (E171) mastek (E553b)
+žlutý oxid železitý (E172)
+
+SOLICARE 10 mg:
+hypromelosa 2910 (6 cp) (E464)
+makrogol 4000 (E1521) oxid titaničitý (E171) mastek (E553b)
+červený oxid železitý (E172)
+
+6.2 Inkompatibility
+
+Neuplatňuje se.
+
+6.3 Doba použitelnosti
+
+3 roky.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5 Druh obalu a obsah balení
+
+Obal:
+Tablety jsou baleny v PVC/Al blistru nebo v bílých neprůhledných HDPE lahvičkách
+s polypropylenovým šroubovacím uzávěrem.
+
+Velikost balení (blistry): 30, 50 nebo 100 tablet
+Velikost balení (lahvička): 30, 50, 100, 250, 500 nebo 1000 tablet
+
+
+10/11
+
+Na trhu nemusí být všechny velikosti balení.
+
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+CANDE CZ s.r.o.
+Skořepka 1058/8 110 00 Praha 1 Česká republika
+
+
+8. REGISTRAČNÍ ČÍSLO(A)
+
+73/187/17-C
+73/188/17-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+31. 10 2018
+
+10. DATUM REVIZE TEXTU
+
+31. 10. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11

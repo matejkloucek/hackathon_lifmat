@@ -1,0 +1,157 @@
+sp.zn. sukls216617/2018 a sp.zn. sukls216590/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1. NÁZEV PŘÍPRAVKU
+
+Glucose/Sodium Chloride Fresenius Kabi 2,5%/0,45% infuzní roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Glucosum monohydricum                2,75 g (ekvivalent glucosum anhydricum (dextrosum))     2,50 g Natrii chloridum                     0,45 g
+Voda pro injekci                     ad 100 ml
+Teoretická osmolarita     293 mosm/l
+Na⁺               77 mmol/l
+Cl⁻               77 mmol/l
+C6H12O6.H2O         139 mmol/l
+pH               3,5 - 6,5
+
+
+3. LÉKOVÁ FORMA
+
+Infuzní roztok
+Popis přípravku: čirý, bezbarvý roztok.
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Roztok glukózy a chloridu sodného je indikován v případech nutnosti expanze ECT (extracelulární tekutiny), zvláště když ztráta Cl⁻ je větší nebo stejná jako ztráta Na⁺ a v případě potřeby dodávky cukrů, jako zdroje energie. Dehydratace při pocení, zvracení, kdy lze očekávat velké ztráty HCl s následnou metabolickou alkalózou.
+Používá se při náhradě ztráty izotonické tekutiny v průběhu nebo po operacích. Hypertonická dehydratace.
+
+4.2 Dávkování a způsob podání
+
+Před podáním a během podávání přípravku je nutné monitorovat bilanci tekutin, hladinu sérové glukózy, sérového sodíku a dalších elektrolytů, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu, a to z důvodu rizika hyponatrémie.
+
+U fyziologicky hypotonických tekutin je zvláště významné monitorovat sérový sodík. Přípravek Glucose/Sodium Chloride Fresenius Kabi 2,5%/0,45%  se může po podání stát extrémně hypotonický z důvodu metabolizace glukózy v těle (viz body 4.4, 4.5 a 4.8).
+
+Individuální podle rozhodnutí lékaře. Dávkování se řídí podle věku, váhy, klinického stavu nemocného, laboratorních výsledků plazmatických hladin natria a chloridů, bilance objemu tekutin. Maximální dávka je 2000 ml/24 hod. Podává se v intravenózní infuzi.
+
+4.3 Kontraindikace
+
+Renální insuficience, kardiální edémy, hepatální insuficience, dekompenzovaný diabetes mellitus, intrakraniální,  intraspinální  krvácení  v  průběhu  neurochirurgických  operací,  hypernatrémie, hypotonická dehydratace.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Intravenózní infuzní roztok 2,5% glukózy je izotonický. Roztoky glukózy o vyšší koncentrací glukózy jsou hypertonické. V těle se nicméně roztoky obsahující glukózu mohou stát zdrojem volné vody díky rychlému aktívnímu přenosu glukózy do tělních buněk. Tento stav může vést k těžké hyponatrémii (viz bod 4.2).
+
+V závislosti na tonicitě roztoku, objemu a rychlosti infuze, pacientově klinickém stavu a jeho schopnosti metabolizovat glukózu, může intravenózní podání glukózy způsobit poruchy elektrolytové rovnováhy, zejména hypoosmotickou nebo hyperosmotickou hyponatrémii.
+Hyponatrémie:
+Pacienti s neosmotickým uvolňováním vazopresinu (k němuž dochází např. při akutním onemocnění, bolesti, pooperačním stresu, infekcích, popáleninách a při onemocnění CNS), pacienti s onemocněním srdce, jater a ledvin a pacienti léčení agonisty vazopresinu (viz bod 4.5) jsou zejména ohroženi akutní hyponatrémií po podání infuze hypotonických roztoků.
+
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku), která se projevuje bolestí hlavy, nauzeou, záchvaty křečí, letargií a zvracením. Pacienti s edémem mozku jsou zejména ohroženi těžkým, nevratným a život ohrožujícím poškozením mozku.
+Zvýšené riziko závažného a život ohrožujícího edému mozku způsobeného akutní hyponatrémií je u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální compliance (např. meningitida, intrakraniální krvácení a kontuze mozku).
+
+Používat pouze čirý roztok bez viditelných partikulí a při nepoškozeném obalu. Nepoužívat nespotřebovanou část.
+Podávání roztoku chloridu sodného a glukózy v průběhu operace nebo po operaci může způsobit také nadměrné zvýšení natria v séru, které je způsobeno činností homeostatických mechanizmů, které vedou k zadržení natria v organizmu. Rovněž může dojít k nadměrnému zvýšení glykémie, což je způsobeno rezistencí na inzulin v průběhu a po operaci.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Léčiva vedoucí ke zvýšenému účinku vazopresinu:
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2, 4.4 a 4.8).
+
+•   Léčiva stimulující uvolnění vazopresinu, např.:
+
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání
+serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika.
+•   Léčiva zesilující působení vazopresinu, např.: chlorpropamid, NSAID, cyklofosfamid.
+•   Analogy vazopresinu, např.:
+desmopresin, oxytocin, vazopresin, terlipresin.
+
+Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a antiepileptika, např. oxkarbazepin.
+4.6 Fertilita, těhotenství a kojení
+
+Přípravek  Glucose/Sodium Chloride Fresenius Kabi 2,5%/0,45%  je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména při podání v kombinaci s oxytocinem, z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8).
+Přípravek může být podáván v době těhotenství a kojení.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Tento léčivý přípravek nemůže změnit schopnost reakce a tím snížit způsobilost k řízení motorových vozidel a ovládání strojů.
+4.8 Nežádoucí účinky
+
+Níže uvedené nežádoucí účinky se vyskytují s četností není známo (z dostupných údajů nelze určit).
+
+Nežádoucí účinky, které mohou souviset s technikou aplikace nebo přípravkem samotným, zahrnují febrilie, infekci v místě aplikace, flebitidu nebo tromboflebitidu šířící se od místa aplikace, hypervolémii nebo paravazální aplikaci. Při výskytu přerušíme podávání, zabezpečíme nemocného a uchováme roztok pro případné testování.
+Podání přípravku může způsobit iatrogenní hyponatrémii nebo akutní hyponatremickou encefalopatii, jejíchž frekvence výskytu nejsou známy.
+Iatrogenní hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie (viz body 4.2, 4.4).
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41, Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Nadměrné podání NaCl (izotonické koncentrace) při snížené schopnosti ledvin vylučovat Na⁺, může dojít k extracelulární hyperhydrataci a k tvorbě edémů. Předávkování glukózou je možné pouze při nesprávném použití roztoku (nepoznaný diabetes mellitus, špatný celkový stav po operaci) a projeví se ketoacidemií, osmotickou diurézou s intracelulární nebo globální dehydratací.
+Léčba předávkování je podpůrná a symptomatická.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Infundabilium. ATC kód: B05BB02
+5.1 Farmakodynamické vlastnosti
+
+Sterilní, apyrogenní, izoosmotický, hypoionní roztok s obsahem glukózy a chloridu sodného. Neobsahuje žádné antimikrobiální, bakteriostatické a stabilizující přísady. Roztok je vhodný pro vyrovnání ztrát sodíku a vody za současného přísunu glukózy, zejména při depleci Cl⁻, která je větší nebo stejná jako deplece Na⁺.
+5.2 Farmakokinetické vlastnosti
+
+Elektrolyty se v organismu distribuují dle koncentračních gradientů v ECT, volná voda se distribuuje dle koncentračního spádu ve všech kompartmentech. Iontová rovnováha je závislá na vylučování jednotlivých iontů ledvinami a podléhá zejména mineralokortikoidní regulaci. Vodní homeostáza je řízena ADH.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Jedná se o zcela bezpečný přípravek bez toxických, kancerogenních, mutagenních a teratogenních účinků.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+
+Voda pro injekci.
+
+6.2 Inkompatibility
+
+Kompatibilita s jinými přípravky, které jsou přidávané do infúze, musí být před použitím ověřena.
+
+6.3 Doba použitelnosti
+
+4 roky
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Uchovávejte lahev v kartonové krabici, aby byl léčivý přípravek chráněn před světlem. Chraňte před chladem a mrazem.
+6.5 Druh obalu a obsah balení
+
+Skleněná infuzní lahev, pryžová zátka, hliníková pertle, karton. Velikost balení:
+1 x 100 ml, 1 x 250 ml, 1 x 500 ml, 1 x 1000 ml, 20 x 100 ml, 12 x 250 ml, 16 x 250 ml, 12 x 500 ml, 6
+x 1000 ml.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, 140 00 Praha 4, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO(A)
+
+76/091/99-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 10. 2. 1999
+Datum posledního prodloužení registrace: 21. 11. 2012
+
+
+10. DATUM REVIZE TEXTU
+
+1. 8. 2018

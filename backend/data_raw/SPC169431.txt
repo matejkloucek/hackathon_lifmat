@@ -1,0 +1,775 @@
+Sp. zn. sukls254721/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Adezop 10 mg tablety
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna tableta obsahuje ezetimibum 10 mg. Pomocné látky se známým účinkem: laktóza.
+Jedna tableta obsahuje 54 mg monohydrátu laktózy. Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+Tableta.
+
+Bílé až téměř bílé tablety ve tvaru tobolky, s rozměry 8 mm x 4,5 mm, s vyražením ‘1>1’ na jedné straně.
+
+4. KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Primární hypercholesterolemie
+Přípravek Adezop podávaný spolu s inhibitorem reduktázy HMG CoA (statinem) je indikován jako přídatná terapie k dietě u nemocných s primární (heterozygotní familiární nebo nefamiliární) hypercholesterolemií, u kterých není dostatečná odpověď na léčbu při podávání statinu samotného.
+Přípravek Adezop je v monoterapii indikován jako přídatná terapie k dietě u pacientů s primární (heterozygotní familiární nebo nefamiliární) hypercholesterolemií, u kterých není podávání statinu považováno za vhodné nebo není tolerováno.
+
+Prevence kardiovaskulárních příhod
+Přípravek Adezop je indikován ke snížení rizika kardiovaskulárních příhod (viz bod 5.1) u pacientů s ischemickou chorobou srdeční (ICHS) a s anamnézou akutního koronárního syndromu (AKS), a to přidáním k už probíhající léčbě statinem, nebo je-li jeho užívání zahájeno současně se statinem.
+
+Homozygotní familiární hypercholesterolemie (HoFH)
+Přípravek Adezop podávaný spolu se statinem je indikován jako přídatná terapie k dietě u pacientů s HoFH. Pacienti mohou dostávat i přídatnou terapii (např. aferézu LDL).
+
+4.2. Dávkování a způsob podání
+Dávkování
+Pacient musí dodržovat příslušnou hypolipidemickou dietu a musí v této dietě během léčby přípravkem Adezop
+pokračovat.
+Přípravek se podává perorálně. Doporučená dávka je jedna tableta přípravku Adezop 10 mg denně. Přípravek
+Adezop lze podávat v kteroukoli denní dobu, spolu s jídlem nebo bez něj.
+Pokud je přípravek Adezop přidán ke statinu, mělo by se pokračovat v podávání buď indikované obvyklé počáteční dávky konkrétního statinu, nebo již stanovené vyšší dávky statinu. V tomto případě by měl být brán ohled na pokyny pro dávkování konkrétního statinu.
+
+Použití u pacientů s ischemickou chorobou srdeční a akutním koronárním syndromem v anamnéze
+Přípravek Adezop se, pro postupné snížení rizika kardiovaskulárních příhod u pacientů s ischemickou chorobou
+
+Stránka 1 z 14
+
+srdeční a akutním koronárním syndromem v anamnéze, může podávat současně se statinem, přínos této kombinace byl prokázán.
+Podávání spolu se sekvestranty žlučových kyselin
+Přípravek Adezop má být podáván buď ≥2 hodiny před nebo ≥4 hodiny po podání sekvestrantů žlučových kyselin.
+Starší osoby
+U starších osob není nutno dávku nijak upravovat (viz bod 5.2).
+Pediatrická populace
+Léčbu je nutno zahájit pod dohledem specialisty.
+Děti a dospívající ≥ 6 let: bezpečnost a účinnost ezetimibu u dětí ve věku 6 až 17 let nebyla dosud stanovena. V současnosti dostupné údaje jsou popsány v bodech 4.4, 4.8, 5.1 a 5.2, ale na jejich základě nelze učinit žádná doporučení ohledně dávkování.
+Pokud se přípravek Adezop podává se statinem, je nutno se obeznámit s pokyny o dávkování daného statinu u dětí.
+Děti <6 let: bezpečnost a účinnost ezetimibu u dětí ve věku <6 let nebyla dosud stanovena. Nejsou dostupné žádné údaje.
+Pacienti s poruchou funkce jater
+U pacientů s mírnou poruchou funkce jater (Child Pugh skóre 5-6) není nutno dávku nijak upravovat. Léčba přípravkem Adezop se nedoporučuje u pacientů se středně závažnou (Child Pugh skóre 7-9) nebo závažnou (skóre> 9 podle Child Pugh) jaterní dysfunkcí (viz body 4.4 a 5.2).
+
+Pacienti s poruchou funkce ledvin
+U pacientů s poruchou funkce ledvin není nutno dávku nijak upravovat (viz bod 5.2).
+
+4.3. Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Pokud se přípravek Adezop podává spolu se statinem, řiďte se prosím souhrnem údajů o přípravku (SPC) příslušného léčivého přípravku.
+Léčba přípravkem Adezop v kombinaci se statinem je kontraindikována během těhotenství a kojení.
+Podávání přípravku Adezop spolu se statinem je kontraindikováno u nemocných s aktivním jaterním onemocněním
+anebo nevysvětleným přetrvávajícím zvýšením sérových transamináz.
+
+4.4. Zvláštní upozornění a opatření pro použití
+Pokud se přípravek Adezop podává spolu se statinem, řiďte se prosím souhrnem údajů o přípravku (SPC) příslušného léčivého přípravku.
+
+Jaterní enzymy
+V kontrolovaných studiích společného podávání ezetimibu se statinem bylo opakovaně pozorováno zvýšení transamináz (≥3krát horní hranice normálu [upper limit of normal, ULN]). Pokud se ezetimib podává současně se statinem, je nutno při zahájení terapie provést jaterní testy a řídit se doporučeními pro daný statin (viz bod 4.8). Ve studii IMProved Reduction of Outcomes: Vytorin Efficacy International Trial (IMPROVE-IT) bylo randomizováno 18144 pacientů s ischemickou chorobou srdeční a akutním koronárním syndromem v anamnéze do skupiny léčené kombinací ezetimib/simvastatin 10 mg/40 mg denně (n=9067) nebo 40 mg simvastatinu denně (n=9077). Během mediánu sledování 6,0 roku byla incidence následných zvýšení hladin transamináz (≥ 3x ULN) 2,5 % u ezetimibu/ simvastatinu a 2,3 % u simvastatinu. (Viz bod 4.8.).
+V kontrolované klinické studii, kde bylo více než 9 000 pacientů s chronickým onemocněním ledvin randomizováno do skupiny léčené ezetimibem 10 mg v kombinaci se simvastatinem v dávce 20 mg denně (n=4650) nebo do skupiny léčené placebem (n=4620) (medián doby sledování 4,9 roku), byla incidence následných zvýšení transamináz (> 3 x ULN) 0,7 % u ezetimibu v kombinaci se simvastatinem a 0,6 % u placeba (viz bod 4.8).
+
+Kosterní sval
+Po uvedení ezetimibu na trh byly popsány případy myopatie a rhabdomyolýzy. Většina pacientů, u nichž došlo k rozvoji rhabdomyolýzy, užívala spolu s ezetimibem i statin. Nicméně velmi vzácně byla rhabdomyolýza popisována i při monoterapii ezetimibem a velmi vzácně byla také popisována i po přidání ezetimibu k ostatním lékům, o nichž je známo, že jsou spojeny se zvýšeným rizikem rhabdomyolýzy. Pokud existuje podezření na myopatii na základě svalových příznaků nebo je diagnóza myopatie potvrzena zvýšením hladiny kreatinfosfokinázy (CPK)> 10násobek horní hranice normálu (ULN), je nutno ezetimib, všechny statiny a veškeré tyto jiné léky, které pacient současně užívá, okamžitě vysadit. Všechny pacienty, u nichž se zahajuje léčba ezetimibem, je nutno upozornit na riziko myopatie a požádat je, aby urychleně informovali lékaře o případné nevysvětlitelné svalové bolesti, citlivosti nebo slabosti (viz bod 4.8).
+Ve studii IMPROVE-IT bylo randomizováno 18144 pacientů s ischemickou chorobou srdeční a akutním koronárním syndromem v anamnéze do skupiny léčené ezetimibem / simvastatinem 10 mg/40 mg denně (n=9067) nebo 40 mg simvastatinu denně (n=9077). Během mediánu sledování 6,0 roku byla incidence myopatie u pacientů s
+
+Stránka 2 z 14
+
+ezetimibem/simvastatinem 0,2 % a u pacientů se simvastatinem 0,1 %, přičemž myopatie byla definována jako nevysvětlená svalová slabost nebo bolest s hladinou sérové kreatinkinázy (CK) ≥ 10násobek ULN nebo s koncentrací CK ≥ 5násobek a zároveň <10násobek ULN ve dvou následných měřeních. Incidence rhabdomyolýzy byla u pacientů s ezetimibem / simvastatinem 0,1 % a u pacientů se simvastatinem 0,2 %, přičemž rhabdomyolýza byla definována jako nevysvětlená svalová slabost nebo bolest s hladinou sérové CK ≥ 10násobek ULN s prokázaným renálním poškozením, ≥ 5násobek a zároveň <10násobek ULN ve dvou následných měřeních s prokázaným renálním poškozením nebo ≥ 10000 IU/l bez prokázaného renálního poškození. (Viz bod 4.8.).
+V klinické studii, kde bylo více než 9000 pacientů s chronickým onemocněním ledvin randomizováno do skupiny léčené ezetimibem 10 mg v kombinaci se simvastatinem v dávce 20 mg denně (n=4650) nebo do skupiny léčené placebem (n=4620) (medián doby sledování 4,9 roku), byla incidence myopatie/rhabdomyolýzy 0,2 % u kombinace ezetimibu se simvastatinem a 0,1 % u placeba (viz bod 4.8).
+Pacienti s poruchou funkce jater
+Vzhledem k neznámým účinkům zvýšené expozice ezetimibu u pacientů se středně závažnou nebo závažnou poruchou funkce jater se u těchto pacientů ezetimib nedoporučuje (viz bod 5.2).
+Pediatrická populace
+Účinnost a bezpečnost ezetimibu u pacientů ve věku 6 až 10 let s heterozygotní familiární nebo nefamiliární hypercholesterolemií byla hodnocena v 12týdenní placebem kontrolované klinické studii. Účinky ezetimibu při době léčby delší než 12 týdnů nebyly v této věkové skupině hodnoceny (viz body 4.2, 4.8, 5.1 a 5.2).
+Ezetimib nebyl hodnocen u nemocných mladších 6 let věku (viz body 4.2 a 4.8).
+Účinnost a bezpečnost ezetimibu podávaného se simvastatinem nemocným ve věku 10 až 17 let s heterozygotní familiární hypercholesterolemií byla hodnocena v kontrolované klinické studii u dospívajících chlapců (Tannerův stupeň II nebo vyšší) a u dívek, které byly alespoň jeden rok po první menstruaci.
+V této omezené kontrolované studii nebyl u dospívajících chlapců a dívek obecně zjištěn žádný detekovatelný vliv na růst nebo pohlavní vyzrávání, ani žádný vliv na délku menstruačního cyklu u dívek. Účinky ezetimibu na růst a pohlavní vyzrávání při trvání léčby> 33 týdnů však nebyly hodnoceny (viz body 4.2 a 4.8).
+Bezpečnost a účinnost ezetimibu podávaného s dávkami simvastatinu vyššími než 40 mg denně nebyla u pediatrické populace ve věku 10 až 17 let hodnocena.
+Bezpečnost a účinnost ezetimibu podávaného současně se simvastatinem nebyla u pediatrické populace mladší
+10 let hodnocena (viz body 4.2 a 4.8).
+Dlouhodobá účinnost léčby ezetimibem u nemocných mladších 17 let na snižování morbidity a mortality v dospělosti
+nebyla hodnocena.
+
+Fibráty
+Bezpečnost a účinnost ezetimibu podávaného současně s fibráty nebyla stanovena.
+Při podezření na cholelitiázu se pacientům dostávajícím ezetimib a fenofibrát indikují vyšetření žlučníku a léčba musí být přerušena (viz body 4.5 a 4.8).
+
+Cyklosporin
+Pokud je užíván cyklosporin, je třeba dbát zvýšené opatrnosti při zahájení podávání ezetimibu. U nemocných užívajících ezetimib a cyklosporin je nutno koncentrace cyklosporinu sledovat (viz bod 4.5).
+
+Antikoagulancia
+Pokud se přípravek Adezop přidá k warfarinu, jiným kumarinovým antikoagulanciím nebo fluindionu, je nutno odpovídajícím způsobem sledovat mezinárodní normalizovaný poměr (International Normalized Ratio, INR) (viz bod 4.5).
+Laktóza
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je v podstatě
+„bez sodíku“.
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+V preklinických studiích se ukázalo, že ezetimib neindukuje enzymy cytochromu P450, které metabolizují léky. Nebyly pozorovány žádné klinicky významné farmakokinetické interakce mezi ezetimibem a přípravky, o nichž je známo, že jsou metabolizovány cytochromy P450 1A2, 2D6, 2C8, 2C9 a 3A4 nebo N acetyltransferázou.
+V klinických studiích zaměřených na interakce neměl ezetimib při současném podávání žádný vliv na farmakokinetiku dapsonu, dextrometorfanu, digoxinu, perorálních kontraceptiv (ethinylestradiol a levonorgestrel), glipizidu, tolbutamidu nebo midazolamu. Cimetidin podávaný současně s ezetimibem neměl na biologickou dostupnost ezetimibu žádný vliv.
+Antacida
+
+Stránka 3 z 14
+
+Současné podávání antacid snížilo rychlost absorpce ezetimibu, ale na biologickou dostupnost ezetimibu nemělo žádný vliv. Snížená rychlost absorpce se nepovažuje za klinicky významnou.
+Kolestyramin
+Současné podávání kolestyraminu snížilo průměrnou velikost plochy pod křivkou (AUC) celkového ezetimibu (ezetimib + ezetimib glukuronid) přibližně o 55 %. Postupné snižování hladin cholesterolu nízkodenzitních lipoproteinů (low density lipoprotein cholesterol, LDL C) se jako důsledek přidání přípravku Adezop ke kolestyraminu může touto interakcí oslabit (viz bod 4.2).
+
+Fibráty
+U pacientů dostávajících fenofibrát a přípravek Adezop si musí být lékaři vědomi možného rizika cholelitiázy a onemocnění žlučníku (viz body 4.4 a 4.8).
+Při podezření na cholelitiázu se pacientům dostávajícím přípravek Adezop a fenofibrát indikují vyšetření žlučníku a léčba musí být přerušena (viz bod 4.8).
+Současné podávání fenofibrátu nebo gemfibrozilu mírně zvýšilo celkové koncentrace ezetimibu (přibližně 1,5krát a 1,7krát, v uvedeném pořadí).
+Současné podávání ezetimibu s jinými fibráty nebylo hodnoceno.
+Fibráty mohou zvýšit vylučování cholesterolu do žluči vedoucí k cholelitiáze. Ve studiích na zvířatech ezetimib někdy zvyšoval hladiny cholesterolu ve žlučníkové žluči (viz bod 5.3), ne však u všech druhů. Litogenní riziko sdružené s terapeutickým použitím přípravku Adezop nelze vyloučit.
+
+Statiny
+Při současném podávání ezetimibu s atorvastatinem, simvastatinem, pravastatinem, lovastatinem, fluvastatinem nebo rosuvastatinem nebyly zjištěny žádné klinicky významné farmakokinetické interakce.
+Cyklosporin
+Ve studii na osmi nemocných po transplantaci ledvin s clearance kreatininu> 50 ml/min, kteří byli na stabilní dávce cyklosporinu, vedlo podávání jednotlivé 10mg dávky ezetimibu ke 3,4násobnému (rozmezí 2,3-7,9násobné) zvýšení průměrné AUC celkového ezetimibu ve srovnání se zdravou populací z kontrolní skupiny, která dostávala ezetimib samostatně, z jiné studie (n=17). V odlišné studii, u pacienta po transplantaci ledvin se závažnou poruchou funkce ledvin, který dostával cyklosporin s další mnohočetnou terapií, se projevila 12násobně vyšší expozice celkovému ezetimibu ve srovnání se souběžnými kontrolními skupinami, které ezetimib dostávaly samostatně. Ve studii se zkříženým uspořádáním (crossover) ve dvou obdobích, která se provedla u 12 zdravých jedinců, vedlo denní podávání ezetimibu v dávce 20 mg po dobu 8 dní spolu s jednorázovým podáním cyklosporinu v dávce 100 mg sedmý den k průměrnému 15% zvýšení plochy cyklosporinu pod křivkou (AUC) (rozmezí 10% pokles až 51% zvýšení) ve srovnání s jednorázovým podáním 100 mg dávky samotného cyklosporinu. Kontrolovaná studie vlivu současného podávání ezetimibu na expozici cyklosporinu u nemocných po transplantaci ledvin nebyla dosud provedena. Při přidání přípravku Adezop k léčbě cyklosporinem je třeba dbát opatrnosti. Koncentrace cyklosporinu musí být u nemocných užívajících přípravek Adezop s cyklosporinem sledovány (viz bod 4.4).
+Antikoagulancia
+Současné podávání ezetimibu (10 mg jednou denně) nemělo žádný statisticky významný vliv na biologickou dostupnost warfarinu a protrombinový čas ve studii na 12 zdravých mužích. Po uvedení přípravku na trh se však objevily zprávy o zvýšených hodnotách mezinárodního normalizovaného poměru (INR) u nemocných užívajících ezetimib přidaný k warfarinu nebo fluindionu. Pokud je přípravek Adezop přidán k warfarinu, jiným kumarinovým antikoagulanciím nebo fluindionu, musí být INR patřičně sledován (viz bod 4.4).
+
+Pediatrická populace
+Studie interakcí byly provedeny pouze u dospělých.
+
+4.6. Fertilita, těhotenství a kojení
+Přípravek Adezop podávaný spolu se statinem je během těhotenství a kojení kontraindikován (viz bod 4.3), prosím,
+seznamte se se SPC konkrétního statinu.
+
+Těhotenství
+Přípravek Adezop má být těhotným ženám podáván, pouze pokud je to nezbytně nutné. Ohledně použití ezetimibu v průběhu těhotenství nejsou k dispozici žádné klinické údaje. Studie se zvířaty zabývající se použitím ezetimibu v monoterapii nepřinesly žádný důkaz přímých ani nepřímých škodlivých účinků na těhotenství, embryofetální vývoj, porod ani postnatální vývoj (viz bod 5.3).
+Kojení
+Přípravek Adezop nesmí být během kojení užíván. Studie na potkanech prokázaly, že se ezetimib vylučuje do mateřského mléka. Není známo, zda se ezetimib vylučuje do mateřského mléka žen.
+Fertilita
+
+
+Stránka 4 z 14
+
+O vlivu ezetimibu na lidskou fertilitu nejsou z klinických studií k dispozici žádné údaje. Ezetimib neměl žádný vliv na fertilitu samců ani samic potkanů (viz bod 5.3).
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Studie hodnotící účinky na schopnost řídit a obsluhovat stroje nebyly provedeny. Pokud však řídíte vozidla nebo ovládáte stroje, měli byste brát v úvahu, že byly hlášeny závratě.
+4.8. Nežádoucí účinky
+Tabulkový seznam nežádoucích účinků (klinické studie a zkušenosti po uvedení na trh)
+V klinických studiích, které trvaly až 112 týdnů, byl ezetimib v dávce 10 mg denně podáván samostatně 2396 nemocným, spolu se statinem 11308 nemocným nebo s fenofibrátem 185 nemocným. Nežádoucí účinky byly obvykle mírné a přechodné. Celková incidence uváděných nežádoucích účinků byla u ezetimibu podobná jako u placeba. Podobně častost vysazení pro nežádoucí účinky byla u ezetimibu a u placeba srovnatelná.
+Ezetimib podávaný samostatně nebo společně se statinem:
+U nemocných užívajících ezetimib samostatně (n=2396) byly popsány následující nežádoucí účinky s častějším výskytem než u placeba (n=1159), nebo u pacientů užívajících ezetimib současně se statinem (n=11308) byly popsány následující nežádoucí účinky s častějším výskytem než u statinů podávaných samostatně (n=9361). Nežádoucí účinky při použití po uvedení na trh byly odvozeny z hlášení týkajících se ezetimibu podávaného v monoterapii nebo se statinem.
+
+Četnosti výskytu byly definovány jako: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1000 až
+<1/100); vzácné (≥1/10000 až <1/1000), velmi vzácné (<1/10000) a není známo (z dostupných údajů nelze určit).
+Monoterapie ezetimibem
+
+Třída orgánových systémů vyšetření
+
+respirační, hrudní a mediastinální poruchy gastrointestinální poruchy
+
+poruchy svalové a kosterní soustavy a pojivové tkáně
+poruchy metabolismu a
+výživy
+cévní poruchy
+celkové poruchy a reakce
+v místě podání
+Nežádoucí účinky
+
+zvýšení  ALT  a/nebo  AST;  zvýšení  krevní  CPK;  zvýšení  gamma- glutamyltransferázy; abnormální hodnoty testu jaterních funkcí
+Kašel
+
+bolest břicha; průjem; flatulence
+dyspepsie; gastroezofageální refluxní nemoc; nauzea artralgie; svalové spasmy; bolest krku
+snížená chuť k jídlu návaly horka, hypertenze
+Únava
+bolest na hrudi, bolest
+Četnost méně časté méně časté
+časté méně časté méně časté
+
+
+méně časté
+
+méně časté časté méně časté
+Další nežádoucí účinky při současném užívání ezetimibu se statinem
+
+Třída orgánových systémů vyšetření
+poruchy nervového systému gastrointestinální poruchy poruchy kůže a podkožní tkáně
+poruchy svalové a kosterní soustavy a pojivové tkáně
+celkové poruchy a reakce
+v místě podání
+Nežádoucí účinky
+
+zvýšení ALT a/nebo AST bolest hlavy
+Parestesie
+sucho v ústech; gastritida pruritus; vyrážka; kopřivka
+Myalgie
+bolest zad; svalová slabost; bolest končetin astenie; periferní edém
+Četnost
+
+časté časté
+méně časté méně časté méně časté
+časté méně časté
+méně časté
+Zkušenosti po uvedení na trh (s nebo bez současného statinu)
+
+Třída orgánových systémů
+poruchy krve a lymfatického systému poruchy nervového systému
+respirační, hrudní a mediastinální poruchy gastrointestinální poruchy
+Nežádoucí účinky trombocytopenie závratě; parestesie Dyspnoe pankreatitida; zácpa
+Četnost není známo není známo není známo není známo
+Stránka 5 z 14
+
+poruchy kůže a podkožní tkáně
+poruchy svalové a kosterní soustavy a pojivové tkáně
+celkové poruchy a reakce v místě podání
+poruchy imunitního systému
+poruchy jater a žlučových
+cest
+psychiatrické poruchy
+erythema multiforme
+
+myalgie; myopatie/rhabdomyolýza (viz bod 4.4)
+
+
+Astenie
+
+hypersenzitivita, včetně vyrážky, kopřivky, anafylaxe a angioedému hepatitida; cholelitiáza; cholecystitida
+Deprese
+není známo není známo
+
+není známo není známo není známo není známo
+Ezetimib současně podávaný s fenofibrátem
+Gastrointestinální poruchy: bolest břicha (časté)
+V multicentrické, dvojitě zaslepené, placebem kontrolované klinické studii u nemocných se smíšenou hyperlipidemií se 625 nemocných léčilo po dobu až 12 týdnů a 576 nemocných po dobu až jednoho roku. V této studii 172 nemocných léčených ezetimibem a fenofibrátem dokončilo 12 týdnů léčby a 230 nemocných léčených ezetimibem a fenofibrátem (včetně 109 nemocných, kteří dostávali ezetimib samostatně prvních 12 týdnů) dokončilo 1 rok léčby. Tato studie nebyla provedena ke srovnání léčebných skupin z hlediska málo často se vyskytujících příhod. Výskyt (95 % CI) klinicky významných zvýšení (> 3x ULN, vyskytující se po sobě) sérových transamináz dosáhl po korekci na expozici léčbě při monoterapii fenofibrátem 4,5 % (1,9; 8,8) a při podávání ezetimibu spolu s fenofibrátem 2,7
+% (1,2; 5,4). Odpovídající výskyt po cholecystektomii dosáhl při monoterapii fenofibrátem 0,6 % (0,0 3,1) a při
+ezetimibu spolu s fenofibrátem 1,7 % (0,6; 4,0) (viz body 4.4 a 4.5).
+
+Pediatrická populace (ve věku 6 až 17 let)
+Ve studii zahrnující pediatrickou populaci (věku 6 až 10 let) s heterozygotní familiární nebo nefamiliární hypercholesterolemií (n=138) bylo zvýšení ALT a/nebo AST (≥3násobek ULN, několikrát po sobě) pozorováno u 1,1 % (1 pacient) pacientů léčených ezetimibem ve srovnání s 0 % ve skupině léčené placebem. Neobjevilo se žádné zvýšení CPK (≥10násobek ULN). Nebyly hlášeny žádné případy myopatie.
+V samostatné studii zahrnující dospívající nemocné (věku 10 až 17 let) s heterozygotní familiární hyperchlolesterolemií (n=248) bylo u 3 % (4 pacienti) pacientů léčených kombinací ezetimib/simvastatin pozorováno zvýšení ALT a/nebo AST (≥3násobek ULN, několikrát po sobě) v porovnání se 2 % (2 pacienti) ve skupině léčené simvastatinem v monoterapii; ohledně zvýšení CPK (≥10násobek ULN) byla tato čísla v uvedeném pořadí 2 % (2 pacienti) a 0 %. Nebyly hlášeny žádné případy myopatie.
+Tyto studie nebyly vhodné k porovnání vzácných nežádoucích účinků.
+
+Nemocní s ischemickou chorobou srdeční a akutním koronárním syndromem v anamnéze
+Ve studii IMPROVE-IT (viz bod 5.1), která zahrnovala 18144 nemocných léčených ezetimibem/simvastatinem 10/40
+mg (n=9067, z toho 6 % bylo titrováno na ezetimib / simvastatin 10/80 mg) nebo simvastatinem v dávce 40 mg (n
+= 9 077, z toho 27 % bylo titrováno na 80 mg simvastatinu), byly bezpečnostní profily během mediánu sledování 6,0  roku  podobné.  Kvůli  výskytu  nežádoucích  účinků  ukončilo  léčbu  10,6  %  pacientů  léčených ezetimibem/simvastatinem a 10,1 % pacientů léčených simvastatinem. Incidence myopatie byla u pacientů s ezetimibem/simvastatinem 0,2 % a u pacientů se simvastatinem 0,1 %, přičemž myopatie byla definována jako nevysvětlená svalová slabost nebo bolest s hladinou sérové CK ≥ 10násobek ULN nebo s koncentrací CK
+≥5násobek a zároveň <10násobek ULN ve dvou následných měřeních. Incidence rhabdomyolýzy byla u pacientů s ezetimibem / simvastatinem 0,1 % a u pacientů se simvastatinem 0,2 %, přičemž rhabdomyolýza byla definována jako nevysvětlená svalová slabost nebo bolest s hladinou sérové CK ≥ 10násobek ULN s prokázaným renálním poškozením, ≥ 5násobek a zároveň <10násobek ULN ve dvou následných měřeních s prokázaným renálním poškozením nebo ≥ 10000 IU/l bez prokázaného renálního poškození. Incidence následných zvýšení hladin transamináz (≥ 3x ULN) byla 2,5 % u ezetimibu/simvastatinu a 2,3 % u simvastatinu. (Viz bod 4.4.) Nežádoucí účinky související se žlučníkem byly hlášeny u 3,1 % pacientů léčených ezetimibem/simvastatinem a u 3,5 % pacientů léčených simvastatinem. Incidence hospitalizace kvůli cholecystektomii byla v obou skupinách 1,5 %. Rakovina (definovaná jako jakákoli nová malignita) byla během studie diagnostikována u 9,4 % pacientů léčených ezetimibem/simvastatinem oproti 9,5 % pacientů léčených simvastatinem.
+Nemocní s chronickým onemocněním ledvin
+Ve studii "Study of Heart and Renal Protection" (SHARP) (viz bod 5.1), která zahrnovala více než 9000 nemocných léčených fixní dávkou ezetimibu 10 mg se simvastatinem 20 mg denně (n=4650) nebo placebem (n=4620), byly po dobu sledování s mediánem trvání 4,9 roku bezpečnostní profily srovnatelné. V této studii byly zaznamenávány pouze závažné nežádoucí účinky a ukončení léčby kvůli jakýmkoli nežádoucím účinkům. Poměr ukončení léčby v důsledku nežádoucích účinků byl srovnatelný (10,4 % u nemocných léčených ezetimibem se simvastatinem, 9,8 % u nemocných léčených placebem). Incidence myopatie/rhabdomyolýzy byla 0,2 % u nemocných léčených ezetimibem se simvastatinem a 0,1 % u pacientů léčených placebem. Následné zvýšení transamináz (> 3 x ULN) se vyskytlo u 0,7 % nemocných léčených ezetimibem se simvastatinem v porovnání s 0,6 % nemocných léčených placebem. (Viz bod 4.4). V této studii nebyla žádná statisticky významná zvýšení incidence předem specifikovaných
+
+
+Stránka 6 z 14
+
+nežádoucích účinků, včetně rakoviny (9,4 % u ezetimibu se simvastatinem, resp. 9,5 % u placeba), hepatitidy,
+cholecystektomie nebo komplikací žlučníkových kamenů či pankreatitidy.
+Laboratorní hodnoty
+V kontrolovaných klinických studiích monoterapie byla incidence klinicky významných zvýšení sérových transamináz (ALT a/nebo AST ≥3krát ULN, opakovaně) podobná u ezetimibu (0,5 %) i placeba (0,3 %). Ve studiích současného podávání byla incidence 1,3 % u nemocných léčených ezetimibem současně se statinem, a 0,4 % u nemocných léčených statinem samotným. Tato zvýšení byla obecně asymptomatická, nebyla spojena s cholestázou, a po vysazení terapie nebo při pokračování léčby se vrátila k normálu (viz bod 4.4).
+V klinických studiích byla CPK 10x ULN hlášena u 4 z 1674 (0,2 %) nemocných při podávání ezetimibu samostatně vs. 1 ze 786 (0,1 %) nemocných při podávání placeba, a u 1 z 917 (0,1 %) nemocných při podávání ezetimibu v kombinaci se statinem vs. 4 z 929 (0,4 %) nemocných při podávání statinu samostatně. Při užívání ezetimibu nedošlo ve srovnání s hodnotami v odpovídajícím kontrolním rameni studie (placebo nebo samotný statin) ke zvýšenému výskytu myopatie ani rhabdomyolýzy (viz bod 4.4.).
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky přímo na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9. Předávkování
+Podávání ezetimibu v klinických studiích v dávce 50 mg/den 15 zdravým dobrovolníkům po dobu až 14 dní, nebo 40 mg/den 18 pacientům s primární hypercholesterolemií po dobu až 56 dní, bylo celkově dobře snášeno. U zvířat nebyla po jednorázových perorálních dávkách ezetimibu 5000 mg/kg potkanům a myším a 3000 mg/kg psům pozorována žádná toxicita.
+Bylo hlášeno několik případů předávkování ezetimibem; většina nebyla spojena s nežádoucími příhodami. Hlášené nežádoucí příhody nebyly závažné. V případě předávkování je nutno přijmout symptomatická a podpůrná opatření.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: jiné látky upravující hladinu lipidů.
+ATC kód: C10AX09.
+Mechanismus účinku
+Ezetimib patří mezi hypolipidemické látky nové skupiny, které selektivně inhibují intestinální absorpci cholesterolu a příbuzných rostlinných sterolů. Ezetimib je účinný po perorálním podání a má mechanismus účinku, který se liší od mechanismu účinku jiných skupin látek snižujících hladiny cholesterolu (např. statiny, sekvestranty žlučových kyselin [pryskyřice], deriváty kyseliny fibrové a rostlinné stanoly). Molekulárním cílem ezetimibu je přenašeč sterolu, Niemann Pick C1 Like 1 (NPC1L1), který je odpovědný za intestinální absorpci cholesterolu a fytosterolů.
+Ezetimib se koncentruje v kartáčovém lemu tenkého střeva a inhibuje absorpci cholesterolu, což vede ke snížení přísunu cholesterolu ze střev do jater; statiny snižují syntézu cholesterolu v játrech a dohromady tyto rozdílné mechanismy zajišťují vzájemně se doplňující snížení hladiny cholesterolu. Ve dvoutýdenní klinické studii u 18 nemocných s hypercholesterolemií ezetimib inhiboval intestinální absorpci cholesterolu ve srovnání s placebem o 54 %.
+
+Farmakodynamické účinky
+Byla provedena řada preklinických studií s cílem zjistit selektivitu ezetimibu při inhibici absorpce cholesterolu. Ezetimib inhiboval absorpci [14C] cholesterolu bez účinku na absorpci triglyceridů, mastných kyselin, žlučových kyselin, progesteronu, ethinylestradiolu nebo v tucích rozpustných vitamínů A a D.
+Epidemiologické studie prokázaly, že kardiovaskulární morbidita a mortalita se mění přímo úměrně s hladinou celkového cholesterolu a LDL-C, a nepřímo úměrně s hladinou HDL-C.
+Užívání ezetimibu současně se statinem účinně snižuje riziko kardiovaskulárních příhod u nemocných ischemickou
+chorobou srdeční a akutním koronárním syndromem v anamnéze.
+Klinická účinnost a bezpečnost
+V kontrolovaných klinických studiích ezetimib, podávaný jako monoterapie, nebo současně se statinem významně snižoval celkový cholesterol (total C), cholesterol s nízkou hustotou lipoproteinu (LDL C), apolipoprotein B (Apo B)
+
+Stránka 7 z 14
+
+a triglyceridy (TG) a zvyšoval cholesterol s vysokou hustotou lipoproteinu (HDL C) u nemocných hypercholesterolemií.
+Primární hypercholesterolemie
+Ve dvojitě zaslepené, placebem kontrolované, 8týdenní studii bylo 769 nemocných hypercholesterolemií, kteří již dostávali statin v monoterapii, a nedosáhli cílové hodnoty LDL C dle Národního programu pro osvětu ve snižování hladin cholesterolu (National Cholesterol Education Program - NCEP) - (2,6-4,1 mmol/l, 100-160 mg/dl, dle výchozích parametrů) randomizováno do skupin, které dostávaly buď ezetimib 10 mg nebo placebo navíc k již probíhající léčbě statiny.
+U nemocných, kteří byli léčeni statiny a neměli při výchozím vyšetření cílovou hodnotu LDL C (přibližně 82 %), dosáhlo významně více pacientů randomizovaných do skupiny s ezetimibem cílových hodnot LDL C v závěru studie, ve srovnání s nemocnými randomizovanými do skupiny s placebem, a to 72 % (ezetimib) a 19% (placebo). Odpovídající snížení hladin LDL C byla značně odlišná (25 % a 4 % ezetimib versus placebo). Ezetimib navíc přidaný k již probíhající léčbě statinem, značně snižuje hladinu celkového cholesterolu, Apo B, TG a zvyšuje HDL C, ve srovnání s placebem. Ezetimib nebo placebo přidané ke statinové léčbě snížily průměrné hodnoty C reaktivního proteinu o 10 % nebo 0 % vůči výchozím hodnotám, v uvedeném pořadí.
+Ve dvou dvojitě zaslepených, randomizovaných, placebem kontrolovaných, 12týdenních studiích 1719 nemocných s primární hypercholesterolemií, ezetimib v dávce 10 mg, ve srovnání s placebem, značně snížil hladinu celkového cholesterolu (13 %), LDL C (19 %), Apo B (14 %) a TG (8 %), a zvýšil HDL C (3 %). Navíc ezetimib nemá žádný vliv na plazmatické koncentrace v tucích rozpustných vitamínů A, D a E, nemá žádný vliv na protrombinový čas a stejně jako ostatní látky snižující lipidy, nenarušuje produkci adenokortikoidního steroidního hormonu.
+V multicentrické, dvojitě zaslepené, kontrolované klinické studii (ENHANCE) bylo randomizováno 720 nemocných heterozygotní familiární hypercholesterolemií do skupiny léčené po dobu 2 let ezetimibem v dávce 10 mg v kombinaci se simvastatinem v dávce 80 mg (n=357) nebo simvastatinem v dávce 80 mg (n=363). Primárním cílem studie bylo zjištění účinku léčby kombinací ezetimib/simvastatin na tloušťku intimy medie (intima media thickness IMT) karotidy v porovnání s monoterapií simvastatinem. Vliv tohoto náhradního markeru na kardiovaskulární morbiditu a mortalitu stále není prokázán.
+Primární cílový ukazatel, změna průměrné hodnoty IMT ve všech šesti segmentech karotidy, se mezi oběma léčenými skupinami významně nelišil (p=0,29), jak bylo změřeno B modem ultrazvuku. U ezetimibu v dávce 10 mg v kombinaci se simvastatinem v dávce 80 mg nebo u samotného simvastatinu v dávce 80 mg se za 2 roky trvání studie tloušťka intimy medie zvětšila o 0,0111 mm, respektive o 0,0058 mm (výchozí průměrná hodnota IMT karotidy 0,68 mm, respektive 0,69 mm).
+Ezetimib v dávce 10 mg v kombinaci se simvastatinem v dávce 80 mg snižoval LDL C, celkový cholesterol, Apo B a TG významně více než samotný simvastatin v dávce 80 mg. Procentuální vzestup HDL-C byl v obou léčených skupinách podobný. Nežádoucí účinky hlášené u ezetimibu v dávce 10 mg v kombinaci se simvastatinem v dávce 80 mg byly konzistentní s jeho známým bezpečnostním profilem.
+Pediatrická populace
+V multicentrické, dvojitě zaslepené, kontrolované studii bylo 138 pacientů (59 chlapců a 79 dívek) ve věku 6 až 10 let (střední hodnota věku 8,3 roku) s heterozygotní familiární nebo nefamiliární hypercholesterolemií (HeFH, Heterozygous Familial Hypercholesterolaemia) s výchozími hladinami LDL-C mezi 3,74 a 9,92 mmol/l randomizováno buď do skupiny léčené ezetimibem 10 mg, nebo placebem po dobu 12 týdnů.
+Ve 12. týdnu ezetimib v porovnání s placebem významně snižoval celkový cholesterol (-21 % vs. 0 %), LDL-C (-28
+% vs. -1 %), Apo-B (-22 % vs. -1 %) a non-HDL-C (-26 % vs. 0 %). Výsledky obou léčebných skupin byly pro TG a
+HDL-C podobné (-6 % vs. +8 %, a +2 % vs. +1 %, v uvedeném pořadí).
+V multicentrické, dvojitě zaslepené, kontrolované studii bylo 142 chlapců (Tannerův stupeň II a vyšší) a 106 dívek po první menstruaci, ve věku 10 až 17 let (střední hodnota věku 14,2 roku) s heterozygotní familiární hypercholesterolemií (HeFH) s výchozími hodnotami LDL-C mezi 4,1 a 10,4 mmol/l, randomizováno buď do skupiny léčené ezetimibem 10 mg v kombinaci se simvastatinem (10, 20 nebo 40 mg) nebo do skupiny léčené simvastatinem (10, 20 nebo 40 mg) samotným po dobu 6 týdnů; do skupiny léčené kombinací ezetimibu a 40 mg simvastatinu nebo do skupiny léčené 40 mg simvastatinu samotného po dobu dalších 27 týdnů a do skupiny léčené v otevřeném uspořádání ezetimibu a simvastatinu (10 mg, 20 mg nebo 40 mg) po následujících 20 týdnů.
+V 6. týdnu ezetimib v kombinaci se simvastatinem (všechny dávky) v porovnání se simvastatinem (všechny dávky) samotným významně snižoval celkový cholesterol (38 % vs. 26 %), LDL-C (49 % vs. 34 %), Apo B (39 % vs. 27 %) a non-HDL-C (47 % vs. 33 %). Výsledky, pokud se týká TG a HDL-C (-17 % vs. -12 % a +7 % vs. +6 %, v uvedeném pořadí) byly u obou skupin podobné. Ve 33. týdnu byly výsledky konzistentní s výsledky v 6. týdnu, přičemž významně více nemocných léčených kombinací ezetimibu a 40 mg simvastatinu (62 %) dosáhlo ideálního cíle NCEP AAP (<2,8 mmol/l [110 mg/dl]) hodnot LDL-C v porovnání s nemocnými léčenými 40 mg simvastatinu (25
+%). V 53. týdnu, což je konec otevřeného prodloužení studie, byly účinky na parametry lipidů zachovány.
+Účinnost a bezpečnost ezetimibu podávaného s dávkami simvastatinu vyššími než 40 mg denně nebyla u pediatrické populace ve věku 10 až 17 let hodnocena. Bezpečnost a účinnost ezetimibu podávaného současně se simvastatinem nebyla u pediatrických pacientů ve věku <10 let hodnocena. Dlouhodobá účinnost léčby ezetimibem u nemocných mladších 17 let ve vztahu na snižování morbidity a mortality v dospělosti nebyla hodnocena.
+
+Prevence kardiovaskulárních příhod
+IMProved Reduction of Outcomes: Vytorin Efficacy International Trial (IMPROVE-IT) byla multicentrická randomizovaná dvojitě zaslepená studie s aktivním komparátorem, do níž bylo zařazeno 18144 nemocných během 10 dnů po hospitalizaci pro akutní koronární syndrom (AKS; buď infarkt myokardu, nebo nestabilní angina pectoris).
+
+Stránka 8 z 14
+
+Hladina LDL-C při vzniku AKS byla ≤ 3,2 mmol/l (≤ 125 mg/dl) u nemocných, kteří hypolipidemickou léčbu neužívali, nebo ≤ 2,6 mmol/l (≤ 100 mg/dl) u nemocných, kteří dostávali hypolipidemickou léčbu. Všichni nemocní byli v poměru 1:1 randomizováni do skupiny léčené ezetimibem/simvastatinem 10/40 mg (n=9067) nebo simvastatinem 40 mg (n=9077) a sledováni po medián doby sledování 6,0 roků.
+Průměrný věk nemocných byl 63,6 roku, 76 % tvořili muži, 84 % byli běloši a 27 % mělo diabetes mellitus. Průměrná hodnota LDL-C při příhodě, která byla pro zařazení do studie kvalifikující, byla 2,1 mmol/l (80 mg/dl) u nemocných, kteří dostávali hypolipidemickou léčbu (n=6390) a 2,6 mmol/l (101 mg/dl) u těch, kteří předtím hypolipidemickou léčbu (n=11594) nedostávali. Před hospitalizací kvůli AKS příhodě kvalifikující ke vstupu do studie užívalo 34 % nemocných statin. Po jednom roce byla průměrná hodnota LDL-C u nemocných, kteří pokračovali v léčbě, 1,4 mmol/l (53,2 mg/dl) ve skupině na ezetimibu/simvastatinu a 1,8 mmol/l (69,9 mg/dl) ve skupině na samotném simvastatinu. Hladiny lipidů byly obecně získány u nemocných, kteří v rámci studie pokračovali v léčbě.
+Primárním cílovým ukazatelem byl kombinovaný ukazatel zahrnující úmrtí z kardiovaskulárních příčin, velké koronární příhody (definované jako nefatální infarkt myokardu, popsaná nestabilní angina pectoris vyžadující hospitalizaci, nebo jakákoli koronární revaskularizace prováděná nejméně 30 dní po randomizaci) a nefatální iktus. Studie prokázala, že léčba ezetimibem přidaným k simvastatinu ve srovnání se simvastatinem samotným, poskytuje inkrementální přínos ve snížení výskytu primárního cílového ukazatele kombinovaného z úmrtí z kardiovaskulárních příčin, velké koronární příhody a nefatálního iktu (relativní snížení rizika je 6,4 %, p = 0,016). Primární cílový ukazatel nastal u 2572 z 9067 nemocných skupiny ezetimib/simvastatin (pravděpodobnost výskytu za 7 let dle Kaplan-Meierovy (KM) metody 32,72 %) a u 2742 z 9077 nemocných skupiny samotného simvastatinu (pravděpodobnost výskytu za 7 let dle KM metody 34,67 %). (Viz Graf 1 a Tabulka 1.) Předpokládá se, že podobně inkrementální přínos poskytuje také kombinace s jinými statiny účinnými na snižování rizika kardiovaskulárních příhod. Celková úmrtnost se v této vysoce rizikové skupině nezměnila (viz Tabulka 1).
+Ve studii byl pozorován celkový přínos pro všechny typy iktů, nicméně bylo zaznamenáno malé nevýznamné zvýšení rizika hemoragického iktu ve skupině s ezetimibem a simvastatinem ve srovnání se skupinou se simvastatinem samotným (viz Tabulka 1). Riziko hemoragického iktu pro ezetimib podávaný se statiny s vyšší účinností nebylo v dlouhodobých studiích hodnoceno.
+Léčebný účinek kombinace ezetimib/simvastatin byl obecně konzistentní napříč celkovými výsledky mnoha podskupin, dělených dle pohlaví, věku, rasy, diabetu mellitus v anamnéze, počáteční hladiny lipidů, předchozí léčby statiny, iktu v anamnéze a hypertenze.
+
+Graf 1: Účinek kombinace ezetimib/simvastatin na primární kombinovaný cílový ukazatel kardiovaskulárního úmrtí, velké koronární příhody a nefatálního iktu
+
+Poměr rizik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ohrožené subjekty
+Doba od randomizace (roky)
+
+
+
+
+Tabulka 1: Velké kardiovaskulární příhody podle skupin u všech pacientů randomizovaných v IMPROVE-IT
+
+výsledek             ezetimib/simvastatin
+10 mg/40 mga (N=9067)
+simvastatin
+40 mgb (N=9077)
+poměr rizik (95% CI)
+hodnota „p“
+n      K-M % c     n      K-M % c
+Primární kombinovaný cílový ukazatel účinnosti
+
+
+
+Stránka 9 z 14
+
+(úmrtí z KV příčin, velké koronární příhody a nefatální iktus)
+2572    32,72 %    2742    34,67 %   0,936
+(0,847; 0,983)
+0,016
+Sekundární kombinovaný cílový ukazatel účinnosti
+
+úmrtí na ICHS, nefatální IM, urgentní koronární revaskularizace po 30 dnech velká koronární příhoda, nefatální iktus, úmrtí (z jakékoli příčiny)
+úmrtí z KV příčin, nefatální IM, nestabilní AP vyžadující hospitalizaci, jakákoli revaskularizace, nefatální iktus
+1322
+
+
+3089
+
+
+2716
+17,52 %
+
+
+38,65 %
+
+
+34,49 %
+1488
+
+
+3246
+
+
+2869
+18,88 %
+
+
+40,25 %
+
+
+36,20 %
+0,912
+(0,847; 0,983)
+
+0,948
+(0,903; 0,996)
+
+0,945
+(0,897; 0,996)
+0,016
+
+
+0,035
+
+
+0,035
+Složky primárního kombinovaného cílového ukazatele a vybrané cílové ukazatele účinnosti (první výskyt konkrétní příhody kdykoli)
+
+úmrtí z KV příčin
+
+velká koronární příhoda nefatální IM
+nestabilní AP vyžadující
+hospitalizaci
+koronární revaskularizace po 30
+dnech
+nefatální iktus
+
+IM (fatální i nefatální) iktus (fatální i nefatální) nehemoragický iktus d hemoragický iktus úmrtí za jakékoli příčiny
+537
+
+
+945
+
+156
+
+1690
+
+245
+
+977
+
+296
+
+242
+
+59
+
+1215
+6,89 %
+
+
+12,77 %
+
+2,06 %
+
+21,84 %
+
+3,49 %
+
+13,13 %
+
+4,16 %
+
+3,48 %
+
+0,77 %
+
+15,36 %
+538
+
+
+1083
+
+148
+
+1793
+
+305
+
+1118
+
+345
+
+305
+
+43
+
+1231
+6,84 %
+
+
+14,41 %
+
+1,92 %
+
+23,36 %
+
+4,24 %
+
+14,82 %
+
+4,77 %
+
+4,23 %
+
+0,59 %
+
+15,28 %
+1,000
+(0,887; 1,127)
+
+0,871
+(0,798; 0,950)
+1,059
+(0,846; 1,326)
+0,947
+(0,886; 1,012)
+0,802
+(0,678; 0,949)
+0,872
+(0,800; 0,950)
+0,857
+(0,734; 1,001)
+0,793
+(0,670; 0,939)
+1,377
+(0,930; 2,040)
+0,989
+(0,914; 1,070)
+0,997
+
+
+0,002
+
+0,618
+
+0,107
+
+0,010
+
+0,002
+
+0,052
+
+0,007
+
+0,110
+
+0,782
+⁽ᵃ⁾ 6% pacientů bylo titrováno na ezetimib/simvastatin 10/80 mg.
+⁽ᵇ⁾ 27% pacientů bylo titrováno na simvastatin 80 mg.
+⁽ᶜ⁾ Kaplan-Meierův odhad pro 7 let.
+⁽ᵈ⁾ zahrnuje ischemický iktus nebo iktus neurčeného typu.
+
+Prevence velkých cévních příhod při chronickém onemocnění ledvin
+Studie "Study of Heart and Renal Protection" (SHARP) byla mezinárodní, randomizovanou, placebem kontrolovanou, dvojitě zaslepenou studií provedenou na 9438 nemocných s chronickým onemocněním ledvin, z nichž třetina byla při zahájení studie na dialýze. Do skupiny léčené ezetimibem 10 mg se simvastatinem v dávce 20 mg bylo randomizováno celkem 4650 pacientů a do skupiny léčené placebem 4620 pacientů, přičemž medián doby sledování pacientů byl 4,9 let. Střední hodnota věku pacientů byla 62 let, přičemž 63% z nich byli muži, 72% běloši, 23% diabetici, přičemž u těch pacientů, kteří nebyli na dialýze, byla střední hodnota odhadované rychlosti glomerulární filtrace (eGFR) 26,5 ml/min/1,73 m2. Kritéria pro zařazení týkající se lipidů nebyla stanovena. Střední hodnota LDL-C při zařazení byla 108 mg/dl. V porovnání s placebem došlo po jednom roce, a to i u pacientů, kteří již nepodstupovali hodnocenou léčbu, ke snížení LDL-C o 26 % u simvastatinu 20 mg samotného a o 38 % u ezetimibu 10 mg se simvastatinem v dávce 20 mg.
+Primární porovnání specifikované protokolem studie SHARP byla analýza léčených dle záměru (intention-to-treat analysis) s ohledem na "velké cévní příhody" (definované jako nefatální infarkt myokardu nebo srdeční smrt, iktus nebo revaskularizace) pouze u těch pacientů, kteří byli randomizováni původně do skupiny léčené ezetimibem se simvastatinem (n=4193) nebo placebem (n=4191). Sekundární analýzy zahrnovaly stejné kombinované kritérium analyzované u celé kohorty randomizované (na začátku studie nebo po 1 roce) do skupiny léčené ezetimibem se simvastatinem (n=4650) nebo placebem (n=4620), stejně jako komponenty tohoto kombinovaného kritéria.
+Analýza primárních kritérií hodnocení prokázala, že ezetimib se simvastatinem významně snižoval riziko velkých cévních příhod (749 pacientů s příhodami ve skupině léčené placebem vs. 639 ve skupině léčené ezetimibem se simvastatinem) s relativním snížením rizika o 16 % (p = 0,001).
+Uspořádání této studie nicméně neumožnilo zjistit samostatný podíl monokomponentního ezetimibu na účinnosti, jež vedla k významnému snížení rizika velkých cévních příhod u pacientů s chronickým onemocněním ledvin.
+Jednotlivé součásti velkých cévních příhod u všech randomizovaných nemocných jsou uvedeny v Tabulce 2. Ezetimib v kombinaci se simvastatinem významně snižoval riziko iktu a jakékoli revaskularizace při nevýznamných
+
+
+Stránka 10 z 14
+
+numerických rozdílech upřednostňujících ezetimib v kombinaci se simvastatinem při nefatálním infarktu myokardu a srdeční smrti.
+Tabulka 2 Velké cévní příhody dle léčené skupiny u všech randomizovaných pacientů ve studii SHARPa
+
+výsledek
+
+
+
+velké cévní příhody nefatální IM srdeční smrt jakýkoli iktus
+nehemoragický iktus hemoragický iktus jakákoli revaskularizace
+velké  aterosklerotické  příhody
+(MAE)b
+ezetimib    10    mg
+kombinovaný      se simvastatinem  20  mg (N=4650)
+701 (15,1 %)
+134 (2,9 %)
+253 (5,4 %)
+171 (3,7 %)
+131 (2,8 %)
+45 (1,0 %)
+284 (6,1 %)
+526 (11,3 %)
+placebo (N=4620)
+
+
+814 (17,6 %)
+159 (3,4 %)
+272 (5,9 %)
+210 (4,5 %)
+174 (3,8 %)
+37 (0,8 %)
+352 (7,6 %)
+619 (13,4 %)
+poměr rizik (95% CI)
+
+
+0,85 (0,77-0,94)
+0,84 (0,66-1,05)
+0,93 (0,78-1,10)
+0,81 (0,66-0,99)
+0,75 (0,60-0,94)
+1,21 (0,78-1,86)
+0,79 (0,68-0,93)
+0,83 (0,74-0,94)
+hodnota p
+
+
+
+0,001
+0,12
+0,38
+0,038
+0,011
+0,40
+0,004
+0,002
+⁽ᵃ⁾ analýza podle léčebného záměru (Intention-to-treat analysis) u všech pacientů studie SHARP randomizovaných do skupiny léčené ezetimibem v kombinaci se simvastatinem nebo placebem buď na začátku studie, nebo po 1 roce.
+⁽ᵇ⁾ Velké cévní příhody; definovány jako složené kritérium zahrnující nefatální infarkt myokardu, koronární smrt, nehemoragický
+iktus nebo jakoukoli revaskularizaci
+
+Celkové snížení LDL cholesterolu dosažené podáním ezetimibu kombinovaného se simvastatinem bylo nižší u pacientů s nižší výchozí hladinou LDL-C (<2,5 mmol/l) a pacientů, kteří byli při vstupu do studie na dialýze, než u ostatních pacientů a odpovídající snížení rizika u těchto dvou skupin bylo potlačeno.
+
+Homozygotní familiární hypercholesterolemie (HoHF)
+Do dvojitě zaslepené, randomizované 12týdenní studie bylo zařazeno 50 nemocných s klinickou a/nebo genotypickou diagnózou HoFH, kteří dostávali atorvastatin nebo simvastatin (40 mg), se současnou aferézou LDL nebo bez ní. Ezetimib, podávaný spolu s atorvastatinem (40 nebo 80 mg) nebo se simvastatinem (40 nebo 80 mg) statisticky významně snížil LDL-C o 15 %, v porovnání se zvýšením dávky simvastatinu nebo atorvastatinu v monoterapii ze 40 na 80 mg.
+
+Stenóza aorty
+Studie The Simvastatin and Ezetimibe for the Treatment of Aortic Stenosis (SEAS) byla multicentrickou, dvojitě zaslepenou, placebem kontrolovanou studií s mediánem doby trvání 4,4 roku, která se prováděla na 1873 nemocných s asymptomatickou stenózou aorty (AS), doloženou Dopplerovým efektem měřenou maximální výtokovou rychlostí z aorty v rozmezí od 2,5 do 4,0 m/s. Do studie byli zařazeni pouze ti nemocní, u kterých se mělo za to, že nepotřebují léčbu statiny za účelem snížení rizika aterosklerotického kardiovaskulárního onemocnění. Nemocní byli randomizováni v poměru 1:1 do skupiny léčené placebem nebo ezetimibem v dávce 10 mg a simvastatinem v dávce 40 mg denně.
+Primárním cílovým ukazatelem byla kombinace závažných kardiovaskulárních příhod (major cardiovascular event
+- MCE) spočívající z kardiovaskulárního úmrtí, náhrady aortální chlopně (aortic valve replacement - AVR), městnavého srdečního selhání (congestive heart failure - CHF) v důsledku progrese AS, nefatálního infarktu myokardu, koronárního arteriálního bypassu, perkutánní koronární intervence, hospitalizace pro nestabilní anginu pectoris a nehemoragické ikty. Klíčovými sekundárními cílovými ukazateli byla kombinace podskupin kategorií příhod primárních cílových ukazatelů.
+V porovnání s placebem nesnižovala kombinace ezetimib/simvastatin v dávce 10/40 mg významně riziko MCE. Primární výsledek se objevil u 333 pacientů (35,3 %) ve skupině léčené kombinací ezetimib/simvastatin a u 355 nemocných (38,2 %) ve skupině léčené placebem (míra rizika ve skupině léčené kombinací ezetimib/simvastatin, 0,96; 95% interval spolehlivosti, 0,83 až 1,12; p = 0,59). Náhrada aortální chlopně byla provedena u 267 nemocných (28,3 %) ve skupině léčené kombinací ezetimib / simvastatin a u 278 nemocných (29,9 %) ve skupině léčené placebem (míra rizika, 1,00; 95% interval spolehlivosti, 0,84 až 1,18; p = 0,97). Méně nemocných bylo postiženo ischemickými kardiovaskulárními příhodami ve skupině léčené kombinací ezetimib / simvastatin (n=148), než ve skupině léčené placebem (n=187) (míra rizika, 0,78; 95% interval spolehlivosti, 0,63 až 0,97; p = 0,02), zejména díky menšímu počtu nemocných, kterým byl koronární arteriální bypass zaveden.
+Ve skupině léčené kombinací ezetimib / simvastatin se vyskytla častěji rakovina (105 oproti 70, p = 0,01). Klinická relevance tohoto zjištění není jasná, protože ve větší studii SHARP se celkový počet nemocných s jakoukoli vyskytnuvší se rakovinou (438 ve skupině léčené kombinací ezetimib / simvastatin oproti 439 ve skupině léčené placebem) nelišil. Navíc ve studii IMPROVE-IT se celkový počet nemocných s jakoukoli novou malignitou významně nelišil (853 ve skupině s ezetimibem / simvastatinem oproti 863 ve skupině se simvastatinem), a proto zjištění studie SEAS nemohla být studií SHARP, ani studií IMPROVE-IT potvrzena.
+
+5.2. Farmakokinetické vlastnosti
+Absorpce
+
+
+Stránka 11 z 14
+
+Po perorálním podání se ezetimib rychle vstřebává a ve velké míře se váže na farmakologicky aktivní fenolový glukuronid (ezetimib glukuronid). Průměrných maximálních plazmatických koncentrací (Cmax) se dosahuje během 1 až 2 hodin u ezetimib glukuronidu a 4 až 12 hodin u ezetimibu samotného. Absolutní biologickou dostupnost ezetimibu nelze určit, protože látka je ve vodných médiích vhodných pro injekční podání prakticky nerozpustná.
+Současné podávání jídla (jídla s vysokým obsahem tuků nebo bez tuku) nemělo na perorální biologickou dostupnost
+ezetimibu žádný vliv, pokud se podal ve formě 10 mg tablety. Ezetimib lze podávat s jídlem nebo bez něj.
+Distribuce
+Ezetimib a ezetimib glukuronid se z 99,7 % a 88-92 % vážou na bílkoviny lidské plazmy (v uvedeném pořadí).
+
+Biotransformace
+Ezetimib je metabolizován převážně v tenkém střevě a v játrech cestou konjugace s glukuronidem (reakce II. fáze), s následným vyloučením žlučí. Minimální oxidativní metabolismus (reakce I. fáze) byl pozorován u všech hodnocených živočišných druhů. Ezetimib a ezetimib glukuronid jsou hlavními látkami vznikajícími z léčivé látky, které lze zjistit v plazmě, a představují přibližně 10-20 % a 80-90 % celkového množství léčivé látky v plazmě (v uvedeném pořadí). Jak ezetimib, tak i ezetimib glukuronid se pozvolna vylučují z plazmy s prokazatelnou významnou enterohepatální recyklací. Poločas pro ezetimib a ezetimib glukuronid je přibližně 22 hodin.
+
+Eliminace
+Po perorálním podání 14C ezetimibu (20 mg) lidem představoval celkový ezetimib přibližně 93% celkové radioaktivity v plazmě. Přibližně 78 % a 11 % podané radioaktivity bylo v průběhu 10denního sběrného období izolováno ze stolice a z moči (v uvedeném pořadí). Po 48 hodinách nebyly v plazmě žádné detekovatelné hladiny radioaktivity.
+Zvláštní populace
+
+Pediatrická populace
+Farmakokinetika ezetimibu je u dětí (≥6 let) i u dospělých podobná. Farmakokinetické údaje pro pediatrickou populaci <6 let nejsou k dispozici. Klinické zkušenosti u pediatrických a dospívajících pacientů zahrnují pacienty s HoFH nebo HeFH.
+
+Starší pacienti
+Plazmatické koncentrace celkového ezetimibu jsou u starších osob (≥65 let) přibližně dvakrát vyšší než u mladých osob (18 až 45 let). Snížení LDL-C a profil bezpečnosti u starších a mladých jedinců léčených ezetimibem jsou srovnatelné. Proto není dávku u starších jedinců nutné nijak upravovat.
+
+Porucha funkce jater
+Po jednorázové 10 mg dávce ezetimibu se průměrná AUC pro celkový ezetimib u nemocných s mírnou poruchou funkce jater (skóre 5-6 dle Child-Pugh) zvýšila ve srovnání se zdravými jedinci přibližně 1,7krát. V 14denní studii s více dávkami (10 mg denně) u nemocných se středně závažnou poruchou funkce jater (skóre 7-9 dle Child- Pugh) byla 1. a 14. den průměrná hodnota AUC pro celkový ezetimib ve srovnání se zdravými jedinci přibližně čtyřnásobná. U nemocných s mírnou poruchou funkce jater není nutno dávku nijak upravovat. Vzhledem k neznámým účinkům zvýšené expozice ezetimibu u nemocných se středně závažnou nebo závažnou (skóre> 9 dle Child-Pugh) poruchou funkce jater se nedoporučuje těmto pacientům ezetimib podávat (viz bod 4.4).
+
+Porucha funkce ledvin
+Po jednorázové 10 mg dávce ezetimibu nemocným se závažným onemocněním ledvin (n=8; průměrná hodnota CrCl ≤30 ml/min/1,73 m2), byla průměrná hodnota AUC pro celkový ezetimib ve srovnání se zdravými jedinci (n=9) zvýšená přibližně 1,5krát. Tento výsledek není považován za klinicky významný. U nemocných s poruchou funkce ledvin není nutno dávku nijak upravovat.
+Další nemocný v dané studii (po transplantaci ledvin, který dostával více přípravků, včetně cyklosporinu) vykazoval 12násobně vyšší expozici celkovému ezetimibu.
+Pohlaví
+Plazmatické koncentrace celkového ezetimibu jsou u žen mírně vyšší (přibližně 20 %) než u mužů. Snížení LDL-C a profil bezpečnosti jsou u mužů i žen léčených ezetimibem srovnatelné. Není proto nutné dávku podle pohlaví nijak upravovat.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Studie se zvířaty hodnotící chronickou toxicitu ezetimibu nezjistily žádné cílové orgány pro toxické účinky. U psů, jimž byl podáván po dobu 4 týdnů ezetimib (≥0,03 mg/kg/den), se koncentrace cholesterolu ve žlučníkové žluči zvýšila 2,5 až 3,5krát. V jednoleté studii u psů, kteří dostávali dávky až 300 mg/kg/den, však nebyla pozorována zvýšená incidence cholelitiázy ani jiné hepatobiliární účinky. Význam těchto dat pro člověka není znám. Litogenní riziko v souvislosti s terapeutickým používáním ezetimibu nelze vyloučit.
+Ve studiích kombinované terapie ezetimibem se statiny byly pozorované toxické účinky v podstatě stejné jako účinky dávané do souvislosti typicky se statiny. Některé z toxických účinků byly mohutnější než ty, které byly
+
+Stránka 12 z 14
+
+pozorovány během léčby samotnými statiny. To se připisuje farmakokinetickým a farmakodynamickým interakcím při kombinované léčbě. V klinických studiích k těmto interakcím nedocházelo. Myopatie se vyskytly u potkanů pouze po expozici dávkám několikanásobně vyššími, než je terapeutická dávka pro člověka (přibližně 20násobek hodnoty AUC pro statiny a 500 až 2000násobek hodnoty AUC pro aktivní metabolity).
+V řadě in vivo a in vitro analýz ezetimib, podávaný samostatně nebo v kombinaci se statiny, nevykazoval žádný genotoxický potenciál. Dlouhodobé testy kancerogenity ezetimibu byly negativní.
+Ezetimib neměl žádný vliv na plodnost samců ani samic potkanů, neukázal se ani být teratogenní u potkanů nebo králíků, neovlivňoval ani prenatální a postnatální vývoj. U březích samic potkanů a králíků, jimž byly podány opakovaně dávky 1000 mg/kg/den, procházel ezetimib placentární bariérou. Současné podávání ezetimibu a statinů potkanům nebylo teratogenní. U březích samic králíků byl pozorován malý počet skeletálních deformit (srůst hrudních a kaudálních obratlů, snížený počet kaudálních obratlů). Podávání ezetimibu s lovastatinem vedlo k embryoletálním účinkům.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Monohydrát laktózy
+Mikrokrystalická celulóza 101 (E460 (i)) Natrium-lauryl-sulfát
+Sodná sůl kroskarmelózy (E468) Povidon K30 (E1201) Předbobtnalý kukuřičný škrob Koloidní oxid křemičitý (E551)
+Mikrokrystalická celulóza 102 (E460(i)) Kyselina stearová (E570)
+
+6.2. Inkompatibility
+Neuplatňuje se.
+
+6.3. Doba použitelnosti
+30 měsíců
+
+6.4. Zvláštní opatření pro uchovávání
+Uchovávejte v původním obalu, aby byl přípravek chráněn před vlhkostí. Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky pro uchovávání.
+
+6.5. Druh obalu a obsah balení
+PA/Al/PVC//Al blistry v papírové krabičce.
+Velikosti balení: 7, 10, 14, 20, 28, 30, 56, 60, 84, 90 nebo 100 tablet. Na trhu nemusí být všechny velikosti balení.
+6.6. Zvláštní opatření pro likvidaci přípravku
+Žádné zvláštní požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Adamed Pharma S.A.
+Pieńków, ul. Mariana Adamkiewicza 6A 05-152 Czosnów
+Polsko
+
+
+8. REGISTRAČNÍ ČÍSLO(A)
+31/584/16-C
+
+Stránka 13 z 14
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 25. 10. 2017
+Datum posledního prodloužení:
+
+10. DATUM REVIZE TEXTU
+26. 2. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stránka 14 z 14

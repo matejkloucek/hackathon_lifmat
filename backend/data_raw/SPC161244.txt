@@ -1,0 +1,603 @@
+Sp. zn. sukls166023/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.   NÁZEV PŘÍPRAVKU
+Micafungin Teva 100 mg prášek pro koncentrát pro infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje micafunginum 100 mg (ve formě micafunginum natricum).
+Po rekonstituci jeden ml obsahuje micafunginum 20 mg.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+Prášek pro koncentrát pro infuzní roztok Bílý až téměř bílý prášek
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Micafungin Teva je indikován pro:
+Dospělé, dospívající ve věku ≥ 16 let a starší pacienty:
+- Léčba invazivní kandidózy.
+- Léčba ezofageální kandidózy u pacientů, u nichž je vhodná intravenózní terapie.
+- Profylaxe kandidových infekcí u pacientů podstupujících alogenní transplantaci hematopoetických kmenových buněk nebo u pacientů, u nichž se očekává neutropenie (absolutní počet neutrofilů < 500 buněk/µl) po dobu 10 nebo více dní.
+Děti (včetně novorozenců) a dospívající ve věku < 16 let:
+- Léčba invazivní kandidózy.
+- Profylaxe kandidových infekcí u pacientů podstupujících alogenní transplantaci hematopoetických kmenových buněk nebo u pacientů, u nichž se očekává neutropenie (absolutní počet neutrofilů < 500 buněk/µl) po dobu 10 nebo více dní.
+Rozhodnutí o použití přípravku Micafungin Teva má zohlednit potenciální riziko vzniku tumorů jater (viz bod 4.4). Micafungin Teva se proto má používat pouze v případě, kdy nejsou vhodná jiná antimykotika.
+
+Je třeba vzít v úvahu oficiální/národní doporučení týkající se správného použití antimykotických přípravků.
+4.2  Dávkování a způsob podání
+Léčbu přípravkem Micafungin Teva má zahajovat pouze lékař se zkušenostmi s léčbou mykotických infekcí.
+Dávkování
+Před zahájením léčby je třeba odebrat vzorky pro mykotickou kultivaci a další potřebná laboratorní vyšetření (včetně histopatologie), aby mohly být izolovány a určeny organismy vyvolávající dané onemocnění. Léčba může být zahájena dříve, než jsou k dispozici výsledky kultivace a dalších laboratorních vyšetření. Nicméně po získání těchto výsledků má být antimykotická léčba odpovídajícím způsobem upravena. Dávkovací režim mikafunginu závisí na tělesné hmotnosti pacienta, jak je uvedeno v následujících tabulkách:
+Použití u dospělých, dospívajících ve věku ≥ 16 let a starších pacientů
+
+
+Indikace
+
+Tělesná hmotnost > 40 kg    Tělesná hmotnost ≤ 40 kg
+
+
+Léčba invazivní kandidózy Léčba ezofageální kandidózy Profylaxe kandidových infekcí
+100 mg/den*
+150 mg/den
+50 mg/den
+2 mg/kg/den*
+3 mg/kg/den
+1 mg/kg/den
+
+* Jestliže není odpověď pacienta dostatečná, např. přetrvávají-li pozitivní kultivace nebo nelepší-li se klinický stav, lze dávku zvýšit na 200 mg/den u pacientů s tělesnou hmotností > 40 kg resp. na 4 mg/kg/den u pacientů s tělesnou hmotností ≤ 40 kg.
+Trvání léčby
+Invazivní kandidóza: Léčba kandidové infekce má trvat minimálně 14 dní. V antimykotické léčbě se má pokračovat nejméně jeden týden poté, co byly dvě po sobě následující hemokultury negativní, a po odeznění klinických známek a příznaků infekce.
+Ezofageální kandidóza: Mikafungin má být podáván ještě nejméně jeden týden po odeznění klinických známek a příznaků.
+Profylaxe kandidových infekcí: Mikafungin má být podáván ještě nejméně jeden týden po dosažení normálních hodnot počtu neutrofilů.
+Použití u dětí ve věku ≥ 4 měsíce až po dospívající ve věku < 16 let
+Indikace
+
+
+
+Léčba invazivní kandidózy Profylaxe kandidových infekcí
+Tělesná hmotnost > 40 kg
+
+100 mg/den*
+50 mg/den
+Tělesná hmotnost ≤ 40
+kg
+2 mg/kg/den*
+1 mg/kg/den
+* Jestliže není odpověď pacienta dostatečná, např. přetrvávají-li pozitivní kultivace nebo nelepší-li se klinický stav, lze dávku zvýšit na 200 mg/den u pacientů s tělesnou hmotností > 40 kg resp. na 4 mg/kg/den u pacientů s tělesnou hmotností ≤ 40 kg.
+Použití u dětí (včetně novorozenců) ve věku < 4 měsíce
+Indikace
+
+Léčba invazivní kandidózy                   4 – 10 mg/kg/den*
+Profylaxe kandidových infekcí                 2 mg/kg/den
+* Při dávkách mikafunginu 4 mg/kg u dětí mladších než 4 měsíce je expozice léku podobná jako expozice dosažená u dospělých, kteří dostávají 100 mg/den při léčbě invazivní kandidózy. Pokud je podezření na infekci centrálního nervového systému (CNS), mají být podány vyšší dávky (tj. 10 mg/kg) vzhledem k závislosti penetrace mikafunginu do CNS na dávce (viz bod 5.2).
+Délka léčby
+Invazivní kandidóza: Léčba kandidové infekce má trvat minimálně 14 dní. V antimykotické léčbě se má pokračovat nejméně jeden týden poté, co byly dvě po sobě následující hemokultury negativní, a po odeznění klinických známek a příznaků infekce.
+Profylaxe kandidových infekcí: Mikafungin má být podáván ještě nejméně jeden týden po dosažení normálních hodnot počtu neutrofilů. Zkušenosti s použitím mikafunginu u pacientů mladších než 2 roky jsou omezené.
+Porucha funkce jater
+U pacientů s lehkou nebo středně závažnou poruchou funkce jater není zapotřebí žádná úprava dávkování (viz bod 5.2). V současné době nejsou k dispozici dostatečné údaje o použití mikafunginu u pacientů se závažnou poruchou funkce jater a jeho použití se u těchto pacientů nedoporučuje (viz body 4.4 a 5.2).
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin není zapotřebí žádná úprava dávkování (viz bod 5.2).
+Pediatrická populace
+Účinnost a bezpečnost dávek 4 mg a 10 mg/kg pro léčbu invazivní kandidózy s postižením CNS nebyla u dětí mladších než 4 měsíce (včetně novorozenců) adekvátně stanovena. V současnosti dostupné údaje jsou uvedeny v bodech 4.8, 5.1, 5.2.
+Způsob podání
+Intravenózní podání.
+
+Po rekonstituci a naředění má být roztok podán formou intravenózní infuze trvající přibližně 1 hodinu. Rychlejší infuze může vést k častějším reakcím z uvolnění histaminu. Pokyny k rekonstituci tohoto léčivého přípravku před jeho podáním viz bod 6.6.
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku, jiné echinokandiny nebo na kteroukoli pomocnou látku uvedenou v
+bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití Účinky na játra:
+U potkanů byl po léčebném cyklu trvajícím 3 měsíce nebo déle pozorován vznik ložisek alterovaných hepatocytů (FAH) a hepatocelulárních tumorů. Předpokládaný práh pro vývoj tumoru u potkanů leží přibližně v rozmezí klinické expozice. Klinický význam tohoto nálezu není znám. Funkce jater má být během léčby mikafunginem pečlivě monitorována. Pro minimalizaci rizika adaptivní regenerace a možného následného vzniku tumoru jater se doporučuje časné přerušení léčby, pokud se objeví významné a přetrvávající zvýšení hladin ALT/AST. Při léčbě mikafunginem je třeba pečlivě sledovat poměr přínosu a rizika, a to zejména u pacientů s těžkou poruchou jaterní funkce nebo chronickým jaterním onemocněním, o němž je známo, že představuje preneoplastický stav, jako jsou pokročilá jaterní fibróza, cirhóza, virová hepatitida, neonatální jaterní onemocnění nebo kongenitální enzymatické defekty, nebo při podávání souběžné léčby, která může mít hepatotoxické a/nebo genotoxické účinky.
+Léčba mikafunginem byla spojována s významným poškozením jaterní funkce (zvýšení ALT, AST nebo celkového bilirubinu na > 3násobek horní hranice normy) u zdravých dobrovolníků i pacientů. U některých pacientů byly hlášeny závažnější jaterní dysfunkce, hepatitida nebo jaterní selhání, včetně fatálních případů. Pediatričtí pacienti < 1 rok věku mohou být náchylnější k jaternímu poškození (viz bod 4.8).
+Anafylaktické reakce
+Během podávání mikafunginu se mohou vyskytnout anafylaktické/anafylaktoidní reakce včetně šoku. Pokud tyto reakce nastanou, má být infuze mikafunginu přerušena a podána vhodná léčba.
+Kožní reakce
+Byly hlášeny exfoliativní kožní reakce, jako jsou Stevensův-Johnsonův syndrom a toxická epidermální nekrolýza. Pokud se u pacientů objeví vyrážka, je třeba je pečlivě sledovat, a pokud se léze zhoršují, podávání mikafunginu ukončit.
+Hemolýza
+U  pacientů  léčených  mikafunginem  byly  hlášeny  vzácné  případy  hemolýzy  včetně  akutní intravaskulární hemolýzy a hemolytické anemie. Pacienti, u nichž se během léčby mikafunginem vyvinou klinické nebo laboratorní projevy hemolýzy, mají být pozorně sledováni s ohledem na příznaky zhoršení těchto stavů a má být zhodnocen poměr přínosu a rizika pokračující terapie mikafunginem.
+Účinek na ledviny
+
+Mikafungin může způsobovat poruchy ledvin, selhání ledvin a abnormality ve funkčních testech ledvin.
+Pacienti mají být důkladně monitorováni s ohledem na zhoršení funkce ledvin. Interakce s jinými léčivými přípravky
+K současnému podávání mikafunginu a upraveného amfotericinu B (s natrium-deoxycholátem) se má přistupovat, jen pokud prospěch jasně převažuje nad rizikem a za pečlivého monitorování toxicity upraveného amfotericinu B (viz bod 4.5).
+U pacientů užívajících sirolimus, nifedipin nebo itrakonazol v kombinaci s mikafunginem má být sledována toxicita sirolimu, nifedipinu nebo itrakonazolu a je-li třeba, má být dávka sirolimu, nifedipinu nebo itrakonazolu snížena (viz bod 4.5).
+Pediatrická populace
+Incidence některých nežádoucích účinků byla vyšší u pediatrických pacientů než u dospělých pacientů
+(viz bod 4.8).
+Obsah sodíku
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné injekční lahvičce, to znamená, že je v podstatě „bez sodíku“.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+U mikafunginu existuje nízká pravděpodobnost interakcí s léky metabolizovanými izoenzymem
+CYP3A.
+Byly provedeny studie interakcí léku u zdravých lidských  subjektů za účelem posouzení pravděpodobnosti interakce mezi mikafunginem a mofetil-mykofenolátem, cyklosporinem, takrolimem, prednisolonem, sirolimem, nifedipinem, flukonazolem, ritonavirem, rifampicinem, itrakonazolem, vorikonazolem a amfotericinem B. V těchto studiích nebyly pozorovány žádné známky změněné farmakokinetiky mik
+afunginu. Při současném podávání těchto léků nejsou zapotřebí žádné úpravy dávkování mikafunginu. Hodnota expozice (AUC) pro itrakonazol, sirolimus a nifedipin se v přítomnosti mikafunginu mírně zvýšila (22 %, 21 % resp. 18 %).
+Současné podávání mikafunginu a upraveného amfotericinu B bylo spojeno s 30% nárůstem expozice upraveného amfotericinu B. Vzhledem k možnému klinickému významu této skutečnosti se mají tyto přípravky současně podávat, jen pokud prospěch jasně převažuje nad rizikem a za pečlivého monitorování toxicity upraveného amfotericinu B (viz bod 4.4).
+U pacientů užívajících sirolimus, nifedipin nebo itrakonazol v kombinaci s mikafunginem má být sledována toxicita sirolimu, nifedipinu nebo itrakonazolu a je-li třeba, má se dávka sirolimu, nifedipinu nebo itrakonazolu snížit (viz bod 4.4).
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+
+Žádné údaje o podávání mikafunginu těhotným ženám nejsou k dispozici. Ve studiích na zvířatech procházel mikafungin placentární bariérou a byla pozorována reprodukční toxicita (viz bod 5.3). Potenciální riziko pro člověka není známé.
+Micafungin Teva se proto nemá v těhotenství podávat, pokud to není nezbytně nutné. Kojení
+Není známo, zda se mikafungin vylučuje do lidského mateřského mléka. Studie na zvířatech ukázaly vylučování mikafunginu do mateřského mléka. Rozhodnutí o tom, zda pokračovat či přerušit kojení nebo pokračovat či přerušit terapii přípravkem Micafungin Teva, má být provedeno s ohledem na přínos kojení pro dítě a přínos léčby přípravkem Micafungin Teva pro matku.
+Fertilita
+Ve studiích na zvířatech byla pozorována testikulární toxicita (viz bod 5.3). Mikafungin může mít potenciál ovlivňovat u člověka mužskou fertilitu.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Mikafungin nemá žádný nebo má pouze zanedbatelný vliv na schopnost řídit a obsluhovat stroje. Nicméně pacienti mají být informováni, že při léčbě mikafunginem byla hlášena závrať (viz bod 4.8).
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+V klinických studiích byly celkově zaznamenány u 32,2 % pacientů nežádoucí účinky. Nejčastěji hlášenými nežádoucími účinky byly nauzea (2,8 %), zvýšené hladiny alkalické fosfatázy v krvi (2,7 %), flebitida (2,5 %, především u HIV pozitivních pacientů s periferními intravenózními katetry), zvracení (2,5 %) a zvýšení hladiny aspartátaminotransferázy (2,3 %).
+Seznam nežádoucích účinků v tabulce
+V následující tabulce jsou uvedeny nežádoucí účinky, uspořádané podle tříd orgánových systémů a podle terminologie MedDRA. V každé skupině frekvencí jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+
+Třída orgánových systémů
+
+Poruchy krve a lymfatického systému
+Časté
+≥ 1/100 až < 1/10
+
+
+leukopenie, neutropenie, anemie
+Méně časté
+≥ 1/1000 až < 1/100
+
+
+pancytopenie, trombocytopenie, eozinofilie, hypoalbuminemie
+Vzácné
+≥ 1/10000
+až <
+1/1000
+hemolytick á  anemie, hemolýza (viz  bod 4.4)
+Není známo (z dostupných údajů nelze určit) diseminovaná intravaskulárn
+í koagulace
+
+
+Poruchy imunitního systému
+anafylaktická     / anafylaktoidní  reakce (viz   bod   4.4), hypersenzitivita
+anafylaktický a anafylaktoidn í šok (viz bod 4.4)
+
+Endokrinní poruchy Poruchy metabolismu a výživy
+
+Psychiatrické poruchy Poruchy nervového systému
+Srdeční poruchy Cévní poruchy
+Respirační, hrudní    a
+mediastinální poruchy Gastrointestinál ní poruchy Poruchy jater a žlučových cest
+
+
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+hypokalemie, hypomagnesemie, hypokalcemie
+
+
+
+bolest hlavy
+
+
+
+
+flebitida
+
+
+
+
+
+nauzea,    zvracení, průjem, bolest břicha zvýšená     hladina alkalické  fosfatázy  v krvi, zvýšená hladina aspartátaminotransferáz y,  zvýšená  hladina alaninaminotransferázy
+,  zvýšená  hladina bilirubinu v krvi (včetně hyperbilirubinemie), abnormální  výsledky jaterních testů
+vyrážka
+hyperhidróza
+
+hyponatremie, hyperkalemie, hypofosfatémie, anorexie
+insomnie,   úzkost,
+zmatenost
+somnolence,   třes, závrať, dysgeuzie
+
+tachykardie, palpitace, bradykardie
+hypotenze, hypertenze,
+zrudnutí
+dyspnoe
+
+
+
+dyspepsie, zácpa
+
+jaterní selhání (viz bod 4.4), zvýšená hladina gamaglutamyltransferáz y, žloutenka, cholestáza, hepatomegalie, hepatitida
+
+
+
+
+
+kopřivka,   svědění, erytém
+
+
+
+
+
+
+
+
+
+
+
+
+
+šok
+
+
+
+
+
+
+
+hepatocelulár ní poškození včetně fatálních případů  (viz bod 4.4)
+
+
+
+
+
+toxické kožní erupce, erythema multiforme, Stevensův- Johnsonův syndrom, toxická epidermální nekrolýza (viz bod 4.4)
+
+
+Poruchy ledvin
+a močových cest
+
+
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+pyrexie,  zimnice  s
+třesavkou
+zvýšení     hladiny kreatininu   v   krvi, zvýšení     hladiny močoviny   v   krvi, zhoršení selhání ledvin trombóza   v   místě vpichu, zánět v místě podání infuze, bolest v místě vpichu, periferní edémy
+porucha funkce ledvin (viz bod 4.4), akutní selhání ledvin
+
+Vyšetření                 zvýšení     hladiny laktátdehydrogenázy  v krvi
+
+Popis vybraných nežádoucích účinků
+Možné pseudoalergické příznaky
+V klinických studiích byly hlášeny příznaky jako vyrážka a zimnice s třesavkou. Závažnost těchto příznaků byla většinou lehká až středně závažná a příznaky nevyžadovaly omezení léčby. Závažné nežádoucí účinky (např. anafylaktoidní reakce 0,2 %, 6/3028) byly při léčbě mikafunginem hlášeny méně často a pouze u pacientů se závažnými zdravotními stavy (např. pokročilým AIDS, maligními tumory) vyžadujícími současné podávání většího počtu léků.
+
+
+Nežádoucí účinky na játra
+Celková incidence nežádoucích účinků postihujících játra v klinických studiích u pacientů léčených mikafunginem dosáhla 8,6 % (260/3028). Většina nežádoucích účinků postihujících játra byla lehká a středně závažná. Nejčastějšími nežádoucími účinky byly zvýšené hladiny AF (2,7 %), AST (2,3 %), ALT (2,0 %), bilirubinu (1,6 %) a abnormální výsledky jaterních testů (1,5 %). Několik pacientů (1,1
+%; 0,4 % závažných) přerušilo léčbu kvůli jaterní příhodě. Méně často se vyskytovaly případy těžké
+poruchy funkce jater (viz bod 4.4).
+Reakce v místě aplikace
+Žádná z nežádoucích reakcí v místě aplikace nevyžadovala omezení léčby. Pediatrická populace
+Incidence některých nežádoucích účinků (uvedených v tabulce níže) byla vyšší u pediatrických pacientů než u dospělých pacientů. Dále se pak u pediatrických pacientů ve věku < 1 rok objevovalo asi dvakrát častěji zvýšení hladin ALT, AST a AF, než u starších pediatrických pacientů (viz bod 4.4). Nejpravděpodobnější příčinou těchto rozdílů byl rozdílný základní stav ve srovnání s dospělými nebo staršími pediatrickými pacienty pozorovanými v klinických studiích. V době vstupu do studie byl podíl pediatrických pacientů s neutropenií několikrát vyšší než u dospělých pacientů (40,2 % dětí a dospívajících, resp. 7,3 % dospělých), a totéž platilo u pacientů s alogenní HSCT (29,4 % resp. 13,4 %) a hematologickou malignitou (29,1 % resp. 8,7 %).
+
+
+Poruchy krve a lymfatického systému
+časté              trombocytopenie
+Srdeční poruchy
+časté              tachykardie
+Cévní poruchy
+
+časté              hypertenze, hypotenze
+Poruchy jater a žlučových cest
+časté              hyperbilirubinemie, hepatomegalie
+Poruchy ledvin a močových cest
+časté              akutní selhání ledvin, zvýšení hladiny močoviny v krvi
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+V klinických studiích byly dospělým pacientům podávány opakované denní dávky až do výše 8 mg/kg (maximální celková dávka 896 mg) bez hlášené toxicity, která by vyžadovala omezení dávky. V případě jednoho spontánního hlášení bylo u novorozence hlášeno dávkování 16 mg/kg/den. Nebyly zaznamenány žádné nežádoucí účinky související s takto vysokou dávkou.
+Nejsou zkušenosti s předávkováním mikafunginem. V případě předávkování je třeba přijmout obecná podpůrná opatření a zahájit symptomatickou léčbu. Mikafungin je z velké části vázán na bílkoviny a není dialyzovatelný.
+
+
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Antimykotika pro systémovou aplikaci, jiná antimykotika pro systémovou aplikaci. ATC kód: J02AX05
+
+
+Mechanismus účinku
+
+Mikafungin nekompetitivně inhibuje syntézu 1,3-β-D-glukanu, který je hlavní složkou buněčné stěny plísní. 1,3-β-D-glukan není přítomen v buňkách savců.
+Mikafungin vykazuje fungicidní účinky proti většině organismů rodu Candida a významně inhibuje aktivně rostoucí hyfy rodu Aspergillus.
+Farmakodynamické účinky
+Na zvířecích modelech kandidózy byla pozorována korelace mezi expozicí mikafunginu dělenou MIC (AUC/MIC) a účinností, definovaná jako požadovaný poměr k prevenci progresivního růstu plísní. Pro
+C. albicans a C. glabrata byl v těchto modelech požadován poměr ~2400 resp. ~1300. Tyto poměry jsou dosažitelné v doporučených terapeutických dávkách mikafunginu pro běžné rozložení divokých typů Candida spp.
+Mechanismus rezistence
+Jako u všech antimikrobiálních látek byly zaznamenány případy snížené citlivosti a rezistence a zkříženou rezistenci s jinými echinokandiny nelze vyloučit. Snížená citlivost na echinokandiny byla spojována s mutacemi kódování genů Fks1 a Fks 2 pro hlavní podjednotku glukan-syntázy.
+Hraniční hodnoty
+Hraniční hodnoty dle EUCAST
+
+
+Candida species
+
+Candida albicans Candida glabrata Candida parapsilosis Candida tropicalis¹
+
+Candida krusei¹ Candida guilliermondii¹
+Hraniční hodnoty MIC (mg/l)
+≤C (citlivé)
+0,016
+0,03
+0,002
+Nedostatečná evidence Nedostatečná evidence Nedostatečná evidence
+
+>R (resistentní)
+0,016
+0,03
+2
+Other Candida spp.       Nedostatečná evidence
+¹MICs pro C. tropicalis jsou o 1-2 dvojnásobné stupně ředění vyšší než pro C. albicans a C. glabrata. Úspěšný výsledek byl v klinické studii numericky mírně nižší pro C. tropicalis než pro C. albicans v obou dávkách (100 a 150 mg denně). Nicméně rozdíl nebyl statisticky významný, a zda tento výsledek znamená relevantní klinický rozdíl, není známo. MICs pro C. krusei jsou o 3 dvojnásobné stupně ředění vyšší než pro C. albicans a pro C.guilliermondii jsou vyšší o 8 dvojnásobných stupňů ředění. Navíc, tyto druhy zahrnoval v klinických studiích pouze malý počet případů. To znamená, že je nedostatečná evidence ukazující, zda populace divokého typu těchto patogenů mohou být považovány za citlivé k mikafunginu.
+
+Klinická účinnost a bezpečnost
+Kandidemie a invazivní kandidóza: Mikafungin (100 mg/den nebo 2 mg/kg/den) byl stejně účinný a lépe tolerovaný než lipozomální amfotericin B (3 mg/kg) jako léčba první volby pro kandidemii a invazivní kandidózu v randomizované dvojitě zaslepené mezinárodní studii non-inferiority.
+
+Mikafungin a lipozomální amfotericin B byly podávány po medián doby trvání 15 dnů (rozmezí od 4 do 42 dnů u dospělých a 12 až 42 dnů u dětí a dospívajících).
+Non-inferiorita byla prokázána u dospělých pacientů a podobné nálezy byly prokázány pro pediatrické subpopulace (včetně novorozenců a předčasně narozených dětí). Nálezy účinnosti byly konzistentní nezávisle na vyvolávajícím druhu kandidy, primárním místě infekce a stavu neutropenie (viz tabulka). Mikafungin ukázal menší průměrný maximální pokles glomerulární filtrace stanovené během léčby (p
+< 0,001) a nižší incidenci reakcí souvisejících s infuzí (p = 0,001) než lipozomální amfotericin B.
+
+
+Celková úspěšnost léčby v souboru per protocol, studie invazivní kandidózy
+
+
+
+
+
+Dospělí pacienti
+Mikafungin     Lipozomální
+amfotericin B
+n    n (%)     n     n (%)
+Rozdíl v %
+[95% CI]
+Celková úspěšnost léčby      202   181 (89,6)   190   170 (89,5)   0,1 [-5,9; 6,1]† Celková úspěšnost léčby podle stavu neutropenie
+
+Výchozí stav s neutropenií
+Výchozí stav bez
+neutropenie
+Pediatričtí pacienti
+Celková úspěšnost léčby
+Děti do 2 let věku Předčasně narozené děti Novorozenci (0 dnů až <
+4 týdny)
+Děti a dospívající od 2 do 15 let
+24
+
+178
+
+
+48
+26
+10
+7
+
+22
+18 (75,0)
+
+163 (91,6)
+
+
+35 (72,9)
+21 (80,8)
+7 (70,0)
+7 (100)
+
+14 (63,6)
+15
+
+175
+
+
+50
+31
+9
+5
+
+19
+12 (80,0)
+
+158 (90,3)
+
+
+38 (76,0)
+24 (77,4)
+6 (66,7)
+4 (80)
+
+14 (73,7)
+0,7 [-5,3; 6,7]‡
+
+
+
+
+-2,7 [-17,3; 11,9]§
+Dospělí a děti v kombinaci, celková úspěšnost léčby dle druhu kandid
+
+Candida albicans
+Non-albicans species ¶: all
+C. tropicalis
+C. parapsilosis C.glabrata
+C. krusei
+102
+151
+59
+48
+23
+9
+91 (89,2)
+133 (88,1)
+54 (91,5)
+41 (85,4)
+19 (82,6)
+8 (88,9)
+98
+140
+51
+44
+17
+7
+89 (90,8)
+123 (87,9)
+49 (96,1)
+35 (79,5)
+14 (82,4)
+6 (85,7)
+† Úspěšnost mikafunginu mínus úspěšnost lipozomálního amfotericinu B a oboustranný 95% interval spolehlivosti pro rozdíl v celkové míře úspěšnosti na základě normální aproximace na velkém vzorku.
+‡ Upraveno podle stavu neutropenie; primární cílový parametr.
+§ U pediatrické populace nebylo možné vzhledem k její velikosti provést testy non-inferiority.
+¶ Klinická účinnost byla také sledována (< 5 pacientů) u následujících druhů kandidy: C. guilliermondii,
+C. famata, C. lusitaniae, C. utilis, C. inconspicua a C. dubliniensis.
+Ezofageální kandidóza: V randomizované, dvojitě zaslepené studii porovnávající mikafungin s flukonazolem při léčbě první volby ezofageální kandidózy dostalo 518 pacientů nejméně jednu dávku studovaného léku. Medián doby trvání léčby činil u obou skupin 14 dní a medián průměrné denní dávky činil 150 mg u mikafunginu (n = 260) a 200 mg u flukonazolu (n = 258). Endoskopický stupeň 0 (endoskopické vyléčení) na konci léčby byl pozorován u 87,7 % (228/260) a 88,0 % (227/258) pacientů
+
+ve skupině s mikafunginem, resp. flukonazolem (95% interval spolehlivosti pro rozdíl: [-5,9 %; 5,3 %]). Dolní mez intervalu spolehlivosti 95% byla nad předdefinovanou hranicí noninferiority -10 %, což prokázalo non-inferioritu. Charakter a incidence nežádoucích účinků byly v léčených skupinách obdobné.
+Profylaxe: Mikafungin byl účinnější než flukonazol v prevenci invazivní mykotické infekce u populace pacientů s vysokým rizikem rozvoje systémové mykotické infekce (pacienti podstupující transplantaci hematopoetických kmenových buněk [HSCT] v randomizované dvojitě zaslepené multicentrické studii). Úspěšnost léčby byla definována jako absence prokázané, pravděpodobné nebo suspektní systémové mykotické infekce do skončení léčby a absence prokázané nebo pravděpodobné systémové mykotické infekce do konce studie. Většina pacientů (97 %, n = 882) měla ve výchozím stavu neutropenii (< 200 neutrofilů/µl). Medián trvání neutropenie byl 13 dnů. Fixní denní dávka byla 50 mg (1,0 mg/kg) pro mikafungin a 400 mg (8 mg/kg) pro flukonazol. Průměrná doba léčby byla 19 dnů u mikafunginu a 18 dnů u flukonazolu u dospělé populace (n = 798) a 23 dnů pro obě léčené skupiny pediatrické populace (n = 84).
+Úspěšnost léčby byla statisticky významně vyšší u mikafunginu než u flukonazolu (1,6 % vs 2,4 % vzplanutí infekcí). Vzplanutí infekce způsobené rodem Aspergillus bylo pozorováno u 1 vs 7 pacientů a prokázané nebo pravděpodobné vzplanutí kandidové infekce bylo pozorováno u 4 vs 2 pacientů ve skupinách s mikafunginem resp. flukonazolem. Další vzplanutí infekce byla způsobena rody Fusarium (1 resp. 2 pacienti) a Zygomycetes (1 resp. 0 pacientů). Charakter a incidence nežádoucích účinků byly v léčených skupinách obdobné.
+
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Farmakokinetika je v rozmezí denních dávek od 12,5 mg do 200 mg a od 3 mg/kg do 8 mg/kg lineární. Neexistují žádné důkazy systémové kumulace při opakovaném podávání a ustáleného stavu se obvykle dosáhne během 4 až 5 dnů.
+Distribuce
+Po intravenózním podání vykazují koncentrace mikafunginu biexponenciální pokles. Lék se rychle distribuuje do tkání.
+V systémovém oběhu se mikafungin ve značné míře váže na plazmatické bílkoviny (> 99 %), především
+na albumin. Vazba na albumin je nezávislá na koncentraci mikafunginu (10 – 100 µg/ml). Distribuční objem v ustáleném stavu (Vss) činil přibližně 18 – 19 litrů.
+Biotransformace
+Hlavní sloučeninou cirkulující v systémovém oběhu je mikafungin v nezměněné podobě. Bylo prokázáno, že mikafungin je metabolizován na několik sloučenin. Z těch byly v systémovém oběhu detekovány tyto metabolity mikafunginu: M-1 (katecholová forma), M-2 (metoxy forma M-1) a M-5 (hydroxylace postranního řetězce). Expozice těmto metabolitům je nízká a metabolity nepřispívají k celkové účinnosti mikafunginu.
+
+I když je mikafungin in vitro substrátem pro CYP3A, hydroxylace enzymem CYP3A není hlavní cestou metabolismu mikafunginu in vivo.
+Eliminace
+Průměrný terminální poločas činí přibližně 10 – 17 hodin a zůstává neměnný v rozmezí dávek až do 8 mg/kg, a to při jednorázovém i opakovaném podání. Celková clearance činila u zdravých subjektů a dospělých pacientů 0,15 – 0,3 ml/min/kg a není závislá na dávce po jednorázovém ani po opakovaném podávání. Po intravenózním jednorázovém podání radioaktivně značené dávky ¹⁴C-mikafunginu (25 mg) zdravým dobrovolníkům bylo během 28 dní vyloučeno 11,6 % radioaktivity v moči a 71,0 % ve stolici. Tyto údaje ukazují, že eliminace mikafunginu probíhá hlavně extrarenální cestou. V plazmě byly detekovány metabolity M-1 a M-2 pouze ve stopových koncentracích a hojnější metabolit M-5 představoval 6,5 % mateřské sloučeniny.
+Zvláštní populace
+Pediatrická populace:
+U pediatrických pacientů byly hodnoty AUC v rozpětí dávek 0,5 – 4 mg/kg úměrné dávce. Na clearance měla vliv tělesná hmotnost, přičemž průměrné hodnoty clearance upravené podle tělesné hmotnosti byly 1,35násobně vyšší u mladších dětí (4 měsíce až 5 let) a 1,14násobně vyšší u pediatrických pacientů ve věku 6 až 11 let. Dospívající (12-16 let) měli průměrné hodnoty podobné hodnotám stanoveným u dospělých pacientů. Průměrné hodnoty clearance upravené podle tělesné hmotnosti byly u dětí mladších než 4 měsíce přibližně 2,6násobně vyšší než u dospívajících (12 –16 let) a 2,3násobně vyšší než u dospělých.
+FK/FD přemosťující (bridging) studie demonstrovala na dávce závislou penetraci mikafunginu do CNS s minimální hodnotou AUC 170 µg*h/l potřebnou pro dosažení maximální eradikace mykotického postižení v tkáni CNS. Populační PK modelování prokázalo, že dávka 10 mg/kg u dětí mladších než 4 měsíce věku by měla být dostatečná pro dosažení cílové expozice pro léčbu kandidové infekce CNS.
+Starší pacienti:
+Po podání jednorázové infuze 50 mg mikafunginu trvající 1 hodinu byla farmakokinetika u starších osob (ve věku 66 – 78 let) podobná farmakokinetice u mladých subjektů (20 – 24 let). U starších pacientů není zapotřebí provádět úpravu dávkování.
+Pacienti s poruchou funkce jater:
+Ve studii provedené u pacientů se středně závažnou poruchou funkce jater (Childovo-Pughovo skóre 7 – 9) (n = 8) se farmakokinetika mikafunginu významně nelišila od zdravých subjektů (n=8). Proto není u pacientů s lehkou až středně závažnou poruchou funkce jater zapotřebí provádět úpravu dávkování. Ve studii provedené u pacientů se závažnou poruchou funkce jater (Childovo-Pughovo skóre 10-12) (n
+= 8) byly ve srovnání se zdravými dobrovolníky (n = 8) pozorovány nižší plazmatické koncentrace mikafunginu a vyšší plazmatické koncentrace hydroxylovaného metabolitu (M-5). Tyto údaje nejsou dostatečné jako podklad pro doporučené dávkování u pacientů se závažnou poruchou funkce jater.
+Pacienti s poruchou funkce ledvin:
+Závažná porucha funkce ledvin (glomerulární filtrace - [GFR] < 30 ml/min) neměla významný vliv na farmakokinetiku mikafunginu. U pacientů s poruchou funkce ledvin není zapotřebí provádět úpravu dávkování.
+
+Pohlaví/rasa:
+Pohlaví a rasa (bělošská, černošská a asijská) neměly významný vliv na farmakokinetické parametry
+mikafunginu. V závislosti na pohlaví nebo rase není zapotřebí provádět úpravu dávkování.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Vznik ložisek alterovaných hepatocytů (FAH) a hepatocelulárních tumorů u potkanů byl závislý na dávce i délce trvání léčby mikafunginem. FAH zaznamenaná po léčbě trvající 13 týdnů nebo déle přetrvávala po 13týdenním období vysazení a rozvinula se v hepatocelulární tumory po období bez léčby, které pokrývalo délku života potkanů. Žádné standardní studie kancerogenity nebyly provedeny, ale vznik FAH byl hodnocen u samic potkanů po až 20 a 18 měsících od ukončení 3 resp. 6měsíční léčby. V obou studiích byla pozorována zvýšená incidence/počet hepatocelulárních tumorů po 18 a 20měsíčním období bez léčby u skupiny s vysokou dávkou 32 mg/kg/den a také u skupiny s nízkou dávkou (i když ne statisticky významně). Plazmatická expozice na předpokládané prahové úrovni pro vývoj tumoru u potkanů (tzn. dávka, kdy nebyly detekovány FAH ani tumory jater) byla ve stejném rozmezí jako klinická expozice. Relevance hepatokancerogenního potenciálu mikafunginu pro terapeutické použití u člověka není známa.
+Toxikologie mikafunginu po opakované intravenózní dávce u potkanů a/nebo psů ukázala nežádoucí ovlivnění jater, močového traktu, erytrocytů a samčích reprodukčních orgánů. Úroveň expozice, při níž se tyto účinky neobjevovaly (NOAEL), byla ve stejném rozmezí, jako je klinická hladina expozice nebo nižší. Z toho lze odvodit, že můžeme vznik těchto nežádoucích účinků očekávat při klinickém použití mikafunginu u člověka.
+Ve standardních farmakologických testech bezpečnosti byly kardiovaskulární účinky a účinky spojené s uvolněním histaminu zjevné a jevily se jako časově závislé na nadprahových koncentracích. Prodloužení doby trvání infuze mající za následek snížení maximální plazmatické koncentrace vedlo ke zmírnění těchto účinků.
+Ve studiích toxicity po opakovaném podávání u potkanů se hepatotoxicita projevila zvýšením hodnot jaterních enzymů a degenerativními změnami hepatocytů, které byly doprovázeny známkami kompenzační regenerace. Účinky na játra psů zahrnovaly zvýšení hmotnosti a centrilobulární hypertrofii. Degenerativní změny hepatocytů nebyly pozorovány.
+U potkanů byla v 26týdenních studiích opakovaného podávání pozorována vakuolizace epitelu ledvinných pánviček a též vakuolizace a ztluštění (hyperplazie) epitelu močového měchýře. V druhé 26týdenní studii se hyperplazie buněk přechodného epitelu v močovém měchýři vyskytovala v mnohem nižší míře. Tyto nálezy se ukázaly jako reverzibilní během kontrolního období 18 měsíců. Doba podávání mikafunginu v těchto studiích na potkanech (6 měsíců) převyšuje obvyklou délku podávání mikafunginu u pacientů (viz bod 5.1).
+Mikafungin hemolyzoval králičí krev in vitro. U potkanů byly pozorovány známky hemolytické anemie po opakované bolusové injekci mikafunginu. Ve studiích opakovaného podávání u psů nebyla pozorována hemolytická anemie.
+V reprodukčních studiích a studiích vývojové toxicity byla zaznamenána snížená porodní hmotnost mláďat. U králíků se vyskytl jeden potrat při dávce 32 mg/kg/den. Samci potkanů léčení intravenózně po dobu 9 týdnů vykazovali vakuolizaci epitelových buněk kanálků nadvarlete, zvýšení hmotnosti
+
+nadvarlete a snížený počet spermií (o 15 %), nicméně ve studiích trvajících 13 a 26 týdnů se tyto změny neobjevily. U dospělých psů byly po delší léčbě (39 týdnů), ale nikoli po 13 týdnech léčby, pozorovány atrofie semenotvorných kanálků s vakuolizací semenotvorného epitelu a pokles počtu spermií v nadvarlatech. U mladých psů nevyvolala 39týdenní léčba vznik na dávce závislých lézí ve varlatech a nadvarlatech na konci léčby, ale po 13 týdnech bez léčby byl pozorován na dávce závislý nárůst těchto lézí v léčených uzdravujících se skupinách. Ve studii fertility a časného embryonálního vývoje u potkanů nebylo pozorováno žádné narušení samčí a samičí fertility.
+Mikafungin neměl při posuzování standardními testy in vitro a in vivo, včetně jedné studie in vitro
+neplánované syntézy DNA s využitím potkaních hepatocytů, mutagenní ani klastogenní účinky.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Sacharóza
+Kyselina citronová (k úpravě pH) Hydroxid sodný (k úpravě pH)
+6.2  Inkompatibility
+Tento léčivý přípravek nesmí být mísen nebo podáván ve společné infuzi s jinými léčivými přípravky s
+výjimkou těch, které jsou uvedeny v bodě 6.6.
+6.3  Doba použitelnosti
+Neotevřená injekční lahvička: 3 roky. Rekonstituovaný koncentrát v injekční lahvičce
+Po rekonstituci 5% infuzním roztokem glukózy (50 mg/ml) nebo 0,9% infuzním roztokem chloridu sodného (9 mg/ml) byla chemická a fyzikální stabilita po otevření před použitím prokázána na dobu 48 hodin při teplotě 25 °C.
+Naředěný infuzní roztok
+Po naředění 0,9% infuzním roztokem chloridu sodného (9 mg/ml) nebo 5% infuzním roztokem glukózy (50 mg/ml) byla chemická a fyzikální stabilita po otevření před použitím prokázána na dobu 96 hodin při teplotě 25 °C a ochraně před světlem.
+Z mikrobiologického hlediska mají být rekonstituované a naředěné roztoky použity okamžitě. Není-li roztok použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při teplotě 2 °C - 8 °C, pokud rekonstituce a ředění neproběhly za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+Neotevřené injekční lahvičky
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+Podmínky uchovávání po rekonstituci a naředění léčivého přípravku viz bod 6.3.
+6.5  Druh obalu a velikost balení
+Skleněná injekční lahvička třídy I o objemu 10 ml s pryžovou zátkou z butylenu a s odtrhovacím víčkem. Lahvička je obalena fólií, která chrání před UV zářením.
+Velikost balení: 1 injekční lahvička.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+Micafungin Teva nesmí být mísen nebo podáván ve společné infuzi s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny níže. Rekonstituce a ředění přípravku Micafungin Teva se provádí aseptickou technikou za pokojové teploty takto:
+1.    Z injekční lahvičky je nutno sejmout plastové víčko a zátku vydezinfikovat alkoholem.
+2.    Do každé lahvičky je třeba po její vnitřní stěně sterilně a pomalu vstříknout 5 ml 0,9% infuzního roztoku chloridu sodného (9 mg/ml) nebo 5% infuzního roztoku glukózy (50 mg/ml) (odebraného z lahve/vaku o objemu 100 ml). I když koncentrát bude pěnit, je třeba vykonat vše pro snížení množství vzniklé pěny na minimum. Je třeba rekonstituovat tolik lahviček přípravku Micafungin Teva, aby se získala požadovaná dávka v mg (viz tabulka níže).
+3.    S lahvičkou je nutno pomalu zakroužit. NETŘEPAT. Prášek se zcela rozpustí. Koncentrát má být použit okamžitě. Lahvička je určena pouze pro jednorázové použití. Nepoužitý rekonstituovaný koncentrát musí být okamžitě zlikvidován.
+4.    Všechen rekonstituovaný koncentrát z každé lahvičky je třeba natáhnout a vrátit do infuzního vaku/láhve, z níž byl roztok k rekonstituci původně odebrán. Naředěný infuzní roztok má být použit okamžitě. Po naředění výše popsaným postupem byla chemická a fyzikální stabilita po otevření před použitím prokázána na dobu 96 hodin při teplotě 25 °C a ochraně před světlem.
+5.    Infuzní vak/láhev se má opatrně otočit vzhůru dnem, aby se naředěný roztok rozptýlil, ale NESMÍ se s ním/ní třepat, aby nedošlo k napěnění. Roztok nesmí být používán, je-li zakalený nebo obsahuje-li sraženinu.
+6.    Infuzní vak/láhev obsahující naředěný infuzní roztok má být vložen(a) do uzavíratelného neprůhledného vaku, který jej/ji bude chránit před světlem.
+Příprava infuzního roztoku
+
+
+Dávka
+(mg)
+
+
+
+50
+
+100
+
+150
+Vhodná velikost balení přípravku Micafungin Teva (mg/lahvička)
+
+1 x 50
+
+1 x 100
+
+1 x 100 + 1 x 50
+Objem chloridu sodného (0,9%) nebo glukózy (5%), pro přidání do lahvičky
+5 ml
+
+5 ml
+
+5 ml
+Objem (koncentrace)
+rekonstituovaného prášku
+
+cca 5 ml
+(10 mg/ml)
+cca 5 ml
+(20 mg/ml)
+cca 10 ml
+Standardní infuze (doplněná do 100 ml) konečná koncentrace
+
+0,5 mg/ml
+
+1,0 mg/ml
+
+1,5 mg/ml
+
+
+200     2 x 100        5 ml          cca 10 ml       2,0 mg/ml
+
+
+Po rekonstituci a naředění má být roztok podán intravenózní infuzí trvající asi 1 hodinu.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Teva B.V. Swensweg 5
+2031GA Haarlem, Nizozemsko
+
+
+8.   REGISTRAČNÍ ČÍSLO
+26/435/18-C
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 6. 11. 2019
+
+
+10.  DATUM REVIZE TEXTU
+30. 8. 2020

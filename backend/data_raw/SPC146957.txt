@@ -1,0 +1,501 @@
+Sp. zn. sukls23186/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Meronem 500 mg prášek pro injekční/infuzní roztok
+Meronem 1 g prášek pro injekční/infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Meronem 500 mg: jedna injekční lahvička obsahuje meropenemum trihydricum odpovídající
+meropenemum 500 mg.
+
+Meronem 1 g: jedna injekční lahvička obsahuje meropenemum trihydricum odpovídající
+meropenemum 1 g.
+Pomocné látky se známým účinkem:
+Jedna 500 mg injekční lahvička obsahuje 104 mg uhličitanu sodného odpovídající asi 2 mEq sodíku
+(asi 45 mg).
+Jedna 1 g injekční lahvička obsahuje 208 mg uhličitanu sodného odpovídající asi 4 mEq sodíku (asi
+90 mg).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Prášek pro injekční/infuzní roztok. Bílý až světle žlutý prášek.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Meronem je u dospělých a dětí od 3 měsíců indikován k léčbě následujících infekcí (viz body 4.4 a 5.1):
+-   závažná pneumonie, včetně nemocniční pneumonie a pneumonie při použití ventilátoru.
+-   broncho-pulmonální infekce u cystické fibrózy.
+-   komplikované infekce močových cest.
+-   komplikované nitrobřišní infekce.
+-   intrapartální a postpartální infekce
+-   komplikované infekce kůže a měkkých tkání.
+-   akutní bakteriální meningitida.
+
+Meronem lze použít ke komplexní léčbě febrilních neutropenických pacientů při podezření na bakteriální infekci.
+
+Léčba pacientů s bakteriemií, která se objeví v souvislosti s infekcemi uvedenými výše nebo existuje podezření na takovou souvislost.
+Je nutné brát v úvahu oficiální doporučení o vhodném použití antibakteriálních látek.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Tabulky uvedené níže poskytují obecná doporučení pro dávkování.
+Podávaná dávka meropenemu a délka léčby závisí na typu infekce, včetně závažnosti infekce, a
+klinické odpovědi.
+
+Při léčbě některých typů infekcí, např. infekcí vyvolaných méně citlivými bakteriálními kmeny (např. Enterobacteriaceae, Pseudomonas aeruginosa, Acinetobacter spp.) nebo velmi závažných infekcí, může být zvláště vhodná dávka až 2 g třikrát denně u dospělých a dospívajících a dávka až 40 mg/kg třikrát denně u dětí.
+
+Při stanovování dávek k léčbě pacientů s poruchou funkce ledvin je nutná pečlivá rozvaha (viz níže). Dospělí a dospívající
+Infekce                         Dávka podaná každých 8 hodin
+
+Závažná pneumonie včetně nemocniční pneumonie a pneumonie při použití ventilátoru
+500 mg nebo 1 g
+Bronchopulmonální infekce u cystické fibrózy    2 g
+Komplikované infekce močových cest        500 mg nebo 1 g
+Komplikované nitrobřišní infekce           500 mg nebo 1 g Gynekologické infekce a poporodní infekce      500 mg nebo 1 g Komplikované infekce kůže a měkkých tkání     500 mg nebo 1 g Akutní bakteriální meningitida             2 g
+Komplexní léčba febrilních neutropenických     1 g
+                               pacientů                                
+
+Meronem se obvykle podává jako intravenózní infuze po dobu asi 15 až 30 minut (viz body 6.2, 6.3 a 6.6).
+Dávky meropenemu do 1 g lze alternativně podat jako intravenózní bolusovou injekci po dobu asi
+5 minut. Existují pouze omezené bezpečnostní informace podporující podání dávky 2 g jako bolusové intravenózní injekce u dospělých.
+Porucha funkce ledvin
+U dospělých a dospívajících s clearance kreatininu nižší než 51 ml/min má být dávka upravena podle níže uvedených pokynů. O úpravě jednotkové dávky 2 g existují pouze omezené údaje.
+
+
+Clearance kreatininu (ml/min)
+Dávka (na základě jednotkové dávky 500 mg nebo 1 g nebo 2 g, viz tabulka výše)
+Frekvence
+26-50          Jedna jednotková dávka           každých 12 hodin
+10-25          Polovina jednotkové dávky         každých 12 hodin
+< 10           Polovina jednotkové dávky         každých 24 hodin
+
+Meropenem je odstraňován hemodialýzou a hemofiltrací. Požadovaná dávka má být podána po ukončení hemodialyzačního cyklu.
+
+Není k dispozici doporučené dávkování pro pacienty na peritoneální dialýze.
+
+Porucha funkce jater
+U pacientů s poruchou funkce jater není nutná úprava dávkování (viz bod 4.4).
+
+Dávkování u starších pacientů
+U starších pacientů s normální funkcí ledvin nebo clearance kreatininu vyšší než 50 ml/min není nutná úprava dávkování.
+Pediatrická populace
+Novorozenci a kojenci ve věku do 3 měsíců
+U novorozenců a kojenců ve věku do 3 měsíců nebyla stanovena bezpečnost a účinnost meropenemu a nebyl určen optimální dávkovací režim. Omezené farmakokinetické údaje však naznačují, že by vhodným dávkovacím režimem mohlo být 20 mg/kg každých 8 hodin (viz bod 5.2).
+
+Děti od 3 měsíců do 11 let a do 50 kg tělesné hmotnosti
+Doporučené dávkovací režimy jsou uvedeny v tabulce níže:
+
+Infekce                           Dávka podaná každých 8 hodin
+
+Závažná pneumonie včetně nemocniční pneumonie a pneumonie při použití ventilátoru
+10 nebo 20 mg/kg
+Bronchopulmonální infekce u cystické fibrózy      40 mg/kg
+Komplikované infekce močových cest          10 nebo 20 mg/kg
+Komplikované nitrobřišní infekce             10 nebo 20 mg/kg Komplikované infekce kůže a měkkých tkání       10 nebo 20 mg/kg Akutní bakteriální meningitida               40 mg/kg
+   Komplexní léčba febrilních neutropenických pacientů       20 mg/kg           
+
+Děti s hmotností nad 50 kg
+Stejná dávka jako u dospělých.
+
+Nejsou žádné zkušenosti u dětí s poruchou funkce ledvin.
+Způsob podání
+
+Meronem se obvykle podává jako intravenózní infuze po dobu asi 15 až 30 minut (viz body 6.2, 6.3 a 6.6). Dávky meropenemu do 20 mg/kg lze alternativně podat jako intravenózní bolusovou injekci po dobu přibližně 5 minut. Existují pouze omezené bezpečnostní údaje podporující podání dávky
+40 mg/kg u dětí jako bolusové intravenózní injekce.
+
+Pokyny k rekonstituci léčivého přípravku před podáním viz bod 6.6.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku uvedenou v bodě 6.1.
+Hypersenzitivita na jiné karbapenemy.
+Závažná hypersenzitivita (např. anafylaktická reakce, závažné kožní reakce) na jiná betalaktamová antibiotika (např. peniciliny nebo cefalosporiny).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Při výběru meropenemu k léčbě jednotlivých pacientů je třeba brát v úvahu vhodnost použití karbapenemu na základě takových faktorů jako je závažnost infekce, prevalence rezistence na jiná vhodná antibakteriální léčiva a riziko selekce rezistentních bakterií na karbapenem.
+
+Rezistence Enterobacteriaceae, Pseudomonas aeruginosa a Acinetobacter spp.
+Rezistence kmenů Enterobacteriaceae, Pseudomonas aeruginosa a Acinetobacter spp.na penemy se v rámci Evropské unie liší. Předepisující lékař má mít na zřeteli místní prevalenci rezistence těchto bakterií na penemy.
+
+Hypersenzitivní reakce
+Podobně jako u všech betalaktamových antibiotik byly hlášeny závažné a občas i fatální případy
+hypersenzitivity (viz body 4.3 a 4.8).
+
+Pacienti, kteří jsou hypersenzitivní na karbapenemy, peniciliny nebo jiná betalaktamová antibiotika, mohou být hypersenzitivní také na meropenem. Před zahájením léčby meropenemem je nutné pečlivě pátrat po předchozích hypersenzitivních reakcích na betalaktamová antibiotika.
+
+Pokud se objeví závažná alergická reakce, je nutné přerušit podávání přípravku a zahájit odpovídající léčbu.
+U pacientů používajících meropenem byly hlášeny závažné kožní nežádoucí účinky (SCAR), jako jsou Stevens-Johnsonův syndrom (SJS), toxická epidermální nekrolýza (TEN), lékové reakce doprovázené eozinofilií a systémovými příznaky (DRESS), erythema multiforme (EM) a akutní generalizovaná exantematózní pustulóza (AGEP) (viz bod 4.8). Pokud se objeví známky a příznaky nasvědčující takovýmto účinkům, podávání meropenemu je třeba ihned ukončit a zvážit jinou možnost léčby.
+Kolitida navozená antibiotiky
+Antibiotiky navozená kolitida a pseudomembranózní kolitida byla hlášena téměř u všech antibakteriálních léčiv, včetně meropenemu, a může být mírná až život ohrožující. Na tuto diagnózu je proto třeba myslet u pacientů, u nichž se v průběhu podávání nebo po podání meropenemu (viz bod 4.8) vyskytne průjem. Je třeba uvažovat o přerušení léčby meropenemem a zahájení specifické léčby Clostridium difficile. Nemají být podávána léčiva, která inhibují střevní peristaltiku.
+Křeče
+V průběhu léčby karbapenemy, včetně meropenemu, byly občas hlášeny křeče (viz bod 4.8).
+
+Sledování funkce jater
+Vzhledem k riziku jaterní toxicity (jaterní dysfunkce s cholestázou a cytolýzou) (viz bod 4.8) je nutné
+v průběhu podávání meropenemu sledovat jaterní funkce.
+
+Použití u pacientů s onemocněním jater: v průběhu léčby meropenemem u pacientů s již existující poruchou jater je nutné monitorovat jaterní funkce. Není nutné upravovat dávkování (viz bod 4.2).
+Sérokonverze přímého antiglobulinového testu (Coombsův test)
+V průběhu léčby meropenemem se může vyvinout pozitivní přímý nebo nepřímý Coombsův test.
+
+Souběžné podávání kyseliny valproové/natrium-valproátu/valpromidu
+Souběžné podávání meropenemu a kyseliny valproové/ natrium-valproátu /valpromidu se
+nedoporučuje (viz bod 4.5).
+
+Meronem obsahuje sodík
+Meronem 500 mg: Tento léčivý přípravek obsahuje 45 mg sodíku v 500mg lahvičce, což odpovídá 2,25 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Meronem 1,0 g: Tento léčivý přípravek obsahuje 90 mg sodíku v 1g lahvičce, což odpovídá 4,5 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Kromě studie s probenecidem nebyly provedeny žádné interakční studie. Probenecid kompetuje
+s meropenemem v procesu aktivní tubulární sekrece, a tak inhibuje renální exkreci meropenemu, prodlužuje eliminační poločas a zvyšuje plazmatické koncentrace meropenemu. Při současném podání probenecidu a meropenemu je nutná opatrnost.
+
+Potenciální vliv meropenemu na vazbu jiných léčiv na bílkoviny nebo metabolismus nebyl studován. Vazba na bílkoviny je ale tak nízká, že se neočekává interakce s jinými léčivy na podkladě tohoto mechanismu.
+
+Při současném podání s karbapenemy bylo hlášeno snížení sérových koncentrací kyseliny valproové mající za následek 60-100% snížení hladin kyseliny valproové v průběhu 2 dnů. Vzhledem k rychlému nástupu a rozsahu tohoto snížení se zdá být současné podávání kyseliny
+valproové/natrium-valproátu/valpromidu a karbapenemů obtížně zvládnutelné, a proto se nedoporučuje (viz bod 4.4).
+
+Perorální antikoagulancia
+Souběžné podávání antibiotik a warfarinu může zvyšovat jeho antikoagulační účinek. Existuje mnoho hlášení o zvýšení antikoagulačního účinku perorálně podávaných antikoagulancií, včetně warfarinu, u pacientů, kteří byli současně léčeni antibakteriálními léčivy. Riziko se může měnit podle typu infekce, věku a celkového stavu pacienta, takže je těžké odhadnout podíl antibiotika na zvýšení hodnoty INR (mezinárodní normalizovaný poměr). Doporučuje se časté sledování hodnoty INR
+v průběhu a krátce po současném podávání antibiotik a perorálních antikoagulancií.
+
+Pediatrická populace
+Interakční studie byly provedeny pouze u dospělých.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Neexistují, resp. existují pouze omezené údaje o použití meropenemu u těhotných žen. Studie na zvířatech nenaznačují žádný přímý nebo nepřímý škodlivý vliv s ohledem na reprodukční toxicitu (viz bod 5.3).
+
+Jako preventivní opatření je lépe se vyhnout podávání meropenemu v průběhu těhotenství.
+
+Kojení
+Bylo hlášeno, že malá množství meropenemu se vylučují do lidského mateřského mléka. Meropenem se nemá používat u kojících žen, pokud potenciální prospěch pro matku nepřeváží nad potenciálním rizikem pro kojené dítě.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit a obsluhovat stroje nebyly provedeny. Před řízením či obsluhováním strojů je však třeba mít na paměti, že u meropenemu byla hlášena bolest hlavy, parestézie a křeče.
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Z hodnocení u 4872 pacientů s celkem 5026 léčebnými kůrami meropenemem byly nejčastěji hlášenými nežádoucími účinky vztahujícími se k meropenemu průjem (2,3 %), rash (1,4 %), nauzea/zvracení (1,4 %) a zánět v místě aplikace přípravku (1,1 %). Nejčastěji hlášeným laboratorně zjištěným nežádoucím účinkem vztahujícím se k léčbě meropenemem byla trombocytóza (1,6 %) a zvýšení hladin jaterních enzymů (1,5-4,3 %).
+
+Tabulkový přehled rizika nežádoucích účinků
+V tabulce uvedené níže jsou nežádoucí účinky seřazeny podle orgánových tříd a frekvence: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000 až
+< 1/1000), velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit). V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+Tabulka 1
+Třída orgánových systémů  Frekvence          Příhoda
+Infekce a infestace       Méně časté          orální a vaginální kandidóza
+
+
+Poruchy krve a lymfatického systému
+Časté             trombocytémie
+
+Méně časté          agranulocytóza, hemolytická anémie, trombocytopenie, neutropenie, leukopenie, eozinofilie
+
+
+Poruchy imunitního systému
+
+Psychiatrické poruchy
+Méně časté
+
+Vzácné
+anafylaxe (viz body 4.3 a 4.4),
+angioedém
+
+delirium
+
+Poruchy nervového sytému   Časté             bolest hlavy
+Méně časté          parestézie
+Vzácné            křeče (viz bod 4.4)
+
+Gastrointestinální poruchy   Časté             průjem, bolest břicha, zvracení,
+nauzea
+Méně časté          kolitida související s použitím
+antibiotika (viz bod 4.4)
+
+Poruchy jater a žlučových
+cest
+Časté             zvýšené hladiny transamináz, alkalické fosfatázy a laktát dehydrogenázy v krvi
+Méně časté          zvýšená koncentrace bilirubinu v krvi
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+Poruchy ledvin a močových
+cest
+
+Celkové poruchy a reakce
+v místě aplikace
+Časté             vyrážka, svědění
+
+Méně časté          toxická epidermální nekrolýza, Stevens- Johnsonův syndrom, erythema multiforme (viz bod 4.4), kopřivka
+Není známo          lékové reakce doprovázené eozinofilií a systémovými příznaky, akutní generalizovaná exantematózní pustulóza (viz bod 4.4)
+Méně časté          zvýšená koncentrace kreatininu, zvýšená koncentrace močoviny v krvi
+Časté             zánět, bolest
+Méně časté          tromboflebitida
+                                 bolest v místě aplikace      
+
+Pediatrická populace
+Meronem je schválen pro použití u dětí od 3 měsíců. Neexistují důkazy o zvýšeném riziku jakéhokoliv nežádoucího účinku u dětí na základě omezených dostupných údajů. Všechna obdržená hlášení byla konzistentní s příhodami pozorovanými u dospělých.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv
+
+Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Relativní předávkování je možné u pacientů s poruchou funkce ledvin, pokud není dávka upravena tak, jak je popsáno v bodě 4.2. Omezené zkušenosti z poregistračního období ukazují, že pokud se objeví nežádoucí účinky po předávkování, odpovídají profilu nežádoucích účinků popsanému v bodě 4.8, jsou obvykle mírné a ustupují při přerušení léčby nebo snížení dávky. Je nutné uvažovat
+o symptomatické léčbě.
+U lidí s normální funkcí ledvin dochází k rychlé eliminaci. Meropenem a jeho metabolit lze odstranit hemodialýzou.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antibakteriální léčiva pro systémovou aplikaci, karbapenemy, ATC kód:
+J01DH02
+
+Mechanismus účinku
+
+Meropenem vykazuje svou baktericidní aktivitu inhibicí syntézy bakteriální stěny vazbou na proteiny vázající penicilin (PBP) snadno penetruje do Gram pozitivníchnegativních i Gram negativních bakteriípozitivních bakterií a inhibuje syntézu bakteriální stěny vazbou na proteiny vázající penicilin (PBP).
+
+Farmakokinetické/farmakodynamické (PK/PD) vztahy
+
+Podobně jako u jiných betalaktamových antibiotik bylo prokázáno, že čas, kdy je překročena MIC (T > MIC), nejlépe koreluje s účinností. V předklinických modelech prokázal meropenem aktivitu, pokud plazmatické koncentrace překročily MIC infekčního mikroorganismu po dobu asi 40 % dávkového intervalu. Tato cílová hodnota nebyla potvrzena v klinických podmínkách.
+Mechanismus rezistence
+
+Bakteriální rezistence na meropenem může vzniknout následkem: (1) snížené permeability vnější membrány Gram negativních bakterií (v důsledku snížené syntézy porinů); (2) snížené afinity
+k cílovým PBP; (3) zvýšené exprese komponent efluxních pump a (4) tvorby betalaktamáz, které
+mohou hydrolyzovat karbapenemy.
+
+V Evropské unii byla hlášena lokální ohniska infekcí v důsledku bakterií rezistentních na meropenem.
+
+Neexistuje zkřížená rezistence mezi meropenemem a chinolony, aminoglykosidy, makrolidy a tetracykliny, pokud jde o cílové mikroorganismy. Pokud však rezistence vznikla na podkladě neprostupnosti a/nebo efluxních pump, mohou bakterie vykazovat rezistenci k více než jedné třídě antibiotik.
+
+Hraniční hodnoty
+
+Klinické hraniční hodnoty pro testování MIC Evropského výboru pro testování antimikrobiální
+citlivosti (EUCAST) jsou uvedeny níže.
+
+Klinické hraniční hodnoty MIC pro meropenem podle EUCAST (2013-02-11, v 3.1) Organismus                            citlivé (S)
+(mg/l)
+
+rezistentní (R)
+(mg/l)
+Enterobacteriaceae                        ≤ 2         > 8
+Pseudomonas spp.                         ≤ 2         > 8
+Acetinobacter spp.                         ≤ 2         > 8
+Streptococcus skupiny A, B, C a G                Poznámka 6     Poznámka 6
+Streptococcus pneumoniae¹                    ≤ 2         > 2
+Skupina viridujících streptokoků²                 ≤ 2         > 2
+Enterococcus spp.                         --          --
+Staphylococcus spp.                         Poznámka 3     Poznámka 3 Haemophilus influenzae¹,² a Moraxella catarrhalis²        ≤ 2          > 2 Neisseria meningitidis²,⁴                      ≤ 0,25        > 0,25
+
+Gram-pozitivní anaerobní mikroorganismy kromě Clostridium difficile
+≤ 2         > 8
+
+Gram-negativní anaerobní mikroorganismy
+Listeria monocytogenes
+≤ 2
+≤ 0,25
+> 8
+> 0,25
+Hraniční hodnoty nezávislé na druhu⁵               ≤ 2         > 8
+¹ Hraniční hodnoty pro meropenem pro Streptococcus pneumoniae a Haemophilus influenzae u meningitidy jsou 0,25 mg/l (citlivé) a 1 mg/l (rezistentní).
+² Izoláty s hodnotou MIC nad hraniční hodnotou pro citlivé mikroorganismy jsou velmi vzácné nebo nejsou
+dosud hlášeny. Identifikace a testy mikrobiální citlivosti u takových izolátů musí být opakovány a pokud je výsledek potvrzen, izolát je odeslán do referenční laboratoře. Dokud není důkaz o klinické účinnosti pro potvrzené izoláty s hodnotou MIC nad hraniční hodnotou pro rezistenci, mají být hlášeny jako rezistentní.
+³ Citlivost stafylokoků na karbapenemy je odvozována od citlivosti k cefoxitinu.
+⁴ Hraniční hodnoty meropenemu se vztahují pouze k meningitidě.
+⁵ Hraniční hodnoty byly určeny z hodnot PK/PD a jsou nezávislé na distribuci MIC určitých druhů. Jsou určeny pouze pro druhy, kterým nebyla přiřazena druhově specifická hraniční hodnota. Druhově nespecifické hraniční hodnoty jsou odvozeny od následujících dávek: hraniční hodnoty podle EUCAST pro meropenem 1 g 3x denně jako nejnižší dávka podaná intravenózně po dobu déle než 30 minut. U závažných infekcí a při určování hraniční hodnoty I/R byla uvažována dávka 2 g 3x denně.
+⁶ Citlivost rodu Streptococcus skupin A, B, C a G je odvozena od citlivosti k penicilinu.
+-- = Nedoporučuje se provádět test citlivosti, neboť druh není vhodným cílem pro léčbu léčivým přípravkem. Izoláty mohou být hlášeny jako R bez předchozího testování.
+
+Prevalence získané rezistence u vybraných mikroorganismů se může lišit geograficky a v čase a je žádoucí získat místní informace, zvláště při léčbě závažných infekcí. Pokud je místní prevalence rezistence taková, že použití léčiva je, přinejmenším u některých typů infekcí, diskutabilní, je třeba si vyžádat expertní stanovisko.
+Následující seznam patogenů je odvozen z klinických zkušeností a léčebných doporučení. Všeobecně citlivé druhy
+Gram pozitivní aerobní mikroorganismy
+Enterococcus faecalis$
+Staphylococcus aureus (citlivé na methicilin) £
+rod Staphylococcus (citlivé na methicilin) včetně Staphylococcus epidermidis Streptococcus agalactiae (skupina B)
+Streptococcus milleri skupina (S. anginosus, S. constellatus a S. intermedius) Streptococcus pneumoniae
+Streptococcus pyogenes (skupina A)
+Gram negativní aerobní mikroorganismy
+Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Escherichia coli
+
+Haemophilus influenzae Klebsiella oxytoca Klebsiella pneumoniae Morganella morganii Neisseria meningitidis Proteus mirabilis Proteus vulgaris Serratia marcescens
+
+Gram pozitivní anaerobní mikroorganismy
+
+Clostridium perfringens Peptoniphilus asaccharolyticus
+rod Peptostreptococcus (včetně P. micros, P anaerobius, P. magnus)
+
+Gram negativní anaerobní mikroorganismy
+Bacteroides caccae Bacteroides fragilis skupina Prevotella bivia
+Prevotella disiens
+
+Druhy, u kterých může být problémem získaná rezistence Gram pozitivní aerobní mikroorganismy
+Enterococcus faecium$†
+
+Gram negativní aerobní mikroorganismy
+rod Acinetobacter† Burkholderia cepacia Pseudomonas aeruginosa
+
+Mikroorganismy s vnitřní rezistencí
+Gram negativní anaerobní mikroorganismy
+Stenotrophomonas maltophilia
+rod Legionella
+
+Jiné mikroorganismy Chlamydophila pneumoniae Chlamydophila psittaci Coxiella burnetii Mycoplasma pneumoniae
+
+$Druhy, které vykazují intermediární citlivost.
+£Všechny methicilin rezistentní stafylokoky jsou rezistentní na meropenem.
+†Rozsah rezistence ≥ 50 % v jedné nebo více zemích EU.
+
+
+Vozhřivka a melioidóza
+Použití meropenemu u lidí je založeno na údajích o citlivosti in vitro u Burkholderia mallei a Burkholderia pseudomalei a na omezených údajích u lidí. Ošetřující lékař má konzultovat národní a/nebo mezinárodní doporučení ohledně léčby vozhřivky a melioidózy.
+
+5.2  Farmakokinetické vlastnosti
+Průměrný plazmatický poločas u zdravých jedinců je přibližně 1 hodina, průměrný distribuční objem je přibližně 0,25 l/kg (11-27 l) a průměrná clearance je 287 ml/min při dávce 250 mg a klesá na
+205 ml/min při dávce 2 g. Po podání dávek 500, 1000 a 2000 mg jako infuze po dobu 30 minut jsou
+průměrné hodnoty Cmax asi 23, 49 a 115 μg/ml, odpovídající hodnoty AUC jsou 39,3; 62,3 a
+
+153 μg.h/ml. Při infuzi po dobu 5 minut jsou hodnoty Cmax 52 a 112 μg/ml po podání dávek 500 mg, resp. 1000 mg. Při podávání opakovaných dávek po 8 hodinách nedochází u jedinců s normální funkcí ledvin ke kumulaci meropenemu.
+Studie se 12 pacienty, kterým byl po chirurgickém zákroku podáván meropenem 1000 mg každých 8 hodin pro nitrobřišní infekce, ukázala, že hodnoty Cmax a poločasu jsou srovnatelné s hodnotami u normálních jedinců, distribuční objem se však zvětšil na 27 l.
+Distribuce
+Průměrná vazba meropenemu na plazmatické bílkoviny je asi 2 % a je nezávislá na koncentraci. Po rychlém podání (5 minut a méně) je farmakokinetika biexponenciální, ale mnohem méně vyznačená po 30minutovém podání. Meropenem dobře proniká do různých tělesných tekutin a tkání: plíce, bronchiální sekret, žluč, cerebrospinální tekutina, gynekologické tkáně, kůže, fascie, svaly a peritoneální exsudát.
+
+Biotransformace
+Meropenem je metabolizován hydrolýzou betalaktamového kruhu za vzniku mikrobiologicky neaktivních metabolitů. V podmínkách in vitro je meropenem méně citlivý k hydrolýze lidskými dehydropeptidázami-I (DHP-I) ve srovnání s imipenemem a není nutné současně přidávat inhhibitor DHP-I.
+Eliminace
+Meropenem je přednostně vylučován ledvinami v nezměněné formě, asi 70 % dávky (50-75 %) se vyloučí v nezměněné podobě v průběhu 12 hodin. Dalších 28 % se vyloučí ve formě mikrobiálně neaktivního metabolitu. Stolicí se vyloučí pouze asi 2 % dávky. Měřená renální clearance a vliv probenecidu ukazují, že meropenem je vylučován filtrací a tubulární sekrecí.
+
+Porucha funkce ledvin
+Porucha funkce ledvin vede ke zvýšení plazmatické AUC a prodloužení poločasu meropenemu.
+U pacientů se středně těžkou poruchou se AUC zvyšuje 2,4x (CrCl 33-74 ml/min), 5x u závažného poškození (CrCL 4-23 ml/min) a 10x u hemodialyzovaných pacientů (CrCL < 2 ml/min) ve srovnání se zdravými jedinci (CrCL > 80 ml/min). Hodnota AUC mikrobiálně neaktivního metabolitu
+s otevřeným kruhem byla významně zvýšena u pacientů s poruchou funkce ledvin. U pacientů se středně těžkou a těžkou poruchou funkce ledvin se doporučuje úprava dávky (viz bod 4.2).
+Meropenem je odstraňován hemodialýzou a hodnota clearance v průběhu hemodialýzy je asi 4x vyšší než u anurických pacientů.
+Porucha funkce jater
+Studie u pacientů s alkoholickou cirhózou neprokázala vliv onemocnění jater na farmakokinetiku meropenemu po opakovaném podání.
+
+Dospělí pacienti
+Farmakokinetické studie provedené u pacientů neprokázaly významné farmakokinetické rozdíly ve srovnání se zdravými jedinci s ekvivalentní funkcí ledvin. Populační model vytvořený na podkladě údajů od 79 pacientů s nitrobřišní infekcí nebo pneumonií prokázal závislost centrálního objemu na tělesné hmotnosti a clearance na clearance kreatininu a věku.
+
+Pediatrická populace
+Farmakokinetika u malých dětí a dětí s infekcí v dávkách 10, 20 a 40 mg/kg ukázala, že hodnoty Cmax se blíží hodnotám u dospělých po podání dávek 500, 1000 resp. 2000 mg. Srovnání prokázalo konzistentní farmakokinetiku mezi dávkami a poločasy obdobně jako u dospělých s výjimkou nejmenších dětí (< 6 měsíců, t1/2 1,6 h). Průměrné hodnoty clearance meropenemu byly 5,8 ml/min/kg (6-12 let), 6,2 ml/min/kg (2-5 let), 5,3 ml/min/kg (6-23 měsíců) a 4,3 ml/min/kg (2-5 měsíců). Asi
+60 % dávky se v průběhu 12 hodin vyloučí do moči jako meropenem a dalších 12 % jako metabolit. Koncentrace meropenemu v CSF u dětí s meningitidou jsou asi 20 % aktuální koncentrace v plazmě, i když existuje významná interindividuální variabilita.
+
+Farmakokinetika meropenemu u novorozenců, u kterých byla nutná protiinfekční léčba, vykazuje vyšší clearance u novorozenců s vyšším časovým nebo gestačním věkem a celkový průměrný poločas 2,9 hodiny. Simulace Monte-Carlo založená na populačním farmakokinetickém modelu ukázala, že při dávkování 20 mg/kg každých 8 hodin je dosaženo 60 % T > MIC pro P. aeriginosa u 95 % předčasně narozených novorozenců a u 91 % novorozenců narozených v termínu.
+Starší pacienti
+Farmakokinetické studie u zdravých starších lidí (65-80 let) ukázaly snížení plazmatické clearance, která korelovala se snížením clearance kreatininu závislé na věku a menším snížením extrarenální clearance. U starších pacientů není nutná úprava dávkování kromě případů středně závažné a závažné poruchy funkce ledvin (viz bod 4.2).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Studie na zvířatech prokázaly, že meropenem je ledvinami dobře tolerován. Histologický průkaz poškození ledvinných tubulů byl pozorován u myší a psů pouze v dávkách 2000 mg/kg a vyšších po jednorázovém podání a u opic při dávkování 500 mg/kg v 7denní studii.
+Meropenem je všeobecně dobře tolerován centrálním nervovým systémem. Účinky byly pozorovány ve studiích na akutní toxicitu u hlodavců v dávkách vyšších než 1000 mg/kg.
+Intravenózní LD50 meropenemu u hlodavců je vyšší než 2000 mg/kg.
+Ve studiích s opakovanými dávkami po dobu až 6 měsíců byly pozorovány pouze mírné účinky včetně snížení hodnot červených krvinek u psů.
+
+Nebyl zjištěn mutagenní potenciál v konvenční sadě testů ani reprodukční toxicita včetně teratogenního potenciálu ve studiích u potkanů v dávkách do 750 mg/kg a u opic v dávkách do 360 mg/kg.
+Nebyla zjištěna zvýšená citlivost na meropenem u mladých zvířat ve srovnání se dospělými zvířaty. Intravenózní léková forma byla ve studiích na zvířatech dobře tolerována.
+Jediný metabolit meropenemu měl ve studiích na zvířatech podobný profil toxicity.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Meronem 500 mg: bezvodý uhličitan sodný
+Meronem 1 g: bezvodý uhličitan sodný
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 6.6.
+6.3  Doba použitelnosti
+
+4 roky
+
+Po rekonstituci:
+
+Intravenózní bolusová injekce
+Roztok pro bolusovou injekci se připraví rekonstitucí léčivého přípravku ve vodě na injekci na konečnou koncentraci 50 mg/ml. Chemická a fyzikální stabilita připraveného roztoku pro bolusovou injekci je 3 hodiny při teplotě do 25 °C nebo 12 hodin v chladničce (2-8 °C).
+
+Z mikrobiologického hlediska, pokud není při otevření /rekonstituci/ředění přípravku vyloučeno riziko mikrobiální kontaminace, je třeba roztok použít ihned.
+Pokud není roztok použit ihned, jsou podmínky a čas uchovávání na zodpovědnosti uživatele.
+
+Intravenózní infuze
+Roztok pro intravenózní infuzi se připraví rekonstitucí léčivého přípravku v 0,9% infuzního roztoku
+chloridu sodného nebo 5% roztoku glukosy pro infuze na konečnou koncentraci 1 až 20 mg/ml.
+
+Chemická a fyzikální stabilita připraveného roztoku pro infuzi za použití 0,9% infuzního roztoku
+chloridu sodného je 3 hodiny při teplotě do 25 °C nebo 24 hodin v chladničce (2-8 °C).
+Z mikrobiologického hlediska, pokud způsob otevření/rekonstituce/ředění nevyloučí riziko mikrobiologické kontaminace, přípravek má být použit okamžitě. Pokud není přípravek použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele.
+
+Rekonstituovaný roztok přípravku Meronem za použití 5% roztoku glukosy se musí použít ihned. Rekonstituované roztoky nesmí zmrznout.
+6.4  Zvláštní opatření pro uchovávání Uchovávejte při teplotě do 30 °C. Rekonstituovaný roztok chraňte před mrazem.
+Podmínky uchovávání tohoto léčivého přípravku po rekonstituci viz bod 6.3.
+6.5  Druh obalu a obsah balení
+
+Meronem 500 mg:
+674 mg prášku v 20ml skleněné injekční lahvičce typu I s šedou halobutylovou pryžovou zátkou
+s hliníkovým uzávěrem.
+
+Meronem 1 g:
+1348 mg prášku v 30ml skleněné injekční lahvičce typu I s šedou halobutylovou pryžovou zátkou
+s hliníkovým uzávěrem.
+Léčivý přípravek je dodáván v balení po 1 nebo 10 injekčních lahvičkách. Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Injekční roztok
+Meropenem určený pro intravenózní injekci má být rekonstituován za použití sterilní vody na injekci.
+
+Infuzní roztok
+Meropenem určený pro intravenózní infuzi lze přímo rekonstituovat s 0,9% infuzním roztokem chloridu sodného nebo 5% infuzním roztokem glukosy.
+Lahvička je pouze pro jedno použití.
+
+Při přípravě roztoku a v průběhu podání je třeba dodržovat standardní aseptické techniky. Před použitím je třeba roztok protřepat.
+Všechen nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+PFIZER, spol. s r.o. Stroupežnického 3191/17 150 00 Praha 5
+Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+Meronem 500 mg: 15/770/95-A/C Meronem 1 g: 15/770/95-B/C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 11. 10. 1995
+Datum posledního prodloužení registrace: 9. 1. 2014
+
+10.  DATUM REVIZE TEXTU
+
+8. 8. 2019

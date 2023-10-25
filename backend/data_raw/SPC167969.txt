@@ -1,0 +1,306 @@
+sp.zn. sukls166092/2020
+
+
+Souhrn údajů o přípravku
+
+1. NÁZEV PŘÍPRAVKU
+
+Gallium (Ga67) Citrate Injection 37 MBq/ml
+Injekční roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+K datu a hodině kalibrace / 1 ml:
+Gallii(⁶⁷Ga) citras  37 MBq
+
+Kvalitativní složení je v souladu s Evropským lékopisem, článek 555. Radionuklid ⁶⁷Ga (atomové číslo 31, relativní atomová hmotnost 67) má poločas 3,3 dne (78,3 hodiny). Přeměňuje se elektronovým
+záchytem na stabilní zinek za emise záření gama s následující energií: 93 keV (38 %), 185 keV (21 %),
+300 keV (16,8 %). Jako přirozená příměs je přítomen izotop gallia(⁶⁶Ga) v klinicky nevýznamném množství.
+Pomocné látky se známým účinkem: sodík, benzylalkohol. Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý bezbarvý roztok.
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům. Nespecifické zobrazování tumorů a/nebo jejich lokalizace
+Spolu s ostatními zobrazovacími metodami je možné gallium využít při diagnóze a následném
+opakovaném sledování pacientů s maligními lymfomy (maligní lymfogranulom, nehodgkinské lymfomy).
+Vedle toho je možné určit odezvu na chemoterapii. Scintigrafie galliem má význam také při odhadu rozšíření bronchiálních novotvarů v mediastinu.
+S rozdílnou spolehlivostí se také používá pro zjišťování diseminace jiných zhoubných procesů.
+Lokalizace zánětlivých procesů
+Gallium se využívá při diagnóze specifických zánětlivých procesů, obzvláště plicních, jako jsou
+sarkoidózy a oportunní infekce způsobené Pneumocystis carinii. Vychytání gallia při sarkoidóze a intersticiální nemoci plic je ovlivněno aktivitou patologického procesu. Pro popis a lokalizaci
+mimoplicních zánětlivých procesů je možné gallium využít např. při tuberkulózní lymfadenopatii nebo při vyšetření u horečky neznámé etiologie. Vyšetření galliem poskytuje pouze nespecifické určení
+zánětlivých procesů v organismu, pro získání dalších potřebných informací je nutné provést jiné dodatečné zobrazovací metody nebo biopsii.
+1/7
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dospělí a starší pacienti:
+Doporučená aktivita se pohybuje v rozmezí 74 - 185 MBq.
+Pro opakované sledování pacientů s intersticiální plicní chorobou je dostačující aktivita
+37 MBq. V případě zobrazování tumorózních procesů metodou SPECT je možné aplikovat aktivitu až do
+260 MBq, což se využívá zejména u sledování pacientů s lymfomy mediastina.
+
+Dávkování u dětí:
+Jsou omezené zkušenosti s podáváním dětem. Kde nejsou k dispozici jiné metody bez ionizujícího záření, je použití gallia možné po úpravě dávkování dle tělesné hmotnosti: 1,85 MBq/kg.
+
+Způsob podání:
+Léčivý přípravek je určen k vícenásobnému použití. Aplikace se provádí pouze intravenózní injekcí.
+Návod k naředění přípravku před aplikací viz bod 12.
+Informace k přípravě pacienta před vyšetřením viz bod 4.4.
+
+Akvizice:
+Zobrazení tumorů je nejlépe provádět po 2 až 3 dnech, zobrazení po 24 a 92 hodinách je rovněž možné. Při vyšetřování infekčních ložisek může být přínosné i zobrazení např. po 4 hodinách.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 či na jakoukoliv složku roztoku ke značení přípravku.
+Tento přípravek obsahuje benzylalkohol v koncentraci 9 mg/ml. Tento přípravek nesmí být podáván nedonošeným dětem a novorozencům.
+
+4.4 Zvláštní upozornění a opatření pro použití
+Možné hypersenzitivní či anafylaktické reakce.
+V případě výskytu hypersenzitivní či anafylaktické reakce musí být aplikace radiofarmaka okamžitě
+přerušena a je-li to nutné, má být nasazena intravenózní léčba takové reakce. Pro zajištění odpovídající léčby musejí být k okamžité dispozici prostředky pro akutní zásah, např. tracheální kanyla či prostředky pro podporu dýchacích funkcí.
+
+Individuální zvážení poměru přínosu a rizika
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+
+Pediatrická populace
+Informace týkající se aplikace pediatrickým pacientům uvádí bod 4.2 a 5.1.
+Efektivní dávka vztažená na jednotku aplikované aktivity (MBq) je vyšší oproti dospělým (viz bod 11),
+proto je v tomto případě nutno zvlášť opatrně zvážit podání přípravku.
+
+Gallium je radionuklid s afinitou ke kostní tkáni. Proto je nutné velmi pečlivě zvažovat indikaci u dětí, kdy dochází ke zvýšené radiační zátěži epifýz kostí v růstu a hematopoetické tkáně (viz bod 11).
+
+Příprava pacienta
+
+2/7
+
+Pacient má být před zahájením vyšetření dobře hydratován. Po aplikaci přípravku má být dále vyzván
+k častému močení během následujících několika hodin, za účelem snížení radiační zátěže.
+
+Interpretace zobrazení provedených s galliem (⁶⁷Ga)
+Zvláštní pozornost je nutné věnovat hodnocení snímků plic provedených za 24 - 48 hodin, kde může
+nastat nespecifické vychytání gallia. Vychytání v tomto případě nemusí být způsobeno intersticiální plicní chorobou. Gallium v konjugované formě vylučované z jater do střeva žlučí může snižovat použitelnost metody při diagnostice lézí v intra-abdominální oblasti. Přínosné je v takovém případě podání laxativa
+předcházející aplikaci. U pacientů s inzulín-dependentním diabetem je vhodné provádět podání laxativ se zvláštní opatrností.
+
+Zvláštní upozornění
+Tento přípravek obsahuje benzylalkohol v koncentraci 9 mg/ml. Benzylakohol může způsobit toxické reakce a anafylaektické reakce u dětí do věku 3 let.
+Tento přípravek obsahuje méně než 1 mmol sodíku (23 mg) v dávce, tj. v podstatě je „bez sodíku“. Upozornění týkající se pracovního prostředí viz bod 6.6.
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Biodistribuce gallia může být ovlivněna řadou látek s farmakologickým účinkem, jako jsou cytotoxické látky, imunosupresiva (včetně steroidů), rentgenové kontrastní látky, fenothiaziny, tricyklická
+antidepresiva, metoklopramid, reserpin, methyldopa, perorální kontraceptiva a stilbestrol.
+Podávání některých cytotoxických látek může způsobit zvýšení vychytávání radiogallia ve skeletu a
+zároveň snížení vychytání v játrech, měkkých tkáních a tumorech.
+Nespecifické a nepatologické vychytání gallia v plících bylo popsáno u pacientů, kterým byly aplikovány rentgenové kontrastní látky pro provedení radiolymfangiografie.
+Znatelně zvýšené vychytání gallia v brzlíku může nastat u dětských pacientů po chemoterapii a radioterapii. Tento jev je nepatologický a je způsoben sekundární hyperplazií.
+Léčivé látky zvyšující hladinu prolaktinu v krvi mohou způsobit zvýšené vychytání gallia v prsních žlázách.
+Změny v kinetice gallia a ve vychytávání v tkáních mohou nastat po léčbě preparáty železa.
+
+Z výše uvedených příčin je tedy nutné mít vždy na paměti riziko falešně pozitivního výsledku vyšetření.
+4.6. Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Pokud je nezbytné aplikovat radioaktivní látku ženám ve fertilním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou pokud se neprokáže opak. Kde trvá nejistota ohledně možného těhotenství (vynechání menstruace, menstruace je velmi nepravidelná apod.), musí být zváženy alternativní metody bez ionizujícího záření (existují-li
+takové).
+
+Těhotenství
+Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se nezbytná vyšetření
+provádějí v případě, že předpokládaný přínos vyšetření převáží možná rizika pro matku a plod. Za rizikové pro vývoj plodu se považuje absorbovaná dávka již od 0,5 mGy. Vyšší dávky mohou být ve zvláštních případech
+odůvodněné v pozdějších stádiích těhotenství.
+Je nutné upozornit na skutečnost, že po aplikaci 185 MBq gallia je pro těhotnou pacientku s tělesnou hmotností 70
+kg absorbovaná dávka pro dělohu asi 19 mGy.
+
+Kojení
+
+3/7
+
+Před aplikací kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení
+ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Je-li aplikace nezbytná, je potřeba kojení ukončit.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+
+Gallium (Ga67) nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8 Nežádoucí účinky
+
+Frekvence výskytu jsou klasifikovány jako velmi časté (>1/10), časté (>1/100, <1/10), méně časté
+(>1/1000, <1/100), vzácné (>1/10 000, <1/1 000), velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit)
+
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných poškození. Pro vyšetřovací metody nukleární medicíny je frekvence těchto
+nežádoucích účinků nízká vzhledem k nízké radiační zátěži pacientů.
+
+Pro většinu vyšetření metodami nukleární medicíny je efektivní dávkový ekvivalent nižší než 20 mSv.
+Nicméně v daných klinických souvislostech mohou být i vyšší dávky odůvodněné.
+
+Byly popsány anafylaktoidní projevy po intravenózní aplikaci gallia s odhadovanou incidencí
+1 - 5 případů na 100 000 aplikací, lehkým průběhem a symptomy zahrnujícími pocity horka a návaly horkosti, zarudnutí kůže, svědění a/nebo kopřivku.
+
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+V případě předávkování nežádoucím množstvím aktivity je možné radiační zátěž kritických orgánů snížit intravenózním podáním vhodných chelatačních činidel (jako pro jiné těžké kovy). Je-li nutné zvýšit
+vylučování radioizotopu z těla, je doporučen zvýšený příjem tekutin a intenzívní podávání laxativ.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Detekce zánětu a infekce, jiná diagnostická radiofarmaka.
+ATC: V09HX01
+Mechanismus účinku
+4/7
+
+Předpokládá se, že mechanismus vychytání gallia v tumorózní tkáni nebo v zánětlivých ložiscích spočívá v podobných vlastnostech gallia a železa. In vivo byla potvrzena inkorporace gallia do transferinu, feritinu a laktoferinu a in vitro do laktoferinu.
+
+Farmakodynamické účinky
+V množstvích gallia, aplikovaných pro účely zobrazení metodami nukleární medicíny (< 10⁻⁷ mg/kg), se
+nepředpokládá žádný klinicky významný farmakodynamický účinek.
+Je známo, že vysoké množství gallia se váže na tkáně a účinky zinku, jako produktu rozpadu gallia, jsou popisovány jako toxické pro člověka.
+
+5.2. Farmakokinetické vlastnosti
+
+Akumulace v orgánech
+Hlavním místem retence gallia je skelet (25 % aplikované aktivity). Další orgány s viditelnou akumulací aktivity jsou játra, slezina, ledviny, slzné a slinné žlázy, nosohltan a prsní žlázy (obzvláště při kojení).
+
+Eliminace
+Ledvinami je během prvních 24 hodin vyloučeno 15 - 25 % aplikované aktivity. Zbytek aktivity se
+vylučuje pomalu zažívacím traktem s poločasem 25 dní. 7 dní po aplikaci se v organismu nachází asi 65
+% aplikované dávky.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+
+Toxicita po jednorázové aplikaci gallia (⁶⁷Ga) je druhově závislá, toxicita pro psy je významně vyšší než pro potkany. Celkové dávky 6,5 - 20 mg/kg aplikované několik týdnů mohou být letální. Uvedené dávky jsou asi 1000x vyšší než nejvyšší možná diagnostická dávka pro člověka (< 1 μg/70 kg).
+Nejsou k dispozici žádné údaje o mutagenním nebo karcinogenním účinku gallia. Jsou známy teratogenní účinky gallia ve vysokých dávkách, nicméně nejsou k dispozici potřebné údaje pro odhad možného rizika.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Dihydrát natrium-citrátu, benzylalkohol, chlorid sodný, hydroxid sodný (k úpravě pH), kyselina chlorovodíková (k úpravě pH), voda na injekci.
+
+6.2. Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky
+
+6.3. Doba použitelnosti
+
+Doba použitelnosti přípravku Gallium (⁶⁷Ga) Citrate Injection je 16 dní od data výroby. Datum exspirace je uvedeno na štítku kontejneru a na každé lahvičce.
+Po otevření lahvičky je doba použitelnosti přípravku 8 hodin.
+
+6.4. Zvláštní opatření pro uchovávání
+Uchovávejte přípravek při teplotě do 25 °C.
+
+5/7
+
+Po prvním použití uchovávejte přípravek při teplotě do 30 °C.
+V případě vícedávkového použití musí být každá dávka odebrána za aseptických podmínek v rámci jednoho pracovního dne.
+
+Uchovávání radiofarmak musí být v souladu s příslušnými předpisy pro skladování radioaktivních látek.
+
+6.5. Druh obalu a obsah balení
+
+Injekční lahvička 10 ml (třídy 1 Ph.Eur.) uzavřená bromobutylovou zátkou potaženou fluoropolymerem a
+hliníkovou objímkou.
+Přípravek Gallium (⁶⁷Ga) Citrate Injection je dodáván v následujících aktivitách k datu a hodině
+kalibrace:
+82 MBq ve 2,2 ml
+123 MBq ve 3,3 ml
+205 MBq v 5,5 ml
+Na trhu nemusí být všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Všeobecná upozornění
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na
+pracovištích k tomu určených. Při skladování, přípravě a aplikaci radiofarmak a likvidaci odpadu je nutno dbát jak zásad ochrany zdraví před ionizujícím zářením vyplývajících z příslušných předpisů a vyhlášek, tak pokynů místních orgánů hygienické služby.
+
+Příprava radiofarmak musí být v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP. Je nutné dodržovat zásady aseptické práce a správné výrobní praxe pro radiofarmaka.
+
+Informace k rekonstituci a přípravě radiofarmaka viz bod 12.
+
+V případě jakéhokoli poškození lahvičky není možné přípravek použít!
+
+Postup při aplikaci radiofarmaka musí zabezpečit zamezení kontaminace radiofarmakem a nadbytečné ozáření personálu. Nutné je používat vhodné ochranné prostředky a stínění.
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné předpisy pro ochranu zdraví před ionizujícím zářením.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+
+
+8. REGISTRAČNÍ ČÍSLO
+
+
+88/210/93-C
+
+6/7
+
+9. DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 10.3.1993
+Datum posledního prodloužení registrace: 6.1.2016
+
+
+10. DATUM REVIZE TEXTU
+27. 10. 2020
+
+11. DOZIMETRIE
+Po aplikaci 185 MBq je efektivní dávkový ekvivalent pro 70 kg pacienta asi 22 mSv. Absorbovaná dávka pro povrch kostí se pohybuje v hodnotách okolo 109 mGy. Při desetinásobném snížení aktivity je
+absorbovaná dávka pro jednoroční dítě totožná.
+
+Příspěvek ⁶⁶Ga jako nečistoty k efektivnímu dávkovému ekvivalentu je menší než 0,5 %
+v čase dodání přípravku na pracoviště a rychle klesá vzhledem k poločasu 9 hodin. Izotop gallia(⁶⁶Ga) emituje záření gama a záření pozitronové.
+
+V následující tabulce jsou uvedeny dozimetrické údaje podle ICRP 53. Vedle sedmi běžně uváděných orgánů je navíc uvedeno 5 dalších s nejvyšší radiační zátěží (označeno hvězdičkou).
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+
+orgán            dospělý   15 let    10 let    5 let     1 rok
+
+Povrch kostí        0,59     0,87    1,4     2,4     5,6
+Prsní žlázy         0,06     0,06    0,09     0,15    0,29
+Plíce            0,06     0,08     0,12     0,19    0,36
+Vaječníky         0,08     0,1     0,16     0,24    0,44
+Varlata           0,05     0,07     0,11     0,17    0,33
+Červená kostní dřeň    0,19    0,25    0,4     0,74    1,5
+Štítná žláza         0,06     0,08    0,13     0,2     0,37
+* Nadledviny        0,14     0,18    0,26     0,36    0,57
+* Slezina          0,15     0,2     0,31     0,48    0,87
+Tlusté střevo
+* horní část         0,12     0,15    0,25     0,41    0,75
+* dolní část         0,2     0,27     0,45     0,72    1,4
+* Játra           0,12     0,16     0,23     0,33    0,61
+
+Efektivní dávkový    0,12    0,16    0,25    0,4     0,79 ekvivalent (mSv/MBq)
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+Odběr roztoku pro aplikaci musí být vždy proveden za aseptických podmínek. Před otevřením lahvičky je nutno vydezinfikovat uzávěr (zátku) a roztok je vždy nutno odebrat přes zátku jednorázovou injekční
+stříkačkou s adekvátním ochranným stíněním a s jednorázovou sterilní jehlou nebo pomocí automatického aplikačního systému.
+
+V případě jakéhokoli poškození lahvičky není možné přípravek použít!
+
+
+7/7

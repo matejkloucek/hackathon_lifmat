@@ -1,0 +1,592 @@
+Sp. zn. sukls201125/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Palonosetron Fresenius Kabi 250 mikrogramů injekční roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml roztoku obsahuje palonosetronum 50 mikrogramů (jako palonosetroni hydrochloridum). Jedna injekční lahvička s 5 ml roztoku obsahuje palonosetronum 250 mikrogramů (jako palonosetroni hydrochloridum).
+Pomocná látka se známým účinkem
+Tento přípravek obsahuje 0,2 mmol sodíku v jedné injekční lahvičce. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý, bezbarvý roztok bez viditelných částic.
+
+pH      4,7–5,3
+Osmolalita  270–330 mosmol/kg
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Palonosetron Fresenius Kabi je indikován u dospělých k:
+−  prevenci akutní nauzey a zvracení při vysoce emetogenní chemoterapii nádorů,
+−  prevenci nauzey a zvracení při středně emetogenní chemoterapii nádorů.
+Palonosetron Fresenius Kabi je indikován u pediatrické populace od 1 měsíce a starších k:
+−  prevenci akutní nauzey a zvracení při vysoce emetogenní chemoterapii nádorů a prevenci nauzey a zvracení při středně emetogenní chemoterapii nádorů.
+4.2  Dávkování a způsob podání
+Palonosetron Fresenius Kabi se má používat pouze před podáním chemoterapie. Tento léčivý přípravek musí být podán zdravotnickým pracovníkem pod příslušným lékařským dohledem.
+
+Dávkování
+Dospělí
+250 mikrogramů palonosetronu se podává v jednom intravenózním bolusu přibližně 30 minut před zahájením chemoterapie. Palonosetron Fresenius Kabi se musí podávat injekcí po dobu 30 sekund.
+
+
+1/12
+
+Účinnost přípravku Palonosetron Fresenius Kabi v prevenci nauzey a zvracení vyvolaného vysoce emetogenní chemoterapií lze zvýšit přidáním kortikosteroidu podávaného před chemoterapií.
+
+Starší pacienti
+U starších pacientů není nutné dávku nijak upravovat.
+
+Pediatrická populace
+
+Děti a dospívající (od 1 měsíce do 17 let):
+20 mikrogramů/kg (maximální celková dávka nemá překročit 1 500 mikrogramů) palonosetronu se podává jako jednorázová intravenózní infuze po dobu 15 minut přibližně 30 minut před zahájením chemoterapie.
+
+Bezpečnost a účinnost přípravku Palonosetron Fresenius Kabi u dětí mladších než 1 měsíc nebyla stanovena. Nejsou dostupné žádné údaje. O použití přípravku Palonosetron Fresenius Kabi k prevenci nauzey a zvracení u dětí mladších než 2 roky existují pouze omezené údaje.
+Porucha funkce jater
+U pacientů s poruchou funkce jater není nutné dávku nijak upravovat.
+
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin není nutné dávku nijak upravovat.
+Pro pacienty s onemocněním ledvin v konečném stádiu, kteří podstupují hemodialýzu, nejsou k dispozici žádné údaje.
+
+Způsob podání
+Intravenózní podání.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Protože palonosetron může zvýšit dobu průchodu tlustým střevem, je třeba pacienty se zácpou v anamnéze či příznaky subakutní střevní obstrukce po podání léčiva sledovat. V souvislosti s dávkou 750 mikrogramů palonosetronu byly hlášeny dva případy zácpy s nahromaděním stolice, které vyžadovaly hospitalizaci.
+V žádné testované hladině dávky neindukoval palonosetron klinicky relevantní prodloužení intervalu QTc. Ke zjištění definitivních údajů prokazujících vliv palonosetronu na QT/QTc byla provedena důkladná QT/QTc specifická studie na zdravých dobrovolnících (viz bod 5.1).
+
+Nicméně, stejně jako u ostatních antagonistů 5-HT3, se musí při podávání palonosetronu u pacientů, u nichž došlo k prodloužení intervalu QT či je u nich takový vývoj pravděpodobný, postupovat opatrně. Tyto podmínky zahrnují pacienty, kteří mají v osobní či rodinné anamnéze prodloužení intervalu QT, abnormální hladiny elektrolytů, městnavé srdeční selhání, bradyarytmie, poruchy srdeční vodivosti, a pacienty užívající antiarytmika nebo jiné léčivé přípravky, které vedou k prodloužení intervalu QT nebo abnormálním hladinám elektrolytů. Před podáním antagonistů 5-HT3 je nutné napravit hypokalémii a hypomagnezémii.
+Při použití antagonistů 5-HT3 buď samostatně nebo v kombinaci s dalšími serotonergními léčivými přípravky (včetně selektivních inhibitorů zpětného vychytávání serotoninu (SSRI) a inhibitorů zpětného vychytávání serotoninu a noradrenalinu (SNRI)) byly hlášeny případy serotoninového syndromu. Doporučuje se odpovídající sledování pacientů s ohledem na výskyt příznaků podobných příznakům serotoninového syndromu.
+
+2/12
+
+Palonosetron Fresenius Kabi se nemá používat k prevenci či léčbě nauzey a zvracení ve dnech následujících po chemoterapii, pokud to není ve spojitosti s podáním jiné chemoterapie.
+
+Tento léčivý přípravek obsahuje 4,55 mg sodíku v jedné injekční lahvičce, což odpovídá 0,23 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Palonosetron je metabolizován převážně CYP2D6 s malým přispěním izoenzymů CYP3A4 a CYP1A2. Na základě studií in vitro bylo zjištěno, že palonosetron v klinicky významných koncentracích neinhibuje ani neindukuje izoenzym cytochromu P450.
+
+Chemoterapeutika
+V předklinických studiích palonosetron neinhiboval protinádorovou aktivitu pěti testovaných
+chemoterapeutik (cisplatina, cyklofosfamid, cytarabin, doxorubicin a mitomycin C).
+
+Metoklopramid
+V klinické studii se neobjevila žádná významná farmakokinetická interakce mezi jednotlivou intravenózní dávkou palonosetronu a ustálenou koncentrací perorálně podávaného metoklopramidu, který je inhibitorem CYP2D6.
+
+Induktory a inhibitory CYP2D6
+V populační farmakokinetické analýze se ukázalo, že souběžné podávání s induktory CYP2D6 (dexamethason a rifampicin) a inhibitory (včetně amiodaronu, celecoxibu, chlorpromazinu, cimetidinu, doxorubicinu, fluoxetinu, haloperidolu, paroxetinu, chinidinu, ranitidinu, ritonaviru, sertralinu nebo terbinafinu) nemělo žádný významný vliv na clearance palonosetronu.
+Kortikosteroidy
+Palonosetron byl bezpečně podáván s kortikosteroidy.
+Serotonergní léčivé přípravky (např. SSRI, SNRI)
+Po souběžném podávání antagonistů 5-HT3 a dalších serotonergních léčivých přípravků (včetně SSRI a SNRI) byly hlášeny případy serotoninového syndromu.
+
+Další léčivé přípravky
+Palonosetron byl bezpečně podáván s analgetiky, antiemetiky/přípravky proti nevolnosti, spasmolytiky
+a anticholinergiky.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Nejsou k dispozici klinické údaje o podávání palonosetronu během těhotenství. Studie na zvířatech nenaznačují přímé nebo nepřímé škodlivé účinky na těhotenství, vývoj embrya nebo plodu, porod nebo vývoj po narození. O placentárním přenosu jsou k dispozici pouze omezené údaje ze studií na zvířatech (viz bod 5.3).
+Neexistují žádné údaje o vlivu palonosetronu na těhotenství u člověka. Proto těhotné ženy nesmí palonosetron používat, pokud to lékař nebude považovat za nevyhnutelné.
+Kojení
+Protože neexistují žádné údaje o vylučování palonosetronu do mateřského mléka, kojení je třeba během léčby přerušit.
+Fertilita
+
+3/12
+
+Nejsou k dispozici údaje o vlivu palonosetronu na fertilitu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit a obsluhovat stroje nebyly provedeny.
+Protože palonosetron může vyvolat závratě, spavost či únavu, pacienti musí během řízení nebo obsluhy strojů postupovat opatrně.
+
+4.8  Nežádoucí účinky
+V klinických studiích u dospělých s dávkou 250 mikrogramů (celkem 633 pacientů) byly nejčastěji pozorované nežádoucí účinky, které bylo přinejmenším možné spojovat s palonosetronem, bolest hlavy (9 %) a zácpa (5 %).
+
+V klinických studiích byly pozorovány následující nežádoucí účinky (NÚ), které možná či pravděpodobně souvisí s palonosetronem. Byly hodnoceny jako časté (≥1/100 až <1/10) nebo méně časté (≥1/1 000 až <1/100). Velmi vzácné (<1/10 000) nežádoucí účinky byly hlášeny postmarketingově. V každé skupině frekvence výskytu jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+
+Třída   orgánových systémů
+Poruchy  imunitního systému
+
+
+Poruchy metabolismu a
+výživy
+
+
+
+
+Psychiatrické poruchy Poruchy   nervového systému
+
+
+Poruchy oka
+
+Poruchy ucha a labyrintu
+Srdeční poruchy
+
+
+
+
+
+
+
+Cévní poruchy
+
+
+Respirační,  hrudní  a mediastinální poruchy Gastrointestinální poruchy
+Časté NÚ (≥1/100 až
+<1/10)
+
+
+
+
+
+
+
+
+
+
+
+Bolest hlavy
+závratě
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zácpa Průjem
+Méně časté NÚ
+(≥1/1 000 až <1/100)
+
+
+
+
+Hyperkalémie, metabolické  poruchy, hypokalcémie, hypokalémie, anorexie, hyperglykémie, snížená chuť k jídlu
+Úzkost, euforická nálada Somnolence, nespavost, parestézie,   nadměrná ospalost,    periferní senzorická neuropatie Podráždění     očí, amblyopie
+Kinetóza, hučení v uších Tachykardie, bradykardie, extrasystoly, myokardiální ischémie, sinusová  tachykardie, sinusová    arytmie, supraventrikulární extrasystoly
+Hypotenze, hypertenze, diskolorace žil, rozšíření žil
+Škytavka
+
+Dyspepsie,  bolest  v
+krajině břišní, bolest v
+Velmi vzácné NÚ°
+(<1/10 000)
+Hypersenzitivita,
+anafylaxe, anafylaktické
+/ anafylaktoidní reakce a šok
+
+4/12
+
+
+
+Poruchy   jater   a
+žlučových cest
+Poruchy   kůže   a podkožní tkáně
+Poruchy  svalové  a kosterní  soustavy  a pojivové tkáně
+Poruchy  ledvin  a
+močových cest
+Celkové  poruchy  a reakce v místě aplikace
+
+
+Vyšetření
+
+
+
+° Z postmarketingové praxe
+nadbřišku,  sucho  v ústech, plynatost Hyperbilirubinémie
+Alergická  dermatitida, svědivá vyrážka Artralgie
+
+
+Retence     moči, glykosurie
+Astenie, pyrexie, únava, pocit      horkosti, onemocnění  podobné chřipce
+Zvýšené    hodnoty transamináz, prodloužený interval QT na elektrokardiogramu
+
+
+
+
+
+
+
+
+
+
+
+Reakce v místě vpichu*
+* Zahrnuje následující: pálení, otok, nepohodlí a bolest
+
+Pediatrická populace
+V pediatrických klinických studiích prevence nauzey a zvracení navozených středně nebo vysoce emetogenní chemoterapií, dostávalo 402 pacientů jednotlivou dávku palonosetronu (3, 10, nebo 20 μg/kg). Následující časté nebo méně časté nežádoucí účinky byly hlášeny po podání palonosetronu, žádný nebyl hlášený s frekvencí >1 %.
+
+
+Třída orgánových systémů Poruchy nervového systému Srdeční poruchy
+
+Respirační, hrudní a mediastinální
+poruchy
+Poruchy kůže a podkožní tkáně
+
+Celkové poruchy a reakce v místě
+aplikace
+Časté NÚ (≥1/100 až <1/10)
+Bolest hlavy
+Méně časté NÚ (≥1/1000 až <1/100)
+Závratě, dyskineze
+Prodloužený   interval   QT   na elektrokardiogramu, poruchy vedení, sinusová tachykardie
+Kašel, dušnost, epistaxe
+
+Alergická dermatitida, svědění, kožní poruchy, kopřivka
+Pyrexie, bolest v místě vpichu, reakce v místě vpichu, bolest
+
+Nežádoucí účinky byly hodnoceny u pediatrických pacientů užívajících palonosetron po dobu až 4 cyklů
+chemoterapie.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+5/12
+
+4.9  Předávkování
+
+Nebyl hlášen žádný případ předávkování.
+V klinických studiích u dospělých byly použity dávky až 6 mg. Skupina s nejvyšší podávanou dávkou vykazovala podobný výskyt nežádoucích účinků ve srovnání se skupinami s jinými podávanými dávkami a nebyla pozorována závislost účinku na dávce. Nepravděpodobný případ předávkování přípravkem Palonosetron Fresenius Kabi je třeba řešit podpůrnou péčí. Studie s dialýzou nebyly prováděny, avšak díky velkému distribučnímu objemu je nepravděpodobné, že by dialýza byla efektivní léčbou při předávkování přípravkem Palonosetron Fresenius Kabi.
+Pediatrická populace
+Nebyl hlášen žádný případ předávkování v pediatrických klinických studiích.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Antiemetika a přípravky proti nevolnosti, antagonisté serotoninu(5HT3). ATC kód: A04AA05.
+Palonosetron je selektivní vysokoafinitní antagonista 5HT3 receptoru.
+Ve dvou randomizovaných, dvojitě zaslepených studiích celkem s 1 132 pacienty užívajícími středně emetogenní chemoterapii, která zahrnovala cisplatinu ≤50 mg/m², karboplatinu, cyklofosfamid ≤1500 mg/m² a doxorubicin >25 mg/m², byl porovnáván palonosetron v dávkách 250 mikrogramů a 750 mikrogramů podávaných intravenózně 1. den s ondansetronem v dávce 32 mg (poločas 4 hodiny) nebo dolasetronem v dávce 100 mg (poločas 7,3 hodin), bez dexametazonu.
+V randomizované, dvojitě zaslepené studii celkem s 667 pacienty užívajícími vysoce emetogenní chemoterapii, která zahrnovala cisplatinu ≥60 mg/m², cyklofosfamid >1 500 mg/m² a dakarbazin, byl porovnáván palonosetron v dávkách 250 mikrogramů a 750 mikrogramů podávaných intravenózně 1. den s ondansetronem v dávce 32 mg. Před chemoterapií byl 67 % pacientů podáván profylakticky dexametazon.
+
+Hlavní studie nebyly navrženy tak, aby hodnotily účinnost palonosetronu při zpožděném nástupu nauzey a zvracení. Antiemetické působení bylo pozorováno během 0–24 hodin, 24–120 hodin a 0–120 hodin. Výsledky studií se střední emetogenní chemoterapií a studie s vysoce emetogenní chemoterapií jsou shrnuty v následujících tabulkách.
+Palonosetron nevykazoval non-inferioritu vůči srovnávaným léčivům v akutní fázi zvracení jak u středně, tak u vysoce emetogenního souboru.
+
+Přestože se neprokázala v kontrolovaných klinických studiích komparativní účinnost palonosetronu ve vícenásobných cyklech, 875 pacientů zařazených ve třech klinických hodnoceních fáze 3 pokračovalo v otevřené studii bezpečnosti a bylo léčeno palonosetronem v dávce 750 mikrogramů až 9 dalších cyklů chemoterapie. Celková bezpečnost byla během všech cyklů zachována.
+
+Tabulka 1: Procentuální podíl pacientůᵃ citlivých na léčbu podle léčebné skupiny a fáze ve studii se středně emetogenní chemoterapií oproti ondansetronu.
+
+Palonosetron 250 mikrogramů (n=189)
+%
+Ondansentron 32 miligramů (n=185)
+%
+Delta
+
+
+%
+Úplná odpověď (žádná emeze a žádná záchranná medikace)      97,5 % CIᵇ
+0–24 hodin     81,0          68,6             12,4      [1,8 %, 22,8 %]
+
+
+6/12
+
+24–120 hodin    74,1          55,1             19,0      [7,5 %, 30,3 %]
+0–120 hodin     69,3          50,3             19,0      [7,4 %, 30,7 %]
+Úplná kontrola (úplná odpověď a nejvýše slabá nauzea)        hodnota pᶜ
+0–24 hodin     76,2          65,4             10,8      neuvedeno
+24–120 hodin    66,7          50,3             16,4     0,001
+0–120 hodin     63,0          44,9             18,1      0,001
+Bez nauzey (Likertova stupnice)                     hodnota pᶜ
+0–24 hodin     60,3          56,8             3,5      neuvedeno
+24–120 hodin    51,9          39,5             12,4     neuvedeno
+0–120 hodin     45,0          36,2             8,8      neuvedeno
+ᵃ Kohorta pacientů randomizovaných podle původního léčebného záměru
+ᵇ Studie byla navržena tak, aby ukazovala non-inferioritu. Dolní hranice větší než -15 % prokazuje non- inferioritu mezi palonosetronem a srovnávaným léčivem.
+ᶜ Test Chí-kvadrát. Hladina významnosti α = 0,05.
+
+Tabulka 2: Procentuální podíl pacientůᵃ odpovídajících na léčbu podle léčebné skupiny a fáze ve studii se středně emetogenní chemoterapií oproti dolasetronu.
+
+Palonosetron 250 mikrogramů (n=185)
+%
+Dolasetron 100 miligramů (n=191)
+%
+Delta
+
+
+%
+Úplná odpověď (žádná emeze a žádná záchranná medikace)            97,5 % CIᵇ
+0–24 hodin     63,0          52,9         10,1         [-1,7 %, 21,9 %]
+24–120 hodin    54,0          38,7         15,3         [3,4 %, 27,1 %]
+0–120 hodin     46,0          34,0         12,0         [0,3 %, 23,7 %]
+Úplná kontrola (úplná odpověď a nejvýše slabá nauzea)             hodnota pᶜ
+0–24 hodin     57,1          47,6         9,5          neuvedeno
+24–120 hodin    48,1          36,1         12,0         0,018
+0–120 hodin     41,8          30,9         10,9         0,027
+Bez nauzey (Likertova stupnice)                           hodnota pᶜ
+0–24 hodin     48,7          41,4         7,3          neuvedeno
+24–120 hodin    41,8          26,2         15,6         0,001
+0–120 hodin     33,9          22,5         11,4         0,014
+ᵃ Kohorta pacientů randomizovaných podle původního léčebného záměru
+ᵇ Studie byla navržena tak, aby ukazovala non-inferioritu. Dolní hranice větší než -15 % prokazuje non- inferioritu mezi palonosetronem a srovnávaným léčivem.
+ᶜ Test Chí-kvadrát. Hladina významnosti α = 0,05.
+Tabulka 3: Procentuální podíl pacientůᵃ odpovídajících na léčbu podle léčebné skupiny a fáze ve studii s vysoce emetogenní chemoterapií oproti ondansetronu.
+
+Palonosetron 250 mikrogramů (n=223)
+%
+Ondansetron 32 miligramů (n=221)
+%
+Delta
+
+
+%
+Úplná odpověď (žádná emeze a žádná záchranná medikace)           97,5 % Clᵇ
+0–24 hodin      59,2         57,0             2,2      [-8,8 %, 13,1 %]
+24–120 hodin    45,3         38,9             6,4      [-4,6 %, 17,3 %]
+0–120 hodin     40,8         33,0             7,8      [-2,9 %, 18,5 %]
+Úplná kontrola (úplná odpověď a nejvýše slabá nauzea)             hodnota pᶜ
+0–24 hodin      56,5         51,6             4,9      neuvedeno
+24–120 hodin    40,8         35,3             5,5      neuvedeno
+
+7/12
+
+0–120 hodin     37,7         29,0             8,7      neuvedeno
+Bez nauzey (Likertova stupnice)                           hodnota pᶜ
+0–24 hodin      53,8         49,3             4,5      neuvedeno
+24–120 hodin    35,4         32,1             3,3      neuvedeno
+0–120 hodin     33,6         32,1             1,5      neuvedeno
+ᵃ Kohorta pacientů randomizovaných podle původního léčebného záměru
+ᵇ Studie byla navržena tak, aby ukazovala non-inferioritu. Dolní hranice větší než -15 % prokazuje non- inferioritu mezi palonosetronem a srovnávaným léčivem.
+ᶜ Test Chí-kvadrát. Hladina významnosti α = 0,05.
+
+Vliv palonosetronu na krevní tlak, tep a parametry EKG včetně QTc byl v CINV klinických studiích srovnatelný s ondansetronem a dolasetronem. V neklinických studiích vykazoval palonosetron schopnost blokovat iontové kanály účastnící se de- a re-polarizace komory, a prodlužovat trvání akčního potenciálu.
+Vliv palonosetronu na QTc interval byl hodnocen u dospělých mužů a žen ve dvojitě zaslepené randomizované paralelní studii kontrolované placebem a pozitivní kontrolou (moxifloxacin). Cílem bylo zhodnotit vliv i.v. podaného palonosetronu na EKG v jednotlivě podaných dávkách 0,25, 0,75 nebo 2,25 mg u 221 zdravých subjektů. Studie prokázala, že dávky do 2,25 mg nemají žádný vliv na dobu trvání intervalu QT/QTc ani na další intervaly EKG. Nebyly prokázány žádné klinicky významné změny tepu, atrioventrikulární (AV) vodivosti ani srdeční repolarizace.
+Pediatrická populace
+Prevence chemoterapií navozené nauzey a zvracení (CINV):
+Bezpečnost a účinnost intravenózního palonosetronu při jednotlivých dávkách 3 μg/kg a 10 μg/kg byla zkoumána v první klinické studii u 72 pacientů v následujících věkových skupinách, >28 dnů až 23 měsíců (12 pacientů), 2 až 11 let (31 pacientů) a 12 až 17 let (29 pacientů), podstupujících vysoce nebo středně emetogenní chemoterapii. U žádné ze zmíněných hladin dávek nebyla vznesena bezpečnostní znepokojení. Primární proměnnou účinnosti byl podíl pacientů s úplnou odpovědí (definovanou jako žádná emetická epizoda, bez použití záchranné medikace) během prvních 24 hodin po začátku podávání chemoterapie. Účinnost po podání palonosetronu v dávce 10 μg/kg ve srovnání s palonosetronem v dávce 3 μg/kg byla 54,1 %, respektive 37,1 %.
+Účinnost palonosetronu v prevenci chemoterapií navozené nauzey a zvracení u pediatrických pacientů s nádorovým onemocněním byla prokázána v druhé non-inferioritní hlavní studii srovnávající jednotlivou intravenózní infuzi palonosetronu s i.v. režimem ondansetronu. Celkem 493 pediatrických pacientů ve věku 64 dnů až 16,9 let, kteří dostávali středně (69,2 %) nebo vysoce (30,8 %) emetogenní chemoterapii, bylo léčeno palonosetronem 10 μg/kg (maximálně 0,75 mg), palonosetronem 20 μg/kg (maximálně 1,5 mg) nebo ondansetronem (3 x 0,15 mg/kg, maximální celková dávka 32 mg) 30 minut před začátkem emetogenní chemoterapie během Cyklu 1. V rámci všech léčebných skupin většina pacientů (78,5 %) nepodstupovala chemoterapii poprvé. Podávaná emetogenní chemoterapie zahrnovala doxorubicin, cyklofosfamid (<1 500 mg/m²), ifosfamid, cisplatinu, daktinomycin, karboplatinu a daunorubicin. Adjuvantní kortikosteroidy, včetně dexametazonu, byly podávány spolu s chemoterapií u 55 % pacientů. Primárním cílovým parametrem účinnosti byla úplná odpověď (ÚO) v akutní fázi prvního cyklu chemoterapie, definovaná jako stav bez zvracení, bez dávení, a bez nutnosti podání záchranné léčby v prvních 24 hodinách od zahájení chemoterapie. Účinnost přípravku byla založena na prokázání non-inferiority intravenózního palonosetronu ve srovnání s intravenózním ondansetronem. Kritéria non-inferiority by byla splněna, pokud by spodní hranice 97,5% intervalu spolehlivosti pro rozdíl v hodnotách úplné odpovědi po podání intravenózního palonosetronu minus intravenózního ondansetronu byla vyšší než -15 %. Ve skupině palonosetronu 10 μg/kg, 20 μg/kg a ondansetronu byl podíl pacientů s ÚO0-24h 54,2 %, 59,4 % a 58,6 %. Protože 97,5% interval spolehlivosti (hodnota upravená Mantel-Haenszelovým testem) pro rozdíl mezi hodnotami ÚO0-24h palonosetronu 20 μg/kg a ondansetronu byl [-11,7 %, 12,4 %], dávka 20 μg/kg palonosetronu prokázala non-inferioritu k ondansetronu.
+
+
+
+8/12
+
+I když tato studie prokázala, že pediatričtí pacienti potřebují vyšší dávku palonosetronu pro prevenci chemoterapií navozené nauzey a zvracení než dospělí, jeho bezpečnostní profil odpovídá prokázanému profilu u dospělých (viz bod 4.8).
+Farmakokinetické informace jsou uvedeny v bodě 5.2.
+Prevence pooperační nauzey a zvracení (PONV):
+Byly provedeny dvě pediatrické klinické studie. Bezpečnost a účinnost intravenózního palonosetronu při jednotlivých dávkách 1 μg/kg a 3 μg/kg byla srovnávána v první klinické studii u 150 pacientů v následujících věkových skupinách, >28 dnů až 23 měsíců (7 pacientů), 2 až 11 let (96 pacientů) a 12 až 16 let (47 pacientů), podstupujících elektivní operaci. V žádné z léčebných skupin nebyla vznesena žádná bezpečnostní znepokojení. Podíl pacientů bez emeze v období 0–72 hodin po operaci byl po podání palonosetronu v dávce 1 μg/kg nebo 3 μg/kg podobný (88 % vs. 84 %).
+Druhá pediatrická klinická studie byla multicentrická, dvojitě zaslepená, dvojitě zamaskovaná, randomizovaná, aktivně kontrolovaná, non-inferioritní studie s paralelními skupinami s podáním jednotlivé dávky, srovnávající i.v. palonosetron (1 μg/kg, maximálně 0,075 mg) oproti i.v. ondansetronu. Do studie bylo zařazeno celkem 670 pediatrických chirurgických pacientů ve věku 30 dnů až 16,9 let. Primárního cílového parametru účinnosti, úplné odpovědi (ÚO: stav bez zvracení, bez dávení, a bez nutnosti podání záchranné antiemetické medikace) během prvních 24 hodin po operaci, bylo dosaženo u 78,2 % pacientů ve skupině s palonosetronem a u 82,7 % pacientů ve skupině s ondansetronem. Předem stanovená mez pro splnění non-inferiority byla -10 %, hodnota upravená Mantel-Haenszelovým statistickým non-inferioritním intervalem spolehlivosti pro rozdíl v primárním cíli, úplné odpovědi (ÚO), byla [-10,5, 1,7 %], a proto nebyla non-inferiorita prokázána. V žádné z léčebných skupin nebyly vzneseny žádné nové obavy týkající se bezpečnosti.
+
+Informace o použití u pediatrické populace viz bod 4.2.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Po intravenózním podání po počátečním poklesu plazmatické koncentrace následuje pomalá eliminace z organismu se středním konečným eliminačním poločasem přibližně 40 hodin. Střední maximální plazmatická koncentrace (Cmax) a plocha pod křivkou závislosti koncentrace na čase (AUC0-∞) jsou všeobecně přímo úměrné dávce v rozsahu dávky 0,3-90 μg/kg u zdravých subjektů a u pacientů s nádorovým onemocněním.
+U 11 pacientů s karcinomem varlat byl po intravenózním podání 0,25 mg palonosetronu každý druhý den v celkovém množství 3 dávek střední (±SO, směrodatná odchylka) nárůst plasmatické koncentrace 42±34 % ode dne 1 do dne 5. Po intravenózním podání 0,25 mg palonosetronu jednou denně po dobu 3 dnů 12ti zdravým subjektům byl střední (±SO) nárůst plasmatické koncentrace palonosetronu 110±45
+% ode dne 1 do dne 3.
+
+Simulace farmakokinetiky naznačují, že celková expozice (AUC 0- ∞) po intravenózně podaném palonosetronu v dávce 0,25 mg jednou denně po dobu 3 po sobě následujících dnů byla podobná jako po jedné intravenózně podané dávce 0,75 mg, ačkoliv Cmax jednotlivé dávky 0,75 mg byla vyšší.
+Distribuce
+Palonosetron v doporučené dávce je široce distribuován v organismu s distribučním objemem přibližně 6,9 až 7,9 l/kg. Přibližně 62 % palonosetronu se váže na plazmatické proteiny.
+Biotransformace
+Palonosetron je odbouráván dvojí cestou, přibližně 40 % se odbourává ledvinami a dalších přibližně 50
+% se metabolizuje za vzniku dvou primárních metabolitů, které mají méně než 1 % aktivity palonosetronu jakožto antagonisty receptoru 5HT3. Studie metabolismu in vitro ukázaly, že CYP2D6 a v menším rozsahu izoenzymy CYP3A4 a CYP1A2 se podílejí na metabolismu palonosetronu. Ovšem klinické farmakokinetické parametry nejsou mezi silnými a slabými metabolizátory CYP2D6 substrátů
+
+9/12
+
+významně odlišné. Palonosetron neinhibuje ani neindukuje izoenzymy cytochromu P450 v klinicky významných koncentracích.
+
+Eliminace
+Po jedné intravenózní dávce 10 mikrogramů/kg [¹⁴C]-palonosetronu se vyloučilo močí přibližně 80 % dávky během 144 hodin, přičemž palonosetron představoval přibližně 40 % podané dávky jako nezměněné účinné látky. Po jednorázovém podání intravenózního bolusu u zdravých subjektů byla celková clearance palonosetronu v organismu 173 ± 73 ml/min a renální clearance byla 53 ± 29 ml/min. Nízká celková tělesná clearance a velký distribuční objem znamenal konečný eliminační poločas v plazmě přibližně 40 hodin. Deset procent pacientů má střední konečný eliminační poločas vyšší než 100 hodin.
+Farmakokinetický(é) vztah(y) ve speciální populaci
+
+Starší pacienti
+Věk neovlivňuje farmakokinetiku palonosetronu. U starších pacientů není zapotřebí žádná úprava dávkování.
+
+Pohlaví
+Pohlaví neovlivňuje farmakokinetiku palonosetronu. Není zapotřebí žádné úpravy dávkování podle pohlaví.
+Pediatrická populace
+Farmakokinetická data pro stanovení jednotlivé i.v. dávky palonosetron byla získána z podskupiny pediatrických pacientů (n=280) s nádorovým onemocněním, kteří dostávali dávku 10 μg/kg nebo 20 μg/kg. Při navýšení dávky z 10 μg/kg na 20 μg/kg bylo pozorováno zvýšení průměrné hodnoty AUC, které bylo úměrné dávce. Po podání následující jednotlivé dávky intravenózní infuze palonosetronu 20 μg/kg bylo hlášeno, že dosažené maximální koncentrace v plazmě (CT) na konci 15minutové infuze byly velmi variabilní ve všech věkových skupinách a měly tendenci být nižší u pacientů <6 let než u starších pediatrických pacientů. Medián poločasu po podání 20 μg/kg byl 29,5 hodin ve všech věkových skupinách a pohyboval se v rozmezí od asi 20 do 30 hodin napříč věkovými skupinami.
+Celková hodnota tělesné clearance (l/hod/kg) u pacientů ve věku od 12 do 17 let byla podobná jako u zdravých dospělých. Nejsou zde žádné zjevné rozdíly v distribučním objemu, pokud je vyjádřen jako l/kg.
+
+Tabulka 4. Farmakokinetické parametry u pediatrických pacientů s nádorovým onemocněním po intravenózní infuzi palonosetronu 20 μg/kg po dobu 15 minut a u dospělých pacientů s nádorovým onemocněním, kterým byly podávány dávky 3 μg/kg a 10 μg/kg jako intravenózní bolus.
+
+Pediatričtí pacienti s nádorovým onemocněnímᵃ
+Dospělí pacienti s nádorovým onemocněnímᵇ
+
+
+
+
+AUC0-∞,
+h·μg/l
+t½, hodiny
+
+Clearanceᶜ, l/h/kg Distribuční objemᶜ,ᵈ, l/kg
+<2 roky
+
+n=3
+69,0 (49,5)
+
+24,0
+n=6
+0,31 (34,7)
+
+6,08 (36,5)
+2 roky až <6 let
+n=5
+103,5 (40,4)
+
+28
+n=14
+0,23 (51,3)
+
+5,29 (57,8)
+6 let až <12 let
+
+n=7
+98,7 (47,7)
+
+23,3
+n=13
+0,19 (46,8)
+
+6,26 (40,0)
+12 let až <17 let
+n=10
+124,5 (19,1)
+
+30,5
+n=19
+0,16 (27,8)
+
+6,20 (29,0)
+3,0 μg/kg
+
+n=6
+35,8 (20,9)
+
+56,4 (5,81)
+n=6
+0,10 (0,04)
+
+7,91 (2,53)
+10 μg/kg
+
+n=5
+81,8 (23,9)
+
+49,8 (14,4)
+n=5
+0,13 (0,05)
+
+9,56 (4,21)
+ᵃ FK parametry vyjádřené jako geometrický průměr (CV – variační koeficient), s výjimkou T½ , který má hodnotu mediánu.
+
+10/12
+
+ᵇ FK parametry vyjádřené jako aritmetický průměr (SD)
+ᶜ Clearance a distribuční objem u pediatrických pacientů byly vypočítány z obou skupin, 10 μg/kg a 20 μg/kg a upraveny dle hmotnosti. U dospělých jsou v názvu sloupců označeny různé úrovně dávkování. ᵈ Vss je hlášen u pediatrických pacientů s nádorovým onemocněním, zatímco Vz u dospělých pacientů s nádorovým onemocněním.
+
+Porucha funkce ledvin
+Mírná až středně těžká porucha funkce ledvin neovlivňuje významně farmakokinetické parametry palonosetronu. Těžká porucha funkce ledvin snižuje renální clearance, nicméně celková tělesná clearance u těchto pacientů je podobná jako u zdravých subjektů. U pacientů s renální insuficiencí není zapotřebí žádná úprava dávkování. Pro pacienty, kteří podstupují hemodialýzu, nejsou k dispozici farmakokinetické údaje.
+
+Porucha funkce jater
+Porucha funkce jater neovlivňuje významně celkovou tělesnou clearance palonosetronu ve srovnání se zdravými subjekty. I když konečný eliminační poločas odstraňování a střední systémová expozice palonosetronu jsou u pacientů s těžkou poruchou funkce jater zvýšeny, neopodstatňuje to snížení dávky.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Účinky v neklinických studiích byly pozorovány pouze po expozicích dostatečně převyšujících maximální expozici u člověka, což svědčí o malém významu při klinickém použití.
+Neklinické studie ukazují, že palonosetron může blokovat iontové kanály zapojené do ventrikulární depolarizace a repolarizace a prodloužit trvání akčního potenciálu pouze ve velmi vysokých koncentracích.
+Studie na zvířatech nenaznačují přímé ani nepřímé škodlivé účinky na průběh těhotenství, embryonální/fetální vývoj, porod nebo postnatální vývoj. O placentárním přenosu jsou k dispozici pouze omezené údaje ze studií na zvířatech (viz bod 4.6).
+
+Palonosetron není mutagenní. Vysoké dávky palonosetronu (každá dávka způsobující nejméně třicetinásobek terapeutické expozice u lidí) podávané denně po dva roky způsobily zvýšenou míru výskytu jaterních tumorů, endokrinních neoplazmat (ve štítné žláze, hypofýze, pankreatu, dřeni nadledvinek) a kožních tumorů u laboratorních potkanů, ale ne u myší. Základní mechanismy nejsou plně objasněny, ale kvůli vysokým použitým dávkám a proto, že je přípravek Palonosetron Fresenius Kabi určen k jednorázové aplikaci u lidí, se tyto nálezy nepovažují za relevantní pro klinické použití.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Mannitol (E 421)
+Dihydrát dinatrium-edetátu Dihydrát natrium-citrátu (E 331) Kyselina citrónová (E 330) Hydroxid sodný (k úpravě pH)
+Kyselina chlorovodíková (k úpravě pH) Voda pro injekci
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky.
+
+
+11/12
+
+6.3  Doba použitelnosti
+
+3 roky
+Po otevření injekční lahvičky přípravek ihned použijte a zlikvidujte jakýkoliv nepoužitý roztok.
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+
+Injekční lahvička z čirého skla třídy I uzavřená halobutylovou pryžovou zátkou a hliníkovým víčkem
+s plastovým odtrhovacím krytem.
+
+Dodává se v baleních obsahujících 1 nebo 10 injekčních lahviček. Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Určeno k jednorázovému použití, jakýkoliv nepoužitý roztok je třeba zlikvidovat.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO/ REGISTRAČNÍ ČÍSLA
+
+20/403/16-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 12. 10. 2016
+Datum posledního prodloužení registrace: 19. 3. 2021
+
+10.  DATUM REVIZE TEXTU
+
+1. 6. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12

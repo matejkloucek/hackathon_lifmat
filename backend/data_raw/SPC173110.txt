@@ -1,0 +1,475 @@
+sp.zn. sukls130227/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Plasmalyte infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Natrii chloridum                                5,26 g/l
+Kalii chloridum                                 0,37 g/l
+Magnesii chloridum hexahydricum                      0,30 g/l
+Natrii acetas trihydricus                            3,68 g/l
+Natrii gluconas:                                 5,02 g/l
+
+Na⁺      K⁺    Mg⁺⁺     Cl⁻   CH3COO⁻   C6H11O7-
+(Acetát)  (Glukonát)
+mmol/l     140      5,0      1,5     98       27       23
+mEq/l     140      5,0      3,0     98       27       23
+
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Infuzní roztok.
+Čirý roztok bez viditelných částic.
+
+Osmolarita: 295 mOsm/l (přibližně) pH: přibližně 7,4 (6,5 až 8,0)
+4. KLINICKÉ ÚDAJE
+4.1.    Terapeutické indikace
+Přípravek Plasmalyte je indikován:
+•  k náhradě tekutin (např. po popálení, úrazu hlavy, zlomeninách, infekci a peritoneální
+iritaci)
+•  k náhradě tekutin během chirurgických výkonů
+•  při hemoragickém šoku a klinických stavech vyžadujících rychlou transfuzi krve
+(kompatibilita s krví)
+•  u mírné až střední metabolické acidózy, a to i v případě poruch laktátového
+metabolismu
+4.2.    Dávkování a způsob podání
+Dávkování
+Dospělí, starší pacienti a dospívající (ve věku 12 let a starší):
+Před podáním a během podávání přípravku je nutné monitorovat bilanci tekutin, sérových elektrolytů a acidobazickou rovnováhu se zvláštní pozorností na sérový sodík, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu, a to z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8). U hypotonických roztoků je zvláště významné monitorovat sérový sodík.
+Přípravek Plasmalyte má tonicitu 295 mOsm/l (přibližně).
+
+1/11
+
+Rychlost infuze a objem závisí na věku, tělesné hmotnosti a klinickém stavu (např. popáleniny, chirurgický zákrok, poranění hlavy, infekce) a souběžná léčba má být stanovena po konzultaci s lékařem se zkušenostmi v pediatrické intravenózní léčbě (viz body 4.4 a 4.8).
+Doporučené dávkování je: 500 ml až 3 litry/24 h.
+
+Rychlost podání:
+Rychlost infuze je obvykle 40 ml/kg/24 h u dospělých, starších osob a adolescentů.
+Pokud je přípravek použit k náhradě tekutin během chirurgických výkonů, může být rychlost vyšší, přibližně 15 ml/kg/h.
+Použití u geriatrických pacientů:
+Při výběru typu infuzního roztoku a objemu/rychlosti infuze pro geriatrické pacienty je třeba vzít v úvahu, že tito pacienti mají obecně s větší pravděpodobností srdeční, ledvinová, jaterní a jiná onemocnění nebo souběžnou medikamentózní léčbu.
+Pediatrická populace
+Bezpečnost a účinnost přípravku Plasmalyte nebyla u dětí stanovena odpovídajícími a dobře kontrolovanými studiemi. Léčba pediatrických pacientů je popsána v literatuře.
+Dávkování se liší podle hmotnosti:
+•  0-10 kg tělesné hmotnosti: do 100 ml/kg/24 h
+•  10-20 kg tělesné hmotnosti: 1 000 ml + (50 ml/kg nad 10 kg)/24 h
+•  >20 kg tělesné hmotnosti:  1 500 ml + (20 ml/kg nad 20 kg)/24 h
+
+Rychlost podání se liší podle hmotnosti:
+
+•  0-10 kg tělesné hmotnosti:  6-8 ml/kg/h
+•  10-20 kg tělesné hmotnosti: 4-6ml/kg/h
+•  >20 kg tělesné hmotnosti:  2-4 ml/kg/h
+
+Způsob podání:
+Přípravek se podává intravenózně.
+
+Roztok má být podáván sterilním zařízením za použití aseptické techniky. Zařízení má být naplněno roztokem, aby se zabránilo vstupu vzduchu do systému.
+Přípravek je možno podat před transfuzí krve, během ní nebo po jejím skončení. Vzhledem k izoosmolalitě přípravku lze roztok podávat do periferní žíly.
+
+Roztok má být před podáním vizuálně zkontrolován, kdykoli to roztok nebo obal umožňuje, zda
+neobsahuje částice a zda nedošlo ke změně jeho zabarvení.
+
+Roztok použijte pouze tehdy, je-li čirý a jsou-li sváry vaku neporušeny.
+Vak vyjměte z obalu až těsně před použitím. Vnitřní vak zachovává sterilitu přípravku. Po připojení infuzního setu ihned podávejte.
+Plastové vaky nepropojujte do série. Takové použití může mít za následek vzduchovou embolii způsobenou nasátím reziduálního vzduchu z primárního vaku před ukončením podání roztoku ze sekundárního vaku. Stlačování flexibilních plastových vaků s obsahem intravenózních
+roztoků za účelem zvýšení rychlosti průtoku může vést ke vzduchové embolii, pokud není před zahájením jejich podávání vzduch z vaku zcela odčerpán.
+
+
+2/11
+
+Použití intravenózních setů se zavzdušněním s ventilem v otevřené poloze by mohlo způsobit vzduchovou embolii. Intravenózní sety se zavzdušněním s ventilem v otevřené poloze nemají být s flexibilními plastovými vaky používány.
+Aditiva mohou být přidána před nebo během infuze injekčním portem.
+
+4.3.    Kontraindikace
+Použití roztoku je kontraindikováno u pacientů s:
+− hyperkalémií,
+− selháním ledvin
+− srdeční blokádou
+− metabolickou nebo respirační alkalózou
+− hypochlorhydrií
+− hypersensitivitou na léčivé látky nebo jakoukoli pomocnou látku uvedenou v bodě 6.1.
+
+
+
+4.4.     Zvláštní upozornění a zvláštní opatření pro použití
+
+UPOZORNĚNÍ
+Rovnováha elektrolytů
+Přípravek Plasmalyte není indikován k léčbě hypochloremické a hypokalemické alkalózy.
+Přípravek Plasmalyte není indikován k primární léčbě závažné metabolické acidózy ani k léčbě
+hypomagnezemie.
+Použití u pacientů s probíhající hypermagnezemií nebo s rizikem hypermagnezemie
+Parenterální magneziové soli používejte obezřetně u pacientů s méně závažnou poruchou funkce ledvin a u pacientů s myasthenií gravis. Pacienty je třeba monitorovat s ohledem na klinické příznaky zvýšené hladiny hořčíku, zvláště při léčbě eklampsie (viz také bod 4.5 – Interakce s jinými léčivými přípravky a jiné formy interakce).
+
+Použití u pacientů s hypokalcémií
+Přípravek Plasmalyte neobsahuje kalcium a zvýšení pH plazmy v důsledku jeho alkalizačního efektu může snížit koncentraci ionizovaného (na proteiny nevázaného) kalcia. Přípravek Plasmalyte roztok má být podáván se zvláštní opatrností pacientům s hypokalcémií.
+Použití u pacientůs probíhající hyperkalémií nebo s rizikem hyperkalémie
+Roztoky obsahující draselné soli je třeba podávat obezřetně pacientům s onemocněním srdce nebo s predispozicí k hyperkalémii, jako jsou renální nebo adrenokortikální insuficience, akutní dehydratace nebo těžké poškození tkání, jaké se vyskytuje například u rozsáhých popálenin. Hladina draslíku v plazmě má být zvláště pečlivě sledováná u pacientů s rizikem hyperkalémie.
+
+Následující kombinace se nedoporučují; zvyšují koncentraci draslíku v plazmě a mohou vést k fatální hyperkalémii zejména v případě selhání ledvin, které zvyšuje hyperkalemický účinek (viz bod 4.5):
+•  Souběžné užívaní kalium šetřících diuretik (amilorid, kalium-kanreonát, spironolakton, triamteren)
+•  Inhibitory angiotenzin-konvertujícího enzymu (ACEi) a, po extrapolaci, antagonisté receptoru pro angiotenzin II,: potenciálně letální hyperkalémie
+•  Takrolimus, cyklosporin
+
+3/11
+
+Použití u pacientů s deficitem draslíku
+Ačkoli je koncentrace draslíku v přípravku Plasmalyte podobná koncentraci draslíku v plazmě,
+tato koncentrace není v případě vážného deficitu draslíku dostatečná, a proto roztok k tomuto účelu nepoužívejte.
+Rovnováha tekutin/ renální funkce
+
+Riziko přetížení tekutinami a/nebo roztoky a poruchy elektrolytů
+V průběhu podávání tohoto roztoku je nutno sledovat klinický stav pacienta a laboratorní parametry (bilanci tekutin, elektrolyty v krvi a moči a acidobazickou rovnováhu).
+V závislosti na objemu a rychlosti infuze může mít intravenózní podání přípravku Plasmalyte
+za následek
+-  přetížení tekutinami a/nebo roztoky, které vede k hyperhydrataci/hypervolémii. Proto musí být použití infuze velkých objemů u pacientů se srdečním, plicním nebo renálním selháním zvlášť kontrolováno.
+
+Infuze o velkém objemu je nutné u pacientů se srdečním či plicním selháním a u pacientů s neosmotickým uvolňováním vazopresinu (včetně SIADH) podávat za specifického sledování z důvodu rizika hyponatrémie (viz dále).
+Hyponatrémie:
+U pacientů s neosmotickým uvolňováním vazopresinu (např. u akutních onemocnění, bolesti, pooperačního stresu, infekci, popálenin a onemocnění CNS), u pacientů se srdečními, jaterními a ledvinovými chorobami a u pacientů vystavených agonistům vazopresinu (viz bod 4.5) je po infuzi hypotonických roztoků zvýšené riziko akutní hyponatrémie.
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku)
+vyznačující se bolestí hlavy, nevolností, záchvaty, letargií a zvracením. U pacientů s edémem mozku je zvýšené riziko závažného, nevratného a život ohrožujícího poškození mozku.
+Zvýšené riziko závažného a život ohrožujícího edému mozku způsobeného akutní hyponatrémií je u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální compliance (např. meningitida, intrakraniální krvácení, kontuze mozku a otok mozku).
+
+Použití u pacientů s hypervolémií, hyperhydratací nebo stavy, které způsobují retenci sodíku a edému
+Přípravek Plasmalyte má být podáván se zvláštní opatrností pacientům s hypervolémií nebo
+hyperhydratací.
+
+Roztoky obsahující chlorid sodný mají být podávány s opatrností pacientům s hypertenzí, srdečním selháním, periferním nebo plicním edémem, poškozenou funkcí ledvin, preeklampsií, aldosteronismem nebo jinými stavy spojenými se zadržováním sodíku (viz také  bod 4.5. Interakce s jinými léčivými přípravky nebo jiné formy interakce).
+
+Použití u pacientů se závažným renálním onemocněním
+Přípravek Plasmalyte má být podáván se zvláštní opatrností u pacientů se závažným onemocněním ledvin. U těchto pacientů může mít podávání přípravku Plasmalyte za následek retenci sodíku a/ nebo draslíku nebo hořčíku.
+
+Acidobazická rovnováha
+
+Použití u pacientů s probíhajícíc alkalózou nebo s rizikem alkalózy
+Přípravek Plasmalyte má být podáván se zvláštní opatrností pacientům s alkalózou nebo s rizikem alkalózy.Vzhledem k přítomnosti acetátových a glukonátových iontů může mít nadměrné podání přípravku Plasmalyte za následek metabolickou alkalózu.
+
+Další upozornění
+4/11
+
+Hypersensitivní reakce
+Ve vztahu k přípravku Plasmalyte byly hlášeny hypersensitivní/ infuzní reakce včetně
+anafylaktoidních reakcí.
+
+V případě jakýchkoli známek nebo podezření na rozvoj příznaků hypersensitivní reakce musí být infuze okamžitě zastavena. Podle klinické potřeby musí být přijata příslušná terapeutická protiopatření.
+Podávání
+V pooperačním období krátce po zotavení z neuromuskulárního bloku je zapotřebí přípravek podávat s rozvahou, protože magneziové soli mohou způsobit rekurarizaci.
+
+Pokud je přípravek používán současně s parenterální výživou, je nutno uvážit zdroje elektrolytů
+a odpovídajícím způsobem je upravit.
+
+OPATŘENÍ
+
+Interference s laboratorními testy pro roztoky obsahující glukonát
+U pacientů, kterým byly podány roztoky Plasmalyte společnosti Baxter obsahující glukonát, byly hlášeny při použití Bio-Rad Laboratories‘ Platelia Aspergillus EIA testu falešně pozitivní výsledky. Následně však u těchto pacientů nebyla nalezena žádná infekce způsobená plísní Aspergillus. Proto by měly být pozitivní výsledky těchto testů u pacientů, kterým byly výše zmíněné  roztoky  podány,  vyhodnocovány  opatrně  a  měly  by  být  potvrzeny  dalšími diagnostickými metodami.
+Podávání
+Přidávání jiných léků nebo používání nesprávné techniky podání mohou způsobit horečnaté reakce vzhledem k možnému účinku pyrogenů. V těchto případech musí být infuze okamžitě zastavena.
+Informace týkající se inkompatibilit a přípravy přípravku a aditiv viz bod 6.2 a 6.6.
+
+
+4.5.     Interakce s jinými léčivými přípravky a jiné formy interakce
+Léčiva vedoucí ke zvýšenému účinku vazopresinu
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2, 4.4 a 4.8).
+•  Mezi léčiva stimulující uvolnění vazopresinu se řadí:
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika
+•  Mezi léčiva zesilující působení vazopresinu se řadí: chlorpropamid, NSAID, cyklofosfamid
+•  Mezi analogy vazopresinu se řadí: desmopresin, oxytocin, terlipresin.
+
+
+
+
+
+
+
+
+5/11
+
+Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a
+antiepileptika, např. oxkarbazepin.
+
+Interakce související s přítomností sodíku:
+-  kortikoidy/steroidy a karbenoxolon, které jsou spojeny s retencí sodíku a vody (s edémem a hypertenzí).
+
+Interakce související s přítomností draslíku:
+Následující kombinace zvyšují koncentraci draslíku v plazmě a mohou vést k případné fatální
+hyperkalémii zejména v případě selhání ledvin, které zvyšuje hyperkalemické účinky:
+- kalium šetřící diuretika (amilorid, kalium-kanreonát, spironolakton, triamteren – samostatně
+nebo v kombinaci-viz bod 4.4);
+-  inhibitory angiotenzin konvertujícího enzymu (ACEi) a, po extrapolaci, antagonisté
+receptoru pro angiotenzin II: potenciálně letální hyperkalémie (viz bod 4.4),
+-  takrolimus, cyklosporin (viz bod 4.4)
+Podávání draslíku pacientům léčených těmito přípravky může vyvolat závažnou a
+potencionálně fatální hyperkalémii, zvláště u pacientů s važnou poruchou funkce ledvin.
+
+Interakce související s přítomností hořčíku:
+-  neuromuskulární blokátory, například tubokurarin, suxametonium a vekuronium, jejichž účinky se přítomností hořčíku zesilují;
+-  acetylcholin, jehož uvolňování a účinky jsou sníženy solemi hořčíku, což může přispívat k
+neuromuskulární blokádě;
+-  aminoglykosidová antibiotika a nifedipin, které mají v přítomnosti parenterálního hořčíku zvýšený účinek a zesilují neuromuskulární blokádu.
+
+Interakce související s přítomností acetátu a glukonátu (které se metabolizují na bikarbonát): Opatrnost se doporučuje při podávání přípravku Plasmalyte pacientům léčených léky, u kterých je renální eliminace závislá na pH. Vzhledem ke svému alkalizačnímu efektu (tvorba bikarbonátu) může přípravek Plasmalyte interferovat s eliminací takovýchto léků.
+
+-  Renální clereance léků kyselé povahy, jako salicyláty, barbituráty a lithium se může zvýšit v důsledku alkalinizace moči bikarbonátem, jenž je produktem metabolismu acetátu a glukonátu;
+-  Renální clereance léků alkalické povahy, jako sympatomimetika (například efedrin, pseudoefedrin) a stimulancia (například dexamfetamin sulfát, fenfluramin hydrochlorid), se může snížit.
+
+4.6.    Fertilita, těhotenství a kojení
+Těhotenství a kojení
+Pro použití přípravku Plasmalyte u těhotných a kojících žen neexistují dostatečné údaje. Před použitím přípravku Plasmalyte mají být u každé konkrétní pacientky pečlivě zváženy potencionální rizika a prospěch.
+
+Přípravek Plasmalyte je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem (viz body 4.4, 4.5 a 4.8).
+
+Fertilita
+O vlivu přípravku Plasmalyte na fertilitu nejsou žádné informace.
+
+
+
+6/11
+
+4.7.     Účinky na schopnost řídit a obsluhovat stroje
+Neexistují žádné informace týkající se vlivu přípravku Plasmalyte na schopnost řídit vozidlo nebo používat stroje.
+
+4.8.    Nežádoucí účinky
+Následující nežádoucí účinky byly hlášeny během  poregistračního použití  různých elektrolytových roztoků  podobných  přípravku Plasmalyte . Nežádoucí účinky jsou uvedené podle  tříd orgánových systémů MedDRA (TOS) a následně, tam kde je to možné, podle preferovaných termínů v pořadí závažnosti.
+Četnost je definovaná jako velmi časté ( ≥ 1/10); časté (≥1/100 až <1/10); vzácné (≥1/1 000 až
+<1/100), velmi vzácné (<1/10 000) a není známo (z dostupných dat nelze stanovit).
+
+
+Třída orgánového systému
+(TOS)
+Poruchy imunitního systému
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy metabolismu a
+výživy
+Poruchy nervového systému
+Cévní poruchy
+
+Poruchy kůže a podkožní tkáně
+Celkové poruchy a reakce
+v místě aplikace
+
+
+
+
+
+
+
+Vyšetření
+Preferované termíny MedDRA
+
+Hypersenzitivní/infuzní  reakce  (včetně anaftylaktoidní  reakce  a  následujících projevů:
+tachykardie palpitace bolest na hrudi
+hrudní diskomfort, dyspnoe dechová frekvence zvýšená zrudnutí
+hyperémie
+astenie
+abnormální pocit, piloerekce periferní edém, pyrexie kopřivka
+*hypotenze, sípot, studený pot, třesavka, hyperkalémie)
+Hypervolémie Hyponatrémie** záchvaty
+Akutní hyponatremická encefalopatie**
+tromboflebitida žilní trombóza kopřivka
+
+Různé typy reakcí v místě infuze (např. pálivý pocit
+horečka
+bolest v místě vpichu reakce v místě vpichu flebitida v místě vpichu iritace v místě vpichu infekce v místě vpichu extravazace)
+falešně pozitivní laboratorní výsledky (Bio-Rad Laboratories‘ Platelia Aspegillus EIA testu (viz 4.4.)
+Četnost
+
+Není známo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Není známo Není známo Není známo Není známo Není známo
+
+
+
+
+
+
+
+Není známo
+*Nežádoucí reakce uvedené proloženým písmem byly hlášeny u jiných podobných přípravků.
+**Hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie (viz body 4.2, 4.4 a 4.5).
+
+7/11
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9.    Předávkování
+Předávkování nebo příliš rychlá infuze mohou vést k přetížení oběhu vodou a sodíkem s rizikem vzniku otoků, zejména v případě poruchy vylučování sodíku ledvinami. V tomto případě může být nutná extrarenální dialýza.
+Nadměrné podávání draslíku může vést k rozvoji hyperkalémie, zejména u pacientů s poruchou funkce ledvin. Mezi symptomy patří parestézie končetin, svalová slabost, paralýza, srdeční arytmie, srdeční blokáda, srdeční zástava a zmatenost. Léčba hyperkalémie zahrnuje podání vápníku, inzulínu (s glukózou), bikarbonátu sodného, iontoměničových pryskyřic nebo dialýzu.
+Nadměrné parenterální podávání magneziových solí vede k rozvoji hypermagnezémie; k významným příznakům hypermagnezémie patří ztráta hlubokých šlachových reflexů a respirační deprese; oba příznaky jsou způsobeny neuromuskulární blokádou. Mezi další symptomy hypermagnezémie patří: nevolnost, zvracení, zrudnutí kůže, žízeň, hypotenze způsobená periferní vazodilatací, ospalost, zmatenost, svalová slabost, bradykardie, kóma a srdeční zástava. Pacient se supraletální hypermagnezémií byl úspěšně léčen pomocí podpůrného dýchání, intravenózně podávaného chloridu vápenatého a forsírované diurézy s infuzemi manitolu.
+Nadměrné podávání chloridových solí může způsobit ztrátu bikarbonátu s acidifikujícím účinkem.
+Nadměrné  podání  sloučenin  typu  acetátu  sodného  a  glukonátu  sodného,  které  jsou metabolizovány na bikarbonát, může způsobit hypokalémii a metabolickou alkalózu, a to zejména u pacientů s poruchou funkce ledvin. K symptomům patří: změny nálady, únava, dušnost, svalová slabost a nepravidelný srdeční rytmus. Zejména u hypokalemických pacientů se může rozvinout svalová hypertonicita, záškuby a tetanie. Léčba metabolické alkalózy související s předávkováním bikarbonátem spočívá zejména v odpovídající korekci bilance tekutin a elektrolytové rovnováhy.
+Pokud předávkování souvisí s léčivými přípravky aplikovanými do roztoku, budou známky a příznaky  předávkování  infuzí  záviset  na povaze  přidané  látky.  V  případě  náhodného předávkování infuzí má být léčba přerušena a je třeba sledovat, zda se u pacienta nevyskytnou příznaky spojené s podáním léčivého přípravku. V případě potřeby je třeba provést odpovídající symptomatická a podpůrná opatření.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1.  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Elektrolyty –ATC kód: B05BB01
+Přípravek Plasmalyte je izotonický roztok elektrolytů. Elektrolytové složky přípravku Plasmalyte jsou
+navrženy tak, aby odpovídaly jejich koncentracím v plazmě.
+Farmakologické vlastnosti přípravku Plasmalyte odpovídají vlastnostem jeho složek (vody, sodíku, draslíku, hořčíku, chloridu, acetátu a glukonátu).
+Hlavním účinkem přípravku Plasmalyte je expanze extracelulárního prostoru zahrnující tkáňový mok a intravaskulární tekutinu.
+
+8/11
+
+Acetát sodný a glukonát sodný jsou soli produkující bikarbonát a jako takové patří mezi alkalizující látky.
+Pokud je do přípravku Plasmalyte přidán jiný léčivý přípravek, pak celková farmakodynamika roztoku závisí na povaze použitého léčiva.
+
+5.2.  Farmakokinetické vlastnosti
+Farmakokinetické vlastnosti přípravku Plasmalyte jsou dány vlastnostmi iontů jej tvořících (sodíku, draslíku, hořčíku, chloridu, acetátu a glukonátu).
+Acetát je metabolizován ve svalové a periferní tkáni na bikarbonát, bez účasti jater.
+Pokud je do přípravku Plasmalyte přidán jiný léčivý přípravek, pak celková farmakokinetika roztoku závisí na povaze použitého léčiva.
+
+5.3.  Předklinické údaje vztahující se k bezpečnosti
+Předklinické údaje vztahující se k bezpečnosti přípravku Plasmalyteu u zvířat nejsou relevantní, jelikož složky roztoku jsou fyziologickými složkami zvířecí a lidské plazmy.
+Při klinické aplikaci se neočekávají toxické účinky.
+Bezpečnost případných aditiv je třeba zvážit samostatně.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1.    Seznam pomocných látek
+Voda pro injekci
+Hydroxid sodný (k úpravě pH)
+
+6.2.    Inkompatibility
+Aditiva
+V případě přidání aditiv k přípravku Plasmalyte je třeba použít aseptickou techniku. Po přidání aditv je třeba roztok důkladně promíchat. Roztok obsahující aditiva neskladujte.
+Před přidáním aditiva do vaku Viaflo s roztokem, je třeba posoudit jeho kompatibilitu. Prostudujte si příbalovou informaci léčivého přípravku, který chcete použít.
+Před přidáním substance nebo léčiva zkontrolujte, zda jsou rozpustné a/ nebo stabilní ve vodě a zda rozsah pH přípravku Plasmalyte je vhodný (pH 6,5–8,0). Po přidání zkontrolujte, zda u roztoku nedošlo ke změně barvy a/ nebo  výskytu sraženin, nerozpustných komplexů nebo krystalů. Aditiva, u nichž byla prokázána inkompatibilita, nepoužívejte.
+
+6.3.    Doba použitelnosti
+Doba použitelnosti v neotevřeném balení: 24 měsíců pro vaky o objemu 500 ml a 1000 ml
+
+Doba použitelnosti po prvním otevření: Přípravek má být použit okamžitě po otevření. Doba použitelnosti po rekonstituci s aditivy:
+Chemickou a fyzikální stabilitu aditiva při daném pH přípravku Plasmalyteu ve vacích Viaflo je třeba stanovit před použitím.
+Z mikrobiologického hlediska je nutno zředěný přípravek použít okamžitě. Pokud nebude použit okamžitě, jsou podmínky uchovávání před podáním a během použití v odpovědnosti uživatele; tato doba by neměla být delší než 24 hodin při teplotě 2 až 8°C, pokud neproběhla rekonstituce za validovaných aseptických podmínek.
+
+
+9/11
+
+6.4.    Zvláštní opatření pro uchovávání
+Pro uchovávání tohoto přípravku nejsou zapotřebí žádná zvláštní opatření.
+
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci s aditivy jsou uvedeny v bodě 6.3.
+
+6.5.    Druh obalu a velikost balení
+Vaky jsou vyrobeny z koextrudovaného polyolefino-polyamidového plastu (PL 2442). Jsou přebaleny ochranným plastovým obalem z polyamidu/polypropylenu, který slouží pouze k fyzické ochraně vaků.
+Velikosti balení: 500 a 1000 ml.
+Obsah vnějšího kartonu:
+20  vaků o objemu 500 ml
+10  vaků o objemu 1000 ml
+Na trhu nemusí být všechny velikosti balení.
+
+
+6.6.     Zvláštní opatření pro likvidaci přípravku a zacházení s ním
+Obsah vaku má být použit okamžitě po jeho otevření a nesmí být uchováván pro následnou
+infuzi.
+
+Po jednorázovém použití zlikvidujte. Veškerý nespotřebovaný roztok zlikvidujte.
+Částečně spotřebované vaky znovu nenapojujte.
+1. Otevření
+a. Vak Viaflo vyjměte ze zevního obalu až bezprostředně před použitím.
+b. Rázným stisknutím vnitřního vaku zkontrolujte případné netěsnosti. Pokud zjistíte prosakování, roztok zlikvidujte, protože by mohla být narušena jeho sterilita.
+c. Zkontrolujte, zda je roztok čirý a neobsahuje částice. Pokud roztok není čirý nebo pokud obsahuje částice, zlikvidujte jej.
+2. Příprava pro podávání
+Pro přípravu a podání použijte sterilní materiál.
+a. Zavěste vak za ouško.
+b. Odstraňte plastový ochranný uzávěr z výstupního portu v dolní části vaku:
+- jednou rukou uchopte křidélko hrdla portu;
+- druhou rukou uchopte větší křídlo na uzávěru a otočte jím;
+- uzávěr vyskočí.
+c. Při přípravě infuze použijte aseptickou techniku.
+d. Připojte infuzní set. Prostudujte si úplné pokyny týkající se připojení, naplnění setu a podávání roztoku
+3. Techniky injekce aditiv
+Varování: Některá aditiva mohou být inkompatibilní.
+
+V případě přidání aditiv je třeba před parenterálním podáním ověřit, zda je roztok izotonický. Je nutno provést řádné a pečlivé aseptické smísení jakéhokoli aditiva. Roztoky obsahující aditiva mají být podávány ihned a nemají být skladovány.
+Přidání léčiva před podáním:
+a. Dezinfikujte port pro přidání medikace.
+b. Pomocí injekční stříkačky s jehlou o velikosti 19G (1,10 mm) až 22G (0,70 mm)
+propíchněte opětovně uzavíratelný port pro přidání medikace a podávejte.
+10/11
+
+c. Roztok s léčivem důkladně promíchejte. U léčiv s vysokou hustotou, například u chloridu draselného, jemně poklepejte na porty v obrácené poloze a roztok promíchejte.
+Upozornění: Vaky obsahující aditiva neskladujte.
+Přidání léčiva během podávání:
+a. Zavřete svorku na setu.
+b. Dezinfikujte injekční port.
+c. Pomocí injekční stříkačky s jehlou o velikosti 19G (1,10 mm) až 22G (0,70 mm)
+propíchněte opětovně uzavíratelný port pro medikaci a vstříkněte látku.
+d. Sejměte vak z i.v. stojanu a otočte jej do obrácené polohy.
+e. Uvolněte oba obrácené porty jemným poklepáním.
+f. Roztok s léčivem důkladně promíchejte.
+g. Vraťte vak na místo, otevřete svorku a pokračujte v podávání.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+BAXTER CZECH spol. s r.o.
+Karla Engliše 3201/6 150 00 Praha 5
+Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO
+76/446/05-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 30.11.2005
+Datum posledního prodloužení registrace: 6.8.2010
+
+10.  DATUM REVIZE TEXTU
+1. 6. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11

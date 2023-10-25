@@ -1,0 +1,812 @@
+Sp. zn. sukls2029/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Bendamustine Accord 2,5 mg/ml prášek pro koncentrát pro infuzní roztok
+
+
+2.  KVALITATIVNÍ I KVANTITATIVNÍ SLOŽENÍ
+
+Jedna injekční lahvička obsahuje bendamustini hydrochloridum 25 mg (jako bendamustini hydrochloridi monohydricum).
+Jedna injekční lahvička obsahuje bendamustini hydrochloridum 100 mg (jako bendamustini hydrochloridi monohydricum).
+
+Jeden ml koncentrátu po rekonstituci podle bodu 6.6 obsahuje bendamustini hydrochloridum 2,5 mg (jako bendamustini hydrochloridi monohydricum).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Prášek pro koncentrát pro infuzní roztok. Bílý, mikrokrystalický prášek.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Léčba první linie chronické lymfocytární leukémie (stadia B nebo C dle Bineta) u pacientů, pro které není vhodná kombinovaná chemoterapie obsahující fludarabin.
+V monoterapii k léčbě indolentního non-Hodgkinova lymfomu u pacientů, u kterých došlo k progresi během léčby rituximabem nebo režimem zahrnujícím rituximab nebo během 6 měsíců po takové léčbě.
+Léčba první linie mnohočetného myelomu (stadia II s progresí nebo stadia III dle Durie-Salmona) v kombinaci s prednisonem u pacientů starších 65 let, pro které není vhodná autologní transplantace kmenových buněk a kteří v době diagnózy trpí klinickou neuropatií, což vylučuje použití terapie obsahující thalidomid nebo bortezomib.
+4.2  Dávkování a způsob podání Dávkování
+Monoterapie u chronické lymfocytární leukémie
+Bendamustin-hydrochlorid v dávce 100 mg/m² tělesného povrchu v den 1 a 2; každé 4 týdny, až do 6
+aplikací.
+Monoterapie u indolentního non-Hodgkinova lymfomu refrakterního na rituximab
+
+1
+
+Bendamustin-hydrochlorid v dávce 120 mg/m² tělesného povrchu v den 1 a 2; každé 3 týdny, nejméně 6 aplikací.
+
+Mnohočetný myelom
+Bendamustin-hydrochlorid v dávce 120-150 mg/m² tělesného povrchu v den 1 a 2, prednison v dávce 60 mg/m² tělesného povrchu intravenózně (i.v.) nebo perorálně (p.o.) v den 1 až 4; každé 4 týdny, nejméně 3 aplikace.
+
+Porucha funkce jater
+Na základě farmakokinetických údajů není úprava dávky u pacientů s mírnou poruchou funkce jater (sérový bilirubin < 1,2 mg/dl) nutná. U pacientů se středně těžkou poruchou funkce jater (sérový bilirubin 1,2-3,0 mg/dl) se doporučuje snížení dávky o 30 %.
+Údaje o pacientech s těžkou poruchou funkce jater (hodnoty sérového bilirubinu > 3,0 mg/dl) nejsou k
+dispozici (viz bod 4.3).
+
+Porucha funkce ledvin
+Na základě farmakokinetických údajů není u pacientů s clearance kreatininu > 10 ml/min úprava dávky nutná. Zkušenosti s podáváním u pacientů s těžkou poruchou funkce ledvin jsou omezené.
+Pediatrická populace
+Bezpečnost a účinnost bendamustin-hydrochloridu u dětí zatím nebyla stanovena. V současnosti dostupné údaje nejsou dostačující pro doporučení dávkování.
+Starší pacienti
+Neexistují důkazy o tom, že by u starších pacientů byla nutná úprava dávky (viz bod 5.2).
+
+Způsob podání
+Intravenózní infuze trvající 30-60 minut (viz bod 6.6).
+
+Infuze musí být podána pod dohledem kvalifikovaného lékaře, který má zkušenosti s podáváním chemoterapeutických látek.
+
+Nedostatečná funkce kostní dřeně je spojena se zvýšenou hematologickou toxicitou vyvolanou chemoterapií. Léčba nemá být zahájena, poklesl-li počet leukocytů na < 3 000/µl a/nebo počet trombocytů na < 75 000/µl (viz bod 4.3).
+
+Léčba má být ukončena nebo odložena, poklesly-li hodnoty leukocytů a/nebo trombocytů na < 3 000/µl nebo < 75 000/µl, v tomto pořadí. V léčbě lze pokračovat poté, co se počet leukocytů zvýšil na > 4 000/µl a počet trombocytů na > 100 000/µl.
+
+Nejnižší počty leukocytů a trombocytů se objevují po 14-20 dnech a k regeneraci dochází po 3-5 týdnech. Během období bez léčby se doporučuje pečlivé sledování krevního obrazu (viz bod 4.4).
+V případě nehematologické toxicity musí snížení dávek vycházet z nejhorších stupňů toxicity podle kritérií CTC (Common Toxicity Criteria, obecná kritéria toxicity) zaznamenaných během předchozího cyklu. V případě toxicity stupně 3 dle CTC se doporučuje dávku snížit o 50 %. V případě toxicity stupně 4 dle CTC se doporučuje přerušení léčby.
+Je-li nutno pacientovi dávku upravit, individuálně vypočítaná snížená dávka musí být podána v den 1 a 2 daného cyklu léčby.
+Návod k rekonstituci a naředění léčivého přípravku před jeho podáním viz bod 6.6.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+2
+
+Během kojení.
+Těžká porucha funkce jater (sérový bilirubin > 3,0 mg/dl). Žloutenka.
+Těžká suprese kostní dřeně a závažné změny krevního obrazu (pokles hodnoty leukocytů na < 3 000/µl a/nebo trombocytů na < 75 000/µl).
+Velký chirurgický zákrok méně než 30 dní před zahájením léčby.
+Infekce, zvláště jsou-li doprovázené leukocytopenií. Očkování proti žluté zimnici.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Myelosuprese
+U pacientů léčených bendamustin-hydrochloridem může dojít k myelosupresi. V případě myelosuprese vyvolané léčbou musí být nejméně jednou týdně monitorovány počty leukocytů, trombocytů, hladina hemoglobinu a počet neutrofilů. Zahájení dalšího cyklu léčby se doporučuje až po dosažení následujících parametrů: hodnoty leukocytů a/nebo trombocytů > 4 000/µl resp. > 10 0000/µl.
+
+Infekce
+Při aplikaci bendamustin-hydrochloridu se vyskytly případy závažných a fatálních infekcí, včetně bakteriálních (sepse, pneumonie) a oportunních infekcí, jako je pneumonie způsobená Pneumocystis jirovecii (PJP), virus varicella zoster (VZV) a cytomegalovirus (CMV). Byly hlášeny případy progresivní multifokální leukoencefalopatie (PML), včetně fatálních, po použití bendamustinu zejména v kombinaci s rituximabem nebo obinutuzumabem. Léčba bendamustin-hydrochloridem může způsobit déletrvající lymfocytopenii (< 600/μl) a nízký počet CD4-pozitivních T-buněk (T-helper buněk) (< 200/μl), které mohou přetrvávat minimálně 7-9 měsíců po ukončení léčby. Lymfocytopenie a vyčerpání CD4-pozitivních T-buněk jsou výraznější, pokud je bendamustin kombinovaný s rituximabem.
+Pacienti s lymfopenií a nízkým počtem CD4-pozitivních T-buněk jsou po léčbě bendamustin- hydrochloridem náchylnější k (oportunním) infekcím. V případě nízkého počtu CD4-pozitivních T- buněk (< 200/μl) je třeba zvážit profylaxi pneumonie způsobené Pneumocystis jirovecii (PJP). Všichni pacienti mají být v průběhu léčby sledováni pro případ respiračních potíží a symptomů. Pacienty je třeba poučit, aby neprodleně hlásili nové známky infekce, včetně horečky nebo respiračních symptomů. V případě příznaků (oportunních) infekcí je třeba zvážit vysazení bendamustin-hydrochloridu.
+
+U pacientů s novými nebo zhoršujícími se neurologickými, kognitivními nebo behaviorálními známkami nebo příznaky zvažte při diferenciální diagnóze PML. Vyskytne-li se podezření na PML, mají být provedena příslušná diagnostická hodnocení a léčba má být odložena, dokud nebude PML vyloučena.
+
+Reaktivace hepatitidy B
+U pacientů, kteří jsou chronickými nosiči viru hepatitidy B, došlo po podání bendamustin-hydrochloridu k reaktivaci onemocnění. Některé případy vyústily v akutní jaterní selhání nebo úmrtí. Před zahájením léčby bendamustin-hydrochloridem mají být pacienti testováni na HBV infekci. U pacientů s pozitivními testy na hepatitidu B (včetně pacientů s aktivním onemocněním) se má před zahájením léčby uskutečnit konzultace s hepatology a odborníky na léčbu hepatitidy B, totéž platí pro pacienty s pozitivním testem HBV infekce během léčby. Nosiči HBV, kteří vyžadují léčbu bendamustin- hydrochloridem, mají být v průběhu léčby a po dobu několika měsíců po jejím ukončení pečlivě sledováni pro známky a příznaky aktivní HBV infekce (viz bod 4.8).
+
+Kožní reakce
+Byly hlášeny četné kožní reakce, mezi nimi vyrážka, závažné kožní reakce a bulózní exantém. Při používání bendamustin-hydrochloridu byly zaznamenány případy Stevensova-Johnsonova syndromu (SJS), toxické epidermální nekrolýzy (TEN) a lékové reakce s eozinofilií a systémovými příznaky (DRESS), některé z nich fatální. Pacienti mají být předepisujícími lékaři poučeni o příznacích těchto reakcí a mají být informováni, aby okamžitě vyhledali lékařskou pomoc, pokud se tyto příznaky objeví.
+3
+
+Některé z těchto případů nastaly při podání bendamustin-hydrochloridu v kombinaci s dalšími protinádorovými látkami; takže přesný vztah je nejistý. Pokud se kožní reakce vyskytnou, mohou s další léčbou progredovat a jejich závažnost se může zvyšovat. Jestliže kožní reakce progredují, podávání bendamustinu je nutno přerušit nebo ukončit. V případě závažných kožních reakcí s podezřením na souvislost s bendamustin-hydrochloridem, je třeba léčbu přerušit.
+
+Nemelanomové maligní nádorové onemocnění kůže
+V klinických studiích bylo u pacientů s léčbou zahrnující bendamustin pozorováno zvýšené riziko nemelanomových maligních nádorových onemocnění kůže (bazocelulární karcinom a dlaždicobuněčný karcinom). U všech pacientů, zejména s rizikovými faktory maligního nádorového onemocnění kůže, se doporučuje provádět pravidelné vyšetření kůže.
+Srdeční poruchy
+Během léčby bendamustin-hydrochloridem musí být pečlivě sledována koncentrace draslíku v krvi u pacientů se srdečními poruchami a při K⁺ < 3,5 mEq/l se musí podávat doplňky s obsahem draslíku; musí být také provedeno EKG vyšetření. Smrtelné případy infarktu myokardu a srdečního selhání byly hlášeny při léčbě bendamustin-hydrochloridem. Pacienti se srdečním onemocněním i v anamnéze mají být pečlivě sledováni.
+Nauzea, zvracení
+K symptomatické léčbě nauzey a zvracení lze podat antiemetikum.
+
+Syndrom nádorového rozpadu
+U pacientů v klinických studiích byl hlášen syndrom nádorového rozpadu (tumour lysis syndrom, TLS) spojený s léčbou bendamustin-hydrochloridem. Obvykle se projevuje během 48 hodin po první dávce bendamustin-hydrochloridu a není-li léčen, může vést k akutnímu renálnímu selhání a úmrtí. Před zahájením léčby je vhodné zvážit preventivní opatření, jako zajištění dostatečné hydratace, pečlivé sledování chemických parametrů krve, především hladin draslíku a kyseliny močové, a dále využití hypourikemických látek (alopurinol a rasburikasa). Při konkomitantním podání bendamustinu a alopurinolu bylo hlášeno několik případů Stevensova-Johnsonova syndromu a toxické epidermální nekrolýzy.
+
+Anafylaxe
+V klinických studiích se reakce na infuzi bendamustin-hydrochloridu vyskytly často. Příznaky jsou obvykle mírné a zahrnují horečku, třesavku, pruritus a vyrážku. Ve vzácných případech se vyskytly těžké anafylaktické a anafylaktoidní reakce. Po prvním cyklu léčby je nutno se pacientů zeptat, zda zaznamenali příznaky, které by ukazovaly na reakci na infuzi. U pacientů, u kterých se v minulosti vyskytly reakce na infuzi, je během následujících cyklů nutno zvážit preventivní opatření proti závažným reakcím, včetně antihistaminik, antipyretik a kortikosteroidů.
+Pacientům, u kterých se vyskytly reakce alergického typu 3. nebo vyššího stupně, obvykle nebyl přípravek znovu podán.
+Antikoncepce
+Bendamustin-hydrochlorid je teratogenní a mutagenní.
+Ženy nemají otěhotnět během léčby. Muži nemají počít dítě během léčby a až do 6 měsíců po ní. Z důvodů možné ireverzibilní infertility se mají před zahájením léčby bendamustin-hydrochloridem informovat o konzervaci spermatu.
+Extravazace
+Extravazální injekce musí být okamžitě přerušena. Po krátké aspiraci je nutno jehlu vyjmout. Poté je třeba postiženou oblast tkáně chladit. Paži je třeba zvednout. Další léčba, jako např. podání kortikosteroidů, nemá jasný přínos.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+4
+
+Žádné studie interakcí in vivo nebyly provedeny.
+
+Je-li bendamustin podáván v kombinaci s myelosupresivními látkami, může být účinek bendamustinu a/nebo souběžně podávaných léčivých přípravků na kostní dřeň zesílen. Jakákoli léčba, která snižuje stav tělesné výkonnosti pacienta nebo oslabuje funkci kostní dřeně, může zvýšit toxicitu bendamustinu.
+
+Kombinace bendamustinu s cyklosporinem nebo takrolimem může vést k nadměrné imunosupresi s
+rizikem lymfoproliferace.
+
+Cytostatické látky mohou snížit tvorbu protilátek po očkování vakcínami obsahujícími živé viry a zvýšit riziko infekce, což může mít fatální důsledky. Toto riziko je zvýšené u pacientů, kteří již jsou imunosuprimovaní následkem jejich základního onemocnění.
+
+Na metabolismu bendamustinu se podílí izoenzym 1A2 cytochromu P450 (CYP) (viz bod 5.2). Existuje tudíž možnost interakce s inhibitory CYP1A2, jako např. fluvoxaminem, ciprofloxacinem, aciklovirem a cimetidinem.
+Pediatrická populace
+Studie interakcí byly provedeny pouze u dospělých.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Údaje o podávání bendamustinu těhotným ženám jsou nedostatečné. V neklinických studiích se bendamustin-hydrochlorid ukázal jako embryoletální/fetoletální, teratogenní a genotoxický (viz bod 5.3). Bendamustin lze v těhotenství použít pouze tehdy, pokud je to nezbytně nutné.
+Matku je nutno informovat o riziku pro plod. Pokud je léčba bendamustinem během těhotenství nezbytně nutná nebo pokud dojde k otěhotnění během léčby, pacientka musí být informována o rizicích pro nenarozené dítě a pečlivě sledována. Má se zvážit možnost genetického poradenství.
+
+Fertilita
+Ženy ve fertilním věku musí před zahájením léčby bendamustinem i během ní používat účinnou
+antikoncepci.
+Mužům léčeným bendamustinem se doporučuje, aby nepočali dítě během léčby a po dobu až 6 měsíců po jejím ukončení. Protože léčba bendamustinem může vést k ireverzibilní infertilitě, muži se mají před zahájením léčby poradit o konzervaci spermatu.
+
+Kojení
+Není známo, zda se bendamustin vylučuje do mateřského mléka, a proto je podávání bendamustinu
+během kojení kontraindikováno (viz bod 4.3). Kojení musí být během léčby bendamustinem přerušeno.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Bendamustine Accord má výrazný vliv na schopnost řídit nebo obsluhovat stroje.
+Během léčby bendamustin-hydrochloridem byla hlášena ataxie, periferní neuropatie a somnolence (viz
+bod 4.8).
+
+Pacienty je nutno poučit, aby se vyhnuli potenciálně nebezpečným činnostem, jako např. řízení dopravních prostředků a obsluha strojů, jestliže se u nich tyto příznaky vyskytnou.
+
+4.8  Nežádoucí účinky
+
+
+
+
+5
+
+Nejčastějšími nežádoucími účinky při používání bendamustin-hydrochloridu jsou hematologické nežádoucí účinky (leukopenie, trombocytopenie), dermatologická toxicita (alergické reakce), systémové příznaky (horečka) a gastrointestinální příznaky (nauzea, zvracení).
+
+Níže uvedená tabulka uvádí údaje získané s bendamustin-hydrochloridem.
+
+Tabulka 1: Nežádoucí účinky u pacientů léčených bendamustin-hydrochloridem.
+
+
+Třídy orgánových systémů podle MedDRA
+
+Infekce a infestace
+
+
+
+
+
+
+
+
+
+Novotvary benigní, maligní a blíže
+neurčené (včetně cyst a polypů) Poruchy krve a
+lymfatickéh o systému
+
+Poruchy imunitního systému
+
+Poruchy
+nervového systému
+
+
+
+
+
+
+
+
+
+Srdeční
+poruchy
+Velmi časté
+≥1/10
+
+
+
+
+infekce NOS,
+včetně oportunní infekce (herpes zoster, cytomegalo virus, hepatitida B)
+
+
+
+
+
+
+
+leukopenie NOS,
+trombocyto penie, lymfopenie
+
+
+
+
+bolest hlavy
+Časté
+≥1/100 až
+<1/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+syndrom nádorovéh o rozpadu
+
+
+
+
+krvácení, anemie, neutropeni e
+
+hypersenzi tivita NOS
+
+
+insomnie,
+závrať
+
+
+
+
+
+
+
+
+
+
+srdeční
+dysfunkce,
+Méně časté
+≥1/1000 až
+<1/100
+
+
+
+pneumonie způsobená Pneumocystis jirovecii
+
+
+
+
+
+
+
+Myeolodyspl astický syndrom, akutní myeloidní leukemie
+
+pancytopenie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+perikardiální výpotek,
+Vzácné
+≥1/10000
+až <1/1000
+
+
+
+sepse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+selhání kostní dřeně
+
+
+anafylaktic ká reakce, anafylaktoi dní reakce somnolence
+, afonie
+Velmi
+vzácné
+<1/10000
+
+
+
+primární atypická pneumonie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hemolýza
+
+
+
+
+anafylaktic
+ký šok
+
+
+dysgeuzie, parestezie, periferní senzorická neuropatie, anticholiner gní syndrom, neurologick é poruchy, ataxie, encefalitida tachykardie
+Není známo (z dostupný ch údajů nelze
+určit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fibrilace
+síní
+6
+
+
+
+
+
+
+Cévní
+poruchy
+
+Respirační, hrudní a mediastinál ní poruchy
+jako např. palpitace, angina pectoris, arytmie hypotenze, hypertenze
+
+plicní
+dysfunkce
+infarkt myokardu, srdeční selhání
+
+
+
+
+
+akutní oběhové selhání
+
+
+
+
+
+flebitida
+
+
+plicní fibróza
+
+
+
+
+
+
+
+
+pneumoni tida, plicní alveolární krvácení
+
+
+Gastrointest inální poruchy
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy
+reprodukční ho systému a prsu Poruchy ledvin a močových cest Poruchy jater a žlučových cest
+Celkové poruchy a reakce v
+nauzea,
+zvracení
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+zánět
+sliznice,
+průjem, zácpa, stomatitida
+
+
+
+alopecie, poruchy kůže NOS, kopřivka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amenorea
+
+
+
+
+
+
+
+
+
+
+
+bolest,
+třesavka,
+
+
+
+
+
+
+erytém, dermatitida, pruritus, makulopap ulózní vyrážka, hyperhidróz a
+hemoragick á ezofagitida, gastrointest inální krvácení
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+infertilita
+
+
+
+
+
+
+
+
+
+
+
+multiorgán ové selhání
+
+
+
+
+
+
+Stevensů v- Johnsonů v syndrom, toxická epidermál ní nekrolýza (TEN),
+léková
+reakce
+s eozinofi lií a systémov ými příznaky (DRESS)
+*
+
+
+
+
+renální selhání
+
+
+jaterní selhání
+
+7
+
+místě aplikace Vyšetření
+únava, pyrexie snížení hladiny hemoglobin u, zvýšení hladiny kreatininu, zvýšení hladiny močoviny
+dehydratac e, anorexie zvýšení hladiny AST,
+zvýšení hladiny ALT,
+zvýšení hladiny alkalické fosfatázy, zvýšení hladiny bilirubinu, hypokalem ie
+NOS = blíže neurčeno (Not Otherwise Specified) (* kombinovaná léčba s rituximabem)
+Popis vybraných nežádoucích účinků
+Byly hlášeny ojedinělé případy nekrózy po náhodném extravazálním podání, syndrom nádorového
+rozpadu a anafylaxe.
+
+Riziko myelodysplastického syndromu a akutních myeloidních leukemií je u pacientů léčených alkylačními látkami (všetně bendamustinu) vyšší. Sekundární malignita může vzniknout i několik let po ukončení chemoterapie.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+
+Maximální tolerovaná dávka (MTD) po podání 30minutové infuze bendamustinu jednou každé 3 týdny byla 280 mg/m². Vyskytly se srdeční příhody CTC stupně 2, které se shodovaly s ischemickými změnami na EKG a které byly považovány za dávku omezující.
+V následné studii hodnotící 30minutovou infuzi bendamustinu v den 1 a 2 každé 3 týdny činila MTD 180 mg/m². Dávku omezující toxicitou byla trombocytopenie stupně 4. Srdeční toxicita při tomto režimu dávku neomezovala.
+
+Protiopatření
+Neexistuje žádné specifické antidotum. Účinnými protiopatřeními, která potlačují hematologické nežádoucí účinky, jsou transplantace kostní dřeně a transfuze (trombocytů, erymasy) nebo podání hematologických růstových faktorů.
+Bendamustin-hydrochlorid a jeho metabolity jsou v malé míře dialyzovatelné.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+8
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: cytostatika, alkylační látky. ATC kód: L01AA09.
+Bendamustin-hydrochlorid je alkylační protinádorová látka s jedinečnou aktivitou. Antineoplastický a cytocidní účinek bendamustin-hydrochloridu je v podstatě založen na zesíťování jednovláknové a dvouvláknové DNA prostřednictvím alkylace, což vede k narušení templátových funkcí DNA a narušení syntézy a opravy DNA. Protinádorový účinek bendamustin-hydrochloridu byl prokázán u různých lidských nádorových buněčných linií (karcinomu prsu, nemalobuněčného a malobuněčného karcinomu plic, karcinomu vaječníku a různých typů leukémie) v několika studiích in vitro, a u nádorů z buněk myšího, potkaního a lidského původu (melanomu, karcinomu prsu, sarkomu, lymfomu, leukémie a malobuněčného karcinomu plic) v různých experimentálních nádorových modelech in vivo.
+
+V lidských nádorových buněčných liniích vykázal bendamustin-hydrochlorid profil účinku odlišný od profilu jiných alkylačních látek. Bendamustin-hydrochlorid nevykázal zkříženou rezistenci, nebo jen velmi nízkou zkříženou rezistenci v lidských nádorových buněčných liniích s různými mechanismy rezistence; tato vlastnost je alespoň částečně daná poměrně pevnou vazbou na DNA. Navíc klinické studie ukázaly, že neexistuje úplná zkřížená rezistence bendamustinu s antracykliny, alkylačními látkami nebo rituximabem. Počet hodnocených pacientů je však nízký.
+Chronická lymfocytární leukémie
+Indikaci pro použití k léčbě chronické lymfocytární leukémie podporuje jedna otevřená studie srovnávající bendamustin s chlorambucilem. Do této prospektivní, multicentrické, randomizované studie bylo zařazeno 319 dříve neléčených pacientů s chronickou lymfocytární leukémií stupně B nebo C dle Bineta vyžadující léčbu. První linie léčby bendamustin-hydrochloridem v dávce 100 mg/m² i.v. v den 1 a 2 (BEN) byla srovnána s léčbou chlorambucilem v dávce 0,8 mg/kg v den 1 a 15 (CLB) po dobu 6 cyklů v obou ramenech. Pacientům byl podán alopurinol za účelem prevence syndromu nádorového rozpadu.
+Pacienti léčení režimem BEN vykázali významně delší medián přežití bez progrese než pacienti léčení režimem CLB (21,5 versus 8,3 měsíců, p < 0,0001, v době poslední kontroly). Rozdíl v celkovém přežití nebyl statisticky významný (medián nedosažen). Medián trvání remise byl 19 měsíců při léčbě BEN a 6 měsíců při léčbě CLB (p < 0,0001). Hodnocení bezpečnosti v obou léčebných ramenech neodhalilo žádný neočekávaný typ nebo četnost nežádoucích účinků. Dávka BEN byla snížena u 34 % pacientů. U 3,9 % pacientů byla léčba režimem BEN zastavena z důvodu alergických reakcí.
+
+Indolentní non-Hodgkinovy lymfomy
+Indikace pro indolentní non-Hodgkinovy lymfomy jsou založeny na dvou nekontrolovaných studiích fáze II.
+V pivotní prospektivní, multicentrické, otevřené studii bylo bendamustin-hydrochloridem v monoterapii léčeno 100 pacientů s indolentními B-buněčnými non-Hodgkinovými lymfomy refrakterními na rituximab podávaný v monoterapii nebo v kombinované terapii. Pacienti obdrželi v mediánu 3 předchozí léčebné cykly chemoterapie nebo biologické terapie. Medián počtu předchozích terapií obsahujících rituximab činil 2. Pacienti nevykázali odpověď na léčbu nebo zaznamenali progresi během 6 měsíců po léčbě rituximabem. Dávka BEN činila 120 mg/m² i.v. v den 1 a 2 a byla plánována na nejméně 6 cyklů. Délka trvání léčby závisela na odpovědi (plánováno 6 cyklů). Celková četnost odpovědí byla 75 %, což zahrnovalo 17 % úplných odpovědí (complete response, CR, a CRu) a 58 % částečných odpovědí, na základě posouzení nezávislou hodnotící komisí. Medián doby trvání remise byl 40 týdnů. BEN podávaný dle výše uvedeného dávkování a schématu je obvykle snášen dobře.
+
+Tuto indikaci také podporuje další prospektivní, multicentrická, otevřená studie, které se zúčastnilo 77 pacientů. Populace pacientů zde byla více heterogenní a zahrnovala: indolentní nebo transformované B- buněčné non-Hodgkinovy lymfomy refrakterní na rituximab v monoterapii nebo kombinované terapii. Pacienti nevykázali odpověď nebo vykázali progresi během 6 měsíců nebo se u nich vyskytla nežádoucí
+
+9
+
+reakce na předchozí léčbu rituximabem. Pacienti obdrželi v mediánu 3 předchozí léčebné cykly chemoterapie nebo biologické terapie. Medián počtu předchozích terapií obsahujících rituximab činil 2. Celková četnost odpovědí byla 76 % s mediánem doby trvání odpovědi 5 měsíců (29 [95% CI 22,1; 43,1] týdnů).
+
+Mnohočetný myelom
+Sto třicet jedna pacientů s pokročilým mnohočetným myelomem (stadia II s progresí nebo stadia III dle Durie-Salmona) bylo zařazeno do prospektivní, multicentrické, randomizované, otevřené studie. Léčba první linie bendamustin-hydrochloridem v kombinaci s prednisonem (BP) byla porovnána s léčbou melfalanem a prednisonem (MP). Snášenlivost v obou léčebných ramenech byla v souladu se známým bezpečnostním profilem příslušných léčivých přípravků s významně větším snížením dávky v rameni BP. Dávka se skládala z bendamustin-hydrochloridu 150 mg/m² i.v. v den 1 a 2 a prednisonu, nebo melfalanu 15 mg/m² i.v. v den 1 a prednisonu. Doba trvání léčby závisela na odpovědi a byla v průměru 6,8 cyklů ve skupině BP a 8,7 cyklů ve skupině MP.
+
+Pacienti léčení režimem BP vykázali delší medián přežití bez progrese než pacienti léčení režimem MP (15 [95% CI 12-21] versus 12 [95% CI 10-14] měsíců) (p=0,0566). Medián doby do selhání léčby byl 14 měsíců při léčbě BP a 9 měsíců při léčbě MP. Remise trvala 18 měsíců při léčbě BP a 12 měsíců při léčbě MP. Rozdíl v celkovém přežití nebyl statisticky významný (35 měsíců pro BP rameno versus 33 měsíců pro rameno MP). Snášenlivost v obou léčebných ramenech byla v souladu se známým bezpečnostním profilem příslušných léčivých přípravků; s významně větším snížením dávky v rameni BP.
+
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Poločas eliminace t1/2beta po 30minutové i.v. infuzi dávky 120 mg/m² tělesného povrchu u 12 subjektů
+byl 28,2 minuty.
+Centrální distribuční objem po 30minutové i.v. infuzi činil 19,3 l. Za podmínek rovnovážného stavu po
+i.v. bolusové injekci byl distribuční objem 15,8-20,5 l.
+Více než 95 % látky se váže na plazmatické bílkoviny (především na albumin).
+Biotransformace
+Hlavní cestou clearance bendamustinu je hydrolýza na monohydroxy- a dihydroxy-bendamustin. Na tvorbě  N-desmethylbendamustinu  a  gama-hydroxybendamustinu  prostřednictvím  jaterního metabolismu se podílí izoenzym 1A2 cytochromu P450 (CYP). Další významnou metabolickou cestu bendamustinu představuje konjugace s glutathionem.
+Bendamustin neinhibuje CYP 1A4, CYP 2C9/10, CYP 2D6, CYP 2E1 nebo CYP 3A4 in vitro.
+Eliminace
+Průměrná celková clearance po 30minutové i.v. infuzi dávky 120 mg/m² tělesného povrchu u 12 subjektů činila 639,4 ml/min. Přibližně 20 % podané dávky bylo vyloučeno močí během 24 hodin. Bendamustin  a  jeho  metabolity  lze  podle  množství  vyloučených  močí  seřadit  následovně: monohydroxybendamustin > bendamustin > dihydroxybendamustin > oxidovaný metabolit > N- desmethylbendamustin. Žlučí jsou vylučovány zejména polární metabolity.
+Porucha funkce jater
+U pacientů, u kterých byla játra zasažena nádorem v rozsahu 30-70 % a kteří měli mírnou poruchu funkce jater (sérový bilirubin < 1,2 mg/dl), nebylo farmakokinetické chování bendamustinu změněno. Co se týče Cmax, tmax, AUC, t1/2beta, distribučního objemu nebo clearance, nebyl v porovnání s pacienty s normální funkcí jater a ledvin zaznamenán významný rozdíl. AUC a celková tělesná clearance bendamustinu inverzně korelují se sérovým bilirubinem.
+Porucha funkce ledvin
+
+
+10
+
+U pacientů s clearance kreatininu > 10 ml/min, včetně pacientů závislých na dialýze, nebyl pozorován žádný významný rozdíl v Cmax, tmax, AUC, t1/2beta, distribučním objemu nebo clearance ve srovnání s pacienty s normální funkcí jater a ledvin.
+Starší pacienti
+Do farmakokinetických studií byly zahrnuty subjekty až do věku 84 let. Vyšší věk farmakokinetiku bendamustinu neovlivňuje.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Nežádoucí účinky, které nebyly pozorovány v klinických studiích, byly však pozorovány u zvířat při hladinách expozice podobných klinickým hladinám expozice, a mohou být tudíž relevantní pro klinické použití, byly následující:
+Histologická vyšetření u psů ukázala makroskopicky viditelnou hyperemii sliznice a krvácení v gastrointestinálním traktu. Mikroskopická vyšetření ukázala rozsáhlé změny lymfatické tkáně svědčící o imunosupresi a tubulární změny ledvin a varlat, jakož i atrofické, nekrotické změny epitelu prostaty. Studie na zvířatech prokázaly, že bendamustin je embryotoxický a teratogenní.
+Bendamustin vyvolává chromozomální aberace a je mutagenní in vivo, jakož i in vitro. V dlouhodobých studiích na samicích myší je bendamustin kancerogenní.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Mannitol
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3  Doba použitelnosti
+
+3 roky.
+
+Prášek musí být rekonstituován ihned po otevření injekční lahvičky. Rekonstituovaný koncentrát se musí ihned naředit 0,9% roztokem chloridu sodného.
+Infuzní roztok
+Chemická a fyzikální stabilita po rekonstituci a naředění byla prokázána po dobu 3,5 hodiny při 25 °C
+nebo po dobu 2 dní při 2 °C až 8 °C v polyethylenovém vaku.
+
+Z mikrobiologického hlediska má být roztok použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání před použitím jsou v odpovědnosti uživatele.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky uchovávání. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+Podmínky uchovávání rekonstituovaného nebo naředěného léčivého přípravku viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+
+
+11
+
+Injekční lahvička o objemu 10 ml nebo 50 ml z jantarově hnědého skla třídy I s brombutylovou pryžovou zátkou a hliníkovým odtrhovacím víčkem.
+
+10ml injekční lahvičky obsahují bendamustini hydrochloridum 25 mg a jsou dodávány v baleních po 5,
+10 a 20 injekčních lahvičkách.
+
+50ml injekční lahvičky obsahují bendamustini hydrochloridum 100 mg a jsou dodávány v baleních po 1 a 5 injekčních lahvičkách.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Při zacházení s bendamustinem je nutno zabránit nadýchání, styku s kůží nebo sliznicemi (používejte rukavice a ochranný oděv!). Kontaminované části těla je nutno pečlivě omýt vodou a mýdlem, oči je nutno vypláchnout fyziologickým roztokem chloridu sodného. Pokud je to možné, doporučuje se pracovat ve speciálních bezpečnostních boxech (s laminárním prouděním) se savou, pro tekutiny nepropustnou podložkou na jedno použití. Těhotné ženy s cytostatiky nesmí zacházet.
+Prášek pro koncentrát pro infuzní roztok musí být rekonstituován vodou pro injekci, naředěn injekčním roztokem chloridu sodného o koncentraci 9 mg/ml (0,9 %), a poté podán intravenózní infuzí. Musí být použita aseptická technika.
+
+1. Rekonstituce
+Obsah jedné injekční lahvičky přípravku Bendamustine Acccord 2,5 mg/ml prášku pro koncentrát pro infuzní roztok s 25 mg bendamustin-hydrochloridu se nejdříve rekonstituuje protřepáním v 10 ml vody pro injekci.
+Obsah jedné injekční lahvičky přípravku Bendamustine Acccord 2,5 mg/ml prášku pro koncentrát pro infuzní roztok se 100 mg bendamustin-hydrochloridu se nejdříve rekonstituuje protřepáním ve 40 ml vody pro injekci.
+Rekonstituovaný koncentrát obsahuje 2,5 mg bendamustin-hydrochloridu na 1 ml a jeví se jako čirý, bezbarvý roztok.
+
+2. Ředění
+Jakmile se roztok stane čirým (obvykle po 5-10 minutách), ihned nařeďte celkovou doporučenou dávku přípravku Bendamustine Acccord 2,5 mg/ml prášku pro koncentrát pro infuzní roztok 0,9% roztokem chloridu sodného do konečného objemu přibližně 500 ml.
+Bendamustine Acccord 2,5 mg/ml prášek pro koncentrát pro infuzní roztok musí být naředěn 0,9%
+roztokem chloridu sodného, a nikoli jiným injekčním roztokem.
+
+3. Podání
+Roztok je podáván intravenózní infuzí trvající 30-60 minut.
+Injekční lahvičky jsou určeny pouze k jednorázovému použití.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Accord Healthcare Polska Sp. z o.o. ul. Taśmowa 7
+02-677, Varšava Polsko
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+12
+
+44/594/15-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 16. 12. 2015
+Datum posledního prodloužení registrace: 8. 9. 2020
+
+10.  DATUM REVIZE TEXTU
+
+29. 12. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13

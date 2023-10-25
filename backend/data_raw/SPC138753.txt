@@ -1,0 +1,338 @@
+Sp.zn. sukls146274/2017
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Calrecia 100 mmol/l infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Přípravek Calrecia je dodáván ve vaku s 1500 ml roztoku připraveného k použití. 1000 ml infuzního roztoku obsahuje:
+Calcii chloridum dihydricum    14,7 g
+
+Ca2+              100 mmol
+Cl-                200 mmol
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok.
+Roztok je čirý a bezbarvý a bez viditelných částic.
+
+Teoretická osmolarita:     300 mOsm/l pH:                5,0 – 7,0
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Přípravek Calrecia se používá k substituci vápníku při kontinuální renální substituční terapii (CRRT),
+při pomalé nízkoúčinné denní dialýze (SLEDD) a během terapeutické výměny plazmy (TPE) za použití citrátu pro antikoagulaci.
+
+Přípravek Calrecia je indikován u dospělých a dětí.
+
+4.2  Dávkování a způsob podání
+
+Aplikace přípravku Calrecia se má provádět pouze na základě předpisu lékaře, který je seznámen s citrátovou antikoagulací v konkrétním režimu CRRT, SLEDD a TPE.
+Dávkování
+Dospělí
+Přípravek Calrecia se aplikuje v množství, které je dostatečné k udržení koncentrace systémového ionizovaného vápníku v požadovaném rozsahu. Není-li stanoveno jinak, dávkování má směřovat k normálnímu rozmezí systémového ionizovaného vápníku. Cílový rozsah nesmí být nižší než 0,9 mmol/l systémového ionizovaného vápníku.
+
+1
+
+Množství přípravku Calrecia potřebné k udržení koncentrace systémového ionizovaného vápníku v požadovaném rozsahu závisí na:
+- Množství vápníku odebraného během CRRT, SLEDD a TPE.
+-  Množství vápníku potřebného k vyrovnání účinků citrátu proniklého do systémového oběhu, který může pocházet z citrátového roztoku používaného pro lokální antikoagulaci nebo z plazmatických přípravků používaných jako substituční roztok v TPE.
+- Přesunech vápníku mezi plasmou a dalšími kompartmenty pacientova těla.
+- Jakékoli zamýšlené změně základní systémové koncentrace vápníku.
+- Vlivu jakýchkoli dalších léčebných intervencí ovlivňujících koncentraci ionizovaného vápníku daného pacienta.
+
+Pro odhad odebraného množství vápníku během CRRT, SLEDD a TPE má předepisující lékař vzít v úvahu:
+- Propustnost filtrační membrány pro vápník a komplexy vápníku s citrátem.
+- Koncentraci vápníku v jakékoliv tekutině aplikované během CRRT, SLEDD a TPE, jako jsou
+dialyzační roztoky, roztoky pro hemofiltraci nebo substituční roztoky používané v TPE.
+-  Předepsaný průtok krve a také průtok všech ostatních tekutin předepsaný během léčby; to konkrétně zahrnuje průtok dialyzátu, tzn. tekutinu, která byla vyřazena z mimotělního oběhu a se kterou byl eliminován i vápník. Při CRRT je běžná dávka vápníku v dialyzátu 1,7 - 1,8 mmol/l.
+
+
+Dávkování přípravku Calrecia musí být kontrolováno pravidelným měřením systémového
+ionizovaného vápníku. Na základě těchto kontrol je třeba provést úpravy průtoku přípravku Calrecia, aby bylo dosaženo cílového rozsahu systémového ionizovaného vápníku.
+
+Doporučuje se maximální dávka 3 l/den a není určeno k dlouhodobému podávání.
+
+Pediatrická populace
+Dávkování přípravku Calrecia u dětí je stejné jako u dospělých. Vzhledem k tomu, že dětem se obecně předepisuje nižší průtok dialyzátu je i nižší absolutní průtok přípravku Calrecia.
+
+Způsob podávání
+-  Infuzi podávejte pouze pumpou zařízení k extrakorporálnímu čištění krve, které je výrobcem určeno pro infuzi roztoku chloridu vápenatého o koncentraci 100 mmol/l a umožňuje vhodné vyvážení objemů tekutin.
+- Infuzi podávejte pouze do mimotělního krevního oběhu nebo, pokud to doporučuje instrukce pro
+použití zařízení k extrakorporálnímu čištění krve, prostřednictvím samostatného centrálního žilního vstupu. Přípravek Calrecia není určen pro intramuskulární nebo subkutánní podání.
+-  Musí být dodrženy pokyny výrobce pro použití zařízení pro extrakorporální čištění krve a pokyny pro použití hadiček pro vedení krve.
+
+Návod k použití léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+
+4.3  Kontraindikace
+
+- Hyperkalcemie (viz bod 4.4)
+- Hyperchloremie (viz bod 4.4)
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Infuze chloridu vápenatého má být použita s opatrností u pacientů léčených digitalisovými glykosidy. U pacientů s rizikem vzniku srdeční arytmie má být během citrátové antikoagulace a infuze vápníku zvážena nepřetržitá kontrola elektrokardiogramu (viz bod 4.5).
+
+2
+
+Komorbidity ovlivňující metabolismus vápníku a vylučování vápníku, jako je například nefrokalcinóza, hyperkalciurie a předávkování vitamínem D, mají být pečlivě zvažovány při
+předepisování přípravku Calrecia. Může být zapotřebí upravit dávkování a mají být pečlivě sledovány hladiny vápníku v krvi. Pre-existující hyperkalcemie má být korigována snížením počáteční rychlosti infuze vápníku a důsledným sledováním hladin vápníku v krvi. Před zahájením citrátové antikoagulace má být korigována pre-existující hypokalcemie. Pre-existující hyperchloremie může být korigována vhodnými dialyzačními podmínkami; může být aplikován alternativně upravený infuzní roztok ochuzený o chloridy.
+
+Během použití zařízení na extrakorporální čištění krve musí být dodržována bezpečnostní opatření. Elektrolytová a acidobazická rovnováha musí být pravidelně kontrolována během citrátové antikoagulace v průběhu extrakorporálního čištění krve. Při infuzi do mimotělního oběhu musí být místo infuze přípravku Calrecia pravidelně kontrolováno na známky lokálně se vyvíjejících sraženin a pokud by se objevily, je potřeba zvážit změnu použitého mimotělního oběhu.
+
+Během aplikace přípravku Calrecia se musí pravidelně kontrolovat koncentrace ionizovaného vápníku v séru. V průběhu čištění krve musí být u pacienta zváženo množství vápníku a jeho změny v průběhu terapie.
+Pokud je přítomna hypokalcémie nebo má tendenci k rozvoji, může být zapotřebí zahájení
+suplementace nebo zvýšení dávky dodávaného vápníku. Pokud je přítomna hyperkalcémie nebo má
+tendenci se vyvíjet (např. způsobená akumulací vápníku v důsledku neúčinné purifikace krve z důvodu zanesené membrány nebo v důsledku předávkování), může být zapotřebí snížit množství dodávaného vápníku.
+Akumulace citrátů může způsobit hypokalcémii a neočekávaně vysokou potřebu infuze přípravku Calrecia, a to za účelem stabilizace hodnot systémového ionizovaného vápníku v požadovaném rozsahu. Citrátová antikoagulace má většinou za následek mírné zvýšení systémové koncentrace citrátu a v systému přítomných chelátových komplexů vápníku a citrátu.
+V případě poškození metabolismu citrátu může dojít k akumulaci citrátu. Poměr celkového
+systémového vápníku k systémovému ionizovanému vápníku nad hodnotou 2,25 může být známkou klinicky relevantní akumulace citrátu a má být zvážena strategie ke snížení systémové expozice citrátu nebo má být zváženo úplné zastavení citrátem antikoagulovaného extrakorporálního čištění krve.
+Kromě monitorování systémového ionizovaného vápníku je třeba zvážit sledování hladin parathormonu a dalších parametrů kostního metabolismu, zejména pokud je trvání léčby prodlouženo (tj. déle než 2 týdny) nebo se opakovaně aplikuje citrátová antikoagulace.
+
+Po ukončení citrátem antikoagulovaného extrakorporálního čištění krve metabolismus citrátu
+pokračuje a vápník uvolněný z chelátových komplexů vápníku a citrátu může způsobit ionizovanou hyperkalcémii.
+
+Injekce chloridu vápenatého dráždí žíly a nesmí být aplikována do tkání, protože může dojít k těžké nekróze a odlučování tkáně. Velkou pozornost je třeba věnovat prevenci extravazace nebo náhodné infuze do perivaskulárních tkání. V případě perivaskulární infiltrace musí být intravenózní podání
+v tomto místě okamžitě ukončeno. Musí se zabránit nekontrolované infuzi (tj. použití pumpy určené pro infuzi vápníku), aby se minimalizovala rizika spojená s nepřesností dávkování.
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+V případě dalšího podávání vápníku jinými infuzními roztoky nebo léčivými přípravky je třeba zvážit
+jeho dávkování.
+
+K přípravku Calrecia nesmí být přidána žádná jiná látka nebo roztok. V případě, že se přípravek
+Calrecia aplikuje nikoliv přes mimotělní oběh, ale prostřednictvím samostatného centrálního žilního katétru, nesmí být lumen daného katétru použit pro paralelní infuzi. Roztok chloridu vápenatého je
+3
+
+nekompatibilní s různými jinými roztoky obsahujícími např. anorganické fosfáty, uhličitany, tetracyklinová antibiotika, ceftriaxon a další.
+
+Pacienti léčení digitalisovými glykosidy mohou po aplikaci roztoků obsahujících vápník vykazovat
+známky digitalisového předávkování (viz bod 4.4).
+
+Thiazidová diuretika snižují vylučování vápníku močí. Opatrnost je proto nutná, pokud jsou tyto léky podávány spolu s chloridem vápenatým a s jinými přípravky obsahujícími vápník.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání chloridu vápenatého těhotným ženám jsou omezené nebo nejsou k dispozici.
+Studie reprodukční toxicity na zvířatech jsou nedostatečné (viz bod 5.3). Podávání přípravku Calrecia se v těhotenství nedoporučuje, lze ho použít pouze tehdy, když klinický stav ženy vyžaduje léčbu CRRT, SLEDD nebo TPE.
+
+Kojení
+Vápník se do lidského mateřského mléka vylučuje, ale při podávání terapeutických dávek chloridu
+vápenatého se žádné účinky na kojené novorozence/kojence neočekávají.
+Přípravek Calrecia lze během kojení podávat, pokud klinický stav matky nevyvolává jiné obavy.
+
+Fertilita
+Žádné údaje o účinku chloridu vápenatého na plodnost nejsou k dispozici.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Není relevantní.
+
+4.8  Nežádoucí účinky
+
+Následující nežádoucí účinky lze očekávat v režimu léčby:
+Celkové poruchy a reakce v místě aplikace
+-  hypotermie
+
+Poruchy metabolismu a výživy
+-  hyper nebo hypohydratace
+-  hyperkalcémie při podání dávky přípravku Calrecia, která je považovaná za vhodnou. V takovém případě má být zvážena akumulace vápníku vzhledem k neefektivnímu čistění krve způsobenému zanesenou membránou (viz bod 4.4)
+-  hypokalcémie z důvodu nedostatečné dávky přípravku Calrecia. V takovém případě musí být zvážena akumulace citrátu související s citrátovou antikoagulační léčbou pro CRRT, SLEDD a TPE (viz bod 4.4)
+-  metabolická acidóza nebo alkalóza
+-  další poruchy elektrolytů (např. hypokalémie, hypofosfatémie)
+
+
+Cévní poruchy
+-  hypotenze.
+
+
+Následující nežádoucí účinky se považují za specifické pro léčbu přípravkem Calrecia:
+
+
+
+4
+
+Poranění, otravy a procedurální komplikace
+-  aplikace přípravku Calrecia jinými než určenými cestami podání (tj. infuze do mimotělního oběhu nebo centrální žilní infuze). V této souvislosti může dojít k podráždění v místě infuze. Extravazace může způsobit pálení, nekrózu a odlučování tkáně, celulitidu a kalcifikaci měkkých tkání
+
+Poruchy metabolismu a výživy
+- hyperkalcémie v důsledku předávkování přípravkem Calrecia (viz bod 4.9)
+Přesná frekvence výskytu těchto příhod není známa (z dostupných údajů nelze určit). Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+
+
+4.9  Předávkování
+
+Rychlé nebo nadměrné podávání vápenatých solí může vést k hyperkalcémii (celková plazmatická koncentrace >3 mmol/l, ionizovaný vápník >1,2 mmol/l). Příliš rychlá injekce vápenatých solí může také vést ke známkám a příznakům hyperkalcémie, stejně jako ke křídové chuti, brnění, návalům horka, nevolnosti, zvracení a periferní vazodilataci s hypotenzí, bradykardii, synkopě a arytmii
+s možností zástavy srdce.
+
+Známky a příznaky hyperkalcémie
+- Poruchy nervového systému, např. letargie, dezorientace, hyporeflexie
+- Srdeční poruchy, např. tachykardie a tendence k rozvoji srdeční arytmie, hypertenze, změny
+elektrokardiogramu (zkrácení QT intervalu)
+- Gastrointestinální poruchy, např. nevolnost, zvracení, zácpa, tendence k rozvoji vředů
+- Poruchy ledvin a močových cest, např. zvýšená diuréza, žízeň, akvaréza, renální depozice vápenatých solí
+- Celkové poruchy, např. únava.
+
+Hyperkalcemická krize (celková plazmatická koncentrace vápníku > 4 mmol/l) způsobuje zvracení, koliku, střevní atonii, střevní obstrukci, celkovou slabost, poruchy vědomí, počáteční zvýšené močení následované sníženou tvorbou moči nebo úplnou neschopností močení.
+
+Léčba
+Okamžité zastavení podávání nebo snížení dávky přípravku Calrecia.
+Zvláště v případech nadměrně zvýšené hladiny vápníku je nutná akutní redukce hladiny vápníku, proto v případě stále dostatečné renální funkce musí být za přísné kontroly rovnováhy tekutin a koncentrace elektrolytů v plazmě zvážena forsírovaná diuréza při současné infuzi normálního fyziologického roztoku (0,9 % NaCl). U pacientů s poruchou renální funkce může být indikována dialýza proti dialyzačnímu roztoku bez vápníku.
+
+
+
+
+
+
+5
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Roztoky elektrolytů - chlorid vápenatý
+ATC kód: B05XA07
+Roztok pro substituci vápníku v CRRT, SLEDD a TPE s využitím regionální citrátové antikoagulace.
+
+Základní principy extrakorporální purifikace krve a regionální citrátové antikoagulace např. CRRT, SLEDD a TPE
+Extrakorporální terapie čištění krve se používá pro různé indikace, například CRRT, SLEDD a TPE.
+Tyto terapie mají společné to, že krev je odebírána z pacientova krevního oběhu a je vedena mimotělním oběhem. Zde je krev čištěna od toxinů, jejichž typ se liší dle typu extrakorporálního čištění krve. Po vyčištění se krev znovu transfunduje do krevního oběhu pacienta. Metody
+extrakorporálního čištění krve obvykle vyžadují antikoagulaci, aby se zabránilo srážení krve
+v mimotělním oběhu. V závislosti na stavu pacienta a požadované metodě extrakorporálního čištění krve může předepisující lékař aplikovat regionální citrátovou antikoagulaci. V tomto případě je citrát infundován do krve odebrané od pacienta, kde vytváří rozpustné chelátové komplexy s ionizovaným vápníkem a tím snižuje koncentraci ionizovaného vápníku v krvi protékající mimotělním oběhem.
+
+V závislosti na individuální citrátem antikoagulované metodě extrakorporálního čištění krve je vápník extrahován z pacientovy krve v různém množství, což nutně vyžaduje substituci vápníku.
+Dále část infundovaného citrátu aplikovaného regionální citrátovou antikoagulací nevyhnutelně vstupuje do systémové cirkulace pacienta spolu s re-tranfundovanou krví. To vyvolává zvýšení systémové koncentrace citrátu, která se obecně stabilizuje na nové úrovni v závislosti na aktuální
+rychlosti infuze citrátu a metabolismu citrátu v játrech a jiných tkáních. V mimotělním oběhu citrát váže ionizovaný vápník a snižuje koncentraci systémového ionizovaného vápníku, což může být
+potlačeno substitucí vápníku.
+
+Chelátové komplexy vápníku a citrátu přítomné v krvi pacienta disociují, když je metabolizováno více citrátu než je do oběhu infundováno. V souvislosti s tím zůstává volný ionizovaný vápník v pacientově krvi a poté je v těle pacienta redistribuován, je nezbytný jak pro remodelování kostí, tak jako elektrolyt s klíčovými buněčnými funkcemi v celém těle (např. ve svalových buňkách a neuronech).
+
+
+5.2  Farmakokinetické vlastnosti
+
+Přípravek Calrecia musí být podáván pumpou zařízení k extrakorporálnímu čištění krve, které je určeno pro infuzi roztoku vápníku.
+
+Distribuce/ Biotransformace/ Eliminace
+Protože terapeutický účinek přípravku Calrecia na substituci vápníku v CRRT, SLEDD a TPE, které používají regionální citrátovou antikoagulaci, je omezen na stabilizaci vápníku v krvi pacienta na fyziologické úrovni, farmakokinetické vlastnosti vápníku podávaného infuzí přípravku Calrecia jsou považovány za identické s farmakokinetickými vlastnostmi vápníku, který se nachází endogenně
+v systémové cirkulaci, a je výsledkem fyziologické regulace vápníku v krvi.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neexistují žádné předklinické údaje, které by měly význam pro předepisujícího lékaře.
+
+
+
+
+6
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Voda pro injekci
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky. Látky, o nichž je známo, že jsou nekompatibilní s vápníkem, viz bod 4.5.
+
+6.3  Doba použitelnosti
+
+2 roky
+
+Doba použitelnosti po otevření: Obsah se musí spotřebovat ihned po otevření.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Chraňte před chladem nebo mrazem.
+
+6.5  Druh obalu a obsah balení
+Vak s 1500 ml infuzního roztoku připraveného k použití.
+
+Léčivý přípravek je dodáván v páru, jako dva totožné vaky s infuzním roztokem, které lze od sebe oddělit v místě švu. Vak s infuzním roztokem je vyroben z fólie na bázi polyolefinu. Každý vak je opatřen spojovací hadičkou vyrobenou z polyolefinu a konektorem vyrobeným z polykarbonátu a je krytý vícevrstvou ochrannou fólií.
+
+Velikosti balení
+8 vaků o objemu 1500 ml
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Likvidace
+Roztok je určen pouze k jednorázovému použití. Jakýkoliv nepoužitý roztok a přípravek v poškozeném obalu by měl být zlikvidován.
+Zacházení
+Před použitím vaku s roztokem je potřeba vzít v úvahu následující body:
+1. Oddělte od sebe dva vaky odtržením v místě švu.
+2. Přebal odstraňte pouze těsně před použitím roztoku. Zkontrolujte vak s roztokem (štítek, datum expirace, čirost roztoku, neponičený vak a přebal).
+Plastové obaly mohou být příležitostně poškozeny během přepravy od výrobce na dialyzační kliniku nebo do nemocnice nebo přímo na klinice nebo přímo v nemocnici. To může vést ke kontaminaci a růstu bakterií nebo plísní v roztoku. Proto je nezbytná pečlivá kontrola vaku
+a roztoku před jeho použitím. Zvláštní pozornost je třeba věnovat i nejmenšímu poškození uzávěru vaku, svařovacích švů a rohů vaku. Roztok může být použit pouze v případě, že je bezbarvý a čirý a pokud je vak a konektor nepoškozený a neporušený.
+3. Pověste vak na určený infuzní stojan s pomocí jeho otvoru na zavěšení.
+4. Pro připojení odstraňte ochranný kryt konektoru. Konektor se připojuje pouze k jeho
+protějšku, aby se zabránilo nesprávnému připojení. Nedotýkejte se nechráněné části, zejména se nedotýkejte vrchní části konektoru. Vnitřní část konektoru je sterilní a není určena
+k dalšímu ošetření chemickými dezinfekčními prostředky. Připojte konektor k vhodnému
+7
+
+protějšku a tlačte je proti sobě a otáčejte ve směru otáčení hodinových ručiček proti odporu až do bodu zastavení. Po připojení a fixaci můžete slyšet zvuk kliknutí.
+5. Pokračujte v dalších krocích, jak je uvedeno v popisu léčby.
+Roztok není určen k přidávání jakýchkoli léků a není určen k použití jako periferní intravenózní
+infuze. Viz také bod 4.2.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Medical Care Deutschland GmbH, Else-Kröner-Straße 1,
+61352 Bad Homburg v.d.H.,
+Německo
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+76/241/17-C
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+13. 3. 2019
+
+
+10.  DATUM REVIZE TEXTU
+
+13. 3. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8

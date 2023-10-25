@@ -1,0 +1,897 @@
+Sp. zn. sukls229241/2020
+a k sp. zn. sukls179759/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Duodopa 20 mg/ml + 5 mg/ml intestinální gel
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+1 ml obsahuje levodopum 20 mg a carbidopum monohydricum 5 mg.
+100 ml obsahuje levodopum 2 000 mg a carbidopum monohydricum 500 mg. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Intestinální gel
+Bělavý až nažloutlý gel.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Léčba pokročilé Parkinsonovy nemoci, která reaguje na léčbu levodopou a je doprovázena těžkým kolísáním motoriky a hyperkinezí nebo dyskinezí, pokud dostupné kombinace antiparkinsonik neposkytují uspokojivé výsledky.
+
+4.2  Dávkování a způsob podání
+Duodopa je gel pro kontinuální podávání do střeva. Při dlouhodobém podávání má být gel aplikován přenosnou pumpou přímo do duodena nebo do horního jejuna pomocí permanentní sondy. Ta je zavedena perkutánní endoskopickou gastrostomií s vnější transabdominální sondou a vnitřní intestinální sondou. Není-li perkutánní endoskopická gastrostomie z nějakého důvodu vhodná, je alternativním řešením radiologická gastrojejunostomie. Zavedení transabdominálního spojení a úprava dávky mají být prováděny ve spolupráci s neurologickou klinikou.
+
+Ke zjištění, zda pacient uspokojivě odpovídá na tuto metodu léčby lze, ještě před zavedením permanentní perkutánní endoskopické gastrostomie a umístěním jejunální sondy (PEG-J), zvážit užití dočasné nasoduodenální/nasojejunální sondy. V případech, kdy je ošetřující lékař přesvědčen, že toto posouzení není potřebné, může nasojejunální (NJ) testovací fázi vynechat a léčbu zahájit přímo zavedením PEG-J.
+Dávka má být upravena tak, aby se dosáhlo optimální klinické odpovědi pro konkrétního pacienta, což znamená maximalizaci funkční „ON“ periody během dne minimalizací počtu a délky trvání „OFF“ period (bradykineze) a minimalizací „ON“ periody s omezující dyskinezí.
+Viz doporučení u dávkování.
+
+Duodopa má být zpočátku podávána v monoterapii. Pokud je třeba, lze současně podávat i jiné léčivé přípravky k léčbě Parkinsonovy nemoci. Pro podávání přípravku Duodopa má být používána pouze pumpa CADD 1400 (označení CE). Návod s instrukcemi pro používání přenosné pumpy je dodáván spolu s pumpou.
+
+
+
+
+1
+
+Léčba přípravkem Duodopa pomocí permanentní sondy může být kdykoli přerušena odstraněním sondy a následným zacelením rány. Léčba pak má pokračovat perorálními léčivými přípravky včetně kombinace levodopy s karbidopou.
+
+Dávkování:
+Celková denní dávka přípravku Duodopa je složena ze tří jednotlivě podávaných dávek: ranní jednorázové dávky (bolus), průběžné udržovací dávky a dalších jednorázových dávek, podávaných po dobu přibližně 16 hodin. Přípravek se obvykle podává v době, kdy je pacient vzhůru. Přípravek Duodopa může být podáván až po dobu 24 hodin, je-li takové podání lékařsky odůvodněno.
+Kazety s léčivým přípravkem jsou určeny k jednorázovému použití a neměly by být používány po dobu přesahující 24 hodin, a to i v případě, že v nich ještě část léčivého přípravku zbývá. Nepoužívejte znovu již otevřené kazety.
+Na konci doby použitelnosti může gel mírně zežloutnout. Tento jev neovlivňuje koncentraci léčivé látky nebo průběh léčby.
+
+Ranní dávka: ranní jednorázová dávka je podávána pumpou, aby bylo rychle dosaženo terapeutické hladiny (během 10–30 minut). Dávka má být založena na pacientově dávce levodopy z předchozího rána a objemu k zaplnění sondy. Celková ranní dávka je obvykle 5–10 ml, což odpovídá 100–200 mg levodopy. Celková ranní dávka nemá přesáhnout 15 ml (300 mg levodopy).
+
+Průběžná udržovací dávka: průběžná udržovací dávka se upravuje v krocích po 2 mg/hod.
+(0,1 ml/hod.). Dávka má být počítána podle pacientova předchozího denního příjmu levodopy. Je-li přerušena doplňková léčba, má být dávka přípravku Duodopa upravena. Průběžná udržovací dávka je upravována individuálně. Má se udržovat v rozsahu 1–10 ml/hod. (20–200 mg levodopy/hod.) a je obvykle 2–6 ml/hod. (40–120 mg levodopy/hod.). Maximální doporučená denní dávka je 200 ml (viz bod 4.4). Ve výjimečných případech může být potřeba vyšší dávky.
+
+Příklad:
+Denní dávka levodopy v přípravku Duodopa: 1 640 mg/den
+Ranní jednorázová dávka: 140 mg = 7 ml (kromě objemu k zaplnění intestinální sondy) Průběžná udržovací dávka: 1 500 mg/den
+1 500 mg/den: 20 mg/ml = 75 ml přípravku Duodopa za den Příjem je vypočítán za 16 hodin: 75 ml/16 hodin = 4,7 ml/hod.
+Další jednorázové dávky: podávají se podle potřeb pacienta, pokud se stane během dne hypokinetický. Další dávka má být upravena individuálně, normálně je to 0,5–2,0 ml. V ojedinělých případech může být potřeba podat vyšší dávku. Pokud potřeba dalších jednorázových dávek přesáhne 5 za den, má být zvýšena udržovací dávka. Po nastavení úvodní dávky má být po dobu několika týdnů prováděno jemné přizpůsobení ranní jednorázové dávky, udržovací dávky a dalších jednorázových dávek.
+
+Monitorování léčby: náhlé zhoršení odpovědi na léčbu s návratem výkyvů v motorice vede
+k podezření, že se distální část sondy přemístila z duodena/jejuna do žaludku. Umístění sondy má být určeno rentgenem a konec sondy přemístěn do duodena/jejuna.
+Zvláštní skupiny pacientů
+Pediatrická populace
+Neexistuje relevantní odůvodnění pro užití přípravku Duodopa u pediatrické populace v indikaci pokročilé Parkinsonovy nemoci, která reaguje na léčbu levodopou a je doprovázena těžkým kolísáním motoriky a hyper-/dyskinezí.
+
+Geriatrická populace
+S použitím levodopy/karbidopy u starších pacientů jsou značné zkušenosti. Dávkování u všech pacientů včetně geriatrické populace se upravuje individuální titrací.
+
+Porucha funkce ledvin nebo jater
+Studie zaměřené na farmakokinetiku karbidopy a levodopy u pacientů s poruchou funkce jater nebo ledvin nejsou k dispozici. Dávkování přípravku Duodopa je upraveno individuálně titrací, aby bylo
+
+
+2
+
+dosaženo optimálního účinku (který koresponduje s individuálně nastavenými sérovými hladinami levodopy a karbidopy), proto u pacientů s poruchou funkce ledvin nebo jater závisí možný rozsah účinku levodopy či karbidopy částečně na titraci dávky. U pacientů s těžkou poruchou funkce ledvin nebo jater je třeba dávku titrovat obzvláště opatrně (viz bod 4.4).
+
+Přerušení léčby
+Je-li požadováno náhlé snížení dávky nebo je-li nezbytné přerušit léčbu přípravkem Duodopa, mají být pacienti pečlivě sledováni, zvláště pokud dostávají antipsychotika, viz bod 4.4.
+V případě suspektní nebo diagnostikované demence se sníženým prahem zmatenosti má být pacientova pumpa obsluhována pouze ošetřovatelským personálem nebo pečovatelem.
+
+Má-li být použita kazeta, má být podle daných instrukcí připojena k přenosné pumpě a systému spojenému s nasoduodenální sondou nebo duodenální/jejunální sondou pro podávání přípravku.
+
+4.3  Kontraindikace
+Duodopa je kontraindikována u pacientů s:
+-  hypersenzitivitou na léčivé látky nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+-  glaukomem s uzavřeným úhlem
+-  těžkým srdečním selháním
+-  těžkou srdeční arytmií
+-  akutní mozkovou mrtvicí
+-  užití neselektivních inhibitorů MAO a selektivních inhibitorů MAO typu A je v kombinaci s přípravkem Duodopa kontraindikováno. Podávání těchto inhibitorů musí být přerušeno
+minimálně dva týdny před zahájením léčby přípravkem Duodopa. Přípravek Duodopa může být podáván současně se selektivními inhibitory MAO typu B v dávkách doporučených výrobcem (např. selegilin HCl) (viz bod 4.5).
+-  stavy, za kterých jsou kontraindikovány adrenergní látky, jako je například feochromocytom, hyperthyreoidismus a Cushingův syndrom.
+Jelikož levodopa může aktivovat rozvoj maligního melanomu, nemá být přípravek Duodopa používán u pacientů s podezřelou neurčenou kožní lézí nebo s melanomem v anamnéze.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Několik zvláštních upozornění a opatření uvedených níže je obecně platných pro levodopu a tudíž i pro přípravek Duodopa:
+-  Duodopa se nedoporučuje pro léčbu extrapyramidových účinků vyvolaných léky.
+-  Pacienti s těžkým kardiovaskulárním nebo plicním onemocněním, bronchiálním astmatem, ledvinovým, jaterním nebo endokrinním onemocněním nebo s anamnézou žaludeční vředové choroby nebo křečí mají být léčeni přípravkem Duodopa opatrně.
+-  U pacientů s anamnézou infarktu myokardu, kteří mají zbytkové atriální uzlové nebo ventrikulární arytmie, má být pečlivě sledována srdeční činnost, a to zvláště v období počátečního upravování dávkování.
+-  U všech pacientů léčených přípravkem Duodopa má být pečlivě sledován rozvoj změn duševního stavu, deprese s tendencemi k sebevraždě a jiných závažných duševních změn. Pacienti s dřívější nebo současnou psychózou mají být léčeni opatrně.
+-  Současné podávání antipsychotik blokujících dopaminové receptory, zvláště antagonistů D2 receptorů, má být prováděno opatrně a pacienti mají být pečlivě sledováni pro možnou ztrátu antiparkinsonického účinku nebo zhoršení parkinsonských příznaků, viz bod 4.5.
+-  Pacienti s chronickým glaukomem s otevřeným úhlem mají být léčeni přípravkem Duodopa opatrně, pouze za předpokladu, že nitrooční tlak je dobře kontrolován a pacient je pečlivě monitorován pro možné změny nitroočního tlaku.
+-  Duodopa může vyvolat ortostatickou hypotenzi. Proto má být Duodopa podávána opatrně pacientům, kteří užívají jiné léčivé přípravky, které mohou způsobit ortostatickou hypotenzi, viz bod 4.5.
+
+
+3
+
+-  Levodopa je spojována se somnolencí a epizodami náhlého nástupu spánku u pacientů
+s Parkinsonovou nemocí a má být proto vyžadována opatrnost při řízení a obsluze strojů (viz bod 4.7).
+-  Při náhlém vysazení antiparkinsonik byl hlášen komplex příznaků podobných neuroleptickému malignímu syndromu (NMS), včetně svalové rigidity, zvýšené tělesné teploty, mentálních změn (např. agitovanost, zmatenost, kóma) a zvýšené hladiny kreatinfosfokinázy v séru. Jako následek neuroleptického maligního syndromu nebo těžké dyskineze byla u pacientů s Parkinsonovou nemocí vzácně pozorována rhabdomyolýza. Proto při náhlém snížení dávky nebo přerušení podávání kombinace levodopy s karbidopou mají být pacienti pečlivě sledováni, a to zvláště ti, kteří užívají antipsychotika. V souvislosti s podáváním přípravku Duodopa nebyl hlášen ani NMS ani rhabdomyolýza.
+-  Pacienti by měli být pravidelně monitorováni z důvodu možnosti rozvoje impulzivních poruch. Pacienti a jejich ošetřovatelé by měli být upozorněni, že u pacientů léčených agonisty dopaminu a/nebo dopaminergními přípravky obsahujícími levodopu včetně přípravku Duodopa se mohou rozvinout symptomy impulzivních poruch včetně patologického hráčství, zvýšeného libida, hypersexuality, nutkavého utrácení nebo nakupování, záchvatovitého a nutkavého přejídání. Pokud se tyto příznaky objeví, doporučuje se léčbu přehodnotit.
+-  Epidemiologické studie prokázaly, že u pacientů s Parkinsonovou chorobou existuje vyšší riziko rozvoje melanomu než v obecné populaci. Není jasné, zda pozorované zvýšené riziko vzniká
+v důsledku Parkinsonovy choroby nebo má jiné příčiny, jako jsou léčiva, užívaná k léčbě Parkinsonovy choroby. Z tohoto důvodu jsou pacienti i ošetřující lékaři informováni o nutnosti pravidelných kontrol známek melanomového postižení u pacientů, kteří užívají přípravek Duodopa, a to v jakékoli indikaci. V ideálním případě mají pacienti absolvovat pravidelné vyšetření kůže odborníkem s odpovídající specializací (např. dermatologem).
+-  Je-li třeba celková anestezie, může léčba přípravkem Duodopa pokračovat tak dlouho, dokud je pacient schopen přijímat tekutinu a léčivé přípravky ústy. Pokud musí být léčba dočasně zastavena, může být Duodopa ve stejné dávce znovu nasazena, jakmile smí pacient přijímat tekutinu ústy.
+-  Aby nevznikla dyskineze vyvolaná levodopou, může být třeba dávku přípravku Duodopa snížit.
+-  Během delší léčby přípravkem Duodopa jsou doporučovány pravidelné kontroly krvetvorby a jaterních, kardiovaskulárních a renálních funkcí.
+-  Duodopa obsahuje hydrazin, který je produktem štěpení karbidopy. Hydrazin může být genotoxický a možná karcinogenní. Průměrná doporučená denní dávka přípravku Duodopa je
+100 ml, obsahující 2 g levodopy a 0,5 g karbidopy. Maximální doporučená denní dávka je 200 ml. Toto obsahuje hydrazin až do průměrné expozice 4 mg/den, s maximem 8 mg/den. Klinický význam této expozice hydrazinu není znám.
+-  Dřívější chirurgické zákroky v horní části břicha mohou způsobit obtíže při provádění gastrostomie nebo jejunostomie.
+-  V klinických studiích byly hlášeny komplikace léčby, a objevily se i v postmarketingovém období, zahrnující absces, tvorbu bezoárů, ileus, eroze/vředy v místě implantátu, gastrointestinální krvácení, ischémii střeva, obstrukci střeva, perforaci střeva, intususcepci, pankreatitidu, peritonitidu, pneumonii (včetně aspirační pneumonie), pneumoperitoneum, pooperační infekce ran a sepsi. Bezoáry jsou zadržené shluky nestravitelných částí potravy (jako například nestrávené zbytky zeleniny nebo ovoce) v trávicím traktu. Většina bezoárů se nachází v žaludku, ale bezoáry se také mohou vyskytovat kdekoli v průběhu celého střevního traktu. Bezoár v okolí horní části jejunální sondy může působit jako místo vzniku obstrukce střeva nebo intususcepce. Příznakem výše zmíněných komplikací může být bolest břicha. Některé případy mohou vyústit v závažné důsledky, jako je nutnost chirurgického výkonu a/nebo úmrtí. Pacientům je třeba zdůraznit, aby informovali svého ošetřujícího lékaře, pokud se u nich vyskytne některý z příznaků spojených
+s výše popsanými příhodami.
+-  Snížená schopnost zacházet s aplikačním systémem (pumpa, spojení sondy) může způsobit komplikace. Takovým pacientům má být poskytována ošetřovatelská pomoc (např. zdravotní sestra nebo blízký příbuzný).
+-  Náhlé nebo postupné zhoršování bradykineze může být znamením obstrukce zařízení, ať už z jakýchkoli důvodů a je třeba to vyšetřit.
+-  Dopaminový dysregulační syndrom (DDS) je návyková porucha, která u některých pacientů léčených kombinací karbidopa/levodopa vede k nadměrnému užívání přípravku. Před zahájením
+
+
+4
+
+léčby mají být pacienti a jejich ošetřovatelé upozorněni na potenciální riziko vzniku DDS (viz také bod 4.8).
+-  U pacientů léčených kombinací levodopy s karbidopou ve formě intestinálního gelu byla hlášena polyneuropatie. Před zahájením léčby pacienty vyšetřete s ohledem na anamnézu nebo známky polyneuropatie a známé rizikové faktory a během léčby toto vyšetření pravidelně opakujte.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Studie interakcí nebyly s přípravkem Duodopa prováděny. U kombinací levodopy s karbidopou jsou obecně známy následující interakce.
+Při užívání přípravku Duodopa současně s následujícími léčivými přípravky je třeba opatrnosti: Antihypertenziva
+Když byly kombinace levodopy s inhibitory dekarboxylázy přidány pacientům, kteří již užívali
+antihypertenziva, objevila se symptomatická posturální hypotenze. Může to vyžadovat úpravu dávkování antihypertenzní látky.
+Antidepresiva
+Při současném podávání tricyklických antidepresiv a přípravků obsahujících kombinaci karbidopy s levodopou se objevily vzácně zprávy o nežádoucích účincích, včetně hypertenze a dyskineze.
+Anticholinergika
+Anticholinergika mohou působit synergicky s levodopou při snížení třesu. Avšak současné užívání těchto látek může zhoršit abnormální nechtěné pohyby. Anticholinergika mohou snížit účinky levodopy tím, že zpožďují její vstřebávání. Může být potřeba upravit dávkování přípravku Duodopa.
+
+Inhibitory COMT (tolkapon, entakapon)
+Současné užití inhibitorů COMT (katechol-O-methyltransferázy) a přípravku Duodopa může zvýšit biologickou dostupnost levodopy. Může být potřeba upravit dávku přípravku Duodopa.
+Ostatní léčivé přípravky
+Antagonisté dopaminových receptorů (některá antipsychotika, např. fenothiaziny, butyrofenony
+a risperidon a antiemetika, např. metoklopramid), benzodiazepiny, isoniazid, fenytoin a papaverin mohou snižovat terapeutický účinek levodopy. Pacienti užívající tyto léčivé přípravky spolu
+s přípravkem Duodopa mají být pečlivě sledováni kvůli riziku ztráty terapeutické odpovědi.
+
+Duodopa může být užívána současně s doporučenými dávkami inhibitoru MAO, který je selektivním inhibitorem MAO typu B (např. selegilin-HCl). Pokud je do léčby přidán selektivní inhibitor typu B, může být zapotřebí snížit dávku levodopy.
+Současné užití selegilinu a kombinace levodopy s karbidopou je spojováno se závažnou ortostatickou hypotenzí.
+Amantadin má účinek synergický s levodopou a může zvyšovat nežádoucí účinky levodopy. Může být třeba upravit dávku přípravku Duodopa.
+
+Sympatomimetika mohou zvyšovat kardiovaskulární nežádoucí účinky levodopy.
+Levodopa tvoří v gastrointestinálním traktu cheláty se železem, které snižují její vstřebávání.
+
+Protože je levodopa kompetitivní s určitými aminokyselinami, může být její vstřebávání u pacientů s dietou bohatou na proteiny narušeno.
+
+Vliv podávání antacid a přípravku Duodopa na biologickou dostupnost levodopy nebyl studován.
+
+
+
+
+5
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Neexistují žádné nebo jen velmi omezené údaje o podávání levodopy s karbidopou těhotným ženám. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Pokud přínos pro matku nepřevažuje nad možnými riziky pro plod, pak se podávání přípravku Duodopa v těhotenství a u žen v plodném věku, které neužívají antikoncepci, nedoporučuje.
+
+Kojení
+Levodopa a případně i metabolity levodopy jsou vylučovány do mateřského mléka. Existují důkazy o tom, že laktace je během léčby levodopou potlačena.
+Není známo, jsou-li karbidopa nebo její metabolity vylučovány do mateřského mléka u člověka. Studie na zvířatech však vylučování karbidopy do mateřského mléka prokázaly.
+
+Existují pouze omezené údaje o účincích levodopy/karbidopy nebo jejich metabolitů
+u novorozenců/kojenců. V průběhu léčby přípravkem Duodopa má být kojení přerušeno.
+
+Fertilita
+V preklinických studiích nebyly při samostatném podávání levodopy nebo karbidopy pozorovány žádné nežádoucí účinky ovlivňující plodnost. Fertilitní studie u zvířat nebyly u kombinace levodopy s karbidopou prováděny.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Duodopa může mít vážný vliv na schopnost řídit a obsluhovat stroje. Levodopa a karbidopa mohou vyvolat závratě a ortostatickou hypotenzi. Proto má být řízení a obsluha strojů vykonávána
+s opatrností. Pacienti léčení přípravkem Duodopa, kteří trpí somnolencí a/nebo epizodami náhlého nástupu spánku, musí být poučeni, aby neřídili motorová vozidla a zdrželi se aktivit, které při zhoršené bdělosti mohou jim nebo ostatním způsobit vážné poranění nebo smrt (např. obsluha strojů). Těchto aktivit je třeba se vyvarovat až do doby, než takové opakované příhody a somnolence vymizí, viz také bod 4.4.
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky způsobené léčivem jako takovým, které se v souvislosti s přípravkem Duodopa často vyskytují, zahrnují nevolnost a dyskinezi.
+Nežádoucí účinky, které se v souvislosti se systémem pro podávání přípravku Duodopa jako takovým a s jeho zavedením do organismu vyskytují často, zahrnují bolest břicha, komplikace při zavedení sondy, tvorbu nadbytečné granulační tkáně, erytém v místě incize, pooperační infekce ran, sekrece po výkonu, bolesti spojené s operačním výkonem a lokální reakce v místě zavedení sondy.
+
+Většina těchto nežádoucích účinků byla hlášena v počáteční fázi studií, následně po zavedení perkutánní endoskopické gastrostomie, a vyskytovala se v průběhu prvních 28 dní.
+Nežádoucí účinky hlášené v souvislosti s přípravkem Duodopa
+
+Bezpečnost přípravku Duodopa byla srovnávána se standardní perorální formou levodopy/karbidopy (100 mg/25 mg) u celkového počtu 71 pacientů s pokročilou Parkinsonovou chorobou, kteří se účastnili randomizované, dvojitě zaslepené, double-dummy studie s aktivními kontrolami, která trvala 12 měsíců. Další informace o bezpečnosti byly získány z otevřené fáze 12měsíční studie u 354 pacientů s pokročilou Parkinsonovou chorobou a z otevřené fáze prodloužených studií.
+
+Ve všech studiích, bez ohledu na design studie (dvojitě zaslepená nebo otevřená), byla u pacientů užívajících přípravek Duodopa provedena analýza za účelem shrnutí všech nežádoucích účinků souvisejících s vlastním přípravkem. Další analýza u pacientů, užívajících buď přípravek Duodopa,
+
+
+6
+
+nebo placebo v gelu, byla zaměřena na způsob podávání přípravku prostřednictvím PEG-J sondy a shrnovala nežádoucí účinky spojené jak s operačním výkonem, tak se samotným systémem
+k aplikaci přípravku, a to ve všech studiích, bez ohledu na design studie (dvojitě zaslepená nebo otevřená).
+
+Nežádoucí účinky, související s přípravkem jako takovým, operačním zákrokem a systémem
+k aplikaci přípravku získané ze studií, spolu s nežádoucími účinky hlášenými v období po uvedení přípravku Duodopa na trh, jsou uvedeny v Tabulce 1.
+Tabulka 1. Údaje o nežádoucích účincích získané z klinických studií a ze zkušeností po uvedení přípravku na trh
+
+
+MedDRA třídy orgánových systémů
+Velmi častéᵃ
+(≥ 1/10)
+Častéᵃ
+(≥ 1/100
+až < 1/10)
+Méně častéᵇ
+(≥ 1/1 000
+až < 1/100)
+Vzácnéᵇ (≥ 1/10 000 až < 1/1 000)
+Neznámá frekvence (po uvedení
+přípravku na trh)
+Nežádoucí účinky spojené s léčivou látkou
+
+Poruchy krve a lymfatického systému Poruchy imunitního systému Poruchy metabolismu a výživy
+
+
+
+
+
+
+
+
+
+
+
+
+Psychiatrické poruchy
+
+
+
+
+
+
+
+
+Poruchy nervového systému
+
+
+
+
+
+
+
+
+Poruchy oka
+
+
+
+
+
+
+snížení tělesné hmotnosti
+
+
+
+
+
+
+
+
+
+
+
+
+úzkost, deprese, nespavost
+
+
+
+
+
+
+
+dyskineze, Parkinsonova choroba
+anémie
+
+
+
+
+
+zvýšení tělesné hmotnosti, zvýšení hladin aminokyselin (zvýšení kyseliny methylmalonové), zvýšení hladiny homocysteinu
+v krvi, snížení chuti k jídlu,
+deficit vitaminu B6,
+deficit vitaminu B12
+neobvyklé sny, agitovanost, stav zmatenosti, halucinace, impulsivní chováníᶜ, psychotické poruchy,
+ataky spánku, poruchy spánku závratě, dystonie, bolesti hlavy, hypestézie,
+On a off fenomén, parestézie, polyneuropatie, somnolence, synkopa,
+třes
+leukopenie, trombocytopenie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dokončené suicidum, demence, dezorientace, euforická nálada, strach,
+zvýšení libida (viz bod 4.4), noční můry, suicidální pokusy ataxie,
+konvulze, poruchy chůze
+
+
+
+
+
+
+
+
+glaukom
+s uzavřeným
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+abnormální myšlení
+
+
+
+anafylaktická reakce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dopaminový dysregulační syndromᵈ
+
+
+7
+
+MedDRA třídy orgánových systémů
+
+
+
+
+
+
+
+Srdeční poruchy
+Cévní poruchy
+
+Respirační, hrudní a mediastinální poruchy Gastrointestiná lní poruchy
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně Poruchy ledvin a močových cest
+Celkové poruchy a reakce v místě aplikace Poranění, otravy a procedurální komplikace
+Velmi častéᵃ
+(≥ 1/10)
+
+
+
+
+
+
+
+
+
+
+
+
+ortostatická hypotenze
+
+
+
+
+nauzea, zácpa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pády
+Častéᵃ
+(≥ 1/100
+až < 1/10)
+
+
+
+
+
+
+
+
+
+nepravidelná akce srdeční hypertenze, hypotenze dyspnoe, bolesti
+v orofaryngu
+
+distenze břicha, průjem,
+sucho v ústech, dysgeusie, dyspepsie, dysfagie, flatulence, zvracení kontaktní dermatitida, hyperhidróza, periferní edémy, pruritus, vyrážka
+svalové spasmy, bolesti krku
+
+
+
+inkontinence moči, retence moči únava, bolesti, astenie
+Méně častéᵇ
+(≥ 1/1 000
+až < 1/100)
+
+úhlem, blefarospasmus, diplopie, optická ischemická neuropatie,
+rozmazané vidění palpitace
+
+flebitida
+
+bolesti na hrudi, dysfonie
+
+
+hypersekrece slin
+
+
+
+
+
+
+
+alopecie, erytém, kopřivka
+
+
+
+
+
+
+
+
+chromaturie
+
+
+malátnost
+Vzácnéᵇ (≥ 1/10 000 až < 1/1 000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+abnormální dýchání
+
+
+bruxismus, změny barvy slin, glosodynie, škytavka
+
+
+
+změny barvy potu, maligní
+melanom (viz bod 4.4)
+
+
+
+
+
+
+priapismus
+Neznámá frekvence (po uvedení
+přípravku na trh)
+Nežádoucí účinky spojené se systémem k aplikaci přípravku Duodopa jako takovým a s jeho zavedením do organismu
+
+Infekce a infestace
+
+
+Gastrointestiná lní poruchy
+pooperační infekce ran
+
+
+bolesti břicha
+celulitida
+v místě incize, infekce po výkonu nepříjemné pocity v břiše, bolesti
+v epigastriu, peritonitida, pneumoperitone um
+pooperační absces
+
+
+tvorba bezoáru (viz bod 4.4), ischemická kolitida, gastrointestinální ischemie,
+Sepse
+
+
+
+perforace žaludku, gastrointestinál ní perforace, ischemie tenkého střeva,
+
+
+8
+
+MedDRA třídy orgánových systémů
+
+
+
+
+
+
+
+
+
+
+Respirační, hrudní a mediastinální poruchy Poruchy kůže a podkožní tkáně
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+Poranění, otravy a procedurální komplikace
+Velmi častéᵃ
+(≥ 1/10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+excesívní tvorba granulační tkáně komplikace spojené se zavedením systému
+k aplikaci přípravkuᵈ
+
+erytém v místě incize,
+sekrece po výkonu, bolesti spojené
+s výkonem, reakce
+v místě výkonu
+Častéᵃ
+(≥ 1/100
+až < 1/10)
+
+
+
+
+
+
+
+
+
+
+
+
+Pneumonie/ aspirační pneumonie
+
+
+
+
+
+dislokace systému k aplikaci
+přípravku, okluze systému k aplikaci přípravku komplikace gastrointestinost omie,
+bolesti v místě incize, pooperační ileus, komplikace po výkonu, nepříjemné pocity po výkonu, krvácení po výkonu
+Méně častéᵇ
+(≥ 1/1 000
+až < 1/100)
+
+gastrointestinální obstrukce, intususcepce, pankreatitida, krvácení
+z tenkého střeva, vřed tenkého střeva,
+perforace tlustého střeva
+Vzácnéᵇ (≥ 1/10 000 až < 1/1 000)
+Neznámá frekvence (po uvedení
+přípravku na trh) perforace tenkého střeva
+
+ᵃ Nežádoucí účinky pozorované v klinických studiích. Přiřazené frekvence odrážejí frekvence výskytu nežádoucích účinků bez ohledu jejich na kauzalitu přiřazenou investigátorem.
+ᵇ nežádoucí účinky pozorované u přípravku Duodopa, u nichž určení frekvence není k dispozici. Přiřazené frekvence výskytu jsou založeny na historických informacích, týkajících se perorálně užívané levodopy/karbidopy.
+ᶜ Impulzivní poruchy: U pacientů léčených agonisty dopaminu a/nebo dopaminergními přípravky obsahujícími levodopu včetně přípravku Duodopa se mohou rozvinout symptomy jako patologické hráčství, zvýšené libido, hypersexualita, nutkavé utrácení nebo nakupování a záchvatovité a nutkavé přejídání (viz bod 4.4 Zvláštní upozornění a zvláštní opatření pro použití).
+ᵈ Dopaminový dysregulační syndrom (DDS) je návyková porucha pozorovaná u některých pacientů léčených kombinací karbidopa/levodopa. Dotčení pacienti vykazují kompulzivní vzorec zneužívání dopaminergních léků nadměrným užíváním dávek neadekvátních pro kontrolu motorických symptomů, které mohou v některých případech vést k závažné dyskinezi (viz také bod 4.4).
+ᵉ Komplikace zavedení systému k aplikaci přípravku byly hlášeny poměrně často jak u nasojejunální sondy, tak u PEG-J. Tento nežádoucí účinek byl hlášen současně s 1 nebo více z následujících nežádoucích účinků, pozorovaných u nasojejunální sondy: bolesti orofaryngu, distenze břicha, bolesti břicha, nepříjemné pocity
+v břiše, bolest, podráždění hrdla, gastrointestinální poranění, krvácení z jícnu, úzkost, dysfagie a zvracení. U PEG-J sondy byl tento nežádoucí účinek hlášen s 1 nebo více z následujících nežádoucích účinků: bolesti
+
+
+9
+
+břicha, nepříjemné pocity v břiše, distenze břicha, flatulence nebo pneumoperitoneum. Jiné nezávažné nežádoucí účinky, které byly hlášeny současně s komplikacemi při zavedení systému k aplikaci přípravku, zahrnovaly nepříjemné pocity v břiše, bolesti v epigastriu, vřed duodena, krácení z duodenálního vředu, erozivní duodenitida, erozivní gastritida, gastrointestinální krvácení, peritonitida, pneumoperitoneum, vřed tenkého střeva.
+
+Dislokace jejunální sondy zpět do žaludku a obstrukce sondy vede k navrácení výkyvů motoriky.
+
+Následující další nežádoucí účinky (uvedené v preferovaných výrazech MedDRA) byly pozorovány u perorálně podávané levodopy/karbidopy a mohou se tedy vyskytnout i u přípravku Duodopa:
+Tabulka 2. Nežádoucí účinky pozorované u perorálně podávané levodopy/karbidopy
+
+
+MedDRA třídy orgánových systémů
+Poruchy krve a lymfatického systému
+Poruchy nervového systému
+
+
+Poruchy oka
+
+
+Poruchy kůže a podkožní tkáně
+Vzácné
+(≥ 1/10 000 až < 1/1 000)
+hemolytická anémie
+
+trismus,
+neuroleptický maligní syndrom (viz bod 4.4)
+Hornerův syndrom, mydriáza, okulogyrické krize angioedém,
+Henoch-Schönleinova purpura
+Velmi vzácné (< 1/10 000)
+agranulocytóza
+
+Laboratorní hodnoty: Při léčbě kombinací levodopy s karbidopou byly hlášeny následující laboratorní odchylky, které mohou být tudíž pozorovány i při léčbě přípravkem Duodopa: zvýšená hladina močoviny, alkalických fosfatáz, S-AST, S-ALT, LDH, bilirubinu, krevního cukru, kreatininu, kyseliny močové, pozitivní Coombsův test a snížené hodnoty hemoglobinu a hematokritu. Byly hlášeny leukocyty, bakterie a krev v moči. Kombinace levodopy s karbidopou, a tím i Duodopa, může způsobit falešně pozitivní výsledek při použití testu na určení ketonu v moči; tato reakce se nemění ani povařením vzorku moči. Použití glukózaoxidázových metod může dát falešně negativní výsledky na glukosurii.
+
+Hlášení podezření na nežádoucí účinky
+Hlásit podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+Nejvýznamnějšími klinickými příznaky předávkování kombinací levodopy s karbidopou je dystonie a dyskineze. Blefarospasmus může představovat časný příznak předávkování.
+Léčba akutního předávkování přípravkem Duodopa je obecně stejná jako léčba akutního předávkování levodopou. Pyridoxin však na zrušení působení přípravku Duodopa neúčinkuje. Mělo by být použito elektrokardiografické monitorování a pacient by měl být pečlivě sledován pro možnost rozvoje srdečních arytmií. Pokud je to potřebné, má být poskytnuta odpovídající antiarytmická léčba. Je třeba zvážit i možnost, že pacient užil spolu s přípravkem Duodopa další léčiva. Dosud nebyly hlášeny zkušenosti s dialýzou. Její význam v léčbě předávkování je tedy neznámý.
+
+
+
+
+
+
+
+
+10
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antiparkinsonika, levodopa a inhibitory dekarboxylázy ATC kód: N04BA02
+Mechanismus účinku
+Duodopa je kombinací levodopy s karbidopou (poměr 4:1) ve formě gelu pro kontinuální intestinální infuzi u pokročilé Parkinsonovy nemoci s těžkými výkyvy motoriky a hyper-/dyskinezí. Levodopa je metabolický prekursor dopaminu, který po dekarboxylaci na dopamin v mozku zmírňuje příznaky Parkinsonovy nemoci. Karbidopa, která neprochází hematoencefalickou bariérou, inhibuje extracerebrální dekarboxylaci levodopy. To znamená, že pro transport do mozku a transformaci na dopamin je k dispozici větší množství levodopy. Bez současného podání karbidopy by bylo k dosažení žádaného účinku potřeba mnohem většího množství levodopy. Intestinální infuze individuálně upravených dávek přípravku Duodopa udržuje plazmatické koncentrace levodopy na stabilních hladinách v rámci individuálních terapeutických rozmezí.
+
+Farmakodynamické účinky
+Intestinální léčba přípravkem Duodopa redukuje výkyvy motoriky a snižuje dobu „Off“ periody u pacientů s pokročilou Parkinsonovou nemocí, kteří se mnoho let léčili kombinací levodopy
+s inhibitorem dekarboxylázy v tabletách. Snížení výkyvů motoriky a hyper-/dyskineze je způsobeno nižší variabilitou plazmatických koncentrací v porovnání s podáváním perorální karbidopy/levodopy, což umožňuje léčbu v úzkém terapeutickém rozmezí. Léčebné účinky na výkyvy motoriky a hyper-
+/dyskinezi jsou často dosaženy během prvního dne léčby.
+
+Klinická účinnost a bezpečnost
+Účinnost přípravku Duodopa byla potvrzena ve dvou paralelně probíhajících identicky designovaných 12týdenních, multicentrických, randomizovaných, dvojitě zaslepených, double-dummy studiích fáze 3 se skupinou aktivních kontrol, které byly zaměřeny na účinnost, bezpečnost a snášenlivost přípravku Duodopa v porovnání s podáváním levodopy/karbidopy v dávce 100/25 mg ve formě tablet. Studie byly prováděny na pacientech s pokročilou Parkinsonovou chorobou, kteří odpovídali na léčbu levodopou a kteří, i přes optimalizovanou léčbu perorálně podávanou levodopou/karbidopou a jinými dostupnými antiparkinsoniky, trpěli persistujícími výkyvy motoriky a celkem zahrnovaly 71 pacientů. Výsledky těchto dvou studií byly shrnuty a byla vypracována jedna výsledná analýza.
+Primární cíl účinnosti přípravku, definovaný jako změna standardizované „Off“ periody (od výchozího stavu po cíl), který vychází z hodnocení v „Deníku parkinsonika“ (Parkinson's Disease Diary©),
+a využívá posledního provedeného pozorování, prokázal, že statisticky významný průměrný rozdíl určený metodou nejmenších čtverců (least square, LS), hovoří ve prospěch skupiny léčené přípravkem Duodopa (Tabulka 3).
+
+Výsledky primárního cíle studie byly podpořeny analýzou opakovaných měření smíšených modelů (Mixed Model Repeated Measure (MMRM)), která zkoumala změnu proti výchozímu stavu na každé studijní návštěvě, jenž od zahájení studie proběhla. Tato analýza „Off“ periody prokázala v týdnu 4 statisticky významné větší zlepšení ve skupině pacientů léčených přípravkem Duodopa v porovnání se skupinou léčenou perorálně podávanou kombinací levodopy s karbidopou, a toto zlepšení se ukázalo být statisticky významné i v týdnech 8, 10 a 12.
+Tato změna „Off“ periody byla spojena se statisticky významným průměrným rozdílem určeným metodou LS v Parkinson's Disease Diary© v porovnání s výchozím stavem průměrných denních normovaných „On“ period bez obtěžujících dyskinezí u skupiny pacientů léčených přípravkem Duodopa a skupiny aktivních kontrol. Výchozí hodnoty byly shromážděny tři dny před randomizací a po uplynutí 28 dní standardizace perorální léčby.
+
+
+
+
+
+
+11
+
+Tabulka 3. Změna od výchozí hodnoty do dosažení cíle studie v periodách „Off“ a „On“ bez obtěžujících dyskinezí
+
+
+
+
+Terapeutická skupina
+Průměrná výchozí
+N  hodnota (SD) (hodiny)
+Cíl studie (SD)
+(hodiny)
+Průměrná (SE) změna LS
+(hodiny)
+Průměrný (SE) rozdíl LS
+(hodiny)
+
+
+Hodnota P
+Primární měření
+„Off“ perioda
+Aktivní kontrolyᵃ   31  6,90 (2,06)   4,95 (2,04)   –2,14 (0,66)
+Duodopa       35   6,32 (1,72)   3,05 (2,52)   –4,04 (0,65)   –1,91 (0,57)   0,0015
+Sekundární měření
+„On“ perioda bez
+obtěžujících dyskinezí
+Aktivní kontroly   31  8,04 (2,09)   9,92 (2,62)   2,24 (0,76)
+Duodopa       35   8,70 (2,01)   11,95 (2,67)   4,11 (0,75)   1,86 (0,65)    0,0059
+SD = standardní odchylka (standard deviation); SE = standardní chyba (standard error)
+a. Aktivní kontroly, léčení perorálně podávanou levodopou/karbidopou, 100/25 mg tablety
+
+Analýzy dalších sekundárních, na účinnost zaměřených cílů, provedené stupňovitou testovací procedurou, prokázaly statisticky významné výsledky u přípravku Duodopa ve srovnání s perorálně podávanou levodopou/karbidopou v závěrečném shrnutí Dotazníku parkinsonika (Parkinson's Disease Questionnaire, (PDQ-39) Summary Index [index týkající se kvality života u Parkinsonovy choroby]), v hodnocení celkového klinického vlivu (Clinical Global Impresssion (CGI-I)), jakož i v unifikované hodnotící stupnici Parkinsonovy choroby (Unified Parkinson's Disease Rating Scale (UPDRS), konkrétně v části II (aktivity běžného dne). Závěrečné shrnutí dotazníku PDQ-39 prokázalo snížení
+o 10,9 bodu v týdnu 12 oproti výchozímu stavu. Další sekundární cíle, tedy UPDRS v části III skóre, EQ-5D závěrečné shrnutí a ZBI celkové skóre, statistické významnosti na podkladě stupňovité testovací procedury nedosáhly.
+Otevřená jednoramenná multicentrická studie fáze 3 byla zaměřená na hodnocení dlouhodobé bezpečnosti a snášenlivosti přípravku Duodopa, podávaného po dobu delší než 12 měsíců u celkem 354 pacientů. Cílovou skupinou pacientů byli pacienti s pokročilou Parkinsonovou chorobou, kteří i přes optimalizovanou léčbu dostupnými antiparkinsoniky trpěli výkyvy motoriky a vykazovali odpověď na léčbu levodopou. Průměrná denní normovaná „Off“ perioda se snížila o 4,44 hodiny oproti výchozímu stavu až do cíle léčby (6,77 hodin ve výchozím stavu a 2,32 hodiny v cíli léčby) s odpovídajícím 4,8hodinovým zvýšením v „On“ periodě bez dyskinezí.
+Byla provedena otevřená randomizovaná multicentrická studie fáze 3, která hodnotila účinek přípravku Duodopa na dyskineze ve srovnání s optimalizovanou medikamentózní léčbou (optimized medical treatment, OMT) po dobu 12 týdnů u 61 pacientů. Cílovou skupinou byli pacienti reagující na léčbu levodopou s pokročilou Parkinsonovou nemocí a motorickými fluktuacemi nedostatečně kontrolovanými OMT a s výchozím celkovým skóre ≥ 30 na škále hodnotící dyskineze související
+s Parkinsonovou nemocí UDysRS (Unified Dyskinesia Rating Scale). Změna od výchozího stavu do týdne 12 v celkovém skóre UDysRS (primární cílový parametr účinnosti) prokázala statisticky významný průměrný rozdíl určený metodou nejmenších čtverců (least square, LS) (-15,05; p < 0,0001) ve prospěch skupiny léčené přípravkem Duodopa ve srovnání se skupinou OMT. Analýza sekundárních cílových parametrů účinnosti pomocí pevně stanovené posloupnosti testování (fixed sequence testing procedure) prokázala statisticky významné výsledky ve prospěch přípravku Duodopa ve srovnání s OMT při hodnocení „On“ periody bez obtěžujících dyskinezí podle Deníku parkinsonika, v závěrečném shrnutí Dotazníku kvality života u Parkinsonovy nemoci PDQ-8 (Parkinson's Disease Questionnaire-8), ve skóre celkového klinického dojmu CGI-C (Clinical Global Impresssion Change), skóre na stupnici UPDRS pro hodnocení a diagnostiku Parkinsonovy nemoci, část II (Unified Parkinson's Disease Rating Scale, UPDRS Part II) a při hodnocení „Off“ periody podle Deníku parkinsonika. Skóre UPDRS v části III nesplňovalo statistickou významnost.
+
+
+
+
+
+
+12
+
+Pediatrická populace
+Bezpečnost přípravku Duodopa u pacientů do 18 let věku nebyla stanovena a jeho užití u pacientů ve věku do 18 let se nedoporučuje.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Duodopa je podávaná zavedenou sondou přímo do dvanáctníku nebo jejuna. Levodopa se rychle
+a efektivně vstřebává ze střeva prostřednictvím transportního systému pro aminokyseliny, který má vysokou účinnost. Absolutní biologická dostupnost levodopy po perorálním podání levodopy/karbidopy ve formě tablet s okamžitým uvolňováním je 84–99 %. Farmakokinetická analýza provedená napříč celou populací pacientů ve studii naznačuje, že biologická dostupnost levodopy
+u přípravku Duodopa je srovnatelná s perorálně podanou levodopou/karbidopou (v tabletách o síle 100/25 mg).
+
+Ve fázi I klinické studie bylo po intrajejunálním podání přípravku Duodopa dosaženo terapeutických plazmatických hladin levodopy velmi rychle a v průběhu celého podání infuze byly hladiny levodopy konzistentní. Po ukončení infuze hladiny levodopy rychle poklesly (Graf 1). Individuální variabilita plazmatických hladin levodopy byla u jednotlivých subjektů v období od 2 do 16 hodin po zahájení infuze nízká (13 %).
+Graf 1. Plazmatické koncentrace (průměr ± standardní odchylka) versus časový profil levodopy při podání 16hodinové infuze přípravku Duodopa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U dvojitě zaslepené studie fáze 3 s aktivními kontrolami byla individuální variabilita v plazmatických koncentracích levodopy u jednotlivých subjektů nižší u pacientů léčených přípravkem Duodopa
+(21 %), než u pacientů léčených perorálně podanou levodopou/karbidopou v dávce 100/25 mg ve formě potahovaných tablet (67 %).
+
+Distribuce
+Levodopa se podává spolu s karbidopou, inhibitorem dekarboxylázy, což zvyšuje biologickou dostupnost a snižuje clearance levodopy. Je-li levodopa podávaná spolu s inhibitorem dekarboxylázy, je její clearance 0,3 l/hod/kg a distribuční objem 0,9–1,6 l/kg. Poměr rozdělení levodopy mezi erytrocyty a plazmou je přibližně 1. Vazba levodopy na plazmatické bílkoviny je zanedbatelná (okolo 10–30 %). Levodopa je transportována do mozku mechanismem nosičů velkých neutrálních aminokyselin.
+
+
+13
+
+Přibližně 36 % karbidopy se váže na plazmatické bílkoviny. Karbidopa neprochází hematoencefalickou bariérou.
+
+Biotransformace a eliminace
+Pokud je podána společně s karbidopou, je eliminační poločas levodopy přibližně 1,5 hodiny. Levodopa je úplně metabolizována a vytvořené metabolity jsou vyloučeny převážně močí. Jsou známy čtyři metabolické cesty, avšak převážně je levodopa vylučována metabolizací prostřednictvím dekarboxylázy aromatických aminokyselin (AAAD) a enzymy katechol-O-metyltransferázy (COMT). Jiné cesty metabolismu jsou transaminací a oxidací. Dekarboxylace levodopy na domamin prostřednictvím AAAD je hlavní enzymatická cesta, pokud není současně s ní užíván i inhibitor tohoto enzymu. Je-li levodopa podaná s karbidopou, je dekarboxyláza inhibovaná, takže dominantní metabolickou cestou se stává metabolismus prostřednictvím katechol-O-methyltransferázy (COMT). Při O-metylaci levodopy účinkem COMT vzniká 3-O-metyldopa.
+
+Karbidopa je metabolizována na dva hlavní metabolity (α-metyl-3-metoxy-4-hydroxyfenylpropionová kyselina a α-metyl-3,4-dihydroxyfenylpropionová kyselina). Tyto 2 metabolity jsou primárně vylučovány močí v nezměněné formě nebo jako glukuronidované konjugáty. 30 % celkové exkrece do moči tvoří samotná karbidopa v nezměněné formě. Eliminační poločas karbidopy je přibližně 2 hodiny.
+Farmakokinetický/farmakodynamický vztah
+Snížené výkyvy koncentrace levodopy v plasmě snižují výkyvy v léčebné odpovědi. Potřebná dávka levodopy u pokročilé Parkinsonovy nemoci podstatně kolísá. Je důležité, aby dávka byla individuálně upravována podle klinické odpovědi. Rozvoj tolerance v průběhu času nebyl u přípravku Duodopa pozorován.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních studií bezpečnosti, farmakologie, toxicity po opakovaném podávání, genotoxicity a hodnocení kancerogenního potenciálu neodhalily žádné zvláštní riziko pro člověka. Ve studiích reprodukční toxicity způsobila jak levodopa, tak kombinace levodopy s karbidopou viscerální (útrobní) a skeletální malformace u králíků.
+
+Hydrazin je degradačním produktem karbidopy. Ve studiích na zvířatech vykazoval hydrazin zjevnou systémovou toxicitu, zvláště při expozici inhalací. Tyto studie ukázaly, že hydrazin je hepatotoxický, jeví toxicitu na CNS (ačkoli to není popsáno po perorální léčbě) a je genotoxický a karcinogenní (viz též bod 4.4).
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Sodná sůl karmelosy Čištěná voda
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+Neotevřené: 15 týdnů.
+Po otevření: okamžité použití. Přípravek musí být použit do 24 hodin po vyjmutí z chladničky. Nepoužitá část přípravku musí být znehodnocena.
+
+
+
+
+14
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte a převážejte v chladu (2 °C – 8 °C).
+Uchovávejte kazetu v krabičce, aby byl přípravek chráněn před světlem.
+Pro skladovací podmínky po prvním otevření léčivého přípravku viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+
+Celkové množství 100 ml v PVC vaku je umístěno v tvrdé plastové kazetě, která chrání vak. Krabice se 7 kazetami.
+6.6  Zvláštní opatření pro likvidaci přípravku a zacházení s ním
+
+Kazety jsou určeny pouze pro jednorázové použití. Otevřená kazeta nesmí být znovu použita.
+Všechen nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+Prázdné/použité kazety mají být vráceny do lékárny k likvidaci.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+AbbVie s.r.o.
+Metronom Business Center Bucharova 2817/13
+158 00 Praha 5 – Stodůlky Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO
+
+27/391/05-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 2. listopadu 2005
+Datum posledního prodloužení registrace: 1. října 2009
+
+
+10.  DATUM REVIZE TEXTU
+
+4. 1. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15

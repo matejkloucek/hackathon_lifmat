@@ -1,0 +1,369 @@
+Sp.zn.sukls148997/2016
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun obsahuje:
+
+
+v 1 000 ml           Kaliumchlorid/ natriumchlorid 0,15%+ 0,9% B.
+Braun
+Kaliumchlorid/ natriumchlorid 0,3%+ 0,9% B.
+Braun
+
+Kalii chloridum         1,50 g               3,00 g
+Natrii chloridum         9,00 g               9,00 g
+
+Koncentrace elektrolytů:
+Kalium             20 mmol/l           40 mmol/l
+Natrium             154 mmol/l          154 mmol/l
+Chloridum            174 mmol/l          194 mmol/l Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok
+Čirý, bezbarvý vodný roztok
+
+
+Kaliumchlorid/ natriumchlorid 0,15% + 0,9%
+B. Braun
+Kaliumchlorid/ natriumchlorid 0,3%+ 0,9%
+B. Braun
+
+Teoretická osmolarita (přibl.)  340 mosmol/l       380 mosmol/l pH (přibl.)                             4,5–7,0
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+Úprava nebo udržování rovnováhy draslíku, sodíku, chloridů a tekutin v závislosti na klinickém stavu pacienta.
+
+Roztok je indikován zejména k léčbě hypokalemie, hypotonické a izotonické dehydratace a hypochloremické alkalózy.
+
+
+1/9
+
+4.2 Dávkování a způsob podání
+
+Dávkování závisí na věku, hmotnosti a klinickém stavu pacienta, zvláště u pacientů s renální nebo srdeční insuficiencí. Dávkování a rychlost infuze musí být stanoveny na základě sledování EKG a sérových elektrolytů.
+Musí být zajištěn dostatečný průtok moči.
+
+Dospělí:
+Následující doporučení jsou obecnými pokyny pro draslík, avšak předepisování se řídí místními pokyny.
+
+Draslík
+Množství potřebné pro korekci středně těžkého deficitu draslíku a pro udržování lze vypočítat podle následujícího vzorce:
+mmol K+ požadovaný = (tělesná hmotnost [kg] × 0,2)* × 2 × (sérový-K+ cílový** – sérový-K+ skutečný [mmol/l])
+* představuje objem extracelulární tekutiny
+** má být 4,5 mmol/l
+
+Maximální doporučená dávka draslíku je 2–3 mmol na 1 kg tělesné hmotnosti za 24 h. Tekutiny
+Obecně nemá být podáno více než 40 ml tekutiny na 1 kg tělesné hmotnosti za den. V případech, kdy je zapotřebí větší množství draslíku, je třeba zvážit jiné síly přípravku.
+Pediatrická populace:
+Objem a rychlost podávání infuze závisí na požadavcích jednotlivých pacientů. Může být nutné snížit objemy a rychlosti podávání infuze. Obecně nemá být překročena rychlost substituce 0,5 mmol na
+1 kg tělesné hmotnosti za hodinu. Během infuze se má nepřetržitě sledovat EKG.
+
+Maximální denní dávka
+Maximální doporučená dávka draslíku je 3 mmol na 1 kg tělesné hmotnosti za 24 h. V žádném případě nesmějí být překročeny limity denního příjmu tekutin.
+Starší pacienti
+V zásadě platí stejné dávkování jako u dospělých, ale je třeba věnovat zvýšenou opatrnost pacientům trpícím dalšími onemocněními, jako je srdeční nedostatečnost nebo renální nedostatečnost, které mohou být často spojeny s pokročilým věkem. Viz bod 4.
+
+Rychlost infuze:
+Rychlost infuze závisí na stavu jednotlivých pacientů (viz bod 4.4).
+
+U pacientů s chronickou hyponatremií musí být rychlost infuze natolik nízká, aby byl výsledný nárůst hladiny sodíku v séru omezen na max. 0,35 mmol/l/h.
+Délka používání
+Tento léčivý přípravek se smí podávat, dokud existuje indikace pro podání elektrolytů a tekutin. Způsob a cesta podání
+Intravenózní použití.
+
+2/9
+
+Maximální rychlost podávání přípravku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun periferními katétry činí 10 mmol draslíku za hodinu. U vyšších rychlostí infuze mají být roztoky podávány centrálním katétrem.
+
+Při korekční terapii mají být k infuzi draslíku zásadně používány infuzní pumpy.
+4.3 Kontraindikace
+
+- hyperkalemie,
+- závažná porucha funkce ledvin s oligurií, anurií nebo azotemií,
+- hyperchloremie a závažná hypernatremie,
+- hyperhydratace.
+4.4 Zvláštní upozornění a opatření pro použití
+
+Zvláštní upozornění
+
+Přípravek Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun se má podávat pouze s opatrností v případech:
+• hypernatremie,
+•  pacientů s edematózními stavy,
+• plicního edému,
+•  poruch, u nichž je indikováno omezení příjmu sodíku, jako je srdeční nedostatečnost, generalizovaný edém, plicní edém, hypertenze, preeklampsie, těžká renální insuficience nebo jaterní cirhóza.
+Roztoky obsahující draslík musí být podávány pomalu a až po potvrzení dostatečné funkce ledvin. U pacientů s postižením ledvin musí být jeho používání pečlivě řízeno častým měřením koncentrace draslíku v plazmě a pravidelnou kontrolou EKG. Infuzi je nutné zastavit, pokud se během ní objeví příznaky renální insuficience.
+
+Doplňky s draslíkem je nutné podávat opatrně u pacientů se srdečním onemocněním, zejména u pacientů užívajících digitalis (viz bod 4.5).
+
+Doplňování chloridu sodného musí být prováděno pomalu u pacientů s chronickou hyponatremií, neboť příliš rychlá korekce sérových hladin sodíku může ve vzácných případech vést k osmotickým nežádoucím účinkům.
+Jakožto mírně hypertonický roztok je nutné infuzi podávat opatrně i u pacientů s hypertonickou dehydratací.
+
+Zvláštní opatrnosti je nutné dbát v případě, že je roztok podáván acidotickým pacientům.
+Je nutné dbát opatrnosti v případě, že je roztok podáván pacientům s Addisonovou chorobou, neboť tito pacienti mají predispozici k hyperkalemii.
+
+Pediatrická populace:
+Předčasně narození či donošení kojenci mohou zadržovat nadbytek sodíku v důsledku nezralé funkce ledvin. U předčasně narozených či donošených kojenců je tedy možné podat opakovanou infuzi chloridu sodného až po stanovení hladiny sodíku v séru.
+
+Starší pacienti:
+
+
+3/9
+
+Starší pacienti, u kterých je větší pravděpodobnost výskytu srdeční nedostatečnosti a poruchy funkce ledvin, mají být během léčby pečlivě sledováni a dávkování má být pečlivě upraveno, aby se zabránilo komplikacím se srdečním oběhem a renálním komplikacím vzniklých z přetížení tekutinami.
+
+Opatření pro použití
+Klinické sledování musí zahrnovat EKG, pravidelné kontroly rovnováhy tekutin a sérových elektrolytů.
+
+Výměna infuzního setu se doporučuje nejméně jednou za 24 h.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+• Digoxin, srdeční glykosidy
+
+U pacientů léčených srdečními glykosidy je třeba dbát na to, aby koncentrace draslíku byla udržována konstantní.
+V případě hyperkalemie může být účinek srdečních glykosidů oslaben a v případě hypokalemie může vést k toxicitě srdečních glykosidů. Interakce se mohou vyskytnout při souběžném podávání jiných antiarytmik. U těchto pacientů je zapotřebí podávání draslíku velmi opatrně přerušit.
+
+• Léky s potenciálem vyvolat hyperkalemii
+Je nutné postupovat opatrně při současném užívání léků obsahujících draslík a léků s potenciálem vyvolat hyperkalemii, jako jsou:
+- spironolakton,
+- triamteren,
+- ACE inhibitory,
+- antagonisté receptoru angiotensinu II,
+- nesteroidní antiflogistika,
+- cyklosporin,
+- takrolimus,
+- suxamethonium.
+
+Současné podávání roztoků obsahujících draslík a těchto léků může vést k závažné hyperkalemii, která může následně vést k srdeční arytmii.
+Souběžné užívání léků zadržujících sodík (např. kortikosteroidů, nesteroidních protizánětlivých látek) může vést k edému.
+
+• Léky způsobující pokles hladiny draslíku v séru
+ACTH, kortikosteroidy a kličková diuretika mohou zvýšovat renální eliminaci draslíku.
+
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání přípravku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun těhotným ženám jsou omezené nebo nejsou k dispozici.
+Studie reprodukční toxicity na zvířatech jsou nedostatečné (viz bod 5.3). Všechny složky přípravku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun se však přirozeně nacházejí v těle a jejich biochemické vlastnosti jsou dobře známy, žádné toxické účinky v souvislosti s těhotenstvím nejsou tedy očekávány.
+
+
+
+4/9
+
+Přípravek Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun může být v případě klinické nutnosti použit v období těhotenství.
+
+Nicméně v případě preeklampsie je třeba dbát opatrnosti (viz bod 4.4).
+
+Kojení
+Údaje o podávání chloridu draselného a chloridu sodného kojícím ženám jsou omezené nebo nejsou k dispozici.
+Všechny složky tohoto léčivého přípravku se však přirozeně nacházejí v těle a jejich biochemické vlastnosti jsou dobře známy, žádné toxické účinky v souvislosti s kojením nejsou tedy očekávány. Přípravek Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun může být v případě klinické nutnosti použit v období kojení.
+
+Fertilita
+Nejsou k dispozici žádné údaje.
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+4.8 Nežádoucí účinky
+Při správném použití se žádné nežádoucí účinky léku neočekávají. Nežádoucí účinky jsou uvedeny podle frekvencí následovně:
+Velmi časté (≥ 1/10) Časté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až < 1/100) Vzácné (≥ 1/10 000 až < 1/1 000) Velmi vzácné (< 1/10 000)
+Není známo (z dostupných údajů nelze určit).
+Celkové poruchy a reakce v místě aplikace
+Není známo: V místě aplikace infuze se mohou objevit lokální reakce, včetně lokální bolesti, podráždění žíly a příležitostně tromboflebitidy.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+Symptomy
+V případě předávkování může dojít k hyperkalemii, hyperhydrataci, acidobazické nerovnováze, edému, zejména hypernatremii, hyperchloremii nebo intoxikaci draslíkem a poruchám elektrolytů.
+
+
+5/9
+
+Symptomy hyperkalemie jsou primárně kardiovaskulární poruchy a zahrnují hypotenzi, srdeční arytmii, srdeční blokádu, abnormality EKG s rozvojem bifázických křivek a srdeční zástavu. Další symptomy jsou parestezie končetin, svalová nebo respirační paralýza, areflexie, slabost a duševní zmatenost.
+
+Rychlé zvýšení hladiny sodíku v séru u pacientů s chronickou hyponatremií může vést k osmotickému demyelinizačnímu syndromu (viz bod 4.4).
+
+Léčba
+Okamžité přerušení infuze, sledování EKG, v případě potřeby zvýšení průtoku moči a tím vylučování tekutin a elektrolytů, podání hydrogenuhličitanu sodného a inzulinu. Je-li ke zvýšení příjmu draslíku buňkami podán inzulin, má být podána glukóza, aby nedošlo k hypoglykemii. U pacientů
+s přetrvávajícími abnormalitami EKG je možné podat např. kalcium-glukonát jako agonistu kardiotoxických účinků draslíku. U pacientů s renální insuficiencí může být zapotřebí hemodialýza nebo peritoneální dialýza.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Roztoky ovlivňující rovnováhu elektrolytů, ATC kód: B05B B01
+
+Draslík je hlavní kation v intracelulární tekutině a je nezbytný pro udržování acidobazické rovnováhy, izotonicity a elektrodynamických vlastností buňky. Elektrolyt je důležitým aktivátorem při mnoha enzymatických reakcích a je nezbytný pro řadu fyziologických pochodů včetně přenosu nervových impulsů, kontrakce srdečních, hladkých a kosterních svalů, žaludeční sekrece, funkce ledvin, syntézy tkání, využití uhlohydrátů a syntézy bílkovin.
+Sodík je hlavní kation v extracelulární tekutině a jeho úlohou je zejména regulovat distribuci vody, rovnováhu tekutin a elektrolytů a osmotického tlaku tělních tekutin. Společně s chloridy a bikarbonáty hraje sodík také důležitou roli při regulaci acidobazické rovnováhy.
+
+Chlorid, hlavní extracelulární anion, má velmi podobné fyziologické vlastnosti jako sodík a změny acidobazické rovnováhy organismu se projevují změnami sérové koncentrace chloridů.
+Farmakodynamické účinky
+
+U pacientů po operaci, po úrazu a v jiných klinických případech často dochází k závažným ztrátám tekutin a elektrolytů a v důsledku toho ke zhoršení výše uvedených fyziologických funkcí. U těchto pacientů je podání složek obsažených v přípravku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9%
+B. Braun indikováno za účelem obnovy tekutin a hladiny elektrolytů, a tím k zabránění dalšího poškození organismu.
+5.2 Farmakokinetické vlastnosti
+
+Absorpce
+Vzhledem k tomu, že složky přípravku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun jsou podávány nitrožilní infuzí, jejich biologická dostupnost je 100 %.
+Distribuce
+Infuzně podávaný draslík je aktivně transportován do buněk, kde je jeho koncentrace až 40krát vyšší než mimo buňku. Plazmatické koncentrace draslíku se obvykle pohybují v rozsahu od 3,5 do 5 mmol/l. Sodík a chloridy jsou rozptýleny převážně v extracelulárním prostoru. Plazmatické
+
+
+6/9
+
+koncentrace sodíku jsou normálně usměrňovány na hodnotu 135–145 mmol/l a koncentrace chloridů na 95–107 mmol/l.
+
+Biotransformace
+Přestože jsou sodík, draslík a chlorid absorbovány, distribuovány a vylučovány, nedochází k metabolismu v přesném slova smyslu.
+Ledviny jsou hlavním regulátorem rovnováhy sodíku a vody. Ve spolupráci s hormonálními regulačními mechanismy (renin-angiotensin-aldosteronový systém, antidiuretický hormon) a hypotetickým natriuretickým hormonem jsou primárně odpovědné za udržení konstantního objemu extracelulárního prostoru a regulaci jeho tekutinového složení. Faktory ovlivňující přenos draslíku mezi intracelulární a extracelulární tekutinou, jako jsou poruchy acidobazické rovnováhy, mohou narušit vztah mezi plazmatickými koncentracemi a celkovými zásobami těla. Chlorid se vyměňuje za hydrogenuhličitan v tubulárním systému a je tedy zapojen do regulace acidobazické rovnováhy.
+
+Eliminace
+Draslík, sodík a chloridy jsou převážně vylučovány ledvinami, ale malá množství tělo ztrácí i potem a stolicí. Zejména chirurgické zákroky vedou ke zvýšenému vylučování draslíku v moči při současném zadržování vody a sodíku. Pro jejich doplnění je nezbytné vzít v úvahu, že na homeostázu jednoho elektrolytu mají vliv ostatní elektrolyty a jejich regulace je tedy do určité míry vzájemně závislá.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity, hodnocení kancerogenního potenciálu, reprodukční a vývojové toxicity neodhalily žádné zvláštní riziko pro člověka. Nebyly prováděny žádné předklinické studie přípravku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun. Nicméně při dodržení pokynů pro dávkování bude podáním roztoku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun pouze obnovena fyziologická homeostáza elektrolytů a tekutin v organismu pacienta. Všechny složky přípravku Kaliumchlorid/natriumchlorid 0,15% (0,3%) + 0,9% B. Braun se přirozeně nacházejí v těle a jejich biochemické vlastnosti jsou dobře známy. Toxické účinky se tedy nepředpokládají.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Voda pro injekci
+6.2 Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+6.3 Doba použitelnosti
+
+- neotevřený
+3 roky
+
+- po prvním otevření lahve
+Neuplatňuje se. Viz bod 6.6.
+
+- po přidání aditiv
+
+
+
+7/9
+
+Z mikrobiologického hlediska musí být přípravek použit okamžitě, pokud způsob otevření nevylučuje riziko mikrobiální kontaminace. Není-li použit okamžitě, za dobu a podmínky uchovávání zodpovídá uživatel.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Neotevřený: Neuchovávejte při teplotě nad 25 ℃.
+Podmínky uchovávání tohoto léčivého přípravku po přidání aditiv jsou uvedeny v bodě 6.3.
+
+6.5 Druh obalu a obsah balení
+Lahve z bezbarvého polyethylenu o nízké hustotě, obsah: polyethylenové lahve obsahující 500 ml a 1 000 ml, k dispozici v baleních po 10.
+
+Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Roztok použijte pouze tehdy, je-li čirý, bezbarvý a je-li obal nepoškozený. Roztok nemá obsahovat viditelné částice. Roztok nepodávejte, pokud obal nebo jeho uzávěr jeví viditelné známky poškození.
+
+Lahve jsou pouze k jednorázovému použití. Lahev a veškerý nepoužitý obsah po použití zlikvidujte. Částečně použité lahve znovu nenapojujte.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Infuzní zařízení musí být naplněno roztokem, aby nedošlo k vniknutí vzduchu do systému. V případě nežádoucích účinků musí být infuze ihned zastavena.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+B. Braun Melsungen AG
+Carl-Braun-Straße 1          Poštovní adresa:
+34212 Melsungen, Německo      34209 Melsungen, Německo
+tel.+49 (0)5661-71-0
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+Kaliumchlorid/natriumchlorid 0,15% + 0,9% B. Braun: 76/504/12-C Kaliumchlorid/natriumchlorid 0,3% + 0,9% B. Braun: 76/505/12-C
+
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 22. 8. 2012 Datum posledního prodloužení registrace:
+
+
+
+
+
+8/9
+
+10. DATUM REVIZE TEXTU
+
+2. 4. 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

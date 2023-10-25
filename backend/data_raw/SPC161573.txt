@@ -1,0 +1,379 @@
+Sp. zn. sukls16222/2020, sukls16223/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+Cinacalcet Heaton 30 mg potahované tablety Cinacalcet Heaton 60 mg potahované tablety
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ¨
+
+Jedna tableta obsahuje cinacalcetum 30 mg nebo 60 mg (ve formě cinacalceti hydrochloridum). Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Potahovaná tableta
+Cinacalcet Heaton 30 mg jsou zelené, oválné bikonvexní potahované tablety (přibližně 4,5 x 7 mm)
+s vyraženým C9CC na jedné straně a 30 na druhé straně.
+Cinacalcet Heaton 60 mg jsou zelené, oválné bikonvexní potahované tablety (přibližně 5,5 x 9 mm)
+s vyraženým C9CC na jedné straně a 60 na druhé straně.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Léčba sekundární hyperparatyreózy (HPT) u pacientů v konečném stadiu onemocnění ledvin (ESRD) na udržovací dialyzační léčbě.
+
+Podle potřeby může být Cinacalcet Heaton součástí léčebného režimu spolu s vazači fosfátů a/nebo se steroly vitaminu D (viz bod 5.1).
+
+Redukce hyperkalcemie u pacientů:
+•  s karcinomem příštítných tělísek
+•  s primární HPT, u kterých by byla na základě sérových hladin vápníku (podle příslušného doporučení pro léčbu) indikována paratyroidektomie, ale u nichž je nevhodná z klinického hlediska nebo je kontraindikována.
+4.2 Dávkování a způsob podání
+Sekundární hyperparatyreóza
+Dospělí a starší pacienti (> 65 let)
+Doporučovaná počáteční dávka pro dospělé je 30 mg jednou denně. Cinakalcet se má
+titrovat každé 2 až 4 týdny do maximální dávky 180 mg jednou denně tak, aby bylo u dialyzovaných pacientů dosaženo cílové hladiny parathormonu (PTH) 150-300 pg/ml (15,9-31,8 pmol/l) při vyšetřování intaktního PTH (iPTH). Hladina PTH má být vyšetřena nejméně 12 hodin po podání cinakalcetu, viz bod aktuální směrnice léčby.
+
+
+
+1
+
+Hladinu PTH je třeba vyšetřit 1 až 4 týdny po zahájení léčby nebo po úpravě dávky cinakalcetu. Dále je třeba PTH kontrolovat přibližně každé 1-3 měsíce během udržovací léčby. Ke stanovení hladiny PTH lze použít měření intaktního PTH (iPTH) nebo bio-intaktního PTH (biPTH);
+podávání cinakalcetu nemění poměr mezi iPTH a biPTH.
+Během titrace dávky je třeba často monitorovat hladiny vápníku v séru, a to do 1 týdne po zahájení léčby nebo po úpravě dávky cinakalcetu. Po dosažení udržovací dávky má být hladina vápníku v séru kontrolována přibližně jednou za měsíc. V případě, že hladiny korigovaného sérového vápníku klesnou pod normální rozmezí, je třeba podniknout příslušné kroky, včetně úpravy souběžné léčby (viz bod 4.4).
+
+Pediatrická populace
+Cinakalcet není indikován pro použití u dětí a dospívajících v důsledku chybějících údajů o bezpečnosti a účinnosti (viz bod 4.4).
+
+Karcinom příštítných tělísek a primární hyperparatyreóza
+Dospělí a starší pacienti (> 65 let)
+Doporučená počáteční dávka cinakalcetu pro dospělé je 30 mg dvakrát denně. Dávka cinakalcetu má být upravována postupným zvyšováním každé 2 až 4 týdny, od počátečních 30 mg dvakrát denně na 60 mg dvakrát denně až po 90 mg dvakrát denně, případně 90 mg třikrát až čtyřikrát denně tak, aby hladina sérového vápníku klesla k horní hranici normy nebo pod tuto horní hranici. Maximální dávka užívaná v klinických studiích činila 90 mg čtyřikrát denně.
+
+Hladina vápníku v séru má být vyšetřena během 1 týdne po zahájení léčby nebo změně dávky cinakalcetu. Po dosažení udržovací dávky má být hladina sérového vápníku kontrolováno každé 2 až 3 měsíce. Při dávkování maximálních dávek cinakalcetu má být hladina vápníku v séru pravidelně kontrolována; jestliže se nepodařilo udržet klinicky relevantní snížení sérového vápníku, je třeba zvážit ukončení léčby cinakalcetom (viz bod 5.1).
+Pediatrická populace
+Cinakalcet není indikován pro použití u dětí a dospívajících v důsledku chybějících údajů o bezpečnosti a účinnosti (viz bod 4.4).
+Porucha funkce jater
+Zahajovací dávku není třeba měnit. U pacientů se středně těžkou až těžkou poruchou funkce jater má být cinakalcet užíván s opatrností a během titrace dávky a při pokračující léčbě je třeba pacienty pečlivě monitorovat (viz body 4.4 a 5.2).
+
+Způsob podání
+Perorální podání. Cinakalcet se doporučuje užívat při jídle nebo krátce po jídle, neboť studie prokázaly zvýšenou biologickou dostupnost cinakalcetu, je-li užíván s jídlem (viz bod 5.2). Tablety se mají užívat celé a nemají se dělit.
+
+4.3 Kontraindikace
+Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4 Zvláštní upozornění a opatření pro použití
+Sérový vápník
+Léčba cinakalcetem nemá být zahájena u pacientů se sérovým vápníkem (korigováno k albuminu) pod dolní hranicí normálního rozmezí.
+
+U dospělých a pediatrických pacientů léčených cinakalcetem byly zaznamenány život ohrožující příhody a fatální následky související s hypokalcemií. Hypokalcemie se může projevit paresteziemi, bolestmi svalů, svalovými záškuby, tetanií nebo křečemi. Pokles sérového vápníku může rovněž
+
+2
+
+prodloužit QT interval, což může vést ke komorové arytmii sekundárně vzhledem k hypokalcemii. U pacientů léčených cinakalcetem byly hlášeny případy prodĺoužení QT intervalu a komorové arytmie (viz bod 4.8). U pacientů s dalšími rizikovými faktory pro prodĺoužení QT intervalu, jako je například známý vrozený syndrom dlouhého QT intervalu nebo užívání léků způsobujících prodloužení QT intervalu, je třeba opatrnosti.
+
+Vzhledem k tomu, že cinakalcet hladinu sérového vápníku snižuje, je třeba pacienty pečlivě sledovat kvůli možnému výskytu hypokalcemie (viz bod 4.2). Sérový vápník má být změřen do 1 týdne po zahájení léčby cinakalcetem nebo po úpravě dávky. Po stanovení udržovací dávky má být sérový vápník měřen přibližně měsíčně.
+V případě, že hladiny sérového vápníku klesnou pod 8,4 mg/dl (2,1 mmol/l) a/nebo se objeví příznaky hypokalcemie, je doporučeno následující opatření:
+
+
+Sérová  hladina  vápníku  nebo  klinické příznaky hypokalcemie
+< 8,4 mg/dl (2,1 mmol/l) a >7,5 mg/dl (1,9 mmol/l)  nebo  při  klinických  příznacích hypokalcemie
+
+
+< 8,4 mg/dl (2,1 mmol/l) a > 7,5 mg/dl (1,9 mmol/l) nebo pokud příznaky hypokalcemie přetrvávají i přes snahu zvýšit hladiny sérového vápníku
+≤ 7,5 mg/dl (1,9 mmol/l) nebo pokud příznaky hypokalcemie přetrvávají a dávku vitaminu D není možné zvýšit
+Doporučení
+
+Dle klinického posouzení mohou být použity na zvýšení sérové hladiny vápníku vazače fosfátů obsahující vápník, steroly vitaminu D a/nebo úprava koncentrace vápníku v dialyzačním roztoku.
+Snižte nebo přerušte podávání cinakalcetu.
+
+
+
+Přerušte podávání cinakalcetu dokud sérové hladiny vápníku nedosáhnou 8,0 mg/dl (2,0 mmol/l)  a/nebo  dokud  neustoupí  příznaky hypokalcemie. Léčba má být znovu zahájena použitím druhé nejnižší dávky cinakalcetu.
+
+U pacientů s chronickým onemocněním ledvin (CKD) léčených dialýzou, kterým byl podáván cinakalcet, mělo přibližně 30 % pacientů alespoň jednu hodnotu sérového vápníku menší než 7,5 mg / dl (1,9 mmol/l).
+
+Cinakalcet není indikován u pacientů s CKD, kteří nejsou na dialýze. Studie prokázaly, že pacienti s CKD, kteří nejsou na dialýze a jsou léčeni cinakalcetem, mají zvýšené riziko hypokalcemie (hladiny sérového vápníku <8,4 mg/dl [2,1 mmol/l]) ve srovnání s pacienty CKD léčenými cinakalcetem na dialýze, což může být způsobeno nižší základní hladinou vápníku a/nebo přítomností residuální funkce ledvin.
+
+Křečové stavy
+V klinických studiích byly případy křečových stavů pozorovány u 1,4 % pacientů léčených cinakalcetem a 0,7 % pacientů, kterým bylo podáváno placebo. Příčina zaznamenaného rozdílu v poměru výskytu křečových stavů sice není jednoznačná, práh pro vznik záchvatů křečí se snižuje se signifikantním poklesem hladiny sérového vápníku.
+Hypotenze a/nebo zhoršení srdečního selhání
+Z postmarketingového sledování bezpečnosti byly hlášeny izolované idiosynkratické případy hypotenze a/nebo zhoršení srdečního selhání u pacientů se zhoršenou srdeční funkcí, u kterých nelze kauzální vztah k cinakalcetu zcela vyloučit a může být vyvolán snížením sérových hladin vápníku. Údaje z klinických studií prokázaly hypotenzi u 7 % pacientů léčených cinakalcetem, 12 % pacientů užívajících placebo a srdeční selhání se vyskytlo u 2 % pacientů léčených cinakalcetem nebo užívajících placebo.
+
+
+3
+
+Obecné
+Jestliže jsou hladiny PTH trvale sníženy pod přibližně 1,5násobek horní hranice normy stanovené analýzou iPTH, může vzniknout adynamická kostní choroba. Poklesne-li hladina PTH u pacientů léčených cinakalcetem pod doporučené cílové rozmezí, je třeba dávku cinakalcetu a/nebo sterolů vitaminu D snížit nebo léčbu vysadit.
+
+Hladiny testosteronu
+Hladiny testosteronu bývají u pacientů v konečném stadiu onemocnění ledvin (ESRD) často snížené. V klinické studii u dospělých dialyzovaných pacientů v konečném stadiu onemocnění ledvin byly hladiny volného testosteronu, stanovené po 6 měsících léčby, sníženy průměrně o 31,3 % u pacientů léčených cinakalcetom a o 16,3 % u pacientů užívajících placebo. V otevřené následné studii nebylo během tříletého období u pacientů léčených cinakalcetem zjištěno žádné další snížení koncentrace volného a celkového testosteronu. Klinický význam těchto poklesů sérového testosteronu není znám.
+
+Porucha funkce jater
+Vzhledem k možnosti 2 až 4násobného zvýšení plazmatických hladin cinakalcetu u pacientů se středně těžkou až těžkou poruchou funkce jater (Child-Pughova klasifikace), je nezbytné, aby byl cinakalcet u těchto pacientů podáván s opatrností a léčba byla pod přísným lékařským dohledem (viz body 4.2 a 5.2).
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Účinek jiných léčiv na cinakalcet
+Cinakalcet je částečně metabolizován enzymem CYP3A4. Souběžné podávání 200 mg ketokonazolu, silného inhibitoru CYP3A4 dvakrát denně, vyvolalo přibližně dvojnásobné zvýšení hladiny cinakalcetu. Jestliže pacient užívající cinakalcet zahájí nebo ukončí léčbu silným inhibitorem
+(např. ketokonazol, itrakonazol, telithromycin, vorikonazol, ritonavir) nebo induktorem (např. rifampicin) tohoto enzymu, může být zapotřebí dávkování cinakalcetu upravit (viz bod 4.4).
+Údaje získané in vitro ukazují, že cinakalcet je částečně metabolizován enzymem CYP1A2. Kouření indukuje CYP1A2. Bylo zjištěno, že clearance cinakalcetu byla u kuřáků o 36-38 % vyšší než u nekuřáků. Působení silných inhibitorů CYP1A2 (např. fluvoxaminu, ciprofloxacinu) na plazmatické hladiny cinakalcetu nebylo zkoumáno. Úprava dávky může být nezbytná, jestliže pacient začne nebo skončí s kouřením, nebo pokud byla zahájena či ukončena současná léčba silnými inhibitory CYP1A2.
+
+Uhličitan vápenatý: Souběžné podávání uhličitanu vápenatého (1500 mg v jednorázové dávce) neovlivnilo farmakokinetiku cinakalcetu.
+
+Sevelamer: Souběžné podávání sevelameru (2400 mg třikrát denně) neovlivnilo farmakokinetiku cinakalcetu.
+Pantoprazol: Souběžné podávání pantoprazolu (80 mg jednou denně) neovlivnilo farmakokinetiku cinakalcetu.
+Účinek cinakalcetu na jiná léčiva
+Léčivé přípravky metabolizované enzymem P450 2D6 (CYP2D6): Cinakalcet je silný inhibitor CYP2D6. Úprava dávkování souběžně podávaných léků může být nezbytná, je-li cinakalcet podáván s individuálně dávkovanými látkami s úzkým terapeutickým indexem, které jsou převážně metabolizovány CYP2D6 (např. flekainid, propafenon, metoprolol, desipramin, nortriptylin, klomipramin) (viz bod 4.4).
+
+Desipramin: Souběžné podávání 90 mg cinacalcetu jedenkrát denně spolu s 50 mg desipraminu (tricyklické antidepresivum, metabolizované převážně působením CYP2D6) významně zvýšilo hladiny desipraminu, a to až 3,6krát (90% interval spolehlivosti od 3,0 do 4,4) u disponovaných pacientů extenzivně metabolizujících cestou CYP2D6.
+
+4
+
+Dextromethorfan: Opakované dávky 50 mg cinakalcetu zvýšily 11násobně AUC 30 mg dextromethorfanu (primárně metabolizovaného působením CYP2D6) u disponovaných pacientů extenzivně metabolizujících cestou CYP2D6.
+
+Warfarin:  Opakované  perorální  podání  cinakalcetu  neovlivnilo  farmakokinetiku  nebo
+farmakodynamiku (podle vyšetření protrombinového času a koagulačního faktoru VII) warfarinu. Absence účinku cinakalcetu na farmakokinetiku R- a S-warfarinu a nepřítomnost autoindukce při opakovaném podávání pacientům naznačuje, že cinakalcet není u člověka induktorem CYP3A4, CYP1A2 nebo CYP2C9.
+Midazolam: Souběžné podávání cinakalcetu (90 mg) a perorálního midazolamu (2 mg), který je substrátem CYP3A4 a CYP3A5, nezměnilo farmakokinetiku midazolamu. Tato data naznačují, že cinakalcet by neovlivnil farmakokinetiku tříd léků metabolizovaných CYP3A4 a CYP3A5, jako jsou některá imunosupresiva, včetně cyklosporinu a takrolimu.
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Nejsou k dispozici klinické údaje o podávání cinakalcetu ženám během těhotenství. Studie na zvířatech nenaznačují přímé škodlivé účinky na průběh těhotenství, porod nebo postnatální vývoj.
+Studie na březích potkanech a králících neprokázaly žádné známky toxicity na embryo/plod
+s výjimkou poklesu hmotnosti plodu u potkanů při dávkách toxických pro samici (viz bod 5.3). Cinakalcet se má během těhotenství užívat pouze tehdy, pokud případný přínos ospravedlňuje potenciální riziko pro plod.
+
+Kojení
+Není známo, zda je cinakalcet u člověka vylučován do mateřského mléka. U potkanů je cinakalcet vylučován do mateřského mléka s vysokým poměrem mléko:plazma. Rozhodnutí o tom, zda přerušit kojení nebo terapii cinakalcetem, je třeba učinit po pečlivém zvážení poměru přínosu a rizika.
+
+Fertilita
+Nejsou k dispozici klinické údaje týkající se účinku cinakalcetu na fertilitu. Ve studiích na zvířatech nebyly účinky na fertilitu pozorovány.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Nebyly provedeny žádné studie účinků na schopnost řídit a obsluhovat stroje. Některé nežádoucí účinky však mohou ovlivnit schopnost řídit a obsluhovat stroje (viz bod 4.8).
+4.8 Nežádoucí účinky
+
+a) Souhrn bezpečnostního profilu
+Sekundární hyperparatyreóza, karcinom příštítných tělísek a primární hyperparatyreóza
+Na základě dostupných údajů od pacientů užívajících cinakalcet v placebem kontrolovaných studiích a jednoramenných studiích byly nejčastěji hlášenými nežádoucími účinky nauzea a zvracení. Nauzea a zvracení byly lehké až středně závažné a u většiny pacientů přechodného charakteru. Přerušení terapie kvůli výskytu nežádoucích účinků bylo způsobeno především nauzeou a zvracením.
+b) Tabulkový přehled nežádoucích účinků
+Nežádoucí účinky, které lze alespoň pravděpodobně přisoudit následkům léčby cinakalcetem
+v placebem kontrolovaných studiích a jednoramenných studiích na podkladě prokázaného stanovení příčinných souvislostí, jsou uvedeny níže za použití konvenčního dělení: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10000 až < 1/1000); velmi vzácné (< 1/10000).
+
+5
+
+Frekvence nežádoucích účinků z kontrolovaných klinických studií a z postmarketingu jsou:
+
+
+
+Třídy orgánových systémů podle MedDRA
+Poruchy imunitního systému
+Poruchy metabolizmu a výživy
+
+Poruchy nervového systému
+
+
+
+Srdeční poruchy
+
+
+
+Cévní poruchy
+Respirační,  hrudní  a  mediastinální poruchy
+
+Gastrointestinální poruchy
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Celkové poruchy a reakce v míestě aplikace
+Vyšetření
+
+
+† viz bod 4.4
+* viz bod c
+Frekvence výskytu Časté* Časté Časté Časté Časté Časté Časté
+Není známo* Není známo*
+
+
+Časté Časté Časté Časté
+Velmi časté Velmi časté Časté
+Časté Časté Časté Časté Časté Časté Časté Časté Časté
+Časté Časté Časté
+Nežádoucí účinek
+
+Hypersenzitivní reakce
+Anorexie
+Snížená chuť k jídlu
+Křeče † Závratě Parestezie Bolest hlavy
+Zhoršení srdečního selhání† Prodloužení  QT  intervalu  a komorová arytmie sekundárně při hypokalcemii †
+Hypotenze
+Infekce horních cest dýchacích Dyspnoe
+Kašel Nauzea Zvracení Dyspepsie Průjem Bolest břicha
+Bolest nadbřišku Zácpa
+Vyrážka Myalgie Svalové křeče Bolest zad Astenie
+Hypokalcemie† Hyperkalemie
+Snížené hladiny testosteronu†
+c) Popis vybraných nežádoucích účinků
+Hypersenzitivní reakce
+Po uvedení cinakalcetu na trh byly zaznamenány hypersenzitivní reakce zahrnující angioedém
+a kopřivku. Frekvenci jednotlivých účinků včetně angioedému a kopřivky nelze z dostupných údajů odhadnout.
+
+Hypotenze a/nebo zhoršení srdečního selhání
+U pacientů se zhoršenou srdeční funkcí v postmarketingovém sledování bezpečnosti léčených cinakalcetem byly hlášeny idiosynkratické případy hypotenze a/nebo zhoršení srdečního selhání. Frekvenci těchto účinků nelze z dostupných údajů odhadnout.
+
+Prodloužení QT intervalu a komorová arytmie sekundárně při hypokalcemii
+Po uvedení cinakalcetu na trh bylo zaznamenáno prodloužení QT intervalu a komorová
+
+6
+
+arytmie sekundárně při hypokalcemii, jejich frekvenci nelze z dostupných údajů určit (viz bod 4.4).
+
+d) Pediatrická populace
+Cinakalcet není indikován pro použití u pediatrických pacientů. Bezpečnost a účinnost cinakalcetu v pediatrické populaci nebyly stanoveny. Fatální případ byl hlášen v pediatrické klinické studii u pacienta se závažnou hypokalcemii (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10 Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Dávky titrované až do dávky 300 mg jednou denně byly bezpečně podávány dospělým pacientům, kteří podstoupili dialýzu. Předávkování cinakalcetem může vyvolat hypokalcemii. V případě předávkování je třeba pacienta sledovat kvůli možným příznakům hypokalcemie a terapie má být symptomatická a podpůrná. Vzhledem k vysoké vazebné schopnosti cinakalcetu na bílkoviny není hemodialýza při předávkování účinná.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: léčiva ovlivňující homeostázu vápníku, jiné antiparatyreoidální látky. ATC kód: H05BX01.
+Mechanismus účinku
+Receptor pro vápník na povrchu hlavních buněk příštítných tělísek je hlavním regulátorem sekrece PTH. Cinakalcet je kalcimimetikum přímo snižující hladinu PTH zvyšováním citlivosti kalciového receptoru na extracelulární vápník. Pokles PTH je doprovázen poklesem hladiny vápníku v séru.
+Snížení hladiny PTH koreluje s koncentrací cinakalcetu.
+Po dosažení ustáleného stavu zůstávají koncentrace vápníku v séru během intervalu mezi dávkami konstantní.
+Sekundární hyperparatyreóza
+Byly provedeny tři šestiměsíční, dvojitě zaslepené a placebem kontrolované klinické studie, kterých se zúčastnili dialyzovaní pacienti s neléčenou sekundární hyperparatyreózou v konečném stadiu onemocnění ledvin (n=1136). Demografické a základní vstupní znaky byly typické pro populaci dialyzovaných pacientů se sekundární hyperparatyreózou. Průměrná výchozí hladina iPTH, zahrnující všechny 3 studie, byla 733 pg/ml (77,8 pmol/l) ve skupinách užívajících cinakalcet a
+683 pg/ml (72,4 pmol/l) ve skupinách užívajících placebo. 66 % pacientů užívalo při vstupu do studie steroly vitaminu D a více než 90 % užívalo vazače fosfátů. Signifikantní pokles iPTH, součinu sérového vápníku a fosforu (Ca x P) a hladin vápníku a fosforu byl zaznamenán u pacientů léčených cinakalcetem ve srovnání s pacienty užívajícími placebo, kterým byla poskytnuta standardní péče. Tyto výsledky byly shodné ve všech 3 studiích. V jednotlivých studiích bylo základního kritéria úspěšnosti (definovaného jako podíl pacientů s hladinou iPTH ≤ 250 pg/ml (≤ 26,5 pmol/l)) dosaženo u 41 %, 46
+% a 35 % pacientů užívajících cinakalcet ve srovnání s 4 %, 7 % a 6 % pacientů užívajících placebo. Snížení hladiny iPTH o ≥ 30 % bylo dosaženo přibližně u 60 % pacientů, kteří užívali cinakalcet, a tento účinek byl shodný u celého spektra vstupních hodnot iPTH. Průměrný pokles
+sérového Ca x P, kalcia a fosforu byl 14 %, 7 % a 8 % v jednotlivých studiích.
+
+
+7
+
+Pokles iPTH a Ca x P přetrvával po dobu 12 měsíců léčby. Cinakalcet snižoval iPTH, Ca x P, hladinu vápníku a fosforu bez ohledu na výchozí hladiny iPTH nebo Ca x P, způsob dialýzy (peritoneální dialýza versus hemodialýza), trvání dialýzy, nebo zda pacient užíval steroly vitaminu D, či nikoli.
+
+Snížení hladiny PTH bylo spojeno s nesignifikantním poklesem markerů kostního metabolismu
+(specifická kostní alkalická fosfatáza, N-telopeptid, obměna kostní hmoty (bone turnover) a
+kostní fibróza). Podle dodatečného vyhodnocení souhrnných údajů za 6 a 12 měsíců klinických studií byl Kaplan-Meierův odhad pro zlomeniny kostí a paratyreoidektomie nižší ve skupině užívající cinakalcet ve srovnání s kontrolní skupinou.
+
+Klinické studie u nedialyzovaných pacientů s chronickým onemocněním ledvin (CKD) a sekundární hyperparatyreózou (HPT) ukazují, že cinakalcet u těchto pacientů snížil hladinu PTH podobně jako u dialyzovaných pacientů v konečném stadiu onemocnění ledvin (ESRD) a se sekundární HPT. Nicméně účinnost, bezpečnost, optimální dávkování a léčebné cíle u pacientů s ledvinným selháním před dialýzou nebyly stanoveny. Tyto studie ukazují, že pacienti s chronickým onemocněním ledvin, kteří nejsou dialyzováni a užívají cinakalcet, jsou více ohroženi hypokalcemií, než cinakalcetem léčení pacienti v konečném stadiu onemocnění ledvin (ESRD), kteří jsou dialyzování, což může být způsobeno nižšími výchozími hladinami vápníku a/nebo přítomností zbytkové funkce ledvin.
+EVOLVE (EValuation Of Cinacalcet Therapy to Lower CardioVascular Events) byla randomizovaná, dvojitě zaslepená klinická studie, která u 3883 dialyzovaných pacientů se sekundární HPT a CKD hodnotila, zda léčba cinakalcetem ve srovnání s placebem snižuje riziko úmrtí ze všech příčin a kardiovaskulárních příhod. Studie nedosáhla primárního cíle, tj. neprokázala snížení rizika úmrtí ze všech příčin nebo kardiovaskulárních příhod, které zahrnovaly infarkt myokardu, hospitalizaci pro nestabilní anginu pectoris, srdeční selhání nebo periferní vaskulární příhodu (HR 0,93; 95% CI: 0,85; 1,02; p = 0,112). Po úpravě na vstupní charakteristiky byl v sekundární analýze HR pro primární složený cíl 0,88; 95% CI: 0,79; 0,97.
+
+Karcinom příštítných tělísek a primární hyperparatyreóza
+V jedné studii užívalo cinakalcet 46 dospělých pacientů (29 s karcinomem příštítných tělísek a 17 s primární HPT a závažnou hyperkalcemií, u kterých paratyroidektomie selhala nebo byla kontraindikována) po dobu až 3 let (průměrně 328 dní u pacientů s karcinomem příštítných tělísek
+a průměrně 347 dní u pacientů s primární HPT). Cinakalcet byl podáván v dávkách od 30 mg dvakrát denně až po dávku 90 mg čtyřikrát denně. Primárním cílovým parametrem studie byl pokles hladiny sérového vápníku o ≥ 1 mg/dl (≥ 0,25 mmol/l). U pacientů s karcinomem příštítných tělísek poklesla průměrná hladina sérového vápníku ze 14,1 mg/dl na 12,4 mg/dl (z 3,5 mmol/l na 3,1 mmol/l), zatímco u pacientů s primární HPT sérové hladiny vápníku klesaly z 12,7 mg/dl na 10,4 mg/dl (z 3,2 mmol/l na 2,6 mmol/l). U osmnácti (18) z 29 pacientů (62 %) s karcinomem příštítných tělísek a u 15 ze
+17 pacientů (88 %) s primární HPT bylo dosaženo snížení sérového vápníku o ≥ 1 mg/dl (≥ 0,25 mmol/l).
+Do 28týdenní placebem kontrolované studie bylo zahrnuto 67 dospělých pacientů s primární HPT, kteří splnili kritéria pro paratyroidektomii na základě korigovaných celkových sérových hladin vápníku (> 11,3 mg/dl (2,82 mmol/l) a ≤ 12,5 mg/dl (3,12 mmol/l), ale kteří paratyroidektomii nemohli podstoupit. Podávání cinakalcetu bylo zahájeno dávkou 30 mg dvakrát denně, která byla titrována k udržení korigované celkové koncentrace sérového vápníku v normálním rozmezí.
+Signifikantně vyšší procento pacientů léčených cinakalcetem dosáhlo průměrné korigované celkové koncentrace sérového vápníku ≤ 10,3 mg/dl (2,57 mmol/l) a poklesu průměrné korigované celkové koncentrace sérového vápníku ≥ 1 mg/dl (0,25 mmol/l) oproti výchozím hodnotám ve srovnání s pacienty na placebu (75,8 % versus 0 %, resp. 84,8 % versus 5,9 %).
+5.2 Farmakokinetické vlastnosti
+
+Absorpce
+Po perorálním podání cinakalcetu dosáhne cinakalcet maximální plazmatické koncentrace přibližně za 2-6 hodin. Na podkladě srovnávacích studií je absolutní biologická dostupnost cinakalcetu podávaného
+
+8
+
+nalačno odhadována asi na 20-25 %. Podání cinakalcetu současně s jídlem vede ke vzestupu biologické dostupnosti cinakalcetu přibližně o 50-80 %. Zvýšení plazmatických koncentrací cinakalcetu je obdobné, bez ohledu na obsah tuků ve stravě.
+Při dávkách nad 200 mg byla absorpce saturovaná, pravděpodobně důsledkem špatné rozpustnosti.
+Distribuce
+Distribuční objem je vysoký (přibližně 1000 litrů) a ukazuje na extenzivní distribuci. Cinakalcet se váže přibližně z 97 % na plazmatické bílkoviny a do červených krvinek proniká minimálně.
+Po absorpci se koncentrace cinakalcetu snižuje bifázicky s počátečním poločasem přibližně 6 hodin a terminálním poločasem 30-40 hodin. Ustálený stav koncentrace nastává během 7 dní s minimální akumulací. Farmakokinetika cinakalcetu se nemění s časem.
+Biotransformace
+Cinakalcet je metabolizován různými enzymy, převážně CYP3A4 a CYP1A2 (podíl CYP1A2 nebyl klinicky specifikován). Hlavní metabolity v oběhu jsou inaktivní.
+Podle údajů získaných in vitro je cinakalcet silný inhibitor CYP2D6, ale v klinicky dosažených koncentracích neinhibuje jiné CYP enzymy včetně CYP1A2, CYP2C8, CYP2C9, CYP2C19 a CYP3A4 ani induktory CYP1A2, CYP2C19 a CYP3A4.
+Eliminace
+Po podání radioaktivně značené dávky 75 mg zdravým dobrovolníkům byl cinakalcet rychle a rozsáhle metabolizován oxidací a následnou konjugací. Vylučování metabolitů ledvinami byla převládající cesta eliminace radioaktivity. Asi 80 % dávky se objevilo v moči a 15 % ve stolici.
+Linearita/nelinearita
+Hodnoty AUC a Cmₐₓ cinakalcetu se zvyšují přibližně lineárně v rozmezí dávek 30 až 180 mg jednou denně.
+Farmakokinetický/farmakodynamický vztah
+Krátce po podání dávky se hladina PTH začíná snižovat až na minimální hodnotu přibližně 2 až
+6 hodin po podání dávky, což odpovídá Cmₐₓ cinakalcetu. Poté, co hladiny cinakalcetu začnou klesat, se
+hladiny PTH zvyšují až do 12 hodin po dávce a potom suprese PTH zůstává přibližně konstantní až do konce dávkovacího intervalu jedenkrát denně. V klinických studiích s cinakalcetem byly hladiny PTH měřeny na konci dávkovacího intervalu.
+Starší pacienti: Nebyly zjištěny žádné klinicky relevantní rozdíly ve farmakokinetice cinakalcetu v závislosti na věku.
+
+Porucha funkce ledvin: Farmakokinetický profil cinakalcetu u pacientů s lehkou, středně těžkou a těžkou poruchou funkce ledvin a u pacientů hemodialyzovaných nebo s peritoneální dialýzou je srovnatelný s profilem zdravých dobrovolníků.
+
+Porucha funkce jater: Lehká porucha funkce jater znatelně neovlivnila farmakokinetiku cinakalcetu. Ve srovnání s jedinci s normální funkcí jater byla průměrná AUC cinakalcetu přibližně 2krát vyšší u pacientů se středně těžkou poruchou funkce jater a přibližně 4krát vyšší u pacientů s těžkou poruchou funkce jater. Střední poločas cinakalcetu je prodloužen o 33 %, respektive 70 % u pacientů se středně těžkou, respektive těžkou poruchou funkce jater. Poškození jaterních funkcí nemá vliv na vazbu cinakalcetu na bílkoviny plazmy. Vzhledem k tomu, že se dávkování upravuje individuálně podle ukazatelů bezpečnosti a účinnosti, není u pacientů s poruchou funkce jater žádná další úprava dávky nutná (viz body 4.2 a 4.4).
+Pohlaví: Clearance cinakalcetu může být u žen nižší než u mužů. Vzhledem k tomu, že dávka se stanovuje individuálně, není nutné dávku dále upravovat podle pohlaví pacienta.
+
+
+
+9
+
+Pediatrická populace: Farmakokinetika cinakalcetu byla studována u 12 pediatrických pacientů (6-17 let) s CKD, kteří dostávali dialýzu po jedné perorální dávce 15 mg. Průměrné hodnoty AUC a Cmₐₓ (23,5 (rozmezí 7,22 až 77,2) ng * h/ml a 7,26 (rozmezí 1,80 až 17,4) ng/ml) byly v rámci přibližně 30% průměrných hodnot AUC a Cmₐₓ pozorovaných v jediné studii u zdravých dospělých jedinců po jedné dávce 30 mg (33,6 (rozmezí 4,75 až 66,9) ng * h/ml a 5,42 (rozmezí 1,41 až 12,7) ng/ml). Vzhledem k omezeným údajům u pediatrických subjektů nelze vyloučit možnost vyšších expozic u lehčích/mladších ve srovnání s těžšími/staršími pediatrickými pacienty při dané dávce cinakalcetu. Farmakokinetika u pediatrických pacientů po opakovaných dávkách nebyla studována.
+Kouření: Clearance cinakalcetu je u kuřáků vyšší než u nekuřáků, pravděpodobně indukcí metabolismu
+zprostředkovaného enzymem CYP1A2. Jestliže pacient začne nebo skončí s kouřením, plazmatické hladiny cinakalcetu se mohou změnit a může být nezbytné upravit dávku léku.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Cinakalcet neměl teratogenní účinky na králíky, kterým byl podáván 0,4násobek (na podkladě AUC) maximální dávky pro člověka při sekundární HPT (180 mg denně). U potkanů nevyvolal teratogenní účinky 4,4násobek (na podkladě AUC) maximální dávky užívané pro sekundární hyperparatyreózu. Nebyly zjištěny žádné účinky na fertilitu obou pohlaví při podávání až 4násobku maximální dávky pro člověka 180 mg/den (bezpečný limit pro malou skupinu pacientů užívajících maximální klinickou dávku 360 mg denně by byl přibližně poloviční ve srovnání s výše uvedenou podanou dávkou).
+
+U březích potkaních samic byl při nejvyšších dávkách pozorován mírný pokles tělesné hmotnosti a příjmu potravy. Pokles hmotnosti plodu byl zjištěn u těchto samic při dávkách vyvolávajících těžkou hypokalcemii. Bylo prokázáno, že cinakalcet prochází placentární bariérou u králíků.
+Nebyl zjištěn žádný genotoxický nebo karcinogenní potenciál cinakalcetu. Bezpečné hranice podle toxikologických studií jsou úzké kvůli hypokalcemii, která byla pozorována u zvířat a která limituje dávku. V toxikologických studiích s podáváních opakovaných dávek a ve studiích karcinogenity na hlodavcích, byl pozorován výskyt katarakty a zakalení čočky. Tento jev však nebyl zaznamenán
+ve studiích provedených se psy ani s opicemi a nebyl pozorován ani v humánních klinických studiích, kde patřil možný vznik katarakty ke sledovaným parametrům. Je známo, že katarakty se mohou vyskytnout u hlodavců jako následek hypokalcemie.
+
+Ve studiích in vitro byly zjištěny hodnoty IC₅₀ pro serotoninový přenašeč 7krát vyšší a pro KATP kanály 12krát vyšší než EC₅₀ pro kalciový receptor získaná za stejných experimentálních podmínek. Klinický význam není znám, avšak možnost účinku cinacalcetu na tyto sekundární cíle nelze zcela vyloučit.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+
+Jádro tablety
+předbobtnalý kukuřičný škrob mikrokrystalická celulosa (E460) povidon (K-29/32)
+krospovidon (typ A a B) magnesium-stearát (E572) koloidní bezvodý oxid křemičitý
+
+Potahová vrstva
+částečně hydrolyzovaný polyvinylalkohol (E1203) oxid titaničitý (E171)
+
+10
+
+makrogol (L 4000)
+mastek (E553b)
+hlinitý lak indigokarmínu (E132) žlutý oxid železitý (E172)
+
+6.2 Inkompatibility
+Neuplatňuje se.
+6.3 Doba použitelnosti
+
+3 roky
+6.4 Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+6.5 Druh obalu a obsah balení
+PVC/PE/PVDC/Al průhledný blistr
+
+Velikost balení: 1 blistr (14 tablet), 2 blistry (28 tablet), 6 blistrů (84 tablet) v krabičce. Na trhu nemusí být všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+HEATON k.s.
+Na Pankráci 332/14, 140 00 Praha 4 Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+Cinacalcet Heaton 30 mg potahované tablety: 56/016/20-C Cinacalcet Heaton 60 mg potahované tablety: 56/017/20-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 15. 9. 2020 Datum posledního prodloužení registrace:
+
+10. DATUM REVIZE TEXTU
+15. 9. 2020
+
+
+
+
+11

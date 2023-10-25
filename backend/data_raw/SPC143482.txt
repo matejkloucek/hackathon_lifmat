@@ -1,0 +1,359 @@
+Sp.zn.sukls256876/2017
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+Ringerův roztok Viaflo infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Natrii chloridum            8,60 g/l
+Kalii chloridum             0,30 g/l
+Calcii chloridum dihydricum      0,33 g/l
+
+Na⁺    K⁺    Ca⁺⁺    Cl⁺
+mmol/l     147    4    2,25   155,5
+mEq/l     147    4     4,5   155,5
+Seznam pomocných látek viz bod 6.1
+
+3.   LÉKOVÁ FORMA
+Infuzní roztok
+Čirý roztok bez viditelných částic. Osmolarita 309 mosmol/l (přibl.) pH: 5,0 – 7,5
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Přípravek Ringerův roztok Viaflo je indikován k:
+-  obnově ztrát extracelulární tekutiny
+-  obnově rovnováhy sodíku, draslíku, vápníku a chloridů
+-  léčbě izotonické dehydratace
+
+4.2 Dávkování a způsob podání Dávkování
+Dospělí, starší pacienti, dospívající a děti
+Před podáním a během podávání přípravku je nutné monitorovat bilanci tekutin, sérových elektrolytů a acidobazickou rovnováhu se zvláštní pozorností na sérový sodík, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu, a to z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8). U fyziologicky hypotonických roztoků je zvláště významné monitorovat sérový
+sodík.
+
+Tonicita přípravku Ringerův roztok Viaflo: izotonický roztok
+
+
+
+1
+
+Rychlost infuze a objem závisí na věku, tělesné hmotnosti a klinickém stavu (např. popáleniny, chirurgický zákrok, poranění hlavy, infekce) a souběžná léčba má být stanovena po konzultaci s lékařem se zkušenostmi v intravenózní léčbě (viz body 4.4 a 4.8).
+
+Doporučené dávkování:
+Doporučené dávkování je:
+-  u dospělých, u starších pacientů a dospívajících: 500 ml až 3 litry / 24 h
+-  u kojenců a dětí: 20 až 100 ml / kg / 24 h
+Rychlost podání:
+Rychlost infuze je obvykle 40 ml/kg/24 h u dospělých, starších pacientů a dospívajících.
+U dětských pacientů je průměrná rychlost infuze 5 ml/kg/h, avšak tato hodnota se liší s věkem dítěte: 6–8 ml/kg/h u kojenců, 4–6 ml/kg/h u batolat a 2–4 ml/kg/h u dětí školního věku. U dětí s popáleninami je průměrné dávkování 3,4 ml/kg/procento rozsahu popálenin po uplynutí 24 hodin od popálení a 6,3 ml/kg/procento rozsahu popálenin po uplynutí 48 hodin od popálení. V případě vážného poranění hlavy může být dětem v průměru podáváno 2 850 ml/m².
+Rychlost infuze a celkový podaný objem může být vyšší v případě operačních výkonů a v jiných závažných případech.
+Poznámka:
+-  Kojenci a batolata: děti ve věku od 28 dnů do 23 měsíců (batole je kojenec, který již chodí)
+-  Děti a děti školního věku: děti ve věku od 2 do 11 let
+
+Způsob podání:
+Roztok se podává intravenózně.
+Před použitím infuzní roztok vizuálně zkontrolujte.
+Roztok použijte pouze tehdy, je-li čirý, bez viditelných částic, a je-li obal neporušený. Po připojení infuzního setu ihned podávejte.
+Vak před použitím nevyjímejte z ochranného vnějšího přebalu. Vnitřní vak uchovává sterilitu přípravku.
+Plastové vaky nepropojujte do série. Takové použití může mít za následek vzduchovou embolii
+způsobenou nasátím reziduálního vzduchu z primárního vaku před ukončením podání roztoku ze sekundárního vaku. Stlačování flexibilních plastových vaků s obsahem intravenózních roztoků za
+účelem zvýšení rychlosti průtoku může vést ke vzduchové embolii, pokud není před zahájením jejich podávání vzduch z vaku zcela odčerpán. Intravenózní sety se zavzdušněním s ventilem v otevřené
+poloze nemají být s flexibilními plastovými vaky používány. Roztok by měl být podáván pomocí
+sterilního zařízení za aseptických podmínek. Infuzní set by měl být naplněn roztokem, aby do systému nemohl vniknout vzduch.
+Aditiva mohou být přidána před podáním nebo během podání injekčním portem.
+
+Monitorování:
+Během léčby musí být monitorována rovnováha tekutin a plazmatické koncentrace elektrolytů (natrium, kalium, kalcium a chloridy).
+4.3  Kontraindikace
+Roztok je kontraindikován u pacientů s:
+-  extracelulární hyperhydratací nebo hypervolemií,
+-  hypertonickou dehydratací,
+-  hyperkalemií,
+-  hypernatremií,
+
+2
+
+-  hyperkalcemií,
+-  hyperchloremií,
+-  těžkou renální insuficiencí (s oligurií nebo anurií),
+-  nekompenzovaným srdečním selháním,
+-  závažnou hypertenzí,
+-  celkovým edémem a ascitickou cirhózou,
+-  souběžnou léčbou digitalisem (viz bod 4.5).
+
+Stejně jako u jiných roztoků obsahujících vápník je léčba ceftriaxonem a přípravkem Ringerův roztok Viaflo kontraindikovaná u předčasně narozených novorozenců a novorozenců (≤28 dní věku), i když jsou použity oddělené infuzní sety (riziko vzniku fatální sraženiny vápenaté soli ceftriaxonu v krevním řečišti novorozenců).
+
+4.4  Zvláštní upozornění a opatření pro použití
+Přípravek Ringerův roztok Viaflo neobsahuje dostatečně vysokou koncentraci draslíku a vápníku, nemůže být proto použit k udržení hladin těchto iontů nebo k úpravě jejich deficitu. Po léčbě dehydratace je proto třeba zaměnit tento infuzní roztok za udržovací roztok s dostatečným obsahem těchto iontů.
+V průběhu dlouhodobé parenterální léčby je nutné pacientům podávat vhodnou výživu.
+V závislosti na objemu a rychlosti infuze může mít intravenózní podání přípravku Ringerův roztok Viaflo za následek přetížení tekutinami a/nebo roztoky, které vede k hyperhydrataci a např. stavům přetížení včetně plicního městnání a edému.
+Pacientům s hypertenzí, srdečním selháním, periferním nebo plicním edémem, zhoršenou funkcí ledvin, preeklampsií, aldosteronismem a jinými stavy nebo léčbou (např. kortikoidy/steroidy) spojenou se zadržováním sodíku (viz též bod 4.5 „ Interakce s jinými léčivými přípravky a jiné formy interakce“) je roztoky obsahující chlorid sodný třeba podávat opatrně.
+Pacientům s chorobami srdce nebo stavy náchylnými k hyperkalemii, jako je např. selhání ledvin nebo adrenokortikální selhání, akutní dehydratace nebo rozsáhlá destrukce tkání v případě vážných popálenin, je roztoky obsahující draselné soli třeba podávat opatrně.
+Pro sledování změn v rovnováze tekutin, koncentraci elektrolytů a acidobazické rovnováze může být nezbytné klinické vyhodnocení a pravidelné laboratorní testování během prodloužené parenterální
+léčby nebo kdykoliv stav pacienta nebo rychlost podávání odůvodňuje takovéto vyhodnocení.
+Infuze o velkém objemu je nutné u pacientů se srdečním nebo plicním selháním a u pacientů
+s neosmotickým uvolňováním vazopresinu (včetně SIADH) podávat za specifického sledování z důvodu rizika hyponatremie (viz dále).
+
+Hyponatrémie:
+U pacientů s neosmotickým uvolňováním vazopresinu (např. u akutních onemocnění, bolesti, pooperačního stresu, infekci, popálenin a onemocnění CNS), u pacientů se srdečními, jaterními a ledvinovými chorobami a u pacientů vystavených agonistům vazopresinu (viz bod 4.5) je po infuzi hypotonických roztoků zvýšené riziko akutní hyponatrémie.
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku) vyznačující se bolestí hlavy, nevolností, záchvaty, letargií a zvracením. U pacientů s edémem mozku je zvýšené riziko závažného, nevratného a život ohrožujícího poškození mozku.
+Zvýšené riziko závažného a život ohrožujícího edému mozku způsobeného akutní hyponatrémií je u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální compliance (např. meningitida,
+intrakraniální krvácení, kontuze mozku a otok mozku).
+
+Vzhledem k přítomnosti vápníku:
+−  je třeba opatrnosti, aby se předešlo paravazální aplikaci při intravenózní infuzi
+
+3
+
+−  pacientům se zhoršenou funkcí ledvin nebo chorobami spojenými se zvýšenou koncentrací vitamínu D (např. sarkoidóza) je třeba podávat obezřetně
+−  v případě souběžné krevní transfuze nesmí být roztok podáván ve stejné infuzi, neboť hrozí riziko koagulace.
+Vápenato ceftriaxonové sraženiny:
+Byly popsány případy fatálních reakcí s vápenato ceftriaxonovými sraženinami v plicích a ledvinách předčasně narozených novorozenců a novorozenců mladších 1 měsíce.
+U pacientů jakéhokoli věku nesmí být ceftriaxon míchán nebo podáván současně s jakýmkoli roztokem obsahujícím vápník, i když jsou použity oddělené infuzní sety nebo různá infuzní místa.
+Avšak u pacientů starších než 28 dní mohou být ceftriaxon a roztoky obsahující vápník podávány sekvenčně jeden po druhém, pokud jsou infuzní sety použity na různých infuzních místech nebo pokud jsou infuzní sety nahrazeny nebo důkladně propláchnuty mezi infuzemi fyziologickým roztokem k zabránění srážení. V případě hypovolemie je nutné se vyhnout sekvenční infuzi ceftriaxonu a přípravků obsahujících vápník.
+
+Renální funkce
+Přípravek Ringerův roztok Viaflo má být podáván se zvláštní opatrností u pacientů se závažným onemocněním ledvin. U těchto pacientů může mít podávání přípravku Ringerův roztok Viaflo za následek elektrolytové abnormality.
+Informace týkající se přípravy přípravku a aditiv viz bod 6.6.
+
+Pediatrická populace
+U pediatrické populace má být koncentrace elektrolytů v plazmě pečlivě sledována.
+
+Starší pacienti
+Při výběru typu infuzního roztoku a objemu/ rychlosti infuze pro starší pacienty je třeba vzít v úvahu, že tito pacienti mají obecně častěji kardiální, renální, hepatální a jiné choroby nebo souběžnou medikamentózní léčbu.
+
+
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Interakce s ceftriaxonem
+- Souběžná léčba ceftriaxonem a přípravkem Ringerův roztok Viaflo je kontraindikována u předčasně narozených novorozenců a novorozenců (≤28 dní věku), i když jsou použity oddělené infuzní sety (riziko vzniku fatální sraženiny vápenaté soli ceftriaxonu v krevním řečišti novorozenců) (viz bod 4.3).
+- U pacientů starších 28 dní (včetně dospělých) nesmí být ceftriaxon podáván současně
+s intravenózními roztoky obsahujícími vápník, včetně přípravku Ringerův roztok Viaflo (viz bod 4.4), i když jsou použity oddělené infuzní sety nebo různá infuzní místa (viz bod 6.2).
+
+Interakce související s obsahem sodíku:
+-  Kortikoidy a steroidy a karbenoxolon související se zadržováním sodíku a vody v těle (s edémem a hypertenzí)
+Interakce související s obsahem draslíku:
+-  Draslík šetřící diuretika (amilorid, spironolacton, triamteren – samotná nebo v kombinaci)
+-  Inhibitory angiotenzin-konvertujícího enzymu (ACEi) a antagonisté receptorů angiotenzinu II
+-  Tacrolimus, cyklosporin, které zvyšují koncentraci draslíku v plazmě a mohou případně vést k fatální hyperkalemii, zejména v případě selhání ledvin, které zvyšuje hyperkalemický efekt.
+4
+
+Interakce související s obsahem vápníku:
+-  Srdeční glykosidy (digitalisová kardiotonika), jejichž účinek je zvýšen v důsledku přítomnosti kalcia v roztoku, což může vést k vážné nebo fatální srdeční arytmii (viz bod 4.3).
+-  Thiazidová diuretika nebo vitamín D, které mohou vést k hyperkalcemii v případě souběžného podávání s kalciem.
+Léčiva vedoucí ke zvýšenému účinku vazopresinu
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez
+elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2, 4.4 a 4.8).
+•  Mezi léčiva stimulující uvolnění vazopresinu se řadí:
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika
+•  Mezi léčiva zesilující působení vazopresinu se řadí: chlorpropamid, NSAID, cyklofosfamid
+•  Mezi analogy vazopresinu se řadí: desmopresin, oxytocin, terlipresin.
+Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a antiepileptika, např. oxkarbazepin.
+
+Informace týkající se inkompatibilit mezi tímto a jinými přípravky viz bod 6.2.
+4.6  Fertilita, těhotenství a kojení
+Během těhotenství a kojení lze přípravek Ringerův roztok Viaflo podávat bezpečně, pokud je průběžně sledována rovnováha elektrolytů a tekutin.
+V případě další medikace je třeba zvážit povahu léku a jeho podávání v průběhu těhotenství a kojení.
+Přípravek Ringerův roztok Viaflo je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem (viz body 4.4, 4.5 a 4.8).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Nejsou žádné informace týkající se vlivu přípravku Ringerův roztok Viaflo na schopnost řídit vozidlo nebo jiné těžké stroje.
+
+4.8  Nežádoucí účinky
+Následující nežádoucí účinky byly hlášeny během poregistračního použití. Nežádoucí účinky jsou uvedené podle tříd orgánových systémů MedDRA (TOS) a následně, tam kde je to možné, podle preferovaných termínů v pořadí závažnosti.
+
+
+Třída orgánového systému (TOS)
+
+Poruchy metabolismu a výživy
+
+
+Cévní poruchy
+Poruchy nervového systému
+Nežádoucí účinky (upřednostňovaný termín)
+Hyperhydratace*
+Poruchy rovnováhy elektrolytů Hyponatrémie**
+Selhání srdce*
+Akutní hyponatremická encefalopatie**
+Četnost
+
+Velmi časté Velmi časté Není známo Velmi časté Není známo
+*u pacientů trpících srdečními chorobami nebo plicním edémem
+
+5
+
+**Hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie
+
+
+Přetížení tekutinami, přecitlivělost a kopřivka byly hlášeny u jiných podobných roztoků.
+Nežádoucí účinky mohou souviset se způsobem podávání. K takovým nežádoucím účinkům patří např. horečnatá reakce, infekce v místě vpichu, lokální bolest nebo reakce, podráždění žíly, žilní trombóza nebo flebitida šířící se od místa vpichu a extravazace.
+Nežádoucí účinky mohou rovněž souviset s léky podávanými souběžně s roztokem. Pravděpodobnost vzniku dalších nežádoucích účinků závisí na vlastnostech podávaného léku.
+V případě jakýchkoli nežádoucích účinků je třeba podávání infuze přerušit.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Nadměrné užívání nebo příliš rychlé podávání může vést k předávkování vodou a sodíkem s rizikem edému, zejména v případě snížené renální exkrece sodíku. V takovém případě může být nezbytné provádět dodatečnou renální dialýzu.
+Podávání nadměrného množství draslíku může vést ke vzniku hyperkalemie, zejména u pacientů se zhoršenou funkcí ledvin. K příznakům patří parestezie končetin, svalová slabost, paralýza, srdeční arytmie, srdeční blok, zástava srdce a zmatenost. Léčba hyperkalemie spočívá v podání kalcia, inzulinu (s glukózou), natrium bikarbonátu, případně zahájení dialýzy.
+Podávání nadměrného množství vápenatých solí může vést ke vzniku hyperkalcemie. K příznakům patří anorexie, nauzea, zvracení, zácpa, bolest břicha, svalová slabost, duševní poruchy, polydipsie, polyurie, nefrokalcinóza, ledvinové kaménky a ve vážných případech i srdeční arytmie a koma. Příliš rychlé intravenózní podávání vápenatých solí může rovněž vést ke vzniku symptomů hyperkalcemie, vápenaté pachuti, návalům horka a periferní vazodilataci. Mírná asymptomatická hyperkalcemie se zpravidla vytratí po přerušení podávání kalcia a dalších doplňkových léků, jako např. vitamínu D. Je-li hyperkalcemie vážná, je třeba okamžitě zahájit léčbu (např. kličková diuretika, hemodialýza, kalcitonin, bisfosfonáty, edetát trojsodný).
+Podávání nadměrného množství chloridových solí může vyvolat hyperchloremii a ztrátu bikarbonátu s acidifikujícím účinkem.
+Projevy předávkování mohou vyžadovat okamžitou lékařskou pozornost a léčbu. Intervence zahrnují přerušení podávání přípravku Ringerův roztok Viaflo, snížení dávky a další opatření, které jsou indikována pro konkrétní klinický stav.
+Souvisí-li předávkování s léky přidávanými do infuzního roztoku, souvisí příznaky předávkování s povahou přidávaného léku.
+V případě náhodného předávkování infuzí je třeba léčbu přerušit a sledovat pacienta, zda se u něho neprojeví příznaky související s podávaným lékem. V případě nutnosti je nutné zavést potřebná symptomatická a podpůrná opatření.
+
+
+
+
+
+6
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: elektrolyty   ATC kód: B05BB01
+Přípravek Ringerův roztok Viaflo je izotonický roztok elektrolytů. Obsahem a koncentracemi složek odpovídá plazmě.
+Farmakodynamické vlastnosti tohoto roztoku jsou dány farmakodynamickými vlastnostmi jeho složek (vody, sodíku, draslíku, vápníku a chloridu). Hlavní účinek přípravku Ringerův roztok Viaflo spočívá v rozšiřování mimobuněčného prostoru včetně intersticiální a intravaskulární tekutiny.
+Ionty, jako např. sodík, procházejí buněčnou membránou různými transportními mechanismy, k nimž patří i sodíková pumpa (Na⁺/K⁺-ATPáza). Sodík hraje významnou úlohu v neurotransmisi, srdeční elektrofyziologii a v renálním metabolismu.
+Draslík má zásadní význam v různých metabolických a fyziologických funkcích jako je nervový vzruch, svalová kontrakce a acidobazická regulace. Normální koncentrace draslíku v plazmě je 3,5 až
+5 mmol/l. Draslík je především nitrobuněčným kationtem svalstva, pouze asi 2% jsou přítomna v mimobuněčné tekutině. Transport draslíku do buněk a jeho zadržení proti koncentračnímu gradientu vyžaduje aktivní transport přes enzym Na⁺/K⁺- ATPázu.
+Přibližně 99% vápníku je uloženo v kostech. Zbývající 1% je obsaženo v tělesných tkáních a tekutinách a je nezbytné pro normální vedení nervového vzruchu, svalovou aktivitu a krevní koagulaci.
+Chlorid je především mimobuněčný aniont, obsažený v nízkých koncentracích v kostech a ve vysokých koncentracích v některých složkách pojivové tkáně, např. v kolagenu. Nitrobuněčný chlorid je ve vysokých koncentracích obsažen v červených krvinkách a žaludeční sliznici. Rovnováha aniontů a kationtů je regulována ledvinami. K reabsorpci chloridu dochází obecně po reabsorpci sodíku.
+5.2  Farmakokinetické vlastnosti
+Farmakokinetické vlastnosti přípravku Ringerův roztok Viaflo jsou dány farmakokinetickými vlastnostmi jeho složek (chloridu sodného, chloridu draselného a chloridu vápenatého).
+Objem a iontové složení extracelulárního a intracelulárního prostoru je následující: Extracelulární tekutina: přibližně 19 litrů
+Natrium (mmol/l)   142
+Kalium (mmol/l)   5
+Calcium (mmol/l)   2,5
+Chloridum (mmol/l)  103
+Intracelulární tekutina: přibližně 23 litrů Natrium (mmol/l)   15
+Kalium (mmol/l)   150
+Calcium (mmol/l)   1
+Chloridum (mmol/l)  1
+Po injekci radioaktivního sodíku (²⁴Na) je biologický poločas 99% podaného Na 11 až 13 dní a zbývajícího 1% 1 rok. Distribuce se liší dle tkání: je rychlá ve svalech, játrech, ledvinách, chrupavce a kůži, pomalá v erytrocytech a neuronech, velmi pomalá v kostech. Sodík je vylučován především ledvinami, ale reabsorpce v ledvinách je značná. Malé množství sodíku se ztrácí stolicí a potem.
+Faktory ovlivňující přenos draslíku mezi intra- a extracelulární tekutinou, jako např. poruchy acidobazické rovnováhy, mohou narušit poměr plazmatických koncentrací k celkovým tělesným zásobám. Draslík je vylučován zejména ledvinami, vylučuje se v distálních tubulech výměnou za sodíkové a vodíkové ionty. Ledviny špatně uchovávají draslík a jeho vylučování pokračuje i při jeho závažném nedostatku v organismu. Malé množství draslíku se vylučuje stolicí a malé množství se může vylučovat i potem.
+Koncentrace vápníku v plazmě je regulována parathormonem, kalcitoninem a vitamínem D. Asi 47% vápníku je obsaženo v plazmě ve fyziologicky aktivní ionizované podobě, asi 6% tvoří komplexy s anionty jako jsou fosfáty a citráty a zbytek je vázán na proteiny, především albumin. Je-li
+7
+
+plazmatická koncentrace albuminu zvýšená (např. při dehydrataci) nebo snížená (obvykle při maligních onemocněních), ovlivní to poměr ionizovaného kalcia. A tak se celková plazmatická koncentrace vápníku obvykle řídí plazmatickým albuminem. Nadbytek kalcia je vylučován převážně ledvinami. Neabsorbovaný vápník je vylučován stolicí (včetně vápníku vylučovaného žlučí a pankreatickou šťávou). V menším množství pak potem, kůží, vlasy a nehty. Kalcium prochází placentou a vylučuje se do mateřského mléka.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Předklinické údaje o bezpečnosti přípravku Ringerův roztok Viaflo u zvířat jsou irelevantní, neboť složky roztoku jsou fyziologické složky obsažené ve zvířecí a lidské plazmě.
+V podmínkách klinické aplikace nejsou očekávány žádné toxické účinky. Bezpečnost případně přidávaných léků je třeba posuzovat zvlášť.
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1   Seznam pomocných látek Hydroxid sodný (na úpravu pH) Voda pro injekci
+6.2  Inkompatibility
+Stejně jako u všech ostatních parenterálních roztoků je třeba před přidáním dalších léků ověřit kompatibilitu těchto aditiv s roztokem ve vaku Viaflo.
+Ceftriaxon: více informací viz body 4.3 a 4.4 .
+
+Nejsou-li k dispozici studie kompatibility, nesmí být tento roztok směšován s jinými léčivy. Před přidáním aditiva čtěte příbalovou informaci k příslušnému přípravku.
+Před přidáním léku je třeba ověřit, zda je rozpustný a stabilní ve vodě při pH přípravku Ringerův roztok Viaflo (viz bod 3).
+Soli vápníku jsou považovány za inkompatibilní s řadou léčiv. Může dojít k tvorbě komplexů s následnou precipitací.
+Pro informaci uvádíme seznam léků, které nejsou kompatibilní s přípravkem Ringerův roztok Viaflo (tento seznam není vyčerpávající):
+-  Amfotericin B
+-  Kortizon
+-  Erythromycin laktobionát
+-  Etamivan
+-  Ethylalkohol
+-  Sodná sůl thiopentalu
+-  Dinatriumedetát (EDTA)
+Aditiva, u kterých je známa inkompatibilita, by neměla být používána.
+6.3  Doba použitelnosti
+V neotevřeném obalu: 500 ml: 2 roky
+1 000 ml: 3 roky
+
+Doba použitelnosti po otevření
+Chemickou a fyzikální stabilitu jakéhokoliv aditiva při pH přípravku Ringerův roztok Viaflo v obalu Viaflo je třeba stanovit před použitím.
+
+
+8
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, jsou doba a podmínky uchovávání přípravku v odpovědnosti uživatele, doba uchovávání by neměla překročit 24 hodin při 2-8°C, pokud rozpuštění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+6.5  Druh obalu a obsah balení
+Vaky Viaflo jsou vyrobeny z polyolefin/polyamidového společně lisovaného plastu (PL-2442).
+Vak je zataven do vnějšího ochranného plastového přebalu vyrobeného z polyamidu/polypropylenu, který slouží jen k fyzikální ochraně vaku.
+Velikost vaků: 500 ml nebo 1 000 ml (na trhu nemusí být všechny velikosti balení) Obsah vnějšího kartonu: 20 vaků po 500 ml
+10 vaků po 1 000 ml
+
+Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním Po jednorázovém použití znehodnoťte.
+Veškerý nespotřebovaný přípravek zlikvidujte. Částečně spotřebované vaky znovu nenapojujte.
+1. Otevření
+a) Těsně před použitím vyjměte vak Viaflo z vnějšího přebalu.
+b) Pevným stisknutím vnitřního vaku zkontrolujte, zda nedochází k drobným únikům. Pokud naleznete netěsnosti, roztok zlikvidujte, protože by mohla být narušena jeho sterilita.
+c) Zkontrolujte, zda je roztok čirý a zda neobsahuje žádné cizí příměsi. Pokud roztok není čirý nebo obsahuje cizí příměsi, zlikvidujte ho.
+2. Příprava k podání
+Pro přípravu a podání použijte sterilní materiál.
+a) Vak zavěste za závěsné oko.
+b)  Ze vstupního portu v dolní části vaku odstraňte ochranný uzávěr. Jednou rukou uchopte malé křidélko na portu a druhou rukou velké křidélko na ochranném uzávěru. Poté otáčejte uzávěrem, dokud neodpadne.
+c) Dodržujte aseptické podmínky při sestavování infuze.
+d) Připojte aplikační set. Při připojování a naplňování setu a podávání roztoku postupujte podle návodu přiloženého k setu.
+3. Přidání léčivých přípravků před podáním
+Upozornění: Aditiva mohou být inkompatibilní.
+V případě přidání aditiv je třeba před parenterálním podáním ověřit, zda je roztok izotonický. Každé aditivum je třeba pečlivě promíchat za aseptických podmínek. Roztoky obsahující aditiva by měly být podávány ihned (neměly by být skladovány).
+
+Přidání léčivých přípravků před podáním
+a) Dezinfikujte místo určené pro přidání léku.
+b) S použitím stříkačky s jehlou kalibru 19-22 propíchněte uzavíratelný injekční port a aplikujte.
+c)  Roztok a léčivo důkladně promíchejte. Při použití léků o vysoké hustotě, jako je například chlorid draselný, jemně poklepejte na porty v obrácené poloze a promíchejte.
+Upozornění: Vaky s přidanými léčivými přípravky neskladujte.
+Přidání léčivých přípravků během podání
+a) Zavřete svorku na infuzním setu.
+9
+
+b) Dezinfikujte místo určené pro přidání léku.
+c) S použitím stříkačky s jehlou kalibru 19-22 propíchněte uzavíratelný port pro přidání léků a aplikujte.
+d) Vak sejměte z infuzního stojanu a/nebo otočte do vertikální polohy.
+e) Oba porty vyprázdněte jemným poklepáváním v obrácené poloze.
+f) Roztok a léčivo důkladně promíchejte.
+g) Vak umístěte zpět do polohy k použití, otevřete svorku na infuzním setu a pokračujte v aplikaci.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+BAXTER CZECH spol. s r.o. Karla Engliše 3201/6
+150 00 Praha 5 Česká republika
+8.   REGISTRAČNÍ ČÍSLO
+76/398/05-C
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 2. 11. 2005
+Datum posledního prodloužení registrace: 9. 2. 2007
+10.  DATUM REVIZE TEXTU
+14. 2. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

@@ -1,0 +1,146 @@
+sp.zn. sukls147891/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+Ardeaelytosol conc. natriumchlorid 5,85% koncentrát pro infuzní roztok
+Ardeaelytosol conc. natriumchlorid 10% koncentrát pro infuzní roztok
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+
+Ardeaelytosol conc. natriumchlorid
+5,85%
+10%
+
+
+1000 ml koncentrátu pro infuzní roztok obsahuje:
+Natrii chloridum
+
+58,5 g
+
+100,0 g
+
+
+Obsah elektrolytů:
+Na⁺ [mmol/l] Cl⁻ [mmol/l]
+
+1000
+1000
+
+1711
+1711
+
+
+Osmotický tlak [kPa] pH
+4 841
+4,5-7,0
+7 510
+4,5-7,0
+Seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+Koncentrát pro infuzní roztok
+Popis přípravku: čirý, bezbarvý roztok
+4.  KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Hyponatrémie (jen při deficitu objemu tekutin a hypoosmolalitě) Metabolická alkalóza
+Hypochlorémie
+4.2. Dávkování a způsob podání
+Dávkování je individuální dle ztrát, při ředění nosným roztokem (např. Ardeanutrisol G 5) v poměru 1:6, případně nižším. Dávkování dle excesu bazí: BE x 0,3 x kg = mmol Cl⁻ v případě korekce alkalózy. Pro suplementaci Na⁺ platí (140 - aktuální Na⁺) x 0,2 kg = mmol Na⁺ (= ml 5,85% NaCl). Rychlost dávkování je cca 2 mmol/kg/hod. Maximální rychlost infuze záleží pak na klinickém stavu pacienta.
+Způsob podávání:
+Nitrožilní kapénková infuze v uzavřeném systému. Koncentrát chloridu sodného se podává vždy
+v nosném roztoku.
+4.3. Kontraindikace Hypernatrémie Hyperchlorémie Metabolická acidóza
+
+4.4. Zvláštní upozornění a opatření pro použití
+Koncentráty chloridu sodného se aplikují s velkou opatrností v případech hypokalémie, poruch, kde zvýšený příjem sodíku je spojen s rizikem (srdeční nedostatečnost, generalizovaný edém, plicní edém, hypertenze, léčba kortikoidy, metabolická acidóza).
+Během aplikace je nutno sledovat sérový iontogram, bilanci tekutin, kontrolovat acidobazickou rovnováhu.
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Během léčby kortikosteroidy může být zvýšena retence sodíku a chloridů.
+4.6. Fertilita, těhotenství a kojení
+Použití přípravku během těhotenství a laktace není kontraindikováno, pozornost by měla být zvýšena při eklampsiích nebo preeklampsiích.
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Vzhledem k povaze přípravku a jeho indikaci nepřichází v úvahu.
+4.8. Nežádoucí účinky
+U přípravku Ardeaelytosol conc. natriumchlorid 5,85% (10%) nejsou nežádoucí účinky uváděny. Existuje zde možnost obecných nežádoucích účinků spojených s neadekvátně vedenou infuzní terapií – hyperhydratace, hypernatrémie, hyperchlorémie, kardiální dekompenzace, edémy, iontový rozvrat.
+
+
+Třída orgánových systémů podle databáze MedDRA
+Poruchy krve a lymfatického systému
+
+
+Srdeční poruchy
+
+
+
+Poruchy ledvin a močových
+cest
+Typ nežádoucího účinku
+
+
+Rozvrat iontové rovnováhy
+
+
+Edémy
+
+
+Kardiální dekompenzace
+
+
+Hyperhydratace
+Frekvence výskytu
+
+Přesné  údaje  nejsou  k dispozici,  lze očekávat,  že  se  vyskytnou  vzácně s frekvencí výskytu >1/10000 a < 1/1000. Přesné  údaje  nejsou  k dispozici,  lze očekávat,  že  se  vyskytnou  vzácně s frekvencí výskytu >1/10000 a < 1/1000. Přesné  údaje  nejsou  k dispozici,  lze očekávat,  že  se  vyskytnou  vzácně s frekvencí výskytu >1/10000 a < 1/1000. Přesné  údaje  nejsou  k dispozici,  lze očekávat,  že  se  vyskytnou  vzácně s frekvencí výskytu >1/10000 a < 1/1000.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9. Předávkování
+Při předávkování může dojít k objemovému přetížení, hypernatrémii, metabolické acidóze. Je nutno přerušit další dodávky přípravku. Podávají se diuretika za stálé kontroly sérových elektrolytů, úpravy sérových elektrolytů a poruch acidobazické rovnováhy.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: infundabilium, ATC kód: B05XA03 (Aditiva k intravenózním roztokům
+- roztoky elektrolytů - chlorid sodný).
+Koncentrovaný infuzní roztok je používán pro hrazení ztrát sodíku a chloridů.
+Základní koncentrovaný infuzní roztok elektrolytů. Po podání působí mírně acidifikačně.
+5.2. Farmakokinetické vlastnosti
+97 % sodíku je obsaženo v extracelulárním prostoru a 3 % v intracelulárním prostoru.
+Hlavním regulátorem sodíkové rovnováhy jsou ledviny. Ve spolupráci s hormonálními kontrolními mechanizmy jsou primárně zodpovědné za stálý objem a rozložení tekutin v extracelulárním prostoru. Chlorid je vyměňován za bikarbonát v tubulárním systému a zasahuje tak do regulace acidobazické rovnováhy.
+Infuze chloridu sodného způsobuje zvýšené vylučování bikarbonátu. Tím vykazují roztoky chloridu sodného v organismu mírně acidifikující vlastnosti.
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Vzhledem ke složení a užití přípravku a vlastnostem léčivé látky nemá otázka bezpečnosti pro organismus opodstatnění.
+6.  FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Voda pro injekci
+6.2. Inkompatibility
+Přípravek je kompatibilní s většinou běžně používaných léčiv.
+Nejsou známy žádné fyzikálně-chemické inkompatibility, kromě roztoků obsahujících oxidující látky a vykazujících rozdílné pH.
+6.3. Doba použitelnosti
+V neporušeném obalu 3 roky.
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 48 hodin při 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při 2 až 8 °C, pokud otevření/ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4. Zvláštní opatření pro uchovávání
+Chraňte před mrazem.
+6.5. Druh obalu a obsah balení
+Skleněná infuzní lahev s pryžovou zátkou a kovovým uzávěrem, kartonová krabice. Velikost balení: 1x 80 ml, 1x 200 ml
+20x 80 ml, 10x 200 ml
+Na trhu nemusí být všechny velikosti balení.
+6.6. Zvláštní opatření pro likvidaci přípravku (a pro zacházení s ním)
+Výdej léčivého přípravku je vázán na lékařský předpis.
+Přípravek nesmí být použit nenaředěný! Přípravek není určen k přímé infuzi, podává se intravenózně ve větším množství nosného roztoku.
+
+Parenterální přípravky je nutno před podáním vizuálně zkontrolovat. Pokud jsou viditelné pevné částice,
+nebo byl-li obal porušen, přípravek se nesmí aplikovat. Přípravek je určen pouze k jednorázovému použití.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+ARDEAPHARMA, a.s., Třeboňská 229, 373 63 Ševětín, Česká republika
+8.  REGISTRAČNÍ ČÍSLO
+Ardeaelytosol conc. natriumchlorid 5,85%: 76/922/95-A/C Ardeaelytosol conc. natriumchlorid 10%: 76/922/95-B/C
+9.  DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 22. 11. 1995
+Datum posledního prodloužení registrace: 8. 2. 2017
+10. DATUM REVIZE TEXTU
+2. 7. 2020

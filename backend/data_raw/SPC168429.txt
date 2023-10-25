@@ -1,0 +1,560 @@
+Sp. zn. sukls314550/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Beriplex 500 IU prášek a rozpouštědlo pro injekční roztok Beriplex 1000 IU prášek a rozpouštědlo pro injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Přípravek Beriplex je dodáván jako prášek a rozpouštědlo pro injekční roztok a obsahuje prothrombinum multiplex humanum. Jedna injekční lahvička nominálně obsahuje následující množství mezinárodních jednotek (IU) lidských koagulačních faktorů (prothrombinum multiplex humanum) uvedených v tabulce níže:
+
+
+Název složky
+
+
+
+
+Léčivá látka Prothrombinum (factor II coagulationis humanus) Factor VII coagulationis humanus
+Factor IX coagulationis humanus Factor X coagulationis humanus
+Další léčivé látky Proteinum C Proteinum S
+Obsah po rekonstituci (IU/ml)
+
+
+
+20 – 48
+
+
+
+10 – 25
+
+
+20 – 31
+
+
+22 – 60
+
+
+
+15 – 45
+12 – 38
+Beriplex 500 IU
+obsah v injekční lahvičce
+(IU)
+
+400 – 960
+
+
+
+200 – 500
+
+
+400 – 620
+
+
+440 – 1200
+
+
+
+300 – 900
+240 – 760
+Beriplex 1 000 IU
+obsah v injekční lahvičce
+(IU)
+
+800 – 1920
+
+
+
+400 – 1000
+
+
+800 – 1240
+
+
+880 – 2400
+
+
+
+600 – 1800
+480 – 1520
+
+Celkový obsah proteinů (proteinum humanum) je 6 – 14 mg/ml rekonstituovaného roztoku. Specifická aktivita factor IX coagulationis humanus je 2,5 IU/mg proteinum humanum.
+Aktivity všech koagulačních faktorů, stejně tak i proteinum C a proteinum S (antigen) byly stanoveny v souladu s aktuálními validovanými mezinárodními WHO standardy.
+Pomocné látky se známým účinkem:
+Sodík až 343 mg (približně 15 mmol) ve 100 ml roztoku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+
+
+
+
+1
+
+3.   LÉKOVÁ FORMA
+Prášek a rozpouštědlo pro injekční roztok.
+Bílý nebo mírně zbarvený prášek nebo drobivá pevná látka.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+-   Léčba a perioperační profylaxe krvácení získaného deficitu koagulačních faktorů protrombinového komplexu, jako je deficit způsobený léčbou antagonisty vitaminu K, nebo v případě předávkování antagonisty vitaminu K, kdy je vyžadována rychlá úprava tohoto deficitu.
+
+-   Léčba a perioperační profylaxe krvácení při vrozeném deficitu vitamin K dependentních koagulačních faktorů, pokud koncentrát obsahující purifikovaný specifický koagulační faktor není dostupný.
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Obecné pokyny dávkování jsou uvedeny níže. Léčba má být zahájena pod dohledem lékaře, který má zkušenosti s léčbou poruch koagulace. Dávkování a délka substituční léčby závisí na indikaci léčby, na závažnosti koagulačního onemocnění, na místě a rozsahu krvácení a na klinickém stavu pacienta.
+Dávka a frekvence dávek má být stanovena podle individuálních potřeb pacienta. Intervaly mezi dávkami se musí upravit podle různých poločasů cirkulace jednotlivých koagulačních faktorů protrombinového komplexu (viz bod 5.2). Individuální požadavky na dávkování se mohou zjistit pouze na základě pravidelných stanovení plazmatických hladin jednotlivých koagulačních faktorů, které nás zajímají, nebo testy na určení celkových hladin protrombinového komplexu (INR, Quickův test) a kontinuálním sledováním klinického stavu pacienta.
+
+V případě rozsáhlých chirurgických zákroků je nezbytné přesné monitorování substituční léčby koagulačními metodami (stanovení specifických koagulačních faktorů a/nebo skupinové testy na hladiny protrombinového komplexu).
+-  Krvácení a perioperační profylaxe krvácení během léčby antagonisty vitaminu K:
+
+Dávka závisí na hodnotě INR před léčbou a cílové hodnotě INR. INR se má před léčbou měřit v době, co možná nejbližší k době podání dávky, aby se vypočítala přibližná dávka přípravku Beriplex.
+V následující tabulce jsou uvedeny přibližné dávky (ml/kg tělesné hmotnosti rekonstituovaného přípravku a IU faktoru IX/kg tělesné hmotnosti) nezbytné pro normalizaci INR (např. <1,3) při různých iniciálních hodnotách INR.
+
+INR před léčbou                      2,0 – 3,9    4,0 – 6,0     > 6,0
+Přibližná dávka ml/kg tělesné hmotnosti            1        1,4        2
+Přibližná dávka IU (faktor IX)/kg tělesné hmotnosti     25       35       50
+Dávka je založena na tělesné hmotnosti nepřesahující 100 kg. U pacientů s tělesnou hmotností vyšší než 100 kg nemá maximální jednotlivá dávka (IU faktoru IX) překročit 2 500 IU při INR 2,0 - 3,9; 3 500 IU při INR 4,0 - 6,0 a 5 000 IU při INR> 6,0.
+Úpravy hemostázy vyvolané antagonisty vitaminu K se obvykle dosáhne přibližně 30 minut po injekci. Současné podávání vitaminu K se má zvážit u pacientů, kteří dostávají přípravek Beriplex pro rychlé zrušení účinku antagonistů vitaminu K, protože účinek vitaminem K se obvykle dosahuje
+2
+
+během 4 - 6 hodin. Opakované podávání přípravku Beriplex pacientům, kteří vyžadují rychlé zrušení léčby antagonisty vitaminu K, není podložené klinickými údaji, a proto se nedoporučuje.
+Tato doporučení vycházejí z údajů z klinických studií s omezeným počtem subjektů. Recovery a trvání účinku se může lišit, proto je během léčby povinné sledování INR.
+
+-  Krvácení a perioperační profylaxe při vrozeném deficitu koagulačních faktorů závislých na vitaminu K, kdy přípravek se specifickým koagulačním faktorem není dostupný.
+Výpočet požadované dávky koncentrátu protrombinového komplexu je založen na údajích
+z klinických studií:
+•   Jedna mezinárodní jednotka (IU) faktoru IX na kg tělesné hmotnosti může zvýšit plazmatickou
+aktivitu faktoru IX přibližně o 1,3 % (0,013 IU/ml) oproti normální hodnotě
+•   Jedna mezinárodní jednotka (IU) faktoru VII na kg tělesné hmotnosti zvýší plazmatickou aktivitu faktoru VII o 1,7 % (0,017 IU/ml) oproti normální hodnotě
+•   Jedna mezinárodní jednotka (IU) II na kg tělesné hmotnosti zvýší plazmatickou aktivitu faktoru II o 1,9 % (0,019 IU/ml) oproti normální hodnotě
+•   Jedna mezinárodní jednotka (IU) X na kg tělesné hmotnosti zvýší plazmatickou aktivitu faktoru X o 1,9 % (0,019 IU/ml) oproti normální hodnotě.
+Dávka specifického koagulačního faktoru se vyjadřuje v mezinárodních jednotkách (IU), která je v souladu se standardem WHO pro každý faktor. Plazmatická aktivita specifického koagulačního faktoru se vyjadřuje buď v procentech (v poměru k normální lidské plazmě) nebo v mezinárodních jednotkách (IU) (ve vztahu k mezinárodnímu standardu pro specifický koagulační faktor).
+
+Jedna mezinárodní jednotka (IU) aktivity koagulačního faktoru odpovídá množství v jednom mililitru
+normální lidské plazmy.
+Například výpočet požadované dávky faktoru X je založen na empirické zkušenosti, že jedna mezinárodní jednotka (IU) faktoru X na kg tělesné hmotnosti zvýší plazmatickou aktivitu faktoru X o 0,019 IU/ml.
+
+Požadovaná dávka se stanoví podle následujícího vzorce:
+Požadované jednotky (IU) = tělesná hmotnost (kg) x požadované zvýšení faktoru X (IU/ml) x 53, kde 53 (ml/kg) je převrácená hodnota recovery.
+
+Je nutné si uvědomit, že výpočet je založen na údajích od pacientů léčených antagonisty vitaminu K.
+Výpočet na základě údajů od zdravých jedinců poskytuje nižší odhad požadované dávky. Pokud je známá individuální hodnota recovery, má se použít tato hodnota pro výpočet.
+Specifické informace o přípravku jsou dostupné z klinických studií u zdravých dobrovolníků (N = 15), u pacientů při zrušení účinku antagonistů vitaminu K při léčbě akutního závažného krvácení nebo perioperační profylaxi krvácení (n = 98, n = 43) (viz bod 5.2).
+
+Pediatrická populace
+V kontrolovaných klinických studiích (viz bod 4.4) u dětí a dospívajících nebyla bezpečnost a
+účinnost přípravku Beriplex stanovena.
+Starší pacienti
+Dávkování a způsob podání u starších pacienti (> 65 let) odpovídá obecným doporučením.
+
+
+
+
+
+
+
+3
+
+Způsob podání
+Pokyny pro rekonstituci přípravku před podáním, viz bod 6.6.
+Rekonstituovaný roztok se musí podávat intravenózně (ne více než 8 ml/min *). Roztok musí být čirý nebo mírně opalizující.
+
+* V klinických studiích s Beriplexem byla u pacientů vážící <70 kg určena maximální rychlost podávání infuze 0,12 ml/kg/min (méně než 8 ml/min).
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku(y) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+V případě diseminované intravaskulární koagulace se protrombinové komplexy mohou použít pouze po skončení konsumpčního stavu.
+
+Známá anamnéza heparinem indukované trombocytopenie.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Vyhledejte radu specialisty se zkušenostmi v léčbě koagulačních poruch.
+
+U pacientů se získaným deficitem vitamin K dependentních koagulačních faktorů (např. deficit vyvolaný léčbou antagonisty vitaminu K) Beriplex lze použít, pouze pokud je nutná rychlá úprava hladin protrombinového komplexu, jako je velké krvácení nebo urgentní chirurgický zákrok. V jiných případech obvykle stačí snížit dávku antagonistů vitaminu K a/nebo podat vitamin K.
+
+Pacienti, kteří dostávají antagonisty vitaminu K, mají jako základní onemocnění hyperkoagulační stav a ten se může po podání infuze lidského protrombinového komplexu zhoršit.
+Při vrozeném deficitu jakéhokoliv vitamin K dependentního faktoru se má použít specifický koagulační faktor, pokud je dostupný.
+
+Pokud se vyskytne alergická nebo anafylaktická reakce, podávání přípravku Beriplex se má okamžitě zastavit (např. zastavit injekci) a musí se začít příslušná léčba. Léčba závisí na druhu a závažnosti nežádoucího účinku. V případě šoku se musí neprodleně zahájit standardní protišoková léčba.
+
+Existuje riziko trombózy nebo diseminované intravaskulární koagulace, pokud jsou pacienti s vrozeným nebo získaným nedostatkem léčeni lidským protrombinovým komplexem, zvláště při opakovaném podávání. Riziko může být vyšší při léčbě nedostatku izolovaného faktoru VII, protože ostatní vitamin K dependentní koagulační faktory s delším poločasem se mohou kumulovat a dosáhnout podstatně vyšší hladiny, než je norma. U pacientů, kteří dostávají koncentráty lidského protrombinového komplexu, třeba pečlivě sledovat příznaky intravaskulární koagulace nebo trombózy.
+
+Z důvodu rizika tromboembolických komplikací se při podávání přípravku Beriplex doporučuje pečlivé sledování zejména pacientů s anamnézou ischemické choroby srdeční, pacientů s onemocněním jater, peri- a postoperačních pacientů, novorozenců nebo jiných pacientů s rizikem tromboembolických příhod nebo diseminované intravaskulární koagulace nebo souběžné deficience inhibitoru.
+U každé z těchto situací třeba zvážit poměr přínosu z léčby přípravkem Beriplex a možného rizika těchto komplikací.
+U pacientů s diseminovanou intravaskulární koagulací může být za určitých okolností nezbytné nahradit koagulační faktory protrombinového komplexu. Tato náhrada se však může provést pouze po ukončení konsumpčního stavu. (např. léčba vyvolávající příčiny, trvalá normalizace hladiny antitrombinu III).
+
+
+4
+
+Zrušení účinku antagonistů vitaminu K vystavuje pacienty tromboembolickému riziku základního onemocnění. Obnovení antikoagulace se má co nejdříve důkladně zvážit.
+Nežádoucí účinky mohou zahrnovat rozvoj heparinem indukované trombocytopenie, typu II (HIT, typ II). Charakteristické znaky HIT jsou pokles počtu trombocytů > 50 procent a/nebo výskyt nových nebo nevysvětlitelných tromboembolických komplikací během léčby heparinem. Nástup je obvykle od 4 do 14 dnů po zahájení léčby heparinem, ale může se objevit během 10 hodin u pacientů, kteří dostávali heparin v poslední době (během posledních 100 dní).
+
+Nefrotický syndrom byl hlášen v jednotlivých případech po pokusu o navození imunitní tolerance u pacientů s hemofilií B inhibitorem faktoru IX a s anamnézou alergické reakce.
+
+Nejsou k dispozici údaje o použití přípravku Beriplex v případě perinatálního krvácení v důsledku
+nedostatku vitaminu K u novorozenců.
+
+Přípravek Beriplex obsahuje až 343 mg sodíku (přibližně 15 mmol) v 100 ml. Nutno vzít v úvahu u pacientů na dietě s nízkým obsahem sodíku.
+Virová bezpečnost
+Mezi standardní opatření zabraňující přenosu infekce, které jsou následkem podávání léků připravených z lidské krve nebo plazmy zahrnují výběr dárců, testování jednotlivých odběrů a poolů plazmy zaměřené na specifické infekční markery a zařazení účinných výrobních kroků pro inaktivaci/odstranění virů. Navzdory těmto opatřením při podávání léků připravených z lidské krve nebo plazmy nelze zcela vyloučit možnost přenosu infekce. Platí to i pro jakékoli neznámé nebo právě objevené viry nebo jiné patogeny.
+Přijatá opatření jsou považována za účinná pro obalené viry, jako je virus lidské imunodeficience (HIV), virus hepatitidy B (HBV) a virus hepatitidy C (HCV) a neobalený virus hepatitidy A (HAV) a parvovirus B19.
+
+U pacientů s pravidelným nebo opakovaným příjmem protrombinových komplexů vyrobených z
+lidské plazmy je třeba zvážit vhodné očkování (proti hepatitidě typu A a B).
+
+Při každém podání přípravku Beriplex pacientovi se důrazně doporučuje zaznamenat název a číslo šarže přípravku, aby se zachovala souvislost mezi pacientem a šarží přípravku.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Léky s lidským protrombinovým komplexem neutralizují účinek antagonistů vitaminu K, ale interakce s jinými léky nejsou známy.
+Pokud se provádějí testy na srážení, které jsou citlivé na heparin u pacientů používajících vysoké dávky lidského protrombinového komplexu, musí se vzít v úvahu přítomnost heparinu jako součásti podávaného přípravku.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství a kojení
+Bezpečnost používání lidského protrombinového komplexu během těhotenství a kojení nebyla
+prokázána.
+Studie na zvířatech nejsou vhodné k posouzení bezpečnosti s ohledem na těhotenství, embryonální/fetální vývoj, porod nebo postnatální vývoj.
+Lidský protrombinový komplex se má proto během těhotenství a kojení používat, pouze pokud je to
+jasně indikováno.
+
+Fertilita
+Nejsou k dispozici žádné údaje o fertilitě.
+5
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Nebyly provedeny žádné studie o účincích na schopnost řídit a obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Reakce alergického nebo anafylaktického typu byly pozorovány méně často, včetně závažných
+anafylaktických reakcí (viz bod 4.4).
+
+Substituční léčba může vést k tvorbě cirkulujících protilátek inhibujících jeden nebo více faktorů lidského protrombinového komplexu. Přítomnost těchto inhibitorů má za důsledek nedostatečnou klinickou odpověď na léčbu. V těchto případech se doporučuje kontaktovat specializované centrum pro léčbu hemofilie. Anafylaktické reakce byly pozorovány u pacientů s protilátkami proti faktorům uvedeným v přípravku Beriplex.
+
+Často bylo zaznamenáno zvýšení tělesné teploty.
+Existuje riziko tromboembolických příhod po podání lidského protrombinového komplexu (viz bod 4.4.)
+
+Tabulkový přehled nežádoucích reakcí přípravku Beriplex
+Následující nežádoucí účinky jsou založeny na údajích z klinických studií, postmarketingových zkušenostech a také na vědecké literatuře.
+Tabulka uvedená níže je na základě klasifikace podle orgánových systémů MedDRA (třída orgánových systémů a frekvence výskytu). Frekvence jsou založeny na údajích z klinických studií podle této konvence: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (<1/10 000) nebo není známo (z dostupných údajů nelze určit).
+
+
+Třída orgánových systémů MedDRA
+Nežádoucí reakce na PT
+Frekvence
+
+
+Cévní poruchy
+Tromboembolické příhody*
+časté
+
+
+Poruchy krve
+a lymfatického systému
+Diseminovaná intravaskulární
+koagulace
+není známo
+
+
+Poruchy imunitního
+systému
+Hypersenzitivita nebo alergické
+reakce
+méně časté
+
+
+Anafylaktické reakce včetně
+anafylaktického šoku
+není známo
+
+Tvorba protilátek        není známo
+
+
+Poruchy nervového systému
+Bolest hlavy
+časté
+
+
+Celkové poruchy a reakce
+v místě aplikace
+*včetně fatálních případů
+Zvýšení tělesné teploty
+časté
+Informace o bezpečnosti vzhledem k přenosným agens jsou uvedeny v části 4.4.
+
+6
+
+Pediatrická populace
+Nejsou k dispozici žádné údaje o podávání přípravku Beriplex u pediatrické populace.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Aby se zabránilo předávkování, je indikován pravidelný monitoring stavu koagulace během léčby, neboť používání vysokých dávek koncentrátu protrombinového komplexu (předávkování) bylo spojeno s případy infarktu myokardu, diseminované intravaskulární koagulace, žilní trombózy a plicní embolie.  V  případě  předávkování  je  riziko  rozvoje  tromboembolických  komplikací  nebo diseminované intravaskulární koagulace zvýšené u pacientů s rizikem těchto komplikací.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antihemorhagikum, krevní koagulační faktory II, VII, IX a X v kombinaci
+ATC kód: B02BD01.
+Koagulační faktory II, VII, IX a X, které se syntetizují v játrech pomocí vitaminu K, se obecně nazývají protrombinový komplex. Kromě koagulačních faktorů přípravek Beriplex obsahuje na vitaminu K závislé inhibitory koagulace protein C a protein S.
+
+Faktor VII je zymogen aktivního serinového proteázového faktoru VIIa, který vnější cestou zahajuje koagulaci krve. Propojení komplexu faktor-faktor VIIa aktivuje koagulační faktory IX a X, čímž se tvoří faktory IXa a Xa. S další aktivací koagulační kaskády se protrombin (faktor II) aktivuje a transformuje na trombin. Účinkem trombinu se fibrinogen mění na fibrin, který způsobí tvorbu sraženin. Normální tvorba trombinu je také vitálně důležitá pro funkci trombocytů jako součást primární hemostázy.
+V ojedinělých případech těžký deficit faktoru VII vede ke snížené tvorbě trombinu a tendenci ke krvácení v důsledku poruchy tvorby fibrinu a poruchy primární hemostázy. Izolovaný nedostatek faktoru IX je jedním z klasických typů hemofilie (hemofilie B). Izolovaný nedostatek faktoru II nebo X je velmi vzácný, ale při závažných formách může způsobit tendenci krvácení podobnou jako je u klasické hemofilie.
+
+Mezi další složky patří koagulační inhibitory protein C a protein S, které jsou také syntetizovány v
+játrech. Biologická aktivita proteinu C je vynucena kofaktorem proteinu S.
+Aktivovaný Protein C inhibuje koagulaci inaktivací koagulačních faktorů Va a VIIIa. Protein S jako kofaktor Proteinu C podporuje inaktivaci koagulace. Nedostatek proteinu C je spojen se zvýšeným rizikem trombózy.
+Získaný deficit koagulačních faktorů závislých na vitaminu K se vyskytuje během léčby antagonisty vitaminu K. Pokud se deficit stane závažným, může to vést k závažnému sklonu ke krvácení charakterizovanému retroperitoneálním nebo cerebrovaskulárním krvácením častěji než krvácením do svalů nebo kloubů. Závažná jaterní insuficience také způsobuje značné snížení hladin koagulačních faktorů závislých na vitaminu K s tendencí klinického krvácení, které je však častěji komplexní v
+7
+
+důsledku simultánně probíhající nízkostupňové intravaskulární koagulace, nízkých hladin trombocytů, nedostatku inhibitorů koagulace a poruchy fibrinolýzy.
+Podávání lidského protrombinového komplexu způsobí zvýšení plazmatických hladin koagulačních faktorů závislých na vitaminu K, a tím se dočasně upraví koagulační porucha u pacientů s nedostatkem jednoho nebo více z těchto faktorů.
+
+5.2  Farmakokinetické vlastnosti
+Farmakokinetické a in vivo recovery údaje byly získány v studii se zdravými dobrovolníky (N = 15) a ve dvou studiích zrušení účinku antagonistů vitaminu K při akutním masivním krvácení nebo perioperační profylaxi krvácení (N = 98, N = 43).
+
+Studie u zdravých dobrovolníků:
+15 zdravým dobrovolníkům se podávalo 50 IU/kg přípravku Beriplex. IVR (in vivo recovery) je zvýšení měřitelných hladin faktoru v plazmě (IU/ml), které lze očekávat po infuzi faktorů (IU/kg) podávaných jako dávka přípravku Beriplex. Byly hodnoceny přírůstkové IVR pro faktory II, VII, IX, X a proteiny C a S. K maximálním hladinám všech komponentů došlo v rámci 3hodinového intervalu. Průměrné přírůstky IVR se pohybovaly v rozmezí 0,016 IU/ml pro faktor IX a 0,028 pro protein C. Medián plazmatických poločasů a přírůstkové IVR:
+
+
+Parametr
+Medián plazmatického
+poločasu (rozsah)/hodiny
+Přírůstkový IVR
+(IU/ml na IU/kg tělesné hmotnosti)
+
+Geometrický
+průměr
+90 % CI†
+
+
+faktor II
+60 (25 – 135)
+0,022
+(0,020 – 0,023)
+
+
+faktor VII
+4 (2 – 9)
+0,024
+(0,023 – 0,026)
+
+
+faktor IX
+17 (10 – 127) *
+0,016
+(0,014 – 0,018)
+
+
+faktor X
+31 (17 – 44)
+0,021
+(0,020 – 0,023)
+
+
+protein C
+47 (9 – 122) *
+0,028
+(0,027 – 0,030)
+
+
+protein S
+† Interval spolehlivosti
+49 (33 – 83) *
+0,020
+(0,018 – 0,021)
+*terminální poločas, dvojkompartmentový model
+
+Beriplex je distribuován a metabolizován v organismu stejným způsobem, jako endogenní koagulační
+faktory II, VII, IX a X.
+
+Intravenózní aplikace znamená, že přípravek je k dispozici okamžitě; biologická dostupnost je úměrná podané dávce.
+Studie inverzního účinku antagonistů vitaminu K při léčbě akutního závažného krvácení:
+Průměrné in vivo recovery (IVR) bylo vypočteno u 98 jedinců, kteří dostávali přípravek Beriplex na léčbu krvácení během léčby antagonisty vitaminu K. Přírůstkové IVR odpovědi se pohybovaly v rozmezí od 0,016 IU/ml pro faktor VII a 0,019 IU/ml pro protein C.
+
+Studie inverzního účinku antagonistů vitaminu K při léčbě akutního závažného krvácení nebo perioperační profylaxi krvácení:
+Průměrné in vivo recovery (IVR) bylo vypočteno u 43 jedinců, kteří dostávali přípravek Beriplex k
+léčbě krvácení nebo perioperační profylaxi krvácení během léčby antagonisty vitaminu K.
+
+8
+
+Intravenózní podání 1 IU/kg přípravku Beriplex zvýšilo plazmatické hladiny vitamin K dependentních koagulačních faktorů v rozmezí od 0,013 do 0,023 IU/ml.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Beriplex obsahuje jako léčivé látky faktory protrombinového komplexu (faktory II, VII, IX a X). Jsou odvozeny z lidské plazmy a chovají se jako endogenní složky plazmy.
+
+Studie toxicity po jedné dávce s přípravkem před pasterizací a ne nanofiltratrovaným přípravkem vykazuje mírnou toxicitu u myší po podání 200 IU/kg, což je nejvyšší zkoušená dávka. Jedna i.v. dávka pasterizovaného a nanofiltrovaného produktu až 100 IU/kg byla dobře tolerována u potkanů. Předklinické studie s podáváním opakovaných dávek (chronické toxicity, karcinogenity a reprodukční toxicity) nelze zcela provést na běžných zvířecích modelech, vzhledem k vývoji protilátek po aplikaci heterologních lidských proteinů.
+
+Lokální tolerance po nitrožilním podání přípravku Beriplex bylo prokázána u králíků. Studie neoantigenicity u králíků neukázala žádné známky tvorby neoepitopu v důsledku pasterizačního procesu.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Prášek:
+Sodná sůl heparinu Roztok lidského albuminu
+Koncentrát lidského antitrombinu III Chlorid sodný
+Dihydrát natrium-citrátu
+Kyselina chlorovodíková nebo hydroxid sodný (v malých množstvích na úpravu pH)
+
+Rozpouštědlo:
+Voda na injekci
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky, s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3  Doba použitelnosti
+
+3 roky
+
+Chemická a fyzikální stabilita při použití byla prokázána na 24 hodin při pokojové teplotě (max. 25
+°C). Z mikrobiologického hlediska má však být přípravek použit okamžitě.
+
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem.
+Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+
+
+
+
+
+9
+
+6.5  Druh obalu a obsah balení
+Beriplex 500 IU:
+Prášek: injekční lahvička z bezbarvého skla (třídy II) uzavřená pryžovou propichovací zátkou bez latexu (brombutylová guma), hliníkovým uzávěrem s plastovým odtrhovacím víčkem Rozpouštědlo: 20 ml vody na injekci je v injekční lahvičce z bezbarvého skla (třídy I) uzavřená pryžovou propichovací zátkou bez latexu (chlorbutylová nebo brombutylová guma), hliníkovým uzávěrem s plastovým odtrhovacím víčkem.
+Aplikační souprava: 1 přepouštěcí adaptér s filtrem 20/20
+
+Beriplex 1000 IU:
+Prášek: injekční lahvička z bezbarvého skla (třídy II) uzavřená pryžovou propichovací zátkou bez latexu (brombutylová guma), hliníkovým uzávěrem s plastovým odtrhovacím víčkem Rozpouštědlo: 40 ml vody na injekci je v injekční lahvičce z bezbarvého skla (třídy I) uzavřená pryžovou propichovací zátkou bez latexu (chlorbutylová nebo brombutylová guma), hliníkovým uzávěrem s plastovým odtrhovacím víčkem.
+Aplikační souprava: 1 přepouštěcí adaptér s filtrem 20/20
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním Způsob podání
+Všeobecné pokyny
+-  Roztok musí být čirý nebo mírně opalizující. Po filtraci nebo natažení z injekční lahvičky (viz
+níže) před podáním roztok zkontrolujte, zda neobsahuje malé částice nebo nezměnil barvu.
+-  Nepoužívejte roztoky, které jsou zakalené nebo obsahují částice.
+-  Rekonstituce a natažení roztoku se musí provádět za aseptických podmínek.
+Rekonstituce
+Zahřejte rozpouštědlo na pokojovou teplotu. Sejměte odtrhovací víčka z lahviček s práškem i s rozpouštědlem, očistěte zátky antiseptickým roztokem a nechte je oschnout než otevřete balení Mix2Vial.
+
+1. Otevřete Mix2Vial balení vyklopením víčka.
+Nevytahujte Mix2Vial z blistru!
+
+
+1
+2. Postavte injekční lahvičku s rozpouštědlem na rovný a čistý povrch a pevně ji držte. Uchopte Mix2Vial společně s blistrem a zatlačte hrot konce modrého adaptéru přímo dolů přes zátku injekční lahvičky s rozpouštědlem.
+
+
+2
+3. Opatrně odstraňte blistr ze soupravy Mix2Vial tak, že ho držíte za okraj a táhnete svisle nahoru. Přesvědčte se, že jste vytáhli pouze blistrový obal a ne Mix2Vial soupravu.
+
+
+
+3
+
+
+10
+
+4. Postavte injekční lahvičku s přípravkem na rovný a tvrdý povrch. Obraťte injekční lahvičku s rozpouštědlem a připojeným setem Mix2Vial a zatlačte hrot průhledného konce adaptéru rovně dolů přes zátku injekční lahvičky s přípravkem. Rozpouštědlo se automaticky nasaje do injekční lahvičky s přípravkem.
+
+4
+5. Uchopte jednou rukou část setu Mix2Vial připojeného na injekční lahvičce s přípravkem a druhou rukou část setu Mix2Vial připojeného na injekční lahvičce s rozpouštědlem a proti směru hodinových ručiček rozšroubujte set opatrně na dvě části.
+Zlikvidujte injekční lahvičku s rozpouštědlem s připojeným
+5        modrým Mix2Vial adaptérem.
+
+6. Jemným krouživým pohybem otáčejte injekční lahvičku s přípravkem s připojeným průhledným adaptérem, dokud přípravek není úplně rozpuštěn. Netřepejte s ní.
+
+
+6
+
+7. Nasajte vzduch do prázdné sterilní injekční stříkačky. Zatímco je injekční lahvička s přípravkem ve svislé poloze, připojte injekční stříkačku k Luer nástavci Mix2Vial otáčením ve směru hodinových ručiček. Vstříkněte vzduch do injekční lahvičky s přípravkem.
+
+
+
+7
+
+Natáhnutí a aplikace:
+
+8. Zatímco držíte píst injekční stříkačky stlačený, obraťte celý systém dnem vzhůru. Pomalým vytahováním pístu natáhněte roztok do injekční stříkačky.
+
+
+
+
+8
+9. Nyní, když byl roztok převeden do injekční stříkačky, pevně držte válec injekční stříkačky (píst injekční stříkačky směřuje stále dolů) a odpojte průhledný adaptér Mix2Vial od injekční stříkačky otáčením proti směru hodinových ručiček.
+
+
+
+
+9
+
+11
+
+Je třeba dbát na to, aby se krev nedostala do naplněné injekční stříkačky, protože je riziko, že krev ve
+stříkačce se může srazit a sraženina fibrinu by se mohla podat pacientovi.
+
+V případě, že je třeba použít více než jednu injekční lahvičku přípravku Beriplex, je možné spojit několik injekčních lahviček přípravku Beriplex na jednu infuzi přes komerčně dostupné infuzní zařízení.
+
+Roztok přípravku Beriplex se nesmí ředit.
+
+Rekonstituovaný roztok se musí podávat intravenózně (ne více než 8 ml/min*).
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+* V klinických studiích s Beriplexem byla u pacientů vážící <70 kg určena maximální rychlost podávání infuze 0,12 ml/kg/min (méně než 8 ml/min).
+
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+CSL Behring GmbH
+Emil-von-Behring-Straße 76
+35041 Marburg Německo
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+Beriplex 500 IU prášek a rozpouštědlo pro injekční roztok:   75/088/16-C Beriplex 1000 IU prášek a rozpouštědlo pro injekční roztok:  75/089/16-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 16. 3. 2016
+
+Datum posledního prodloužení registrace: 21. 7. 2017
+
+10.  DATUM REVIZE TEXTU
+
+21. 1. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+12

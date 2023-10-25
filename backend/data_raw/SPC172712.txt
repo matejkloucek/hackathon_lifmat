@@ -1,0 +1,338 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný
+program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+
+
+CATAPRESAN, injekční roztok 0,150 mg/ml
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+1 ampule o objemu 1 ml obsahuje 0,150 mg clonidini hydrochloridum. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý, bezbarvý injekční roztok.
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Přípravek Catapresan je určen k léčbě velmi těžkých forem vysokého krevního tlaku, kde perorální léčba není možná nebo je považována za nedostatečnou.
+4.2  Dávkování a způsob podání
+
+Léčba má být prováděna pod lékařským dohledem. Dávka přípravku Catapresan má být individualizována podle antihypertenzního účinku u pacienta.
+Dvakrát až třikrát denně, v případě potřeby čtyřikrát denně, podejte obsah 1 ampule 0,150 mg klonidinu. Subkutánní nebo intramuskulární injekce nebo velmi pomalá intravenózní infuze (obsah 1 ampule 0,150 mg klonidinu zřeďte alespoň 10 ml fyziologického roztoku a tuto směs podávejte
+intravenózně po dobu deseti minut) by měla být použita pouze u ležících pacientů.
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v ampuli, to znamená, že je v podstatě „bez sodíku“.
+Pediatričtí pacienti
+Bezpečnost a účinnost klonidinu u dětí a dospívajících ve věku do 18 let nebyla stanovena. Aktuálně dostupné údaje jsou popsány v části 5.1, ale nelze učinit žádná doporučení ohledně dávkování.
+Pacienti s poruchou funkce ledvin
+Protože klonidin a jeho metabolity se z velké části vylučují ledvinami, může u pacientů s renální nedostatečností dojít k výraznému prodloužení poločasu vylučování. V této souvislosti by měla být léčba zahájena podáním nejnižší dávky.
+Dávkování a frekvenci dávkování je třeba pečlivě upravit v závislosti na individuální antihypertenzní odpovědi a stupni renální nedostatečnosti. Je nutné pečlivě sledovat krevní tlak. Antihypertenzní
+účinek se může velmi lišit. U těžké renální insuficience někdy postačuje dávka jednou denně.
+
+
+
+1
+
+Protože během hemodialýzy je odstraněno pouze malé procento klonidinu, není nutné těmto pacientům podávat další dávku.
+
+4.3  Kontraindikace
+
+-  Přecitlivělost na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-  Těžké bradyarytmie, jako je sick sinus syndrom a AV blokáda druhého nebo třetího stupně.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Klonidin by měl být používán s opatrností u pacientů s mírnou až středně těžkou bradyarytmií, jako je sinusová bradykardie, s poruchami mozkové nebo periferní cirkulace, depresí, polyneuropatií a
+zácpou.
+
+Klonidin nemá žádný terapeutický účinek na vysoký krevní tlak způsobený feochromocytomem.
+
+Klonidin a jeho metabolity se vylučují hlavně ledvinami. U pacientů s renální nedostatečností je nutná úprava dávkování a doporučuje se pravidelné sledování funkce ledvin (viz bod 4.2).
+
+Stejně jako u jiných antihypertenziv by měla být léčba klonidinem pečlivě sledována, zejména u pacientů trpících srdečním selháním nebo těžkým onemocněním koronárních tepen.
+Pacienti by měli být poučeni, aby nepřerušovali léčbu bez konzultace s ošetřujícím lékařem. Náhlé přerušení dlouhodobé léčby klonidinem může být spojeno se závažným rebound fenoménem, který se projevuje neklidem, nervozitou, palpitacemi, třesem, rychlým vzestupem krevního tlaku, nevolností a bolestmi hlavy. Léčba klonidinem by neměla být přerušena náhle, ale měla by být postupně přerušována po dobu 2 až 4 dnů.
+Po ukončení léčby klonidinem lze proti nadměrnému zvýšení krevního tlaku působit opětovným zavedením perorálního klonidinu nebo intravenózním podáním fentolaminu (viz bod 4.5).
+
+Pokud je třeba přerušit dlouhodobou léčbu β-blokátorem, je třeba nejprve postupně vysadit β-blokátor a poté klonidin.
+Pacienti nosící kontaktní čočky by měli být upozorněni, že léčba přípravkem Catapresan může snížit produkci slz.
+Protože klonidin zpomaluje převod sinusovým uzlem a atrioventrikulární vedení, je nutná opatrnost u pacientů s dysfunkcí sinusového uzlu, jako je sick sinus syndrom, sinusová bradykardie a AV blokáda prvního stupně. U závažných poruch by se klonidin neměl používat (viz bod 4.3).
+
+Léčba pacientů se závažnými změnami mozkových cév by měla začít nízkou dávkou a pacienti by měli být pečlivě sledováni.
+
+U pacientů s autonomní neuropatií, jako je například diabetes mellitus, může podávání klonidinu způsobit paradoxní zvýšení krevního tlaku. U diabetiků nemá klonidin v terapeutické dávce vliv na potřebu inzulinu ani na glukózovou toleranci.
+
+Pediatričtí pacienti
+Z randomizovaných kontrolovaných studií existuje jen málo podpůrných důkazů o použití a bezpečnosti klonidinu u dětí a dospívajících. Proto nelze klonidin doporučit pro použití v této populaci.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Klonidin zvyšuje účinek látek tlumících CNS, jako jsou neuroleptika, anxiolytika, hypnotika a alkohol.
+
+
+
+2
+
+Pokud je klonidin podáván současně s dalšími léky, může zvýšit hypotenzní účinky jiných látek, jako jsou diuretika, vazodilatancia, β-blokátory, antagonisté vápníku a inhibitory ACE.
+
+α2-blokátory a neselektivní α-blokátory (jako je fentolamin) mohou inhibovat účinky klonidinu zprostředkované α2-receptory mechanismem závislým na dávce.
+Současné podávání látek s negativními chronotropními nebo dromotropními účinky, jako jsou β- blokátory nebo digitalisové glykosidy, může způsobit nebo potencovat výskyt bradyarytmií nebo poruchy atrioventrikulárního vedení.
+Nelze vyloučit, že současné podávání β-blokátoru může způsobit nebo zhoršit onemocnění periferních cév.
+Současné podávání s tricyklickými antidepresivy nebo s neuroleptiky, které působí blokádu α-
+receptorů, může snížit antihypertenzní účinek klonidinu a způsobit nebo zhoršit posturální poruchy regulace.
+
+Látky, které zvyšují krevní tlak nebo vyvolávají retenci iontů Na⁺ a vody, jako jsou nesteroidní protizánětlivé léky, mohou snížit terapeutický účinek klonidinu.
+Při léčbě pacientů s abstinenčním syndromem vysokými intravenózními dávkami klonidinu a
+haloperidolu může klonidin potencovat arytmogenní účinek – prodloužení intervalu QT, výskyt ventrikulárních fibrilací.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+O použití klonidinu během těhotenství u člověka nejsou k dispozici dostatečné údaje k posouzení možné škodlivosti. K dispozici jsou pouze (omezené) údaje o použití ve druhé polovině těhotenství u lidí. Podávejte pouze tehdy, pokud je použití pro matku považováno za nutné. Matka a dítě musejí být poté sledovány.
+Klonidin prochází placentou a může způsobit bradykardii plodu. Po narození se u novorozence může vyvinout přechodná hypertenze.
+Studie s klonidinem prováděné na zvířatech nenaznačují přímé ani nepřímé škodlivé účinky na reprodukci.
+Během těhotenství jsou preferovány orální formy klonidinu. Je třeba se vyvarovat intravenózních injekcí klonidinu.
+
+Kojení
+Klonidin se vylučuje do mateřského mléka. O účinku na kojence však nejsou k dispozici dostatečné údaje. Kojení během užívání přípravku Catapresan se proto nedoporučuje.
+Plodnost
+Nebyly provedeny žádné studie účinku klonidinu na plodnost u lidí. Studie s klonidinem prováděné na zvířatech neprokázaly přímé ani nepřímé škodlivé účinky na plodnost.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly provedeny žádné studie vlivu klonidinu na schopnost řídit a obsluhovat stroje.
+
+Klonidin má vliv na schopnost řídit a obsluhovat stroje. Pacienti by měli být informováni, že při užívání přípravku Catapresan mohou zaznamenat nežádoucí účinky, jako jsou závratě, sedace a
+poruchy akomodace. Při řízení motorového vozidla nebo obsluze strojů se proto doporučuje opatrnost. Pokud se u pacientů vyskytnou tyto nežádoucí účinky, měli by se vyvarovat potenciálně nebezpečných úkolů, jako je řízení nebo obsluha strojů.
+
+
+3
+
+4.8  Nežádoucí účinky
+
+Většina nežádoucích účinků je mírná a obvykle se s pokračující léčbou snižuje.
+
+Výskyt nežádoucích účinků přípravku Catapresan je založen na 22 klinických studiích publikovaných v letech 1968 až 1985.
+V tabulce níže jsou uvedeny nežádoucí účinky s odpovídajícími frekvencemi. Četnost je založena na následující klasifikaci: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až <
+1/100); vzácné (≥ 1/10 000 až < 1/1 000); velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+Třída orgánových systémů Endokrinní poruchy Psychiatrické poruchy
+
+
+
+
+
+
+Poruchy nervového systému
+
+
+
+Poruchy oka
+
+Srdeční poruchy
+
+
+
+
+Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+Poruchy reprodukčního systému a prsu
+Celkové poruchy a reakce v místě aplikace Vyšetření
+Nežádoucí účinek gynekomastie deprese
+poruchy spánku poruchy percepce halucinace
+noční můry zmatenost
+snížené libido závrať
+sedace bolest hlavy parestezie
+snížené mrkání poruchy akomodace sinusová bradykardie
+AV-blok
+bradyarytmie
+ortostatická hypotenze Raynaudův syndrom
+suchý nos
+sucho v ústech nevolnost
+zácpa zvracení
+bolest slinných žláz
+pseudoobstrukce tlustého střeva
+vyrážka pruritus kopřivka
+ztráta vlasů porucha erekce únava
+malátnost
+zvýšená hladina glukózy v krvi
+Frekvence
+vzácné časté
+časté
+méně časté méně časté méně časté není známo není známo velmi časté velmi časté časté
+méně časté vzácné
+není známo méně časté vzácné
+není známo
+velmi časté méně časté vzácné
+velmi časté časté
+časté časté časté
+vzácné
+
+méně časté méně časté méně časté vzácné
+časté časté
+méně časté vzácné
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+4
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Jelikož se Catapresan 0,150 mg/ml injekční roztok používá v klinickém prostředí, je nepravděpodobné, že by došlo k předávkování. Příznaky a možnosti léčby jsou nicméně uvedeny níže.
+
+Příznaky
+Klonidin má široké terapeutické rozmezí. Projevy intoxikace jsou způsobeny obecně sníženou sympatomimetickou aktivitou a zahrnují zúžení zornice, letargii, bradykardii, hypotenzi, hypotermii, somnolenci včetně kómatu, respirační depresi včetně apnoe.
+Paradoxní hypertenze může nastat v důsledku stimulace periferních α1-receptorů. Terapie
+Vždy má probíhat pečlivé sledování. Další léčba je symptomatická. V řadě případů, zejména u dětí, se jako užitečné při těžké respirační depresi a sníženém vědomí ukázalo podávání naloxonu.
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: centrálně působící sympatolytika, ATC kód: C02AC01.
+Klonidin je antihypertenzivum, které ve velmi nízkých dávkách působí na snížení krevního tlaku.
+
+Klonidin stimuluje mimo jiné centrální α2-adrenergní receptory, což má za následek sníženou aktivitu sympatiku se snížením srdečního výdeje a periferní vaskulární rezistence. To způsobí pokles krevního tlaku a (mírné) snížení srdeční frekvence.
+Normální reflexní regulace krevního tlaku a hemodynamická odpověď na cvičení jsou zachovány.
+Průtok krve ledvinami zůstává nezměněn, i když byly popsány různé účinky na rychlost glomerulární filtrace.
+Antihypertenzního účinku se dosahuje u pacientů s normální funkcí ledvin při plazmatických hladinách mezi 0,2 až 2,0 ng/ml. Hypotenzní účinek je oslaben nebo se snižuje s vyššími
+plazmatickými hladinami.
+
+Pediatričtí pacienti
+Účinnost klonidinu v léčbě hypertenze u pediatrických pacientů byla zkoumána v pěti klinických
+studiích. Údaje o účinnosti potvrzují vlastnost klonidinu snižovat systolický a diastolický krevní tlak.
+Vzhledem k omezeným údajům a metodickým nedostatkům však nelze učinit definitivní závěr o použití klonidinu u dětí s hypertenzí.
+Účinnost klonidinu byla zkoumána také v některých klinických studiích u pediatrických pacientů s ADHD, Touretteovým syndromem a koktáním. Účinnost klonidinu za těchto podmínek nebyla prokázána.
+U migrén byly také provedeny dvě malé pediatrické studie. Ani jedna studie neprokázala účinnost.
+V pediatrických studiích byly nejčastějšími nežádoucími účinky ospalost, sucho v ústech, bolesti
+hlavy, závratě a nespavost. Tyto nežádoucí účinky mohou významně ovlivnit každodenní fungování pediatrických pacientů.
+Bezpečnost a účinnost klonidinu u dětí a dospívajících obecně nebyla prokázána (viz bod 4.2).
+
+
+
+
+
+5
+
+5.2  Farmakokinetické vlastnosti
+Farmakokinetika klonidinu je úměrná dávce v rozmezí 75–300 μg. Absorpce
+Klonidin, účinná látka přípravku Catapresan, se dobře vstřebává a nedochází k žádnému účinku
+prvního průchodu. Maximálních plazmatických hodnot je dosaženo během 1–3 hodin po perorálním podání. Farmakokinetika klonidinu není jídlem ovlivněna.
+Distribuce
+Klonidin je rychle distribuován do tkání a prochází hematoencefalickou bariérou a také placentou. Vazba na plazmatické bílkoviny je 30–40 %.
+Metabolismus
+Hlavní metabolit p-hydroxy-klonidin je farmakologicky neaktivní.
+
+Eliminace
+Střední terminální poločas je 15 hodin, v rozmezí od 5 do 25 hodin. Přibližně 70 % se vylučuje močí hlavně jako účinná látka (40–60 % dávky). Přibližně 20 % se vylučuje stolicí. Klonidin se vylučuje do mateřského mléka. O účinku na kojence však nejsou k dispozici dostatečné údaje.
+
+Zvláštní populace
+Pacienti s poruchou funkce ledvin
+U pacientů s těžkou poruchou funkce ledvin lze terminální poločas prodloužit na 41 hodin.
+
+Etnický původ
+Farmakokinetika klonidinu není ovlivněna rasou pacientů.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+U laboratorních zvířat nebyly zjištěny žádné náznaky bezpečnostního rizika pro člověka. Toto je
+založeno na údajích z bezpečnostních farmakologických studií a údajích o toxicitě po opakovaných dávkách, na reprodukčních studiích, údajích o genotoxicitě a karcinogenitě.
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Chlorid sodný, kyselina chlorovodíková, voda na injekci.
+
+6.2  Inkompatibility
+
+Vzhledem k absenci studií kompatibility nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+6.3  Doba použitelnosti
+
+36 měsíců.
+Z mikrobiologického hlediska má být přípravek podán okamžitě po otevření a naředění. Pokud není
+použit okamžitě, doba a podmínky uchovávání přípravku před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při teplotě 2–8 ° C, pokud ředění neproběhlo za
+kontrolovaných a validovaných aseptických podmínek.
+
+
+
+
+
+
+
+6
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Neuchovávejte v chladničce nebo mrazničce. Uchovávejte v původním obalu.
+
+Podmínky uchovávání léčivého přípravku po naředění viz bod 6.3.
+6.5  Druh obalu a obsah balení
+
+Ampule z bezbarvého skla (OPC 60), 5 nebo 50 ampulí po 0,150 mg/ml v balení (papírová krabička). Na trhu nemusejí být všechny velikosti balení.
+
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Glenwood GmbG Pharmazeutische Erzeugnisse Arabellastr.17
+81925 München Německo info@glenwood.de
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+Catapresan, injekční roztok 0,150 mg/ml je registrován v registru léčivých přípravků jako RVG 06055.
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 28 dubna 1971
+
+10.  DATUM REVIZE TEXTU
+
+Poslední změna se týká bodu 7: 16. září 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7

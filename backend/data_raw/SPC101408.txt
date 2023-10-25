@@ -1,0 +1,329 @@
+sp. zn. sukls82410/2013
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU SENTI – SCINT kit
+1,0 mg Seroalbuminum humanum colloidalis Kit pro radiofarmakum.
+2. KVALITATIVNÍ I KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje 1,0 mg Seroalbuminum humanum colloidalis (lidský sérový albumin ve formě nanokoloidu).
+Radionuklid není součástí kitu. Pomocné látky:
+Úplný seznam pomocných látek viz bod 6.1.
+
+Minimálně 80% koloidních částic lidského albuminu má průměr mezi 100-600 nm. SENTI-SCINT kit je připraven z lidského sérového albuminu získaného z lidské krve dárců testovaných podle předpisů EEC a shledán negativní na:
+-  povrchový antigen (HBsAg) hepatitídy B
+-  protilátky proti viru lidské imunodeficience (anti-HIV 1/2)
+-  protilátky proti viru hepatitidy C (anti-HCV)
+
+3. LÉKOVÁ FORMA
+Kit pro radiofarmakum. Bílý lyofilizát.
+4. KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+Po značení radioaktivním injekčním roztokem technecistanu-(⁹⁹ᵐTc) sodného je získaný roztok indikován k:
+● scintigrafickému zobrazení sentinelových uzlin u:
+● karcinomu prsu
+● maligního melanomu
+
+4.2 Dávkování a způsob podání
+Dávkování pro dospělé
+▪  10 – 15 MBq subkutánně do jednoho aplikačního místa
+▪  počet aplikačních míst 3 – 5 v okolí léze
+Vyšší aktivity mohou být použity v zdůvodnitelných případech a/nebo podmínkách. Akvizice scintigramů
+▪  dynamické zobrazení se provádí od aplikace do 45 minut po podání a poté v pravidelných
+časových intervalech až do zviditelnění sentinelových uzlin
+
+▪  statické zobrazení se provádí za 45 minut po injekci a jestliže lymfatické uzliny nejsou vidět, zobrazení se provede za 2 – 5 hodin a za 12 – 24 hodin po aplikaci
+
+
+
+1
+
+Dávkování pro děti a dospívající
+Použití u dětí a dospívajících je třeba pečlivě zvážit, na základě klinických potřeb a posouzení poměru rizik/přínosů u této skupiny pacientů. Aktivity, které mají být podány dětem a dospívajícím mohou být vypočteny dle doporučení Pediatrické pracovní skupiny EANM.
+Podíl z dávky pro dospělé:
+
+3 kg = 0.10         22 kg = 0.50            42 kg = 0.78
+4 kg = 0.14         24 kg = 0.53            44 kg = 0.80
+6 kg = 0.19         26 kg = 0.56            46 kg = 0.82
+8 kg = 0.23         28 kg = 0.58            48 kg = 0.85
+10 kg = 0.27         30 kg = 0.62            50 kg = 0.88
+12 kg = 0.32         32 kg = 0.65          52-54 kg = 0.90
+14 kg = 0.36         34 kg = 0.68          56-58 kg = 0.92
+16 kg = 0.40         36 kg = 0.71          60-62 kg = 0.96
+18 kg = 0.44         38 kg = 0.73          64-66 kg = 0.98
+20 kg = 0.46         40 kg = 0.76            68 kg = 0.99
+
+Způsob podání:
+Tento léčivý přípravek musí být rekonstituován před podáním pacientovi. Pokyny k rekonstituci léčivého přípravku před jeho podáním, viz bod 12.
+Tento léčivý přípravek není určen pro pravidelné nebo kontinuální podávání.
+
+4.3. Kontraindikace
+Přecitlivělost na léčivou látku, na kteroukoli pomocnou látku nebo na kteroukoli ze složek značeného přípravku uvedených v bodě 6.1.
+4.4. Zvláštní upozornění a opatření pro použití
+Potenciál pro hypersenzitivní nebo anafylaktické reakce
+Pokud dojde k hypersenzitivní nebo anafylaktické reakci, podání přípravku musí být okamžitě přerušeno a pokud je nutné, zahájena intravenózní léčba. Pro poskytnutí okamžité pomoci, musí být k dispozici potřebné léčivé přípravky a vybavení, jako je endotrachiální trubice a ventilátor.
+Individuální odůvodnění přínosu/rizika
+U každého pacienta musí být vystavení radiaci odůvodnitelné podle pravděpodobného přínosu. Aplikovaná aktivita by měla být v každém případě tak nízká, s jakou lze rozumně dosáhnout získání požadované diagnostické informace.
+Těhotenství viz bod 4.6.
+Děti a dospívající viz bod 4.2. Příprava pacienta
+Pacient by měl být před zahájením vyšetření dobře hydratován. Pro snížení ozáření by měl být vyzván k močení tak často, jak je to jen možné v průběhu prvních hodin po vyšetření.
+Zvláštní upozornění
+Možnost přecitlivělosti včetně vážné život ohrožující je třeba vždy považovat za fatální anafylaktickou
+/anafylaktoidní reakci.
+Důrazně se doporučuje, aby název přípravku a číslo šarže byli uvedeny při každém podání SENTI- SCINT kit v zájmu zachování souvislosti mezi pacientem a číslem šarže přípravku.
+Standardní opatření k prevenci přenosu infekcí z léčivých přípravků vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, testování jednotlivých dárců a plazmatických poolů, hledání specifických infekčních agens a účinných výrobních postupů k likvidaci/odstranění virů, jako součást výrobního procesu. Riziko přenosu infekčních agens nelze úplně vyloučit pokud se používají léčiva vyrobena z lidské krve nebo plazmy. To platí jak pro nové viry neznámého původu, tak pro jiné patogeny.
+Nejsou žádné zprávy o přenosu virů v souvislosti s albuminem vyrobeným v souladu se specifikacemi v Ph. Eur. a v souladu s běžnými postupy.
+
+
+2
+
+Lymfoscintigrafie se nedoporučuje u pacientů s totální lymfatickou obstrukcí z důvodu možného nebezpečí radiace v místě vpichu.
+Opatření týkající se nebezpečí pro životní prostředí jsou v bodě 6.6.
+Lidský albumin obsažený v SENTI-SCINT kit  odpovídá požadavkům „Pokynu pro přípravky odvozené z plazmy“ CPMP/BWM/269/95, rev. 2. Pro výrobu SENTI-SCINT kit se používá lidský albumin z plazmy dárců, jejichž  krev byla při každém odběru testována vhodnými metodami na HBsAg a protilátky proti HIV-1, HIV-2 a HCV a bylo zjištěno, že jsou negativní. Krev nebo plazma dárců ze země, ve které se objevilo několik případů vCJK nebyla použita k výrobě lidského albuminu. Zvláštní upozornění
+Léčivý přípravek obsahuje méně než 1 mmol sodíku, tedy je v podstatě bez sodíku.
+Přípravek v lahvičce se před nasátím do injekční stříkačky jemně promíchá. V případě nutnosti se objem doplní izotonickým roztokem chloridu sodného.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Jodované kontrastní látky používané v lymfoangiografii mohou interferovat s scintigrafií za použití (⁹⁹ᵐTc)-SENTI-SCINT kit.
+4.6. Fertilita, těhotenství a kojení
+Ženy ve fertilním věku
+Pokud je nezbytné aplikovat radiofarmaka ženám ve fertilním věku je důležité zjistit, zda je nebo není žena těhotná. Každá žena, které vynechala menstruace, má být považována za těhotnou, dokud se neprokáže opak. V případě pochybností o možném těhotenství je důležité, aby vystavení radiaci bylo minimální a dosáhlo se potřebné klinické informace. Pacientce by měli být nabídnuty alternativní techniky bez použití ionizujícího záření.
+Těhotenství
+Radionuklidová vyšetření prováděna u těhotných žen představují také radiační dávku pro plod. Proto by během těhotenství měla být prováděna jen nezbytná vyšetření, kdy pravděpodobný přínos daleko převýší riziko způsobené matce a plodu.
+Kojení
+Před podáním radiofarmak kojící matce, by měla být zvážena možnost oddálit podání radionuklidu, dokud matka nepřestane kojit a zda byla provedena nejvhodnější volba radiofarmaka, s ohledem na vylučování aktivity do mateřského mléka. Je li podání považováno za nezbytné, kojení by mělo být přerušeno na 12 hodin a odsáté mléko zlikvidováno.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+SENTI-SCINT kit nemá žádný nebo má zanedbatelný vliv na schopnost řídit a obsluhovat stroje.
+
+4.8. Nežádoucí účinky
+Frekvence nežádoucích účinků je definována následně:
+Velmi časté (≥1/10/ Časté (≥1/100 až <1/10)
+Méně časté (≥1/1 000 až <1/100) Vzácné(≥1/10 000 až <1/1 000) Velmi vzácné (<1/10 000)
+Není známo ( nelze odhadnout z dostupných údajů)
+
+Poruchy imunitního systému
+Vzácné: Alergické reakce, případně anafylaktické reakce.
+Toto radiofarmakum nese sebou malé množství ionizujícího záření spojeného s minimálním rizikem vzniku rakoviny a vrozených abnormalit.
+
+
+
+
+
+3
+
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9. Předávkování
+Toxicita značeného přípravku byla zkoušená na králicích a sledována po dobu 3 dnů po subkutánní aplikaci odpovídající 1,0 mg/1,5 MBq/kg/den. Během sledovaného období nebyli na králicích pozorovány toxické příznaky a ani po disekci toxické léze na vybraných orgánech.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+ACT kód: V09DB01
+(⁹⁹ᵐTc)-SENTI – SCINT kit nevykazuje farmakodynamické účinky a je určen pouze k diagnostickým účelům.
+
+5.2. Farmakokinetické vlastnosti
+Po subkutánní aplikaci jsou koloidní částice ⁹⁹ᵐTc – SENTI – SCINTu pomalu odplavované z místa aplikace lymfatickým tokem. Ve většině případů se již 1 hodinu po aplikaci radiofarmaka zobrazují sentinelové uzliny.  Částice radiofarmaka jsou  v nich  retinovány po dostatečně dlouhou dobu, takžezobrazení i peroperační detekce sentinelových uzlin je možná i za 20 – 24 hodin po aplikaci.
+Biodistribuce byla stanovená  na  samcích potkanů  o  váze 120 – 250 g. Lahvička se SENTI – SCINTEM byla rekonstituovaná se  3 ml  technecistanu  (⁹⁹ᵐTc)  sodného o aktivitě 150 – 200 MBq). Pěti potkanům bylo injikováno 0,2 ml (10 – 15 MBq) intravenózně. Jednu hodinu po i.v. aplikaci byli potkani usmrceni a jednotlivé orgány vyjmuty, zváženy a změřeny. Změřené orgány: plíce, játra, slezina, ledviny, žaludek, tenké a tlusté střevo, krev, svaly a kosti. Distribuce ⁹⁹ᵐTc – SENTI – SCINTu v různých orgánech potkanů po i.v. podání uvádí tabulka:
+
+
+I.D. % / orgán po 1 hodině orgány
+Krev Svaly
+Kost a kostní dřeň Srdce
+Plíce Játra Slezina Ledviny Žaludek
+Tlusté střevo Tenké střevo Kost/Sval
+
+I.D. % / orgán
+2.66 ± 0.07
+1.41 ± 0.10
+16.2 ± 0.87
+0.06 ± 0.02
+0.63 ± 0.02
+64.9 ± 5.24
+2.20 ± 0.27
+2.92 ± 1.05
+0.16 ± 0.87
+2.79 ± 0.13
+0.08 ± 0.03
+11.5 ± 1.70
+V každé skupině bylo 5 zvířat.
+I.D. = množství injikované dávky.
+Po s.c. aplikaci za 5 minut z místa odteče 7,6%, za 30minut 13,4%, za 3 hodiny 27,6% a za 6 hodin 31% aplikované aktivity. První aktivita v krvi se začne objevovat ve 120 minutě po s.c. aplikaci.
+
+
+4
+
+5.3. Předklinické údaje vztahující se k bezpečnosti přípravku
+Předklinické data vycházela z dlouholeté zkušenosti s přípravou kitů se stejnou účinnou látkou. Přípravek je již více než 5 let používán v každodenní klinické praxi, bez hlášení nežádoucích účinků.
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek:
+Dihydrát chloridu cínatého
+Dihydrogenfosforečnan sodný a hydrogenfosforečnan sodný Glukóza
+
+6.2. Inkompatibility:
+Žádné nejsou známé.
+Tento léčivý přípravek nesmí být smíchán s jinými léčivými přípravky s výjimkou přípravků uvedených v bodech 6.6 a 12.
+
+6.3. Doba použitelnosti:
+18 měsíců od data výroby.
+Doba použitelnosti přípravku po rekonstituci je 6 hodin.
+
+6.4. Zvláštní opatření pro uchovávání:
+Kit uchovávejte při teplotě 2 ᵒC – 25 ᵒC. Uchovávejte lahvičky v krabičce, aby byl přípravek chráněn před světlem.
+Značený přípravek uchovávejte při teplotě 2°C – 25 °C a chraňte před světlem.
+Uchovávání radiofarmak musí být v souladu s národními předpisy pro radioaktivní materiály.
+
+6.5. Druh obalu a velikost balení:
+Přípravek je dodáván v injekčních lahvičkách k opakovanému odběru, typ I Ph.Eur. Lahvičky jsou umístěné v tvarované papírové vložce vložené do tvrdé papírové krabičky.
+Balení:
+Kit obsahuje 1, 3, 6 nebo 12 injekčních lahviček, 1, 3, 6 nebo 12 samolepících štítků pro uvedení parametrů značeného přípravku, souhrn údajů o přípravku a příbalovou informaci.
+Na trh nemusí být uvedeny všechny velikosti balení.
+
+6.6. Zvláštní opatření pro likvidaci přípravku a pro zacházení s nim
+Všeobecná upozornění
+Radiofarmaka mají být přijímána, používána a podávána pouze oprávněnými osobami v určených klinických podmínkách. Jejich příjem, uchovávání, používání, přeprava a likvidace se řídí předpisy a/nebo příslušnými povoleními kompetentních místních orgánů.
+Radiofarmaka mají být připravena způsobem, který vyhovuje požadavkům jak radiační bezpečnosti tak farmaceutické kvalitě. Měla by být přijata příslušná aseptická opatření.
+Obsah lahvičky je určen výhradně k použití při přípravě přípravku (⁹⁹ᵐTc)-SENTI-SCINT kit a nesmí být podáván přímo pacientovi bez předchozího postupu značení, tj. rekonstituce.
+
+Pokyny k rekonstituci léčivého přípravku před jeho podáním, viz bod 12.
+
+Pokud je kdykoliv při přípravě tohoto přípravku ohrožena integrita lahvičky, přípravek nesmí být použit.
+S (⁹⁹ᵐTc) značeným SENTI-SCINT kitem je nutné zacházet opatrně a vhodná bezpečnostní opatření musí být přijata pro minimalizaci ozáření klinických pracovníků. Postup podání by měl být prováděn takovým způsobem, aby se minimalizovalo riziko kontaminace léčivým přípravkem a ozáření
+
+
+5
+
+personálu. Rovněž je nutné věnovat pozornost minimalizaci ozáření pacienta, v souladu s řádnou péčí o pacienta.
+
+Obsah kitu není před rekonstitucí radioaktivní. Nicméně, po přidání injekce technecistanu-(⁹⁹ᵐTc) sodného, Ph. Eur., musí být zajištěno odpovídající stínění finálního přípravku. Podávání radiofarmak představuje riziko pro další osoby – personál  z vnějšího ozáření nebo kontaminací z rozlité moči, zvratků apod. Proto musí být přijata opatření radiační ochrany v souladu s národními předpisy.
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Medi-Radiopharma Kft.
+Szamos u 10-12, 2030 Érd, Maďarsko
+Tel.: 0036-23-521-261
+Fax: 0036-23-521-560
+E-mail: mediradiopharma-ltd@t-online.hu
+
+8. REGISTRAČNÍ ČÍSLO
+88/100/01 – C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+07.03.2001/ 13.9.2006
+
+10. DATUM REVIZE TEXTU
+16.11.2016
+
+11. DOZIMETRICKÉ ÚDAJE
+
+
+Orgán
+
+Játra
+Kost, kostní dřeň Slezina
+Ovaria Testes
+Močový měchýř Efektivní dávka (ED)
+po s.c. injekci mGy/MBq 0,0160
+0,0057
+0,0041
+0,0059
+0,0035
+0,0097
+2,11x10⁻² Sv/MBq
+
+12. NÁVOD NA PŘÍPRAVU RADIOFARMAK
+Obsah kitu není před přípravou radioaktivní. Nicméně, po přidání injekce technecistanu- (⁹⁹ᵐTc) sodného, Ph.Eur., musí být zajištěno odpovídající stínění přípravku.
+(⁹⁹ᵐTc)-SENTI-SCINT kit se používá do 6 hodin od rekonstituce. Lahvička se rekonstituuje s aktivitou od 185 MBq až 2,0 GBq, sterilním technecistanem-(⁹⁹ᵐTc) sodným bez-oxidačních látek. Přípravek neobsahuje bakteriostatickou přísadu. Jako u každého farmaceutického přípravku, pokud je kdykoli při přípravě tohoto přípravku ohrožena integrita lahvičky, nesmí být použita.
+V přídadě potřeby je možné přípravek zředit injekčním roztokem chloridu sodného. Tento přípravek není určen pro pravidelné nebo kontinuální podávání.
+
+
+
+
+
+
+6
+
+Návod na přípravu (⁹⁹ᵐTc)-SENTI-SCINT kit
+Používejte aseptický postup po celou dobu přípravy a přijměte opatření k minimalizaci radiační expozice použitím vhodného stínění. Vodovzdorné rukavice by měly být používány během celého postupu přípravy.
+
+1.  Odstraňte ochranný disk z lahvičky a uzávěr otřete alkoholovým tamponem. Lahvičku vložte do olověného stínění, které má minimální tlouštku 3 mm a které je vybaveno olověným uzávěrem.
+2.  Do stíněné stříkačky natáhněte sterilní, apyrogenní injekční roztok technecistanu (⁹⁹ᵐTc) sodného, Ph. Eur. o aktivitě 185 MBq až 2 GBq v objemu 1,0 – 3,0 ml. Před odejmutím injekční stříkačky odsajte z lahvičky stejné množství dusíku pro vyrovnání tlaku v lahvičce. Nepoužívejte odvzdušňovací jehlu!
+3.  Obsah lahvičky jemně, několikrát promíchejte převracením, dokud všechen prášek není suspendován a inkubujte při laboratorní teplotě 20 minut. Za pomoci správného stínění je třeba lahvičku vizuálně zkontrolovat pro zjištění, že suspenze je bez cizorodých látek. Pokud tomu tak není, radiofarmakum by nemělo být použito.
+4.  Během inkubace obsah lahvičky několikrát jemně promíchejte převracením. Změřte aktivitu přípravku ve vhodném přístroji, zaznamenejte informace o radioaktivitě na štítek, který má výstražný symbol radiace. Také poznamenejte čas a datum přípravy. Opatřete podpisem a štítek nalepte na stínění lahvičky.
+5.  Radiochemická  čistota konečného přípravku by měla být stanovena před podáním pacientovi. Radiochemická čistota nesmí být nižší než 95%.
+6.  Odběry pro podání musí být provedeny asepticky pomocí sterilní jehly a stříkačky. Protože  lahvičky  obsahují  dusík,  neměly  by  být  lahvičky  odvzdušňovány.  Při opakovaných odběrech by náhrada obsahu lahvičky vzduchem měla být minimalizována.
+7.  Použitelnost značeného přípravku je 6 hodin po rekonstituci. Lahvičky by měly být uchovávány během své doby použitelnosti v olověném kontejneru s uzavřeným olověným uzávěrem.
+8.  Po uplynutí doby použitelnosti by měl být  kontejner a všechen nepoužitý obsah zlikvidován v souladu s místními předpisy pro radioaktivní materiály.
+
+Charakteristika injekce:
+Sterilní, apyrogenní, netoxický a biologicky odbouratelný přípravek. Vzhled         čirý až lehce opalescentní
+Objem         1,0 – 3,0 ml
+pH           6,0 – 7,4
+Účinnost značení   ≥ 95%
+Velikost částic     více než 80% částic je v rozmezí 100 – 600 nm
+
+
+Stanovení radiochemické čistoty
+Stanovení radiochemické čistoty může být provedeno v souladu s tímto postupem:
+
+Metoda Materiály ITLC-SG
+Methylethylketon
+Vhodný přístroj pro měření radioaktivity v rozsahu 0,01 MBq-6 GBq s rozlišovací schopností 0,001 MBq
+1 ml injekční stříkačka s jehlou 22-26 G. Malá vyvíjecí komora s krytem.
+
+7
+
+Postup
+Stanovení se provede metodou tenkovrstvé chromatografie. Jako stacionární fáze se použijí proužky silikagelu impregnovaného skleněnými vlákny (ITLC - SG) a jako mobilní fáze se použije methylethylketon (MEK). Na start chromatogramu se nanese 5  µl značeného přípravku a chromatogram se vloží do vyvíjecí komory a nechá se vzestupně vyvíjet. Po vyvinutí se chromatogram vysuší a rozstříhá na dílky. Rozdělení aktivity se změří ve vhodném přístroji. Značené albuminové částice zůstávají na startu a technecistanový iont se pohybuje s čelem mobilní fáze. Aktivita naměřená na startu má představovat ≥ 95% z celkové radioaktivity chromatogramu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8

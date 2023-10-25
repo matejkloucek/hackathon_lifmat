@@ -1,0 +1,391 @@
+sp.zn. sukls202113/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Ftorafur 400 mg tvrdé tobolky
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tvrdá tobolka obsahuje tegafurum 400 mg.
+
+Pomocná látka se známým účinkem: barvivo Ponceau 4R (E 124).
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Tvrdá tobolka.
+
+Tvrdé želatinové tobolky se žlutým tělem a oranžovým víčkem obsahující bílý prášek.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Léčba karcinomu rekta, tlustého střeva a prsu, dále i karcinomu žaludku a některé druhy mozkových nádorů u vybraných pacientů, u nichž je onemocnění považováno za chirurgicky nebo jinými prostředky neléčitelné.
+
+4.2  Dávkování a způsob podání
+
+Podání přípravku Ftorafur je vyhrazeno pouze na specifické jednotky, nemocnice či ambulantní zařízení pro použití lékařem se zkušenostmi v protinádorové chemoterapii.
+Dávkování
+
+Dospělí pacienti
+Tegafur pro perorální podání je obvykle podáván v dávce 1600-2400 mg denně, rozděleně do dvou dílčích dávek každých 12 hodin nebo do 3-4 dílčích dávek po dobu 5 dnů, poté většinou následuje
+třítýdenní přestávka v léčbě. Celková léčebná dávka se pohybuje v rozmezí 30-40 g. V případě potřeby je možno opakovat léčbu po 1,5-2 měsících.
+Tegafur se může rovněž podávat jako monoterapie v menších dávkách po delší období. Jako součást kombinované léčby nebo jako adjuvantní léčba k radioterapii je používán v dávkách stejných nebo nižších než při monoterapii.
+
+Starší pacienti
+U starších pacientů se tegafur podává jen v přísně indikovaných případech, i když je perorální léčba obvykle dobře snášena a snížení dávky je potřebné jen zřídka. Vzhledem k větší pravděpodobnosti výskytu poruchy funkce ledvin související s věkem může být v některých případech u starších
+pacientů léčených tegafurem nutné snížení dávky.
+
+1/9
+
+Pediatrická populace
+Bezpečnost a účinnost tegafuru u dětí nebyla stanovena. Proto nemá být dětem podáván. Způsob podání
+Perorální podání.
+Tobolky je třeba podávat před jídlem, v případě potřeby ve vzpřímené poloze, a to s dostatečným množstvím vody, kyselá ovocná šťáva není vhodná. Tobolky se nesmí kousat.
+4.3  Kontraindikace
+
+−  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+−  Známý úplný deficit dihydropyrimidindehydrogenázy (DPD) (viz bod 4.4).
+− Terminální fáze nemoci.
+− Akutní krvácení.
+−  Leukopenie (počet leukocytů nižší než 2,5x10⁹/l).
+−  Trombocytopenie (počet trombocytů nižší než 100x10⁹/l).
+− Pokročilá kachexie.
+−  Po velkých dávkách záření.
+−  Porucha funkce jater a ledvin.
+− Těhotenství.
+−  Nedávná nebo souběžná léčba brivudinem (viz body 4.4 a 4.5 pro lékové interakce).
+4.4  Zvláštní upozornění a opatření pro použití
+
+Tegafur je vysoce toxický lék s úzkým terapeutickým rozpětím. Pacienti musí být velmi pečlivě sledováni, protože terapeutická odpověď bez současných projevů toxicity je nepravděpodobná.
+I přes úzkostlivý výběr pacientů a pečlivou úpravu dávkování může dojít k závažné hematologické toxicitě, gastrointestinálnímu krvácení a dokonce i k úmrtí. I když je závažná toxicita pravděpodobnější u pacientů s vysokým rizikem, občas dochází k úmrtím, dokonce i u pacientů
+v relativně dobré kondici.
+Terapii je nutno neprodleně přerušit, pokud se objeví některá z dále uvedených známek toxicity.
+
+Deficit dihydropyrimidindehydrogenázy (DPD)
+Aktivita DPD je limitující pro rychlost katabolismu fluoruracilu (viz bod 5.2). Pacienti s deficitem DPD jsou proto vystavení zvýšenému riziku toxicity související s fluorpyrimidiny, včetně např.
+stomatitidy, průjmu, zánětu sliznic, neutropenie a neurotoxicity.
+
+K rozvoji toxicity související s deficitem DPD zpravidla dochází během prvního léčebného cyklu nebo po zvýšení dávky.
+Úplný deficit DPD
+Úplný deficit DPD je vzácný (0,01-0,5 % bělochů). Pacienti s úplným deficitem DPD jsou vystaveni vysokému riziku život ohrožující nebo fatální toxicity a nesmí být přípravkem Ftorafur léčeni (viz bod 4.3).
+Částečný deficit DPD
+Částečný deficit DPD postihuje odhadem 3-9 % bělošské populace. Pacienti s částečným deficitem DPD jsou vystaveni zvýšenému riziku těžké a potenciálně život ohrožující toxicity. K omezení této toxicity je třeba zvážit nižší počáteční dávku. Deficit DPD je potřeba považovat za parametr, který je nutné brát v úvahu spolu s dalšími rutinními opatřeními při snižování dávky. Nižší počáteční dávka může mít vliv na účinnost léčby. Nedojde-li k výskytu závažné toxicity, lze za podmínky pečlivého sledování pacienta následné dávky zvýšit.
+
+2/9
+
+Testování ke stanovení deficitu DPD
+Před zahájením léčby přípravkem Ftorafur se doporučuje provést vyšetření fenotypu a/nebo genotypu, ačkoli optimální metodika vyšetření před léčbou není jednoznačně určena. Je třeba zohlednit příslušná klinická doporučení.
+
+Genotypová charakterizace deficitu DPD
+Testováním vzácných mutací genu DPYD před léčbou lze identifikovat pacienty s deficitem DPD.
+
+Úplnou absenci nebo částečné snížení enzymatické aktivity DPD mohou vyvolat čtyři varianty DPYD c.1905+1G>A (označovaná také jako DPYD*2A), c.1679T>G (DPYD*13), c.2846A>T
+a c.1236G>A/HapB3. Se zvýšeným rizikem závažné nebo život ohrožující toxicity mohou souviset
+i další vzácné varianty.
+
+Některé homozygotní a složené heterozygotní mutace v místě genu DPYD (např. kombinace uvedených čtyř variant s alespoň jednou alelou c.1905+1G>A nebo c.1679T>G) prokazatelně způsobují úplnou nebo téměř úplnou absenci enzymatické aktivity DPD.
+Pacienti s některými heterozygotními variantami DPYD (včetně variant c.1905+1G>A, c.1679T>G, c.2846A>T a c.1236>A/HapB3) mají zvýšené riziko závažné toxicity při léčbě fluorpyrimidiny.
+Četnost výskytu heterozygotního genotypu c.1905+1G>A v genu DPYD u pacientů bělošské rasy je
+kolem 1 %, u c.2846A>T 1,1 %, u c.1236G>A/HapB3 2,6-6,3 % a u c.1679T>G 0,07-0,1 %.
+
+Údaje o četnosti výskytu uvedených čtyř variant DPYD u jiných populací, než je bělošská, jsou
+omezené. V současnosti se má za to, že se uvedené čtyři varianty DPYD (c.1905+1G>A, c.1679T>G, c.2846A>T a c.1236G>A/HapB3) prakticky nevyskytují v populacích afrického (afroamerického) nebo asijského původu.
+
+Fenotypová charakterizace deficitu DPD
+K fenotypové charakterizaci deficitu DPD se doporučuje měření hladin endogenního substrátu DPD
+uracilu (U) v krevní plazmě před léčbou.
+
+Zvýšené koncentrace uracilu před léčbou jsou spojeny se zvýšeným rizikem toxicity. Ačkoli hraniční hodnoty uracilu pro určení úplného a částečného deficitu DPD nejsou jednoznačně stanoveny, hladiny uracilu v krvi ≥ 16 ng/ml a < 150 ng/ml je třeba považovat za ukazatel částečného deficitu DPD
+spojeného se zvýšeným rizikem toxicity při léčbě fluorpyrimidiny. Hladinu uracilu v krvi ≥ 150 ng/ml je třeba považovat za ukazatel úplného deficitu DPD spojeného s rizikem život ohrožující nebo fatální toxicity při léčbě fluorpyrimidiny.
+Brivudin
+Brivudin nesmí být podáván současně s tegafurem. Po této lékové interakci byly hlášeny případy končící úmrtím. Mezi ukončením léčby brivudinem a zahájením léčby tegafurem musí být alespoň
+4týdenní odstup. Léčba brivudinem může být zahájena 24 hodin po poslední dávce tegafuru (viz body
+4.3 a 4.5).
+
+V případě náhodného podání brivudinu pacientům, kteří jsou léčeni tegafurem, mají být provedena účinná opatření ke snížení toxicity tegafuru. Doporučuje se okamžitý nástup do nemocnice. Všechna opatření mají být zahájena k zabránění systémových infekcí a dehydratace.
+Kombinovaná léčba
+Toxicitu tegafuru zvýší jakákoli léčba, která dále zatíží pacienta, naruší výživu nebo tlumí funkci kostní dřeně (viz bod 4.5).
+
+Pomocné látky
+Přípravek Ftorafur obsahuje barvivo Ponceau 4R (E 124), které může způsobit alergické reakce.
+
+
+3/9
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Brivudin
+Byly popsány klinicky významné interakce mezi brivudinem a fluorpyrimidiny (např. kapecitabin, fluoruracil, tegafur) vznikající v důsledku inhibice dihydropyrimidindehydrogenázy brivudinem. Tato interakce vedoucí ke zvýšení fluorpyrimidinové toxicity je potenciálně fatální. Z tohoto důvodu nesmí být brivudin podáván současně s tegafurem (viz body 4.3 a 4.4). Mezi ukončením léčby brivudinem
+a zahájením léčby tegafurem musí být alespoň 4týdenní odstup. Léčba brivudinem může být zahájena
+24 hodin po poslední dávce tegafuru.
+
+Myelosupresiva, radioterapie
+Při současném podávání tegafuru s léky s depresivním účinkem na kostní dřeň nebo při radioterapii může dojít k sumaci depresivního účinku na kostní dřeň. V případě souběžného nebo následného užití dvou nebo více přípravků tlumících kostní dřeň, včetně radiace, může být potřebné snížení dávkování.
+
+Fenytoin
+Při současném podávání tegafuru s fenytoinem může docházet ke zvýšení účinku fenytoinu.
+
+Diagnostické interference
+Může dojít ke zvýšení alkalické fosfatázy, sérových transamináz, sérového bilirubinu a laktátdehydrogenázy.
+Může být zvýšeno vylučování 5-hydroxyindoloctové kyseliny.
+Plazmatický albumin může být snížen v důsledku lékem navozené malabsorpce bílkovin.
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+U žen ve fertilním věku se léčba tegafurem zahajuje až po vyloučení těhotenství. Je třeba pacientce poskytnout úplné informace o závažném riziku pro plod, pokud by v průběhu léčby otěhotněla.
+Těhotenství
+Nebyly provedeny žádné adekvátní kontrolované studie u těhotných žen. Tegafur je během těhotenství kontraindikován (viz bod 4.3). Nicméně, během těhotenství může být podáván v život ohrožujících
+situacích nebo při vysoké závažnosti nemoci, pokud k léčbě nemohou být použity bezpečnější léky, nebo pokud nejsou účinné.
+Kojení
+Není známo, zda se fluoruracil vylučuje do mateřského mléka. Vzhledem k tomu, že fluoruracil
+ovlivňuje syntézu DNA, RNA a bílkovin, nedoporučuje se matkám, aby během užívání tohoto léku
+kojily.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Tegafur má mírný vliv na schopnost řídit a obsluhovat stroje. Pokud pacient(ka) pociťuje příznaky jako závratě, ospalost nebo poruchy srdeční frekvence, nemá řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+Nežádoucí účinky jsou uvedeny podle MedDRA klasifikace tříd orgánových systémů a frekvence
+výskytu podle MedDRA: velmi časté (>1/10), časté (>1/100 až <1/10), méně časté (>1/1 000 až
+<1/100), vzácné (>1/10 000 až <1/1 000), velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+Infekce a infestace
+Časté:     moniliáza
+Méně časté:   infekce, sepse
+4/9
+
+Vzácné:    příznaky leukoencefalitidy
+
+Poruchy krve a lymfatického systému
+Velmi časté:   myelosuprese, anémie, trombocytopenie, leukopenie, neutropenie Velmi vzácné:  pancytopenie, agranulocytóza
+Poruchy imunitního systému
+Není známo:  anafylaxe a generalizované alergické reakce
+
+Poruchy metabolismu a výživy
+Časté:      dehydratace, kachexie
+Psychiatrické poruchy
+Není známo:  dezorientace, zmatenost, euforie
+
+Poruchy nervového systému
+Časté:      změny chuti, ztráta chuti, somnolence, závratě, nespavost, deprese, parestézie
+Není známo:   akutní cerebelární syndrom (který může přetrvávat i po přerušení léčby), letargie,
+slabost
+
+Poruchy oka
+Časté:      slzení, konjunktivitida, světloplachost, zhoršení vidění, nystagmus, diplopie, stenóza slzného kanálku, oční změny
+Srdeční poruchy
+Časté:      periferní edém
+Méně časté:   arytmie, městnavé srdeční selhání, infarkt myokardu, srdeční zástava Velmi vzácné:  ischemie myokardu, angina pectoris
+Cévní poruchy
+Časté:     tromboflebitida
+
+Respirační, hrudní a mediastinální poruchy
+Časté:      dušnost, zhoršený kašel, glositida, faryngitida
+Méně časté:   plicní embolie
+Vzácné:     intersticiální pneumonie Velmi vzácné:  pneumonie
+Není známo:  epistaxe
+Gastrointestinální poruchy
+Velmi časté:   nauzea, zvracení, průjem, vodnaté stolice, nechutenství, stomatitida, bolest břicha Časté:      zácpa, plynatost, křeče, dyspepsie, zánět sliznice, zánět jícnu, sucho v ústech, říhání,
+střevní obstrukce
+Méně časté:   enteritida, gastritida, duodenitida, ileitida, perforace střeva
+Velmi vzácné:  akutní pankreatitida, gastroduodenální vřed, gastrointestinální vředy a krvácení, enterokolitida, paralytický ileus, ascites, ischemická kolitida
+
+Poruchy jater a žlučových cest
+Časté:      jaterní dysfunkce
+Vzácné:     poškození jater (akutní hepatitida)
+Velmi vzácné:  alergické poškození jater (hypersenzitivní reakce), chronické selhání jater Není známo:   možná intrahepatální a extrahepatální skleróza, akalkulózní cholecystitida
+
+Poruchy kůže a podkožní tkáně
+Časté:      alopecie, vyrážka, exfoliativní dermatitida, vysušení a popraskání kůže,
+fotosenzitivita, pigmentace kůže, venózní pigmentace, pruritus, pocení, poškození nehtů
+5/9
+
+Poruchy ledvin a močových cest
+Méně časté:   poruchy funkce ledvin, retence moči, hematurie
+Velmi vzácné:  akutní selhání ledvin, nefrotický syndrom, inkontinence
+
+Poruchy reprodukčního systému a prsu
+Méně časté:   impotence
+
+Celkové poruchy a reakce v místě aplikace
+Velmi časté:  astenie
+Časté:      horečka, bolest hlavy, malátnost, zimnice, bolest Vzácné:     únava
+
+Vyšetření
+Velmi časté:   zvýšení alkalické fosfatázy, zvýšení hladin ALT, zvýšení hladin AST
+Časté:      úbytek tělesné hmotnosti
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Vzhledem ke způsobu podávání není předávkování tegafurem pravděpodobné. V případě
+předávkování je možné očekávat klinické obtíže jako nauzeu, zvracení, průjem, gastrointestinální vředy a krvácení, útlum kostní dřeně (včetně trombocytopenie, leukopenie a agranulocytózy).
+
+Není známo žádné specifické antidotum. Pacienty, kterým byla podána nadměrná dávka tegafuru, je třeba alespoň 4 týdny hematologicky monitorovat. V případě patologických projevů je třeba zavést příslušnou léčbu.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: cytostatika, antimetabolity, analogy pyrimidinu ATC skupina: L01BC03
+Tegafur představuje transportní formu fluoruracilu, který se uvolní po vstřebání z mateřské látky. Fluoruracil je pyrimidinový antimetabolit s výrazným cytostatickým účinkem. Po intracelulární konverzi na nukleotid (fluorouridinmonofosfát) může teprve vzniknout vlastní léčivá látka, kterou je buď 5-fluorouridin trifosfát (FUTP) nebo 5-fluorodeoxyuridinmonofosfát (5FdUMP). Zatímco FUTP se inkorporuje do nukleových kyselin, 5FdUMP je mohutným inhibitorem thymidylát syntetázy.
+V obou případech je konečným výsledkem inhibice syntézy DNA, v menší míře i syntézy RNA, což se projeví omezením buněčného dělení zejména v rychle proliferujících tkáních. Protinádorovou účinnost může posílit současné podání redukovaných folátů (leukovorin). Z hlediska buněčného cyklu působí fluoruracil převážně v S-fázi.
+
+5.2  Farmakokinetické vlastnosti
+
+
+Absorpce
+
+
+6/9
+
+Po perorálním podání se tegafur rychle a úplně absorbuje z trávicího ústrojí. Mimoto při vhodném rozdělení denní dávky se dosáhne relativně stabilní plazmatické koncentrace uvolňovaného 5- fluoruracilu, která odpovídá kontinuální infuzi léku.
+
+Distribuce
+Fluoruracil se rychle distribuuje do všech tkání, do buněk proniká pasivní difúzí. Částečně prostupuje
+hematoencefalickou bariérou, jeho koncentrace v mozkomíšním moku dosahuje maximálně 50 %
+hodnot plasmatické koncentrace.
+
+Biotransformace a eliminace
+Plasmatický poločas je krátký (10-20 minut). Asi 15 % podané dávky se vyloučí v nezměněné formě ledvinami, zbytek se metabolizuje a 60-80 % se vyloučí plícemi ve formě oxidu uhličitého. Eliminační poločas je 20 hodin. Při poruše renálních funkcí je eliminace fluoruracilu prodloužena.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Mutagenita
+Mikronukleární testy prokázaly pozitivní efekt na kostní dřeň myší. Fluoruracil ve velmi vysokých koncentracích vyvolával in vitro chromozomální zlomy ve fibroblastech křečků. Fluoruracil se
+prokazatelně mutagenně projevoval u určitého počtu kmenů Salmonella typhimurium včetně TA 1535,
+TA 1537 a TA 1538 a u Saccharomyces cerevisiae, ale nikoli u kmenů Salmonella typhimurium
+TA 92, TA 98 a TA 100.
+
+Kancerogenita
+Nebyly provedeny žádné dlouhodobé studie u zvířat, jejichž cílem by bylo určit kancerogenní
+potenciál fluoruracilu. Nicméně několik studií na zvířatech, sledovaných až 1 rok po perorálním nebo intravenózním podání léku, nezjistilo žádný doklad o kancerogenitě. Kancerogenní riziko u lidí není známo.
+Teratogenita
+Podání tegafuru těhotné ženě může způsobit poškození plodu. Bylo prokázáno, že fluoruracil působí teratogenně u laboratorních zvířat. Dávkování teratogenní pro zvířata bylo až trojnásobkem maximální doporučované lidské terapeutické dávky. Fetální malformace zahrnovaly rozštěp patra, defekty kostry a deformace tlapek a ocásků.
+
+Účinek na perinatální a postnatální vývoj
+Nebyly studovány účinky fluoruracilu na perinatální a postnatální vývoj u zvířat. Bylo však
+prokázáno, že fluoruracil prochází placentou a dostává se do fetálního oběhu potkana. Podání tegafuru, respektive fluoruracilu, vedlo ke zvýšené resorpci a embryoletalitě u potkanů. U samic opic vedly dávky vyšší než 40 mg/kg k potratu všech embryí vystavených fluoruracilu. U sloučenin, inhibujících syntézu DNA, RNA a bílkovin, lze očekávat nežádoucí účinky na perinatální a postnatální vývoj.
+Účinek na fertilitu a reprodukci
+Účinek tegafuru, resp. fluoruracilu, na fertilitu a obecnou schopnost reprodukce nebyl u zvířat adekvátně studován.
+Intraperitoneální podání 125-250 mg/kg navodilo chromozomální aberace a změny organizace chromozomů spermatogonií: diferenciace spermatogonií s následnou přechodnou infertilitou byla také inhibována.
+
+Intraperitoneální podávání týdenních dávek 25-50 mg/kg po 3 týdny během preovulační fáze oogeneze u potkaních samiček podstatně snížilo frekvenci zabřeznutí. V limitované studii u králíků neměly ani jednorázová dávka 25 mg/kg, ani denní dávky 5 mg/kg po dobu 5 dnů žádný vliv na ovulaci.
+U sloučenin jako fluoruracil, které inhibují syntézu DNA, RNA a bílkovin, lze očekávat nežádoucí účinky na gametogenezi.
+Během léčby cytotoxickým lékem se doporučuje používat nehormonální kontraceptiva.
+7/9
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+kyselina stearová 95%
+
+Tvrdá tobolka
+Tělo tobolky:
+chinolinová žluť (E 104) červený oxid železitý (E 172) oxid titaničitý (E 171) želatina
+
+Víčko tobolky:
+Ponceau 4R (E 124)
+chinolinová žluť (E 104) oxid titaničitý (E 171) želatina
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+4 roky
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+6.5  Druh obalu a obsah balení
+
+Bílá HDPE lahvička s LDPE pojistným uzávěrem (Snap-off víčko), krabička. 100 tvrdých tobolek.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Žádné speciální požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+JSC GRINDEKS
+Krustpils St. 53 LV-1057 Riga
+Lotyšsko
+
+
+
+
+
+
+
+
+8/9
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+44/136/80-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 7. 5. 1980
+Datum posledního prodloužení registrace: 9. 4. 2014
+
+
+10.  DATUM REVIZE TEXTU
+
+24. 9. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

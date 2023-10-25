@@ -1,0 +1,576 @@
+sp.zn. sukls126459/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Topotecan Pharmagen 4 mg prášek pro koncentrát pro infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna injekční lahvička obsahuje topotecanum 4 mg (ve formě topotecani hydrochloridum).
+
+Jeden ml rekonstituovaného koncentrátu pro infuzní roztok obsahuje topotecanum 1 mg.
+
+Pomocné látky se známým účinkem:
+Jedna injekční lahvička obsahuje 2,07 mg (0,09 mmol) sodíku. Úplný seznam pomocných látek viz bod 6.1.
+3.   LÉKOVÁ FORMA
+
+Prášek pro koncentrát pro infuzní roztok Popis přípravku: žlutý prášek.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Topotekan v monoterapii je indikován k léčbě:
+-  nemocných s metastazujícím karcinomem ovarií v případě selhání léků první volby nebo následné terapie,
+-  nemocných s relapsem malobuněčného plicního karcinomu (SCLC), u kterých není opakovaná léčba režimem první volby považována za vhodnou (viz bod 5.1).
+
+Topotekan v kombinaci s cisplatinou je indikován u pacientek s karcinomem děložního hrdla rekurentním po radioterapii a u pacientek s onemocněním ve stadiu IVB. U pacientek, které již byly léčeny cisplatinou, se vyžaduje dostatečně dlouhý interval bez léčby k tomu, aby bylo možno považovat podání této kombinace za odůvodněné (viz bod 5.1).
+
+4.2  Dávkování a způsob podání
+
+Topotekan lze používat pouze na pracovištích specializovaných na podávání cytotoxické chemoterapie. Topotekan má být podáván pouze pod dohledem lékaře se zkušenostmi v používání chemoterapie (viz bod 6.6).
+Dávkování
+
+Při současném podávání topotekanu s cisplatinou je třeba prostudovat kompletní informaci o použití
+cisplatiny.
+
+1
+
+Před podáním prvního cyklu topotekanu musí mít pacienti výchozí počet neutrofilů ≥ 1,5 x 10⁹/l, počet trombocytů musí být ≥ 100 x 10⁹/l a hodnoty hemoglobinu ≥ 9 g/dl (po transfuzi, pokud je nutná).
+
+Ovariální karcinom a malobuněčný plicní karcinom
+Počáteční dávkování
+Doporučená dávka topotekanu je 1,5 mg/m² plochy tělesného povrchu/den. Podává se denně formou 30 minut trvající intravenózní infuze, a to 5 po sobě následujících dní, s intervalem 3 týdnů mezi začátky jednotlivých cyklů. V léčbě je možné pokračovat, pokud je dobře snášena, až do progrese onemocnění (viz body 4.8 a 5.1).
+Následující dávkování
+Topotekan nesmí být znovu aplikován, pokud není počet neutrofilů ≥ 1 x 10⁹/l, počet trombocytů
+≥ 100 x 10⁹/l a pokud nejsou hodnoty hemoglobinu ≥ 9 g/dl (po transfuzi, pokud je nutná).
+
+V běžné onkologické praxi se ke zvládnutí neutropenie buď podává topotekan současně s dalšími léčivými přípravky (např. G-CSF), nebo se k udržení počtu neutrofilů snižuje dávka.
+
+Pokud se u pacientů s výskytem těžké neutropenie (počet neutrofilů < 0,5 x 10⁹/l) trvající sedm nebo více dní, nebo u těch, kde je těžká neutropenie spojena s horečkou nebo infekcí, případně u pacientů, u nichž byla terapie pro neutropenii oddálena, snižuje dávka, má být snížena o 0,25 mg/m²/den na 1,25 mg/m²/den (nebo následně až na 1,0 mg/m²/den, pokud je to nezbytné).
+
+Dávky je třeba rovněž snížit, pokud počet trombocytů klesne pod hodnotu 25 x 10⁹/l. V klinických studiích byla aplikace topotekanu přerušena, pokud redukce dávky na 1,0 mg/m²/den nedostačovala a vzhledem k nežádoucím účinkům by bylo nezbytné její další snížení.
+Karcinom děložního hrdla
+
+Počáteční dávkování
+Doporučená dávka topotekanu je 0,75 mg/m²/den podávaná 1., 2. a 3. den léčby formou intravenózní infuze trvající 30 minut. Cisplatina se podává formou intravenózní infuze 1. den léčby v dávce
+50 mg/m²/den následně po podání dávky topotekanu. Toto léčebné schéma se opakuje každých 21 dní,
+a to v 6 cyklech nebo do progrese onemocnění.
+
+Následující dávkování
+Topotekan nesmí být znovu aplikován, pokud není počet neutrofilů ≥ 1,5 x 10⁹/l, počet trombocytů není ≥ 100 x 10⁹/l a pokud nejsou hodnoty hemoglobinu ≥ 9 g/dl (po transfuzi, pokud je nutná).
+V běžné onkologické praxi se ke zvládnutí neutropenie buď podává topotekan současně s dalšími léčivými přípravky (např. G-CSF), nebo se k udržení počtu neutrofilů snižuje dávka.
+
+Pokud se u pacientek s výskytem těžké neutropenie (počet neutrofilů < 0,5 x 10⁹/l) trvající 7 nebo více dní, nebo u těch, kde je těžká neutropenie spojena s horečkou nebo infekcí, případně u pacientek,
+u nichž byla terapie pro neutropenii oddálena, snižuje dávka, má být snížena o 20 % na
+0,60 mg/m²/den v následujících cyklech (nebo následně až na 0,45 mg/m²/den, pokud je to nezbytné). Podobně má být dávka snížena, pokud dojde k poklesu počtu trombocytů pod 25 x 10⁹/l.
+Zvláštní populace
+Pacienti s poruchou funkce ledvin
+Monoterapie (ovariální a malobuněčný plicní karcinom):
+S použitím topotekanu u pacientů s těžkou poruchou funkce ledvin (clearance kreatininu < 20 ml/min) nejsou dostatečné zkušenosti. Použití topotekanu u této skupiny pacientů se nedoporučuje (viz bod 4.4).
+
+2
+
+Omezená data naznačují, že se u pacientů se středně těžkou poruchou funkce ledvin mají dávky snížit. Doporučené dávkování topotekanu v monoterapii u pacientů s ovariálním nebo malobuněčným karcinomem plic a s clearance kreatininu mezi 20 až 39 ml/min je 0,75 mg/m²/den po dobu pěti po sobě následujících dnů.
+
+Kombinovaná léčba (karcinom děložního hrdla):
+V klinických studiích s topotekanem podávaným v kombinaci s cisplatinou k léčbě karcinomu děložního hrdla byla léčba zahájena pouze u pacientek s hodnotou sérového kreatininu menší nebo rovnou 1,5 mg/dl. Pokud při kombinované léčbě topotekanem/cisplatinou přesáhnou hodnoty sérového kreatininu 1,5 mg/dl, je třeba se řídit doporučeními pro snížení dávky/pokračování v léčbě cisplatinou uvedenými v kompletní informaci o použití cisplatiny.
+K dispozici nejsou dostatečné údaje týkající se pokračování monoterapie topotekanem u pacientek s
+karcinomem děložního hrdla, pokud je podávání cisplatiny přerušeno.
+
+Pacienti s poruchou funkce jater
+Malé skupině pacientů s poruchou funkce jater (sérový bilirubin v rozmezí 1,5 až 10 mg/dl) byl podán intravenózní topotekan v dávce 1,5 mg/m²/den po dobu pěti dnů každé tři týdny. Došlo k redukci clearance topotekanu, nicméně pro stanovení doporučeného dávkování pro tuto skupinu pacientů dosud není dostatečné množství údajů (viz bod 4.4).
+S použitím topotekanu u pacientů s těžkou poruchou funkce jater (sérový bilirubin ≥ 10 mg/dl) způsobenou cirhózou nejsou dostatečné zkušenosti. Použití topotekanu u této skupiny pacientů se nedoporučuje (viz bod 4.4).
+
+Pediatrická populace
+V současnosti dostupné údaje jsou popsány v bodech 5.1 a 5.2, ale na jejich základě nelze učinit žádná
+doporučení ohledně dávkování.
+Způsob podání
+Topotekan musí být před aplikací rekonstituován a dále naředěn (viz bod 6.6).
+
+4.3  Kontraindikace
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-  Kojení (viz bod 4.6).
+-  Těžký útlum kostní dřeně před zahájením prvního cyklu vyjádřený výchozím počtem neutrofilů < 1,5 x 10⁹/l a/nebo počtem trombocytů < 100 x 10⁹/l.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Hematologická toxicita je závislá na dávce. Pravidelně má být sledován úplný krevní obraz včetně počtu trombocytů (viz bod 4.2).
+
+Podobně jako ostatní cytostatické léčivé přípravky může topotekan způsobit těžkou myelosupresi.
+U pacientů léčených topotekanem byla hlášena myelosuprese vedoucí k sepsi a úmrtí v důsledku sepse
+(viz bod 4.8).
+
+Topotekanem vyvolaná neutropenie může způsobit neutropenickou kolitidu. V klinických studiích
+s topotekanem byly hlášeny případy neutropenické kolitidy s fatálními následky. U pacientů
+s horečkou, neutropenií a odpovídajícími příznaky abdominální bolesti je třeba uvažovat o možnosti rozvoje neutropenické kolitidy.
+Při léčbě topotekanem byly hlášeny případy intersticiálního plicního onemocnění (interstitial lung disease, ILD), z nichž některé byly fatální (viz bod 4.8). Rizikové faktory zahrnují ILD v anamnéze, plicní fibrózu, karcinom plic, ozařování hrudníku a používání pneumotoxických látek a/nebo užívání faktorů stimulujících kolonie. Pacienti musí být sledováni s ohledem na možný výskyt plicních
+3
+
+příznaků svědčících pro ILD (např. kašel, horečka, dušnost a/nebo hypoxie) a v případě potvrzení diagnózy ILD musí být léčba topotekanem ukončena.
+
+Léčba topotekanem v monoterapii a topotekanem v kombinaci s cisplatinou je často spojena s klinicky relevantní trombocytopenií. To je třeba vzít v úvahu při předepisování topotekanu, např. v případech, kdy se zvažuje léčba u pacientek se zvýšeným rizikem nádorového krvácení.
+U pacientů v celkově špatném stavu (PS > 1) lze očekávat nižší terapeutickou odpověď a vyšší výskyt komplikací, jako jsou například horečka, infekce a sepse (viz bod 4.8). Pečlivé posouzení celkového stavu v době podávání léčby je důležité pro ujištění, že nedošlo ke zhoršení celkového stavu pacienta na úroveň 3.
+Dosud jsou jen omezené zkušenosti s podáváním topotekanu nemocným s těžkou poruchou funkce ledvin (clearance kreatininu < 20 ml/min) nebo s těžkou poruchou funkce jater způsobených cirhózou (sérový bilirubin ≥ 10 mg/dl). U těchto skupin nemocných nelze proto podání topotekanu doporučit (viz bod 4.2).
+
+Malé skupině nemocných s poruchou jaterních funkcí (sérový bilirubin v rozmezí 1,5 mg/dl až
+10 mg/dl) byla podávána intravenózní dávka topotekanu 1,5 mg/m²/den po dobu 5 dní každé 3 týdny. U těchto pacientů bylo zjištěno snížení clearance topotekanu, nicméně pro stanovení doporučeného dávkování pro tuto skupinu pacientů dosud není dostačující množství údajů (viz bod 4.2).
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jedné dávce, to znamená, že je
+v podstatě „bez sodíku“.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Nebyly prováděny žádné in vivo studie farmakokinetických interakcí u lidí.
+
+Topotekan neinhibuje lidské enzymy P450 (viz bod 5.2). V populační studii nebylo při intravenózní aplikaci prokázáno, že by souběžné podávání granisetronu, ondansetronu, morfinu nebo kortikosteroidů mělo signifikantní vliv na farmakokinetiku celkového topotekanu (účinné i neúčinné formy).
+
+Při kombinované léčbě topotekanem a dalšími protinádorovými chemoterapeutiky může být pro zlepšení snášenlivosti nutná redukce dávek jednotlivých léčivých přípravků. Při kombinaci topotekanu s platinovými cytostatiky dochází k rozdílným interakcím v závislosti na tom, zda je platinové cytostatikum podáno první nebo pátý den podávání topotekanu. Pokud jsou cisplatina nebo karboplatina aplikovány první den podávání topotekanu, musí být pro zlepšení snášenlivosti podány nižší dávky těchto léčiv než v případě jejich aplikace pátý den podávání topotekanu.
+
+Při podávání topotekanu (0,75 mg/m²/den po dobu pěti po sobě následujících dnů) a cisplatiny
+(60 mg/m²/den první den) 13 pacientkám s ovariálním karcinomem bylo 5. den léčby zaznamenáno mírné zvýšení AUC (12 %, n = 9) a Cmax (23 %, n = 11). Není pravděpodobné, že by toto zvýšení bylo klinicky relevantní.
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku/antikoncepce u mužů a žen
+V preklinických studiích bylo prokázáno, že topotekan způsobuje embryofetální úmrtí a malformace (viz bod 5.3). Podobně jako ostatní cytotoxické léčivé přípravky může topotekan způsobit poškození plodu, a proto mají být ženy v reprodukčním věku poučeny o tom, že nemají v období terapie topotekanem otěhotnět.
+
+
+
+4
+
+Stejně jako u všech cytotoxických chemoterapeutik musí být pacientky léčené topotekanem poučeny, že ony nebo jejich partneři musí používat účinnou metodu antikoncepce.
+
+Těhotenství
+Jestliže se topotekan používá v průběhu těhotenství nebo pokud dojde k otěhotnění v průběhu léčby topotekanem, musí být pacientka upozorněna na možná rizika pro plod.
+Kojení
+V období kojení je podávání topotekanu kontraindikováno (viz bod 4.3). I když není prokázáno, zda
+topotekan přechází do mateřského mléka, musí se kojení na začátku terapie přerušit.
+
+Fertilita
+Ve studiích reprodukční toxicity prováděných na potkanech nebylo pozorováno ovlivnění samčí nebo samičí fertility (viz bod 5.3). Nicméně podobně jako všechny cytotoxické léčivé přípravky je topotekan genotoxický a ovlivnění fertility, včetně fertility mužů, nemůže být vyloučeno.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit nebo obsluhovat stroje nebyly provedeny. Při řízení motorových vozidel a při obsluze strojů by se však měla zachovávat opatrnost, zvláště pokud přetrvává únava a astenie.
+4.8  Nežádoucí účinky
+
+Ve studiích zabývajících se hledáním optimálního dávkování, do kterých bylo zahrnuto 523 pacientek s relapsem ovariálního karcinomu a 631 pacientů s relapsem malobuněčného karcinomu plic, byly limitujícím faktorem monoterapie topotekanem projevy hematologické toxicity. Tato toxicita byla očekávaná a reverzibilní. Nebyly zjištěny žádné známky kumulativní hematologické nebo jiné toxicity.
+
+Bezpečnostní profil topotekanu podávaného v kombinaci s cisplatinou v klinických studiích
+u pacientek s karcinomem děložního hrdla byl v souladu s profilem nežádoucích účinků zaznamenaných při léčbě topotekanem v monoterapii. Celková hematologická toxicita je nižší
+u pacientů léčených topotekanem v kombinaci s cisplatinou ve srovnání s topotekanem podávaným
+v monoterapii, ale vyšší než při podávání samotné cisplatiny.
+
+Při podávání topotekanu v kombinaci s cisplatinou byly hlášeny další nežádoucí účinky, tyto nežádoucí účinky však byly hlášeny při monoterapii cisplatinou a nebyly přisuzovány topotekanu.
+Úplný seznam nežádoucích účinků zaznamenaných při užívání cisplatiny je uveden v informaci o použití cisplatiny.
+Integrované údaje o bezpečnosti topotekanu podávaného v monoterapii jsou uvedeny níže.
+
+Nežádoucí účinky seřazené dle tříd orgánových systémů a absolutní frekvence (všechny hlášené případy) jsou uvedeny níže. Frekvence nežádoucích účinků je definována jako: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1000 až <1/100); vzácné (≥1/10 000 až <1/1000); velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+Infekce a infestace
+Velmi časté    Infekce
+Časté       Sepse¹
+Poruchy krve a lymfatického systému
+
+5
+
+Velmi časté
+
+Časté
+Není známo
+Febrilní neutropenie, neutropenie (viz “Gastrointestinální poruchy”),
+trombocytopenie, anemie, leukopenie Pancytopenie
+Závažné krvácení (spojené s trombocytopenií)
+Poruchy imunitního systému
+Časté        Hypersenzitivní reakce včetně vyrážky Vzácné       Anafylaktická reakce, angioedém, kopřivka Poruchy metabolismu a výživy
+Velmi časté    Anorexie (může být závažná)
+Respirační, hrudní a mediastinální poruchy
+Vzácné      Intersticiální plicní onemocnění (některé případy byly fatální)
+Gastrointestinální poruchy
+Velmi časté    Nauzea, zvracení a průjem (tyto nežádoucí účinky mohou být závažné), zácpa, bolest břicha², mukozitida
+Není známo    Gastrointestinální perforace
+Poruchy jater a žlučových cest
+Časté        Hyperbilirubinemie Poruchy kůže a podkožní tkáně Velmi časté     Alopecie
+Časté       Svědění
+Celkové poruchy a reakce v místě aplikace
+
+Velmi časté Časté
+Velmi vzácné Není známo
+Pyrexie, astenie, únava Malátnost Extravazace³
+Zánět sliznice
+¹ Fatální případy způsobené sepsí byly hlášeny u pacientů léčených topotekanem (viz bod 4.4).
+² Neutropenická kolitida, včetně fatální neutropenické kolitidy, byla hlášena jako komplikace topotekanem vyvolané neutropenie (viz bod 4.4).
+³ Reakce byly mírné a obvykle nevyžadovaly specifickou léčbu.
+
+Výskyt výše uvedených nežádoucích účinků je obvykle vyšší u pacientů v celkově špatném stavu (viz
+bod 4.4).
+
+Četnost hematologických a jiných než hematologických nežádoucích účinků uváděných níže vychází z hlášení nežádoucích účinků považovaných za nežádoucí účinky vznikající v souvislosti/možné souvislosti s léčbou topotekanem.
+
+Hematologické
+Neutropenie: Během 1. cyklu byla pozorována těžká neutropenie (počet neutrofilů < 0,5 x 10⁹/l) u 55 % pacientů (z toho u 20 % přetrvávaly déle než sedm dní) a celkově se vyskytovaly u 77 %
+pacientů (ve 39 % cyklů). V souvislosti s výskytem těžké neutropenie se objevila horečka a známky infekce u 16 % pacientů během prvního cyklu a celkově u 23 % pacientů (v 6 % cyklů). Střední doba nástupu těžké neutropenie byla devět dní a střední délka trvání byla 7 dní. Těžká neutropenie trvající déle než sedm dní se objevila celkově v 11 % cyklů. Ve skupině všech pacientů léčených v rámci klinických studií (zahrnující jak pacienty, u nichž se objevila těžká neutropenie, tak pacienty, u nichž se těžká neutropenie neobjevila) se u 11 % pacientů (ve 4 % cyklů) vyskytly horečky a u 26 % pacientů (v 9 % cyklů) se vyskytly infekce. U 5 % všech léčených pacientů (v 1 % cyklů) došlo navíc k rozvoji sepse (viz bod 4.4).
+
+Trombocytopenie: Těžká trombocytopenie (počet trombocytů méně než 25 x 10⁹/l) se objevila u 25 % pacientů (v 8 % cyklů), středně těžká trombocytopenie (počet trombocytů 25,0 až 50,0 x 10⁹/l) u 25 % pacientů (v 15 % cyklů). Střední doba nástupu těžké trombocytopenie byla 15. den a střední délka trvání byla 5 dní. Transfuze trombocytární masy byla podána ve 4 % cyklů. Významné následky
+
+6
+
+vznikající v souvislosti s trombocytopenií, včetně úmrtí v důsledku nádorového krvácení, byly hlášeny vzácně.
+
+Anémie: Středně těžká až těžká anémie (hemoglobin ≤ 8,0 g/dl) byla pozorována u 37 % pacientů (ve
+14 % cyklů). Transfuze erytrocytární masy byla aplikována u 52 % pacientů (v 21 % cyklů).
+
+Jiné než hematologické
+Nejčastěji zaznamenané nežádoucí účinky jiné než hematologické byly gastrointestinální nežádoucí účinky, jako např. nauzea (52 %), zvracení (32 %), průjem (18 %), zácpa (9 %) a dále mukozitida (14 %). Těžké projevy (3. nebo 4. stupně) nauzey se objevovaly u 4 %, zvracení u 3 %, průjmu u 2 % a mukozitidy u 1 %.
+Mírná bolest břicha byla rovněž hlášena u 4 % pacientů.
+
+Únavu uvádělo asi 25 % a astenii 16 % pacientů léčených topotekanem. Výskyt těžké únavy a astenie (3. nebo 4. stupně) byl v obou případech 3 %.
+
+Kompletní nebo významná alopecie byla pozorována u 30 % pacientů a částečná alopecie u 15 %
+pacientů.
+
+Další závažné nežádoucí účinky, které vznikaly v přímé nebo možné souvislosti s léčbou topotekanem, byly anorexie (12 %), malátnost (3 %) a hyperbilirubinemie (1 %).
+
+Hypersenzitivní reakce zahrnující vyrážku, kopřivku, angioedém a anafylaktické reakce, byly hlášeny vzácně. V klinických studiích byla vyrážka zaznamenána u 4 % pacientů a svědění u 1,5 % pacientů.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http//www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Případy předávkování byly hlášeny u pacientů léčených intravenózně podávaným topotekanem (až do 10násobku doporučené dávky) i topotekanem podávaným ve formě tobolek (až do 5násobku doporučené dávky). Známky a příznaky pozorované po předávkování byly konzistentní se známými nežádoucími účinky spojenými s topotekanem (viz bod 4.8). Primárními komplikacemi předávkování jsou myelosuprese a mukozitida. Kromě toho bylo při předávkování intravenózně podávaným topotekanem hlášeno zvýšení hodnot jaterních enzymů.
+Antidotum použitelné při předávkování topotekanem není známé. Další léčba má probíhat podle klinické potřeby nebo podle doporučení národního toxikologického centra, pokud je dostupné.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Cytostatika, jiná cytostatika, ATC kód: L01XX17.
+
+
+7
+
+Mechanismus účinku
+Cytostatická aktivita topotekanu spočívá v inhibici enzymu topoizomerázy-I, který hraje důležitou roli
+při procesu replikace DNA tím, že uvolňuje torzní napětí molekuly DNA před místem větvení. Topotekan inhibuje topoizomerázu-I stabilizací kovalentního komplexu mezi enzymem a štěpeným vláknem DNA, což je mezistupeň katalytického procesu. Inhibice topoizomerázy-I topotekanem vede v buňce k indukci jednovláknových zlomů DNA.
+
+Klinická účinnost a bezpečnost
+Ovariální karcinom s relapsem
+Ve srovnávací studii topotekanu a paklitaxelu byla u pacientek s ovariálním karcinomem léčených
+v první fázi platinovými cytostatiky (n = 112, resp. n = 114) zaznamenána odpověď na léčbu (interval spolehlivosti 95%) u 20,5 % (13 %, 28 %) pacientek léčených topotekanem oproti 14 % (8 %, 20 %) pacientek léčených paklitaxelem. Střední doba k začátku progrese onemocnění byla 19 týdnů při léčbě topotekanem a 15 týdnů při léčbě paklitaxelem (poměr rizik 0,7 [0,6; 1,0]). Střední doba přežití byla u topotekanu 62 týdnů, u paklitaxelu 53 týdnů (poměr rizik 0,9 [0,6; 1,3]).
+
+V celém programu zaměřeném na nemocné s ovariálním karcinomem (n = 392, všechny pacientky byly v předchozím období léčeny cisplatinou nebo cisplatinou a paklitaxelem) byla pozitivní terapeutická odpověď 16 %. Střední doba k začátku odpovědi na léčbu činila v klinických studiích 7,6 – 11,6 týdnů. U pacientek, u nichž terapie cisplatinou nebyla účinná nebo u nichž došlo během 3 měsíců po léčbě cisplatinou k relapsu (n = 186), byla pozitivní terapeutická odpověď 10 %.
+Tyto údaje mají být hodnoceny v souvislosti s celkovým bezpečnostním profilem léčivého přípravku, zvláště ve vztahu k významné hematologické toxicitě (viz bod 4.8).
+
+Retrospektivně byly analyzovány údaje 523 pacientek s relapsem ovariálního karcinomu. Úplná nebo částečná odpověď na léčbu byla pozorována v 87 případech, z toho u 13 pacientek během pátého a šestého cyklu a u 3 pacientek ještě později. Z pacientek, které byly léčeny více než šesti cykly, 91 % buď dokončilo léčbu podle plánu, nebo bylo léčeno až do progrese onemocnění, a pouze u 3 % byla léčba ukončena pro nežádoucí účinky.
+SCLC s relapsem
+V klinické studii fáze III (studie 478) byl porovnáván perorální topotekan v kombinaci s nejlepší podpůrnou léčbou (best supportive care, BSC) (n = 71) se samotnou BSC (n = 70) u pacientů
+s relapsem následujícím po léčbě první volby (střední doba do začátku progrese onemocnění [time to progression, TTP] od ukončení léčby první volby: 84 dní pro perorální topotekan + BSC, 90 dní pro BSC) a u kterých nebyla opakovaná léčba intravenózními cytostatiky považována za vhodnou. Ve skupině užívající perorální topotekan v kombinaci s BSC došlo ke statisticky významnému zlepšení celkového přežití ve srovnání se skupinou užívající samotnou BSC (log-rank p = 0,0104). Neupravený poměr rizik činil pro skupinu užívající perorální topotekan + BSC v porovnání se skupinou užívající samotnou BSC 0,64 (95 % CI: 0,45; 0,90). Střední doba přežití u pacientů léčených perorálním topotekanem v kombinaci s BSC byla 25,9 týdnů (95 % CI: 18,3; 31,6) ve srovnání s 13,9 týdny (95 % CI: 11,1; 18,6) u pacientů užívajících samotnou BSC (p = 0,0104).
+Hlášení symptomů pacienty za použití nezaslepeného hodnocení prokázala konzistentní trend
+zlepšování symptomů pro perorální topotekan v kombinaci s BSC.
+
+K posouzení účinnosti perorálního topotekanu ve srovnání s intravenózním topotekanem u pacientů, u kterých došlo k relapsu za ≥ 90 dnů po skončení jednoho předchozího chemoterapeutického režimu, byly provedeny jedna studie fáze II (studie 065) a jedna studie fáze III (studie 396) (viz tabulka 1).
+Hlášení symptomů pacienty při nezaslepeném hodnocení v obou těchto studiích prokázala, že je perorální i intravenózní léčba topotekanem spojena s podobným paliativním účinkem na symptomy u pacientů s relapsem SCLC reagujícím na léčbu.
+
+
+
+8
+
+Tab. 1. Souhrn údajů týkajících se přežití, četnosti odpovědi a doby do začátku progrese
+onemocnění u pacientů s SCLC léčených perorálním nebo intravenózním topotekanem
+
+Studie 065            Studie 396
+
+
+
+
+Střední doba přežití (týdny)
+(95% CI)
+Perorální topotekan (n = 52)
+32,3
+(26,3; 40,9)
+Intravenózní topotekan (n = 54)
+25,1
+(21,1; 33,0)
+Perorální topotekan (n = 153)
+33,0
+(29,1; 42,4)
+Intravenózní topotekan (n = 151)
+35,0
+(31,0; 37,1)
+
+Poměr rizik (95% CI)
+0,88 (0,59; 1,31)
+0,88 (0,7; 1,11)
+
+Četnost odpovědi (%)
+(95% CI)
+23,1
+(11,6; 34,5)
+14,8
+(5,3; 24,3)
+18,3
+(12,2; 24,4)
+21,9
+(15,3; 28,5)
+
+Rozdíl v četnosti odpovědi (95% CI)
+8,3 (-6,6; 23,1)
+-3,6 (-12,6; 5,5)
+
+Střední doba do začátku progrese (týdny)
+(95% CI)
+14,9
+
+(8,3; 21,3)
+13,1
+
+(11,6; 18,3)
+11,9
+
+(9,7; 14,1)
+14,6
+
+(13,3; 18,9)
+
+Poměr rizik (95% CI)
+0,90 (0,60; 1,35)
+1,21 (0,96; 1,53)
+
+n = celkový počet léčených pacientů
+CI = interval spolehlivosti
+
+V další randomizované klinické studii fáze III srovnávající intravenózní topotekan s cyklofosfamidem, doxorubicinem a vinkristinem (CAV) u pacientů s relapsem SCLC odpovídajícím na léčbu činila celková odpověď na léčbu 24,3 % u skupiny užívající topotekan ve srovnání s 18,3 % u skupiny dostávající CAV. Střední doba do začátku progrese onemocnění byla u obou skupin podobná
+(13,3 týdne, respektive 12,3 týdne). Střední doba přežití byla 25,0 týdnů u skupiny dostávající topotekan a 24,7 týdnů u skupiny dostávající CAV. Poměr rizika pro přežití po podání intravenózního topotekanu vzhledem k podání CAV byl 1,04 (95 % CI 0,78; 1,40).
+Výskyt odpovědi na léčbu topotekanem v kombinovaném programu léčby malobuněčného karcinomu
+plic (n = 480) u pacientů s relapsem onemocnění odpovídajícím na terapii první linie byl 20,2 %. Střední doba přežití byla 30,3 týdnů (95 % CI: 27,6; 33,4).
+V populaci pacientů s refrakterním SCLC (neodpovídajícím na léčbu první volby) činil výskyt
+odpovědi na léčbu topotekanem 4,0 %.
+
+Karcinom děložního hrdla
+V randomizované, srovnávací studii fáze III prováděné skupinou pro gynekologickou onkologii (GOG 0179) byl porovnáván topotekan plus cisplatina (n = 147) se samotnou cisplatinou (n = 146) v léčbě histologicky potvrzeného perzistentního, rekurentního karcinomu děložního hrdla nebo karcinomu děložního hrdla stadia IVB v případech, kdy kurativní chirurgická léčba a/nebo radioterapie nebyly považovány za vhodné. Topotekan s cisplatinou byly statisticky signifikantně účinnější v ovlivnění celkového přežití oproti monoterapii cisplatinou po úpravě v interim analýze (log-rank p = 0,033).
+Tab. 2. Výsledky studie GOG-0179
+
+
+
+
+
+
+Přežití (měsíce)
+Medián (95% CI)
+ITT populace Cisplatina 50 mg/m² v den 1
+každých 21 dní
+
+(n = 146)
+6,5 (5,8; 8,8)
+
+Cisplatina 50 mg/m² v den 1 + topotekan 0,75 mg/m²
+ve dnech 1-3 každých 21 dní
+(n = 147)
+9,4 (7,9; 11,9)
+Poměr rizika (95% CI)                   0,76 (0,59; 0,98)
+
+9
+
+Log rank p-hodnota                       0,033
+
+Pacientky bez předchozího podání chemoradioterapie s cisplatinou
+Cisplatina         Topotekan/cisplatina
+
+Přežití (měsíce) Medián (95% CI) Poměr rizika (95% CI)
+(n = 46)              (n = 44)
+8,8 (6,4; 11,5)          15,7 (11,9; 17,7)
+0,51 (0,31; 0,82)
+
+Pacientky s předchozím podáním chemoradioterapie s cisplatinou
+Cisplatina         Topotekan/cisplatina
+
+Přežití (měsíce) Medián (95% CI) Poměr rizika (95% CI)
+(n = 72)              (n = 69)
+5,9 (4,7; 8,8)           7,9 (5,5; 10,9)
+0,85 (0,59; 1,21)
+U pacientek (n = 39), u kterých došlo k rekurenci onemocnění během 180 dnů po chemoradioterapii s cisplatinou, byl medián přežití ve větvi užívající topotekan a cisplatinu 4,6 měsíce (95 % CI: 2,6;
+6,1) oproti 4,5 měsíce (95 % CI: 2,9; 9,6) ve větvi užívající samotnou cisplatinu s poměrem rizik 1,15 (0,59; 2,23). U těch pacientek (n = 102), u kterých došlo k rekurenci onemocnění po 180 dnech, byl medián přežití ve větvi s topotekanem a cisplatinou 9,9 měsíce (95 % CI: 7; 12,6) oproti 6,3 měsíce (95 % CI: 4,9; 9,5) ve větvi s cisplatinou s poměrem rizik 0,75 (0,49; 1,16).
+Pediatrická populace
+Topotekan byl také hodnocen v pediatrické populaci; k dispozici jsou však pouze omezené údaje týkající se účinnosti a bezpečnosti.
+V otevřené studii zahrnující pediatrickou populaci (n = 108, věkové rozmezí: od kojeneckého věku do 16 let) s rekurentními nebo progresivními solidními nádory byl topotekan podáván v počáteční dávce 2,0 mg/m² ve formě 30minutové infuze po dobu 5 dnů opakovaně každé 3 týdny až po dobu jednoho roku v závislosti na odpovědi na léčbu. Jednalo se o tyto typy nádorů: Ewingův sarkom/primitivní neuroektodermální nádor, neuroblastom, osteoblastom a rhabdomyosarkom. Protinádorová aktivita byla prokázána zejména u pacientů s neuroblastomem. Toxicita topotekanu u pediatrických pacientů
+s rekurentními a refrakterními solidními nádory byla podobná toxicitě zaznamenané již dříve
+u dospělých pacientů. V této studii dostalo 46 pacientů (43 %) G-CSF ve více než 192 (42,1 %) cyklech; 65 pacientům (60 %) byla podávána transfuze erytrocytů ve více než 139 cyklech (30,5 %) a 50 pacientů (46 %) dostávalo transfuzi trombocytů ve více než 159 cyklech (34,9 %). Na základě faktoru limitujícího dávku, kterým byla myelosuprese, byla ve farmakokinetické studii u pediatrických pacientů s refrakterními solidními nádory (viz bod 5.2) stanovena maximální tolerovaná dávka (maximum tolerated dose, MTD) ve výši 2,0 mg/m²/den při podání G-CSF a 1,4 mg/m²/den bez podávání G-CSF.
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Po intravenózním podání topotekanu v denních dávkách 0,5 až 1,5 mg/m² ve formě 30minutové infuze po dobu 5 dnů je jeho plazmatická clearance vysoká (62 l/hodinu; SD = 22), odpovídá přibližně 2/3 jaterního krevního průtoku. Topotekan má též velký distribuční objem (okolo 132 l; SD = 57) a relativně krátký biologický poločas, asi 2 až 3 hodiny. Srovnání farmakokinetických parametrů nenaznačuje žádné změny farmakokinetiky během opakované aplikace po dobu 5 dnů. Plocha pod křivkou roste proporcionálně se zvyšující se dávkou léku. Při opakovaném denním podávání nedochází k žádnému nebo pouze k mírnému hromadění topotekanu a neexistuje žádný důkaz o změně farmakokinetiky po podání opakovaných dávek. V preklinických studiích bylo prokázáno, že vazba na plazmatické bílkoviny je nízká (35 %) a distribuce mezi krvinkami a plazmou je celkem homogenní.
+
+Biotransformace
+
+10
+
+Eliminace topotekanu z lidského organismu byla hodnocena jen částečně. Topotekan je metabolizován z převážné části hydrolýzou laktonového kruhu za vzniku karboxylátu s otevřeným kruhem.
+
+Metabolizmus představuje méně než 10 % eliminace topotekanu. N-demethylovaný metabolit, u kterého byla v testu na buňkách prokázána aktivita podobná jako u mateřské látky nebo menší, byl nalezen v moči, plazmě a stolici. Průměrný poměr AUC metabolitu a mateřské látky byl méně než
+10 % pro celkový topotekan i lakton topotekanu. Metabolit vznikající po O-glukuronidaci topotekanu a N-demethylovaný topotekan byly nalezeny v moči.
+Eliminace
+Celkové vyloučení topotekanu příbuzných látek po pěti dnech léčby topotekanem činilo 71 až 76 % podané i.v. dávky. Přibližně 51 % bylo vyloučeno ve formě celkového topotekanu a 3 % ve formě N- demethyl topotekanu močí. Vylučování celkového topotekanu stolicí činilo 18 %, zatímco vylučování N-demethylovaného metabolitu stolicí bylo 1,7 %. Celkově N-demethylovaný metabolit tvořil v průměru méně než 7 % (rozmezí 4 – 9 %) z celkového množství topotekanu příbuzných látek v moči a stolici. Množství topotekan-O-glukuronidu a N-demethyovaného topotekan-O-glukuronidu v moči bylo méně než 2,0 %.
+
+Údaje z in vitro studií používajících lidské jaterní mikrozomy ukazují na tvorbu malého množství N- demethylovaného topotekanu. In vitro topotekan neinhiboval enzymy CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A nebo CYP4A lidského cytochromu P450 ani lidské cytosolové enzymy dihydropyrimidin a xanthinoxidázu.
+
+Při kombinované léčbě s cisplatinou (cisplatina podaná 1. den, topotekan podáván 1. až 5. den) došlo ke snížení clearance topotekanu v 5. dnu ve srovnání s 1. dnem (19,1 l/h/m² oproti 21,3 l/h/m²) [n = 9] (viz bod 4.5).
+Zvláštní populace
+
+Porucha funkce jater
+Plazmatická clearance u pacientů s poruchou funkce jater (sérový bilirubin v rozmezí od 1,5 mg/dl do 10 mg/dl) byla snížena asi na 67 % ve srovnání s kontrolní skupinou. Biologický poločas topotekanu byl prodloužen asi o 30 %, nebyl však prokázán rozdíl v jeho distribučním objemu. Plazmatická clearance celkového topotekanu (aktivní i neaktivní formy) se u pacientů s poruchou funkce jater snížila jen o 10 % ve srovnání s kontrolní skupinou.
+Porucha funkce ledvin
+Plazmatická clearance u pacientů s poruchou funkce ledvin (clearance kreatininu 41 až 60 ml/min) byla snížena asi na 67 % ve srovnání s kontrolním souborem. Distribuční objem byl lehce snížen a biologický poločas zvýšen pouze o 14 %. U pacientů se středně těžkou poruchou funkce ledvin byla plazmatická clearance topotekanu snížena na 34 % hodnoty kontrolní skupiny. Průměrný biologický poločas vzrostl z 1,9 hodin na 4,9 hodin.
+Věk/tělesná hmotnost
+V populační studii neměly faktory jako věk, tělesná hmotnost a ascites významný vliv na clearance celkového topotekanu (účinné i neúčinné formy).
+
+Pediatrická populace
+Farmakokinetika topotekanu podávaného ve formě 30minutové infuze po dobu 5 dnů byla posuzována ve dvou studiích. V první studii bylo hodnoceno dávkové rozmezí od 1,4 mg/m² do 2,4 mg/m² u dětí (ve věku od 2 do 12 let, n = 18), dospívajících (ve věku od 12 do 16 let, n = 9) a mladých pacientů (ve věku 16 až 21 let, n = 9) s refrakterními solidními nádory. Ve druhé studii bylo hodnoceno dávkové rozmezí od 2,0 mg/m² do 5,2 mg/m² u dětí (n = 8), dospívajících (n = 3) a mladých pacientů (n = 3) s leukemií. V těchto studiích nebyly zaznamenány zjevné rozdíly ve farmakokinetice topotekanu mezi
+
+
+11
+
+dětmi, dospívajícími a mladými dospělými pacienty se solidními nádory nebo s leukemií. Vzhledem k
+omezeným údajům však není možno vyvodit z těchto studií konečné závěry.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+S ohledem na mechanizmus účinku působí topotekan genotoxicky in vitro na savčí buňky (buňky myšího lymfomu a lidské lymfocyty) a in vivo na buňky kostní dřeně myší. Topotekan způsobuje u potkanů a u králíků embryofetální letalitu.
+
+Ve studiích reprodukční toxicity topotekanu provedených na potkanech nebylo zaznamenáno žádné ovlivnění samčí ani samičí fertility; u samic však byla pozorována častější ovulace a mírně zvýšené preimplantační ztráty.
+
+Kancerogenní účinek topotekanu nebyl studován.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Mannitol (E 421) Kyselina vinná (E 334) Hydroxid sodný
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodu 6.6.
+
+6.3  Doba použitelnosti
+
+Injekční lahvičky
+4 roky.
+
+Rekonstituované a naředěné roztoky
+Chemická a fyzikální stabilita koncentrátu byla prokázána na dobu 24 hodin při teplotě 25 ± 2 °C za normálních světelných podmínek, a na dobu 24 hodin při 2 °C - 8 °C, pokud byl chráněn před světlem.
+Chemická a fyzikální stabilita léčivého přípravku ve formě roztoku vzniklého po naředění koncentrátu v injekčním roztoku chloridu sodného o koncentraci 9 mg/ml (0,9% ) nebo infuzního roztoku glukózy o koncentraci 50 mg/ml (5%) byla prokázána na dobu 4 hodin při teplotě 25 ± 2 °C, za normálních světelných podmínek. Testované koncentráty byly uchovávány 12 hodin, respektive 24 hodin po rekonstituci při teplotě 25 ± 2 °C, a pak naředěny.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při teplotě 2 °C – 8 °C, pokud rekonstituce a ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem. Podmínky uchovávání rekonstituovaného a naředěného léčivého přípravku, viz bod 6.3.
+
+12
+
+6.5  Druh obalu a obsah balení
+
+Bezbarvá injekční lahvička ze skla třídy I (o objemu 8 ml) s šedou pryžovou zátkou a ochranným hliníkovým uzávěrem s plastovým odtrhovacím víčkem.
+Lahvička je potažená ochranným plastovým přebalem.
+
+Velikosti balení
+1 x 1 injekční lahvička obsahující 4 mg topotekanu
+5 x 1 injekční lahvička obsahující 4 mg topotekanu.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Topotecan Pharmagen prášek pro koncentrát pro infuzní roztok je třeba rekonstituovat přidáním 4 ml vody pro injekci.
+Čirý koncentrát je světle žlutý a obsahuje 1 mg topotekanu v 1 ml roztoku s ohledem na 10% přeplnění balení Topotecan Pharmagen. Pro dosažení konečné koncentrace 25 až 50 μg/ml je nutné další naředění na požadovaný objem buď injekčním roztokem chloridu sodného o koncentraci 9 mg/ml (0,9 %) nebo infuzním roztokem glukózy o koncentraci 50 mg/ml (5 %).
+
+Při zacházení s protinádorovými léky a odstraňování jejich zbytků musí být dodrženy následující zásady:
+1.   Rekonstituci a ředění léčivého přípravku smí provádět pouze školený personál.
+2.   Příprava léku musí probíhat ve vyhrazeném prostoru za aseptických podmínek.
+3.   Při práci je nutné používat adekvátní jednorázové ochranné rukavice, brýle, oděv a masku.
+4.   Je nutné provést bezpečnostní opatření k zabránění náhodného kontaktu léčivého přípravku
+s očima. V případě kontaktu přípravku s očima vypláchněte postižené oko velkým množstvím vody. Poté vyhledejte lékařskou pomoc.
+5.   V případě kontaktu s pokožkou omyjte postiženou plochu velkým množstvím vody. Po odložení rukavic si vždy umyjte ruce.
+6.   Těhotné ženy nesmí pracovat s cytotoxickými léčivými přípravky.
+7.   Je nutné věnovat náležitou péči a dodržovat bezpečnostní opatření při likvidaci materiálu (stříkačky, jehly apod.) použitého k rekonstituci a/nebo ředění cytotoxických léčivých přípravků. Nepoužitý přípravek nebo odpadový materiál se musí zlikvidovat v souladu
+s místními předpisy. Všechny pomůcky použité při přípravě a podání léku nebo čištění, včetně rukavic, je nutné odhodit do sběrných nádob učených pro vysoce rizikový odpadový materiál a spálit za vysoké teploty.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+PHARMAGEN CZ s.r.o., Reinerova 1712/9, 163 00 Praha 6 - Řepy, Česká republika
+
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+
+44/092/15-C
+
+9.   DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 25. 2. 2015
+Datum posledního prodloužení registrace: 4. 2. 2020
+
+13
+
+10.  DATUM REVIZE TEXTU
+
+4. 2. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

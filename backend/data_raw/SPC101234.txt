@@ -1,0 +1,579 @@
+sp. zn. sukls120296/2013
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1. NÁZEV PŘÍPRAVKU BRAIN - SPECT kit
+0,30 mg exametazimu Kit pro radiofarmakum.
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Léčivá látka:
+Jedna injekční lahvička obsahuje: exametazimum (D,L-forma) 0,30 mg
+
+Pomocné látky:
+Pomocná látka se známým účinkem: 0,52 mg sodíku/lahvičku. Úplný seznam pomocných látek viz bod 6.1.
+Radionuklid není součástí kitu.
+
+3. LÉKOVÁ FORMA
+Kit pro radiofarmakum.
+Bílý prášek pro přípravu injekčního roztoku.
+Po rekonstituci s injekčním roztokem technecistanu- (⁹⁹ᵐTc) sodného k intravenóznímu podání.
+
+4. KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+Injekce techneciem-(⁹⁹ᵐTc) značeného exametazimu je indikována pro scintigrafie mozku: diagnostiku  - iktu
+- přechodné ischemie
+- stenózy a. carotis
+- cerebrovaskulárních chorob
+- nádorových onemocnění CNS
+- při traumatech
+- demence
+- epilepsie
+- migrény
+- sclerosis multiplex
+
+4.2. Dávkování a způsob podání
+Dávkování pro dospělé a starší pacienty
+Doporučená dávka pro dospělého pacienta (70 kg) je i.v. aplikace 370 - 900 MBq. Standardně pro jedno vyšetření. Vyšší aktivity lze podat pouze ve zvlášť zdůvodnitelných případech.
+
+Dávkování pro děti a dospívající
+Při stanovení dávky pro děti a dospívající lze postupovat dle doporučení EANM nebo dle
+„Národního radiologickéhoho standardu“. Dětem lze podat 7,4 – 11,1 MBq/kg hmotnosti, minimální aplikovaná aktivita radiofarmaka je 110 MBq.
+Strana 1 (celkem 10)
+
+Způsob podání
+Přímá intravenózní injekce.
+Tento přípravek musí být rekonstituován před podáním pacientovi. Pokyny pro rekonstituci přípravku jsou uvedeny v bodě 12..
+
+4.3. Kontraindikace
+Přecitlivělost na léčivou látku, na kteroukoli pomocnou látku nebo na kteroukoli ze složek značeného přípravku. Pomocné látky jsou uvedeny v bodě 6.1.
+
+4.4. Zvláštní upozornění a opatření pro použití
+Pokud se objeví hypersenzitivní nebo anafylaktická reakce, musí být podání přípravku okamžitě přerušeno a zahájena intravenózní léčba, pokud je to nutné. Pro zajištění okamžitého zásahu v případě potřeby, musí být okamžitě k dispozici potřebné léčivé přípravky a vybavení, jako je endotracheální trubice a ventilátor.
+Odůvodnění individuálního přínosu/rizika
+U každého pacienta musí být radiační expozice odůvodnitelná pravděpodobným přínosem. Podaná aktivita by vždy měla být tak nízká s jakou lze rozumně dosáhnout získání požadované diagnostické informace.
+
+Těhotenství, viz bod 4.6.
+Informace pro použití u dětí a dospívajících viz bod 4.2. Příprava pacienta
+Příprava pacienta před a po vyšetření se řídí standardem vypracovaným pro dané pracoviště na základě doporučení „Národního radiologického standardu“ a/nebo doporučení EANM.
+
+Přípravek bez rekonstituce s injekčním roztokem technecistanu-(⁹⁹ᵐTc) sodného nesmí být podán pacientům, viz bod 12.
+
+Vždy by měla být zvážena možnost přecitlivělosti, včetně závažných příznaků a symptomů anafylaxe. Zařízení pro resuscitaci musí být snadno dostupné.
+
+Zvláštní upozornění
+Tento přípravek obsahuje méně než 1 mmol sodíku (23 mg) v každé lahvičce, tj. v podstatě je „bez sodíku“.
+V závislosti na čase podání injekce může být obsah sodíku podaný pacientovi v některých případech větší než 1 mmol. To je třeba vzít v úvahu u pacientů na dietě s nízkým obsahem sodíku.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Žádné studie interakce nebyly provedeny a žádné interakce nebyly do dnešního dne hlášeny.
+
+4.6. Fertilita, těhotenství a kojení
+Ženy ve fertilním věku
+Pokud je nutné podat radioaktivní přípravek ženě ve fertilním věku, vždy je důležité vědět, zda je či není těhotná. Každá žena, které vynechala perioda, by měla být považována za těhotnou, dokud se neprokáže opak. V případě nejistoty je důležité, aby vystavení radiaci bylo minimální v souladu s dosažením požadované klinické informace. Pacientce by měly být nabídnuty alternativní metody vyšetření bez použití ionizujícího záření.
+Strana 2 (celkem 10)
+
+Těhotenství
+Během těhotenství by měla být prováděna pouze naléhavá vyšetření, kdy předpokládaný přínos převáží riziko způsobené matce a plodu.
+Radionuklidová vyšetření prováděná u těhotných žen představují také radiační dávku pro plod. Nejsou k dispozici údaje o použití tohoto přípravku během těhotenství. Reprodukční studie na zvířatech nebyly provedeny.
+
+Kojení
+Před podáním radioaktivního přípravku kojící matce je třeba zvážit, zda lze vyšetření důvodně odložit až do ukončení kojení a zda byl proveden výběr nejvhodnějšího radiofarmaka s ohledem na vylučování do mateřského mléka. Pokud je podání považováno za nezbytné, kojení by mělo být přerušeno na 12 hodin a odsáté mléko zlikvidováno. Kojení může začít až hladina v mléce nebude mít za následek radiační dávku pro dítě větší než 1 mSv.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Studie vlivu na schopnost řídit a obsluhovat stroje nebyly provedeny.
+
+4.8. Nežádoucí účinky
+Frekvence výskytu nežádoucích účinků jsou definovány následovně:
+Velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (<1/10 000) a není známo (nelze odhadnout z dostupných údajů).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+V několika málo případech byla hlášena mírná přecitlivělost.
+
+
+
+Vrozené,familiární a genetické vady Není známo (nelze odhadnout z dostupných údajů)
+Novotvary benigní, maligní a blíže neurčené
+(zahrnující cysty a polypy)
+Není známo (nelze odhadnout z dostupných údajů)
+Poruchy imunitního systému
+Vzácné až velmi vzácné (<1/1 000)
+
+
+Poruchy nervového systému
+Není známo.
+
+Dědičné defekty¹.
+
+
+
+Vznik rakoviny¹.
+
+
+Přecitlivělost jako erytematózní vyrážka, alergické reakce, případně anafylaktické reakce.
+
+Bolest hlavy, závrať, parestezie.
+
+Strana 3 (celkem 10)
+
+Cévní poruchy
+Není známo.
+Gastrointestinální poruchy.
+Není známo.
+Celkové poruchy a reakce v místě aplikace.
+Není známo.
+Návaly horka. Nevolnost, zvracení.
+Astenické stavy (např.: nevolnost, únava)
+
+1) Souvisí s ionizujícím zářením.
+
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným rozvojem dědičných vad. Protože efektivní dávka je 5,2 mSv, pokud je podána aktivita 555 MBq je očekáván výskyt těchto nežádoucích účinků s nízkou pravděpodobností.
+
+4.9. Předávkování
+V případě podání nadměrné dávky záření by měla být absorbovaná dávka pro pacienta snížena zvýšenou eliminací radionuklidu z těla častým močením a defekací.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: diagnostická radiofarmaka, centrální nervový systém, ACT kód: V09AA01
+Technecium-(⁹⁹ᵐTc) exametazim v chemických koncentracích a aktivitách používaných pro diagnostická vyšetření nevykazuje žádné farmakodynamické účinky.
+
+5.2. Farmakokinetické vlastnosti
+Distribuce
+Komplex techneciem-(⁹⁹ᵐTc) značeného exametazimu je bez náboje, lipofilní s dostatečně nízkou molekulovou hmotností na to, aby procházel hemato-encefalickou barierou.
+Příjem v orgánech
+Značený přípravek po i.v. aplikaci rychle prochází hematoencefalickou bariérou. Maximum aktivity 3 - 8 % se v mozku nahromadí během 1 minuty po aplikaci. Do 2 minut po podání se z mozku vymyje 10 - 15 % přípravku a poté zůstává jeho hladina konstantní. Aktivita přítomná mimo mozkovou tkáň je distribuovaná po celém těle, zejména do svalů a měkkých tkání.
+Eliminace
+Ihned po injekci se přibližně 20% podané aktivity akumuluje v játrech a vylučuje se hepatobiliárním systémem. Během 48 hodin po injekci se přibližně  40 % aktivity vyloučí ledvinami močí a tím se sníží pozadí ve svalech a měkkých tkáních.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti přípravku
+Neexistují  žádné  další  údaje  o  předklinické  bezpečnosti,  které  mají  význam  pro předepisujícího lékaře v rozpoznání bezpečnostního profilu přípravku používaného pro schválené indikace.
+Tento přípravek není určen k pravidelnému nebo kontinuálnímu podávání.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek Dihydrát chloridu cínatého Dekahydrát difosforečnanu sodného
+Strana 4 (celkem 10)
+
+6.2. Inkompatibility
+Tento přípravek nesmí být smíchán s jinými léčivými přípravky s výjimkou přípravků uvedených v tomto bodě a v bodě 6.6. a 12..
+Při značení přípravku je možné k naředění injekce technecistanu-(⁹⁹ᵐTc) sodného použít izotonický roztok chloridu sodného.
+
+6.3. Doba použitelnosti
+1 rok
+Doba použitelnosti je vyznačena na vnitřním a vnějším obalu.
+Doba použitelnosti značeného přípravku je 1 hodinu po rekonstituci.
+
+6.4. Zvláštní opatření pro uchovávání
+Kit uchovávejte při teplotě 2ᵒ C – 25ᵒ C. Uchovávejte lahvičky v krabičce, aby byl přípravek chráněn před světlem. Značený přípravek uchovávejte při teplotě 2° C – 25° C. Chraňte před mrazem.
+
+Skladování radiofarmaka musí být v souladu s národními předpisy pro radioaktivní materiály.
+
+6.5. Druh obalu a obsah balení
+Přípravek  je dodáván  v 8 ml, čirých, bezbarvých injekčních lahvičkách k opakovanému odběru, , uzavřených pryžovou zátkou a hliníkovou objímkou zahnutou pod okraj a překrytou odklápěcím víčkem z plastické hmoty. Lahvičky jsou uložené ve vnitřní papírové fixační vložce a uložené do tvrdé papírové krabičky.
+Balení obsahuje 1, 3, 6 nebo 12 injekčních lahviček, 1, 3, 6 nebo 12 samolepicích štítků pro uvedení parametrů značeného přípravku, souhrn údajů o přípravku  a příbalovou informaci. Na trhu nemusí být všechny velikosti balení.
+
+6.6. Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Všeobecná upozornění
+Radiofarmaka mají být přijímána, používána a podávána pouze oprávněnými osobami v  určených  klinických  zařízeních.  Jejich  příjem,  skladování,  používání,  přeprava a likvidace se řídí předpisy a/nebo příslušnými oprávněními místních kompetentních úřadů.
+Radiofarmaka mají být připravena takovým způsobem, který vyhovuje požadavkům radiační bezpečnosti a farmaceutické kvalitě. Mají být přijata příslušná aseptická opatření.
+Obsah lahvičky je určen výhradně pro použití při přípravě ⁹⁹ᵐTc-BRAIN-SPECT kit a nesmí být podáván přímo pacientovi bez předchozího postupu značení – rekonstrukce.
+Pokyny k rekonstituci léčivého přípravku před jeho podáním, viz bod 12..
+
+Pokud je kdykoliv při přípravě tohoto přípravku ohrožena integrita lahvičky, nesmí být použita.
+
+S techneciem (⁹⁹ᵐTc)-značeným BRAIN-SPECT kitem je nutné zacházet opatrně a vhodná bezpečnostní opatření musí být použita pro minimalizaci ozáření klinických pracovníků. Rovněž je nutné věnovat pozornost minimalizaci ozáření pacienta, v souladu s řádnou péčí o pacienta.
+
+Obsah kitu před rekonstitucí není radioaktivní. Nicméně po rekonstituci přidáním injekce technecistanu sodného (⁹⁹ᵐTc), Ph. Eur., musí být zajištěno přiměřené stínění konečného přípravku.
+Strana 5 (celkem 10)
+
+Podávání  radiofarmak  představuje riziko  pro  jiné osoby z  externího  ozáření,  nebo kontaminací z rozlité moči, zvratků apod. Proto musí být přijata opatření radiační ochrany v souladu s národními předpisy.
+
+Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGITRACI
+Medi-Radiopharma Kft.
+Szamos u 10-12, 2030 Érd, Maďarsko
+Tel.:     0036-23-521-261
+Fax:     0036-23-521-260
+E-mail: mediradiopharma-ltd@t-online.hu
+
+8. REGISTRAČNÍ ČÍSLO
+88/418/92-C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+16.06.1992/ 30.05.2007
+
+10. DATUM REVIZE TEXTU
+16.11.2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strana 6 (celkem 10)
+
+11. DOZIMETRICKÉ ÚDAJE
+Scintigrafie mozku
+Technecium (⁹⁹ᵐTc) se vyrábí pomocí (⁹⁹Mo/⁹⁹ᵐTc) generátoru a rozkládá se s emisí záření gama se střední energií 140 keV a poločasem rozpadu 6,02 hodiny na technecium (⁹⁹Tc), které lze s ohledem na svůj dlouhý
+5
+poločas rozpadu 2,13 x 10 let považovat za kvazi-stabilní.
+
+
+Orgán
+Absorbovaná dávka na jednotku podané aktivity (mGy/MBq)
+
+
+Nadledviny Močový měchýř Povrch kostí Mozek
+Prsa Žlučník GI trakt
+Žaludek Tenké střevo Tlusté střevo
+Horní  tlusté střevo
+Dolní  tlusté střevo
+Srdce Ledviny Játra Plíce Svaly Jícen Vaječníky Slinivka
+Červená  kostní dřeň
+Pokožka Slezina Varlata Brzlík Štítná žláza Děloha
+Zbývající orgány Efektivní dávka (mSv/MBq)
+Dospělý
+0.0053
+0.023
+0.0051
+0.0068
+0.00206
+0.018
+
+0.0064
+0.012
+0.017
+0.018
+
+0.015
+
+0.0037
+0.034
+0.0086
+0.011
+0.0028
+0.0026
+0.0066
+0.0051
+0.0034
+
+0.0016
+0.0043
+0.0024
+0.0026
+0.026
+0.0066
+0.0032
+0.0093
+15 let
+0.0067
+0.028
+0.0064
+0.011
+0.0024
+0.021
+
+0.0085
+0.015
+0.022
+0.024
+
+0.019
+
+0.0047
+0.041
+0.011
+0.016
+0.0035
+0.0033
+0.0083
+0.0065
+0.0041
+
+0.0019
+0.0054
+0.003
+0.0033
+0.042
+0.0081
+0.004
+0.011
+10 let
+0.0099
+0.033
+0.0094
+0.016
+0.0037
+0.028
+
+0.012
+0.024
+0.035
+0.038
+
+0.031
+
+0.0067
+0.057
+0.016
+0.022
+0.005
+0.0047
+0.012
+0.0097
+0.0059
+
+0.0029
+0.0082
+0.0044
+0.0047
+0.063
+0.012
+0.006
+0.017
+5 let
+0.014
+0.033
+0.014
+0.021
+0.0056
+0.048
+
+0.019
+0.036
+0.055
+0.06
+
+0.048
+
+0.0097
+0.081
+0.023
+0.034
+0.0073
+0.0069
+0.017
+0.014
+0.008
+
+0.0045
+0.012
+0.0061
+0.0069
+0.14
+0.015
+0.0092
+0.027
+1 rok
+0.024
+0.056
+0.024
+0.037
+0.0095
+0.14
+
+0.036
+0.065
+0.1
+0.11
+
+0.09
+
+0.016
+0.14
+0.04
+0.063
+0.013
+0.011
+0.027
+0.023
+0.014
+
+0.0083
+0.02
+0.011
+0.011
+0.26
+0.025
+0.017
+0.049
+Novorozenec
+0.066
+0.15
+0.073
+0.084
+0.034
+0.32
+
+0.14
+0.21
+0.29
+0.31
+
+0.27
+
+0.05
+0.36
+0.092
+0.17
+0.045
+0.041
+0.081
+0.069
+0.042
+
+0.032
+0.059
+0.039
+0.041
+0.37
+0.075
+0.053
+0.12
+
+Efektivní dávka je 4,7 mSv/500 MBq (70 kg jedinec).
+Po podání aktivity 500 MBq je typická radiační dávka do cílového mozku 3,4 mGy a typická dávka/dávky ozáření kritických orgánů ledvin a štítné žlázy jsou 17 mGy resp. 13 mGy.
+
+
+
+
+Strana 7 (celkem 10)
+
+12. NÁVOD NA PŘÍPRAVU RADIOFARMAKA
+Příprava injekce
+1. Lahvičku s lyofilizovanou směsí vložte do olověného kontejneru.
+2. Za aseptických podmínek přidejte do lahvičky injekci technecistanu (99mTc) sodného o aktivitě 0,37 - 2,22 GBq v objemu 5 ml. Před odejmutím injekční stříkačky odsajte z lahvičky 5 ml dusíku pro vyrovnání tlaku . Nepoužívejte odvzdušňovací jehlu!
+3. Lyofilizovanou směs rozpusťte promícháním po dobu 10 vteřin.
+4. Přípravek značte 10 minut při pokojové teplotě.
+5. Přípravek je připraven k aplikaci. Doba použitelnosti značeného přípravku je 1 hodinu po rekonstituci. Během této doby by množství lipofilního (99mTc) - HM - PAO nemělo být méně než 80%.
+
+Poznámka
+1. K značení přípravku použijte injekci technecistanu (99mTc) sodného z generátoru, který byl eluován ne později než před 24 hodinami.
+2. K značení přípravku použijte injekci technecistanu (99mTc) sodného, která není starší než 2 hodiny.
+
+Charakteristika injekce
+Objem       5 ml
+pH          8,0 – 9,2
+Barva        bezbarvá, průzračná
+
+Stanovení radiochemické čistoty:
+Metoda A)
+Stacionární fáze   proužky 2,5 x 20 cm Gelman ITLC/SG Mobilní fáze     2 - butanon /MEK/
+2,5 cm od spodního okraje se nanese 5 μl značeného přípravku, skvrna se vysuší v proudu dusíku a vloží do vyvíjecí komory nasycené parami mobilní fáze. Chromatogram se nechá vyvíjet do vzdálenosti 9 - 10 cm od startu. Paralelně se značeným přípravkem se nechá vyvíjet injekce technecistanu ⁽99mTc) sodného. Po vyjmutí se chromatogramy vysuší a rozstříhají na 0,5 cm dílky (i 1 cm před startem). Jejich aktivita se měří ve vhodném přístroji.
+
+lipofilní komplex (99mTc) - HM - PAO + ⁹⁹ᵐTcO4⁻                 Rf = 0,15 - 1,0 redukované-hydrolyzované (99mTc) + hydrofilní (99mTc) - HM – PAO     Rf = 0,0 - 0,15 Metoda B)
+Stacionární fáze   proužky 2,5 x 20 cm Gelman ITLC/SG Mobilní fáze     izotonický roztok chloridu sodného
+Postup nanesení vzorků je stejný jako u metody A). Chromatogramy se nechají vyvíjet 15 minut, do vzdálenosti asi 7 - 8 cm od startu. Dále se postupuje jako u metody A).
+
+lipofilní + hydrofilní (99mTc) - HM - PAO komplex
++ redukované-hydrolyzované (99mTc)                  Rf = 0,0 - 0,15
+
+Strana 8 (celkem 10)
+
+volný 99mTcO4⁻                                   Rf = 0,8 - 1,0
+
+Metoda C)
+Stacionární fáze           proužky 2 x 30 cm Whatman č. 1
+Mobilní fáze             Acetonitril:voda (50:50), saturovaná dusíkem
+Postup nanesení vzorků je stejný jako u metody A). Chromatogramy se nechají vyvíjet 15 minut do vzdálenosti asi 5 - 6 cm od startu. Dále se postupuje jako u metody A).
+
+lipofilní + hydrofilní (99mTc) - HM - PAO komplex + volný 99mTcO4⁻      Rf = 0,8 - 1,0 redukované-hydrolyzované (99mTc)                      Rf = 0,0 - 0,15
+Výpočet radiochemické čistoty - množství lipofilního (99mTc) - HM - PAO komplexu podle vzorce
+100 - (a% + b% + c%)
+kde:     a% = aktivita hydrofilního (99mTc) - HM - PAO b% = aktivita volného 99mTcO4⁻
+c% = aktivita redukovaného-hydrolyzovaného (99mTc) Volný 99mTcO4⁻ % = z metody „B“
+Rf = 0,8 - 1,0 aktivita vyjádřená v %
+Hydrofilní komplex (99mTc) - HM - PAO % = z metody „A“ Rf = 0,0 - 0,15 aktivita vyjádřená v %
+Redukované-hydrolyzované (99mTc) = z metody „C“ Rf = 0,0 - 0,15 aktivita vyjádřená v %
+Radiochemická čistota musí být nejméně 80 % v průběhu 1 hodiny po přípravě.
+Stanovení radiochemické čistoty - množství lipofilního (99mTc) - HM - PAO komplexu metodou extrakce do chloroformu
+Do zkumavky, která obsahuje 3,0 ml chloroformu a 2,9 ml izotonického roztoku chloridu sodného se přidá 0,1 ml značeného přípravku. Intenzivně se promíchává po dobu 1 minuty. Poté se ponechá zkumavka 1 - 2 minuty v klidu, pro separaci fází. Kvantitativně se přenese horní vrstva do jiné zkumavky. Ve vhodném přístroji se změří aktivita obou fází (chloroformové a vodné).
+
+Výpočet radiochemické čistoty je dán vzorcem
+Aktivita chloroformové frakce
+% lipofilního (99mTc) - HM - PAO komplexu =                   100
+Aktivita obou frakcí
+
+
+
+Strana 9 (celkem 10)
+
+Lipofilní (99mTc) - HM - PAO komplex je rozpuštěný v chloroformu a všechny kontaminanty v izotonickém roztoku chloridu sodného. Množství lipofilního komplexu musí být nejméně 80 % v průběhu 1 hodiny po přípravě.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strana 10 (celkem 10)

@@ -1,0 +1,179 @@
+sp.zn. sukls62825/2018
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Ardeaelytosol F 1/1 9 g/l infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+1000 ml infuzního roztoku obsahuje:
+Natrii chloridum   9,0 g
+Obsah elektrolytů:
+Na⁺          154 mmol/l
+Cl⁻           154 mmol/l
+Osmotický tlak:    676 kPa
+pH:          4,5 – 7,0
+Seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Infuzní roztok
+Popis přípravku: čirý, bezbarvý roztok
+
+4. KLINICKÉ ÚDAJE
+
+4.1. Terapeutické indikace Metabolická alkalóza lehká Hyponatrémie
+Izotonická dehydratace (v případech, kdy ledviny pacienta jsou schopny vyrovnávat acidózu
+vyvolanou Cl⁻ ionty, kterých je v roztoku více než v extracelulární tekutině). Vehiculum pro podávání dalších léčiv
+Vyplachování a oplachování otevřených ran a dutin
+
+4.2. Dávkování a způsob podání
+Nitrožilní kapénková infuze v uzavřeném systému. Podává se zpravidla infuzní soupravou do periferní žíly, lze podat i do žíly centrální.
+Dávkování je nutno přizpůsobit věku, hmotnosti a klinickému stavu pacienta.
+Při ředění nebo rozpouštění léčiva je množství Ardeaelytosolu F 1/1 závislé na požadované koncentraci léčiva.
+Nejvyšší denní dávka je 40 ml/kg tělesné hmotnosti.
+
+4.3. Kontraindikace
+Hypernatrémie, hyperhydratace, edémy, oligurie až anurie, kardiální dekompenzace
+
+4.4. Zvláštní upozornění a opatření pro použití
+V závažných případech, při rozsáhlé infuzní terapii, je nutná kombinace s roztoky koloidů a vyvážená suplementace i ostatních iontů.
+Před podáním a během něj může být nutné monitorovat bilanci tekutin, sérových elektrolytů a acidobazickou rovnováhu. Zvláště pečlivě je třeba monitorovat hladinu sérového sodíku, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8).
+Infuze o velkém objemu je nutné u pacientů se srdečním či plicním selháním a u pacientů s neosmotickým uvolňováním vazopresinu (včetně SIADH) podávat za specifického sledování z důvodu rizika hyponatrémie (viz dále).
+Hyponatrémie
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku).
+Zvláštní riziko závažného a život ohrožujícího edému mozku způsobeného akutní hyponatrémií existuje u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální compliance (např. meningitida, intrakraniální krvácení, kontuze mozku a otok mozku).
+Při korekci poruch (zejména chronických) natrémie by neměly změny natrémie přesáhnout 10 mmol/ l denně. Při rychlejších změnách hrozí nebezpečí edému mozku.
+Zvýšená opatrnost je nutná také u pacientů s metabolickou acidózou.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Léčiva vedoucí ke zvýšenému účinku vazopresinu
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2, 4.4 a 4.8).
+•  Mezi léčiva stimulující uvolnění vazopresinu se řadí:
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání
+serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika.
+•  Mezi léčiva zesilující působení vazopresinu se řadí:
+chlorpropamid, NSAID, cyklofosfamid.
+•  Mezi analogy vazopresinu se řadí:
+desmopresin, oxytocin, vazopresin, terlipresin.
+Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a antiepileptika, např. oxkarbazepin.
+
+4.6. Fertilita, těhotenství a kojení
+Přípravek Ardeaelytosol F 1/1 je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména s ohledem na hladinu sérového sodíku, pokud je přípravek podáván v kombinaci s oxytocinem (viz bod 4.4, 4.5 a 4.8).
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+
+Vzhledem k povaze přípravku a jeho indikacím nemá Ardeaelytosol F 1/1 žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8. Nežádoucí účinky
+Existuje možnost obecných nežádoucích účinků spojených s neadekvátně vedenou infuzní terapií. Frekvence nežádoucích účinků, uvedených níže, je definována podle následující konvence:
+Velmi časté (≥ 1/10); časté (≥ 1/100, < 1/10); méně časté (≥ 1/1000, < 1/100); vzácné (≥ 1/10 000,
+< 1/1000); velmi vzácné (< 1/10 000); není známo (z dostupných údajů nelze určit).
+
+
+Třída orgánových systémů podle databáze MedDRA
+
+
+
+Poruchy metabolismu a výživy
+
+
+
+
+Srdeční poruchy
+
+Poruchy nervového systému
+Typ nežádoucího účinku
+
+Rozvrat iontové rovnováhy Hypernatrémie
+Hyperchlorémie
+Hyperhydratace
+Hyperchloremická metabolická acidóza Hyponatrémie*
+Edémy
+Ascites
+Kardiální dekompenzace
+Akutní hyponatremická encefalopatie*
+Frekvence výskytu
+
+
+
+
+Není známo
+
+
+Není známo Není známo
+*Hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie, (viz body 4.2, 4.4 a 4.5).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9. Předávkování
+Předávkování přípravkem Ardeaelytosol F 1/1 se projevuje příznaky uvedenými v bodu 4.8.
+Při použití přípravku Ardeaelytosol F 1/1 jako rozpouštědla pro jiné injekčně podávané léčivé přípravky souvisejí příznaky předávkování s povahou použitých aditiv.
+Při předávkování, stejně jako při výskytu nežádoucích účinků, je primární léčbou zastavení infuze a následná úprava hladiny elektrolytů a parametrů acidobazické rovnováhy za stálého monitorování vnitřního prostředí pacienta.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1. Farmakodynamické vlastnosti
+•  Farmakoterapeutická skupina: infundabilium, ATC kód: B05BB01 (Intravenózní roztoky -
+roztoky ovlivňující rovnováhu elektrolytů - elektrolyty).
+
+•  Základní infuzní roztok s obsahem iontů sodíku a chloridů.
+•  Proti plazmě obsahuje nadbytek chloridových iontů, což vede k acidifikaci vnitřního prostředí.
+
+5.2. Farmakokinetické vlastnosti
+a) Všeobecná informace – aktivní metabolity nevznikají. Ionty Na⁺ a Cl⁻ jsou rozpustné ve vodě, nerozpustné v tucích.
+b) Charakteristika léčivých látek – jedná se o jednoduchou anorganickou sůl – ionty Na⁺ a Cl⁻ – jsou
+organismu vlastní.
+c)  Charakteristika po podání u pacientů – jde o přípravek podávaný nitrožilně, Po i.v. podání setrvává v krevním řečišti pouze několik desítek minut, snadno uniká extravaskulárně.
+d)  Sodíkové a chloridové ionty se v organizmu distribuují dle koncentračních gradientů v extracelulární  tekutině,  volná  voda  se  distribuuje  dle  koncentračního  spádu  ve  všech kompartmentech.
+Iontová rovnováha je závislá na vylučování jednotlivých iontů ledvinami a podléhá zejména mineralokortikoidní regulaci.
+Vodní homeostáza je řízena antidiuretickým hormonem.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Vzhledem ke složení, způsobu užití přípravku a vlastnostem léčivé látky nemá otázka bezpečnosti pro organismus opodstatnění. Jedná se o přípravek dlouhodobě používaný („dobře zavedené léčebné použití“), u něhož při zavádění do terapie nebyly prováděny předklinické studie.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1. Seznam pomocných látek
+Voda pro injekci
+
+6.2. Inkompatibility
+Nejsou známy žádné fyzikálně-chemické inkompatibility, při použití přípravku jako vehikula je nutno
+brát vždy v úvahu fyzikálně-chemické vlastnosti přidávaného léčiva.
+
+6.3. Doba použitelnosti
+V neporušeném obalu 3 roky.
+Doba použitelnosti po prvním otevření:
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 48 hodin při 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při 2 až 8 °C, pokud otevření neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4. Zvláštní opatření pro uchovávání
+Chraňte před mrazem.
+
+6.5. Druh obalu a obsah balení
+Skleněná infuzní lahev s pryžovou zátkou a kovovým uzávěrem, kartonová krabice. Velikost balení: 1x 80 ml, 1x 100 ml, 1x 250 ml, 1x 500 ml
+20x 80 ml, 20x 100 ml, 10x 250 ml, 10x 500 ml
+Na trhu nemusí být všechny velikosti balení.
+
+6.6. Zvláštní opatření pro likvidaci přípravku (a pro zacházení s ním)
+Výdej přípravku je vázán na lékařský předpis.
+Parenterální přípravky je nutno před podáním vizuálně zkontrolovat. Pokud jsou viditelné pevné částice, nebo byl-li obal porušen, přípravek se nesmí aplikovat.
+Přípravek je určen pouze k jednorázovému použití.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+ARDEAPHARMA, a.s., Třeboňská 229, 373 63 Ševětín, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+76/224/95-C
+
+9. DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 19.4.1995
+Datum posledního prodloužení registrace: 10.6.2015
+
+10. DATUM REVIZE TEXTU
+13. 4. 2018

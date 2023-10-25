@@ -1,0 +1,622 @@
+sp.zn. sukls356068/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+
+Vulmizolin 1,0 g prášek pro injekční/infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna injekční lahvička obsahuje cefazolinum 1,00 g, jako cefazolinum natricum 1,05 g.
+
+Pomocná látka se známým účinkem: Jedna injekční lahvička obsahuje 2,1 mmol sodíku, což odpovídá
+48,3 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Prášek pro injekční/infuzní roztok.
+Bílý až slabě žlutý prášek
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Vulmizolin je indikován k léčbě dospělých a dětí starších 1 měsíce u následujících infekcí vyvolaných mikroorganismy citlivými na cefazolin (viz bod 5.1):
+
+infekce kůže a měkkých tkání. infekce kostí a kloubů. infekční endokarditida.
+infekce žlučových cest
+profylaxe u chirurgických výkonů.
+
+Podávání cefazolinu má být omezeno na případy, kdy je nezbytné parenterální podávání.
+
+Citlivost mikroorganismů má být ověřena (pokud je to možné), ačkoli s léčbou se může začít již před výsledky zkoušek citlivosti.
+
+V úvahu musí být vzato oficiální místní doporučení pro použití antibakteriálních přípravků.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dávkování závisí na citlivosti mikroorganizmu a závažnosti onemocnění. Dospělí:
+Infekce způsobené vysoce citlivými mikroorganismy
+
+Obvyklá dávka 1 000 – 2 000 mg denně, rozděleno do 2 – 3 stejných dávek (v intervalu po 8 nebo po
+12 hodinách).
+
+Infekce způsobené méně citlivými mikroorganismy
+Obvyklá dávka 3 000 – 4 000 mg denně, rozděleno do 3 – 4 stejných dávek (v intervalu po 6 nebo po 8
+hodinách).
+
+U těžkých infekcí se podává do 6 000 mg denně, rozděleno do 3 – 4 stejných dávek (v intervalu po 6
+nebo po 8 hodinách).
+
+Profylaxe u chirurgických výkonů
+1 000 mg intravenózně 30 minut až 1 hodinu před zahájením operace
+Při déletrvajících výkonech (2 hodiny a déle) se podává další dávka 500 mg – 1 000 mg intravenózně
+během operace (dávkování se upravuje v závislosti na délce výkonu)
+Pooperačně se podává 500 mg – 1 000 mg intravenózně každých 6 nebo 8 hodin po dobu 24 hod.
+
+Je důležité, (1) aby se úvodní dávka před operací podala krátce před zahájením operace (30 minut až 1 hodinu) tak, aby bylo dosaženo účinné koncentrace antibiotika v séru a ve tkáních v době zahájení operace; a (2) aby cefazolin byl podáván, pokud je to nutné, v příslušných intervalech v průběhu chirurgického výkonu, tak aby bylo dosaženo dostatečné hladiny antibiotika v době, kdy se předpokládá největší expozice mikroorganismu.(infekčnímu agens) Profylaxe cefazolinem má být ukončena do 24 hodin po skončení operace. Pokud by potencionální infekce představovala pro pacienta velké nebezpečí (např. otevřené operace srdce nebo totální náhrada kloubu), je doporučeno v profylaxi cefazolinem pokračovat po dobu 24–36 hodinpo skončení operace.
+Ve velmi vzácných případech lze podat dávky až do 12 g denně.
+
+Porucha funkce ledvin
+
+U dospělých s poruchou funkce ledvin může být nutná nižší dávka, aby se zabránilo akumulaci.
+Velikost dávky lze určit na základě hladiny v krvi. Pokud to není možné, dávka se určí podle clearance kreatininu.
+
+Po počáteční nasycovací dávce zvolené podle závažnosti infekce mohou být jako vodítko použity následující pokyny pro udržovací dávku.
+
+Udržovací dávka cefazolinu u pacientů s poruchou ledvin
+
+
+Kreatinin (ml/min/1,73 m²)
+≥ 55
+35 - 54
+11 - 34
+≤ 10
+Sérový kreatinin
+(mg/100 ml)
+≤ 1,5
+1,6 - 3,0
+3,1 - 4,5
+≥ 4,6
+Maximální denní dávka
+Obvyklá dávka⃰ Obvyklá dávka⃰⃰
+½ obvyklé dávky
+½ obvyklé dávky
+Interval podávání pro rozdělení dávky
+Nezměněn
+Minimálně po 8 hod
+12 hod
+18-24 hod
+
+⃰Dávka u dospělého s normální funkcí ledvin.
+
+Pediatrická populace
+
+Infekce způsobené vysoce citlivými mikroorganismy
+Dávka 25-50 mg/kg tělesné hmotnosti rozdělená do tří až čtyř dávek za den (v intervalu po 6 nebo 8 hodinách)
+Infekce způsobené méně citlivými mikroorganismy
+
+Dávka do 100 mg/kg tělesné hmotnosti rozdělená do třech až čtyř dávek za den (v intervalu po 6, nebo
+8 hodinách).
+
+Novorozenci ≤ 1 měsíce
+Vzhledem k tomu, že bezpečnost použití u nedonošených dětí a novorozenců nebyla stanovena, použití
+přípravku Vulmizolin se u těchto pacientů nedoporučuje. (viz bod 4.4)
+
+Pokyny pro dávkování u pediatrické populace
+
+
+Tělesná hmotnost
+
+25 mg/kg/den rozděleně do 3
+dávek po 8 hod
+
+25 mg/kg/den rozděleně do 4
+dávek po 6 hod
+
+50 mg/kg/den rozděleně do 2
+dávek po 12 hod
+
+50 mg/kg/den rozděleně do 3
+dávek po 8 hod
+
+50 mg/kg/den rozděleně do 4
+dávek po 6 hod
+
+100 mg/kg/den rozděleně do 3
+dávek po 8 hod
+
+100 mg/kg/den rozděleně do 4
+dávek po 6 hod
+5 kg
+42 mg
+
+
+31 mg
+
+
+125 mg
+
+
+83 mg
+
+
+63 mg
+
+
+167 mg
+
+
+125 mg
+10 kg
+85 mg
+
+
+62 mg
+
+
+250 mg
+
+
+166 mg
+
+
+125 mg
+
+
+333 mg
+
+
+250 mg
+15 kg
+125 mg
+
+
+94 mg
+
+
+375 mg
+
+
+250 mg
+
+
+188 mg
+
+
+500 mg
+
+
+375 mg
+20 kg
+167 mg
+
+
+125 mg
+
+
+500 mg
+
+
+333 mg
+
+
+250 mg
+
+
+667 mg
+
+
+500 mg
+25 kg
+208 mg
+
+
+156 mg
+
+
+625 mg
+
+
+417 mg
+
+
+313 mg
+
+
+833 mg
+
+
+625 mg
+
+Pediatrická populace s poruchou funkce ledvin
+U dětí s poruchou funkce ledvin (podobně jako u dospělých) může být nutná nižší dávka, aby se
+zabránilo akumulaci. Velikost dávky lze určit na základě hladiny v krvi. Pokud to není možné, dávka se
+určí podle clearance kreatininu.
+
+Děti s lehkou poruchou funkce ledvin (clearance kreatininu 70-40 ml/min), 60 % normální denní dávky, rozděleně do dvou dávek po 12 hod.
+Děti se středně těžkou poruchou funkce ledvin (clearance kreatininu 40-20 ml/min), 25 % normální denní dávky, rozděleně do dvou dávek po 12 hod.
+Děti s těžkou poruchou funkce ledvin (clearance kreatininu 20-5 ml/min), 10 % normální denní dávky,
+jednou za 24 hod.
+Toto dávkování je platné po aplikaci počáteční nasycovací dávky. (viz bod 4.4)
+
+Staří pacienti
+U starších pacientů s normální funkcí ledvin není potřebná úprava dávkování.
+
+Trvání léčby
+Záleží na průběhu onemocnění. V souladu s obecnými zásadami léčby antibiotiky má léčba cefazolinem pokračovat alespoň 2 až 3 dny po vymizení horečky nebo dokud není prokázáno, že byla odstraněna příčina onemocnění.
+
+Způsob podání
+Dospělí a starší pacienti:
+Intravenózní a intramuskulární podání.
+
+Pediatrická populace:
+Intravenózní a intramuskulární podání.
+
+Úplné pokyny k rekonstituci léčivého přípravku před podáním, viz bod 6.6.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na cefazolin, další cefalosporinová antibiotika nebo na kteroukoli pomocnou látku
+uvedenou v bodě 6.1.
+Anamnéza závažné a/nebo časné alergické reakce na penicilin nebo na jakákoli jiná beta-laktamová
+antibiotika.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Zvláštní opatrnosti je třeba u pacientů se sklonem k alergickým projevům, bronchiálním astmatem nebo sennou rýmou. Před podáním je třeba u pacienta zjistit možný výskyt alergických reakcí na cefazolin nebo jiná beta-laktamová antibiotika (peniciliny nebo cefalosporiny) v minulosti.
+
+U pacientů, u nichž se vyskytly alergické reakce se musí léčba přerušit a použít symptomatické léky. Je třeba vzít v úvahu možnost zkřížené alergie s ostatními cefalosporiny a zkřížené alergie s peniciliny. Je- li u pacienta známa hypersenzitivní reakce na peniciliny, je třeba vzít do úvahy zkříženou reakci na ostatní beta-laktamová antibiotika např. cefalosporiny.
+
+U pacientů léčených beta-laktamovými antibiotiky byly hlášeny závažné a v některých případech i fatální hypersenzitivní (anafylaktické) reakce (viz bod 4.8.) Tyto reakce se častěji vyskytují u osob s anamnézou hypersenzitivity na beta-laktamová antibiotika.
+
+U pacientů s poruchou funkce ledvin má být dávka a/nebo intervaly dávkování přizpůsobeny závažnosti poruchy renálních funkcí (viz bod 4.2). Přestože cefazolin způsobuje nefrotoxicitu jen vzácně, je doporučeno zkontrolovat funkci ledvin, především u těžce nemocných pacientů, kteří dostávají maximální dávky, a u pacientů současně užívajících jiné potenciálně nefrotoxické látky, jako jsou aminoglykosidy nebo silná diuretika (např. furosemid).
+
+Ve výjimečných případech se v průběhu léčby cefazolinem mohou objevit poruchy srážlivosti krve. Rizikovou skupinou jsou pacienti s nedostatkem vitamínu K nebo jinými rizikovými faktory (parenterální výživa, malnutrice, porucha jaterních a renálních funkcí, trombocytopenie). Srážlivost může být také porušena u pacientů, kteří mají přidružená onemocnění způsobující nebo zhoršující krvácení (např. hemofilie, gastroduodenální vředová choroba). Je doporučeno u této skupiny pacientů kontrolovat Quickův test. Pokud by jeho hodnoty byly pod normou, má být podáván vitamín K (10 mg/ týden).
+
+Kolitida spojená s antibiotiky byla hlášena téměř u všech antibakteriálních léčiv, zahrnujících mimo jiné cefazolin, a závažnost může být mírná až život ohrožující (viz bod 4.8). Proto je důležité zvážit tuto diagnózu u pacientů s průjmem během podávání antibiotik nebo po něm. Pokud se vyskytne kolitida v souvislosti s antibiotiky, má být podávání přípravku Vulmizolin okamžitě přerušeno, má být vyhledán lékař a zahájena vhodná terapie. Antiperistaltika jsou v této situaci kontraindikována.
+
+Dlouhodobé podávání cefazolinu může příležitostně vést k přemnožení necitlivých organismů. Pacienti mají být proto pečlivě sledováni na výskyt potenciálních superinfekcí. Pokud se tyto objeví, mají být přijata vhodná opatření.
+
+Tento léčivý přípravek obsahuje 48,3 mg sodíku v jedné injekční lahvičce, což odpovídá 2,4 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Pediatrická populace
+Cefazolin se nemá podávat nedonošeným a novorozencům do 1 měsíce věku, neboť není zatím dostatek
+dat pro bezpečné použití (viz bod 4.2).
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Bakteriostatická antibiotika (jako např. tetracykliny, sulfonamidy, erythromycin, chloramfenikol)
+Současné podávání bakteriostatických antibiotik může vést k antagonizmu s účinkem cefazolinu.
+
+Probenecid
+Současné podávání probenecidu snižuje renální clearance cefazolinu, zvyšuje plazmatickou hladinu a následně prodlužuje poločas eliminace cefazolinu.
+
+Fytomenadion (vitamin K1)
+Cefazolin může inhibovat jaterní metabolizmus vitaminu K1 a způsobovat hypotrombinemii, zejména v
+případě nedostatku vitaminu K1. Může být nutné zvýšení dávky vitaminu K1.
+
+Antikoagulancia
+Cefalosporiny mohou ve vzácných případech vést k poruchám krevní srážlivosti (viz bod 4.4). Pokud jsou současně podávána perorální antikoagulancia nebo heparin ve vysokých dávkách, je třeba kontrolovat parametry krevní srážlivosti.
+
+Riziko poruchy funkce ledvin se při používání jiných nefrotoxických přípravků zvyšuje.
+Nefrotoxicitu mohou zvyšovat např. aminoglykosidová antibiotika (kolistin, polymyxin B), diuretika (furosemid) a cisplatina). V těchto případech je třeba sledovat renální funkce.
+
+Laboratorní testy
+Laboratorní testy na glukózu v moči mohou být při podání cefazolinu falešně pozitivní při použití zkoušek podle Fehlinga, Benedikta nebo tablet Clinitestu. Naopak cefazolin neovlivňuje enzymatické zkoušky na glukózu v moči.
+Během léčby se může objevit falešná pozitivita přímého i nepřímého Coombsova testu (i u dětí matek, které dostávaly cefalosporiny během těhotenství).
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Neexistují dostatečné údaje o použití cefazolinu během těhotenství, aby bylo možné posoudit jeho možnou škodlivost. Cefazolin prochází placentou. Studie na zvířatech neprokázaly teratogenitu ani reprodukční toxicitu (viz bod 5.3).  Použití přípravku Vulmizolin během těhotenství nedoporučuje, pokud to není nezbytně nutné.
+
+Kojení
+Cefazolin přechází do mateřského mléka ve velmi nízkých koncentracích. V terapeutických dávkách nelze žádné účinky na novorozence očekávat. Přípravek Vulmizolin je možné používat během kojení. Pokud se u kojence objeví průjem či kandidóza, má matka kojení přerušit, nebo má být přerušeno podávání cefazolinu.
+
+Fertilita
+Dostupné studie na zvířatech neukazují vliv na fertilitu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Na základě farmakodynamického profilu a profilu nežádoucích účinků je nepravděpodobné, že má cefazolin účinky na schopnost řídit a obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+V následující tabulce jsou shrnuty nežádoucí účinky rozdělené do skupin podle terminologie MedDRA s uvedením frekvence výskytu: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1 000 až
+<1/100); vzácné (≥1/10 000 až <1/1 000); velmi vzácné (<1/10 000), není známo (z dostupných údajů
+nelze určit).
+
+
+MedDRA třídy orgánových systémů
+Poruchy kůže a podkožní tkáně
+
+
+Poruchy imunitního systému
+Frekvence
+méně časté
+
+není známo méně časté
+Nežádoucí účinek
+exantém, vyrážka
+
+Stevens-Johnsonův syndrom
+anafylaktická reakce
+
+Celkové poruchy a reakce v místě aplikace
+
+
+Poruchy reprodukčního systému a prsu Poruchy krve a lymfatického systému
+
+Gastrointestinální poruchy
+méně časté
+
+
+méně časté vzácné
+
+méně časté
+léková horečka, bolest v místě aplikace, flebitida v místě aplikace
+kolpitida, pruritus vulvy,
+pruritus genitálu
+eozinofilie, neutropenie, leukopenie, trombocytopenie,
+
+poruchy srážení krve
+nauzea, zvracení, průjem, anální pruritus
+
+
+Poruchy ledvin a močových cest
+méně časté
+toxická nefropatie
+
+
+Infekce a infestace
+
+
+Vyšetření
+není známo
+
+
+není známo
+mykotická infekce,
+pseudomembranózní kolitida, kandidóza dutiny ústní
+zvýšení hladiny
+aspartátaminotransferázy, zvýšení hladiny
+alaninaminotransferázy, zvýšení
+hladiny alkalické fosfatázy v
+séru zvýšená, zvýšená urea
+
+
+Poruchy nervového systému
+není známo
+křeče
+
+
+(u pacientů s poruchou funkce ledvin, kteří byli léčeni chybně nastaveným režimem s příliš vysokými dávkami)
+
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Symptomy
+
+Symptomy mohou zahrnovat bolest, flebitidu a zánět v místě aplikace. Po parenterální aplikaci neobvykle vysokých dávek cefalosporinů se může se objevit závratě, bolest hlavy, parestézie. Po předávkování některými cefalosporiny se mohou objevit křeče, zejména u pacientů s poškozením ledvin, u nichž může snadněji dojít k akumulaci.
+Výsledky laboratorních testů po předávkování mohou ukázat vyšší hodnoty bilirubinu, BUN, kreatininu, jaterních enzymů, pozitivní Coombsův test a eozinofilii, leukopenii, trombocytopenii a prodloužení protrombinového času.
+
+Léčba
+Vyskytnou-li se křeče je třeba léčbu okamžitě ukončit, podat antikonvulziva a monitorovat životní funkce a příslušné laboratorní parametry. U závažných případů předávkování nereagujících na léčbu se doporučuje hemodialýza spolu s hemoperfuzí, i když klinická data chybí. Peritoneální dialýza není účinná.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: jiná beta-laktamová antibiotika, cefalosporiny I. generace ATC kód: J01DB04
+
+Mechanismus účinku
+
+Baktericidní aktivita cefazolinu je výsledkem inhibice syntézy bakteriální buněčné stěny (během období růstu), způsobené inhibicí penicilin-vazebných proteinů (PBPs), jako např. transpeptidázy. Vytvořením  této  vazby  je  inhibována  transpeptidázová  reakce  a  dojde  k  blokádě  syntézy peptidoglykanů. Konečným výsledkem je destrukce bakterie.
+
+Vztah farmakokinetika/farmakodynamika
+
+Pro  cefalosporiny  je  nejdůležitější  farmakokineticko–farmakodynamický  index,  korespondující s účinností in vitro. Je to procento dávkovacího intervalu kdy sérová hladina léčivé látky cefazolinu převyšuje minimální inhibiční koncentraci (MIC) pro daný mikroorganismus. (%T>MIC).
+
+Mechanismus rezistence
+Resistence na cefazolin může být důsledkem následujících mechanismů:
+
+-  Inaktivace beta-laktamázami: cefazolin vykazuje širokou stabilitu vůči penicilinázám gram- pozitivních bakterií, ale jen malou odolnost vůči plazmidy kódovaným beta-laktamázám, např.
+
+beta-laktamázy s rozšířeným spektrem (ESBL) nebo chromozomálně kódované beta-laktamázy
+typu AmpC.
+
+-  Snížená afinita PBP k cefazolinu: získaná rezistence pneumokoků a ostatních streptokoků vůči cefazolinu je důsledkem změny stávajících PBP jako výsledek mutace. Methicilin (oxacillin) – rezistentní stafylokoky jsou rezistentní kvůli tvorbě dodatečné PBP se sníženou afinitou k oxacilinu a všem ostatním beta-laktamovým antibiotikům.
+-  Nedostatečná penetrace cefazolinu přes vnější buněčné stěny gram-negativní bakterie může mít za následek nedostatečnou inhibici PBP.
+
+- Cefazolin může být aktivně vyloučen z buňky efluxní pumpou.
+
+Existuje zkřížená rezistence mezi cefalosporiny a peniciliny.
+
+Hraniční hodnoty citlivosti (breakpointy)
+
+Hraniční hodnoty MIC pro cefazolin jsou definovány Evropskou komisí pro testování antimikrobiální
+citlivosti (EUCAST).
+
+Klinické hraniční hodnoty MIC pro cefazolin podle EUCAST (v. 7.0, 2017-01-01)
+
+
+Agens
+Staphylococcus spp. Streptococcus skupiny A, B, C, G Streptokoky skupiny viridans
+Hraniční hodnoty pro nespecifikované organismy
+≤ senzitivní (S)
+Poznámka¹ Poznámka² 0,5 mg/l
+1 mg/l
+≥ rezistentní (R)
+Poznámka¹ Poznámka² 0,5 mg/l
+2 mg/l
+
+Poznámka¹. Citlivost stafylokoků k cefalosporinům, se odvozuje od citlivosti k cefoxitinu.
+
+Poznámka². Citlivost beta-hemolytických streptokoků skupin A, B, C a G se odvozuje od citlivosti k penicilinu.
+
+Mikrobiologická citlivost
+Prevalence rezistence se pro vybrané mikroorganismy může lišit geograficky a v čase, místní informace o rezistenci je cenná zejména při léčbě závažných infekcí. V případě potřeby se má vyhledat odborné poradenství, a to zejména když je lokální prevalence rezistence taková, že použití léčiva je přinejmenším u některých typů infekce sporné.
+
+Běžně citlivé kmeny:
+Staphylococcus aureus (methicillin-citlivý)
+
+Kmeny které mohou být rezistentní:
+Haemophilus influenzae Neisseria gonorrhoeae Streptokoky skupiny A,B,C,G Streptococcus pneumoniae
+Staphylococcus epidermidis (methicillin-citlivý)
+
+Přirozeně rezistentní kmeny:
+Citrobacter spp.
+Enterobacter spp. (Enterobacter cloacae, Enterobacter aerogenes) Morganella morganii
+
+Proteus stuartii Proteus vulgaris
+Pseudomonas aeruginosa Serratia
+Staphylococcus (methicillin-rezistentní) Klebsiella pneumoniae
+Proteus mirabilis
+
+
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Intramuskulární podání
+Maximální sérové koncentrace jsou dosaženy asi za hodinu po intramuskulárním podání. Plazmatické hladiny po intramuskulárním podání jsou uvedeny v následující tabulce.
+Koncentrace v séru (µg/ml) po intramuskulárním podání
+
+Dávka
+0,25 g
+0,5 g
+1 g
+0,5 h
+15,5
+36,2
+60,1
+1 h
+29.8
+44.6
+63,8
+2 h
+13
+37,9
+54,3
+4 h
+5,1
+15,5
+29,3
+6 h
+2,5
+6,3
+13,2
+8 h
+- 3
+7,1
+
+Intravenózní podání:
+Průměrné plazmatické hladiny po i.v. podání jednorázové dávky 1g jsou uvedeny v následující tabulce. Koncentrace v séru (µg/ml) po intravenózním podání 1 g
+5 min.      10 min.      30 min.      1 h        2 h        4 h
+188,4       135,8       106,8       73,7       45,6       16,5
+
+Asi 80 % dávky se váže na bílkoviny krevní plazmy bez ohledu na velikost podané dávky, biologický poločas je zhruba 1,5 hodiny po i.v. podání, 2 hodiny po i.m. podání; terapeutická hladina se v krvi udrží přibližně 8 hodin. Distribuční objem je 10-12 l.Ve žluči je hladina vyšší než v krevním séru. V terapeutických dávkách prochází placentární bariérou; v mateřském mléce a amniotické tekutině dosahuje nízkých koncentrací.
+
+Biotransformace
+Cefazolin se nemetabolizuje.
+
+Eliminace
+Cefazolin se vylučuje v nezměněné formě (80 - 90 %) ledvinami.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Cefazolin má nízkou akutní toxicitu. Cefazolin neměl teratogenní účinky, ani nevykazoval reprodukční toxicitu u potkanů, myší a králíků. Akutní toxicita cefazolinu je nízká. Studie mutagenity a karcinogenity cefazolinu nejsou k dispozici.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+V přípravku nejsou obsaženy žádné pomocné látky.
+
+6.2  Inkompatibility
+
+Přípravek je inkompatibilní s aminoglykosidy, kyselinou askorbovou, sodnou solí amobarbitalu, sodnou solí pentobarbitalu, amikacin-disulfátem, kolistimethátem, kalcium-glukonátem a kalcium- glukoheptonátem, cimetidinem, erythromycin-gluceptátem a tetracykliny.
+
+6.3  Doba použitelnosti
+
+Doba použitelnosti přípravku před otevřením:
+2 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C, injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem
+.
+
+Rekonstituovaný roztok
+Chemická a fyzikální stabilita po otevření a následném naředění před použitím byla prokázána po dobu 24 hodin při teplotě 2 °C - 8 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně nemá být doba být delší než 24 hodin při 2 °C - 8 °C, pokud rekonstituce/ředění neproběhly za kontrolovaných a validovaných aseptických podmínek.
+
+6.5  Druh obalu a obsah balení
+
+Injekční lahvička z bezbarvého skla (III.hydrolytické třídy), chlorobutylová pryžová zátka, hliníkový
+kryt s bílým plastovým odtrhovacím víčkem (flip-off), krabička.
+
+Velikost balení: 1, 10, 50 lahviček po 1,0 g
+
+Na trhu nemusí být k dispozici všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Likvidace
+Žádné zvláštní požadavky na likvidaci.
+
+Zacházení s přípravkem
+Přípravek je určen pouze pro jednorázové použití. Veškerý nepoužitý přípravek zlikvidujte.
+
+Před použitím se musí vizuálně zkontrolovat obsah částic, změna zbarvení a nepoškozenost obalu.
+
+Intramuskulární injekce
+do injekční lahvičky s 1 g Vulmizolinu 1,0 se přidá 4 až 6 ml vody na injekci nebo izotonického
+roztoku chloridu sodného. Injekci je třeba aplikovat do místa s větším množstvím svalové hmoty.
+
+Intravenózní injekce
+do injekční lahvičky s 1 g Vulmizolinu 1,0 se přidá 2 ml vody pro injekci a dále se ředí do celkového
+objemu nejméně 10 ml. Aplikuje se pomalu, po dobu 2 až 3 minuty.
+
+Intravenózní infuze
+připravený injekční roztok se dále ředí s 50 až 100 ml 5% roztokem glukózy a 0,9% roztokem chloridu
+sodného. Podává se po dobu 20 - 30 minut.
+
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+BB Pharma a.s., Durychova 101/66, 142 00 Praha 4 - Lhotka, Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+15/034/85-S/C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 11.9. 1985
+Datum posledního prodloužení registrace: 29.8.2018
+
+
+10.  DATUM REVIZE TEXTU
+
+2. 1. 2019

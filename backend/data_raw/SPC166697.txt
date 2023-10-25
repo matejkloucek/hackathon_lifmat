@@ -1,0 +1,449 @@
+Sp.zn. sukls254872/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Alprostan 0,5 mg/ml koncentrát pro infuzní roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna ampule (0,2 ml) obsahuje alprostadilum 0,1 mg.
+Pomocná látka se známým účinkem: bezvodý ethanol.
+Jedna ampule (0,2 ml) obsahuje 0,158 g ethanolu (0,79 g/ml).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+
+Koncentrát pro infuzní roztok.
+Popis přípravku: čirý bezbarvý roztok bez mechanických nečistot.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+-   Ischemická choroba dolních končetin (ICHDK) ve stadiu klidových bolestí a trofických změn
+(III. a IV. stadium).
+-   Kritické dučej-dependetní vrozené srdeční vady novorozenců indikované k chirurgické rekonstrukci, u nichž je pro přežití do doby chirurgické úpravy srdeční vady nutno zachovat průchodnost ductus arteriosus.
+
+4.2  Dávkování a způsob podání
+
+Užívaná dávka se zásadně liší u obou základních indikačních skupin.
+
+ICHDK
+U dospělých k nitrožilní léčbě ischemické choroby dolních končetin se používá několikatýdenní dávkovací schéma. Doporučená dávka je 50-200 μg/den v 1 nebo 2 dílčích dávkách v nejméně dvouhodinové infuzi 200-500 ml roztoku.
+
+
+1/10
+
+Léčba se provádí po 14 dnů, při dobrém účinku se pokračuje ještě dalších 7-14 dnů. Doba 4 týdnů pro léčebnou kúru však nemá být překročena. Neobjeví-li se žádoucí účinek do dvou týdnů, v podávání přípravku se dále nepokračuje.
+Jako solvens je vhodný izotonický roztok chloridu sodného (fyziologický roztok) či 5% nebo 10% roztok glukózy. Roztok se připravuje vždy těsně před vlastní aplikací nemocnému.
+
+Udržení průchodnosti ductus arteriosus
+Novorozencům  je parenterálně alprostadil  přednostně aplikován kontinuální  nitrožilní infuzí (alternativně umbilikální arterií do ductus arteriosus). Doporučená úvodní dávka se pohybuje mezi 0,01- 0,05 μg/kg/min; je-li zaznamenána terapeutická odezva, resp. známky otevření či znovuotevření tepenné dučeje, snižuje se dávkování na nejnižší, avšak stále terapeuticky účinnou udržovací dávku (obvykle 0,01-0,02 μg/kg/min). Výjimečně, pokud úvodní dávka není dostatečná, je možné zvyšovat dávkování až na 0,1 μg/kg/min. Závažné nežádoucí účinky jsou důvodem ke snížení dávky.
+Během aplikace je nutné monitorovat vitální funkce, hemodynamické parametry a acidobazickou rovnováhu (krevní plyny).
+
+Doporučené ředění pro dávkování u novorozenců
+1 ampule přípravku Alprostan (= 0,2 ml) se naředí do 9,8 ml kompatibilního roztoku (tj. fyziologický roztok, 5% glukóza, 10% glukóza), čímž získáme koncentraci 100 μg alprostadilu v 10 ml roztoku. Pro potřebu aplikace se tento základní roztok ředí do většího objemu kompatibilního roztoku.
+
+4.3  Kontraindikace
+
+-   Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+ICHDK
+-   Těhotenství a kojení.
+-   Srdeční insuficience NYHA III a IV, hemodynamicky relevantní arytmie, nedostatečně kontrolovaná ischemická choroba srdeční, insuficience a/nebo stenóza mitrální a/nebo aortální chlopně. Historie infarktu myokardu během posledních šesti měsíců.
+-   Akutní plicní edém nebo plicní edém v anamnéze u pacientů se srdečním selháním.
+-   Těžká chronická obstrukční choroba bronchopulmonální, nebo plicní veno-okluzivní nemoc, plicní infiltrát prokázaný rentgenologicky nebo klinicky.
+-   Otok mozku a hyperhydratace.
+-   Akutní porucha funkce jater (zvýšené aminotransferázy nebo gama-glutamyltransferáza) nebo
+známá závažná porucha funkce jater (včetně takové poruchy v anamnéze).
+-   Riziko krvácivých komplikací (cévní mozková příhoda, vřed žaludku nebo dvanáctníku, proliferativní retinopatie se sklonem ke krvácení, polytrauma apod.).
+-   Cerebrovaskulární příhoda v anamnéze během posledních šesti měsíců.
+-  Závažná hypotenze.
+-   Porucha funkce ledvin (oligoanurie).
+-   Obecné kontraindikace infuzní terapie (jako je městnavé srdeční selhání, plicní nebo otok mozku
+a hyperhydratace).
+
+Udržení průchodnosti ductus arteriosus
+-   Syndrom dechové tísně.
+
+2/10
+
+-   Spontánně přetrvávající otevřený ductus arteriosus.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+ICHDK
+Alprostadil má být podáván pouze zkušeným zdravotnickým odborníkem a v zařízeních s přístupem k modernímu přístrojovému vybavení umožňující nepřetržité sledování kardiovaskulárních funkcí. Před propouštěním je nutno zajistit stabilitu oběhových funkcí.
+
+Zvýšená opatrnost je na místě:
+-   při výraznější či symptomatické hypotenzi,
+-   u nemocných se srdeční nedostatečností (zejména nutno dbát na snížení zátěže objemem nosného
+roztoku),
+-   u nemocných v hemodialyzačním léčení (načasovat léčbu alprostadilem vždy do postdialyzačního období),
+-   u pacientů s poruchou funkce ledvin (monitorování např. bilance tekutin a renálních funkčních testů),
+-   u nemocných léčených vazodilatační či antikoagulační terapií (pro možnost potenciace vazodilatačního, resp. antikoagulačního účinku),
+-   u starších diabetiků léčených inzulinem, zejména, je-li přítomno rozsáhlejší cévní postižení.
+
+V indikaci léčby ICHDK je infuzní terapie alprostadilem vždy součástí komplexní péče o pacienta. Klinický efekt je dlouhodobý a může být pozorován i s určitou latencí (tj. po ukončení léčebné kúry). Alprostadil se nesmí podávat injekčně jako bolus.
+Alprostadil se nedoporučuje používat u pediatrické populace v indikaci chronické ischemie dolních končetin.
+
+Udržení průchodnosti ductus arteriosus
+Alprostadil má být podáván pouze dobře vyškolenými zdravotníky a zařízeními s přístupem
+k pediatrické intenzivní péči.
+Opatrnosti u novorozenců je třeba zejména při bradypnoi, hypotenzi, tachykardii a febrilních stavech.
+Přibližně u 10-12 % novorozenců s vrozenými srdečními vadami léčených alprostadilem (PGE1) se může vyskytnout zástava dýchání. Apnoe je nejčastěji pozorována u novorozenců s porodní hmotností menší než 2,0 kg a obvykle se objeví během první hodiny od začátku podávání infuze. Z tohoto důvodu má být alprostadil aplikován pouze tehdy, pokud je přístroj pro podporu dýchání okamžitě k dispozici.
+Alprostadil má být podáván co nejkratší potřebnou dobu a v co nejnižší dávce, která ještě poskytuje terapeutickou odpověď. Rizika dlouhodobé infuze alprostadilu musí být zhodnocena v poměru k možným přínosům léčby, které mohou pro tyto kriticky nemocné novorozence z podání alprostadilu vyplývat.
+Patologicko-anatomické  studie  ductus  arteriosus  a  plicních  tepen  novorozenců  léčených prostaglandinem E1 odhalily histologické změny související s účinkem, který tyto struktury oslabuje. Bližší podrobnosti nebo klinický význam těchto nálezů není znám. Oslabení stěny ductus arteriosus a plicních tepen byly hlášeny především při dlouhodobém podávání.
+Kortikální proliferace dlouhých kostí byla u novorozenců hlášena po dlouhodobé infuzi alprostadilu. Proliferace u dětí ustoupila po vysazení léku.
+
+
+3/10
+
+Vzhledem k tomu, že je prostaglandin E1 silný inhibitor agregace krevních destiček, alprostadil má být používán s opatrností u novorozenců se sklonem ke krvácení.
+Alprostadil se nesmí aplikovat novorozencům se syndromem dechové tísně. Vždy má být provedena diferenciální diagnostika mezi syndromem dechové tísně a cyanotickou srdeční vadou (snížený plicní průtok). Pokud nejsou okamžitě k dispozici diagnostické možnosti, diagnóza má vycházet z přítomnosti cyanózy (pO2 menší než 40 mm Hg) a z rentgenologického průkazu omezeného plicního oběhu.
+Arteriální tlak má být monitorován katétrem v pupeční artérii, auskultačně nebo pomocí Dopplerovy
+sondy. Klesne-li významně arteriální tlak, je třeba ihned snížit rychlost infuze.
+Podávání alprostadilu novorozencům může přivodit sekundární žaludeční obstrukci následkem hyperplazie antra. Tento účinek je patrně závislý na délce léčby a kumulativní dávce léku. Novorozence, u kterých bylo doporučeno podávat alprostadil déle než 120 hodin, je třeba pečlivě sledovat, zda se u nich nevyvíjí hyperplazie antra a žaludeční obstrukce.
+U novorozenců se sníženým plicním průtokem je zvýšení okysličení nepřímo úměrné předchozím hodnotám pO2, tj. lepší odpověď je pozorována u pacientů s nízkými hodnotami pO2 (méně než 40 mm Hg), zatímco u pacientů s vysokými hodnotami pO2 (více než 40 mmHg) je odezva obvykle minimální. U novorozenců se sníženým plicním průtokem je účinnost alprostadilu měřena sledováním zvýšení okysličení krve. U novorozenců se sníženým plicním průtokem je účinnost prokázána sledováním zvýšení nárůstu krevního tlaku a pH krve.
+
+Tento léčivý přípravek obsahuje méně než 158 mg alkoholu v jedné ampuli (0,2 ml) koncentrátu pro infuzní roztok. Dávka 0,2 ml tohoto léčivého přípravku podávaná infuzí po dobu 1 hodiny dospělému s tělesnou hmotností 70 kg vede k expozici 2,26 mg/kg/h ethanolu, což může způsobit zvýšení koncentrace alkoholu v krvi přibližně o 0,38 mg/100 ml.
+Dávka 0,03 ml tohoto léčivého přípravku podávaná infuzí po dobu 1 hodiny novorozenci s tělesnou hmotností 2,5 kg vede k expozici 9,48 mg/kg/h ethanolu, což může způsobit zvýšení koncentrace alkoholu v krvi přibližně o 1,58 mg/100 ml.
+Pro porovnání, u dospělého, který vypije sklenici vína nebo 500 ml piva, je koncentrace alkoholu v krvi
+přibližně 50 mg/100 ml.
+Takto malé množství alkoholu v tomto léčivém přípravku nemá žádné znatelné účinky.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Při aplikaci alprostadilu může dojít k potenciaci účinku současně podávaných antihypertenziv
+a vazodilatancií.
+Opatrnosti je třeba při současné aplikaci antikoagulancií či antiagregancií pro možné zvýšené riziko krvácení.
+Nebyla pozorována žádná interakce mezi alprostadilem a standardní léčbou u novorozenců s vrozenými srdečními vadami. Standardní léčba zahrnuje antibiotika, jako je penicilin nebo gentamycin, vasopresorické látky jako je dopamin nebo isoproterenol, srdeční glykosidy a diuretika, jako je furosemid.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství a kojení
+Přípravek je kontraindikován v době těhotenství a kojení. Ženy ve fertilním věku mají během léčby alprostadilem používat účinnou antikoncepci.
+
+
+
+4/10
+
+Fertilita
+Z výsledků provedených preklinických studií nevyplývá, že by měl alprostadil užívaný v doporučených dávkách nějaký vliv na fertilitu.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Alprostadil může způsobit pokles systolického krevního tlaku, a tím může mít mírný vliv na schopnost řídit nebo obsluhovat stroje. Pacienty je nutno upozornit na tuto možnost a poučit je, že je třeba opatrnosti při řízení nebo obsluze strojů. Tyto systémové příznaky způsobené hypotenzí, např. závrať nebo únava, obvykle vymizí krátce po přerušení infuze vzhledem ke krátkému biologickému poločasu léčivé látky.
+
+4.8  Nežádoucí účinky
+
+V následujících tabulkách jsou shrnuty nežádoucí účinky alprostadilu rozdělené do skupin podle terminologie MedDRA s uvedením frekvence výskytu: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1 000); velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+
+ICHDK
+
+
+MedDRA třídy orgánových systémů
+Poruchy krve a lymfatického systému Poruchy nervového systému
+
+
+Srdeční poruchy
+
+
+
+
+Cévní poruchy
+Respirační, hrudní a mediastinální
+poruchy
+Gastrointestinální poruchy
+
+Poruchy jater a žlučových cest Poruchy kůže a podkožní tkáně
+Frekvence
+
+Vzácné
+
+Časté Vzácné
+
+Není známo Méně časté
+Vzácné
+
+Není známo Časté Vzácné Není známo Časté
+Není známo Vzácné Časté
+Méně časté
+
+
+Není známo
+Nežádoucí účinek
+
+Trombocytopenie, leukocytóza, leukopenie
+Bolest hlavy, závrať
+Stavy zmatenosti, křeče mozkové původu
+Cerebrovaskulární příhoda
+Snížení systolického krevního tlaku,
+tachykardie, angina pectoris
+Arytmie, biventrikulární srdeční selhání, stenokardie a srdeční insuficience
+Infarkt myokardu
+Hypotenze, ortostatickou hypotenze
+Plicní edém
+Dyspnoe
+Nevolnost, zvracení, průjem Gastrointestinální krvácení Abnormality jaterních enzymů Zčervenání, otok
+Alergická reakce (projevy kožní hypersenzitivity např. vyrážka, kloubní diskomfort, horečka, pocení, zimnice)
+Pocení
+
+5/10
+
+Poruchy svalové a kosterní soustavy
+a pojivové tkáně
+Celkové poruchy a reakce v místě
+aplikace
+
+
+
+
+
+
+
+
+
+
+Vyšetření
+Není známo
+
+Velmi časté
+
+
+Časté
+
+
+Méně časté
+
+Velmi vzácné Není známo
+
+Není známo
+Velmi časté
+Hyperostóza**
+
+Podráždění v místě instilace*, otok končetiny (v infundované
+končetině)
+Bolest, po intraarteriálním podání: pocit tepla, pocit otékání, lokalizovaný edém, parestezie
+Po i.v. podání: pocit tepla, pocit otékání, lokalizovaný edém, parestezie
+Anafylaxe/anafylaktoidní reakce Třesavka, únava, flebitida v místě
+vpichu, trombóza v místě zavedení katetru, lokalizované krvácení
+C-reaktivní protein zvýšený Zvýšená tělesná teplota
+*   Při užití v léčbě ischémie končetin bývá intravenózní léčba nejčastěji komplikována iritací žíly proximálně od místa podávání (až u 40 % nemocných). Bolestivý, zarudlý pruh v průběhu žíly nevede zpravidla k ukončení léčby, mizí během několika hodin po přerušení infuze či změně místa aplikace, specifickou léčbu nevyžaduje. Výskyt stoupá s podávanou dávkou v závislosti na koncentraci a rychlosti přívodu infuze. Užití centrálního katétru výskyt iritací snižuje, jeho zavedení však není podmínkou léčby. Zvýšení objemu infuze je limitováno především u nemocných se závažnější srdeční nedostatečností (nebezpečí akutního plicního edému či globálního srdečního selhání).
+**  Dlouhodobá léčba (4 a více týdnů) může být komplikována reverzibilní hyperostózou dlouhých kostí.
+
+Udržení průchodnosti ductus arteriosus
+Nejčastěji pozorované nežádoucí účinky u novorozenců s vrozenou srdeční vadou, které dostávají infúzi alprostadilu, jsou spojené s jeho farmakologickým účinkem.
+
+
+MedDRA třídy orgánových systémů
+Poruchy krve a lymfatického systému Poruchy metabolismu a výživy
+Psychiatrické poruchy
+Poruchy nervového systému Srdeční poruchy
+Frekvence
+
+Časté
+Není známo Časté
+Není známo Není známo Časté
+Není známo Časté
+Není známo
+Nežádoucí účinek
+
+Diseminovaná intravaskulární koagulopatie
+Trombocytopenie*, anemie* Hypokalemie Hypoglykemie*
+Zvýšená dráždivost*
+Křeče Letargie*
+Bradykardie či tachykardie
+Srdeční nedostatečnost (náhlá)*, fibrilace komor*, AV blok druhého stupně*, supraventrikulární tachykardie*
+
+
+
+
+6/10
+
+Cévní poruchy
+
+
+Respirační, hrudní a mediastinální
+poruchy
+
+Gastrointestinální poruchy
+
+
+
+Poruchy jater a žlučových cest Poruchy svalové a kosterní soustavy
+a pojivové tkáně
+Poruchy ledvin a močových cest Celkové poruchy a reakce v místě
+aplikace
+
+
+Vyšetření
+Časté
+Méně časté Není známo Velmi časté Není známo
+Časté
+Méně časté
+
+Není známo Není známo Méně časté Není známo Není známo Velmi časté Časté
+Není známo Není známo
+Hypotenze Cévní fragilita
+Šok*, krvácení*, hyperemie* Hypoventilace až apnoe
+Bradypnoe*, dyspnoe*, tachypnoe*, hyperkapnie*
+Průjem
+Žaludeční obstrukce, hypertrofie žaludeční
+sliznice Peritonitida* Hyperbilirubinemie* Exostóza
+Hyperostóza**, napínání šíje* Anurie*, poruchy ledvin*, hematurie* Horečka, přechodná pyrexie
+Podráždění v místě aplikace, kožní vazodilatace (flushing)***
+Hypotermie*, tachyfylaxe* Hyperkalemie*
+*   Přesný údaj o výskytu těchto nežádoucích účinku není znám, ale je udáván pod 1 %.
+**  Při několikatýdenní aplikaci byly ojediněle pozorovány bolestivé kostní změny (hyperostózy) postihující zejména dolní končetiny.
+***  Toto je jediný nežádoucí účinek, který souvisí se způsobem podání (častěji s intraarteriální aplikací).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Apnoe, bradykardie, horečka, hypotenze a zrudnutí z kožní vasodilatace mohou být známkami předávkování. Dojde-li k zástavě dýchání nebo bradykardii, je třeba přerušit infuzi a zahájit symptomatickou terapii. Je třeba opatrnosti, zavedeme-li infuzi znovu. Při horečce nebo hypotenzi je třeba snížit rychlost infuze až do doby, než příznaky ustoupí. Při opětovném zahájení léčby je třeba opatrnosti. Kožní vasodilatace bývá obvykle vztažena k nesprávnému umístění katétru a obvykle ustoupí, když se konec katétru přesune.
+
+
+
+7/10
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: jiná kardiaka, prostaglandiny ATC kód: C01EA01
+
+Alprostadil je syntetická obdoba v organizmu se přirozeně vyskytujícího prostaglandinu E1. Jeho účinek je komplexní, daný příznivým ovlivněním mikrocirkulace a otevřením kolaterál. V systémové a plicní cirkulaci působí vazodilataci (na úrovni arteriol a prekapilárních sfinkterů, případně i muskulárních arterií), relaxuje hladkou svalovinu corpus cavernosus a ve fetální cirkulaci udržuje otevřenou tepennou dučej. Ovlivňuje hemokoagulaci antiadhezivním a antiagregačním působením na trombocyty. Zlepšuje reologické vlastnosti krve zvýšením flexibility erytrocytů a snížením agregability trombocytů. Působí antiaterogenně inhibicí aktivace neutrofilů a nadměrné proliferace buněk cévní stěny a snížením syntézy cholesterolu včetně jeho ukládání v cévách. Uplatňuje se rovněž fibrinolytický efekt.
+
+5.2  Farmakokinetické vlastnosti
+
+Prostaglandin E1 (alprostadil) je endogenním přirozeným autakoidem s velmi krátkým poločasem, který se pohybuje kolem 10 vteřin. Metabolizován je v plicích, při prvém průchodu z 60 – 90 %. Enzymatickou oxidací vazby vznikají tři biologicky aktivní metabolity: 15-keto- PGE1, 15-keto-13,14- dihydro-PGE1 a 13,14-dihydro-PGE1 (PGE0). Oba keto-metabolity mají biologický efekt ve srovnání s původní látkou nižší, zato poslední metabolit PGE0 má účinek s PGE1 srovnatelný. Důležitá je skutečnost, že PGE0 má daleko delší dobu působení, poločas je jedna minuta (α-fáze) a 30 minut (β-fáze). Je pravděpodobné, že farmakodynamický efekt je z rozhodující části způsoben právě tímto biologicky aktivním stabilním metabolitem. Po další degradaci omega-oxidací a beta-oxidací na polární dikarboxylové kyseliny jsou konečné metabolity vyloučeny močí (88 %) a stolicí (12 %).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Intraperitoneálně    LD50 myš = 19 800 μg/kg
+LD50 potkan = 24 900 μg/kg
+i.v.           LD50 myš = 21 mg/kg
+LD50 potkan = 19 200 μg/kg
+s.c.           LD50 myš = 26 400 µg/kg LD50 potkan = 18 600 μg/kg
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Bezvodý ethanol
+
+
+8/10
+
+
+6.2  Inkompatibility
+
+Infuze alprostadilu se nepodává v kombinaci s jinými látkami. Nosným roztokem je fyziologický roztok,
+5% a 10% glukóza.
+
+6.3  Doba použitelnosti
+
+2 roky.
+Chemická a fyzikální stabilita po otevření před prvním použitím byla prokázána na dobu 24 hodin při teplotě 15 - 25 °C. Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při 2 - 8 °C, pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě 1 - 5 °C, chraňte před mrazem.
+Uchovávejte ampuli v krabičce, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a obsah balení
+
+Druh obalu: ampule z bezbarvého skla, plastová tvarovaná vložka s přepážkami, krabička. Velikost balení: 10 ampulí po 0,1 mg alprostadilu (0,2 ml).
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Pro intravenózní nebo intraarteriální infuze po naředění.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Zentiva, k. s., U Kabelovny 130, 102 37 Praha 10, Česká republika
+
+
+8.   REGISTRAČNÍ ČÍSLO
+
+83/561/96-C
+
+
+9.   DATUM REGISTRACE/DATUM PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 25. 9. 1996
+Datum posledního prodloužení registrace: 12. 2. 2014
+
+9/10
+
+
+10.  DATUM POSLEDNÍ REVIZE TEXTU
+
+11. 1. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/10

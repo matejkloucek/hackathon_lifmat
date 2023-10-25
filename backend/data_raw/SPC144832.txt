@@ -1,0 +1,331 @@
+sp.zn. sukls145062/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+MEDICINÁLNÍ OXID DUSNÝ MESSER
+Medicinální plyn, zkapalněný
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Léčivou látkou je dinitrogenii oxidum (oxid dusný) 100 % (V/V). Úplný seznam pomocných látek viz bod 6.1
+
+3.   LÉKOVÁ FORMA
+Medicinální plyn, zkapalněný
+MEDICINÁLNÍ OXID DUSNÝ MESSER je bezbarvý plyn, nasládlého zápachu.
+4.   KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+Oxid dusný je indikován
+-   Jako anestetikum, pro užití v kombinaci s jinými anestetiky podanými intravenózně nebo inhalačně.
+-   Jako analgetikum / sedativum v situacích, kdy je vyžadována analgezie/ sedace s rychlým začátkem a kompenzací.Může být užíván u pacientů všech věkových kategorií.
+4.2  Dávkování a způsob podání
+Oxid dusný je podáván zdravotnickým personálem s odpovídajícím vzděláním a znalostmi o používání tohoto medicinálního plynu. Přípravek MEDICINÁLNÍ OXID DUSNÝ MESSER, smí být podáván jen je-li okamžitě dostupné vybavení k zajištění volných dýchacích cest a zahájení resuscitace.
+
+Dávkování
+Oxid dusný vykazuje v závislosti na dávce analgetické a sedativní vlastnosti a účinek na kognitivní funkce.
+
+Analgezie/ sedace
+Při vdechování koncentrací do 50% vyvolává oxid dusný analgezii/ sedaci/ anxiolýzu, ale obvykle bez narušení vědomí a reakcí na verbální příkazy.
+Je zdokumentováno, že pro analgezii je v některých případech efektivní koncentrace 30%, obecně dostačující koncentrace je 50% (vyšší koncentrace např. 70% jsou používány při anestéziích/ při určitých sedativních aplikacích).
+Dýchání, krevní oběh, obranné reflexy jsou při těchto koncentracích obvykle bezpečně zachovány.
+
+Anestézie
+Pro anestézii jsou používány koncentrace oxidu dusného v rozmezí 35 až 75 % objemu ve směsi s kyslíkem nebo v kombinaci s jinými anestetiky, neboť oxid dusný samotný často nevyvolává
+
+
+
+1/9
+
+dostatečný anestetický efekt.
+Oxid dusný má aditivní účinek k většině dalších anestetik ( viz bod 4.5).
+Je obvykle používán v kombinaci s kyslíkem v poměru 1 díl kyslíku a 2 díly oxidu dusného za vzniku směsi 66% oxidu dusného/33% kyslíku , která je anestetickým dýchacím zařízením dodávána po celou dobu operace. Minimální alveolární koncentrace (MAC) oxidu dusného je okolo 104%. 66% oxidu dusného je ekvivalentní přibližně 63% MAC.
+Účinky oxidu dusného nejsou v převážné míře závislé na věku, ale v interakci s dalšími anestetiky se účinek podle věku liší. Ve vyšším věku vyvolávají anestetika relativně větší účinek.
+Oxid dusný nesmí být podán ve vyšší koncentraci než 70%-75%, kdy už nemůže být zaručen bezpečný podíl kyslíku. U pacientů se sníženou oxygenací je třeba podávat bezpečný podíl kyslíku.
+
+Pediatrická populace
+Doporučené dávkování pro dětskou populaci se neliší. Je nutné zvážit potenciální riziko zvýšené sedace a ohrožení obranných reflexů při použití oxidu dusného pro dětskou populaci.
+
+Způsoby podání
+Oxid dusný musí být podáván inhalačně, buď spontánní nebo řízenou ventilací. Musí být
+podáván v kombinaci s kyslíkem, pomocí speciálního zařízení provádějícího míchání oxidu dusného s medicinálním kyslíkem.. Zařízení musí být vybaveno monitorováním obsahu kyslíku a alarmem, pro případ poklesu koncentrace kyslíku pod 21 %. Oxid dusný smí být podáván jen v místech s řádnou ventilací a/nebo s odsávacím zařízením zabraňujícím vzniku nadměrné koncentrace oxidu dusného v okolním vzduchu. (viz. bod 4.4.).
+
+
+4.3  Kontraindikace
+Během inhalace oxidu dusného může dojít k expanzi plynových bublin (plynová embolie) a uzavřených prostorů naplněných plynem vzhledem k vyššímu difuznímu koeficientu oxidu dusného.
+Oxid dusný je proto kontraindikován:
+-   U pacientů s prokázaným nebo suspektním pneumotoraxem, plynovou embolií, nebo v dalších případech, kdy jsou tělní dutiny naplněny plynem např.:
+-  bezprostředně po potápění ( riziko dekompresní nemoci)
+-  po kardiopulmonárním by-passu při použití mimotělním oběhu
+-  při vážném poranění hlavy
+-  u pacientů s nitrooční injekcí plynu (např. SF6, C3F8) , dokud se zmíněný plyn kompletně neabsorbuje, vzhledem k riziku další expanze plynové bubliny, která může vést k oslepnutí
+-  během nebo následně po pneumoencefalografii
+-  u pacientů s ileem
+-   U pacientů se srdeční nedostatečností nebo závažnou srdeční dysfunkcí (např. po operaci srdce), kdy drobný kardiodepresivní účinek oxidu dusného může zapříčinit zhoršení srdečního výkonu.
+-   U pacientů se známkami zmatenosti, změn kognitivních funkcí nebo dalšími příznaky zvýšeného intrakraniálního tlaku, protože oxid dusný může způsobit další zvýšení intrakraniálního tlaku.
+-   Při analgezii u pacientů se sníženým vědomím a/nebo schopností spolupracovat z důvodu
+
+
+2/9
+
+rizika ztráty obranných reflexů.
+
+
+4.4  Zvláštní upozornění a opatření pro použití Zvláštní upozornění
+V pracovním prostředí by měla být udržována co možná nejnižší koncentrace oxidu dusného odpovídající místním předpisům.
+V současné době není možné jednoznačně určit negativní účinky nízkých koncentrací oxidu dusného na zdravotní stav. Riziko poškození plodnosti, které bylo hlášeno při chronické expozici nízkým  koncentracím  oxidu  dusného  ve  špatně  větraných  prostorách  u  lékařského  a zdravotnického personálu nelze úplně vyloučit.
+Operační místnosti, kde je často používán oxid dusný musí mít ventilaci nebo systém pro odtah přebytečného plynu, který umožní udržení koncentrací oxidu dusného v okolním prostředí pod limity národních směrnic.
+
+Přípravek MEDICINÁLNÍ OXID DUSNÝ MESSER smí být podáván pouze tam, kde je možné ho kombinovat s kyslíkem a v přítomnosti personálu se znalostí poskytnutí první pomoci.
+
+Zvláštní opatření pro použití
+Experimentálně bylo prokázáno, že oxid dusný má slabě depresivní účinky na kontrakce srdečního svalstva, což je kompenzováno slabým nárůstem sympatické stimulace srdce, takže není zaznamenán vliv na oběhové funkce. Přesto musí být oxid dusný podáván pacientům
+se srdečním selháváním nebo závažnými srdečními dysfunkcemi opatrně.
+Opakované podávání oxidu dusného nebo expozice této látce mohou vést k závislosti. U pacientů se zneužíváním návykových látek v anamnéze nebo u odborníků ve zdravotnictví, kteří jsou vystaveni působení oxidu dusného v zaměstnání, je třeba postupovat s opatrností.
+
+Oxid dusný způsobuje inaktivaci vitaminu B12, což je kofaktor methionin syntázy. Následně je narušen metabolismus folátů a po dlouhodobém podávání oxidu dusného je rovněž narušena syntéza DNA. Dlouhodobé nebo časté užívání oxidu dusného může vést k megaloblastickým změnám dřeně, myeloneuropatii a subakutní kombinované degeneraci míchy. Oxid dusný nemá být používán bez důkladného klinického a hematologického sledování. V takových případech má být vyžádána odborná konzultace hematologa.
+
+Hematologické hodnocení má zahrnovat hodnocení megaloblastické změny v červených krvinkách a hypersegmentace neutrofilů. Neurologická toxicita se může vyskytnout bez anémie nebo makrocytózy a s hladinami vitaminu B12 v normálním rozmezí. U pacientů s nediagnostikovaným subklinickým deficitem vitaminu B12 došlo k výskytu neurologické toxicity po jednorázové expozici oxidu dusnému během anestezie.
+Oxid dusný inhibuje metabolizmus vitaminu B12 a kyseliny listové, proto musí být používán opatrně u pacientů s podezřením na jejich nedostatek, tj. jejich snížený příjem a/ nebo absorpci nebo genetickou perturbaci systému, a u imunokompromitovaných pacientů.
+Oxid dusný nemá být používán dlouhodobě, například jako sedativum na jednotkách intenzivní péče. Možnost nahrazení nebo substituční terapie vitaminem B12 / kyselinou listovou má být zvážena u dlouhodobého používání překračujícího 6 hodin.
+
+
+3/9
+
+Oxid dusný může ve vysokých koncentracích (> 50 %) vést ke ztrátě laryngeálních reflexů a ke snížení úrovně vědomí. V koncentracích vyšších než 60 – 70 % často způsobuje bezvědomí a riziko poškození laryngeálních reflexů se zvyšuje. Podávání přípravku MEDICINÁLNÍ OXID DUSNÝ MESSER může zvýšit tlak v katetrizačních balóncích, např. při tracheální intubaci. Oxid dusný nesmí být být používán v průběhu laserové chirurgie v dýchacích cestách z důvodů rizika explozivního požáru.
+Po celkové anestézii skládající se z vysoko procentního oxidu dusného je riziko hypoxémie (difusní hypoxémie) všeobecně známým klinickým problémem nezávislým nejen na složení alveolárních plynů, ale také na reakci pacienta na hypoxii, hyperkapnii a hypoventilaci. Po celkové anestézii je doporučeno dodávat kyslík a monitorovat saturaci kyslíkem pulsní oxymetrií, dokud pacient nejeví adekvátní známky zotavení.
+Oxid dusný způsobuje zvýšení tlaku ve středouší. Oxid dusný difunduje do vzduchem vyplněných prostorů a může tak zvyšovat objem/tlak v těchto prostorech, např. plyn ve středním uchu.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce Kombinace s anestetiky, sedativy a analgetiky
+Oxid dusný při současném podání s dalšími inhalačními anestetiky zvyšuje jejich účinek. Ovlivňuje také účinek intravenózních anestetik.
+Tyto interakce mají v klinické praxi jasný efekt, pokles potřebné dávky pro další agens kombinované s oxidem dusným, vznik nižší kardiovaskulární a respirační deprese a zvýšení rychlosti procitnutí.
+
+Kombinace s methotrexatem
+Pokud je oxid dusný podáván s methotrexatem, má synergický účinek na metabolismus kyseliny listové. Z pokusů na zvířatech vyplývá, že chemoterapeutické účinky methotrexatu se zvyšují stejně jako jeho toxicita. Přesto je v klinické praxi zaznamenáno u lidí jen velmi málo takových případů.
+
+4.6  Těhotenství, kojení a plodnost Plodnost
+Potenciální vlivy klinického dávkování oxidu dusného na plodnost nejsou známy, data nejsou k dispozici. Potenciální riziko spojené s dlouhodobou expozicí na pracovišti nemůže být
+vyloučeno (viz bod č.4.4).
+
+Těhotenství
+Oxid dusný může narušit metabolizmus kyseliny listové (viz bod 4.4).
+Studie na zvířatech prokázaly teratogenní efekt, pokud byl oxid dusný podáván v průběhu počátečního stádia těhotenství ve vysokých koncentracích nebo dlouhodobě (viz bod 5.3).
+Teratogenní efekt nebyl nikdy pozorován na lidech. Epidemiologické údaje jsou k vyhodnocení potenciálních škodlivých vlivů na embryo-fetální vývoj nedostatečné. Proto se nedoporučuje používání přípravku MEDICINÁLNÍ OXID DUSNÝ MESSER v průběhu prvních dvou trimestrů těhotenství. Může být bezpečně používán v průběhu porodu.
+
+Kojení
+Přípravek MEDICINÁLNÍ OXID DUSNÝ MESSER, může být použit u kojících žen.
+
+
+
+4/9
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Oxid dusný ovlivňuje kognitivní a psychomotorické funkce.
+Oxid dusný je po inhalaci rychle vyloučen z těla a nepříznivé psychometrické účinky jsou jen zřídka prokázány 20 minut po ukončení expozice.
+Pokud je oxid dusný používán jako jediné analgetické nebo sedativní agens nedoporučuje se řízení a obsluha strojů nejméně 30 minut po ukončení jeho podávání a pokud není uznán lékařem za způsobilého.
+
+4.8  Nežádoucí účinky
+
+Použití oxidu dusného jako jediného agens:
+Časté (>1/100, <1/10):
+Obecné poruchy: závrať, pocit opilosti
+Gastrointestinální poruchy: nevolnost a zvracení
+Méně časté (>1/1000, <1/100):
+Poruchy ucha a labyrintu: pocit tlaku ve středním uchu Gastrointestinální poruchy: nadýmání, plynatost
+Není známo:
+Závislost, myeloneuropatie, neuropatie, subakutní degenerace míchy, generalizované záchvaty.
+
+Použití oxidu dusného jako součásti celkové anestézie:
+Časté (>1/100, <1/10):
+Gastrointestinální poruchy: nevolnost a zvracení
+Méně časté (>1/1000, <1/100):
+Poruchy ucha a labyrintu: pocit tlaku ve středním uchu Gastrointestinální poruchy: nadýmání, plynatost Velmi vzácné (<1/10,000):
+Poruchy způsobené nedostatkem vitamínu B12, nebo narušení syntézy methioninu. Poruchy krve a lymfatického systému: megaloblastická anémie, leukopénie
+Poruchy nervového systému: polyneuropatie a myelopatie Psychické problémy: psychóza
+Není známo:
+Závislost, myeloneuropatie, neuropatie, subakutní degenerace míchy, generalizované záchvaty.
+
+Při podezření nebo při prokázání nedostatku vitamínu B12, nebo v případě příznaků poruchy syntézy methioninu, má být zahájena substituční terapie vitaminu B.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické
+pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48, 100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+
+
+5/9
+
+4.9  Předávkování
+Oxid dusný musí být vždy podáván v kombinaci s dostatečným množstvím kyslíku z důvodu zajištění dostatečného zásobování organismu kyslíkem. Přístroje musí dodávat koncentrace kyslíku vyšší než 21%.
+Přebytek inhalovaného oxidu dusného způsobí hypoxémii a bezvědomí.
+V případě náhodného předávkování (tj. koncentrace ohrožující adekvátní přísun kyslíku), se může rozvíjet hypoxie a ischémie. V tomto případě má být koncentrace oxidu dusného snížena nebo podávání přerušeno. Frakce kyslíku má být zvýšena a podávána, dokud pacient plně nesplňuje kritéria adekvátní oxygenace.
+Oxid dusný nesmí být podáván déle než několik hodin bez přestávky nebo opakovaně bez monitoringu hematologických účinků.
+Oxid dusný má slabě depresivní účinky na kontrakce srdečního svalstva. U pacientů se srdečním onemocněním může i při velmi lehkém poklesu srdeční činnosti ovlivnit funkci srdce.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Jiná celková anestetika ATC skupina: N01AX13
+Přesný farmakologický mechanizmus zprostředkování analgezie oxidem dusným nebyl dosud plně objasněn, ale je známo, že má řadu modulačních účinků na neurotransmiterové systémy CNS včetně endogenních opioidních a noradrenergních přenosů v míše.
+Oxid dusný má také vliv na GABA-receptorové systémy.
+
+Intenzita analgetického účinku závisí na psychickém stavu pacienta. Účinek na vnímání bolesti a kognitivní funkce je závislý na dávce oxidu dusného.
+Při inhalaci koncentrací do 50-60% vykazuje rostoucí analgetické a kognitivní účinky. To vede k analgezii a sedaci: pacient je relaxovaný v útlumu vědomí.
+Při 50% nemá oxid dusný výrazné anestetické účinky.
+Koncentrace mezi 60-70 objem. % způsobují lehkou anestézii charakterizovanou ztrátou vědomí, ztrátou reakce na verbální příkazy. A lehkou dotykovou stimulaci.
+Pokud je oxid dusný kombinován s dalšími anestetiky nebo analgetiky, vykazuje zvýšenou anestézii.
+
+5.2  Farmakokinetické vlastnosti
+
+Oxid dusný je podáván inhalačně a jeho absorpce je závislá na tlakovém gradientu mezi inhalovaným vzduchem a krví protékající ventilovanými alveoly.
+Distribuce v tělesných tkáních je závislá na jeho rozpustnosti, která je určena distribučním koeficientem pro jednotlivé tkáně. Jeho nízká rozpustnost v krvi stejně tak jako i v dalších kompartmentech vede k rychlému vyrovnání mezi vdechovanou a konečnou vydechovanou koncentrací plynu. Absorbce oxidu dusného je rychlá. Do rovnováhy je oxid dusný uveden rychleji než jiná inhalační anestetika. Oxid dusný není metabolizován, ale následně alveoly vyloučen a vydýchán. Eliminace je výhradně závislá na alveolární exkreci a ventilaci. Čas nutný k eliminaci oxidu dusného po přerušení podávání je podobný času saturace plynem. Kvůli nízké rozpustnosti
+
+
+6/9
+
+v krvi stejně jako v jiných tkáních je jak absorpce tak eliminace rychlá, relativně rychlejší než u dalších inhalačních anestetických agens.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Předklinické údaje týkající se bezpečnosti oxidu dusného jsou založeny na publikovaných farmakologických  studiích  bezpečnosti,  toxicity po  opakovaném  podávání,  genotoxicity, hodnocení kancerogenního potenciálu a reprodukční toxicity.
+Dlouhodobá kontinuální expozice 15 – 50% oxidu dusného může z důvodu poruchy metabolismu kyseliny listové vyvolat u lidí embryopatii, neuropatii, hematologické poruchy a imunomodulaci. Teratogenní efekt oxidu dusného byl prokázán ve studiích na potkanech, kdy byl oxid dusný podáván v průběhu počátečního stádia těhotenství ve vysokých koncentracích (>500 ppm) nebo dlouhodobě.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Žádné
+
+6.2  Inkompatibility
+Přípravek MEDICINÁLNÍ OXID DUSNÝ MESSER, může být podáván v kombinaci se vzduchem, medicinálním kyslíkem a halogenovými inhalačními agens.
+
+6.3  Doba použitelnosti
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+Pro dlouhodobé skladování je doporučená teplota od – 20 °C do +40 °C. Lahve na stlačené plyny mohou být krátkodobě vystaveny teplotám až do +60°C. Ventily lahve jsou opatřeny průtržnou membránou, která se protrhne při vysokém tlaku (nárůst tlaku je způsoben nárůstem teploty). Při
+protržení pojistky dojde k okamžitému úniku plynu z lahve do okolního prostoru a může dojít k nárůstu koncentrace plynu v uzavřené prostoru nebo k vytlačení kyslíku (hrozí udušení).
+Lahve na stlačené plyny musí být uchovávány na dobře větraných místech určených pro uchovávání medicinálních plynů.
+Lahve na stlačené plyny musí být skladovány pod zastřešením, chráněny proti vlivům počasí a větru, drženy v suchu a čistotě, prosty hořlavých materiálů.
+Mají být přijata opatření k zabránění otřesů a pádu.
+Lahve na stlačené plyny obsahující různé druhy plynů musí být uchovávány odděleně. Plné a prázdné lahve na stlačené plyny musí být uchovávány odděleně.
+Transport lahví na stlačené plyny
+Větší lahve na stlačené plyny musí být transportovány vhodným typem vozidla. Zvláštní pozornost musí být věnována k zabezpečení toho, aby se připojená zařízení náhodně neuvolnila.
+
+6.5  Druh obalu a velikost balení
+Obaly a ventily (včetně materiálu):
+
+
+
+7/9
+
+Vodní objem tlakové lahve / svazku v [l]
+10
+
+
+50
+
+
+svazek 12 x 50 l
+(600 l)
+Hmotnost náplně v [kg]
+
+7,5
+
+
+37,5
+
+
+450
+Materiál tlakové lahve / svazku
+
+ocel
+
+
+ocel
+
+
+láhev - ocel, propojení lahví - ocel
+Typ a materiál ventilu
+
+
+uzavírací ventil se zpětnou klapkou z chromované mosazi
+uzavírací ventil se zpětnou klapkou z chromované mosazi
+uzavírací ventil se zpětnou klapkou z chromované mosazi
+
+Poznámky:
+• výstupní šroubení uzavíracího ventilu se zpětnou klapkou má závit o rozměru G 3/8´´
+• 1 kg N2O zaujímá objem 0,540 m³ při teplotě 15 °C a tlaku 1 bar
+
+Barevné značení
+
+Horní zaoblená část lahve     modrá          číslo odstínu RAL: 5010
+„N“ (dvě proti sobě)  bílá
+Válcová část lahve         bílá           číslo odstínu RAL: 9010
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a zacházení s ním Obecné
+Nikdy nepoužívejte olej nebo maziva, jestliže ventil tlakové lahve není možné otevřít nebo pokud je obtížné napojit odběrové zařízení. Dotýkejte se ventilů a zařízení patřících k nim čistýma a nemastnýma rukama (např. krém na ruce).
+Před prvním použitím zkontrolujte, že výstup lahvového ventilu je opatřen krytkou.
+Příprava k použití
+Před použitím odstraňte z výstupu lahvového ventilu plastovou krytku. Používejte pouze odběrová zařízení určená pro medicinální oxid dusný.
+Zkontrolujte, že připojení k odběrovému zařízení je čisté a v dobrém stavu.
+Nikdy  nepoužívejte  kleště  při  připojování  regulátorů  tlaku/průtoku,  které  jsou  určeny k manuálnímu spojení. Může dojít k poškození.
+Nikdy neotvírejte ventil násilím.
+Zkontrolujte těsnost podle instrukcí patřících k regulátoru. Nepokoušejte se napravit únik z ventilu nebo zařízení jakýmkoliv jiným způsobem než výměnou těsnění nebo O kroužku.
+V případě úniku, zavřete ventil a odpojte regulátor. Označte defektní tlakové láhve, dejte je stranou, a vraťte je do spol. Messer Technogas .
+
+
+8/9
+
+Použití tlakové lahve s plynem
+V místech, kde je používána terapie oxidem dusným je zakázáno kouření a používání nechráněného ohně.
+Medicinální plyny smí být použity jen pro medicinální účely.
+Během použití musí být tlaková láhev zajištěna proti pádu např. řetízkem.
+Ventil tlakové lahve by měl být uzavřen při zbytkovém tlaku v lahvi cca 2 bary plynu. Je důležité ponechat v lahvi zbytkový tlak, aby bylo zabráněno kontaminaci.
+Po ukončení odběru by měl být ventil uzavřen normální silou a odtlakován regulátor nebo přípojka.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Messer Technogas s.r.o.
+Zeleny pruh 99
+140 02 Praha 4 Česká republika
+Tel: +420/2/41008 100
+Fax: +420/2/41008 140
+IČ: 40764788
+
+8.  REGISTRAČNÍ ČÍSLO
+89/691/08-C
+
+9.  DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+9.4.2014
+
+10.  DATUM REVIZE TEXTU
+15. 7. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

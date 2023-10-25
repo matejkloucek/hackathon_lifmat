@@ -1,0 +1,361 @@
+sp. zn. sukls310773/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1. NÁZEV PŘÍPRAVKU
+
+Nitrendipin ratiopharm 20 mg tablety
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tableta obsahuje nitrendipinum 20 mg.
+Pomocné látky se známým účinkem: monohydrát laktózy. Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Tableta.
+Popis přípravku: kulaté žluté bikonvexní tablety se zkosenými hranami a půlicí rýhou na jedné straně, průměr tablety 8 mm.
+Tabletu lze rozdělit na stejné dávky.
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Léčba esenciální hypertenze.
+Přípravek je určen pro léčbu dospělých pacientů.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+Dávkování je individuální podle závažnosti onemocnění. Obvykle se užívá 20 mg nitrendipinu 1 krát
+denně (ráno).
+Pokud nedojde k dostatečnému poklesu krevního tlaku, může být dávka postupně zvýšena až na 20 mg nitrendipinu 2krát denně.
+Maximální denní dávka je 40 mg nitrendipinu.
+
+Způsob podání
+Tablety se polykají nerozkousané s trochou tekutiny po jídle. Během léčby se nesmí pít grapefruitová šťáva, protože to může mít za následek zesílení účinku nitrendipinu (viz bod 4.5).
+O délce léčby rozhoduje ošetřující lékař podle závažnosti a průběhu onemocnění.
+
+Zvláštní skupiny pacientů
+
+Pacienti s poruchou funkce jater
+U pacientů se závažným poškozením funkce jater by měla být léčba zahájena dávkou 10 mg nitrendipinu 1krát denně a pacient by měl být pečlivě sledován v průběhu léčby (viz bod 5.2).
+Pediatrická populace
+Bezpečnost a účinnost nitrendipinu u dětí a dospívajících mladších 18 let nebyla stanovena.
+
+4.3 Kontraindikace
+Hypersenzitivita na nitrendipin nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+Podání přípravku Nitrendipin ratiopharm je kontraindikováno:
+- u pacientů s nestabilní anginou pectoris a během prvních 4 týdnů po akutním infarktu
+myokardu,
+- během těhotenství a kojení (viz bod 4.6).
+
+Ze zkušenosti se strukturně podobným blokátorem vápníkových kanálů nifedipinem se předpokládá, že rifampicin pomocí enzymatické indukce urychluje metabolismus nitrendipinu, a tak nemusí být dosaženo účinných plazmatických hladin nitrendipinu. Proto je současné užívání rifampicinu kontraindikováno (viz bod 4.5).
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Dekompenzované srdeční selhání
+Pacienty s dekompenzovaným srdečním selháním je třeba léčit s opatrností.
+
+Jaterní poruchy
+U pacientů s těžkými poruchami jaterních funkcí mohou být účinky nitrendipinu zesíleny a prodlouženy. V těchto případech musí být pacient během léčby pečlivě monitorován pomocí častých kontrol krevního tlaku (viz bod 4.2, 5.1).
+
+Angina pectoris
+Stejně jako u jiných vasokonstrikčních látek se ve velmi vzácných případech může při užívání tablet nitrendipinu s okamžitým uvolňováním vyskytnout angina pectoris (údaje ze spontánních hlášení), a to především na počátku léčby. Výsledky klinických studií potvrdily, že výskyt anginy pectoris je méně častý (viz bod 4.8).
+Systém CYP 3A4
+Nitrendipin je metabolizován pomocí systému CYP 3A4. Proto léčivé přípravky, o nichž je známo, že inhibují nebo indukují tento enzymatický systém, mohou ovlivnit první průchod (first-pass) nebo clearence nitrendipinu (viz bod 4.5).
+Léčivými přípravky, které inhibují systém CYP 3A4, a proto mohou mít za následek zvýšení plazmatické koncentrace nitrendipinu, jsou například:
+- makrolidová antibiotika (např. erythromycin),
+- inhibitory HIV proteázy (např. ritonavir),
+- azolová antimykotika (např. ketokonazol),
+- antidepresiva nefazodon a fluoxetin,
+- chinupristin/dalfopristin,
+- kyselina valproová,
+- cimetidin a ranitidin.
+Při současném podávání s těmito látkami se musí kontrolovat krevní tlak, a pokud je třeba, zvážit snížení dávky nitrendipinu (viz bod 4.5).
+Přípravek obsahuje 106,7 mg laktózy v jedné tabletě. Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají přípravek užívat.
+
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je
+v podstatě „bez sodíku“.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce Léčivé látky, které ovlivňují účinky nitrendipinu
+
+Nitrendipin je metabolizován pomocí systému CYP 3A4, který je lokalizovaný ve střevní mukóze a v játrech. Léčivé látky, o kterých je známo, že buď inhibují, nebo indukují tento enzymatický systém, mohou pozměnit první průchod (first-pass efekt) nebo clearance nitrendipinu.
+Při současném podávání nitrendipinu s léčivými přípravky, které obsahují níže uvedené léčivé látky, je třeba vzít v úvahu jak rozsah, tak i délku interakce:
+Rifampicin
+Ze zkušenosti se strukturně podobným blokátorem vápníkových kanálů nifedipinem se předpokládá, že rifampicin pomocí enzymatické indukce urychluje metabolismus nitrendipinu, a tak může při současném podávání s rifampicinem dojít ke snížení účinnosti nitrendipinu. Proto je současné užívání rifampicinu kontraindikováno (viz bod 4.3).
+Po současném podání s níže uvedenými inhibitory systému CYP 3A4 musí být sledován krevní tlak a v případě potřeby musí být zváženo i snížení dávky nitrendipinu (viz bod 4.2).
+Makrolidová antibiotika (např. erythromycin)
+Nebyly prováděny žádné interakční studie, které by hodnotily interakce mezi nitrendipinem a makrolidovými antibiotiky. O léčivých přípravcích, obsahujících látky z této skupiny, je známo, že inhibují CYP 3A4, který se podílí na metabolizmu dalších léků. Proto nelze vyloučit potenciální účinek na zvýšení plazmatické koncentrace nitrendipinu při současném podávání nitrendipinu s makrolidovými antibiotiky (viz bod 4.4).
+Ačkoli je azithromycin svou strukturou skupině makrolidových antibiotik podobný, na CYP 3A4 inhibičně nepůsobí.
+
+Inhibitory HIV proteázy (např. ritonavir)
+Nebyly prováděny žádné podrobnější studie, které by hodnotily možné interakce mezi nitrendipinem a běžnými inhibitory HIV proteázy. Léky tohoto typu byly popsány jako účinné inhibitory systému CYP 3A4. Proto nelze vyloučit možnost zvýšení plazmatických koncentrací nitrendipinu při současném podávání těchto inhibitorů proteázy (viz bod 4.4).
+Azolová antimykotika (např. ketokonazol)
+Podrobné interakční studie, které by hodnotily potenciální interakce mezi nitrendipinem a běžnými azolovými antimykotiky, nebyly prováděny. O lécích tohoto druhu je známo, že inhibují systém CYP 3A4 a byly popsány různé interakce s jinými dihydropyridinovými blokátory vápníkových kanálů. Při současném perorálním podávání nitrendipinu není tudíž možno vyloučit podstatné zvýšení systémové biologické dostupnosti nitrendipinu v důsledku snížení metabolizmu prvního průchodu (viz bod 4.4).
+Nefazodon
+Nebyly provedeny žádné formální studie, které by zhodnotily potenciální interakce nitrendipinu s nefazodonem. Toto antidepresivum je silným inhibitorem CYP 3A4. Proto nemůže být vyloučen potenciální vzestup plazmatických koncentrací nitrendipinu v souvislosti se současným podáváním s nefazodonem (viz bod 4.4).
+
+Fluoxetin
+Je známo, že současné podání strukturně podobného dihydropyridinového blokátoru vápníkových kanálů nimodipinu s antidepresivem fluoxetinem vede k o 50 % vyšší plazmatické koncentraci nimodipinu. Expozice fluoxetinu byla výrazně snížena, jeho hlavní metabolit norfluoxetin však ovlivněn nebyl. Proto není možné vyloučit potenciálně klinicky relevantní zvýšení plasmatické hladiny nitrendipinu při současném užívání s fluoxetinem (viz bod 4.4).
+Quinupristin/dalfopristin
+Na základě zkušenosti se strukturně podobným blokátorem vápníkových kanálů nifedipinem může současné podávání quinupristinu/dalfopristinu vést ke zvýšení plazmatických koncentrací nitrendipinu (viz bod 4.4)
+Kyselina valproová
+
+Nebyly provedeny žádné formální studie, které by hodnotily potenciální interakce mezi nitrendipinem a kyselinou valproovou. Protože podávání kyseliny valproové vedlo v důsledku enzymové inhibice ke zvyšování plazmatických koncentrací strukturálně podobného blokátoru vápníkových kanálů nimodipinu, nelze vyloučit zvýšení plazmatických koncentrací nitrendipinu, a z toho vyplývající zvýšení jeho účinku (viz bod 4.4).
+
+Cimetidin, ranitidin
+Cimetidin a v menší míře i ranitidin mohou způsobit zvýšení plazmatických hladin nitrendipinu, a tím zesílit účinky nitrendipinu (viz bod 4.4).
+Další studie
+
+Antiepileptika indukující systém CYP 3A4, např. fenytoin, fenobarbital, karbamazepin Formální interakční studie, které by hodnotily potenciální interakce mezi nitrendipinem a těmito antikonvulzivy, nebyly provedeny. Fenytoin, fenobarbital a karbamazepin jsou však známými potenciálními induktory systému CYP 3A4. Současné podávání těchto antikonvulziv a nitrendipinu
+může vést ke klinicky významnému snížení biologické dostupnosti nitrendipinu a následně i ke snížení jeho účinnosti. Jestliže se dávka nitrendipinu zvýší během současného podávání s fenytoinem, fenobarbitalem nebo karbamazepinem, mělo by se zvážit její snížení po přerušení užívání antikonvulziv.
+Vliv nitrendipinu na jiné léčivé přípravky
+
+Antihypertenziva
+Nitrendipin může zesílit účinky na snížení krevního tlaku současně podávaných antihypertenziv:
+-diuretik,
+-beta-blokátorů,
+-ACE inhibitorů,
+-antagonistů receptorů angiotensinu typu 1 (AT1),
+-dalších blokátorů vápníkových kanálů,
+-alfa-adrenergních blokátorů,
+-inhibitorů PDE-5,
+-alfa-methyldopy.
+
+Digoxin
+Při současném užívání digoxinu je nutno počítat se zvýšenými plazmatickými hladinami digoxinu. Je třeba kontrolovat, zda se u pacientů neprojevují příznaky předávkování digoxinem, v případě nutnosti stanovením plasmatických hladin digoxinu a může být třeba snížit dávky glykosidů.
+Myorelaxancia
+Trvání a intenzita účinku myorelaxancií, jako je pankuronium, může být při léčbě nitrendipinem zvýšena.
+Interakce s jídlem a pitím
+
+Grapefruitová šťáva
+Grapefruitová šťáva inhibuje systém CYP 3A4. Proto současné podání dihydropyridinového blokátoru vápníkových kanálů současně s grapefruitovou šťávou vede, následkem snížení metabolizmu prvního průchodu nebo clearence, ke zvýšení plazmatických koncentrací.
+Následkem toho může dojít k zesílení antihypertenzního účinku. Na základě zkušenosti se strukturně podobným blokátorem vápníkových kanálů nisoldipinem může tento účinek trvat alespoň 3 dny od posledního požití grapefruitové šťávy.
+Proto je třeba se v průběhu léčby nitrendipinem vyvarovat požívání grapefruitů/grapefruitové šťávy
+(viz bod 4.2).
+
+4.6 Fertilita, těhotenství a kojení
+
+Fertilita
+V jednotlivých případech byly při in-vitro oplodnění v souvislosti s užíváním kalciových antagonistů zaznamenány reverzibilní biochemické změny hlaviček spermií, tyto změny mohou vést ke snížení funkčnosti spermií. V případě mužů, u kterých se opakovaně nepodařilo oplodnění in-vitro a není možné najít jiné vysvětlení, je třeba zvážit kalciové antagonisty jako potenciální příčinu.
+Plodnost může být ovlivněna, proto pokud je těhotenství plánováno, je vhodné zvážit alternativní léčbu.
+Těhotenství
+Nejsou k dispozici žádné údaje nebo pouze omezená množství dat ohledně podávání nitrendipinu těhotným ženám. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3).
+Ve studiích prováděných na zvířatech vedly dávky nitrendipinu, které byly zřetelně toxické pro matku, k malformacím u mláďat (viz bod 5.3).
+Nitrendipin je v průběhu těhotenství kontraindikován (viz bod 4.3).
+
+Kojení
+Nitrendipin je vylučován do mateřského mléka.
+Vliv nitrendipinu na novorozence/kojence není znám.
+Nitrendipin je v průběhu kojení kontraindikován (viz bod 4.3).
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Reakce na léčivý přípravek, které jsou, co se týče intenzity, ryze individuální, mohou narušit schopnost řídit nebo obsluhovat stroje. To platí zejména na začátku léčby, při zvýšení dávky a v kombinaci s alkoholem.
+4.8 Nežádoucí účinky
+
+Shrnutí bezpečnostního profilu
+Informace o bezpečnosti z klinických studií a postmarketingového sledování nebo z jiného zdroje jsou analyzovány a zohledněny v rámci ADR sekce nitrendipinu. Frekvence výskytu jsou počítány z analýz klinické studie nebo odhadnuty z postmarketingového sledování.
+
+Mezi nejčastější nežádoucí účinky (ADRs), (četnost časté (≥ 1/100 až <1/10)) patří bolest hlavy, palpitace, vasodilatace, edém, flatulence, pocit nevolnosti a stavy úzkosti. Z celkové zkušenosti vyplývá, že žádný z těchto nežádoucích účinků není považován za závažný. Kromě pocitu nevolnosti a stavů úzkosti jsou nežádoucí účinky způsobeny mechanismem účinku nitrendipinu.
+
+Mezi nejvážnější nežádoucí účinky (četnost méně časté (≥ 1/1 000 až <1/100)) patří hypotenze, angina pectoris (bolest na hrudi) a alergická reakce zahrnující angioedém. Tyto nežádoucí účinky mohou, v závislosti na svém průběhu, vyžadovat okamžitý lékařský zásah.
+Nežádoucí účinky uvedené jako časté byly pozorovány s četností pod 3 % kromě edému (6,2 %),
+bolesti hlavy (4,7 %) a vasodilatace (3,0 %).
+
+Nežádoucí účinky (ADRs) založené na placebem kontrolovaných studiích s nitrendipinem roztříděných dle CIOMS III kategorií četnosti (údaje z klinických studií: nitrendipin n=824, placebo n=563) jsou uvedeny níže.
+Byly hlášeny spontánní případy hyperplazie dásní. V důsledku byla frekvence <1/400 odhadnuta dle
+pravidla 3/X.
+
+Četnost nežádoucích účinků, hlášených při užívání nitrendipinu, je uvedena v tabulce níže. V každé skupině četnosti jsou nežádoucí účinky uvedeny podle klesající závažnosti. Četnost je definována jako:
+Velmi časté ≥1/10. Časté ≥1/100 až <1/10.
+Méně časté ≥1/1000 až <1/100. Vzácné ≥1/10000 až <1/1000. Velmi vzácné <1/10000.
+Není známo (z dostupných údajů nelze určit)
+
+Třídy orgánových systémů (MedDRA) Poruchy imunitního systému
+
+
+Psychiatrické poruchy
+Poruchy nervového systému
+
+
+
+
+
+
+Poruchy oka
+
+Poruchy ucha a labyrintu Srdeční poruchy
+
+
+Cévní poruchy
+
+
+Respirační, hrudní a mediastinální poruchy
+Gastrointestinální
+poruchy
+
+
+
+
+
+
+
+
+
+Poruchy jater a žlučových cest Poruchy svalové a kosterní soustavy a pojivové tkáně
+Časté
+
+
+
+
+
+Stavy úzkosti
+
+Bolest hlavy
+
+
+
+
+
+
+
+
+
+
+
+Palpitace
+
+
+Edém Periferní edém Vasodilatace
+
+
+
+Flatulence
+Méně časté
+
+Alergická reakce zahrnující kožní reakce a alergický edém/angioedém Poruchy spánku,
+
+Vertigo Migréna Závrať Somnolence Hypestézie Parestézie Třes Nervozita
+Poruchy vidění Rozmazané vidění Tinitus
+
+Angina pectoris Bolest na hrudi Tachykardie Hypotenze
+
+
+Dyspnoe
+Krvácení z nosu
+
+Gastrointestinální bolesti a bolest břicha
+Průjem Nauzea Zvracení Sucho v ústech Dyspepsie Zácpa
+Gastroenteritida Hyperplazie dásní Přechodné zvýšení jaterních enzymů Myalgie
+Velmi vzácné
+
+Poruchy ledvin a močových cest Poruchy krve a lymfatického systému
+Celkové poruchy a reakce v místě aplikace
+Poruchy kůže a
+podkožní tkáně
+
+
+
+
+
+Pocit nevolnosti, slabost
+Polyurie
+
+
+
+
+Nespecifické bolesti
+
+
+Pruritus
+Vyrážka
+
+
+Leukopenie
+Agranulocytóza
+
+Gynekomastie
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu: Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9 Předávkování Příznaky:
+Při akutním předávkování/intoxikaci se ve zvýšené míře vyskytuje zarudnutí, bolesti hlavy, snížení krevního tlaku (s kolapsem krevního oběhu) a změny tepové frekvence (tachykardie nebo bradykardie).
+
+Léčba předávkování:
+Úvodní léčebné opatření, které je třeba zvážit, je výplach žaludku s následným podáním aktivního uhlí. Musí být monitorovány základní životní funkce. Pokud dojde k výraznému poklesu krevního tlaku, je indikován dopamin nebo noradrenalin. Je třeba věnovat pozornost možným nežádoucím účinkům katecholaminů (zvláště poruchám srdečního rytmu).
+Při bradykardii je indikován (jako při předávkování nebo intoxikaci jinými blokátory vápníkových kanálů) atropin nebo orciprenalin.
+Na základě zkušeností při intoxikacích jinými blokátory kalciového kanálu nastane obvykle rychlé zlepšení příznaků po opakovaném intravenózním podání 10 ml kalcium-glukonátu nebo 10% kalcium- chloridu s následným infuzním podáním (pozor na hyperkalcémii). Katecholaminy byly v takových případech také účinné, avšak pouze ve vyšších dávkách. Následná léčba se musí řídit nejvýraznějšími příznaky.
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Selektivní blokátory kalciových kanálů s převážně vaskulárním účinkem, dihypropyridinové deriváty.
+ATC kód: C08CA08.
+
+Jakožto blokátor vápníkových kanálů tlumí nitrendipin transmembránový vtok kalcia do hladké
+svaloviny cév.
+Z toho vznikají následující účinky:
+•  Ochrana před zesíleným vtokem kalciových iontů do buňky.
+•  Útlum myogenní, na kalciu závislé kontrakce cévní svaloviny.
+•  Snížení periferního cévního odporu.
+•  Pokles patologicky zvýšeného krevního tlaku.
+•  Lehký natriuretický účinek, především při začátku léčby.
+
+5.2 Farmakokinetické vlastnosti
+
+Po perorálním podání se nitrendipin absorbuje přibližně z 80 %. Maximální plazmatické koncentrace dosahuje po 1,5-2 hodinách. Vzhledem k výraznému first pass efektu činí absolutní biologická dostupnost nitrendipinu jen 16 +/- 6 %. Nitrendipin se nekumuluje. Distribuční objem při ustáleném stavu je po i.v. podání 5 +/- 1,6 l/kg. Vazba na bílkoviny je mezi 97-99 %.
+Nitrendipin podléhá extenzivnímu metabolizování a mění se na 5 farmakodynamicky jenom slabě účinných metabolitů (1000krát slabší než mateřská látka). Eliminační poločas je 2-24 hodiny. Na základě extenzivního metabolizování a nízké renální clearance se nitrendipinu vylučuje močí méně než 0,1 %. Po perorálním podání se ledvinami vylučuje 35-45 % dávky během prvních 24 hodin ve formě polárních metabolitů. V průběhu 96 hodin se vyloučí ledvinami přibližně 77 % podané látky a stolicí přibližně 8 %. Totální clearance po perorálním podání nitrendipinu je přibližně 81-87 l/hod. U pacientů s jaterními poruchami byla pozorována, možná jako následek sníženého first pass efektu, dvoj- až trojnásobně zvýšená biologická dostupnost nitrendipinu; eliminační poločas u pacientů s poruchami funkce jater je prodloužen.
+Nitrendipin prochází placentou a přestupuje do mateřského mléka. Není dialyzovatelný.
+Při podání s grapefruitovou šťávou je biologická dostupnost nitrendipinu zvýšena; dochází k útlumu
+first pass efektu.
+5.3 Předklinické údaje vztahující se k bezpečnosti Akutní toxicita
+Po jednorázovém perorálním podání vykazoval nitrendipin u potkanů a králíků lehkou toxicitu. Po
+nitrožilním podání vykazuje nitrendipin zřetelnou toxicitu u všech testovaných druhů. Význačné rozdíly mezi perorální a nitrožilní cestou podání lze vysvětlit špatnou rozpustností nitrendipinu ve vodě.
+
+Chronicko/subchronická toxicita
+Potkani snášeli nitrendipin v až tříměsíčních pokusech v dávkách až 100 mg/kg bez poškození.
+
+Mutagenita a kancerogenita
+Nitrendipin neměl v mnohých testech in vitro a in vivo žádné mutagenní vlastnosti. Ve více než dvouleté studii u potkanů (dávky až 125 mg/kg), případně přes 21 měsíců u myší (dávky až 100 mg/kg) se neprokázaly žádné doklady pro kancerogenitu.
+
+Reprodukční toxicita
+V reprodukčně toxikologických studiích na potkanech nebyly až do dávky 10 mg/kg per os zjištěny žádné škodlivé vlivy na fertilitu a peri-/ postnatální vývoj. Výsledky studie embryotoxicity na opicích ukázaly, že dávky zřetelně toxické pro matku (100 mg/kg) vyvolaly defekty v oblasti falang.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Koloidní bezvodý oxid křemičitý, monohydrát laktózy, kukuřičný škrob, povidon K30, mastek, magnesium-stearát, natrium-lauryl-sulfát.
+6.2 Inkompatibility
+
+Neuplatňuje se.
+6.3 Doba použitelnosti
+
+5 let.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+
+6.5 Druh obalu a obsah balení
+
+Červený PVC/PVDC/Al blistr, krabička. Velikost balení: 20, 30, 50 nebo 100 tablet.
+
+6.6 Zvláštní opatření pro likvidaci přípravku
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+ratiopharm GmbH, Graf-Arco Strasse 3, Ulm, Německo
+8. REGISTRAČNÍ ČÍSLO
+
+58/285/02-C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 6. 11. 2002
+Datum posledního prodloužení registrace: 12. 8. 2015
+
+10. DATUM REVIZE TEXTU
+16. 1. 2020

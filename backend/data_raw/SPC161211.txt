@@ -1,0 +1,924 @@
+Sp. zn. sukls150929/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+ESMOCARD 10 mg/ml injekční roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička s 10 ml injekčního roztoku obsahuje esmololi hydrochloridum 100 mg.
+1 ml vodného roztoku obsahuje esmololi hydrochloridum 10 mg (10 mg/ml).
+
+Pomocné látky: Tento léčivý přípravek obsahuje přibližně 0,34 mmol (nebo 7,88 mg) sodíku v jedné injekční lahvičce.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Injekční roztok.
+Čirý a bezbarvý roztok.
+Roztok má pH mezi 4,5 až 5,5 a osmolaritu přibližně 140 mosmol/l.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+ESMOCARD indikován k léčbě supraventrikulární tachykardie (s výjimkou preexcitačních syndromů) a k rychlé kontrole komorové frekvence u pacientů s fibrilací nebo flutterem síní peroperačně, postoperačně nebo za jiných okolností, kdy je zapotřebí krátkodobá kontrola komorové frekvence krátce působícím lékem.
+ESMOCARD je rovněž indikován u tachykardie a hypertenze vzniklé v perioperační fázi a u nekompenzované sinusové tachykardie, pokud rychlá srdeční frekvence vyžaduje dle úsudku lékaře specifickou intervenci.
+ESMOCARD není indikován k použití u dětí do 18 let věku (viz bod 4.2). ESMOCARD není určen k používání u chronických stavů.
+
+4.2  Dávkování a způsob podání
+ESMOCARD injekční roztok v 10 ml injekční lahvičce je čirý roztok k přímému intravenóznímu podání. Koncentrace tohoto přípravku je esmololi hydrochloridum 10 mg/ml.
+
+
+SUPRAVENTRIKULÁRNÍ TACHYARYTMIE
+Dávku přípravku ESMOCARD je třeba titrovat individuálně. Nejprve je zapotřebí nasycovací dávka, po které následuje dávka udržovací.
+1 /13
+
+Účinná dávka přípravku ESMOCARD se pohybuje v rozmezí od 50 do 200 µg/kg/min, ačkoli se používají i dávky až 300 µg/kg/min. U malého počtu pacientů je adekvátní průměrná účinná dávka dávkování 25 µg/kg/min.
+Schéma pro zahájení a udržování léčby Nasycovací dávka
+500 µg/kg/min po dobu 1 minuty,
+POTÉ 50 µg/kg/min po dobu 4 minut
+Odpověď
+Udržujte infuzi v dávce 50 µg/kg/min
+Nedostatečná odpověď do 5 minut
+Zopakujte dávku 500 µg/kg/min po dobu 1 minuty
+Zvyšte dávku v udržovací infuzi na 100 µg/kg/min po dobu 4 minut
+
+Odpověď
+Udržujte infuzi v dávce 100 µg/kg/min
+Nedostatečná odpověď do 5 minut
+Zopakujte dávku 500 µg/kg/min po dobu 1 minuty
+Zvyšte dávku v udržovací infuzi na 150 µg/kg/min po dobu 4 minut
+Odpověď
+Udržujte infuzi v dávce 150 µg/kg/min
+Nedostatečná odpověď
+Zopakujte dávku 500 µg/kg/min po dobu 1 minuty
+Zvyšte dávku v udržovací infuzi na 200 µg/kg/min a tuto dávku udržujte
+
+Jakmile se přiblíží požadovaná srdeční frekvence anebo bezpečnostní cílový bod (např. snížený krevní tlak), VYNECHEJTE nasycovací dávku a snižte přírůstek dávky udržovací infuze z 50 µg/kg/min na 25 µg/kg/min nebo méně. Je-li to nutné, lze interval mezi titračními kroky prodloužit z 5 na 10 minut.
+Poznámka: U udržovacích dávek nad 200 µg/kg/min nebyl prokázán významně zvýšený přínos. Bezpečnost dávek nad 300 µg/kg/min nebyla sledována.
+
+V případě nežádoucích účinků lze dávku přípravku ESMOCARD snížit nebo jeho podávání ukončit. Farmakologické nežádoucí reakce by měly odeznít během 30 minut.
+
+Pokud dojde k lokální reakci v místě infuze, je nutné použít k infuzi jiné místo a při tom je třeba postupovat se zvýšenou opatrností, aby nedošlo k extravazaci.
+Podávání přípravku ESMOCARD po dobu delší než 24 hodin nebylo důkladně zhodnoceno. Infuze trvající více než 24 hodin je nutno používat pouze se zvýšenou opatrností.
+Konverzní tabulka: mikrogramy/kg/min → ml/min (esmolol naředěný na koncentraci 10 mg/ml)
+
+500 μg/kg/min
+pouze   1
+minuta
+kg  ml/min
+40  2
+50 μg/kg/min
+
+
+ml/min
+0,2
+100 μg/kg/min
+
+
+ml/min
+0,4
+150 μg/kg/min
+
+
+ml/min
+0,6
+200 μg/kg/min
+
+
+ml/min
+0,8
+250 μg/kg/min
+
+
+ml/min
+1
+300 μg/kg/min
+
+
+ml/min
+1,2
+
+
+2 /13
+
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+2,25
+2,5
+2,75
+3
+3,25
+3,5
+3,75
+4
+4,25
+4,5
+4,75
+5
+5,25
+5,5
+5,75
+6
+0,225
+0,25
+0,275
+0,3
+0,325
+0,35
+0,375
+0,4
+0,425
+0,45
+0,475
+0,5
+0,525
+0,55
+0,575
+0,6
+0,45
+0,5
+0,55
+0,6
+0,65
+0,7
+0,75
+0,8
+0,85
+0,9
+0,95
+1
+1,05
+1,1
+1,15
+1,2
+0,675
+0,75
+0,825
+0,9
+0,975
+1,05
+1,125
+1,2
+1,275
+1,35
+1,425
+1,5
+1,575
+1,65
+1,725
+1,8
+0,9
+1
+1,1
+1,2
+1,3
+1,4
+1,5
+1,6
+1,7
+1,8
+1,9
+2
+2,1
+2,2
+2,3
+2,4
+1,125
+1,25
+1,375
+1,5
+1,625
+1,75
+1,875
+2
+2,125
+2,25
+2,375
+2,5
+2,625
+2,75
+2,875
+3
+1,35
+1,5
+1,65
+1,8
+1,95
+2,1
+2,25
+2,4
+2,55
+2,7
+2,85
+3
+3,15
+3,3
+3,45
+3,6
+
+Konverzní tabulka: mikrogramy/kg/min → ml/h (esmolol naředěný na koncentraci 10 mg/ml)
+
+
+
+
+kg
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+500 μg/kg/min
+pouze   1
+minuta ml/h 120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+360
+50 μg/kg/min
+
+
+ml/h
+12
+13,5
+15
+16,5
+18
+19,5
+21
+22,5
+24
+25,5
+27
+28,5
+30
+31,5
+33
+34,5
+36
+100 μg/kg/min
+
+
+ml/h
+24
+27
+30
+33
+36
+39
+42
+45
+48
+51
+54
+57
+60
+63
+66
+69
+72
+150 μg/kg/min
+
+
+ml/h
+36
+40,5
+45
+49,5
+54
+58,5
+63
+67,5
+72
+76,5
+81
+85,5
+90
+94,5
+99
+103,5
+108
+200 μg/kg/min
+
+
+ml/h
+48
+54
+60
+66
+72
+78
+84
+90
+96
+102
+108
+114
+120
+126
+132
+138
+144
+250 μg/kg/min
+
+
+ml/h
+60
+67,5
+75
+82,5
+90
+97,5
+105
+112,5
+120
+127,5
+135
+142,5
+150
+157,5
+165
+172,5
+180
+300 μg/kg/min
+
+
+ml/h
+72
+81
+90
+99
+108
+117
+126
+135
+144
+153
+162
+171
+180
+189
+198
+207
+216
+Nebylo popsáno, že by náhlé vysazení přípravku ESMOCARD u pacientů vyvolalo abstinenční příznaky, které se mohou vyskytnout při náhlém vysazení betablokátorů po jejich dlouhodobém použití u pacientů s onemocněním koronárních tepen (CAD). Přesto se doporučuje opatrnost při náhlém ukončení infuzí přípravku ESMOCARD u pacientů s onemocněním koronárních tepen (CAD).
+
+
+PERIOPERAČNÍ TACHYKARDIE A HYPERTENZE
+Při léčbě perioperační tachykardie a hypertenze se mohou dávkovací režimy lišit následovně:
+a) Při léčbě během operace - pokud je nezbytná přímá kontrola v průběhu celkové anestezie, podává se injekční bolus 80 mg během 15 až 30 vteřin, a poté následuje infuze v dávce 150 µg/kg/min. Upravte titrací rychlost infuze dle potřeby až do dávky 300 µg/kg/min.
+
+b) Po probuzení z anestezie podávejte infuzi v dávce 500 µg/kg/min po dobu 4 minut a poté v dávce 300 µg/kg/min.
+
+c) V pooperačním období, pokud je čas na titraci dávky, podejte před každým titračním krokem nasycovací dávku 500 µg/kg/min během 1 minuty, která zajistí rychlý nástup účinku. K titraci použijte dávky 50, 100, 150, 200, 250 a 300 µg/kg/min podávané po dobu 4 minut a při dosažení požadovaného terapeutického účinku titraci ukončete.
+
+3 /13
+
+Nahrazení léčby přípravkem ESMOCARD alternativními léky
+Po dosažení adekvátní kontroly srdeční frekvence pacienta a jeho stabilního klinického stavu lze provést přechod na alternativní léky (jako jsou antiarytmika nebo nebo blokátory vápníkových kanálů).
+
+Snížení dávkování:
+Pokud má být ESMOCARD nahrazen alternativními léky, musí lékař pečlivě zvážit údaje o zvoleném alternativním léku a snížit dávku přípravku ESMOCARD následovně:
+1) Během první hodiny po podání první dávky alternativního léku snižte rychlost infuze přípravku ESMOCARD o polovinu (50 %).
+2) Po podání druhé dávky alternativního léku je monitorujte odpověď pacienta, a pokud je
+během první hodiny zachována uspokojivá kontrola, ukončete infuzi přípravku ESMOCARD.
+
+Další informace o dávkování: Jakmile se přiblíží požadovaný terapeutický účinek nebo bezpečnostní cílový bod (např. snížený krevní tlak), vynechejte nasycovací dávku a snižte přírůstek dávky udržovací infuze na 12,5 až 25 µg/kg/min. V případě potřeby rovněž prodlužte interval mezi titračními kroky z 5 na 10 minut.
+
+Podávání přípravku ESMOCARD je třeba ukončit, když se srdeční frekvence nebo krevní tlak rychle dostane na bezpečnostní mez nebo ji překročí, a jakmile se srdeční frekvence nebo krevní tlak vrátí na přijatelnou úroveň, je třeba podávání roztoku znovu zahájit bez nasycovací infuze a v nižší dávce.
+
+Zvláštní skupiny pacientů
+
+Starší pacienti
+Starší pacienty je nutno léčit opatrně, přičmž se začne s nižší dávkou. Samostatné studie u starších
+pacientů nebyly dosud provedeny. Analýza údajů 252 pacientů starších 65 let však naznačuje, že ve farmokodynamickém účinku nedochází k žádným odchylkám ve srovnání s daty pacientů mladších 65 let.
+Pacienti s poruchou funkce ledvin
+Je-li ESMOCARD podáván v infuzi, je u pacientů s poruchou funkce ledvin zapotřebí zvýšená opatrnost, protože kyselý metabolit přípravku ESMOCARD je vylučován ledvinami. U pacientů s onemocněním ledvin je vylučování kyselého metabolitu významně sníženo, poločas eliminace vzrůstá až na desetinásobek normálu a plazmatické hladiny jsou výrazně zvýšeny.
+Pacienti s poruchou funkce jater
+V případě poruchy funkce jater nejsou nutná žádná zvláštní opatření, protože hlavní roli v metabolismu přípravku ESMOCARD mají esterázy v erytrocytech.
+Pediatrická populace (do 18 let věku):
+Bezpečnost a účinnost přípravku ESMOCARD u dětí do 18 let věku dosud nebyla stanovena. Proto není přípravek ESMOCARD indikován k použití u pediatrické populace (viz bod 4.1).
+V současné době dostupné údaje jsou popsány v bodech 5.1 a 5.2, ale nelze učinit žádné doporučení ohledně dávkování.
+
+4.3  Kontraindikace
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1;
+-  Závažná sinusová bradykardie (méně než 50 tepů za minutu);
+-  "Sick sinus" syndrom, závažné poruchy vodivosti AV uzlů (bez kardiostimulátoru), AV blok druhého nebo třetího stupně;
+-  Kardiogenní šok;
+-
+-  Závažná hypotenze;
+4 /13
+
+-  Dekompenzované srdeční selhání;
+-  Současné nebo nedávné intravenózní podávání verapamilu. Přípravek ESMOCARD se nesmí podat do 48 hodin po přerušení léčby verapamilem (viz bod 4.5);
+-  Neléčený feochromocytom;
+-  Plicní hypertenze;
+-  Akutní astmatický záchvat;
+-  Metabolická acidóza;
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Upozornění
+Doporučuje se neustálé monitorování krevního tlaku a EKG u všech pacientů léčených přípravkem ESMOCARD. V případě hypotenzní epizody má být rychlost infuze snížena nebo v případě potřeby přerušena.
+
+U pacientů se supraventrikulárními arytmiemi je třeba používat přípravek ESMOCARD ke kontrole ventrikulární odpovědi s opatrností, pokud je pacient hemodynamicky ohrožen nebo užívá jiné léky,
+které snižují některé nebo všechny z následujících: periferní rezistence, plnění myokardu, kontraktilita myokardu nebo šíření elektrického impulsu v myokardu. Navzdory rychlému nástupu a vyvážení účinků přípravku ESMOCARD mohou nastat závažné reakce včetně ztráty vědomí, kardiogenního šoku, srdeční zástavy. Bylo hlášeno několik úmrtí ve složitých klinických stavech, kdy byl přípravek
+ESMOCARD pravděpodobně použit k úpravě komorové frekvence.
+Nejčastěji pozorovaným nežádoucím účinkem je hypotenze, která je závislá na dávce, ale může se vyskytnout při jakékoli dávce. Ta může být závažná. V případě hypotenzní epizody má být rychlost infuze snížena nebo, v případě potřeby, přerušena. Hypotenze je obvykle reverzibilní (do 30 minut po ukončení aplikace přípravku ESMOCARD ). V některých případech mohou být nezbytné další
+intervence k obnovení krevního tlaku. U pacientů s nízkým systolickým krevním tlakem je nutná zvýšená opatrnost při úpravě dávky a během udržovací infuze.
+
+Při použití přípravku ESMOCARD se vyskytla bradykardie včetně závažné bradykardie a zástava srdce. Přípravek ESMOCARD má být používán se zvláštní opatrností u pacientů s nízkou srdeční frekvencí před léčbou a pouze tehdy, má-li se za to, že potenciální přínosy převažují nad rizikem.
+Přípravek ESMOCARD je kontraindikován u pacientů s již existující těžkou sinusovou bradykardií (viz bod 4.3). Pokud se tepová frekvence sníží na méně než 50 - 55 tepů za minutu v klidu a pacient
+zaznamená příznaky související s bradykardií, má být dávka snížena nebo podávání ukončeno. Vzhledem k riziku rebound tachykardie se doporučuje ukončovat infuzní léčbu postupně.
+Starší pacienty je třeba léčit se zvýšenou opatrností, léčba má být zahájena nižší dávkou, nicméně tolerance u starších pacientů je zpravidla dobrá.
+
+Stimulace sympatiku je nezbytná k podpoře oběhové funkce u městnavého srdečního selhání, betablokátory představují potenciální riziko další deprese kontraktility myokardu a urychlení vzniku závažnějšího selhání. Přetrvávající deprese myokardu v důsledku použití betablokátorů po určité časové období může v některých případech vést k srdečnímu selhání.
+
+Při použití přípravku ESMOCARD u pacientů se sníženou srdeční funkcí je třeba postupovat opatrně. Při první známce nebo příznaku hrozícího srdečního selhání je nutno ESMOCARD vysadit. Vysazení léčby může být postačující vzhledem ke krátkému eliminačnímu poločasu přípravku ESMOCARD, přesto však lze zvážit  i specifickou léčbu (viz bod  4.9).  ESMOCARD je  kontraindikován  u  pacientů s dekompenzovaným srdečním selháním (viz bod 4.3).
+
+Vzhledem k jeho negativnímu účinku na dobu vedení mají být betablokátory podávány pouze s opatrností pacientům s AV blokádou prvního stupně nebo jinými poruchami srdečního vedení (viz bod 4.3).
+
+5 /13
+
+U pacientů s feochromocytomem má být přípravek ESMOCARD používán s opatrností a pouze po předchozí léčbě blokátory alfa-receptorů (viz bod 4.3).
+
+Při léčbě hypertenze přípravkem ESMOCARD po indukované hypotermii je zapotřebí opatrnosti.
+
+Pacienti s bronchospastickým onemocněním by obecně neměli být léčeni betablokátory. Vzhledem k relativní beta-1 selektivitě a snadné titrovatelnosti je nutno používat ESMOCARD se zvýšenou opatrností u pacientů s bronchospastickým onemocněním. Jelikož však beta-1 selektivita není absolutní, je nutno dávku přípravku ESMOCARD pečlivě titrovat tak, aby byla podávána nejnižší možná účinná
+dávka. V případě bronchospasmu musí být infuze okamžitě ukončena a v případě nutnosti má být podán beta-2 agonista.
+Pokud již pacient užívá lék stimulující beta-2 receptory, bude patrně zapotřebí přehodnotit dávku tohoto léku.
+ESMOCARD se musí používat se zvýšenou opatrností u pacientů s dušností nebo astmatem v anamnéze.
+
+Opatření
+Přípravek ESMOCARD má být používán s opatrností u diabetiků nebo v případě podezření na hypoglykemii.
+Závažnost hypoglykemie je nižší než závažnost v případě méně kardioselektivních betablokátorů. Betablokátory mohou maskovat prodromální příznaky hypoglykemie, jako je tachykardie.
+Závratě a pocení však nemusí být ovlivněny. Současné užívání betablokátorů a antidiabetik může zvýšit účinek antidiabetik (snížení hladiny glukózy v krvi) (viz bod 4.5).
+
+Infuzní koncentrace 20 mg/ml byly spojeny s významným drážděním žil a tromboflebitidou u zvířat a člověka. Extravazace 20 mg/ml může vést k závažné lokální reakci a možné nekróze kůže.
+
+Místní reakce byly také hlášeny po infuzi koncentrací 10 mg/ml. Je proto třeba se vyhnout infuzi do malých žil nebo motýlkového katétru.
+
+Betablokátory mohou zvýšit počet a trvání anginózních záchvatů u pacientů s Prinzmetalovou anginou  pectoris  kvůli  vazokonstrikci  koronárních  artérií  zprostředkované  alfa-receptory. Neselektivní betablokátory nemají být u těchto pacientů používány a selektivní blokátory beta-1 mají být používány jen s maximální opatrností.
+U pacientů s hypovolemií může přípravek ESMOCARD tlumit reflexní tachykardii a zvýšit riziko kolapsu. Proto se má u těchto pacientů přípravek ESMOCARD používat s opatrností.
+
+U pacientů s periferním cirkulačním onemocněním (Raynaudova nemoc nebo syndrom, intermitentní klaudikace) mají být betablokátory používány s velkou opatrností, protože se může objevit zhoršení těchto poruch.
+
+Některé betablokátory, zejména ty, které byly podávány intravenózně, včetně přípravku ESMOCARD, byly spojeny se zvýšením hladiny draslíku v séru a hyperkalemií. Riziko se zvyšuje u pacientů s rizikovými faktory, jako je porucha funkce ledvin a u pacientů na hemodialýze.
+
+Betablokátory mohou zvýšit jak citlivost na alergeny, tak závažnost anafylaktických reakcí. Pacienti užívající betablokátory nemusí reagovat na obvyklé dávky epinefrinu používaného k léčbě anafylaktických nebo anafylaktoidních reakcí (viz bod 4.5).
+Betablokátory byly spojeny s rozvojem lupénky nebo výsevem psoriázy a se zhoršením psoriázy. Pacientům s osobní nebo rodinnou anamnézou psoriázy je třeba betablokátory podávat pouze po pečlivém zvážení očekávaných přínosů a rizik.
+6 /13
+
+Betablokátory, jako je propranolol a metoprolol, mohou maskovat určité klinické známky hypertyreózy (jako je tachykardie). Náhlé vysazení stávající léčby betablokátory u pacientů s rizikem nebo podezřením na tyreotoxikózu může způsobit thyrotoxickou krizi a tito pacienti musí být pečlivě sledováni.
+
+Použití v pediatrické populaci (do 18 let věku)
+Bezpečnost a účinnost přípravku ESMOCARD u dětí není doposud stanovena.
+
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné injekční lahvičce, to znamená, že je v podstatě „bez sodíku“.
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Když se přípravek ESMOCARD používá s jinými antihypertenzivy nebo jinými léky, které mohou způsobit hypotenzi nebo bradykardii, je třeba vždy postupovat opatrně: účinek přípravku
+ESMOCARD se může zvýšit nebo se mohou zhoršit nežádoucí účinky hypotenze nebo bradykardie.
+Blokátory vápníkových kanálů jako verapamil a v menší míře diltiazem mají negativní vliv na kontraktilitu a AV vedení. Tato kombinace nemá být podávána pacientům s poruchou vedení srdečního vzruchu a ESMOCARD nemá být podáván po dobu 48 hodin od vysazení verapamilu (viz bod 4.3).
+
+Blokátory vápníkových kanálů, jako např. deriváty dihydropyridinu (např. nifedipin), mohou zvyšovat riziko hypotenze. U pacientů se srdečním selháním a u pacientů, kteří jsou léčeni blokátory vápníkových kanálů, může léčba betablokátory vést k srdečnímu selhání. Doporučuje se opatrně titrovat dávku přípravku ESMOCARD a patřičně monitorovat hemodynamiku.
+Současné použití přípravku ESMOCARD a antiarytmik třídy I (jako je např. disopyramid a chinidin) a amiodaronu může mít potenciační účinek na dobu síňového vedení a vyvolat negativní inotropní účinek..
+
+Současné použití přípravku ESMOCARD a inzulínu nebo perorálních antidiabetik může zesílit hypoglykemický účinek (zvláště u neselektivních betablokátorů). Beta-adrenergní blokáda může chránit před vznikem příznaků hypoglykémie (tachykardie), ale ostatní projevy jako závratě a pocení nemusí být maskovány.
+Anestetika:v situacích, při nichž je neznámý objemový status pacienta anebo jsou souběžně používána antihypertenziva, může dojít k zeslabení reflexní tachykardie a ke zvýšení rizika hypotenze.
+
+Pokračování betablokády snižuje riziko arytmie během indukce a intubace. Pokud jsou pacientovi podávány betablokátory navíc k přípravku ESMOCARD, musí být o této skutečnosti informován anesteziolog. V přítomnosti přípravku ESMOCARD může být zvýšen hypotenzní účinek inhalačních anestetik. Dávkování kteréhokoli z těchto léků může být upraveno dle potřeby, aby zůstala zachována potřebná hemodynamika.
+
+Kombinace přípravku ESMOCARD s gangliovými blokátory může zvýšit hypotenzní účinek. NSAID mohou snížit hypotenzní účinky betablokátorů.
+Při současném použití floktafeninu nebo amisulpridu s betablokátory je nutná zvýšená opatrnost.
+
+Současné podání tricyklických antidepresiv (jako imipramin a amitriptylin), barbiturátů a fenothiazinů (jako je chlorpromazin), jakož i dalších antipsychotik ( j a k o klo zap i n) může zvýšit hypotenzní
+účinek. Dávkování přípravku ESMOCARD je třeba snížit, aby se zabránilo neočekávané hypotenzi.
+
+7 /13
+
+Při použití betablokátorů mohou být pacienti s rizikem anafylaktických reakcí více reaktivní na expozici alergenu (náhodný, diagnostický nebo terapeutický). Pacienti užívající betablokátory nemusí reagovat na obvyklé dávky epinefrinu používaného k léčbě anafylaktických reakcí (viz bod 4.4).
+
+Účinky přípravku ESMOCARD mohou být potlačeny při souběžném podávání se sympatomimetickými léčivy, která mají beta-adrenergní agonistickou aktivitu. Dávku každé látky může být nutno upravit na
+základě odpovědi pacienta, a nebo použít alternativní terapeutické látky.
+
+Léky vedoucí k depleci katecholaminů, např. reserpin, mohou mít zvýšený účinek při podání
+s betablokátory. Pacienti léčení současně přípravkem ESMOCARD a přípravky způsobujícími depleci katecholaminů by proto měli být pečlivě sledováni z hlediska výskytu hypotenze nebo významné bradykardie, které mohou vést k závratím, synkopě nebo posturální hypotenzi.
+
+Použití betablokátorů s moxonidinem nebo alfa-2-agonisty (jako je klonidin) zvyšuje riziko abstinenční rebound hypertenze. Pokud se klonidin nebo moxonidin používají v kombinaci s betablokátorem a obě léčby musí být přerušeny, nejprve se musí vysadit betablokátor a poté po několika dnech klonidin nebo moxonidin.
+Použití betablokátorů s námelovými deriváty může vést k závažné periferní vazokonstrikci a hypertenzi.
+
+Údaje ze studie interakcí mezi přípravkem ESMOCARD a warfarinem prokázaly, že současné podání přípravku ESMOCARD a warfarinu neovlivňuje plazmatické hladiny warfarinu. Koncentrace přípravku ESMOCARD však byly při podávání s warfarinem nejednoznačně vyšší.
+Při současném intravenózním podání digoxinu a přípravku ESMOCARD zdravým dobrovolníkům bylo v některých časových bodech pozorováno 10 – 20% zvýšení hladiny digoxinu v krvi. Kombinace digitalisových glykosidů a přípravku ESMOCARD může prodloužit dobu AV převodu. Digoxin neovlivnil farmakokinetiku přípravku ESMOCARD .
+
+Ve studiích, které se zabývaly interakcemi nitrožilně podaného morfinu a přípravku ESMOCARD u normálních subjektů, nebyl pozorován žádný vliv na hladinu morfinu v krvi. Hladiny přípravku ESMOCARD v rovnovážném stavu byly v přítomnosti morfinu zvýšeny o 46 %, avšak žádné jiné farmakokinetické parametry nebyly změněny.
+U pacientů podstupujících operaci byl hodnocen vliv přípravku ESMOCARD na trvání
+neuromuskulární blokády navozené suxamethonium-chloridem nebo mivakuriem. Přípravek ESMOCARD neovlivnil nástup neuromuskulární blokády po suxametonium- chloridu, avšak trvání neuromuskulární blokády se prodloužilo z 5 minut na 8 minut. Přípravek ESMOCARD mírně
+prodloužil klinické trvání (18,6 %) a index obnovy (6,7 %) mivakuria.
+
+Interakce pozorované ve studiích s warfarinem, digoxinem, morfinem, suxamethonium-chloridem nebo mivakuriem neměly sice větší klinický význam, avšak dávka přípravku ESMOCARD má být přesto titrována se zvýšenou opatrností u pacientů současně léčených warfarinem, digoxinem, morfinem, suxamethonium-chloridem či mivakuriem.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Existuje omezené množství údajů o použití esmolol-hydrochloridu u těhotných žen. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3).
+
+Použití esmolol-hydrochloridu v těhotenství se nedoporučuje.
+Neexistují  dostatečné  údaje  ke  stanovení  možných  škodlivých  účinků  esmolol-hydrochloridu v těhotenství. Doposud však nebyly zjištěny žádné náznaky zvýšeného rizika vrozených defektů u lidí. Potenciální riziko pro člověka není známo. Na základě farmakologických vlastností je v pozdějších
+8 /13
+
+fázích těhotenství nutno počítat s nežádoucími účinky na plod a novorozence (zejména s hypoglykemií, hypotenzí a bradykardií).
+Pokud je léčba esmolol-hydrochloridem nutná, je třeba monitorovat uteroplacentární průtok krve a růst plodu. Novorozence je třeba pečlivě sledovat.
+
+Kojení
+Esmolol-hydrochlorid se nemá během kojení používat.
+Není známo, zda se esmolol-hydrochlorid/metabolity vylučuje do lidského mateřského mléka. Nebezpečí pro novorozence/kojence nelze vyloučit.
+
+Plodnost
+Žádná data o účincích esmolol-hydrochloridu na plodnost nejsou dosud k dispozici.
+
+
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Není relevantní.
+
+4.8  Nežádoucí účinky
+V případě výskytu nežádoucích účinků lze dávku přípravku ESMOCARD snížit nebo jeho podávání ukončit.
+Většina pozorovaných nežádoucích účinků byla mírná a přechodná. Nejvýznamnějším nežádoucím účinkem byla hypotenze.
+Následující nežádoucí účinky jsou seřazeny podle tříd orgánových systémů podle MedDRA a podle jejich četnosti.
+Pozn.: Četnost výskytu nežádoucích účinků je klasifikována následovně:
+
+Velmi časté (≥ 1/10) Časté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až <1/100) Vzácné (≥ 1/10 000 až < 1/1 000) Velmi vzácné (< 1/10 000)
+Není známo (z dostupných údajů nelze určit)
+
+
+
+
+Třídy orgánových systémů
+
+Poruchy metabolismu a výživy
+
+Psychiatrické poruchy
+
+
+Velmi časté
+
+
+
+Časté
+
+Anorexie
+
+
+Deprese Úzkost
+Četnost Méně časté
+
+
+Abnormální myšlení
+
+
+
+Velmi vzácné
+
+
+
+Není známo
+
+Hyperkalemie Metabolická acidóza
+
+
+
+
+
+
+
+9 /13
+
+Poruchy nervového systému
+Závratě¹ Somnolence Bolest hlavy Parestezie Poruchy pozornosti Stav zmatenosti Agitovanost
+Synkopa K onvulze
+P o r u c h y ř e č i
+
+
+Poruchy oka
+Postižení zraku
+
+
+Srdeční poruchy
+Bradykardie Atrioventrikulární blok
+Plicní arteriální tlak zvýšený Srdeční selhání Ventrikulární extrasystoly Nodální rytmus Angina pectoris
+Sinusová zástava Asystolie
+Zrychlený idioventrikulární rytmus Koronární arteriospasmus Srdeční zástava.
+
+
+
+Cévní poruchy
+Hypotenze
+Periferní ischemie Bledost Zrudnutí
+Tromboflebitida
+
+
+
+1.  Závratě a hyperhidróza související se symptomatickou hypotenzí. 2. Ve spojení s lokální reakcí na injekci a infuzi.
+
+
+
+
+Třídy orgánových systémů
+
+Respirační, hrudní a mediastinální poruchy
+
+
+Velmi časté
+
+
+Časté
+Četnost Méně časté
+Dyspnoe
+Pulmonární edém
+Bronchospasmus Sípání
+Nosní kongesce Auskultační šumy
+
+
+Velmi vzácné
+
+
+Není známo
+
+
+Gastrointestinální poruchy
+Nauzea Zvracení
+Porucha chuti Dyspepsie
+Zácpa
+Sucho v ústech Bolest břicha
+
+
+Poruchy kůže a podkožní tkáně
+
+Diaforéza¹
+
+Změna zbarvení kůže²
+Erytém²
+
+Nekróza kůže²
+(vlivem extravazace)
+Psoriáza³ Angioedém a
+kopřivka
+
+
+10 /13
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Poruchy ledvin a močových cest
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+Astenie
+Únava
+Reakce v místě aplikace injekce
+Reakce v místě aplikace infúze
+Zánět v místě aplikace infúze
+Zatvrdnutí v místě aplikace infuze
+Muskuloskeletální bolesti⁴
+
+Retence moči
+
+Zimnice Pyrexie Edém² Bolest²
+Pálení v místě aplikace infúze
+Ekchymóza v místě aplikace infúze
+Bolesti na hrudi
+
+
+
+
+
+
+Flebitida v místě aplikace infuze
+Vezikuly v místě aplikace infuze
+Tvorba puchýřů²
+
+
+
+1. Závratě a pocení související se symptomatickou hypotenzí.
+2. Ve spojení s lokální reakcí na injekci a infuzi.
+3.Léky ze skupiny betablokátorů mohou v některých případech způsobovat lupénku, či zhoršovat její příznaky.
+4. Včetně bolesti mezi lopatkami a Tietzova syndromu.
+
+
+
+Hlášení o podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+
+4.9  Předávkování
+Vyskytly  se případy  masivního  náhodného  předávkování  k o n c e n t r o v a n ý m  r o z t o k e m p ř í p r a v k u ESMOCARD. Některá z těchto předávkování byla fatální, jiná měla za následek trvalou invaliditu. Nasycovací dávky v rozmezí 625 mg až 2,5 g (12,5 - 50 mg/kg) jsou fatální.
+Příznaky
+V případě předávkování se mohou vyskytnout následující příznaky: těžká hypotenze, sinusová bradykardie,  atrioventrikulární  blokáda,  srdeční  selhání, kardiogenní  šok,  srdeční  zástava, bronchospasmus,  respirační  insuficience,  ztráta  vědomí  až koma,  konvulze, nauzea,  zvracení, hypoglykémie a hyperkalémie.
+
+
+Léčba
+
+11 /13
+
+Vzhledem ke krátkému poločasu eliminace přípravku ESMOCARD (přibližně 9 minut) má být prvním krokem v léčbě toxicity přerušení podávání léku. Doba do vymizení příznaků po předávkování závisí na množství podaného přípravku ESMOCARD. Tato doba může být delší než 30 minut, jak bylo pozorováno po ukončení aplikace terapeutických dávek přípravku ESMOCARD.
+Může být nezbytné umělé dýchání. Na základě pozorovaných klinických účinků je třeba zvážit také následující obecná opatření:
+Bradykardie: má být intravenózně podán atropin nebo jiné anticholinergikum. Pokud bradykardii nelze dostatečně ovlivnit, může být zapotřebí kardiostimulátor.
+Bronchospasmus: je třeba podat nebulizovaná beta-2 sympatomimetika. Pokud tato léčba není dostačující, lze zvážit intravenózní podání beta-2 sympatomimetik nebo aminofylinu.
+Symptomatická hypotenze: je třeba intravenózně podat tekutiny a/nebo presorické látky.
+Kardiovaskulární deprese nebo kardiogenní šok: je třeba podat diuretika nebo sympatomimetika. Dávka sympatomimetik (podle symptomů: dobutamin, dopamin, noradrenalin, isoprenalin, atd.) závisí na terapeutickém účinku.
+Je-li nutná další léčba, mohou být na základě klinického stavu a posouzení ošetřujícího zdravotnického pracovníka intravenózně podány následující léky:
+- Atropin: 0,5-2 mg
+- inotropní látky
+- kalciové ionty
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: selektivní betablokátory ATC kód: C07AB09
+
+Esmolol-hydrochlorid je beta-selektivní (kardioselektivní) blokátor adrenergních receptorů.
+
+V terapeutických dávkách nemá esmolol-hydrochlorid žádnou významnou vlastní sympatomimetickou aktivitu (ISA) a ni membrány stabilizující účinek.
+
+Esmolol-hydrochlorid, léčivá látka přípravku ESMOCARD, je chemicky příbuzný s fenoxypropanolaminovou třídou betablokátorů.
+Na základě farmakologických vlastností má esmolol-hydrochlorid rychlý nástup a velmi krátké trvání účinku, proto může být jeho dávka rychle upravena:
+- Pokud je použita vhodná nasycovací dávka, je ustálených hladin v krvi dosaženo během 5 minut. Terapeutického účinku je však dosaženo dříve, než stabilní plazmatické koncentrace. Požadovaného farmakologického účinku lze docílit úpravou rychlosti infuze.
+Esmolol-hydrochlorid má známý hemodynamický a elektrofyziologický účinek betablokátorů:
+-  Snížení srdeční frekvence v klidu i při zátěži;
+-  Redukce isoprenalinem indukovaného zvýšení srdeční frekvence;
+-  Prodloužení doby zotavení SA uzlu;
+-  Zpomalení AV vedení;
+-  Prodloužení AV intervalu při normálním sinusovém rytmu a během síňové stimulace bez zpomalení v Hisově svazku a Purkyňových vláknech;
+-  Prodloužení doby PQ, indukce AV blokády II. stupně;
+-  Prodloužení funkční refrakční doby síní a komor;
+-  Negativně inotropní účinek se sníženou ejekční frakcí;
+-  Pokles krevního tlaku.
+12 /13
+
+Děti
+Byla provedena nekontrolovaná studie farmakokinetiky/účinnosti s 26 dětskými pacienty ve věku od 2 do 16 let se supraventrikulární tachykardií (SVT). Pacientům byla podána nasycovací dávka esmolol- hydrochloridu 1000 µg/kg a poté kontinuální infuze 300 µg/kg/min. SVT byla ukončena u 65 % pacientů do 5 minut po zahájení léčby esmolol-hydrochloridem.
+V randomizované ale nekontrolované studii srovnávající různé dávky byla hodnocena účinnost u 116 pediatrických pacientů ve věku od 1 týdne do 7 let s hypertenzí po nápravě koarktace aorty. Pacientům byla podána počáteční infuze v dávce buď 125 µg/kg, 250 µg/kg nebo 500 µg/kg a poté kontinuální infuze v dávce 125 µg/kg/min, 250 µg/kg/min nebo 500 µg/kg/min. Mezi 3 skupinami s odlišným
+dávkováním nebyl zjištěn významný rozdíl v hypotenzním účinku. Celkem 54 % pacientů potřebovalo k dosažení uspokojivé kontroly krevního tlaku jiné léky než esmolol-hydrochlorid. V tomto ohledu nebyl mezi skupinami s odlišným dávkováním patrný žádný rozdíl.
+
+5.2  Farmakokinetické vlastnosti
+Kinetika esmolol-hydrochloridu je u zdravých dospělých lineární, plazmatické koncentrace jsou úměrné dávce. Pokud není použita nasycovací dávka, pak je krevní koncentrace v rovnovážném stavu u dávek od 50 do 300 µg/kg za minutu dosažena během 30 minut.
+Poločas distribuce esmolol-hydrochloridu je velmi krátký, přibližně 2 minuty. Distribuční objem je 3,4 l/kg.
+Esmolol-hydrochlorid je metabolizován esterázami na kyselý metabolit (ASL-8123) a metanol. K tomu dochází hydrolýzou esterové skupiny esterázami v erytrocytech.
+
+Metabolismus esmolol-hydrochloridu je nezávislý, pokud se dávky pohybují od 50 do 300 µg/kg/minutu.
+
+Esmolol-hydrochlorid je z 55 % vázán na proteiny lidské plazmy v porovnání s kyselým metabolitem, který je vázán pouze z 10 %.
+
+Poločas eliminace po intravenózním podání je přibližně 9 minut.
+Celková clearance je 285 ml/kg/minutu; je nezávislá na průtoku játry nebo kterýmkoli jiným orgánem. Esmolol-hydrochlorid je vylučován ledvinami částečně v nezměněné formě (méně než 2 % podaného množství), částečně jako kyselý metabolit, který má slabou (méně než 0,1 % esmololu) betablokující aktivitu. Kyselý metabolit je vylučován močí a má poločas přibližně 3,7 hodiny.
+Děti
+Byla provedena farmakokinetická studie s 22 dětskými pacienty ve věku od 3 do 16 let. Pacientům byla podána nasycovací dávka esmolol-hydrochloridu 1 000 µg/kg a poté kontinuální infuze 300 µg/kg/min. Pozorovaná střední celková tělesná clearance činila 119 ml/kg/min, střední distribuční objem byl 283 ml/kg a střední konečný poločas eliminace byl 6,9 minut, což ukazuje, že kinetika esmolol- hydrochloridu u dětí je podobná kinetice u dospělých. Byla však pozorována velká interindividuální variabilita.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti přípravku
+Ve zvířecích studiích nebyl pozorován teratogenní účinek. U králíků byl pozorován embryotoxický účinek (zvýšení fetální resorpce), který byl pravděpodobně způsobem esmolol-hydrochloridem. Tento účinek byl pozorován při dávkách minimálně 10krát vyšších, než je terapeutická dávka. Doposud nebyly provedeny žádné studie hodnotící účinek esmolol-hydrochloridu na fertilitu a peri- a postnatální účinky. V několika testovacích systémech in vitro a in vivo bylo zjištěno, že esmolol-hydrochlorid není mutagenní. Bezpečnost esmolol-hydrochloridu nebyla zkoumána v dlouhodobých studiích.
+
+13 /13
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Trihydrát natrium-acetátu Ledová kyselina octová
+Kyselina chlorovodíková (k úpravě pH) Voda pro injekci
+
+6.2  Inkompatibility
+ESMOCARD NESMÍ být použit v kombinaci s roztokem hydrogenuhličitanu sodného nebo jinými léčivými přípravky (např. furosemidem, diazepamem a thiopentalem), které jsou chemicky inkompatibilní s esmololem.
+
+6.3  Doba použitelnosti
+
+2 roky.
+
+Otevřený přípravek je fyzikálně-chemicky stabilní po dobu 24 hodin při teplotě 2 °C až 8 °C.
+Z mikrobiologického hlediska je třeba přípravek použít okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při 2 °C až 8 °C, pokud otevření neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem. Podmínky uchovávání roztoku viz bod 6.3.
+6.5  Druh obalu a obsah balení
+
+Jedna injekční lahvička s 10 ml roztoku obsahuje esmolol-hydrochlorid 100 mg (10 mg/ml),
+Lahvička z čirého bezbarvého skla s chlorbutylovou pryžovou zátkou, obsahující 10 ml injekčního roztoku. Lahvičky jsou baleny ve vnější kartónové krabičce.
+
+Velikost balení: 5 injekčních lahviček v krabičce.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Každá injekční lahvička je určena pouze k jednorázovému použití. Zabraňte kontaktu s alkalickými látkami.
+Roztok je třeba před podáním vizuálně zkontrolovat na přítomnost částiček a zbarvení. Použít lze pouze čirý a bezbarvý roztok.
+Veškerý nepoužitý roztok a obaly musí být zlikvidovány v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Orpha-Devel Handels und Vertriebs GmbH Wintergasse 85/1B
+A-3002 Purkersdorf Rakousko
+14 /13
+
+8.  REGISTRAČNÍ ČÍSLO
+ESMOCARD: 77/067/07-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 14. 2. 2007
+Datum posledního prodloužení registrace: 28. 10. 2010
+
+
+10.  DATUM REVIZE TEXTU
+20. 8. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 /13

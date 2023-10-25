@@ -1,0 +1,373 @@
+sp.zn. sukls320400/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Biodroxil 500 mg tvrdé tobolky
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tvrdá tobolka obsahuje cefadroxilum 500 mg, jako cefadroxilum monohydricum 525 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3. LÉKOVÁ FORMA
+
+Tvrdé tobolky
+Bílé, tvrdé, želatinové tobolky obsahující bílý až slabě nažloutlý prášek.
+
+
+4. KLINICKÉ ÚDAJE
+
+4.1. Terapeutické indikace
+
+Přípravek Biodroxil je indikován k léčbě následujících infekcí, pokud jsou vyvolány citlivými mikroby
+(viz bod 5.1.):
+−  bakteriální faryngitida a tonzilitida;
+−  nekomplikované infekce močového ústrojí;
+−  infekce kůže a měkkých tkání;
+−  další infekce – osteomyelitida a septická artritida.
+Pozornost má být věnována oficiálním pokynům týkajícím se vhodného použití antibakteriálních látek.
+
+Kultivace a testy citlivosti se mají provádět před zahájením léčby a v jejím průběhu. Pokud je to potřebné, mají se provést kontroly renální funkce. V případě nutnosti mají být provedeny chirurgické výkony.
+
+4.2. Dávkování a způsob podání
+
+Dávkování
+
+Dávkování závisí na citlivosti patogenů, závažnosti onemocnění a na klinickém stavu pacienta (funkci
+ledvin).
+
+Dospělí, dospívající a děti s tělesnou hmotností větší než 40 kg (bez poruchy funkce ledvin)
+
+Nekomplikované záněty močových cest:
+Obvyklá dávka je 1 až 2 g denně, buď najednou, nebo rozděleně do dvou jednotlivých dávek v závislosti na závažnosti infekce a citlivosti původce.
+Záněty kůže a měkkých tkání: obvyklá dávka je 1 g denně, buď v jediné denní dávce, nebo rozděleně do dvou dílčích dávek.
+Faryngitida a tonzilitida vyvolané beta-hemolytickým streptokokem skupiny A: obvyklá denní dávka je 1 g, buď najednou, nebo rozděleně do dvou dílčích dávek; trvání terapie je minimálně 10 dní.
+
+
+Pediatrická populace s tělesnou hmotností pod 40 kg (bez poruchy funkce ledvin)
+Doporučená dávka pro děti s hmotností menší než 40 kg je 25 mg/kg/den až 50 mg/kg/den, rozděleně do dvou dílčích dávek po 12 hodinách v závislosti na závažnosti infekce a citlivosti původce.
+
+Při léčení infekcí vyvolaných beta-hemolytickými streptokoky je nutno podávat Biodroxil po dobu
+nejméně 10 dní.
+V léčbě se má pokračovat ještě 2-3 dny po ústupu akutních klinických příznaků, většinou je délka léčby 7-
+10 dní.
+
+Porucha funkce ledvin
+Při poruše funkce ledvin je třeba upravit dávkování podle clearance kreatininu, aby se zabránilo kumulaci cefadroxilu v organismu. Při hodnotách clearance kreatininu nad 50 ml/min/1,73 m² zůstává dávkování
+stejné jako u pacientů s neporušenou funkcí ledvin. Při hodnotách clearance kreatininu pod 50 ml/min je úvodní dávka přípravku Biodroxil u dospělých 1000 mg (bez ohledu na stupeň snížení clearance); další udržovací dávky jsou 500-1000 mg a interval mezi nimi se prodlouží podle stupně snížení clearance
+kreatininu (počítáno pro clearance kreatininu ml/min/1,73 m²) takto:
+
+Dávkování pro dospělé:
+
+
+Clearance kreatininu (ml/min/1,73 m²)
+0 – 10
+
+10 – 25
+25 - 50
+Dávkování
+
+500 mg každých 36 hodin
+
+500 mg každých 24 hodin
+500-1000 mg každých 12 hodin
+
+
+U 5 dospělých pacientů s anurií se ukázalo, že se hemodialýzou během 6 až 8 hodin extrahovalo z těla v průměru 63 % perorální dávky 1 g (viz bod 4.4).
+
+Děti (< 40 kg) s poruchou funkce ledvin
+Cefadroxil není indikován u dětí trpících poruchou funkce ledvin a u dětí vyžadujících hemodialýzu.
+
+Porucha funkce jater
+Při poruše funkce jater není nutná úprava dávkování. Starší pacienti
+
+Jelikož je cefadroxil vylučován ledvinami, má být dávka v případě potřeby upravena, jak je popsáno v
+bodu „Poruchy funkce ledvin“.
+
+Způsob podání
+Tobolky se nežvýkají a zapijí se tekutinou. Biodroxil se může užívat s jídlem nebo nalačno. Podání spolu s jídlem však snižuje pravděpodobnost zažívacích potíží, které se někdy mohou vyskytnout. Užívá se jednou až dvakrát denně, v dávkovacích intervalech 24 nebo 12 hodin.
+Jeho biologická dostupnost a léčebné účinky nejsou ovlivňovány příjmem potravy.
+
+4.3. Kontraindikace
+
+•  Hypersenzitivita na léčivou látku, další cefalosporinová antibiotika nebo na kteroukoli pomocnou
+látku uvedenou v bodě 6.1.
+•  Anamnéza závažné alergické reakce na penicilin nebo na jakákoli jiná beta-laktamová antibiotika.
+
+4.4. Zvláštní upozornění a opatření pro použití
+Při léčbě infekcí vyvolaných Streptococcus pyogenes a k prevenci revmatické horečky je lékem první volby penicilin. Údaje o cefadroxilu neposkytují dostačující podklady k profylaktické léčbě.
+
+Hypersenzitivní reakce
+Před podáním přípravku Biodroxil je nutné pečlivě zjistit alergické reakce na cefadroxil, cefalosporiny, peniciliny nebo jiné alergeny v anamnéze. U pacientů s nezávažnou hypersenzitivitou na peniciliny nebo jiná necefalosporinová beta-laktamová léčiva v anamnéze se cefadroxil musí používat se zvláštní opatrností, protože se vyskytuje zkřížená hypersenzitivita mezi beta-laktamovými antibiotiky (může se objevit až u 10 % těchto pacientů).
+Objeví-li se reakce alergického charakteru (kopřivka, vyrážka, svědění, pokles krevního tlaku a zvýšení tepové frekvence, respirační poruchy, kolaps atd.), je třeba ihned zastavit další podávání přípravku Biodroxil. Závažné akutní projevy hypersenzitivity mohou vyžadovat mimořádná léčebná opatření (např. podání epinefrinu nebo jiných presorických aminů, antihistaminik, kortikosteroidů).
+
+Pseudomembranózní kolitida
+Průjmy spojené s bakterií Clostridium difficile byly popsány jako důsledek podávání u téměř všech antibakteriálních látek včetně cefadroxilu. Jejich závažnost může kolísat od lehkých průjmů až k fatální kolitidě (viz bod 4.8). Jejich výskyt lze předpokládat u všech pacientů s průjmem po léčbě antibiotiky. Rovněž je nezbytná pečlivá anamnéza, jelikož výskyt průjmů spojených s bakterií C. difficile byl zaznamenán i po více než 2 měsících od ukončení léčby antibiotiky. Jestliže je tento typ průjmu suspektní nebo potvrzený, pak probíhající antibiotická léčba, jiná než proti bakterii C.difficile, musí být ukončena.
+
+Porucha funkce ledvin
+Přípravek se má užívat s opatrností při poruše renálních funkcí (viz bod 4.2). Při podezření nebo při již existující poruše funkce ledvin je nutné pečlivé klinické sledování a přiměřená laboratorní kontrola před zahájením terapie i v jejím průběhu.
+
+Přerůstání necitlivých mikroorganismů
+Při dlouhodobém podávání mohou přerůstat necitlivé mikroorganismy. Důležité je pečlivé klinické sledování pacienta a, v případě superinfekce, zavedení přiměřené terapie.
+
+Interference s diagnostickými testy
+Výsledek Coombsova testu může být v průběhu léčby nebo po léčbě cefadroxilem přechodně pozitivní. To platí i pro Coombsův test provedený u novorozenců, jejichž matky byly před porodem léčeny cefalosporiny.
+Falešně pozitivní reakce mohou být získány z testů moči na glukózu, které používají metodu redukce mědi (Benediktův roztok, Fehlingův roztok, Clinitest). Doporučuje se použít metodu glukózové oxidázy.
+Anamnéza gastrointestinálních poruch
+U pacientů s gastrointestinálními poruchami v anamnéze, zejména s kolitidou, se má cefadroxil používat s
+opatrností.
+
+Dlouhodobé užívání
+Při dlouhodobém užívání je doporučena častá kontrola krevního obrazu a pravidelné testy funkce jater a
+ledvin.
+
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce Souběžné podávání se nedoporučuje:
+Bakteriostatická antibiotika
+Cefadroxil se nemá kombinovat s bakteriostatickými antibiotiky (např. tetracyklin, erythromycin, sulfonamidy, chloramfenikol), protože existuje možnost antagonistického účinku.
+Nefrotoxické léky
+Je třeba se vyvarovat léčbě cefadroxilem v kombinaci s aminoglykosidovými antibiotiky, polymyxinem B,
+kolistinem nebo s vysokou dávkou kličkových diuretik, protože tyto kombinace mohou zesílit nefrotoxické účinky.
+Antikoagulační léky
+Při souběžném dlouhodobém užívání antikoagulancií nebo inhibitorů agregace trombocytů jsou nutné časté kontroly koagulačních parametrů, aby se zabránilo hemoragickým komplikacím.
+
+Bezpečnostní opatření
+Souběžné podávání probenecidu snižuje renální eliminaci cefadroxilu, proto může dojít ke zvýšení plazmatických koncentrací cefadroxilu, jestliže je cefadroxil podáván v kombinaci s probenecidem. Cefadroxil se váže na kolestyramin, což může vést ke snížení biologické dostupnosti cefadroxilu.
+Pacientům užívajícím antibakteriální přípravky, nebo do tří dnů od jejich použití, nemají být podávány
+živé perorální vakcíny proti břišnímu tyfu. Toto doporučení se nevztahuje na kapsulární polysacharidové vakcíny proti břišnímu tyfu.
+
+
+4.6. Fertilita, těhotenství a kojení
+Fertilita
+V pokusech na myších nebyly prokázány nepříznivé účinky přípravku Biodroxil na fertilitu.
+
+Těhotenství
+Na základě dosud dostupných údajů není přesné a definitivní posouzení rizika v jednotlivých obdobích těhotenství dosud možné.
+Přípravek Biodroxil se v průběhu těhotenství má užívat jen ve zřetelně indikovaných případech.
+
+Kojení
+Cefadroxil proniká do mateřského mléka, proto u kojících žen má být přípravek používán s opatrností. Je možná senzibilizace, průjem nebo kolonizace sliznice kojence houbami.
+
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+
+Cefadroxil má malý vliv na schopnost řídit nebo obsluhovat stroje.
+Cefadroxil může způsobovat bolest hlavy, závratě, nervozitu, nespavost a únavu, a proto může být schopnost řídit a obsluhovat stroje ovlivněna (viz bod 4.8).
+
+
+4.8. Nežádoucí účinky
+
+Nežádoucí účinky pozorované u cefadroxilu jsou podobné jako u jiných cefalosporinů.
+Nežádoucí účinky jsou seřazeny podle orgánové klasifikace a frekvence výskytu za použití těchto kritérií výskytu:
+velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100); vzácné (≥ 1/10 000 až
+< 1/1 000); velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+Infekce a infestace
+Vzácné:    Vaginální infekce
+Není známo:  Genitální kandidóza
+
+Poruchy krve a lymfatického systému
+Není známo:  Agranulocytóza, neutropenie a trombocytopenie
+
+Poruchy imunitního systému
+Není známo:  Anafylaktické reakce, angioneurotický edém, hypersenzitivita, sérová nemoc
+Gastrointestinální poruchy
+Časté:     Průjem, dyspepsie, nauzea, zvracení
+Není známo:  Pseudomembranózní kolitida
+
+Poruchy jater a žlučových cest
+Není známo:  Jaterní selhání, cholestáza a hepatická dysfunkce
+Poruchy kůže a podkožní tkáně
+Vzácné:    Urtikarie, rash, pruritus
+Není známo:  Stevens-Johnsonův syndrom, erythema multiforme
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Není známo:  Atralgie
+
+Poruchy reprodukčního systému a prsu
+Není známo:  Pruritus genitalis
+Celkové poruchy a reakce v místě aplikace
+Časté:    Pyrexie
+
+Vyšetření
+Není známo:  Zvýšení hladin aminotransferáz
+
+Alergické reakce - spolu s dalšími cefalosporiny byly pozorovány alergické projevy, jež zahrnovaly pruritus, rash, urtikarii, angioneurotický edém. Tyto reakce obvykle ustoupily po vysazení přípravku. Byly hlášeny erythema multiforme, Stevens-Johnsonův syndrom, sérová nemoc a anafylaktické reakce.
+
+Gastrointestinální obtíže jako nauzea a zvracení, dyspepsie a průjem se mohou vyskytnout. Jejich výskyt se ještě sníží, užívá-li pacient přípravek Biodroxil spolu s jídlem - absorpce přípravku se tím nesníží. Při dlouhodobém užívání přípravku Biodroxil mohou přerůstat necitlivé mikroorganismy a vyvolat pseudomembranózní kolitidu.
+
+Jiné nežádoucí účinky jsou pruritus genitalis, genitální kandidóza, kolpitida, středně těžká přechodná neutropenie, horečka a zvýšení aktivity sérových aminotransferáz. Společně s dalšími cefalosporiny byl vzácně hlášen výskyt agranulocytózy, trombocytopenie a artralgie.
+Během postmarketingového sledování byla hlášena hepatická dysfunkce včetně cholestázy a vzácně bylo hlášeno idiosynkratické hepatické selhání; kvůli nekontrolované povaze těchto spontánních hlášení nebyl stanoven příčinný vztah k přípravku Biodroxil.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit- nezadouci-ucinek.
+
+4.9. Předávkování
+
+Žádné klinické zprávy o předávkování Biodroxilem nebyly zatím podány. Ovšem je známo, že při předávkování jinými cefalosporiny se mohou vyskytnout tyto příznaky: nauzea, halucinace, hyperreflexie, extrapyramidové příznaky, poruchy vědomí, kóma a porucha funkce ledvin. První pomoc při požití toxických dávek: nutno ihned vyvolat zvracení nebo provést výplach žaludku, v případě potřeby i hemodialýzu. Je nutná kontrola vodní a elektrolytové bilance, monitorování funkce ledvin.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+
+5.1. Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Jiná beta-laktamová antibiotika, cefalosporiny I. generace
+ATC kód: J01DB05
+
+Mechanismus účinku
+Cefadroxil je cefalosporin k perorálnímu podání, který inhibuje syntézu bakteriální stěny aktivně se dělících buněk tím, že se váže na jeden nebo více proteinů vázajících penicilin. Výsledkem je tvorba defektní buněčné stěny, která je osmoticky nestabilní, a rozklad bakteriální buňky.
+
+Rezistence
+Rezistence gramnegativních bakterií na cefalosporiny, stejně jako u jiných beta-laktamových antibiotik, je
+způsobena kombinací stupně propustnosti vnější membrány, afinity a stability vůči beta-laktamázám, a účinností cefalosporinů proti cílovým místům (proteinům vázajícími penicilin).
+Cefadroxil je inaktivován beta-laktamázami, které mohou účinně hydrolyzovat cefalosporiny, např. mnoha beta-laktamázami s rozšířeným spektrem a chromozomálními cefalosporinázami, jako jsou enzymy typu AmpC.
+Nelze očekávat, že by cefadroxil byl aktivní proti bakteriím s proteiny vázajícími penicilin, které mají sníženou afinitu k beta-laktamovým léčivům. In vitro jsou perorální cefalosporiny první generace méně aktivní než peniciliny G a V proti grampozitivním mikroorganismům a jsou méně aktivní než aminopeniciliny proti H. influenzae.
+
+Hraniční hodnoty
+Podle Evropského výboru pro testování antimikrobiální citlivosti (EUCAST) byla definována následující doporučení týkající se hraničních hodnot.
+(Tabulka hraničních hodnot pro interpretaci MIC a průměru zón, verze 5, 2015-01-01):
+
+
+Cefadroxil
+(EUCAST tabulka klinických hraničních hodnot)
+Hraniční hodnoty MIC
+(mg/l)
+
+
+Enterobacteriaceae (pouze nekomplikované infekce močových cest)
+Staphylococcus spp.
+Enterococcus spp.
+Streptococcus skupin A, B, C a G
+Druhově nespecifické hraniční hodnoty
+C ≤
+
+16
+
+Poznámka¹
+-
+Poznámka²
+IE
+R >
+
+16
+
+Poznámka¹
+-
+Poznámka²
+IE
+
+Poznámka¹: Citlivost stafylokoků na cefalosporiny je odvozena od citlivosti cefoxitinu s výjimkou
+ceftazidimu, cefiximu a ceftibutenu, které nemají hraniční hodnoty a nemají být použity pro stafylokokové infekce. Některé methicilin rezistentní S. aureus jsou citlivé na ceftarolin a ceftobiprol.
+Poznámka²: Citlivost streptokoků skupin A, B, C a G na cefalosporiny je odvozena od citlivosti na benzylpenicilin.
+IE: Neexistuje dostatek důkazů o tom, že daný druh je dobrým cílem pro terapii tímto lékem. Farmakokinetický/farmakodynamický vztah
+Pro cefalosporiny bylo prokázáno, že nejdůležitější farmakokineticko-farmakodynamický index korelující
+s účinností in vivo je procento dávkového intervalu, při kterém koncentrace nevázaného cefadroxilu zůstává nad minimální inhibiční koncentrací (MIC) pro jednotlivé cílové druhy (tzn. %T>MIC).
+Citlivost
+Prevalence rezistence se u vybraných druhů může geograficky a v čase lišit, přičemž jsou potřebné místní
+informace o rezistenci, zejména při léčení závažných infekcí. Podle potřeby je nutno vyhledat poradu
+s odborníkem, pokud místní prevalence rezistence je taková, že použití léčiva u přinejmenším některých typů infekcí je sporné.
+
+Druhy
+Běžně citlivé druhy
+Grampozitivní aerobní mikroorganismy Streptococci skupiny B, C a G Streptococcus pyogenes*
+
+Druhy, u kterých může být problémem získaná rezistence
+Grampozitivní aerobní mikroorganismy Staphylococcus aureus (citlivé na meticillin)* Staphylococcus epidermidis
+Streptococcus pneumoniae$
+Gramnegativní aerobní mikroorganismy
+Citrobacter diversus$ Escherichia coli$
+Klebsiella pneumoniae $ Klebsiella oxytoca$ Proteus mirabilis $
+Přirozeně rezistentní druhy
+Grampozitivní aerobní mikroorganismy
+Enterococci
+Staphylococcus aureus (meticilin-rezistentní)
+Staphylococcus epidermidis (meticilin-rezistentní)
+Streptococcus pneumoniae (intermediární a penicilin-rezistentní)
+
+Gramnegativní aerobní mikroorganismy
+Acinetobacter spp. Citrobacter freundii Enterobacter spp.
+Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Serratia marcescens
+H. influenzae Moraxella catarrhalis
+Jiné druhy Chlamydia spp Mykoplasma spp Legionella spp
+
+
+* Klinická účinnost byla prokázána u citlivých izolátů ve schválených klinických indikacích
+$ Druhy s přirozenou střední citlivostí
+
+5.2. Farmakokinetické vlastnosti
+
+Absorpce
+Po perorálním podání se cefadroxil rychle všechen absorbuje. Je acidorezistentní, příjem potravy absorpci
+(AUC) nesnižuje.
+
+Distribuce
+Po perorálním podání dosahuje hladina v séru maxima asi za 1,5 hodiny; po podání 500 a 1000 mg dostoupí sérová hladina 16 resp. 30 μg/ml, ještě po 12 hodinách po aplikaci 500 mg jsou hladiny v séru měřitelné. Cca 20 % látky je vázáno na bílkoviny plazmy. Cefalosporiny nepronikají do mozkomíšního moku a nemají být používány k léčbě meningitidy.
+Biotransformace
+Cefadroxil se v organizmu nemetabolizuje.
+
+Eliminace
+Cefadroxil je eliminován pomaleji, než srovnatelné perorální cefalosporiny; jeho biologický poločas u osob s normální funkcí ledvin je přibližně 1,2 až 1,7 hodiny, takže interval mezi dávkami je možné prodloužit na 12 až 24 hodin. Zhruba 90 % podané dávky v nezměněné formě ledvinami do 24 hodin. Po jednorázovém podání 500 mg dosahuje maximální koncentrace v moči cca 1800 μg/ml, maximum dosažené hladiny v moči se zvyšuje zhruba úměrně podané dávce. Po podání 1g cefadroxilu se jeho
+hladina v moči udržuje nad MIC (minimální inhibiční koncentrací) citlivých mikrobů po dobu 20 až 22 hodin. Cefadroxil může být eliminován z organismu hemodialýzou.
+Charakteristiky u pacientů se sníženou clearance kreatininu, známkou poruchy funkce ledvin
+Eliminace je zpomalená u pacientů s poruchou funkce ledvin, takže interval mezi dávkami musí být prodloužen (viz bod 4.2).
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+
+Žádné dlouhodobé studie ke stanovení kancerogenity nebyly provedeny. Testy genetické toxicity nebyly provedeny (viz bod 4.6). Histopatologické vyšetření jater, ledvin, sleziny, nadledvin, žaludku, dvanáctníku a pohlavního ústrojí potkanů po podání cefadroxilu v dávce 400 mg/kg/den po dobu 6 týdnů neodhalilo žádné problémy související s malignitou. Reprodukční studie provedené na myších a potkanech neprokázaly žádný vliv na reprodukční schopnosti.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1. Seznam pomocných látek
+
+Jádro tobolky: natrium-lauryl-sulfát magnesium-stearát
+mikrokrystalická celulosa
+Tělo a víčko tobolky: oxid titaničitý
+želatina
+čištěná voda
+
+6.2. Inkompatibility
+
+Neuplatňuje se.
+6.3. Doba použitelnosti
+
+3 roky
+
+6.4. Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C v původním obalu, aby byl přípravek chráněn před světlem a vlhkostí.
+
+6.5. Druh obalu a velikost balení
+
+PVC/PVDC/Al blistry, krabička.
+Velikosti balení:
+12, 20 a 100 tvrdých tobolek
+
+Na trhu nemusí být všechny velikosti balení.
+6.6. Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Sandoz GmbH, Biochemiestrasse 10, 6250 Kundl, Rakousko
+
+8. REGISTRAČNÍ ČÍSLA
+15/440/99-C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 30.6.1999
+Datum posledního prodloužení registrace: 28.5.2014
+10. DATUM REVIZE TEXTU
+
+16. 4. 2020

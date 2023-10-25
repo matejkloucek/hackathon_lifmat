@@ -1,0 +1,608 @@
+Sp.zn. sukls131136/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1.  NÁZEV PŘÍPRAVKU
+Pterocyn 250 mg potahované tablety Pterocyn 500 mg potahované tablety Pterocyn 1000 mg potahované tablety
+
+2.    KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna potahovaná tableta obsahuje levetiracetamum 250 mg. Jedna potahovaná tableta obsahuje levetiracetamum 500 mg. Jedna potahovaná tableta obsahuje levetiracetamum 1000 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+Potahované tablety.
+Pterocyn 250 mg potahované tablety jsou modré, oválné potahované tablety s půlicí rýhou na jedné straně, o rozměrech 12,0 x 6,0 mm. Tabletu lze rozdělit na dvě stejné dávky.
+Pterocyn 500 mg potahované tablety jsou žluté, oválné potahované tablety s půlicí rýhou na jedné straně, o rozměrech 16,0 x 8,0 mm. Tabletu lze rozdělit na dvě stejné dávky.
+Pterocyn 1000 mg potahované tablety jsou bílé, oválné potahované tablety s půlicí rýhou na jedné straně, o rozměrech 18,0 x 9,0 mm. Tabletu lze rozdělit na dvě stejné dávky
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Přípravek Pterocyn je indikován jako monoterapie při léčbě parciálních záchvatů s nebo bez sekundární generalizace u dospělých a dospívajících od 16 let s nově diagnostikovanou epilepsií.
+Přípravek Pterocyn je indikován jako přídatná terapie
+•  při léčbě parciálních záchvatů s nebo bez sekundární generalizace u dospělých, dětí a kojenců od 1 měsíce s epilepsií
+•  při léčbě myoklonických záchvatů u juvenilní myoklonické epilepsie u dospělých a
+dospívajících od 12 let
+•  při léčbě primárně generalizovaných tonicko-klonických záchvatů u dospělých a dospívajících od 12 let s idiopatickou generalizovanou epilepsií
+
+4.2  Dávkování a způsob podání Dávkování
+
+Monoterapie pro dospělé a dospívající od 16 let
+Doporučená počáteční dávka je 250 mg dvakrát denně. Po dvou týdnech užívání by měla být zvýšena na terapeutickou dávku 500 mg dvakrát denně. Dávka může být dále zvyšována o 250 mg dvakrát denně každé dva týdny v závislosti na klinické odpovědi. Maximální dávka je 1500 mg dvakrát denně.
+Přídatná terapie pro dospělé (≥18 let) a dospívající (12-17 let) s hmotností alespoň 50 kg
+Počáteční terapeutická dávka je 500 mg dvakrát denně. S touto dávkou lze začít první den léčby. Podle klinické odpovědi a snášenlivosti lze denní dávku zvýšit až na 1500 mg dvakrát denně. Dávku lze zvyšovat nebo snižovat po 500 mg dvakrát denně každé dva až čtyři týdny.
+
+Ukončení léčby
+Pokud je nutno léčbu levetiracetamem ukončit, doporučuje se vysazovat jej postupně (např. u dospělých a dospívajících s hmotností více než 50 kg: snižování o 500 mg dvakrát denně každé dva až čtyři týdny, u kojenců starších než 6 měsíců, dětí a dospívajících s hmotností nižší než 50 kg: dávka by se měla snižovat nejvýše o 10 mg/kg dvakrát denně každé dva týdny; u kojenců (pod 6 měsíců): snížení dávky nemá překročit 7 mg/kg dvakrát denně každé 2 týdny).
+
+Zvláštní populace
+Starší pacienti (65 let a starší)
+U starších pacientů s poruchou renálních funkcí (viz „Porucha renálních funkcí“ níže) se doporučuje dávku upravit.
+Porucha funkce ledvin
+Denní dávku je nutno individuálně upravit podle renálních funkcí.
+Pro dospělé pacienty použijte následující tabulku a dávku upravte odpovídajícím způsobem. Při použití této tabulky dávkování je nutno nejprve stanovit pacientovu clearance kreatininu (CLcr) v ml/min. U dospělých a dospívajících o hmotnosti 50 kg a více lze hodnotu CLcr v ml/min zjistit z hladin kreatininu v séru (mg/dl) s použitím následující rovnice:
+[140-věk (roky)] x hmotnost (kg)
+CLcr (ml/min) =                       (x 0,85 u žen)
+72 x hladina kreatininu v séru (mg/dl)
+CLcr se poté přepočítá podle následujícího vzorce na plochu povrchu těla („body surface area“, BSA):
+CLcr (ml/min)
+CLcr (ml/min/1,73 m²) =              1,73
+BSA pacienta (m²)
+Úprava dávky u dospělých a dospívajících pacientů s hmotností alespoň 50 kg s poruchou renálních funkcí:
+
+Stupeň nedostatečnosti funkce
+ledvin Normální Mírný Středně těžký Těžký
+Dialyzovaní pacienti v
+Clearance kreatininu (ml/min/1,73m²)
+> 80
+50-79
+30-49
+< 30
+-
+Dávka a frekvence podávání
+
+500-1500 mg dvakrát denně 500-1000 mg dvakrát denně 250-750 mg dvakrát denně 250-500 mg dvakrát denně 500-1000 mg jednou denně ⁽²⁾
+
+konečném stadiu onemocnění
+ledvin ⁽¹⁾
+⁽¹⁾ První den léčby levetiracetamem se doporučuje podat úvodní dávku 750 mg.
+⁽²⁾ Po dialýze se doporučuje podat dodatečnou dávku 250-500 mg.
+U dětí s poruchou funkce ledvin je třeba upravit dávku levetiracetamu podle renálních funkcí, protože clearance levetiracetamu závisí na renálních funkcích. Toto doporučení je založeno na studii s dospělými s poruchou funkce ledvin.
+CLcr v ml/min/1,73 m² může být odhadnuta ze stanovení sérového kreatininu (mg/dl) pro mladé dospívající, děti a kojence s použitím následujícího vzorce (Schwartzův vzorec):
+Výška (cm) x ks
+CLcr (ml/min/1,73 m2) =
+sérový kreatinin (mg/dl)
+ks=0,45 pro donošené kojence do 1 roku věku; ks=0,55 pro děti mladší než 13 let a dospívající dívky; ks=0,7 pro dospívající chlapce
+
+Úprava dávkování pro kojence, děti a dospívající pacienty s hmotností nižší než 50 kg s poruchou
+renálních funkcí:
+
+Stupeň nedostatečnosti
+Clearance kreatininu
+Dávka a frekvence podávání ⁽¹⁾
+
+funkce ledvin
+
+
+
+Normální
+
+
+Mírný
+
+
+Středně těžký
+
+
+Těžký
+
+
+Dialyzovaní pacienti v konečném stadiu onemocnění ledvin
+(ml/min/1,73 m²)
+
+
+>80
+
+
+50-79
+
+
+30-49
+
+
+<30
+
+
+--
+Kojenci od 1 do méně než 6 měsíců
+
+7-21 mg/kg (0,07- 0,21
+ml/kg) dvakrát denně
+
+7-14 mg/kg (0,07- 0,14
+ml/kg) dvakrát denně
+
+3,5-10,5 ml/kg (0,035-
+0,105 ml/kg) dvakrát denně
+3,5-7 mg/kg (0,035-
+0,07 ml/kg) dvakrát denně
+7-14 mg/kg (0,07- 0,14
+ml/kg) jednou denně ⁽²⁾ (4)
+Kojenci 6-23 měsíců, děti a dospívající s hmotností pod 50 kg
+10-30 mg/kg (0,10-
+0,30 ml/kg) dvakrát denně
+10-20 mg/kg (0,10-
+0,20 ml/kg) dvakrát denně
+5-15 mg/kg (0,05- 0,15
+ml/kg) dvakrát denně
+
+5-10 mg/kg (0,05- 0,10
+ml/kg) dvakrát denně
+
+10-20 mg/kg (0,10-
+0,20 ml/kg jednou
+denně (3)(5)
+⁽¹⁾ Pro dávky nižší než 250 mg a u pacientů neschopných polykat tablety se používá perorální roztok
+levetiracetamu.
+⁽²⁾ První den léčby levetiracetamem se doporučuje úvodní dávka 10,5 mg/kg (0,105 ml/kg).
+⁽³⁾ První den léčby levetiracetamem se doporučuje úvodní dávka 15 mg/kg (0,15 ml/kg) .
+⁽⁴⁾ Po dialýze se doporučuje dodatečná dávka 3,5-7 mg/kg (0,035-0,07 ml/kg).
+⁽⁵⁾ Po dialýze se doporučuje dodatečná dávka 5-10 mg/kg (0,05-0,10 ml/kg).
+
+Porucha funkce jater
+U pacientů s mírnou až středně těžkou poruchou jaterních funkcí není třeba dávku nijak upravovat. U nemocných s těžkou poruchou jaterních funkcí může hodnota clearance kreatininu podhodnocovat renální nedostatečnost. Proto se při hodnotě clearance kreatininu < 60 ml/min/1,73 m² doporučuje snížit denní udržovací dávku o 50%.
+
+Pediatrická populace
+Lékař má předepsat nejvhodnější lékovou formu, velikost balení a sílu přípravku vzhledem k věku,
+hmotnosti pacienta a dávce.
+Léková forma tablety není vhodná pro podávání kojencům a dětem mladším než 6 let. U této populace se dává přednost perorálnímu roztoku levetiracetamu. Navíc dostupná síla tablet není vhodná pro počáteční léčbu dětí s hmotností nižší než 25 kg, pro pacienty neschopné polykat tablety nebo pro podání nižších dávek než 250 mg. Ve všech těchto případech se používá perorální roztok levetiracetamu.
+Monoterapie
+Bezpečnost a účinnost levetiracetamu u dětí a dospívajících do 16 let nebyly u monoterapie ještě
+stanoveny. Nejsou k dispozici žádné údaje.
+Přídatná terapie pro kojence ve věku 6-23 měsíců, děti (2-11 let) a dospívající (12-17 let) s hmotností nižší než 50 kg
+Perorální roztok levetiracetamu je vhodnější léková forma pro kojence a děti mladší než 6 let.
+Perorální roztok levetiracetamu se používá pro dávky nižší než 250 mg u dětí od 6 let, pro dávky, které nejsou násobky 250 mg, u kterých doporučeného dávkování nelze dosáhnout podáním více tablet a u pacientů neschopných polykat tablety.
+Má být použita nejnižší účinná dávka. Počáteční terapeutická dávka pro dítě nebo dospívajícího s hmotností do 25 kg je 250 mg 2x denně s maximální dávkou 750 mg 2x denně. Dávka u dětí s hmotností od 50 kg je stejná jako u dospělých.Přídatná terapie pro kojence ve věku 1 měsíc až méně než 6 měsíců
+U kojenců se používá léková forma perorální roztok.
+
+Způsob podání
+Potahované tablety je nutno užívat perorálně, zapíjet dostatečným množství tekutiny, lze je užívat spolu s jídlem nebo bez něj. Denní dávka se podává rozdělena do dvou stejných dávek.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku, jiné deriváty pyrrolidonu nebo na kteroukoli pomocnou látku
+uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Porucha funkce ledvin
+Podávání levetiracetamu pacientům s poruchou renálních funkcí si může vyžádat úpravu dávky. U nemocných s těžkou poruchou funkce jater je vhodné před zvolením dávky provést zhodnocení renálních funkcí (viz bod 4.2).
+
+Akutní poškození ledvin
+
+Podávání levetiracetamu bylo velmi vzácně spojeno s akutním poškozením funkce ledvin, ke kterému došlo v časovém rozmezí od několika dní do několika měsíců.
+
+Krevní obraz
+V souvislosti s podáváním levetiracetamu byly popsány vzácné případy snížení hodnot krevního obrazu (neutropenie, agranulocytóza, leukopenie, trombocytopenie apancytopenie), a to obvykle na začátku léčby. Je vhodné zkontrolovat celkový krevní obraz u pacientů trpících významnou slabostí, horečnatým stavem, opakovanými infekcemi nebo poruchou srážení krve (viz bod 4.8).
+
+Sebevražda
+U pacientů léčených antiepileptiky (včetně levetiracetamu) byly hlášeny případy sebevraždy, pokusu o sebevraždu, sebevražedných představ a chování. Metaanalýza randomizovaných placebem kontrolovaných studií s antiepileptiky prokázala mírně zvýšené riziko sebevražedných myšlenek a chování. Mechanismus vzniku tohoto rizika není znám.
+Z tohoto důvodu by u pacientů měly být sledovány známky deprese a/nebo sebevražedných představ a chování a případně má být zvolena vhodná léčba. Pacientům (a jejich ošetřujícím osobám) má být doporučeno, aby okamžitě vyhledali lékařskou pomoc, pokud se u pacientů projeví známky deprese a/nebo sebevražedných představ či chování.
+
+Abnormální a agresivní chování
+Levetiracetam může vyvolat psychotické symptomy a poruchy chování včetně podrážděnosti a agresivity. U pacientů léčených levetiracetamem je třeba sledovat rozvoj psychiatrických příznaků naznačujících důležité změny nálady a/nebo osobnosti. V případě zpozorování takového chování se má zvážit úprava nebo postupné vysazení léčby. Pokyny pro případ vysazení jsou uvedeny v bodě 4.2.
+
+Pediatrická populace
+Léková forma tablety není vhodná pro kojence a děti mladší než 6 let.
+Dostupné údaje u dětí nenaznačují vliv na růst a pubertu. Avšak dlouhodobý účinek u dětí na učení,
+inteligenci, růst, endokrinní funkce, pubertu a plodnost zatím není znám.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Antiepileptika
+Údaje z premarketingových klinických studií provedených u dospělých ukazují, že levetiracetam neovlivňuje sérové koncentrace již podávaných antiepileptik (fenytoin, karbamazepin, kyselina valproová, fenobarbital, lamotrigin, gabapentin a primidon) a že tato antiepileptika neovlivňují farmakokinetiku levetiracetamu.
+Stejně jako u dospělých není u dětí užívajících levetiracetam do dávky 60 mg/kg/den důkaz o klinicky významných interakcích léčivého přípravku.
+Retrospektivní hodnocení farmakokinetických interakcí u dětí a dospívajících s epilepsií (4-17 let) potvrdilo, že přídatná léčba perorálně užívaným levetiracetamem neovliňuje sérové koncentrace současně podávaného karbamazepinu a valproátu v ustáleném stavu. I když údaje naznačují, že antiepileptika indukující enzymy zvyšují clearance levetiracetamu u dětí o 20%, dávku není třeba upravovat.
+Probenecid
+
+Bylo zjištěno, že probenecid (500 mg čtyřikrát denně), blokátor renální tubulární sekrece, inhibuje renální clearance primárního metabolitu, ne však levetiracetamu. Koncentrace uvedeného metabolitu však zůstává nízká.
+Methotrexát
+Při současném podání levetiracetamu a methotrexátu bylo hlášeno snížení clearence methotrexátu, což vede ke zvýšení (prodloužení) doby koncentrace methotrexátu v krvi na potenciálně toxické hladiny. Hladiny methotrexátu a levetiracetamu v krvi mají být pečlivě monitorovány u pacientů, kteří užívají současně oba léky.
+Perorální kontraceptiva a jiné farmakokinetické interakce
+Levetiracetam v dávce 1 000 mg denně neměl vliv na farmakokinetiku perorálních kontraceptiv (ethinylestradiol a levonorgestrel); endokrinní parametry (luteinizační hormon a progesteron) se nezměnily. Levetiracetam v dávce 2 000 mg denně neměl vliv na farmakokinetiku digoxinu ani warfarinu. Protrombinové časy se nezměnily. Současné podávání digoxinu, perorálních kontraceptiv ani warfarinu neovlivnilo farmakokinetiku levetiracetamu.
+Laxativa
+Byly hlášeny izolované případy snížení účinnosti levetiracetamu, když byl perorální levetiracetam podáván současně s osmotickým projímadlem makrogol. Proto namá být makrogol perorálně užíván alespoň hodinu před užíváním a hodinu po užívání levetiracetamu.
+Jídlo a alkohol
+Rozsah vstřebávání levetiracetamu nebyl jídlem ovlivněn, ale rychlost vstřebávání se mírně snížila. Nejsou k dispozici žádné údaje o interakci levetiracetamu s alkoholem.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Po uvedení přípravku na trh byly zdokumentovány výsledky z několika prospektivních registrů u více než 1000 těhotných žen léčených levetiracetamem v monoterapii během prvního trimestru těhotenství. Celkově tyto údaje nenaznačují podstatné zvýšení rizika větších vrozených vad, i když teratogenní riziko nemůže být úplně vyloučeno. Léčba více antiepileptiky je spojená s vyšším rizikem vrozených vad než monoterapie, a tudíž má být zvažována monoterapie . Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3).
+Podávání přípravku Pterocyn se v těhotenství a u žen v reprodukčním věku, které nepoužívají antikoncepci, nedoporučuje, pokud to není nezbytně nutné.
+Fyziologické změny během gravidity mohou ovlivnit koncentraci levetiracetamu. Během gravidity byly zaznamenány případy snížené koncentrace levetiracetamu v plazmě. K výraznějšímu poklesu docházelo během třetího trimestru gravidity (v tomto období byla koncentrace levetiracetamu v plazmě snížena až o 60% proti výchozí koncentraci před začátkem gravidity). Proto je třeba při léčbě levetiracetamem zajistit v průběhu gravidity vhodnou modifikaci dávkování. Vysazení antiepileptické léčby může vést k exacerbaci onemocnění, které může poškodit matku i plod.
+Kojení
+Levetiracetam se vylučuje do mateřského mléka. Proto se kojení nedoporučuje. Pokud však je léčba levetiracetamem během kojení nezbytná, je třeba vzhledem k významu kojení zvážit poměr rizika a přínosu léčby.
+Fertilita
+Ve studiích na zvířatech nebyl zjištěn žádný účinek na fertilitu (viz bod 5.3). Nejsou k dispozici žádné údaje z klinické praxe, potenciální riziko u člověka není známo.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Levetiracetam má zanedbatelný nebo mírný vliv na schopnost řídit nebo obsluhovat stroje.
+Vzhledem k možné rozdílné individuální citlivosti mohou někteří pacienti pociťovat somnolenci nebo jiné příznaky související s centrálním nervovým systémem, a to zejména na začátku léčby nebo po zvýšení dávky. Proto se u těchto pacientů doporučuje opatrnost při provádění náročnějších aktivit, např. řízení vozidel nebo obsluhování strojů. Pacientům se nedoporučuje řídit nebo obsluhovat stroje, dokud se nezjistí, že jejich schopnost vykonávat tyto činnosti není negativně ovlivněna.
+
+4.8  Nežádoucí účinky
+Shrnutí bezpečnostního profilu
+Nejčastěji hlášenými nežádoucími účinky byly nazofaryngitida, somnolence, bolest hlavy, únava a závratě. Profil nežádoucích účinků uvedený níže je založen na analýze souhrnných placebem kontrolovaných klinických studií ve všech studovaných indikacích s celkem 3 146 pacienty léčenými levetiracetamem. Tyto údaje pocházejí z používání levetiracetamu v otevřených prodloužených studiích i ze zkušeností po uvedení přípravku na trh. Bezpečnostní profil levetiracetamu je podobný ve všech věkových skupinách (dospělí i pediatričtí pacienti) a ve všech schválených indikacích epilepsie.
+Seznam nežádoucích účinků v tabulce
+Nežádoucí účinky hlášené z klinických studií (u dospělých, dospívajících, dětí i kojenců >1 měsíc) a z postmarketingových zkušeností jsou uvedeny níže podle tříd orgánových systémů a podle frekvence. Nežádoucí účinky jsou řazeny za sebou podle klesající závažnosti a jejich frekvence je definována takto: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000) a velmi vzácné (<1/10 000).
+
+
+MedDRA TOS
+
+Infekce a infestace Poruchy krve a lymfatického systému Poruchy imunitního systému
+
+
+
+
+
+
+Poruchy metabolismu a výživy
+
+Psychiatrické
+
+Velmi časté
+nazofaryngitida
+
+Časté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anorexie
+
+
+
+deprese,
+Frekvence
+Méně časté
+
+
+trombocytopenie leukopenie(
+
+
+
+
+
+
+
+
+
+
+snížení tělesné hmotnosti, zvýšení tělesné hmotnosti sebevražedný
+
+Vzácné
+infekce
+
+Pancytopenie neutropenie
+
+léková reakce s eozinofilií a systémovými příznaky (DRESS),
+hypersenzitivita (včetně angioedému a anafylaxe) hyponatremie
+
+
+
+dokonaná
+
+poruchy
+hostilita/agresivita,
+úzkost, insomnie, nervozita/ podrážděnost
+pokus, sebevražedné představy, psychotická porucha, abnormální
+sebevražda, poruchy osobnosti, abnormální myšlení
+
+
+
+
+
+
+
+
+Poruchy nervového systému
+
+
+
+Poruchy oka
+
+
+Poruchy ucha a labyrintu Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+
+
+Poruchy jater a
+žlučových cest
+
+
+
+Poruchy ledvin a močových cest Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Celkové poruchy a reakce v místě aplikace Poranění, otravy a procedurální komplikace
+
+
+
+
+
+
+
+somnolence, bolest hlavy
+
+
+
+
+
+
+
+konvulze, porucha rovnováhy, závratě,
+letargie, třes
+
+
+
+
+
+vertigo
+
+kašel
+
+
+bolesti břicha, průjem, dyspepsie, zvracení, nevolnost
+
+
+
+
+
+
+
+vyrážka
+
+
+
+
+
+
+
+
+
+
+
+astenie/únava
+chování, halucinace, hněv, stav zmatenosti, citová labilita/výkyvy nálady, agitovanost amnézie, porucha paměti, poruchy koordinace/ataxie, parestezie, poruchy pozornosti diplopie, rozostřené
+vidění
+
+
+
+
+
+
+
+
+
+abnormální výsledky jaterních funkčních testů
+
+
+alopecie, ekzém,
+pruritus
+
+
+
+
+
+
+svalová slabost,
+myalgie
+
+
+
+
+
+poranění
+
+
+
+
+
+
+
+choreoatetóza dyskineze hyperkineze
+
+
+
+
+
+
+
+
+
+
+
+pankreatitida
+
+
+
+jaterní selhání
+hepatitida
+
+
+
+akutní selhání ledvin toxická epidermální nekrolýza, Stevens- Johnsonův syndrom, multiformní erytém
+rabdomyolýza a zvýšení hladin kreatinfosfokináz y v krvi*
+*Prevalence je významně vyšší u japonských pacientů ve srovnání s pacienty z jiných zemí.
+
+Po podání levetiracetamu byly vzácně pozorovány případy encefalopatie. Tyto nežádoucí účinky se obvykle objevily na začátku léčby (po několika dnech až několika měsících) a po přerušení léčby byly reverzibilní.
+
+Popis vybraných nežádoucích účinků
+Riziko anorexie je vyšší při současném podávání levetiracetamu a topimarátu.
+V několika případech alopecie byla po vysazení levetiracetamu pozorována spontánní úprava stavu.
+Útlum kostní dřeně byl zjištěn v některých případech pancytopenie.
+
+Pediatrická populace
+U pacientů ve věku 1 měsíc až méně než 4 roky bylo celkem 190 pacientů léčeno levetiracetamem v placebem kontrolovaných a otevřených prodloužených studiích. Šedesát (60) z těchto pacientů bylo léčeno levetiracetamem v placebem kontrolovaných studiích. U pacientů ve věku 4-16 let bylo celkem 645 pacientů léčeno levetiracetamem v placebem kontrolovaných a otevřených prodloužených studiích. 233 těchto pacientů bylo léčeno levetiracetamem v placebem kontrolovaných studiích.
+V obou těchto pediatrických skupinách jsou tyto údaje doplněny o zkušenosti po uvedení
+levetiracetamu na trh.
+Navíc 101 kojenců ve věku pod 12 měsíců bylo léčeno v poregistrační studii bezpečnosti. Nebyla identifikována žádná nová bezpečnostní rizika pro kojence s epilepsií mladší než 12 měsíců.
+Profil nežádoucích účinků levetiracetamu je obecně podobný ve všech věkových skupinách a ve všech schválených indikacích epilepsie. Výsledky bezpečnosti u pediatrických pacientů v placebem kontrolovaných klinických studiích byly konzistentní s bezpečnostním profilem levetiracetamu u dospělých, s výjimkou behaviorálních a psychiatrických nežádoucích účinků, které byly častější u dětí než u dospělých. U dětí a dospívajících ve věku 4-16 let byly zvracení (velmi časté, 11,2%), agitovanost (časté, 3,4%), výkyvy nálady (časté, 2,1%), citová labilita (časté, 1,7%), agresivita (časté, 8,2%), abnormální chování (časté, 5,6%) a letargie (časté, 3,9%) hlášeny častěji než u ostatních věkových skupin nebo v celkovém bezpečnostním profilu. U kojenců a dětí ve věku 1 měsíc až méně než 4 roky byly podrážděnost (velmi časté, 11,7%) poruchy koordinace (časté, 3,3%) hlášeny častěji než u ostatních věkových skupin nebo v celkovém bezpečnostním profilu.
+Dvojitě zaslepená placebem kontrolovaná bezpečnostní pediatrická studie s uspořádáním pro hodnocení non-inferiority sledovala kognitivní a neuropsychologické účinky levetiracetamu u 4- 16letých dětí trpících parciálními záchvaty. Ze studie vyplývá, že v populaci splňující podmínky protokolu („per-protocol“ populace) se levetiracetam neodlišoval (nebyl horší) od placeba s ohledem na změnu od výchozího stavu ve složeném skóre k hodnocení paměti Leiter-R zahrnujícím pozornost a paměť (Leiter-R Attention and Memory, Memory Screen Composite score). Výsledky týkající se chování a emočního fungování naznačovaly u pacientů léčených levetiracetamem zhoršení, pokud jde o agresivní chování, což bylo měřeno standardizovaným a systematickým způsobem za použití ověřeného nástroje (CBCL – Achenbach Child Behavior Checklist). Avšak u jedinců, kteří užívali levetiracetam v dlouhodobé otevřené následné studii, nedošlo v průměru ke zhoršení chování a emočního fungování; zejména měřítka agresivního chování nebyla horší oproti výchozímu stavu.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Symptomy
+Při předávkování levetiracetamem byla pozorována somnolence, agitovanost, agresivita, poruchy
+vědomí, respirační útlum a kóma. Léčba předávkování
+Po akutním předávkování je třeba žaludek vyprázdnit výplachem nebo vyvoláním zvracení. Žádné specifické antidotum levetiracetamu není k dispozici. Léčba předávkování je symptomatická a může zahrnovat i hemodialýzu. Účinnost vylučování levetiracetamu dialýzou je 60% a primárního metabolitu 74%.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antiepileptika, jiná antiepileptika, ATC kód: N03AX14
+Léčivá látka, levetiracetam, je pyrrolidonový derivát (S-enantiomer α-etyl-2-oxo-1-pyrrolidin acetamid), chemicky nesouvisející s léčivými látkami obsaženými v současných antiepileptických přípravcích.
+Mechanismus účinku
+Mechanismus účinku levetiracetamu stále ještě není plně objasněn, zdá se však, že je odlišný od ostatních v současnosti užívaných antiepileptik. Pokusy in vitro a in vivo nasvědčují tomu, že levetiracetam nemění ani základní charakteristiky buněk ani normální přenos nervových vzruchů. In vitro studie ukazují, že levetiracetam ovlivňuje hladinu Ca2+ v neuronech částečnou inhibicí kalciových kanálů typu N a snížením uvolňování Ca2+ z intraneuronálních zásob. Levetiracetam navíc částečně antagonizuje snížení aktivity GABA- a glycinových kanálů způsobené zinkem a beta karboliny. Mimoto se levetiracetam v in vitro studiích váže na specifické vazebné místo v mozkové tkáni hlodavců. Specifickým vazebným místem je synaptický vezikulární protein 2A, který je považován za součást procesů fúze vezikulů a exocytózy neurotransmiterů. Levetiracetam a jeho analogy mají různou afinitu k vazbě na synaptický vezikulární protein 2A. Afinita k vazbě na synaptický vezikulární protein 2A koreluje s jejich potencí k zábraně vzniku záchvatů v audiogenních modelech epilepsie u myší. Uvedené nálezy naznačují, že interakce mezi levetiracetamem a synaptickým vezikulárním proteinem 2A by mohla přispívat k jeho antiepileptickému účinku.
+Farmakodynamické účinky
+Levetiracetam poskytuje ochranu před záchvaty ve velkém počtu zvířecích modelů parciálních a primárně generalizovaných záchvatů, aniž by měl pro-konvulzivní účinky. Primární metabolit je neaktivní. U lidí potvrdila aktivita při parciální i generalizované epilepsii (epileptiformní výboj/fotoparoxysmální odpověď) široké spektrum preklinicky stanoveného farmakologického profilu levetiracetamu.
+Klinická účinnost a bezpečnost
+Přídatná léčba parciálních záchvatů s nebo bez sekundární generalizace u dospělých, dospívajících, dětí a kojenců ve věku od 1 měsíce s epilepsií
+Účinnost levetiracetamu u dospělých byla prokázána ve 3 dvojitě zaslepených placebem kontrolovaných studiích v denní dávce 1 000 mg, 2 000 mg nebo 3 000 mg rozdělené do dvou dílčích dávek. Léčba trvala až 18 týdnů. V analýze sdružených dat bylo procento pacientů, kteří dosáhli snížení frekvence parciálních záchvatů za týden o 50% a více proti počátečnímu stavu při stabilní dávce (12/14 týdnů) 27,7%, 31,6% a 41,3% u pacientů s 1 000 mg, 2 000 mg resp. 3 000 mg levetiracetamu a 12,6% u placeba.
+
+Pediatrická populace
+U dětí (ve věku 4-16 let) byla účinnost levetiracetamu prokázána ve dvojitě zaslepené placebem kontrolované studii, do které bylo zařazeno 198 pacientů s trváním léčby 14 týdnů. V této studii byl levetiracetam užíván ve fixní dávce 60 mg/kg/den rozdělené do dvou dílčích dávek. 44,6% pacientů léčených levetiracetamem a 19,6% pacientů s placebem dosáhlo snížení frekvence parciálních záchvatů za týden proti počátečnímu stavu o 50% a více. Při pokračující dlouhodobé léčbě bylo 11,4% pacientů bez záchvatů po dobu alespoň 6 měsíců a 7,2% pacientů bylo bez záchvatů po dobu alespoň 1 roku.
+U dětí (ve věku 1 měsíc až méně než 4 roky) byla účinnost levetiracetamu stanovena ve dvojitě zaslepené placebem kontrolované studii, která zahrnovala 116 pacientů a léčba trvala 5 dní. V této studii dostávali pacienti denní dávku 20 mg/kg, 25 mg/kg, 40 mg/kg nebo 50 mg/kg perorálního roztoku na základě titračního rozpisu podle věku. V této studii byla použita dávka 20 mg/kg/den titrovaná do 40 mg/kg/den pro kojence ve věku jeden měsíc až méně než 6 měsíců, a dávka 25 mg/kg/den titrovaná do 50 mg/kg/den pro děti ve věku 6 měsíců až méně než 4 roky. Celková denní dávka byla podávána rozděleně ve dvou dílčích dávkách. Primárním měřítkem účinnosti byl podíl pacientů odpovídajících na léčbu (frekvence respondentů, tj. procento pacientů s ≥50% poklesem průměrné denní frekvence parciálních záchvatů od výchozího stavu), který byl hodnocen zaslepeně centrálním hodnotitelem prostřednictvím 48hodinového video EEG záznamu. Do analýzy účinnosti bylo zahrnuto 109 pacientů, kteří měli nejméně 24 hodin video EEG záznamu v obou obdobích, výchozím i hodnoceném. 43,6% pacientů léčených levetiracetamem a 19,6% pacientů léčených placebem bylo považováno za respondenty. Výsledky se shodují napříč věkovými skupinami. S pokračující dlouhodobou léčbou bylo 8,6% pacientů bez záchvatů nejméně po dobu 6 měsíců a 7,8% bylo bez záchvatů nejméně 1 rok.
+35 kojenců ve věku pod 1 rok s parciálními záchvaty bylo léčeno v placebem kontrolovaných klinických studiích, kde pouze 13 pacientů bylo ve věku < 6 měsíců.
+Monoterapie při léčbě parciálních záchvatů s nebo bez sekundární generalizace u pacientů od 16 let s nově diagnostikovanou epilepsií.
+Účinnost levetiracetamu v monoterapii byla prokázána ve dvojitě zaslepeném paralelním porovnání non-inferiority s karbamazepinem s řízeným uvolňováním u 576 pacientů s nově nebo nedávno diagnostikovanou epilepsií od 16 let. U pacientů musely být přítomny pouze spontánní parciální záchvaty nebo generalizované tonicko-klonické záchvaty. Pacienti byli randomizováni k užívání karbamazepinu s řízeným uvolňováním v dávce 400-1200 mg/den nebo levetiracetamu v dávce 1 000- 3 000 mg/den po dobu až 121 týdnů v závislosti na terapeutické odpovědi.
+Bez záchvatů po dobu 6 měsíců bylo 73,0% pacientů s levetiracetamem a 72,8% pacientů s karbamazepinem s řízeným uvolňováním; korigovaný absolutní rozdíl mezi léčbami byl 0,2% (95% CI: -7,8 8,2). Více než polovina pacientů byla bez záchvatů po dobu 12 měsíců (56,6% a 58,5% pacientů s levetiracetamem resp. karbamazepinem s řízeným uvolňováním).
+Ve studii odrážející klinickou praxi mohla být vysazena souběžná antiepileptická léčba u části pacientů, kteří odpověděli na přídatnou léčbu levetiracetamem (36 dospělých pacientů z 69).
+Přídatná léčba myoklonických záchvatů u juvenilní myoklonické epilepsie u dospělých a dospívajících
+od 12 let.
+Účinnost levetiracetamu byla prokázána ve dvojitě zaslepené placebem kontrolované studii trvající 16 týdnů u pacientů od 12 let s idiopatickou generalizovanou epilepsií s myoklonickými záchvaty u různých syndromů. Většina pacientů trpěla juvenilní myoklonickou epilepsií.
+V této studii byl levetiracetam užíván v dávce 3 000 mg/den rozdělené do dvou denních dávek. 58,3% pacientů léčených levetiracetamem a 23,3% pacientů s placebem dosáhlo snížení počtu dnů s myoklonickým záchvatem za týden alespoň o 50%. Při pokračující dlouhodobé léčbě bylo 28,6% pacientů bez myoklonických záchvatů po dobu alespoň 6 měsíců a 21,0% pacientů bylo bez myoklonických záchvatů po dobu alespoň 1 roku.
+
+Přídatná léčba primárně generalizovaných tonicko-klonických záchvatů u dospělých a dospívajících od 12 let s idiopatickou generalizovanou epilepsií.
+Účinnost levetiracetamu byla prokázána ve dvojitě zaslepené placebem kontrolované studii trvající 24 týdnů, která zahrnovala dospělé, dospívající a omezený počet dětí trpících idiopatickou generalizovanou epilepsií s primárně generalizovanými tonicko klonickými záchvaty (PGTC) u různých syndromů (juvenilní myoklonická epilepsie, juvenilní epilepsie s absencemi, dětská epilepsie s absencemi nebo epilepsie s generalizovanými tonicko-klonickými záchvaty po probuzení). V této studii byl levetiracetam užíván v dávce 3 000 mg/den u dospělých a dospívajících nebo 60 mg/kg/den u dětí rozdělené do dvou denních dávek. 72,2% pacientů léčených levetiracetamem a 45,2% pacientů s placebem dosáhlo snížení frekvence primárně generalizovaných tonicko-klonických záchvatů za týden o 50% a více. Při pokračující dlouhodobé léčbě bylo 47,4% pacientů bez tonicko-klonických záchvatů po dobu alespoň 6 měsíců a 31,5% pacientů bylo bez tonicko-klonických záchvatů po dobu alespoň 1 roku.
+
+5.2  Farmakokinetické vlastnosti
+Levetiracetam je vysoce rozpustná látka s vysokou schopností průniku. Farmakokinetický profil je lineární s nízkou intra- a interindividuální variabilitou. Při opakovaném podávání nedochází ke změně clearance. K dispozici nejsou žádné důkazy o větší variabilitě mezi pohlavími, rasami ani cirkadiánní variabilitě. Farmakokinetický profil u zdravých dobrovolníků a pacientů s epilepsií je srovnatelný.
+Vzhledem k úplnému a lineárnímu vstřebávání lze plazmatické hladiny předvídat na základě perorální dávky levetiracetamu, vyjádřené v mg/kg tělesné hmotnosti. Plazmatické hladiny levetiracetamu tedy není nutno monitorovat.
+Byla prokázána významná korelace mezi plazmatickou koncentrací a koncentrací ve slinách u dětí i dospělých (poměr koncentrace ve slinách/ koncentrace v plazmě se pohybují v rozmezí 1-1,7 pro tablety a 4 hodiny po podání i pro perorální roztok).
+Dospělí a dospívající
+Vstřebávání
+Levetiracetam se po perorálním podání rychle vstřebává. Absolutní biologická dostupnost po perorálním podání se blíží 100%. Maximální plazmatické koncentrace (Cmax) jsou dosaženy 1,3 hodiny po podání dávky. Ustáleného stavu se dosahuje po dvou dnech při dávkovacím režimu dvakrát denně.
+Maximálních koncentrací (Cmax) ve výši 31 μg/ml se běžně dosahuje po jednorázové dávce 1 000 mg a 43 μg/ml po opakované dávce 1 000 mg dvakrát denně.
+Rozsah vstřebávání nezávisí na dávce a není ovlivněn příjmem potravy. Distribuce
+Žádné údaje o distribuci v tkáních u člověka nejsou k dispozici.
+Ani levetiracetam ani jeho primární metabolit se ve významné míře nevážou na bílkoviny krevní plazmy (<10%). Distribuční objem levetiracetamu je přibližně 0,5-0,7 l/kg, což je hodnota blízká celkovému objemu vody v organismu.
+Biotransformace
+Levetiracetam není v lidském organismu výrazně metabolizován. Hlavní metabolickou cestou (24% dávky) je enzymatická hydrolýza acetamidové skupiny. Izoenzymy jaterního cytochromu P450 nepodporují vznik primárního metabolitu ucb L057. Hydrolýza acetamidové skupiny byla zjištěna v řadě různých tkání včetně krvinek. Metabolit ucb L057 je farmakologicky neaktivní.
+Byly zjištěny i dva méně významné metabolity. Jeden byl získán hydroxylací pyrrolidonového jádra (1,6% dávky) a druhý otevřením pyrrolidonového kruhu (0,9% dávky).
+Další neidentifikované složky představovaly pouze 0,6% dávky.
+
+In vivo nebyla zjištěna žádná enantiomerová interkonverze u levetiracetamu ani u jeho primárního
+metabolitu.
+In vitro bylo zjištěno, že levetiracetam a jeho primární metabolit neinhibují hlavní izoformy jaterního cytochromu P450 u člověka (CYP34A, 2A6, 2C9, 2C19, 2D6, 2E1 a 1A2), aktivitu glukuronyltransferázy (UGT1A1 a UGT1A6) ani epoxidové hydroxylázy. Levetiracetam in vitro navíc neovlivňuje glukuronidaci kyseliny valproové. V kulturách lidských hepatocytů měl levetiracetam minimální nebo žádný účinek na CYP1A2, SULT1E1 nebo UGT1A1. Levetiracetam způsoboval mírnou indukci CYP2B6 a CYP3A4. In vitro a in vivo údaje o interakci s perorálními kontraceptivy, digoxinem a warfarinem neukazují, že by in vivo docházelo k významné indukci enzymů. Proto je interakce levetiracetamu s jinými látkami nepravděpodobná.
+Vylučování
+Plazmatický poločas u dospělých byl 7±1 hodin a nelišil se podle dávky, způsobu podání ani při opakované aplikaci. Průměrná celková systémová clearance byla 0,96 ml/min/kg.
+Hlavní cestou exkrece byla moč, kterou se vylučovalo průměrně 95% dávky (přibližně 93% dávky se vyloučilo do 48 hodin). Stolicí se vyloučilo pouze 0,3% dávky.
+Kumulativní vylučování levetiracetamu močí během prvních 48 hodin dosáhla 66% dávky; v případě jeho primárního metabolitu 24% dávky.
+Renální clearance levetiracetamu je 0,6 ml/min/kg, pro ucb L057 4,2 ml/min/kg, což ukazuje, že levetiracetam se vylučuje glomerulární filtrací s následnou tubulární reabsorpcí a že primární metabolit se kromě glomerulární filtrace vylučuje i aktivní tubulární sekrecí.
+Vylučování levetiracetamu koreluje s clearance kreatininu.
+Starší pacienti
+U starších pacientů je eliminační poločas prodloužený přibližně o 40% (10 až 11 hodin). To souvisí se snížením renálních funkcí u této populace (viz bod 4.2).
+Porucha renálních funkcí
+Zdánlivá systémová clearance levetiracetamu a jeho primárního metabolitu koreluje s clearance kreatininu. Proto se u nemocných se středně závažnou a závažnou renální poruchou doporučuje upravit udržovací denní dávku levetiracetamu podle clearance kreatininu (viz bod 4.2).
+U anurických dospělých jedinců s terminálním renálním selháním byl poločas mezi dialýzami
+přibližně 25 hodin a během dialýzy přibližně 3,1 hodin.
+Frakční vylučování levetiracetamu během typické 4hodinové dialýzy činilo 51%.
+Porucha funkce jater
+U jedinců s mírnou a středně závažnou poruchou funkce jater nedocházelo k žádné významné změně clearance levetiracetamu. U většiny jedinců se závažnou poruchou funkce jater byla clearance levetiracetamu snížena o více než 50% v důsledku současné poruchy renální funkce (viz bod 4.2).
+Pediatrická populace
+Děti (4 až 12 let)
+Po perorálním podání jedné dávky (20 mg/kg) dětem s epilepsií (6-12 let) byl poločas levetiracetamu 6,0 hodin. Zdánlivá systémová clearance byla přibližně o 30% vyšší než u dospělých s epilepsií.
+Po podání opakovaných dávek (20-60 mg/kg/den) dětem s epilepsií (4-12 let) byl levetiracetam rychle absorbován. Maximální plazmatické koncentrace bylo dosaženo 0,5 až 1,0 hodinu po podání. Bylo pozorováno lineární a dávce úměrné zvýšení maximální plazmatické koncentrace a plochy pod křivkou. Eliminační poločas byl přibližně 5 hodin. Zdánlivá tělesná clearance byla 1,1 ml/min/kg.
+Kojenci a děti (1 měsíc – 4 roky)
+
+Po jednorázovém podání (20 mg/kg) perorálního roztoku 100 mg/ml dětem s epilepsií (1 měsíc – 4 roky) byl levetiracetam rychle absorbován a maximální plazmatická koncentrace byla pozorována přibližně 1 hodinu po podání. Farmakokinetické výsledky ukazují, že eliminační poločas je u dětí kratší (5,3 hodiny) než u dospělých (7,2 hodiny), a že zdánlivá tělesná clearance je u dětí rychlejší (1,5 ml/min/kg) než u dospělých (0,96 ml/min/kg).
+V analýze populační farmakokinetiky provedené u pacientů ve věku od 1 měsíce do 16 let korelovala tělesná hmotnost významně se zdánlivou clearance (clearance narůstala se zvýšením tělesné hmotnosti), a se zdánlivým distribučním objemem. Na oba parametry měl vliv také věk. Tento účinek byl výraznější u mladších dětí, ustupoval se zvyšujícím se věkem a kolem 4 let věku se stal zanedbatelným.
+V obou analýzách populační farmakokinetiky došlo k asi 20% zvýšení zdánlivé clearance
+levetiracetamu, když byl levetiracetam podáván spolu s antiepileptiky, které indukují tvorbu enzymů.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, genotoxicity a
+karcinogenity nenaznačují žádné zvláštní riziko pro člověka
+Nežádoucí účinky, které nebyly pozorovány v klinických studiích, ale byly zjištěny u potkanů a v menší míře u myší, při expozici podobným hladinám jako u člověka a s potenciálním významem pro použití v klinické praxi, byly jaterní změny naznačující adaptivní odpověď, jako je zvýšená hmotnost a centrilobulární hypertrofie, infiltrace tuku a zvýšená hladina jaterních enzymů v plazmě.
+U potkanů nebyly v dávkách až 1800 mg/kg/den (6násobek maximální doporučené denní dávky u lidí v přepočtu na mg/m2 nebo expozici) pozorovány žádné nežádoucí účinky na fertilitu samců ani samic u rodičů a první generace potomků.
+Dvě studie embryo-fetálního vývoje (EFV studie) byly provedeny u potkanů s dávkami 400, 1 200 a 3 600 mg/kg/den. Při dávce 3 600 mg/kg/den došlo pouze v jedné z těchto dvou EFV studií k nepatrnému snížení fetální hmotnosti, spojenému s hraničním nárůstem počtu kostních variant/menších anomálií. Nedošlo k žádnému ovlivnění embryomortality ani ke zvýšení výskytu malformací. NOAEL (hladina bez pozorovaných nežádoucích účinků) byla 3 600 mg/kg/den pro březí samice potkanů (12násobek maximální doporučené denní dávky u lidí při přepočtu na mg/m2) a 1 200 mg/kg/den pro plody.
+Čtyři studie embryo-fetálního vývoje byly provedeny u králíků s dávkami 200, 600, 800, 1 200 a 1 800 mg/kg/den. Dávka 1 800 mg/kg/den vedla ke značné toxicitě u samic-matek a ke snížení fetální hmotnosti, spojenému se zvýšeným výskytem plodů s kardiovaskulárními/kosterními anomáliemi.
+NOAEL byla < 200 mg/kg/den pro samice-matky a 200 mg/kg/den pro plody (odpovídá maximální doporučené denní dávce u lidí při přepočtu na mg/m2).
+Studie perinatálního a postnatálního vývoje byla provedena u potkanů s dávkami levetiracetamu 70, 350 a 1 800 mg/kg/den. NOAEL byla ≥1 800 mg/kg/den pro samice F0, stejně jako pro přežití, růst a vývoj mláďat F1 až do odstavení (6násobek maximální doporučené denní dávky u lidí při přepočtu na mg/m2).
+Studie s novorozenci a mláďaty zvířat neukázaly u psů a potkanů žádné nežádoucí účinky na standardní výsledky vývoje a maturace v dávkách do 1 800 mg/kg/den (6-17násobek maximální doporučené denní dávky u lidí při přepočtu na mg/m2).
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Jádro tablety: Krospovidon (typ B), Povidon K30, koloidní bezvodý oxid křemičitý, magnesium-
+stearát
+
+Pterocyn 250 mg potahované tablety potahová vrstva:
+Hypromelosa, makrogol 400, oxid titaničitý (E171), mastek, hlinitý lak indigokarminu (E132)
+Pterocyn 500 mg potahované tablety potahová vrstva:
+Hypromelosa, makrogol 400, oxid titaničitý (E171), mastek, žlutý oxid železitý (E172)
+Pterocyn 1000 mg potahované tablety potahová vrstva:
+Hypromelosa, makrogol 400, oxid titaničitý (E171), mastek
+
+6.2  Inkompatibility
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+3 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+Pterocyn 250 mg potahované tablety jsou balené v Al/PVC-PE-PVDC blistrech a krabičkách. Velikost balení: 10, 20, 30, 50, 60, 80, 120 a 200 potahovaných tablet.
+Pterocyn 500 mg potahované tablety jsou balené v Al/PVC-PE-PVDC blistrech a krabičkách. Velikost balení: 10, 20, 30, 50, 60, 80, 120 a 200 potahovaných tablet.
+Pterocyn 1000 mg potahované tablety jsou balené v Al/PVC-PE-PVDC blistrech a krabičkách. Velikost balení: 10, 20, 30, 50, 60, 80, 120 a 200 potahovaných tablet.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+Žádné zvláštní požadavky.
+
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Neuraxpharm Bohemia s.r.o. náměstí Republiky 1078/1 110 00 Praha 1 – Nové Město Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+Pterocyn 250 mg potahované tablety:  21/388/12-C Pterocyn 500 mg potahované tablety:  21/389/12-C Pterocyn 1000 mg potahované tablety: 21/391/12-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 6.6.2012
+Datum prodloužení registrace: 9.12.2019
+
+10.  DATUM REVIZE TEXTU
+26.5.2020

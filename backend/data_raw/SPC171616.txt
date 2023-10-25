@@ -1,0 +1,510 @@
+Sp. zn. sukls25549/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Fomicyt 40 mg/ml prášek pro infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml infuzního roztoku obsahuje fosfomycinum 40 mg.
+
+Jedna lahvička s 2,69 g prášku obsahuje fosfomycinum dinatricum 2,64 g, což odpovídá fosfomycinum 2 g a 0,64 g sodíku v roztoku s 50 ml rozpouštědla.
+
+Jedna lahvička s 5,38 g prášku obsahuje fosfomycinum dinatricum 5,28 g, což odpovídá fosfomycinum 4 g a 1,28 g sodíku v roztoku se 100 ml rozpouštědla.
+
+Jedna lahvička s 10,76 g prášku obsahuje fosfomycinum dinatricum 10,56 g, což odpovídá fosfomycinum 8 g a 2,56 g sodíku v roztoku s 200 ml rozpouštědla.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Prášek pro infuzní roztok.
+
+Bílý až krémově zbarvený prášek.
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Přípravek Fomicyt je indikován pro všechny věkové skupiny k léčbě následujících infekcí, pokud je podávání antibakteriálních přípravků, které se běžně doporučují pro počáteční léčbu takových infekcí (viz bod 4.2, 4.4 a 5.1), považováno za nevhodné:
+−   komplikované infekce močových cest
+−   infekční endokarditida
+−   infekce kostí a kloubů
+−   nozokomiální pneumonie včetně ventilátorové pneumonie
+−   komplikovaná infekce kůže a měkkých tkání
+−   bakteriální meningitida
+−   komplikované intraabdominální infekce
+−    bakteriemie, která se vyskytne ve spojení s některou z výše uvedených infekcí nebo u níž existuje podezření, že by s ní mohla být spojena
+
+Je třeba vzít v úvahu oficiální pokyny ke správnému podávání antibakteriálních přípravků.
+
+
+1
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Denní dávka fosfomycinu se stanoví na základě indikace, závažnosti a místa infekce, citlivosti patogenu (patogenů) na fosfomycin a ledvinové funkce. U dětí je určována také věkem
+a tělesnou hmotností.
+Dospělí a dospívající (ve věku ≥ 12 let) (≥ 40 kg):
+Obecné pokyny pro dávkování u dospělých a dospívajících s odhadovanou clearance kreatininu > 80 ml/min jsou následující:
+Tabulka 1 – dávkování u dospělých a dospívajících s CrCl > 80 ml/min
+
+Indikace
+Komplikovaná infekce močových cest Infekční endokarditida
+Infekce kostí a kloubů
+Nozokomiální pneumonie včetně ventilátorové pneumonie
+Komplikovaná infekce kůže a měkkých tkání
+Bakteriální meningitida
+Komplikované intraabdominální infekce
+Bakteriemie, která se vyskytne ve spojení s některou z výše uvedených infekcí nebo u níž existuje podezření, že by s ní mohla být spojena
+Jednotlivé dávky nesmí překročit 8 g.
+Denní dávka
+12–24 gᵃ ve 2–3 dílčích dávkách
+12–24 gᵃ ve 2–3 dílčích dávkách
+12–24 gᵃ ve 2–3 dílčích dávkách
+12–24 gᵃ ve 2–3 dílčích dávkách
+
+12–24 gᵃ ve 2–3 dílčích dávkách
+
+16–24 gᵃ ve 3–4 dílčích dávkách
+12–24 gᵃ ve 2–3 dílčích dávkách
+12–24 gᵃ ve 2–3 dílčích dávkách
+ᵃ Režim s vysokými dávkami ve 3 dílčích dávkách se má používat u závažných infekcí, u nichž se předpokládá nebo je známo, že jsou způsobeny méně citlivými bakteriemi. Jsou dostupné pouze omezené údaje o bezpečnosti, zejména pokud jde o dávky vyšší než 16 g/den. Při předepisování takových dávek je nutná zvláštní opatrnost.
+Délka léčby
+Délka léčby se má řídit typem a závažností infekce a pacientovou klinickou odpovědí.
+Starší pacienti
+U starších pacientů se mají používat doporučené dávky pro dospělé. Při zvažování použití dávek na horní hranici doporučeného rozmezí se doporučuje opatrnost (viz také doporučení k dávkování u pacientů s poruchou funkce ledvin).
+Porucha funkce ledvin
+U pacientů s odhadovanou clearance kreatininu 40–80 ml/min není doporučována úprava dávky. V těchto případech je však třeba postupovat opatrně, zejména pokud se zvažuje
+podávání dávky na horní hranici doporučeného rozmezí.
+2
+
+U pacientů s poruchou funkce ledvin musí být dávka fosfomycinu přizpůsobena stupni poruchy funkce ledvin.
+Titrace dávky má vycházet z hodnot clearance kreatininu.
+V tabulce 2 jsou uvedeny doporučené úpravy dávky pro pacienty s hodnotou CrCL nižší než 40 ml/min:
+Tabulka 2 – Úpravy dávky pro pacienty s hodnotou CrCL nižší než 40 ml/min
+
+
+CLCR pacienta
+
+40 ml/min
+30 ml/min
+20 ml/min
+10 ml/min
+
+CLCR pacienta / CLCR normální
+
+0,333
+0,250
+0,167
+0,083
+Doporučená denní dávkaᵃ
+70 % (ve 2–3 dílčích dávkách)
+60 % (ve 2–3 dílčích dávkách)
+40 % (ve 2–3 dílčích dávkách)
+20 % (v 1–2 dílčích dávkách)
+ᵃ Dávka je vyjádřena jako podíl dávky, která by se považovala za odpovídající, pokud by pacientova funkce ledvin byla normální na základě výpočtu podle Cockroftova-Gaultova vzorce.
+První (nasycovací) dávka má být zvýšena o 100 %, ale nesmí překročit 8 g.
+Pacienti podstupující renální substituční terapii
+Pacienti podstupující dlouhodobou intermitentní dialýzu (každých 48 hodin) mají dostávat 2 g fosfomycinu na konci každé dialýzy.
+Během kontinuální venovenózní hemofiltrace (postdiluční CVVHF) je fosfomycin účinně
+eliminován. Pacientům podstupujícím postdiluční CVVHF není nutné dávku upravovat (viz bod 5.2).
+Porucha funkce jater
+U pacientů s poruchou funkce jater není nutná žádná úprava dávkování.
+Pediatrická populace
+Doporučení dávek vycházejí z velmi omezených údajů. Novorozenci, kojenci a děti ve věku < 12 let (< 40 kg)
+Dávkování fosfomycinu u dětí má být založeno na věku a tělesné hmotnosti:
+Tabulka 3 – Dávkování u dětí a novorozenců
+
+Věk / tělesná hmotnost
+Předčasně narození novorozenci (věkᵃ
+< 40 týdnů)
+Novorozenci (věkᵃ 40–44 týdnů)
+
+Kojenci ve věku 1–12 měsíců (do 10 kg tělesné hmotnosti)
+Denní dávka
+100 mg/kg tělesné hmotnosti ve 2 dílčích dávkách
+200 mg/kg tělesné hmotnosti ve 3 dílčích dávkách
+200–300ᵇ mg/kg tělesné hmotnosti ve 3 dílčích dávkách
+
+
+3
+
+Kojenci a děti ve věku 1 ≤ 12 let (10 ≤ 40 kg tělesné hmotnosti)
+ᵃ Součet gestačního a postnatálního věku.
+200-400ᵇ mg/kg tělesné hmotnosti ve 3–4 dílčích dávkách
+ᵇ Režim s vysokými dávkami lze zvažovat u závažných nebo těžkých infekcí
+(např. meningitida), zejména pokud je známo nebo existuje podezření, že jsou způsobeny organismy se střední citlivostí.
+Pro děti s poruchou funkce ledvin nelze stanovit doporučené dávkování. Způsob podání
+Přípravek Fomicyt je určen k intravenóznímu podání.
+Infuze má trvat nejméně 15 minut při podání dávky 2 g, nejméně 30 minut při podání dávky 4 g a nejméně 60 minut při podání dávky 8 g.
+Protože při neúmyslném intraarteriálním podání přípravků, které nejsou specificky doporučeny pro intraarteriální léčbu, hrozí škodlivé účinky, je nezbytné zajistit, aby byl fosfomycin podáván pouze do žil.
+Návod k rekonstituci a naředění tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6.
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+Riziko selekce rezistence a potřeba kombinované léčby
+In vitro bylo zjištěno, že u fosfomycinu dochází k rychlé selekci rezistentních mutací. Se
+selekcí rezistence bylo v klinických studiích spojováno i intravenózní podávání samotného fosfomycinu. Pokud je to tedy možné, doporučuje se podávat fosfomycin jako součást
+kombinovaného antibakteriálního léčebného režimu, aby se snížilo riziko selekce rezistence. Omezené klinické údaje
+Vzhledem k nedostatku odpovídajících randomizovaných kontrolovaných klinických
+hodnocení jsou v případě některých z uvedených indikací dostupné pouze omezené klinické údaje podporující intravenózní podávání fosfomycinu. Navíc byly podávány různé dávkovací
+režimy a údaje z klinických hodnocení žádný z režimů s intravenózním podáváním dostatečně nepodporují. Doporučuje se volit fosfomycin k léčbě uvedených indikací, pouze pokud je
+podávání antibakteriálních přípravků, které se běžně doporučují pro počáteční léčbu takových infekcí, považováno za nevhodné.
+Hypersenzitivní reakce
+Během léčby fosfomycinem se mohou vyskytnout závažné a někdy i fatální hypersenzitivní reakce, např. anafylaxe nebo anafylaktický šok (viz body 4.3 a 4.8). Pokud k takovým
+reakcím dojde, musí být léčba fosfomycinem okamžitě přerušena a musejí být zahájena odpovídající naléhavá opatření.
+Průjem související s bakterií Clostridioides difficile
+U fosfomycinu byla hlášena kolitida související s bakterií Clostridioides difficile
+a pseudomembranózní kolitida a jejich závažnost může být mírná až život ohrožující (viz
+
+4
+
+bod 4.8). Proto je důležité vzít v úvahu tuto diagnózu u pacientů s průjmem během podávání fosfomycinu nebo po něm. Je třeba zvážit ukončení léčby fosfomycinem a podávání
+specifické léčby proti bakteriím Clostridioides difficile. Nemají být podávány léčivé přípravky, které inhibují peristaltiku.
+Koncentrace sodíku a draslíku a riziko sodíkového přetížení
+U pacientů dostávajících fosfomycin, zejména během dlouhodobé léčby, je nutné pravidelně
+sledovat koncentraci sodíku a draslíku. Vzhledem k vysokému obsahu sodíku (0,32 gramu) na gram fosfomycinu je nezbytné před zahájením léčby vyhodnotit riziko hypernatremie
+a přetížení tekutinami, a to zejména u pacientů s městnavým srdečním selháním v anamnéze nebo souvisejícími komorbiditami jako nefrotický syndrom, jaterní cirhóza, hypertenze, hyperaldosteronismus, plicní edém nebo hypoalbuminemie, a také u novorozenců s omezením příjmu sodíku. Během léčby se doporučuje dieta s nízkým obsahem sodíku. Lze zvážit také prodloužení infuze a/nebo snížení individuální dávky (při častějším podávání). Fosfomycin může snižovat koncentraci draslíku v séru nebo v plazmě, proto je vždy nezbytné zvážit
+suplementaci draslíku.
+Hematologické reakce (včetně agranulocytózy)
+U pacientů dostávajících fosfomycin intravenózně se objevily hematologické reakce včetně neutropenie nebo agranulocytózy (viz bod 4.8). Proto je nezbytné v pravidelných intervalech monitorovat počet leukocytů, a pokud k takovým reakcím dojde, je třeba zahájit odpovídající léčbu.
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin upravte dávku podle stupně poruchy funkce ledvin (viz bod 4.2).
+Pomocné látky
+Jeden g fosfomycinu (což odpovídá 1,32 g disodné soli fosfomycinu) obsahuje 14 mmol (320 mg) sodíku, což odpovídá 16 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku . Jedna lahvička se 2 g
+fosfomycinu obsahuje 28 mmol (640 mg) sodíku, jedna lahvička se 4 g fosfomycinu obsahuje 56 mmol (1 280 mg) sodíku a jedna lahvička s 8 g fosfomycinu obsahuje 111 mmol
+(2 560 mg) sodíku.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Zvláštní pokyny týkající se nerovnováhy INR
+
+U pacientů léčených antibiotiky byly hlášeny četné případy zvýšené aktivity perorálních antikoagulancií. Jako rizikové faktory se jeví závažnost infekce nebo zánětu, věk pacienta
+a celkový zdravotní stav. Za těchto okolností je obtížné určit, v jaké míře hraje v nerovnováze INR roli infekce samotná nebo její léčba. Ve větší míře se to však týká určitých tříd antibiotik, zejména fluorochinolonů, makrolidů, cyklinů, kotrimoxazolu a některých cefalosporinů.
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Údaje o intravenózním podávání fosfomycinu těhotným ženám nejsou k dispozici. Fosfomycin prochází placentou. Studie reprodukční toxicity na zvířatech nenaznačují přímé nebo nepřímé škodlivé účinky (viz bod 5.3). Fosfomycin proto nemá být předepisován těhotným ženám, pokud přínos nepřevyšuje riziko.
+
+5
+
+Kojení
+Po podání fosfomycinu bylo malé množství zjištěno v mateřském mléku. Jsou dostupné pouze omezené informace o užívání fosfomycinu během kojení, proto se nedoporučuje podávat ho
+kojícím ženám jako léčbu první volby, zejména pokud kojí nedonošené nebo novorozené dítě. Nebylo prokázáno žádné konkrétní riziko pro kojené dítě, stejně jako u jiných antibiotik je ale třeba vzít v úvahu potenciální riziko změn střevní flóry dítěte.
+Fertilita
+
+Nejsou dostupné žádné údaje u lidí. U samců a samic potkanů nedošlo při perorálním podání fosfomycinu až do dávky 1000 mg/kg/den k narušení fertility (viz bod 5.3).
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly provedeny žádné zvláštní studie, ale pacienti mají být poučeni, že byly hlášeny případy zmatenosti a astenie. U některých pacientů to může mít vliv na jejich schopnost řídit nebo obsluhovat stroje (viz bod 4.8).
+4.8  Nežádoucí účinky
+Shrnutí bezpečnostního profilu
+Nejčastěji hlášenými nežádoucími účinky během léčby jsou erytematózní výsev vyrážky na kůži, porucha iontové rovnováhy (viz bod 4.4), reakce v místě vpichu injekce, porucha chuti a gastrointestinální poruchy. K dalším významným nežádoucím účinkům patří anafylaktický šok, kolitida související s antibiotiky a pokles počtu leukocytů (viz bod 4.4).
+Tabulkový seznam nežádoucích účinků
+Nežádoucí účinky jsou uvedeny podle tělesného systému a frekvence podle následující konvence:
+Velmi časté: ≥ 1/10 Časté: ≥1/100 až <1/10
+Méně časté: ≥1/1000 až <1/100 Vzácné: ≥1/10000 až <1/1000 Velmi vzácné: <1/10000
+Není známo: z dostupných údajů nelze určit
+V každé skupině podle frekvence jsou nežádoucí účinky uvedeny v sestupném pořadí podle závažnosti.
+
+Třídy orgánových systémů Poruchy krve
+a lymfatického systému
+
+
+Poruchy imunitního systému
+Frekvence
+Není známo
+
+
+
+
+Velmi vzácné
+
+
+
+
+Časté
+Nežádoucí účinek
+Agranulocytóza (dočasná), leukopenie, trombocytopenie, neutropenie
+Anafylaktické reakce včetně anafylaktického šoku
+a hypersenzitivity (viz bod 4.4)
+Dysgeuzie
+
+6
+
+Poruchy nervového systému
+Vyšetření
+
+Gastrointestinální poruchy
+
+
+Poruchy jater a žlučových cest
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+Méně časté Časté
+Méně časté Není známo
+
+Méně časté
+
+
+
+
+
+
+Není známo Časté
+
+Méně časté Není známo
+
+Časté
+
+Méně časté
+Bolest hlavy
+
+Hypernatremie, hypokalemie* (viz bod 4.4)
+Nauzea, zvracení, průjem Kolitida související
+s antibiotiky (viz bod 4.4)
+(Dočasně) zvýšená
+koncentrace alkalické fosfatázy, zvýšená
+koncentrace aminotransferáz (ALT, AST) a zvýšená koncentrace gama-GT v krvi
+Hepatitida
+Erytematózní výsev vyrážky na kůži
+Vyrážka
+Angioedém, svědění, kopřivka
+Flebitida v místě vpichu injekce
+Astenie
+* Viz bod níže (Popis vybraných nežádoucích účinků) Popis vybraných nežádoucích účinků:
+Hypokalemie může vyvolávat různé příznaky, např. slabost, únavu nebo otoky a/nebo svalové záškuby. Závažné formy mohou způsobovat hyporeflexii a srdeční arytmii. Hypernatremie může být spojována s žízní, zvýšeným krevním tlakem a známkami tekutinového přetížení, např. otokem (viz bod 4.4). Závažné formy mohou způsobovat zmatenost, hyperreflexii,
+záchvaty a kóma.
+Pediatrická populace
+U pediatrické populace jsou dostupné pouze omezené informace o bezpečnosti. Lze ale
+očekávat podobnou frekvenci, typ a závažnost nežádoucích účinků jako u dospělé populace. Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky prostřednictvím:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+7
+
+4.9  Předávkování
+Zkušenosti s předávkováním fosfomycinem jsou omezené. Při parenterálním podání fosfomycinu byly hlášeny případy hypotonie, somnolence, poruchy elektrolytů,
+trombocytopenie a hypoprotrombinémie. V případě předávkování musí být pacient sledován (zejména hodnoty elektrolytů v plazmě/séru) a případná léčba má být symptomatická
+a podpůrná. K podpoře eliminace léčivé látky močí se doporučuje rehydratace. Fosfomycin je účinně vylučován z těla hemodialýzou s průměrným poločasem eliminace přibližně 4 hodiny.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antibakteriální léčiva pro systémovou aplikaci, jiná antibakteriální léčiva
+ATC kód: J01XX01
+Mechanismus účinku
+Fosfomycin vykazuje baktericidní účinek na proliferující patogeny tím, že brání enzymatické syntéze bakteriální buněčné stěny. Fosfomycin inhibuje první stupeň nitrobuněčné syntézy
+stěny bakteriální buňky blokováním syntézy peptidoglykanů.
+Fosfomycin je aktivně transportován do bakteriální buňky prostřednictvím dvou různých transportních systémů (transportní systémy sn-glycerol-3-fosfátu a hexózy-6).
+Farmakokinetické/farmakodynamické vztahy
+Omezená data naznačují, že je účinek fosfomycinu je závislý na čase. Mechanismus rezistence
+Hlavním mechanismem rezistence je chromozomální mutace způsobující změnu bakteriálních transportních systémů fosfomycinu. Další mechanismy rezistence přenášené plazmidy nebo transpozony způsobují enzymatickou inaktivaci fosfomycinu navázáním jeho molekuly na
+glutathion nebo štěpením vazby uhlíku s fosforem v molekule fosfomycinu. Zkřížená rezistence
+Zkřížená rezistence mezi fosfomycinem a jinými třídami antibiotik není známa. Hraniční hodnoty testování citlivosti
+Evropským výborem pro testování antimikrobiální citlivosti byly stanoveny následující hraniční hodnoty minimální inhibiční koncentrace (MIC) (tabulka hraničních hodnot EUCAST verze 10):
+
+Druh Enterobacterales Staphylococcus spp. Citlivost
+citlivý
+≤ 32 mg/l
+≤ 32 mg/l
+rezistentní
+> 32 mg/l
+> 32 mg/l
+Prevalence získané rezistence u jednotlivých druhů se může lišit geograficky i v čase. Proto jsou nutné lokální informace o stavu rezistence, zejména s cílem zajistit odpovídající léčbu závažných infekcí.
+
+
+8
+
+Následující informace představují pouze přibližné vodítko ohledně pravděpodobnosti, zda bude mikroorganismus citlivý na fosfomycin, či nikoliv.
+Běžně citlivé druhy
+Aerobní grampozitivní mikroorganismy
+Staphylococcus aureus
+Aerobní gramnegativní mikroorganismy
+Citrobacter freundii Citrobacter koseri Escherichia coli Haemophilus influenzae Neisseria meningitidis Salmonella enterica Anaerobní mikroorganismy Fusobacterium spp.
+Peptococcus spp. Peptostreptococcus spp.
+Druhy, u nichž může být problémem získaná rezistence
+Aerobní grampozitivní mikroorganismy Staphylococcus epidermidis Streptococcus pneumoniae Enterococcus spp.
+Aerobní gramnegativní mikroorganismy
+Enterobacter cloacae Klebsiella aerogenes Klebsiella oxytoca Klebsiella pneumonia Proteus mirabilis Pseudomonas aeruginosa Serratia marcescens
+Anaerobní grampozitivní mikroorganismy
+Clostridium spp.
+Přirozeně rezistentní druhy
+Aerobní grampozitivní mikroorganismy Staphylococcus saprophyticus Streptococcus pyogenes
+Aerobní gramnegativní mikroorganismy
+Legionella pneumophila Morganella morganii Stenotrophomonas maltophilia
+Anaerobní gramnegativní mikroorganismy
+Bacteroides spp.
+Jiné mikroorganismy
+Chlamydia spp. Chlamydophila spp. Mycoplasma spp.
+5.2  Farmakokinetické vlastnosti
+Farmakokinetika
+
+9
+
+Po jednorázové intravenózní infuzi 4 g, resp. 8 g fosfomycinu podané mladým zdravým mužům činila maximální koncentrace v séru (Cmax) přibl. 200, resp. 400 μg/ml. Biologický poločas vylučování ze séra byl přibližně 2 hodiny. U starších a/nebo kriticky nemocných mužů a žen byla po podání jednorázové intravenózní dávky 8 g fosfomycinu zjištěna
+průměrná hodnota Cmax 350–380 µg/ml a biologický poločas v plazmě činil 3,6–3,8 hodin.
+Distribuce
+Zdánlivý distribuční objem fosfomycinu je přibližně 0,30 l/kg tělesné hmotnosti. Fosfomycin je dobře distribuován do tkání. Vysokých koncentrací je dosahováno v očích, kostech, ranných sekretů, svalech, kůži, podkoží, plicích a žluči. U pacientů se zánětem mozkových blan dosahuje koncentrace v mozkomíšním moku přibližně 20–50 % odpovídající koncentrace v séru. Fosfomycin prochází placentární bariérou. V mateřském mléce bylo
+zjištěno malé množství (přibližně 8 % koncentrace v séru). Vazba na plazmatické proteiny je zanedbatelná.
+Metabolismus
+Fosfomycin není metabolizován játry a neprochází enterohepatálním oběhem. U pacientů s poruchou funkce jater se proto neočekává akumulace.
+Eliminace
+Osmdesát až devadesát procent fosfomycinu podávaného zdravým dospělým se vyloučí
+renálně během 12 hodin po jednorázovém intravenózním podání. Malé množství antibiotika se nachází ve stolici (0,075 %). Fosfomycin není metabolizován, tzn. že je eliminována
+biologicky aktivní sloučenina. U pacientů s normální nebo lehkou až středně těžkou poruchou funkce ledvin (clearance kreatininu ≥ 40 ml/min) se během prvních 3–4 hodin vyloučí
+přibližně 50–60 % celkové dávky.
+Linearita
+Po intravenózní infuzi terapeuticky používaných dávek vykazuje fosfomycin lineární farmakokinetické chování.
+Zvláštní skupiny pacientů
+O zvláštních skupin pacientů jsou dostupné pouze velmi omezené údaje.
+Starší pacienti
+Není nutné upravovat dávku pouze podle věku. Má však být vyšetřena funkce ledvin a v případě průkazu zhoršené funkce ledvin má být dávka snížena (viz bod 4.2).
+Pediatrická populace
+Farmakokinetika fosfomycinu u dětí a dospívajících ve věku 3–15 let a u novorozenců
+s normální funkcí ledvin je obecně podobná farmakokinetice u zdravých dospělých jedinců.
+U novorozenců a kojenců do 12 měsíců s normální funkcí ledvin je však rychlost
+glomerulární filtrace z fyziologických důvodů nižší než u starších dětí nebo dospělých. S tím souvisí i delší poločas vylučování fosfomycinu v závislosti na stadiu zrání ledvin.
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin se poločas vylučování prodlužuje úměrně stupni poruchy funkce ledvin. Pacientům s hodnotami clearance kreatininu 40 ml/min nebo méně je třeba upravit dávku (další podrobnosti viz také bod 4.2 „Porucha funkce ledvin“).
+10
+
+Ve studii zkoumající 12 pacientů s CVVHF byly použity běžné polyethylensulfonové hemofiltry s plochou membrány 1,2 m² a průměrná rychlost ultrafiltrace činila 25 ml/min.
+Průměrná hodnota plazmatické clearance v těchto klinických podmínkách činila 100 ml/min a poločas eliminace byl 12 hodin.
+Porucha funkce jater
+
+U pacientů s poruchou funkce jater není nutná úprava dávkování, protože farmakokinetika fosfomycinu zůstává u této skupiny pacientů stejná.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti,
+toxicity po opakovaném podávání, genotoxicity nebo reprodukční toxicity neodhalily žádné zvláštní riziko pro člověka.
+Pro fosfomycin nejsou k dispozici žádné údaje o karcinogenitě.
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Kyselina jantarová.
+6.2  Inkompatibility
+
+Přestože nebyly zjištěny žádné chemické/farmaceutické inkompatibility, roztoky přípravku Fomicyt nesmějí být míseny s jinými parenterálními přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+6.3  Doba použitelnosti
+
+4 roky.
+
+Chemická a fyzikální stabilita konečného zředěného roztoku připraveného za aseptických
+podmínek byla prokázána na dobu 24 hodin při 25 °C, pokud je roztok chráněn před světlem.
+
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti
+uživatele a normálně nemá být doba delší než 24 hodin při 2 ⁰C - 8 ⁰C, pokud
+rekonstituce/ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje zvláštní podmínky uchovávání. Pro uchovávání infuzního roztoku viz bod 6.3.
+6.5  Druh obalu a obsah balení
+
+Čiré lahvičky ze skla třídy I s pryžovou zátkou (brombutylová pryž) a odtrhovacím víčkem. Obsah
+•  2 g (ve 30ml lahvičce) v baleních po 10 lahvičkách,
+•  4 g (ve 30ml lahvičce) v baleních po 10 lahvičkách,
+11
+
+•  nebo 8 g (v 50ml lahvičce) v baleních po 1 lahvičce nebo po 10 lahvičkách.
+
+Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním Pouze na jedno použití.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Příprava infuzního roztoku
+Fomicyt musí být před podáním rekonstituován a naředěn. Jako rozpouštědlo pro rekonstituci a ředění může být použita voda pro injekce a infuze glukózy 50 mg/ml (5%) nebo infuze glukózy 100 mg/ml (10%). Nesmějí se používat rozpouštědla obsahující chlorid sodný (viz bod 4.4).
+
+Rekonstituce
+Před rekonstitucí injekční lahvičku protřepejte, aby se prášek uvolnil. Injekční lahvičku se 2 g nebo 4 g rekonstitujte přidáním 20 ml rozpouštědla, do injekční lahvičky s 8 g přidejte 40 ml rozpouštědla. Dobře protřepejte, aby se obsah rozpustil. Při rozpuštění prášku dochází
+k mírnému zahřátí.
+Pozor: Tento meziprodukt není určen pro přímou infuzi. Roztok zcela vytáhněte z původní injekční lahvičky. Přeneste odebraný roztok do infuzního vaku nebo jiné vhodné infuzní nádoby pro další ředění následujícím způsobem.
+Ředění
+Rekonstituovaný obsah injekční lahvičky se 2 g přeneste do infuzní nádoby s dalšími 30 ml
+rozpouštědla.
+Rekonstituovaný obsah injekční lahvičky se 4 g přeneste do infuzní nádoby s dalšími 80 ml
+rozpouštědla.
+Rekonstituovaný obsah injekční lahvičky s 8 g přeneste do infuzní nádoby s dalšími 160 ml
+rozpouštědla.
+Výsledný infuzní roztok je čirý a bezbarvý až mírně nažloutlý. Hodnota vytěsnění
+Hodnota vytěsnění roztoků činí 1 ml pro velikost balení 2 g, 2 ml pro velikost balení 4 g a 4 ml pro velikost balení 8 g.
+
+Tyto objemy odpovídají zvýšení objemu o 2 %. Je třeba to vzít v úvahu, pokud není použit celý objem konečného naředěného roztoku.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+INFECTOPHARM Arzneimittel und Consilium GmbH Von-Humboldt-Straße 1
+64646 Heppenheim Německo
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+15/060/19-C
+12
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 25. 9. 2019
+
+10.  DATUM REVIZE TEXTU
+
+27. 3. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13

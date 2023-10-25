@@ -1,0 +1,607 @@
+sp.zn. sukls298596/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+2-[¹⁸F]-FDG 1 – 20 GBq injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Přípravek obsahuje fludeoxyglucosum (¹⁸F) 1 – 20 GBq/lahvičku k datu a hodině kalibrace.
+
+Fluor (¹⁸F) se přeměňuje na stabilní kyslík (¹⁸O) s poločasem rozpadu 110 minut za vyzáření pozitronů
+o maximální energii 634 keV s následným anihilačním zářením gama o energii 511 keV.
+
+Pomocné látky se známým účinkem:
+Tento přípravek obsahuje 7,3 mg sodíku v jednom mililitru a 3,17 mmol (73 mg) sodíku v maximální doporučené dávce.
+
+Úplný seznam pomocných látek je uveden v bodě 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Injekční roztok.
+Čirý, bezbarvý nebo slabě žlutý roztok, prostý částic.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Tento přípravek je určen pouze k diagnostickým účelům.
+Fludeoxyglukosa (¹⁸F) je indikována pro použití ve spojení s pozitronovou emisní tomografií (PET) u dospělých a v pediatrické populaci.
+
+Onkologie
+U pacientů podstupujících onkologická diagnostická vyšetření popisující funkce nebo nemoci, u kterých je diagnostickým cílem zobrazení zvýšeného příjmu glukózy ve specifických orgánech nebo tkáních. Doložené jsou zejména tyto indikace (viz také bod 4.4):
+
+Diagnostika
+-  Charakterizace solitérního plicního nodu (uzlu)
+-  Detekce nádorů neznámého původu, které se manifestovaly např. cervikální adenopatií, jaterními
+nebo kostními metastázami
+-  Charakterizace útvarů na pankreatu
+
+Určení stádia (staging)
+-  Nádorů v oblasti hlavy a krku, včetně pomoci při provádění biopsie
+-  Primární rakoviny plic
+-  Lokálně pokročilého karcinomu prsu
+-  Rakoviny jícnu
+-  Rakoviny pankreatu
+-  Kolorektálního karcinomu zejména při restagingu u recidiv
+-  Maligního lymfomu
+-  Maligního melanomu, Breslow > 1,5 mm nebo metastáza do lymfatických uzlin při první diagnóze
+
+
+
+1/10
+
+Sledování terapeutické odpovědi
+-  Maligního lymfomu
+-  Nádorů v oblasti hlavy a krku
+
+Detekce v případě důvodného podezření na recidivy
+-  Gliomu s vysokým stupněm malignity (III nebo IV)
+-  Nádorů v oblasti hlavy a krku
+-  Rakoviny štítné žlázy (non-medulární): pacienti se zvýšenými hladinami tyreoglobulinu v séru a
+negativní scintigrafií celého těla pomocí radioaktivního jodu
+-  Primární rakoviny plic
+-  Karcinomu prsu
+-  Karcinomu pankreatu
+-  Kolorektálního karcinomu
+-  Rakoviny vaječníků
+-  Maligního lymfomu
+-  Maligního melanomu
+
+Kardiologie
+V kardiologické indikaci je diagnostickým cílem viabilní tkáň myokardu, která přijímá glukózu, ale je
+hypoperfuzní, což musí být předem posouzeno pomocí vhodné techniky zobrazující krevní průtok.
+- Vyhodnocení viability myokardu u pacientů s těžkou poruchou funkce levé komory, kteří jsou
+kandidáty na revaskularizaci, pokud konvenční zobrazovací postupy nejsou přínosné.
+
+Neurologie
+V neurologické indikaci je diagnostickým cílem interiktální metabolismus glukózy.
+-  Lokalizace epileptogenních ohnisek v předoperačním zhodnocení parciální temporální epilepsie.
+Infekční nebo zánětlivá onemocnění
+U infekčních nebo zánětlivých onemocnění je diagnostickým cílem tkáň nebo struktury s abnormálním množstvím aktivovaných bílých krvinek.
+U infekčních nebo zánětlivých onemocnění jsou dostatečně dokumentovány následující indikace: Lokalizace abnormálních ložisek při etiologické diagnóze v případech horečky neznámého původu
+Diagnóza infekce v případě:
+-  Podezření na chronickou infekci kostí a/nebo přilehlých struktur: osteomyelitida, spondylitida, diskitida nebo osteitida včetně případů, kdy jsou přítomny kovové implantáty
+-  U diabetických pacientů s podezřením na Charcotovu neuropatii, osteomyelitidu a/nebo infekci
+měkkých tkání
+-  Bolestivé kyčelní endoprotézy
+-  Cévní protézy
+-  Horečky u pacientů s AIDS
+-  Detekce septického metastatického ložiska v případě bakteriémie a endokarditidy (viz též bod 4.4)
+
+Detekce rozšíření zánětu v případě:
+-  Sarkoidózy
+-  Zánětlivého onemocnění střev
+-  Vaskulitidy postihující velké cévy
+
+Sledování terapie:
+Neresektovatelné alveolární echinokokózy, při pátrání po aktivních lokalizacích parazita v průběhu léčení a po ukončení léčby.
+
+
+
+
+
+
+2/10
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dospělí a starší pacienti
+Doporučená aktivita pro dospělého o hmotnosti 70 kg je 100 až 400 MBq (tato aktivita musí být přizpůsobena tělesné hmotnosti pacienta, typu použité kamery a způsobu snímání) podávaných přímou intravenózní injekcí.
+
+Porucha funkce ledvin a jater
+U těchto pacientů existuje možnost zvýšené radiační zátěže, proto je třeba pečlivě zvážit dávku
+aktivity, která má být podána.
+
+Obsáhlejší studie pro stanovení rozmezí vhodných dávek u běžné a zvláštní populace pacientů nebyly provedeny.
+Farmakokinetika fludeoxyglukózy (¹⁸F) u pacientů s poruchou funkce ledvin nebyla popsána.
+
+Pediatrická populace
+Použití u dětí a dospívajících je třeba pečlivě zvážit na základě klinických potřeb a vyhodnocení poměru riziko/přínos v této skupině pacientů. Aktivity, které mají být podány dětem, lze vypočítat podle doporučení pediatrické karty pro dávkování (Dosage Card) Evropské asociace nukleární medicíny (EANM); aktivita podaná dětem a dospívajícím může být vypočtena vynásobením základní aktivity koeficientem závislým na hmotnosti (uvedeno níže v tabulce).
+
+A[MBq]ₐplikₒvₐnₐ́ = základní aktivita × koeficient
+
+Základní aktivita pro 2D zobrazení je 25,9 MBq a pro 3D zobrazení je 14,0 MBq (doporučeno pro
+děti).
+
+
+Hmotnost [kg]
+3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Koeficient 1
+1,14
+1,71
+2,14
+2,71
+3,14
+3,57
+4,00
+4,43
+4,86
+Hmotnost [kg] 22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+Koeficient 5,29
+5,71
+6,14
+6,43
+6,86
+7,29
+7,72
+8,00
+8,43
+8,86
+Hmotnost [kg] 42
+44
+46
+48
+50
+52-54
+56-58
+60-62
+64-66
+68
+Koeficient 9,14
+9,57
+10,00
+10,29
+10,71
+11,29
+12,00
+12,71
+13,43
+14,00
+
+
+Způsob podání
+K intravenóznímu podání.
+K jednorázovému použití.
+Aktivita fludeoxyglukózy (¹⁸F) musí být bezprostředně před injekcí změřena měřičem aktivity.
+Injekce fludeoxyglukózy (¹⁸F) musí být intravenózní, aby se zabránilo ozáření v důsledku místní
+extravazace a také vzniku obrazových artefaktů.
+Pokyny k ředění léčivého přípravku před podáním jsou uvedeny v bodě 12. Pro přípravu pacienta před aplikací viz bod 4.4.
+
+Pořízení snímků
+Snímání PET kamerou je obvykle zahájeno 45 až 60 minut po injekci fludeoxyglukózy (¹⁸F).
+Pokud přetrvává dostatečná aktivita pro přiměřenou statistiku impulsů, může být realizováno
+i 2-3 hodiny po podání, čímž se redukuje aktivita pozadí.
+
+3/10
+
+Pokud je to nutné, může být PET vyšetření pomocí fludeoxyglukózy (¹⁸F) v krátkém časovém období opakováno.
+
+4.3  Kontraindikace
+
+Hypersensitivita na léčivou látku nebo kteroukoliv pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Možnost výskytu hypersenzitivních nebo anafylaktických reakcí
+Pokud dojde k hypersenzitivní nebo anafylaktické reakci, musí být podávání přípravku okamžitě přerušeno a pokud je to nutné, má být zahájena nitrožilní léčba. Aby bylo možné v případě potřeby okamžitě zakročit, musí být k dispozici potřebné léčivé přípravky a vybavení jako je endotracheální trubice a přístroj pro umělou plicní ventilaci.
+
+Individuální zdůvodnění poměru přínos/riziko
+U každého pacienta musí být vystavení ionizujícímu záření odůvodnitelné očekávaným diagnostickým přínosem a musí být provedeno s nejnižší rozumně dosažitelnou hodnotou aplikované aktivity, která ještě zaručí získání požadované diagnostické informace.
+
+Porucha funkce ledvin a jater
+Vzhledem k tomu, že hlavní způsob vylučování fludeoxyglukózy je renální cestou, musí být u pacientů se sníženou funkcí ledvin velmi pečlivě zvážena indikace, protože u nich může dojít ke zvýšené radiační zátěži.
+
+Pediatrická populace
+Pro informace o použití u pediatrické populace viz bod 4.2.
+Je vyžadováno důkladné posouzení indikace z důvodu vyšší efektivní dávky na MBq než
+u dospělých (viz bod 11).
+
+Příprava pacienta:
+Pro získání maximální cílové aktivity by měl být přípravek 2-[¹⁸F]-FDG podán dostatečně hydratovaným pacientům, kteří minimálně 4 hodiny před aplikací nepřijímali žádnou potravu, protože příjem glukózy do buněk je limitovaný a řídí se saturační kinetikou. Množství tekutin, které může pacient přijmout, není omezeno, ovšem je třeba se vyvarovat konzumace nápojů obsahujících cukr.
+Za účelem získání snímků co nejvyšší kvality a za účelem snížení radiační zátěže močového měchýře by měl být pacient vyzván, aby vypil dostatečné množství tekutin a aby se před a po PET vyšetření vymočil.
+
+Onkologie, neurologie a infekční choroby
+Aby se zabránilo hyperfixaci fludeoxyglukózy (¹⁸F) ve svalu, je žádoucí, aby se pacienti před vyšetřením vyhnuli namáhavým fyzickým aktivitám a zůstali v klidu mezi aplikací a vyšetřením a také během pořizování snímků (pacienti by měli pohodlně ležet, bez čtení nebo mluvení).
+Cerebrální metabolismus glukózy závisí na aktivitě mozku. Proto by neurologické vyšetření mělo být prováděno po relaxaci v zatemněné místnosti a s nízkým šumem v pozadí.
+Před podáním přípravku by měl být proveden test hladiny glukózy v krvi, protože hyperglykémie může mít za následek sníženou citlivost vyšetření přípravkem 2-[¹⁸F]-FDG, zvláště pokud je glykémie vyšší než 8 mmol/l. Stejně tak by nemělo být PET vyšetření pomocí fludeoxyglukózy (¹⁸F) prováděno u pacientů s nekontrolovaným diabetem.
+
+Kardiologie
+Vzhledem k tomu, že příjem glukózy v myokardu je inzulin-dependentní, doporučuje se podat 50 g glukózy přibližně 1 hodinu před aplikací přípravku 2-[¹⁸F]-FDG.
+Alternativně, a to zejména u pacientů s diabetem mellitem, může být hladina cukru v krvi upravena kombinovanou infuzí inzulinu a glukózy, je-li to třeba.
+
+
+4/10
+
+Interpretace PET snímků získaných pomocí fludeoxyglukózy (¹⁸F)
+Při vyšetřování zánětlivých střevních onemocnění nebyla diagnostická účinnost fludeoxyglukózy (¹⁸F) přímo srovnávána s vyšetřením scintigrafií s použitím značených bílých krvinek, které může být indikováno před PET vyšetřením s fludeoxyglukózou (¹⁸F) nebo po něm, pokud je neprůkazné.
+Infekční a/nebo zánětlivá onemocnění, stejně tak i regenerační procesy po operačních zákrocích mohou vést k významnému vychytávání fludeoxyglukózy (¹⁸F), a tím poskytovat falešně pozitivní výsledky v případě, že indikací pro PET vyšetření s fludeoxyglukózou (¹⁸F) není vyhledávání těchto infekčních nebo zánětlivých ložisek.
+V případech, kdy může být akumulace fludeoxyglukózy (¹⁸F) způsobena buď karcinomem, infekčním nebo zánětlivým onemocněním, je vhodné jako doplněk k PET vyšetření použít další diagnostické metody, aby byl určen původce patologické změny.
+V některých situacích, například určení stádia myelomu, se vyhledávají jak maligní tak infekční ložiska, která mohou být rozlišena s dobrou přesností na základě topografických kritérií. Např. vychytávání v extramedulárních místech a/nebo v kostních a kloubních lézích by bylo atypické pro léze mnohočetného myelomu a identifikované případy spojené s infekcí. V současnosti neexistují žádná jiná kritéria k odlišení infekcí a zánětů při zobrazování s použitím fludeoxyglukózy (¹⁸F).
+Z důvodu vysokého vychytávání fludeoxyglukózy (¹⁸F) v mozku, srdci a ledvinách, PET/CT vyšetření s použitím  fludeoxyglukózy  (¹⁸F) nebylo hodnoceno ohledně detekce septických metastatických ložisek v těchto orgánech, pokud byl pacient odeslán na toto vyšetření kvůli bakteriémii nebo endokarditidě.
+Během prvních 2-4 měsíců po radioterapii nelze vyloučit falešně pozitivní nebo falešně negativní výsledky vyšetření PET s fludeoxyglukózou (¹⁸F). Pokud klinická indikace vyžaduje dřívější diagnózu pomocí PET s fludeoxyglukózou (¹⁸F), musí být důvod pro dřívější vyšetření pomocí PET s fludeoxyglukózou (¹⁸F) jasně zdokumentován.
+Optimální odstup po posledním podání chemoterapie je nejméně 4-6 týdnů, především proto, aby se předešlo falešně negativním výsledkům. Pokud klinická indikace vyžaduje dřívější diagnózu pomocí PET s fludeoxyglukózou (¹⁸F), musí být důvod pro dřívější vyšetření pomocí PET s fludeoxyglukózou (¹⁸F) jasně zdokumentován. Je-li PET vyšetření pomocí fludeoxyglukózy (¹⁸F) prováděno v průběhu chemoterapie, kdy cykly jejího podávání jsou kratší než 4 týdny, pak by vyšetření mělo být provedeno těsně před zahájením dalšího cyklu.
+U lymfomů s nízkým stupněm malignity, karcinomu dolní části jícnu a podezření na recidivu ovariálního karcinomu je třeba přikládat význam pouze pozitivním prediktivním nálezům, protože citlivost PET vyšetření s fludeoxyglukózou (¹⁸F) je omezená.
+Fludeoxyglukóza (¹⁸F) není účinná pro detekci mozkových metastáz.
+Přesnost zobrazování PET pomocí fludeoxyglukózy (¹⁸F) je lepší za použití PET/CT než samostatné
+PET kamery.
+Při použití hybridního PET/CT skeneru s nebo bez podání CT kontrastní látky se mohou na PET
+snímcích po korekci atenuace objevit artefakty.
+
+Po proceduře
+Je doporučeno, aby se pacienti v prvních 12 hodinách po podání injekce vyhýbali přímému kontaktu s malými dětmi a těhotnými ženami.
+
+Zvláštní upozornění
+Tento přípravek obsahuje 7,3 mg sodíku v jednom mililitru. To může být v závislosti na objemu aplikovaného roztoku až 3,17 mmol (73 mg) na injekci, což odpovídá 3,65 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Opatření s ohledem na nebezpečí pro životní prostředí viz bod 6.6.
+
+
+
+
+5/10
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Všechny léčivé přípravky, které ovlivňují hladinu glukózy v krvi, mohou ovlivnit citlivost vyšetření (např. kortikosteroidy, valproát, karbamazepin, fenytoin, fenobarbital a katecholaminy).
+V případě, že jsou podány kolonie stimulující faktory (CSF - colony-stimulating factors), dochází po několik dní ke zvýšené akumulaci fludeoxyglukózy (¹⁸F) v kostní dřeni a slezině. K tomuto faktu je nutné přihlédnout při interpretaci PET snímků. Časový odstup nejméně 5 dnů mezi podáním CSF a vyšetřením pozitronovou emisní tomografií může tento vliv snížit.
+Podání glukózy a inzulínu ovlivňuje příjem fludeoxyglukózy (¹⁸F) do buněk. V případě vysokých hladin krevní glukózy a nízkých hladin inzulínu v plazmě je příjem fludeoxyglukózy (¹⁸F) do orgánů a nádorů snížen.
+Nebyly provedeny žádné oficiální studie interakce mezi fludeoxyglukózou (¹⁸F) a jinými kontrastními látkami určenými pro počítačovou tomografii.
+4.6  Fertilita, těhotenství a kojení
+Ženy schopné otěhotnět
+Je-li plánováno podat radiofarmaka ženě schopné otěhotnět, je důležité stanovit, jestli je či není těhotná. Každá žena, které vynechala menstruace, má být považována za těhotnou, dokud se neprokáže opak. Při pochybnostech týkajících se případného těhotenství (při vynechané menstruaci, jestliže je menstruace velmi nepravidelná atd.), se mají pacientce nabídnout alternativní techniky, které nepoužívají ionizující záření (pokud jsou k dispozici).
+Těhotenství
+Vyšetření těhotných žen radionuklidy přináší radiační zátěž také pro plod. V průběhu těhotenství by proto měla být prováděna pouze nezbytná vyšetření, u kterých předpokládaný přínos vysoce převyšuje riziko pro matku a plod.
+Kojení
+Před podáním radiofarmak kojící matce je třeba zvážit možnost odložení podání radionuklidu na dobu, až matka přestane kojit, a také zvážit volbu nejvhodnějšího radiofarmaka s ohledem na vylučování aktivity do mateřského mléka. Jestliže je podání považováno za nutné, kojení se má přerušit na dobu 12 hodin a odstříkané mléko se má znehodnotit.
+Je třeba vyhnout se blízkému kontaktu s malými dětmi a těhotnými ženami v prvních
+12 hodinách po aplikaci.
+Fertilita
+Nebyly provedeny žádné studie týkající se fertility.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Není relevantní.
+
+4.8  Nežádoucí účinky
+Nežádoucí účinky po podání 2-[¹⁸F]-FDG nebyly popsány.
+Vystavení ionizujícímu záření je spojováno se vznikem rakoviny a potenciálním rozvojem dědičných vad. Vzhledem k tomu, že efektivní dávka při podání maximální doporučené aktivity 400 MBq je 7,6 mSv, je očekávaný výskyt těchto nežádoucích účinků málo pravděpodobný.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+
+
+
+
+6/10
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Na základě dávek používaných k diagnostickým účelům je předávkování ve farmakologickém smyslu nepravděpodobné.
+Riziko předávkování fludeoxyglukosou (¹⁸F) souvisí pouze s vystavením nadměrnému ozáření.
+V případě podání nadměrné aktivity fludeoxyglukózy (¹⁸F) je třeba absorbovanou dávku pacienta pokud možno snížit zvýšením eliminace radionuklidu z těla pomocí posílené diurézy a častého močení. Může být užitečné odhadnout efektivní dávku, která byla aplikována.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická  skupina:  diagnostická  radiofarmaka;  detekce  nádorů, jiná  diagnostická radiofarmaka, ATC kód: V09IX04
+Farmakodynamické účinky
+Při chemických koncentracích použitých pro diagnostická vyšetření, nevykazuje fludeoxyglukóza (¹⁸F)
+žádnou farmakodynamickou aktivitu.
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+Fludeoxyglukóza (¹⁸F) je analog glukózy, který se akumuluje ve všech buňkách využívajících glukózu jako primární zdroj energie. Fludeoxyglukóza (¹⁸F) se akumuluje v nádorech s vysokým obratem glukózy.
+Po intravenózní injekci je farmakokinetický profil fludeoxyglukózy (¹⁸F) v cévním kompartmentu biexponenciální. Čas distribuce je 1 minuta a čas eliminace přibližně 12 minut.
+U zdravých jedinců je fludeoxyglukóza (¹⁸F) široce distribuována do celého těla, zvláště do mozku a
+srdce a v menší míře do plic a jater.
+
+Vychytávání orgány
+Příjem fludeoxyglukózy (¹⁸F) buňkami se uskutečňuje prostřednictvím tkáňově  specifických přenašečových systémů, které jsou částečně závislé na inzulínu, a proto mohou být ovlivněny příjmem potravy, nutričním stavem a přítomností diabetes mellitus. U pacientů s diabetem mellitem dochází ke sníženému vychytávání fludeoxyglukózy (¹⁸F) do buněk v důsledku změn ve tkáňové distribuci a metabolismu glukózy.
+Fludeoxyglukóza (¹⁸F) je transportována přes buněčnou membránu podobným způsobem jako glukóza, ale podstupuje pouze první krok glykolýzy, což vede k tvorbě fludeoxyglukóza (¹⁸F)-6- fosfátu, který zůstává zachycen v nádorových buňkách a není dále metabolizován. Jelikož následná defosforylace intracelulárními fosfatázami je pomalá, fludeoxyglukóza (¹⁸F)-6-fosfát zůstává ve tkáni po dobu několika hodin (mechanismus zachycení).
+Fludeoxyglukóza (¹⁸F) prochází hematoencefalickou bariérou. Přibližně 7 % podané dávky se během 80 - 100 minut po injekci akumuluje v mozku. Epileptogenní ložiska vykazují snížený metabolismus glukózy ve fázích bez záchvatů.
+Přibližně 3 % aplikované aktivity jsou během 40 minut vychytána myokardem. Distribuce fludeoxyglukózy (¹⁸F) v normálním srdci je převážně homogenní, popisují se však regionální rozdíly až 15 % v mezikomorové přepážce. Během reverzibilní ischemie myokardu a po ní dochází ke zvýšenému vychytávání glukózy buňkami myokardu. 0,3 % podané aktivity se akumuluje ve slinivce břišní a 0,9– 2,4 % v plicích.
+
+
+7/10
+
+Fludeoxyglukóza (¹⁸F) se rovněž v menší míře váže na oční sval, hltan a střevo. Vazba na svaly může být pozorována po nedávné námaze a v případě svalové zátěže během vyšetření.
+Eliminace
+Eliminace fludeoxyglukózy (¹⁸F) probíhá především ledvinami, přičemž 20 % aktivity je vyloučeno močí během 2 hodin po podání injekce.
+Vazba na ledvinový parenchym je slabá, ale z důvodu renální eliminace fludeoxyglukózy (¹⁸F) vykazuje celé močové ústrojí, obzvláště močový měchýř, výraznou aktivitu.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+V předklinických studiích nebyly zaznamenány žádné nežádoucí účinky.
+Ve studiích akutní toxicity podání dávky fludeoxyglukosy (¹⁸F) 50krát a 1000krát převyšující klinickou dávku nevedly u psů ani u myší, respektive, k jakýmkoliv projevům toxicity.
+Toxikologické studie u myší a potkanů ukázaly, že u jednorázové intravenózní injekce 0,0002 mg/kg nedošlo k žádným úmrtím. Toxicita po opakovaném podání nebyla provedena, protože přípravek se podává jako jednorázová  dávka.  Tento léčivý  přípravek  není  určen  k pravidelnému nebo kontinuálnímu podávání.
+Studie mutagenity a studie dlouhodobé karcinogenity nebyly provedeny.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+voda pro injekci, dihydrát natrium-citrátu, seskvihydrát hydrogen-citronanu sodného, hydroxid sodný, kyselina chlorovodíková, izotonický infuzní roztok chloridu sodného.
+6.2  Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 12.
+
+6.3  Doba použitelnosti
+
+Maximálně 12 hodin od konce výroby.
+Spotřebujte do 8 hodin po prvním odběru přípravku, nepřekračujte dobu exspirace.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25°C v původním obalu v souladu s požadavky platných předpisů pro uchovávání radioaktivních látek. Chraňte před mrazem.
+Po prvním odběru přípravku uchovávejte při teplotě do 25°C v původním obalu v souladu s požadavky platných předpisů pro uchovávání radioaktivních látek. Chraňte před mrazem.
+6.5  Druh obalu a obsah balení
+
+Injekční lahvička pro opakovaný odběr uzavřená pryžovým uzávěrem a hliníkovou objímkou (zapertlovaná). Kontejner z vhodně stínícího materiálu.
+Velikost balení:
+1,0 GBq,  1,25 GBq,  1,5 GBq,  1,75 GBq,  2,0 GBq,  2,5 GBq, 3,0 GBq,  3,5 GBq,  4,0 GBq,
+4,5 GBq, 5 GBq, 5,5 GBq, 6,0 GBq, 6,5 GBq, 7,0 GBq, 7,5 GBq, 8,0 GBq, 8,5 GBq, 9,0 GBq,
+10,0 GBq,  11,0 GBq,  12,0 GBq,  13,0 GBq,  14,0 GBq,  15,0 GBq,  16,5 GBq,  18,0 GBq,
+20,0 GBq/lahvička.
+Objem přípravku v lahvičce je 9 – 17 ml.
+Na trhu nemusí být všechny velikosti balení.
+
+8/10
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecné upozornění
+Radiofarmaka smí přijímat, používat a aplikovat pouze oprávněné osoby v k tomu určených zdravotnických zařízeních. Jejich příjem, skladování, použití, přeprava a likvidace podléhá předpisům a/nebo příslušným povolením příslušného úředního orgánu.
+Radiofarmaka mají být připravována způsobem zajišťujícím jak požadavky na radiační ochranu, tak
+požadavky na správnou výrobní praxi. Je nutné přijmout příslušná aseptická opatření.
+Podávání radiofarmak představuje pro personál riziko vnějšího ozáření nebo kontaminace z úniku moči, zvracení nebo úniku jiných tělních tekutin. Proto je třeba přijmout bezpečnostní opatření radiační ochrany v souladu s národními předpisy.
+Veškerý nepoužitý přípravek nebo vzniklý odpad musí být zlikvidován v souladu s místními požadavky.
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+RadioMedic s.r.o.
+250 68 Husinec-Řež 289, Česká republika
+Tel.: 266 173 253
+Fax: 220 940 151
+e-mail: info@radiomedic.cz
+8.   REGISTRAČNÍ ČÍSLO
+
+88/463/99-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 30.6.1999
+Datum posledního prodloužení registrace: 26.5.2010
+
+10.  DATUM REVIZE TEXTU
+
+19. 12. 2018
+
+11.  DOZIMETRIE
+
+Dávková konstanta gama pro ¹⁸F = 154 μGy.m².GBq⁻¹.h⁻¹
+Energie Egama = 511 keV
+Poločas rozpadu ¹⁸F = 110 min
+
+Níže uvedená tabulka zobrazuje dozimetrické údaje převzaté z publikace ICRP 106.
+
+
+
+Orgán
+Absorbovaná dávka na jednotku podané aktivity (mGy/MBq)
+
+
+Nadledviny Močový měchýř Povrch kostí Mozek
+Prsa
+Žlučník
+Dospělí
+0,012
+0,13
+0,011
+0,038
+0,0088
+0,013
+15 let
+0,016
+0,16
+0,016
+0,039
+0,011
+0,016
+10 let
+0,024
+0,25
+0,022
+0,041
+0,018
+0,024
+5 let
+0,039
+0,34
+0,034
+0,046
+0,029
+0,037
+1 rok
+0,071
+0,47
+0,064
+0,063
+0,056
+0,07
+
+
+9/10
+
+Gastrointestinální trakt
+Žaludek Tenké střevo Tlusté střevo
+Horní tlusté střevo Dolní tlusté střevo
+Srdce Ledviny Játra Plíce Svaly Jícen Vaječníky
+Slinivka břišní Červená kostní dřeň Kůže
+Slezina Varlata Brzlík Štítná žláza Děloha
+Ostatní orgány
+Efektivní dávka (mSv/MBq)
+
+0,011
+0,012
+0,013
+0,012
+0,014
+0,067
+0,017
+0,021
+0,020
+0,010
+0,012
+0,014
+0,013
+0,011
+0,0078
+0,011
+0,011
+0,012
+0,01
+0,018
+0,012
+0,019
+
+0,014
+0,016
+0,016
+0,015
+0,017
+0,087
+0,021
+0,028
+0,029
+0,013
+0,015
+0,018
+0,016
+0,014
+0,0096
+0,014
+0,014
+0,015
+0,013
+0,022
+0,015
+0,024
+
+0,022
+0,025
+0,025
+0,024
+0,027
+0,13
+0,029
+0,042
+0,041
+0,02
+0,022
+0,027
+0,026
+0,021
+0,015
+0,021
+0,024
+0,022
+0,021
+0,036
+0,024
+0,037
+
+0,035
+0,04
+0,039
+0,038
+0,041
+0,21
+0,045
+0,063
+0,062
+0,033
+0,035
+0,043
+0,04
+0,032
+0,026
+0,035
+0,037
+0,035
+0,034
+0,054
+0,038
+0,056
+
+0,067
+0,073
+0,07
+0,07
+0,07
+0,38
+0,078
+0,12
+0,12
+0,062
+0,066
+0,076
+0,076
+0,059
+0,05
+0,066
+0,066
+0,066
+0,065
+0,09
+0,064
+0,095
+
+Efektivní dávka při podání maximální doporučené aktivity 400 MBq fludeoxyglukózy (¹⁸F) dospělé osobě o hmotnosti 70 kg je přibližně 7,6 mSv.
+
+Při podané aktivitě 400 MBq jsou typické radiační dávky pro kritické orgány: močový měchýř - 52 mGy, srdce - 27 mGy, mozek - 15 mGy.
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Způsob přípravy
+Balení musí být před použitím zkontrolováno a aktivita změřena pomocí měřiče aktivity. Léčivý přípravek může být naředěn injekčním 0,9% roztokem chloridu sodného na požadovanou objemovou aktivitu v souladu s dávkováním a způsobem podání. Příprava radiofarmak musí být v souladu s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením a musí splňovat požadavky správné výrobní praxe.
+Odběr je třeba provádět za aseptických podmínek. Injekční lahvičky nesmí být otevřeny před dezinfekcí zátky, roztok by měl být odebrán skrz zátku za použití jednodávkové injekční stříkačky vybavené vhodným ochranným stíněním a jednorázovou sterilní jehlou nebo pomocí povoleného automatického aplikačního systému.
+Pokud je narušena celistvost injekční lahvičky, přípravek se nesmí použít.
+
+Kontrola kvality
+Roztok je třeba před použitím vizuálně zkontrolovat. Použít se smí pouze čiré roztoky bez viditelných částic.
+
+
+
+
+
+10/10

@@ -1,0 +1,536 @@
+sp.zn. sukls85983/2012 sukls147087/2019
+
+Souhrn údajů o přípravku
+1. Název přípravku
+FUROSEMID BBP 12,5 mg/ml injekční roztok
+
+2. Kvalitativní a kvantitativní složení
+Léčivá látka: Jeden ml injekčního roztoku obsahuje furosemidum 12,5 mg.
+Úplný seznam pomocných látek viz bod 6.1.
+Obsah sodíku v přípravku: 0,736 mg/ml, to odpovídá 0,032 mmol/ml.
+
+3. Léková forma
+Injekční roztok.
+Popis přípravku: čirý, bezbarvý nebo slabě hnědožlutý.
+
+4. Klinické údaje
+4.1 Terapeutické indikace
+Furosemid BBP je diuretikum, které je indikováno v případech, kdy je třeba dosáhnout okamžité a účinné diurézy a když perorální podání není možné nebo není účinné.
+Léčba edému vyvolaného
+- onemocněním srdce
+- onemocněním jater,
+- onemocněním ledvin včetně nefrotického syndromu. U pacientů s nefrotickým syndromem je nutná léčba základního onemocnění.
+Léčba plicního edému (např. při akutním srdečním selhání)
+Léčba hypertenzní krize (jako součást dalších terapeutických opatření)
+
+4.2 Dávkování a způsob podání
+Dávkování
+Dospělí a dospívající starší 15 let
+20 až 40 mg intravenózně (nebo ve výjimečných případech intramuskulárně); maximální dávka se liší v závislosti na individuální odpovědi pacienta na léčbu. Jestliže jsou potřeba vyšší dávky, musí být zvyšovány v přírůstcích po 20 mg a nesmí být podávány častěji než každé dvě hodiny. Pokud je potřeba dosáhnout dávky větší než 50 mg, doporučuje se její dosažení pomalou intravenózní infuzí. Maximální doporučená denní dávka u dospělých je 1500 mg furosemidu.
+
+Pediatrická populace
+Dávkování se upravuje podle tělesné hmotnosti, přičemž doporučená denní dávka se pohybuje v rozmezí 0,5 až 1 mg/kg tělesné hmotnosti až do maximální celkové denní dávky 20 mg.
+Starší pacienti
+Doporučená počáteční dávka je 20 mg/den. Tato dávka se postupně zvyšuje až do dosažení požadované odpovědi.
+
+Pacienti s poruchou funkce ledvin
+U pacientů s těžkou poruchou funkce ledvin (sérový kreatinin > 5 mg/dl) nesmí rychlost infuze překročit 2,5 mg/min.
+
+Speciální doporučení pro dávkování
+
+
+
+
+1/11
+
+Pro dospělé se dávka stanovuje následovně:
+Edém spojený s chronickým a akutním městnavým srdečním selháním
+Doporučená počáteční dávka je 20 až 40 mg denně. Tato dávka se může v případě potřeby upravit podle odpovědi pacienta na léčbu. Dávka má být podána ve dvou nebo třech jednotlivých dávkách za den při chronickém městnavém srdečním selhání a jako bolus při akutním městnavým srdečním selhání.
+
+Edém spojený s renálním onemocněním
+Doporučená počáteční dávka je 20 až 40 mg za den. Tuto dávku je možno v případě potřeby upravit podle odpovědi pacienta na léčbu. Celková denní dávka může být podána najednou nebo v rámci několika dílčích dávek během dne.
+Jestliže to nevede k optimálnímu zvýšení vylučování tekutin, musí být furosemid podáván kontinuální intravenózní infuzí s počáteční rychlostí 50 až 100 mg za hodinu.
+
+Před zahájením podávání furosemidu musí být upravena hypovolemie, hypotenze a porucha acidobazické a elektrolytové rovnováhy.
+
+U dialyzovaných pacientů se udržovací dávka obvykle pohybuje v rozmezí 250 mg až 1500 mg za den.
+U pacientů s nefrotickým syndromem musí být dávkování stanoveno s opatrností, vzhledem k riziku vyššího výskytu nežádoucích účinků.
+Hypertenzní krize (kromě jiných terapeutických opatření)
+Doporučená počáteční dávka při hypertenzní krizi je 20 mg až 40 mg podaných jako bolus intravenózní injekcí. Tato dávka může být v případě potřeby upravena podle odpovědi pacienta na léčbu.
+Edém spojený s onemocněním jater
+Jestliže je intravenózní léčba naprosto nezbytná, musí se počáteční dávka pohybovat v rozmezí 20 mg až 40 mg. Tuto dávku je možno v případě potřeby upravit podle odpovědi pacienta na léčbu. Celková denní dávka může být podána najednou nebo v rámci několika dávek.
+Furosemid může být použit v kombinaci s antagonisty aldosteronu v případech, kdy tyto látky nejsou v rámci monoterapie dostačující. Aby se zamezilo komplikacím, jako je ortostatická intolerance nebo porucha acidobazické a elektrolytové rovnováhy nebo jaterní encefalopatie, musí být dávka pečlivě upravena tak, aby bylo dosaženo pozvolného vylučování tekutin. Tato dávka může u dospělých způsobit denní ztrátu tělesné hmotnosti přibližně 0,5 kg.
+
+Plicní edém (např. při akutním srdečním selhání)
+Počáteční podaná dávka je 40 mg furosemidu intravenózně. Jestliže to zdravotní stav pacienta vyžaduje, podá se za 30-60 minut dalších 20 až 40 mg furosemidu. Furosemid je nutno podat spolu s dalšími terapeutickými opatřeními.
+
+Způsob podání
+Intravenózně, ve výjimečných případech intramuskulárně.
+
+4.3 Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Pacienti s renálním selháním s oligoanurií neodpovídající na léčbu furosemidem. Renální selhání jakožto následek otravy nefrotoxickými nebo hepatotoxickými látkami.
+Pacienti v komatózním nebo v prekomatózním stavu spojeném s jaterní encefalopatií.
+Pacienti s těžkou hypokalemií, těžkou hyponatremií, hypovolemií a s nebo bez hypotenze nebo dehydratace.
+
+
+2/11
+
+Pacienti s hypersenzitivitou na sulfonamidy (např. sulfonylurea nebo sulfonamidová antibiotika). Furosemid je kontraindikován během kojení (viz bod 4.6).
+
+4.4 Zvláštní upozornění a opatření pro použití
+Pacienti s částečnou obstrukcí odtoku moči (např. pacienti s hypertrofií prostaty). Je nutno zajistit produkci moči.
+Pacienti s hypotenzí nebo zvýšeným rizikem výrazného poklesu krevního tlaku (pacienti se stenózou koronární arterie nebo cerebrální arterie).
+Pacienti s manifestním nebo latentním diabetes mellitus nebo kolísavou glykemií (je nutné pravidelné sledování hladiny glukózy v krvi).
+
+Pacienti se dnou nebo hyperurikemií (je nutné pravidelné sledovat hladinu kyseliny močové v séru).
+
+Pacienti s jaterním onemocněním nebo hepatorenálním syndromem (porucha funkce ledvin spojená s těžkým onemocněním jater).
+
+Hypoproteinemie (spojená s nefrotickým syndromem, účinek furosemidu může být snížen a může být zvýšena jeho ototoxicita).
+Současné podání se solemi lithia (je nutné sledování lithemie, viz bod 4.5)
+
+Akutní porfyrie (použití diuretik při akutní porfyrii není považováno za bezpečné a je třeba zvláštní opatrnosti)
+U pacientů léčených furosemidem, zejména u starších pacientů, pacientů užívajících další léky, které mohou způsobit hypotenzi, a u pacientů s jiným zdravotním stavem, který představuje riziko hypotenze, se může vyskytnout symptomatická hypotenze vedoucí k závratím, mdlobám nebo ztrátě vědomí.
+
+Během léčby furosemidem se doporučuje pravidelně sledovat hladinu sodíku, draslíku a kreatininu v séru; zvláště pozorné sledování je vyžadováno u pacientů s vysokým rizikem rozvoje poruchy elektrolytové rovnováhy, nebo v případě významné další ztráty tekutin (např. z důvodu zvracení nebo průjmu).
+Hypovolemie nebo dehydratace stejně jako jiné významné poruchy elektrolytové nebo acidobazické rovnováhy musí být upraveny.
+
+Fotosenzitivita:
+Případy fotosenzitivních reakcí byly hlášeny v souvislosti s thiazidovými diuretiky (viz bod 4.8). Jestliže se během léčby vyskytne fotosenzitivní reakce, doporučuje se léčbu ukončit. Jestliže je opětovné podání thiazidu považováno za nezbytné, doporučuje se chránit exponované oblasti těla před sluncem nebo umělým UVA zářením.
+Současné podávání s risperidonem:
+V placebem kontrolovaných klinických studiích s risperidonem u starších pacientu s demencí byl pozorován vyšší výskyt mortality při současném podání furosemidu a risperidonu (7.3%; střední věk 89 let, rozmezí 75-97 let) ve srovnání s pacienty léčenými pouze risperidonem (3.1%; střední věk 84 let, rozmezí 70-96 let) nebo pacienty léčenými pouze furosemidem (4.1%; střední věk 80 let, rozmezí 67-90 let). Souběžné podání ostatních diuretik (převážně thiazidových diuretik v nízké dávce) s risperidonem nebylo spojeno s podobnými nálezy.
+Patofyziologický mechanismus zvýšené mortality u starších pacientů s demencí při současném podání furosemidu a risperidonu nebyl dosud uspokojivě vysvětlen. Nezávisle na léčbě, dehydratace byla hlavním rizikovým faktorem mortality u starších pacientů s demencí, a proto má být eliminována.
+
+
+
+3/11
+
+Sportovci:
+Je třeba sportovce upozornit, že tento přípravek používaný k nucené diuréze obsahuje látku, která muže způsobit pozitivní dopingový test.
+
+Obsah sodíku:
+Tento přípravek obsahuje sodík 7,36 mg v jedné injekční lahvičce. Při dávce 20 mg furosemidu tento přípravek obsahuje méně než 1 mmol sodíku v jedné dávce, to znamená, že je v podstatě „bez sodíku“. Při maximální celkové denní dávce 1500 mg furosemidu tento přípravek obsahuje 88,32 mg sodíku, což odpovídá až 5 % maximálního doporučeného denního příjmu sodíku potravou pro dospělého.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Lithium
+Míra exkrece lithia se může podáním furosemidu snížit, což může vést ke zvýšenému kardiotoxickému účinku a toxicitě lithia. Tato kombinace se proto nedoporučuje (viz bod 4.4). Jestliže je nezbytné tuto kombinaci podat, je nutné pečlivě sledovat hladinu lithia a upravit jeho dávkování.
+
+Léky zvyšující riziko prodloužení QTc intervalu a vzniku torsade de pointes v souvislosti s hypokalemií
+Poruchy  elektrolytové  rovnováhy  (hypokalemie,  hypomagnesemie  a  hypokalcemie)  vyvolané furosemidem mohou způsobit prodloužení QT intervalu a proto hrozí zvýšené riziko arytmií, je-li furosemid podán současně s léčivými látkami prodlužujícími QT interval nebo vyvolávajícími hypokalemii, jako např. antiarytmika tříty I a III (např. sotalol, dofetilid), srdeční glykosidy (digoxin) - současné podání furosemidu zesiluje toxický účinek srdečních glykosidů na srdce a může vést k fatálním arytmiím.
+Proto jsou-li tyto léky předepsány současně s furosemidem, je nutné sledovat plasmatickou hladiny draslíku a monitorovat EKG.
+Léčivé látky snižující hladinu draslíku v séru
+Podání furosemidu spolu s amphotericinem B, glukokortikoidy, karbenoxolonem nebo laxativy může způsobit  zvýšené  ztráty  draslíku.  Lékořice  působí  stejně  jako  karbenoxolon.  Při  podání glukokortikoidů je nutné vzít v úvahu hypokalemii a její případné zhoršení při předávkování laxativy. Vzhledem k tomu, že při podání této kombinace hrozí nevratné poruchy sluchu, smí být podána pouze tehdy, jsou-li k tomu závažné zdravotní důvody. Hladina draslíku musí být monitorována.
+Léčivé látky snižující hladinu sodíku v séru
+Současné podání karbamazepinu může zvýšit riziko hyponatremie.
+
+Nesteroidní antiflogistika a vysoké dávky salicylátů
+Nesteroidní antiflogistika (včetně koxibů) mohou v případě stávající hypovolemie vyvolat akutní selhání ledvin a snížit diuretický, natriuretický a antihypertenzní účinek furosemidu. Při podání furosemidu spolu s vysokými dávkami salicylátů se může zvýšit riziko toxicity salicylátů z důvodu snížené renální exkrece nebo pozměněné renální funkce.
+
+Inhibitory angiotenzin konvertujícího enzymu (ACE) a antagonisté receptorů angiotenzinu II (ARA) Hypotenzní a/nebo renální účinky jsou zesíleny při současném podání s furosemidem. Omezení nebo přerušení léčby furosemidem se doporučuje ne později než tři dny před zahájením podávání ACE inhibitorů a ARA. Porucha funkce ledvin může také nastat během prvního současného podání nebo při prvním podání vysokých dávek ACE inhibitorů nebo antagonistů receptorů angiotenzinu II.
+Léky zvyšující antihypertenzní účinek furosemidu
+Účinek jiných antihypertenzních látek (jiná diuretika a jiné léky snižující krevní tlak jako jsou betablokátory) může být zesílen při současném podání furosemidu.
+Hrozí riziko aditivního účinku na hypotenzi při podání furosemidu spolu s alfa-blokátory. Antidiabetika
+
+4/11
+
+Může dojít ke snížení glukózové tolerance, jelikož furosemid může zeslabit účinek antidiabetik. Může být potřeba upravit dávku léků k léčbě hyperglykémie.
+
+Chloralhydrát
+V ojedinělých případech může intravenózní podání furosemidu během 24 hodin před podáním chloralhydrátu způsobit zrudnutí (flush), nadměrné pocení (hyperhidróza), úzkost, nauzeu, zvýšení krevního tlaku a tachykardii. Proto se současné podání furosemidu a chloralhydrátu nedoporučuje.
+
+Fibráty
+Hladiny furosemidu a derivátů kyseliny fibrové v krvi (jako je klofibrát a fenofibrát) mohou být zvýšeny při jejich současném podání (zejména v případě hypalbuminemie, např. při nefrotickém syndromu). Nárůst těchto příznaků (zvýšená diuréza a svalové příznaky) musí být monitorován.
+
+Cholestyramin a kolestipol
+Tyto přípravky mohou snížit biologickou dostupnost furosemidu.
+
+Nefrotoxické/ ototoxické látky
+Furosemid může zesílit nefrotoxický účinek nefrotoxických léků (např. cefaloridin, aminoglykosidy, organoplatiny, foscarnet).
+
+Cefalosporinová antibiotika
+Porucha funkce ledvin se může rozvinout u pacientů léčených furosemidem a vysokými dávkami určitých cefalosporinů.
+Cisplatina
+Při současném podání cisplatiny a furosemidu hrozí riziko ototoxického působení. Navíc nefrotoxicita cisplatiny může být zvýšena, nepodává-li se furosemid k dosažení nucené diurézy během léčby cisplatinou v nízkých dávkách (např. 40 mg u pacientů s normální funkcí ledvin) a je-li bilance tekutin pozitivní.
+Aminoglykosidová antibiotika
+Furosemid může zesílit ototoxicitu aminoglykosidů a antibiotik, jako je kanamycin, gentamicin a tobramycin, a to zejména u pacientů s poruchou funkce ledvin. Vzhledem k tomu, že při podání této kombinace hrozí nevratné poškození, smí být tyto léky podány s furosemidem pouze tehdy, jsou-li k tomu závažné zdravotní důvody.
+Neuromuskulární blokátory
+Malé  dávky  furosemidu  (méně  než  100  ug/kg)  mohou  zesílit  neuromuskulární  blokádu zprostředkovanou kompetitivními neuromuskulárními blokátory (svalová relaxancia kurarového typu, jako je atrakurium a tubokurarin) a depolarizujícími neuromuskulárními blokátory (jako je sukcinylcholin), zatímco vysoké dávky mohou působit proti neuromuskulární blokádě. Deplece draslíku v souvislosti s podáním diuretik může zesílit účinek kompetitivních neuromuskulárních blokátorů.
+Theofylin
+Při současném podání furosemidu byla clearance theofylinu snížena o 20%, čímž došlo k zesílení účinku theofylinu. Při současném podání s furosemidem je zvýšeno riziko hypokalemie.
+
+Thiazidy (metolazon)
+Synergistický účinek diurézy, tj. vylučování sodíku a draslíku, nastává v důsledku interakce furosemidu a thiazidů, což vede ke zvýšenému riziku dehydratace, hyponatremie a hypokalemie.
+
+Léky signifikantně sekretované renálními tubuly
+Probenecid a další léky, které jsou, podobně jako furosemid, signifikantně sekretovány renálními tubuly, mohou snížit účinek furosemidu. Naproti tomu furosemid může snížit eliminaci těchto látek
+
+
+5/11
+
+ledvinami. Při léčbě vysokými dávkami (zejména jak furosemidu, tak jiných látek) může dojít ke zvýšení sérových hladin a ke zvýšenému riziku nežádoucích účinků z důvodu podávání furosemidu nebo těchto látek.
+
+Antikonvulziva
+Ke snížení účinku furosemidu může dojít při současném podání s antikonvulziva (např. fenytoin, fenobarbital).
+
+Jiné interakce
+Současné podání cyklosporinu a diuretik je u některých pacientů spojeno se zvýšeným rizikem dnavé artritidy a vyšší hladinou kreatininu v séru.
+4.6 Fertilita, těhotenství a kojení
+Těhotenství
+Vzhledem k tomu, že furosemid prostupuje placentou, smí být v průběhu těhotenství použit pouze krátkodobě a pouze je-li indikace nevyhnutelná.
+Diuretika nejsou v průběhu těhotenství vhodná k rutinní léčbě hypertenze a edému, jelikož mohou porušit perfuzi placenty a tím i růst plodu.
+Léčba během těhotenství vyžaduje sledování hladiny elektrolytů, hematokritu a růstu plodu. Ve studiích na zvířatech byla pozorována reprodukční toxicita (viz bod 5.3).
+Koncentrace furosemidu v pupečníkové krvi dosahuje 100 % koncentrace v mateřském séru. U lidí dosud nebyly pozorovány žádné malformace v souvislosti s expozicí furosemidu. Je však k dispozici pouze omezené množství zkušeností,  aby bylo možno zhodnotit potenciální škodlivý účinek na embryo/plod.
+Při použití během těhotenství může furosemid predisponovat plod k hyperkalciurii, nefrokalcinóze a sekundární hyperparatyreóze. Může také stimulovat produkci moči u plodu během nitroděložního vývoje.
+
+Kojení
+Furosemid se vylučuje do mateřského mléka a může inhibovat laktaci. V takových případech je kojení kontraindikováno (viz bod 4.3).
+
+Fertilita
+Nejsou dostupné údaje.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Reakce pacientů na furosemid je individuální, vzhledem k tomu, že způsobuje pokles krevního tlaku, může snížit schopnost řídit motorová vozidla nebo obsluhovat stroje. Toto riziko je vyšší na počátku léčby, při změně léčby a při požití alkoholu.
+
+4.8 Nežádoucí účinky
+V následující tabulce jsou shrnuty nežádoucí účinky furosemidu rozdělené do skupin podle terminologie MedDRA s uvedením frekvence výskytu: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1 000 až <1/100); vzácné (≥1/10 000 až < 1/1 000); velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit):Vyhodnocení nežádoucích reakcí je založeno na následující definici četnosti výskytu:
+
+
+MedDRA  třídy orgánových
+systémů    /
+Frekvence
+časté (≥1/100
+to <1/10)
+méně časté
+(≥1/1,000
+to
+<1/100)
+vzácné (≥1/10,000 to <1/1,000)
+velmi vzácné
+(<1/10,000)
+není známo
+(z  dostupných údajů nelze určit)
+
+
+6/11
+
+Poruchy krve a lymfatického
+systému
+
+
+
+
+
+Poruchy metabolismu  a výživy
+
+
+
+
+
+
+
+Poruchy nervového systému
+
+
+Poruchy ucha a labyrintu
+
+
+
+Gastrointestinální poruchy
+
+
+
+
+
+
+Poruchy jater a žlučových cest
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+
+
+Poruchy svalové a     kosterní soustavy    a pojivové tkáně
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nauzea, zvracení a průjem, žaludeční nevolnost, zácpa, bolest  v epigastriu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hluchota (někdy nevratná)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+porucha sluchu (přechodná), hluchota *, tinnitus
+trombocytopenie, leukopenie,
+aplastická anémie,
+agranulocytóza, anémie,
+hemolytická anémie
+hyperglykemie, hypokalemie, hyponatremie, hypomagnezemie, hypochloremická alkalóza, hyperurikemie, dna,   porušená glukózová tolerance
+závratě, mdloby a ztráta   vědomí (způsobené symptomatickou hypotenzí)
+
+
+
+
+
+akutní pankreatitida
+
+
+
+
+
+
+cholestatická žloutenka fotosenzitivita,
+exantém, pruritus, kopřivka, erythema multiforme, exfoliativní dermatitida, purpura,  akutní generalizovaná
+exantematózní pustulóza (AGEP)
+
+
+
+7/11
+
+Poruchy ledvin a močových cest
+
+
+
+Poruchy oka
+
+
+
+Srdeční poruchy Vyšetření
+
+
+
+
+
+Poruchy imunitního systému
+Celkové poruchy a reakce v místě aplikace
+intersticiální nefritida, hyperkalciurie, močová retence, polyurie
+rozmazané
+vidění,  poruchy vidění   (žluté vidění)
+srdeční zástava
+cholesterol v séru zvýšený, triglyceridy
+sérové  zvýšené, amylázy v séru zvýšeny
+
+
+
+reakce v místě aplikace
+
+* zvýšené riziko přechodné poruchy sluchu až ohluchnutí se může vyskytovat u pacientů s poruchou funkce ledvin
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku.
+Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9 Předávkování
+Příznaky
+Klinický obraz akutního nebo chronického předávkování závisí primárně na rozsahu a následcích ztráty elektrolytů a tekutin (např. hypovolemie, dehydratace, hemokoncentrace, srdeční arytmie – včetně AV blokády a ventrikulární fibrilace) z důvodu nadměrné diurézy.
+Příznaky těchto poruch zahrnují deliriózní stav, těžkou hypotenzi (přecházející do šoku), akutní selhání ledvin, trombózu, chabou paralýzu, apatii a zmatenost.
+Léčba
+Léčba spočívá v náhradě tekutin, úpravě poruchy elektrolytové rovnováhy, sledování metabolických funkcí, udržení odtoku moči a prevenci a léčbu závažných komplikací.
+Není známo specifické antidotum furosemidu. Jestliže nastane předávkování během parenterálního podání, léčba je zaměřena na sledování pacienta a na podpůrnou léčbu. Hemodialýza neurychluje eliminaci furosemidu. Pokud dojde k požití furosemidu, je třeba zabránit systémovému vstřebání omezením absorpce účinné látky (aktivní uhlí).
+
+
+5. Farmakologické vlastnosti
+
+
+8/11
+
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina diuretika s vysokým účinkem ATC kód: C03CA01
+Mechanismus účinku
+Přípravek Furosemid BBP je silné diuretikum s rychlým účinkem. Z farmakologického hlediska furosemid inhibuje ko-transportní systém (reabsorpci) následujících elektrolytů: Na+, K+ a 2Cl-, který je situovaný na luminální membráně buněk vzestupného raménka Henleovy kličky. Následkem toho závisí účinnost furosemidu na vstupu léčiva do lumen tubulů mechanismem transportu aniontů. Diuretický účinek je výsledkem inhibice reabsorpce chloridu sodného v tomto segmentu Henleovy kličky. V důsledku toho může frakce vylučovaného sodíku dosáhnout až 35 % obsahu sodíku v glomerulárním filtrátu. Druhotné následky zvýšené eliminace sodíku jsou: zvýšené vylučování moči a zvýšená sekrece draslíku v distálním tubulu. Vylučování solí vápníku a hořčíku je také zvýšeno.
+
+Furosemid inhibuje mechanismus zpětné vazby v macula densa a indukuje na dávce závislou stimulaci systému renin-angiotenzin-aldosteron.
+
+V případě srdečního selhání furosemid indukuje akutní snížení srdečního předtížení (prostřednictvím zvětšení  kapacity  krevních  cév).  Tento  časný  vaskulární  účinek je  zřejmě  zprostředkován prostaglandiny za předpokladu adekvátní funkce ledvin s aktivace reninangiotenzinového systému a intaktní syntézy prostaglandinů. Prostřednictvím natriuretického účinku furosemid snižuje reaktivitu cév na katecholaminy, která je u pacientů s hypertenzí zvýšena.
+Antihypertenzní účinek furosemidu je přisuzován zvýšenému vylučování sodíku, snížení objemu krve a odpovědi hladkého svalstva cév na stimulaci vazokonstrikce.
+
+Farmakodynamické účinky
+Diuretický účinek furosemidu nastupuje během 15 minut od intravenózního podání.
+
+Na dávce závislé zvýšení diurézy a natriurézy bylo pozorováno po podání furosemidu zdravým jedincům (dávky v rozmezí 10 mg a 100 mg). Doba trvání účinku u zdravých jedinců po intravenózním podání furosemidu v dávce 20 mg je přibližně 3 hodiny a po perorálním podání dávky 40 mg je tato doba přibližně 3 až 6 hodin.
+
+U nemocných pacientů lze vztah mezi tubulární koncentrací volného furosemidu a vázaného furosemidu (stanovený rychlostí vylučování moči) a jeho natriuretickým účinkem vyjádřit sigmoidní křivkou s minimální účinnou rychlostí vylučování přibližně 10 mikrogramů za minutu. Kontinuální infuze furosemidu je tedy účinnější než opakované bolusové podání. Nad určitou velikost bolusové dávky se účinnost léku již znatelně nezvyšuje. Účinnost furosemidu je snížena v případě snížené tubulární sekrece nebo v případě intratubulární vazby léčiva na albumin.
+
+5.2 Farmakokinetické vlastnosti
+Distribuce
+Distribuční objem furosemidu je 0,1 až 1,2 l/kg tělesné hmotnosti. Distribuční objem může být zvýšen v závislosti na souběžném onemocnění.
+
+Vazba na bílkoviny (převážně na albumin) je vyšší než 98 %.
+Furosemid je vylučován do mateřského mléka. Prochází placentární bariérou a pomalu přechází k plodu. Furosemid dosahuje podobné koncentrace u matky, plodu i novorozence.
+
+Eliminace
+Furosemid je eliminován převážně v nekonjugované formě, a to především sekrecí v proximálním tubulu. Po intravenózním podání se 60 až 70 % furosemidu eliminuje tímto způsobem. Glukuronové
+
+
+9/11
+
+metabolity furosemidu představují 10 % až 20 % látky vyloučené močí. Zbytek dávky je eliminován stolicí, pravděpodobně biliární sekrecí. Po intravenózním podání je plazmatický poločas furosemidu v rozmezí 1 až 1,5 hodiny.
+
+Porucha funkce ledvin
+Při poruše funkce ledvin je eliminace furosemidu pomalejší a jeho poločas zvýšen. U pacientů s poruchou funkce ledvin může terminální poločas dosáhnout až 24 hodin.
+
+Při  nefrotickém syndromu vede nižší koncentrace plasmatických proteinů k vyšším koncentracím nekonjugovaného furosemidu (volného). Na druhou stranu je účinnost furosemidu u těchto pacientů snížena z důvodu intratubulární vazby na albumin a z důvodu snížené tubulární sekrece.
+Furosemid je špatně dialyzovatelný u pacientů podstupujících hemodialýzu, peritoneální dialýzu nebo CAPD (kontinuální ambulantní peritoneální dialýza).
+
+Porucha funkce jater
+Při poruše funkce jater se poločas furosemidu zvyšuje o 30 až 90 %, převážně z důvodu vyššího distribučního objemu. Biliární eliminace může být snížena (až na 50 %). U této skupiny pacientů je větší proměnlivost farmakokinetických parametrů.
+
+Městnavé srdeční selhání, těžká hypertenze, starší pacienti
+Eliminace furosemidu je pomalejší z důvodu snížené funkce ledvin u pacientů s městnavým srdečním selháním, s těžkou hypertenzí nebo u starších pacientů.
+Nedonošené děti a novorozenci
+V závislosti na stupni vývoje ledvin může být eliminace furosemidu pomalá. U dětí s nedostatečnou kapacitou glukuronidace je metabolismus léčiva také snížen. U donošených novorozenců je poločas obecně nižší než 12 hodin. U dětí ve věku 2 měsíců nebo starších je terminální clearance stejná jako u dospělých.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+Pokusy na březích samicích několika zvířecích druhů v dávkách převyšujících terapeutické dávky dokumentovaly zvýšený výskyt úmrtí plodu a aborty. Na myších a králících se pozoroval zvýšený výskyt distenze ledvinové pánvičky a uteru.
+
+6. Farmaceutické údaje
+6.1. Seznam pomocných látek
+Hydroxid sodný, voda pro injekci.
+6.2 Inkompatibility
+Při přípravě infuze se furosemid nesmí míchat s látkami, které snižují pH roztoku (např. vitaminy skupiny B, vitamin C, adrenalin, noradrenalin, lokální anestetika, antihistaminika atd.).
+pH roztoku nesmí klesnout pod 7, protože léčivá látka se může vysrážet.
+6.3 Doba použitelnosti
+Doba použitelnosti přípravku před otevřením:
+3 roky
+
+Doba použitelnosti po prvním otevření:
+Po otevření musí být přípravek použit okamžitě.
+
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 °C. Uchovávejte ampulky v krabičce, aby byl přípravek chráněn před světlem.
+
+
+
+10/11
+
+6.5 Druh obalu a obsah balení
+Ampulka z hnědého skla, vložka z PVC, krabička. Velikost balení: 10 ampulek po 10 ml
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Obsahuje-li přípravek viditelné částice, nesmí být použit. Pouze k jednorázovému použití.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+7. Držitel rozhodnutí o registraci
+BB Pharma a.s., Durychova 101/66, 142 00 Praha 4 - Lhotka, Česká republika
+
+8. Registrační číslo
+50/766/92-S/C
+9. Datum první registrace/prodloužení registrace
+Datum první registrace: 14.12.1992
+Datum posledního prodloužení registrace: 7. 8. 2019
+
+10. Datum revize textu
+7. 8. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11

@@ -1,0 +1,513 @@
+sp.zn. sukls253908/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+FEIBA NF 25 U/ml prášek a rozpouštědlo pro injekční/infuzní roztok FEIBA NF 50 U/ml prášek a rozpouštědlo pro injekční/infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Léčivá látka: factorum coagulationis complexus antiinhibens (antiinhibiční komplex koagulačních faktorů, Factor Eight Inhibitor Bypassing Activity - FEIBA)
+
+Jedna injekční lahvička přípravku Feiba NF 25 U/ml obsahuje factorum coagulationis complexus antiinhibens 500 U, přičemž celkový obsah plazmatického proteinu (proteinum plasmatis humani) je 200 - 600 mg. Jeden ml přípravku Feiba NF 25 U/ml obsahuje factorum coagulationis complexus antiinhibens 25 U*.
+
+Jedna injekční lahvička přípravku Feiba NF 50 U/ml obsahuje factorum coagulationis complexus antiinhibens 500 U/1000 U, přičemž celkový obsah plazmatického proteinu (proteinum plasmatis humani) je 200 - 600 mg/400 - 1200 mg. Jeden ml přípravku Feiba NF 50 U/ml obsahuje factorum coagulationis complexus antiinhibens 50 U*.
+
+Přípravek FEIBA NF obsahuje také koagulační faktory II, IX a X převážně v neaktivované formě, dále aktivovaný koagulační faktor VII. Antigen koagulačního faktoru VIII (FVIII C:Ag) je přítomen
+v koncentraci až 0,1 U/1 U FEIBA NF. Faktory kalikrein-kininového systému, pokud jsou vůbec přítomny, jsou obsaženy pouze ve stopovém množství.
+* 1 jednotka FEIBA zkracuje aktivovaný parciální tromboplastinový čas (aPTT) plazmy s inhibitorem faktoru VIII o 50% nárazníkové hodnoty (empty value).
+Pomocné látky se známým účinkem:
+Přípravek Feiba NF 25 U/ml obsahuje přibližně 40 mg sodíku v jedné injekční lahvičce. Přípravek Feiba NF 50 U/ml obsahuje přibližně 80 mg sodíku v jedné injekční lahvičce.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Prášek a rozpouštědlo pro injekční/infuzní roztok.
+Bílý, našedlý nebo světle zelený prášek nebo sypká hmota. pH rekonstituovaného roztoku je 6,8 až 7,6.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+•   léčba a profylaxe krvácení u pacientů s hemofilií A s inhibitorem faktoru VIII
+•   léčba a profylaxe krvácení u pacientů s hemofilií B s inhibitorem faktoru IX
+•   léčba a profylaxe krvácení u nehemofilických pacientů se získanými inhibitory faktorů VIII, IX a XI
+
+
+1/12
+
+Přípravek FEIBA NF byl také použit v kombinaci s koncentrátem faktoru VIII k dlouhodobé léčbě s cílem úplně a trvale eliminovat inhibitor faktoru VIII.
+
+V ojedinělých případech byl přípravek FEIBA NF použit také u pacientů s inhibitorem von Willebrandova faktoru.
+4.2  Dávkování a způsob podání
+
+Léčbu má zahájit a sledovat lékař se zkušenostmi v léčbě hemofilie.
+
+4.2.1. Dávkování
+Dávkování a délka trvání léčby jsou závislé na závažnosti poruchy hemostázy, na místě a rozsahu krvácení a na klinickém stavu pacienta.
+Dávkování a četnost podání se vždy má řídit klinickou účinností v individuálním případě.
+Obecně se doporučuje podávat 50 až 100 U přípravku FEIBA NF na kg těl.hm. Celková jednotlivá dávka však nemá přesáhnout 100 U/kg těl.hm. a maximální celková denní dávka nesmí přesáhnout
+200 U/kg těl.hm., pokud závažnost krvácení neopravňuje a neospravedlňuje použití vyšších dávek. Viz bod 4.4.
+
+Pediatrické použití (děti)
+Zkušenosti u dětí do 6 let věku jsou omezené, dávkovací režim má být upraven podle klinického stavu dítěte jako u dospělých.
+1) Spontánní krvácení
+Krvácení do kloubů, svalů a měkkých tkání
+U lehkých až středně těžkých krvácení se doporučuje dávka 50-75 U/kg těl.hm. ve 12hodinových intervalech. Léčba má pokračovat, dokud se neobjeví jasné známky klinického zlepšení, jako ústup bolesti, zmenšení otoku nebo zlepšení hybnosti kloubu.
+U těžkých krvácení do svalů a měkkých tkání, jako je retroperitoneální krvácení, se doporučuje dávka 100 U/kg těl.hm. ve 12hodinových intervalech.
+
+Slizniční krvácení
+Doporučuje se dávka 50 U/kg těl. hm. každých 6 hodin při pečlivém sledování pacienta (vizuální kontrola krvácení, opakované stanovení hematokritu). Pokud se krvácení nezastaví, může být dávka zvýšena na 100 U/kg těl.hm., celková denní dávka však nemá překročit 200 U/kg těl.hm.
+
+Jiná závažná krvácení
+Při těžkém krvácení, jako např. krvácení do CNS, se doporučuje dávka 100 U/kg těl.hm. ve
+12hodinových intervalech. V individuálních případech může být přípravek FEIBA NF podáván v intervalech 6 hodin, dokud nedojde k výraznému klinickému zlepšení. (Nesmí se překročit maximální denní dávka 200 U/kg těl.hm.!).
+
+2) Chirurgické výkony
+Doporučuje se dávka 50-100 U/kg těl.hm. v 6hodinových intervalech, s ohledem na to, že nemá být překročena maximální denní dávka.
+
+3) Profylaxe
+• Profylaxe krvácení u pacientů s vysokým titrem inhibitoru a častým krvácením, u nichž nebyla úspěšná nebo se neuvažuje o ITI (imunotoleranční léčbě):
+Doporučuje se dávka 70 – 100 U/kg těl.hm. ob den. Tato dávka může být zvýšena až na 100 U/kg těl.hm. denně, pokud pacient dále krvácí, nebo může být postupně snížena.
+• Profylaxe krvácení u pacientů s vysokým titrem inhibitoru podstupujících ITI (imunotoleranční léčbu):
+Přípravek FEIBA NF může být podáván současně s koncentráty koagulačního faktoru VIII, v dávce 50 – 100 U/kg těl.hm. dvakrát denně, dokud nedojde k poklesu hladiny inhibitoru pod 2 BU*
+
+
+2/12
+
+*1 Bethesda jednotka (BU) je definována jako množství protilátek, které inhibuje 50% aktivity faktoru VIII čerstvé směsné lidské plazmy po inkubaci 2 hodiny při 37ᵒC.
+
+4.2.2 Monitorování
+Vzhledem ke komplexnímu mechanismu účinku není k dispozici přímé monitorování léčivé látky. Koagulační testy, jako doba srážení plné krve (WBCT), tromboelastogram (TEG, r-hodnota) a aPTT jsou obvykle jen mírně sníženy a vždy nekorelují s klinickým zlepšením. Proto mají tyto testy pouze omezený význam při hodnocení léčby přípravkem FEIBA NF. Viz bod 4.4.
+V případě neadekvátní odpovědi na léčbu tímto přípravkem je doporučeno vyšetření počtu trombocytů vzhledem k tomu, že počet funkčně intaktních trombocytů je považován za nezbytný pro účinnost přípravku.
+
+4.2.3 Způsob podání
+
+Přípravek FEIBA NF musí být podáván intravenózní injekcí anebo infuzí. Rychlost podání má zajistit pohodlí pacienta a nemá překročit maximálně 2 U/ kg tělesné hmotnosti za minutu.
+4.3  Kontraindikace
+Pokud jsou k dispozici terapeutické alternativy, přípravek FEIBA NF nesmí být použit v následujících situacích:
+•  Hypersenzitivita na léčivou látku nebo na kteroukoli složku přípravku uvedenou v bodě 6.1.
+•  Diseminovaná intravaskulární koagulace (DIC)
+•  Akutní trombóza nebo embolie (včetně infarktu myokardu) Viz bod 4.4.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Sledovatelnost
+
+Aby se zlepšila sledovatelnost biologických léčivých přípravků, má se přehledně zaznamenat název podaného přípravku a číslo šarže.
+UPOZORNĚNÍ
+Tromboembolické příhody
+V průběhu léčby přípravkem FEIBA NF se objevily tromboembolické příhody včetně diseminované intravaskulární koagulace (DIC), žilní trombózy, plicní embolie, infarktu myokardu a cévní mozkové příhody, zejména po aplikaci dávek vyšších než 200 U/kg/den, při dlouhodobé aplikaci nebo u
+pacientů s dalšími rizikovými faktory tromboembolických příhod (včetně DIC, pokročilé
+aterosklerózy, crush syndromu nebo septikemie). Souběžná léčba rekombinantním faktorem VIIa může zvýšit riziko vzniku tromboembolické příhody. U pacientů s vrozenou nebo získanou hemofilií by měla být vždy zvažována možná existence takových rizikových faktorů.
+Přípravek FEIBA NF má být používán se zvláštní opatrností u pacientů s rizikem DIC, arteriální nebo venózní trombózy. Viz bod 4.3.
+
+V klinických studií s přípravkem FEIBA NF nebyla hlášena trombotická mikroangiopatie (TMA). Případy TMA byly hlášeny v klinickém hodnocení emicizumabu, kde pacienti dostávali přípravek FEIBA NF jako součást léčebného režimu při krvácení. Pro bližší informace o TMA hlášených v klinickém hodnocení emicizumabu viz souhrn údajů o přípravku pro emicizumab. Bezpečnost a
+účinnost přípravku FEIBA NF při krvácení u pacientů léčených emicizumabem nebyly stanoveny. Proto je nezbytné posouzení přínosu a rizika při podávání přípravku FEIBA NF pacientům léčeným emicizumabem, a tito pacienti musí být pečlivě monitorováni lékařem, který vede jejich léčbu
+hemofilie (viz také bod 4.5).
+
+Při prvních známkách a příznacích tromboembolických příhod musí být infuze okamžitě ukončena a zahájena příslušná diagnostická a terapeutická opatření.
+
+3/12
+
+Jednotlivá dávka 100 U/kg těl. hm. a denní dávka 200 U/kg těl. hm. nemá být překročena, pokud závažnost krvácení neodůvodňuje použití vyšších dávek. Pokud je přípravek použit k zastavení krvácení, může být podán pouze tak dlouho, jak je to nezbytně nutné k dosažení terapeutického účinku.
+
+Hypersenzitivní reakce alergického typu
+Přípravek FEIBA NF může vyvolat hypersenzitivní reakce zahrnující kopřivku, angioedém,
+gastrointestinální projevy, bronchospasmus a hypotenzi; tyto příznaky mohou být závažné a mohou být systémové (např. anafylaxe s kopřivkou a angioedémem, bronchospasmus a oběhový šok). Byly také hlášeny další infuzní reakce, jako je zimnice, horečka, hypertenze.
+Při první známce nebo příznaku infuzní hypersenzitivní reakce se podávání přípravku FEIBA NF musí ukončit a zahájit lékařskou péči podle potřeby.
+
+Při zvažování opakovaného podání přípravku FEIBA NF pacientům s podezřením na hypersenzitivitu vůči léčivé látce nebo některé z jeho složek je nutno pečlivě zvážit očekávaný přínos vzhledem k riziku opakovaného podání, přičemž je třeba vzít v úvahu známý nebo předpokládaný typ hypersenzitivity pacienta (alergický nebo nealergický), včetně možné léčebné a/nebo preventivní
+terapie nebo alternativních léčiv.
+
+Monitorování léčby
+Nesmí být překročeny jednotlivé dávky 100 U/kg těl.hm. a celkové denní dávky 200 U/kg těl.hm. Pacienty je nutno sledovat s ohledem na rozvoj DIC a/nebo tromboembolických komplikací. Vysoké dávky přípravku FEIBA NF by měly být podávány jen po dobu nezbytně nutnou k zástavě krvácení.
+
+V případě významných změn krevního tlaku nebo tepové frekvence, při dýchacích obtížích, nebo
+bolesti na hrudi je třeba infuzi ihned přerušit a zahájit vhodná diagnostická a terapeutická opatření. K laboratorním parametrům svědčícím pro DIC patří snížení hladiny fibrinogenu, snížení počtu
+trombocytů, a/nebo přítomnost fibrin/fibrinogen degradačních produktů (FDP).
+
+Získaná hemofilie
+Hemofiličtí pacienti s inhibitorem nebo se získanými inhibitory koagulačních faktorů, kteří jsou léčeni přípravkem FEIBA NF, mohou mít zvýšený sklon ke krvácení a současně zvýšené riziko trombózy.
+
+Laboratorní testy a klinická účinnost
+In vitro testy jako je aPTT, doba srážení plné krve (WBCT) a tromboelastogram (TEG) jako doklad účinnosti nemusejí korelovat s klinickým zlepšením. Proto pokusy o normalizaci těchto hodnot zvyšováním dávky FEIBA NF nemohou být úspěšné, a dokonce se zásadně nedoporučují vzhledem k možnému riziku navození DIC při předávkování.
+Význam počtu trombocytů
+V případě neuspokojivé nebo snížené odpovědi na léčbu přípravkem FEIBA NF se doporučuje
+vyšetření počtu trombocytů, protože dostatečný počet funkčně intaktních trombocytů je považován za nezbytný pro účinnost přípravku FEIBA NF.
+Opatření k prevenci přenosu infekčních agens
+Standardní opatření zabraňující přenosu infekce v souvislosti s používáním léčivých přípravků vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, testování jednotlivých odběrů krve a
+plazmatických poolů na specifické ukazatele infekce a zařazení účinných výrobních kroků, při nichž jsou inaktivovány/odstraněny viry. Přesto nemůže být při podávání léčiv vyráběných z lidské krve nebo plazmy zcela vyloučena možnost přenosu infekce. To platí i pro jakékoli neznámé nebo
+vznikající viry a jiné patogeny.
+
+Tato opatření jsou považována za účinná u tzv. obalených virů jako je virus lidské imunodeficience (HIV), virus hepatitidy B (HBV) a virus hepatitidy C (HCV), a u neobalených virů hepatitidy A (HAV). Přijatá opatření mohou mít omezenou účinnost na neobalené viry jako je parvovirus B19.
+
+4/12
+
+Infekce parvovirem B19 může být nebezpečná pro těhotné ženy (fetální infekce) a pro jedince, kteří mají sníženou funkci imunitního systému nebo zvýšenou erytropoézu (např. hemolytická anemie).
+
+U pacientů, kteří pravidelně/opakovaně dostávají léčiva vyrobená z lidské plazmy včetně přípravku FEIBA NF, je třeba zvážit vhodnou vakcinaci (hepatitida A a B).
+VAROVÁNÍ
+Tromboembolické komplikace
+V následujících situacích má být přípravek FEIBA NF používán jen tehdy, pokud nelze očekávat odpověď na léčbu jiným vhodným koncentrátem koagulačního faktoru, tj. při velmi vysokém titru
+inhibitoru a život ohrožujícím krvácení nebo riziku krvácení (posttraumatickém nebo pooperačním).
+•  Diseminovaná intravaskulární koagulace (DIC): laboratorní nálezy a/nebo klinické příznaky
+•  Poškození jater:
+Vzhledem ke zpomalenému vylučování koagulačních faktorů jsou pacienti s poškozením jater vystaveni vyššímu riziku rozvoje DIC
+•  Ischemická choroba srdeční, akutní trombóza a/nebo embolie
+Nedostatečná odpověď na antiinhibitorové látky
+Vzhledem k faktorům specifickým pro jednotlivé pacienty může být odpověď na antiinhibitorové přípravky rozdílná a při konkrétní krvácivé příhodě mohou pacienti reagující nedostatečně na jednu látku reagovat uspokojivě na jinou látku. Při nedostatečné odpovědi na jeden antiinhibitorový přípravek má být zváženo podání alternativního přípravku.
+Anamnestické odpovědi
+Podání přípravku FEIBA NF pacientům s inhibitorem může vyvolat úvodní anamnestický vzestup
+hladin inhibitoru. Po delším podávání přípravku FEIBA NF však může inhibitor vymizet. Klinické a publikované údaje naznačují, že účinnost přípravku FEIBA NF není snížena.
+Interference s laboratorními testy
+Po podání vysokých dávek přípravku FEIBA NF může přechodný vzestup pasivně přenesených protilátek proti povrchovým antigenům viru hepatitidy B zapříčinit chybnou pozitivní interpretaci výsledku serologického testování.
+FEIBA NF obsahuje izohemaglutininy krve (anti-A a anti-B). Pasivní přenos protilátek proti
+antigenům erytrocytů, např. A, B, D, může interferovat s některými serologickými testy protilátek červených krvinek, jako je antiglobulinový test (Coombsův test). Pacient má být monitorován
+z hlediska projevů intravaskulární hemolýzy.
+
+Děti
+Kazuistiky a omezená data z klinických studií naznačují, že přípravek FEIBA NF může být použit u dětí mladších než 6 let věku.
+
+Profylaktické použití
+Jsou k dispozici pouze omezené klinické údaje o použití přípravku FEIBA NF v profylaxi krvácení u hemofilických pacientů.
+Sodík
+Přípravek FEIBA NF 25 U/ml obsahuje přibližně 40 mg sodíku v jedné injekční lahvičce, což
+odpovídá 2 % maximálního denního příjmu potravou pro dospělého dle WHO, který činí 2 g sodíku.
+
+Přípravek FEIBA NF 50 U/ml obsahuje přibližně 80 mg sodíku v jedné injekční lahvičce, což
+odpovídá 4 % maximálního denního příjmu potravou pro dospělého dle WHO, který činí 2 g sodíku.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly provedeny žádné odpovídající a dobře kontrolované studie kombinovaného nebo sekvenčního podání přípravku FEIBA NF a rekombinantního faktoru VIIa, antifibrinolytik nebo emicizumabu.
+
+5/12
+
+Během léčby přípravkem FEIBA NF je třeba zvážit možnost tromboembolických příhod, jsou-li používána systémová antifibrinolytika jako kyselina tranexamová a kyselina aminokapronová. Z
+tohoto důvodu se nesmí použít antifibrinolytika přibližně 6 až 12 hodin po podání přípavku FEIBA NF.
+Podle dostupných in vitro údajů a klinického sledování se v případech současného použití rFVIIa nemůže vyloučit léková interakce potenciálně vedoucí k nežádoucím účinkům jako je
+tromboembolická příhoda).
+Klinické zkušenosti z klinické studie s emicizumabem naznačují, že s emicizumabem může existovat potenciální léková interakce, pokud byl přípravek FEIBA NF použit jako součást léčebného režimu při krvácení, která může způsobit tromboembolické příhody a trombotickou mikroangiopatii (viz bod 4.4).
+4.6  Fertilita, těhotenství a kojení
+
+Bezpečnost přípravku FEIBA NF během těhotenství a v období kojení nebyla stanovena. Zdravotničtí pracovníci mají před předepsáním přípravku FEIBA NF pečlivě zvážit možná rizika vzhledem
+k přínosu u každého specifického pacienta. Těhotenství a poporodní období jsou charakterizovány zvýšeným rizikem trombózy a závažné komplikace těhotenství jsou spojovány se zvýšeným rizikem DIC.
+Reprodukční studie u zvířat s přípravkem FEIBA NF nebyly prováděny a jeho účinky na fertilitu nebyly v kontrolovaných klinických studiích stanoveny.
+Informace týkající se infekce parvovirem B19 viz bod 4.4.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly pozorovány účinky na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Nežádoucí přípravky uvedené v této kapitole byly hlášeny z postmakertingového sledování stejně tak jako ze 2 studií s přípravkem FEIBA NF k léčbě krvácivých příhod u pediatrických a dospělých
+pacientů s hemofílií A nebo B a inhibitory faktoru VIII nebo IX. Jedna studie také zahrnovala pacienty se získanou hemofílií s inhibitory faktoru VIII (2 ze 49 pacientů). Byly přidány nežádoucí účinky ze třetí studie srovnávající profylaxi s on-demand léčbou (dle potřeby).
+Frekvence výskytu nežádoucích účinků je definována podle následující konvence: Velmi časté    ≥ 1/10
+Časté       ≥ 1/100 až < 1/10
+Méně časté    ≥ 1/1 000 až < 1/100
+Vzácné      ≥1/10 000 až < 1/1 000 Velmi vzácné   < 1/10 000
+Není známo    z dostupných údajů nelze určit
+
+
+Třída orgánového systému (TOS)
+Nežádoucí účinky
+(Upřednostňovaný termín MedDRA verze 18.0)
+Frekvence* dle kategorie
+
+
+Poruchy krve a lymfatického systému
+Poruchy imunitního systému
+
+
+Poruchy nervového systému
+Diseminovaná intravaskulární koagulace (DIC) Zvýšení titru inhibitoru (anamnestická odpověď)*,ᵃ Hypersenzitivitaᶜ
+Kopřivka
+Anafylaktická reakce Parestezie
+Snížení citlivosti
+Trombotická cévní mozková příhoda Embolická cévní mozková příhoda Bolest hlavyᶜ
+Není známo Není známo Časté
+Není známo Není známo Není známo Není známo Není známo Není známo Časté
+6/12
+
+
+
+
+Srdeční poruchy Cévní poruchy
+
+
+
+
+Respirační, hrudní a mediastinální poruchy
+
+
+
+Gastrointestinální poruchy
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+Vyšetření
+Somnolence*, Závrať ᵇ Dysgeuzie*, Infarkt myokardu Tachykardie
+Trombóza
+Venózní trombóza Arteriální trombóza
+Embolie (tromboembolické komplikace) Hypotenzeᶜ
+Hypertenze Zrudnutí
+Plicní embolie Bronchospasmus Sípot
+Kašel Dyspnoe*, Zvracení Průjem
+Břišní diskomfort Nauzea*,
+Pocit necitlivosti v obličeji Angioedém
+Kopřivka Svědění Vyrážkaᶜ
+Bolest v místě vpichu Malátnost
+Pocit horka Zimnice*, Pyrexie*,
+Bolest na hrudi*, Hrudní diskomfort*,
+Pokles krevního tlaku
+Pozitivní protilátky na hepatitidu Bᶜ
+Není známo Časté
+Není známo Není známo Není známo Není známo Není známo Není známo Není známo Časté
+Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Časté
+Není známo Není známo Není známo Není známo Není známo Není známo Není známo Není známo Časté
+* Přesný odhad míry těchto nežádoucích účinků není možný z dostupných údajů
+ᵃ Zvýšení titru inhibitoru (anamnestická odpověď) [není to upřednostňovaný termín MedDRA] je
+vzestup dříve přítomných titrů inhibitoru, k němuž dochází po podání přípravku FEIBA NF. Viz bod 4.4.
+ᵇ NÚ hlášeny z původních a profylaktických studií. Frekvence je použita pouze z profylaktické studie.
+ᶜ NÚ hlášeny z profylaktické studie. Frekvence je použita z profylaktické studie.
+
+Třída reakcí:
+Ostatní příznaky hypersenzitivních reakcí na přípravky získané z plasmy zahrnují letargii a neklid.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku FEIBA NF je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu: Státní ústav pro
+kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit-nezadouci- ucinek.
+
+4.9  Předávkování
+Riziko trombotických a tromboembolických příhod (včetně DIC, infarktu myokardu, žilní trombózy a plicní embolie) může být zvýšeno podáváním vysokých dávek, nebo při dlouhodobé aplikaci
+
+7/12
+
+přípravku FEIBA NF. Některé hlášené tromboembolické příhody se objevily po podání dávek vyšších než 200 U/kg. Pokud se objeví známky tromboembolických příhod, je třeba ihned zastavit infuzi a
+zahájit příslušná diagnostická a terapeutická opatření. Viz bod 4.4.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antiinhibiční komplex koagulačních faktorů, ATC kód: B02BD03 Ačkoli byl přípravek vyvinut po roce 1970 a jeho aktivita obcházející inhibitor faktoru VIII byla
+demonstrována in vitro i in vivo, podstata jeho aktivního účinku je stále předmětem vědeckých debat.
+Nedávné vědecké výzkumy naznačují význam specifických složek aktivovaného protrombinového komplexu, zymogenu protrombinu (FII) a aktivovaného faktoru X (FXa) v mechanismu účinku FEIBA NF.
+5.2  Farmakokinetické vlastnosti
+
+Vzhledem k tomu, že FEIBA NF obsahuje různé koagulační faktory s proměnným poločasem jednotlivých složek, není možné zaujmout jednoznačné stanovisko ve vztahu k jejím
+farmakokinetickým vlastnostem.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Na základě studií akutní toxicity u FVIII knockout myší a normálních myší a potkanů s dávkami přesahujícími maximální denní dávku u lidí (tj. > 200 U/kg těl.hm.) lze shrnout, že nežádoucí účinky FEIBA NF jsou převážně důsledkem hyperkoagulace indukované farmakologickými vlastnostmi přípravku.
+Studie toxicity při opakovaném podání je v pokusech u zvířat prakticky neproveditelné vzhledem k interferenci s tvorbou protilátek proti heterolognímu proteinu.
+Vzhledem k tomu, že lidské koagulační faktory nejsou považovány za kancerogenní či mutagenní, nebyly experimentální studie u zvířat, zvláště u heterologních druhů, považovány za nezbytné.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Prášek: chlorid sodný
+dihydrát natrium-citrátu Rozpouštědlo: voda pro injekci
+6.2  Inkompatibility
+
+Žádné studie kompatibility nebyly u tohoto přípravku provedeny. Proto přípravek FEIBA NF nesmí
+být mísen před podáním s jinými léčivy nebo rozpouštědly. Před a po infuzi FEIBA NF se doporučuje propláchnout žilní vstup vhodným roztokem, např. fyziologickým roztokem.
+Koagulační faktory z lidské plazmy mohou přilnout k povrchům určitých typů injekčních/infuzních setů. Pokud by k tomu došlo, mohlo by to způsobit selhání léčby. Proto mohou být k podávání přípravku FEIBA NF použity jen schválené plastové infuzní sety.
+6.3  Doba použitelnosti
+
+2 roky
+
+
+8/12
+
+Chemická a fyzikální stabilita rekonstituovaného roztoku byla prokázána po dobu 3 hodin při teplotě 20 °C – 25 °C. Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li přípravek
+použit okamžitě, doba a podmínky uchovávání přípravku po rozpuštění před použitím jsou v odpovědnosti uživatele.
+Rozpuštěný přípravek se nesmí vracet do chladničky.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem.
+Uchovávejte injekční lahvičky v krabičce, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a velikost balení
+
+Přípravek FEIBA NF prášek a rozpouštědlo FEIBA jsou dodávány v injekčních lahvičkách (lahvička s práškem: sklo třídy I pro přípravek Feiba NF 50 U/ml obsahující v lahvičce 500 U (50 U/ml) a sklo třídy II pro přípravek Feiba NF 25 U/ml obsahující v lahvičce 500 U (25 U/ml) a přípravek Feiba NF
+50 U/ml obsahující v lahvičce 1000 U (50 U/ml), lahvička s rozpouštědlem: sklo třídy I pro 10 ml a 20 ml) uzavřených pryžovými zátkami a ochrannými kryty.
+
+FEIBA NF, 25 U/ml, je k dispozici v těchto velikostech balení: 1 x 500 U
+Velikost baleni 500 U obsahuje
+
+1 inj. lahvička FEIBA NF 500 U - prášek pro injekční/infuzní roztok 1 inj. lahvička voda pro injekci 20 ml
+1 injekční stříkačka k jednorázovému použití 1 jehla k jednorázovému použití
+1 motýlková jehla se svorkou 1 filtrační jehla
+1 převodní jehla
+1 zavzdušňovací jehla nebo
+1 inj. lahvička FEIBA NF 500 U – prášek pro injekční/infuzní roztok 1 inj. lahvička voda pro injekci 20 ml
+1 BAXJECT II Hi-Flow – bezjehlová pomůcka pro rekonstituci 1 injekční stříkačka k jednorázovému použití
+1 jehla k jednorázovému použití 1 motýlková jehla se svorkou
+Feiba NF, 50 U/ml, je k dispozici v těchto velikostech balení: 1 x 500 U
+1 x 1000 U
+
+Velikost baleni 500 U nebo 1000 U obsahuje
+
+1 inj. lahvička FEIBA NF 500 U/1000 U – prášek pro injekční/infuzní roztok 1 inj. lahvička voda pro injekci 10 ml/20 ml
+1 injekční stříkačka k jednorázovému použití 1 jehla k jednorázovému použití
+1 motýlková jehla se svorkou 1 filtrační jehla
+1 převodní jehla
+
+9/12
+
+1 zavzdušňovací jehla nebo
+1 inj. lahvička FEIBA NF 500 U/1000 U – prášek pro injekční/infuzní roztok 1 inj. lahvička voda pro injekci 10 ml/20 ml
+1 BAXJECT II Hi-Flow – bezjehlová pomůcka pro rekonstituci 1 injekční stříkačka k jednorázovému použití
+1 jehla k jednorázovému použití 1 motýlková jehla se svorkou
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+K přípravě roztoku FEIBA NF použijte pouze vodu pro injekci a soupravu, která je součástí balení. Během celého postupu používejte aseptickou techniku.
+FEIBA NF se rekonstituuje až bezprostředně před podáním. Roztok musí být poté ihned použit (přípravek neobsahuje konzervační přísady).
+Lehce míchejte, dokud se veškerý materiál nerozpustí. Zajistěte, aby se přípravek FEIBA NF zcela rozpustil, jinak projde filtrem infuzního setu méně jednotek přípravku FEIBA NF.
+Po rekonstituci je třeba přípravek prohlédnout s ohledem na přítomnost částic a změnu barvy před podáním, Nepoužívejte roztoky, které jsou zakalené nebo obsahují usazeniny.
+Nepoužívejte, pokud sterilní bariéra nebo obal bezjehlové pomůcky pro rekonstituci nebo převodní jehly vykazují jakékoli známky poškození.
+Pokud používáte jiné pomůcky než ty, které jsou součástí balení FEIBA NF, použijte vhodný filtr s minimální velikostí pórů 149 µm.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+Rekonstituce prášku pro injekční/infuzní roztok pomocí BAXJECT II Hi-Flow:
+Během celého postupu používejte aseptickou techniku.
+1.   Zahřejte rozpouštědlo (vodu pro injekci) na pokojovou teplotu (15 °C – 25 °C), například několik minut ve vodní lázni (max. 37 °C), je-li to zapotřebí.
+2.  Sejměte ochranné kryty z injekčních lahviček s práškem a rozpouštědlem a dezinfikujte obě zátky. Položte lahvičky na rovný povrch.
+3.   Otevřete obal s pomůckou BAXJECT II Hi-Flow tak, že odtrhnete papírové víčko, aniž byste se dotýkali vnitřku (Obr. a). Nevyjímejte pomůcku z obalu.
+4.  Otočte obal a průhledným plastovým trnem propíchněte zátku rozpouštědla (Obr. b). Uchopte
+obal za okraj a sejměte ho z pomůcky BAXJECT II Hi-Flow (Obr. c). Nesnímejte modrý uzávěr z pomůcky BAXJECT II Hi-Flow.
+5.   S převodní pomůckou připojenou k injekční lahvičce s rozpouštědlem převraťte celý systém tak, aby injekční lahvička s rozpouštědlem byla nahoře. Červeným plastovým trnem BAXJECT II Hi-Flow propíchněte zátku FEIBA NF. Rozpouštědlo se natáhne do injekční lahvičky FEIBA NF samo podtlakem (Obr. d).
+6.   Jemně kroužete celým systémem, dokud se všechen materiál nerozpustí, ale netřepejte. Ujistěte se, že je FEIBA NF zcela rozpuštěna, jinak by aktivní materiál neprošel filtrem pomůcky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/12
+
+Obr. a
+Obr. b
+Obr. c
+
+
+
+
+
+
+
+
+
+
+
+
+Injekce/Infuze:
+Během celého postupu používejte aseptickou techniku.
+1.   Sejměte modrý uzávěr z pomůcky BAXJECT II Hi-Flow. Pevně napojte stříkačku na BAXJECT II Hi-Flow (NENATAHUJTE VZDUCH DO STŘÍKAČKY) (Obr. e). K zajištění
+pevného spojení mezi stříkačkou a pomůckou BAXJECT II Hi-Flow se doporučuje použít
+stříkačku s uzávěrem luer (při nasazování otáčejte stříkačkou ve směru hodinových ručiček až do pozice utažení).
+2.   Obraťte systém tak, aby byl rekonstituovaný přípravek nahoře. Natáhněte roztok FEIBA NF do stříkačky POMALÝM tahem pístu a zajistěte pevné spojení pomůcky BAXJECT II Hi-Flow se stříkačkou během celého procesu natahování (Obr. f).
+3.  Odpojte stříkačku.
+4.   Pokud dojde ke zpěnění, vyčkejte, až veškerá pěna opadne. Roztok podávejte pomalu intravenózně pomocí injekčního setu s křidélky (nebo jehly k jednorázovému použití).
+
+
+Obr. d
+Obr. e
+Obr. f
+
+
+
+
+
+
+
+
+
+
+
+Nepřekračujte injekční rychlost 2 U přípravku FEIBA NF/kg těl.hm. za minutu. Rekonstituce prášku pro injekční/infuzní roztok pomocí převodní jehly:
+1. Zahřejte neotevřenou lahvičku obsahující rozpouštědlo (vodu pro injekci) na pokojovou teplotu, například několik minut ve vodní lázni (max. 37 °C), je-li to zapotřebí.
+2. Sejměte ochranné kryty z lahviček s práškem i rozpouštědlem (Obr. A) a dezinfikujte pryžové zátky obou lahviček.
+3. Pootočením a povytažením sejměte ochranný kryt z jednoho konce přiložené přepouštěcí jehly (Obr. B). Zapíchněte jehlu skrze pryžovou zátku do lahvičky s rozpouštědlem (Obr. C).
+4. Sejměte ochranný kryt z druhého konce přepouštěcí jehly tak, abyste se přitom nedotkli odkrytého konce.
+5. Otočte lahvičku s rozpouštědlem nad lahvičku s práškem a zapíchněte volný konec přepouštěcí jehly skrze pryžovou zátku do lahvičky s práškem (Obr. D). Rozpouštědlo je nasáto vakuem do lahvičky s práškem.
+11/12
+
+6. Oddělte obě lahvičky vytažením jehly z lahvičky s práškem (Obr. E). Lehce protřepejte nebo promíchejte, abyste urychlili rozpouštění.
+7. Po úplném rozpuštění prášku zapíchněte přiloženou zavzdušňovací jehlu (Obr. F) a veškerá případná pěna zmizí. Odstraňte zavzdušňovací jehlu.
+
+Injekce/Infuze:
+1. Pootočením a povytažením sejměte ochranný kryt z přiložené filtrační jehly a nasaďte jehlu na sterilní stříkačku k jednorázovému použití. Natáhněte roztok do stříkačky (Obr. G).
+2. Odpojte filtrační jehlu od stříkačky a roztok podávejte pomalu intravenózně pomocí přiloženého injekčního setu s křidélky (nebo pomocí přiložené jehly na jedno použití).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nepřekračujte injekční rychlost 2 U FEIBA NF/kg těl.hm. za minutu.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Baxalta Innovations GmbH Industriestrasse 67
+A-1221 Vídeň Rakousko
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+FEIBA NF 25 U/ml: 75/133/80-A/C FEIBA NF 50 U/ml: 75/133/80-B/C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 5.5.1980
+Datum posledního prodloužení registrace: 20.10.2010
+
+
+10.  DATUM REVIZE TEXTU
+
+10. 11. 2020
+
+
+
+
+
+
+
+
+
+12/12

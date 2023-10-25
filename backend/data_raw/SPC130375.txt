@@ -1,0 +1,555 @@
+Sp.zn.sukls218928/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+
+PHYSIONEAL 40 CLEAR-FLEX GLUCOSE 13,6 MG/ML
+PHYSIONEAL 40 CLEAR-FLEX GLUCOSE 22,7 MG/ML
+PHYSIONEAL 40 CLEAR-FLEX GLUCOSE 38,6 MG/ML
+
+Roztok pro peritoneální dialýzu.
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Před smísením
+1000 ml elektrolytového roztoku (velká komora ″A″) obsahuje:
+
+
+Léčivé látky:
+glucosum monohydricum odpovídající glucosum calcii chloridum dihydricum magnesii chloridum hexahydricum
+13,6 mg/ml
+
+20,0 g
+18,2 g
+22,7 mg/ml
+
+33,3 g
+30,3 g
+0,245 g
+0,068 g
+38,6 mg/ml
+
+56,6 g
+51,5 g
+1000 ml pufrového roztoku (malá komora ″B″) obsahuje:
+Léčivé látky:
+
+natrii chloridum
+natrii hydrogenocarbonas natrii lactatis S solutio odpovídající natrii lactas S Po smísení
+1000 ml promíseného roztoku obsahuje:
+13,6 mg/ml
+19,95 g
+9,29 g
+
+6,73 g
+
+
+22,7 mg/ml
+
+
+
+
+
+
+38,6 mg/ml
+
+Léčivé látky:
+glucosum monohydricum odpovídající glucosum natrii chloridum
+calcii chloridum dihydricum magnesii chloridum hexahydricum
+natrii hydrogenocarbonas natrii lactatis S solutio odpovídající natrii lactas S
+
+15,0 g
+13,6 g
+
+25,0 g
+22,7 g
+5,38 g
+0,184 g
+0,051 g
+2,10 g
+
+1,68 g
+
+42,5 g
+38,6 g
+
+1 000 ml výsledného roztoku po smísení odpovídá 750 ml roztoku A a 250 ml roztoku B.
+
+
+
+
+
+Složení výsledného roztoku po smísení v mmol/l
+13,6 mg/ml       22,7 mg/ml       38,6 mg/ml
+Glucosum (C6H12O6)   75,5 mmol/l       126 mmol/l       214 mmol/l
+
+1
+
+Na⁺ Ca++ Mg++
+Cl⁻ HCO ⁻ C3H5O ⁻
+132 mmol/l
+1,25 mmol/l
+0,25 mmol/l
+95 mmol/l
+25 mmol/l
+15 mmol/l
+Úplný seznam pomocných látek viz bod 6.1.
+
+Číslo „40“ v názvu udává koncentraci pufru v roztoku (15 mmol/l laktátu + 25 mmol/l hydrogenuhličitanu = 40 mmol/l).
+
+
+3.  LÉKOVÁ FORMA
+
+Roztok pro peritoneální dialýzu. Sterilní, čirý, bezbarvý roztok. pH výsledného roztoku je 7,4.
+
+13.6 mg/ml    22,7 mg/ml    38,6 mg/ml
+Osmolarita (mosmol/l)      344        395         483
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Přípravek Physioneal 40 je indikován ve všech případech peritoneální dialýzy, jako například při:
+•   akutním a chronickém selhání ledvin,
+•  závažné retenci vody,
+•  závažném narušení rovnováhy elektrolytů,
+•   lékové intoxikaci dialyzovatelnými látkami, pokud není k dispozici vhodnější léčebná alternativa.
+Přípravek Physioneal 40 na bázi roztoků hydrogenuhličitanu/laktátu pro peritoneální dialýzu s fyziologickým pH je indikován zvláště u pacientů, u kterých roztoky pouze na bázi laktátového pufru s nízkým pH způsobují při napouštění do dutiny břišní bolest břicha či nepříjemné pocity.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Způsob a četnost léčby, vyměněný objem, délka prodlevy a délka trvání dialýzy mají být stanoveny ošetřujícím lékařem.
+
+K vyloučení rizika těžké dehydratace, hypovolemie a za účelem minimalizace ztrát bílkovin je vhodné vybrat roztok pro peritoneální dialýzu s co nejnižší osmolaritou, která ještě vyhovuje potřebám odstranění tekutin při dané výměně.
+
+•  Dospělí:
+pacienti na kontinuální ambulantní peritoneální dialýze (CAPD) obvykle provádějí 4 cykly denně (24 hodin). Pacienti na automatizované peritoneální dialýze (APD) obvykle provádějí 4-5 cyklů v noci a až 2 cykly v průběhu dne. Plnicí objem závisí na velikosti těla, obvykle 2,0 až 2,5 litrů.
+
+•  Starší pacienti:
+jako dospělí.
+
+2
+
+•  Pediatrická populace::
+bezpečnost a účinnost přípravku Physioneal 40 u pediatrických pacientů nebyla dosud stanovena. Proto je v této kategorii pacientů třeba, aby byl poměr klinického přínosu přípravku Physioneal 40 vyhodnocen oproti rizikům nežádoucích účinků.
+Použití přípravku Physioneal 40 ve vaku Clear-Flex se nedoporučuje u dětí, které vyžadují plnicí objem < 1600 ml vzhledem k riziku nerozeznání možné nesprávné infuze (podávání pouze malých komor). – Viz bod 4.4.
+
+Způsob podání
+
+Opatření, která je nutno učinit před zacházením s léčivým přípravkem nebo před jeho podáním
+
+•   Přípravek Physioneal 40 je určen pouze pro intraperitoneální podání. Není určen k intravenóznímu podání.
+•   Roztoky pro peritoneální dialýzu lze zahřát na teplotu 37 °C ke zvýšení pohodlí pacienta. Může se však použít pouze suché teplo (například elektrická deska nebo ohřívací plotýnka). Roztoky se nesmí zahřívat ve vodě ani v mikrovlnné troubě kvůli možnosti poranění či nepohodlí pacienta.
+•   Během celého postupu procedury peritoneální dialýzy je nutno dodržovat aseptickou techniku.
+•   Nepodávejte, pokud má roztok změněnou barvu, je zakalený, obsahuje částice nebo pokud jsou patrny známky úniku tekutiny mezi komorami nebo vně vaku, či při porušení těsnicích švů.
+•   Vypouštěný roztok má být zkontrolován na přítomnost fibrinu či zákalu, které by mohly naznačovat výskyt peritonitidy.
+
+•  Pouze k jednorázovému použití.
+•   Ihned po odstranění ochranného obalu otevřete dlouhý těsnicí šev (mezikomorový šev) a smíchejte oba roztoky. Potom otevřete krátký těsnicí šev typu SafetyMoon (přístupový šev), který umožňuje podávání promíseného roztoku. Intraperitoneální roztok musí být infudován do 24 hodin po promísení.
+
+•   Informace o použití léčivého přípravku viz bod 6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivé látky nebo kteroukoli pomocnou látku uvedenou v bodě 6.1. Přípravek Physioneal 40 se nesmí používat u pacientů s:
+•   neodstranitelnými mechanickými defekty, které zabraňují efektivní peritoneální dialýze
+nebo zvyšují riziko infekce,
+•   zdokumentovanou ztrátou funkce peritonea nebo rozsáhlými srůsty, které funkci peritonea narušují.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Použití u pacientů s abdominálními problémy
+
+Peritoneální dialýza se má provádět s opatrností u pacientů trpících:
+1) břišními problémy, včetně ruptury peritoneální membrány a bránice při operaci,
+3
+
+vrozených anomálií či traumatu až do ukončení hojení, břišními nádory, infekcí břišní stěny, herniemi, píštělí tlustého střeva, kolostomií či iliostomií, častými epizodami divertikulitidy, zánětlivým nebo ischemickým onemocněním střev, zvětšenými polycystickými ledvinami či jinými stavy porušujícími integritu břišní stěny, povrchu břicha či nitrobřišní dutiny.
+2) jinými stavy včetně nedávno provedené transplantace aortálního štěpu a závažného onemocnění plic.
+Enkapsulující peritoneální skleróza (EPS)
+
+Enkapsulující peritoneální skleróza (EPS) je považována za známou vzácnou komplikaci léčby peritoneální dialýzou. EPS byla hlášena u pacientů léčených roztoky pro peritoneální dialýzu včetně některých pacientů užívajících jako součást léčby přípravek Physioneal 40.
+Peritonitida
+
+Pokud se vyskytne peritonitida, volba a dávkování antibiotik se mají řídit podle výsledků identifikace a zjištění citlivosti izolovaného organismu/organismů, je-li to možné. Dříve než se identifikuje příslušný organismus/organismy, je možné podat širokospektré antibiotikum.
+Hypersenzitivita
+Roztoky, které obsahují glukózu odvozenou od hydrolyzovaného kukuřičného škrobu, mají být použity s opatrností u pacientů se známou alergií na kukuřici nebo kukuřičné produkty. Mohou se objevit hypersenzitivní reakce způsobené alergií na obilný (kukuřičný) škrob včetně anafylaktických/anafylaktoidních reakcí. Pokud se objeví jakékoli známky nebo příznaky podezření na hypersenzitivní reakci, zastavte okamžitě infuzi a vypusťte roztok z peritoneální dutiny. Musí být přijata odpovídající klinicky indikovaná léčebná opatření.
+
+Použití u pacientů se zvýšenými hladinami laktátu
+Pacienti se zvýšenými hladinami laktátu by měli užívat roztoky pro peritoneální dialýzu s obsahem laktátu s opatrností. U pacientů trpících onemocněními, o nichž je známo, že zvyšují riziko laktátové acidózy (např. závažná hypotenze, sepse, akutní selhání ledvin, vrozené metabolické poruchy, léčba léky jako metformin a nukleosidové/nukleotidové inhibitory reverzní transkriptázy (NRTI)) je doporučeno, aby byli sledováni z hlediska výskytu laktátové acidózy před zahájením léčby a v průběhu léčby roztoky pro peritoneální dialýzu na bázi laktátu.
+
+Celkové sledování
+
+Je-li předepisováno použití roztoku u individuálního pacienta, je třeba zvážit možnou interakci mezi dialyzační léčbou a léčbou zaměřenou na jiná existující
+onemocnění. U pacientů léčených srdečními glykosidy je nutné pečlivé monitorování sérových hladin draslíku.
+
+Je třeba vést přesný záznam o rovnováze tekutin a měla by být pozorně monitorována tělesná hmotnost pacienta, aby se předešlo nadměrné nebo nedostatečné hydrataci
+s vážnými následky, mezi něž patří městnavé srdeční selhání, snížení intravaskulárního objemu a šok.
+
+Během peritoneální dialýzy může dojít k významným ztrátám bílkovin, aminokyselin, vitamínů rozpustných ve vodě a dalších léčivých přípravků, což může vyžadovat substituční léčbu.
+Je třeba pravidelně monitorovat sérové koncentrace elektrolytů (zejména
+4
+
+hydrogenuhličitanu, draslíku, hořčíku, vápníku a fosfátu), krevní testy (včetně parathormonu a lipidových parametrů) a hematologické parametry.
+
+
+
+Metabolická alkalóza
+U pacientů s hladinou hydrogenuhličitanu v plazmě vyšší než 30 mmol/l je třeba zvážit možné riziko vzniku metabolické alkalózy vzhledem k přínosu léčby tímto přípravkem.
+
+Sekundární hyperparatyreóza
+U pacientů se sekundární hyperparatyreózou mají být pečlivě zváženy výhody a rizika použití dialyzačního roztoku s obsahem vápníku 1,25 mmol/l, jako je Physioneal 40, protože jeho použití může vést ke zhoršení hyperparatyreózy.
+
+Podání nadměrného množství přípravku
+
+Infuze nadměrného množství přípravku Physioneal 40 do peritoneální dutiny může způsobovat břišní distenzi, bolest břicha a/nebo dušnost.
+Léčba infuze nadměrného množství přípravku Physioneal 40 spočívá v odsátí roztoku z peritoneální dutiny.
+Použití přípravku s vyššími koncentracemi glukózy
+
+Nadbytečné použití přípravku Physioneal 40 s vyšší koncentrací glukózy během peritoneální dialýzy může vést k nadměrnému odvodnění pacienta. Viz bod 4.9.
+Přídavek draslíku
+
+Přípravek Physioneal 40 neobsahuje draslík vzhledem k riziku vzniku hyperkalémie. V situacích s normální sérovou hladinou draslíku nebo s hypokalémií může být indikováno přidání chloridu draselného (až do koncentrace 4 mEq/l), aby se předešlo závažné hypokalémii, a mělo by být provedeno pečlivé vyhodnocení sérového a celkového draslíku v organismu, ale pouze pod dohledem lékaře.
+
+
+Použití u diabetických pacientů
+
+U diabetických pacientů mají být pravidelně monitorovány hladiny glukózy v krvi a dávkování inzulinu nebo jiná léčba hyperglykémie mají být upraveny.
+Nesprávné podání
+
+Nesprávné pořadí uzavření svorek nebo proplachování může vést k vniknutí vzduchu do peritoneální dutiny, což může způsobit bolest břicha nebo peritonitidu.
+
+Pacienti musí být poučení, že mají před infuzí otevřít dlouhý i krátký těsnicí šev. Pokud se otevře pouze krátký šev typu SafetyMoon, nepromísený roztok může způsobit bolest břicha, hypernatrémii a těžkou metabolickou alkalózu. V případě infuze nepromíseného roztoku musí pacient okamžitě roztok vypustit a použít nově promísený vak.
+
+Pediatrická populace
+
+Bezpečnost a účinnost u pediatrických pacientů nebyla stanovena.
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+5
+
+Nebyly provedeny žádné studie interakcí.
+
+•   Koncentrace dialyzovatelného léčivého přípravku v krvi může být během dialýzy snížena. Je třeba uvážit případnou kompenzaci ztrát.
+
+•   U pacientů užívajících srdeční glykosidy musí být pozorně monitorovány plazmatické hladiny draslíku, protože existuje riziko intoxikace digitalismem. Může být nezbytná suplementace draslíku.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Neexistují žádné nebo existuje jen omezené množství údajů o použití přípravku Physioneal 40 u těhotných žen. Přípravek Physioneal 40 není doporučován během těhotenství a u žen ve fertilním věku, které nepoužívají antikoncepci.
+
+Kojení
+Není známo, zda jsou metabolity přípravku Physioneal 40 vylučovány do mateřského mléka. Riziko pro novorozence/kojence nemůže být vyloučeno.
+Při rozhodování, zda přerušit kojení nebo přerušit/vysadit léčbu přípravkem Physioneal 40, se musí vzít v úvahu přínos kojení pro dítě a přínos léčby pro ženu.
+
+Fertilita
+Nejsou k dispozici žádné klinické údaje týkající se fertility.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Pacienti v terminálním stadiu onemocnění ledvin (ESRD) léčení peritoneální dialýzou mohou mít nežádoucí účinky, které by mohly ovlivňovat jejich schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky (vyskytující se u 1 % pacientů a více) z klinických studií a v poregistračním použití jsou uvedeny níže.
+
+Nejčastěji hlášený nežádoucí účinek z kontrolovaných klinických studií u přípravku Physioneal 40 byla alkalóza, objevující se přibližně u 10% pacientů. Ve většině případů byla stanovena pouze na základě hodnoty hydrogenuhličitanu v séru a obvykle nebyla spojena s klinickými symptomy.
+Nežádoucí účinky uvedené v této části jsou seřazeny podle následujícího doporučeného vyjadřování frekvence: velmi časté: (≥1/10); časté: (≥1/100 až <1/10); méně časté: (≥1/1 000 až
+<1/100); vzácné : (≥1/10 000 až <1/1 000); velmi vzácné: (≤ 1/10 000); není známo (z dostupných údajů nelze určit).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+Třída orgánových systémů
+
+PORUCHY KRVE A LYMFATICKÉHO SYSTÉMU
+PORUCHY METABOLISMU A VÝŽIVY
+Preferovaný termín
+
+Eozinofilie
+
+
+Alkalóza Hypokalémie Retence tekutin Hyperkalcémie Hypervolémie Anorexie Dehydratace Hyperglykémie Laktátová acidóza
+Četnost výskytu Není známo
+
+
+Časté Časté Časté Časté Méně časté Méně časté Méně časté Méně časté Méně časté
+
+
+PSYCHIATRICKÉ PORUCHY
+PORUCHY NERVOVÉHO SYSTÉMU
+
+CÉVNÍ PORUCHY
+
+RESPIRAČNÍ, HRUDNÍ A MEDIASTINÁLNÍ PORUCHY
+GASTROINTESTINÁLNÍ PORUCHY
+Insomnie
+
+Závratě Bolest hlavy
+
+Hypertenze Hypotenze Dyspnoe Kašel
+
+Peritonitida
+Selhání peritoneální membrány
+Bolest břicha Dyspepsie Nadýmání Nauzea
+Sklerozující enkapsulující peritonitida
+Zakalený peritoneální dialyzát
+Méně časté
+
+Méně časté Méně časté
+
+Časté Méně časté Méně časté Méně časté
+
+Časté Méně časté
+
+Méně časté Méně časté Méně časté Méně časté Není známo
+
+Není známo
+
+
+PORUCHY KŮŽE A PODKOŽNÍ TKÁNĚ
+Angioedém Vyrážka
+Není známo Není známo
+
+
+PORUCHY SVALOVÉ A KOSTERNÍ SOUSTAVY A POJIVOVÉ TKÁNĚ CELKOVÉ PORUCHY A REAKCE V MÍSTĚ APLIKACE
+Muskoloskeletální bolest
+
+
+Edém Astenie Třesavka
+Édém obličeje Hernie Malátnost Žízeň
+Pyrexie
+Není známo
+
+
+Časté Časté Méně časté Méně časté Méně časté Méně časté Méně časté
+Není známo
+
+
+VYŠETŘENÍ
+Zvýšení tělesné hmotnosti Zvýšení PCO2
+Časté Méně časté
+
+
+7
+
+Další nežádoucí účinky spojené s postupem při peritoneální dialýze: bakteriální peritonitida, infekce v místě zavedení katétru, komplikace související s katétrem.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+
+Mezi možné následky předávkování patří hypervolémie, hypovolémie, elektrolytové poruchy nebo (u diabetických pacientů) hyperglykémie. Viz bod 4.4.
+Léčba při předávkování:
+Hypervolémie může být léčena použitím hypertonických roztoků pro peritoneální dialýzu a omezením příjmu tekutin.
+Hypovolémie může být léčena náhradou tekutin buď perorálně nebo intravenózně, v závislosti na stupni dehydratace.
+
+Elektrolytové poruchy mají být léčeny podle specifické poruchy elektrolytové rovnováhy potvrzené krevními testy. Nejpravděpodobnější porucha, hypokalémie, může být léčena perorálním podáním draslíku nebo přidáním chloridu draselného do roztoku pro peritoneální dialýzu předepsaného ošetřujícím lékařem.
+Hyperglykémie (u diabetických pacientů) má být léčena úpravou dávkování inzulínu podle inzulínového schématu předepsaného ošetřujícím lékařem.
+Infuze nadměrného množství přípravku Physioneal 40 a jeho léčba, viz bod 4.4.
+
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Peritoneální dialýza, hypertonické roztoky ATC kód: B05DB
+Mechanismus účinku
+U pacientů se selháním ledvin je peritoneální dialýza procedurou k odstranění toxických látek vznikajících při metabolismu dusíku a normálně vylučovaných ledvinami pomocným prostředkem při regulaci rovnováhy tekutin a elektrolytů i acidobazické rovnováhy.
+Tato procedura spočívá v podání roztoku pro peritoneální dialýzu katétrem do dutiny břišní.
+
+Farmakodynamické účinky
+Vzhledem k obsahu glukózy je roztok hyperosmolární ve srovnání s plazmou, čímž je vytvořen osmotický gradient, který usnadňuje odstranění tekutiny z plazmy do roztoku. K přestupu látek mezi peritoneálními kapilárami pacienta a dialyzačním roztokem dochází přes peritoneální
+8
+
+membránu a na základě osmózy a difuze. Po uplynutí prodlevy je roztok nasycen toxickými látkami a musí být vyměněn. S výjimkou laktátu, který představuje prekursor hydrogenuhličitanu, byly koncentrace elektrolytů v roztoku stanoveny ve snaze normalizovat hladiny elektrolytů v plazmě. Dusíkaté odpadní produkty přítomné v krvi ve vysoké koncentraci prostupují skrze peritoneální membránu do dialyzačního roztoku.
+Klinická účinnost a bezpečnost
+Více než 30 % pacientů v klinických studií bylo starších 65 let. Vyhodnocení výsledků získaných pro tuto skupinu pacientů nevykazují oproti zbytku pacientů žádné rozdíly. Studie in vitro a ex vivo přinesly důkazy o zlepšení indikátorů biokompatibility přípravku
+Physioneal 40 ve srovnání se standardními roztoky s laktátovým pufrem. Kromě toho potvrdily klinické studie částečnou úlevu u omezeného počtu pacientů s bolestmi břicha při napouštění roztoku. Dosud však nejsou k dispozici údaje, které by svědčily o tom, že dochází k všeobecnému snížení klinických komplikací nebo že pravidelné používání těchto roztoků může přinést významné výhody při dlouhodobém používání.
+5.2  Farmakokinetické vlastnosti
+
+Intraperitoneálně podávaná glukóza, elektrolyty a voda jsou absorbovány do krve a metabolizovány obvyklými cestami.
+Glukóza je metabolizována (1 g glukózy = 4 kilokalorie nebo 17 kilojoulů) na CO2 a H2O.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+S přípravkem Physioneal 40 nebyly provedeny žádné neklinické studie.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+kyselina chlorovodíková, zředěná (k úpravě pH), hydroxid sodný (k úpravě pH),
+voda na injekci.
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.3.
+Aminoglykosidy (např. netilmycin, gentamycin, tobramycin) nesmí být vzhledem k chemické inkompatibilitě smíchány s penicilínem.
+
+6.3  Doba použitelnosti
+2 roky.
+
+Doba použitelnosti po otevření/rozředění:
+Chemická a fyzikální stabilita po otevření byla prokázána po dobu 24 hodin při teplotě 25
+°C pro cefalozin (750 mg/l), heparin (2500 IU/l), heparin s nízkou molekulární hmotností (Innohep 2500 IU/l), netilmycin (60 mg/l) a vancomycin (1000 mg/l).
+Chemická a fyzikální stabilita po otevření byla prokázána po dobu 6 hodin při 25°C pro inzulín (Actrapid 4 IU/l, 10 IU/l, 20 IU/l a 40 IU/l).
+Gentamicin (60 mg/l) a tobramycin (60 mg/l) lze přidat, pokud je roztok použit ihned po přidání léčiva.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě zodpovídá za dobu po otevření a podmínky uchovávání uživatel. Tato doba by za
+9
+
+běžných podmínek neměla být delší než 24 hodin pokud rekonstituce / ředění (atd.) neproběhly v kontrolovaných a validovaných aseptických podmínkách.
+
+
+
+6.4  Zvláštní opatření pro uchovávání
+Neuchovávejte při teplotě pod 4 °C.
+Podmínky uchovávání rekonstituovaného léčivého přípravku viz bod 6.3.
+
+6.5  Druh obalu a obsah balení
+Roztok Physioneal 40 je uchováván ve dvoukomorovém vaku z koextrudované vrstvy polypropylenu, polyamidu a ze směsi polypropylenu, SEBS a polyethylenu (fólie Clear-Flex). Horní komora je vybavena injekčním portem pro přidávání léčiv ke glukóze s roztokem elektrolytů. Dolní komora je opatřena systémem ventilů pro připojení vhodného aplikačního infuzního setu umožňujícímu provedení dialýzy.
+Vak je zabalen do průhledného ochranného obalu vyrobeného z vícevrstvých kopolymerů.
+Objemy vaku po rekonstituci: 1500 ml (1125 ml roztoku A a 375 ml roztoku B), 2000 ml (1500 ml roztoku A a 500 ml roztoku B), 2500 ml (1875 ml roztoku A a 625 ml roztoku B), 3000 ml (2250 ml roztoku A a 750 ml roztoku B), 4500 ml (3375 ml roztoku A a 1125 roztoku B), 5000 ml (3750 ml roztoku A a 1250 ml roztoku B).
+Jednovak (single bag) je dvoukomorový vak (velká komora „A“ a malá komora „B“, viz bod 2) určený pro použití při automatizované peritoneální dialýze. Dvojvak (twin bag) je dvoukomorový vak (velká komora „A“ a malá komora „B“, viz bod 2) s integrovaným odpojovacím systémem a prázdným vypouštěcím vakem určený pro použití při kontinuální ambulantní peritoneální dialýze.
+
+Na trhu nemusí být všechny velikosti balení:
+
+1,5 l   5 jednotek v jedné krabici              dvoukomorový jednovak konektor typu Luer
+1,5 l   6 jednotek v jedné krabici              dvoukomorový jednovak konektor typu Luer
+1,5 l   5 jednotek v jedné krabici              dvoukomorový dvojvak konektor typu Luer
+1,5 l   6 jednotek v jedné krabici              dvoukomorový dvojvak konektor typu Luer
+2,0 l   4 jednotky v jedné krabici              dvoukomorový jednovak konektor typu Luer
+2,0 l   5 jednotek v jedné krabici              dvoukomorový jednovak konektor typu Luer
+2,0 l   4 jednotky v jedné krabici              dvoukomorový dvojvak konektor typu Luer
+2,0 l   5 jednotek v jedné krabici              dvoukomorový dvojvak konektor typu Luer
+2,5 l   3 jednotky v jedné krabici              dvoukomorový jednovak konektor typu Luer
+2,5 l   4 jednotky v jedné krabici              dvoukomorový jednovak konektor typu Luer
+2,5 l   3 jednotky v jedné krabici              dvoukomorový dvojvak konektor typu Luer
+2,5 l   4 jednotky v jedné krabici              dvoukomorový dvojvak konektor typu Luer
+10
+
+3,0 l   3 jednotky v jedné krabici              dvoukomorový jednovak konektor typu Luer
+3,0 l   3 jednotky v jedné krabici              dvoukomorový dvojvak konektor typu Luer
+
+4,5 l   2 jednotky v jedné krabici              dvoukomorový jednovak konektor typu Luer
+5,0 l   2 jednotky v jedné krabici              dvoukomorový jednovak konektor typu Luer
+5,0 l   2 jednotky v jedné krabici              dvoukomorový jednovak
+sada  konektoru  typu  Luer  + HomeChoice APD s konektorem typu Luer + svorka a čepička mini
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Podrobnosti o podmínkách podávání viz bod 4.2.
+
+•   Podrobné pokyny týkající se postupu výměny u peritoneální dialýzy jsou pacientům před domácím používáním poskytnuty v rámci školení ve specializovaném školicím centru .
+•   Ihned po odstranění ochranného obalu otevřete dlouhý těsnicí šev (mezikomorový šev) a smíchejte oba roztoky. Potom otevřete krátký těsnicí šev typu SafetyMoon (přístupový šev), který umožňuje podávání promíseného roztoku. Intraperitoneální roztok je nutné podat do 24 hodin po promísení. Viz bod 4.2.
+
+•   Léčivé přípravky se přidávají před otevřením mezikomorového těsnicího švu do injekčního portu pro podávání léčiv na větší komoře. Kompatibilita léčiva musí být zkontrolována před smísením a je nutno vzít v úvahu pH a soli roztoku. Tento přípravek je třeba použít ihned po přidání jakéhokoli léčiva.
+•   Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+•   V případě poškození musí být vak zlikvidován.
+•  Roztok neobsahuje bakteriální endotoxiny.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+BAXTER CZECH spol. s r.o. Karla Engliše 3201/6
+150 00 Praha 5 Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+87/448/14-C, 87/449/14-C, 87/450/14-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 10. 12. 2014
+
+
+
+11
+
+10.  DATUM REVIZE TEXTU
+6. 7. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12

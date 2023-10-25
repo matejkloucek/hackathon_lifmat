@@ -1,0 +1,420 @@
+sp.zn.sukls295379/2016
+
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+
+Octim 15 mikrogramů/ml injekční/infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jeden ml roztoku obsahuje desmopressini acetas 15 mikrogramů, což odpovídá
+desmopressinum 13,4 mikrogramů.
+
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Injekční/infuzní roztok
+
+Čirý, bezbarvý roztok bez viditelných částic. pH injekčního roztoku: 3,5 -6,0
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Snížení nebo normalizace prodloužené krvácivosti před invazivními terapeutickými nebo diagnostickými výkony v případech, kdy prodloužená krvácivost může vést ke krvácivým komplikacím: u uremie, jaterní cirhózy, kongenitální nebo polékové dysfunkci trombocytů a u pacientů s prodlouženou krvácivostí neznámé etiologie.
+
+Prevence krvácení při malých chirurgických výkonech u pacientů s mírnou hemofilií A a von Willebrandovou chorobou, kromě typu IIB tohoto onemocnění. Ve výjimečných případech lze podat i při středně těžkých formách hemofilie A.
+4.2  Dávkování a způsob podání Způsob podání
+Intravenózní a subkutánní podání
+Dávkování
+0,3 mikrogramu/kg tělesné hmotnosti subkutánně nebo po naředění v 50-100 ml fyziologického roztoku jako intravenózní infuze po dobu 15-30 minut. Po dosažení pozitivního účinku lze úvodní dávku přípravku Octim opakovat 1 – 2x v intervalu 6 – 12 hodin. Další opakování dávky může mít za následek snížený účinek.
+
+Dávka 0,3 mikrogramu/kg tělesné hmotnosti
+Tělesná hmotnost (kg)   15    20    25    30    35    40    45    50    55    60
+Dávka (ml)         0,3   0,4   0,5   0,6   0,7   0,8   0,9   1,0   1,1   1,2
+Tělesná hmotnost (kg)   65    70    75    80    85    90    95    100
+Dávka (ml)         1,3   1,4   1,5   1,6   1,7   1,8   1,9   2,0
+
+
+Při léčbě pacientů s hemofilií A se požadovaný vzestup VIII:C určí pomocí stejného kritéria jako při léčbě koncentrátem faktoru VIII.
+Pokud nevede léčba přípravku Octim k požadovanému vzestupu koncentrace VIII:C v plazmě, může být léčba doplněna podáním koncentrátu faktoru VIII. Léčba pacientů s hemofilií má být vedena za konzultace s příslušnou koagulační laboratoří pacienta.
+
+Stanovení koagulačních faktorů a doby krvácivosti před léčbou přípravkem Octim.
+Po podání desmopresinu dochází k podstatnému zvýšení koncentrací VIII:C a vWF v plazmě. Nicméně, nebylo možné stanovit žádnou korelaci mezi plazmatickou koncentrací těchto faktorů a dobou krvácivosti před podáním nebo po podání desmopresinu. Účinek desmopresinu na krvácivost se má pokud možno vyšetřit u každého pacienta.
+Vyšetření krvácivosti se má v co největší míře standardizovat, např. použitím Simplate II. Stanovení krvácivosti a plazmatických hladin koagulačních faktorů se má provádět ve spolupráci s místními koagulačními laboratořemi.
+
+Kontrola léčby
+Musí se sledovat koncentrace VIII:C v plazmě, protože v některých případech byl po opakovaných dávkách pozorován pokles účinku.
+
+Během podávání přípravku Octim je třeba pečlivě monitorovat krevní tlak pacienta. Zvláštní skupiny pacientů
+Porucha funkce ledvin
+Přípravek Octim je třeba podávat se zvýšenou opatrností u pacientů se středně těžkou a těžkou
+poruchou funkce ledvin (viz bod 5.2).
+Porucha funkce jater
+U pacientů s poruchou funkce jater není nutná úprava dávky (viz bod 5.2).
+Pediatrická populace
+Dávkování přípravku v pediatrické populaci – viz tabulka výše
+
+Malé děti, starší pacienti a pacienti, u nichž je hladina sodíku v séru ve spodní hladině normálních hodnot, se může vyskytovat zvýšené riziko hyponatremie.
+
+Léčbu přípravkem Octim je třeba přerušit nebo přizpůsobit při akutních přidružených onemocněních charakterizovaných nerovnováhou tekutin a/nebo elektrolytů (jako jsou systémové infekce, horečka, gastroenteritida). To platí zejména při nadměrném krvácení, kdy je třeba pečlivě monitorovat rovnováhu tekutin a elektrolytů.
+4.3  Kontraindikace
+
+Octim je kontraindikován v následujících případech:
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+
+-  Habituální nebo psychogenní polydipsie
+-  Anamnéza nestabilní anginy pectoris
+-  Srdeční insuficiencie nebo podezření na ni a jiná onemocnění vyžadující léčbu diuretiky
+-  Známá hyponatremie
+-  Syndrom nepřiměřené sekrece ADH (SIADH)
+-  Von Willebrandova choroba typu IIB
+
+4.4  Zvláštní upozornění a opatření pro použití
+Při podávání přípravku Octim se doporučuje udržovat rovnováhu tekutin a elektrolytů. Léčba bez současného snížení příjmu tekutin může vést k retenci tekutin a/nebo hyponatremii s doprovodnými varovnými známkami a příznaky, nebo bez nich, viz bod 4.8.
+
+Je třeba pečlivě posoudit přínos desmopresinu v porovnání s ostatní hemostatickou terapií v situacích, kdy je požadována dlouhodobá hemostáza zahrnující aktivní pooperační krvácení a krvácení z varixů u pacientů s cirhózou.
+
+U pacientů léčených diuretiky se musí přijmout opatření k prevenci nadměrného příjmu tekutin.
+Zvláštní pozornost je třeba věnovat riziku retence vody. Příjem tekutin se má co nejvíce omezit a tělesná hmotnost se má pravidelně kontrolovat. Pokud by docházelo k postupnému zvyšování tělesné hmotnosti, poklesu hladiny sodíku v séru pod 130 mmol/l nebo plazmatické osmolality pod 270 mosm/kg tělesné hmotnosti, příjem tekutin se musí výrazně omezit a podávání přípravku Octim přerušit.
+
+Opatrnosti je třeba u pacientů s rizikem zvýšeného intrakraniálního tlaku.
+Octim má být podáván s opatrností u velmi mladých nebo starších pacientů.
+
+Zvláštní pozornost je třeba věnovat podávání desmopresinu současně s jinými léky, které ovlivňují homeostázu vody a/nebo sodíku (viz bod 4.5). U pacientů léčených trvale léky ovlivňujícími homeostázu sodíku má být přípravek podáván po potvrzení normálních hladin sodíku.
+Opatrnosti je třeba u pacientů se středně těžkou a těžkou poruchou funkce ledvin (clearance kreatininu
+nižší než 50 ml/min).
+
+V průběhu poregistračního sledování podávání desmopresinu byly zaznamenány případy hluboké žilní trombózy, cerebrovaskulárních příhod a onemocnění (cévní mozková příhoda), trombózy mozkových cév, infarktu myokardu, anginy pectoris a bolesti na hrudi. Z tohoto důvodu je třeba zvážit použití tohoto přípravku u starších pacientů a u pacientů s rizikovými faktory a anamnézou trombózy, trombofilie a známých kardiovaskulárních onemocnění.
+Tento přípravek obsahuje sodík.
+Přípravek Octim obsahuje méně než 1 mmol (23 mg) sodíku v jedné dávce, to znamená, že je v
+podstatě ,,bez sodíku.”
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Zvláštní pozornost je třeba věnovat současnému podávání desmopresinu s jinými léčivými přípravky ovlivňujícími homeostázu vody a/nebo sodíku, např. opioidy, selektivními inhibitory zpětného vychytávání serotoninu (SSRI), tricyklickými antidepresivy (TCA), nesteroidními prozánětlivými léky (NSAID), chlorpromazinem, karbamazepinem a některými antidiabetiky ze skupiny derivátů sulfonylurey, protože jejich současné použití může vést k zvýšenému riziku retence tekutin či hyponatremii (viz bod 4.4).
+
+Je nepravděpodobné, že by docházelo k interakcím mezi přípravkem Octim a látkami ovlivňujícími metabolismus jater, protože studie in vitro s lidskými mikrosomy neukázaly významný metabolismus přípravku Octim játry. Studie interakcí in vivo však nebyly provedeny.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství:
+Údaje o limitovaném počtu (n = 53) těhotných žen s diabetem insipidem, stejně tak jako údaje o
+expozici v těhotenství u žen s krvácivými komplikacemi (n = 216),
+nepotvrdily žádný nepříznivý účinek desmopresinu na těhotenství nebo na zdraví plodu či novorozence. Zatím nejsou k dispozici žádné jiné relevantní epidemiologické údaje. Pokusy na zvířatech neprokázaly přímý ani nepřímý vliv na těhotenství, na vývoj embrya či plodu, na porod, ani na vývoj po narození. Při podávání desmopresinu těhotným ženám je nutná opatrnost.
+
+
+Kojení:
+Po jednorázovém podání vysoké dávky desmopresinu (300 mikrogramů intranazálně) bylo vypočteno, že kojené dítě v mléce přijímá dávku přibližně odpovídající léčebné dávce při centrálním diabetu insipidu u dítěte do 1 roku věku. Významně nižší intranazální dávka pravděpodobně kojené dítě neovlivní. Při intravenózní nebo subkutánní aplikaci desmopresinu matce nejsou dostupné údaje o přestupu do mateřského mléka. Při tomto způsobu aplikace je tedy třeba zvýšené opatrnosti; zejména při kojení novorozeného či nedonošeného dítěte nelze vyloučit možné nežádoucí účinky. Může být vhodné kojení přerušit na 15-20 hodin po poslední aplikaci desmopresinu.
+
+Fertilita
+Studie na zvířatech neprokázaly žádné poškození fertility u samců a samic potkanů..
+
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Přípravek Octim nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Nejčastěji hlášeným nežádoucím účinkem při postmarketingovém sledování použití desmopresinu je hyponatremie. Příznaky hyponatremie jsou popsány níže v části Popis vybraných nežádoucích účinků.
+
+Tabulkový souhrn nežádoucích účinků
+Níže uvedená tabulka je založena na frekvencích nežádoucích účinků hlášených v klinickém hodnocení s injekčním podáním desmopresinu, které bylo provedeno u dospělých pacientů při léčbě centrálního diabetu insipidus a hematologických indikacích
+v kombinaci s postmarketingovými zkušenostmi s podáváním desmopresinu. Nežádoucí účinky pozorované pouze v postmarketingovém období nebo u jiných lékových forem desmopresinu byly přidány do sloupce frekvence „Není známo“. Následující tabulka uvádí frekvence hlášených nežádoucích účinků. Nežádoucí účinky jsou klasifikovány podle frekvence a tříd orgánových systémů. Kategorie frekvencí jsou definovány následovně: časté (≥1/100 až < 1/10); méně časté (≥1/1000 až < 1/100); vzácné (≥1/10000 až < 1/1,000); velmi vzácné (<1/10000) a není známo (z dostupných údajů nelze určit).
+
+
+Orgánová třída
+MedDRA
+Časté
+(≥ 1/100 až < 1/10)
+Vzácné    Velmi vzácné
+(< 1/10000)
+Není známo⁴
+
+
+
+Poruchy imunitního systému
+
+
+
+Poruchy metabolismu a výživy Psychiatrické poruchy Poruchy nervového systému
+
+
+
+Srdeční poruchy
+
+
+Cévní poruchy
+
+
+
+
+
+
+
+
+
+Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bolest hlavy²
+
+
+
+
+
+Tachykardie
+
+
+Návaly horka
+Hypotenze
+
+
+
+
+
+
+
+
+
+
+
+
+Bolest břicha¹
+Nauzea²
+
+
+
+
+
+
+
+
+
+
+Únava
+(> 1/10000
+až < 1/1000)
+
+
+
+
+
+
+
+
+
+
+
+Závrať²
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Závrať
+
+
+
+
+
+
+
+
+Hyponatremie
+
+
+Hypersenzitivní reakce včetně anafylaktické reakce a dalších závažných alergických stavů Intoxikace vodou¹ Nárůst tělesné hmotnosti¹
+Stav zmatenosti¹
+
+Kóma¹
+Ztráta vědomí¹,³ Hyponatremická encefalopatie¹ Otok mozku¹,³ Křeče¹
+Infarkt myokardu³ Angina pectoris³ Bolest na hrudi³ Hluboká žilní trombóza³ Cerebrovaskulární příhoda a onemocnění (cévní mozková příhoda)³ Mozková trombóza³ Hypertenze³ Dyspnoe
+Plicní embolie³
+
+
+Zvracení²
+
+Makulopapulární vyrážka Erytematózní vyrážka Makulární vyrážka Kopřivka Erytém
+Pruritus Vyrážka Generalizované nebo lokální otoky² (končetin, obličeje)
+Reakce v místě
+injekce/infuze
+
+zahrnující zduření, bolest, extravazace, erytém, vznik modřin a uzlíků Třesavka³
+Pocit nemoci¹
+
+
+1. Hlášeno s hyponatremií
+2. Hlášeno s hyponatremií nebo bez ní
+3. Hlášeno hlavně pro hematologické indikace (vysoká dávka)
+4. Nežádoucí účinky na základě spontánních hlášení (frekvence není známa). Tyto nežádoucí účinky byly získány na základě postmarketingových zkušeností s podáváním desmopresinu na základě spontánních hlášení případů a případů uvedených
+v literatuře. Protože tyto účinky jsou hlášeny dobrovolně z populace neznámé velikosti, není možno spolehlivě odhadnout jejich frekvenci, která je proto zařazena do kategorie Není známo. Nežádoucí účinky jsou uvedeny podle tříd orgánových systémů MedDRA. Nežádoucí účinky jsou v každé třídě orgánových systémů uvedeny v pořadí klesající závažnosti.
+
+Popis vybraných nežádoucích účinků
+V průběhu postmarketingového sledování byla nejčastěji hlášeným nežádoucím účinkem při podávání desmopresinu hyponatremie. Hyponatremie může způsobit bolest hlavy, nauzeu, zvracení, intoxikaci vodou, nárůst tělesné hmotnosti, pocit nemoci, bolest břicha, svalové křeče, závrať, stav zmatenosti, snížený stav vědomí, generalizované nebo lokální otoky (končetin, obličeje), a v závažných případech otok mozku, hyponatremickou encefalopatii, křeče a kóma. Nauzea, zvracení, bolest hlavy a závrať byly hlášeny bez zjištěné hyponatremie. Hyponatremie je způsobena antidiuretickým účinkem, který vede k z výšenému zpětnému vstřebávání vody v renálních tubulech a osmotickým naředěním plazmy. Zvláštní pozornost je třeba věnovat upozornění a opatření popsaným v bodu 4.4.
+Hyponatremie je reverzibilní. Léčba má být individuální a je třeba se vyhnout rychlé nadměrné
+korekci hyponatremie, aby se snížilo riziko dalších komplikací (viz body 4.2 a 4.4).
+V postmarketingovém období byly v souvislosti s podáváním desmopresinu hlášeny hypersenzitivní reakce jako dyspnoe, erytém, generalizované nebo lokální otoky (končetin, obličeje), pruritus, vyrážka, makulární vyrážka, makulopapulární vyrážka, kožní plaková ložiska a kopřivka. Ve spojení s podáváním přípravku Octim byly také hlášeny závažnější hypersenzitivní reakce jako anafylaktická reakce a anafylaktický šok. Alergické reakce začínají zpravidla rychle po podání a mohou se objevit v průběhu prvního podání nebo po opakované expozici přípravku Octim.
+
+U pacientů léčených desmopresinem byly hlášeny vzácně postmarketingové případy hluboké žilní trombózy, cerebrovaskulární příhody/poruchy (cévní mozková příhoda), cerebrální trombózy, plicní embolie, infarktu myokardu, anginy pectoris a bolestí na hrudi.
+
+Pediatrická populace
+Údaje o nežádoucích účincích z klinických hodnocení u dětí jsou velmi omezené.
+
+Zvláštní skupiny pacientů
+Starší pacienti a pacienti se sérovými koncentracemi sodíku v dolním rozmezí normálních hodnot mohou mít zvýšené riziko rozvoje hyponatremie (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv
+
+Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+
+Předávkování přípravkem Octim vede k prodloužené době trvání účinku se zvýšeným rizikem retence
+vody a hyponatremie.
+Léčba:
+Ačkoliv léčba hyponatremie má být individuální, lze uvést následující obecná doporučení: přerušení léčby desmopresinem, restrikce příjmu tekutin a v případě potřeby symptomatická léčba.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: vazopresin a analoga, desmopresin ATC kód: H01BA02
+
+Octim obsahuje desmopresin, což je strukturální analog přirozeného hormonu zadního laloku hypofýzy vazopresinu (ADH). Od vazopresinu se liší tím, že byla odstraněna aminoskupina v cysteinu a L-arginin byl nahrazen D-argininem. To má za následek výrazně delší trvání účinku, velmi malou aktivitou na hladké svaly a tím i absenci nechtěných presorických účinků.
+Bylo prokázáno, že podání desmopresinu vede ke zkrácení nebo normalizaci krvácivosti u pacientů s prodlouženou krvácivostí jako např. u uremie, cirhózy jater, kongenitální nebo lékové dysfunkce trombocytů a u pacientů s prodlouženou krvácivostí neznámé etiologie.
+Desmopresin v dávce 0,3 μg/kg tělesné hmotnosti podané intravenózně nebo subkutánně vede k dvoj- až čtyřnásobnému vzestupu koagulační aktivity faktoru VIII (VIII:C) v plazmě. Zvyšuje se rovněž obsah antigenu von Willebrandova faktoru (vWF:Ag), ale v menším rozsahu. Současně dochází i k uvolňování aktivátoru plazminogenu (t-PA).
+
+
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Biologická dostupnost po subkutánní injekci je ve srovnání s intravenózním podáním přibližně 85%. Maximální koncentrace v plazmě po podání 0,3 μg/kg ve formě subkutánní injekce je dosaženo přibližně po 60 minutách a činí průměrně 600 pg/ml.
+Distribuce
+Distribuci desmopresinu popisuje nejlépe model distribuce ve dvou kompartmentech s distribučním
+objemem v průběhu fáze eliminace 0,3-0,5 l/kg.
+Biotransformace
+Nebyl proveden žádný in vivo výzkum metabolismu desmopresinu. In vitro studie desmopresinu v modelu humánních jaterních mikrosomů prokázaly, že nedochází k metabolizaci významného
+množství desmopresinu v játrech systémem cytochromu P450, a je proto nepravděpodobné, že dochází k in vivo metabolismu v lidských játrech systémem cytochromu P450. Vliv desmopresinu na farmakokinetiku jiných léků je pravděpodobně minimální, protože nedochází k inhibici metabolismu léků systémem cytochromu P450.
+
+Eliminace
+
+Celková clearance desmopresinu byla vypočtena na 7,6 l/hod. U zdravých subjektů byla frakce vyloučeného nezměněného léku 52 % (44-60 %). Plazmatický poločas se pohybuje mezi 3 a 4 hodinami. Trvání hemostatického účinku závisí na poločasu VIII:C, který je přibližně 8-12 hodin.
+
+Zvláštní skupiny pacientů
+Porucha funkce ledvin:
+U pacientů se středně těžkou až těžkou poruchou funkce ledvin je třeba zvláštní opatrnosti (viz bod 4.2).
+Terminální poločas t½ (harmonický průměr) se významně zvýšil z 2,8 hodin u zdravých subjektů na 4,0, 6,6 a 8,7 hodiny u pacientů s lehkou, středně těžkou a těžkou poruchou funkce ledvin. AUC (geometrický průměr ± SD) se zvýšila z 186 ± 64 u zdravých subjektů na 281 ± 32, 453 ± 175 a 682 ± 226 pg * h / ml u pacientů s lehkou, středně těžkou a těžkou poruchu funkce ledvin (studie CS001).
+Porucha funkce jater:
+U pacientů s poruchou funkce jater nebyly provedeny žádné studie.
+Je nepravděpodobné, že desmopresin vstoupí do interakce s léky poškozujícími jaterní metabolismus, protože v studiích s humánními mikrosomy in vitro bylo prokázáno, že desmopresin nepodléhá významnému metabolismu v játrech.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neexistují žádné významné předklinické údaje pro vyhodnocení bezpečnosti kromě těch, které již byly zmíněny v souhrnu údajů o přípravku.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Chlorid sodný
+Kyselina chlorovodíková (k úpravě pH)
+Voda pro injekci
+
+6.2  Inkompatibility
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+4 roky
+Doba použitelnosti po naředění 0,9% roztokem chloridu sodného pro injekce:
+Chemická a fyzikální stabilita po naředění na koncentraci 0,04 – 1,5 mikrogramů/ml před použitím byla prokázána po dobu 48 hodin při teplotě 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Pokud se nepoužije okamžitě, jsou doba a podmínky uchovávání před použitím v zodpovědnosti uživatele a tato doba by neměla být delší než 24 hodin při teplotě 2 až 8 °C, pokud naředění neproběhne za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 °C – 8 °C). Chraňte před mrazem. Podmínky uchovávánní naředěného léčivého přípravku viz bod 6.3.
+6.5  Druh obalu a obsah balení
+Ampulka z čirého skla třídy I, se dvěma červenými proužky a s vyznačeným místem k odlomení. Velikost balení:
+5x1 ml, 10x1 ml
+5x2 ml, 10x2 ml
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Pro intravenózní infuzi by měla být dávka (0,3 μg / kg tělesné hmotnosti) zředěna v 50-100 ml 0,9%
+chloridu sodného pro injekci (fyziologický roztok) a podána po dobu 15-30 minut.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Ferring-Léčiva,a.s.
+K Rybníku 475
+252 42 Jesenice u Prahy
+Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+56/1017/16-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 22. 12. 2020 Datum prodloužení registrace:
+
+10.  DATUM REVIZE TEXTU
+22. 12. 2020

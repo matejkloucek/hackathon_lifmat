@@ -1,0 +1,524 @@
+Sp. zn. sukls330726/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+SONTILEN 5 mikrogramů/ml injekční/infuzní roztok SONTILEN 50 mikrogramů/ml injekční/infuzní roztok
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+SONTILEN 5 mikrogramů/ml injekční/infuzní roztok
+Jeden ml roztoku obsahuje sufentanilum 5 mikrogramů jako sufentanili citras. SONTILEN 50 mikrogramů/ml injekční/infuzní roztok
+Jeden ml roztoku obsahuje sufentanilum 50 mikrogramů jako sufentanili citras. Pomocné látky se známým účinkem: hydroxid sodný a chlorid sodný
+Jeden ml injekčního roztoku obsahuje 0,39 mmol sodíku (9 mg). Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+Injekční/infuzní roztok
+Roztok je čirý a bezbarvý, bez viditelných částic, pH 4,0–6,0 a osmolalita 250–310 mosmol/kg.
+
+4. KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Dospělí
+Kombinovaná anestezie a analgezie.
+Epidurální analgezie při léčbě pooperační bolesti.
+Analgetický doplněk společně s epidurálním podáním bupivakainu během porodních bolestí
+a vaginálního porodu.
+Pediatrická populace
+Intravenózní podání: SONTILEN je indikován jako analgetický doplněk během indukce a/nebo udržování balancované celkové anestezie u dětí ve věku od 1 měsíce.
+Epidurální podání: SONTILEN je indikován při nutnosti tlumení bolesti v pooperačním období po chirurgickém výkonu, ortopedické nebo hrudní operaci u dětí ve věku od 1 roku.
+4.2  Dávkování a způsob podání
+Dospělí
+Kombinovaná anestezie a analgezie: Analgezie: 0,5–5 mikrogramů/kg i.v. Anestezie: 25–50 mikrogramů/kg i.v.
+
+1/12
+
+Epidurální analgezie při léčbě pooperační bolesti: 25–50 mikrogramů Analgetický doplněk při porodu: 5–20 mikrogramů epidurálně.
+Intravenózní podání
+K zamezení bradykardie se doporučuje bezprostředně před zahájením indukce intravenózní aplikace nízkých dávek anticholinergik (viz bod 4.4).
+Epidurální podání
+Před injekcí přípravku SONTILEN musí být ověřeno správné umístění jehly nebo katétru v epidurálním
+prostoru.
+Pediatrická populace
+Intravenózní podání
+Děti ≤ 1 měsíc (novorozenci)
+Vzhledem k vysoké variabilitě farmakokinetických parametrů u novorozenců nelze uvést žádné doporučení pro dávkování. Viz také body 4.4 a 5.2.
+Děti > 1 měsíc
+U všech dávek je doporučena premedikace anticholinergiky (jako např. atropinem), pokud nejsou
+anticholinergika kontraindikována.
+Indukce anestezie
+Přípravek SONTILEN lze podat jako pomalý bolus v dávce 0,2–0,5 mikrogramů/kg po dobu 30 sekund nebo déle v kombinaci s látkou indukující anestezii. Pro větší výkony (např. operace srdce) lze podat dávky až do 1 mikrogramu/kg.
+Udržování anestezie u ventilovaných pacientů
+Přípravek SONTILEN lze podat jako součást kombinované anestezie. Dávka závisí na dávce současně podaného anestetika, typu a trvání chirurgického výkonu. Počáteční dávka 0,3–2 mikrogramy/kg se podává jako pomalý bolus po dobu alespoň 30 sekund a dále lze dle potřeby přidat další bolusy 0,1–1 mikrogram/kg až do celkové maximální dávky 5 mikrogramů/kg u operace srdce.
+Epidurální podání
+SONTILEN může dětem epidurálně podávat pouze anesteziolog speciálně vyškolený pro pediatrickou epidurální anestezii a pro zvládnutí respirační deprese způsobené opioidy. K okamžité dispozici musí být příslušné resuscitační vybavení a antagonisté opioidů.
+Pediatrické pacienty je nutno monitorovat na známky respirační deprese alespoň 2 hodiny po epidurálním  podání  přípravku  SONTILEN.  Použití  epidurální  anestezie  pomocí  sufentanilu u pediatrických pacientů bylo dokumentováno pouze na malém počtu pacientů.
+Děti < 1 rok
+Bezpečnost a účinnost sufentanilu u dětí ve věku do 1 roku dosud nebyly stanoveny (viz také body 4.4
+a 5.1).
+V současnosti dostupné údaje pro děti starší 3 měsíců jsou popsány v bodě 5.1, ale nelze pro ně doporučit žádný dávkovací režim.
+Pro novorozence a kojence mladší než 3 měsíce nejsou k dispozici žádné údaje.
+Děti > 1 rok
+Jednotlivý bolus dávky 0,25–0,75 mikrogramů/kg sufentanilu podaný během operace přinesl úlevu od bolesti v rozmezí 1 až 12 hodin. Trvání účinné analgezie je ovlivněno chirurgickým výkonem a současným použitím epidurálních amidových lokálních anestetik.
+Starší (65 let a více) a oslabení pacienti
+Stejně jako u ostatních opioidů mají být dávky sufentanilu u starších osob a oslabených pacientů sníženy.
+
+
+
+2/12
+
+Zamýšlená celková dávka má být pečlivě titrována u pacientů s některou z následujících poruch:
+•  Nekompenzovaná hypotyreóza
+•  Plicní poruchy, zvláště pokud je snížená vitální kapacita
+•  Alkoholismus nebo jaterní a renální nedostatečnost (viz také bod 4.4). Dále je doporučeno prodloužené pooperační sledování těchto pacientů.
+Pacienti dlouhodobě léčení opioidy nebo s anamnézou zneužívání opiátů mohou vyžadovat vyšší dávky.
+4.3  Kontraindikace
+•  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+•  Intravenózní podání při porodu nebo před podvázáním pupeční šňůry novorozence během císařského řezu je kontraindikováno vzhledem k možnosti respirační deprese novorozence. Naopak při epidurálním podání při porodu neovlivňuje sufentanil stav matky nebo novorozence až do dávek 30 mikrogramů. Viz body 4.4 a 4.6.
+•  Nadměrná bronchiální sekrece
+•  Respirační deprese v důsledku jiných léků
+•  Poruchy, při nichž je třeba se vyvarovat deprese dýchacího centra
+Stejně jako u jiných opioidů podávaných epidurálně, sufentanil nemá být podán v případě:
+•  závažného krvácení nebo šoku
+•  septikémie
+•  infekce v místě aplikace
+•  poruch hemostázy jako je trombocytopenie a koagulopatie
+•  při antikogulační léčbě nebo při současné terapii dalšími léčivými přípravky nebo stavech znamenajících kontraindikaci epidurální aplikace
+4.4  Zvláštní upozornění a opatření pro použití
+Intravenózní podávání sufentanilu mají provádět pouze zkušení anesteziologové v nemocnicích nebo jiných institucích se zařízeními pro endotracheální intubaci a mechanickou ventilaci.
+Životní funkce pacienta musí být pravidelně sledovány. To zahrnuje i pooperační fázi.
+Shodně s ostatními silně účinnými opioidy
+Úroveň respirační deprese závisí na podané dávce a může být odvrácena specifickým antagonistou opioidů. Jelikož respirační deprese může trvat déle než účinek opioidního antagonisty, je třeba pacienta sledovat a může být nutné podat další dávky specifického opioidního antagonisty.
+Hluboká analgezie je provázena výraznou respirační depresí a ztrátou vědomí, které mohou přetrvávat nebo se vrátit v pooperačním období.
+Hyperventilace během anestezie může změnit pacientovu odpověď na CO2, což může zapříčinit sníženou oxygenaci v období po anestezii.
+Riziko zpožděné respirační deprese má být vždy bráno v úvahu a pacient musí zůstat pod náležitým dohledem. K dispozici musí být resuscitační vybavení a antagonisté opioidů.
+Riziko plynoucí ze současného užívání se sedativními léky jako jsou benzodiazepiny nebo příbuzné léky
+Současné užívání sufentanilu a sedativních léků, jako jsou benzodiazepiny nebo příbuzné léky, může mít za následek sedaci, respirační depresi, kóma a úmrtí. Kvůli těmto rizikům má být souběžné předepisování těchto sedativních léků vyhrazeno pacientům, pro které nejsou alternativní možnosti
+
+
+3/12
+
+léčby možné. Pokud je rozhodnuto předepisovat sufentanil souběžně se sedativními léky, má být použita nejnižší účinná dávka a trvání léčby má být co nejkratší.
+Pacienti mají být pečlivě sledováni ohledně příznaků respirační deprese a sedace. V této souvislosti se důrazně doporučuje informovat pacienty a jejich pečovatele o těchto příznacích (viz bod 4.5).
+Obecně se doporučuje přerušit podávání inhibitorů MAO dva týdny před anestezií nebo chirurgickými zákroky.
+Může dojít ke svalové rigiditě a ta může vést k útlumu dýchání. Tomu lze zabránit pomalou i.v. injekcí (nízké dávky jsou obvykle dostačující), premedikací benzodiazepinem a použitím svalových relaxancií.
+Myasthenia gravis
+Sufentanil může způsobit svalovou rigiditu po i.v. podání, která může vyžadovat užití svalových relaxancií. Sufentanil proto nemá být používán u pacientů s myasthenia gravis, neboť u těchto pacientů je použití svalových relaxancií nevhodné.
+Může dojít k neepileptickým (myo)klonickým pohybům.
+Jestliže nebyla pacientovi podána dostatečná dávka anticholinergik nebo pokud je přípravek SONTILEN kombinován s nevagolytickými myorelaxancii, nelze vyloučit bradykardii, případně až srdeční zástavu. Bradykardii lze zvládnout atropinem.
+Opioidy mohou navodit hypotenzi zvláště u hypovolemických pacientů a u pacientů se srdečním selháním. Indukční dávky musí být upraveny a podávány pomalu, aby se zabránilo kardiovaskulární depresi. Musí být přijata vhodná opatření k udržení stabilního arteriálního tlaku.
+Opatrnost je nutná u pacientů s kraniálním mozkovým traumatem a zvýšeným intrakraniálním tlakem. Rychlé bolusové injekce opioidů se nemají podávat pacientům se sníženou cerebrální cirkulací nebo intrakraniální kompenzací, neboť krátkodobé snížení arteriálního tlaku může být doprovázeno krátkodobým sníženým tlakem mozkové perfuze.
+Pacienti, kteří dostávají chronickou opiátovou terapii nebo s anamnézou zneužívání opioidů mohou potřebovat vyšší dávky.
+Doporučuje se snížit dávku u starších nebo oslabených pacientů. Ačkoli u starších pacientů nebyly měřeny delší poločasy, byla u nich pozorována vyšší frekvence oběhových poruch.
+Opioidy mají být titrovány opatrně u pacientů s následujícími poruchami: nekontrolovaná hypotyreóza, plicní onemocnění, snížená respirační rezerva, alkoholismus, porucha funkce jater nebo ledvin. Tito pacienti vyžadují dlouhodobé pooperační sledování.
+U epidurálního podávání je třeba postupovat opatrně u pacientů s respirační depresí nebo s narušenou respirační funkcí a při expozici plodu. Pacient má být pečlivě sledován po dobu nejméně 1 hodiny po každé dávce, protože může dojít k časné a prodloužené respirační depresi.
+Během epidurálního podávání se může změnit fetální srdeční frekvence, proto je nutné frekvenci sledovat, přičemž může být nutná i léčba.
+Pediatrická populace
+Vzhledem k vysoké variabilitě farmakokinetických parametrů u novorozenců existuje riziko předávkování nebo poddávkování intravenózním sufentanilem v novorozeneckém období. Viz také body 4.2 a 5.2.
+Bezpečnost a účinnost přípravku SONTILEN podávaného epidurálně u dětí do 1 roku dosud nebyla
+stanovena (viz také body 4.2 a 5.1).
+Od novorozenců a dětí lze očekávat, že budou obzvláště citliví na respirační depresi způsobenou sufentanilem, jak tomu je u jiných opioidů. Proto musí být před použitím sufentanilu u novorozenců a dětí pečlivě vyhodnocen poměr přínosu a rizika.
+
+
+
+
+4/12
+
+Tento léčivý přípravek obsahuje 9 mg sodíku v 1 ml injekčního roztoku, což odpovídá 0,45 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Látky tlumící centrální nervový systém (CNS)
+Barbituráty, benzodiazepiny, antipsychotika, celková anestetika a další neselektivní léky tlumící CNS
+(např. alkohol) mohou potencovat respirační depresi vyvolanou opioidy.
+Pokud pacient užívá léky tlumící CNS, postačuje nižší než obvyklá dávka přípravku SONTILEN. Současné podávání s přípravkem SONTILEN u spontánně dýchajících pacientů může zvyšovat riziko respirační deprese, hluboké sedace, kómatu a úmrtí.
+Účinky přípravku SONTILEN na jiné léčivé přípravky
+Po podání přípravku SONTILEN má být snížena dávka tlumivých látek na CNS. To je zvláště důležité po operaci, neboť hluboká anestezie je spojena s významnou respirační depresí, která může v pooperačním období přetrvávat nebo se vracet.
+Podání léků tlumících CNS jako například benzodiazepinu může během tohoto období neúměrně zvýšit riziko respirační deprese.
+Při vysokých dávkách sufentanilu může souběžné podávání oxidu dusného nebo dokonce malých dávek benzodiazepinů (např. diazepamu nebo midazolamu) vést ke snížení srdeční funkce (k poklesu krevního tlaku a k poklesu srdečního objemu a srdeční frekvence).
+Podávání sufentanilu se suxamethoniem může vyvolat bradykardii, zejména pokud je puls již nízký (např. u pacientů užívajících antagonisty vápníku nebo beta-blokátory). Proto je vhodné provést odpovídající snížení dávky jednoho nebo obou léčiv.
+Inhibitory monoaminooxidázy (IMAO)
+V případě léčby inhibitory MAO až 14 dní před léčbou opioidem petidinem byly pozorovány život ohrožující interakce s účinkem na CNS (agitovanost, svalová rigidita, vysoká horečka, křeče), stejně jako na respirační a oběhové funkce (cirkulační deprese, hypotenze, hemodynamická nestabilita, kóma). Tyto interakce se sufentanilem nelze vyloučit, a proto se doporučuje přerušit podávání inhibitorů MAO (alespoň) 2 týdny před operací nebo anestezií.
+Serotoninergní léčivé přípravky
+Současné podávání sufentanilu se serotoninergní látkou, jako je například selektivní inhibitor zpětného vychytávání serotoninu (SSRI) nebo inhibitor zpětného vychytávání serotoninu a norepinefrinu (SNRI) nebo inhibitory monoaminooxidázy (IMAO), může zvýšit riziko serotoninového syndromu, což je stav potenciálně ohrožující život. Inhibitory monoaminooxidázy se nesmí užívat 2 týdny před nebo v tutéž dobu, kdy je podáván SONTILEN.
+Inhibitory CYP3A4 (cytochrom P450 3A4)
+Sufentanil je metabolizován především enzymy lidského cytochromu P450 3A4. Přesto však nebyla v podmínkách in vivo pozorována inhibice jeho účinků erythromycinem (známým inhibitorem enzymů cytochromu P450 3A4). Navzdory chybějícím klinickým údajům naznačují výsledky studií in vitro, že další silné inhibitory enzymů cytochromu P450 3A4 např. ketokonazol, itrakonazol nebo ritonavir mohou inhibovat metabolismus sufentanilu v takovém rozsahu, že zvyšují riziko prodloužené nebo zpožděné deprese dýchání. Současné podávání těchto léčivých přípravků vyžaduje zvláštní péči a sledování pacienta. Může být nezbytné snížení dávky přípravku SONTILEN.
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Existuje jen málo zkušeností s intravenózním užíváním sufentanilu u těhotných žen. Studie na zvířatech neprokázaly teratogenní účinek. Stejně jako u ostatních léků je nutné před podáním zhodnotit přínos léčby v porovnání s případným rizikem pro pacienta.
+
+5/12
+
+Intravenózní podání při porodu nebo před podvázáním pupeční šňůry během císařského řezu je kontraindikováno vzhledem k možnosti útlumu dýchání novorozence.
+Sufentanil rychle prochází do placenty a koncentrace stoupá lineárně na zvýšenou koncentraci u matky.
+Poměr koncentrace v pupeční žíle k mateřské venózní koncentraci je 0,81.
+Sufentanil může být podáván epidurálně. Kontrolované klinické studie během porodu prokázaly, že sufentanil přidaný k epidurálnímu bupivakainu v celkové dávce do 30 mikrogramů nemá škodlivý účinek na matku nebo novorozence. Sufentanil prostupuje placentou. Po epidurálním podání celkové dávky nepřesahující 30 mikrogramů byly v pupeční žíle zjištěny průměrné plazmatické koncentrace 0,016 nanogramů/ml.
+Antidota pro dítě mají být vždy k dispozici. Kojení
+Sufentanil se vylučuje do mateřského mléka. Podávání sufentanilu kojícím matkám vyžaduje proto zvýšenou opatrnost.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Sufentanil má výrazný vliv na schopnost řídit nebo obsluhovat stroje.
+Pacienti nemají řídit motorová vozidla a obsluhovat stroje, pokud od podání přípravku SONTILEN neuplynula dostatečná doba.
+Pacienti nemají být propuštěni domů bez dozoru a mají být upozorněni, aby se vyvarovali pití alkoholu.
+4.8  Nežádoucí účinky
+Bezpečnost sufentanilu byla hodnocena u 650 pacientů léčených sufentanilem, kteří se zúčastnili 6 klinických studií. Z nich se 78 pacientů účastnilo 2 studií, ve kterých byl sufentanil podáván intravenózně jako anestetikum pro navození a udržení anestezie u subjektů podstupujících velký chirurgický zákrok (bypass koronárních artérií nebo operaci na otevřeném srdci). Dalších 572 subjektů se účastnilo 4 studií s epidurálním podáním sufentanilu jako postoperativního analgetika nebo jako analgetického doplňku k epidurálně podanému bupivakainu během porodních bolestí a vaginálního porodu. Těmto subjektům byla podána nejméně 1 dávka sufentanilu a byly zjišťovány údaje o bezpečnosti.
+Nejčastěji hlášenými nežádoucími účinky (s incidencí ≥ 5 %) ze souhrnu údajů z těchto studií byly:
+sedace (19,5 %), pruritus (15,2 %), nauzea (9,8 %) a zvracení (5,7 %).
+Pediatrická populace
+Předpokládá se, že četnost, typ a závažnost nežádoucích účinků u pediatrických pacientů jsou tytéž jako u dospělých.
+Dále uvedená tabulka shrnuje nežádoucí účinky hlášené v souvislosti s používáním sufentanilu jak
+v klinických studiích, tak i po uvedení přípravku na trh. Četnosti jsou uvedeny dle následující konvence:
+Velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10 000
+až < 1/1000); velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+
+
+
+
+
+
+
+
+
+6/12
+
+Tabulka 1: Nežádoucí účinky Nežádoucí účinky
+Třídy orgánových  Kategorie frekvence
+
+systémů
+
+
+
+
+Infekce a infestace
+Velmi
+časté
+(≥ 1/10)
+Časté (≥ 1/100
+až < 1/10)
+Méně časté (≥ 1/1000 až
+< 1/100)
+
+Rinitida
+Vzácné
+(≥ 1/10000
+až
+< 1/1000)
+Není známo
+
+
+Poruchy imunitního systému
+
+
+
+Psychiatrické
+poruchy
+Poruchy
+nervového systému
+
+
+
+
+
+
+Poruchy oka
+Srdeční poruchy
+
+
+
+
+
+
+
+
+
+Sedace
+
+
+
+
+
+
+
+
+
+Neonatální tremor, závrať, bolest hlavy
+
+
+
+
+
+
+
+Tachykardie
+Hypersenzitivita
+
+
+
+
+
+Apatie, nervozita
+
+Ataxie, neonatální dyskineze, dystonie, hyperreflexie, hypertonie, neonatální hypokineze, somnolence
+Poruchy vidění
+Atrioventrikulární blokáda, cyanóza, bradykardie, arytmie, abnormální EKG
+Anafylaktický šok, anafylaktická reakce, anafylaktoidní reakce
+
+
+
+Kóma, konvulze, mimovolní svalové kontrakce
+
+
+
+
+Mióza
+Srdeční zástava
+
+
+Cévní poruchy
+
+
+Respirační hrudní a mediastinální poruchy
+Hypertenze, hypotenze, bledost
+Neonatální cyanóza
+
+
+
+Bronchospasmus, hypoventilace, dysfonie, kašel, škytání, respirační porucha
+Šok
+
+
+Dechová zástava, apnoe, respirační deprese, plicní otok, laryngospasmus
+
+
+Gastrointestinální
+poruchy
+Zvracení, nauzea
+
+
+
+
+
+
+7/12
+
+Nežádoucí účinky
+Třídy orgánových
+
+Kategorie frekvence
+
+systémů
+
+
+
+
+Poruchy kůže
+a podkožní tkáně
+
+
+
+
+
+Poruchy svalové
+a kosterní soustavy
+
+
+Poruchy ledvin a močových cest
+Velmi
+časté
+(≥ 1/10)
+
+Pruritus
+Časté (≥ 1/100
+až < 1/10)
+
+
+Změna zbarvení kůže
+
+
+
+
+
+Svalové záškuby
+
+
+
+Retence moči, inkontinence moči
+Méně časté (≥ 1/1000 až
+< 1/100)
+
+Alergická dermatitida, hyperhidróza, vyrážka, neonatální vyrážka, suchá kůže
+Bolest zad, neonatální hypotonie, svalová rigidita
+Vzácné
+(≥ 1/10000
+až
+< 1/1000)
+Není známo
+
+
+
+Erytém
+
+
+
+
+
+
+Svalové stahy
+
+
+Celkové poruchy a reakce v místě aplikace
+Pyrexie
+Hypotermie, snížení tělesné teploty, zvýšení tělesné teploty, zimnice, reakce v místě aplikace, bolest v místě aplikace, bolest
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+Známky a příznaky
+Předávkování se projevuje jako prodloužení farmakologických účinků sufentanilu. V závislosti na individuální citlivosti je nejzávažnějším významným účinkem předávkování respirační deprese, která se může projevit ve všech stupních, od bradypnoe po apnoe.
+Léčba
+Při hypoventilaci nebo apnoe se má podávat kyslík a dýchání má být podporováno nebo kontrolováno,
+podle indikace. Specifický opioidní antagonista může být použit pro kontrolu respirační deprese.
+
+
+8/12
+
+Současně mají být učiněna okamžitá symptomatická protiopatření. Vzhledem k tomu, že trvání respirační deprese indukované sufentanilem může trvat déle než trvání antagonistického účinku, mohou být nutné opakované dávky antagonisty.
+Pokud je respirační deprese spojena se svalovou rigiditou, může být zapotřebí podání intravenózního neuromuskulárního blokátoru k usnadnění asistované nebo kontrolované respirace.
+Pacient má být pečlivě sledován a mají být udržovány tělesné teplo a příjem tekutin. Hypovolémie má být považována za možnou příčinu závažné nebo přetrvávající hypotenze. V tomto případě má být kontrolována vhodným parenterálním podáváním tekutin.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti Farmakoterapeutická skupina: Opioidní anestetika ATC kód: N01AH03
+Sufentanil je silný syntetický opioid s μ-agonistickým farmakologickým účinkem. Sufentanil je velmi silný opioid (7–10krát účinnější než fentanyl u lidí) s vysokým bezpečnostním indexem (LD50/ED50 pro nejnižší stupeň analgezie) u potkanů; bezpečnostní index (25 211) je vyšší než u fentanylu (277) nebo morfinu (69,5). Intravenózní podávání sufentanilu má rychlý nástup účinku. Omezená akumulace a rychlá eliminace ze zásobních kompartmentů umožňuje rychlé zotavení. Hloubka analgezie závisí na dávce a může být podle potřeby přizpůsobena úrovni bolesti během operace.
+Stejně jako u jiných opioidů může sufentanil (v závislosti na dávce a rychlosti podávání) způsobit svalovou rigiditu, euforii, miózu a bradykardii.
+Histaminové testy neprokázaly potenciál uvolňování histaminu u pacientů, kteří dostávali sufentanil. Účinek sufentanilu je okamžitě a zcela zrušen specifickým antagonistou opiátů.
+Při epidurálním užívání poskytuje sufentanil spinální analgezii s rychlým nástupem účinku (5–10 min) a střední dobou účinku obvykle 4–6 hodin.
+Pediatrická populace
+Epidurální podání
+Průměrný nástup a doba trvání analgezie byla 3,0 ± 0,3 a 198 ± 19 minut po epidurálním podání
+0,75 mikrogramů/kg sufentanilu u 15 dětí ve věku od 4 až do 12 let.
+Epidurální sufentanil byl podáván pouze omezenému počtu dětí ve věku od 3 měsíců do 1 roku jako jednorázová bolusová dávka 0,25–0,75 mikrogramů/kg pro pooperační kontrolu bolesti.
+Epidurální bolusová dávka 0,1 mikrogramu sufentanilu/kg následovaná epidurální infuzí 0,03–0,3 mikrogramů/kg/h a kombinovaná s lokálním anestetikem amidového typu u dětí ve věku od 3 měsíců poskytla účinnou pooperační analgezii po dobu až 72 hodin u pacientů po operaci podbřišku.
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Při epidurálním podání je maximální plazmatická koncentrace dosažena během 10 minut a je 4 až 6krát nižší než koncentrace v plazmě po intravenózním podání. Současné podávání efedrinu (50–75 mikrogramů) dále snižuje počáteční rychlou absorpci o 25–50 %.
+Distribuce
+Ve studiích, kde byly dávky sufentanilu 250–1500 mikrogramů podávány intravenózně po delší dobu, byly poločasy v distribuční fázi 2,3–4,5 minut a 35–73 minut, distribuční objem v centrálním kompartmentu 14,2 litrů, distribuční objem v ustáleném stavu 344 litrů.
+
+
+
+9/12
+
+Poločas v distribuční fázi, spíše než eliminační poločas (v rozmezí od 4,1 hodiny po 250 mikrogramech až 10–16 hodin po 500–1500 mikrogramech), je určujícím faktorem rychlosti poklesu plazmatických koncentrací z terapeutického na subterapeutický rozsah. Farmakokinetika sufentanilu je lineární ve studiích dávkovacího rozmezí.
+Vazba sufentanilu na plazmatické proteiny je 92,5 %.
+Biotransformace
+Biotransformace látky nastává primárně v játrech a tenkém střevě. Sufentanil se metabolizuje převážně enzymem lidského cytochromu P450 3A4.
+Eliminace
+Průměrný terminální poločas eliminace byl 784 (656–938) minut. V důsledku limitu metodické detekce byl eliminační poločas po dávce 250 mikrogramů významně kratší (240 minut) než po podání dávky 1500 mikrogramů. Clearance byla 917 ml/min. Téměř 80 % podané dávky se eliminovalo během 24 hodin, přičemž ve formě nezměněné látky pouze 2 %.
+Zvláštní populace
+Porucha funkce jater
+Distribuční objem je mírně zvýšený a celková clearance je mírně nižší u pacientů s cirhózou než u kontrolních pacientů. To vede k významnému prodloužení poločasu přibližně o 30 %, což často vyžaduje delší pooperační sledování (viz bod 4.4).
+Porucha funkce ledvin
+Distribuční objem v rovnovážném stavu, celková clearance a terminální eliminační poločas u pacientů na dialýze nebo podstupující transplantaci ledvin se neliší od zdravých kontrol. Volná frakce sufentanilu v této populaci se neliší od zdravých pacientů.
+Pediatrická populace
+Farmakokinetické informace u dětí jsou omezené. Intravenózní podání
+Vazba na plazmatické proteiny je u dětí nižší než u dospělých a zvyšuje se s věkem. U novorozenců je sufentanil přibližně z 80,5 % vázán na bílkoviny ve srovnání s 88,5 % u kojenců, 91,9 % u dětí a 92,5 % u dospělých.
+Po podání intravenózní dávky bolusu sufentanilu v dávce 10–15 mikrogramů/kg u pediatrických pacientů podstupujících kardiologickou operaci může být farmakokinetika sufentanilu popsána triexponenciální křivkou jako u dospělých. Bylo prokázáno, že clearance normalizovaná na tělesnou hmotnost byla u kojenců a dětí vyšší ve srovnání s dospívajícími, jejichž clearance byla srovnatelná s hodnotami u dospělých. U novorozenců byla clearance významně snížena a vykazovala vysokou variabilitu (rozmezí 1,2 až 8,8 ml/min/kg a jednu odlehlou hodnotu 21,4 ml/min/kg). Bylo prokázáno, že novorozenci mají větší distribuční objem v rovnovážném stavu a prodloužený eliminační poločas. Farmakodynamické rozdíly způsobené rozdíly ve farmakokinetických parametrech mohou být větší, pokud se bere v úvahu nevázaná frakce.
+Tabulka 2: Průměrné farmakokinetické parametry sufentanilu u dětí po podání sufentanilu 10–15 mikrogramů/kg jako jednorázový intravenózní bolus (N = 28).
+
+Věková skupina      N
+
+Novorozenci (0 až 30 dní)  9
+Kojenci (1 až 23 měsíců)  7
+Děti (3 až 11 let)      7
+Dospívající (13 až 18 let)  5
+Vdss (l/kg)
+Průměr (± SD)
+4,15 (1,01)
+3,09 (0,95)
+2,73 (0,50)
+2,75 (0,53)
+T1/2β (min)
+Průměr (± SD)
+737 (346)
+214 (41)
+140 (30)
+209 (23)
+Cl (ml/kg/min) Průměr (± SD) 6,7 (6,1)
+18,1 (2,8)
+16,9 (3,2)
+13,1 (3,6)
+
+
+10/12
+
+Cl = clearance, normalizovaná na tělesnou hmotnost; N = počet pacientů zahrnutých do analýzy; SD = směrodatná odchylka; T1/2β = eliminační poločas; Vdss = distribuční objem v rovnovážném stavu. Uvedené věkové rozmezí je sledovaných dětí.
+Epidurální podání
+Po epidurálním podání 0,75 mikrogramů/kg sufentanilu u 15 dětí ve věku od 4 do 12 let byly plazmatické
+hladiny 30, 60, 120 a 240 minut po injekci v rozmezí od 0,08 ± 0,01 do 0,10 + 0,01 nanogramů/ml.
+U 6 dětí ve věku 5 až 12 let, kterým byla pomalým bolusem podána dávka 0,6 mikrogramů/kg sufentanilu, následovaná nepřetržitou epidurální infúzí obsahující 0,08 mikrogramů/kg/hodinu sufentanilu a 0,2 mg/kg/h bupivakainu po dobu 48 hodin, byly dosaženy maximální koncentrace přibližně 20 min po injekci bolusu a pohybovaly se od podlimitní meze kvantifikace (< 0,02 nanogramů/ml) až do 0,074 nanogramů/ml.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Žádné.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Chlorid sodný
+Hydroxid sodný (pro úpravu pH) Kyselina chlorovodíková (pro úpravu pH) Voda pro injekci
+6.2  Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny
+v bodě 6.6.
+6.3  Doba použitelnosti
+Před prvním otevřením 30 měsíců
+Po prvním otevření
+Po prvním otevření má být léčivý přípravek použit okamžitě. Po naředění
+Chemická a fyzikální stabilita po naředění před použitím byla prokázána po dobu 24 hodin při teplotě
+do 25 °C a při teplotě 2 °C–8 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po naředění před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při teplotě 2 °C–8 °C, pokud nebylo naředění provedeno za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky uchovávání. Uchovávejte ampulky v krabičce, aby byl přípravek chráněn před světlem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho naředění jsou uvedeny v bodě 6.3.
+
+
+
+11/12
+
+6.5  Druh obalu a obsah balení
+Ampulky z čirého skla (třída I) o objemu 10 ml a 5 ml.
+Ampulky jsou opatřeny samolepicí etiketou a jsou vloženy do tvarovaného PVC zásobníku (každý zásobník obsahuje 5 ampulek) uzavřeného PE fólií.
+Odlupovací membrána na PVC blistrech je pouze na ampulkách o objemu 5 ml.
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Může být mísen s izotonickým infuzním roztokem chloridu sodného, s 5% roztokem glukózy pro infuzi a s roztokem Ringer-laktátu pro infuzi.
+Při otevírání lahvičky používejte rukavice. Náhodné potřísnění pokožky má být ošetřeno opláchnutím postižené oblasti vodou. Nepoužívejte mýdlo, alkohol a jiné čisticí prostředky, které mohou způsobit chemické nebo fyzické poškození pokožky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+MEDOCHEMIE Ltd., 1-10 Constantinoupoleos Street, 3011 Limassol, Kypr
+
+8. REGISTRAČNÍ ČÍSLO(A)
+SONTILEN 5 mikrogramů/ml injekční/infuzní roztok: 65/459/17-C SONTILEN 50 mikrogramů/ml injekční/infuzní roztok: 65/460/17-C
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 16. 1. 2019
+Datum posledního prodloužení registrace:
+
+10. DATUM REVIZE TEXTU
+9. 12. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12

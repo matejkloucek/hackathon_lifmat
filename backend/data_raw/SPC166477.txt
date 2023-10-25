@@ -1,0 +1,314 @@
+sp.zn. sukls301473/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+EXACYL 0,5 g/5 ml injekční roztok
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jeden ml injekčního roztoku obsahuje acidum tranexamicum 100 mg. Jedna ampulka o obsahu 5 ml obsahuje acidum tranexamicum 0,5 g.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+Injekční roztok.
+Čirý, bezbarvý roztok.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Prevence a léčba krvácení v důsledku generalizované nebo lokální fibrinolýzy u dospělých a dětí starších jednoho roku.
+Specifické indikace zahrnují:
+•  hemoragickou příhodu způsobenou generalizovaným nebo lokálním fibrinolytickým stavem, jako je:
+-  menoragie a metroragie
+-  gastrointestinální krvácení
+-  hematurie z močových cest po chirurgickém výkonu na prostatě nebo močových cestách
+•  ORL výkony (adenektomie, tonsilektomie, extrakce zubů)
+•  gynekologické zákroky nebo poruchy související s porodem
+•  hrudní a břišní chirurgie a jiné velké chirurgické zákroky, např. kardiovaskulární operace
+•  léčba krvácení v důsledku podávání fibrinolytika.
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dospělí: pokud není uvedeno jinak, doporučují se následující dávky:
+1.   Standardní léčba lokální fibrinolýzy:
+0,5 g (1 ampule o objemu 5 ml) až 1 g (1 ampule o objemu 10 ml nebo 2 ampule o objemu 5 ml)
+kyseliny tranexamové pomalou intravenózní injekcí (= 1 ml/1 min) dvakrát až třikrát denně.
+
+
+
+
+
+Stránka 1 z 7
+
+2.   Standardní léčba generalizované fibrinolýzy:
+1 g kyseliny tranexamové (1 ampule o objemu 10 ml nebo 2 ampule po 5 ml) pomalou intravenózní injekcí (= 1 ml/1 min) každých 6–8 hodin, což odpovídá množství 15 mg/kg tělesné hmotnosti.
+Porucha funkce ledvin
+Vzhledem k riziku akumulace látky v organismu při renální insuficienci je u pacientů se závažnou poruchou funkce ledvin kyselina tranexamová kontraindikována (viz bod 4.3). U pacientů s mírnou až středně závažnou poruchou funkce ledvin je třeba dávku snížit v závislosti na hladině kreatininu v séru.
+
+
+Sérový kreatinin μmol/l
+120 až 249
+250 až 500
+> 500
+
+mg/10 ml 1,35 až 2,82
+2,82 až 5,65
+> 5,65
+i.v. dávka
+
+10 mg/kg tělesné hmotnosti 10 mg/kg tělesné hmotnosti 5 mg/kg tělesné hmotnosti
+Podání
+
+každých 12 hodin
+každých 24 hodin
+každých 24 hodin
+Porucha funkce jater
+U pacientů s poruchou funkce jater není nutné upravovat dávkování.
+
+Pediatrická populace
+V indikacích, které jsou v současné době schváleny u dětí starších 1 roku (viz bod 4.1), je dávkování přibližně 20 mg/kg/den. Pro tuto populaci jsou však k dispozici pouze omezené údaje týkající se účinnosti, dávkování a bezpečnosti léčivého přípravku.
+U dětí podstupujících kardiochirurgický zákrok nebyla dosud zcela stanovena účinnost, dávkování a bezpečnost tranexamové kyseliny. V současnosti jsou dostupné pouze omezené údaje uvedené v bodě 5.1.
+
+Starší pacienti
+Pokud nejsou známky selhání ledvin, není snížení dávky nutné.
+
+Způsob podání
+Přípravek se podává výhradně formou pomalé intravenózní injekce.
+4.3  Kontraindikace
+
+•  přecitlivělost na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+•  akutní venózní nebo arteriální trombóza (viz bod 4.4)
+•  fibrinolytické stavy při konsumpční koagulopatii s výjimkou fibrinolýzy s převládající aktivací fibrinolytického systému se závažným akutním krvácením (viz bod 4.4)
+•  závažná porucha funkce ledvin (riziko akumulace látky v organismu)
+•  křeče v anamnéze
+•  intrathekální a intraventrikulární injekce, intracerebrální aplikace (riziko edému mozku a křečí)
+4.4  Zvláštní upozornění a opatření pro použití
+
+Výše uvedené indikace a způsob podání je třeba striktně dodržovat:
+•  Intravenózní injekci je třeba aplikovat velmi pomalu.
+•  Kyselinu tranexamovou nelze podávat intramuskulárně.
+
+Křeče
+Ve spojitosti s léčbou kyselinou tranexamovou byl hlášen výskyt křečí. Při aortokoronárním bypassu (CABG) byla většina těchto případů hlášena po intravenózní (i.v.) injekci vysokých dávek kyseliny tranexamové. Při použití nižších doporučených dávek kyseliny tranexamové je incidence pooperačních záchvatů stejná jako u neléčených pacientů.
+
+Stránka 2 z 7
+
+Poruchy zraku
+Je zapotřebí věnovat pozornost možnému výskytu zrakových poruch včetně zhoršení zraku, neostrého vidění a poruch vnímání barev a v případě nutnosti léčbu ukončit. Při pokračujícím dlouhodobém používání injekčního roztoku kyseliny tranexamové jsou indikována pravidelná oftalmologická vyšetření (oční vyšetření zahrnující zrakovou ostrost, barevné vidění, fundus, zorné pole atd.). Při výskytu patologických oftalmologických změn, zejména změn na sítnici, musí lékař po konzultaci se specialistou rozhodnout o nezbytnosti dlouhodobého užívání injekčního roztoku tranexamové kyseliny pro každý jednotlivý případ.
+
+Hematurie
+V případě hematurie z horních močových cest existuje riziko obstrukce močové trubice.
+Tromboembolická příhoda
+Před užitím kyseliny tranexamové je zapotřebí zvážit rizikové faktory tromboembolické nemoci.
+U pacientů s tromboembolickým onemocněním v anamnéze nebo u pacientů se zvýšenou incidencí tromboembolických příhod v rodinné anamnéze (pacienti s vysokým rizikem trombofilie) může být injekční roztok kyseliny tranexamové podán pouze v naléhavé indikaci po konzultaci s hematologem a pod přísným lékařským dohledem (viz bod 4.3).
+Kyselinu tranexamovou je třeba podávat s opatrností u pacientek užívajících perorální kontraceptiva kvůli zvýšenému riziku trombózy (viz bod 4.5.)
+
+Diseminovaná intravaskulární koagulace
+Pacienti s diseminovanou intravaskulární koagulací (DIC) nemají být ve většině případů léčeni kyselinou tranexamovou (viz bod 4.3). Pokud je kyselina tranexamová podávána, musí být léčba omezena pouze na pacienty s převládající aktivací fibrinolytického systému s akutním závažným krvácením. Charakteristický hematologický profil se podobá následujícímu: snížený čas euglobulinové lýzy, prodloužený protrombinový čas, snížená plazmatická hladina fibrinogenu, faktorů V a VIII, plazminogen fibrinolyzinu a alfa-2 makroglobulinu; normální plazmatické hladiny P a P komplexu; tj. faktorů II (protrombin), VIII a X; zvýšené plazmatické hladiny produktů degradace fibrinogenu; normální počet trombocytů. Z výše uvedeného vyplývá, že základní onemocnění samo o sobě nemá vliv na různé složky uvedeného profilu. V těchto akutních případech často stačí k dosažení kontroly nad krvácením jednorázová dávka 1 g kyseliny tranexamové. Podávání kyseliny tranexamové u DIC je možné zvažovat, pouze pokud je k dispozici odpovídající laboratorní vybavení a odborná způsobilost.
+
+Akutní renální selhání v souvislosti s léčbou poporodního krvácení
+Při léčbě poporodního krvácení byly při užití dávek > 2 g (celkové dávky) kyseliny tranexamové
+hlášeny případy akutního poškození ledvin (včetně kortikální nekrózy).
+Z preventivních důvodů a z důvodu, že nelze vyloučit kauzální souvislost mezi tranexamovou kyselinou a akutním poškozením ledvin, je třeba při poporodním krvácení podávat dávky > 2 g (celkové dávky) kyseliny tranexamové s opatrností.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Nebyly provedeny žádné studie interakcí. Současná léčba antikoagulancii musí probíhat pod přísným dohledem lékaře se zkušenostmi v této oblasti. Léčivé přípravky, které ovlivňují hemostázu, je zapotřebí podávat pacientům léčeným kyselinou tranexamovou s opatrností. Existuje teoretické riziko zvýšeného trombogenního potenciálu, stejně jako u estrogenů. Kromě toho může být antifibrinolytický účinek tohoto léčivého přípravku antagonisticky ovlivněn trombolytiky.
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku musí během léčby užívat účinnou antikoncepci. Těhotenství
+Stránka 3 z 7
+
+Nejsou k dispozici dostatečné údaje o používání kyseliny tranexamové u těhotných žen. Používání kyseliny tranexamové se proto preventivně nedoporučuje během prvního trimestru těhotenství, ačkoliv studie na zvířatech neprokázaly teratogenní účinky. Z omezených klinických údajů o použití kyseliny tranexamové u různých krvácivých stavů ve druhém a třetím trimestru nevyplývá žádný škodlivý vliv na plod. V těhotenství je možné kyselinu tranexamovou podat pouze v případě, kdy očekávaný přínos převáží potenciální riziko plynoucí z léčby.
+
+Kojení
+Kyselina tranexamová přechází do mateřského mléka. Proto se kojení nedoporučuje.
+
+Fertilita
+Nejsou k dispozici žádné klinické údaje týkající se vlivu kyseliny tranexamové na fertilitu.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly provedeny žádné studie zaměřené na ovlivnění schopnosti řídit a obsluhovat stroje.
+4.8  Nežádoucí účinky
+
+Níže uvedené nežádoucí účinky, které byly hlášeny v klinických studiích a po uvedení přípravku na
+trh, jsou seřazeny podle tříd orgánových systémů.
+
+Tabulkový přehled nežádoucích účinků
+Hlášené nežádoucí účinky uvedené v tabulce níže jsou seřazeny podle primárního systému orgánových tříd MedDRA. V každé třídě jsou frekvence nežádoucích účinků definovány podle frekvence výskytu. V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti. Frekvence byly definovány takto: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100); není známo (z dostupných údajů nelze zjistit).
+
+
+MedDRA
+Třídy orgánových systémů
+Poruchy kůže a podkožní tkáně
+Gastrointestinální poruchy
+
+
+
+Poruchy nervového systému
+
+Poruchy oka
+
+Cévní poruchy
+
+
+
+
+
+
+
+Poruchy imunitního systému
+
+Frekvence
+
+Méně časté Časté
+
+Není známo Není známo Není známo
+
+
+
+
+
+
+Není známo
+
+Nežádoucí účinky
+
+- Alergická dermatitida
+
+- Průjem
+- Zvracení
+- Nausea
+- Křeče zejména při nesprávném použití (viz body 4.3 a 4.4)
+- Poruchy zraku včetně poruchy barevného vidění
+- Malátnost s hypotenzí, se ztrátou vědomí nebo bez ní (obvykle následuje po příliš rychlé intravenózní injekci, výjimečně po perorálním podání)
+- Arteriální nebo žilní trombóza
+v jakémkoli místě
+- Hypersenzitivní reakce včetně
+
+
+Stránka 4 z 7
+
+anafylaxe
+
+
+Poruchy ledvin a močových
+cest
+Není známo
+- Akutní renální selhání
+v důsledku renální kortikální nekrózy
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Nebyly hlášeny žádné případy předávkování.
+Známky a příznaky předávkování mohou zahrnovat závrať, bolest hlavy, hypotenzi a křeče. Bylo
+zjištěno, že křeče se mohou vyskytovat častěji při vyšší dávce. Léčba předávkování je podpůrná.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: hemostyptika, hemostatika, antifibrinolytika
+ATC kód: B02AA02.
+Kyselina tranexamová má antifibrinolytický účinek - inhibuje fibrinolytickou aktivitu plazminu. K inhibici dochází tak, že kyselina tranexamová vytvoří komplex s plazminogenem během jeho přeměny na plazmin.
+Takto v komplexu vázaný plazmin má nižší fibrinolytickou aktivitu než plazmin volný.
+Ve studiích in vitro byl prokázán inhibiční vliv vysokých dávek kyseliny tranexamové na aktivitu komplementu.
+Pediatrická populace
+Děti starší jednoho roku:
+Podle literárních údajů bylo provedeno 12 studií účinnosti u dětí, které podstoupily operaci srdce. Celkem bylo zahrnuto 1073 dětí, z nichž 631 dostávalo kyselinu tranexamovou. Většina studií byla kontrolována oproti placebu. Studovaná populace byla heterogenní z hlediska věku, typů operace, dávkovacích režimů. Výsledky studií s kyselinou tranexamovou vypovídají o menší ztrátě krve a menší potřebě krevních produktů u operací srdce při mimotělním oběhu (CPB), kde je vysoké riziko krvácení, především u cyanotických pacientů nebo pacientů opakovaně operovaných.
+Nejčastěji používaná úprava dávkování byla následující:
+-  první bolus 10 mg/kg po zavedení anestezie a před incizí kůže,
+-  kontinuální infuze 10 mg/kg/h,
+-  poslední injekce 10 mg/kg na konci CPB.
+Omezené údaje získané u velmi malého počtu pacientů naznačují, že kontinuální infúze udržuje terapeutickou plazmatickou koncentraci po celou dobu zákroku.
+U dětí dosud nebyly provedeny žádné specifické studie dávkování.
+
+
+Stránka 5 z 7
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Maximální koncentrace kyseliny tranexamové v plazmě jsou dosaženy rychle po krátké intravenózní infuzi, po níž koncentrace v plazmě multiexponenciálně klesají.
+
+Distribuce
+Vazba kyseliny tranexamové na plazmatické proteiny je při terapeutických plazmatických hladinách asi 3% a zdá se, že je plně odůvodněna její vazbou na plazminogen. Na sérový albumin se kyselina tranexamová neváže. Iniciální distribuční objem je zhruba 9 až 12 litrů.
+Kyselina tranexamová prochází placentou. Po podání intravenózní injekce 10 mg/kg dvanácti těhotným ženám byla koncentrace tranexamové kyseliny v séru v rozmezí 10–53 μg/ml, zatímco
+v pupečníkové krvi se pohybovala v rozsahu 4–31 μg/ml. Kyselina tranexamová rychle difunduje do kloubní tekutiny a synoviální membrány. Po podání intravenózní injekce 10 mg/kg sedmnácti pacientům, kteří podstoupili chirurgický zákrok na koleni, byly koncentrace v kloubní tekutině podobné koncentracím v odpovídajících vzorcích séra. Koncentrace kyseliny tranexamové v mnoha jiných tkáních je zlomkem množství zjištěného v krvi (v mateřském mléku jedna setina,
+v mozkomíšním moku jedna desetina, v komorové vodě jedna desetina). Přítomnost kyseliny tranexamové byla zjištěna i ve spermatu, kde inhibuje fibrinolytickou aktivitu; na migraci spermií však nemá vliv.
+Eliminace
+K vylučování léčivé látky v nezměněné formě dochází především močí. Hlavní cestou eliminace je glomerulární filtrace moči. Renální clearance odpovídá plazmatické clearance (110 až 116 ml/min). Po intravenózním podání kyseliny tranexamové v dávce 10 mg/kg tělesné hmotnosti se během prvních 24 hodin vyloučí 90 % dávky. Poločas eliminace kyseliny tranexamové je přibližně 3 hodiny.
+Zvláštní populace
+Porucha funkce ledvin
+Plazmatické koncentrace se zvyšují u pacientů se selháním ledvin.
+Pediatrická populace
+Studie zkoumající populační farmakokinetiku kyseliny tranexamové zahrnovala 21 dětí (věk 2,5 až 8,7 roku, odpovídající hmotnost 11,5 až 25,3 kg), které podstoupily operaci srdce s CPB. Jako hlavní kovariát, který ovlivnil farmakokinetiku kyseliny tranexamové v této populaci, byla hlášena tělesná hmotnost. Ve zkoumaném rozsahu tělesných hmotností (10 až 30 kg) byl pokles plazmatické clearance se zvyšující se tělesnou hmotností (od 0,95 až po 0,72 ml/min/kg) ve shodě se zvýšením poločasu eliminace (10 až 12,6 hodiny).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podávání, genotoxicity, hodnocení kancerogenního potenciálu a reprodukční toxicity neodhalily žádné zvláštní riziko pro člověka. U zvířat, jimž byla kyselina tranexamová podána intrathekálně, byla zaznamenána epileptogenní aktivita.
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Úplný seznam pomocných látek
+
+Kyselina chlorovodíková 25%, voda na injekci.
+6.2  Inkompatibility
+
+Stránka 6 z 7
+
+Kyselinu tranexamovou nelze mísit nebo podávat zároveň s urokinázou. Přípravek nelze intravenózně podávat ve směsi s:
+•  látkami s hypertenzívním účinkem (noradrenalin, deoxyepinefrin, metaraminol),
+•  benzylpeniciliny,
+•  tetracykliny,
+•  dipyridamolem,
+•  diazepamem,
+vzhledem k tomu, že může dojít ke změně barvy nebo vzniku precipitátu.
+6.3  Doba použitelnosti
+
+3 roky.
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+6.5  Druh obalu a obsah balení
+
+Bezbarvá skleněná ampulka (sklo typ I) OPC, plastiková přihrádka, krabička.
+5 ampulek po 5 ml.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+Žádné zvláštní požadavky.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+CHEPLAPHARM Arzneimittel GmbH Ziegelhof 24, 17489 Greifswald Německo
+
+
+
+8.   REGISTRAČNÍ ČÍSLO
+16/403/91-S/C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 13.11.1991
+Datum posledního prodloužení registrace: 20.8.2014
+
+10.  DATUM REVIZE TEXTU
+
+12. 1. 2021
+
+
+
+
+
+
+Stránka 7 z 7

@@ -1,0 +1,478 @@
+sp.zn. sukls332093/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+FANHDI 25 IU/ml prášek a rozpouštědlo pro injekční roztok FANHDI 50 IU/ml prášek a rozpouštědlo pro injekční roztok FANHDI 100 IU/ml prášek a rozpouštědlo pro injekční roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Komplex koagulačního faktoru VIII a lidského von Willebrandova faktoru. Fanhdi je dodáván ve formě prášku, určeného k přípravě injekčního roztoku.
+1 injekční lahvička obsahuje: Factor VIII coagulationis 250, 500, 1000 nebo 1500 IU a Factor von
+Willebrand humanus 300, 600, 1200 nebo 1800 IU. (Celkový protein max. 90 mg – FVIII 250, 500, 1000 IU a vWF:RCo 300,600,1200 IU; celkový protein max.135 mg - FVIII 1500 IU a vWF:RCo 1800 IU)
+
+Přípravek se ředí 10 ml vody na injekci s obsahem 250, 500 a 1000 IU nebo 15 ml vody na injekci s obsahem 1500 IU a obsahuje přibližně:
+Fanhdi 25 IU/ml: 25 IU koagulačního faktoru FVIII a 30 IU lidského vWF na ml Fanhdi 50 IU/ml: 50 IU koagulačního faktoru FVIII a 60 IU lidského vWF na ml Fanhdi 100 IU/ml: 100 IU koagulačního faktoru FVIII a 120 IU lidského vWF na ml
+
+Účinnost FVIII:C (v IU) se stanovuje pomocí chromogenních testů v souladu s Evropským lékopisem. Specifická aktivita přípravku Fanhdi je minimálně 2,5 IU až 10 IU FVIII:C na 1 mg proteinu v závislosti na jeho síle (250, 500 nebo 1000 IU)
+Účinnost lidského von Willebrandova faktoru (v IU) je měřena podle aktivity ristocetinového kofaktoru (vWF:RCo) ve srovnání s mezinárodní normou pro koncentráty von Willebrandova faktoru (WHO).
+
+Vyrobeno z plazmy lidských dárců.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Prášek a rozpouštědlo pro injekční roztok
+
+Popis přípravku: prášek: bílý nebo světle žlutý hygroskopický prášek nebo křehká (drobivá) pevná látka rozpouštědlo: čirá bezbarvá tekutina
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Fanhdi je indikován k profylaxi a léčbě krvácení u pacientů s hemofilií A (vrozený deficit faktoru VIII).
+
+
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+Fanhdi je indikován k profylaxi a léčbě krvácení u pacientů s von Willebrandovou chorobou (vWD),
+když je léčba samotným desmopresinem (DDAVP) neúčinná nebo kontraindikována. Tento produkt lze použít při léčbě získaného deficitu faktoru VIII.
+4.2  Dávkování a způsob podání
+Zahájení léčby se provádí pod dohledem lékaře, který má zkušenosti v oblasti léčení poruch
+hemostatických funkcí.
+
+Dávkování
+Deficit faktoru VIII
+
+Dávkování a doba trvání substituční léčby závisejí na závažnosti onemocnění (hladina faktoru VIII v plazmě), na místě a intenzitě krvácení a na klinickém stavu daného pacienta.
+
+Počet podaných jednotek faktoru VIII je vyjadřován v mezinárodních jednotkách (IU), podle současného standardu WHO pro přípravky s faktorem VIII. Aktivita faktoru VIII v plazmě je vyjádřená buďto procentuálně (s ohledem na jeho obsah v normální lidské plazmě) nebo
+v mezinárodních jednotkách (s ohledem na mezinárodní normy pro obsah faktoru VIII v krevní plazmě).
+Jedna mezinárodní jednotka (IU) aktivity faktoru VIII je ekvivalentní množství faktoru VIII v 1 ml normální lidské plazmy. Výpočet velikosti potřebné dávky faktoru VIII je založen na zkušenosti, že podání 1 IU faktoru VIII na 1 kg hmotnosti pacienta způsobí nárůst plazmatické aktivity faktoru VIII o 2,1 ± 0,4 % (v porovnání s normální aktivitou). Velikost potřebné dávky se tak stanoví za použití následujícího vztahu:
+potřebná dávka FVIII = tělesná hmotnost x požadovaný nárůst FVIII x 0,5 (IU)       (kg)           (%) (IU/dl)
+
+Podávaná množství, stejně jako frekvence podávání přípravku se určují individuálními potřebami
+pacienta, s cílem dosáhnout maximálních klinických účinků.
+
+V následujících případech krvácení nesmí aktivita faktoru VIII v plazmě poklesnout pod uvedenou hladinu (udávanou v % normální aktivity nebo v IU/dl) po dobu trvání terapie. Následující tabulku lze užít jako vodítko pro dávkování přípravku při stavech spontánního krvácení a po provedení chirurgických zákroků:
+
+
+Druh krvácení / Druh provedeného
+chirurgického zákroku Krvácení
+Mírné krvácení do kloubů, svalů nebo dutiny ústní
+
+
+Rozsáhlejší krvácení do kloubů, svalů nebo tvorba hematomů
+Krvácení ohrožující život
+
+
+Chirurgické zákroky Menší zákroky, včetně trhání zubů
+Potřebná hladina
+faktoru VIII (%) (IU/dl)
+
+20 - 40
+
+
+
+30 - 60
+
+
+60 - 100
+
+
+
+30 - 60
+Frekvence podávání jednotlivých dávek (hodiny) / Doba trvání terapie (dny)
+
+
+Podávání opakujte každých 12 až 24 hodin. Léčbu provádějte minimálně po dobu jednoho dne, až do zástavy krvácení nebo do úpravy stavu.
+Infúze opakujte každých 12 až 24 hodin po dobu 3 až 4 dní, případně déle, až do vymizení bolesti a dosažení adekvátní úpravy stavu.
+Infúze opakujte každých 8 až 24 hodin tak dlouho, až se pacient dostane mimo ohrožení života.
+
+Infúze opakujte každých 24 hodin tak dlouho,
+až se dosáhne vyléčení.
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+Velké zákroky
+80 - 100
+(před zákrokem a po jeho provedení)
+Infúze opakujte každých 8 až 24 hodin až do uspokojivého zhojení rány. Poté v terapii pokračujte minimálně dalších 7 dní takovým způsobem, aby se aktivita faktoru VIII udržovala v rozsahu 30 až 60 % (IU/dl).
+
+Během prováděné léčby se doporučuje vhodným způsobem sledovat hladinu faktoru VIII a na základě takto zjištěných hodnot určovat velikost dávek a frekvenci podávaných infúzí. Zejména v případech rozsáhlých chirurgických zákroků je přesné monitorování průběhu substituční terapie prostřednictvím koagulační analýzy (sledování aktivity faktoru VIII v plazmě) zcela nezbytné. Jednotliví pacienti se mohou lišit odezvou na podání faktoru VIII z hlediska dosahované hladiny „in vivo“ a poločasu faktoru v jejich organizmu.
+
+V rámci dlouhodobé prevence krvácení u pacientů trpících těžkou formou hemofilie A, činí obvyklé dávky 20 až 40 IU faktoru VIII na 1 kg tělesné hmotnosti, podávané v pravidelných intervalech 2 až 3 dní. V některých případech, zejména u mladších pacientů, může být nezbytné podávat přípravek častěji nebo dávky zvýšit.
+
+Von Willebrandova choroba
+
+Obecně 1 IU/kg tělesné hmotnosti vWF:RCo zvyšuje hladinu vWF:RCo v krevním rečišti o 2%. Mělo by být dosaženo hladiny vWF:RCo > 0.6 IU/ml (60%) a FVIII:C > 0.4 IU/ml (40%).
+Pro dosažení zástavy krvácení se obvykle doporučuje 40 - 80 IU von Willebrandova faktoru (vWF:RCo)/kg tělesné hmotnosti a 20 - 40 IU FVIII:C/kg tělesné hmotnosti .
+
+Může být nutná počáteční dávka 80 IU von Willebrandova faktoru/kg tělesné hmotnosti , zejména u pacientů s von Willebrandovou chorobou 3. typu, u níž mohou být pro udržení odpovídajících hladin zapotřebí vyšší dávky než u ostatních typů von Willebrandovy choroby.
+Příslušná dávka by se měla podávat opakovaně každých 12 - 24 hodin. Dávka a trvání léčby závisí na klinickém stavu pacienta, typu a závažnosti krvácení a na hladinách jak vWF:RCo, tak FVIII:C.
+Při užívání přípravku s von Willebrandovým faktorem obsahujícího FVIII by si měl být ošetřující lékař vědom toho, že dlouhodobá léčba může způsobit nadměrné zvýšení FVIII:C. Po
+24 - 48 hodinách léčby by se mělo zvážit snížení dávek a/nebo prodloužení intervalu mezi dávkami, nebo uvažovat o použití přípravku vWF obsahujícího menší množství FVIII.
+U indikací, k nimž je přípravek určen, není k dispozici dostatek výsledků klinických testů na základě kterých by bylo možné užívání přípravku Fanhdi doporučit u dětí ve věku do 6 let.
+
+Způsob podání
+Lyofilizovaný přípravek rozpusťte způsobem, který je popsán v bodě 6.6. Takto připravený roztok podávejte intravenózně. Rychlost podávání přípravku Fanhdi nesmí překročit 10 ml/min.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1 tohoto přípravku.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Stejně jako ostatní intravenózně podávané proteinové přípravky, může i přípravek Fanhdi vyvolávat reakce alergického typu. Přípravek obsahuje vedle faktoru VIII i stopová množství jiných lidských proteinů. Pacienti musí být předem informováni o prvotních projevech přecitlivělosti jejich organizmu, jako jsou vyrážka, kopřivka, napětí na prsou, těžké dýchání, hypotenze a anafylaxe. Pokud
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+se uvedené symptomy objeví, doporučuje se pacientům, aby přestali přípravek okamžitě užívat a vyhledali svého lékaře.
+
+V případě vzniku šoku, je nutno zahájit protišokovou terapii.
+
+Standardní opatření pro zabránění přenosu infekcí způsobených používáním léčiv vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, testování jednotlivých odběrů i poolů plazmy na specifické ukazatele infekce a zavedení účinných výrobních postupů pro inaktivaci/odstranění virů. Přesto při podávání léčiv vyrobených z lidské krve nebo plazmy nelze možnost přenosu původců infekcí zcela vyloučit. To platí i pro neznámé a nově se objevující viry a jiné patogeny. Přijatá opatření se pokládají za účinná u obalených virů, jako je virus lidské imunitní nedostatečnosti (HIV), virus hepatitidy B (HBV) a virus hepatitidy C (HCV), a u neobaleného viru hepatitidy A. Přijatá opatření mohou mít omezenou účinnost u neobalených virů, jako je parvovirus B19. Infekce parvovirem B19 může být závážná u těhotných žen (infekce plodu) a u jedinců, jejichž imunitní systém je oslaben nebo kteří mají některé typy anémie (např. hemolytická anémie).
+Inhibitory
+
+Tvorba neutralizujících protilátek (inhibitorů) faktoru VIII je známou komplikací léčby jedinců s hemofilií A. Tyto inhibitory jsou obvykle imunoglobuliny IgG zaměřené proti prokoagulační aktivitě faktoru VIII, které jsou kvantifikovány v Bethesda jednotkách (Bethesda Units, BU) na ml plazmy s použitím modifikovaného testu. Riziko vzniku inhibitorů souvisí se závažností onemocnění i s expozicí faktoru VIII, přičemž toto riziko je nejvyšší během prvních 20 dnů expozice. Vzácně mohou inhibitory vzniknout po prvních 100 dnech expozice.
+
+Po převedení dříve léčených pacientů, s více než 100 dny expozice a vznikem inhibitorů v předchozí anamnéze, z jednoho přípravku faktoru VIII na jiný byly zaznamenány případy rekurence inhibitorů (nízkého titru). Proto se po záměně jakéhokoliv přípravku doporučuje u těchto pacientů sledovat, zda se u nich inhibitory znovu neobjeví.
+
+Klinický význam vzniku inhibitorů bude záviset na titru inhibitoru, přičemž inhibitory nízkého titru, které jsou krátkodobě přítomny nebo zůstávají trvale na nízkém titru, představují menší riziko nedostatečné klinické odpovědi než inhibitory vysokého titru.
+Obecně platí, že všichni pacienti léčení přípravky s koagulačním faktorem VIII musí být pečlivě sledováni s ohledem na vznik inhibitorů pomocí příslušných klinických pozorování a laboratorních testů. Pokud není dosaženo očekávaných hladin aktivity faktoru VIII v plazmě nebo pokud není krvácení patřičnou dávkou zvládnuto, je třeba provést test na přítomnost inhibitoru faktoru VIII. U pacientů s vysokými hladinami inhibitoru nemusí být terapie faktorem VIII účinná a je třeba zvážit jiné možnosti léčby. Péče o takové pacienty má být vedena lékaři se zkušenostmi v péči o hemofilii a inhibitory faktoru VIII.
+
+Při použití tohoto přípravku při léčbě von Willebrandovy choroby existuje riziko výskytu trombóz, zejména u pacientů se známými faktory klinického rizika. Proto musí být pacienti pečlivě sledováni pro zjištění časných příznaků trombózy. Měla by být zahájena profylaxe proti žilní tromboembolii podle aktuálních doporučení.
+
+Při užívání přípravku s von Willebrandovým faktorem obsahujícího faktor VIII by si měl být ošetřující lékař vědom toho, že dlouhodobá léčba může způsobit nadměrné zvýšení FVIII:C. U pacientů, kteří jsou léčeni přípravky s von Willebrandovým faktorem obsahujícími faktor VIII, je třeba monitorovat hladinu FVIII:C, aby se zabránilo trvale nadměrným hladinám FVIII:C v plazmě, což by mohlo zvýšit riziko trombotických příhod.
+U pacientů s von Willebrandovou chorobou, zejména u pacientů s typem 3, se mohou vyvinout neutralizující protilátky (inhibitory) proti von Willebrandovu faktoru. Není-li dosaženo očekávané úrovně aktivity vWF:RCo v plazmě nebo nelze-li krvácení příslušnou dávkou zvládnout, měla by být provedena zkouška na stanovení toho, zda je inhibitor von Willebrandova faktoru přítomen. U
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+pacientů s vysokou hladinou inhibitoru nemusí být terapie von Willebrandovým faktorem účinná a měli by být zváženy jiné terapeutické možnosti.
+
+Měla by být zvážená vhodná vakcinace (hepatitidy A a B) u pacientů, kteří pravidelně/opakovaně užívají přípravky z lidské plasmy obsahující faktor VIII.
+Důrazně se doporučuje při každé aplikaci přípravku Fanhdi zaznamenat vždy název a číslo šarže přípravku, aby se zachoval záznam o použité šarži zpětně u každého pacienta.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Žádné interakce přípravků obsahujících komplex lidského FVIII/vWF s jinými léčivými přípravky nejsou známy.
+4.6  Těhotenství a kojení
+
+U komplexu FVIII/vWF nebyly provedeny reprodukční studie na zvířatech.
+
+Vzhledem ke vzácnému výskytu hemofilie A u žen nejsou zkušenosti s použitím komplexu
+FVIII/vWF v těhotenství a při kojení k dispozici.
+
+Proto by se komplex FVIII/vWF měl v těhotenství a při kojení používat pouze tehdy, je-li to nezbytně
+nutné.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Fanhdi nemá žádný nebo má zanedbatelný vliv na schopnost řídit motorová vozidla nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+U pacientů léčených přípravky obsahujících faktor VIII byly při podávání přípravku vzácně pozorovány příznaky přecitlivělosti organizmu nebo alergických reakcí (angioedémy, palčivá bolest v místě zavádění infúze, zimnice, zarudnutí, kopřivka, bolesti hlavy, vyrážka, hypotenze, letargie, nevolnost, neklid, tachykardie, napětí na prsou, mravenčení, zvracení, těžké dýchání a pod.), které se mohou v některých případech rozvinout do podoby těžké anafylaxe (včetně stavu šoku).
+
+Vzácně byl u pacientů pozorován vznik horečky.
+K rozvoji neutralizujících protilátek (inhibitorů) může dojít u pacientů s hemofilií A, kteří jsou léčeni faktorem VIII, včetně přípravku Fanhdi (viz bod 5.1). Pokud se takové inhibitory objeví, projeví se tento stav jako nedostatečná klinická odpověď. V těchto případech se doporučuje kontaktovat specializované hemofilické centrum.
+U pacientů s von Willebrandovou chorobou 3. typu mohou ve vzácných případech vzniknout neutralizující protilátky (inhibitory) na von Willebrandův faktor. Pokud se takové inhibitory vyskytnou může to manifestovat neadekvátní klinickou odpověď. Tyto protilátky se mohou objevit v souvislosti s anafylaktickými reakcemi. Proto by se u těchto pacientů prodělávajících anafylaktické reakce měla vyhodnocovat přítomnost inhibitorů. V těchto případech se doporučuje kontaktovat specializované centrum na léčbu hemofilie.
+
+U pacientů s von Willebrandovou chorobou užívajících tento přípravek existuje riziko výskytu trombóz, zejména u pacientů se známými klinickými rizikovými faktory.
+U pacientů léčených přípravky s von Willebrandovým faktorem obsahující faktor VIII můžou trvale nadměrné hladiny FVIII:C zvýšit riziko trombotických příhod.
+Informace ohledně bezpečnosti s ohledem na přenosových agens jsou uvedeny v bodě 4.4.
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+Tabulkový přehled nežádoucích účinků
+
+Následující tabulka používá klasifikaci podle MedDRA systému tříd orgánových systémů (SOC a
+Preferred Term Level).
+
+Četnost byla posouzena na základě následující konvence:
+
+- velmi časté (>1/10)
+- časté (>1/100 až <1/10)
+- méně časté (>1/1 000 až <1/100)
+- vzácné (>1/10 000 až <1/1 000)
+- velmi vzácné (<1/10 000)
+- není známo (z dostupných údajů nelze určit)
+
+V rámci každého seskupení četnosti jsou nežádoucí účinky prezentovány v pořadí klesající závažnosti.
+
+
+Standardní třída orgánových systémů dle MedDRA
+Poruchy krve a lymfatického systému
+Nežádoucí účinek
+
+Inhibice faktoru VIII
+Četnost
+Méně časté (PTP)* Velmi časté (PUP)*
+*Četnost vychází ze studií se všemi přípravky s faktorem VIII, které zahrnovaly pacienty se závažnou hemofilií
+A. PTP = dříve léčení pacienti, PUP = dříve neléčení pacienti“
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Žádné případy předávkování komplexem FVIII/vWF nebyly dosud pozorovány. Tromboembolie se
+může vyskytnout v případě velkého předávkování.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antihemoragikum: faktor koagulace krve: von Willebrandův faktor a
+faktor koagulace krve VIII v kombinaci. kód ATC: B02BD06.
+V přípravku Fanhdi je faktor VIII přítomný ve formě komplexu s von Willebrandovým faktorem.
+
+Uvedený komplex sestává ze dvou molekul (faktoru VIII a von Willebrandova faktoru), majících odlišné fyziologické funkce.
+Deficit faktoru VIII
+
+Po infúzi do organizmu hemofilického pacienta se takto podaný faktor VIII váže na von Willebrandův faktor, který se nachází v jeho oběhovém systému.
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+Aktivovaný faktor VIII působí jako kofaktor aktivovaného faktoru IX a urychluje konverzi faktoru X na aktivovanou formu faktoru X. Aktivovaný faktor X poté podmiňuje transformaci protrombinu na trombin, který převádí fibrinogen na fibrin za vzniku koagula.
+
+Hemofilie A je na pohlaví vázanou poruchou krevní srážlivosti v důsledku snížené hladiny faktoru VIII, kdy dochází k profúznímu krvácení do kloubů, svalů nebo vnitřních orgánů buď samovolně nebo v důsledku náhodně či chirurgicky vzniklých poranění. Substituční terapií je hladina faktoru VIII v plazmě zvyšována, čímž se dosahuje dočasné nápravy nedostatku koagulačního faktoru a korekce uvedených sklonů ke krvácivosti.
+Von Willebrandova choroba
+
+Přípravek Fanhdi se chová stejně jako endogenní von Willebrandův faktor.
+
+Podávání von Willebrandova faktoru umožňuje korekci hemostatických abnormalit u pacientů trpících
+deficitem von Willebrandova faktoru (von Willebrandovou chorobou) na dvou úrovních:
+
+-   Von Willebrandův faktor obnovuje adhezi krevních destiček k vaskulárnímu sub-endotelu v místě poškození cévy (protože se váže jak k subendotelu cévy, tak k membráně krevní destičky), což zajišťuje primární hemostázu, jak je patrno ze zkrácení doby krvácení. K tomuto efektu dochází okamžitě a je známo, že do značné míry závisí na úrovni polymerizace proteinu;
+
+-   Von Willebrandův faktor vyvolává pozdní korekci souvisejícího deficitu faktoru VIII. Von Willebrandův faktor se podává intravenózně a váže se na endogenní faktor VIII (který je normálně produkován pacientem), stabilizací tohoto faktoru zabraňuje jeho rychlé degradaci.
+
+Podávání přípravku s vWF obsahujícího FVIII:C obnovuje hladinu FVIII:C na normální úroveň ihned po první infúzi.
+Není k dispozici dostatek výsledků klinických studií, na základě kterých by bylo možné užívání přípravku Fanhdi doporučit u dětí ve věku do 6 let.
+
+Byla shromážděna data ohledně vyvolání imunitní tolerance (Immune Tolerance Induction (ITI)) u pediatrických a dospělých pacientů s hemofilií A, u kterých se vyvinuly protilátky (inhibitory) vůči FVIII. 57 pacientů z retrospektivní studie a 14 pacientů z prospektivních studií zahrnovaly široké spektrum pacientů s primární a potlačenou ITI s rozdílnou prognózou k dosažení imunitní tolerance. Data ukazují, že Fanhdi navodilo imunitní toleranci. U pacientů, u kterých bylo dosaženo tolerance, mohlo být koncentrátem FVIII předcházeno nebo kontrolováno krvácení nebo dokonce dosaženo profylaktické nebo “on demand” léčby.
+5.2  Farmakokinetické vlastnosti
+
+Aktivita plazmatického faktoru VIII v organizmu s časem exponenciálně klesá ve dvou fázích.
+
+Klinicky bylo zjištěno, že biologický poločas lidského faktoru VIII získaného z přípravku Fanhdi je 14,18 ± 2,55 hodiny a „in vivo“ recovery je 105,5 ± 18,5%, což je přibližně ekvivalentní
+2,1 ± 0,4 IU/dl na každou podanou IU/kg tělesné hmotnosti (stanovení byla prováděna standardní chromogenní metodou). Další sledované hodnoty: MRT 20,6 ± 4,8 h, AUC 19,3 ± 3,7 IU/h/ml a
+„clearence“ 2,6 ± 0,5 ml/h/kg tělesné hmotnosti.
+Biologický poločas lidského faktoru VIII a von Willebrandova faktoru získaný při klinické studii provedené s přípravkem Fanhdi u pacientů s von Willebrandovou chorobou je 14,4 ± 10,5 hodiny u von Willebrandova faktoru a 33,4 ± 16,4 hodiny u faktoru VIII, s “in vivo” recovery 1,9 ± 0,6 IU/dl při podání 1IU/kg tělesné hmotnosti pro von Willebrandův faktor a 2,6 ± 0,6 IU/dl při podání 1 IU/kg tělesné hmotnosti pro FVIII. Stanovení von Willebrandova faktoru bylo provedeno jako měření ristocetinového kofaktoru a určení faktoru VIII jako měření faktoru VIII:C chromogenní metodou.
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+Další sledované hodnoty pro následující parametry: AUC pro vWF:RCo 15,29 ± 10,03; AUC pro FVIII:C 49,41 ± 37,74 IU h/ml; clearance pro vWF:RCo 5,6 ± 3,3 a pro FVIII:C 1,4 ± 1,1 ml/h/kg tělesné hmotnosti.
+K nejvyšším hladinám von Willebrandova faktoru v plazmě obvykle dochází do 30 minut po podání
+injekce.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Lidský koagulační faktor VIII a von Willebrandův faktor (aktivní složky přípravku Fanhdi), jsou normální složkou lidské plazmy a působí jako endogenní proteiny. Testování toxicity přípravku na zvířatech aplikací jednorázové dávky nemá význam, neboť podání vyšších dávek má za následek přetížení organizmu laboratorních zvířat .
+Testování toxicity na zvířatech opakovanými dávkami je neproveditelné vzhledem k interferenci
+protilátek k heterolognímu proteinu, které jsou v tělech pokusných zvířat vytvářeny.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+- Histidin
+- Lidský albumin
+- Arginin
+- Voda na injekci (rozpouštědlo)
+
+6.2  Inkompatibility
+Fanhdi nesmí být mísen s jinými léčivými přípravky.
+
+Pro aplikaci je nutno výhradně užívat dodávanou injekční soupravu, neboť jinak může být léčba neúčinná v důsledku adsorpce komplexu FVIII/vWF na vnitřních stěnách použité injekční soupravy.
+
+6.3  Doba použitelnosti
+
+3 roky
+
+Chemická a fyzikální stabilita po naředění byla prokázána na dobu 12 hodin při teplotě 25°C. Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání po naředění před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při teplotě 2 až 8 ºC, pokud k rekonstituci nedošlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 30°C. Chraňte před mrazem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho naředění jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a velikost balení
+
+Přípravek Fanhdi je dodáván ve skleněné injekční lahvičce (sklo třídy I/II) obsahující 250 IU, 500 IU, 1000 IU nebo 1500 IU koagulačního faktoru VIII a 300 IU, 600 IU, 1200 IU nebo 1800 IU lidského vWF, společně s předplněnou injekční stříkačkou (sklo třídy I), která obsahuje 10 ml vody na injekci (rozpouštědlo) pro 250, 500 a 1000 IU lyofilizovaného přípravku nebo 15 ml vody na injekci pro 1500 IU lyofilizovaného přípravku.
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+Injekční lahvička je uzavřena zátkou z chlorobutylové pryže, hliníkovým víčkem a pružným lemem garantujícím neporušenost obalu.
+Předplněná stříkačka je uzavřena bromobutylovým pístem a uzávěrem ze syntetického polyisoprenu a
+bromobutylu.
+
+Pro přípravu a aplikaci přípravku je dodáváno v balení následující příslušenství adaptér lahvičky, filtr,
+2 tampóny s alkoholem a aplikační set.
+
+Velikost balení: 1 injekční lahvička s práškem, 1 předplněná injekční stříkačka s rozpouštědlem a příslušenství.
+Fanhdi  25 IU/ml 1 x 250 IU + 10 ml rozpouštědla
+Fanhdi  50 IU/ml 1 x 500 IU + 10 ml rozpouštědla
+Fanhdi 100 IU /ml 1 x 1000 IU + 10 ml rozpouštědla
+1 x 1500 IU +15 ml rozpouštědla
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Nepoužívejte po uplynutí doby použitelnosti, která je vyznačena na obalu.
+Jakékoliv případné zbytky nesmějí být ukládány pro pozdější použití, ani uchovávány v lednici. Příprava roztoku:
+1.  Injekční lahvičku s práškem a injekční stříkačku zahřejte maximálně na 30 °C.
+2.  Na injekční stříkačku s rozpouštědlem nasaďte píst.
+3.  Z krabičky vyjměte filtr. Z injekční stříkačky sejměte kryt a nasaďte na něj filtr.
+4.  Z krabičky vyjměte adaptér lahvičky a nasaďte ho na filtr se stříkačkou.
+5.  Z injekční lahvičky s práškem sejměte víčko a zátku injekční lahvičky otřete přiloženým antiseptickým tampónem.
+6.  Zátku injekční lahvičky propíchněte jehlou adaptéru.
+7.  Roztok z injekční stříkačky přeneste kompletně do injekční lahvičky s práškem.
+8.   Injekční lahvičkou jemně míchejte, až se prášek dokonale rozpustí. Stejně jako u ostatních parenterálně aplikovaných roztoků nepoužijte přípravek, který není dokonale rozpuštěný, nebo jsou v něm patrné částice.
+9.  Pro odstranění vakua na okamžik oddělte stříkačku/filtr od nádobky/adaptéru.
+10.  Obraťte injekční lahvičku a roztok natáhněte do injekční stříkačky.
+11.  Připravte místo vpichu. Injekční stříkačku oddělte, aplikujte přípravek za použití dodané jehly
+s křidélky. Rychlost intravenózní aplikace musí být okolo 3 ml/min. a nesmí překročit
+10 ml/min., aby nedošlo k nežádoucím vasomotorickým reakcím.
+
+Aplikační set je určen výhradně na jedno použití.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+Před použitím je nutno aplikační roztok vizuálně zkontrolovat, zda neobsahuje nerozpuštěné pevné částice nebo zda u něj nedošlo ke změnám zabarvení. Připravený aplikační roztok musí být zcela čirý nebo mírně opalescentní. Nepoužívat roztoky, které jsou zakalené nebo obsahují sediment.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Instituto Grifols, S.A.
+Can Guasc, 2 - Parets del Vallès
+08150 Barcelona - Španělsko
+
+
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+8.  REGISTRAČNÍ ČÍSLA
+Fanhdi 25 IU/ml                         16/053/97-C
+Fanhdi 50 IU/ml                         16/054/97-C
+Fanhdi 100 IU/ml (1000 IU/10 ml, 1500 IU/15 ml)       16/055/97-C
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+29.01.1997 / 25.06.2014
+
+10. DATUM REVIZE TEXTU
+
+16. 3. 2020
+
+Podrobné informace o tomto léku jsou dostupné na internetových stránkách Státního ústavu pro kontrolu léčiv (SUKL) http://www.sukl.cz/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fanhdi\2019 11 CZ-Change of name\SPC_annot_CZ.doc

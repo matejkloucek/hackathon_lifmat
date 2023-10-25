@@ -1,0 +1,303 @@
+sp.zn. sukls232261/2015
+
+
+Souhrn údajů o přípravku
+
+1. NÁZEV PŘÍPRAVKU
+
+Indium (¹¹¹In) DTPA 37 MBq/ml injekční roztok
+Katalogové číslo Curium Netherlands BV: DRN 4916
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+K datu a hodině kalibrace / 1 ml:
+Indii (¹¹¹In) pentetas      37 MBq
+Acidum penteticum      0,1 mg
+
+Fyzikální charakteristiky izotopu india ¹¹¹In:
+Fyzikální poločas: 2,8 dne
+Nejdůležitější emitované záření:
+Energie             Relat.zastoupení
+171 keV             90,9 %
+245 keV             94 %
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Injekční roztok.
+Osmolalita: 280 - 320 mOsmol/kg
+pH: 7,0 - 7,6
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+
+Cisternografie:
+- Detekce obstrukcí toku cerebrospinální tekutiny
+- Diferenciální diagnostika normotenzivního hydrocefalu od jiných forem
+- Detekce úniku cerebrospinální tekutiny (rhinorea,otorea).
+
+4.2 Dávkování a způsob podání
+Dávkování
+Dospělí a starší populace
+9 - 20 MBq (250 - 500 µCi)
+
+Pediatrická populace
+0,4 - 0,6 MBq/kg tělesné hmotnosti (10 - 15 µCi/kg)
+1
+
+Způsob podání
+Pentetan (¹¹¹In) inditý se aplikuje intratekální injekcí (lumbální nebo subokcipitální).
+
+První zobrazení oblasti lebky se provádí za 1 - 1,5 hodiny po aplikaci. Následná zobrazení se provádějí po 3, 6 a 24 hodinách, eventuálně po 48 a 72 hodinách v závislosti na typu vyšetření a požadovaném diagnostickém přínosu.
+
+Pro vyloučení možnosti extraarachnoidální aktivity, která může být příčinou falešně negativních výsledků vyšetření, má být proveden kontrolní scan oblasti okolo lumbální punkce za 10 - 15 minut po aplikaci.
+V případě aplikace injekcí subokcipitální má být scintigrafické zobrazení provedeno již asi za 15 minut po aplikaci. Zobrazení má být vůči výše uvedeným intervalům urychleno o 1 nebo více hodin. V případě diagnostiky rhinorei a otorei může být unikající aktivita natolik nízká, že scintigrafické zobrazení nebude možné.
+
+Detekce úniku cerebrospinální tekutiny nosem nebo uchem se provádí pomocí tampónů umístěných do zvukovodu nebo nosní dutiny a následným určením aktivity tampónů.
+
+4.3 Kontraindikace
+•  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+•  Náchylnost ke krvácivým projevům.
+•  Zvýšený nitrolební tlak.
+4.4 Zvláštní upozornění a opatření pro použití
+
+Možnost vzniku hypersenzitivní nebo anafylaktické reakce.
+Jestliže se objeví hypersenzitivní nebo anafylaktické reakce, musí se podání léčivého přípravku okamžitě přerušit, a je-li to zapotřebí, musí se začít s intravenózní léčbou. Aby bylo možno v naléhavém případě okamžitě zasáhnout, je třeba mít k dispozici potřebné léčivé přípravky a vybavení, například endotracheální trubici a ventilátor.
+Individuální zhodnocení poměru přínosu a rizika
+Vystavení  každého  pacienta  ionizujícímu  záření  musí  být  opodstatněné  na  základě  jeho pravděpodobného přínosu. Aplikovaná aktivita musí být taková, aby výsledná dávka záření byla co nejnižší a přitom bylo dosaženo požadovaného diagnostického výsledku.
+
+Pediatrická populace
+Pro informaci o použití u dětí a dospívajících viz bod 4.2. Indikaci je třeba důkladně zvážit, protože účinná dávka na MBq je vyšší než u dospělých (viz bod 11.).
+
+Příprava pacienta
+Pacient má být před zahájením vyšetření dobře hydratován a během prvních hodin po vyšetření má být vyzván k častému močení za účelem snížení radiace.
+
+Interpretace zobrazení
+Při klinických studiích byla u vysokého procenta pacientů zjištěna extra-arachnoidální aktivita vlivem chybné lumbální punkce nebo drenáží likvoru. V takovém případě existuje riziko falešně negativního výsledku vyšetření. Proto je doporučeno provedení kontrolního scanu v oblasti místa aplikace přípravku.
+Zvláštní upozornění
+
+2
+
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jednom mililitru, tj. v podstatě je
+„bez sodíku“.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Nebyly provedeny žádné studie interakcí.
+
+4.6 Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku/kontracepce u mužů a žen
+Pokud je nezbytné aplikovat radioaktivní látku ženám ve fertilním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou, pokud se neprokáže opak. Pokud trvá ohledně možného těhotenství nejistota (pokud ženě vynechala menstruace, nebo je velmi nepravidelná), je třeba pacientce nabídnout alternativní metody bez použití ionizujícího záření.
+
+Těhotenství
+Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se během těhotenství provádějí pouze nezbytná vyšetření, kde předpokládaný přínos vyšetření významně převáží možná rizika pro matku a plod.
+
+Kojení
+Před aplikací radiofarmak kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Je-li aplikace nezbytná, je nutné po dobu 2 dnů kojení přerušit a mléko, které se v prsu vytvoří, je nutno odsát a znehodnotit. Kojení je možné obnovit za předpokladu, že úroveň v mléku nezpůsobí radiační zátěž dítěte větší než 1 mSv.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Indium(¹¹¹In) DTPA nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Po provedení lumbální nebo okcipitální punkce se mohou objevit nežádoucí účinky mírného průběhu. Nežádoucí reakce zahrnují bolesti hlavy, symptomy meningeální iritace, které se zpravidla upraví během 48 hodin.
+
+Byly popsány případy aseptické meningitidy a horečky.
+
+Nastane-li po okcipitální aplikaci nahromadění radiofarmaka v blízkosti výstupu hlavových nervů z mozkového kmene, je možná aktivace n.oculomotoris, n.facialis a n.vestibulocochlearis, což se projeví přechodnými efekty např. poklesem očního víčka, hučením v uších nebo poklesem ústního koutku.
+
+Vystavení účinkům ionizujícího záření je spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných poškození. Pro vyšetřovací metody nukleární medicíny je frekvence těchto nežádoucích účinků nízká vzhledem k nízké radiační zátěži pacientů. Vzhledem k tomu, že při podání maximální doporučené aktivity 20 MBq je účinná dávka 2,8 mSv, je výskyt těchto nežádoucích příhod málo pravděpodobný.
+Nicméně v daných klinických souvislostech mohou být i vyšší dávky odůvodněné.
+
+
+Hlášení podezření na nežádoucí účinky
+
+3
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9 Předávkování
+
+Předávkování  s  následnými  farmakodynamickými  účinky  není  pravděpodobné  vzhledem k minimálnímu množství chemických sloučenin v přípravku Indium (¹¹¹In) DTPA. Riziko při předávkování spočívá v aplikaci nadměrného množství radioaktivity. Snížit absorbovanou dávku je možné zvýšením eliminace radionuklidu z organismu podporou diurézy s častým močením.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: diagnostická radiofarmaka; centrální nervový systém, jiná diagnostická
+radiofarmaka
+ATC kód: V09AX01.
+
+Farmakologické studie pentetanu nebyly prováděny.
+Farmakodynamické účinky nejsou očekávány vzhledem k přídavku vápenatých a hořečnatých iontů, které vytvoří komplexní sloučeninu s částí pentetanu nenavázanou v komplexu s izotopem india- (¹¹¹In).
+
+5.2 Farmakokinetické vlastnosti
+
+Distribuce/vychytávání orgány
+Pentetan indito-(¹¹¹In)-vápenatý se po lumbální aplikaci do subarachnoidálního prostoru pohybuje vzhůru k cervikálnímu subarachnoidálnímu prostoru a akumuluje se ve fossa posterior obyčejně za 1 - 1,5 hodiny. Za 3 hodiny po aplikaci je aktivita patrná v ductus Sylvii a interhemisférických štěrbinách.
+Za 6 hodin aktivita dosahuje konvexity hemisfér. Zde přechází aktivita z cerebrospinální tekutiny do
+krve.
+
+Eliminace
+Následně je pentetan indito-(¹¹¹In)-vápenatý rychle vylučován ledvinami glomerulární filtrací. Za 24 hodin po aplikaci je nejvíce aktivity patrno na místech resorpce podél sinus sagitalis superior. V případě poruchy toku cerebrospinální tekutiny je tento charakteristický průběh aktivity porušen, což představuje přínosnou informaci pro diagnostiku.
+5.3 Preklinické údaje vztahující se k bezpečnosti
+
+Studie akutní toxicity pentetanu indito-(¹¹¹In)-vápenatého nebyly prováděny. Intratekální aplikace pentetanu ytterbia psům (v množství do 300 mg) nezpůsobily toxické účinky. Studie toxicity po opakovaném podání nebyly prováděny.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+4
+
+6.1 Seznam pomocných látek
+
+Chlorid sodný
+Dodekahydrát hydrogenfosforečnanu sodného Dihydrát chloridu vápenatého
+Hydroxid sodný (k úpravě pH)
+Kyselina chlorovodíková (k úpravě pH) Voda pro injekci
+6.2 Inkompatibility
+
+Inkompatibility nejsou známy. V zájmu zabezpečení sterility a apyrogenity přípravku se však injekční roztok před aplikací nedoporučuje ředit.
+
+6.3 Doba použitelnosti
+
+24 hodin od data a hodiny kalibrace.
+
+Je-li obsah lahvičky použit k více aplikacím, každou dávku je nutné odebrat za aseptických podmínek a během jediného pracovního dne. Po odebrání první dávky se přípravek uchovává při teplotě 2 - 8°C.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25°C.
+Uchovávání po prvním otevření viz bod 6.3.
+
+Uchovávejte v souladu s národními předpisy pro radioaktivní materiály.
+
+6.5 Druh obalu a obsah balení
+Injekční lékovka 10 ml (Type I Ph.Eur.) uzavřená pryžovou zátkou a hliníkovou objímkou. Přípravek Indium (¹¹¹In) DTPA je dodáván v těchto referenčních aktivitách:
+18,5 MBq v 0,5 ml
+37 MBq (1 mCi) v 1 ml
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Radiofarmaka mohou přijímat, používat a podávat pouze oprávněné osoby v určeném zdravotnickém zařízení. Jejich příjem, skladování, používání, přeprava a likvidace se řídí platnými předpisy a oprávněními příslušných orgánů k manipulaci s touto látkou.
+Radiofarmaka se mají připravovat způsobem, který vyhovuje požadavkům radiační ochrany a požadavkům na kvalitu farmaceutických přípravků. Je nutno přijmout vhodná opatření pro aseptickou přípravu.
+
+Pokud je kdykoli při přípravě tohoto přípravku narušena celistvost lahvičky, nesmí být přípravek použit.
+Postupy podávání léčiva je nutno provádět tak, aby se minimalizovalo riziko kontaminace přípravku a ozáření personálu. Vždy je nutno použít dostatečné ochranné pomůcky proti radiaci.
+
+Při manipulaci s přípravkem je nutné vždy zajistit patřičné stínění emitujícího záření. Obsah lahvičky může být po snížení aktivity na povolenou úroveň odstraněn jako netoxický odpad chemického charakteru.
+5
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné předpisy pro ochranu zdraví před ionizujícím zářením.
+Pokyny pro likvidaci:
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE, Petten Nizozemsko
+
+8. REGISTRAČNÍ ČÍSLO
+
+88/761/93-C
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+18. 8. 1993 / 6. 4. 2011
+
+
+10. DATUM REVIZE TEXTU
+
+6. 8. 2020
+
+11. DOZIMETRIE
+
+Uvedeny  údaje  podle  ICRP  53  (Vol.18-No.1-4,  1987)  "Radiation  dose  to  patients  from radiopharmaceuticals". Tabulka obsahuje sedm orgánů, ze kterých vychází výpočet efektivního dávkového ekvivalentu a dalších pět orgánů s nejvyšší radiační zátěží (označeno hvězdičkou).
+
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq) pro dospělého pacienta:
+
+* Mícha                          0,95
+* Nadledviny                       0,16
+* Stěna močového měchýře                0,20
+* Mozek                          0,13
+* Ledviny                         0,13
+Vaječníky                         0,039
+Varlata                           0,011
+Prsní žlázy                         0,010
+Červená kostní dřeň                    0,24
+Plíce                            0,033
+Štítná žláza                        0,021
+Povrch kostí                        0,072
+
+Efektivní dávkový ekvivalent (mSv/MBq):        0,14
+
+6
+
+Efektivní dávkový ekvivalent po aplikaci 20 MBq india-(¹¹¹In) včetně maximálního povoleného množství india-(¹¹¹In) (je-li aplikace prováděna krátce před exspirací) je pro dospělého pacienta o hmotnosti 70 kg asi 2,8 mSv.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7

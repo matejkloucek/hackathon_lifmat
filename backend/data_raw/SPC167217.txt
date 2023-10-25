@@ -1,0 +1,447 @@
+Sp. zn. sukls24793/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1. NÁZEV PŘÍPRAVKU
+Cytarabine Accord 100 mg/ml injekční/infuzní roztok
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml roztoku obsahuje cytarabinum 100 mg.
+
+Jedna injekční lahvička s 1 ml roztoku obsahuje cytarabinum 100 mg. Jedna injekční lahvička s 5 ml roztoku obsahuje cytarabinum 500 mg. Jedna injekční lahvička s 10 ml roztoku obsahuje cytarabinum 1g.
+Jedna injekční lahvička s 20 ml roztoku obsahuje cytarabinum 2g. Jedna injekční lahvička s 40 ml roztoku obsahuje cytarabinum 4g. Jedna injekční lahvička s 50 ml roztoku obsahuje cytarabinum 5g.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Injekční/infuzní roztok.
+
+Přípravek je čirý, bezbarvý roztok, prakticky bez viditelných částic.
+pH: 7,0-9,5
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Indikováno k dosažení remise při akutní myeloidní leukemii u dospělých a při jiných formách akutní
+leukemie u dospělých a dětí.
+
+4.2 Dávkování a způsob podání
+
+Dávkování
+
+Léčba cytarabinem má být zahájena a konzultována s lékařem, který má značné zkušenosti s léčbou cytostatiky. Mohou být poskytnuty pouze obecné informace, jelikož akutní leukemie bývá léčena téměř výhradně kombinací cytostatik.
+Doporučené dávkování může být stanoveno podle tělesné hmotnosti (mg/kg) nebo podle plochy tělesného povrchu (BSA, body surface area) (mg/m²). Doporučené dávkování může být odvozeno pomocí nomogramu ze závislosti tělesné hmotnosti na tělesném povrchu.
+
+
+1/12
+
+1) Dosažení remise:
+Dávkování na počátku léčby a schéma podávání se liší v závislosti na zvoleném léčebném režimu.
+
+a) Kontinuální léčba:
+Následující dávkovací režimy se používají k dosažení remise v rámci kontinuální léčby.
+
+i)    Rychlá injekce – 2 mg/kg/den je vhodnou zahajovací dávkou. Podávejte po dobu 10 dnů. Denně provádějte vyšetření krevního obrazu. Pokud není pozorován antileukemický efekt a není pozorována zjevná toxicita, zvyšte dávku na 4 mg/kg/den a tuto dávku udržujte do té doby, než dojde k terapeutické odpovědi nebo k projevům toxicity. Toxicita se může projevit téměř u všech pacientů léčených těmito dávkami.
+
+ii)   0,5 – 1,0 mg/kg/den může být podáváno infuzí po dobu až 24 hodin. Výsledky podávání
+infuze po dobu 1 hodiny byly uspokojivé u většiny pacientů.
+Po 10 dnech může být počáteční denní dávka zvýšena na 2 mg/kg/den v závislosti na toxicitě. Pokračujte s podáváním do doby, než se projeví toxicita nebo do dosažení remise.
+
+b) Intermitentní léčba:
+Následující režimy dávkování se používají k dosažení remise v rámci přerušované léčby.
+
+i) 3-5 mg/kg/den se podává intravenózně denně po dobu pěti po sobě následujících dnů. Po dvou až devíti dnech přestávky se pokračuje dalším cyklem léčby. Pokračujte s podáváním do doby, než dojde k terapeutické odpovědi nebo do doby než dojde k projevům toxicity.
+
+Bylo hlášeno, že se první známky zlepšení kostní dřeně objevily za 7-64 dnů (průměrně za 28 dnů) po
+zahájení léčby.
+
+Obecně, pokud po léčbě u pacienta nedojde k projevům toxicity ani není dosaženo remise, je oprávněno opatrné podání vyšších dávek. Téměř pravidlem bylo, že pacienti tolerovali vyšší dávky podané rychlou intravenózní injekcí ve srovnání s vyššími dávkami podanými pomalou infuzí. Tento rozdíl je způsoben rychlým metabolismem cytarabinu a následným krátkým trváním účinku vysoké dávky.
+ii) Cytarabin 100-200 mg/m²/24 hodin byl podán formou kontinuální infuze po dobu 5-7 dní samostatně nebo v kombinaci s jinými cytostatiky zahrnující např. antracykliny. Další cykly podávání přípravku se mohou uskutečňovat v intervalech 2-4 týdnů a to do doby, než je dosaženo remise nebo než dojde k neakceptovatelným projevům toxicity.
+
+2) Udržovací terapie
+
+Udržovací dávkování a jeho schéma se liší v závislosti na zvoleném režimu léčby. Následující dávkovací režimy se používají ke kontinuální léčbě po dosažení remise.
+i) Remise, kterých bylo dosaženo podáváním cytarabinu nebo jiných léků, je možné udržovat podáváním intravenózní nebo subkutánní injekce 1 mg/kg jednou nebo dvakrát týdně.
+ii) Cytarabin byl rovněž podán v dávkách 100-200 mg/m² kontinuální infuzí po dobu 5 dnů
+s měsíčními intervaly v monoterapii nebo v kombinované terapii s jinými cytostatiky.
+
+Vysoké dávky:
+Cytarabin se pod přísným lékařským dozorem podává v monoterapii nebo v kombinované terapii s jinými cytostatiky intravenózní infuzí v dávce 2-3 g/m²  po dobu 1-3 hodin ve 12 hodinovém intervalu a to po dobu 2-6 dnů (celkový počet dávek v cyklu je 12). Celková dávka použitá k léčbě nesmí překročit 36 g/m². Frekvence léčebných cyklů závisí na terapeutické odpovědi a na
+
+
+2/12
+
+hematologické a nehematologické toxicitě. Informace o požadavcích na ukončení léčby viz bod 4.4,
+Zvláštní upozornění a opatření pro použití.
+
+Pediatričtí pacienti:
+Bezpečnost podávání dětem nebyla stanovena.
+
+Pacienti s poruchou jaterní a renální funkce:
+Pacienti s poruchou jaterní nebo renální funkce: Dávkování musí být snížené.
+
+Cytarabin je dialyzovatelný. Z toho důvodu nesmí být cytarabin podán krátce před dialýzou nebo okamžitě po jejím ukončení.
+Starší pacienti:
+Léčba pacientů > 60 let vysokými dávkami se může uskutečnit pouze po pečlivém uvážení rizika proti
+možnému přínosu léčby.
+
+Způsob podání:
+
+Instrukce pro naředění léčivého přípravku před podáním viz bod 6.6.
+Cytarabine Accord je určen k podávání intravenózní infuzí nebo injekcí, nebo subkutánní injekcí. Subkutánní injekce je obvykle dobře snášena a může být doporučena pro udržovací léčbu.
+Cytarabine Accord 100 mg/ml se nesmí podávat itratekálně.
+
+
+4.3 Kontraindikace
+
+-  Hypersenzitivita na cytarabin nebo na kteroukoli pomocnou látku tohoto přípravku.
+-  Anémie, leukopenie a trombocytopenie nemaligního původu (např. aplazie kostní dřeně); pokud lékař nepředpokládá, že by takováto léčba nabídla pacientovi nejnadějnější alternativu.
+
+-  Degenerativní a toxické encefalopatie obzvláště po použití methotrexátu nebo po radiační terapii.
+
+4.4 Zvláštní upozornění a opatření pro použití Pediatričtí pacienti:
+Bezpečnost podávání dětem nebyla stanovena.
+
+Upozornění:
+Cytarabin způsobuje výrazný útlum kostní dřeně. Léčba musí být zahájena opatrně u pacientů s již dříve existujícím léky vyvolaným útlumem kostní dřeně. Pacienti, kterým je toto léčivo podáváno, musí být pod pečlivým lékařským dohledem a během indukční léčby se u nich má denně provádět vyšetření počtu leukocytů a krevních destiček. Po vymizení blastů z periferní krve se provádí časté kontrolní vyšetření kostní dřeně.
+Je třeba zajistit okamžitou dostupnost lékařských zařízení/přístrojů pro případ, že se vyskytnou komplikace v souvislosti s útlumem kostní dřeně, které mohou být fatální (infekce v důsledku granulocytopenie a jiné poruchy obranných mechanismů organizmu a sekundární hemoragie v důsledku trombocytopenie).
+Při léčbě cytarabinem došlo k výskytu anafylaktických reakcí. Byl hlášen výskyt jednoho případu anafylaxe, která vedla k zástavě srdečních a plicních funkcí a vyžadovala resuscitaci pacienta. K této reakci došlo ihned po intravenózním podání cytarabinu.
+
+Po podání cytarabinu v rámci experimentálních dávkovacích režimů byla hlášena závažná a v některých případech fatální toxicita CNS, GI a plic (odlišná od toxicity pozorované při konvenčních režimech léčby s cytarabinem). To zahrnovalo reverzibilní toxicitu rohovky, cerebrální a cerebelární
+
+3/12
+
+dysfunkci, obvykle reverzibilní, somnolenci, konvulze, závažnou gastrointestinální ulceraci včetně
+pneumatosis cystoides intestinalis, vedoucí ke vzniku peritonitidy, sepsi, jaterní absces a plicní edém.
+
+Cytarabin byl u zvířat karcinogenní. Při navrhování dlouhodobé léčby pacienta je třeba mít na paměti, že se může vyskytnout tomuto podobný účinek i u lidí.
+Opatření:
+Pacienti, kterým je podáván cytarabin musejí být pozorně monitorováni. Je nutné časté sledování počtu krevních destiček a leukocytů. Při farmakologicky navozeném útlumu kostní dřeně s počtem trombocytů pod 50000 nebo počtem polymorfonukleárních granulocytů pod 1000/mm³ je třeba zvážit přerušení nebo změnu terapie. Počty formovaných elementů periferní krve mohou i po přerušení léčby dále klesat a dosahovat nejnižších hodnot po dobu pěti až sedmi dnů po vysazení léku. Je-li to nutné, lze terapii obnovit, pokud se objeví jednoznačné známky dosažení úpravy funkce kostní dřeně (doloženo opakovaným vyšetřením kostní dřeně). Pacienti, u nichž musel být lék vysazen do dosažení "normálních" hodnot periferního krevního obrazu, mohou uniknout kontrole.
+
+Po konsolidaci vysokými dávkami  cytarabinu, daunorubicinu a asparaginázy došlo u dospělých pacientů s akutní nelymfocytární leukemií ke vzniku periferní motorické a senzorické neuropatie. Pacienti léčení vysokými dávkami cytarabinu mají být sledováni z důvodu možného výskytu neuropatie, jelikož  může  být  nutné  změnit  léčebný režim,  aby  se  předešlo  ireverzibilním neurologickým poruchám.
+Po léčbě vysokými dávkami cytarabinu došlo k závažné a v některých případech k fatální pulmonální toxicitě, k syndromu respirační tísně dospělých (adult respiratory distress syndrome) a k plicnímu edému.
+
+Pokud jsou intravenózní dávky podávány rychle, pacienti často trpí nauzeou a mohou i zvracet po dobu několika hodin po podání dávky. V případě, že je léčivo podáno infuzí, jsou tyto projevy obvykle mírnější.
+
+Abdominální bolest (peritonitida) a kolitida, u které je výsledek guajakového testu pozitivní, spolu s neutropenií a trombocytopenií byly hlášeny u pacientů léčených běžnými dávkami cytarabinu v kombinaci s jinými léky. Pacienti klinicky odpovídali na neoperativní léčbu.
+Opožděná progresivní vzestupná paralýza vedoucí k úmrtí byla hlášena u dětí s akutní myeloidní leukemií (AML) po intratekálním a intravenózním podání cytarabinu v běžných dávkách v kombinaci s jinými léky.
+
+Pacienti s pre-existující poruchou funkce jater
+Jak jaterní, tak i funkce ledvin musí být během léčby cytarabinem sledovány. U pacientů s již existujícím poškozením jater smí být cytarabin podán pouze se zvláštní opatrností.
+
+U pacientů léčených cytarabinem mají být pravidelně prováděny kontroly kostní dřeně, funkce jater a ledvin.
+Stejně jako jiná cytotoxická léčiva může i cytarabin způsobit hyperurikemii jako důsledek rychlé lýzy neoplastických buněk. Lékař má sledovat u pacienta hladinu kyseliny močové v krvi a připravit se na taková podpůrná a farmakologická opatření, která mohou být nezbytná pro řešení tohoto problému.
+Vakcíny/ imunosupresivní účinky/zvýšená náchylnost k infekcím
+Podání živých nebo živých atenuovaných vakcín pacientům se sníženou funkcí imunitního systému z důvodu podávání cytostatik, zahrnujících cytarabin, může vést k závažným nebo fatálním infekcím. Pacienti léčení cytarabinem se mají vyvarovat očkování živou vakcínou. Usmrcené nebo inaktivované vakcíny mohou být podány; klinická odpověď pacienta na tyto vakcíny může být však snížená.
+
+Vysoké dávky
+
+
+4/12
+
+Riziko nežádoucích účinků postihujících CNS je vyšší u pacientů, kteří již dříve podstoupili léčbu CNS, jako je intratekální chemoterapie nebo radiační terapie.
+Je nezbytné se vyhnout současné transfuzi granulocytů, jelikož byla hlášena respirační nedostatečnost. Po léčbě experimentálními vysokými dávkami cytarabinu v kombinaci s cyklofosfamidem jako
+přípravě na transplantaci kostní dřeně, byly hlášeny případy kardiomyopatie s následným úmrtím.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce 5- fluorcytosin
+5- fluorcytosin nemá být podáván současně s cytarabinem, jelikož se ukázalo, že během takovéto léčby docházelo k rušení terapeutického účinku 5- fluorcytosinu.
+Digoxin
+Reverzibilní pokles plazmatické hladiny digoxinu v ustáleném stavu a renální exkrece glykosidu byly pozorovány u pacientů, kterým byl podáván beta-acetyldigoxin, a kteří podstupovali chemoterapii s cyklofosfamidem,  vinkristinem  a  prednisonem  s nebo  bez  cytarabinu  nebo  prokarbazinu. Plazmatické koncentrace digitoxinu v ustáleném stavu se nezměnily. Z toho důvodu sledování plazmatických hladin digoxinu může být indikováno u pacientů, kteří podstupují podobnou kombinovanou léčbu. Využití digitoxinu u takových pacientů může být považováno za alternativní.
+Gentamycin
+In vitro studie interakcí mezi gentamicinem a cytarabinem ukázaly, že cytarabin potlačuje citlivost kmenů Klebsiella pneumoniae na gentamicin. U pacientů léčených cytarabinem, kteří jsou rovněž léčeni gentamicinem kvůli infekci způsobené K. pneumoniae, může nedostatečně rychlá terapeutická odpověď naznačovat nutnost opětovného zhodnocení antibakteriální terapie.
+Použití cytarabinu samostatně nebo v kombinaci s jinými imunosupresivními přípravky
+Z důvodu imunosupresivního působení cytarabinu může virová, bakteriální, plísňová, parazitární nebo saprofytická infekce lokalizovaná kdekoli na těle souviset s předchozím podáním imunosupresivních dávek cytarabinu v monoterapii nebo v kombinaci s jinými imunosupresivními látkami, vzhledem k tomu, že tyto dávky ovlivňují buněčnou nebo humorální imunitu. Tyto infekce mohou být mírné, ale mohou být také závažné a v některých případech fatální.
+
+4.6 Fertilita, těhotenství a kojení Těhotenství
+U některých druhů zvířat je známo teratogenní působení cytarabinu. Těhotné ženy nebo ženy, které mohou otěhotnět, mohou podstoupit léčbu teprve po pečlivém zvážení potenciálního přínosu oproti možným rizikům.
+Ženy musejí v průběhu léčby a až 6 měsíců po jejím ukončení používat účinnou formu antikoncepce.
+
+Kojení
+Tento léčivý přípravek se za normálních okolností nemá podávat těhotným pacientkám nebo kojícím matkám.
+
+Fertilita
+Studie fertility pro zhodnocení reprodukční toxicity nebyly provedeny. Suprese pohlavních orgánů vedoucí ke vzniku amenorhey nebo azoospermie, se může vyskytnout u pacientů léčených cytarabinem obzvláště v kombinaci s alkylačními činidly. Obecně se ukázalo, že tyto účinky závisejí na dávce a době trvání léčby a mohou být ireverzibilní (viz bod 4.8). Vzhledem k tomu, že cytarabin má mutagenní potenciál, což může vést k poškození chromozomů spermií u mužů, je nezbytné pacienty, kteří mají podstoupit léčbu cytarabinem a jejich partnery informovat, aby používali účinnou formu antikoncepce během léčby a 6 měsíců po jejím ukončení.
+
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+5/12
+
+Cytarabin nemá vliv na schopnost řídit dopravní prostředky a obsluhovat stroje. Nicméně pacienti podstupující chemoterapii mají být varováni, že jejich schopnost řídit dopravní prostředky a obsluhovat stroje může být narušena, a že pokud k tomuto dojde, se mají těchto činností vyvarovat.
+
+4.8 Nežádoucí účinky
+Následující nežádoucí účinky byly hlášeny v souvislosti s léčbou cytarabinem:
+Frekvence nežádoucích účinků je definována následovně:
+Velmi časté (≥1/10) Časté (≥1/100 až <1/10)
+Méně časté (≥1/1000 až <1/100) Vzácné (≥1/10000 až <1/ 1000) Velmi vzácné (<1/10000)
+Není známo (z dostupných údajů nelze určit)
+Nežádoucí účinky cytarabinu jsou závislé na dávce. Nejčastěji se vyskytují gastrointestinální nežádoucí účinky. Cytarabin působí toxicky na kostní dřeň a způsobuje hematologické nežádoucí účinky.
+Infekce a infestace
+Méně časté: sepse (imunosuprese), celulitida v místě aplikace Není známo: pneumonie, jaterní absces
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy)
+Méně časté: lentigo
+Poruchy krve a lymfatického systému
+Časté: anemie, megaloblastóza, leukopenie, trombocytopenie Není známo: snížení retikulocytů
+Závažnost těchto reakcí je závislá na dávkování a harmonogramu. Lze očekávat buněčné změny v morfologii kostní dřeně a periferních nátěrech.
+
+Poruchy imunitního systému:
+Méně časté: anafylaxe
+Není známo: Alergický edém
+
+Poruchy metabolizmu a výživy
+Časté: anorexie, hyperurikemie
+
+Poruchy nervového systému
+Časté: při vysokých dávkách vliv na cerebelární nebo cerebrální funkce, dochází k poruše vědomí,
+dysartrii, nystagmu
+Méně časté: bolest hlavy, periferní neuropatie Není známo: nervová toxicita, neuritida, závrať
+Poruchy oka
+Časté: reverzibilní hemoragická konjunktivitida (fotofobie, pálení, poruchy vidění, zvýšené slzení),
+keratitida
+Není známo: konjunktivitida (může se objevit spolu s vyrážkou)
+
+Srdeční poruchy
+Méně časté: perikarditida
+Velmi vzácné: arytmie
+Není známo: sinusová bradykardie
+Respirační, hrudní a mediastinální poruchy
+
+6/12
+
+Méně časté: pneumonie, dyspnoe, bolest v krku
+
+Gastrointestinální poruchy
+Časté: dysfagie, bolest břicha, nauzea, zvracení, průjem, orální / anální inflamace nebo ulcerace
+Méně časté: esofagitida, esofageální ulcerace, pneumatosis cystoides intestinalis, nekrotizující kolitida,
+peritonitida
+Není známo: pankreatida
+Poruchy jater a žlučových cest
+Časté: reverzibilní účinky na játra se zvýšenými hladinami enzymů Méně časté: žloutenka
+Není známo: porucha funkce jater
+Poruchy kůže a podkožní tkáně
+Časté: reverzibilní nežádoucí účinky na pokožku jako je erytém, bulózní dermatitida, urtikarie,
+vaskulitida, alopecie
+Méně časté: ulcerace pokožky, pruritus
+Velmi vzácné: neutrofilní ekrinní hidradenitida
+Není známo: vytvoření pih, vyrážka, syndrom palmoplantární erytrodysestézie
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Méně časté: myalgie, artralgie
+Poruchy ledvin a močových cest
+Časté: porucha funkce ledvin, retence moči
+
+Celkové poruchy a reakce v místě aplikace Časté: horečka, tromboflebitida v místě aplikace Méně časté: bolest na hrudi
+
+Cytarabinový (Ara-C) syndrom (imunoalergický účinek):
+Horečka, myalgie, bolest kostí, občasná bolest na hrudi, exantém, konjunktivitida a nauzea se mohou dostavit 6-12 h po zahájení léčby. K profylaxi a léčbě lze uvážit možnost podání kortikosteroidů. Pokud kortikosteroidy účinkují, lze v léčbě cytarabinem pokračovat.
+Nežádoucí účinky vyvolané vysokými dávkami cytarabinu, které jsou odlišné od těch pozorovaných při běžně doporučených dávkách, jsou:
+Hematologická toxicita:
+Ve srovnání s podáváním běžných dávek byla pozorována déle trvající pancytopenie, která může přetrvávat 15-25 dní a může být doprovázená těžší formou aplazie kostní dřeně.
+Infekce a infestace: Sepse, jaterní absces
+Poruchy nervového systému:
+Po léčbě vysokými dávkami cytarabinu byl pozorován u 8-37 % léčených pacientů vliv na cerebrální nebo cerebelární funkce, jako jsou změny osobnosti, změna bdělosti, dysartrie, ataxie, tremor, nystagmus, bolest hlavy, zmatenost, somnolence, závratě, kóma, konvulze atd. Při léčbě vysokými dávkami byly také hlášeny periferní motorické a senzorické neuropatie. Incidence u starších osob (> 55 let) může být dokonce i vyšší. Další predisponující faktory jsou porucha funkce jater a ledvin, předchozí léčba CNS (např. radioterapie) a abusus alkoholu. Poruchy CNS jsou ve většině případů reverzibilní.
+
+Riziko toxicity CNS se zvyšuje, pokud je léčba cytarabinem - podávána ve vysokých dávkách i.v.- kombinována s jinou léčbou toxickou pro CNS, jako je radioterapie nebo podávání jiných léků ve vysokých dávkách.
+
+
+7/12
+
+Toxicita projevující se na rohovce a spojivkách:
+Byly popisovány reverzibilní léze na rohovce a hemoragická konjunktivitida. Tomu lze předcházet nebo toto minimalizovat očními kapkami s obsahem kortikosteroidů.
+
+Poruchy kůže a podkožní tkáně: Kožní vyrážka vedoucí k olupování kůže, alopecie.
+Virové, bakteriální, mykotické, parazitární nebo saprofytické infekce, na libovolném místě v těle, mohou být spojeny s použitím cytarabinu samostatně nebo v kombinaci s jinými imunosupresivy po imunosupresivních dávkách, které ovlivňují buněčnou nebo humorální imunitu. Tyto infekce mohou být mírné, ale mohou být také závažné.
+
+Byl popsán cytarabinový syndrom, pro nějž je typická horečka, bolesti svalů, bolesti kostí, občasná bolest na hrudi, makulopapulární vyrážka, konjunktivitida a malátnost. Obvykle se vyskytuje 6-12 hodin po podání léku. Kortikosteroidy se ukázaly být prospěšné při léčbě nebo prevenci tohoto syndromu. Pokud jsou příznaky sydromu natolik závažné, že vyžadují léčbu kortikoidy, je třeba pokračování léčby cytarabinem zvážit.
+Gastrointestinální poruchy:
+Obzvláště při léčbě vysokými dávkami cytarabinu se kromě běžných příznaků mohou vyskytnout i
+závažnější nežádoucí účinky. Byla hlášena perforace střev nebo nekróza spolu s ileem a peritonitidou.
+
+Po léčbě vysokými dávkami byly pozorovány jaterní abscesy, hepatomegalie, Budd-Chiariho syndrom
+(trombóza jaterní žíly) a pankreatitida.
+
+Respirační, hrudní a mediastinální poruchy:
+Obzvláště při léčbě vysokými dávkami se mohou objevit klinické příznaky podobné těm u plicního edému/ARDS. Tyto nežádoucí účinky jsou pravděpodobně způsobeny poškozením alveolárních kapilár. Je obtížné zhodnotit četnost výskytu těchto nežádoucích účinků (v různých publikacích uvedeno 10-26%) vzhledem k tomu, že u pacientů obvykle dochází relapsu, a tudíž mohou k těmto nežádoucím účinkům přispívat i jiné faktory.
+
+Jiné:
+Po léčbě cytarabinem byla hlášena kardiomyopatie a rhabdomyolýza. Byl hlášen jeden případ anafylaxe, který vyústil v srdeční a plicní zástavu, a který vyžadoval resuscitaci. K tomu došlo okamžitě po intravenózním podání cytarabinu.
+
+Gastrointestinální nežádoucí účinky jsou mírnější, pokud je cytarabin podán infuzí. Doporučuje se použití lokálních glukokortikoidů jako profylaxe hemoragické konjunktivitidy.
+Amenorea a azoospermie (viz bod 4.6)
+
+Přípravek Cytarabine Accord se nedoporučuje pro intratekální podání, nicméně byly hlášeny následující nežádoucí účinky při takovém používání. Očekávané systémové reakce: útlum kostní dřeně, nauzea, zvracení. Příležitostně byly hlášeny: závažná toxicita míchy, která dokonce může vést ke kvadruplegii a paralýze, nekrotizující encefalopatie, slepota a jiné izolované neurotoxicity.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+8/12
+
+4.9 Předávkování
+Neexistuje specifické antidotum. V případě předávkování se doporučuje: přerušení léčby, následováno léčbou pozdějšího útlumu kostní dřeně zahrnující podání transfuze plné krve nebo  trombocytů a podání antibiotik. Dvanáct dávek 4,5 g/m² podaných intravenózní infuzí po dobu 1 hodiny každých 12 hodin způsobuje nevratnou a fatální toxicitu centrálního nervového systému.
+Cytarabin lze odstranit hemodialýzou.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Analogy pyrimidinu
+ATC kód: L01BC01
+
+Cytarabin, analog pyrimidinového nukleosidu, je antineoplastické agens, které inhibuje syntézu deoxyribonukleové kyseliny obzvláště v S-fázi buněčného cyklu. Rovněž vykazuje antivirové a imunosupresivní vlastnosti. Detailní studie mechanismu cytotoxického účinku in vitro naznačují, že primárním účinkem cytarabinu je inhibice syntézy deoxycytidinu, kterým je arabinofuranosylcytosintrifosfát ARA-CTP; ačkoliv inhibice cytidin kinázy a inkorporace sloučeniny do nukleových kyselin může mít rovněž vliv na jeho cytostatické a cytocidní působení.
+
+Podávání vysokých dávek cytarabinu může překonat rezistenci leukemických buněk, které již neodpovídají na běžné dávky. Zdá se, že se na této rezistenci podílí více mechanizmů:
+Nárůst množství substrátu
+Zvětšení intracelulárního poolu ARA-CTP vzhledem k tomu, že existuje pozitivní korelace mezi intracelulární retencí ARA-CTP a procentuálním zastoupením buněk v S-fázi.
+
+
+5.2 Farmakokinetické vlastnosti
+V játrech a ledvinách je cytarabin deaminován na arabinofuranosyluracil. Po intravenózním podání u lidí je pouze 5,8 % podané dávky vyloučeno močí v nezměněné formě během 12-24 hodin a 90 % dávky je vyloučeno jako inaktivní deaminovaný produkt arabinofuranosyluracil (ARA-U). Zdá se, že je cytarabin rychle metabolizován primárně v játrech a pravděpodobně i v ledvinách. U většiny pacientů po jednorázových vysokých dávkách klesnou koncentrace v krvi do 15 minut od podání pod stanovitelnou hodnotu. U některých pacientů je léčivo v krvi neprokazatelné dokonce již po 5 minutách po podání. Biologický poločas léku je 10 minut.
+Při podání cytarabinu ve vysokých dávkách jsou maximální koncentrace v plasmě 200násobně vyšší než ty pozorované při obvyklém dávkovacím režimu. Maximální koncentrace inaktivního metabolitu ARA-U je dosaženo při vysokém dávkovacím režimu již po 15 minutách po podání léku. Renální clearance je pomalejší po podání vysoké dávky cytarabinu, než při podání obvyklé dávky cytatabinu. Koncentrace v cerebrospinální tekutině (CSF) po vysoké dávce cytarabinu 1-3 g/m² podané intravenózní infuzí je přibližně 100-300 nanogramů/ml.
+
+Maximálních plasmatických koncentrací je dosaženo přibližně za 20-60 minut po subkutánním podání. Při srovnatelných dávkách, jsou tyto maximální plasmatické koncentrace značně nižší než plasmatické koncentrace dosažené po intravenózním podání.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Nejsou dostupné žádné relevantní předklinické údaje důležité pro preskripci kromě těch již uvedených
+v jiných bodech tohoto souhrnu údajů o přípravku.
+
+
+9/12
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+
+makrogol 400
+trometamol (k úpravě pH)
+voda na injekci
+6.2 Inkompatibility
+
+Disodná sůl karbenicilinu, sodná sůl cefalotinu, gentamicin-sulfát, sodná sůl heparinu, natrium- hydrokortison-sukcinát, insulin, methotrexát, fluoruracil, sodná sůl nafcilinu, monohydrát sodné soli oxacilinu, penicilin G, natrium-methylprednison-sukcinát, prednisolon-sukcinát.
+
+Nicméně inkompatibilita závisí na několika faktorech (např. na koncentracích léčivých přípravků, použitých roztoků na ředění, na výsledném pH, teplotě). Kompatibilitu je nezbytné si vždy ověřit.
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+6.3 Doba použitelnosti
+
+2 roky
+
+Stabilita pro použití: Chemická a fyzikální stabilita po otevření před použitím byla prokázána po naředění v injekčním roztoku chloridu sodného (0,9% w/v) a glukózy (5% w/v) na dobu až 24 hodin při teplotě do 25 ° C a až 72 hodin při teplotě 2-8 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně doba uchovávání nemá být delší než 24 hodin při teplotě 2 – 8 °C, pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+Chraňte před chladem nebo mrazem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho prvním otevření a naředění jsou uvedeny v bodě 6.3.
+6.5 Druh obalu a velikost balení
+
+1 ml roztoku:
+Injekční roztok je v 2ml bezbarvých skleněných injekčních lahvičkách (třída I) uzavřených 13mm šedou pryžovou zátkou a 13mm průhledným modrým hliníkovým flip-off uzávěrem/13mm modrým hliníkovým flip-off uzávěrem.
+
+5 ml roztoku:
+Injekční roztok je v 5ml bezbarvých injekčních lahvičkách z trubkového skla (třída I) uzavřených 20mm šedou pryžovou zátkou a 20mm průhledným modrým hliníkovým flip-off uzávěrem/20mm modrým hliníkovým flip-off uzávěrem.
+
+10 ml roztoku:
+Injekční roztok je v 10ml bezbarvých injekčních lahvičkách z trubkového skla (třída I) uzavřených 20mm šedou pryžovou zátkou a 20mm průhledným modrým hliníkovým flip-off uzávěrem/20mm modrým hliníkovým flip-off uzávěrem.
+
+10/12
+
+20 ml roztoku:
+Injekční roztok je ve 20ml bezbarvých skleněných injekčních lahvičkách (třída I) uzavřených 20mm
+šedou pryžovou zátkou a 20mm modrým hliníkovým flip-off uzávěrem.
+40 ml roztoku:
+Injekční roztok je v 50ml bezbarvých skleněných injekčních lahvičkách (třída I) uzavřených 20mm šedou pryžovou zátkou a 20mm modrým hliníkovým flip-off uzávěrem.
+
+50 ml roztoku:
+Injekční roztok je v 50ml bezbarvých skleněných injekčních lahvičkách (třída I) uzavřených 20mm šedou pryžovou zátkou a 20mm fialovým hliníkovým flip-off uzávěrem.
+
+
+Velikosti balení:
+1x injekční lahvička s 1 ml, 5x injekční lahvička s 1 ml 1x injekční lahvička s 5 ml, 5x injekční lahvička s 5 ml 1x injekční lahvička s 10 ml
+1x injekční lahvička s 20 ml 1x injekční lahvička se 40 ml 1x injekční lahvička s 50 ml
+
+Na trhu nemusí být k dispozici všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Pouze k jednorázovému použití
+
+Jestliže je roztok zabarven a/nebo obsahuje viditelné částice, musí být odborně zlikvidován.
+Po otevření musí být obsah injekční lahvičky ihned spotřebován. Nevyužitý obsah musí být zlikvidován
+
+Voda na injekci, 0,9% w/v roztok chloridu sodného nebo 5% w/v glukóza se běžně používají infuzní roztoky pro cytarabin ( viz bod 6.3). Infuzní roztoky obsahující cytarabin se nesmí mísit s jinými léčivými přípravky, s výjimkou těch zmíněných v bodě 6.6.
+Instrukce pro zacházení s cytostatiky
+
+Podávání
+Musí být podány kvalifikovaným lékařem, nebo pod přímým dohledem kvalifikovaného lékaře, který má zkušenosti s používáním přípravků pro chemoterapii rakoviny.
+
+Příprava (Instrukce)
+•  Cytostatika musí být připravována k podání pouze profesionály vyškolenými v bezpečné přípravě těchto látek.
+•  Úkony jako je naředění a přenesení do injekčních stříkaček musí být provedeny pouze na k tomuto určeném místě.
+•  Osoba vykonávající tyto úkony musí být adekvátně chráněna ochranným oděvem, rukavicemi a ochranným štítem očí.
+•  Těhotným ženám se nedoporučuje manipulovat s cytostatiky.
+Likvidace a kontaminace
+•  Všechen nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+•  Přípravek určený k likvidaci vložte do odpadního vaku pro vysoce rizikový materiál (pro
+cytotoxické látky) a spalte při teplotě 1100 ᵒC.
+
+11/12
+
+•  Pokud dojde k rozlití, zamezte přístup k postižené oblasti a použijte přiměřené ochranné prostředky včetně rukavic a ochranných brýlí. Omezte šíření a očistěte prostor savým papírem/materiálem. Skvrny mohou být zneutralizovány 5% chlornanem sodným. Oblast, kde došlo k rozlití, má být omyta dostatečným množstvím vody. Umístěte kontaminovaný materiál do utěsněného vaku pro cytotoxické látky a spalte při 1100 ᵒC.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Accord Healthcare Polska Sp. z o.o.,
+ul. Taśmowa 7,
+02-677, Varšava,
+Polsko
+
+8. REGISTRAČNÍ ČÍSLO
+
+44/409/13-C
+
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 18. 12. 2013
+Datum posledního prodloužení registrace: 5. 4. 2018
+
+10. DATUM REVIZE TEXTU
+
+12. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12

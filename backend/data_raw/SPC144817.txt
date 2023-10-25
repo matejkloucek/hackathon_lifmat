@@ -1,0 +1,301 @@
+sp.zn. sukls147226/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Kryptoscan
+74 - 2735 MBq, radionuklidový generátor
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Rubidium(⁸¹Rb) je navázáno v iontové formě na iontoměničovou pryskyřici a je v rovnováze s dceřiným izotopem krypton(⁸¹ᵐKr) v radionuklidovém generátoru. Generátor je k dispozici v aktivitách v rozmezí 74- 2735 MBq.
+
+Fyzikální charakteristiky:
+Rubidium(⁸¹Rb) se přeměňuje s poločasem 4,58 hodiny na dceřiný produkt, metastabilní izotop krypton(⁸¹ᵐKr) s poločasem 13 s.
+Krypton(⁸¹ᵐKr) se přeměňuje izomerickým přechodem na krypton(⁸¹Kr) za emise čistého záření gama s energií 190 keV. ⁸¹Kr se přeměňuje s poločasem 2,1 x 10⁵ let na stabilní ⁸¹Br.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Radionuklidový generátor.
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+• Vyšetřování plicní ventilace, vzhledem k nízké radiační zátěži je tato metoda doporučována zvláště pro pediatrické pacienty.
+• Diagnostika plicní embolie ve spojení s perfúzní scintigrafií plic.
+• Díky rozdílným fyzikálním vlastnostem obou izotopů je možné současné vyšetření plicní ventilace (⁸¹ᵐKr) a plicní perfúze (⁹⁹ᵐTc-MAA).
+4.2 Dávkování a způsob podání
+
+Dávkování
+
+Dávkování u dospělých:
+Zobrazení se provádí při současné inhalaci inertního radioaktivního plynu krypton(⁸¹ᵐKr) s krátkým poločasem rozpadu. Z generátoru je plyn eluován vzduchem a pacient plyn inhaluje do dýchacích cest pomocí masky.
+Zobrazení na gamakameře v patřičné kvalitě je možné po shromáždění 200000 – 350000 impulsů pro jednu projekci. To odpovídá aktivitě asi 18 MBq/kg tělesné hmotnosti.
+Inhalaci plynu je možné při nasbírání asi 300000 impulsů přerušit a projekci krátce poté dokončit bez eluce generátoru.
+
+
+1/7
+
+Pediatrická populace:
+Aktivitu u dětských pacientů je možné určit podle následujícího schématu:
+
+Aktivita děti (MBq) = Aktivita dospělí (MBq) x Hmotnost dítěte (kg)
+70
+Způsob podání
+Informace k přípravě generátoru před vyšetřením viz bod 12. Akvizice
+U většiny vyšetření je potřebné provést 4-6 projekcí.
+
+4.3 Kontraindikace
+
+Nejsou známy.
+
+4.4 Zvláštní upozornění a opatření pro použití
+
+Individuální posouzení poměru rizika a přínosu aplikace radiofarmaka:
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejnižší, aniž je ovlivněn správný výsledek vyšetření.
+Upozornění na aspekty související s používáním radiofarmak viz bod 6.6.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Diazepam v sedativních dávkách a obecně anestetika mohou ovlivnit distribuci plynu v plících. Může nastat mírný posun aktivity do hrotu plic a snížení bazální aktivity.
+4.6 Fertilita, těhotenství a kojení
+
+Ženy v reprodukčním věku:
+Je-li zvažována aplikace radiofarmaka ženě v reprodukčním věku, je důležité potvrdit či vyloučit těhotenství. Každá žena, které vynechala menstruace, má být považována za těhotnou pokud se neprokáže opak. Kde trvá nejistota ohledně těhotenství (ženě vynechala menstruace, menstruace je velmi nepravidelná apod.), pacientce mají být navrženy alternativní zobrazovací techniky bez využití ionizujícího záření (existují-li).
+
+Těhotenství:
+Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se v těhotenství provádějí pouze nezbytná vyšetření za předpokladu, že předpokládaný přínos vyšetření významně převáží možná rizika pro matku a plod.
+
+Kojení:
+Před aplikací kojící matce je nutné uvážit, zda je možné aplikaci odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Je-li aplikace kryptonu(⁸¹ᵐKr) nezbytná, není nicméně nutné kojení z tohoto důvodu přerušovat.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Kryptoscan nemá vliv na řízení dopravních prostředků a obsluhu strojů.
+
+4.8 Nežádoucí účinky
+
+2/7
+
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejnižší, aniž je ovlivněn správný výsledek vyšetření.
+Vystavení účinkům ionizujícího záření je spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných poškození. Pro maximální doporučenou aplikovanou aktivitu 3000 - 9000 MBq je efektivní dávka 0,08 – 0,24 mSv, uvedené nežádoucí účinky je tedy možné očekávat pouze s velmi nízkou pravděpodobností.
+Pro přípravek nebyly hlášeny žádné nežádoucí účinky. Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+V případě předávkování množstvím aktivity způsobené nežádoucí a déletrvající inhalací radioaktivního kryptonu je vzhledem k rychlému odstraňování z plic v rámci normální plicní ventilace pouze nutné přemístění pacienta na čerstvý vzduch bez kontaminace.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Diagnostická radiofarmaka; Respirační systém, jiná diagnostická radiofarmaka
+ATC kód: V09E X01
+
+Krypton je inertní plyn, není metabolizován a v rámci aplikovaného množství nemá žádný farmakodynamický účinek.
+
+5.2 Farmakokinetické vlastnosti
+
+Distribuce
+Krypton je vzácný plyn bez interakce s tělesnými funkcemi. Po inhalaci je vydechován a z plic není absorbován.
+
+Eliminace
+Plyn není absorbován, údaje o eliminaci bezpředmětné.
+
+Orgánové vychytávání
+Krypton není vychytáván v žádném orgánu. Přítomen je pouze v plynném obsahu plic.
+Poločas
+Fyzikální poločas je 13 s.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+3/7
+
+Údaje nejsou k dispozici.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+PTFE (polytetrafluoroetylen) membrána s navázanou iontoměničovou pryskyřicí kationtového typu.
+
+6.2 Inkompatibility
+Neuplatňuje se.
+
+6.3 Doba použitelnosti
+
+20 hodin po datu a hodině kalibrace uvedené na obalu.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Generátor uchovávejte ve stínění při teplotě do 25°C.
+Uchovávání radiofarmak musí být v souladu s národními předpisy pro radioaktivní látky.
+
+6.5 Druh obalu a obsah balení
+
+Radionuklidový generátor obsahuje mateřský radionuklid ⁸¹Rb navázaný na membránu. Dceřiný radionuklid ⁸¹ᵐKr je eluován průchodem vzduchu přes membránu. Produkovaný plyn z generátoru tedy obsahuje radionuklid ⁸¹ᵐKr smíšený s vnějším vzduchem.
+
+Generátor obsahující krypton(⁸¹ᵐKr) je umístěn ve speciálním pouzdře Lexan a ochranném stínění, které je spolu s dalšími díly stínění a pomocnými složkami umístěno v plastovém pouzdře
+s plastovým krytem. Systém je hermeticky uzavřen a umístěn do transportního balení.
+Velikosti balení:
+74; 111; 148; 185; 222; 259; 296; 333; 370; 444; 481; 518; 555; 592; 629; 666; 740; 1110;
+1480; 1850; 2735 MBq /generátor
+Na trhu nemusí být všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Všeobecné zásady
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na pracovištích k tomu určených. Příjem, skladování, používání a likvidace zdrojů ionizujícího záření je předmětem schvalování a patřičných povolení státních úřadů.
+
+Příprava a aplikace radiofarmak musí být v souladu jak s příslušnými předpisy pro ochranu zdraví před ionizujícím zářením, tak s požadavky na kvalitu IVLP. Musí být dodržovány zásady aseptické práce.
+Návod k použití (rekonstituce, ředění, příprava v čase potřeby) viz bod 12.
+
+Je-li v jakékoliv chvíli zjištěno jakékoliv poškození generátoru, nesmí být dále používán.
+
+
+4/7
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné předpisy pro ochranu zdraví před ionizujícím zářením a potřebné stínění.
+
+Odstraňování odpadu musí být v souladu s příslušnými národními předpisy pro manipulaci s radioaktivním materiálem.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+
+
+8. REGISTRAČNÍ ČÍSLO(A)
+88/045/93-C
+
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+3.2.1993 / 13.2.2013
+
+
+10. DATUM REVIZE TEXTU
+15. 5. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/7
+
+11. DOZIMETRIE
+
+V následující tabulce jsou uvedeny údaje podle ICRP 53 (Vol.18, No.1 - 4, 1987) "Radiation dose to patients from radiopharmaceuticals".
+Krypton(⁸¹ᵐKr) se přeměňuje izomerickým přechodem na krypton(⁸¹Kr) za emise záření gama s energií 190 keV.
+Absorbovaná dávka na jednotku aplikované aktivity (mGy/MBq):
+
+orgán            dospělý   15 let    10 let    5 let     1 rok
+
+Nadledviny          3,4E-06   5,7E-06   8,3E-06   1,3E-05   2,1E-05 Stěna moč. měchýře     6,8E-08   7,6E-08   2,0E-07   4,7E-07   1,2E-06 Povrch kostí         1,7E-06   2,2E-06   3,2E-06   4,8E-06   9,3E-06 Prsní žlázy          4,6E-06   4,6E-06   8,9E-06   1,3E-05   1,8E-05 GIT:
+stěna žaludku        2,5E-06   3,2E-06   4,4E-06   6,7E-06   1,1E-05 tenké střevo        2,7E-07   4,7E-07   8,6E-07   1,6E-06   3,4E-06
+tlusté střevo:
+horní část         3,2E-07   5,5E-07   1,2E-06   1,9E-06   3,5E-06
+dolní část         1,4E-07   1,5E-07   3,0E-07   8,0E-07   2,0E-06
+Ledviny           1,2E-06   1,9E-06   2,9E-06   4,5E-06   8,4E-06
+Játra             3,4E-06   4,8E-06   6,6E-06   9,5E-06   1,6E-05
+Plíce             2,1E-04   3,1E-04   4,4E-04   6,8E-04   1,3E-03
+Vaječníky          1,7E-07   1,7E-07   4,1E-07   8,0E-07   1,9E-06 Slinivka břišní        3,5E-06   4,4E-06   6,4E-06   9,8E-06   1,8E-05
+Červená kostní dřeň     2,1E-06   3,3E-06   4,2E-06   5,3E-06   8,2E-06 Slezina            3,1E-06   4,1E-06   6,0E-06   9,2E-06   1,6E-05
+Varlata            1,7E-08   2,3E-08   7,4E-08   1,3E-08   5,6E-07 Štítná žláza          1,2E-06   2,1E-06   3,7E-06   6,0E-06   1,1E-05 Děloha            1,3E-07   1,8E-07   3,5E-07   7,2E-07   1,8E-06
+Ostatní tkáně        1,8E-06   2,3E-06   3,2E-06   4,7E-06   8,5E-06
+
+Efektivní dávkový     2,7E-05   4,0E-05   5,7E-05   8,8E-05   1,7E-04
+ekvivalent (mSv/MBq)
+
+Efektivní dávka po podání aktivity 3000 - 9000 MBq je pro dospělého pacienta o hmotnosti 70 kg asi 0,08 - 0,24 mSv.
+
+Množství ⁸¹Kr / 37 MBq ⁸¹ᵐKr je asi 2 nCi (2 µBq/MBq). Proto je příspěvek ⁸¹Kr k celkové radiační zátěži pacienta zanedbatelný.
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Pokyny k provedení vyšetření Příprava k eluci
+1. Vyjměte generátor kryptonu (⁸¹ᵐKr) z transportního obalu.
+2. Odstraňte uzávěr na dně generátoru a uschovejte jej na určeném místě v transportním obalu.
+6/7
+
+3. Generátor vložte do elučního zařízení.
+4. Uzavřete víko elučního zařízení.
+5. Připojte přívod dýchacího setu k příslušnému konektoru na zadní straně elučního zařízení.
+6. Na opačný konec dýchacího setu napojte dýchací masku.
+7. Připojte eluční zařízení k síti.
+8. Nastavte průtok vzduchu na nejvyšší objem.
+
+Aplikace a provedení vyšetření
+
+1. Umístěte pacienta před kameru s kolimátorem pro ⁹⁹ᵐTc.
+2. Pacientovi nasaďte masku a ověřte, že není možné unikání plynu mimo dýchací cesty pacienta.
+3. Eluční zařízení zapněte síťovým vypínačem a spusťte eluci generátoru pomocí dálkového ovládání popř. ručně.
+4. Spusťte snímání na kameře až do nasbírání dostatečného množství impulsů.
+5. Vypněte průtok vzduchu generátorem.
+
+Manipulace s využitým generátorem
+1. Připojte zpět uzávěr na dno generátoru.
+2. Uschovejte generátor na vhodném místě, než aktivita klesne na hodnoty, které umožní odeslání generátoru zpět dodavateli.
+3. Připravte generátor pro odeslání dodavateli podle příslušných ustanovení pokynů pro odesílání zásilek.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7/7

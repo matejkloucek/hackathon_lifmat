@@ -1,0 +1,604 @@
+sp.zn. sukls75644/2021
+
+1. NÁZEV PŘÍPRAVKU
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+Alutard SQ hmyzí alergeny injekční suspenze
+
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Léčivá látka:
+allergena insectorum purificata adsorpta
+Přípravek Alutard SQ hmyzí alergeny je depotní přípravek obsahující standardizované extrakty dále uvedených alergenů adsorbovaných na hydroxidu hlinitém:
+Hmyzí alergeny
+801 Apis mellifera (včela medonosná),
+802 Vespula spp. (vosa).
+Biologická aktivita přípravku Alutard SQ hmyzí alergeny je vztažena ke koncentraci alergenů a vyjádřena v jednotkách SQ (standard quality) na mililitr suspenze (SQ-U/ml). U každého standardizovaného alergenu jsou k dispozici 4 koncentrace. Lahvičky jsou odlišeny barevným kódem a čísly.
+
+Tabulka č. 1: Lahvičky a síly
+Obsah
+
+Lahvička č.
+
+1
+2
+3
+4
+Koncentrace SQ-U/ml
+
+100
+1000
+10 000
+100 000
+Barevný kód
+
+šedá zelená zlatá červená
+pomocné látky mg/ml 0,0033
+0,033
+0,33
+3,3*
+* 3,3 mg/ml hydroxidu hlinitého odpovídá 1,13 mg hliníku.
+
+Pomocné látky:
+Chlorid sodný
+Hydrogenuhličitan sodný
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Injekční suspenze k subkutánnímu podání.
+Popis přípravku: Alutard SQ hmyzí alergeny je sterilní a může se jevit jako čirá tekutina s precipitátem nebo bez něj. Precipitát může být bílý až slabě nahnědlý nebo zelený. Když je připraven k podání, suspenze musí být homogenní.
+
+4. KLINICKÉ ÚDAJE
+
+4.1. Terapeutické indikace
+1/11
+
+Přípravek Alutard SQ hmyzí alergeny je indikován k léčbě specifických alergických onemocnění zprostředkovaných imunoglobuliny E (IgE).
+4.2. Dávkování a způsob podání
+Léčba probíhá ve dvou fázích: úvodní a udržovací.
+Fáze zvyšování dávky (up-dosing)
+Injekce se podávají jedenkrát týdně, aplikace se zahajuje velmi nízkou dávkou alergenu, která se postupně zvyšuje až k dosažení maximální tolerované dávky.
+Dávkování v úvodní fázi léčby je individuální a je závislé na senzitivitě pacienta vůči alergenu.
+Dvě schémata postupného zvyšování dávky sloužící jako obecný návod pro dosažení udržovací dávky jsou uvedena v následujících tabulkách. Schémata je třeba považovat za návod, který musí být modifikován podle situace a okolností vzniklých v průběhu léčby. Při zvyšování dávky po skupinách jsou aplikovány 2-3 injekce v jeden den. Skupiny dávek by měly být aplikovány v týdenních intervalech. Měla by být dodržována doba 30 minut mezi injekcemi skupinové dávky. Indikace k úpravě dávkování jsou uvedeny dále (viz také 4.4.).
+
+Schéma dávkování pro úvodní fázi léčby
+
+Lahvička č.
+1
+1
+1
+2
+2
+2
+3
+3
+3
+4
+4
+4
+4
+4
+4
+Koncentrace SQ-U/ml
+100
+100
+100
+1000
+1000
+1000
+10 000
+10 000
+10 000
+100 000
+100 000
+100 000
+100 000
+100 000
+100 000
+Týden č.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Injekce
+č.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Objem ml
+0,2
+0,4
+0,8
+0,2
+0,4
+0,8
+0,2
+0,4
+0,8
+0,1
+0,2
+0,4
+0,6
+0,8
+1,0
+Dávka
+SQ-U
+20
+40
+80
+200
+400
+800
+2000
+4000
+8000
+10 000
+20 000
+40 000
+60 000
+80 000
+100 000
+
+
+Schéma dávkování pro úvodní fázi léčby po skupinách dávek
+
+Lahvička číslo
+1
+2
+3
+3
+Koncentrace SQ-U/ml
+100
+1 000
+10 000
+10 000
+10 000
+Týden číslo
+1
+1
+1
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+2/11
+Injekce
+číslo
+1
+2
+3
+4
+5
+Objem ml
+0,1
+0,1
+0,1
+0,2
+0,4
+Dávka
+SQ-U
+10
+100
+1 000
+2 000
+4 000
+
+3       10 000        3
+4       100 000       3
+4       100 000       4
+100 000       4
+4       100 000       5
+100 000       5
+4       100 000       6
+100 000       6
+6       0,6
+7       0,1
+8       0,1
+9       0,2
+10      0,3
+11      0,3
+12      0,5
+13      0,5
+6 000
+10 000
+10 000
+20 000
+30 000
+30 000
+50 000
+50 000
+Injekce se aplikují v půlhodinových intervalech.
+Udržovací fáze léčby
+Udržovací fáze léčby je individuální a musí probíhat dle senzitivity pacienta vůči alergenu. Senzitivita pacienta je určující pro stanovení dávky v udržovací fázi. Doporučená maximální udržovací dávka je 100 000 SQ-U.
+Po dosažení udržovací dávky podáváním injekcí v intervalu jednoho týdne se doporučuje postupné prodlužování týdenního intervalu mezi injekcemi, který se má prodloužit nejdříve na 2 týdny, poté na 4 týdny a nakonec na 6-8 týdnů. Udržovací dávka se poté podává beze změny každých 6-8 týdnů po dobu 3-5 let. Dávka má být snížena v případě, že byl překročen doporučený interval mezi dvěma injekcemi.
+
+Úprava dávkování
+Výskyt systémové reakce nebo opožděné rozsáhlé lokální reakce u pacienta po předchozí injekci nebo prodloužení intervalu mezi injekcemi může vyžadovat úpravu dávkování.
+V průběhu léčby má být aplikace vynechána nebo upravena při výskytu horečky či jiných známek infekce u pacienta, současné exacerbaci alergických reakcí vyvolaných jinými alergiemi před podáním injekce, u inhalačních alergenů dále rovněž v případě významně redukovaných plicních funkcí, exacerbace atopické dermatitidy nebo současné expozice pacienta alergenu.
+Dávka má být snížena oproti předcházející dávce v situacích popsaných níže. Vybraná snížená dávka může být rozdělena do dvou dávek podaných v rozmezí 30 minut a pacient sledován 30 minut po každé aplikaci.
+Pokud je dávka snížena, doporučuje se následně zvyšovat dávku k dosažení maximální udržovací dávky
+pomaleji s týdenními intervaly.
+a) zhoršení alergických symptomů
+Dávka musí být snížena, jestliže pacient uvádí výskyt alergických symptomů během posledních 24 hodin anebo změnu v užívání dalších léků, které mohou ovlivnit alergickou reakci. Pokud je pacient bez symptomů, lze v imunoterapii pokračovat beze změny.
+b) výskyt lokálního otoku po poslední injekci
+Při výskytu lokální reakce po poslední injekci (ne zčervenání) se postupuje podle následujícího schématu:
+Doporučené dávkování v případě lokálních reakcí v místě aplikace
+Maximální průměr otoku
+
+Děti
+Dospělí
+Doporučená úprava dávky
+
+< 5 cm       < 8 cm
+8-12 cm
+Pokračovat ve zvyšování titrace dávky podle schématu zvyšování dávky
+Opakovat naposledy aplikovanou dávku
+5-7 cm
+
+3/11
+
+dávku 7-12 cm
+
+12-17 cm
+
+>17 cm
+12-20 cm
+
+> 20 cm
+Opakujte dávku podanou před poslední aplikací
+Opakujte dávku podanou před posledními dvěma aplikacemi
+Opakujte dávku podanou před posledními třemi aplikacemi
+
+c) výskyt systémové reakce
+Mírná systémová reakce: následující dávka se sníží o 1-2 kroky a v léčbě se pokračuje až po odeznění příznaků.
+Závažná systémová reakce: sníží se následující dávka na desetinu dávky, která reakci způsobila a dávky se zvyšují opatrně a pomalu.
+Závažná systémová reakce během terapie hmyzími alergeny podporuje indikaci imunoterapie hmyzími
+alergeny.
+d) prodloužený interval mezi dvěma injekcemi
+Pokud byl interval mezi dvěma injekcemi překročen, doporučuje se následující schéma snížení dávky.
+
+
+Úvodní fáze léčby
+
+časový interval             další dávka
+
+
+do 2 týdnů
+2-3 týdny
+dávka může být zvýšena dávka se nezvyšuje
+
+3-4 týdny
+4 a více týdnů
+max. 50 % (1-2 kroky zpátky) začít znovu od začátku
+
+Udržovací fáze léčby
+
+časový interval             další dávka
+
+
+do 8 týdnů
+do 10 týdnů
+dávka se nemění
+mezi 75-100 % dávky (1-2 kroky zpátky)
+
+
+do 12 týdnů
+do 14 týdnů
+do 16 týdnů 16 a více týdnů
+mezi 50-75 % dávky (2-3 kroky zpátky) mezi 25-50 % dávky (3-4 kroky zpátky) max. 25 % dávky (4-5 kroků zpátky) začít znovu od začátku
+
+Pediatrická populace
+Nebyly provedeny klinické studie s přípravkem Alutard SQ hmyzí alergeny u dětí. Zvláštní pozornost je třeba věnovat posouzení přínosu a rizika léčby u dětí mladších než 5 let.
+
+
+
+4/11
+
+Způsob podání
+Přípravek Alutard SQ hmyzí alergeny je určen k subkutánnímu podání. Aplikuje se buď laterálně do distální třetiny nadloktí nebo dorsálně do střední třetiny předloktí. Kůže se uchopí mezi dva prsty a jehla se zavede ve směru paže přibližně 1 cm hluboko do kůže při dodržení úhlu 30-60º od povrchu kůže. Mezi aplikacemi injekcí se doporučuje střídat pravou a levou paži.
+Před použitím je třeba 10-20krát pomalu obrátit vzhůru dnem. Pokyny pro zacházení s přípravkem Alutard SQ před podáním, viz bod 6.6.
+Před aplikací je nutné provést aspiraci a vyvarovat se intravenózního podání. Aspirace musí být opakována po každých 0,2 ml během podání. Injekce musí být aplikována pomalu, tzn. 1 ml po dobu jedné minuty.
+Současná léčba více než jedné alergie
+Jednotlivé extrakty přípravků alergenové imunoterapie se nesmí mísit.
+U pacientů, kteří mají alergii na více typů alergenů, má být zahájena léčba nejprve jedním typem alergenu. Po dosažení udržovací dávky může být zahájena léčba dalším typem alergenu. Injekce s udržovacími dávkami se podávají na různá místa (distální a proximální část nadloktí anebo proximální část předloktí). Injekce mají být aplikovány v 30minutových intervalech, aby bylo možné hodnotit případné celkové reakce.
+V případě hmyzích alergenů má být odstup mezi udržovacími dávkami dvou hmyzích alergenů 2-3 dny z důvodu možného zvýšeného rizika alergických reakcí.
+4.3. Kontraindikace
+▪  hypersensitivita na kteroukoli složku přípravku uvedenou v bodě 6.1
+▪  chronické infekce
+▪  pacienti s probíhajícím nebo nekompenzovaným autoimunitním onemocněním, s poruchami imunity, imunodeficiencí nebo imunosupresí
+▪  pacienti s astmatem, u kterých existuje riziko exacerbace a/nebo neadekvátní kontroly symptomů definované jako:
+-  neadekvátní kompenzace během posledních čtyř týdnů (např. zvýšený výskyt symptomů během dne, noční probouzení, zvýšená potřeba medikace, omezení aktivit)
+
+
+
+4.4. Zvláštní upozornění a zvláštní opatření pro použití
+Léčba přípravkem Alutard SQ hmyzí alergeny má být prováděna pod dohledem lékaře se zkušenostmi
+se specifickou imunoterapii. Po každé injekci musí být pacient pod kontrolou nejméně 30 minut.
+Závažné systémové alergické reakce
+Z důvodu možného rizika potenciálně fatálních anafylaktických reakcí musí léčba přípravkem Alutard SQ hmyzí alergeny probíhat na pracovišti, které má k dispozici veškeré resuscitační prostředky, včetně injekcí adrenalinu, a školený zdravotnický personál. Pokud se objeví příznaky systémové reakce jako je kopřivka, angioedém nebo závažné astma, má být okamžitě zahájena symptomatická léčba.
+V den aplikace injekce se pacient musí vyvarovat fyzické zátěže, horké koupele a alkoholu, jelikož tyto kofaktory mohou zesílit anafylaktickou reakci.
+U pacientů s onemocněním srdce může být zvýšené riziko systémových alergických reakcí. Klinické zkušenosti s léčbou přípravky Alutard SQ hmyzí alergeny u pacientů s onemocněním srdce jsou
+omezené. Pacienti se závažnými kardiovaskulárními poruchami mají být pečlivě monitorováni během léčby přípravkem Alutard SQ hmyzí alergeny z důvodu rizika anafylaktické reakce.
+
+Maligní neoplastické onemocnění
+
+
+5/11
+
+Nejsou k dispozici žádné kontrolované studie týkající se vlivu maligního neoplastického onemocnění na účinnost alergenové imunoterapie, ani studie hodnotící neoplastické maligní onemocnění jako predisponující faktor pro závažné nežádoucí účinky během imunoterapie přípravkem Alutard SQ
+hmyzí alergeny. Poměr prospěchu a rizika imunoterapie hmyzími alergeny u pacientů s neoplastickým onemocněním musí být vyhodnocen individuálně.
+
+U pacientů se zvýšenou sérovou hladinou tryptázy a/nebo u pacientů s mastocytózou může být zvýšené riziko rozvoje systémových alergických reakcí, které mohou být závažné. U pacientů s mastocystózou lze očekávat nižší účinnost v porovnání s obecnou populací, alergickou na hmyzí alergeny.
+Zvýšené riziko rozvoje závažné anafylaxe může existovat u pacientů, kteří jsou současně léčeni inhibitory ACE. U každého pacienta je třeba individuálně zvážit dočasné přerušení léčby inhibitory ACE (v závislosti na plazmatickém poločasu daného inhibitoru) oproti výhodám imunoterapie. Inhibitor ACE může snižovat účinek přípravku Alutard SQ hmyzí alergeny.
+
+Adrenalin je lékem volby u závažných systémových alergických reakcí. Účinek adrenalinu může být potencován, s možnými fatálními následky, u pacientů léčených tricyklickými antidepresivy, inhibitory monoaminooxidázy (IMAO) a/nebo inhibitory COMT. Současné užívání betablokátorů může snižovat účinek adrenalinu. Navíc účinek adrenalinu může exacerbovat kardiovaskulární onemocnění, např. srdeční arytmie.
+Astma
+Astma je známým rizikovým faktorem závažných systémových reakcí.
+Klinické zkušenosti s léčbou přípravkem Alutard SQ hmyzí alergeny u pacientů s astmatem jsou
+omezené. Před každou aplikací injekce je třeba vyhodnotit stav astmatu (viz bod 4.3).
+Pacienti musí být poučeni, že v případě náhlého zhoršení astmatu musí okamžitě vyhledat lékařskou
+pomoc.
+Zvláštní skupiny pacientů
+Jelikož přípravek Alutard SQ hmyzí alergeny obsahuje hliník (maximálně 1,13 mg/ml v lahvičce s 100 000 SQ-U/ml), přichází teoreticky v úvahu možnost kumulace hliníku ve tkáni u rizikových pacientů (např. pacienti s renálním poškozením nebo u pacientů současně užívajících léky s obsahem hliníku, např. antacida). Účinek dlouhodobého příjmu hliníku na imunitní systém není znám. Toto je třeba vzít v úvahu při zahájení léčby přípravky Alutard SQ hmyzí alergeny.
+Pediatrická populace
+Nebyly provedeny klinické studie s přípravky Alutard SQ hmyzí alergeny u dětí. Zvláštní pozornost je třeba věnovat posouzení přínosu a rizika léčby u dětí mladších než 5 let. Klinické údaje týkající se účinnosti u dětí starších 5 let jsou omezené a účinnost není prokázána, avšak údaje o bezpečnosti neodhalily vyšší riziko ve srovnání s dospělými pacienty.
+Informace týkající se současně podávané jiné alergické imunoterapie nebo jiných vakcín viz bod 4.5. Upozornění týkající se podávání
+Stavy vyžadující úpravu dávky nebo odložení aplikace injekce
+▪  pokud má pacient horečku nebo jiné klinické příznaky akutní nebo chronické infekce
+▪  pokud u pacienta došlo v nedávné době ke změně nebo zhoršení zánětlivého onemocnění dýchacích cest včetně astmatu
+▪  pokud měl pacient během několika dní před aplikací těžké alergické příznaky či alergické příznaky trvaly po několik dní.
+▪  hmyzí alergeny pokud došlo k překročení intervalu mezi plánovanými dávkami (viz bod 4.2)
+▪  pokud u pacienta došlo ke zhoršení atopické dermatitidy. Před aplikací injekce
+6/11
+
+▪  před podáním přípravku musí být u pacientů s astmatem v anamnéze vyhodnocen stav astmatu (viz
+bod 4.3)
+▪  jakékoli alergické reakce (lokální i systémové) po předchozí léčbě přípravkem Alutard SQ hmyzí alergeny mají být zdokumentovány a před aplikací další injekce má být upraveno dávkování (viz bod 4.2)
+▪  musí být vyhodnocen zdravotní stav pacienta a jeho alergie, a stejně tak jakékoli změny v medikaci
+od poslední aplikace injekce (viz bod 4.5)
+▪  před každou aplikací injekce musí být provedena dvojitá kontrola deklarovaného alergenu,
+koncentrace, objemu a data aplikace předchozí injekce (dávkovacího intervalu)
+▪  před každou aplikací injekce je třeba zkontrolovat případné zakalení nebo jakékoli známky kontaminace, zejména u již otevřených lahviček
+▪  Alutard SQ hmyzí alergeny je určen k subkutánním podání, je nutné se vyvarovat intravenóznímu podání z důvodu zvýšeného rizika alergických reakcí
+▪  vždy musí být k dispozici prostředky k léčbě případného anafylaktického šoku.
+Po aplikaci injekce
+Po každé aplikaci injekce musí být pacient sledován minimálně 30 minut. Jestliže se během této doby objeví příznaky systémové reakce jako je kopřivka, angioedém nebo závažné astma, má být zahájena symptomatická léčba.
+•  Pacient musí být poučen, aby sledoval jakékoli místní nebo systémové reakce a v případě
+potřeby vyhledal lékaře nebo lékařskou pohotovost
+•  jakékoli alergické reakce (lokální i systémové) mají být zaznamenány před odchodem pacienta
+z ordinace.
+Tento léčivý přípravek obsahuje méně než 1 mmol sodíku (23 mg) v jedné dávce tj. prakticky bez sodíku.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly provedeny žádné studie interakcí u člověka a z jiných zdrojů nebyly identifikovány potenciální lékové interakce.
+Současná léčba symptomatickými antialergiky (např. antihistaminiky, kortikoidy a stabilizátory žírných buněk) může zvýšit hladinu tolerance pacienta vůči aplikovaným injekcím alergenu. Při změně symptomatické léčby může dojít ke změně hladiny tolerance pacienta.
+Současná alergická imunoterapie
+Nejsou k dispozici žádné údaje o současném podávání s jinými přípravky alergenové imunoterapie.
+Jiné vakcíny
+Pokud byla podaná jiná vakcína, lze provést aplikaci přípravku Alutard SQ hmyzí alergeny nejméně až po jednom týdnu.
+ACE inhibitory
+U pacientů léčených ACE inhibitory může existovat zvýšené riziko závažné anafylaxe. Současná léčba ACE inhibitory může rovněž snižovat účinek léčivého přípravku Alutard SQ hmyzí alergeny, další informace viz bod 4.4.
+Informace týkající se současného podávání IMAO, inhibitorů COMT, betablokátorů a antacid viz bod
+4.4.
+
+4.6. Fertilita, těhotenství a kojení
+
+7/11
+
+Těhotenství
+K dispozici nejsou žádné údaje o použití přípravků Alutard SQ hmyzí alergeny u těhotných pacientek.
+V těhotenství nemá být léčba přípravkem Alutard SQ hmyzí alergeny zahajována.
+V případě otěhotnění pacientky v průběhu podávání přípravku Alutard SQ hmyzí alergeny lze pokračovat v léčbě po vyhodnocení reakcí po předchozích aplikacích injekce a hmyzích bodnutí v minulosti, ale je třeba velmi pečlivě zvážit riziko pro matku i plod při eventuálním výskytu anafylaktického šoku.
+Kojení
+Nejsou k dispozici žádné klinické údaje o podávání přípravku Alutard SQ hmyzí alergeny v období kojení. Účinky na kojené děti se nepředpokládají.
+Fertilita
+Nejsou k dispozici žádné údaje týkající se fertility a použití přípravku Alutard SQ hmyzí alergeny.
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Alutard SQ hmyzí alergeny nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo
+obsluhovat stroje.
+
+4.8. Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Reakce související s podáváním přípravků Alutard SQ hmyzí alergeny jsou obecně imunologickými reakcemi (lokálními nebo systémovými) na konkrétní alergen. Příznaky časné reakce se objeví během prvních 30 minut po aplikaci. Příznaky pozdní reakce se objeví do 24 hodin po injekci.
+Častými nežádoucími účinky u pacientů léčených přípravky Alutard SQ hmyzí alergeny byly reakce v místě aplikace.
+Nejzávažnějším nežádoucím účinkem, který se u pacientů léčených přípravkem Alutard SQ objevil, je anafylaktický šok. Jelikož se jedná o život ohrožující stav, vyžaduje okamžitou léčbu.
+Tabulkový přehled nežádoucích účinků
+Uvedené nežádoucí účinky jsou rozděleny dle konvence MedDRA podle tříd orgánových systémů a četností výskytu. Četnosti výskytu jsou definovány takto: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit). Četnosti vychází z klinických hodnocení imunoterapie obecně. Četnost není známo (z dostupných údajů nelze určit) vychází ze zkušeností po uvedení přípravku na trh.
+
+
+Třída orgánového systému
+Poruchy imunitního systému
+
+Poruchy nervového systému
+Poruchy oka
+
+Poruchy ucha a labyrintu
+Četnost
+
+Méně časté
+
+Vzácné Velmi časté Není známo Časté
+Není známo Není známo
+Nežádoucí účinek
+Anafylaktická reakce Anafylaktický šok
+Bolest hlavy
+Závratě, parestezie konjunktivitida Otok víček Vertigo
+
+8/11
+
+Srdeční poruchy
+Cévní poruchy
+
+Respirační, hrudní a mediastinální poruchy
+
+
+Gastrointestinální poruchy
+
+Poruchy kůže a podkožní tkáně
+Poruchy svalové a kosterní soustavy a pojivové tkáně Celkové poruchy a reakce v
+místě aplikace
+Není známo Časté
+Není známo Časté
+Není známo
+
+
+Časté
+Není známo Časté
+Není známo Méně časté Není známo Velmi časté Časté
+Není známo
+Palpitace, tachykardie, cyanóza Zrudnutí
+Hypotenze, bledost
+Hvízdavý dech, kašel, dyspnoe Astma, nazální kongesce, alergická rýma, kýchání, bronchospasmus, škrábání v krku, sípání
+Průjem, zvracení, nauzea, dyspepsie,
+Bolest břicha
+Kopřivka, svědění, vyrážka
+Angioedém, erytém Bolest zad
+Otok kloubů, artralgie Otok v místě aplikace
+Svědění v oblasti aplikace, kopřivka,
+diskomfort, únava
+Svědění, tlak na hrudi, zimnice, erytém v místě aplikace, tvorba uzlíků v místě aplikace, bolest v oblasti aplikace,
+hypertrichóza v místě aplikace, pocit
+cizího tělesa v krku
+
+
+Systémové reakce zahrnují jakékoli příznaky postižení tkání nebo orgánů mimo místo aplikace. . Mohou být různé, od alergické rinitidy po anafylaktický šok. Léčba závažných systémových reakcí musí být zahájena okamžitě.
+V případě rozsáhlých lokálních reakcí a systémové reakce je třeba přehodnotit léčbu (viz bod 4.2).
+Obsah hliníku může přispívat k výskytu lokálních nežádoucích účinků včetně pozitivního kožního testu na hliník.
+V průběhu léčby může dojít k exacerbaci atopické dermatitidy.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9. Předávkování
+Pokud dojde k aplikaci vyšší dávky přípravku Alutard SQ hmyzí alergeny, zvyšuje se riziko nežádoucích účinků včetně rizika rozvoje závažných alergických reakcí. Pacient musí být sledován a jakékoli reakce adekvátně symptomaticky léčeny a přijata podpůrná opatření.
+Vždy musí být k dispozici prostředky k léčbě anafylaktického šoku.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: extrakty alergenů, hmyzí alergeny
+
+9/11
+
+ATC kód: V01AA07
+Přípravek Alutard SQ hmyzí alergeny se používá ke specifické imunoterapii pacientů s alergií zprostředkovanou imunoglobuliny E (IgE). Specifická imunoterapie zasahuje především do regulačních mechanismů těch reakcí, které mají hlavní roli při vzniku alergického onemocnění. Cílem účinku je imunitní systém a specifické potlačení reakcí na alergeny, kterými je pacient léčen. Přípravek Alutard SQ hmyzí alergeny má další účinky: inhibuje pohyb T-lymfocytů a eozinofilních granulocytů k cílovým orgánům a přispívá ke zřetelnému posunu od produkce Th2 cytokinů ke tvorbě Th1 cytokinů. Rovněž je zvýšena syntéza IL-10, což může vést k T-lymfocytární anergii.
+Také je sníženo uvolňování histaminu z periferních bazofilů v krvi. To je důsledek sníženého množství recirkulujících bazofilů. Po počátečním vzestupu celkového i specifického IgE následuje jejich dlouhodobý pokles, doprovázený vznikem tzv. blokujících IgG4.
+5.2. Farmakokinetické vlastnosti
+Adsorpce alergenu na hydroxid hlinitý má kinetické účinky a umožňuje po subkutánní injekci pomalé uvolňování alergenu do krevního oběhu, čímž dochází k prolongované stimulaci imunitního systému.
+5.3. Předklinické údaje vztahující se k bezpečnosti
+K dispozici nejsou žádné další předklinické údaje významné pro předepisujícího lékaře, kromě již uvedených v jiných částech SPC.
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Hydroxid hlinitý, chlorid sodný, hydrogenuhličitan sodný, fenol, hydroxid sodný, voda pro injekci
+Přípravek Alutard SQ hmyzí alergeny obsahuje roztok lidského albuminu.
+6.2. Inkompatibility
+Studie kompatibility nejsou k dispozici, a proto tento léčivý přípravek nesmí být mísen s žádnými dalšími léčivými přípravky.
+6.3. Doba použitelnosti
+3 roky.
+Doba použitelnosti po prvním otevření lahvičky je 6 měsíců bez ohledu na dobu použitelnosti
+uvedenou na obalu.
+Chemická a fyzikální stabilita přípravku po prvním otevření byla prokázána na dobu 6 měsíců při teplotě 2 °C – 8 °C. Jiná doba a podmínky uchovávání přípravku po otevření jsou v odpovědnosti uživatele.
+6.4. Zvláštní opatření pro uchovávání Uchovávejte v chladničce (2 °C – 8 °C). Chraňte před mrazem.
+Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+Uchovávání při teplotě nižší než 2 °C může vést ke změnám vlastností přípravku; při teplotách nižších než 0 °C je přípravek znehodnocen.
+6.5. Druh obalu a obsah balení Vnitřní a vnější obal
+Injekční lahvička z bezbarvého skla, pryžová zátka, hliníkový kryt s odtrhovacím středem odlišné barvy pro každou koncentraci, krabička s vložkou z plastické hmoty.
+Velikost balení
+
+
+10/11
+
+Přípravek je dostupný ve dvou typech balení:
+Úvodní léčba: 4 lahvičky po 5 ml
+
+Lahvička číslo
+1
+2
+3
+4
+Koncentrace SQ-U/ml
+100
+1 000
+10 000
+100 000
+Barevný kód
+Šedá Zelená Zlatá Červená
+Udržovací léčba: 1 nebo 2 lahvičky po 5 ml
+
+Lahvička číslo
+4
+Koncentrace SQ-U/ml
+100 000
+Barevný kód
+Červená
+
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6. Návod k použití přípravku, zacházení s ním (a k jeho likvidaci)
+V průběhu skladování se může objevit precipitát a čirá tekutina. To nepředstavuje známku poškození. Precipitát může být bílý až slabě hnědý až zelený.
+Před použitím je třeba 10-20krát mírně obrátit lahvičku aby vznikla homogenní suspenze. Před podáním suspenzi vizuálně zkontrolujte, zda neobsahuje částice. V případě přítomnosti částic přípravek zlikvidujte.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+ALK-Abelló A/S, Bøge Allé 6-8, DK-2970 Hørsholm, Dánsko
+
+8.  REGISTRAČNÍ ČÍSLO
+59/526/92-B/C.
+
+9.  DATUM PRVNÍ REGISTRACE /PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 22.9.1992
+Datum posledního prodloužení registrace: 12.11.2014
+
+10. DATUM REVIZE TEXTU
+
+16. 4. 2021
+
+
+
+
+
+
+
+
+11/11

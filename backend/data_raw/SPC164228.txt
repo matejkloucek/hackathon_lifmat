@@ -1,0 +1,798 @@
+Sp. zn. sukls218614/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Oxid dusný medicinální AIR PRODUCTS 100% v/v plyn pro inhalaci zkapalněný
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Dinitrogenii oxidum (N2O) 100% v/v
+
+
+3.   LÉKOVÁ FORMA
+Zkapalněný medicinální plyn k inhalaci.
+Oxid dusný je bezbarvý plyn lehce nasládlého zápachu a bez chuti.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+•    Oxid dusný medicinální Air Products v ekvimolární koncentraci s kyslíkem (50% v/v oxidu dusného a 50% v/v kyslíku) je podáván jako analgetikum se slabými anestetickými vlastnostmi pro léčbu bolesti krátkého trvání jako součást akutní léčby v traumatologii a u popálenin, při zubních zákrocích, porodu a chirurgických výkonech v otorinolaryngologii.
+•    Oxid dusný medicinální Air Products je používán jako základní anestetikum v kombinaci s inhalačními anestetiky, intravenózními anestetiky (thiopental, propofol), opiáty a/nebo myorelaxanty. Medicinální kyslík je přimíchán v minimální koncentraci 21% v/v.
+
+4.2  Dávkování a způsob podání Dávkování
+Při použití Oxidu dusného medicinálního AIR PRODUCTS jako analgetika v ekvimolárním poměru s kyslíkem musí být doba expozice pacienta minimalizována na 1 hodinu maximálně a nesmí se opakovat po více než 15 dní po sobě.
+
+Pro  dosažení  anestézie  působí  Oxid  dusný  medicinální  Air  Products  jako  základní anestetikum.  Samotný  Oxid  dusný medicinální  Air  Products  v  maximální  povolené koncentraci 79% v/v nemůže navodit anestézii. V kombinaci s jinými inhalačními anestetiky zajišťuje Oxid dusný medicinální Air Products akceleraci absorpce obou inhalačních anestetik efektem "koncentrace a druhého plynu“. Čas úvodu bude 2-5 minut. V průběhu úvodu bude koncentrace Oxidu dusného medicinálního Air Products maximálně 79% v/v. Po úvodu je požadovaný objem Oxidu dusného medicinálního Air Products mezi 50 a 70% v/v, doplněný o medicinální kyslík.
+
+1
+
+V případě použití druhého inhalačního anestetika bude jeho dávka záviset na množství podaného oxidu dusného (% objem). Dávku druhého anestetika lze spočítat pomocí následující rovnice: Dávka = MAC (100% - % oxid dusný).
+Informace o udržovací dávce Oxidu dusného medicinální Air Products a ostatních inhalačních anestetik je uvedena v souhrnech vlastností jednotlivých produktů. V případě kombinace s intravenózními anestetiky bude vypočítána a podána nižší dávka intravenózního anestetika na základě teoretické minimální alveolární koncentrace Oxidu dusného medicinálního Air Products  (přibližně 105% v/v). Inhalovaná koncentrace Oxidu dusného medicinálního Air Products nepřekročí 70% v/v a je redukována v souladu s klinickými údaji. V případě nepřerušované expozice Oxidu dusnému medicinálnímu AIR PRODUCTS (>24 hodin) může dojít  k  útlumu  kostní  dřeně.  V  případě  předávkování  je  nutné  zvýšit  koncentraci vdechovaného kyslíku (viz oddíl 4.9).
+
+Způsob podání:
+
+Oxid dusný medicinální Air Products je podáván výhradně ve směsi s minimálně 21 % kyslíku, inhalační cestou, nejlépe speciálním vybavením a těsně přiléhající obličejovou maskou.
+
+Oxid dusný má být podáván řádně vyškoleným zdravotnickým personálem v dobře větraných prostorách za použití např. extrakčního systému s dvojitou maskou Použití dvojité masky se doporučuje pro stomatologické zákroky. V ambulancích je možné připojit aplikační zařízení na extrakční systém nebo je možné použít dvojitou masku a obličejovou masku. Při použití Oxidu dusného medicinálního Air Products personálem je třeba dodržovat aktuální platné zdravotnické normy a legislativu vztahující se k bezpečnosti práce, a to obzvlášť platí pro těhotné ženy.
+
+V případě použití Oxidu dusného medicinálního Air Products jako analgetika mimo operační sál existuje zvýšené riziko ztráty vědomí a komatu. Proto je použití Oxidu dusného medicinálního Air Products jako analgetika v tomto prostředí dovolené, pouze pokud je použitá směs ekvimolární, s 50% v/v kyslíkem. Vybavení pro míchání Oxidu dusného medicinálního Air Products s medicinálním kyslíkem by mělo být vybaveno systémem, který zabraňuje podání směsi s větším množstvím než 50% v/v oxidu dusného pacientovi.
+
+4.3  Kontraindikace
+
+-  Pacienti, u nichž je indikováno dýchání čistého kyslíku
+-  Poruchy vědomí, které brání asistenci pacienta
+-  Poruchy spojené s dutinami obsahujícími vzduch (pneumotorax, bulózní emfyzém, kesonová choroba nebo dekompresní choroba, volný vzduch v dutině břišní)
+-  Nitrolební hypertenze
+-  Akutní intestinální obstrukce
+-  Trauma v obličejové části v místě aplikace obličejové masky
+-  Po podání intraokulární injekce plynu (SF6, C3F8) z důvodu rizika další expanze plynu, která by potenciálně mohla způsobit slepotu
+-  V případě deficitu vitaminu B12 v časném těhotenství.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Z důvodu vysokých hladin Oxidu dusného medicinálního Air Products normálně používaných pro úvod musí být dusík před podáním vypuzen ze zaváděcího systému. Pacient musí být také předem prodýchán kyslíkem.
+2
+
+Frakce kyslíku v inhalované směsi plynu (FiO2) musí být udržována na minimální hodnotě 21 % po dobu úvodní fáze. V praxi je často jako dolní hranice používána koncentrace 30 %. Vdechovaná frakce kyslíku může být v případě potřeby zvýšena na 100 %. Tlak kyslíku musí zůstat nad hodnotou 8.0 kPa nebo 60 mmHg se saturací hemoglobinu kyslíkem (> 90 %).
+Pravidelné monitorování měřením arteriálního tlaku kyslíku (Pa02) nebo pulsní oxymetrií (arteriální saturace kyslíkem (SpO2)) a klinickým hodnocením je nezbytné. Musí být známá nejnižší možná efektivní koncentrace kyslíku v inhalovaném vzduchu u každého pacienta. V případě nepředvídaných případů cyanózy v průběhu anestézie pomocí zařízení pro podávání kyslíku a Oxidu dusného medicinálního Air Products je na prvním místě vhodné zastavit dodávku Oxidu dusného medicinálního Air Products.
+Pokud cyanóza rychle nevymizí, musí být pacient mechanicky ventilován za použití vaku naplněného vzduchem. V případě opakování musí být anestézie v místě léčby zastavena a měla by se provést analýza plynů dodávaných rozvodovými ventily.
+
+U pacientů s poruchou ventilace se může objevit hypoxie, po ukončení podávání Oxidu dusného medicinálního Air Products ve směsi s kyslíkem způsobená uvolněním oxidu dusného z těla do plic. Po ukončení podávání Oxidu dusného medicinálního Air Products mohou být plíce přechodně ventilovány 100% medicinálním kyslíkem.
+Monitorování tlaku kyslíku a saturace má pokračovat po dobu 15 minut od ukončení podávání
+Oxidu dusného medicinálního Air Products.
+
+Opakované podávání oxidu dusného nebo expozice této látce mohou vést k závislosti. U pacientů se zneužíváním návykových látek v anamnéze nebo u odborníků ve zdravotnictví, kteří jsou vystaveni působení oxidu dusného v zaměstnání, je třeba postupovat s opatrností.
+
+V následujících situacích by mělo být podávání Oxidu dusného medicinálního Air Products
+prováděno s velkou opatrností:
+
+•  Podání oxidu dusného medicinálního Air Products může zvýšit tlak v balónku zavedeném do trachey nebo nafukovacím balónku pro použití při jiné proceduře (např. balónku pro okluzi cévy). Tato vzduchem plněná lékařská zařízení mohu selhat (tj. prasknout), pokud jsou vystavena celkové anestézii na bázi dusíku.
+•  Při dekompenzaci srdečního selhávání
+•  Pacienti s hypovolémií jako důsledku šoku nebo srdečního selhání (závažná hypotenze)
+•  Pacienti s neléčeným deficitem vitamínu B12, Biermerovou anémií, Crohnovou chorobou nebo vegetariáni. Vzhledem k interferenci oxidu dusného s vitaminem B12, který je kofaktor methionin-syntázy, může dojít k rozvoji megaloblastické anémie, kterou lze zvrátit podáním kyseliny folinové. Následně je narušen metabolismus folátů a po dlouhodobém podávání oxidu dusného je rovněž narušena syntéza DNA. Mohou se také objevit poruchy nervového systému, které mohou vést k poruše methylace základních proteinů myelinových pouzder. Dlouhodobé nebo časté užívání oxidu dusného může vést k megaloblastickým změnám dřeně, myeloneuropatii a subakutní kombinované degeneraci míchy. Oxid dusný nemá být používán bez důkladného klinického a hematologického sledování. V takových případech má být vyžádána odborná konzultace hematologa.
+•  Hematologické vyšetření má zahrnovat hodnocení megaloblastické změny v červených krvinkách a hypersegmentace neutrofilů. Neurologická toxicita se může vyskytnout bez anémie nebo makrocytózy a s hladinami vitamínu B12 v normálním rozmezí. U pacientů s nediagnostikovaným subklinickým deficitem vitamínu B12 došlo k výskytu neurologické toxicity po jednorázové expozici oxidu dusnému během anestezie.
+
+3
+
+•  U pacientů léčených bleomycinem, kde zvýšená koncentrace kyslíku během techniky sedace pomocí inhalace způsobuje zvýšené riziko plicní toxicity.
+•  U srpkovité anémie
+•  Při porodu, kdy se podávání Oxidu dusného medicinálního Air Products v kombinaci s opiáty nedoporučuje, protože může tlumit vědomí.
+•  Podávání oxidu dusného musí být zastaveno nejméně 15 minut před injekcí očního plynu. Po nitrooční injekci musí uplynout dostatečné množství času vzhledem k riziku poruch vidění. Pacienti, kteří podstoupili oftalmologickou operaci, NESMÍ po dobu nejméně 3 měsíců podstoupit anestézii s oxidem dusným.
+•  Při současném podávání benzodiazepinů pro potlačení strachu při dentálních zákrocích, protože může dojít ke ztrátě vědomí.
+
+Oxid dusný medicinální Air Products je bezbarvý plyn se slabě sladkým zápachem, není toxický ani hořlavý, ale jde o plyn podporující hoření, je těžší než vzduch a akumuluje se v nízce položených místech.
+Při použití Oxidu dusného medicinálního Air Products dochází k postupnému uvolnění z pacienta do okolního vzduchu. Použití dvojitých extrakčních obličejových masek a dostatečně vysoká úroveň ventilace (20krát za hodinu) musí zajistit, že průměrná koncentrace zůstane pod nastavenou hodnotou MAC (maximální přípustná koncentrace, 50 ppm nebo 152mg/m³). Případy snížené fertility a kongenitálních abnormalit u zdravotnického a pomocného personálu byly zaznamenány při opakované expozici Oxidu dusnému medicinálnímu Air Products ve špatně větraných prostorách. Zejména vrcholová expozice u žen v těhotenství, v druhém a třetím měsíci po poslední menstruaci, je považována za zodpovědnou za tento účinek. Pokud není možné zabránit vrcholovým expozicím v tomto období, nesmí tito zaměstnanci provádět jakékoli aktivity v místech, v nichž se tyto vrcholové expozice mohou objevit. Dále je třeba dodržovat aktuální směrnice týkající se použití Oxidu dusného medicinálního Air Products.
+
+Obecně je profesionálům doporučováno vyhýbat se přímé inhalaci vzduchu, který je vydýcháván pacienty.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nejsou známy žádné farmakokinetické interakce mezi jednotlivými léky.
+Oxid dusný medicinální Air Products působí přímo na opiátové receptory (sybtypy OP2 a OP3), GABA receptory (subtyp A) a glutamátové receptory (subtyp NMDA).
+Interakce s dalšími léky není možné vysvětlit tímto vzájemným působením.
+Veškerá (inhalační) anestetika působí na GABA a glutamátové receptory a mají aditivní efekt na sedativní účinky Oxidu dusného medicinálního Air Products.
+Oxid dusný medicinální Air Products snižuje minimální alveolární koncentraci inhalačních anestetik. Oxid dusný medicinální Air Products je používán ke snížení nutné dávky jiných anestetik, ale také ke zkrácení času úvodu při použití inhalačních anestetik.
+Opiáty mají aditivní účinek na analgetický a sedativní účinek Oxidu dusného medicinálního Air Products.
+
+Benzodiazepiny a barbituráty působí na benzodiazepinový receptor a alosterické vazebné místo, resp. GABA receptorový komplex a zvyšují účinky Oxidu dusného medicinálního Air Products.
+Nenasycený hemoglobin se může objevit, pokud je Oxid dusný medicinální Air Products
+kombinován se sedativy.
+
+4
+
+Oxid dusný medicinální Air Products zvyšuje myorelaxační účinek nedepolarizujících myorelaxantů (kam patří cisatrakurium, pankuronium, galamin, tubokurarin a vekuronium) Antiproliferační účinek Oxidu dusného medicinálního Air Products je založen na deaktivaci vitamínu B12 oxidem dusným. Tento efekt vymizí po ukončení podávání Oxidu dusného medicinálního Air Products a při současném podávání vitamínu B12. Deaktivací vitamínu B12 Oxidem dusným medicinálním Air Products se zvyšuje toxicita nitroprusidu sodného a methotrexátu
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Omezená data z krátkodobého použití oxidu dusného v těhotenství u člověka neprokazují zvýšené riziko kongenitálních abnormalit. Oxid dusný medicinální Air Products může ve vzácných případech způsobovat útlum dýchání u novorozence. V experimentálních studiích na zvířatech byla pozorována reprodukční toxicita (viz 5.3.).
+
+V těhotenství má být Oxid dusný medicinální Air Products používán léčebně pouze v případě, že je nezbytně nutný. Dlouhodobému nebo častému použití se má zabránit. Při použití při porodu má být novorozenec zkontrolován ohledně možnosti útlumu dýchání.
+
+Kojení
+Neexistují data o vylučování Oxidu dusného medicinálního Air Products do mateřského mléka. Po krátké expozici Oxidu dusnému medicinálnímu Air Products není nutné kojení přerušit.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Oxid dusný medicinální Air Products zásadně ovlivňuje schopnost řídit a používat stroje. Po dobu 24 hodin po celkové anestézii s Oxidem dusným medicinálním Air Products v kombinaci s jinými anestetiky nebo analgetiky se nedoporučuje řídit.
+Po ukončení krátkodobého podávání Oxidu dusného medicinálního Air Products pro analgetické účinky je třeba ambulantní pacienty, kteří musí řídit nebo používat stroje, sledovat, dokud jakékoli nežádoucí účinky nevymizí a pacient není opět při plném vědomí, jako před podáním Oxidu dusného medicinálního Air Products.
+
+4.8  Nežádoucí účinky
+
+Známé nežádoucí účinky byly klasifikovány podle účinků na jednotlivé systémy orgánů. Klasifikace podle četnosti není k dispozici, protože dosud nebyly provedeny strukturované studie. Přibližný racionální odhad četnosti provedený podle dostupné literatury je uveden v následující tabulce. Popis četnosti výskytu: velmi časté (≥1/10); časté (≥ 1/100 < 1/10); méně časté (≥1/1 000 <1/100), vzácné (≥1/10 000 <1/1 000); velmi vzácné (<1/10 000); není známo (z dostupných údajů nelze určit).
+
+V každé skupině četnosti výskytu jsou nežádoucí účinky uvedeny podle stupně závažnosti (sestupně).
+
+
+
+Tělesný systém Velmi
+časté
+Časté    Méně časté  Vzácné  Velmi vzácné  Četnost není
+známo
+
+
+
+5
+
+Tělesný systém
+
+
+Poruchy krve a lymfatického systému
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Srdeční
+poruchy
+Vrozené, familiární nebo genetické poruchy
+
+
+
+
+
+
+Poruchy ucha a labyrintu
+Velmi
+časté
+Časté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy středního ucha
+(Přechodn é zvýšení tlaku a/nebo objemu uzavřenýc h dutin)
+Méně časté
+Vzácné
+Velmi vzácné
+
+Megaloblastick
+á anémie
+Granulocytope nie
+
+(V případě podávání po dobu delší než 24 hodin.
+Předpokládá se, že jednorázové vystavení po dobu do 6 hodin nepředstavuje žádné nebo jen velmi vzácné riziko u pacientů bez předchozích hematologický ch poruch.)
+Arytmie
+Srdeční selhání
+Mnohočetné vrozené abnormality
+(U
+zdravotnického a pomocného personálu
+v případě opakované expozice)
+Četnost není známo
+
+
+
+
+
+
+
+
+
+6
+
+Tělesný systém
+
+Poruchy oka
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gastrointestinál ní poruchy
+
+
+
+
+
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+Poruchy jater a
+žlučových cest
+Zranění, otrava a procedurální komplikace
+Velmi
+časté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nauzea Zvracení Abdomináln
+distenze
+(Přechodné zvýšení tlak a/nebo objemu střev a abdominální dutiny
+Časté
+
+Okulární hypertenz e
+(Přechodn é zvýšení tlaku a/nebo objemu)
+Bolest oka Okluze
+retinální
+artérie
+Slepota
+Méně časté
+Vzácné
+Velmi vzácné
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Porucha
+chůze
+
+
+Hepatická nekróza
+Syndrom cerebrální hyperfúze
+Komplikace při použití zdravotnickéh o zařízení (zvýšení tlaku v nafukovací m balónku)
+Četnost není známo
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+Tělesný systém
+
+Poruchy metabolismu a přijmu výživy
+
+
+
+
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Poruchy nervového systému
+Velmi
+časté
+Časté
+Méně časté
+Vzácné
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paraplegi e
+Paraparé
+za*
+Velmi vzácné
+
+Deficit vitaminu B12
+Hyperhomocy
+steinémie (Obě se
+mohou
+vyskytnout při jednorázové expozici kratší než 6 hodin.)
+Svalová
+slabost
+
+
+
+
+Epilepsie
+Zvýšení nitrolebečníh o tlaku
+Periferní
+neuropatie* Encefalotopie Senzorické
+poruchy
+Abnormální
+reflexy Bolest hlavy
+Snížená úroveň vědomí
+Četnost není známo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Myelopatie
+Subakutní kombinovaná degenerace míchy
+Polyneuropati e
+Generalizova
+né záchvaty
+*Velmi vzácné, pokud je doba jednorázové expozice kratší než 6 hodin a pacient netrpí deficitem vitaminu B12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+Tělesný systém
+
+Psychiatrické
+poruchy
+Velmi
+časté
+Časté
+Méně časté
+
+Halucinace (Psychodysl
+eptické
+účinky se mohou vyskytnout při absenci kombinace s jiným anestetikem
+. Tato kombinace se běžně používá, protože oxid dusný je pouze pomocná látka při anestézii.
+Vzácné
+Velmi vzácné
+
+Psychotické
+poruchy
+Známky
+zmatenosti Úzkost Euforické
+stavy
+Četnost není známo
+Závislost
+
+
+Poruchy reprodukčního systému a prsu
+
+
+
+
+
+
+Respirační, hrudní a mediastinální poruchy
+
+
+
+
+Cévní poruchy
+
+
+
+
+
+
+
+
+
+Hypoxie (Po dobu
+několika
+minut po ukončen podávání oxidu dusného.)
+Neplodnost (U
+zdravotnickéh
+o a pomocného personálu
+v případě opakované expozice)
+Pneumotorax
+
+
+
+
+
+
+
+Hypotenze
+Šok
+
+Hlášení podezření na nežádoucí účinky:
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+9
+
+Důsledky předávkování Oxidem dusným medicinálním Air Products vedou k akutnímu nedostatku kyslíku a nejsou spojeny s účinky týkajícími se interakce receptoru s Oxidem dusným medicinálním Air Products nebo deaktivace vitamínu B12 oxidem dusným.
+Nedostatek kyslíku může v závislosti na závažnosti a trvání způsobovat hypoxii nebo cyanózu.
+V případě předávkování je vhodné přímo zastavit podávání Oxidu dusného medicinálního Air Products a pacienta aktivně nebo pasivně ventilovat vzduchem nebo kyslíkem, dokud nebude dosažen normální stav kyslíku.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: ostatní celková anestetika ATC kód: N01AX13
+
+Oxid dusný medicinální Air Products je poměrně slabé anestetikum s dobrými analgetickými vlastnostmi. Analgetické působení oxidu dusného medicinálního Air Products je založeno na působení na opiátové receptory; anestetické působení oxidu dusného je způsobeno interakcí s GABA receptory a glutamátovými receptory.
+Oxid dusný medicinální Air Products nemá svalově relaxační účinek. Při koncentraci 50 % je efekt Oxidu dusného medicinálního Air Products analgetický; anestetický efekt nastane při koncentraci 105 % (MAC). Anestetický účinek nastane, pouze pokud je Oxid dusný medicinální Air Products použit v kombinaci s dalším inhalačním anestetikem nebo intravenózně podávaným anestetikem.
+V kombinaci s jiným inhalačním anestetikem pak 50-70% koncentrace Oxidu dusného medicinálního Air Products sníží minimální alveolární koncentraci (MAC) nutnou pro dosažení anestézie o přibližně 50 %.
+
+Oxid dusný medicinální Air Products nemá žádný přímý účinek na funkci plic a výměnu plynů. Oxid dusný medicinální Air Products má však nepřímý účinek na výměnu plynů, protože oxid dusný se lépe rozpouští v krvi než dusík. Oxid dusný medicinální Air Products se tak vstřebá v plicích rychleji než dusík, v důsledku čehož se koncentrace (parciální tlaky) ostatních plynů, kyslíku a inhalačních anestetik zároveň zvýší. A v průběhu úvodní fáze (5 minut) podávání Oxidu dusného medicinální Air Products dojde ke zvyšování absorpce ostatních plynů, dokud nenastane rovnováha mezi objemem inhalovaného a exhalovaného oxidu dusného. Během úvodní fáze podávání Oxidu dusného medicinálního Air Products bude koncentrace oxidu uhličitého v exhalovaném vzduchu vyšší.
+
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce:
+Inhalovaný Oxid dusný medicinální Air Products je absorbován tlakově závislou výměnou plynů mezi alveolárním plynem a kapilární krví, která prochází alveoly. Oxid dusný medicinální Air Products je transportován v rozpuštěné formě systémovou cirkulací do všech tkání těla. Oxid dusný medicinální Air Products je po vdechnutí rychle absorbován. Alveolární koncentrace se přibližuje inhalované koncentraci do 5 minut. Začátek účinku se objevuje po 2-5 minutách. Koeficient distribuce mezi krví a plynem je nízký při 0.47.
+
+Distribuce:
+10
+
+Koncentrace v tkáních dobře zásobených krví, zejména mozku, se přibližuje inhalované koncentraci do 5 minut. Oxid dusný medicinální Air Products se rozpouští 35krát lépe v krvi než dusík. Výsledkem je, že difunduje rychleji do uzavřené dutiny obsahující vzduch, než dusík difunduje ven. Má-li dutina rigidní stěny, tlak se zvyšuje. Nejsou-li stěny rigidní, zvětšuje se objem. Z toho plynou kontraindikace, jako je pneumothorax, vzduchová embolie a volný vzduch v dutině břišní.
+
+
+Biotransformace:
+Oxid dusný medicinální Air Products není metabolizován. Jedinou transformací, ke které dochází, je reakce s vitamínem B12.
+
+Eliminace:
+Oxid dusný medicinální Air Products je rychle vylučován bez změny plícemi a v malém množství stolicí a kůží.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+U hlodavců bylo po kontinuální expozici vysokým hladinám oxidu dusného zaznamenáno snížení fertility, zvýšení mortality plodů, zvýšené riziko potratu, snížený růst plodu, kosterní abnormality a situs viscerum inversus. Krátkodobá expozice oxidu dusnému může způsobit poškození neuronů zadní cingulární/retrospleniální kůry, které je reversibilní. Další expozice může vést k buněčné smrti neuronů. Těmto neurotoxickým účinkům, včetně buněčné smrti, je možné zabránit anestetiky s GABA-mimetickým účinkem.
+
+Trvání blokády glutamátového receptoru (NMDA subtyp) se zdá být zásadním faktorem. Není jasné, zda je možné tyto účinky očekávat i u člověka a pokud ano, tak do jakého rozsahu a i když je oxid dusný používán po dobu více než 150 let, nebyly dosud publikovány žádné účinky.
+
+S ohledem na fakt, že je oxid dusný podáván ve vyšších dávkách pouze v průběhu anestézie a nejlépe po dobu méně než 6-ti hodin a současně jsou vždy podávána další anestetika, není možné přesně určit, do jaké míry jsou tyto účinky snižovány, nebo je jim bráněno takovými anestetiky.
+
+Oxid dusný deaktivuje vitamín B12, koenzym methionin-syntetázy, což je enzym zodpovědný za vznik tetrahydrofolátu a methioninu, které jsou nutné pro syntézu DNA a metylační procesy v těle.
+
+Neklinická data neodhalila genotoxický účinek přípravku.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Žádné.
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+11
+
+6.3  Doba použitelnosti
+
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+-    Tlakové láhve mají být uchovávány při teplotě od –20°C do +65°C.
+-    Tlakové láhve mají být uchovávány na dobře větraném místě speciálně vyčleněném pro skladování medicinálních plynů. Ve skladě se nesmí vyskytovat hořlavé materiály.
+-    Jakýkoli kontakt s tukem, oleji nebo jinými uhlovodíky je zakázán.
+-    Tlakové láhve mají být uchovávány ve svislé poloze, láhve s kulatým dnem musí být uchovávány svisle v paletě.
+-    Tlakové láhve je třeba chránit proti upadnutí nebo nárazy, například pomocí následujících opatření: zajištěním tlakových lahví nebo umístěním do palety.
+-    Tlakové láhve obsahující jiný typ plynu, nebo které mají jiné složení, mají být uchovávány odděleně.
+-   Plné a prázdné tlakové láhve mají být uchovávány odděleně.
+-   Tlakové láhve nesmí být skladovány v blízkosti zdrojů tepla.
+-    Tlakové láhve mají být skladovány tak, aby byly chráněné před vlivy počasí.
+-    Uzavírací ventily tlakových lahví pro oxid dusný jsou vybaveny pojistnou membránou, která brání prasknutí lahve při působení nadměrného tlaku. V důsledku nadměrné teploty může pojistná membrána selhat, což způsobí uvolnění celého obsahu láhve.
+V takovém případě nevstupujte do místa skladování a dobře ho větrejte, dokud není vyčištěno odborníkem.
+
+6.5  Druh obalu a velikost balení
+
+Oxid dusný medicinální Air Products je dodáván v tlakových lahvích v kapalném skupenství, pod tlakem. Tlakové lahve jsou vyrobeny z oceli nebo hliníku. Vrchní část válce tlakové nádoby má modrou barvu. Ventily jsou vyrobeny z mosazi, oceli nebo hliníku.
+Tlakové láhve na plyn s kapacitou x litrů obsahují y kilogramů (hmotnostních jednotek) oxidu
+dusného při teplotě 15 °C.
+
+Tlakové lahve - Oxid dusný medicinální Air Products
+Obsah (x) v litrech         0,5    1     2     3     4      5       7      10      13      15
+Počet kilogramů oxidu
+dusného (y)           0,375   0,75   1,50   2,25   3,00    3,75     5,25     7,50     9,75    11.25
+
+Obsah (x) v litrech Počet kilogramů oxidu dusného (y)
+20
+15,00
+25
+18,75
+30
+22,50
+40
+30,00
+50
+37,50
+450 (9x50)
+337,50
+600 (12x50)
+450,00
+800 (16x50)
+600,00
+900 (18x50)
+675,00
+Tlakové lahve - Oxid dusný medicinální Air Products (viz poznámka (1))
+Obsah (x) v litrech         0,5    1     2     3     4      5       7      10      13      15
+
+Materiál tlakové lahve a typ
+ventilu
+s,a & p,h
+s,a & p,h
+s,a & p,h
+s,a & p,h
+s,a &
+p,h   s,a & p,h   s,a & p,h   s,a & p,h   s,a & p,h
+s,a & p,h
+
+
+
+Obsah (x) v litrech
+Materiál tlakové lahve a typ
+ventilu
+poznámka (1):
+
+
+20
+s,a & p,h
+
+
+25
+s,a & p,h
+
+
+30
+
+s & p,h
+
+
+40
+
+s & p,h
+
+
+50
+
+s & p,h
+
+450 (9x50)
+
+s & h
+
+600 (12x50
+
+s & h
+
+800 (16x50
+
+s & h
+
+900 (18x50
+
+s & h
+
+12
+
+s: označuje ocelovou tlakovou láhev
+a: označuje tlakovou láhev s hliníkovou nebo hliníkovou a
+plastovou vrstvou
+p: označuje ventil typu pin-index
+h: označuje ruční otočný ventil
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Dodržujte doporučení dodavatele, zejména:
+•  Podávání Oxidu dusného medicinálního Air Products může být prováděno pouze při použití vhodné kontroly tlaku a průtoku mezi lahví a pacientem.
+•  Před otevřením ventilu tlakové láhve, má být tato nádoba umístěna do vertikální
+polohy a uchovávána v této poloze i v průběhu podávání.
+•  Podávání Oxidu dusného medicinálního Air Products se má provádět společně s podáváním kyslíku pomocí směšovače. Tlak Oxidu dusného medicinálního Air Products v hadicích má být vždy nižší než tlak kyslíku.
+•  V případě použití variabilního směšovače je doporučeno monitorování pomocí kyslíkového analyzátoru.
+•  Tlaková láhev nesmí být používána, je-li viditelně poškozena nebo v případě, že je podezření na její poškození nebo expozici extrémním teplotám.
+•  Zabraňte jakémukoli kontaktu s oleji, tukem nebo jinými uhlovodíky.
+•  Používejte pouze vybavení vhodné pro použití s tlakovou lahví a specifickým plynem.
+•  Při otevírání a uzavírání ventilu tlakové lahve nesmí být použity kleště nebo jiné nástroje, aby se zabránilo riziku poškození.
+•  Forma balení nesmí být měněna.
+•  Přemísťování plynu pod tlakem není dovoleno
+•  Zařízení s centrálním skladováním, distribuční sítí, rozvody, odběrovými body a přípojkami mají vyhovovat platné legislativě
+•  Vypouštění plynu pod tlakem není povoleno.
+•  Oxid dusný medicinální Air Products je netoxický plyn, těžší než vzduch a podporuje hoření. V kombinaci se vznětlivými narkotickými plyny nebo výpary může dojít ke vzniku třaskavé směsi, a to i bez přítomnosti kyslíku.
+•  Oxid dusný medicinální Air Products může způsobit náhlé vzplanutí žhavých nebo doutnajících materiálů. Je proto zakázáno kouřit nebo pracovat s otevřeným ohněm v blízkosti tlakové nádoby.
+•  V případě úniku má být ventil tlakové lahve okamžitě uzavřen, pokud tak lze učinit bezpečně. Není-li možné ventil uzavřít, musí se láhev nechat vyprázdnit na bezpečném místě venku.
+•  Ventily prázdných tlakových lahví mají být uzavřeny.
+•  Prázdné nádoby vraťte po použití dodavateli.
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+AIR PRODUCTS spol. s r.o.
+J. Š. Baara 2063/21 405 02 Děčín Česká republika
+
+
+
+13
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+89/472/09-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 10. 6. 2009
+Datum posledního prodloužení registrace: 5. 6. 2013
+
+
+10.  DATUM REVIZE TEXTU
+
+21. 8. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

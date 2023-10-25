@@ -1,0 +1,446 @@
+sp. zn. sukls108262/2019
+Souhrn údajů o přípravku
+
+1.   NÁZEV PŘÍPRAVKU
+
+neoHepatect 50 IU/ml infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Immunoglobulinum humanum hepatitidis B
+Proteinum plasmatis humani 50 g/l odpovídá immunoglobulinum humanum G minimálně
+96%, obsahující protilátky proti virovému povrchovému antigenu hepatitidy B (HBs) 50 IU/ml.
+Jedna 2 ml injekční lahvička obsahuje: 100 IU Jedna 10 ml injekční lahvička obsahuje: 500 IU Jedna 40 ml injekční lahvička obsahuje: 2000 IU Jedna 100 ml injekční lahvička obsahuje: 5000 IU
+
+Distribuce IgG podtříd (přibližné hodnoty):
+IgG1: 59%
+IgG2: 35%
+IgG3: 3%
+IgG4: 3%
+
+Maximální obsah IgA je 2000 mikrogramů/ml. Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Infuzní roztok.
+
+Roztok je čirý nebo slabě opalescentní a bezbarvý až bledě žlutý.
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Prevence reinfekce virovou hepatitidou B po transplantaci jater, kdy byla hepatitida B
+příčinou selhání jater. Imunoprofylaxe hepatitidy B
+-  V případě náhodné expozice osob, které nebyly imunizovány (včetně osob, které nemají úplnou imunizaci nebo osob, o kterých se neví, jestli byly imunizovány).
+-  U pacientů na hemodialýze po dobu, dokud se neprojeví účinnost očkování.
+
+
+
+1
+
+-  U novorozenců infikovaných matkou, která je nositelkou viru hepatitidy B.
+
+-  U osob, u kterých není prokazatelná reakce na imunizaci (nejsou měřitelné protilátky proti hepatitidě B), a u kterých je nutná stálá prevence z důvodu trvalého rizika infekce hepatitidou B.
+
+4.2  Dávkování a způsob podání Dávkování
+Prevence reinfekce virovou hepatitidou B po transplantaci jater, kdy byla hepatitida B
+příčinou selhání jater:
+
+Dospělí:
+10 000 IU v den, kdy byla provedena transplantace (peroperačně), potom 2 000-10 000 IU (40-200 ml) denně po dobu 7 dnů, a dle potřeby za účelem udržení hladiny protilátek nad 100-150 IU/l u HBV-DNA negativních pacientů a nad 500 IU/l u HBV-DNA pozitivních pacientů.
+Děti:
+Dávkování musí být v souladu s velikostí tělesného povrchu v poměru 10 000 IU/1,73 m².
+Imunoprofylaxe hepatitidy B
+
+- Prevence hepatitidy B v případě náhodné expozice osob, které nebyly imunizovány: Nejméně 500 IU (10 ml), v závislosti na intenzitě expozice, a to co nejdříve po expozici, nejlépe však v průběhu 24-72 hodin.
+
+- Imunoprofylaxe hepatitidy B u pacientů na hemodialýze:
+8–12 IU (0,16-0,24 ml)/kg, maximálně do 500 IU (10 ml), každé dva měsíce než dojde k sérokonverzi po vakcinaci.
+- Prevence hepatitidy B u novorozenců infikovaných matkou, která je nositelkou viru hepatitidy B, při porodu a co nejdříve po narození: 30-100 IU (0,6-2 ml)/kg. Podání imunoglobulinu proti hepatitidě B se může opakovat než dojde k sérokonverzi po vakcinaci.
+
+Ve všech případech se vakcinace proti hepatitidě B velmi doporučuje. První vakcinační dávka
+se může podat ve stejný den jako imunoglobulin proti hepatitidě B, avšak do jiné části těla.
+
+U osob, které nereagují na imunizaci (nedají se u nich zjistit protilátky proti hepatitidě B),
+a u kterých je nutná stálá prevence, je možné podání 500 IU (10 ml) u dospělých a 8 IU (0,16 ml) u dětí každé dva měsíce. Za minimální ochranný titr protilátek se považuje 10 mIU/ml.
+
+Porucha funkce jater
+Není k dispozici žádný důkaz, že by bylo potřeba upravit dávku.
+Porucha funkce ledvin
+Žádná úprava dávky, pokud to není klinicky vyžadováno, viz bod 4.4.
+
+Starší pacienti
+Žádná úprava dávky, pokud to není klinicky vyžadováno, viz bod 4.4.
+
+Způsob podání
+
+
+
+2
+
+Intravenózní podání
+neoHepatect se podává intravenózní infuzí, počáteční rychlostí 0,1 ml/kg/h v průběhu
+10 minut. Viz bod 4.4. V případě nežádoucího účinku je nutno buď snížit rychlost podávání, nebo zastavit infuzi. Jestli infuzi pacient snáší, rychlost se může postupně zvýšit maximálně na 1 ml/kg/h.
+Klinické zkušenosti u novorozenců infikovaných matkou, která je nositelkou virové hepatitidy B, poukazují na to, že novorozenci dobře snášeli rychlost infuze v hodnotě 2 ml v průběhu 5 až 15 minut.
+4.3  Kontraindikace
+
+•  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě
+6.1 nebo na lidský imunoglobulin.
+•  Pacienti se selektivním deficitem IgA, u nichž se vyvinuly protilátky proti IgA, protože podávání přípravku obsahujícího IgA může mít za následek anafylaxi.
+4.4  Zvláštní upozornění a opatření pro použití
+Sledovatelnost
+Aby se zlepšila sledovatelnost biologických léčivých přípravků má se přehledně zaznamenat
+název podaného přípravku a číslo šarže.
+
+Opatření pro použití
+Monitorování hladiny anti-HBs protilátek
+U pacientů se musí pravidelně monitorovat hladina anti-HBs protilátek v séru. Dávkování je
+třeba nastavit tak, aby byly zachovány terapeutické hladiny protilátek a aby nedošlo
+k poddávkování (viz bod 4.2).
+
+Potenciálním komplikacím se lze často vyhnout zajištěním, že pacienti:
+•  nejsou citliví na lidské imunoglobuliny tak, že je první injekce přípravku neoHepatect
+podána pomalu (0,1 ml/kg/h)
+•  jsou pečlivě monitorováni, zda se u nich po dobu infuze neobjevují nějaké příznaky. Týká se to zvláště pacientů, kteří dostávají přípravky s normálním humánním imunoglobulinem poprvé, pacientů, kteří jsou převedeni z jiných imunoglobulinů nebo u nichž uplynul dlouhý interval od podání předchozí infuze. Tito pacienti mají být
+monitorováni v nemocnici během první infuze a jednu hodinu po první infuzi, aby se zachytily možné známky nežádoucího účinku. Všichni ostatní pacienti mají být
+sledováni minimálně 20 minut po podání.
+
+Zejména při aplikaci ve vyšších dávkách podávání intravenózního humánního
+imunoglobulinu vyžaduje:
+•  adekvátní hydrataci před zahájením infuze humánních imunoglobulinů,
+•  sledování výdeje moči,
+•  sledování hladin kreatininu v séru,
+•  vyhnout se současnému podávání kličkových diuretik (viz bod 4.5).
+V případě nežádoucího účinku je nutno buď snížit rychlost podávání, nebo infuzi zastavit.
+Potřebná léčba závisí na povaze a závažnosti nežádoucího účinku.
+Reakce na infuzi
+Některé nežádoucí účinky (např. bolest hlavy, zrudnutí, zimnice, myalgie, sípání, tachykardie, bolest v dolní části zad, nauzea a hypotenze) mohou být způsobeny rychlostí podávání infuze. Doporučená rychlost podání infuze uvedená v bodě 4.2 Způsob podání se musí přísně
+
+
+
+3
+
+dodržovat. Pacienti musí být důkladně monitorováni a pečlivě pozorováni, zda se u nich v
+době infuze neobjeví jakékoli příznaky.
+
+Nežádoucí účinky se mohou vyskytovat častěji
+•  v případech, kdy je rychlost infuze vysoká,
+•  u pacientů s hypo- nebo agammaglobulinemií s deficitem nebo bez deficitu IgA,
+•  u pacientů, kteří dostávají lidské imunoglobuliny poprvé, nebo ve vzácných případech, když se přejde na jiný přípravek s lidským imunoglobulinem nebo v případě dlouhého intervalu od předchozí infuze
+•  u pacientů s neléčenou infekcí nebo základním chronickým zánětem.
+
+Hypersenzitivita
+Hypersenzitivní reakce se vyskytují vzácně.
+
+neoHepatect obsahuje malé množství IgA. U osob, které mají IgA deficit, existuje potenciál pro tvorbu IgA protilátek a po podání krevních komponentů obsahujících IgA se může u nich projevit anafylaktická reakce. Lékař by měl proto zvážit prospěch léčby s použitím neoHepatect a proti potenciálnímu riziku vyvolání hypersenzitivních reakcí.
+
+Lidský imunoglobulin proti hepatitidě B může vzácně vyvolat pokles krevního tlaku
+s anafylaktickou reakcí, dokonce i u pacientů, kteří dříve snášeli léčbu imunoglobulinem.
+
+Pokud existuje podezření na vznik alergické nebo anafylaktické reakce, musí se aplikace
+okamžitě přerušit. V případě šoku se musí zavést standardní lékařské postupy pro léčbu šoku.
+
+Interference se sérologickými testy
+Po podání imunoglobulinu může přechodné zvýšení různých pasivně přenášených protilátek v
+pacientově krvi způsobit zavádějící pozitivní výsledky u sérologických testů.
+
+Pasivní přenos protilátek proti erytrocytárním antigenům, např. A, B, D, může interferovat s některými sérologickými testy na stanovení protilátek proti erytrocytům, např. s přímým antiglobulinovým testem (DAT, Coombsův test).
+
+Přenosná agens
+Standardní opatření pro prevenci vzniku infekcí v souvislosti s používáním léčivých přípravků, vyrobených z lidské krve nebo plazmy zahrnují pečlivý výběr dárců, testování jednotlivých odběrů krve a plazmatických poolů na specifické ukazatele infekce a určité efektivní výrobní kroky k inaktivizaci/odstranění virů. Přes všechna tato opatření při přípravě léčivých přípravků vyráběných z lidské krve nebo plasmy se nemůže zcela vyloučit možnost přenosu infekčních agens. To se vztahuje také na neznámé nebo nově vznikající viry nebo jiné patogeny.
+Tato opatřeni jsou považována za účinná pro obalené viry, jako jsou virus lidské
+imunodeficience (HIV), virus hepatitidy B (HBV) a virus hepatitidy C (HCV). Přijatá
+opatření mohou mít omezenou účinnost proti neobaleným virům jako virus hepatitidy A (HAV) a parvovirus B19.
+Klinické zkušenosti potvrzují, že k přenosu hepatitidy A nebo parvoviru B19 pomocí imunoglobulinů nedochází a předpokládá se, že obsah protilátek významně přispívá k protivirové ochraně.
+
+Následující nežádoucí účinky jsou spojeny s použitím lidského normálního imunoglobulinu k intravenóznímu podání (IVIg):
+
+
+
+
+
+4
+
+Tromboembolie
+Bylo klinicky prokázáno, že existuje souvislost mezi aplikací IVIg a tromboembolickými příhodami, jako je infarkt myokardu, cévní mozková příhoda, plicní embolie a hluboké žilní trombózy. Předpokládá se, že tyto příhody souvisí s relativním zvýšením viskozity krve
+způsobeným vysokým přívodem imunoglobulinu u rizikových pacientů. Opatrnosti je
+zapotřebí při předepisování a infuzi IVIg u obézních pacientů a u pacientů s preexistujícími rizikovými faktory pro vznik trombotických příhod (jako je pokročilý věk, hypertenze, diabetes mellitus a anamnéza cévního onemocnění nebo trombotických epizod, pacienti se získanými nebo dědičnými trombofiliemi, pacienti, kteří jsou dlouhou dobu imobilizováni, pacienti se závažnou hypovolemií a pacienti s onemocněními, která zvyšují viskozitu krve).
+U pacientů s rizikem tromboembolických nežádoucích účinků mají být přípravky IVIg
+podávány minimální infuzní rychlostí v nejnižší možné dávce.
+
+Akutní renální selhání
+U pacientů léčených IVIg byly hlášeny případy akutního renálního selhání. Ve většině případů byly identifikovány rizikové faktory, jako je preexistující renální insuficience, diabetes mellitus, hypovolemie, nadváha, současné podávání nefrotoxických léčivých přípravků nebo věk nad 65 let.
+
+Před infuzí IVIg mají být vyhodnoceny renální parametry, zejména u pacientů, u kterých se má za to, že u nich existuje potenciálně zvýšené riziko vývoje akutního selhání ledvin, a dále ve vhodných intervalech. U pacientů s rizikem akutního selhání ledvin mají být přípravky IVIg podávány minimální infuzní rychlostí v nejnižší možné dávce. V případě poruchy funkce ledvin má být zváženo přerušení léčby IVIg.
+
+Přestože hlášení o dysfunkci ledvin a akutním selhání ledvin byla spojována s použitím mnoha registrovaných přípravků IVIg obsahujících různé pomocné látky, jako je sacharóza, glukóza a maltóza, z celkového počtu představují disproporcionální podíl ty, které obsahují sacharózu jako stabilizátor.
+U rizikových pacientů lze zvážit použití přípravků obsahujících lidský imunoglobulin, které neobsahují tyto pomocné látky. Přípravek neoHepatect neobsahuje sacharózu, maltózu ani glukózu.
+
+Syndrom aseptické meningitidy (AMS)
+Ve spojení s léčbou IVIg byl hlášen syndrom aseptické meningitidy. Syndrom obvykle nastupuje během několika hodin až do 2 dnů po léčbě IVIg. Vyšetření mozkomíšního moku je často pozitivní, s pleocytózou až několik tisíc buněk v mm³, zejména granulocytů, a
+zvýšenými hladinami proteinu až na několik set mg/dl.
+AMS se může objevit častěji ve spojení s léčbou vysokými dávkami IVIg (2 g/kg).
+
+Pacienti, u nichž se vyskytnou takové známky a příznaky mají absolvovat důkladné neurologické vyšetření včetně studií CSF pro vyloučení jiných příčin meningitidy.
+Vysazení léčby IVIg mělo za následek remisi AMS do několika dnů bez následků. Hemolytická anemie
+IVIg mohou obsahovat protilátky proti krevním skupinám, které mohou působit hemolyticky
+a navodit potažení erytrocytů imunoglobulinem in vivo, což může vyvolat pozitivní přímou antiglobulinovou reakci (Coombsův test) a vzácně hemolýzu. Po podání IVIg se v důsledku zvýšené sekvestrace erytrocytů (red blood cells, RBC) může vyvinout hemolytická anemie. Příjemci IVIg musí být sledováni s ohledem na klinické známky a příznaky hemolýzy. (viz bod 4.8).
+Neutropenie/leukopenie
+
+
+
+5
+
+Po léčbě IVIg byl hlášen přechodný pokles počtu neutrofilů a/nebo epizody neutropenie, v některých případech závažné. K tomu obvykle dochází do několika hodin nebo dní po podání IVIg a spontánně vymizí do 7 až 14 dnů.
+
+Akutní plicní poškození v souvislosti s transfuzí (TRALI)
+U pacientů, jimž byl podáván IVIg, bylo hlášeno několik případů akutního nekardiogenního plicního edému TRALI. TRALI je charakterizováno závažnou hypoxií, dyspnoí, tachypnoí, cyanózou, horečkou a hypotenzí. Symptomy TRALI se obvykle vyvinou v průběhu transfuze nebo do 6 hodin po transfuzi, často do 1-2 hodin. Proto musí být příjemci IVIg monitorováni na přítomnost plicních nežádoucích účinků a v případě jejich výskytu musí být infuze okamžitě zastavena. TRALI je potenciálně život ohrožující stav vyžadující okamžitou léčbu na jednotce intenzivní péče.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Živé atenuované virové vakciny
+Podání imunoglobulinu může narušit po dobu minimálně 6 týdnů až 3 měsíců účinnost vakcín obsahujících živé atenuované viry, např. zarděnek, příušnic, spalniček a planých neštovic. Po podání tohoto přípravku má před vakcinací živou atenuovanou virovou vakcínou uplynout doba 3 měsíců. V případě vakcinace proti spalničkám může toto narušení přetrvávat až 1 rok. U pacientů očkovaných proti spalničkám se proto má zkontrolovat hladina jejich protilátek.
+
+Kličková diuretika
+Vyhnout se současnému podávání kličkových diuretik
+
+Pediatrická populace
+Uvedené interakce se vyskytují u dospělých i dětí.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+V kontrolovaných klinických studiích nebyla hodnocena bezpečnost použití tohoto léčivého přípravku u těhotných žen, a proto přípravek smí být podán těhotným ženám a kojícím
+matkám pouze s opatrností. Bylo zjištěno, že přípravky intravenózního imunoglobulinu G přestupují přes placentární bariéru, a to se vzrůstající měrou během třetího trimestru. Klinické zkušenosti s imunoglobuliny nepředpokládají škodlivé účinky na průběh těhotenství nebo na plod a novorozence.
+
+Kojení
+Imunoglobuliny se vylučují do lidského mateřského mléka. Žádné nežádoucí účinky na
+kojené novorozence/děti se neočekávají.
+
+Fertilita
+Na základě klinických zkušeností s imunoglobuliny se neočekávají žádné nepříznivé účinky
+na fertilitu.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+neoHepatect má malý vliv na schopnost řídit nebo obsluhovat stroje. Pacienti, kteří mají
+během léčby nežádoucí reakce, mají počkat, až tyto reakce pominou, než začnou řídit nebo obsluhovat stroje.
+
+
+
+
+
+
+6
+
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Nežádoucí účinky způsobené normálním lidským imunoglobulinem (se sestupnou četností) zahrnují následující (viz také bod 4.4):
+•  zimnice, bolest hlavy, závrať, horečka, zvracení, alergické reakce, nauzea, artralgie,
+nízký krevní tlak a středně těžká bolest v dolní části zad
+•  reverzibilní hemolytické reakce, zejména u pacientů s krevními skupinami A, B a AB a
+(vzácně) hemolytická anemie vyžadující transfuzi
+•  (vzácně) náhlý pokles krevního tlaku a v ojedinělých případech anafylaktický šok, i když
+se u pacienta při předchozím podání neprojevila hypersenzitivita
+•  (vzácně) přechodné kožní reakce (včetně kožního lupus erythematodes - četnost není známa)
+•  (velmi vzácně) tromboembolické reakce, jako je infarkt myokardu, cévní mozková příhoda, plicní embolie, hluboké žilní trombózy
+•  případy reverzibilní aseptické meningitidy
+•  případy zvýšené hladiny kreatininu v séru a/nebo výskyt náhlého selhání ledvin
+•  případy akutního plicního poškození v souvislosti s transfuzí (TRALI)
+Tabulkový seznam nežádoucích účinků:
+Níže uvedená tabulka je seřazena podle klasifikace tříd orgánových systémů podle MedDRA (třídy orgánových systémů a úroveň preferovaných termínů). Frekvence byly vyhodnoceny podle následující konvence: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté
+(≥1/1 000 až <1/100); vzácné (≥1/10 000 až <1/1 000); velmi vzácné (<1/10 000); není známo (z dostupných údajů nelze určit).
+
+Nežádoucí účinky z klinických studií:
+Ve čtyřech klinických studiích nebyly zjištěny žádné nežádoucí účinky přípravku
+neoHepatect.
+
+Nežádoucí účinky ze zkušeností po uvedení přípravku na trh a neintervenčních studií (četnosti
+nejsou známy – z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů
+podle MedDRA
+Nežádoucí účinky
+
+
+Poruchy imunitního systému
+
+Poruchy nervového systému
+Srdeční poruchy Cévní poruchy
+Gastrointestinální poruchy
+Poruchy kůže a podkožní tkáně
+Celkové poruchy a reakce v
+místě aplikace
+Anafylaktický šok,
+hypersenzitivita Bolest hlavy, závrať Tachykardie
+Hypotenze Nauzea
+Kožní reakce, vyrážka, svědění
+Horečka, malátnost
+
+
+
+
+
+
+7
+
+Informace o bezpečnosti týkající se přenosných agens viz bod 4.4.
+
+Pediatrická populace
+Očekává se, že nežádoucí účinky u dětí budou stejné jako u dospělých.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité.
+Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+Předávkování imunoglobuliny může vést k přetížení oběhu a hyperviskozitě, zejména u rizikových pacientů, včetně starších pacientů či pacientů se srdeční poruchou nebo poruchou funkce ledvin (viz bod 4.4).
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: hyperimunní séra a imunoglobuliny/specifické
+imunoglobuliny/imunoglobulin proti hepatitidě B ATC kód: J06BB04
+Lidský imunoglobulin proti hepatitidě B obsahuje převážně imunoglobulin G (IgG) se
+speciálně vysokým obsahem protilátek proti povrchovému antigenu viru hepatitidy B (HBs).
+5.2  Farmakokinetické vlastnosti
+
+Biologická dostupnost lidského imunoglobulinu proti hepatitidě B určeného k intravenóznímu podání je kompletní a okamžitá. IgG se rychle rozloží mezi plasmou a extravaskulární tekutinou.
+neoHepatect má poločas kolem 22 dnů. Tento poločas může být u jednotlivých pacientů různý.
+IgG a IgG-komplexy jsou odbourávány v buňkách retikuloendoteliálního systému.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Imunoglobuliny jsou normálními složkami lidského těla. Testování toxicity opakovaných dávek a testování embryofetální toxicity nejsou praktické, protože dochází k indukci a interferenci s protilátkami. Účinky přípravku na imunitní systém novorozenců ještě nebyly studovány.
+
+Klinické zkušenosti neprokázaly onkogenní a mutagenní účinky imunoglobulinů, a proto se
+nepovažuje za potřebné uskutečnit experimentální studie, zvláště u heterologních druhů.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+
+
+
+
+
+8
+
+6.1  Seznam pomocných látek
+
+Glycin
+Voda pro injekci
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být smísen s jinými léčivými přípravky ani s žádnými jinými přípravky IVIg.
+
+Do roztoku přípravku neoHepatect se nesmějí přidat jiné přípravky, protože změny
+v elektrolytové koncentraci nebo pH mohou způsobit precipitaci nebo denaturaci proteinů.
+
+6.3  Doba použitelnosti
+
+2 roky
+6.4  Zvláštní opatření pro uchování
+
+Uchovávejte v chladničce (2 °C – 8 °C). Chraňte před mrazem.
+Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+6.5  Druh obalu a obsah balení
+
+neoHepatect je předem připravený infuzní roztok dodávaný v injekčních lahvičkách (sklo typu II) se zátkou (bromobutylová pryž) víčkem (hliníkovým).
+Velikost balení: 1 lahvička s 2 ml, 10 ml, 40 ml nebo 100 ml roztoku.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Před použitím musí přípravek mít pokojovou nebo tělesnou teplotu. Po prvním otevření lahvičky ihned spotřebujte.
+Roztok musí být čirý nebo slabě opalescentní a bezbarvý až bledě žlutý. Nepoužívejte roztoky, které jsou zakalené nebo obsahují usazeniny.
+Všechen nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Biotest Pharma GmbH Landsteinerstrasse 5
+63303 Dreieich
+Německo
+Tel.: (49) 6103 801-0
+fax: (49) 6103 801-150
+Email: mail@biotest.com
+
+8.   REGISTRAČNÍ ČÍSLO
+59/394/03-C
+
+
+
+
+
+9
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 17. 12. 2003
+Datum posledního prodloužení registrace: 7. 12. 2014
+
+
+10.  DATUM REVIZE TEXTU
+
+22. 11. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

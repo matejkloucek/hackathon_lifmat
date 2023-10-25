@@ -1,0 +1,959 @@
+Sp. zn. sukls301623/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Moxifloxacin Kabi 400 mg/250 ml infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna lahev nebo jeden vak s 250 ml roztoku obsahuje moxifloxacinum 400 mg (ve formě moxifloxacini hydrochloridum).
+Jeden ml roztoku obsahuje moxifloxacinum 1,6 mg (ve formě moxifloxacini hydrochloridum). Pomocná látka se známým účinkem:
+250 ml infuzního roztoku obsahuje 54,4 mmol sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok Čirý žlutý roztok.
+pH roztoku je v rozmezí 5,0 a 6,0. Osmolarita roztoku: 260 – 330 mosmol/l
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Moxifloxacin Kabi je indikován k léčbě:
+•  komunitní získané pneumonie (CAP),
+•  komplikovaných infekcí kůže a kožních struktur (cSSSI).
+
+Moxifloxacin má být použit pouze v případě, kdy není vhodné použití jiných antibiotik běžně doporučovaných k léčbě těchto infekcí.
+Je třeba dbát oficiálních doporučení pro správné používání antibakteriálních látek.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Doporučená dávka je 400 mg moxifloxacinu podávaná infuzí jednou denně.
+Počáteční intravenózní léčba může být následována perorální léčbou spočívající v podávání 400 mg moxifloxacinu ve formě tablet, je-li to klinicky indikováno.
+
+V rámci klinických studií byla většina pacientů převedena z intravenózní léčby na léčbu perorální během 4 dnů (CAP) nebo 6 dnů (cSSSI). Doporučená celková doba trvání intravenózní a perorální léčby je 7- 14 dnů při CAP a 7-21 dnů při cSSSI.
+
+1
+
+Porucha funkce ledvin/jater
+U pacientů s mírnou až těžkou poruchou funkce ledvin nebo u pacientů na dlouhodobé dialýze, tj. hemodialýze a na kontinuální ambulantní peritoneální dialýze, není třeba žádná úprava dávkování (více podrobností viz bod 5.2).
+Není k dispozici dostatek údajů o podávání moxifloxacinu pacientům s poruchou funkce jater (viz bod 4.3).
+
+Další zvláštní skupiny pacientů
+Starší pacienti a pacienti s nízkou tělesnou hmotností nevyžadují žádnou úpravu dávkování.
+
+Pediatrická populace
+Podání moxifloxacinu dětem a dospívajícím, kteří jsou v období růstu, je kontraindikováno. Účinnost a bezpečnost moxifloxacinu nebyla u dětí a dospívajících stanovena (viz body 4.3, 4.4 a 5.3).
+Způsob podání
+Intravenózní podání; konstantní infuzí po dobu 60 minut (viz také bod 4.4).
+
+Jestliže je to z lékařského hlediska indikováno, může být infuzní roztok podán pomocí T-hadičky společně s kompatibilními infuzními roztoky (viz bod 6.6).
+
+4.3  Kontraindikace
+
+−  Hypersenzitivita na moxifloxacin, na jiné chinolony nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+−  Těhotenství a kojení (viz bod 4.6).
+−  Pacienti do 18 let věku.
+−  Pacienti s anamnézou onemocnění/poškození šlach v souvislosti s léčbou chinolony.
+
+V rámci předklinických studií a rovněž v rámci klinických studií u člověka byly po aplikaci moxifloxacinu pozorovány elektrofyziologické změny na srdci ve formě prodloužení QT intervalu. Z hlediska bezpečnosti léku je proto moxifloxacin kontraindikovaný u pacientů s:
+
+•  vrozeným nebo dokumentovaným získaným prodloužením QT intervalu,
+•  poruchou elektrolytové rovnováhy, zejména s nekorigovanou hypokalemií,
+•  klinicky významnou bradykardií,
+•  klinicky významným srdečním selháním se sníženou ejekční frakcí levé komory,
+•  symptomatickými arytmiemi v anamnéze.
+Moxifloxacin se nesmí používat současně s jinými léky, které prodlužují QT interval (viz také bod 4.5).
+
+Z důvodu omezeného množství klinických údajů je moxifloxacin také kontraindikován u pacientů s poruchou funkce jater (Child-Pugh skóre C) a u pacientů se zvýšenou hladinou aminotransferáz
+> 5násobek ULN (Upper limit of Normal, tj. horní hranice normálu).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Moxifloxacin Kabi se nemá používat u pacientů, u nichž se v minulosti při použití přípravků obsahujících chinolon nebo fluorochinolon vyskytly závažné nežádoucí účinky (viz bod 4.8). Léčba moxifloxacinem má být u těchto pacientů zahájena pouze tehdy, pokud neexistují žádné jiné možnosti léčby a po pečlivém vyhodnocení poměru přínosu a rizika (viz také bod 4.3).
+
+Aneurysma a disekce aorty a regurgitace/nedomykavost srdečních chlopní
+Epidemiologické studie uvádějí zvýšené riziko aneurysmatu a disekce aorty, zejména u starších pacientů, a aortální a mitrální regurgitace po podání fluorochinolonů. U pacientů léčených
+
+2
+
+fluorochinolony byly hlášeny případy aneurysmatu a disekce aorty, někdy komplikované rupturou (včetně fatálních případů), a regurgitace/nedomykavosti některé ze srdečních chlopní (viz bod 4.8).
+
+Fluorochinolony se proto mají používat až po pečlivém vyhodnocení přínosů a rizik a po zvážení dalších možností léčby u pacientů s výskytem aneurysmatu aorty v rodinné anamnéze nebo s kongenitálním onemocněním srdečních chlopní nebo u pacientů, u nichž byly diagnostikovány preexistující aneurysma a/nebo disekce aorty nebo onemocnění srdečních chlopní, nebo u pacientů s jinými rizikovými faktory či predispozicemi
+- jak k aneurysmatu a disekci aorty, tak k regurgitaci/nedomykavosti srdečních chlopní (např. onemocnění pojivové tkáně, jako je Marfanův syndrom nebo Ehlersův-Danlosův syndrom, Turnerův syndrom, Behçetův syndrom, hypertenze, revmatoidní artritida) nebo dále
+- k aneurysmatu a disekci aorty (např. cévních onemocnění, jako je Takayasuova arteriitida nebo obrovskobuněčná arteriitida, nebo zjištěná ateroskleróza či Sjögrenův syndrom) nebo dále
+- k regurgitaci/nedomykavosti srdečních chlopní (např. infekční endokarditida).
+
+Riziko aneurysmatu a disekce aorty a její ruptury může být zvýšené také u pacientů, kteří jsou současně léčeni systémovými kortikosteroidy.
+V případě náhlé bolesti v oblasti břicha, hrudníku nebo zad se pacientům doporučuje, aby neprodleně vyhledali lékařskou pomoc.
+
+Pacienty je třeba informovat, že v případě akutní dušnosti, nově vzniklých srdečních palpitací nebo zvětšení objemu břicha nebo rozvoje otoků dolních končetin mají ihned vyhledat lékařskou pomoc.
+Prospěch léčby moxifloxacinem, zejména u infekcí s nízkým stupněm závažnosti, má být zhodnocen ve srovnání s informacemi obsaženými v bodě“ Zvláštní upozornění a opatření pro použití“.
+
+Prodloužení QTc intervalu a případné klinické stavy související s prodloužením QTc intervalu
+
+Prokázalo se, že moxifloxacin u některých pacientů způsobuje prodloužení QTc intervalu pozorované na elektrokardiogramu. Rozsah prodloužení QT intervalu může být zvětšen následkem zvýšení plazmatické koncentrace v důsledku rychlé intravenózní infuze. Proto nemá být doba infuze kratší než doporučovaných 60 minut a doporučená dávka 400 mg jednou denně nemá být překročena. Více informací naleznete níže a rovněž v bodech 4.3 a 4.5.
+
+Léčba moxifloxacinem má být ukončena, jestliže se v jejím průběhu objeví známky nebo symptomy, které by mohly být spojovány se srdeční arytmií, a to jak doprovázenou, tak nedoprovázenou změnami na EKG.
+
+U pacientů s predispozicí k srdečním arytmiím (např. akutní ischemií myokardu) má být moxifloxacin používán s opatrností, vzhledem ke zvýšenému riziku rozvoje ventrikulárních arytmií (včetně torsade de pointes) a srdeční zástavy. Viz také body 4.3 a 4.5.
+U pacientů, kteří užívají léky, které mohou snižovat hladinu draslíku v krvi, má být moxifloxacin používán s opatrností. Viz také body 4.3 a 4.5.
+
+U pacientů, kteří užívají léky, které jsou spojované s klinicky signifikantní bradykardií, má být moxifloxacin používán s opatrností. Viz také bod 4.3.
+Ženy a starší pacienti mohou být více citliví k účinkům léků vyvolávajících prodloužení QTc intervalu, jako je moxifloxacin, a proto je u takovýchto pacientů vyžadována zvýšená opatrnost.
+
+Dlouhotrvající, zneschopňující a potenciálně ireverzibilní závažné nežádoucí účinky léčiva
+U pacientů léčených chinolony a fluorochinolony byly bez ohledu na jejich věk a preexistující rizikové faktory hlášeny velmi vzácně případy dlouhotrvajících (měsíce nebo roky), zneschopňujících a
+
+3
+
+potenciálně ireverzibilních závažných nežádoucích účinků léčiva postihujících různé, někdy vícečetné tělesné systémy (muskuloskeletální, nervový, psychiatrický a senzorický). Léčba moxifloxacinem má být okamžitě ukončena při prvních známkách nebo příznacích jakéhokoli závažného nežádoucího účinku a pacienty je třeba informovat, že mají kontaktovat lékaře, který jim přípravek předepsal.
+
+Hypersenzitivita/alergické reakce
+Po prvním podání fluorochinolonů, včetně moxifloxacinu, byl hlášen výskyt hypersenzitivity a alergických reakcí. Anafylaktická reakce může progredovat do život ohrožujícího šokového stavu, a to i po prvním podání léku. V případech klinických projevů závažných hypersenzitivních reakcí musí být léčba moxifloxacinem přerušena a zahájena vhodná léčba (např. léčba šokového stavu).
+Závažné poruchy funkce jater
+Při léčbě moxifloxacinem byly hlášeny případy fulminantní hepatitidy, potenciálně vedoucí až k selhání jater (včetně fatálních případů) (viz bod 4.8). Pacienti mají být poučeni, aby v případě, kdy se u nich projeví známky a příznaky fulminantního jaterního onemocnění, jako je rychle se rozvíjející astenie spojená se žloutenkou, tmavá moč, zvýšená krvácivost nebo jaterní encefalopatie, kontaktovali svého lékaře před tím, než budou pokračovat v léčbě.
+V případě, kdy je podezření na jaterní dysfunkci, mají být provedeny jaterní testy/vyšetření. Závažné kožní nežádoucí účinky
+Při léčbě moxifloxacinem byly hlášeny závažné kožní nežádoucí účinky (SCAR) včetně toxické epidermální nekrolýzy (TEN: známé též jako Lyellův syndrom), Stevensova-Johnsonova syndromu (SJS) a akutní generalizované exantematózní pustulózy (AGEP), které mohou být život ohrožující nebo fatální (viz bod 4.8). Při předepisování tohoto léčivého přípravku mají být pacienti poučeni o známkách a příznacích závažných kožních reakcí a mají být pečlivě sledováni. Pokud se objeví známky a příznaky těchto reakcí, je nutné moxifloxacin okamžitě vysadit a zvážit alternativní léčbu. Pokud se u pacienta při používání moxifloxacinu rozvinula závažná reakce jako SJS, TEN nebo AGEP, nesmí se u tohoto pacienta léčba moxifloxacinem již nikdy znovu zahajovat.
+
+Pacienti s predispozicí k záchvatům
+Chinolony jsou známým spouštěčem záchvatů. U pacientů s poruchami CNS nebo u pacientů, u nichž se vyskytují další rizikové faktory, které mohou vést k záchvatům nebo ke snížení prahu pro vznik záchvatů, se mají tyto léky používat s opatrností. V případě výskytu záchvatů má být léčba moxifloxacinem ukončena a zahájena vhodná opatření.
+Periferní neuropatie
+U pacientů léčených chinolony a fluorochinolony byly hlášeny případy senzorické nebo
+senzomotorické polyneuropatie, vedoucí k parestezii, hypestezii, dysestezii nebo slabosti. Pacienti léčení moxifloxacinem, mají být poučeni, aby před pokračováním léčby informovali svého lékaře, pokud se u nich vyskytnou symptomy neuropatie, jako jsou bolest, pálení, brnění, necitlivost nebo slabost, aby se tak předešlo vzniku potenciálně ireverzibilního stavu (viz bod 4.8).
+
+Psychiatrické reakce
+Dokonce již po prvním podání chinolonů, včetně moxifloxacinu, se mohou vyskytnout psychiatrické reakce. Ve velmi vzácných případech vedly deprese a psychotické reakce až k sebevražedným myšlenkám a sebepoškozujícímu chování jako je pokus o sebevraždu (viz bod 4.8). V případě, že se u pacienta takové reakce vyskytnou, má být léčba moxifloxacinem přerušena a zahájena vhodná opatření. Doporučuje se dbát opatrnosti při podávání moxifloxacinu psychotickým pacientům nebo pacientům s psychiatrickým onemocněním v anamnéze.
+
+Průjem v souvislosti s používáním antibiotik, včetně kolitidy
+V souvislosti s užíváním širokospektrých antibiotik, včetně moxifloxacinu, byl hlášen výskyt průjmu (AAD) a kolitidy (AAC), včetně pseudomembranózní kolitidy a průjmu, který vyvolává bakterie Clostridium difficile. Průběh může být různě závažný, od mírného průjmu až po fatální kolitidu. Proto
+
+4
+
+je důležité o této diagnóze uvažovat u všech pacientů, u nichž se během nebo po používání moxifloxacinu objeví závažný průjem. V případě podezření nebo potvrzení diagnózy AAD nebo AAC je potřeba probíhající léčbu antibiotiky (včetně moxifloxacinu) přerušit a okamžitě zahájit adekvátní terapeutická opatření. Dále je potřeba přijmout vhodná protiinfekční opatření, aby se snížilo riziko šíření infekce. U pacientů se závažným průjmem jsou kontraindikovány léky inhibující peristaltiku.
+
+Pacienti s onemocněním myasthenia gravis
+U pacientů s myasthenií gravis se má moxifloxacin podávat s opatrností, jelikož by se mohly zhoršit příznaky tohoto onemocnění.
+Tendinitida a ruptura šlachy
+Tendinitida a ruptura šlachy (zejména, ale nejen Achillovy šlachy), někdy bilaterální, se mohou objevit již do 48 hodin od zahájení léčby chinolony a fluorochinolony; jejich výskyt byl hlášen dokonce až několik měsíců po ukončení léčby. Riziko tendinitidy a ruptury šlachy se zvyšuje u starších pacientů, u pacientů s poruchou funkce ledvin, u pacientů po transplantaci solidních orgánů a u pacientů léčených současně kortikosteroidy. Z toho důvodu je třeba se souběžnému podávání kortikosteroidů vyhnout.
+Při prvních známkách tendinitidy (např. bolestivý otok, zánět) je nutné léčbu moxifloxacinem ukončit a zvážit jiné možnosti léčby. Postiženou končetinu (končetiny) je třeba náležitě ošetřit (např. imobilizací). Pokud se vykytnou známky tendinopatie, kortikosteroidy se nemají používat.
+
+Pacienti s poruchou funkce ledvin
+Starší pacienti s poruchou funkce ledvin, kteří nejsou schopni dodržet adekvátní příjem tekutin, mají používat moxifloxacin s opatrností, jelikož dehydratace zvyšuje riziko renálního selhání.
+
+Poruchy zraku
+Při zhoršení zraku nebo při zaznamenání jakýchkoliv účinků léčivého přípravku na oči je třeba okamžitě vyhledat očního lékaře (viz body 4.7 a 4.8).
+Dysglykemie
+Stejně jako u všech chinolonů byly hlášeny poruchy glykemie zahrnující hypoglykemii i hyperglykemii (viz bod 4.8), obvykle u pacientů s diabetem mellitem, kteří jsou souběžně léčeni perorálním hypoglykemikem (např. glibenklamidem) nebo inzulinem. Byly hlášeny případy hypoglykemického kómatu. U pacientů s diabetem mellitus se doporučuje pečlivé sledování glykemie.
+
+Prevence výskytu fotosenzitivních reakcí
+Ukázalo se, že chinolony způsobují u pacientů vznik fotosenzitivních reakcí. Avšak studie ukázaly, že moxifloxacin představuje nižší riziko vzniku fotosenzitivity. Nicméně pacienti mají být poučeni, aby se v průběhu léčby moxifloxacinem vyhýbali expozici UV záření nebo extenzivnímu a/nebo silnému slunečnímu záření.
+
+Pacienti s nedostatkem glukózo-6-fosfát dehydrogenázy
+Pacienti s rodinnou anamnézou nebo s aktuálním nedostatkem glukózo-6-fosfát dehydrogenázy jsou při léčbě chinolony náchylní k hemolytickým reakcím. Proto se těmto pacientům má moxifloxacin podávat s opatrností.
+Zánět periarteriálních tkání
+Infuzní roztok moxifloxacinu je určen pouze k intravenóznímu podání. Intraarteriálního podání je třeba se vyvarovat, a to proto, že v rámci preklinických studií byl po podání infuze touto cestou prokázán zánět periarteriálních tkání.
+Pacienti s cSSSI
+Klinická účinnost moxifloxacinu při léčbě závažných popáleninových infekcí, fasciitidy a infekcí diabetické nohy s osteomyelitidou nebyla stanovena.
+
+
+5
+
+Pacienti dodržující dietu s omezeným přísunem sodíku
+Tento léčivý přípravek obsahuje 1206 mg sodíku v jedné dávce, což odpovídá 60 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Interference s biologickými testy
+Léčba moxifloxacinem může interferovat s kultivačním vyšetřením na Mycobacterium spp., jelikož může docházet k potlačení růstu bakterií a tím k falešně negativním výsledkům u vzorků odebraných pacientům, kteří jsou momentálně léčeni moxifloxacinem.
+
+Pacienti s infekcemi způsobenými MRSA
+K léčbě infekcí způsobených MRSA (meticilin-rezistentními kmeny Staphylococcus aureus) se moxifloxacin nedoporučuje. V případě podezření nebo prokázání infekce způsobené MRSA má být zahájena léčba pomocí vhodných antibiotik (viz bod 5.1).
+
+Pediatrická populace
+Vzhledem k nežádoucím účinkům na chrupavky, které byly pozorovány u mladých zvířat (viz bod 5.3), je použití moxifloxacinu u dětí a dospívajících < 18 let věku kontraindikováno (viz bod 4.3).
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Interakce s léčivými přípravky
+Aditivní účinek na prodloužení QT intervalu při podávání moxifloxacinu a dalších léčivých přípravků, které prodlužují QT interval, není možno vyloučit. To může vést ke zvýšenému riziku ventrikulárních arytmií, včetně torsade de pointes. Proto je současné podání moxifloxacinu a jakéhokoli z níže uvedených léčivých přípravků kontraindikováno (viz také bod 4.3):
+
+•  antiarytmika třídy IA (např. chinidin, hydrochinidin, disopyramid),
+•  antiarytmika třídy III (např. amiodaron, sotalol, dofetilid, ibutilid),
+•  antipsychotika (např. fenothiaziny, pimozid, sertindol, haloperidol, sultoprid),
+•  tricyklická antidepresiva,
+•  některá antibiotika (sachinavir, sparfloxacin, erythromycin i.v., pentamidin, antimalarika zvláště halofantrin),
+•  některá antihistaminika (terfenadin, astemizol, mizolastin),
+•  další (cisaprid, vinkamin i.v., bepridil, difemanil).
+
+U pacientů užívajících léčivé přípravky, které mohou snižovat hladinu draslíku v krvi (např. kličková a thiazidová diuretika, laxativa a klystýr [vysoké dávky], kortikosteroidy, amfotericin B), nebo které jsou spojovány s klinicky významnou bradykardií, musí být moxifloxacin používán s opatrností.
+
+Po opakovaném podání zdravým dobrovolníkům moxifloxacin zvyšoval Cmax digoxinu přibližně o 30 % bez účinku na AUC a minimální koncentrace. Při současné aplikaci s digoxinem není třeba zvláštních opatření.
+V rámci studií provedených u dobrovolníků s diabetem, vyústilo současné perorální podání moxifloxacinu s glibenklamidem v přibližně 21% snížení maximální plazmatické koncentrace glibenklamidu. Kombinace glibenklamidu a moxifloxacinu může teoreticky způsobit mírnou a přechodnou hyperglykemii. Nicméně, pozorované farmakokinetické změny glibenklamidu nevedly ke změnám farmakodynamických parametrů (glukóza v krvi, inzulin). Nebyly tedy pozorovány žádné klinicky významné interakce mezi moxifloxacinem a glibenklamidem.
+
+Změny v INR
+Ve velkém počtu případů se u pacientů užívajících antibiotika (zvláště fluorochinolony, makrolidy, tetracykliny,  kotrimoxazol  a  některé  cefalosporiny)  projevila  zvýšená  účinnost  perorálních antikoagulancií. Infekce, zánětlivé stavy, věk a celkový stav pacienta se jeví jako rizikové faktory. Za
+
+6
+
+těchto podmínek je obtížné hodnotit, zda jsou poruchy INR (international normalised ratio, mezinárodní normalizovaný poměr) způsobeny infekcí nebo antibiotickou léčbou. V rámci preventivního opatření se má INR mnohem častěji monitorovat. Pokud je to nutné, má se dávka perorálních antikoagulancií vhodně upravit.
+
+Klinické studie neprokázaly žádné interakce při současném podání moxifloxacinu s: ranitidinem, probenecidem,  perorálními  kontraceptivy,  doplňky  stravy  obsahujícími  vápník,  parenterálně podávaným morfinem, theofylinem, cyklosporinem nebo itrakonazolem.
+
+Studie in vitro s lidskými enzymy cytochromu P450 podporují tato zjištění. Vzhledem k těmto výsledkům jsou metabolické interakce prostřednictvím enzymů cytochromu P450 nepravděpodobné.
+Interakce s jídlem
+Moxifloxacin nevykazuje žádné klinicky relevantní interakce s jídlem, a to ani s mléčnými výrobky.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Bezpečnost moxifloxacinu během těhotenství u lidí nebyla hodnocena. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Není známo potenciální riziko u lidí. Vzhledem k tomu, že u nedospělých zvířat, kterým byly v rámci studie podány fluorochinolony, bylo pozorováno poškození chrupavek nosných kloubů a také vzhledem k tomu, že po podání některých fluorochinolonů bylo popsáno reverzibilní poškození kloubů u dětí, nesmí být moxifloxacin použit u těhotných žen (viz bod 4.3).
+
+Kojení
+Nejsou dostupné žádné údaje o podání moxifloxacinu kojícím ženám. Preklinické údaje naznačují, že malé množství moxifloxacinu se vylučuje do mateřského mléka. Vzhledem k nedostatku údajů u lidí a vzhledem k tomu, že v rámci studie bylo prokázáno, že fluorochinolony způsobují poškození chrupavky nosných kloubů u nedospělých zvířat, je kojení během používání moxifloxacinu kontraindikováno (viz bod 4.3).
+
+Fertilita
+Studie na zvířatech nenaznačují poruchu fertility (viz bod 5.3)
+
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Studie hodnotící účinky moxifloxacinu na schopnost řídit a obsluhovat stroje nebyly provedeny. Nicméně fluorochinolony, včetně moxifloxacinu, mohou narušit schopnost pacienta řídit nebo obsluhovat stroje vzhledem k účinkům na centrální nervovou soustavu (např. závratě; akutní a přechodná ztráta zraku, viz bod 4.8), a také vzhledem k tomu, že se může vyskytnout akutní a krátkodobá ztráta vědomí (synkopa, viz bod 4.8). Pacienti mají být poučeni, aby před řízením dopravních prostředků a obsluhou strojů zjistili, jak reagují na moxifloxacin.
+
+
+4.8  Nežádoucí účinky
+Nežádoucí účinky pozorované v rámci klinických studií a vyplývající ze zpráv po uvedení na trh po intravenózním nebo perorálním podání (pouze intravenózní podání, i.v podání následované perorálním podáním, a perorální podání) denní dávky 400 mg moxifloxacinu, rozlišené dle četnosti výskytu jsou uvedeny níže:
+
+Kromě nauzey a průjmu byla četnost výskytu všech nežádoucích účinků nižší než 3%.
+
+7
+
+V rámci každé skupiny četností jsou nežádoucí účinky seřazeny podle klesající závažnosti. Četnosti výskytu definovány následovně:
+Časté         ≥ 1/100 až < 1/10
+Méně časté      ≥ 1/1 000 až < 1/100
+Vzácné         ≥ 1/10 000 až < 1/1 000
+Velmi vzácné     <1/10 000
+Není známo  četnost z dostupných údajů nelze určit
+
+
+Třídy orgánových systémů
+
+Infekce a infestace
+
+
+
+
+Poruchy krve a lymfatického systému
+
+
+
+
+Poruchy imunitního systému
+
+
+
+
+
+
+
+
+Endokrinní poruchy
+
+
+Poruchy metabolismu a výživy Psychiatrické poruchy*
+Časté
+≥ 1/100 až < 1/10
+
+superinfekce vzniklá kvůli  bakteriální
+nebo   mykotické rezistenci  -  např. orální nebo vaginální kandidóza.
+Méně časté
+≥ 1/1 000 až < 1/100
+
+
+
+
+
+
+
+anémie, leukopenie, neutropenie, trombocytopenie, trombocytemie, krevní  eozinofilie, prodloužený protrombinový čas / zvýšený INR. alergická reakce (viz bod 4.4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+hyperlipidemie
+
+
+úzkostlivé reakce,
+
+psychomotorický neklid / agitovanost
+Vzácné
+≥ 1/10 000 až < 1/1 000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anafylaxe   včetně velmi  vzácně  se vyskytujícího  život ohrožujícího  šoku (viz bod 4.4), alergický  edém  / angioedém  (včetně laryngeálního potenciálně   život ohrožujícího edému, viz bod 4.4).
+
+
+
+
+hyperglykemie, hyperurikemie
+
+emoční   labilita, deprese  (ve  velmi vzácných případech potenciálně kulminuje     v sebepoškozující chování, jako jsou například
+sebevražedné představy/myšlenky, nebo  pokusy  o sebevraždu, viz bod
+Velmi vzácné
+< 1/10 000
+
+
+
+
+
+
+
+zvýšená  hladina protrombinu/snížený INR,
+agranulocytóza, pancytopenie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+syndrom
+nepřiměřené sekrece antidiuretického hormonu (SIADH) hypoglykemie, hypoglykemické
+kóma depersonalizace, psychotické reakce (potenciálně
+kulminující    v sebepoškozující chování, jako jsou sebevražedné představy/myšlenky, nebo  pokusy  o sebevraždu, viz bod 4.4).
+Není známo
+(četnost
+z dostupných údajů nelze určit)
+
+
+8
+
+
+
+Poruchy nervového systému*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy oka*
+
+
+
+
+
+
+
+
+Poruchy ucha a labyrintu*
+
+
+Srdeční poruchy**
+
+
+
+
+Cévní poruchy**
+Respirační, hrudní a mediastinální poruchy Gastrointesti nální poruchy
+
+
+bolesti hlavy, závratě
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+prodloužení   QT intervalu u pacientů s hypokalemií  (viz body 4.3 a 4.4).
+
+
+
+
+
+
+
+
+nauzea,  zvracení, gastrointestinální  a abdominální bolesti, průjem
+
+
+parestezie     a dysestezie, poruchy chuti (včetně ageuzie ve velmi vzácných případech), zmatenost     a dezorientace, poruchy   spánku (převážně insomnie), tremor,   vertigo, somnolence
+
+
+
+
+
+
+poruchy    zraku, včetně  diplopie  a rozmazaného vidění (zvláště    během nežádoucích účinků na CNS, viz bod 4.4).
+
+
+
+
+
+
+prodloužení   QT intervalu  (viz  bod 4.4),    palpitace, tachykardie, atriální fibrilace,   angina pectoris
+vazodilatace
+
+dyspnoe  (včetně astmatických potíží).
+
+
+snížená chuť k jídlu a  snížený  příjem potravy, konstipace, dyspepsie, flatulence, gastritida, zvýšená   hladina amylázy
+4.4),  halucinace, delirium
+hypestezie, poruchy čichu    (včetně anosmie),
+abnormální   sny, porucha koordinace (včetně   poruchy
+chůze,   zvláště
+z důvodu  závratí
+nebo   vertiga),
+záchvaty,   včetně grand mal záchvatů (viz   bod   4.4), porucha pozornosti, porucha     řeči, amnézie,  periferní neuropatie     a polyneuropatie
+fotofobie
+
+
+
+
+
+
+
+
+tinitus,  poškození sluchu    včetně hluchoty  (obvykle reverzibilní)
+ventrikulární tachyarytmie, synkopa (tj. akutní a krátkodobá   ztráta vědomí).
+
+hypertenze, hypotenze
+
+
+
+
+dysfagie, stomatitida, antibiotiky vyvolaná kolitida   (včetně pseudomembranózní kolitidy,  ve  velmi vzácných případech spojené  s  život ohrožujícími komplikacemi,  viz bod 4.4).
+
+
+hyperestezie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+přechodná   ztráta zraku (zvláště během nežádoucích účinků na CNS, viz body 4.4 a 4.7), uveitida a akutní   bilaterální transluminace duhovky  (viz  bod 4.4)
+
+
+
+
+nespecifické arytmie, torsade de pointes (viz bod 4.4), srdeční zástava (viz bod 4.4).
+
+vaskulitida
+
+
+
+9
+
+Poruchy jater a žlučových cest
+
+
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně*
+
+Poruchy ledvin a močových cest
+
+
+
+Celkové poruchy a reakce v místě aplikace*
+zvýšení   hladiny aminotransferáz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reakce  v  místě injekce a infuze
+porucha funkce jater (včetně   zvýšení
+hladiny    laktát dehydrogenázy), zvýšení   hladiny bilirubinu,  zvýšení hladiny   gamma- glutamyl-
+transferázy, zvýšení hladiny  alkalické fosfatázy v krvi
+pruritus,  vyrážka, kopřivka, suchá kůže
+
+
+
+
+
+
+
+
+artralgie, myalgie
+
+
+
+
+
+
+dehydratace
+
+
+
+
+
+
+celkový    pocit nemoci  (převážně astenie nebo únava), bolestivé    stavy (včetně bolesti zad, hrudníku,  pánve  a končetin),  pocení, (trombo)flebitida  v místě infuze
+žloutenka, hepatitida (převážně
+cholestatická)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+záněty šlach (viz bod 4.4), svalové křeče, svalové  záškuby, svalová slabost
+
+
+
+porucha   funkce
+ledvin   (včetně
+zvýšení   hladiny močovinového dusíku a kreatininu), renální selhání (viz bod 4.4).
+edém
+fulminantní hepatitida potenciálně vedoucí k život ohrožujícímu selhání jater (včetně fatálních případů, viz bod 4.4).
+
+
+
+
+bulózní    kožní reakce,  jako  jsou Stevensův- Johnsonův syndrom nebo     toxická epidermální nekrolýza (potenciálně  život ohrožující, viz bod 4.4).
+ruptura  šlach  (viz bod 4.4), artritida, svalová   rigidita, zhoršení  příznaků onemocnění myasthenia  gravis (viz bod 4.4).
+
+
+
+
+
+
+
+
+
+
+
+akutní generalizovaná exantematózní pustulóza (AGEP)
+
+
+
+
+
+
+rhabdomyolýza
+*V souvislosti s podáváním chinolonů a fluorochinolonů byly v některých případech bez ohledu na preexistující rizikové faktory hlášeny velmi vzácné případy dlouhotrvajících (až měsíce nebo roky), znechopňujících a potenciálně ireverzibilních závažných nežádoucích účinků léčiva postihujících několik, někdy vícečetných tříd orgánových systémů a smyslů (včetně účinků, jako jsou tendinitida, ruptura šlachy, artralgie, bolest končetin, poruchy chůze, neuropatie spojené s parestezií, deprese, únava, poruchy paměti, poruchy spánku a poruchy sluchu, zraku, chuti a čichu (viz bod 4.4).
+
+** U pacientů léčených fluorochinolony byly hlášeny případy aneurysmatu a disekce aorty, někdy komplikované rupturou (včetně fatálních případů), a regurgitace/ nedomykavosti některé ze srdečních chlopní (viz bod 4.4).
+
+Následující nežádoucí účinky měly vyšší četnost výskytu u podskupiny pacientů, kteří podstoupili intravenózní léčbu ať už s následnou perorální léčbou, nebo bez následné perorální léčby:
+
+
+10
+
+Časté:     zvýšení hladiny gamma-glutamyltransferázy.
+
+Méně časté:   ventrikulární tachyarytmie, hypotenze, edém, antibiotiky vyvolaná kolitida (včetně pseudomembranózní kolitidy, ve velmi vzácných případech spojené se život ohrožujícími komplikacemi, viz bod 4.4), záchvaty, včetně grand mal křečí (viz bod 4.4), halucinace, porucha funkce ledvin (včetně zvýšení hladiny močovinového dusíku a kreatininu), renální selhání (viz bod 4.4).
+
+Ve velmi vzácných případech byly pozorované následující nežádoucí účinky po léčbě jinými fluorochinolony, které se mohou rovněž vyskytnout i při léčbě moxifloxacinem: zvýšený intrakraniální tlak  (včetně  pseudotumoru  mozku),  hypernatremie,  hyperkalcemie,  hemolytická  anémie,  a fotosenzitivní reakce (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+
+Po náhodném předávkování se nedoporučují žádná specifická opatření. V případě předávkování má být zahájena symptomatická léčba. Má být monitorováno EKG vzhledem k možnému prodloužení QT intervalu. Současné podání aktivního uhlí se 400 mg perorálně nebo intravenózně podaného moxifloxacinu sníží systémovou dostupnost léku o více než 80 % v případě perorálního podání moxifloxacinu nebo o 20 % v případě intravenózního podání moxifloxacinu. Časné užití aktivního uhlí v době absorpce léku může zabránit nadměrnému zvýšení systémové expozice moxifloxacinu v případě předávkování po perorálním podání.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: chinolonová antibakteriální léčiva, fluorochinolony, ATC kód: J01MA14
+
+Mechanismus účinku
+Moxifloxacin inhibuje bakteriální topoizomerázy typu II (DNA gyrázu a topoizomerázu IV), které jsou potřebné k replikaci bakteriální DNA, k její transkripci a opravám.
+Farmakokinetický/farmakodynamický vztah
+Ukázalo se, že u flurochinolonů je míra schopnosti zabíjet bakterie závislá na jejich koncentraci. Výsledky farmakodynamických studií flurochinolonů prováděných se zvířecími modely infekcí a v rámci klinických studií u člověka ukazují, že je účinnost dána především poměrem AUC24/MIC.
+Mechanismus rezistence
+Rezistence na fluorochinolony může vzniknout z důvodu mutací DNA gyrázy a topoizomerázy IV. Další mechanismy mohou zahrnovat zvýšenou expresi efluxních pump, impermeabilitu a ochranu DNA
+
+
+11
+
+gyrázy zajišťovanou proteiny. Mezi moxifloxacinem a dalšími fluorochinolony je třeba očekávat zkříženou rezistenci.
+
+Aktivita moxifloxacinu není ovlivněna mechanismy rezistence, které jsou specifické pro jiné skupiny antibiotik.
+Hraniční hodnoty
+EUCAST doporučené klinické hraniční hodnoty MIC a klinické hraniční hodnoty při diskové difuzní metodě pro moxifloxacin (01. 01. 2012):
+
+
+Organismus
+Staphylococcus spp.
+
+S. pneumoniae
+
+Streptococcus skupiny A, B, C, G
+
+H. influenzae
+
+M. catarrhalis Enterobacteriaceae
+Hraniční hodnoty druhově nespecifické*
+Citlivost
+≤ 0,5 mg/l
+> 24 mm
+≤ 0,5 mg/l
+> 22 mm
+≤ 0,5 mg/l
+> 18 mm
+≤ 0,5 mg/l
+> 25 mm
+≤ 0,5 mg/l
+> 23 mm
+≤ 0,5 mg/l
+> 20 mm
+≤ 0,5 mg/l
+Rezistence
+> 1 mg/l
+< 21 mm
+> 0,5 mg/l
+< 22 mm
+> 1 mg/l
+< 15 mm
+> 0,5 mg/l
+< 25 mm
+> 0,5 mg/l
+< 23 mm
+> 1 mg/l
+< 17 mm
+> 1 mg/l
+*  Hraniční  hodnoty  druhově  nespecifické  byly  stanoveny  převážně  na  základě farmakokinetických/farmakodynamických údajů a jsou nezávislé na distribuci MIC jednotlivých druhů. Jsou použitelné pouze pro druhy, pro které nebyly stanoveny druhově specifické hraniční hodnoty a nejsou určeny pro druhy, u kterých se ještě musí určit interpretační kritéria.
+
+
+Mikrobiální citlivost
+Prevalence získané rezistence se může u některých druhů lišit v čase a v závislosti na geografickém území, takže je vhodné získat místní informace o rezistenci, zejména při léčbě závažných infekcí. Pokud je to nutné, doporučuje se obrátit se na odborníka v případech, kdy je lokální prevalence rezistence taková, že je účinnost přípravku u některých typů infekcí sporná.
+
+Běžně citlivé druhy
+Aerobní grampozitivní mikroorganismy Staphylococcus aureus*⁺
+Streptococcus agalactiae (skupina B)
+Skupina Streptococcus milleri* (S. anginosus, S. constellatusa S. intermedius) Streptococcus pneumoniae*
+Streptococcus pyogenes* (skupina A)
+skupina Streptococcus viridans (S. viridans, S. mutans, S. mitis, S. sanguinis, S. salivarius, S. thermophilus)
+Aerobní gramnegativní mikroorganismy Acinetobacter baumanii
+Haemophilus influenzae* Legionella pneumophila
+Moraxella (Branhamella) catarrhalis* Anaerobní mikroorganismy
+Prevotella spp.
+"Jiné" mikroorganismy
+Chlamydophila (Chlamydia) pneumoniae*
+
+12
+
+Coxiella burnetii Mycoplasma pneumoniae*
+Druhy, u kterých může získaná rezistence představovat problém
+Aerobní grampozitivní mikroorganismy Enterococcus faecalis*
+Enterococcus faecium*
+Aerobní gramnegativní mikroorganismy Enterobacter cloacae*
+Escherichia coli*# Klebsiella oxytoca Klebsiella pneumoniae*# Proteus mirabilis* Anaerobní mikroorganismy Bacteroides fragilis*
+Přirozeně rezistentní mikroorganismy Aerobní gramnegativní mikroorganismy Pseudomonas aeruginosa
+* Aktivita byla úspěšně prokázána v klinických studiích
+⁺ U meticilin rezistentního S. aureus je vysoká pravděpodobnost rezistence na fluorochinolony. U meticilin rezistentního S. aureus byl hlášen > 50% výskyt rezistence na moxifloxacin.
+# Kmeny produkující ESBL jsou obvykle také rezistentní na fluorochinolony.
+
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce a biologická dostupnost
+Po podání jednotlivé dávky 400 mg moxifloxacinu během intravenózní infuze trvající 1 hodinu byla na konci infuze pozorována nejvyšší plazmatická koncentrace přibližně 4,1 mg/l, tato hodnota koncentrace je přibližně o 26 % vyšší oproti hodnotě zjištěné po perorálním podání (3,1 mg/l). AUC po intravenózním podání dosahuje hodnoty přibližně 39 mg.h/l, tato hodnota je jen o málo vyšší než hodnota pozorovaná po perorálním podání (35 mg.h/l), to je v souladu s absolutní biologickou dostupností, která je přibližně 91 %.
+Při intravenózním podání moxifloxacinu není u pacientů nutná úprava dávky podle věku a pohlaví pacienta.
+
+Farmakokinetika je lineární při perorálním podání jedné dávky v rozsahu 50-1200 mg, při jednorázovém intravenózním podání dávky až do výše 600 mg a při podávání dávky do 600 mg jednou denně po dobu 10 dní.
+Distribuce
+Moxifloxacin se rychle distribuuje do extravaskulárního prostoru. Distribuční objem v ustáleném stavu (Vss) je přibližně 2 l/kg. In vitro a ex vivo experimenty ukázaly, že dochází k vazbě na proteiny přibližně v 40-42 %, a to nezávisle na koncentraci léku. Moxifloxacin se váže převážně na sérový albumin.
+Maximální koncentrace 5,4 mg/kg a 20,7 mg/kg (geometrický průměr) byly zjištěné za 2,2 hodiny po perorálním podání dávky v bronchiální sliznici a tekutině epiteliální výstelky. Odpovídající maximální koncentrace v alveolárních makrofázích dosáhla hodnoty 56,7 mg/kg. V tekutině puchýře byla za 10 hodin po intravenózním podání zjištěna koncentrace 1,75 mg/l. Po podání intravenózní dávky byl v intersticiální tekutině zjištěn podobný koncentračně časový profil nevázané látky jako v plazmě, nejvyšší koncentrace nevázané látky 1,0 mg/ml (geometrický průměr) byla zjištěna přibližně v čase 1,8 hodiny po podání intravenózní dávky.
+
+Biotransformace
+Moxifloxacin prochází fází II biotransformace a je vylučován renálními (přibližně 40 %) a
+13
+
+žlučovými/fekálními (přibližně 60 %) cestami v nezměněné podobě a rovněž ve formě thiosloučeniny (M1) a glukuronidu (M2). M1 a M2 jsou jedinými relevantními metabolity u člověka, oba jsou mikrobiologicky neaktivní.
+
+V klinických studiích fáze I a v in vitro studiích nebyly pozorovány žádné farmakokinetické interakce s jinými léky procházejícími fází I biotransformace, které se účastní enzymy cytochromu P-450. Nebyly pozorovány známky oxidativního metabolismu.
+
+Eliminace
+Moxifloxacin je eliminován z plazmy s průměrným terminálním poločasem přibližně 12 hodin. Průměrná zjevná celková tělesná clearance po 400mg dávce je v rozmezí 179 až 246 ml/min. Po podání dávky 400 mg intravenózní infuzí se vylučovalo v nezměněné podobě močí přibližně 22 % látky a stolicí přibližně 26 % látky. Po intravenózním podání léku se celkově vyloučilo přibližně 98 % podané dávky (ve formě látky v nezměněné podobě a metabolitů). Renální clearance činila přibližně 24-53 ml/min, což svědčí pro částečnou tubulární reabsorpci léku v ledvinách. Současné podání moxifloxacinu s ranitidinem nebo probenecidem nemělo vliv na renální clearance mateřské látky.
+Porucha funkce ledvin
+Farmakokinetické vlastnosti moxifloxacinu se významně nemění u pacientů s poruchou funkce ledvin (včetně clearance kreatininu > 20 ml/min/1,73m²). Při zhoršení renální funkce se až 2,5x zvyšuje koncentrace metabolitu M2 (glukuronidu) (s clearance kreatininu < 30 ml/min/1,73m²).
+Porucha funkce jater
+Na základě farmakokinetických studií dosud provedených u pacientů se selháním jater (Child-Pughovo skóre A, B) není možné určit, zda existují nějaké rozdíly ve srovnání se zdravými dobrovolníky. Porucha funkce jater byla spojena s vyšší expozicí M1 v plazmě, zatímco expozice mateřské látce byla srovnatelná s expozicí u zdravých dobrovolníků. V klinické praxi nejsou dostatečné zkušenosti s používáním moxifloxacinu u pacientů s poruchou funkce jater.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+V rámci konvenčních studií s opakovaným podáváním dávek moxifloxacinu byla u hlodavců i u jiných živočišných druhů pozorovaná hematologická toxicita a hepatotoxicita. U opic byly pozorovány toxické účinky na CNS. K těmto účinkům docházelo po podání vysokých dávek moxifloxacinu nebo po dlouhodobé léčbě.
+
+U psů vysoké perorální dávky (≥ 60 mg/kg) vedoucí k plazmatické koncentraci ≥20 mg/l způsobily změny na elektroretinogramu a v ojedinělých případech i atrofii retiny.
+
+Po podání moxifloxacinu v podobě injekčního bolusu (45 mg/kg) byly většinou pozorovány projevy systémové toxicity, tyto projevy však nebyly pozorovány, když byl moxifloxacin (40 mg/kg) podáván v podobě pomalé infuze po dobu 50 minut.
+Po intraarteriální injekci byly pozorovány zánětlivé změny postihující měkké periarteriální tkáně, z toho důvodu je třeba se intraarteriálního podání moxifloxacinu vyvarovat.
+
+Moxifloxacin vykazoval genotoxicitu v in vitro testech na bakteriích a savčích buňkách. V in vivo testech nebyly pozorované známky genotoxicity i přesto, že byly použity velmi vysoké dávky moxifloxacinu.
+V rámci studií iniciace-propagace na potkanech nebyly zjištěny karcinogenní vlastnosti moxifloxacinu.
+
+In vitro moxifloxacin vykazoval vliv na elektrofyziologické vlastnosti srdce, což může mít za následek prodloužení QT intervalu. Ačkoliv tento vliv se projevoval při použití vysokých koncentrací moxifloxacinu.
+
+14
+
+Po intravenózním podání moxifloxacinu psům (30 mg/kg formou infuze po dobu 15, 30 nebo 60 minut) bylo zřejmé, že míra prodloužení QT intervalu závisí na infuzní rychlosti, tj. čím kratší byla doba infuze, tím bylo výraznější prodloužení QT intervalu. Při podání dávky 30 mg/kg infuzí po dobu 60 minut nebylo pozorováno žádné prodloužení QT intervalu.
+Reprodukční studie prováděné na potkanech, králících a opicích ukazují, že moxifloxacin prochází placentou. Studie na potkanech (p.o. a i.v.) a opicích (p.o.) neprokázaly po podání moxifloxacinu ani teratogenitu, ani poruchu plodnosti. U plodů králíků byl pozorován mírně zvýšený výskyt malformací obratlů a žeber, ale pouze při dávce (20 mg/kg i.v.), která byla spojená s vážnou toxicitou pro březí samice. U opic a králíků se zvýšila incidence potratů, a to při plazmatických koncentracích jaké jsou běžné u člověka po podání terapeutické dávky.
+
+O chinolonech, včetně moxifloxacinu, je známo, že působí poškození chrupavky velkých diartrodiálních kloubů u nedospělých zvířat.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+trihydrát natrium-acetátu síran sodný
+kyselina sírová (k úpravě pH) voda pro injekci
+
+6.2  Inkompatibility
+Následující roztoky nejsou kompatibilní s infuzním roztokem moxifloxacinu: 10% a 20% roztok chloridu sodného
+4,2% a 8,4% roztok hydrogenuhličitanu sodného
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+
+6.3  Doba použitelnosti
+
+3 roky
+
+Chemická a fyzikální stabilita po otevření/naředění před použitím byla prokázána na dobu 24 hodin při 25 °C.
+Z mikrobiologického hlediska, pokud způsob otevření/rekonstituce/ředění nevyloučí riziko mikrobiální kontaminace, přípravek má být použit okamžitě.
+Pokud není použit okamžitě, jsou doba a podmínky uchovávání přípravku po otevření před použitím v odpovědnosti uživatele.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Chraňte před chladem nebo mrazem.
+Uchovávejte lahev v krabičce, aby byl přípravek chráněn před světlem.
+
+15
+
+Podmínky uchovávání tohoto léčivého přípravku po jeho prvním otevření/naředění jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+
+Přípravek Moxifloxacin Kabi je dodáván v:
+-  lahvích z polyethylenu o nízké hustotě (KabiPac) uzavřených víčkem s pryžovou zátkou umožňující vsunutí jehly
+nebo v
+-  polyolefinových vacích (freeflex) s portem pro aplikaci (infuzní port) a portem pro přidávání léčiv (injekční port), které jsou tvořeny polypropylenovým krytem a hliníkovým přebalem.
+
+Velikosti balení
+Polyethylenová lahev (KabiPac): 1, 10, 20, 25 nebo 40 lahví v balení
+Polyolefinové vaky (freeflex): 1, 10, 20, 25 nebo 40 vaků v balení Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Tento přípravek je určen pouze k jednorázovému použití. Veškerý nepoužitý roztok musí být zlikvidován.
+Bylo zjištěno, že následující infuzní roztoky jsou kompatibilní s infuzním roztokem moxifloxacinu 400 mg/250 ml:
+voda pro injekci, 0,9% roztok chloridu sodného, 5%/10% roztok glukózy, Ringerův roztok, složený roztok natrium-laktátu (Hartmannův roztok, roztok Ringer-laktátu).
+Infuzní roztok moxifloxacinu nesmí být podáván infuzí společně s jinými léčivými přípravky.
+
+Nepoužívejte tento přípravek, pokud si všimnete, že obsahuje viditelné částice nebo pokud je roztok zakalený.
+Při uchovávání v chladu může dojít ke vzniku sraženiny, při pokojové teplotě se však vzniklá sraženina rozpustí. Z toho důvodu se nedoporučuje uchovávat infuzní roztok při teplotě nižší než 8 °C.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO
+
+15/157/14-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 30. 4. 2014
+Datum posledního prodloužení registrace: 25. 4. 2019
+
+
+16
+
+10.  DATUM REVIZE TEXTU
+
+20. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17

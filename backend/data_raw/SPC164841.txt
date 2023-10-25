@@ -1,0 +1,558 @@
+sp.zn. sukls270824/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV LÉČIVÉHO PŘÍPRAVKU
+AZEPO 1 g prášek pro injekční/infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje cefazolinum 1 g (jako cefazolinum natricum).
+Jedna injekční lahvička obsahuje 2,2 mmol (50 mg) sodíku. Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+Prášek pro injekční/infuzní roztok
+Bílý až téměř bílý velmi hygroskopický prášek
+
+4. KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Přípravek AZEPO je indikován k léčbě následujících infekcí vyvolaných mikroorganismy citlivými na
+cefazolin:
+•  infekce kůže a měkkých tkání
+•  infekce kostí a kloubů
+•  perioperační profylaxe: před operací, během operace a po operaci ke snížení výskytu určitých pooperačních  infekcí  u  pacientů  podstupujících  chirurgické  výkony  s rizikem  nebo potenciálním rizikem infekce.
+Za vhodných podmínek kultivace a s přiměřenou citlivostí má být stanovena citlivost kauzálních mikroorganismů na cefalosporiny.
+V úvahu musí být vzato oficiální místní doporučení pro použití antibakteriálních přípravků.
+4.2  Dávkování a způsob podání
+Dávkování
+Dávkování závisí na citlivosti mikroorganizmu a závažnosti onemocnění. Dospělí
+•  U infekcí způsobených vysoce citlivými grampozitivními mikroorganismy je obvyklá dávka pro dospělé 1‒2 g/den ve dvou nebo třech stejných dávkách.
+•  U infekcí způsobených méně citlivými grampozitivními a gramnegativními patogeny je obvyklá dávka 3‒4 g/den ve třech nebo čtyřech stejných dávkách. AZEPO lze podávat v dávkách až 6 g/den u těžkých infekcí jako je endokarditida.
+U dospělých s poruchou funkce ledvin může být nutná nižší dávka, aby se zabránilo akumulaci.
+Velikost snížené dávky lze určit na základě hladiny v krvi. Pokud to není možné, dávka se určí podle
+BUN a/nebo clearance kreatininu.
+Po počáteční nasycovací dávce 500 mg mohou být jako vodítko použity následující pokyny pro udržovací dávku.
+
+
+
+1/12
+
+Udržovací dávka přípravku AZEPO u pacientů s poruchou funkce ledvin
+
+
+
+Funkce ledvin
+
+Lehká porucha Středně těžká
+porucha
+
+Těžká porucha
+BUN
+(mg/ 100 ml)
+
+20‒34
+
+35‒49
+
+50‒75
+Clearance kreatininu (ml/min)
+
+70‒40
+
+40‒20
+
+20‒5
+Grampozitivní
+infekce
+
+250‒500 mg
+každých 8 h
+125‒250 mg
+každých 12 h
+75‒150 mg
+každých 24 h
+Gramnegativní
+infekce
+
+500 mg‒1 g
+každých 8 h
+250‒600 mg
+každých 12 h
+150‒400 mg
+každých 24 h
+Sérový poločas (hodiny)
+
+3‒5
+
+6‒12
+
+15‒30
+
+Viz též bod 4.4. Zvláštní upozornění a opatření při použití.
+Perioperační profylaxe
+Doporučené dávkování pro prevenci pooperačních infekcí u operací s rizikem nebo potenciálním
+rizikem infekce je:
+a) 30 minut až 1 hodinu před zahájením operace se podává dávka 1 g intravenózně
+b) při déletrvajících operacích (2 hodiny a déle) se podává další dávka 500 mg až 1 g intravenózně během operace (podání nastavit podle délky operace)
+c) po operaci se podává dávka 500 mg až 1 g intravenózně každých 6‒8 hodin po dobu 24 hodin
+Je důležité (1) aby se úvodní dávka před operací podala krátce před zahájením operace (30 minut až 1 hodinu) tak, aby bylo dosaženo účinné koncentrace antibiotika v séru v momentě prvního chirurgického řezu; a (2) aby byl cefazolin v případě potřeby podáván v určených časech během chirurgického výkonu, aby byla zajištěna dostatečně vysoká hladina antibiotika v okamžicích vysoké expozice mikroorganismům.
+Profylaxe cefazolinem má být ukončena do 24 hodin po skončení operace. Pokud by potencionální infekce představovala pro pacienta velké nebezpečí (např. operace na otevřeném srdci nebo totální náhrada kloubu), je doporučeno v profylaxi cefazolinem pokračovat po dobu 3 až 5 dnů po skončení operace.
+Pediatrická populace
+U infekcí způsobených vysoce citlivými grampozitivními mikroorganismy je účinná dávka 25‒
+50 mg/kg tělesné hmotnosti rozdělená do dvou až čtyř dávek za den.
+U infekcí způsobených méně citlivými grampozitivními mikroorganismy a gramnegativními patogeny se doporučuje dávka maximálně 100 mg/kg tělesné hmotnosti ve třech nebo čtyřech stejných dávkách.
+U dětí s poruchou funkce ledvin mohou být nutné nižší dávky, aby se zabránilo akumulaci. Velikost snížené dávky lze určit na základě hladiny v krvi. Pokud to není možné, dávka se odvodí z clearance kreatininu podle následujících pokynů.
+•  U dětí se středně těžké poruchy funkce (clearance kreatininu 40‒20 ml/min) postačí 25 %
+normální denní dávky rozděleně každých 12 hodin.
+•  U dětí s těžkou poruchou funkce (clearance kreatininu 20‒5 ml/min) postačí 10 % normální denní dávky každých 24 hodin.
+Všechny tyto pokyny platí po aplikaci počáteční nasycovací dávky. Viz též bod 4.4. Zvláštní upozornění a opatření při použití.
+
+
+
+
+
+2/12
+
+Kojenci
+Vzhledem k tomu, že bezpečnost použití u nedonošených dětí a dětí mladších než jeden měsíc nebyla stanovena, použití přípravku AZEPO se u těchto pacientů nedoporučuje. Viz též bod 4.4. Zvláštní upozornění a opatření při použití.
+Pokyny pro dávkování u pediatrické populace
+Do injekční lahvičky přípravku AZEPO přidejte 4 ml rozpouštědla. Ředění = 225 mg/ml.
+
+
+Tělesná hmotnost v kg
+25 mg/kg/den rozděleně do 3 dávek
+25 mg/kg/den rozděleně do 4 dávek
+
+
+Dávka v mg
+každých 8 h
+5         42
+10        85
+15        125
+20        167
+25        208
+Potřebný objem v ml
+0,2
+0,4
+0,5
+0,7
+0,9
+Dávka v mg
+každých 6 h
+31
+62
+94
+125
+156
+Potřebný objem v ml
+0,15
+0,3
+0,4
+0,5
+0,7
+
+
+
+Tělesná
+hmotnost v kg
+50 mg/kg/den rozděleně do 3 dávek
+50 mg/kg/den rozděleně do 4 dávek
+
+
+Dávka v mg
+každých 8 h
+5         83
+10        166
+15        250
+20        333
+25        417
+Potřebný objem v ml
+0,4
+0,7
+1,1
+1,5
+1,9
+Dávka v mg
+každých 6 h
+63
+125
+188
+250
+313
+Potřebný objem v ml
+0,3
+0,6
+0,8
+1,1
+1,4
+
+
+Starší pacienti
+U starších pacientů s normální funkcí ledvin není potřebná úprava dávkování. Doba léčby
+Záleží na průběhu onemocnění. V souladu s obecnými zásadami léčby antibiotiky má léčba přípravkem AZEPO pokračovat alespoň 2 až 3 dny po vymizení horečky nebo dokud není prokázáno, že byla eliminována příčina onemocnění.
+Způsob podání
+AZEPO lze podávat intramuskulárně nebo intravenózně.
+Intramuskulární injekce
+Nařeďte vodou pro injekci, 0,9% roztokem chloridu sodného nebo 0,5% roztokem lidokainu podle níže uvedené tabulky ředění.
+Důkladně protřepte do úplného rozpuštění. Pro podání dětem mladším než jeden rok se cefazolin nesmí rozpouštět v roztoku lidokainu.
+
+3/12
+
+AZEPO má být aplikován do velkého svalu.
+
+
+
+Tabulka ředění
+Cefazolin        Objem rozpouštědla  Přibližná výsledná
+koncentrace
+
+
+Přibližný využitelný
+objem
+
+
+1 g           2,5 ml
+330 mg/ml
+3,0 ml
+
+Intravenózní podání
+Přípravek AZEPO může být podán přímou intravenózní injekcí, intermitentní infuzí nebo kontinuální infuzí. Celková denní dávka je stejná jako pro intramuskulární injekci.
+Intermitentní a kontinuální infuze
+Přípravek AZEPO může být podán v rámci probíhající intravenózní léčby, v primární nebo sekundární intravenózní lahvi. AZEPO se nejprve rozpustí ve 2,5 ml vody pro injekci nebo 0,9% roztoku chloridu sodného (postupem uvedeným výše v části Intramuskulární injekce) a dále se naředí objemem 50‒100 ml na 1 g cefazolinu některým z následujících roztoků:
+•  0,9% roztok chloridu sodného
+•  0,9% roztok chloridu sodného a 5% roztok glukózy
+•  roztok Ringer-laktátu
+Přímá intravenózní injekce
+Přípravek AZEPO se nejprve rekonstituuje ve 2,5 ml vody pro injekci nebo 0,9% roztoku chloridu sodného (postupem uvedeným výše v bodu Intramuskulární injekce) a dále se naředí minimálně 10 ml vody na injekci nebo 0,9% roztoku chloridu sodného. Aplikuje se pomalu během tří až pěti minut. V žádném případě nezkracujte dobu podávání na méně než 3 minuty. Lze podat přímo do žíly nebo do kanyl, kterými pacient dostává výše uvedené intravenózní roztoky.
+Poznámka: Jednotlivé dávky větší než 1 g mají být podány během 30‒60 minut.
+Další pokyny viz bod 6.6.
+4.3  Kontraindikace
+•  hypersenzitivita na cefazolin a jiná cefalosporinová antibiotika
+•  předchozí hypersenzitivní reakce na penicilin nebo jiný typ beta-laktamového antibiotika
+•  pro podání dětem mladším než jeden rok se cefazolin nesmí rozpouštět v roztoku lidokainu
+•  je-li pro ředění použit lidokain, musí být před intramuskulárním podáním vyloučeny
+kontraindikace lidokainu
+4.4  Zvláštní upozornění a opatření pro použití
+•  Před zahájením léčby cefazolinem je třeba pečlivě zjistit, zda pacient neměl předchozí reakce hypersenzitivity na cefalosporiny a peniciliny. Cefalosporiny se nemají používat u pacientů, kteří po jejich podání v minulosti měli okamžitou hypersenzitivní reakci. V případě pochybností má být lékař při prvním podání cefazolinu přítomen, aby mohl reagovat na případnou anafylaktickou reakci. Mezi peniciliny a cefalosporiny existuje zkřížená reaktivita.
+•  V případě alergické reakce v souvislosti s přípravkem AZEPO má být podávání tohoto přípravku ukončeno a pacient má dostat vhodnou léčbu.
+•  Přestože cefazolin způsobuje renální dysfunkci jen vzácně, je doporučeno zkontrolovat funkci ledvin, především u těžce nemocných pacientů, kteří dostávají maximální dávky, a u pacientů současně užívajících jiné potenciálně nefrotoxické látky, jako jsou aminoglykosidy nebo silná
+
+
+4/12
+
+diuretika (např. furosemid nebo kyselina etakrynová). U pacientů s poškozenou funkcí ledvin lze použít vyšší koncentrace antibiotik po delší dobu. V této souvislosti se celková denní dávka cefazolinu snižuje (viz bod 4.2). Toto platí i pro pacienty s nízkou diurézou v důsledku špatné funkce ledvin.
+•  Při používání antibiotik se může objevit pseudomembranózní kolitida. Je důležité vzít tuto diagnózu v úvahu, pokud se u pacientů během léčby těmito látkami objeví průjmy. V takovém případě mají být přijata odpovídající opatření - viz též bod 4.8.
+•  Dlouhotrvající používání cefazolinu může vést k přemnožení necitlivých mikroorganizmů. Je proto důležité pacienta průběžně klinicky sledovat. Dojde-li v průběhu léčby k superinfekci, je třeba učinit vhodná opatření.
+•  Intratekální podání se nedoporučuje. Po intratekálním podání cefazolinu byla hlášena závažná toxicita centrálního nervového systému, včetně záchvatů.
+•  Vzhledem k tomu, že bezpečnost použití u nedonošených dětí a novorozenců mladších než jeden měsíc nebyla stanovena, použití přípravku AZEPO se u těchto pacientů nedoporučuje - viz též bod 4.2.
+•  Ve výjimečných případech se v průběhu léčby cefazolinem objevují poruchy srážlivosti krve. Rizikové faktory jsou faktory způsobující nedostatek vitamínu K nebo faktory ovlivňující další koagulační mechanismy (parenterální výživa, nedostatečná výživa, jaterní a ledvinové selhání, trombocytopenie). Srážení krve může být také narušeno v případě přidružených chorob (např. hemofilie, vředy žaludku a dvanáctníku), které mohou vyvolat nebo zhoršit krvácení. Proto se u těchto pacientů má sledovat protrombinový čas. Pokud je snížený, doporučuje se podat vitamin K (10 mg/týden).
+Tento léčivý přípravek obsahuje 50 mg sodíku v jedné injekční lahvičce, což odpovídá 2,5 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+V případě intramuskulárního podání cefazolinu rekonstituovaného roztokem lidokainu je nutno brát
+v úvahu i souhrn údajů o přípravku pro lidokain.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Kontraindikované kombinace
+Antibiotika
+Současné podávání bakteriostatických antibiotik může vést k antagonizmu s účinkem cefazolinu. Nedoporučené kombinace
+Probenecid
+Při současném podávání probenecid snižuje renální clearance cefazolinu. Použití s opatrností
+Vitamin K1
+Některé z cefalosporinů, jako cefamandol, cefazolin a cefotetan, mohou inhibovat jaterní metabolizmus vitaminu K1 a způsobovat hypotrombinemii, zejména v případě nedostatku vitaminu K1. Může být nutné zvýšení dávky vitaminu K1.
+Antikoagulancia
+Cefalosporiny mohou velmi vzácně vést k poruchám srážlivosti krve (viz bod 4.4). Při současném užívání perorálních antikoagulancií nebo heparinu ve vysokých dávkách je třeba sledovat koagulační parametry.
+Nefrotoxické látky
+Pravděpodobnost nefrotoxických jevů je vyšší při současném podávání nefrotoxických látek, jako jsou aminoglykosidy (např. gentamicin), polymyxiny, kyselina etakrynová, furosemid a silná diuretika. V těchto případech je třeba sledovat renální funkce.
+
+5/12
+
+Laboratorní testy
+Během léčby cefalosporiny byl hlášen pozitivní Coombsův test. To platí i pro pacienty léčené
+cefazolinem.
+Perorální kontraceptiva
+Cefazolin může negativně ovlivnit účinnost hormonální antikoncepce. Je proto vhodné používat další nehormonální antikoncepci.
+4.6  Těhotenství, kojení a fertilita
+Těhotenství
+Bohaté zkušenosti s používáním první generace cefalosporinů v těhotenství nenaznačují nepříznivé účinky na těhotenství nebo na zdraví plodu/novorozence. Neexistují dostatečné údaje o použití cefazolinu během těhotenství, aby bylo možné posoudit jeho možnou škodlivost. Cefazolin prochází placentou. Studie na zvířatech neprokázaly teratogenitu ani reprodukční toxicitu (viz bod 5.3).
+Jako preventivní opatření se použití přípravku AZEPO během těhotenství nedoporučuje, pokud to není nezbytně nutné.
+Kojení
+Cefazolin přechází do mateřského mléka ve velmi malém množství. V terapeutických dávkách nelze žádné účinky na novorozence očekávat. AZEPO je možné používat během kojení.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Na základě farmakodynamického profilu a/nebo profilu nežádoucích účinků je nepravděpodobné, že by cefazolin měl účinky na schopnost řídit a obsluhovat stroje.
+4.8  Nežádoucí účinky
+Během používání cefazolinu byly hlášeny následující nežádoucí účinky. Frekvence nežádoucích účinků jsou rozděleny do kategorií takto:
+Velmi časté (≥1/10) Časté (≥1/100 až <1/10)
+Méně časté (≥1/1000 až <1/100) Vzácné (≥1/10000 až <1/1000) Velmi vzácné (<1/10000)
+
+Třídy orgánových systémů podle
+databáze MedDRA
+Infekce a infestace
+Frekvence
+
+
+
+
+Méně časté
+Nežádoucí účinky
+
+
+
+
+Orální kandidóza (při dlouhodobém používání)
+
+
+Vzácné Poruchy krve a lymfatického systému
+Vzácné
+
+
+
+
+Velmi vzácné
+Genitální moniliáza, vaginitida, genitální kandidóza
+
+
+Leukocytóza, granulocytóza, monocytóza, lymfocytopenie, bazofilie, eozinofilie, granulocytopenie, neutropenie, leukopenie, trombocytopenie
+Tyto účinky jsou reverzibilní.
+Poruchy krevní srážlivosti a v důsledku toho krvácení.
+
+
+
+6/12
+
+Třídy orgánových systémů podle
+databáze MedDRA
+Frekvence
+Nežádoucí účinky
+
+
+Rizikovými pacienty jsou pacienti s nedostatkem vitaminu K nebo jinými faktory, které mohou způsobit poruchy srážlivosti krve (umělá výživa, nedostatečná výživa, porucha funkce jater a ledvin, trombocytopenie) a pacienti se stavy, které mohou způsobit nebo exacerbovat krvácení (např. hemofilie, žaludeční a dvanáctníkové vředy).
+Poruchy imunitního systému
+Velmi vzácné    Anafylaktický šok (otok obličeje, otok jazyka, otok hrtanu se zúžením dýchacích cest, zvýšená tepová frekvence, dušnost, pokles krevního tlaku)
+Poruchy metabolismu a výživy
+Vzácné      Zvýšení nebo snížení plazmatické koncentrace
+glukózy
+
+Poruchy nervového systému
+Méně časté
+
+Vzácné Respirační, hrudní a mediastinální poruchy
+
+
+Křeče (u pacientů s poškozením ledvin, kteří byli léčeni neadekvátně vysokými dávkami)
+Vertigo, malátnost, únava
+Vzácné      Pleurální výpotek, dyspnoe nebo respirační tíseň, kašel, rinitida
+Gastrointestinální poruchy
+Vzácné       Průjem, nauzea, anorexie, zvracení (tyto příznaky často zmizí během léčby nebo po jejím ukončení)
+
+Poruchy jater a žlučových cest
+Vzácné
+
+
+
+Poruchy kůže a podkožní tkáně
+Méně časté
+
+
+Vzácné Velmi vzácné
+Poruchy ledvin a močových cest
+Vzácné
+
+
+Přechodné zvýšení sérové koncentrace AST, ALT, gama-GT, bilirubinu a/nebo LDH a alkalické fosfatázy, přechodná hepatitida, přechodný cholestatický ikterus
+
+
+Exantém, erytém, erythema exsudativum multiforme, kopřivka, reverzibilní lokální permeabilita cév, sliznic nebo kloubů (angioneurotický edém), léková horečka, intersticiální pneumonie nebo pneumonitida
+Stevens-Johnsonův syndrom, toxická epidermální nekrolýza (Lyellův syndrom)
+Anální pruritus, genitální pruritus
+
+
+Přechodné zvýšení dusíku močoviny v krvi (BUN), proteinurie, intersticiální nefritida, nedefinovaná nefropatie, nefrotoxicita, většinou u pacientů, kteří jsou léčeni současně dalšími potenciálně nefrotoxickými léky
+
+
+7/12
+
+Třídy orgánových systémů podle
+databáze MedDRA
+Frekvence
+Nežádoucí účinky
+
+Celkové poruchy a reakce v místě aplikace
+Časté Méně časté Vzácné
+
+
+Bolest v místě vpichu intramuskulární injekce, někdy se zatvrdnutím
+U intravenózního podání se může objevit
+tromboflebitida Bolest na hrudi
+V případě silného a přetrvávajícího průjmu v průběhu nebo po ukončení léčby cefazolinem se má pacient poradit s lékařem. Průjem může být příznakem závažného onemocnění (pseudomembranózní kolitida), která vyžaduje okamžitou léčbu. Pacient musí být poučen, aby nepoužíval samoléčbu, která blokuje střevní peristaltiku. Dlouhodobé používání cefalosporinů může vést k přerůstání necitlivých mikroorganismů, zejména rodu Enterobacter, Citrobacter, Pseudomonas, Enterococci a Candida.
+Vyšetření
+•  Přechodné zvýšení AST, ALT, krevní močoviny a alkalické fosfatázy, bez klinických příznaků poškození ledvin nebo jater.
+Údaje na zvířatech ukázaly, že cefazolin je potenciálně nefrotoxický. I když tento jev nebyl prokázán u lidí, je třeba tuto možnost vzít v úvahu, a to zejména u pacientů, kterým jsou podávány vysoké dávky po delší dobu. Vzácně byly zaznamenány intersticiální nefritida a nedefinované nefropatie. Pacienti, u nichž se tyto obtíže vyskytly, byli závažně nemocní a užívali více léků. Role cefazolinu v rozvoji intersticiální nefritidy a jiných nefropatií nebyla dosud stanovena.
+Ve vzácných případech byly u některých cefalosporinů hlášeny:
+Snížený obsah hemoglobinu a/nebo hematokrit, anémie, agranulocytóza, aplastická anémie,
+pancytopenie, hemolytická anémie
+Tyto účinky byly hlášeny při léčbě některými cefalosporiny:
+Noční můry, vertigo, hyperaktivita, nervozita nebo úzkost, insomnie, ospalost, slabost, návaly horka, poruchy barevného vidění, zmatenost, epileptogenní aktivita
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+Příznaky
+Příznaky mohou zahrnovat bolest, flebitidu a zánět v místě aplikace. Po parenterální aplikaci neobvykle vysokých dávek cefalosporinů se mohou objevit závratě, parestezie a bolest hlavy Po předávkování některými cefalosporiny se mohou objevit křeče, zejména u pacientů s poškozením ledvin, u nichž může snadněji dojít k akumulaci. Výsledky laboratorních testů po předávkování mohou ukázat vyšší hodnoty kreatininu, BUN, jaterních enzymů a bilirubinu, je zde riziko pozitivního Coombsova testu a trombocytózy, trombocytopenie, eozinofilie, leukopenie a prodloužení protrombinového času.
+
+
+
+
+8/12
+
+Léčba
+Pokud se objeví křeče, podávání přípravku AZEPO musí být okamžitě přerušeno.
+Má být k dispozici antikonvulzivní léčba a je třeba podpořit ventilaci a perfuzi. Je třeba pozorně monitorovat životní funkce. Kombinovanou hemodialýzu a hemoperfuzi lze zvážit v případě závažného předávkování, zejména u pacientů s poruchou funkce ledvin, je-li odpověď na konzervativnější léčbu nedostatečná. Údaje podporující tuto terapii však nejsou dostupné.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: jiná beta-laktamová antibiotika, cefalosporiny I. generace ATC kód: J01DB04
+Mechanizmus účinku
+Všechny cefalosporiny (beta-laktamová antibiotika) inhibují tvorbu buněčné stěny a jsou selektivními inhibitory syntézy peptidoglykanu. Prvním krokem mechanismu je vazba látky na cílové buněčné receptory (penicilin-vazebné proteiny). Vytvoření této vazby je inhibována transpeptidázová reakce a dojde k blokádě syntézy peptidoglykanů. Konečným výsledkem je destrukce bakterie.
+Mechanizmus rezistence
+Beta-laktamová antibiotika obsahují tzv. beta-laktamový kruh, který je nezbytný pro antimikrobiální aktivitu. Pokud je tento kruh otevřen, antibiotikum ztrácí svou účinnost. Některé bakterie však mají enzymy (beta-laktamázy), které jsou schopné kruh otevřít, a jsou proto rezistentní proti tomuto typu antibiotik. Tak jako u ostatních cefalosporinů a jiných beta-laktamových antibiotik se získané mechanismy rezistence liší podle skupiny bakterií. Zahrnují změny v cílové části bakteriální buňky (penicilin-vazebné bílkoviny, PBP), enzymatickou degradaci beta-laktamázami a změněnou přístupnost cílového místa. Existuje zkřížená rezistence mezi cefalosporiny a peniciliny. Gramnegativní mikroorganismy, které obsahují indukovatelné chromozomální beta-vázané laktamázy, jako je Enterobacter spp., Serratia spp., Citrobacter spp. a Providentia spp. musí být považovány za rezistentní na cefazolin přes svou citlivost in vitro.
+Hraniční hodnoty citlivosti (breakpoints)
+Klinické hraniční hodnoty MIC pro cefazolin podle EUCAST
+
+
+Organismus
+
+Hraniční hodnoty pro nespecifikované organismy
+Citlivé (S)
+(mg/l)
+1
+Rezistentní
+(R) (mg/l)
+2
+
+Prevalence rezistence se pro vybrané mikroorganismy může lišit geograficky a v čase, místní informace o rezistenci je cenná zejména při léčbě závažných infekcí. V případě potřeby se má vyhledat odborné poradenství, a to zejména, když je lokální prevalence rezistence taková, že použití léčiva je přinejmenším u některých typů infekce sporné.
+Citlivost pro Staphylococcus je odvozena z citlivosti na meticilin.
+Citlivé druhy
+Grampozitivní
+Staphylococcus aureus (citlivý na meticilin)
+Staphylococcus epidermidis (citlivý na meticilin)
+Druhy, u nichž může být problémem získaná rezistence
+Haemophilus influenzae Neisseria gonorrhoeae
+
+
+9/12
+
+Beta-hemolytické streptokoky skupiny A, B, C a G
+Streptococcus pneumoniae
+Rezistentní druhy
+Citrobacter spp.
+Enterococcus spp. (Enterobacter cloacae, Enterobacter aerogenes) Morganella morganii
+Proteus stuartii Proteus vulgaris
+Pseudomonas aeruginosa Serratia
+Staphylococcus (rezistentní na meticilin) Indol pozitivní kmeny Proteus
+Enterobacteriaceae spp. (Klebsiella pneumoniae) Enterobacteriaceae spp. (Proteus mirabilis)
+Někdy bakterie uvedených druhů mohou být citlivější nebo méně citlivé na cefazolin, než je zde uvedeno pro většinu těchto bakterií. Proto se doporučuje provést zkoušky citlivosti.
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Po intramuskulárním podání 500 mg cefazolinu je maximální sérová hladina 20‒40 μg/ml dosažena přibližně po jedné hodině. Po podání 1 g byly získány maximální hladiny 37‒63 μg/ml. Ve studii (u zdravých dospělých) s kontinuální intravenózní infuzí cefazolinu v dávce 3,5 mg/kg/jedna hodina (celkově přibližně 250 mg), následované 1,5 mg/kg/další dvě hodiny (celkově přibližně 100 mg) byla po třetí hodině podávání prokázána stabilní sérová koncentrace 28 μg/ml. Následující tabulka ukazuje průměrné sérové koncentrace cefazolinu po intravenózní injekci jedné dávky 1 g.
+Sérové koncentrace po intravenózním podání l g (μg/ml)
+5 min      15 min        30 min      1 hodina   2 hodiny    4 hodiny
+188,4      135,8        106,8      73,7      45,6      16,5
+Distribuce
+Cefazolin je z 70‒86 % vázán na plazmatické bílkoviny. Distribuční objem je přibližně 11 litrů/1,73 m². Pokud je cefazolin podáván pacientům bez obstrukce žlučovodu, hladiny cefazolinu ve žluči 90‒ 120 minut po podání jsou obecně vyšší než hladiny v séru. Naopak v případě obstrukce žlučovodu je koncentrace antibiotika ve žluči mnohem nižší než v séru. U pacientů s mozkovými plenami bez zánětu je po podání terapeutických dávek koncentrace cefazolinu v mozkomíšním moku 0,0‒0,4 μg/ml. Cefazolin snadno prochází zanícenou synoviální membránou a dosahované koncentrace antibiotika v kloubu jsou podobné koncentracím v séru.
+Biotransformace
+Cefazolin není metabolizován.
+Eliminace
+Plazmatický poločas je přibližně 1 hodina 35 minut. Cefazolin se vylučuje v biologicky aktivní formě močí. Z intramuskulární dávky 500 mg se 56‒89 % vylučuje během prvních šesti hodin a 80 až téměř 100 % se vyloučí během 24 hodin. Po intramuskulárním podání 500 mg a 1 g se v moči dosahuje hladiny 500‒4000 µg/ml. Cefazolin se ze séra odstraňuje především glomerulární filtrací, renální clearance je 65 ml/min/1,73 m².
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Cefazolin má nízkou akutní toxicitu. Renální toxicita po opakovaném podání byla pozorována u králíků, ale nikoliv u potkanů a psů. Cefazolin neměl teratogenní účinky, ani nevykazoval reprodukční toxicitu u potkanů, myší a králíků. Studie mutagenity a karcinogenity cefazolinu nejsou k dispozici.
+
+
+
+
+10/12
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Žádné.
+6.2  Inkompatibility
+Roztoky obsahující cefazolin nemají být míchány s jinými antibiotiky, včetně aminoglykosidů.
+6.3  Doba použitelnosti
+30 měsíců Rekonstituovaný roztok
+Chemická a fyzikální stabilita po rekonstituci byla pro všechny způsoby podání prokázána po dobu
+24 hodin při 2 °C‒8 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hod při 2 °C‒8 °C, pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky uchovávání. Uchovávejte injekční lahvičky v krabičce, aby byl přípravek chráněn před světlem. Podmínky uchovávání rekonstituovaného léčivého přípravku viz bod 6.3.
+6.5  Druh obalu a obsah balení
+Injekční lahvička z čirého skla (hydrolytická třída I, jmenovitý objem 10 ml) uzavřená pryžovou zátkou a hliníkovým uzávěrem, krabička
+Velikost balení: 5, 10, 25, 50 nebo 100 injekčních lahviček Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Příprava a podání roztoku se mají provést za aseptických podmínek (viz též bod 4.2). Před podáním je třeba roztok zkontrolovat na nepřítomnost pevných částic a zbarvení.
+Intramuskulární injekce
+Nařeďte vodou pro injekci, 0,9% roztokem chloridu sodného nebo 0,5% roztokem lidokainu podle níže uvedené tabulky ředění. Důkladně protřepte do úplného rozpuštění.
+AZEPO má být aplikován do velkého svalu. Pro podání dětem mladším než jeden rok se cefazolin nesmí rozpouštět v roztoku lidokainu.
+
+
+Cefazolin        Objem rozpouštědla  Přibližná výsledná
+koncentrace
+Přibližný využitelný
+objem
+
+1 g           2,5 ml
+330 mg/ml
+3,0 ml
+
+Intravenózní podání
+AZEPO může být podán přímou intravenózní injekcí, intermitentní infuzí nebo kontinuální infuzí. Celková denní dávka je stejná jako pro intramuskulární injekci.
+Intermitentní a kontinuální infuze
+AZEPO může být podán v rámci probíhající intravenózní léčby, v primární nebo sekundární intravenózní lahvi. AZEPO se nejprve rekonstituuje ve 2,5 ml vody pro injekci nebo 0,9% roztoku chloridu sodného (postupem uvedeným výše v bodu Intramuskulární injekce) a dále se naředí objemem 50‒100 ml na 1 g cefazolinu některým z následujících roztoků:
+
+
+11/12
+
+•  0,9% roztok chloridu sodného
+•  0,9% roztok chloridu sodného a 5% roztok glukózy
+•  roztok Ringer-laktátu
+Přímá intravenózní injekce
+AZEPO se nejprve rekonstituuje ve 2,5 ml vody pro injekci nebo 0,9% roztoku chloridu sodného (postupem uvedeným výše v bodu Intramuskulární injekce) a dále se naředí minimálně 10 ml vody pro injekci. Aplikuje se pomalu během tří až pěti minut. V žádném případě nezkracujte dobu podávání na méně než 3 minuty. Lze podat přímo do žíly nebo do kanyl, kterými pacient dostává výše uvedené intravenózní roztoky.
+Poznámka: Jednotlivé dávky větší než 1 g mají být podány během třiceti až šedesáti minut. AZEPO injekční lahvičky jsou na jednorázové použití, zbytek roztoku se musí znehodnotit.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+Medochemie Bohemia, spol. s r.o., Vyskočilova 1566, 140 00 Praha 4 - Michle, Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+15/371/13-C
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 18. 12. 2013
+Datum posledního prodloužení registrace: 28. 8. 2019
+
+10. DATUM REVIZE TEXTU
+23. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12

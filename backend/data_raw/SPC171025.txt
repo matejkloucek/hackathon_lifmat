@@ -1,0 +1,471 @@
+Sp. zn. sukls171052/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Baclofen Sintetica 2 mg/ml infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Baclofen Sintetica 2 mg/ml infuzní roztok (10 mg/5 ml)
+Jeden ml infuzního roztoku obsahuje baclofenum 2,0 mg (2000 mikrogramů), 3,5 mg sodíku. Jedna ampule obsahuje baclofenum 10 mg (10000 mikrogramů), 17,5 mg sodíku.
+
+Baclofen Sintetica 2 mg/ml infuzní roztok (40 mg/20 ml)
+Jeden ml infuzního roztoku obsahuje baclofenum 2,0 mg (2000 mikrogramů), 3,5 mg
+sodíku.
+Jedna ampule obsahuje baclofenum 40 mg (40000 mikrogramů), 70 mg sodíku. Úplný seznam pomocných látek, viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok.
+
+Čirý a bezbarvý roztok v ampulích.
+Hodnota pH roztoku je mezi 5,5 a 6,8.
+Osmolarita roztoku je v rozmezí 270-300 mosm/kg.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Baclofen Sintetica je indikován u pacientů s těžkou chronickou spasticitou vznikající v důsledku traumatu, roztroušené sklerózy nebo jiných míšních poruch, kteří nereagují na perorální podávání baklofenu či jiných antispastických léčiv a/nebo u těch pacientů, kteří při účinných perorálních dávkách mají nepřijatelné nežádoucí účinky.
+
+Baclofen Sintetica je účinný u dospělých pacientů s těžkou chronickou spasticitou centrálního původu, např. v důsledku mozkové obrny, traumatu mozku nebo cévní mozkové příhody; klinické zkušenosti jsou omezené.
+
+Pediatrická populace
+Baklofen Sintetica je indikován u pacientů ve věku od 4 do méně než 18 let s těžkou formou chronické spasticity centrálního nebo spinálního původu (v důsledku zranění, roztroušené sklerózy, nebo jiných onemocnění míchy), kteří nereagují na perorální podávání antispastických léčiv (včetně perorálního baklofenu) a/nebo u těch pacientů, kteří při účinných perorálních dávkách mají nepřijatelné nežádoucí účinky.
+
+4.2  Dávkování a způsob podání
+
+Baklofen Sintetica je určen pro podání v jednorázových bolusových testovacích dávkách (přes spinální katetr
+1
+
+nebo lumbální punkcí) a pro chronické používání prostřednictvím implantabilních pump vhodných pro kontinuální podávání přípravku Baclofen Sintetica do intratekálního prostoru (pumpy s certifikací v EU). Stanovení optimálního dávkovacího schématu vyžaduje, aby každý pacient před udržovací terapií podstoupil počáteční testovací fázi s jednorázovým bolusovým intratekálním podáním, po které následuje velmi opatrná individuální titrace dávky. Intratekální podání baklofenu prostřednictvím implantovaného systému má být prováděno pouze lékaři, kteří mají potřebné znalosti a zkušenosti. Konkrétní pokyny pro implantaci, programování a/nebo doplňování implantabilní pumpy jsou dány výrobci, a musí být přísně dodržovány.
+Účinnost intratekálního baklofenu byla prokázána v kontrolovaných randomizovaných studiích s pumpou certifikovanou v EU. Jedná se o implantabilní systém podání: plnitelný zásobník se implantuje pod kůži, obvykle do stěny břišní. Tento systém je připojen k intratekálnímu katetru, který prochází subkutánně do subarachnoidálního prostoru.
+Dávkování
+Testovací fáze
+Před podáním baklofenu kontinuální intratekální infuzí musí pacienti vykazovat pozitivní reakci na podání intratekální testovací dávky v počáteční testovací fázi. Obvykle se jednorázová bolusová testovací dávka podává pomocí lumbální punkce nebo intratekálním katetrem, s cílem vyvolat reakci. Pacienti mají být před screeningem bez infekce, protože přítomnost systémové infekce může zabránit přesnému vyhodnocení odpovědi. Počáteční dávka je obvykle 25 nebo 50 mikrogramů; dávka je obecně zvyšována o 25 mikrogramů v intervalech nejméně 24 hodin, do doby získání reakce trvající přibližně 4 až 8 hodin. Dávka musí být aplikována po dobu nejméně jedné minuty přes barbotáž.
+Pro tuto testovací fázi jsou k dispozici nízkodávkové ampule (0,05 mg/ml, odpovídá 50 mikrogramům/ml). V průběhu podání první dávky musí být dostupné resuscitační vybavení.
+Pacienti jsou považováni za pozitivní respondéry, pokud vykazují významný pokles svalového napětí a/nebo frekvence a/nebo závažnosti křečí.
+V citlivosti na intratekální baklofen existuje výrazná variabilita. U dospělých byly pozorovány známky těžkého předávkování (kóma) už po jednorázové testovací dávce 25 mikrogramů.
+Pacientům, kteří nereagují na testovací dávku 100 mikrogramů, se nesmí podávat další dávky, a tito pacienti tak nejsou způsobilí pro kontinuální intratekální infuze. V průběhu této fáze je nezbytné sledování respiračních a kardiálních funkcí, a to zejména u pacientů s kardiopulmonálním onemocněním a respirační svalovou slabostí nebo u pacientů léčených přípravky ze skupiny benzodiazepinů nebo opiátů, u kterých hrozí vyšší riziko respiračního útlumu.
+Titrační fáze
+Jakmile je prostřednictvím testovacích dávek potvrzena pozitivní reakce pacienta na léčivý přípravek Baclofen Sintetica, může se zavést intratekální infúze pomocí vhodného aplikačního systému. Infekce může zvýšit riziko chirurgických komplikací a zkomplikovat snahy o úpravu dávky.
+Po implantaci má být počáteční celková denní dávka stanovena jako dvojnásobek dávky, která vykazovala pozitivní účinek v testovací fázi, a má být podána po dobu 24 hodin,pokud účinek jednorázové testovací dávky trval více než 12 hodin. V takovém případě má být počáteční denní dávka podobná dávce v testovací fázi a má být podaná v průběhu 24 hodin. Dávka se nesmí zvyšovat v průběhu prvních 24 hodin. Po prvních 24 hodinách lze denně pomalu upravovat dávku do dosažení požadovaného účinku. Aby nedošlo k předávkování, přírůstek dávky nesmí překročit 10-30 %. Pacienti se spasticitou cerebrálního původu: po prvních 24 hodinách lze denně pomalu upravovat dávku do dosažení požadovaného účinku. Aby nedošlo k předávkování, přírůstek dávky nesmí překročit 5-15 %.
+Pokud je použita programovatelná pumpa, má být dávka zvýšena pouze jednou za každých 24 hodin. V případě neprogramovatelné pumpy připojené k 76 cm dlouhému katetru s rychlostí podání 1 ml/den se doporučuje, aby byla odpověď na léčbu hodnocena pouze ve 48hodinových intervalech. V případě, že výrazné zvýšení denní dávky nevede ke klinickému efektu, musí se ověřit fungování pumpy a propustnost katetru.
+Jsou k dispozici pouze omezené zkušenosti s dávkami vyššími než 1000 mikrogramů/den.
+Během testovací fáze, stejně jako během titračního období po implantaci, mají být pacienti pečlivě sledováni na pracovišti s veškerým potřebným vybavením a personálem. Resuscitační vybavení musí být k dispozici pro okamžité použití pro případ jakékoliv reakce, která ohrožuje vitální prognózu pacienta, nebo nástupu
+
+2
+
+velmi závažných nežádoucích účinků. V zájmu omezení rizik v perioperační fázi musí být pumpa
+implantována pouze v centrech se zkušeným personálem.
+
+Udržovací léčba
+Klinickým cílem je udržení normálního svalového tonu, jak je jen možné, a minimalizace četnosti a závažnosti křečí, bez vyvolání neúnosných nežádoucích účinků. K vyvolání adekvátní terapeutické odpovědi má být použita nejnižší možná dávka. Vzhledem ke klesající odezvě na léčbu nebo v důsledku progrese onemocnění vyžadují pacienti v chronické léčbě postupně vyšší dávky, aby si udrželi optimální dlouhodobou odpověď. Ve většině případů se dávka stabilizuje po 1,5 až 2 letech léčby. Je žádoucí zachování přiměřeného stupně svalového tonu k zabránění pocitu "ochrnutí" ze strany pacienta. Přiměřený stupeň svalového tonu a občasné křeče navíc mohou pomoci podporovat fungování krevního oběhu a případně tak zabránit tvorbě hluboké žilní trombózy.
+Pro udržení odpovídající kontroly příznaků může být denní dávka postupně navyšována o 10-30 %
+přizpůsobením průtoku pumpy a/nebo koncentrace přípravku Baclofen Sintetica v zásobníku. U pacientů, kteří trpí nežádoucími účinky, může být denní dávka snížena o 10-20 %.
+Náhlá potřeba výrazného zvýšení dávky ukazuje na komplikace katetru (zakřivení nebo dislokace) nebo poruchu pumpy.
+Pro dlouhodobou udržovací léčbu pomocí kontinuální infuze se dávkování intratekálního baklofenu pohybuje mezi 10 a 1200 mikrogramy/den, většina pacientů dosahuje odpovídající odpovědi při použití dávky 300-800 mikrogramů/den.
+Přibližně 5 % pacientů používajících dlouhodobou léčbu nereaguje na zvýšení dávky. K tomu může dojít v důsledku selhání léčby. Pro tyto případy není dosud k dispozici dostatek zkušeností, aby bylo možné doporučit jednoznačné řešení. Tento jev je někdy v nemocnici řešen využitím tzv. "lékových prázdnin", spočívajících v postupném snižování dávek intratekálního baklofenu po dobu 2 až 4 týdnů a přechodu na alternativní metody terapie spasticity (např. intratekální morfin-sulfát bez konzervačních látek). Po uplynutí této doby může být citlivost na intratekální baklofen znovu obnovena: léčba má být obnovena počáteční kontinuální infuzní dávkou, po které následuje titrační fáze, z důvodu prevence možného předávkování.
+Opatrnosti je třeba dbát při přechodu z intratekálního baklofenu na morfin a naopak (viz "Interakce").
+Je nutné pravidelné klinické monitorování za účelem posouzení potřeby úpravy dávkování, ověření správné funkce aplikačního systému a zaznamenání jakýchkoliv nežádoucích účinků nebo přítomnosti infekce.
+
+Přerušení léčby
+S výjimkou naléhavých případů spojených s předávkováním má být léčba ukončena pozvolně s postupným snižováním dávek. Léčba léčivým přípravkem Baclofen Sintetica nemá být náhle přerušena (viz "Zvláštní upozornění a opatření pro použití").
+
+Podání: konkrétní požadavky
+Ampule 10 mg/5 ml, 40 mg/20 ml a 10 mg/20 ml léčivého přípravku Baclofen Sintetica byly speciálně vyvinuty pro infuzní pumpy.
+Přesná koncentrace závisí na potřebné celkové denní dávce a na minimální rychlosti infuzní pumpy. Přečtěte si příručku výrobce, která obsahuje všechna konkrétní doporučení.
+
+Způsob podání
+Ve většině případů se léčivý přípravek Baclofen Sintetica podává formou kontinuální infuze ihned po implantaci. Jakmile je pacient stabilizován z hlediska denní dávky a funkčních aspektů, za předpokladu, že daný typ pumpy toto umožňuje, lze přejít na komplexnější způsob podávání za účelem zajištění optimální kontroly spasticity v různou denní dobu. Například pacienti se zvýšeným výskytem nočních křečí mohou vyžadovat až 20% zvýšení hodinové rychlosti infuze. Tato změněná rychlost infuze musí být naprogramována asi 2 hodiny před očekávaným klinickým účinkem.
+Každá ampule je určena výhradně k jednorázovému použití. Nelze opakovaně sterilizovat.
+Léčivý přípravek musí být před použitím vizuálně zkontrolován. Lze použít pouze čirý roztok prakticky bez částic.
+
+3
+
+Návod k použití/návod k obsluze
+Baclofen Sintetica je určen pro intratekální injekci a kontinuální infuzi a podává se v souladu se specifikacemi doprovázejícími každý infuzní systém.
+Pokyny k ředění přípravku před podáním viz bod 6.6.
+
+Zvláštní populace
+Pediatrická populace
+
+Testovací fáze
+Počáteční testovací dávka podaná lumbální punkcí pro pacienty ve věku 4 až <18 let je obvykle od 25 do 50 mikrogramů/den v závislosti na věku a velikosti dítěte. U pacientů bez terapeutické odpovědi je možné zvýšit dávku o 25 mikrogramů/den každých 24 hodin. Maximální dávka v testovací fázi u dětských pacientů nesmí překročit 100 mikrogramů/den. Bezpečnostní opatření, která je třeba přijmout, jsou stejná pro dospělé i děti, viz výše uvedený bod Testovací fáze.
+
+Titrační fáze
+Doporučení jsou stejná pro dospělé i děti, viz výše uvedený bod Titrační fáze.
+Udržovací dávka
+U dětí ve věku od 4 do <18 let se spasticitou cerebrálního a spinálního původu, se počáteční udržovací dávka pro dlouhodobou kontinuální infuzi intratekálního baklofenu pohybuje v rozmezí od 25 do 200 mikrogramů/den (střední hodnota dávky: 100 mikrogramů/den). Celková denní dávka má tendenci se zvyšovat v průběhu prvního roku léčby, proto je třeba, aby byla udržovací dávka upravena na základě individuální klinické odpovědi. K dispozici jsou omezené zkušenosti s dávkami vyššími než 1000 mikrogramů/den.
+Bezpečnost a účinnost léčby intratekálním baklofenem k léčbě těžké spasticity cerebrálního nebo spinálního původu u dětí mladších 4 let nebyla dosud stanovena (viz také bod 4.4).
+
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin léčených léčivým přípravkem Baclofen Sintetica nebyly provedeny žádné studie. Protože baklofen je primárně vylučován v nezměněné formě ledvinami, je třeba věnovat zvláštní péči a opatrnost u pacientů s poruchou funkce ledvin.
+
+Porucha funkce jater
+U pacientů s poruchou funkce jater léčených léčivým přípravkem Baclofen Sintetica nebyly provedeny žádné studie. Nedoporučuje se žádná úprava dávky, protože játra nehrají významnou roli v metabolismu baklofenu po intratekálním podání léčivého přípravku Baclofen Sintetica. Proto se neočekává, že by porucha funkce jater měla vliv na systémovou expozici léčivému přípravku.
+Starší populace
+Během klinických studií bylo léčivým přípravkem Baclofen Sintetica léčeno několik pacientů ve věku nad 65 let bez zvýšeného rizika ve srovnání s mladšími pacienty. Problémy specifické pro tuto věkovou skupinu se neočekávají, protože dávky jsou individuálně titrovány.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Farmakorezistentní epilepsie.
+Lék nesmí být podáván jiným způsobem než intratekálně.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Lékařská péče
+Pumpa má být implantována pouze po přesném vyhodnocení odpovědi pacienta na jednorázovou intratekální injekci baklofenu a/nebo na titraci dávky. Vzhledem k rizikům spojeným s úvodní dávkou a úpravou dávek intratekálního baklofenu (všeobecné deprese funkcí CNS, kardiovaskulární kolaps a/nebo respirační deprese)
+4
+
+tyto kroky musí být provedeny pouze pod lékařským dohledem v centru s požadovaným vybavením, v souladu s pokyny uvedenými v části "Dávkování a způsob podání". Resuscitační vybavení musí být k dispozici pro okamžité použití pro případ předávkování, které ohrožuje vitální prognózu pacienta. Lékaři musí být dostatečně zkušení v chronické léčbě intratekálními infuzemi.
+
+Sledování pacienta
+Pacient musí být po chirurgické implantaci pumpy pečlivě sledován, a to zejména v počáteční fázi použití pumpy a pokaždé, když je upravena rychlost podání a/nebo koncentrace baklofenu v zásobníku, a to do té doby, dokud není reakce pacienta na infuzi v přiměřených mezích přijatelná a stabilizovaná.
+
+Je nezbytné, aby byli pacient, jeho ošetřující lékaři a všichni pečovatelé přesně seznámeni s riziky tohoto způsobu léčby. Všechny osoby podílející se na léčbě nebo péči o pacienta musí být jasně informovány o příznacích nedostatečného dávkování a předávkování, dále o postupech, které mají být provedeny v případě intoxikace, jakož i o opatřeních, která mají být přijata v domácím prostředí s ohledem na pumpu a místo zavedení.
+U pacientů se spasticitou způsobenou úrazem hlavy se nedoporučuje přistupovat k dlouhodobé intratekální
+terapii baklofenem, dokud nejsou příznaky spasticity stabilní (tj. nejméně jeden rok po úrazu).
+
+Testovací fáze
+V úvodní testovací fázi je nezbytné pečlivé monitorování respiračních a kardiovaskulárních funkcí, a to zejména u pacientů s kardiopulmonálním onemocněním nebo respirační svalovou slabostí a u pacientů souběžně užívajících přípravky ze skupiny benzodiazepinů nebo opiátů, jelikož u nich hrozí vyšší riziko respiračního útlumu.
+Před testovací fází s léčivým přípravkem Baclofen Sintetica musí být vyloučena jakákoliv infekce, jelikož systémová infekce může zkreslit vyhodnocení reakce pacienta na injekční léčivý přípravek Baclofen Sintetica.
+Zánětlivá hmota na špičce implantovaného katetru: Byly hlášeny případy zánětlivé hmoty na špičce implantovaného katetru, které mohou vést k vážnému neurologickému poškození, včetně ochrnutí. Přestože tyto případy byly hlášeny při použití léčivého přípravku Baclofen Sintetica, nebyly potvrzeny kontrastní MRI nebo histopatologicky. Nejčastějšími symptomy souvisejícími se zánětlivou hmotou jsou: 1) snížení terapeutické odpovědi (zhoršení spasticity, návrat spasticity, která již byla dobře kontrolovaná, příznaky z vysazení, slabá odpověď na zvyšující se dávky, časté nebo výrazné zvyšování dávek), 2) bolest, 3) neurologický deficit/dysfunkce. Kliničtí lékaři mají u pacienta s intraspinální terapií pečlivě monitorovat jakékoliv nové neurologické známky nebo symptomy. Kliničtí lékaři mají používat vlastní lékařský úsudek pro nejvhodnější monitorování specifické pro potřeby svých pacientů, aby identifikovali prodromální příznaky a projevy zánětlivé hmoty, obzvláště pokud pacient užívá léky obsahující opioidy. U pacientů s novými neurologickými známkami nebo symptomy svědčícími pro diagnózu zánětlivé hmoty je nutné zvážit neurochirurgickou konzultaci, protože mnoho symptomů zánětlivé hmoty nejsou pravděpodobně symptomy, které se vyskytly u pacientů s těžkou spasticitou v souvislosti s jejich onemocněním. V některých případech je vhodné vyšetření pomocí zobrazovací metody k potvrzení nebo vyloučení diagnózy zánětlivé hmoty.
+
+Implantace pumpy
+Před implantací pumpy musí být pacient bez infekce, jinak se zvyšuje riziko pooperačních komplikací. Navíc systémová infekce by mohla komplikovat úpravu dávky. Lokální infekce nebo nesprávné umístění katetru mohou také způsobit přerušení aplikace léku, což může vést k náhlému přerušení léčby léčivým přípravkem Baclofen Sintetica doprovázené příznaky z vysazení (viz "Přerušení léčby").
+
+Plnění zásobníku
+Plnění zásobníku musí být provedeno vyškoleným a plně kvalifikovaným personálem v souladu s pokyny výrobce. Intervaly mezi jednotlivým naplňováním mají být pečlivě vypočteny tak, aby nedošlo k vyčerpání zásobníku, což by vedlo k těžké recidivě spasticity nebo potenciálně život ohrožujícím příznakům z přerušení léčby léčivým přípravkem Baclofen Sintetica (viz "Přerušení léčby"). Plnění musí být prováděno za přísně aseptických podmínek, aby se zabránilo jakékoliv mikrobiální kontaminaci nebo jakékoliv vážné infekci CNS. Proto má po každém doplnění nebo manipulaci se zásobníkem následovat období klinického sledování pacienta přizpůsobené klinické situaci.
+5
+
+Při plnění implantabilní pumpy vybavené portem s přímým přístupem k intratekálnímu katetru je nutné dbát nejvyšší opatrnosti, protože přímé vstřikování do katetru může vést k předávkování ohrožujícímu vitální prognózu.
+Úprava dávky: další komentáře.
+Baclofen Sintetica se musí používat s opatrností, aby se zabránilo nadměrné slabosti nebo náhlému pádu, neboť je zapotřebí určitého stupně svalového tonu pro vstávání a rovnováhu při chůzi, nebo kdykoliv tonus svalů přispívá k udržení funkcí. Může být důležité zachovat určité množství svalového tonu a tolerovat občasné křeče s cílem podpořit oběhové funkce a předejít možnému vzniku hluboké žilní trombózy.
+
+Kdykoliv to je možné, má být přerušeno perorální podávání všech souběžně užívaných antispastických léků, aby se zabránilo možnému předávkování nebo nežádoucím interakcím; pokud možno před zahájením infuze léčivým přípravkem Baclofen Sintetica a pod přísným lékařským dohledem. Je však třeba se vyhnout jakémukoliv náhlému snížení nebo vysazení souběžné antispastické medikace v průběhu chronické léčby léčivým přípravkem Baclofen Sintetica.
+Bezpečnostní opatření u zvláštních skupin 
+
+U pacientů se zpomalenou cirkulací CSF v důsledku například blokace způsobené zánětem nebo traumatem, může opožděná migrace léčivého přípravku Baclofen Sintetica snížit antispastickou účinnost a zesílit nežádoucí účinky.
+Pacienti s psychotickými poruchami, schizofrenií, stavy zmatenosti nebo Parkinsonovou nemocí musí být s opatrností léčeni léčivým přípravkem Baclofen Sintetica a musí podstoupit přísné sledování, kdykoliv u nich byla zpozorována exacerbace stavu po perorálním podání baklofenu.
+Lékovou terapii přípravkem Baclofen Sintetica má doprovázet pečlivý dohled nad pacienty s dalšími rizikovými faktory sebevraždy. Pacienti (a pečovatelé o pacienty) mají být upozorněni na nutnost sledovat klinické zhoršení, sebevražedné chování nebo myšlenky nebo neobvyklé změny v chování a okamžitě vyhledat lékařskou pomoc, pokud se tyto příznaky objeví (viz bod 4.8).
+Pacienti s epilepsií musí být obzvláště sledováni, protože se mohou objevit záchvaty v případě předávkování nebo vysazení léku, a rovněž během udržovací léčby v terapeutických dávkách léčivého přípravku Baclofen Sintetica.
+Baclofen Sintetica musí být používán s opatrností u pacientů s anamnézou autonomní dysreflexie. Nociceptivní stimulace nebo náhlé vysazení léčivého přípravku Baclofen Sintetica může takové epizody uspíšit.
+Stejná opatrnost je nutná v přítomnosti cerebrovaskulární nebo respirační nedostatečnosti, neboť baklofen může takové stavy zhoršit.
+Není pravděpodobné, že by léčivý přípravek Baclofen Sintetica měl nějaký vliv na základní, s CNS nesouvisející onemocnění, neboť systémová biologická dostupnost přípravku po intratekálním podání je výrazně nižší než v případě podání perorální cestou.
+Na základě pozorování provedených během léčby baklofenem perorální cestou se doporučuje opatrnost v těchto případech: gastroduodenální vředy v anamnéze, preexistující hypertonie svěrače, porucha funkce ledvin. U perorálního baklofenu byly zaznamenány vzácné případy zvýšení hladiny SGOT (AST), alkalické fosfatázy a hladiny glukózy v krvi.
+
+Bezpečnostní opatření u pediatrických pacientů
+Děti musí mít dostatečnou tělesnou hmotnost, aby u nich bylo možné umístit implantabilní pumpu pro chronickou infuzi. Použití intratekálního baklofenu u pediatrické populace má být předepisováno pouze lékařskými specialisty s potřebnými znalostmi a zkušenostmi. Klinické údaje týkající se bezpečnosti a účinnosti jsou velmi omezené pro použití intratekálního baklofenu u dětí ve věku do 4 let.
+Transkutánní zavedení katetru během implantace pumpy a přítomnost PEG sondy zvyšuje výskyt infekcí u dětí.
+Porucha funkce ledvin
+Po perorálním podání baklofenu pacientům s poruchou funkce ledvin byly pozorovány závažné nežádoucí
+6
+
+neurologické účinky, proto se při podávání přípravku Baclofen Sintetica pacientům s poruchou funkce ledvin doporučuje velká opatrnost. Dávkování může být nutné snížit s ohledem na klinický stav nebo úroveň snížené renální clearance.
+Starší pacienti
+V průběhu klinických studií bylo léčeno několik pacientů starších 65 let věku intratekálně podávaným baklofenem bez jakýchkoliv konkrétních problémů. U starších pacientů je větší pravděpodobnost výskytu nežádoucích účinků u baklofenu podaného perorální cestou v titrační fázi, a to se může vztahovat i na léčivý přípravek Baclofen Sintetica. Nicméně protože je stanovení optimální dávky individualizováno, je nepravděpodobné, že by léčba starších pacientů představovala nějaké zvláštní problémy.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku na ml, to znamená, že je v podstatě ,,bez
+sodíku".
+
+Přerušení léčby
+Náhlé vysazení intratekálního baklofenu z jakéhokoliv důvodu, které se projevuje zvýšenou spasticitou, svěděním, parestézii a hypotenzí, vede k závažným následkům včetně hyperaktivního stavu s rychlými nekontrolovatelnými spasmy, hypertermií a symptomy shodnými s neuroleptickým maligním syndromem (NMS), např. psychický stav vyznačující se zmateností a svalová ztuhlost. Ve vzácných případech tento stav pokročil k epileptickým záchvatům/status epilepticus, rhabdomyolýze, koagulopatii, multiorgánovému selhání a smrti. Všichni pacienti léčeni intratekálním baklofenem jsou potenciálně v ohrožení pro vysazení léčby. Některé klinické charakteristiky spojené s vysazením léčby intratekálním baklofenem mohou připomínat autonomní dysreflexii, infekci (sepsi), maligní hypertermii, neuroleptický maligní syndrom (NMS) nebo jiné stavy spojené se zvýšeným metabolismem nebo rozsáhlou rhabdomyolýzou.
+Pacienti a jejich pečovatelé musí být informováni o důležitosti dodržování harmonogramu kontrol pro opakované plnění zásobníku a musí být upozorněni na známky a příznaky z vysazení baklofenu, zejména ty, které se objevují na počátku syndromu z vysazení (např. priapismus).
+Ve většině případů se příznaky z vysazení objevily během několika málo hodin po ukončení léčby intratekálním baklofenem. Běžné důvody pro náhlé vysazení léčby intratekálním baklofenem zahrnují provozní poruchy katetru (zejména odpojení), příliš nízký objem v zásobníku pumpy a vybití baterie pumpy; v některých případech může hrát roli i lidská chyba. Prevence náhlého vysazení intratekálního baklofenu vyžaduje pečlivou pozornost při programování a dohled nad infuzním systémem, plánováním postupů plnění a nastavení alarmů pumpy.
+Navrhovaná léčba po vysazení intratekálního léčivého přípravku Baclofen Sintetica je obnovení terapie stejnou nebo podobnou dávkou intratekálního léčivého přípravku Baclofen Sintetica jako před tím, než byla léčba přerušena. Nicméně v případě opožděného obnovení intratekální dávky může léčba GABA-ergními agonisty, jako  jsou  perorální  nebo  enterální  baklofen,  nebo  perorálními,  enterálními,  nebo  intravenózními benzodiazepiny zabránit potenciálně fatálním následkům. Nemá se spoléhat na zastavení progrese z vysazení intratekálního baklofenu pouze za použití samotného perorálního nebo enterálního podání baklofenu.
+Je nesmírně důležité, aby veškeré pokyny výrobce pro implantaci, programování pumpy a/nebo doplňování zásobníku byly striktně dodržovány.
+
+Skolióza
+U pacientů léčených přípravkem Baclofen Sintetica byl hlášen počátek skoliózy nebo zhoršení již existující skoliózy. Během léčby přípravkem Baclofen Sintetica je třeba sledovat známky skoliózy.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Souběžné použití perorálního baklofenu a levodopy/DDC inhibitoru vedlo ke zvýšenému riziku nežádoucích účinků, jako jsou vizuální halucinace, zmatenost, bolest hlavy a nauzea. Byly také hlášeny zhoršené příznaky Parkinsonovy nemoci. Proto je třeba při podávání přípravku Baclofen Sintetica pacientům podstupujícím terapii levodopou/inhibitorem DDC přistupovat opatrně.
+
+K dispozici nejsou dostatečně systematické zkušenosti, aby bylo možné předvídat, jaké by byly specifické interakce léčivého přípravku Baclofen Sintetica s jinými léky.
+7
+
+Kdykoliv to je možné, má být přerušeno perorální podávání všech souběžně podávaných antispastických léků, aby se zabránilo možnému předávkování nebo nežádoucím interakcím; pokud možno před zahájením infuze léčivým přípravkem Baclofen Sintetica a pod přísným lékařským dohledem. Je však třeba se vyhnout jakémukoliv náhlému snížení nebo přerušení souběžné antispastické medikace v průběhu chronické léčby léčivým přípravkem Baclofen Sintetica.
+Kombinace morfinu a intratekálního baklofenu způsobila u jednoho pacienta hypotenzi. Možná dušnost nebo
+jiné centrální nervové symptomy nemohou být během souběžné medikace vyloučeny.
+Současné podávání s jinými látkami intratekální cestou bylo testováno v omezené míře a ví se málo o
+bezpečnosti takových kombinací.
+Tlumivý účinek alkoholu a dalších sloučenin, které působí na úrovni CNS, může být aditivní k účinkům léčivého přípravku Baclofen Sintetica.
+Souběžná léčba perorálním baklofenem a tricyklickými antidepresivy může zvyšovat účinek baklofenu a vyvolat výraznou svalovou hypotonii. Doporučuje se opatrnosti při použití léčivého přípravku Baclofen Sintetica v těchto kombinacích.
+Vzhledem k tomu, že souběžné užívání perorálního baklofenu a antihypertenziv může zvýšit pokles krevního
+tlaku, může se ukázat jako nezbytné monitorovat krevní tlak a upravit dávkování antihypertenziv.
+Souběžné používání intratekálního baklofenu a celkových anestetik (např.: fentanyl, propofol) může zvýšit riziko srdečních poruch a záchvatů. Proto je nutná opatrnost, pokud jsou anestetika podávána pacientům používajícím intratekální Baclofen Sintetica.
+4.6  Fertilita, těhotenství a kojení Těhotenství
+Nejsou k dispozici žádné adekvátní a dostatečně kontrolované studie týkající se těhotných žen. Baklofen prochází placentární bariérou. Baclofen Sintetica se nesmí používat v těhotenství, pokud potenciální přínosy nepřevažují nad možnými riziky pro plod. Studie na zvířatech prokázaly teratogenní účinky perorálně podávaného baklofenu (viz bod 5.3).
+Kojení
+Není známo, zda měřitelné hladiny přípravku mohou být detekovány v mateřském mléce kojících matek léčených přípravkem Baclofen Sintetica. Při perorálních terapeutických dávkách přechází léčivá látka do mateřského mléka, ale v tak malém množství, že dítě pravděpodobně nebude mít žádné nežádoucí účinky.
+
+Fertilita
+Asi u 4 % pacientek s roztroušenou sklerózou, které byly léčeny perorálním baklofenem po dobu až jednoho roku, byly palpací nalezeny ovariální cysty. Ve většině případů tyto cysty spontánně zmizely, i když pacientky nadále lék dostávaly. Ovariální cysty se mohou spontánně vyskytnout ve stejném poměru jako u běžné ženské populace.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+U některých pacientů užívajících intratekální baklofen byly hlášeny tlumivé účinky na centrální nervový systém (CNS), jako jsou somnolence a sedace. Mezi další uvedené události patří ataxie, halucinace, diplopie a příznaky z vysazení. Pacienti s těmito nežádoucími účinky mají být poučeni, aby neřídili dopravní prostředky ani neobsluhovali stroje.
+
+4.8  Nežádoucí účinky
+
+V mnoha případech nemůže být stanovena příčinná souvislost mezi pozorovanými účinky a podáním baklofenu, protože většina hlášených nežádoucích účinků může být spojená se základním onemocněním. Nicméně některé často hlášené reakce (somnolence, závratě, bolest hlavy, nauzea, hypotenze, hypotonie) se zdají být ve spojitosti s léčivým přípravkem. Tyto účinky jsou většinou přechodné a objevují se primárně v průběhu testovací fáze, nebo při změnách koncentrací.
+
+Tabulka 1.
+8
+
+Nežádoucí účinky jsou uvedeny podle tříd orgánových systémů MedDRA.
+Nežádoucí účinky jsou seřazeny podle tříd orgánových systémů a frekvence výskytu, přičemž v každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti dle následující konvence: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1000 až <1/100), vzácné (≥1/10000 až <1/1000), velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit).
+
+Poruchy metabolismu a výživy
+Méně časté      dehydratace
+Psychiatrické poruchy
+
+Časté
+Méně časté
+
+Není známo
+deprese, úzkost, agitovanost
+sebevražedná představa, pokus o sebevraždu (viz bod 4.4), halucinace, paranoia,
+euforická nálada
+dysforie
+Poruchy nervového systému
+
+Velmi časté Časté
+
+
+Méně časté
+somnolence (zejména během testovací fáze)
+křeče, sedace, mdloby/závrať, epileptické záchvaty (zvláště po náhlém přerušení léčby),   bolest   hlavy,   parestezie,   dysartrie,   letargie,   nespavost, zmatenost/dezorientace
+ataxie, zhoršení paměti, nystagmus
+Křeče a bolest hlavy se vyskytují častěji u pacientů se spasticitou cerebrálního původu než u pacientů se spasticitou spinální původu
+Poruchy oka
+Časté         poruchy akomodace, rozmazané vidění, diplopie
+Srdeční poruchy
+Méně časté      bradykardie
+Cévní poruchy
+Časté         hypotenze
+Méně časté      hypertenze, hluboká žilní trombóza, zrudnutí, bledost.
+Respirační, hrudní a mediastinální poruchy
+Časté         respirační deprese, pneumonie, dušnost
+Není známo      bradypnoe
+Gastrointestinální poruchy
+Časté         nauzea/zvracení, zácpa, sucho v ústech, průjem, snížení chuti k jídlu, zvýšené slinění.
+Méně časté      ileus, dysfagie, hypoageuzie
+Nauzea a zvracení se častěji vyskytují u pacientů se spasticitou cerebrálního původu, než u pacientů se spasticitou spinálního původu
+Poruchy kůže a podkožní tkáně
+Časté         kopřivka, svědění, faciální nebo periferní otok
+Méně časté      alopecie, hyperhidróza
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Velmi časté      svalová hypotonie (zejména během testovací fáze - přechodné účinky)
+Časté         svalová hypertonie
+Není známo      skolióza (viz bod 4.4)
+Poruchy ledvin a močových cest
+Časté         močová inkontinence, retence moči
+Retence moči se vyskytuje častěji u pacientů se spasticitou cerebrálního původu než u pacientů se spasticitou spinální původu.
+Poruchy reprodukčního systému a prsu
+Časté         sexuální dysfunkce (intratekální Baclofen Sintetica může ohrozit erekci a ejakulaci. Tento efekt je obvykle po vysazení léčivého přípravku Baclofen Sintetica reverzibilní)
+Celkové poruchy a reakce v místě aplikace
+
+9
+
+Časté
+Méně časté Vzácné
+astenie, horečka, bolest, třesavka
+hypotermie
+potenciálně život ohrožující příznaky z vysazení léku jako důsledek náhlého přerušení přísunu léku (viz ,,Přerušení léčby")
+
+Nežádoucí účinky způsobené systémem podání (např.: zánětlivá hmota na špičce implantovaného katetru, dislokace katetru, lokální infekce, meningitida, předávkování v důsledku nesprávné manipulace se systémem) zde nejsou uvedeny.
+Při screeningové studii přítomnost PEG sondy zvýšila incidenci hlubokých infekcí u dětí.
+Hlášení podezření na nežádoucí účinky:
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+U pacienta musí být pečlivě sledovány jakékoli známky a příznaky předávkování v celém průběhu léčby, zejména však v průběhu počáteční testovací fáze a titrační fáze, a také při obnovení podávání léčivého přípravku Baclofen Sintetica po krátkém přerušení.
+Známky předávkování se mohou objevit náhle nebo pozvolna.
+Příznaky předávkování: nadměrná svalová hypotonie, ospalost, závratě, mdloby, sedace, epileptické záchvaty, ztráta vědomí, ptyalismus, hypotermie, nauzea a zvracení.
+V případě závažného předávkování může dojít k respirační depresi, apnoi a kómatu.
+K závažnému předávkování může dojít například, když obsah katetru nechtěně projde do intratekálního prostoru v průběhu ověřování propustnosti/polohy katetru. Chyby při programování, příliš rychlé zvyšování dávek a souběžná léčba s perorálním baklofenem, představují další možné příčiny předávkování. Prošetřeno má být i selhání pumpy.
+
+Léčba
+Neexistuje žádné specifické antidotum k léčbě předávkování přípravkem Baclofen Sintetica. Obvykle jsou
+nutná následující opatření:
+1) Odstranění zbývajícího baklofenu z pumpy tak rychle, jak je to možné.
+2) Pokud je to nutné, intubace pacienta s respirační depresí, do doby, než je léčivo eliminováno.
+Některé zprávy naznačují, že fysostigmin je schopen zrušit centrální nervové účinky, zejména ospalost a útlum dýchání.
+Je však třeba opatrnosti, pokud je fysostigmin podáván intravenózně, neboť by mohl vyvolat epileptické záchvaty, bradykardii a poruchy srdečního převodního systému. Může být proveden test s 1-2 mg fysostigminu
+i.v. po dobu 5 až 10 minut. Během této doby mají pacienti podléhat přísnému dohledu. Pro zachování dostatečné ventilace a bdělosti může být podána opakovaná dávka 1 mg v 30 až 60 minutových intervalech, v případě, že pacient reaguje příznivě.
+V případě masivního předávkování může být fysostigmin neúčinný a pacienta může být nutné napojit na
+umělou plicní ventilaci.
+Za předpokladu, že není kontraindikována lumbální punkce, může být v časné fázi intoxikace zvážena evakuace 30-40 ml CSF ke snížení koncentrace baklofenu v CSF.
+Udržování kardiovaskulární funkce. Během záchvatů: opatrná intravenózní injekce diazepamu.
+Fysostigmin se doporučuje pouze při těžkých projevech toxicity nereagujících na podpůrná opatření.
+U dětí může být podávána dávka 0,02 mg/kg fysostigminu intravenózně rychlostí nepřesahující 0,5 mg za minutu. Tato dávka se může opakovat v 5 až 10 minutových intervalech, dokud není dosaženo terapeutického účinku nebo celkové podané dávky 2 mg.
+
+10
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: myorelaxancia, jiná centrálně působící myorelaxancia
+ATC kód: M03B X01
+
+Mechanismus účinku
+Baklofen zpomaluje mono- a polysynaptický reflexní přenos v míše stimulací GABAB receptorů.
+Farmakodynamické účinky
+Chemická struktura baklofenu je analogická s kyselinou gama-aminomáselnou (GABA), která je inhibičním
+neurotransmiterem.
+Baklofen nemění nervosvalový přenos. Baklofen má antinociceptivní účinek. U neurologických onemocnění doprovázených muskuloskeletálními křečemi se vlastnosti baklofenu projeví nejen ve formě účinku na reflexní svalové kontrakce, ale také výraznou schopností redukovat intenzitu bolestivých křečí a klonů.
+
+Klinická účinnost a bezpečnost
+Baklofen zlepšuje mobilitu pacientů, poskytuje jim větší autonomii a usnadňuje fyzioterapii. Baklofen obecně tlumí činnost CNS, což způsobuje sedaci, somnolenci, stejně jako respirační a kardiovaskulární depresi.
+Ukázalo se také, že baklofen má na dávce závislý účinek na erektilní dysfunkci u mužů stimulací receptoru
+GABAB (viz bod 4.8).
+Baclofen Sintetica může být považován za alternativu k destruktivním neurochirurgickým postupům. Baklofen zaváděný přímo do intratekálního prostoru umožňuje léčbu spasticity v dávkách minimálně 400 až 1000krát nižších oproti léčbě perorální cestou.
+Intratekální bolus
+Léčivý přípravek obvykle začíná působit v rozmezí od půl hodiny do jedné hodiny po podání jedné intratekální dávky. Maximální spasmolytický účinek se projevuje asi 4 hodiny po podání a tento účinek trvá 4 až 8 hodin. Nástup účinku, maximální citlivost a doba trvání účinku se může lišit mezi jednotlivými pacienty v závislosti na dávce, závažnosti symptomů a způsobu a rychlosti podání.
+
+Kontinuální infuze
+Antispastický účinek baklofenu začíná 6 až 8 hodin po zahájení kontinuální infuze a dosahuje svého vrcholu
+za 24 až 48 hodin.
+
+5.2  Farmakokinetické vlastnosti
+Při interpretaci následujících kinetických parametrů se musí vzít do úvahy intratekální způsob podání a
+zpomalení oběhu mozkomíšního moku (CSF).
+
+Absorpce
+Přímá infuze do mozkomíšního moku eliminuje proces absorpce a umožňuje přímý kontakt prostřednictvím adsorpce s receptorovými místy v zadních kořenech míšních.
+Distribuce
+Po jednorázové intratekální bolusové injekci/krátkodobé infuzi se distribuční objem pohybuje mezi 22 a 157 ml, počítáno z hladin přítomných v CSF. Podání kontinuálních intratekálních infuzí s denní dávkou 50 až 1200 mikrogramů vede k ustálené koncentraci baklofenu 130-1240 nanogramů/ml v bederní CSF. Podle poločasu měřeného v CSF je rovnovážné koncentrace v CSF dosaženo za 1 až 2 dny. Během intratekální infúze nepřekročí  plazmatická  koncentrace  5  nanogramů/ml,  což  potvrzuje,  že  průchod  baklofenu  přes hematoencefalickou bariéru je pomalý.
+
+Eliminace
+11
+
+Po jednorázové intratekální bolusové injekci/krátkodobé infuzi s 50 až 136 mikrogramy baklofenu se poločas eliminace v CSF pohybuje v rozmezí od 1 do 5 hodin. Eliminační CSF poločas baklofenu v ustáleném stavu nebyl stanoven.
+Průměrná clearance CSF je přibližně 30 ml/h jak po jednorázové bolusové injekci, tak i po kontinuální infuzi
+do bederního subarachnoidálního prostoru s použitím implantabilní pumpy.
+Jakmile je během kontinuální intratekální infuze dosaženo ustáleného stavu, koncentrační gradient baklofenu je v rozmezí od 1,8:1 a 8,7:1 (průměr = 4:1) mezi bederním CSF a CSF v subarachnoidálním prostoru. To je klinicky významné, protože spasticitu dolních končetin lze účinně léčit, aniž by byly významně ovlivněny horní končetiny, a s menším počtem nežádoucích účinků na CNS v důsledku účinku léčivého přípravku na centra v mozku.
+Zvláštní populace
+
+Starší pacienti
+U starších pacientů nejsou k dispozici žádné farmakokinetické údaje po podání léčivého přípravku Baclofen Sintetica. Údaje po podání jedné dávky přípravku perorálně naznačují, že starší pacienti mají pomalejší eliminaci, ale podobnou systémovou expozici baklofenu ve srovnání s mladými dospělými. Nicméně extrapolace  těchto  výsledků  při  vícedávkové  léčbě  nenaznačuje  žádný  významný  rozdíl  mezi farmakokinetikou u mladých dospělých a starších pacientů.
+
+Pediatrická populace
+Pediatričtí pacienti (ve věku 8-18 let), kteří byli chronicky léčeni infuzí intratekálním baklofenem v dávce 77– 400 mikrogramů/den, měli příslušnou plazmatickou koncentraci 10 nanogramů/ml nebo méně.
+Porucha funkce jater
+Nejsou k dispozici žádné farmakokinetické údaje u pacientů s poruchou funkce jater po podání přípravku Baclofen Sintetica. Vzhledem k tomu, že játra nehrají významnou roli v metabolismu baklofenu, je nepravděpodobné, že by u pacienta s poruchou funkce jater byla změněna jeho farmakokinetika na klinicky významné úrovni.
+
+Porucha funkce ledvin
+Nejsou k dispozici žádné farmakokinetické údaje u pacientů s poruchou funkce ledvin po podání přípravku Baclofen Sintetica. Vzhledem k tomu, že se baklofen hlavně vylučuje ledvinami v nezměněné formě, nelze vyloučit hromadění léčiva v nezměněné formě u pacientů s poruchou funkce ledvin.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Studie na potkanech probíhající 2 roky (perorální podání) prokázala, že baklofen není karcinogenní . Tato studie prokázala na dávce závislé zvýšení incidence ovariálních cyst a méně výrazné zvýšení incidence hypertrofie a/nebo hemoragie nadledvin. Klinický význam těchto nálezů není znám. In vivo a in vitro testy mutagenity neprokázaly žádný mutagenní efekt.
+Perorální baklofen ve vysokých dávkách zvyšuje u plodů potkanů výskyt omfalokél (pupečníková kýla). U
+myší nebyly zaznamenány žádné teratogenní účinky.
+U plodů potkanů, kterým byly podávány vysoké dávky perorálního baklofenu, byla pozorována zvýšená
+incidence neúplné osifikace sterna.
+Vysoké dávky perorálního baklofenu zvýšily u králičích plodů incidenci neosifikovaných jader falangů předních a zadních končetin.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Chlorid sodný
+Voda pro injekci
+12
+
+6.2  Inkompatibility
+
+Byla prokázána inkompatibilita baklofenu s dextrózou, jelikož mezi těmito dvěma látkami dochází k chemické
+reakci.
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch uvedených v bodě
+6.6.
+
+6.3  Doba použitelnosti
+
+5 let
+
+Z mikrobiologického hlediska se má přípravek použít okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku před použitím jsou v odpovědnosti uživatele.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Chraňte před chladem a mrazem.
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a obsah balení
+
+Baclofen Sintetica 2 mg/ml infuzní roztok (10 mg/5 ml)
+Čirá bezbarvá 5ml ampule ze skla třídy I s bodem zlomu, označená fialovým kroužkem. Krabička o 1, 5 a 10 ampulích obsahujících 5 ml roztoku.
+Baclofen Sintetica 2 mg/ml infuzní roztok (10 mg/5 ml)
+Čirá bezbarvá 5 ml ampule ze skla třídy I s bodem zlomu, označená fialovým kroužkem, balená ve sterilním plastovém blistru.
+Krabička s 5 a 10 ampulemi obsahujících 5 ml roztoku.
+
+Baclofen Sintetica 2 mg/ml infuzní roztok (40 mg/20 ml)
+Čirá bezbarvá 20ml ampule ze skla třídy I s bodem zlomu, označená zeleným kroužkem. Krabička s 1 ampulí obsahující 20 ml roztoku.
+Baclofen Sintetica 2 mg/ml infuzní roztok (40 mg/20 ml)
+Čirá bezbarvá 20 ml ampule ze skla třídy I s bodem zlomu, označená zeleným kroužkem, balená ve sterilním plastovém blistru.
+Krabička s 1 ampulí obsahující 20 ml roztoku. Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Veškerý nespotřebovaný léčivý přípravek musí být zlikvidován. Návod k použití/návod k obsluze.
+Baclofen Sintetica je určen pro intratekální injekci a kontinuální infuzi a podává se v souladu se specifikacemi
+doprovázenými každý infuzní systém.
+
+Baclofen Sintetica 2mg/ml:
+Chcete-li otevřít balení Baclofen Sintetica, držte jej oběma rukama a otočte hrany opačným směrem až do otevření. (Platí pouze pro balení nezablistrovaných ampulek)
+Stabilita
+Bylo prokázáno, že intratekální baklofen je stabilní po dobu 180 dnů v implantabilních EU certifikovaných
+13
+
+pumpách.
+Vždy před podáním mají být léčivé přípravky pro parenterální podání zkontrolovány na přítomnost částic a jakékoliv změny barvy.
+Konkrétní pokyny pro podávání
+Zvolení přesné koncentrace závisí na celkové potřebné denní dávce a na minimální možné rychlosti podání
+infuze pumpou. Všechna konkrétní doporučení naleznete v uživatelské příručce výrobce.
+
+Ředění
+Pokud uživatelé chtějí získat jinou koncentraci než 50, 500 nebo 2000 mikrogramů/ml, musí být přípravek Baclofen Sintetica ředěn za aseptických podmínek ve sterilním roztoku chloridu sodného na injekci bez konzervačních látek.
+
+Systémy pro podávání
+Je používáno několik systémů pro dlouhodobé podávání intratekálního baklofenu. K těmto systémům patří EU certifikované pumpy, což jsou implantabilní zařízení s plnicím zásobníkem, která jsou implantována - v lokální nebo celkové anestezii - pod kůži nebo do kapsy většinou stěny břišní. Tyto systémy jsou připojeny k intratekálnímu katetru, který prochází subkutánně do subarachnoidálního prostoru.
+Před použitím těchto systémů se mají uživatelé ujistit, že technické specifikace, jakož i chemická stabilita
+baklofenu v zásobníku, splňují podmínky požadované pro intratekální podání baklofenu.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Sintetica GmbH Albersloher Weg 11
+48155 Münster Německo
+
+8.  REGISTRAČNÍ ČÍSLO / REGISTRAČNÍ ČÍSLA
+
+63/100/17-C
+
+9.  DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 22. 8. 2018
+Datum posledního prodloužení registrace: 19. 11. 2020
+
+10.  DATUM REVIZE TEXTU
+
+9. 4. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

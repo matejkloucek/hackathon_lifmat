@@ -1,0 +1,170 @@
+sp.zn. sukls156727/2010
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Ardeaelytosol conc. L-argininchlorid 21% koncentrát pro infuzní roztok
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+1000 ml koncentrátu pro infuzní roztok obsahuje arginini hydrochloridum 210,0 g.
+Obsah elektrolytů:
+Argininum⁺      1000 mmol/l
+Cl⁻           1000 mmol/l
+Osmotický tlak:    4 821 kPa
+pH:          5,2-6,8
+Energetická hodnota:  3604 kJ/l
+Seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+Koncentrát pro infuzní roztok
+Popis přípravku: čirý, bezbarvý roztok
+4.  KLINICKÉ ÚDAJE
+4.1. Terapeutické indikace
+Těžká metabolická alkalóza zvláště při poškození jater a v případech, kdy nejsou vhodné roztoky chloridu sodného nebo chloridu draselného (např. při hypernatrémii).
+Akutní léčba hyperamonémie (bez zatím zjištěné příčiny).
+Hyperamonémie při dědičných poruchách močovinového (ornithinového) cyklu s výjimkou typu ARG1D (deficit arginázy), kdy je přítomna zejména hyperargininémie.
+Přípravek je indikován k léčbě novorozenců, dětí a dospělých.
+4.2. Dávkování a způsob podání
+Dávkování u metabolické alkalózy:
+Individuálně podle excesu bazí: ml přípravku = BE x 0,3 x kg. Rychlost dávkování cca 2 ml/kg/hod.
+Dávkování a rychlost podání u dětí je stejná.
+Dávkování pro akutní léčbu hyperamonémie, při dosud nepoznaném důvodu vzniku:
+Děti i dospělí pacienti.
+Součást komplexní terapie, kde je podáván i arginin-hydrochlorid:
+250-400 mg/kg (1,2-1,9 mmol/kg) v úvodní infuzi v průběhu 90-120 min, udržovací dávka je pak 250 mg/kg/den (1,2 mmol/kg/den). Doporučuje se přidat L-karnitin v dávce 100 mg/kg i.v., hydroxykobalamin 1 mg i.m./i.v. a biotin 10 mg i.v./p.o.
+Alternativně: L-arginin 300 mg/kg/den i.v. (1,42 mmol/kg/den), L-karnitin 200 mg/kg/den i.v.
+Dávkování u hyperamonémie při dědičných poruchách močovinového cyklu:
+Děti i dospělí pacienti.
+
+Součást komplexní terapie, kde je podáván i arginin-hydrochlorid:
+Pro CPS1D, OTCD, ASSD a NAGSD: úvodní infuze v průběhu 90-120 min, 250 mg/kg (1,2 mmol/kg), udržovací dávka pak 250 mg/kg/den (1,2 mmol/kg/den).
+Pro ASLD: úvodní infuze v průběhu 90-120 min, 200-400 mg/kg (0,95-1,9 mmol/kg), udržovací dávka pak 200-400 mg/kg/den (0,95-1,9 mmol/kg/den).
+Dávkování u zvláštních populací:
+U pacientů s poruchami funkce jater není třeba žádná úprava dávkování.
+U pacientů s poruchami funkce ledvin lze dle jejich závažnosti uvažovat o snížení užité dávky
+a rychlosti infuze.
+S podáváním přípravku u pacientů starších (nad 65 let) není dostatek zkušeností s potřebou úpravy dávek, lze ale předpokládat, že tato úprava není nutná, pokud není vyšší věk spojen s poruchami ledvinných funkcí.
+Způsob podání:
+Nitrožilní kapénková infuze v uzavřeném systému.
+Odpovídající množství přípravku se ředí nosným roztokem (5% nebo 10% glukóza) v poměru 1:6 (případně vyšším), v odůvodněných případech lze použít i vyšší konečné koncentrace argininu, maximálně však 10 %.
+Vzhledem k tomu, že s vyšší koncentrací přípravku roste riziko zejména iritace žíly v okolí vpichu (až 3% výskyt při 10% koncentraci), je vhodnější podání centrálním žilním katétrem než do periferní žíly.
+4.3. Kontraindikace
+Metabolická acidóza.
+Hyperargininémie při těžké dědičné poruše metabolismu - argininémii z deficitu arginázy (ARG1D),
+dále také při lysinové intoleranci a dibazické acidurii.
+4.4. Zvláštní upozornění a opatření pro použití
+Při podávání L-arginin-hydrochloridu je nutno sledovat hladinu kalia v séru, neboť může dojít ke vzniku hyperkalémie.
+Při podávání přípravku může dojít k vzestupu urey a kreatininu v séru, a proto je zejména u pacientů s poruchou funkce ledvin nebo anurií nutná opatrnost a odpovídající monitorace urey a kreatininu v séru. U pacientů se závažnými poruchami funkce ledvin či anurií je nutno zvážit hemodialýzu nebo hemo(dia)filtraci.
+Zvláštní pozornost je nutné věnovat kontrole dávkování a aplikaci přípravku dětem (často velmi nízkého věku), kde může dojít ve zvýšené míře k předávkování.
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Zatím bylo zjištěno jen minimum klinicky potvrzených interakcí.
+Interakce s kalium šetřícími diuretiky může být klinicky závažná, neboť oba léky mohou vést
+k hyperkalémii a jejich spolupodávání toto riziko výrazně zvyšuje.
+Vzhledem k hypotenzivnímu působení argininu je možná interakce s jinými hypotenzivně působícími látkami.
+4.6. Fertilita, těhotenství a kojení
+Použití přípravku během těhotenství a laktace není kontraindikováno v případě, že nelze použít jiný přípravek k úpravě acidobazické rovnováhy. Léčivá látka prochází placentární bariérou.
+Nejsou k dispozici žádné údaje o vlivu přípravku na fertilitu.
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Vzhledem k povaze přípravku a jeho indikaci nepřichází v úvahu.
+4.8. Nežádoucí účinky
+
+Frekvence nežádoucích účinků, uvedených níže, je definována podle následující konvence:
+Velmi časté (≥ 1/10); časté (≥ 1/100, < 1/10); méně časté (≥ 1/1000, < 1/100); vzácné (≥ 1/10 000, < 1/1000); velmi vzácné (< 1/10 000); není známo (z dostupných údajů nelze určit).
+
+
+Třída orgánových systémů podle databáze MedDRA
+Poruchy metabolismu a výživy
+
+
+
+Poruchy gastrointestinálního traktu Srdeční poruchy
+Poruchy nervového systému
+
+Poruchy imunitního systému Poruchy svalové a kosterní soustavy a pojivové tkáně
+Nežádoucí účinek
+
+- hyperkalémie
+- hyperurémie
+- rozvrat iontové rovnováhy
+- metabolická acidóza
+- nauzea
+- zvracení
+- převodnění
+- edémy
+- bolest hlavy
+- otok mozku
+- anafylaktická reakce
+- snížená citlivost (v končetinách)
+- brnění, štípání kolem úst
+Frekvence výskytu
+
+není známo není známo není známo není známo není známo není známo není známo není známo není známo není známo není známo není známo není známo
+
+
+Cévní poruchy
+Poruchy kůže a podkožní tkáně Celkové poruchy a reakce v místě
+aplikace
+- zčervenání (flushing)
+- hypotenze
+- rash
+- otoky
+- pálení nebo bolest v místě aplikace
+- nekróza okolní tkáně při extravazaci
+není známo není známo není známo není známo není známo není známo
+S rostoucí koncentrací i rychlostí podávání infuze argininu roste i výskyt některých nežádoucích účinků.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9. Předávkování
+Při předávkování může dojít ke vzniku hyperkalémie. Je nutno sledovat stav vnitřního prostředí organismu. Při současné metabolické acidóze je vhodná korekce obojího stavu bikarbonátem. Jinak lze hyperkalémii korigovat různě dle vhodnosti – i.v. kalcium, iontoměnič Calcium Resonium, furosemid s fyziologickým roztokem, inzulín s glukózou, inhalačně salbutamol nebo terbutalin či hemodialýza.
+
+Předávkování může rovněž vést zvláště u dětí ke vzniku metabolické acidózy s hyperventilací, otoku mozku i s fatálním koncem. Metabolická acidóza většinou spontánně odezní po ukončení aplikace arginin-hydrochloridu. Pokud však přetrvává, je možné ji korigovat podáním příslušného množství alkalizující látky – např. hydrogenuhličitanu sodného.
+Jiné projevy předávkování je nutné léčit symptomaticky.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1. Farmakodynamické vlastnosti
+Farmakoterapeutická  skupina:  Aditiva  k intravenózním  roztokům,  aminokyseliny,  arginin- hydrochlorid, ATC kód: B05XB01.
+Arginin patří mezi tzv. semiesenciální (podmíněně esenciální) aminokyseliny, tedy takové, které si dospělý organismus dokáže syntetizovat sám, ale za určitých okolností je syntéza nedostatečná (růst, rekonvalescence či některá onemocnění) a musí se doplňovat z potravy. Metabolická alkalóza může mít různé příčiny. Lze uvažovat o hypochlorémické metabolické alkalóze vyvolané nadměrnými ztrátami  žaludeční  tekutiny  (např.  zvracením),  thiazidovými  diuretiky,  průjmy,  aj.,  dále  o hypokalémické metabolické acidóze vyvolané např. primárním aldosteronismem, některými léky (laxativa, lékořice,…) nebo vrozenými tubulopatiemi (Bartterův syndrom, Gitlemanův a Liddeův syndrom), či může mít metabolická alkalóza jiné příčiny (milk-alkali syndrom, neadekvátní terapie bikarbonátem u metabolické acidózy). U pacientů s volumovou deplecí je nutné doplnění volumového deficitu infuzní léčbou obvykle izotonickým roztokem NaCl. Přímá acidifikace je indikována u těžké symptomatické alkalózy (pH > 7,55, sérová koncentrace hydrogenkarbonátu > 45 mmol/l). Provádí se podáváním  amonium  chloridu  nebo  arginin-hydrochloridu  (zejména  je-li  ještě  přítomna hypernatrémie).
+Mechanismem účinku argininu u hyperamonémie je podíl na metabolizaci amoniaku. Arginin je základní součástí tzv. močovinového cyklu, který se zásadním způsobem podílí na odstraňování tohoto vysoce toxického metabolitu z organizmu. Amoniak vzniká oxidační deaminací aminokyselin (i jiných aminů), v mitochondriích je fixován do tzv. karbamoylfosfátu, tento je konjugován s aminokyselinou ornitinem za vzniku citrulinu, který je pak v cytoplazmě konjugován s aspartátem přes několik stupňů na arginin a tento je pak hydrolyzován enzymem arginázou na močovinu a ornitin, který se opět vrací do mitochondrií a pokračuje v cyklu.
+S tímto mechanismem souvisí i účinek argininu u hyperamonémie vzniklé na podkladě dědičných poruch močovinového cyklu. V cyklu se účastní 6 různých enzymů a jejich deficience vytváří 6 typů poruch močovinového cyklu (CPS1D, OTCD, ASSD, ASLD, ARG1D a NAGSD), všechny jsou léčitelné argininem (mimo typu ARG1D, daného deficitem arginázy a projevujícího se zejména hyperargininémií).
+
+5.2. Farmakokinetické vlastnosti
+Arginin je látka fyziologicky přítomná v organismu člověka, což samozřejmě ztěžuje provádění farmakokinetické studie.
+Běžné fyziologické plazmatické hladiny argininu se pohybují kolem 15 – 40 µmol/l. Po krátkodobé infuzi (30 min) dosahuje arginin maximálních plazmatických hladin na konci infuze, tyto se dle celkové podané dávky (3-30 g) pohybují od 800 do 8 000 µmol/l. Po ukončení infuze plazmatické hladiny prudce klesají s t1/2α cca 15 min, poté se pokles hladin zpomalí s terminálním poločasem t1/2β cca 4 hod. Clearance se mírně liší podle užitého farmakokinetického modelu a kompartmentu, pohybuje se kolem 30 – 70 litrů/hod, distribuční objem kolem 20 – 30 litrů. Přibližně 1/6 podané dávky argininu se vyloučí močí.
+Arginin podléhá intenzivní metabolizaci. Arginin je součástí několika metabolických cyklů - močovinový cyklus (detoxikace amoniaku a vznik močoviny), citrátový cyklus (přes 2-oxoglutarát) a citrulinový cyklus (tvorba NO). Při vlastní degradaci je nejprve deaminován na ornitin, tento se pak mění transaminací na kyselinu glutamovou a ta pak vstupuje do Krebsova cyklu jako 2-oxoglutarát.
+Arginin zasahuje do acidobazické rovnováhy při těžkých metabolických alkalózách. Podání přípravku nenarušuje dlouhodoběji fyziologické hladiny aminokyselin v plazmě. Léčivá látka prochází placentární bariérou.
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Arginin je látka tělu vlastní, nebyly prováděny dlouhodobé pokusy s parenterálním podáváním argininu laboratorním zvířatům. Při perorálním podávání potkanům (v potravě až 5 % po 13 týdnů) nebyly nalezeny žádné klinicky významné změny, pouze byly u některých samců nejvyšší dávkové
+
+skupiny zjištěny přechodně zvýšené glykémie. NOEL se pohybovala u obou pohlaví mezi 3-4 g/kg/den.
+Přípravek je řadu let používán v klinické praxi a za tuto dobu nebyl zjištěn případ kancerogenního nebo mutagenního účinku.
+6.  FARMACEUTICKÉ ÚDAJE
+6.1. Seznam pomocných látek
+Voda na injekci
+6.2. Inkompatibility
+Nejsou známy žádné fyzikální a chemické inkompatibility kromě roztoků vykazujících rozdílné pH.
+6.3. Doba použitelnosti
+V neporušeném obalu 2 roky.
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 48 hodin při 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by doba neměla být delší než 24 hodin při 2 až 8 °C, pokud otevření/ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+6.4. Zvláštní opatření pro uchovávání
+Chraňte před mrazem.
+6.5. Druh obalu a obsah balení
+Skleněná infuzní lahev s pryžovou zátkou a kovovým uzávěrem, kartonová krabice. Velikost balení: 1x 80 ml, 1x 200 ml
+20x 80 ml, 10x 200 ml
+Na trhu nemusí být všechny velikosti balení.
+6.6. Zvláštní opatření pro likvidaci přípravku (a pro zacházení s ním)
+Výdej léčivého přípravku je vázán na lékařský předpis.
+Přípravek nesmí být použit nenaředěný! Přípravek není určen k přímé infuzi, podává se intravenózně ve větším množství nosného roztoku.
+Parenterální přípravky je nutno před podáním vizuálně zkontrolovat. Pokud jsou viditelné pevné částice, nebo byl-li obal porušen, přípravek se nesmí aplikovat.
+Přípravek je určen pouze k jednorázovému použití.
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+ARDEAPHARMA, a.s., Třeboňská 229, 373 63 Ševětín, Česká republika
+8.  REGISTRAČNÍ ČÍSLO
+76/921/95-C
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 22. 11. 1995
+Datum posledního prodloužení registrace: 20. 9. 2017
+10. DATUM REVIZE TEXTU
+20. 9. 2017

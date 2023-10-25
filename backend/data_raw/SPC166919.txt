@@ -1,0 +1,395 @@
+Sp. zn. sukls245447/2020
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+NOXAP 200 ppm mol/mol medicinální plyn, stlačený.
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Nitrogenii oxidum (NO) 200 ppm mol/mol
+Nitrogenii oxidum (NO) 0,2 ml v dusíku (N2) 999,8 ml
+2litrová lahev na stlačený plyn plněná pod tlakem 200 bar obsahuje 400 litrů (0,400 m³) plynu
+při tlaku 1 bar a teplotě 15 °C
+5litrová lahev na stlačený plyn plněná pod tlakem 200 bar obsahuje 945 litrů (0,945 m³) plynu
+při tlaku 1 bar a teplotě 15 °C
+10litrová lahev na stlačený plyn plněná pod tlakem 200 bar obsahuje 1890 litrů (1,89 m³) plynu
+při tlaku 1 bar a teplotě 15 °C
+20litrová lahev na stlačený plyn plněná pod tlakem 200 bar obsahuje 3780 litrů (3,78 m³) plynu
+při tlaku 1 bar a teplotě 15 °C
+40litrová lahev na stlačený plyn plněná pod tlakem 200 bar obsahuje 7560 litrů (7,56 m³) plynu
+při tlaku 1 bar a teplotě 15 °C
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Medicinální plyn, stlačený. Bezbarvý plyn bez zápachu.
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+
+Léčba novorozenců narozených ve > 34. týdnu těhotenství s hypoxickým respiračním selháním spojeným s klinicky nebo echokardiograficky prokázanou plicní hypertenzí, ke zlepšení oxygenace s cílem snížit nutnost mimotělní membránové oxygenace.
+
+Léčba perioperační a pooperační plicní hypertenze ve spojení s operací srdce u dospělých, dětí a novorozenců, k selektivnímu snížení plicního arteriálního tlaku a zlepšení funkce pravé komory a oxygenace.
+
+4.2 Dávkování a způsob podání
+Léčba perzistující plicní hypertenze novorozence (PPHN)
+Oxid dusnatý musí být předepisován pod dohledem zkušeného lékaře novorozenecké intenzivní péče. Může se aplikovat pouze na odděleních péče o novorozence, jejichž pracovníci byli řádně vyškoleni v používání systému přivádějícího oxid dusnatý. NOXAP má být podán pouze na základě předpisu dohlížejícího lékaře.
+NOXAP je nutno podávat pouze po optimalizaci respirační podpory. NOXAP lze podávat pouze ventilovaným kojencům, u nichž se očekává nutnost ventilační podpory po dobu >24 hodin.
+
+K zajištění optimální odezvy na NOXAP u hypoxického respiračního selhání je nutno zajistit optimální alveolární příjem úpravou intrapulmonálního objemu a tlaku, použitím surfaktantů, vysokofrekvenční ventilace a ventilace s pozitivním přetlakem na konci výdechu podle potřeb pacienta.
+
+Léčba plicní hypertenze ve spojení s operací srdce
+Oxid dusnatý musí být předepisován pod dohledem lékaře se zkušenostmi v kardiothorakální anestezii a intenzivní péči a může být podáván pouze na kardiothorakálních odděleních, jejichž pracovníci byli řádně vyškoleni v používání systému přivádějícího oxid dusnatý. NOXAP má být podán pouze na základě předpisu anesteziologa nebo lékaře intenzivní péče.
+Dávkování
+
+Perzistentní plicní hypertenze u novorozence (PPHN)
+Novorozenci narození v >34. týdnu těhotenství: Maximální doporučená dávka přípravku NOXAP je 20 ppm a nemá být překročena. Co nejdříve po započetí léčby a v prvních 4-24 hodinách je nutno dávkování postupně snižovat na 5 ppm nebo méně, dokud nejsou klinické parametry (oxygenace, arteriální plicní tlak) v potřebných mezích, a dávka se má přizpůsobit individuálním potřebám pacienta. NOXAP je nutno podávat, dokud se oxagenace novorozence nezlepší tak, aby se frakce vdechovaného kyslíku snížila pod 60 % (FiO2 < 0,60).
+NOXAP lze podávat tak dlouho, dokud není desaturace krve kyslíkem normalizována a pacient není připraven na postupné ukončení této léčby. Požadovaná délka léčby přípravkem NOXAP je variabilní, má však být co nejkratší, obvykle je kratší než 4 dny. V případech nedostatečné reakce na vdechovaný oxid dusnatý viz bod 4.4
+Přerušení aplikace
+Vzhledem k riziku „rebound fenoménu“ nesmí být podávání přípravku NOXAP přerušeno náhle. Léčbu přípravkem NOXAP lze ukončit pouze po stabilizaci cílových klinických parametrů v uspokojivých mezích, nebo v případě hypoxické respirační insuficience až po významném snížení podpory ventilace (FiO2 a PEEP) nebo po 96 hodinách léčby.
+Pokud je rozhodnuto přerušit léčbu inhalací přípravku NOXAP, je nutno na 30 minut až jednu
+hodinu snížit dávku inhalovaného oxidu dusnatého na 1 ppm.
+Pokud je v případě hypoxického respiračního selhání oxygenace stabilní během podávání přípravku NOXAP v dávce 1 ppm, FiO2 se má zvýšit o 10-20 % a poté lze podávání ukončit. Pacienta je nutno pozorně sledovat, zda nejeví známky hypoxemie, a pokud oxygenace klesne o 20 %, je nutno znovu obnovit podávání přípravku NOXAP při dávce 5 ppm a další přerušení lze znovu zvážit až po 12 až 24 hodinách léčby a po zhodnocení úrovně oxygenace. Pokud nejsou splněna kritéria pro ukončení podávání přípravku NOXAP po 4 dnech terapie, novorozenec musí podstoupit důkladná vyšetření za účelem posouzení možných přidružených onemocnění.
+Plicní hypertenze spojená s operací srdce
+NOXAP lze použít až po optimalizaci konzervativní podpory dýchání. V klinických studiích byla inhalace oxidu dusnatého přidána ke standardnímu léčebnému režimu v perioperačních podmínkách, včetně inotropních a vazoaktivních léčivých přípravků. Při podávání přípravku NOXAP je nutno přísně sledovat hemodynamiku a oxygenaci. Dávka má být přiměřená klinickému  stavu  pacienta  (závažnost  plicní  arteriální  hypertenze)  a  věkové  skupině (novorozenec, dítě nebo dospělý). Doporučená počáteční dávka je 20 ppm. Dávka má být titrována na nejnižší účinnou dávku a pouze výjimečně zvýšena nad 20 ppm, maximálně do 40 ppm.
+Účinky inhalovaného oxidu dusnatého jsou rychlé, pokles plicního arteriálního tlaku a zlepšení oxygenace jsou pozorovány do 5-20 minut. V případě nedostatečné odpovědi lze dávku titrovat po uplynutí nejméně 10 minut. Je třeba zvážit přerušení léčby, nejsou-li prospěšné účinky na cílové hemodynamické a oxygenační parametry patrné ani po 30 minutách od zahájení léčby.
+
+Léčbu lze zahájit v kterékoli fázi perioperačního průběhu za účelem zlepšení plicní hemodynamiky a oxygenace. V klinických studiích byla léčba často zahajována před odpojením z extrakorporálního oběhu. Inhalační oxid dusnatý byl v perioperačních podmínkách podáván po dobu až 7 dní, ale běžná doba léčby je 24 až 48 hodin.
+Vzhledem k případné tvorbě toxické hladiny NO2 během inhalace NO musí být hladina NO2 v
+inhalační směsi plynů průběžně monitorována.
+Požadovaná délka léčby přípravkem NOXAP bude záviset na patologii pacienta a jeho reakci na inhalaci NO. O vysazování léčby přípravkem NOXAP se má pokusit v intervalech, až když je plicní hemodynamika stabilní.
+Přerušení aplikace
+O přerušení podávání přípravku NOXAP je třeba se pokusit, jakmile byly stabilizovány hemodynamické parametry a současně dojde ke snížení ventilace a inotropní podpory. Přerušení podávání inhalačního oxidu dusnatého má být postupné, při snižování postupně o 1 ppm za 30 min, za přísného sledování systémového a centrálního tlaku a poté má být přísun zastaven. Pokus o přerušení aplikace má být proveden minimálně jednou za 12 hodin, pokud má pacient stabilní hemodynamiku a oxygenaci při nízké dávce přípravku NOXAP. Příliš rychlé snižování podávání inhalačního oxidu dusnatého s sebou nese riziko opětovného zvýšení plicního arteriálního tlaku a následné oběhové nestability.
+
+Doplňující informace o zvláštních skupinách pacientů
+Relevantní informace o úpravě dávky u zvláštních skupin pacientů, například u pacientů s poruchou funkce ledvin či jater nebo geriatrických pacientů, nejsou k dispozici. U těchto skupin pacientů je proto při zvažování podávání přípravku NOXAP doporučena opatrnost.
+
+Způsob podání
+Různé způsoby podání přípravku NOXAP ovlivňují jeho profil toxicity a je nutné se řídit doporučeným způsobem podávání.
+•  Použití s mechanickou ventilací
+
+Oxid dusnatý se po zředění směsí kyslíku/vzduchu aplikuje pacientovi mechanickou ventilací pomocí systému aplikace oxidu dusnatého schváleného ke klinickému použití v souladu s normami Evropského společenství (s označením CE). Přímé endotracheální podání bez ředění je kontraindikováno vzhledem k riziku lokálních lézí na sliznici, k nimž by mohlo dojít po kontaktu s vysokou koncentrací oxidu dusnatého. Aplikační systém musí zajišťovat stálou koncentraci vdechovaného přípravku NOXAP bez ohledu na typ použitého ventilátoru.
+NOXAP lze podávat pomocí ventilátoru s nepřetržitým nebo přerušovaným průtokem v
+inhalační větvi ventilačního okruhu.
+U pacientů s přerušovanou ventilací může nepřetržitý proud NO způsobit vyšší koncentrace NO2 a akumulaci malého množství NO v inspirační větvi okruhu během výdechu pacienta, takže v dodávaném plynu je pak vyšší koncentrace NO a nižší FiO2. Aby k takovým případům nedocházelo, musí se aplikační systém oxidu dusnatého použitý při intermitentní ventilaci těmto maximálním koncentracím vyhnout. Doporučuje se synchronizované sekvenční podávání ve vdechové fázi.
+•  Použití s anesteziologickým přístrojem
+Podávání přípravku NOXAP přes Y konektor na inspirační části anesteziologického přístroje a poblíž pacienta je způsob podání, kdy je nutno věnovat zvláštní pozornost odstranění vydechnutého oxidu dusnatého a NO2. Jelikož je anesteziologický přístroj polouzavřený systém, dochází zde ke zvýšenému hromadění vydechnutého oxidu dusnatého a oxidu dusičitého. Je proto nutné v něm správně umístit filtry na odstranění vydechnutého oxidu dusnatého a oxidu dusičitého, aby napomohly zabránit extrémním výkyvům vdechovaného oxidu dusnatého a dosažení toxických hladin NO2.
+
+•  Sledování podání přípravku NOXAP
+NO je nutno správně promíchat s ostatními plyny v okruhu ventilátoru. Doporučujeme zajistit, aby byl kontakt mezi oxidem dusnatým a kyslíkem v inspiračním okruhu co nejkratší, a nedocházelo tak ke vzniku toxických oxidačních derivátů ve vdechovaném plynu. Oxid dusnatý se tudíž doporučuje podávat přes inspirační část ventilačního okruhu nebo nad rozdvojkou (Y konektorem). Toto místo musí být nejméně 15 cm od úst pacienta, aby byl vytvořen dostatek prostoru k homogennímu promíchání s plynem z ventilátoru.
+Aby nedošlo k chybám v dávkování, je nutno vdechované koncentrace přípravku NOXAP nepřetržitě měřit a příslušně regulovat v inspirační větvi okruhu blízko pacienta a u konce endotracheální kanyly. Koncentrace oxidu dusičitého (NO2) a FiO2 je nutno také měřit na stejném místě kalibrovaným měřicím monitorem schváleným podle norem EU. Koncentrace oxidu dusičitého ve vdechované směsi musí být co nejnižší a pokud překročí 0,5 ppm a příčinou není porucha v aplikačním systému, je nutno dávku přípravku NOXAP a/nebo FiO2 snížit.
+K zajištění bezpečnosti pacienta musí být nainstalována vhodná varovná signalizační zařízení
+pro oxid dusnatý (± 2 ppm předepsané dávky), NO2 (maximálně 0,5 ppm) a FiO2 (± 0,05). Pokud dojde k nečekané změně v koncentraci přípravku NOXAP, je nutno aplikační systém zkontrolovat, zda nedošlo k závadě, a analyzátor je nutno rekalibrovat. Rovněž je nutno kontrolovat tlak v lahvi s přípravkem NOXAP, aby bylo možno provádět výměnu lahví na stlačený plyn bez přerušení nebo změny terapie, a ke včasné výměně je nutno mít k dispozici záložní lahve s plynem. Pro případ výpadku síťové elektřiny je nutno mít k dispozici náhradní bateriové zdroje napájení.
+Podávání přípravku NOXAP musí být k dispozici pro mechanickou i pro manuální ventilaci, aby bylo možné v léčbě pokračovat při možné přepravě pacienta nebo při resuscitaci. Lékař musí mít snadný přístup k hlavě pacienta, aby mohl případně použít nutný záložní systém k podávání oxidu dusnatého.
+Limity expozice pro zdravotnický personál
+
+Horní hranice průměrné expozice personálu oxidu dusnatému definovaná pracovními předpisy činí ve většině zemí 25 ppm za 8 hodin (30 mg/m³) a oxidu dusičitému 2-3 ppm (4-6 mg/m³). Extrapolací těchto průměrných limitů na jednotkách intenzivní péče, kde může být oxid dusnatý podáván po dobu 24 hodin, je vhodné udržovat okolní hladinu NO2 v atmosféře pod 1,5 ppm; je povinné nepřetržité měření koncentrace NO2 v okolním prostředí.
+
+Monitorování vzniku oxidu dusičitého
+Oxid dusičitý se rychle tvoří v plynných směsích obsahujících oxid dusnatý a kyslík, přičemž vzniklé množství závisí na koncentracích NO a O2. NO2 je toxický plyn, který může vyvolat zánětlivou reakci v dýchací soustavě a z tohoto důvodu je nutno jeho vznik pozorně sledovat.
+Bezprostředně před zahájením léčby je nutno provést příslušný postup pro odstranění NO2 ze systému. Koncentrace NO2 je nutno udržovat na co nejnižší možné úrovni, vždy < 0,5 ppm. Pokud je tato hladina vyšší, je nutno zkontrolovat správnost fungování systému, rekalibrovat analyzátor NO2 a pokud je to možné, snížit koncentraci přípravku NOXAP a/nebo FiO2.
+
+
+Monitorování vzniku methemoglobinu (MetHb)
+
+Po inhalaci je oxid dusnatý rychle zpracován a vytváří hlavně methemoglobin a nitráty, které se dostávají do krevního oběhu, přičemž nitráty jsou vylučovány ledvinami a methemoglobin je redukován enzymem methemoglobinreduktázou. Novorozenci mají v porovnání s dospělými nižší hladiny enzymu MetHb-reduktázy, proto vyžadují obzvláště pozorné sledování sérové koncentrace methemoglobinu v krvi. Hladinu MetHb je nutno do 4 hodin po zahájení podávání přípravku NOXAP změřit analyzátorem, který spolehlivě rozlišuje fetální hemoglobin a
+
+methemoglobin. Jestliže je hladina MetHb > 2,5 %, dávku přípravku NOXAP je nutno snížit. Pokud je >5 %, je třeba podávání přípravku NOXAP přerušit a může se zvážit aplikace redukčních léčivých přípravků, jako je methylthioninium-chlorid (metylénová modř). Ačkoli je neobvyklé, aby se původně nízká hladina methemoglobinu významně zvýšila, doporučuje se opakovat měření hladiny methemoglobinu každých 12-24 hodin.
+
+4.3 Kontraindikace
+
+−  Novorozenci závislí na pravolevém nebo na významném levopravém cévním zkratu.
+−  Pacienti s vrozeným nebo získaným deficitem methemoglobinreduktázy (MetHb reduktázy) nebo glukózo-6-fosfátdehydrogenázy (G6PD).
+−  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku.
+4.4 Zvláštní upozornění a opatření pro použití
+
+Bezpečnostní opatření k prevenci expozice během inhalační terapie přípravkem NOXAP
+−  Při přípravě a použití přípravku NOXAP dodržujte standardní postupy
+−  K zachycení vzduchu vydechovaného pacientem nainstalujte na ventilátorech odsávací systémy.
+−  Při školení terapeutů v aplikaci léčby pomocí iNO odebírejte vzorky vzduchu.
+−  Personál lze vybavit osobními poplašnými přístroji (alarmy), které personál varují, pokud se hladina NO nebo NO2 v prostředí zvýší nad bezpečnostní limit.
+Bezpečnostní opatření k prevenci náhodného vyprázdnění lahve na stlačený plyn a další
+kroky
+Spontánní únik oxidu dusnatého z tlakové lahve je vzhledem k přísným kontrolám při plnění velmi vzácný. K náhodnému úniku obsahu může dojít, pokud je láhev vystavena tvrdému pádu a dojde k poškození ventilu. Takové situace jsou výjimečné, protože lahve i ventily musí splňovat požadavky normy EN 962 o ochraně a zkouškách ventilů na tlakové lahve.
+Preventivní opatření:
+−  Personál nemocnice musí pokaždé lahev na stlačený plyn fixovat ve vzpřímené poloze a pevně ji zajistit, aby nemohla spadnout ani být převržena.
+−  S lahví je nutno zacházet opatrně a musí být chráněna před nárazy a pády.
+−  Lahve přesouvejte pouze za použití vozíků a jiného zařízení určeného pro tento účel, a to
+vhodného typu a velikosti.
+−  Pokud  dojde  k  náhodnému  úniku,  lze  plynný  NO  zjistit  podle  charakteristické oranžovohnědé barvy a ostrého, sladce kovového pachu. V takovém případě se doporučuje místnost evakuovat a otevřít okna.
+−  Při skladování lahví v malých a stísněných prostorech instalujte ventilátor odsávající vzduch přímo mimo budovu, abyste v prostoru zajistili stálý podtlak.
+−  Užitečná může být instalace monitorovacího systému ke kontinuálnímu monitorování hladin NO a NO2 ve stísněných skladovacích prostorech a prostorech respirační péče, který zaměstnance upozorní při náhodném úniku.
+−  Dusík může vytlačovat okolní vzduch a snížit hladinu kyslíku v prostředí.
+Školení před podáváním přípravku
+
+Před podáváním přípravku musí být specializované profesionální jednotky a týmy náležitě vyškoleny ve standardních operačních postupech pro použití aplikačního systému oxidu dusnatého.
+Hlavní prvky, které musí být součástí školení personálu:
+•  Znalost správné metody ke stanovení konfigurace a zajištění spojů mezi tlakovou lahví přípravku NOXAP, aplikačního zařízení a přístroji k asistované ventilaci u pacienta.
+
+•  Provozní aspekty
+− Před použitím si přečtěte kontrolní seznam (popisuje řadu kroků, které je nutno provést bezprostředně před zahájením léčby pacienta, aby systém správně fungoval a NO2 byl ze systému odstraněn).
+− Nakonfigurování zařízení k podávání vhodné koncentrace oxidu dusnatého.
+− Nastavení maximální a minimální hranice pro spuštění varovného signálu u monitorů
+NO, NO2 a O2.
+− Použití rezervního manuálního aplikačního systému.
+− Správné postupy při výměně tlakové lahve a odstranění NO2 ze systému
+− Varovné signály při poruše.
+− Kalibrace monitorů NO, NO2 a O2.
+− Měsíční kontroly systému.
+Posouzení odpovědi na léčbu
+
+U novorozenců ve věku >34 týdnů těhotenství s hypoxickým respiračním selháním spojeným s klinicky nebo echokardiograficky prokázanou plicní hypertenzí existuje určité procento pacientů, kteří na inhalační léčbu NO neodpovídají. Procento pacientů bez klinické odpovědi kolísá mezi 30 a 45 % podle předem stanovených konkrétních klinických kritérií příznivé odezvy. Mezi klasické indikátory odpovědi patří 20% zvýšení oxygenačního indexu a/nebo 20% snížení plicního arteriálního tlaku. Snížená oxygenační odpověď byla zjištěna u novorozenců se syndromem aspirace mekonia. Kromě toho nebyla v klinických studiích prokázána účinnost inhalovaného NO u pacientů s kongenitální brániční kýlou.
+Pokud se do 4-6 hodin po aplikaci přípravku NOXAP nedostaví dostatečná klinická odpověď, bude zváženo následující:
+−  Pokud se stav pacienta stále zhoršuje nebo nedošlo k žádnému zlepšení stavu (dle předem definovaných kritérií), je nutno zvážit použití záchranného systému, například mimotělní membránové oxygenace (ECMO), pokud je to indikováno a možné. Trvale vysoké hladiny oxygenačního indexu (>20) nebo vysoký alveolo-arteriální kyslíkový gradient (A-aO2>600) po 4 hodinách terapie signalizují nutnost zahájit akutně terapii ECMO. Pokud pacient na podávání přípravku NOXAP neodpovídá, léčbu je nutno přerušit, ale vysazení nesmí být náhlé, protože by mohlo dojít ke zvýšení plicního arteriálního tlaku (PAP) a/nebo zhoršení oxygenace krve (PaO2). K oběma situacím může též dojít u novorozenců nevykazujících zřetelnou odpověď na léčbu přípravkem NOXAP. Postupné vysazování inhalovaného oxidu dusnatého je nutno provádět opatrně (viz bod 4.2 Dávkování a způsob podání: Přerušení aplikace).
+−  U pacientů převážených do jiné nemocnice je nutno zajistit podávání oxidu dusnatého během převozu, aby nedošlo ke zhoršení zdravotního stavu v důsledku náhlého přerušení podávání přípravku NOXAP.
+Monitorování komorové funkce
+
+V případech interventrikulární nebo interaurikulární komunikace, inhalace přípravku NOXAP způsobuje zvýšení krevního průtoku v levopravém zkratu v důsledku vazodilatačního účinku oxidu dusnatého v plicích.
+Zvýšení průtoku krve v plicích může u pacientů s dysfunkcí levé komory vést k srdeční nedostatečnosti a vytvoření plicního edému. V takové situaci je důležité pečlivé sledování srdečního výdeje, tlaku v levé síni nebo tlaku v plicních kapilárách v zaklínění. Před podáním oxidu  dusnatého  se  proto  doporučuje  provést  katetrizaci  arteria  pulmonalis  nebo echokardiografické vyšetření centrální hemodynamiky.
+
+Monitorování krevní srážlivosti
+
+Studie na zvířatech prokázaly, že NO může ovlivňovat krevní srážlivost a prodlužovat dobu krvácení. Údaje u dospělých pacientů jsou odlišné a v namátkových studiích s kontrolní skupinou,  prováděných  u  novorozenců,  nedošlo  ke  zvýšení  četnosti   významných hemoragických komplikací.
+Pokud je NOXAP podáván po dobu delší než 24 hodin, doporučuje se u pacientů se sníženým počtem trombocytů nebo s dysfunkcí trombocytů, s deficitem faktorů krevní srážlivosti nebo u pacientů, kteří podstupují antikoagulační léčbu, monitorovat dobu krvácení.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Kyslík: V přítomnosti kyslíku dochází k rychlé oxidaci oxidu dusnatého za vzniku derivátů, které jsou toxické pro epitel bronchiolů a alveolokapilární membránu. Vzniká hlavně oxid dusičitý (NO2), a během léčby oxidem dusnatým v dávkách < 20 ppm musí být koncentrace NO2 < 0,5 ppm. Pokud někdy koncentrace NO2 překročí 1 ppm, dávku oxidu dusnatého je nutno neprodleně snížit. Viz informace o monitorování NO2 v bodu 4.2.
+
+Donory NO: Sloučeniny, z nichž může vznikat oxid dusnatý, například dihydrát nitroprussidu sodného a nitroglycerin, mohou mít aditivní účinky s přípravkem NOXAP a zvyšovat tak riziko vzniku methemoglobinemie.
+Riziko vzniku methemoglobinemie je vyšší, pokud jsou s oxidem dusnatým podávány léčivé přípravky, které zvyšují koncentraci methemoglobinu (například alkylnitráty, sulfonamidy a prilokain). Léčivé přípravky, které hladinu methemoglobinu zvyšují, se proto během inhalační terapie oxidem dusnatým musejí podávat s opatrností.
+Synergické  účinky byly  hlášeny při  podávání  vazokonstriktorů (almitrin, fenylefrin), prostacyklinu a inhibitorů fosfodiesterázy, a to bez zvýšení výskytu nežádoucích účinků.
+Při inhalaci oxidu dusnatého byl podáván tolazolin, dopamin, dobutamin, norepinefrin, steroidy a surfaktanty. Žádné interakce nebyly pozorovány.
+
+Experimentální studie naznačují, že oxid dusnatý a také oxid dusičitý mohou chemicky reagovat
+se surfaktantem a jeho proteiny, přičemž klinické důsledky nebyly prokázány.
+
+Přestože studie s kontrolní skupinou nebyly provedeny, v klinických studiích u pacientů s dlouhodobým ambulantním podáváním nebyly zjištěny žádné interakce s potravinami.
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání přípravku NOXAP těhotným ženám nejsou k dispozici.
+Studie reprodukční toxicity na zvířatech jsou nedostatečné. Škodlivé účinky však lze očekávat, protože methemoglobin je považován za škodlivý pro plod a oxid dusnatý vykázal genotoxický potenciál (viz bod 5.3), protože vyvolával strukturální změny DNA. Potenciální riziko pro člověka není známo.
+NOXAP lze v těhotenství použít pouze tehdy, jestliže klinický stav ženy vyžaduje léčbu přípravkem NOXAP.
+
+Kojení
+Není známo, zda se NOXAP nebo jeho metabolity vylučují do lidského mateřského mléka.
+Riziko pro kojené novorozence/děti nelze vyloučit.
+Kojení má být během léčby přípravkem NOXAP přerušeno.
+
+Fertilita
+Nebyly provedeny žádné studie fertility.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Kojenci a hospitalizovaní pacienti: Neuplatňuje se.
+
+4.8 Nežádoucí účinky
+
+Známé nežádoucí účinky byly seřazeny podle tříd orgánových systémů.
+Klasifikaci na základě četnosti nelze snadno provést, protože chybí detailní studie. Veřejně dostupná literatura nicméně poskytuje údaje k některým nežádoucím účinkům, které umožňují provést reálný odhad četnosti výskytů, které jsou níže souhrnně uvedeny.
+Popis četností: velmi časté (≥1/10), časté (≥1/100 až <1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (<1/10 000) a není známo (z dostupných údajů nelze určit).
+V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+Poruchy krve a lymfatického systému
+
+Methemoglobinemie: Rozvoj methemoglobinemie je úměrný podané dávce a je častou komplikací při inhalaci NO ve vysokých koncentracích. Zvýšené hladiny methemoglobinu způsobí hypoxii tkání.
+Vznik methemoglobinu v množství > 5 % je při vdechovaných koncentracích oxidu dusnatého < 20 ppm velmi vzácný (<1/10 000).
+V pediatrické populaci mají novorozenci sníženou aktivitu MetHbreduktázy, proto jsou více ohroženi methemoglobinemií.
+Krevní srážlivost: Ačkoli předklinické studie účinků oxidu dusnatého prokázaly inhibici agregace trombocytů, klinické studie tento vliv neprokázaly. V klinických studiích s kontrolní skupinou však nebyly zjištěny signifikantní rozdíly v krvácivých komplikacích mezi kontrolní skupinou a skupinou léčenou oxidem dusnatým.
+
+Celkové poruchy a reakce v místě aplikace
+
+Žádná odpověď: K nedostatečné odpovědi na léčbu dochází v 30 až 45 % případů.
+
+Vznik NO2: Reakce mezi NO a O2 se vznikem NO2 je při vysokých koncentracích NO rychlá, ale při doporučených léčebných koncentracích inhalovaného oxidu dusnatého je pomalá. U zvířat způsobuje zvýšená hladina NO2 (>10 ppm) plicní edém, alveolární krvácení, změny v aktivitě  surfaktantu,  hyperplazii  alveolárních  buněk,  intrapulmonální  kumulaci  fibrinu, neutrofilů a makrofágů a úmrtí. Dlouhodobá inhalace NO2 má také zřejmě za následek degeneraci plicních intersticiálních buněk a středně těžký emfyzém.
+Inhalace 2 ppm NO2 u člověka zvyšuje alveolární permeabilitu a reaktivitu dýchacích cest.
+Ve většině klinických studií nebyly při nízkých terapeutických dávkách inhalačního NO (< 20 ppm) zjištěny významně zvýšené hladiny NO2, a projevy klinické toxicity způsobené NO2 byly velmi vzácné (<1/10 000). Koncentrace NO2 je nutno udržovat co nejnižší a vždy < 0,5 ppm.
+Rebound fenomén: Náhlé přerušení inhalační terapie oxidem dusnatým vede velmi často k rychlému  vzniku  rebound  fenoménu  (>1/10),  například  v  podobě  intenzivní  plicní vazokonstrikce a hypoxemie, čímž je precipitován kardiopulmonální kolaps.
+Ukončení podávání oxidu dusnatého po jeho dlouhodobé inhalaci je u všech pacientů spojeno s přechodnou (přibližně hodinovou) plicní hypertenzí.
+Klinicky bylo zjištěno, že po 10-30 hodinách inhalace oxidu dusnatého způsobí náhlé přerušení NO příznaky rebound fenoménu přibližně u 75 % pacientů se změnami ve výměně plicních plynů a různým stupněm poklesu saturace kyslíkem jako hlavním následkem. U třetiny případů se projeví hemodynamická nestabilita s vyšším poklesem PaO2 při vyšších koncentracích
+
+podávaného oxidu dusnatého. Snížením dávky na 1 ppm před jeho přerušením je následné snížení PaO2 méně významné.
+Dlouhodobé nežádoucí účinky: Žádná z provedených klinických studií s kontrolní skupinou nepřinesla důkazy o nežádoucích účincích léčby inhalovaným oxidem dusnatým, způsobujících opakovanou hospitalizaci, speciální lékařskou péči, plicní onemocnění nebo neurologické následky.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Předávkování přípravkem NOXAP je manifestováno jako zvýšení hladiny methemoglobinu a NO2.
+•  Příznaky a léčba
+Vysoké hladiny NO2 mohou způsobit akutní poškození plic.
+Zvýšené hladiny methemoglobinu snižují transportní kapacitu krevního oběhu pro kyslík. V klinických studiích byly hladiny NO2 > 3 ppm nebo hladiny methemoglobinu > 7 % léčeny snížením podávané dávky oxidu dusnatého nebo přerušením jeho podávání.
+Methemoglobinemii nereagující na snížení dávky ani přerušení léčby lze podle klinické situace řešit intravenózním podáním vitaminu C, methylthioninium-chloridu (metylenové modři) nebo krevní transfúzí.
+
+5  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Jiná léčiva respiračního systému. ATC kód: R07AX01
+
+•  Mechanismus účinku
+
+Oxid dusnatý je přírodní látka vytvářená mnoha buňkami těla. Působí relaxaci hladkého svalstva tím, že se váže na hemovou složku guanylátcyklázy v cytosolu, čímž je guanylátcykláza aktivována a dochází ke zvýšení hladiny cyklického guanosin-3’,5’-monofosfátu v buňkách, což způsobuje vazodilataci. Inhalace oxidu dusnatého tedy způsobuje plicní vazodilataci.
+
+•  Farmakodynamické účinky
+
+Terapeutický význam inhalovaného oxidu dusnatého je v selektivní plicní vazodilataci s minimálními systémovými kardiovaskulárními účinky. Tento selektivní plicní účinek je dán tím, že dochází k jeho rychlé inaktivaci reakcí s hemovou skupinou. Průměrná životnost NO in vivo je pouze několik sekund.
+Oxid dusnatý zvyšuje parciální tlak arteriálního kyslíku (PaO2) dilatací plicních cév v lépe ventilovaných oblastech plic, čímž dochází k redistribuci plicního oběhu z oblastí s nízkým indexem ventilace/perfuze (V/Q) do oblastí s indexem normálním. Studie ukazují, že se farmakodynamické účinky v plicích projevují už při koncentracích 1 ppm v dýchacích cestách.
+
+•  Účinnost a bezpečnost
+
+Klinické studie potvrdily, že inhalovaný oxid dusnatý je schopný snížit cévní rezistenci v plicích a zvýšit okysličení při různých patologických stavech.
+Účinnost inhalovaného oxidu dusnatého byla zjišťována u novorozenců s hypoxickým respiračním selháním různé etiologie. V případě novorozenců s přetrvávající plicní hypertenzí zlepšuje inhalace NO oxygenaci a snižuje riziko nutnosti zajistit oxygenaci pomocí mimotělní membrány. V metaanalýze randomizovaných klinických studií u kojenců s přetrvávající plicní hypertenzí bez kongenitální brániční kýly (n=548) snižuje inhalace NO riziko nutnosti nasadit ECMO (relativní riziko: 0,73; 95% interval spolehlivosti (IS): 0,60-0,90) a zlepšuje okysličení (PaO2 v průměru o 53,3 mm Hg; 95% IS: 44,8 až 61,4; oxygenační index v průměru o -12,2; 95% IS: -14,1 až -9,9). Metaanalýza u novorozenců s hypoxickým respiračním selháním (n=989) ukázaly, že inhalace NO zlepšuje PaO2 o 46,4 torrů oproti kontrole (95% IS, 34,2 a 58,5) a významně snižuje oxygenační index o 10,7 oproti kontrole (95% IS, -14,1 a -7,4). Incidence úmrtí nebo potřeby mimotělní membránové oxygenace (ECMO) byla významně snížena inhalační léčbou NO; s relativním rizikem 0,72 oproti kontrole (95% IS, 0,6-0,87).
+U pacientů, kteří prodělali operaci srdce, je často pozorována plicní hypertenze a zvýšená plicní cévní  rezistence,  nejčastěji  po  odpojení  od  mimotělního  oběhu.  Příčinou  je  plicní vazokonstrikce vyvolaná pravděpodobně zánětlivou odpovědí na operaci. Zvýšená plicní cévní rezistence může vést k selhání pravé komory. Bylo prokázáno, že inhalace oxidu dusnatého snižuje plicní cévní rezistenci a snižuje zvýšený plicní arteriální tlak, což může vést ke zvýšení ejekční frakce pravé komory. Tyto účinky postupně vedou k hemodynamické stabilizaci a zlepšení okysličení.
+Existuje potenciální riziko iNO indukované retinopatie nedonošených (ROP) novorozenců v gestačním věku < 34 týdnů, ale tento vztah mezi ROP a iNO je založen na omezeném množství údajů, a dosud nebyl přesvědčivě potvrzen.
+
+
+5.2 Farmakokinetické vlastnosti
+
+Farmakokinetika oxidu dusnatého byla sledována u dospělých.
+Oxid dusnatý během ředění před podáním chemicky reaguje s kyslíkem za vzniku oxidu dusičitého, který je pro tělo toxický.
+Oxid dusnatý je po inhalaci systémově absorbován. Jeho hlavní část prochází přes řečiště plicních kapilár, kde se kombinuje s hemoglobinem nasyceným z 60-100 % kyslíkem. Při této saturaci se oxid dusnatý kombinuje hlavně s oxyhemoglobinem za vzniku methemoglobinu a nitrátu. Při nízké saturaci kyslíkem se oxid dusnatý může kombinovat s deoxyhemoglobinem za vzniku přechodné formy, nitrosylhemoglobinu, která se při kontaktu s kyslíkem mění na oxidy dusíku a methemoglobin. V plicích se oxid dusnatý může kombinovat s kyslíkem resp. vodou, za vzniku oxidu dusičitého, resp. nitrátu, které pak reagují s oxyhemoglobinem a vytvářejí methemoglobin a nitrát. Výsledné metabolity oxidu dusnatého po jeho vstupu do systémového oběhu jsou tedy hlavně methemoglobin a nitrát.
+Vznik methemoglobinu závisí na době působení a koncentraci oxidu dusnatého. Koncentrace methemoglobinu stoupají během prvních 8 hodin inhalační léčby oxidem dusnatým. Hladiny methemoglobinu > 7 % byly pozorovány u pacientů, kterým byly podány vysoké dávky NO (80 ppm).
+Nitrát je hlavním metabolitem oxidu dusnatého vylučovaným v moči a jeho množství odpovídá
+> 70 % dávky inhalovaného oxidu dusnatého. V ledvinách je plazmatický nitrát eliminován rychlostí odpovídající rychlosti glomerulární filtrace.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Studie s jednorázovým podáním na hlodavcích signalizují, že letální dávka se pohybuje kolem 300 ppm oxidu dusnatého nebo více.
+Studie s opakovaným podáváním ukázaly, že hlodavci mohou přežít expozici oxidu dusnatému až okolo 250 ppm. K úmrtí dochází v důsledku anoxie způsobené vysokou hladinou methemoglobinu.
+Ze studií na psech lze odvodit, že letální koncentrace kolísá kolem 640 ppm NO podávaných po
+dobu 4 hodin, zatímco expozice hladině 320 ppm NO letální není.
+U zvířat uhynulých následkem expozice NO byly zaznamenány hladiny methemoglobinu vyšší než 30 %. Zotavení z methemoglobinemie je rychlé; úplné zotavení bylo zaznamenáno za méně než 24 hodin. Po tříhodinovém podávání 80 ppm NO ovcím nebylo pozorováno žádné zvýšení hladiny methemoglobinu.
+V biologických tkáních může oxid dusnatý vytvářet peroxynitrit (¯OONO). Ten pak reaguje se superoxidem (O2-), nestabilní látkou, která může dalšími redoxními reakcemi poškozovat tkáně.
+Kromě toho jeví oxid dusnatý afinitu k metaloproteinům a může také reagovat s thiolovými skupinami (-SH) v proteinech, a to za vzniku nitrosylových sloučenin. Klinický význam této chemické reaktivity oxidu dusnatého v tkáních není znám.
+
+Doba krvácivosti: Ve studii provedené na králících a zdravých lidských subjektech bylo
+zjištěno, že vdechovaný oxid dusnatý přibližně zdvojnásobuje dobu krvácivosti. Žádné studie reprodukční toxicity a kancerogenity nebyly provedeny.
+Mutagenita a genotoxicita: Různé preklinické studie genotoxicity oxidu dusnatého prokázaly pozitivní genotoxický potenciál. Část této toxicity je zprostředkována peroxynitritem. Přestože poškození DNA nebylo u člověka in vivo prokázáno, preklinické in vitro a in vivo studie (bakterie a myši) prokázaly změny na chromozomech vyvolané NO. Tento jev možná souvisí se vznikem mutagenních nitrosaminů, změn v DNA nebo narušením opravných mechanismů DNA. Význam těchto nálezů pro klinické použití u novorozenců ani možné účinky na zárodečné buňky nejsou známy.
+
+6  FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+
+Dusík.
+6.2 Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky/přístroji/zařízeními,
+s výjimkou těch, které jsou uvedeny v bodě 6.6.
+Přípravek nemá být podáván přístroji/zařízeními obsahujícími: butylkaučuk, polyamid a
+polyuretan.
+6.3 Doba použitelnosti
+
+3 roky
+
+6.4 Zvláštní opatření pro uchovávání
+
+Dodržujte veškerá pravidla platná pro manipulaci s tlakovými nádobami: Uchovávejte v původní tlakové lahvi.
+
+Obsah původní lahve nesmí být přeplněn do jiné tlakové lahve.
+Lahve uchovávejte ve svislé poloze a v dobře větraných místnostech.
+Tlakové lahve chraňte před nárazy, pády, materiály majícími oxidační účinky a před hořlavými materiály, vlhkostí a zdroji tepla nebo vznícení.
+Instalace rozvodného potrubí oxidu dusnatého je zakázána u rozvodového systému tlakové lahve, fixních sítí nebo terminálových jednotek.
+
+Uchovávání ve skladu léků
+Tlakové lahve mají být uchovávány na místě výhradně určeném k uchovávání medicinálních plynů. Místo musí být dobře větrané, čisté a uzamykatelné. Doporučujeme zajistit oddělené prostory pro tlakové lahve s oxidem dusnatým.
+
+Uchovávání na zdravotnickém pracovišti
+Tlakové lahve mají být uchovávány tak, aby byly vždy ve svislé poloze.
+
+6.5 Druh obalu a obsah balení
+
+NOXAP je uchováván v Al tlakových lahvích na stlačený plyn s vnější vrstvou elastomeru nebo bez vnější vrstvy elastomeru. Uzavírací ventily tlakových lahví jsou zhotoveny z nerezové oceli. Velikosti balení jsou 2 l, 5 l, 10 l, 20 l a 40 l.
+
+NOXAP je do tlakových lahví plněn jako plyn pod tlakem 200 bar.
+
+Velikosti balení (v litrech): 2
+5
+10
+20
+40
+Plnicí tlak
+(bar)
+200
+200
+200
+200
+200
+Objem směsi 200 ppm NO/N2 v litrech
+400
+945
+1890
+3780
+7560
+
+Objem směsi 200 ppm NO/N2 v m³
+0,400
+0,945
+1,890
+3,780
+7,560
+
+Barevné značení tlakových lahví: horní zaoblená část tlakové láhve je tyrkysově modrá, válcová část tlakové lahve je bílá.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecné
+
+Personál, který zachází s lahvemi na stlačený plyn přípravku NOXAP, musí mít odpovídající znalosti o vlastnostech tohoto plynu, o jakýchkoli potřebných bezpečnostních opatřeních, která je nutno dodržovat, o krocích, které mají být učiněny v jakýchkoli urgentních případech, a o správném postupu jeho instalace.
+
+Přeprava tlakových lahví
+Lahve na stlačený plyn je nutno přepravovat s odpovídajícím vybavením, které zaručí, že lahve budou chráněny před nárazy a pády. Pokud jsou pacienti léčení přípravkem NOXAP přepravováni do jiné nemocnice nebo na jiné oddělení, lahve je třeba odpojit, náležitě zajistit ve vertikální poloze, aby nedošlo k jejich pádu či náhodným změnám v podávání přípravku. Zvláštní pozornost je nutno věnovat upevnění regulačního ventilu, aby nedošlo k jeho poruše.
+
+Příprava k použití
+
+−  Ventily lahve na stlačený plyn je třeba otevírat pomalu.
+−  Ventil lahve na stlačený plyn nebo jiného souvisejícího zařízení nesmí být nikdy lubrikován a nikdy na něm nesmí být olej ani mastnota.
+−  Při připojování libovolného zařízení k tlakové láhvi se nikdy nesmí použít nadměrná síla.
+Použití lahví na stlačený plyn
+
+S ohledem na bezpečnost dodržujte vždy následující pokyny:
+−  S tlakovými lahvemi zacházejte opatrně a chraňte je před nárazy a pády.
+−  Lahve převážejte pouze za použití nákladních vozů vhodného typu a velikosti.
+−  Medicinální plyny používejte pouze k lékařským účelům.
+−  Vždy dbejte, aby byl materiál před použitím v dobrém stavu.
+−  Nepoužívejte tlakovou lahev, pokud ventil není chráněn víčkem nebo krytkou.
+− Ventil neotvírejte prudce.
+−  Nepokoušejte se opravovat ventil, pokud je vadný.
+−  Použijte specifické zapojení a tlakový regulátor, které snesou tlak přinejmenším 1,5x vyšší, než je maximální funkční tlak lahve.
+−  Aby nedošlo k inhalaci NO2, před každým novým použitím pročistěte regulátor směsí dusíku s oxidem dusnatým.
+−  Regulátorem neotáčejte kleštěmi, mohlo by dojít k poškození těsnění.
+−  Lahev musí být při použití pevně zajištěna vhodným podpůrným systémem, aby nedošlo k náhodnému pádu.
+−  Uvolněný plyn vyvětrejte. Doporučujeme zajistit neustálou ventilaci, dostatečnou k
+odvětrání plynu v případě náhodného úniku nebo netěsnosti.
+−  V prostoru skladování tlakových lahví a umístění trubek a ventilů je zakázáno kouření a používání zdrojů ohně.
+−  Po použití mírnou silou utáhněte ventil lahve a vypusťte zbytek plynu v regulátoru.
+−  Zajistěte, aby byl ventil tlakové lahve vždy uzavřen, pokud není přípravek používán.
+Kompatibilita
+Veškeré zařízení, včetně hadiček, spojů a okruhů, používané při podávání oxidu dusnatého, musí být zhotoveno z materiálů s tímto plynem kompatibilních. Co se rizika koroze týče, systém lze rozdělit do dvou částí: 1) od ventilu tlakové lahve ke zvlhčovači (suchý plyn) a 2) od zvlhčovače k aplikační koncovce (zvlhčený plyn, který může obsahovat NO2).  Podle dosavadních zkušeností lze k vedení suché směsi NO použít většinu běžných materiálů. Oxid dusičitý a vlhkost však mají agresivní účinky. Z kovových materiálů lze ke konstrukci aplikačních systémů doporučit pouze nerezavějící ocel. K testovaným polymerům, které lze použít v aplikačních systémech oxidu dusnatého, mimo jiné patří polyethylen (PE) a polypropylen (PP). S čistým oxidem dusnatým a jinými korozivními plyny byl použit polytrifluorchlorethylen,   kopolymer   hexafluorpropenu   a   vinylidenfluoridu   a polytetrafluorethylen, a tyto látky jsou považovány za inertní.
+Pokyny k likvidaci tlakových lahví
+
+−  Prázdné tlakové lahve nikdy nevyhazujte. Je třeba je neprodleně zaslat do skladu prázdných
+lahví nebo na vhodné sběrové místo, kde si je odebere dodavatel.
+
+
+7  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Air Products spol. s r.o.
+J. Š. Baara 2063/21
+405 02 Dĕčín
+
+Česká republika
+
+
+8  REGISTRAČNÍ ČÍSLO(A)
+89/227/10-C
+
+
+9  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 3. 3. 2010
+Datum posledního prodloužení registrace: 23. 1. 2020
+10 DATUM REVIZE TEXTU
+
+18. 9. 2020

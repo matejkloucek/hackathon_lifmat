@@ -1,0 +1,1487 @@
+sp. zn. sukls119578/2017
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+ESMOCARD LYO 2500 mg prášek pro koncentrát pro infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Lahvička o objemu 50 ml obsahuje esmololi hydrochloridum 2500 mg.
+1 ml rekonstituovaného koncentrátu pro přípravu infuzního roztoku obsahuje esmololi hydrochloridum
+50 mg (50 mg/ml).
+1 ml naředěného infuzního roztoku obsahuje esmololi hydrochloridum 10 mg (10 mg/ml). Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Prášek pro koncentrát pro infuzní roztok Prášek je bílý až téměř bílý.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+ESMOCARD LYO je indikován k léčbě supraventrikulární tachykardie (s výjimkou preexcitačních syndromů) a k rychlé kontrole komorové frekvence u pacientů s fibrilací nebo flutterem síní peroperačně, postoperačně nebo za jiných okolností, kdy je zapotřebí krátkodobá kontrola komorové frekvence krátce působícím lékem.
+ESMOCARD LYO je rovněž indikován u tachykardie a hypertenze vzniklé v perioperační fázi a u nekompenzované sinusové tachykardie, pokud rychlá srdeční frekvence vyžaduje dle úsudku lékaře specifickou intervenci.
+ESMOCARD LYO není určen k použití u dětí do 18 let (viz část 4.2).
+ESMOCARD LYO není určen k použití u chronických stavů.
+
+4.2  Dávkování a způsob podání
+
+ESMOCARD LYO SE NESMÍ PODÁVAT BEZ REKONSTITUCE/NAŘEDĚNÍ.
+
+Rekonstituovaný/naředěný infuzní roztok se musí po otevření okamžitě použít (viz body 4.4 a 6).
+Podání nesprávně rekonstituovaného/naředěného roztoku ESMOCARD LYO může vést i ke smrti (viz bod 4.4).
+
+Dávkování
+SUPRAVENTRIKULÁRNÍ TACHYARYTMIE
+
+Dávku přípravku ESMOCARD LYO je třeba titrovat individuálně. Nejprve je zapotřebí nasycovací dávka, po které následuje dávka udržovací.
+
+Účinná dávka přípravku ESMOCARD LYO se pohybuje v rozmezí od 50 do 200 µg/kg/min, ačkoli se používají i dávky až 300 µg/kg/min. U malého počtu pacientů je adekvátní průměrná účinná dávka
+
+
+1
+
+dávkování 25 µg/kg/min.
+Schéma pro zahájení u udržování léčby Nasycovací dávka
+500 µg/kg/min po dobu 1 minuty, POTÉ 50 µg/kg/min po dobu 4 minut
+Odpověď
+Udržujte infuzi v dávce 50 µg/kg/min
+Nedostatečná odpověď do 5 minut
+Zopakujte dávku 500 µg/kg/min po dobu 1 minuty
+Zvyšte dávku v udržovací infuzi na 100 µg/kg/min po dobu 4 minut
+
+Odpověď
+Udržujte infuzi v dávce 100 µg/kg/min
+
+Nedostatečná odpověď do 5 minut
+Zopakujte dávku 500 µg/kg/min po dobu 1 minuty
+Zvyšte dávku v udržovací infuzi na 150 µg/kg/min po dobu 4 minut
+
+Odpověď
+Udržujte infuzi v dávce 150 µg/kg/min
+Nedostatečná odpověď
+Zopakujte dávku 500 µg/kg/min po dobu 1 minuty
+Zvyšte dávku v udržovací infuzi na 200 µg/kg/min a tuto dávku udržujte
+
+Jakmile se přiblíží požadovaná srdeční frekvence anebo bezpečnostní cílový bod (např. snížený krevní tlak), VYNECHEJTE nasycovací dávku a snižte přírůstek dávky udržovací infuze z 50 µg/kg/min na 25 µg/kg/min nebo méně. Je-li to nutné, lze interval mezi titračními kroky prodloužit z 5 na 10 minut.
+Poznámka: U udržovacích dávek nad 200 µg/kg/min nebyl prokázán významně zvýšený přínos. Bezpečnost dávek nad 300 µg/kg/min nebyla sledována.
+V případě nežádoucích účinků lze dávku přípravku ESMOCARD LYO snížit nebo jeho podávání ukončit. Farmakologické nežádoucí reakce by měly odeznít během 30 minut.
+
+Pokud dojde k lokální reakci v místě infuze, je nutné použít k infuzi jiné místo a při tom je třeba postupovat se zvýšenou opatrností, aby nedošlo k extravazaci.
+Podávání přípravku ESMOCARD LYO po dobu delší než 24 hodin nebylo důkladně zhodnoceno.
+Infuzi trvající více než 24 hodin je nutno používat pouze se zvýšenou opatrností.
+
+Nebylo popsáno, že by náhlé vysazení přípravku ESMOCARD LYO u pacientů vyvolalo abstinenční příznaky, které se mohou vyskytnout při náhlém vysazení betablokátorů po jejich dlouhodobém použití u pacientů s onemocněním koronárních tepen (CAD). Přesto se doporučuje opatrnost při náhlém ukončení infuzí esmololu u pacientů s onemocněním koronárních tepen (CAD).
+
+
+
+
+
+
+
+
+2
+
+PERIOPERAČNÍ TACHYKARDIE A HYPERTENZE
+
+Při perioperační tachykardii a hypertenzi se mohou dávkovací režimy měnit takto:
+
+
+a)  Při léčbě během operace - pokud je nezbytná přímá kontrola v průběhu celkové anestézie, se podává injekční bolus 80 mg během 15 až 30 vteřin, a poté následuje infuze v dávce 150 µg/kg/min. Upravte titrací rychlost infuze dle potřeby až do dávky 300 µg/kg/min.
+b) Po probuzení z anestézie podávejte infuzi v dávce 500 µg/kg/min po dobu 4 minut a poté
+v dávce 300 µg/kg/min.
+c)  V pooperačním období, pokud je čas na titraci dávky, podejte před každým titračním krokem nasycovací dávku 500 µg/kg/min během 1 minuty, která zajistí rychlý nástup účinku. K titraci použijte dávky 50, 100, 150, 200, 250 a 300 µg/kg/min podávané po dobu 4 minut a při dosažení požadovaného terapeutického účinku titraci ukončete.
+
+Nahrazení léčby přípravkem ESMOCARD LYO alternativními léky
+
+Poté, kdy pacient dosáhne adekvátní kontroly srdeční frekvence a stabilního klinického stavu, lze
+provést přechod na alternativní léky (jako jsou antiarytmika nebo blokátory vápníkových kanálů).).
+Snížení dávkování:
+Pokud má být ESMOCARD LYO nahrazen alternativními léky, musí lékař pečlivě zvážit údaje o zvoleném alternativním léku a snížit dávku přípravku ESMOCARD LYO takto:
+1) Během první hodiny po podání první dávky alternativního léku snižte rychlost infuze přípravku
+ESMOCARD LYO o polovinu (50 %).
+2) Po podání druhé dávky alternativního léku monitorujte odpověď pacienta, a pokud je během první hodiny zachována uspokojivá kontrola, ukončete infuzi přípravku ESMOCARD LYO.
+
+Další informace o dávkování: Jakmile se přiblíží požadovaný terapeutický účinek nebo bezpečnostní cílový bod (např. snížený krevní tlak), vynechejte nasycovací dávku a snižte přírůstek dávky udržovací infuze na 12,5 až 25 µg/kg/min. V případě potřeby rovněž prodlužte interval mezi titračními kroky z 5 na 10 minut.
+
+Podávání přípravku ESMOCARD LYO je třeba ukončit, pokud se srdeční frekvence nebo krevní tlak rychle dostane na bezpečnostní mez nebo ji překročí, a jakmile se srdeční frekvence nebo krevní tlak vrátí na přijatelnou úroveň, je třeba podávání roztoku znovu zahájit bez startovací infuze a v nižší dávce.
+
+Zvláštní skupiny pacientů
+Starší pacienti
+O starší pacienty je třeba pečovat opatrně, přičemž léčba se zahájí s nižšími dávkami. Samostatné
+studie u starších pacientů nebyly dosud provedeny. Analýza údajů 252 pacientů starších 65 let však naznačuje, že ve farmokodynamickém účinku nedochází k žádným odchylkám ve srovnání s daty pacientů mladších 65 let.
+
+Pacienti s insuficiencí ledvin
+Je-li ESMOCARD LYO podáván v infuzi, je u pacientů s renální insuficiencí zapotřebí zvýšená
+opatrnost, protože kyselý metabolit přípravku ESMOCARD LYO je vylučován ledvinami. U pacientů s onemocněním ledvin je vylučování kyselého metabolitu významně sníženo, poločas eliminace
+vzrůstá až na desetinásobek normálu a plazmatické hladiny jsou výrazně zvýšeny.
+
+
+
+
+3
+
+Pacienti s insuficiencí jater
+V případě jaterní insuficience nejsou nutná žádná zvláštní opatření, protože hlavní roli v metabolismu přípravku ESMOCARD LYO mají esterázy v erytrocytech.
+Pediatrická populace (do 18 let věku):
+Bezpečnost a účinnost přípravku ESMOCARD LYO u dětí do 18 let dosud nebyla prokázána. Proto není přípravek ESMOCARD LYO indikován pro použití u dětské populace (viz bod 4.1).
+Dostupné údaje jsou uvedeny v bodech 5.1 a 5.2, ale v současnosti nelze vydat doporučení ohledně dávkování.
+
+Způsob podání
+
+Prášek se musí před použitím rekonstituovat/naředit. Rekonstituovaný/naředěný prášek lze
+podat ve dvou odlišných koncentracích ve dvou odlišných objemech:
+
+1.  Standardní koncentrace je 10 mg/ml do konečného objemu 250 ml.
+
+2.  V některých případech, kdy se považuje za nezbytné použití menšího objemu, lze připravit vyšší koncentraci (50 mg/ml) rozpuštěním prášku do konečného objemu 50 ml pro podání PERFUZNÍ PUMPOU. S použitím takové vyšší koncentrace je pouze omezená klinická zkušenost. Vyšší koncentraci lze podávat infuzně pouze do větší žíly nebo centrálním katétrem za použití perfuzní pumpy (viz bod 4.4).
+Pro způsob přípravy viz bod 6.6.
+
+KONVERZNÍ TABULKA INFUZNÍ RYCHLOSTI (mikrogram/kg/min 🡪 ml/min) pro ředěný
+infuzní roztok (10 mg/ml) podávaný STANDARDNÍ INFUZÍ:
+
+Konverzní tabulka: mikrogram/kg/min → ml/min (esmolol naředěný na 10 mg/ml)
+
+
+500
+μg/kg/min Pouze 1 minutu
+50
+μg/kg/min
+100
+μg/kg/min
+150
+μg/kg/min
+200
+μg/kg/min
+250
+μg/kg/min
+300
+μg/kg/min
+
+
+kg     ml/min
+ml/min
+ml/min
+ml/min
+ml/min
+ml/min
+ml/min
+
+
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+2
+2,25
+2,5
+2,75
+3
+3,25
+3,5
+3,75
+4
+4,25
+4,5
+4,75
+5
+5,25
+5,5
+5,75
+6
+0,2
+0,225
+0,25
+0,275
+0,3
+0,325
+0,35
+0,375
+0,4
+0,425
+0,45
+0,475
+0,5
+0,525
+0,55
+0,575
+0,6
+0,4
+0,45
+0,5
+0,55
+0,6
+0,65
+0,7
+0,75
+0,8
+0,85
+0,9
+0,95
+1
+1,05
+1,1
+1,15
+1,2
+0,6
+0,675
+0,75
+0,825
+0,9
+0,975
+1,05
+1,125
+1,2
+1,275
+1,35
+1,425
+1,5
+1,575
+1,65
+1,725
+1,8
+0,8
+0,9
+1
+1,1
+1,2
+1,3
+1,4
+1,5
+1,6
+1,7
+1,8
+1,9
+2
+2,1
+2,2
+2,3
+2,4
+1
+1,125
+1,25
+1,375
+1,5
+1,625
+1,75
+1,875
+2
+2,125
+2,25
+2,375
+2,5
+2,625
+2,75
+2,875
+3
+1,2
+1,35
+1,5
+1,65
+1,8
+1,95
+2,1
+2,25
+2,4
+2,55
+2,7
+2,85
+3
+3,15
+3,3
+3,45
+3,6
+
+
+
+
+
+
+4
+
+Konverzní tabulka: mikrogram/kg/min → ml/h (esmolol naředěný na 10 mg/ml)
+
+
+500
+μg/kg/min Pouze 1 minutu
+50
+μg/kg/min
+100
+μg/kg/min
+150
+μg/kg/min
+200
+μg/kg/min
+250
+μg/kg/min
+300
+μg/kg/min
+
+
+kg     ml/h
+ml/h
+ml/h
+ml/h
+ml/h
+ml/h
+ml/h
+
+
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+315
+330
+345
+360
+12      24
+13,5     27
+15      30
+16,5     33
+18      36
+19,5     39
+21      42
+22,5     45
+24      48
+25,5     51
+27      54
+28,5     57
+30      60
+31,5     63
+33      66
+34,5     69
+36      72
+36
+40,5
+45
+49,5
+54
+58,5
+63
+67,5
+72
+76,5
+81
+85,5
+90
+94,5
+99
+103,5
+108
+48
+54
+60
+66
+72
+78
+84
+90
+96
+102
+108
+114
+120
+126
+132
+138
+144
+60
+67,5
+75
+82,5
+90
+97,5
+105
+112,5
+120
+127,5
+135
+142,5
+150
+157,5
+165
+172,5
+180
+72
+81
+90
+99
+108
+117
+126
+135
+144
+153
+162
+171
+180
+189
+198
+207
+216
+
+
+KONVERZNÍ TABULKA INFUZNÍ RYCHLOSTI (mikrogram/kg/min 🡪 ml/min) pro
+koncentrovaný infuzní roztok (50 mg/ml) podávaný PERFUZNÍ PUMPOU:
+
+Konverzní tabulka: mikrogram/kg/min → ml/min (esmolol naředěný na 50 mg/ml)
+
+
+500
+μg/kg/min Pouze 1 minutu
+50
+μg/kg/min
+100
+μg/kg/min
+150
+μg/kg/min
+200
+μg/kg/min
+250
+μg/kg/min
+300
+μg/kg/min
+
+
+kg     ml/min
+ml/min
+ml/min
+ml/min
+ml/min
+ml/min
+ml/min
+
+
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+0,4
+0,45
+0,5
+0,55
+0,6
+0,65
+0,7
+0,75
+0,8
+0,85
+0,9
+0,95
+1
+1,05
+1,1
+1,15
+1,2
+0,04
+0,045
+0,05
+0,055
+0,06
+0,065
+0,07
+0,075
+0,08
+0,085
+0,09
+0,095
+0,1
+0,105
+0,11
+0,115
+0,12
+0,08
+0,09
+0,1
+0,11
+0,12
+0,13
+0,14
+0,15
+0,16
+0,17
+0,18
+0,19
+0,2
+0,21
+0,22
+0,23
+0,24
+0,12
+0,135
+0,15
+0,165
+0,18
+0,195
+0,21
+0,225
+0,24
+0,255
+0,27
+0,285
+0,3
+0,315
+0,33
+0,345
+0,36
+0,16
+0,18
+0,2
+0,22
+0,24
+0,26
+0,28
+0,3
+0,32
+0,34
+0,36
+0,38
+0,4
+0,42
+0,44
+0,46
+0,48
+0,2
+0,225
+0,25
+0,275
+0,3
+0,325
+0,35
+0,375
+0,4
+0,425
+0,45
+0,475
+0,5
+0,525
+0,55
+0,575
+0,6
+0,24
+0,27
+0,3
+0,33
+0,36
+0,39
+0,42
+0,45
+0,48
+0,51
+0,54
+0,57
+0,6
+0,63
+0,66
+0,69
+0,72
+
+
+5
+
+Konverzní tabulka: mikrogram/kg/min → ml/h (esmolol naředěný na 50 mg/ml)
+
+
+500
+μg/kg/min Pouze 1 minutu
+50
+μg/kg/min
+100
+μg/kg/min
+150
+μg/kg/min
+200
+μg/kg/min
+250
+μg/kg/min
+300
+μg/kg/min
+
+
+kg     ml/h
+ml/h
+ml/h
+ml/h
+ml/h
+ml/h
+ml/h
+
+
+40      24
+45      27
+50      30
+55      33
+60      36
+65      39
+70      42
+75      45
+80      48
+85      51
+90      54
+95      57
+100     60
+105     63
+110     66
+115     69
+120     72
+2,4
+2,7
+3
+3,3
+3,6
+3,9
+4,2
+4,5
+4,8
+5,1
+5,4
+5,7
+6
+6,3
+6,6
+6,9
+7,2
+4,8
+5,4
+6
+6,6
+7,2
+7,8
+8,4
+9
+9,6
+10,2
+10,8
+11,4
+12
+12,6
+13,2
+13,8
+14,4
+7,2
+8,1
+9
+9,9
+10,8
+11,7
+12,6
+13,5
+14,4
+15,3
+16,2
+17,1
+18
+18,9
+19,8
+20,7
+21,6
+9,6
+10,8
+12
+13,2
+14,4
+15,6
+16,8
+18
+19,2
+20,4
+21,6
+22,8
+24
+25,2
+26,4
+27,6
+28,8
+12
+13,5
+15
+16,5
+18
+19,5
+21
+22,5
+24
+25,5
+27
+28,5
+30
+31,5
+33
+34,5
+36
+14,4
+16,2
+18
+19,8
+21,6
+23,4
+25,2
+27
+28,8
+30,6
+32,4
+34,2
+36
+37,8
+39,6
+41,4
+43,2
+
+
+4.3  Kontraindikace
+
+-  Hypersenzitivita na léčivou látku
+-  Závažná sinusová bradykardie (méně než 50 tepů za minutu)
+-  "Sick sinus" syndrom, závažné poruchy vodivosti AV uzlů (bez kardiostimulátoru), AV blok
+druhého nebo třetího stupně
+-  Kardiogenní šok
+Závažná hypotenze
+-  Dekompenzované srdeční selhání
+-  Současné nebo nedávné intravenózní podávání verapamilu. ESMOCARD LYO se nesmí podávat do 48 hodin po ukončení léčby verapamilem (viz bod 4.5)
+-  Neléčený feochromocytom
+-  Plicní hypertenze
+-  Akutní astmatický záchvat
+-  Metabolická acidóza
+4.4  Zvláštní upozornění a opatření pro použití Upozornění
+ESMOCARD LYO 2500 mg prášek pro koncentrát pro infuzní roztok musí být rekonstituován/naředěn a použit okamžitě po otevření (viz bod 6).
+Nesprávné ředění přípravku ESMOCARD LYO může vést k závažnému předávkování. Předávkování může vést k úmrtí nebo trvalé invaliditě (viz bod 4.9).
+
+Vzhledem k riziku rebound tachykardie se doporučuje ukončovat infuzní léčbu postupně. Doporučuje se neustálé monitorování krevního tlaku a EKG u všech pacientů léčených přípravkem
+6
+
+ESMOCARD LYO. V případě hypotenzní epizody má být rychlost infuze snížena nebo v případě potřeby infuze přerušena.
+
+Použití přípravku ESMOCARD LYO k řízení komorové odezvy u pacientů se supraventrikulární arytmií by mělo být prováděno opatrně, pokud je pacient hemodynamicky ohrožen nebo užívá jiné léky, které snižují některé nebo všechny následující účinky: periferní rezistence, plnění myokardu, kontraktilita myokardu nebo šíření elektrického impulsu v myokardu. Navzdory rychlému nástupu a vyvážení účinků přípravku ESMOCARD LYO mohou nastat závažné reakce včetně ztráty vědomí, kardiogenního šoku a zástavy srdce. Ve složitých klinických stavech, kde se ESMOCARD LYO pravděpodobně používá k řízení komorové frekvence, bylo hlášeno několik úmrtí.
+Nejčastěji pozorovaným nežádoucím účinkem je hypotenze, která je závislá na dávce, ale může se vyskytnout při jakékoli dávce. Tento účinek může být závažný. V případě hypotenzní epizody má být rychlost infuze snížena nebo v případě potřeby přerušena. Hypotenze je obvykle reverzibilní (do 30 minut po ukončení aplikace přípravku ESMOCARD LYO). V některých případech mohou být
+nezbytné další intervence k obnovení krevního tlaku. U pacientů s nízkým systolickým krevním tlakem je nutná zvýšená opatrnost při úpravě dávky a během udržovací infuze.
+
+Při použití přípravku ESMOCARD LYO byla pozorována bradykardie, včetně závažné bradykardie, a zástava srdce. Přípravek ESMOCARD LYO by měl být užíván s obzvláštní opatrností u pacientů
+s nízkou srdeční frekvencí před léčbou a pouze tehdy, má-li se za to, že potenciální přínosy převažují
+nad rizikem.
+
+ESMOCARD LYO je kontraindikován u pacientů s již existující těžkou sinusovou bradykardií (viz bod 4.3). Pokud se tepová frekvence sníží na méně než 50 - 55 tepů za minutu v klidu a pacient
+zaznamená příznaky související s bradykardií, má být dávka snížena nebo podávání ukončeno.
+
+Starší pacienti je třeba léčit se zvýšenou opatrností, léčba má být zahájena nižší dávkou, nicméně tolerance u starších pacientů je zpravidla dobrá.
+Stimulace sympatiku je nezbytná k podpoře oběhové funkce u městnavého srdečního selhání a
+betablokátory představují potenciální riziko další deprese kontraktility myokardu a urychlení vzniku závažnějšího selhání. Přetrvávající deprese myokardu v důsledku použití betablokátorů po určité
+časové období může v některých případech vést k srdečnímu selhání.
+
+Při použití přípravku ESMOCARD LYO u pacientů se sníženou srdeční funkcí je třeba postupovat opatrně. Při první známce nebo příznaku hrozícího srdečního selhání je nutno ESMOCARD LYO
+vysadit. Vysazení léčby může být postačující vzhledem ke krátkému eliminačnímu poločasu přípravku ESMOCARD LYO, přesto však lze zvážit i specifickou léčbu (viz bod 4.9). Přípravek ESMOCARD LYO je kontraindikován u pacientů s dekompenzovaným srdečním selháním (viz bod 4.3).
+Vzhledem k jeho negativnímu účinku na dobu vedení mají být betablokátory podávány pouze s
+opatrností pacientům s AV blokádou prvního stupně nebo jinými poruchami srdečního vedení (viz bod
+4.3).
+
+Přípravek ESMOCARD LYO má být používán s opatrností a pouze po předběžné léčbě blokátory
+alfa-receptorů u pacientů s feochromocytomem (viz bod 4.3).
+
+Při léčbě přípravkem ESMOCARD LYO se k léčbě hypertenze po indukované hypotermii vyžaduje
+opatrnost.
+
+Pacienti s bronchospastickým onemocněním by obecně neměli být léčeni betablokátory. Vzhledem
+k relativní beta-1 selektivitě a snadné titrovatelnosti je nutno používat ESMOCARD LYO se zvýšenou opatrností u pacientů s bronchospastickým onemocněním. Jelikož však beta-1 selektivita není
+absolutní, je nutno dávku přípravku ESMOCARD LYO pečlivě titrovat tak, aby podávána nejnižší možná účinná dávka. V případě bronchospasmu musí být infuze okamžitě ukončena a v případě nutnosti mají být podány beta-2 agonisté.
+
+7
+
+Pokud již pacient užívá lék stimulující beta-2 receptory, bude patrně zapotřebí přehodnotit dávku tohoto léku.
+ESMOCARD LYO se musí používat se zvýšenou opatrností u pacientů s dušností nebo astmatem v anamnéze.
+Opatření
+Přípravek ESMOCARD LYO má být používán s opatrností u diabetiků nebo v případě podezření na hypoglykémii.
+Závažnost hypoglykémie je nižší než závažnost v případě použití méně kardioselektivních beta-
+blokátorů. Betablokátory mohou maskovat prodromální příznaky hypoglykémie, jako je tachykardie. Závratě a pocení však nemusí být ovlivněny. Současné užívání betablokátorů a antidiabetik může zvýšit účinek antidiabetik (snížení hladiny glukózy v krvi) (viz bod 4.5).
+
+Infuzní koncentrace 20 mg/ml byly spojeny s významným drážděním žil a tromboflebitidou u zvířat a člověka. Extravazace 20 mg/ml může vést k závažné lokální reakci a možné nekróze kůže.
+
+Místní reakce byly také hlášeny po infuzi s koncentrací 10 mg/ml. Mělo by se proto vyhnout infuzi do malých žil nebo do motýlkových katétrů. Podání roztoku o koncentraci 50 mg/ml musí být striktně uskutečněno do velké žíly nebo do centrálního katétru pouze pomocí perfusorové pumpy.
+Betablokátory mohou zvýšit počet a trvání anginózních záchvatů u pacientů s Prinzmetalovou anginou pectoris kvůli vazokonstrikci koronárních artérií, zprostředkované alfa-receptory. Neselektivní
+betablokátory nemají být u těchto pacientů používány a selektivní beta-1 blokátory mají být používány jen s maximální opatrností.
+
+U hypovolemických pacientů může ESMOCARD LYO zeslabit reflexní tachykardii a zvýšit riziko
+kolapsu. Proto se má přípravek ESMOCARD LYO u těchto pacientů používat s opatrností.
+
+U pacientů s onemocněním periferních žil (Raynaudova nemoc nebo syndrom, intermitentní klaudikace) mají být betablokátory používány s velkou opatrností, protože může dojít k zhoršení těchto poruch.
+Některé betablokátory, zejména ty, které se podávají intravenózně, včetně přípravku ESMOCARD LYO, jsou spojeny se zvýšením hladiny draslíku v séru a hyperkalemií. Riziko se zvyšuje u pacientů s rizikovými faktory, jako je porucha funkce ledvin, a u pacientů na hemodialýze.
+
+Betablokátory mohou zvýšit jak citlivost na alergeny, tak závažnost anafylaktických reakcí. Pacienti užívající betablokátory nemusí reagovat na obvyklé dávky epinefrinu používaného k léčbě anafylaktických nebo anafylaktoidních reakcí (viz bod 4.5).
+Betablokátory jsou spojeny s rozvojem lupénky nebo výsevem psoriázy a se zhoršením psoriázy. Pacientům s osobní nebo rodinnou anamnézou psoriázy je třeba betablokátory podávat pouze po pečlivém zvážení očekávaných přínosů a rizik.
+
+Betablokátory, jako je propranolol a metoprolol, mohou maskovat určité klinické známky
+hypertyreózy (jako je tachykardie). Náhlé ukončení stávající léčby betablokátory u pacientů s rizikem nebo podezřením na tyreotoxikózu může způsobit thyrotoxickou krizi a tito pacienti musí být pečlivě sledováni.
+
+Použití v pediatrické populaci (do 18 let věku)
+Bezpečnost a účinnost přípravku ESMOCARD LYO u dětí není doposud stanovena.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Vždy, když se přípravek ESMOCARD LYO používá s jinými antihypertenzivy nebo jinými léky, které mohou způsobit hypotenzi nebo bradykardii, je třeba vždy postupovat opatrně: účinky přípravku
+
+
+8
+
+ESMOCARD LYO se mohou zvýšit nebo mohou být zhoršeny nežádoucí účinky hypotenze nebo
+bradykardie.
+
+Blokátory vápníkových kanálů, jako je verapamil a v menší míře diltiazem, mají negativní vliv na kontraktilitu a AV vedení. Tato kombinace nemá být podávána pacientům s poruchou vedení
+srdečního vzruchu a ESMOCARD LYO nemá být podáván po dobu 48 hodin od vysazení verapamilu
+(viz bod 4.3).
+
+Blokátory vápníkových kanálů, jako např. deriváty dihydropyridinu (např. nifedipin), mohou zvyšovat
+riziko hypotenze.
+U pacientů se srdeční insuficiencí a u pacientů, kteří jsou léčeni blokátory vápníkových kanálů, může léčba betablokátory vést k srdečnímu selhání.  Doporučuje se opatrně titrovat dávku přípravku ESMOCARD LYO a patřičně monitorovat hemodynamiku.
+Současné použití přípravku ESMOCARD LYO a antiarytmik třídy I (např. disopyramid, chinidin) a amiodaronu může mít potenciační účinek na dobu síňového vedení a vyvolat negativní inotropní účinek..
+
+Současné použití přípravku ESMOCARD LYO a inzulínu nebo perorálních antidiabetik může zesílit hypoglykemický účinek (zvláště u neselektivních betablokátorů). Betaadrenergní blokáda může chránit před vznikem příznaků hypoglykémie (tachykardie), ale jiné projevy jako závratě a pocení
+nemusí být maskované.
+Anestetika:
+v situacích, při nichž je neznámý objemový status pacienta anebo jsou souběžně používána antihypertenziva, může dojít k zeslabení reflexní tachykardie a ke zvýšení rizika hypotenze.
+Přetrvávající podávání betablokátorů snižuje riziko arytmie během indukce a intubace. Pokud jsou pacientovi podávány betablokátory navíc k přípravku ESMOCARD LYO, musí být o této skutečnosti informován anesteziolog. V přítomnosti přípravku ESMOCARD LYO může být zvýšen hypotenzní účinek inhalačních anestetik. Dávkování kteréhokoli z těchto léků může být upraveno dle potřeby, aby zůstala zachována potřebná hemodynamika.
+
+Kombinace přípravku ESMOCARD LYO s gangliovými blokátory může zvýšit hypotenzní účinek. NSAID mohou snížit hypotenzní účinky betablokátorů.
+Při současném použití floktafeninu nebo amisulpridu s betablokátory je nutná zvýšená opatrnost.
+
+Současné podání tricyklických antidepresiv (jako imipramin a amitriptylin), barbiturátů a fenothiazinů (jako chlorpromazinu), jakož i dalších antipsychotik (jako klozapin) může zvýšit hypotenzní účinek. Dávkování přípravku ESMOCARD LYO je třeba snížit, aby se zabránilo neočekávané hypotenzi.
+
+Při použití betablokátorů mohou být pacienti s rizikem anafylaktických reakcí více reaktivní na
+expozici alergenu (náhodný, diagnostický nebo terapeutický). Pacienti užívající betablokátory nemusí
+reagovat na obvyklé dávky epinefrinu používaného k léčbě anafylaktických reakcí (viz bod 4.4).
+
+Účinky přípravku ESMOCARD LYO mohou být potlačeny při souběžném podávání se
+sympatomimetickými léčivy, které mají beta-adrenergní agonistickou aktivitu. Dávku každé látky může být nutné upravit na základě odpovědi pacienta nebo na základě použití uvažovaných
+alternativních terapeutických látek.
+
+Léky vedoucí k depleci katecholaminů, např. reserpin, mohou mít zvýšený účinek při podání
+s betablokátory. Pacienti léčení současně přípravkem ESMOCARD LYO 2500 mg a přípravky způsobujícími depleci katecholaminů by proto měli být pečlivě sledováni z hlediska výskytu hypotenze nebo významné bradykardie, které mohou vést k závratím, synkopě nebo posturální hypotenzi.
+
+
+
+9
+
+Použití betablokátorů s námelovými deriváty může vést k závažné periferní vazokonstrikci a
+hypertenzi.
+Údaje ze studie interakcí mezi přípravkem ESMOCARD LYO a warfarinem prokázaly, že současné podání přípravku ESMOCARD LYO a warfarinu neovlivňuje plazmatické hladiny warfarinu.
+Koncentrace přípravku ESMOCARD LYO však byly při podávání s warfarinem nejednoznačně vyšší.
+
+Při současném intravenózním podání digoxinu a přípravku ESMOCARD LYO zdravým
+dobrovolníkům bylo v některých časových bodech pozorováno 10 – 20% zvýšení hladiny digoxinu v krvi. Kombinace digitalisových glykosidů a přípravku ESMOCARD LYO může prodloužit dobu AV převodu. Digoxin neovlivnil farmakokinetiku přípravku ESMOCARD LYO.
+
+Ve studiích, které se zabývaly interakcemi nitrožilně podaného morfinu a přípravku ESMOCARD LYO u normálních subjektů, nebyl pozorován žádný vliv na hladinu morfinu v krvi. Hladiny přípravku ESMOCARD LYO v rovnovážném stavu byly v přítomnosti morfinu zvýšeny o 46 %, avšak žádné jiné farmakokinetické parametry nebyly změněny.
+
+U pacientů podstupujících operaci byl hodnocen vliv přípravku ESMOCARD LYO na trvání
+neuromuskulární blokády navozené suxamethonium-chloridem nebo mivakuriem. ESMOCARD LYO neovlivnil nástup neuromuskulární blokády po suxametonium-chloridu, avšak trvání neuromuskulární blokády se prodloužilo z 5 minut na 8 minut. ESMOCARD LYO mírně prodloužil klinické trvání (18,6%) a index obnovy (6,7%) mivakuria.
+
+Interakce pozorované ve studiích s warfarinem, digoxinem, morfinem, suxamethonium-chloridem nebo mivakuriem neměly sice větší klinický význam, avšak dávka přípravku ESMOCARD LYO má být přesto titrována ze zvýšenou opatrností u pacientů současně léčených warfarinem, digoxinem, morfinem či suxametonium-chloridem nebo mivakuriem.
+
+4.6  Fertilita těhotenství a kojení
+
+Těhotenství
+Existuje omezené množství údajů o použití esmolol-hydrochloridu u těhotných žen. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3).
+
+Použití esmolol-hydrochloridu v těhotenství se nedoporučuje.
+Neexistují dostatečné údaje ke stanovení možných škodlivých účinků esmolol-hydrochloridu v těhotenství. Doposud však nebyly zjištěny žádné náznaky zvýšeného rizika vrozených defektů u lidí. Potenciální riziko pro člověka není známo. Na základě farmakologických vlastností je v pozdějších fázích těhotenství nutno počítat s nežádoucími účinky na plod a novorozence (zejména s hypoglykemií, hypotenzí a bradykardií).
+Pokud je léčba esmolol-hydrochloridem nutná, je třeba monitorovat uteroplacentární průtok krve a růst plodu. Novorozence je třeba pečlivě sledovat.
+
+Kojení
+Esmolol-hydrochlorid by se neměl používat během kojení.
+
+Není známo, zda se esmolol-hydrochlorid / metabolity vylučuje do lidského mateřského mléka. Nebezpečí pro novorozence / kojence nelze vyloučit.
+Plodnost
+Žádná data o účincích esmolol-hydrochloridu na plodnost nejsou dosud k dispozici.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Není relevantní.
+
+
+
+10
+
+4.8  Nežádoucí účinky
+
+V případě výskytu nežádoucích účinků lze dávku přípravku ESMOCARD LYO snížit nebo jeho podávání ukončit.
+Většina nežádoucích účinků byla mírná a přechodná. Nejvýznamnějším nežádoucím účinkem je
+hypotenze.
+Následující nežádoucí účinky jsou seřazeny podle tříd orgánových systémů podle MedDRA a podle jejich četnosti.
+Poznámka: Četnost výskytu nežádoucích účinků je klasifikována následovně: Velmi časté (≥ 1/10)
+Časté (≥ 1/100 až < 1/10)
+Méně časté (≥ 1/1 000 až <1/100) Vzácné (≥ 1/10 000 až < 1/1 000) Velmi vzácné (< 1/10 000)
+Není známo (z dostupných údajů nelze určit)
+
+
+
+
+
+Třídy orgánových systémů
+
+Poruchy metabolismu
+a výživy
+
+Psychiatrické poruchy
+
+Poruchy nervového systému
+
+
+Velmi
+časté
+
+
+
+Časté
+
+Anorexie
+
+
+Deprese
+Úzkost
+Závratě¹ Somnolence Bolest hlavy Parestezie Poruchy pozornosti Stav zmatenosti Agitovanost
+Četnost Méně časté
+
+
+Abnormální myšlení
+Synkopa K onvulze
+P o r u c h y ř e č i
+
+
+
+Velmi
+vzácné
+
+
+
+Není známo
+
+Hyperkalemie Metabolická acidóza
+
+
+Poruchy oka
+Postižení
+zraku
+
+
+Srdeční poruchy
+Bradykardie Atrioventrikulární blok
+Plicní arteriální tlak zvýšený Srdeční selhání Ventrikulární extrasystoly Nodální rytmus Angina pectoris
+Sinusová zástava Asystolie
+Zrychlený idioventrikulární rytmus Koronární arteriospasmus Srdeční zástava.
+
+
+
+Cévní poruchy
+Hypotenze
+Periferní ischemie Bledost Zrudnutí
+Tromboflebitida
+
+
+
+
+
+11
+
+1. Závratě a hyperhidróza související se symptomatickou hypotenzí.
+2. 2. Ve spojení s lokální reakcí na injekci a infuzi.
+
+
+
+
+Třídy orgánových systémů
+
+Respirační, hrudní a mediastinální poruchy
+
+
+Velmi
+časté
+
+
+Časté
+Četnost Méně časté
+Dyspnoe
+Pulmonární edém
+Bronchospasmus
+Sípání
+Nosní kongesce Auskultační šumy
+
+
+Velmi
+vzácné
+
+
+Není známo
+
+
+Gastrointestinální poruchy
+Nauzea
+Zvracení
+Porucha chuti Dyspepsie
+Zácpa
+Sucho v ústech Bolest břicha
+
+
+Poruchy kůže a podkožní tkáně
+
+Diaforéza¹
+
+Změna zbarvení kůže²
+Erytém²
+
+Nekróza kůže²
+(vlivem extravazace)
+Psoriáza³ Angioedém a
+kopřivka
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Poruchy ledvin a
+močových cest
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+Astenie
+Únava
+Reakce v místě aplikace injekce
+Reakce v místě aplikace infuze
+Zánět v místě aplikace infuze
+Zatvrdnutí v místě aplikace infuze
+Muskuloskeletální bolesti⁴
+
+Retence moči
+
+Zimnice Pyrexie Edém² Bolest²
+Pálení v místě aplikace infuze
+Ekchymóza v místě aplikace infuze
+Bolesti na hrudi
+
+
+
+
+
+
+Flebitida v místě aplikace infuze Vezikuly v místě
+aplikace infuze
+Tvorba puchýřů²
+
+1. Závratě a pocení související se symptomatickou hypotenzí.
+2. Ve spojení s lokální reakcí na injekci a infuzi.
+3.Léky ze skupiny betablokátorů mohou v některých případech způsobovat lupénku, či zhoršovat její příznaky. 4. Včetně bolesti mezi lopatkami a Tietzova syndromu.
+
+Hlášení o podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili
+
+12
+
+podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+Vyskytly se případy masivního náhodného předávkování koncentrovaným roztokem přípravku ESMOCARD LYO. Některá z těchto předávkování byla fatální, jiná měla za následek trvalou invaliditu. Nasycovací dávky v rozmezí 625 mg až 2,5 g (12,5-50 mg/kg) jsou fatální.
+
+Příznaky
+V případě předávkování se mohou vyskytnout následující příznaky: těžká hypotenze, sinusová bradykardie,  atrioventrikulární  blokáda,  srdeční  selhání,  kardiogenní  šok,  srdeční  zástava, bronchospasmus, respirační insuficience, ztráta vědomí až koma, konvulze, nauzea, zvracení, hypoglykémie a hyperkalémie.
+
+Léčba
+Vzhledem ke krátkému poločasu eliminace přípravku ESMOCARD LYO (přibližně 9 minut) má být prvním krokem v léčbě toxicity přerušení podávání léku. Doba do vymizení příznaků po
+předávkování závisí na množství podaného přípravku ESMOCARD LYO. Tato doba může být delší než 30 minut, jak bylo pozorováno po ukončení aplikace terapeutických dávek přípravku ESMOCARD LYO. Může být nezbytné umělé dýchání. Na základě pozorovaných klinických účinků je třeba zvážit také následující obecná opatření:
+Bradykardie: má být intravenózně podán atropin nebo jiné anticholinergikum. Pokud bradykardii nelze
+dostatečně ovlivnit, může být zapotřebí kardiostimulátor.
+Bronchospasmus: je třeba podat nebulizovaná beta-2 sympatomimetika. Pokud tato léčba není dostačující, lze zvážit intravenózní podání beta-2 sympatomimetik nebo aminofylinu.
+Symptomatická hypotenze: je třeba intravenózně podat tekutiny a/nebo presorické látky.
+Kardiovaskulární deprese nebo kardiogenní šok: je třeba podat diuretika nebo sympatomimetika. Dávka sympatomimetik (podle symptomů: dobutamin, dopamin, noradrenalin, isoprenalin, atd.) závisí na terapeutickém účinku.
+Je-li nutná další léčba, mohou být na základě klinického stavu a posouzení ošetřujícího zdravotnického
+pracovníka intravenózně podány následující léky:
+- Atropin: 0,5-2 mg
+- inotropní látky
+- kalciové ionty
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: selektivní betablokátory ATC kód: C07AB09
+Esmolol-hydrochlorid je beta-selektivní (kardioselektivní) blokátor adrenergních receptorů. Při aplikaci terapeutických dávek nemá esmolol-hydrochlorid žádnou významnou vnitřní
+13
+
+sympatomimetickou aktivitu (ISA) ani membrány stabilizující účinek.
+
+Esmolol-hydrochlorid, léčivá látka přípravku ESMOCARD LYO, je chemicky příbuzný s fenoxypropanolaminovou třídou betablokátorů.
+
+Na základě farmakologických vlastností má esmolol-hydrochlorid rychlý nástup a velmi krátké trvání účinku, proto může být jeho dávka rychle upravena:
+-  Pokud je použita vhodná nasycovací dávka, je ustálených hladin v krvi dosaženo během 5 minut. Terapeutického účinku je však dosaženo dříve, než stabilní plazmatické koncentrace. Požadovaného farmakologického účinku lze docílit úpravou rychlosti infuze.
+Esmolol-hydrochlorid má známý hemodynamický a elektrofyziologický účinek betablokátorů:
+-  Snížení srdeční frekvence v klidu i při zátěži;
+-  Redukce isoprenalinem indukovaného zvýšení srdeční frekvence;
+-  Prodloužení doby zotavení SA uzlu;
+-  Zpomalení AV vedení;
+-  Prodloužení AV intervalu při normálním sinusovém rytmu a během síňové stimulace bez zpomalení v Hisově svazku a Purkyňových vláknech;
+-  Prodloužení doby PQ, indukce AV blokády II. stupně;
+-  Prodloužení funkční refrakční doby síní a komor;
+-  Negativně inotropní účinek se sníženou ejekční frakcí;
+-  Pokles krevního tlaku.
+
+Děti
+Byla provedena nekontrolovaná studie farmakokinetiky/účinnosti s 26 dětskými pacienty ve věku od 2 do 16 let se supraventrikulární tachykardií (SVT). Pacientům byla podána nasycovací dávka esmolol- hydrochloridu 1 000 µg/kg a poté kontinuální infuze 300 µg/kg/min. SVT byla ukončena u 65 %
+pacientů do 5 minut po zahájení léčby esmolol-hydrochloridem.
+V randomizované ale nekontrolované studii srovnávající různé dávky byla hodnocena účinnost u 116 pediatrických pacientů ve věku od 1 týdne do 7 let s hypertenzí po nápravě koarktace aorty. Pacientům byla podána počáteční infuze v dávce buď 125 µg/kg, 250 µg/kg nebo 500 µg/kg a poté kontinuální infuze v dávce 125 µg/kg/min, 250 µg/kg/min nebo 500 µg/kg/min. Mezi 3 skupinami s odlišným dávkováním nebyl zjištěn významný rozdíl v hypotenzním účinku. Celkem 54 % pacientů potřebovalo k dosažení uspokojivé kontroly krevního tlaku jiné léky než esmolol-hydrochlorid. V tomto ohledu nebyl mezi skupinami s odlišným dávkováním patrný žádný rozdíl.
+
+5.2  Farmakokinetické vlastnosti
+Kinetika esmolol-hydrochloridu je u zdravých dospělých lineární, plazmatické koncentrace jsou
+úměrné dávce. Pokud není použita nasycovací dávka, pak je krevní koncentrace v rovnovážném stavu u dávek od 50 do 300 µg/kg za minutu dosažena během 30 minut.
+Poločas distribuce esmolol-hydrochloridu je velmi krátký, přibližně 2 minuty. Distribuční objem je 3,4 l/kg.
+Esmolol-hydrochlorid je metabolizován esterázami na kyselý metabolit (ASL-8123) a metanol. K tomu dochází hydrolýzou esterové skupiny esterázami v erytrocytech.
+Metabolismus esmolol-hydrochloridu je nezávislý, pokud se dávky pohybují od 50 do 300 µg/kg/minutu.
+
+Esmolol-hydrochlorid je z 55 % vázán na proteiny lidské plazmy v porovnání s kyselým metabolitem, který je vázán pouze z 10 %.
+
+Poločas eliminace po intravenózním podání je přibližně 9 minut.
+
+
+
+14
+
+Celková clearance je 285 ml/kg/minutu; je nezávislá na průtoku játry nebo kterýmkoli jiným orgánem. Esmolol-hydrochlorid je vylučován ledvinami částečně v nezměněné formě (méně než 2 % podaného množství), částečně jako kyselý metabolit, který má slabou (méně než 0,1 % esmololu) betablokující aktivitu. Kyselý metabolit je vylučován močí a má poločas přibližně 3,7 hodiny.
+
+Děti
+Byla provedena farmakokinetická studie s 22 dětskými pacienty ve věku od 3 do 16 let. Pacientům byla podána nasycovací dávka esmolol-hydrochloridu 1 000 µg/kg a poté kontinuální infuze 300 µg/kg/min. Pozorovaná střední celková tělesná clearance činila 119 ml/kg/min, střední distribuční objem byl 283 ml/kg a střední konečný poločas eliminace byl 6,9 minut, což ukazuje, že kinetika esmolol-hydrochloridu u dětí je podobná kinetice u dospělých. Byla však pozorována velká
+interindividuální variabilita.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti přípravku
+
+Ve zvířecích studiích nebyl pozorován teratogenní účinek. U králíků byl pozorován embryotoxický účinek (zvýšení fetální resorpce), který byl pravděpodobně způsobem esmolol-hydrochloridem. Tento účinek byl pozorován při dávkách minimálně 10krát vyšších, než je terapeutická dávka. Doposud nebyly provedeny žádné studie hodnotící účinek esmolol-hydrochloridu na fertilitu a peri- a postnatální účinky. V několika testovacích systémech in vitro a in vivo bylo zjištěno, že esmolol-hydrochlorid není mutagenní. Bezpečnost esmolol-hydrochloridu nebyla zkoumána v dlouhodobých studiích.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Žádné
+6.2  Inkompatibility
+
+Tento léčivý přípravek se nesmí míchat s jinými léčivými přípravky, kromě přípravků uvedených v bodu 6.6.
+6.3  Doba použitelnosti
+
+5 let
+Podmínky uchovávání po prvním otevření jsou do 25 °C.
+
+Otevřený, rekonstituovaný a naředěný přípravek je z fyzikálního a chemického hlediska stabilní
+24 hodin při 25 °C.
+Z mikrobiologického hlediska se musí přípravek použít ihned po otevření a naředění. Pokud roztok není ihned použit, další užití a podání je na odpovědnosti uživatele. Běžně by doba pro užití neměla být delší než 24 hodin při uchovávání při 2 až 8 °C, pokud nebyl rekonstituován/naředěn za
+kontrolovaných a validovaných aseptických podmínek.
+
+6.4  Zvláštní opatření pro uchovávání
+
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání. Podmínky uchovávání rekonstituovaného roztoku viz bod 6.3.
+6.5  Druh obalu a velikost balení
+Čirá, bezbarvá, skleněná lahvička o objemu 50 ml se zátkou z brombutylové pryže a flip off uzávěrem obsahující 2 500 mg prášku pro koncentrát pro infuzní roztok. Lahvička je vložena do papírové
+krabičky.
+
+15
+
+Velikost balení: 1 lahvička v krabičce
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+ESMOCARD LYO 2500 mg, prášek pro koncentrát pro infuzní roztok SE NESMÍ PODÁVAT BEZ REKONSTITUCE/NAŘEDĚNÍ.
+Prášek se musí před použitím rekonstituovat/naředit. Rekonstituovaný/naředěný prášek lze podat ve
+dvou odlišných koncentracích ve dvou odlišných objemech (viz bod 4.2)
+
+1.  Prášek lze podávat STANDARDNÍ INFUZÍ jako naředěný infuzní roztok (10 mg/ml) o objemu 250 ml.
+NEBO
+2.  Prášek lze podávat PERFUZNÍ PUMPOU jako koncentrovaný infuzní roztok (50 mg/ml) o objemu 50 ml. S použitím takové vyšší koncentrace je pouze omezená klinická zkušenost. Vyšší koncentraci lze podávat infuzně pouze do větší žíly nebo centrálním katétrem za použití perfuzní pumpy (viz bod 4.4).
+
+I.  NÁVOD K POUŽITÍ naředěného infuzního roztoku (10 mg/ml) podávaného STANDARDNÍ
+INFUZÍ:
+
+
+
+
+Forma
+
+
+
+
+
+
+Prášek esmolol 2500 mg
+
+
+Objem přidávaného ředicího roztoku
+
+
+Krok 1 Rekonstituujte jednu lahvičku s 50 ml do jednoho z níže
+uvedených roztoků.
+Krok 2
+Rekonstituovaný obsah lahvičky (50 ml) okamžitě nařeďte do 250 ml jednoho z níže uvedených roztoků.
+Konečná
+koncentrace
+rekonstituované
+ho
+/naředěného
+roztoku
+
+
+
+
+
+10 mg/ml
+Konečný objem rekonstituovanéh o
+/naředěného
+roztoku
+
+
+
+
+
+250 ml
+
+
+Podávání
+
+
+
+
+
+
+Standardní infuze o objemu 250 ml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+II. NÁVOD K POUŽITÍ koncentrovaného infuzního roztoku (50 mg/ml) podávaného PERFUZNÍ
+PUMPOU:
+
+
+
+
+Forma
+
+
+
+
+Prášek esmolol 2500 mg
+
+Objem přidávaného ředicího roztoku
+
+
+Rekonstituujte jednu lahvičku s 50 ml do jednoho z níže
+uvedených roztoků. Není nutné dále ředit.
+Konečná
+koncentrace
+rekonstituované
+ho roztoku
+
+
+
+50 mg/ml
+Konečný objem
+rekonstituovanéh o
+roztoku
+
+
+
+
+50 ml
+
+
+Podávání
+
+
+
+Použijte
+perfuzní pumpu, která pojme
+stříkačky o
+objemu 50 ml.
+
+
+Následující roztoky jsou vhodné pro rekonstituci a ředění :
+NaCl 9 mg/ml (0,9 %) roztok
+Glukóza 50 mg/ml (5%) roztok
+Glukóza 50 mg/ml (5%) v Ringerově roztoku
+Glukóza 50 mg/ml (5%) ve fyziologickém roztoku (9 mg/ml (0,9%) NaCl) Glukóza 50 mg/ml (5%) v roztoku Ringer-laktát
+Roztok Ringer-laktát
+
+K přípravě konečného infuzního roztoku lze použít běžné ředicí roztoky používané pro nitrožilní podávání kapalin dodávané jak ve skleněných, tak v plastových (PVC) lahvích.
+Bílý nebo bělavý lyofilizovaný prášek se po rekonstituci kompletně rozpustí. Opatrně míchejte, dokud nezískáte čirý roztok.
+Rekonstituovaný roztok je třeba vizuálně zkontrolovat na přítomnost částic a změnu zbarvení. Použít lze pouze čirý a bezbarvý roztok.
+
+
+Otevřený, rekonstituovaný a naředěný přípravek je z fyzikálního a chemického hlediska stabilní 24 hodin při 25 °C.
+Z mikrobiologického hlediska se musí přípravek použít ihned po otevření a naředění. Pokud roztok není ihned použit, další užití a podání je na odpovědnosti uživatele. Běžně by doba pro užití neměla být delší než 24 hodin při uchovávání při 2 až 8 °C, pokud nebyl rekonstituován/naředěn za
+kontrolovaných a validovaných aseptických podmínek.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Orpha-Devel Handels und Vertriebs GmbH Wintergasse 85/1B
+A-3002 Purkersdorf Rakousko
+
+
+8.  REGISTRAČNÍ ČÍSLO/A
+
+77/888/10-C
+
+
+17
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 10. 11. 2010
+Datum posledního prodloužení registrace: 22. 10. 2014
+
+
+10.  DATUM REVIZE TEXTU
+
+2. 3. 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18

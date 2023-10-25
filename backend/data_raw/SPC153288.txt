@@ -1,0 +1,1295 @@
+Sp.zn. sukls332314/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+GalliaPharm 0,74–1,85 GBq radionuklidový generátor
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Radionuklidový generátor obsahuje – jako mateřský nuklid – germanium (⁶⁸Ge), které se rozkládá na dceřiný nuklid gallium (⁶⁸Ga). Germanium (⁶⁸Ge) sloužící k přípravě (⁶⁸Ge/⁶⁸Ga) generátoru je bez nosiče. Celková radioaktivita vyvolaná germaniem (⁶⁸Ge) a nečistotami emitujícími záření gama nepřesahuje 0,001 %.
+Radionuklidový generátor GalliaPharm 0,74–1,85 GBq je systém sloužící k eluci roztoku chloridu gallitého-(⁶⁸Ga) pro radioaktivní značení podle Evropského lékopisu č. 2464. Tento roztok je eluován z kolony, na níž je fixován mateřský nuklid germanium (⁶⁸Ge). Z něj pak vzniká gallium (⁶⁸Ga). Systém je odstíněn. Fyzikální vlastnosti nuklidů mateřské a dceřiné látky jsou shrnuty v tabulce 1.
+
+Tabulka 1: Fyzikální vlastnosti izotopů germania (⁶⁸Ge) a gallia (⁶⁸Ga)
+
+
+
+
+Poločas
+Typ fyzikálního
+rozpadu
+RTG záření
+
+
+
+
+Záření gama
+
+
+
+
+
+Beta+
+Fyzikální vlastnosti
+68Ge
+270,95 dne
+Záchyt elektronu
+
+9,225 keV (13,1 %)
+9,252 keV (25,7 %)
+10,26 keV (1,64 %)
+10,264 keV (3,2 %)
+10,366 keV (0,03 %)
+
+
+68Ga
+67,71 minuty
+Emise pozitronů
+
+8,616 keV (1,37 %)
+8,639 keV (2,69 %)
+9,57 keV (0,55 %)
+
+
+511 keV (178,28 %)
+578,55 keV (0,03 %)
+805,83 keV (0,09 %)
+1 077,34 keV (3,22 %)
+1 260,97 keV (0,09 %)
+1 883,16 keV (0,14 %)
+Energie   Max. energie
+352,60 keV  821,71 keV (1,20 %)
+836,00 keV 1 899,01 keV (87,94 %)
+Údaje získané z databáze NUDAT (www.nndc.bnl.gov)
+
+5 ml eluátu obsahuje potenciální maximum 1850 MBq ⁶⁸Ga a 18,5 kBq ⁶⁸Ge (kontaminace 0,001 % v eluátu). To odpovídá 1,2 ng gallia a 0,07 ng germania.
+Množství roztoku chloridu gallitého-(⁶⁸Ga) k radioaktivnímu značení dle Evropského lékopisu, které lze eluovat z generátoru, je závislé na přítomném množství germania (⁶⁸Ge), použitém objemu eluentu (obvykle 5 ml) a času od předchozí eluce. Jsou-li mateřské a dceřiné nuklidy v rovnováze, lze eluovat více než 60 % přítomného gallia (⁶⁸Ga).
+
+Tabulka 2 shrnuje aktivitu v generátoru a aktivitu získanou elucí na počátku a konci doby použitelnosti.
+
+
+
+
+
+
+SPC_GalliaPharm_CZ                1 / 23
+
+Tabulka 2: aktivita v generátoru a aktivita získaná elucí
+
+
+Intenzita
+záření
+
+0,74 GBq
+1,11 GBq
+1,48 GBq
+1,85 GBq
+Aktivita v generátoru na počátku doby použitelnosti
+0,74 GBq ± 10 %
+1,11 GBq ± 10 %
+1,48 GBq ± 10 %
+1,85 GBq ± 10 %
+Aktivita v generátoru na konci doby použitelnosti 0,3 GBq ± 10 %
+0,4 GBq ± 10 %
+0,6 GBq ± 10 %
+0,7 GBq ± 10 %
+Aktivita v eluátu na počátku doby použitelnosti* NLT 0,45 GBq
+NLT 0,67 GBq
+NLT 0,89 GBq
+NLT 1,11 GBq
+Aktivita v eluátu na konci doby použitelnosti* NLT 0,18 GBq
+NLT 0,24 GBq
+NLT 0,36 GBq
+NLT 0,42 GBq
+NLT (not less than) = ne méně než  * v rovnovážném stavu
+Podrobnější vysvětlení a příklady aktivity získané elucí v různých časech jsou uvedeny v bodě 12. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Radionuklidový generátor
+
+Generátor je dodáván ve formě pouzdra z nerezové oceli se dvěma držadly a vstupním a výstupním portem. Zdroj elučního roztoku se připevní ke vstupnímu portu, eluát lze shromažďovat na výstupním portu nebo může proudit přímo do aparátu, který zajišťuje syntézu.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Tento léčivý přípravek není určen k přímému použití u pacientů.
+
+Eluát z radionuklidového generátoru (roztok chloridu gallitého-(⁶⁸Ga)) je indikován k in vitro značení specifických nosných molekul, které byly vyvinuty a schváleny k radioaktivnímu značení takovým roztokem, a to k zobrazování pomocí pozitronové emisní tomografie (PET).
+4.2  Dávkování a způsob podání
+
+Tento léčivý přípravek je určen k použití pouze ve specializovaných zařízeních nukleární medicíny a mohou s ním pracovat pouze specialisté zběhlí v provádění radioaktivního značení in vitro.
+Dávkování
+
+Množství eluátu roztoku chloridu gallitého-(⁶⁸Ga) potřebné k radioaktivnímu značení a množství léčivého přípravku značeného galliem (⁶⁸Ga) k následnému podání bude záviset na typu radioaktivně značeného léčivého přípravku a jeho plánovaném použití. Další informace najdete v souhrnu údajů o přípravku a příbalové informaci konkrétního léčivého přípravku, který má být označen.
+
+Pediatrická populace
+
+Další informace o použití u dětí najdete v souhrnu údajů o přípravku a příbalové informaci konkrétního léčivého přípravku, který má být označen galliem (⁶⁸Ga).
+Způsob podání
+
+Roztok chloridu gallitého-(⁶⁸Ga) není určen k přímému použití u pacientů, ale používá se in vitro k radioaktivnímu značení různých nosičových molekul. Je nutné dodržet cestu podání výsledného léčivého přípravku.
+
+2
+
+Návod k bezprostřední přípravě tohoto léčivého přípravku před jeho podáním je uveden v bodě 12.
+
+4.3  Kontraindikace
+
+Roztok chloridu gallitého-(⁶⁸Ga) nepodávejte přímo pacientům.
+Použití léčivých přípravků označených ⁶⁸Ga je kontraindikováno v případě hypersenzitivity na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+Informace o kontraindikacích konkrétních léčivých přípravků značených galliem (⁶⁸Ga), připravených radioaktivním značením pomocí roztoku chloridu gallitého-(⁶⁸Ga) najdete v souhrnu údajů o přípravku a příbalové informaci konkrétního léčivého přípravku, který má být radioaktivně označen.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Roztok chloridu gallitého-(⁶⁸Ga) se nepodává přímo pacientům, ale slouží k izotopickému značení různých nosičových molekul in vitro.
+
+Individuální posouzení poměru přínos/riziko
+
+U každého pacienta musí být radiační expozice odůvodněna pravděpodobným přínosem. Podaná aktivita musí v každém případě být ta nejnižší, která ještě zajistí potřebné informace.
+Obecná upozornění
+
+Informace o zvláštních upozorněních a opatřeních pro použití léčivých přípravků značených galliem (⁶⁸Ga) najdete v souhrnu údajů o přípravku a příbalové informaci ke konkrétnímu přípravku, který má být radioaktivně označen.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Žádné studie interakcí roztoku chloridu gallitého-(⁶⁸Ga) s jinými léčivými přípravky nebyly provedeny, protože roztok je určen k radioaktivnímu značení léčivých přípravků.
+
+Informace o interakcích při použití léčivých přípravků značených galliem (⁶⁸Ga) najdete v souhrnu údajů o přípravku a v příbalové informaci konkrétního léčivého přípravku, který má být radioaktivně označen.
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+
+Pokud je plánováno podání radiofarmak ženě ve fertilním věku, je důležité zjistit, zda není těhotná. Každou ženu, u které se nedostavila menstruace, je třeba považovat za těhotnou, pokud se neprokáže opak. Pokud nelze vyloučit těhotenství pacientky (absence či značná nepravidelnost menstruace atd.), má být pacientce nabídnuta alternativní metoda vyšetření bez použití ionizujícího záření (pokud je k dispozici).
+Těhotenství
+
+Při vyšetřeních s radionuklidy provedených u těhotných žen je dávce radioaktivity vystaven také plod. Proto lze během těhotenství provádět pouze nezbytná vyšetření, jejichž pravděpodobný přínos vysoce převyšuje riziko, které z nich pro matku a plod vyplývá.
+
+
+
+
+
+
+
+3
+
+Kojení
+
+Před podáním radioaktivního léčivého přípravku kojící matce je třeba zvážit, zda není možné vyšetření odložit na období po ukončení kojení. Je-li podání považováno za nezbytné, je nutné přerušit kojení a mléko, které se v prsu vytvoří, je nutno odsát a zlikvidovat.
+
+Další informace o použití léčivého přípravku značeného galliem (⁶⁸Ga) během těhotenství a kojení jsou uvedené v souhrnu údajů o přípravku a příbalové informaci ke konkrétnímu přípravku, který má být radioaktivně označen.
+
+Fertilita
+Další informace o použití léčivého přípravku značeného galliem (⁶⁸Ga) a jeho vlivu na fertilitu jsou uvedené v souhrnu údajů o přípravku a příbalové informaci ke konkrétnímu přípravku, který má být radioaktivně označen.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Účinky na schopnost řídit a obsluhovat stroje po podání léčivých přípravků značených galliem (⁶⁸Ga) budou specifikovány v souhrnu údajů o přípravku a příbalové informaci léčivého přípravku, který má být radioaktivně označen.
+4.8  Nežádoucí účinky
+
+Možné nežádoucí účinky po podání léčivého přípravku značeného galliem (⁶⁸Ga) budou záviset na konkrétním léčivém přípravku. Tyto informace budou uvedeny v souhrnu údajů o přípravku či příbalové informaci léčivého přípravku, který má být radioaktivně označen.
+
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+
+Náhodné podání eluátu obsahujícího 0,1 mol/l kyseliny chlorovodíkové může způsobit místní podráždění žíly a v případě paravenózně podané injekce nekrózu tkáně. Katetr nebo postižené místo opláchněte fyziologickým roztokem.
+Neúmyslné podání eluátu s volným ⁶⁸Ga by nemělo mít žádné toxické účinky. Podané volné ⁶⁸Ga se téměř zcela rozpadá na stabilní ⁶⁸Zn během krátké doby (97 % se rozloží za 6 hodin). Během této doby je ⁶⁸Ga koncentrován zejména v krvi/plazmě (vázaný na transferin) a v moči. U pacienta zajistěte dostatečnou hydrataci k posílení vylučování ⁶⁸Ga; doporučuje se forsírovaná diuréza a časté vyprazdňování močového měchýře.
+Dávku radiace u člověka lze odhadnout pomocí informací uvedených v bodě 11.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Jiná diagnostická radiofarmaka, ATC kód: V09X.
+
+4
+
+Farmakodynamické  vlastnosti  léčivých  přípravků  značených  galliem  (⁶⁸Ga)  a  připravených radioaktivním značením pomocí eluátu generátoru před jejich podáním budou záviset na charakteru léčivého přípravku, který bude radioaktivně označen. Další informace najdete v souhrnu údajů o přípravku a příbalové informaci přípravku, který má být radioaktivně označen.
+
+Pediatrická populace
+
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s přípravkem GalliaPharm u všech podskupin pediatrické populace vzhledem k absenci významného léčebného účinku u dosavadní léčby (informace o pediatrickém použití viz bod 4.2). Toto zproštění se však nevztahuje na diagnostické nebo terapeutické použití přípravku, navázaného na molekule nosiče.
+
+5.2  Farmakokinetické vlastnosti
+
+Roztok chloridu gallitého-(⁶⁸Ga) není určen k přímému použití u pacientů, ale používá se in vitro k radioaktivnímu značení různých nosičových molekul. Farmakokinetické vlastnosti léčivých přípravků značených galliem (⁶⁸Ga) budou tedy záviset na charakteru léčivého přípravku, který má být radioaktivně označen.
+Ačkoli roztok chloridu gallitého-(⁶⁸Ga) není určen k přímému použití u pacientů, jeho farmakokinetické vlastnosti byly studovány u potkanů.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Toxikologické vlastnosti léčivých přípravků značených galliem (⁶⁸Ga) připravených radioaktivním značením pomocí roztoku chloridu gallitého-(⁶⁸Ga) budou záviset na charakteru léčivého přípravku, který má být radioaktivně označen.
+
+5 ml eluátu přípravku GalliaPharm obsahuje až 1850 MBq aktivity ⁶⁸Ga a 18,5 kBq ⁶⁸Ge (kontaminace 0,001 % v eluátu). To odpovídá 1,2 ng gallia a 0,07 ng germania.
+Toxikologické studie prokázaly, že při jednorázové intravenózní injekcí 20-38 mg Ga/kg u potkanů nebo 15-35 mg Ga/kg u králíků (ve formě gallium-laktátu) nebyl pozorován žádný úhyn zvířat. Dávka, která nezpůsobí žádnou toxicitu po opakovaném podávání, nebyla stanovena, LD50 však činí 67,5 mg Ga/kg u potkanů a 80 mg Ga/kg u myší po každodenním podávání dusičnanu gallitého po dobu 10 dní. Tento léčivý přípravek není určen k pravidelnému nebo kontinuálnímu podávání.
+Studie farmakodynamických vlastností na potkanech ukázaly, že po intravenózním podání potkanům je chlorid gallitý-(⁶⁸Ga) pomalu eliminován z krve s biologickým poločasem 188 hodin u samců a 254 hodin u samic potkana. To proto, že se volné Ga³⁺ chová podobným způsobem jako ionty Fe³⁺. Protože je však biologický poločas ⁶⁸Ga mnohem delší než jeho fyzikální poločas rozpadu (67,71 minut), před uplynutím 188 resp. 254 hodin se téměř všechen izotop již rozpadl na neaktivní izotop ⁶⁸Zn. Například po 6 hodinách se rozpadlo cca 97 % z původního ⁶⁸Ga.
+⁶⁸Ga je převážně vylučováno do moči, k jisté retenci dochází v játrech a ledvinách. Orgány s nejvyšší radioaktivitou ⁶⁸Ga (kromě krve, plazmy a moči) jsou játra (1,5 % z injikované dávky na gram u samic a 0,8 % u samců potkanů po 60 min) a dále plíce, slezina a kosti (0,8-1,1 % z injikované dávky na gram u samic a 0,5 % u samců potkanů po 60 min). U samic potkanů je radioaktivita ⁶⁸Ga v reprodukčních orgánech, tj. v děloze a vaječnících, srovnatelná s plícemi (1,1-1,3 % injikované dávky/g). Radioaktivita ⁶⁸Ga ve varlatech u samců potkanů je velmi nízká (≤ 2 % injikované dávky/g, bez ohledu na dobu od podání).
+
+Radioaktivita z rozpadu ⁶⁸Ge je u potkanů extrémně nízká: nejvyšší hodnoty jsou v moči a játrech (≤ 2
+× 10⁻⁴ % podané dávky na gram, 5 minut až 3 hodiny po injekci).
+
+Extrapolací hodnot ⁶⁸Ga od samic a samců potkanů byla stanovena odhadovaná efektivní dávka pro 57kg ženu 0,0483 mSv/MBq a pro 70kg muže 0,0338 mSv/MBq.
+
+5
+
+Žádné teratogenní účinky nebo výrazná toxicita u matek nebyly pozorovány u křečků, jimž bylo 8. den březosti intravenózně podáno 30 mg Ga nebo 40 mg Ge na kg.
+
+Mutagenní nebo karcinogenní potenciál tohoto přípravku nebyl zjišťován.
+
+Celkově byly účinky v neklinických studiích pozorovány pouze po expozicích dostatečně převyšujících maximální expozici u člověka, což svědčí o malém významu při klinickém použití.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+•  Matrice kolony: oxid titaničitý
+•  Eluční roztok: sterilní roztok ultračisté kyseliny chlorovodíkové 0,1 mol/l
+6.2  Inkompatibility
+
+Značení nosičových molekul pomocí chloridu gallitého-(⁶⁸Ga) je velmi citlivé na přítomnost stopových kovových nečistot.
+Veškeré skleněné předměty, injekční jehly atd., používané při přípravě radioaktivně značených léčivých přípravků, musí být řádně očištěny, aby na nich nezůstaly stopové zbytky kovu. Aby se minimalizovaly hladiny stopových kovových nečistot, lze používat jen injekční jehly s prokázanou odolností vůči zředěné kyselině (například nekovové).
+U lahvičky na eluát se nedoporučuje používat zátky z nepotahované chlorbutylové pryže, neboť mohou obsahovat značné množství zinku, který bude do kyselého eluátu extrahován.
+
+6.3  Doba použitelnosti
+
+Radionuklidový generátor: 12 měsíců od data kalibrace.
+Datum kalibrace a doba použitelnosti jsou uvedeny na štítku. Eluát chloridu gallitého-(⁶⁸Ga): Eluát použijte ihned po eluci.
+6.4  Zvláštní opatření pro uchovávání
+
+Radionuklidový generátor: Neuchovávejte při teplotě nad 25 °C.
+
+Uchovávání radiofarmak musí být v souladu s národními předpisy pro radioaktivní látky.
+
+6.5  Druh obalu a obsah balení a zvláštní vybavení pro použití
+
+Skleněná kolona je zhotovena z borosilikátového trubicového skla (typ I dle Ph. Eur.) a zástrček z PEEK (polyetheretherketonu), které se připojují ke vstupní a výstupní lince z PEEK pomocí ručně utahovaných konektorů pro HPLC. Obě linky jsou připojeny ke dvěma konektorům, které procházejí vnějším obalem generátoru GalliaPharm.
+
+Kolona je uzavřena v olověném štítu. Ten je fixován ve vnějším pouzdře z nerezové oceli se dvěma držadly.
+
+Příslušenství dodávané s generátorem:
+1. 1x PP vak obsahující 250 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l (PP
+- polypropylen)
+2. 1x odvětrávaný trn (ABS -akrylonitrilbutadienstyren/PE - polyethylen)
+3. 2x adaptér 1/16“ na kónus LUER M (PEEK)
+
+6
+
+4. 2x hadička 60 cm (PEEK)
+5. 1x hadička 40 cm (PEEK)
+6. 1x hadička 20 cm (PEEK)
+7. 3x ručně utahovaný konektor 1/16“ 10-32 (PEEK)
+8. 1x ručně utahovaný konektor 1/16“ M6 (PEEK)
+9. 1x uzavíratelná rozbočka (TPX – polymethylpenten/HDPE – polyethylen s vysokou hustotou)
+10. 1x zasouvací spojka LUER (PP) Velikosti balení:
+Radionuklidové generátory mají k datu kalibrace následující aktivity ⁶⁸Ge: 0,74 GBq, 1,11 GBq, 1,48 GBq, 1,85 GBq.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+Průřez radionuklidovým generátorem GalliaPharm
+Držadlo
+
+
+Pouzdro z nerezové
+oceli
+
+
+
+
+
+
+Vstupní port
+
+
+
+
+Výstupní port
+
+
+Čelní deska se
+vstupním a výstupním portem
+Olověné stínění
+
+
+
+Linky kapalin
+
+
+
+
+
+
+
+Kolona z TiO2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+Čelní pohled na radionuklidový generátor GalliaPharm
+Držadla
+
+
+
+
+
+
+
+
+
+
+Vstupní port
+
+
+
+
+Výstupní port
+Pouzdro z nerezové
+oceli
+
+
+
+
+Čelní deska se
+vstupním a výstupním portem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Velikost: 230 × 132 × 133 mm (V × Š × H)
+Hmotnost: asi 14 kg
+
+
+
+
+
+
+
+
+
+
+
+9
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecná upozornění
+
+Radiofarmaka mohou získávat, používat a aplikovat pouze autorizované osoby v určených klinických podmínkách. Jejich příjem, uchovávání, použití, přesuny a likvidace podléhají předpisům a podmínkám povolení kompetentního orgánu.
+
+Radiofarmaka je nutno připravovat způsobem, který splňuje požadavky na radiační bezpečnost a farmaceutickou kvalitu. Je třeba přijmout odpovídající aseptická opatření.
+Generátor se nesmí z žádného důvodu rozebírat– mohlo by dojít k poškození vnitřních komponent a úniku radioaktivních látek. Kromě toho by demontáž pouzdra exponovala olověný štít obsluze.
+
+Podání musí být provedeno tak, aby bylo riziko kontaminace přípravku a ozáření obsluhy minimální. Je nutné zajistit adekvátní stínění.
+Podání radiofarmak znamená riziko vnějšího ozáření nebo kontaminace z rozlité moči, zvratků apod. u osob v okolí. Je proto nutno podniknout opatření na ochranu proti ionizujícímu záření v souladu s národními předpisy.
+
+Před likvidací je nutno odhadnout zbytkovou aktivitu generátoru.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Eckert & Ziegler Radiopharma GmbH Robert-Rössle-Str. 10
+13125 Berlin
+Německo
+
+
+8.  REGISTRAČNÍ ČÍSLO
+
+88/117/17-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 6. 9. 2017
+Datum posledního prodloužení registrace: 8. 3. 2019
+
+10.  DATUM REVIZE TEXTU
+
+19. 12. 2019
+
+11.  DOZIMETRIE
+
+Dávky záření, které jednotlivé orgány obdrží po intravenózním podání léčivého přípravku značeného galliem (⁶⁸Ga), závisí na konkrétním léčivém přípravku, který být radioaktivně označen. Informace o radiační zátěži po podání konkrétního radioaktivně značeného přípravku naleznete v jeho souhrnu údajů o přípravku.
+
+
+
+10
+
+Dozimetrické tabulky 3 a 4 níže slouží k posouzení příspěvku nenavázaného gallia (⁶⁸Ga) k radiační zátěži po plánovaném podání radioaktivně (⁶⁸Ga) značeného léčivého přípravku nebo neúmyslné intravenózní aplikaci roztoku chloridu gallitého-(⁶⁸Ga).
+
+Jednotlivé dozimetrické odhady vycházejí ze studie distribuce látky u potkanů a výpočty byly provedeny podle klasifikace OLINDA (Organ Level INternal Dose Assessment Code). Hodnoty byly měřeny po 5, 30, 60, 120 a 180 minutách.
+
+Tabulka 3:  Absorbovaná dávka na jednotku podaného množství – neúmyslné podání u žen
+
+Absorbovaná dávka na podanou jednotku aktivity (mGy/MBq)
+
+Orgán              Dospělí
+(57 kg)
+15 let
+(50 kg)
+10 let
+(30 kg)
+5 let
+(17 kg)
+1 rok
+(10 kg)
+Novorozenec (5 kg)
+Nadledviny             0,0114   0,0112   0,0164   0,0238   0,0403    0,0782
+Mozek               0,0180   0,0159   0,0176   0,0206   0,0292    0,0667
+Prsa                 0,0059   0,0058   0,0110   0,0163   0,0269    0,0545
+Stěna žlučníku           0,0096   0,0092   0,0127   0,0201   0,0390    0,0750
+Stěna dolní části tlustého střeva  0,0032   0,0032   0,0050   0,0077   0,0133    0,0292
+Tenké střevo            0,0039   0,0039   0,0062   0,0099   0,0178    0,0376
+Stěna žaludku            0,0057   0,0056   0,0088   0,0133   0,0250    0,0502
+Stěna horní části tlustého střeva  0,0040   0,0039   0,0067   0,0104   0,0199    0,0425
+Srdeční stěna            0,1740   0,1940   0,3010   0,4830   0,8730    1,7200
+Ledviny               0,0385   0,0421   0,0600   0,0888   0,1600    0,4150
+Játra                 0,0972   0,0974   0,1480   0,2200   0,4270    0,9890
+Plíce                0,1860   0,2240   0,3190   0,4930   0,9840    2,7100
+Sval                 0,0073   0,0076   0,0131   0,0319   0,0622    0,0954
+Vaječníky              0,0188   0,0203   0,0566   0,0988   0,2250    0,4590
+Pankreas              0,0187   0,0218   0,0406   0,0547   0,1120    0,3400
+Kostní dřeň             0,0225   0,0256   0,0415   0,0777   0,1770    0,5710
+Osteogenní buňky         0,1160   0,1140   0,1840   0,3100   0,7350    2,3500
+Kůže                0,0029   0,0029   0,0044   0,0067   0,0122    0,0271
+Slezina               0,0055   0,0056   0,0086   0,0130   0,0238    0,0492
+Brzlík                0,0100   0,0102   0,0133   0,0190   0,0297    0,0570
+Štítná žláza             0,2210   0,2980   0,4600   1,0200   1,9300    2,6300
+Stěna močového měchýře     0,0023   0,0022   0,0038   0,0063   0,0110    0,0222
+Děloha               0,0792   0,0802   1,3400   2,0300   3,6900    1,4700
+Celé tělo              0,0177   0,0178   0,0289   0,0468   0,0920    0,2340
+
+Efektivní dávka (mSv/MBq)   0,0483   0,0574   0,1230   0,2090   0,4100    0,7170
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+Tabulka 4: Absorbovaná dávka na jednotku podaného množství – neúmyslné podání u mužů
+
+Absorbovaná dávka na podanou jednotku aktivity (mGy/MBq)
+
+Orgán              Dospělí
+(70 kg)
+15 let
+(50 kg)
+10 let
+(30 kg)
+5 let
+(17 kg)
+1 rok
+(10 kg)
+Novorozenec (5 kg)
+Nadledviny             0,0093   0,0112   0,0165   0,0235   0,0377     0,0749
+Mozek               0,0134   0,0137   0,0148   0,0170   0,0241     0,0563
+Prsa                 0,0062   0,0074   0,0142   0,0213   0,0350     0,0725
+Stěna žlučníku           0,0081   0,0096   0,0137   0,0213   0,0409     0,0803
+Stěna dolní části tlustého střeva  0,0015   0,0020   0,0031   0,0051   0,0091    0,0204
+Tenké střevo            0,0022   0,0029   0,0048   0,0080   0,0146     0,0309
+Stěna žaludku            0,0048   0,0066   0,0099   0,0153   0,0287     0,0560
+Stěna horní části tlustého střeva  0,0027   0,0033   0,0058   0,0094   0,0182    0,0385
+Srdeční stěna            0,3030   0,3930   0,6110   0,9830   1,7800     3,4900
+Ledviny               0,0198   0,0241   0,0345   0,0510   0,0911     0,2310
+Játra                 0,0766   0,1030   0,1570   0,2330   0,4500     1,0400
+Plíce                0,1340   0,2000   0,2850   0,4390   0,8720     2,3800
+Sval                 0,0051   0,0074   0,0129   0,0326   0,0636     0,0961
+Pankreas              0,0187   0,0257   0,0480   0,0646   0,1310     0,4030
+Kostní dřeň             0,0138   0,0154   0,0243   0,0441   0,0980     0,3110
+Osteogenní buňky         0,0431   0,0558   0,0901   0,1510   0,3560     1,1300
+Kůže                0,0020   0,0024   0,0036   0,0057   0,0103     0,0232
+Slezina               0,0041   0,0056   0,0084   0,0130   0,0227     0,0469
+Varlata               0,0011   0,0018   0,0075   0,0094   0,0138     0,0239
+Brzlík                0,0139   0,0158   0,0194   0,0276   0,0417     0,0794
+Štítná žláza             0,1980   0,3250   0,5020   1,1200   2,1100     2,8800
+Stěna močového měchýře     0,0011   0,0013   0,0022   0,0039   0,0070    0,0152
+Celé tělo              0,0115   0,0147   0,0237   0,0383   0,0748     0,1900
+
+Efektivní dávka (mSv/MBq)   0,0338   0,0506   0,0756   0,1340   0,2600    0,5550
+
+Efektivní dávka při náhodném intravenózním podání látky s aktivitou 250 MBq činí 12,1 mSv pro dospělé 57kg ženy a 8,45 mSv pro dospělé 70kg muže.
+Údaje o dávce radiace u pacientů po podání gallia-(⁶⁸Ga)-citrátu uvedené níže v tabulce 5 pocházejí z ICRP 53 a lze podle nich odhadnout distribuci látky po neúmyslné aplikaci nenavázaného gallia ⁶⁸Ga z eluátu generátoru, i když byly údaje získáné na základě jiné soli látky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+Tabulka 5: Absorbovaná dávka na jednotku aktivity u neúmyslně podaného gallia-(⁶⁸Ga)-citrátu
+
+Absorbovaná dávka na podanou jednotku aktivity (mGy/MBq)
+Orgán                Dospělí     15 let     10 let      5 let      1 rok
+
+Nadledviny              0,034     0,044     0,064     0,088     0,140
+Povrch kosti              0,037     0,048     0,080     0,140     0,310
+Prs                   0,014     0,014     0,023     0,037     0,074
+Stěna dolní části tlustého střeva    0,018     0,022     0,036     0,059     0,110
+Tenké střevo             0,064     0,080     0,140     0,230     0,450
+Stěna žaludku             0,014     0,017     0,027     0,044     0,084
+Stěna horní části tlustého střeva   0,053     0,064     0,110     0,180     0,360
+Ledviny                0,026     0,032     0,046     0,068     0,120
+Játra                  0,027     0,035     0,053     0,079     0,150
+Plíce                  0,013     0,016     0,025     0,041     0,080
+Pankreas               0,014     0,018     0,029     0,047     0,089
+Kostní dřeň              0,046     0,064     0,110     0,210     0,450
+Slezina                0,036     0,051     0,080     0,130     0,240
+Varlata                0,013     0,015     0,024     0,039     0,077
+Štítná žláza              0,012     0,015     0,025     0,042     0,081
+Stěna močového měchýře       0,014     0,016     0,026     0,044     0,081
+Jiné tkáně               0,013     0,015     0,025     0,041     0,080
+
+Efektivní dávka (mSv/MBq)    0,027     0,034     0,056     0,095     0,190
+
+
+Expozice externímu ozáření
+
+Průměrné ozáření povrchu nebo při kontaktu generované radionuklidovým generátorem (⁶⁸Ge/⁶⁸Ga) činí méně než 0,14 µSv/h na MBq ⁶⁸Ge. Například generátor o aktivitě 1,85 GBq vyvolá maximální povrchovou dávku 260 µSv/h. Obecně se doporučuje generátor uchovávat za pomocným stíněním, aby byla expozice provozního personálu minimální.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Všeobecnou manipulaci, připevnění hadiček, výměnu nádobky se sterilním roztokem ultračisté kyseliny chlorovodíkové 0,1 mol/l, eluci generátoru a další činnosti, které potenciálně vystaví generátor GalliaPharm prostředí, je nutné provádět za použití aseptických technik ve vhodně čistém prostředí podle platné národní legislativy. Navíc je nutno všechny tyto manipulační kroky provádět v prostorách odpovídajících národním předpisům o bezpečném použití radioaktivních přípravků.
+
+Vybalení generátoru
+1.   Zkontrolujte přepravní obal, zda nedošlo k jeho poškození při přepravě. Pokud ano, proveďte stěry poškozené části a změřte, zda nedošlo k úniku radioaktivního materiálu. Pokud aktivita překročí 40 impulzů za sekundu na 100 cm², informujte místního bezpečnostního technika.
+
+2.  Přeřízněte bezpečnostní pečeť na horní části přepravního obalu. Z obalu vyjměte vnitřní pěnové
+pouzdro a opatrně oddělte pěnové prvky.
+
+3.   Opatrně vyjměte generátor. Zkontrolujte, zda nedošlo k úniku radioaktivního materiálu. UPOZORNĚNÍ: Riziko pádu: Generátor GalliaPharm váží přibližně 14 kg. Manipulujte s ním opatrně, aby nedošlo ke zranění. Při pádu generátoru nebo při poškození přepravního obalu přepravou zkontrolujte těsnost, proveďte zkušební stěry poškozené oblasti a změřte, zda nedošlo k úniku radioaktivity. Zkontrolujte také, zda nedošlo k poškození uvnitř – nakloňte generátor pomalu o 90° a poslouchejte, zda neuslyšíte pohyb ulomených či uvolněných součástí.
+
+4.   Proveďte zkušební stěry vložek v přepravním obalu a vnějšího povrchu generátoru. Pokud aktivita na utěrkách překročí 40 impulzů za sekundu na 100 cm², informujte místního bezpečnostního technika.
+
+5.   Zkontrolujte, zda není poškozený vstupní a výstupní port (jsou uzavřeny zátkou). Neodstraňujte zátky z portů, dokud nejsou eluční linky připraveny k instalaci.
+Optimální umístění:
+
+1.   Při instalaci radionuklidového generátoru GalliaPharm do konečné polohy, tj. k propojení se syntetizační aparaturou nebo pro ruční eluci, se doporučuje, aby byly linky co nejkratší – jejich délka může mít vliv na výtěžek ve sběrové či reakční injekční lahvičce. Z tohoto důvodu se generátor GalliaPharm dodává se třemi délkami hadiček pro výběr vhodné délky.
+
+2.  Při umísťování generátoru GalliaPharm používejte pomocné stínění.
+
+Příprava:
+1. Příslušenství dodávané s generátorem:
+1. 1x nádobka s 250 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l (PP - polypropylen)
+2. 1x odvětrávaný trn (ABS -akrylonitrilbutadienstyren/PE - polyethylen)
+3.  2x adaptér 1/16“ na kónus LUER M (PEEK)
+4.  2x hadička 60 cm (PEEK)
+5.  1x hadička 40 cm (PEEK)
+6.  1x hadička 20 cm (PEEK)
+7.  3x ručně utahované konektory 1/16“ 10-32 (PEEK) pro výstupní porty a adaptéry
+8.  1x ručně utahovaný konektor 1/16“ M6 (PEEK) pro vstupní port
+9.  1x uzavíratelná rozbočka (TPX – polymethylpenten/HDPE – polyethylen s vysokou hustotou)
+10.  1x zasouvací spojka LUER (PP)
+
+Při sestavování hadiček a připojování linky s elučním roztokem ke generátoru za použití aseptických technik ve vhodně čistém prostředí používejte rukavice.
+
+
+
+14
+
+2.  Vstupní port a linka: Pozor: vstupní port je vybaven speciálním závitem, který brání nesprávnému zapojení. Lze do něj proto zapojit pouze ručně utahované konektory 1/16“ M6. Při sestavování vstupní linky připojte odvětrávaný trn k jednomu konci uzavíratelné rozbočky. Na druhém konci rozbočky připojte adaptér kónusu luer (male, 1/16“). Pomocí ručně utahovaného konektoru (1/16“ 10-32) připojte jednu 60 cm dlouhou PEEK hadičku. Zamáčknete do ní ručně utahovaný konektor 1/16“ M6, ale ještě hadičku nezapojujte.
+
+3.  Výstupní port a linka: Při sestavování výstupní linky vyberte vhodnou délku hadičky (20 cm, 40 cm nebo 60 cm) pro místní nastavení. Použijte prosím nejkratší možné linky. Připojte konec vybrané PEEK hadičky k adaptéru kónusu luer (male, 1/16“) pomocí ručně utahovaného konektoru (1/16“ 10-32). Třetí ručně utahovaný konektor 1/16” 10-32 zamáčkněte do připravené výstupní linky, ale ještě ji nezapojujte.
+
+Obrázek sestaveného příslušenství k elučnímu systému před připojením ke generátoru GalliaPharm
+
+
+
+
+
+
+4.  PP nádobku s 250 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l zavěste v blízkosti vstupního portu, ale nad generátorem.
+
+5.  Otočte ventily na uzavíratelné rozbočce tak, aby přes trn nemohla protékat žádná kapalina. Zatlačte trn do konektoru PP nádobky. Následně pomalu odvzdušněte všechny ventily rozbočky i připojenou vstupní linku a naplňte je sterilním roztokem ultračisté kyseliny chlorovodíkové 0,1 mol/l. Jakmile je systém naplněn, uzavřete ventily a kapalinu tak zastavte.
+
+6.  Vyjměte záslepku ze vstupního portu generátoru GalliaPharm a připojte připravenou a naplněnou vstupní linku k ručně utahovanému konektoru 1/16“ M6. Dejte pozor, aby nedošlo k zalomení nebo přiskřípnutí linky.
+7.  Vyjměte záslepku z výstupního portu generátoru GalliaPharm a připojte připravenou výstupní linku k ručně utahovanému konektoru 1/16“ 10-32. Dejte pozor, aby nedošlo k zalomení nebo přiskřípnutí linky.
+
+8. Tím je generátor připraven k první eluci.
+
+9.  Generátor je zkonstruován tak, aby z něj – pokud ke vstupnímu a výstupnímu portu nejsou připojeny hadičky – nevytekla žádná kapalina, přesto se však nedoporučuje nechávat porty otevřené. Pokud je ke generátoru připojena nádobka se sterilním roztokem ultračisté kyseliny chlorovodíkové 0,1 mol/l a dráha kapaliny je otevřena, k eluci dojde samospádem, takže je nutné zajistit správně připojené vstupní a výstupní linky a správné pozice ventilů na rozbočce.
+
+
+
+
+
+
+
+
+
+Obrázek sestaveného generátoru GalliaPharm připraveného k eluci:
+
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+První eluce:
+
+1.   Při instalaci radionuklidového generátoru GalliaPharm do konečné polohy, tj. k propojení se syntetizační aparaturou nebo pro ruční eluci, se doporučuje, aby byly linky co nejkratší – jejich délka může mít vliv na výtěžek ve sběrové či reakční injekční lahvičce.
+
+2.   Při sestavování systému je nutno pracovat za aseptických podmínek, zvláště při manipulaci s porty. Dodržení tohoto bodu je klíčové k zachování sterility.
+3.  Připravte další potřebné materiály:
+− Osobní ochranné prostředky: při eluci je nutno používat ochranné brýle a rukavice i náležitý laboratorní oděv.
+− Sterilní stříkačka o objemu 10 ml.
+− Stíněná injekční lahvička nebo jiná nádobka o objemu minimálně 10 ml. Nepoužívejte zátky z nepotahované chlorbutylové pryže – mohou obsahovat značné množství zinku, který bude do kyselého eluátu extrahován.
+4.   Připojte stříkačku k hornímu bočnímu portu rozbočky a naplňte jej 10 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l z PP nádobky. Dbejte, aby ve stříkačce nebyl žádný vzduch.
+
+5.   K výstupní lince připojte injekční lahvičku nebo jinou nádobku na eluát pomocí odpovídajícího konektoru. Nádobka musí mít dostatečnou kapacitu na celý objem eluátu.
+
+
+
+
+
+
+
+16
+
+6.   Na uzavíratelné rozbočce otočte ventilem u stříkačky směrem ke vstupnímu portu generátoru. Aplikujte 10 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l rychlostí maximálně 2 ml/min. Rychlejší eluce může snížit životnost generátoru. Generátor lze zcela naplnit 5 ml eluátu, při první eluci se však doporučuje použít 10 ml. Pokud narazíte na silný odpor, neaplikujte roztok silou. Při eluci pomocí peristaltické pumpy, nastavte ji na průtok maximálně 2 ml/min. Ověřte také, zda kapalina vytéká bez neobvyklého odporu. Pokud zjistíte silný odpor, eluci přerušte.
+
+UPOZORNĚNÍ:
+− Eluát vždy aplikujte přes vstupní port – nikdy neprovádějte eluci v opačném směru.
+− Pokud se do kolony generátoru dostane vzduch, účinnost eluce (výtěžek ⁶⁸Ga) se může snížit.
+7.   Eluát shromážděte do odstíněné nádobky a změřte jeho aktivitu pomocí kalibrovaného kalibrátoru ke stanovení výtěžku. Pokud získáte méně než 5 ml eluátu, nedosáhli jste maximálního výtěžku generátoru. Proveďte korekci naměřené hodnoty podle času zahájení eluce. K zajištění optimálního výtěžku definitivně umístěného generátoru se doporučuje stanovit eluční píky sběrem malých frakcí po 0,5 ml.
+8.  Doporučuje se zlikvidovat první eluát – může být kontaminován izotopem ⁶⁸Ge.
+
+9.  Po prvních elucích se doporučuje kontaminaci ⁶⁸Ge vyloučit porovnáním aktivity obou izotopů,
+⁶⁸Ga a ⁶⁸Ge. Další informace najdete v monografii Evropského lékopisu č. 2464.
+
+Další průběžné eluce:
+1.   Opakujte postup první eluce, použijte však pouze 5 ml. Konstrukce generátoru GalliaPharm zajišťuje vyplavení veškeré dostupné aktivity izotopu ⁶⁸Ga v 5 ml roztoku.
+
+2.   Každý pracovní den radionuklidový generátor GalliaPharm eluujte 5 ml sterilního roztoku
+ultračisté kyseliny chlorovodíkové 0,1 mol/l.
+
+3.   Eluát je čirý, sterilní a bezbarvý roztok chloridu gallitého-(⁶⁸Ga) s pH mezi 0,5 a 2,0 a radiochemickou čistotou vyšší než 95 %. Před použitím zkontrolujte čistotu eluátu a pokud není čirý, zlikvidujte jej.
+
+4.   Pokud generátor nebyl používán po dobu 3 dnů či více, v koloně se nahromadí volné ionty izotopu ⁶⁸Ge. Doporučuje se proto 7–24 hodin před následující provozní elucí kolonu jednorázově propláchnout. K propláchnutí použijte 10 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l, abyste plně odstranili nahromaděné nečistoty v koloně.
+5.  Při dalších elucích se doporučuje vyloučit kontaminaci ⁶⁸Ge porovnáním aktivity obou izotopů,
+⁶⁸Ga a ⁶⁸Ge. Další informace najdete v monografii Evropského lékopisu č. 2464.
+
+UPOZORNĚNÍ:
+Pokud kdykoli zjistíte únik kapaliny, okamžitě eluci zastavte a snažte se únik kapaliny zastavit.
+
+Ke generátoru ⁶⁸Ge/⁶⁸Ga je dodáváno 250 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l. Toto množství obvykle dostačuje nejméně na 40 elucí. K eluci generátoru používejte pouze sterilní roztok ultračisté kyseliny chlorovodíkové 0,1 mol/l od držitele rozhodnutí o registraci. Od tohoto držitele lze zakoupit i další nádobky jako spotřební materiál.
+
+Výměna nádobky se sterilním roztokem ultračisté kyseliny chlorovodíkové 0,1 mol/l
+
+UPOZORNĚNÍ:
+Aseptické techniky jsou klíčové k zachování sterility a musí být během výměny používány.
+
+1.   Jakmile sterilní roztok ultračisté kyseliny chlorovodíkové 0,1 mol/l začne docházet, lze jej
+
+
+17
+
+nahradit novou nádobkou se sterilním roztokem ultračisté kyseliny chlorovodíkové 0,1 mol/l . UPOZORNĚNÍ: Dbejte, aby nedošlo ke vniknutí vzduchu do generátoru. Před odpojením prázdné nádobky uzavřete všechny ventily na uzavíratelné rozbočce, aby se do ní a trnu nedostal žádný vzduch. Odpojte nádobku z trnu. Ke každé nádobce se sterilním roztokem ultračisté kyseliny chlorovodíkové 0,1 mol/l se doporučuje použít nový sterilní trn.
+2.   V blízkosti vstupního portu, ale nad generátorem zavěste novou nádobku s 250 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l.
+
+3.   Zatlačte trn do zátky nádobky, pečlivě zjistěte všechny vzduchové bubliny a pomocí ventilů uzavíratelnou rozbočku pomalu odvzdušněte. Přívodní linku přitom není nutné odpojovat – ani z generátoru, ani z rozbočky. Dbejte, aby nedošlo k zavzdušnění generátoru.
+4.   Jakmile je linka i rozbočka naplněna, uzavřete ventily a kapalinu tak zastavte. Tím je generátor připraven k použití.
+
+Výtěžek eluce ze systému GalliaPharm:
+Radioaktivní aktivita uvedená na etiketě generátoru GalliaPharm je vyjádřena v hodnotách izotopu ⁶⁸Ge, jakých bylo dosaženo v den kalibrace (12:00 h SEČ). Dostupná aktivita izotopu ⁶⁸Ga závisí na aktivitě ⁶⁸Ge v době eluce a času, který uplynul od předchozí eluce.
+
+Generátor GalliaPharm v plně rovnovážném stavu generuje více než 60 % ⁶⁸Ga při eluci 5 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l.
+Výtěžek bude postupně klesat, jak se postupně rozpadá mateřský nuklid ⁶⁸Ge. Například po 9 měsících (39 týdnech) rozpadu bude aktivita ⁶⁸Ge nižší o 50 % (viz tabulka 6).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+Tabulka 6: Tabulka rozpadu izotopu ⁶⁸Ge
+
+
+Uplynulý čas v týdnech
+Rozpadový koeficient  Uplynulý čas
+v týdnech
+Rozpadový koeficient
+1             0,98            27             0,62
+2             0,96            28             0,61
+3             0,95            29             0,59
+4             0,93            30             0,58
+5             0,91            31             0,57
+6             0,90            32             0,56
+7             0,88            33             0,55
+8             0,87            34             0,54
+9             0,85            35             0,53
+10             0,84            36             0,52
+11             0,82            37             0,52
+12             0,81            38             0,51
+13             0,79            39             0,50
+14             0,78            40             0,49
+15             0,76            41             0,48
+16             0,75            42             0,47
+17             0,74            43             0,46
+18             0,72            44             0,45
+19             0,71            45             0,45
+20             0,70            46             0,44
+21             0,69            47             0,43
+22             0,67            48             0,42
+23             0,66            49             0,42
+24             0,65            50             0,41
+25             0,64            51             0,40
+26             0,63            52             0,39
+
+Po eluci generátoru GalliaPharm se bude v koloně postupně hromadit izotop ⁶⁸Ga vznikající kontinuálním rozpadem mateřského nuklidu ⁶⁸Ge. K zajištění téměř maximálního výtěžku je třeba vyčkat nejméně sedm hodin po poslední eluci, v praxi lze však eluci provést už po čtyřech hodinách.
+
+Tabulka 7 ukazuje aktivitu izotopu ⁶⁸Ga (formou akumulačních koeficientů), kterou lze získat v různých časech (0 až 410 minut) od předchozí eluce:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+
+Tabulka 7: Akumulační koeficienty izotopu ⁶⁸Ga
+
+
+Uplynulý čas v minutách
+Akumulační
+koeficient
+Uplynulý čas v minutách
+Akumulační
+koeficient
+0             0,00            210            0,88
+10             0,10            220            0,89
+20             0,19            230            0,91
+30             0,26            240            0,91
+40             0,34            250            0,92
+50             0,40            260            0,93
+60             0,46            270            0,94
+70             0,51            280            0,94
+80             0,56            290            0,95
+90             0,60            300            0,95
+100            0,64            310            0,96
+110            0,68            320            0,96
+120            0,71            330            0,97
+130            0,74            340            0,97
+140            0,76            350            0,97
+150            0,78            360            0,97
+160            0,81            370            0,98
+170            0,82            380            0,98
+180            0,84            390            0,98
+190            0,86            400            0,98
+200            0,87            410            0,98
+
+Příklady
+Generátor s kapacitou 1,85 GBq je 12 týdnů starý. Aktivitu izotopu ⁶⁸Ge v jeho koloně lze vypočítat
+(podle tabulky 6) takto:
+
+1,85 GBq × 0,81 = 1,499 GBq
+
+V plně rovnovážném stavu činí aktivita ⁶⁸Ga v koloně rovněž 1,499 GBq.
+
+Po eluci generátoru získaná aktivita ⁶⁸Ga činí 1,049 GBq, což odpovídá typickému výtěžku 70 %.
+
+Stejný generátor bude eluován znovu o čtyři hodiny později. Sedm hodin nutných k dosažení rovnováhy mezi izotopy ⁶⁸Ge a ⁶⁸Ga ještě neuplynulo, akumulovanou aktivitu izotopu ⁶⁸Ga však lze vypočítat podle tabulky 7 takto:
+1,499 GBq × 0,91 = 1,364 GBq
+
+Při typické výtěžnosti 70 % ⁶⁸Ga bude získaná aktivita izotopu:
+
+1,364 GBq × 0,70 = 955 MBq
+
+Poznámka:
+Aktivitu ⁶⁸Ga v eluátu lze měřit ke kontrole kvality (k ověření množství a identity izotopu). Aktivitu je nejlépe měřit bezprostředně po eluci, je to však možné ještě 5 poločasů rozpadu po eluci.
+Vzhledem ke krátkému poločasu rozpadu ⁶⁸Ga (67,71 minuty) je nutno k určení skutečné výtěžnosti v čase eluce provést korekci na rozpad izotopu za dobu od eluce do měření aktivity podle tabulky 8.
+
+
+20
+
+Příklad
+K eluci je použit nový generátor s aktivitou 1,85 GBq. Aktivita izotopu ⁶⁸Ga měřená 10 minut po eluci činila 1,169 GBq.
+
+Výtěžek v době eluce lze zjistit vydělením naměřené aktivity faktorem podle uplynulého času uvedeného v tabulce 8:
+1,169 GBq / 0,903 = 1,295 GBq
+
+Tato hodnota odpovídá výtěžku 70 % ⁶⁸Ga v době eluce:
+1,295 GBq / 1,85 GBq × 100 % = 70 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21
+
+Tabulka 8: Tabulka rozpadu izotopu ⁶⁸Ga
+
+
+Uplynulý čas v minutách
+Poločas rozpadu    Uplynulý čas v minutách
+Poločas rozpadu
+1             0,990           35             0,700
+2             0,980           36             0,693
+3             0,970           37             0,686
+4             0,960           38             0,679
+5             0,950           39             0,672
+6             0,941           40             0,665
+7             0,931           41             0,658
+8             0,922           42             0,652
+9             0,912           43             0,645
+10             0,903           44             0,639
+11             0,894           45             0,632
+12             0,885           46             0,626
+13             0,876           47             0,619
+14             0,867           48             0,613
+15             0,868           49             0,607
+16             0,850           50             0,601
+17             0,841           51             0,595
+18             0,832           52             0,589
+19             0,824           53             0,583
+20             0,816           54             0,577
+21             0,807           55             0,571
+22             0,799           56             0,565
+23             0,791           57             0,559
+24             0,783           58             0,554
+25             0,775           59             0,548
+26             0,767           60             0,543
+27             0,759           61             0,537
+28             0,752           62             0,532
+29             0,744           63             0,526
+30             0,737           64             0,521
+31             0,729           65             0,516
+32             0,722           66             0,510
+33             0,714           67             0,505
+34             0,707           68             0,500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+Kontrola kvality
+Před použitím izotopu ke značení je nutno zkontrolovat čistotu, pH a radioaktivitu roztoku.
+
+Kontaminace ⁶⁸Ge
+Při každé eluci je z kolony vypláchnuto malé množství izotopu ⁶⁸Ge. Kontaminace izotopem ⁶⁸Ge je vyjádřena jako procento z celkové aktivity ⁶⁸Ga získané elucí z kolony po korekci na rozpad izotopu. Kontaminace izotopem ⁶⁸Ge činí maximálně 0,001 % eluované aktivity ⁶⁸Ga. Kontaminace u tohoto generátoru při dodání činí pouhých 0,0001 % a při pozdějších elucích se může mírně zvýšit. K zajištění co nejnižší kontaminace je třeba generátor vymývat alespoň jednou za pracovní den. Při dodržování těchto pokynů by měla kontaminace po 12 měsíců zůstat pod 0,001 %. Chcete-li ověřit kontaminaci izotopem ⁶⁸Ge, je nutno porovnat radioaktivitu obou izotopů, ⁶⁸Ga a ⁶⁸Ge, v eluátu. Další informace najdete v monografii Evropského lékopisu č. 2464.
+
+Upozornění: Pokud generátor není vypláchnut po více než dva dny, kontaminace izotopem ⁶⁸Ge se může zvýšit nad 0,001 %. Po tří a vícedenní přestávce vypláchněte generátor 7-24 hodin před použitím 10 ml sterilního roztoku ultračisté kyseliny chlorovodíkové 0,1 mol/l.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23

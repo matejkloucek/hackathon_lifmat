@@ -1,0 +1,940 @@
+Sp. zn. sukls305027/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Levofloxacin Kabi 5 mg/ml infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+100 ml lahvička/vak obsahující 50 ml roztoku:
+Jeden ml infuzního roztoku obsahuje levofloxacinum 5 mg (ve formě levofloxacinum hemihydricum).
+50 ml infuzního roztoku obsahuje léčivou látku levofloxacinum 250 mg.
+
+100 ml lahvička/vak obsahující 100 ml roztoku:
+Jeden ml infuzního roztoku obsahuje levofloxacinum 5 mg (ve formě levofloxacinum hemihydricum). 100 ml infuzního roztoku obsahuje léčivou látku levofloxacinum 500 mg.
+Pomocné látky se známým účinkem: Tento léčivý přípravek obsahuje 3,54 mg sodíku v 1 ml infuzního
+roztoku.
+
+Úplný seznam pomocných látek viz bod 6.1
+
+3. LÉKOVÁ FORMA
+
+Infuzní roztok.
+Žlutý až zelenožlutý roztok.
+
+
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+
+Levofloxacin Kabi je indikován u dospělých k léčbě následujících infekcí (viz body 4.4 a 5.1):
+−  Akutní pyelonefritida a komplikované infekce močových cest (viz bod 4.4)
+−  Chronická bakteriální prostatitida
+−  Inhalace Anthraxu: profylaxe po expozici a kurativní léčba (viz bod 4.4).
+U níže uvedených infekcí má být přípravek Levofloxacin Kabi použit pouze v případě, kdy použití jiných antibakteriálních látek, které jsou obecně doporučovány pro léčbu těchto infekcí, není vhodné.
+− Komunitní pneumonie
+−  Komplikované infekce kůže a měkkých tkání
+
+Je třeba dbát oficiálních doporučení pro správné používání antibakteriálních látek.
+
+4.2 Dávkování a způsob podání
+Levofloxacin Kabi se podává pomalou intravenózní infuzí jedenkrát nebo dvakrát denně. Dávkování závisí na typu a závažnosti infekce a na citlivosti předpokládaného kauzálního patogenu. Po počátečním podání intravenózní formy přípravku Levofloxacin Kabi je možné léčbu převést na
+
+
+
+1/16
+
+podávání odpovídající perorální formy. Vhodnost této léčby pro pacienta je třeba individuálně posoudit. Vzhledem k bioekvivalenci parenterální a perorální formy lze použít stejné dávkování.
+
+Dávkování
+Pro Levofloxacin Kabi je doporučeno následující dávkování:
+
+Pacienti s normální funkcí ledvin (clearance kreatininu >50 ml/min)
+
+Indikace
+
+Komunitní pneumonie
+
+Akutní pyelonefritida Komplikované infekce močových cest Chronická bakteriální prostatitida
+Komplikované infekce kůže a měkkých tkání
+Inhalace anthraxu
+Denní dávkovací režim
+(podle závažnosti)
+500 mg jednou nebo dvakrát denně
+500 mg jednou denně 500 mg jednou denně
+500 mg jednou denně
+
+500 mg jednou nebo dvakrát denně
+500 mg jednou denně
+Celková doba léčby¹
+(podle závažnosti)
+7 - 14 dní
+
+7 - 10 dní
+7 - 14 dní
+
+28 dní
+
+7 - 14 dní
+
+8 týdnů
+1
+Trvání léčby zahrnuje intravenózní i perorální léčbu. Doba převedení z intravenózní na perorální formu
+závisí na klinickém stavu pacienta, obvykle je to 2. až 4. den.
+
+Zvláštní populace
+Pacienti s poruchou funkce ledvin (clearance kreatininu ≤ 50 ml/min).
+Dávkovací režim
+
+
+Clearance kreatininu
+50 - 20 ml/min
+19-10 ml/min
+< 10 ml/min
+(včetně hemodialýzy a
+CAPD)¹
+250 mg/24 hod První dávka: 250 mg Dále: 125 mg/24 hod Dále: 125 mg/48 hod Dále: 125 mg/48 hod
+500 mg/24 hod První dávka: 500 mg Dále: 250 mg/24 hod Dále: 125 mg/24 hod Dále: 125 mg/24 hod
+500 mg/12 hod První dávka: 500 mg Dále: 250 mg/12 hod Dále: 125 mg/12 hod Dále: 125 mg/24 hod
+1
+Po hemodialýze nebo kontinuální ambulantní peritoneální dialýze (CAPD) nejsou zapotřebí žádné
+dodatečné dávky.
+
+Pacienti s poruchou funkce jater
+Úprava dávek není nutná, protože levofloxacin není metabolizován játry a je vylučován převážně
+ledvinami.
+
+Starší pacienti
+U starších pacientů není úprava dávkování nutná, je však třeba vzít v úvahu renální funkce (viz bod 4.4
+„Tendinitida a ruptura šlachy“ a „Prodloužení QT intervalu“).
+
+Pediatrická populace
+U dětí a rostoucích dospívajících je Levofloxacin Kabi kontraindikován (viz bod 4.3).
+Způsob podání
+Levofloxacin Kabi je určen pouze pro pomalou intravenózní infuzi, která se podává jednou nebo dvakrát denně. Doba trvání infuze pro 250 mg přípravku Levofloxacin Kabi musí být alespoň 30 minut, pro 500 mg přípravku Levofloxacin Kabi alespoň 60 minut (viz bod 4.4).
+
+Pro inkompatibility (viz bod 6.2) a pro kompatibilitu s jinými infuzními roztoky (viz bod 6.6).
+4.3 Kontraindikace
+
+2/16
+
+Levofloxacin Kabi se nesmí používat:
+−  u pacientů přecitlivělých na levofloxacin, jiné chinolony nebo na kteroukoli pomocnou látku tohoto přípravku uvedenou v bodě 6.1,
+−  u pacientů s epilepsií,
+−  u pacientů s anamnézou poškození šlach v souvislosti s podáváním fluorchinolonů,
+−  u dětí nebo rostoucích dospívajících,
+− během těhotenství,
+− během kojení.
+
+4.4 Zvláštní upozornění a opatření pro použití
+Levofloxacin se nemá používat u pacientů, u nichž se v minulosti při použití přípravků obsahujících chinolon nebo fluorochinolon vyskytly závažné nežádoucí účinky (viz bod 4.8). Léčba levofloxacinem má být u těchto pacientů zahájena pouze tehdy, pokud neexistují žádné jiné možnosti léčby a po pečlivém vyhodnocení poměru přínosu a rizika (viz také bod 4.3).
+
+Aneurysma a disekce aorty a regurgitace/nedomykavost srdečních chlopní
+
+Epidemiologické studie uvádějí zvýšené riziko aneurysmatu a disekce aorty, zejména u starších pacientů, a aortální a mitrální regurgitace po podání fluorochinolonů. U pacientů léčených fluorochinolony byly hlášeny případy aneurysmatu a disekce aorty, někdy komplikované rupturou (včetně fatálních případů), a regurgitace/nedomykavosti některé ze srdečních chlopní (viz bod 4.8).
+
+Fluorochinolony se proto mají používat až po pečlivém vyhodnocení přínosů a rizik a po zvážení dalších možností léčby u pacientů s výskytem aneurysmatu aorty v rodinné anamnéze nebo s kongenitálním onemocněním srdečních chlopní nebo u pacientů, u nichž byly diagnostikovány preexistující aneurysma a/nebo disekce aorty nebo onemocnění srdečních chlopní, nebo u pacientů s jinými rizikovými faktory či predispozicemi
+- jak k aneurysmatu a disekci aorty, tak k regurgitaci/nedomykavosti srdečních chlopní (např. onemocnění pojivové tkáně, jako je Marfanův syndrom nebo Ehlersův-Danlosův syndrom, Turnerův syndrom, Behçetův syndrom, hypertenze, revmatoidní artritida) nebo dále
+- k aneurysmatu a disekci aorty (např. cévních onemocnění, jako je Takayasuova arteriitida nebo
+obrovskobuněčná arteriitida, nebo zjištěná ateroskleróza či Sjögrenův syndrom) nebo dále
+- k regurgitaci/nedomykavosti srdečních chlopní (např. infekční endokarditida).
+
+Riziko aneurysmatu a disekce aorty a její ruptury může být zvýšené také u pacientů, kteří jsou současně léčeni systémovými kortikosteroidy.
+V případě náhlé bolesti v oblasti břicha, hrudníku nebo zad se pacientům doporučuje, aby neprodleně vyhledali lékařskou pomoc.
+
+Pacienty je třeba informovat, že v případě akutní dušnosti, nově vzniklých srdečních palpitací nebo zvětšení objemu břicha nebo rozvoje otoků dolních končetin mají ihned vyhledat lékařskou pomoc.
+Riziko rezistence
+S. aureus rezistentní na methicilin (MRSA) velmi pravděpodobně vykazuje i rezistenci na fluorchinolony včetně levofloxacinu. Proto se nedoporučuje používat levofloxacin u infekcí MRSA nebo při podezření na MRSA, nejsou-li k dispozici laboratorní výsledky prokazující citlivost patogenního organismu na levofloxacin (a běžně doporučovaná antibiotika jsou pro léčbu MRSA infekcí považována za nevhodná).
+
+
+
+
+
+3/16
+
+Rezistence E. coli (nejčastější patogen podílející se na infekcích močových cest) vůči fluorchinolonům je v Evropské unii různá. Předepisujícím lékařům se doporučuje vzít v úvahu lokální prevalenci rezistence E. coli na fluorchinolony.
+
+Inhalace anthraxu
+Inhalace anthraxu: při použití u lidí se vychází z údajů o citlivosti Bacillus anthracis in vitro a z experimentálních dat získaných na zvířecích modelech spolu s omezenými údaji o použití u lidí. Ošetřující lékař musí postupovat v souladu s národně a/nebo mezinárodně schválenými konsenzuálními dokumenty, které se týkají léčby onemocnění anthraxem.
+Trvání infuze
+Měla by být dodržena doporučená doba podávání infuze alespoň 30 minut pro 250 mg nebo 60 minut pro 500 mg přípravku Levofloxacin Kabi. U ofloxacinu je známo, že v průběhu infuze může vzniknout tachykardie a dočasný pokles krevního tlaku. Ve vzácných případech může, jako následek výrazného poklesu krevního tlaku, dojít k oběhovému kolapsu. Dojde-li k nápadnému poklesu krevního tlaku v průběhu infuze levofloxacinu (l-izomeru ofloxacinu), musí být infuze okamžitě přerušena.
+
+Obsah sodíku
+Tento léčivý přípravek obsahuje 177 mg sodíku v 50 ml, což odpovídá 8,85 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Dlouhotrvající, zneschopňující a potenciálně ireverzibilní závažné nežádoucí účinky léčiva
+U pacientů léčených chinolony a fluorochinolony byly bez ohledu na jejich věk a preexistující rizikové faktory hlášeny velmi vzácně případy dlouhotrvajících (trvajících měsíce nebo roky), zneschopňujících a potenciálně ireverzibilních závažných nežádoucích účinků léčiva postihujících různé, někdy vícečetné tělesné systémy (muskuloskeletální, nervový, psychiatrický a senzorický). Léčba levofloxacinem má být okamžitě ukončena při prvních známkách nebo příznacích jakéhokoli závažného nežádoucího účinku a pacienty je třeba informovat, že mají kontaktovat lékaře, který jim přípravek předepsal.
+
+Tendinitida a ruptura šlachy
+Tendinitida a ruptura šlachy (zejména, ale nejen Achillovy šlachy), někdy bilaterální, se mohou objevit již do 48 hodin od zahájení léčby chinolony a fluorochinolony; jejich výskyt byl hlášen dokonce až několik měsíců po ukončení léčby. Riziko tendinitidy a ruptury šlachy se zvyšuje u pacientů, kterým jsou podávány denní dávky 1000 mg levofloxacinu, u starších pacientů, u pacientů s poruchou funkce ledvin, u pacientů po transplantaci solidních orgánů a u pacientů léčených současně kortikosteroidy. Z toho důvodu je třeba se souběžnému podávání kortikosteroidů vyhnout.
+Při prvních známkách tendinitidy (např. bolestivý otok, zánět) je nutné léčbu levofloxacinem ukončit a zvážit jiné možnosti léčby. Postiženou končetinu (končetiny) je třeba náležitě ošetřit (např. imobilizací). Pokud se vyskytnout známky tendinopatie, kortikosteroidy se nemají používat.
+
+Onemocnění způsobená bakterií Clostridium difficile
+Průjem, zejména těžký, přetrvávající a/nebo s příměsí krve, který se objeví v průběhu nebo po ukončení léčby levofloxacinem (včetně několika týdnů po léčbě), může být známkou onemocnění vyvolaného patogenem Clostridium difficile (CDAD). CDAD může mít různou závažnost od mírné až po život ohrožující, jejíž nejzávažnější formou je pseudomembranózní kolitida (viz bod 4.8). Proto je důležité tuto diagnózu zvážit u pacientů se závažným průjmem během léčby nebo po léčbě levofloxacinem. Je- li podezření na CDAD nebo při potvrzené diagnóze CDAD, je nutno podávání levofloxacinu ihned ukončit a bez prodlení poskytnout pacientovi vhodnou léčbu. Přípravky inhibující peristaltiku jsou v tomto stavu kontraindikovány.
+
+Pacienti s predispozicí k záchvatům
+Chinolony mohou snižovat křečový práh a spouštět záchvaty. Levofloxacin je kontraindikován u pacientů s anamnézou epilepsie (viz bod 4.3) a stejně jako ostatní chinolony má být používán s mimořádnou opatrností u pacientů s predispozicí k záchvatům, nebo u pacientů současně léčených
+
+
+4/16
+
+přípravky snižujícími práh mozkových záchvatů, jako je theofylin (viz bod 4.5). V případě konvulzivních záchvatů (viz bod 4.8) má být léčba levofloxacinem ukončena.
+
+Pacienti s deficiencí G-6-fosfát dehydrogenázy
+Pacienti s latentní nebo zjevnou poruchou glukóza-6-fosfát-dehydrogenázové aktivity mohou být náchylní k hemolytickým reakcím, jsou-li léčeni chinolonovými antibiotiky. Pokud je nutné u těchto pacientů levofloxacin použít, je třeba monitorovat možný výskyt hemolýzy.
+
+Pacienti s poruchou funkce ledvin
+Protože je levofloxacin vylučován převážně ledvinami, je třeba dávky přípravku Levofloxacin Kabi u
+pacientů s poruchou funkce ledvin upravit (viz bod 4.2).
+Hypersenzitivní reakce
+Levofloxacin může zapříčinit závažné potenciálně fatální hypersenzitivní reakce (např. angioedém až anafylaktický šok), které se mohou ojediněle objevit i po první dávce (viz bod 4.8). Pacienti mají léčbu okamžitě ukončit a kontaktovat svého lékaře nebo pohotovost, kde bude neodkladně zahájena příslušná léčba.
+
+Závažné kožní nežádoucí účinky
+Při léčbě levofloxacinem byl hlášen výskyt závažných kožních nežádoucích účinků (SCAR), včetně toxické epidermální nekrolýzy (TEN: známé též jako Lyellův syndrom), Stevensova-Johnsonova syndromu (SJS) a lékové reakce s eozinofilií a systémovými příznaky (DRESS), které mohou být až život ohrožující nebo fatální (viz bod 4.8). Při předepisování tohoto léku mají být pacienti poučeni o známkách a příznacích závažných kožních reakcí a mají být pečlivě sledováni. Pokud se objeví příznaky naznačující možnost těchto reakcí, je nutné levofloxacin okamžitě vysadit a zvážit alternativní léčbu. Pokud se u pacienta při používání levofloxacinu rozvinula závažná reakce, jako je SJS, TEN nebo DRESS, nesmí se u něho léčba levofloxacinem již nikdy znovu zahajovat.
+
+Dysglykemie
+Stejně jako u všech chinolonů byly hlášeny poruchy glykemie zahrnující hypoglykemii i hyperglykemii, vyskytující se častěji u starších pacientů, obvykle u pacientů s diabetem mellitem, kteří jsou souběžně léčeni perorálním hypoglykemikem (např. glibenklamidem) nebo inzulinem. Byly hlášeny případy hypoglykemického kómatu. U pacientů s diabetem mellitem se doporučuje pečlivé sledování glykemie (viz bod 4.8).
+Jestliže pacient zaznamená kolísání hladiny glukózy v krvi, je nutné léčbu přípravkem Levofloxacin
+Kabi ihned přerušit, a má být zvážena alternativní nefluorchinolonová antibakteriální terapie.
+
+Prevence fotosenzibilizace
+Při léčbě levofloxacinem byla hlášena fotosenzibilizace (viz bod 4.8). Pacientům se doporučuje nevystavovat se během léčby a dalších 48 hodin po léčbě intenzivnímu slunečnímu záření ani umělým UV paprskům (např. horské slunce, solárium), aby se předešlo fotosenzibilizaci.
+
+Pacienti, kteří jsou léčeni antagonisty vitaminu K
+Z důvodu možného zvýšení koagulačních testů (PT/INR) a/nebo krvácení u pacientů léčených levofloxacinem v kombinaci s antagonisty vitaminu K (např. warfarin), mají být testy srážlivosti sledovány, pokud jsou tyto dva léky podávány současně (viz bod 4.5).
+
+Psychotické reakce
+U pacientů léčených chinolony včetně levofloxacinu se vyskytly psychotické reakce. Velmi vzácně tyto reakce vedly až k sebevražedným úmyslům a sebeohrožujícímu chování, které se v některých případech objevily již po jednorázové dávce levofloxacinu (viz bod 4.8). Pokud se tyto reakce objeví, má být podávání levofloxacinu ukončeno okamžitě po objevení prvních známek nebo příznaků těchto reakcí a pacientům by mělo být doporučeno, aby se obrátili na lékaře, který jim léčivý přípravek předepsal. Je třeba zvážit jinou než fluorochinolonovou léčbu a přijmout příslušná opatření. Má-li být levofloxacin
+
+
+5/16
+
+podáván psychotickým pacientům nebo pacientům s anamnézou psychiatrického onemocnění, doporučuje se zvýšená opatrnost.
+
+Prodloužení QT intervalu
+Při podávání fluorchinolonů včetně levofloxacinu má být věnována zvýšená pozornost pacientům se známými rizikovými faktory pro prodloužení QT intervalu, jako je např.:
+−  vrozený syndrom prodlouženého QT
+−  současné užívání léčivých přípravků, o kterých je známo, že prodlužují QT interval (např.
+antiarytmika třídy IA a III, tricyklická antidepresiva, makrolidy, antipsychotika)
+−  nekorigovaná nerovnováha elektrolytů (např. hypokalemie, hypomagnezémie)
+−  srdeční onemocnění (např. srdeční selhání, infarkt myokardu, bradykardie)
+Na působení léčivých přípravků prodlužujících QT interval mohou být citlivější starší pacienti a ženy. Proto je u těchto populací zapotřebí zvýšené opatrnosti při podávání fluorchinolonů včetně levofloxacinu (viz bod 4.2 Starší pacienti, a body 4.5, 4.8 a 4.9).
+
+Periferní neuropatie
+U pacientů léčených chinolony a fluorochinolony byly hlášeny případy senzorické nebo senzomotorické polyneuropatie,  vedoucí  k  parestezii,  hypestezii,  dysestezii  nebo  slabosti.  Pacienti  léčení levofloxacinem, mají být poučeni, aby před pokračováním léčby informovali svého lékaře, pokud se u nich vyskytnou symptomy neuropatie jako jsou bolest, pálení, brnění, necitlivost nebo slabost, aby se tak předešlo vzniku potenciálně ireverzibilního stavu (viz bod 4.8).
+
+Poruchy jater a žlučových cest
+U levofloxacinu byly hlášeny případy nekrózy jater až život ohrožujícího selhání jater, a to především u pacientů se závažnými základními chorobami, jako je sepse (viz bod 4.8). Pacienty je třeba upozornit, aby ukončili léčbu a kontaktovali svého lékaře, pokud zaznamenají známky a příznaky onemocnění jater, např. anorexii, žloutenku, tmavou moč, svědění nebo citlivost v oblasti břicha.
+Exacerbace myasthenia gravis
+Fluorchinolony včetně levofloxacinu působí jako neuromuskulární blokátory a mohou zhoršit svalovou slabost u pacientů s myasthenia gravis. Při použití fluorchinolonů u těchto pacientů byly po uvedení přípravku na trh zaznamenány závažné nežádoucí účinky zahrnující úmrtí a nutnost podpory dýchání. U pacientů se známou anamnézou myasthenia gravis se levofloxacin nedoporučuje.
+Poruchy zraku
+Pokud se objeví poruchy zraku nebo pacient zaznamená jakékoli účinky na zrak, je zapotřebí okamžitě konzultovat situaci se specializovaným očním lékařem (viz body 4.7 a 4.8).
+Superinfekce
+Podávání levofloxacinu, především dlouhodobé, může vést k přerůstání organismů necitlivých na levofloxacin. Pokud se během léčby objeví superinfekce, je třeba přijmout příslušná opatření.
+
+Ovlivnění výsledků laboratorních testů
+Při stanovení opiátů v moči se u pacientů léčených levofloxacinem mohou vyskytnout falešně pozitivní výsledky. Pozitivní screening na opiáty má být ověřen specifičtější metodou.
+Protože levofloxacin může inhibovat růst Mycobacterium tuberculosis, mohou se při bakteriologické diagnostice tuberkulózy objevit falešně negativní výsledky.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Účinky jiných léčivých přípravků na Levofloxacin Kabi
+
+Theofylin, fenbufen a podobná nesteroidní antiflogistika
+
+
+
+6/16
+
+V klinické studii nebyly nalezeny žádné farmakokinetické interakce levofloxacinu s theofylinem. Může však dojít k výraznému snížení prahu mozkových záchvatů, jsou-li chinolony podávány současně s theofylinem, nesteroidními antiflogistiky nebo jinými přípravky, které práh záchvatů snižují.
+Koncentrace levofloxacinu byly asi o 13 % vyšší v přítomnosti fenbufenu než při podání levofloxacinu samotného.
+
+Probenecid a cimetidin
+Probenecid a cimetidin měly statisticky významný účinek na eliminaci levofloxacinu. Renální clearance levofloxacinu byla snížena cimetidinem (24%) a probenecidem (34%). Je to způsobeno tím, že obě léčivé látky mají schopnost blokovat renální tubulární sekreci levofloxacinu. Při dávkách zkoušených ve studiích však není pravděpodobné, že statisticky významné kinetické odchylky budou klinicky významné.
+Opatrnosti je třeba při současném podávání levofloxacinu s látkami, které ovlivňují tubulární renální sekreci, např. probenecid a cimetidin, zejména u pacientů s porušenou funkcí ledvin.
+
+Další relevantní informace
+Klinické farmakologické studie ukázaly, že farmakokinetika levofloxacinu nebyla z pohledu klinického významu nikterak ovlivněna při současném podávání levofloxacinu s následujícími látkami: uhličitanem vápenatým, digoxinem, glibenklamidem, ranitidinem.
+
+Účinky přípravku Levofloxacin Kabi na jiné léčivé přípravky
+
+Cyklosporin
+Biologický poločas cyklosporinu byl při současném podání s levofloxacinem zvýšen o 33 %.
+
+Antagonisté vitaminu K
+Zvýšení koagulačních testů (PT/INR) a/nebo krvácení, které může být závažné, byly hlášeny u pacientů léčených levofloxacinem v kombinaci s antagonisty vitaminu K (např. warfarin). Koagulační testy mají být proto sledovány u pacientů léčených antagonisty vitaminu K (viz bod 4.4).
+Léčivé přípravky, o kterých je známo, že prodlužují QT interval
+Levofloxacin, stejně jako ostatní fluorchinolony, má být používán s opatrností u pacientů léčených přípravky, o kterých je známo, že prodlužují QT interval (např. antiarytmika třídy IA a III, tricyklická antidepresiva, makrolidy, antipsychotika) (viz bod 4.4).
+Další relevantní informace
+Ve farmakokinetické interakční studii levofloxacin neovlivňoval farmakokinetiku theofylinu (který je substrátem CYP1A2), což značí, že levofloxacin není inhibitorem CYP1A2.
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Jsou k dispozici pouze omezené údaje ohledně použití levofloxacinu u těhotných žen. Z hlediska reprodukční toxicity studie na zvířatech neodhalily přímé ani nepřímé škodlivé účinky (viz bod 5.3).
+Z důvodu chybějících údajů u člověka a kvůli experimentálně zjištěnému riziku poškození zatížených chrupavek v rostoucím organismu v důsledku používání fluorchinolonů nesmí být levofloxacin podáván těhotným ženám (viz body 4.3 a 5.3).
+Kojení
+U kojících žen je Levofloxacin Kabi kontraindikován. Nejsou k dispozici dostatečné informace o vylučování levofloxacinu do mateřského mléka u lidí, ostatní fluorchinolony se však do mléka vylučují. Z důvodu chybějících údajů u člověka a kvůli experimentálně zjištěnému riziku poškození zatížených chrupavek v rostoucím organismu v důsledku používání fluorchinolonů nesmí být levofloxacin podáván kojícím ženám (viz body 4.3 a 4.5).
+
+
+7/16
+
+Fertilita
+U potkanů nedošlo k žádným poruchám fertility ani reprodukční výkonnosti v důsledku podávání
+levofloxacinu.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Některé z nežádoucích účinků přípravku (např. závratě/vertigo, ospalost, poruchy zraku) mohou nepříznivě ovlivnit pacientovu pozornost a schopnost rychle reagovat, a proto mohou představovat riziko v situacích, kdy jsou tyto schopnosti zvláště důležité (např. řízení motorového vozidla nebo obsluha strojů).
+
+4.8 Nežádoucí účinky
+Základem níže uvedených informací jsou výsledky z klinických studií zahrnujících více než 8300 pacientů a rozsáhlé zkušenosti získané po uvedení levofloxacinu na trh.
+
+Frekvence v tabulce jsou definovány podle následující konvence: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1 000); velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze zjistit).
+V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+Systém orgánových tříd
+
+Infekce a infestace
+
+
+Poruchy krve a lymfatického systému
+Poruchy imunitního systému
+
+Endokrinní poruchy
+
+
+
+Poruchy metabolismu a výživy
+
+
+Psychiatrické
+poruchy*
+
+
+
+
+
+
+
+Poruchy nervového systému*
+Časté
+(≥1/100 až <1/10 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insomnie
+
+
+
+
+
+
+
+
+Bolest hlavy
+Závratě
+Méně časté (≥1/1 000 až
+<1/100)
+Mykotické infekce včetně kandidózy Rezistence patogenu Leukopenie Eozinofilie
+
+
+
+
+
+
+
+
+Anorexie
+
+
+
+
+Úzkost
+Stav zmatenosti Nervozita
+
+
+
+
+
+
+Somnolence Třes Dysgeuzie
+Vzácné
+(≥1/10 000 až <1/1
+000)
+
+
+
+Trombocytopenie Neutropenie
+
+Angioedém Hypersenzitivita (viz bod 4.4)
+Syndrom nepřiměřené sekrece antidiuretického hormonu (SIADH) Hypoglykemie především u diabetiků Hypoglykemické kóma (viz bod 4.4) Psychotické reakce (např. s halucinacemi, paranoiou)
+Deprese Agitovanost Abnormální sny Noční můry, Delirium,
+Křeče (viz body 4.3
+a 4.4)
+Parestézie Porucha paměti
+Není známo
+(z dostupných údajů
+nelze zjistit)
+
+
+
+Pancytopenie Agranulocytóza Hemolytické anémie Anafylaktický šok ᵃ Anafylaktoidní šokᵃ (viz bod 4.4)
+
+
+
+
+Hyperglykemie (viz bod 4.4)
+
+
+
+Psychotické poruchy se sebeohrožujícím chováním včetně sebevražedných myšlenek nebo pokusu o sebevraždu (viz bod 4.4)
+
+
+Periferní senzorická neuropatie (viz bod 4.4)
+
+
+8/16
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy oka*
+
+
+Poruchy ucha a labyrintu*
+Srdeční poruchy**
+
+
+
+
+
+
+
+
+
+
+
+
+Cévní poruchy**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platí pouze pro i.v. formu: Flebitida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vertigo
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy zraku, jako je neostré vidění (viz bod 4.4)
+Tinitus
+
+Tachykardie Palpitace
+
+
+
+
+
+
+
+
+
+
+
+Hypotenze
+Periferní senzo- motorická neuropatie (viz bod 4.4) Parosmie včetně anosmie
+Dyskineze Extrapyramidové poruchy
+Ageuzie Synkopa
+Benigní intrakraniální hypertenze Přechodná ztráta zraku (viz bod 4.4)
+
+Ztráta sluchu Poruchy sluchu Ventrikulární tachykardie, která může vést k srdeční zástavě
+Ventrikulární arytmie a torsade de pointes (hlášeno zejména u pacientů s rizikovými faktory pro prodloužení QT), prodloužení QT na elektrokardiogramu (viz body 4.4 a 4.9)
+
+
+Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+
+
+
+
+
+
+Poruchy jater a
+žlučových cest
+
+
+
+Průjem Zvracení Nauzea
+
+
+
+
+
+Zvýšení jaterních enzymů (ALT/AST, alkalické fosfatázy, GGT)
+Dyspnoe
+
+
+Bolest břicha Dyspepsie Flatulence Zácpa
+
+
+
+
+Zvýšení hladiny
+bilirubinu v krvi
+Bronchospasmus Alergická pneumonitida Průjem – hemoragický, který může velmi vzácně indikovat enterokolitidu včetně pseudomembranózní kolitidy (viz bod 4.4) Pankreatitida Žloutenka a závažné
+poškození jater včetně fatálních případů akutního selhání jater především u pacientů se závažným základním onemocněním (viz bod 4.4)
+Hepatitida
+
+
+9/16
+
+Poruchy kůže a podkožní tkáněᵇ
+
+
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně*
+
+
+
+
+
+
+
+
+Poruchy ledvin a
+močových cest
+
+
+Celkové poruchy a reakce v místě aplikace*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platí pouze pro i.v. formu: Reakce v místě vpichu (bolest, začervenání)
+Vyrážka Pruritus Kopřivka Hyperhidróza
+
+
+
+
+
+
+Artralgie Myalgie
+
+
+
+
+
+
+
+
+
+Zvýšená hladina
+kreatininu v krvi
+
+
+Astenie
+Léková reakce s eozinofilií a systémovými příznaky (DRESS) (viz bod 4.4), fixní lékový exantém
+
+
+
+
+Onemocnění šlach (viz body 4.3 a 4.4) včetně tendinitidy (např. Achillovy šlachy)
+Svalová slabost, která může být obzvláště významná u pacientů s myastenia gravis (viz bod 4.4) Akutní selhání ledvin (např. z
+důvodu intersticiální
+nefritidy) Pyrexie
+Toxická epidermální nekrolýza
+Stevensův-Johnsonův syndrom
+Erythema multiforme Fotosenzitivní reakce (viz bod 4.4) Leukocytoklastická vaskulitida Stomatitida Rhabdomyolýza Ruptura šlachy (např. Achillovy) (viz body 4.3 a 4.4)
+Ruptura vazu Ruptura svalu Artritida
+
+
+
+
+
+
+
+
+Bolest (včetně bolesti zad, hrudi a končetin)
+ᵃAnafylaktické a anafylaktoidní reakce se v některých případech mohou objevit již po podání první dávky.
+ᵇMukokutánní reakce se mohou v některých případech objevit již po podání první dávky.
+*V souvislosti s podáváním chinolonů a fluorochinolonů byly v některých případech bez ohledu na preexistující rizikové faktory hlášeny velmi vzácné případy dlouhotrvajících (až měsíce nebo roky), zneschopňujících a potenciálně ireverzibilních závažných nežádoucích účinků léčiva postihujících několik, někdy vícečetných tříd orgánových systémů a smyslů (včetně účinků, jako jsou tendinitida, ruptura šlachy, artralgie, bolest končetin, poruchy chůze, neuropatie spojené s parestezií, deprese, únava, poruchy paměti, poruchy spánku a poruchy sluchu, zraku, chuti a čichu (viz bod 4.4).
+**U pacientů léčených fluorochinolony byly hlášeny případy aneurysmatu a disekce aorty, někdy komplikované rupturou (včetně fatálních případů), a regurgitace/ nedomykavosti některé ze srdečních chlopní (viz bod 4.4).
+
+Další nežádoucí účinky spojené s podáváním fluorchinolonů jsou:
+−  ataky porfyrie u pacientů s porfyrií
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+10/16
+
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9 Předávkování
+
+Podle toxikologických studií provedených na zvířatech nebo klinických farmakologických studií prováděných se supraterapeutickými dávkami jsou nejdůležitějšími známkami, které lze očekávat v případě akutního předávkování infuzním roztokem levofloxacinu, symptomy centrální nervové soustavy, jako jsou zmatenost, závratě, poruchy vědomí a záchvaty křečí, a dále prodloužení QT intervalu.
+
+Účinky na centrální nervovou soustavu včetně stavu zmatenosti, křečí, halucinací a třesu byly pozorovány po uvedení levofloxacinu na trh.
+V případě předávkování je vhodné zahájit symptomatickou léčbu. Vzhledem k možnosti prodloužení QT intervalu má být zajištěno monitorování EKG. Hemodialýza, včetně peritoneální a CAPD, není k odstranění levofloxacinu z těla účinná. Neexistuje žádné specifické antidotum.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: chinolonová antibakteriální léčiva, fluorchinolony, ATC kód: J01MA12 Levofloxacin je syntetické antibakteriální agens ze třídy fluorchinolonů. Je to S (-) enantiomer racemické léčivé látky ofloxacinu.
+Mechanizmus účinku
+Jako flurochinolonové antibakteriální agens působí levofloxacin na komplex DNA–DNA–gyráza a topoizomerázu IV.
+Vztah farmakokinetiky a farmakodynamiky
+Stupeň antibakteriální aktivity levofloxacinu závisí na podílu maximální koncentrace v séru (Cmₐₓ) nebo
+plochy pod křivkou plazmatických hodnot (AUC) a minimální inhibiční koncentrace (MIC).
+
+Mechanismus rezistence
+Rezistence na levofloxacin se vyvíjí pomalu postupným procesem spojeným s mutací cílového místa v obou topoizomerázách typu II, v DNA gyráze a topoizomeráze IV. Jiný mechanismus rezistence jako je propustnost bariér (známé u Pseudomonas aeruginosa) a efluxní mechanismy mohou také ovlivnit citlivost na levofloxacin.
+Zkřížená rezistence je pozorována i mezi levofloxacinem a ostatními fluorchinolony. Vzhledem k
+mechanismu účinku nedochází ke zkřížené rezistenci s antibiotiky ostatních tříd.
+
+Hraniční hodnoty
+V tabulce níže jsou uvedeny tzv. MIC breakpointy (hraniční hodnoty pro minimální inhibiční koncentrace) doporučené EUCAST pro levofloxacin. Jsou rozlišeny citlivé mikroorganismy od středně citlivých a středně citlivé od rezistentních mikroorganizmů (MIC, mg/l).
+Klinické MIC hraniční hodnoty (breakpoints) pro levofloxacin doporučené EUCAST (verze 10.0, 2020- 01-01):
+
+Patogen
+Citlivý
+Rezistentní
+
+
+Enterobacteriales Pseudomonas spp. Acinetobacter spp. Staphylococcus spp.
+≤0,5 mg/l
+≤0,001 mg/l
+≤0,5 mg/l
+≤0,001 mg/l
+>1 mg/l
+>1 mg/l
+>1 mg/l
+>1 mg/l
+11/16
+
+S. Aureus
+Koaguláza-negativní stafylokoky
+S. pneumoniae Streptococcus A ,B,C,G H.influenzae M.catarrhalis
+H.pylori
+A.sanguinicola and urinae¹ (pouze
+nekomplikované UTI)
+K.kingae
+Hraniční hodnoty druhově nespecifické
+≤0,001 mg/l
+
+≤0,001 mg/l
+≤0,001 mg/l
+≤0,06 mg/l
+≤0,125 mg/l
+≤1 mg/l
+≤2 mg/l
+
+≤0,125 mg/l
+≤0,5 mg/l
+>1 mg/l
+
+>2 mg/l
+>2 mg/l
+>0,06 mg/l
+> 0,125 mg/l
+>1 mg/l
+>2 mg/l
+
+>0,125 mg/l
+>1 mg/l
+¹ Citlivost lze odvodit z citlivosti na ciprofloxacin.
+
+
+Prevalence rezistence se může u některých kmenů lišit v čase a v závislosti na geografickém území, takže je vhodné získat místní informace o rezistenci, zejména při léčbě závažných infekcí. Pokud je to nutné, doporučuje se obrátit se na odborníka v případech, kdy je lokální výskyt rezistentních kmenů takový, že je účinnost přípravku u některých typů infekcí sporná.
+Běžně citlivé mikroorganismy
+Aerobní grampozitivní bakterie
+Bacillus anthracis
+Staphylococcus aureus citlivý na methicilin
+Staphylococcus saprophyticus Streptokoky C a G Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes
+
+Aerobní gramnegativní bakterie
+Eikenella corrodens Haemophilus influenzae Haemophilus para-influenzae Klebsiella oxytoca
+Moraxella catarrhalis Pasteurella multocida Proteus vulgaris Providencia rettgeri
+
+Anaerobní bakterie
+Peptostreptococcus
+Jiné
+Chlamydophila pneumoniae Chlamydophila psittaci Chlamydia trachomatis Legionella pneumophila Mycoplasma pneumoniae Mycoplasma hominis Ureaplasma urealyticum
+
+Mikroorganismy s potenciálně problematickou citlivostí
+
+
+12/16
+
+
+Aerobní grampozitivní bakterie
+Enterococcus faecalis
+Staphylococcus aureus rezistentní na methicilin# Koaguláza negativní Staphylococcus spp
+
+Aerobní gramnegativní bakterie Acinetobacter baumannii Citrobacter freundii
+Enterobacter aerogenes Enterobacter agglomerans Enterobacter cloacae Escherichia coli Klebsiella pneumoniae Morganella morganii Proteus mirabilis Providencia stuartii Pseudomonas aeruginosa Serratia marcescens
+Anaerobní bakterie
+Bacteroides fragilis
+
+Inherentně rezistentní kmeny
+
+Aerobní grampozitivní bakterie
+Enterococcus faecium
+#Methicilin-rezistentní S. aureus je velmi pravděpodobně rezistentní i na fluorochinolony včetně
+levofloxacinu.
+
+5.2 Farmakokinetické vlastnosti
+Absorpce
+Levofloxacin podávaný per os je rychle a téměř zcela absorbován a během 1-2 hodin dosahuje vrcholové plazmatické koncentrace. Absolutní biologická dostupnost je 99-100 %.
+
+Strava má jen malý účinek na absorpci levofloxacinu.
+Koncentrace v ustáleném stavu je dosaženo během 48 hodin po podání dávky 500 mg jednou nebo dvakrát denně.
+
+Distribuce v organismu
+Přibližně 30-40 % levofloxacinu se váže na bílkoviny v séru.
+Průměrný distribuční objem levofloxacinu je přibližně 100 l po jednorázové i opakované dávce 500 mg, což naznačuje širokou distribuci do tělních tkání.
+
+Průnik do tkání a tělních tekutin
+Bylo prokázáno, že levofloxacin proniká do sliznice bronchů, tekutiny epiteliální výstelky, alveolárních makrofágů, plicní tkáně, kůže (tekutina v puchýřích), tkáně prostaty a do moči. Penetrace levofloxacinu do mozkomíšního moku je však nepatrná.
+
+Biotransformace
+
+
+
+13/16
+
+Levofloxacin je metabolizován ve velmi malé míře na desmethyl-levofloxacin a levofloxacin N-oxid. Tyto metabolity tvoří méně než 5 % dávky a jsou vylučovány močí. Levofloxacin je stereochemicky stabilní a nepodléhá chirální inverzi.
+Eliminace
+Po perorálním a intravenózním podání je levofloxacin z plazmy eliminován relativně pomalu (t = 6 - 8
+½
+hod). Vylučování probíhá primárně renální cestou (> 85 % podané dávky).
+
+Průměrná zjevná celková clearance levofloxacinu po jednorázovém podání dávky 500 mg byla 175 ±
+29,2 ml/min.
+Ve farmakokinetice levofloxacinu nejsou žádné velké rozdíly při podání intravenózním a perorálním. Z toho vyplývá, že intravenózní cesta podání a perorální podávání jsou vzájemně zaměnitelné.
+Linearita
+V rozmezí 50 až 1000 mg vykazuje levofloxacin lineární farmakokinetiku. Zvláštní populace
+Pacienti s poruchou funkce ledvin
+Farmakokinetika levofloxacinu je ovlivněna renální poruchou. Se zhoršenou funkcí ledvin jsou zhoršeny renální eliminace a clearance a eliminační poločas se zvyšuje tak, jak ukazuje následující tabulka:
+
+Farmakokinetika u poruchy funkce ledvin po jednorázovém podání dávky 500 mg p.o.:
+
+
+ClCR (ml/min) ClCR (ml/min)
+< 20
+13
+20 - 49
+26
+50 - 80
+57
+t1/2 (hod)        35           27           9
+
+Starší pacienti
+Nejsou významné rozdíly ve farmakokinetice levofloxacinu mezi mladými a staršími subjekty s výjimkou těch, které souvisí s rozdíly v clearance kreatininu.
+
+Farmakokinetika v závislosti na pohlaví
+Samostatné analýzy mužských a ženských subjektů ukázaly malé až okrajové pohlavní odlišnosti ve farmakokinetice levofloxacinu. Není důkaz, že by tyto odlišnosti byly klinicky významné.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Neklinické údaje získané na základě konvenčních farmakologických studií toxicity po jednorázovém podání, toxicity po opakovaném podávání, karcinogenního potenciálu a reprodukční a vývojové toxicity neodhalily žádné zvláštní riziko pro člověka.
+
+U laboratorních potkanů neměl levofloxacin žádný účinek na fertilitu ani reprodukční zdatnost a
+jediným účinkem na fetus bylo opoždění zrání v důsledku maternální toxicity.
+Levofloxacin nevyvolal žádné genové mutace bakteriálních buněk ani buněk savců. Způsobil však chromozomální aberace u plicních buněk čínských křečků in vitro. Tyto účinky lze považovat za následek inhibice topoizomerázy II. In vivo testy (mikronukleový test, výměna sesterských chromatid, neplánovaná syntéza DNA, dominantní letální testy) neprokázaly žádný genotoxický potenciál.
+Studie na myších prokázaly, že levofloxacin má fototoxický účinek pouze při velmi vysokých dávkách. V testu fotomutagenity levofloxacin neprokázal žádný genotoxický potenciál a v testu fotokarcinogenity redukoval nádorové bujení.
+
+
+14/16
+
+Stejně jako pro ostatní fluorchinolony má i levofloxacin účinek na chrupavky (tvorba dutin a puchýřků) u laboratorních potkanů a psů. Tyto nálezy byly více výrazné u mladých zvířat.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+Chlorid sodný
+Hydroxid sodný (k úpravě pH) Kyselina chlorovodíková (k úpravě pH) Voda pro injekci
+
+6.2 Inkompatibility
+
+Levofloxacin Kabi nesmí být mísen s heparinem nebo alkalickými roztoky (např. hydrogenuhličitan sodný).
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+6.3 Doba použitelnosti
+
+Infuzní roztok před otevřením obalu:
+KabiPac lahvičky s 50 a 100 ml roztoku: 3 roky Freeflex vaky s 50 ml roztoku: 18 měsíců Freeflex vaky se 100 ml roztoku: 2 roky
+
+Naředěný roztok:
+Před podáním není nezbytné roztok naředit.
+Chemická a fyzikální stabilita naředěného roztoku byla prokázána po dobu 3 hodin při 25 °C.
+
+Po prvním otevření obalu:
+Z mikrobiologického hlediska má být přípravek použit okamžitě (do 3 hodin). Není-li použit okamžitě (do 3 hodin), doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele, pokud rekonstituce/naředění neproběhlo za kontrolovaných a validovaných podmínek.
+
+V průběhu infuze není potřeba zajistit ochranu před světlem.
+
+6.4 Zvláštní opatření pro uchovávání
+KabiPac lahvičky:
+Uchovávejte lahvičku ve vnějším obalu, aby byl přípravek chráněn před světlem. Chraňte před chladem nebo mrazem.
+
+Freeflex vaky:
+Neuchovávejte při teplotě nad 25 °C.
+Uchovávejte vak ve vnějším obalu, aby byl přípravek chráněn před světlem. Chraňte před chladem nebo mrazem.
+
+Podmínky uchovávání tohoto léčivého přípravku po jeho naředění jsou uvedeny v bodě 6.3.
+6.5 Druh obalu a obsah balení
+
+100ml lahvička obsahující 50 ml roztoku: 100ml obal z polyethylenu o nízké hustotě (KabiPac) uzavřený víčkem s pryžovým diskem.
+
+15/16
+
+Velikosti balení: 1, 10, 20 a 25 lahviček
+100ml vak obsahující 50 ml roztoku: 100ml polyolefinový Freeflex vak
+Velikosti balení: 10 a 20 vaků
+
+100ml lahvička obsahující 100 ml roztoku: 100ml obal z polyethylenu o nízké hustotě (KabiPac) uzavřený víčkem s pryžovým diskem.
+Velikosti balení: 1, 10, 20 a 25 lahviček
+
+100ml vak obsahující 100 ml roztoku: 100ml polyolefinový Freeflex vak
+Velikosti balení: 10 a 20 vaků
+Na trhu nemusí být k dispozici všechny velikosti balení.
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+Mísitelnost s jinými infuzními roztoky:
+Levofloxacin Kabi je kompatibilní s následujícími infuzními roztoky:
+-  roztok glukózy 50 mg/ml (5%)
+-  roztok glukózy v Ringerově roztoku 25 mg/ml (2,5%)
+-  roztok chloridu sodného 9 mg/ml (0,9%)
+-  roztok aminokyselin
+
+Informace o inkompatibilitách viz bod 6.2.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+
+8. REGISTRAČNÍ ČÍSLO
+
+42/117/13-C
+
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 27. 3. 2013
+Datum prodloužení registrace: 28. 11. 2013
+
+
+10. DATUM REVIZE TEXTU
+30. 5. 2021
+
+
+
+
+
+
+
+
+
+
+16/16

@@ -1,0 +1,366 @@
+sp.zn. sukls128722/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+SEFOTAK 1g prášek pro injekční/infuzní roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje cefotaximum natricum 1,048 g, což odpovídá cefotaximum 1g.
+Přípravek obsahuje 48,2 mg (2,1 mmol) sodíku v jedné injekční lahvičce. Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Prášek pro injekční/infuzní roztok.
+Popis přípravku: bílý až slabě žlutý prášek.
+Rekonstituovaný roztok je čirý, prakticky prostý částic.
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Sefotak je širokospektré antibiotikum ze třetí generace cefalosporinů, které je účinné proti řadě gramnegativních i grampozitivních mikroorganismů.
+Sefotak je indikován k léčbě infekcí vyvolaných citlivými kmeny mikroorganismů, a to zejména k léčbě:
+- infekce dýchacích cest;
+- ORL infekce;
+- infekce kůže a měkkých tkání;
+- urogenitální infekce;
+- nekomplikované kapavky;
+- bakteriemie, septikemie;
+- infekce kostí a kloubů;
+- infekce centrálního nervového systému (např. meningitida a ventrikulitida). Používá se též k profylaxi infekcí před operačním výkonem.
+
+4.2  Dávkování a způsob podání
+Intramuskulární nebo intravenózní podání. Dávkování, způsob podání a intervaly mezi jednotlivými dávkami závisejí na závažnosti infekce, citlivosti infekčního agens a na stavu pacienta.
+Dávkování
+Obvyklé dávkování u dospělých a dětí starších 12 let (nad 50 kg)
+Nekomplikované infekce: 1 g cefotaximu každých 12 hodin (i.m., i.v.).
+
+Strana 1 z 9
+
+Středně těžké infekce: 1-2 g každých 8 hodin (i.m., i.v.).
+Život ohrožující infekce, např. septikemie: 2 g každých 6 hodin.
+Nekomplikovaná kapavka u dospělých: 0,5-1 g cetofaximu i.m. jednorázově
+Při podávání vyšších dávek cefotaximu se upřednostňuje intravenózní podávání přípravku.
+Profylaxe infekce před chirurgickým výkonem: 1 g i.v. nebo i.m. při úvodu do anestezie. Tutéž dávku je třeba opakovat po operaci ještě 2 až 3krát. Podávání má skončit do 24 hodin po výkonu. Celková dávka je 2-5 g.
+Maximální denní dávka by neměla překročit 12 g. Pediatrická populace
+Obvyklé dávkování u novorozenců, kojenců a dětí mladších 12 let:
+Novorozenci:  věk      0-1 týden   50 mg/kg po 12 hodinách
+1-4 týdny  50 mg/kg po 8 hodinách
+Kojenci a děti (od 1 měsíce do 12 let věku, resp. tělesné hmotnosti do 50 kg):
+Doporučená denní dávka je 50-100 mg/kg, u těžkých infekcí 200 mg/kg/den i.m. nebo i.v., každých 6 hodin. Vyšší dávky se podávají u těžkých až kritických infekcí, např. u meningitidy.
+Porucha funkce ledvin
+Při poruše renálních funkcí je třeba postupovat s opatrností. U pacientů s clearance kreatininu nižší než 20 ml/min je třeba snížit dávku na polovinu obvyklé dávky při zachování intervalů podávání, což znamená po úvodní dávce 1g se dávka snižuje z 1g po 12 hodinách na 0,5 g po 12 hodinách, nebo z 1 g po 8 hodinách na 0,5 g po 8 hodinách atd. Stejně jako u ostatních pacientů, může být dávka dále upravena podle typu infekce a v závislosti na celkovém stavu pacienta (viz bod 4.4.).
+Způsob podání
+Intramuskulární nebo intravenózní podání. Upozornění pro podávání:
+Intramuskulární dávky vyšší než 1 g se mají podávat rozděleně do několika dílčích dávek a ředit sterilní vodou pro injekci s 1% roztokem lidokainu. Sefotak v kombinaci s anestetikem se nesmí podat intravenózně.
+Při frakcionované i.v. injekci se má roztok aplikovat po dobu 3 až 5 minut. V postmarketingovém sledování byl hlášen výskyt několika případů potenciálně život ohrožujících arytmií u pacientů, jimž byl rychle podán cefotaxim centrálním venózním katétrem (viz bod 4.4).
+Cefotaxim se nemá podávat v jednom injekčním či perfuzním roztoku s aminoglykosidy.
+Návod k rekonstituci léčivého přípravku před jeho podáním je uveden v bodě 6.6. Délka léčby
+Délka léčby cefotaximem závisí na typu infekce. S podáváním se pokračuje nejméně do uplynutí 48-
+72 hodin po poklesu tělesné teploty k normálu nebo po průkazu eradikace infekčního agens. Rezistentní infekce mohou vyžadovat podávání léku po dobu až několika týdnů. Při infekci vyvolané Streptococcus pyogenes má podávání trvat nejméně deset dnů.
+4.3  Kontraindikace
+-  Hypersenzitivita na léčivou látku;
+-  Hypersenzitivní reakce na jiná antibiotika ze skupiny cefalosporinů v anamnéze.
+Existuje možnost zkřížené alergické reakce mezi penicilinovými a cefalosporinovými antibiotiky (viz
+bod 4.4.).
+
+Strana 2 z 9
+
+Sefotak v kombinaci s lidokainem se nepoužívá při hypersenzitivitě na lidokain nebo jiné anestetikum amidového typu, při blokádě srdečního vedení, při závažném srdečním selhání, u dětí mladších 30 měsíců Nesmí se podávat intravenózně.
+4.4  Zvláštní upozornění a opatření pro použití
+Stejně jako u jiných antibiotik se může použití cefotaximu, zvláště je-li dlouhodobé, projevit v přerůstání necitlivých mikroorganismů. Proto je nezbytné časté hodnocení stavu pacienta. Pokud se během léčby objeví superinfekce, mají být přijata příslušná opatření.
+Anafylaktické reakce
+U pacientů léčených cefotaximem byly hlášeny závažné anafylaktické reakce včetně fatální
+hypersenzitivní reakce (viz body 4.3 a 4.8).
+Pokud se hypersenzitivní reakce vyskytne, léčba musí být ukončena.
+Podávání cefotaximu je přísně kontraindikováno u pacientů se středně těžkou hypersenzitivní reakcí
+na cefalosporiny v anamnéze (viz bod 4.3).
+Vzhledem k tomu, že existuje zkřížená alergie mezi peniciliny a cefalosporiny, musí být podávání cefalosporinů pečlivě zváženo zvláště u pacientů senzitivních na penicilin.
+Těžká bulózní reakce
+Při podávání cefotaximu byly hlášeny případy těžkých bulózních kožních reakcí, jako jsou Stevens- Johnsonův syndrom nebo toxická epidermální nekrolýza (viz bod 4.8). Pacienty je třeba poučit o tom, že pokud se vyskytne kožní nebo mukózní reakce, je nutné před pokračováním léčby okamžitě kontaktovat svého lékaře.
+Onemocnění spojená s Clostridium difficile (např. pseudomembranózní kolitida)
+Diarea, obzvláště pokud je těžká či přetrvávající, která se vyskytne během nebo v prvních týdnech po ukončení léčby, může být příznakem onemocnění spojeného s Clostridium difficile. Onemocnění spojená s Clostridium difficile (CDAD) mohou být různé závažnosti, od mírných až k život ohrožujícím nejtěžším formám, jakou je pseudomembranózní kolitida.
+Diagnózu tohoto vzácného, ale potenciálně fatálního stavu, lze stanovit endoskopií a/nebo
+histologickým vyšetřením.
+Je důležité zvážit tuto diagnózu u pacientů, kteří mají diareu během podávání cefotaximu nebo po jeho ukončení.
+Pokud je podezření na pseudomembranózní kolitidu, cefotaxim má být okamžitě vysazen a má být bez prodlení zahájena léčba příslušnými specifickými antibiotiky.
+Při onemocněních spojených s Clostridium difficile může existovat sklon k zácpě. Nemá být podáván léčivý přípravek inhibující peristaltiku.
+Hematologické reakce
+Během léčby cefotaximem, zvláště je-li dlouhodobá, se může vyvinout leukopenie, neutropenie a velmi vzácně agranulocytóza. Při léčbě trvající déle než 7-10 dní má být monitorován krevní obraz leukocytů a v případě neutropenie má být léčba ukončena.
+Byly hlášeny některé případy eosinofilie a trombocytopenie rychle reverzibilní po ukončení léčby. Byly rovněž hlášeny případy hemolytické anemie (viz bod 4.8).
+Pacienti s poruchou funkce ledvin
+U pacientů s poruchou funkce ledvin se má postupovat opatrně. U pacientů s clearance kreatininu nižší než 20 ml/min je třeba snížit dávku na polovinu obvyklé dávky při zachování intervalů podávání (viz bod 4.2).
+
+
+Strana 3 z 9
+
+Opatrnosti je třeba, pokud je cefotaxim podáván spolu s aminoglykosidy nebo jinými nefrotoxickými látkami (viz bod 4.5). U starších pacientů a u pacientů s předcházejícím renálním poškozením je nutné monitorování renálních funkcí.
+Neurotoxicita
+Vysoké dávky beta-laktamových antibiotik, do nichž patří i cefotaxim, může zvláště u pacientů s poruchou funkce ledvin vést k encefalopatii (např. porucha vědomí, abnormální pohyby a konvulze) (viz bod 4.8).
+Pacienty je třeba poučit, aby před pokračující léčbou kontaktovali svého lékaře, pokud se takové
+reakce vyskytnou.
+Opatření pro podávání
+Během postmarketingového sledování byla ojediněle hlášena potenciálně život ohrožující arytmie u pacientů, jimž byl cefotaxim podán jako bolus centrálním venózním katétrem. Doporučenou dobu podávání injekce nebo infuze je třeba dodržovat (viz bod 4.2).
+Vliv na laboratorní testy
+Stejně jako u jiných cefalosporinů byl u některých pacientů léčených cefotaximem zjištěn pozitivní Coombsův test. Tento jev může interferovat s křížovou zkouškou krve.
+Test na obsah glukózy v moči s použitím nespecifických redukčních činidel může poskytovat falešně
+pozitivní výsledky. K tomuto jevu nedochází, pokud se použije glukózo-oxidázová metoda.
+Příjem sodíku
+Tento léčivý přípravek obsahuje 48,2 mg sodíku v jedné injekční lahvičce, což odpovídá 2,43 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Probenecid interferuje s renálním tubulárním transferem cefalosporinů, a tak zpomaluje jejich vylučování a zvyšuje jejich plazmatickou koncentraci.
+Stejně jako ostatní cefalosporiny může cefotaxim potencovat nefrotoxické účinky nefrotoxických léků, jako jsou aminoglykosidy nebo silná diuretika (např. furosemid). V případě současného podávání musí být monitorována renální funkce (viz bod 4.4).
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Bezpečnost podávání cefotaximu v těhotenství nebyla dosud stanovena.
+Studie reprodukční toxicity na zvířatech nenaznačují přímé nebo nepřímé škodlivé účinky. Neexistují však adekvátní a dobře kontrolované studie u těhotných žen.
+Cefotaxim prochází placentární bariérou. Proto nemá být podáván během těhotenství, pokud přínos
+léčby nepřevažuje nad potencionálními riziky. Kojení
+Cefotaxim se vylučuje do mateřského mléka.
+Nelze vyloučit vliv na intestinální flóru kojenců, která může vést k průjmům, kolonizaci kvasinkami a alergizaci kojence.
+Na základě posouzení prospěšnosti kojení pro dítě a prospěšnosti léčby pro matku je nutno rozhodnout, zda přerušit kojení nebo ukončit/přerušit podávání přípravku Sefotak.
+
+
+
+
+Strana 4 z 9
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Neexistuje žádný důkaz toho, že by cefotaxim přímo ovlivňoval schopnost řídit či obsluhovat stroje. Vysoké dávky cefotaximu, zejména u pacientů s poruchou funkce ledvin, mohou způsobit encefalopatii (např. porucha vědomí, abnormální pohyby a konvulze) (viz bod 4.8). Pacientům je třeba doporučit neřídit a neobsluhovat stroje, pokud se takové příznaky vyskytnou.
+4.8  Nežádoucí účinky
+Četnost výskytu nežádoucích účinků je v následující tabulce vyjádřena pomocí následující konvence: Velmi časté      ≥1/10
+Časté         ≥1/100 až <1/10
+Méně časté      ≥1/1 000 až <1/100
+Vzácné        ≥1/10 000 až < 1/1 000
+Velmi vzácné     <1/10 000
+Není známo      z dostupných údajů nelze určit
+
+
+Třída orgánových systémů Infekce a infestace Poruchy krve a lymfatického systému
+
+Poruchy imunitního systému
+
+
+Poruchy nervového systému
+
+
+
+Srdeční poruchy
+
+
+
+Gastrointestinální poruchy
+
+
+
+
+Poruchy jater a
+žlučových cest
+
+
+
+
+Poruchy kůže a podkožní tkáně
+Velmi
+časté
+Časté
+Méně časté
+
+
+
+
+Leukopenie Eosinofilie Trombocytopenie
+
+Jarisch-Herxheimerova reakce
+
+
+
+Konvulze (viz bod 4.4)
+
+
+
+
+
+
+
+
+
+Diarea
+
+
+
+
+
+Zvýšení jaterních
+enzymů a transamináz
+(ALT, AST, LDH, γ-GT
+a/nebo alkalická fosfatáza a/nebo bilirubin)
+Vyrážka
+Pruritus
+Vzácné
+Velmi
+vzácné
+Není známo*
+
+
+Superinfekce (viz bod 4.4) Neutropenie Agranulocytóza (viz bod 4.4)
+Hemolytická anémie Anafylaktická reakce
+Angioedém Bronchospasmus Anafylaktický šok Bolesti hlavy Závratě
+Encefalopatie (např. porucha vědomí, abnormální pohyby) (viz bod 4.4)
+Arytmie následující po podání bolusu
+centrálním venózním katétrem Nauzea
+Vomitus
+Bolesti břicha Pseudomembranózní kolitida  (viz  bod 4.4)
+Hepatitida (někdy se žloutenkou)
+
+
+
+
+Erythema multiforme,
+
+Strana 5 z 9
+
+
+
+
+
+
+Poruchy ledvin a
+močových cest
+
+
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+
+
+
+
+Bolest v místě aplikace i.m. injekce
+Kopřivka
+
+
+
+
+Snížená funkce ledvin
+/zvýšení kreatininu (zejména v případě podávání společně s aminoglykosidy) Horečka
+Zánětlivé reakce v místě
+aplikace i.m. injekce,
+zahrnující
+flebitidu/tromboflebitidu
+Stevens-Johnsonův syndrom,
+Toxická epidermální nekrolýza (viz bod 4.4)
+Intersticiální
+nefritida
+
+
+
+V případě podávání
+i.m. injekce ředěné roztokem lidokainu: systémové reakce na lidokain
+
+* postmarketingové sledování
+Jarisch-Herxheimerova reakce
+Při léčbě boreliózy se během prvních dnů léčby může objevit Jarisch-Herxheimerova reakce.
+Po několika týdnech léčby boreliózy byl hlášen výskyt jednoho nebo více následujících příznaků: kožní vyrážka, svědění, horečka, leukopenie, zvýšení jaterních enzymů, potíže s dýcháním, kloubní potíže.
+Poruchy jater a žlučových cest
+Bylo zjištěno zvýšení hodnot jaterních enzymů (AST, ALT, LDH, γ-GT, alkalická fosfatáza) a bilirubinu. Tyto hodnoty mohou vzácně až dvakrát převyšovat horní hranici normálních hodnot a vyvolat poškození jater, obvykle cholestatické a nejčastěji asymptomatické.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+Příznaky předávkování mohou z velké části odpovídat profilu nežádoucích účinků.
+V případech podávání vysokých dávek beta-laktamových antibiotik včetně cefotaximu existuje riziko reverzibilní encefalopatie.
+V případě předávkování musí být podávání cefotaximu přerušeno a musí být zahájena podpůrná léčba, která zahrnuje měření rychlosti eliminace a symptomatickou léčbu nežádoucích účinků (např. konvulze).
+Není známo specifické antidotum cefotaximu. Sérové hladiny cefotaximu mohou být sníženy hemodialýzou nebo peritoneální dialýzou.
+
+
+
+
+Strana 6 z 9
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antibakteriální  léčiva pro systémovou aplikaci, cefalosporiny III. generace,
+ATC kód: J01DD01
+Sefotak je polosyntetické širokospektré cefalosporinové antibiotikum. Je odolný proti působení beta- laktamáz.
+Sefotak působí baktericidně.  Jeho antibakteriální účinnost je dána inhibicí syntézy mukopeptidů buněčné stěny bakterií.  Beta-laktamová antibiotika mají schopnost se vázat na některé enzymy cytoplazmatické membrány bakterií, které se účastní syntézy buněčné stěny a dělení buněk.
+Spektrum účinnosti:
+Grampozitivní bakterie: Staphylococcus aureus včetně kmenů produkujících i neprodukujících penicilinázu, Staphylococcus epidermidis, Enterococcus species, Streptococcus pyogenes (beta- hemolytické  streptokoky  skupiny  A),  Streptococcus  agalactiae  (streptokoky  skupiny  B), Streptococcus pneumoniae (vyjma streptokoků skupiny D).
+Gramnegativní bakterie: Citrobacter species, Enterobacter species, Escherichia coli.  Haemophilus influenzae (včetně kmenů rezistentních na ampicilin), Haemophilus parainfluenzae, Klebsiella species (včetně K. pneumoniae), Neisseria gonorrhoeae (včetně kmenů produkujících i neprodukujících penicilinázu), Neisseria meningitidis, Proteus mirabilis, Proteus vulgaris, Proteus inconstans, Morganella morganii, Providentia rettgeri, Serratia species.
+Na cefotaxim je citlivých mnoho kmenů výše uvedených bakterií, které jsou multirezistentní na jiná antibiotika, např. na peniciliny, cefalosporiny a aminoglykosidy.
+Anaerobní bakterie: Bacteroides fragilis, Clostridium species (většina kmenů C. difficile je rezistentních), Peptococcus species, Peptostreptococcus species a Fusobacterium species (včetně F. nucleatum).
+Je nevhodný k léčbě infekcí způsobených Pseudomonas aeruginosa, Acinetobacter sp.
+Neúčinkuje na streptokoky skupiny D, Streptococcus faecalis, Listeria monocytogenes, stafylokoky
+rezistentní na methicilin.
+5.2  Farmakokinetické vlastnosti
+Cefotaxim se v trávicím traktu dostatečně nevstřebává, podává se proto výhradně parenterálně.
+Po intramuskulární aplikaci jednorázové dávky 0,5 nebo 1 g cefotaximu zdravým dospělým osobám s normální funkcí ledvin je maximálních koncentrací v séru dosaženo přibližně za 30 minut po podání.
+Po intramuskulárním nebo intravenózním podání obvyklých dávek se cefotaxim široce distribuuje do tělesných tkání a tekutin včetně nitrooční tekutiny, bronchiálního sekretu, sputa, výpotku středního ucha, kostí, žluči, ascitu, pleurální tekutiny a prostatického sekretu.  Zdánlivý distribuční objem cefotaximu u dospělých je 0,22-0,29 l/kg.
+Cefotaxim se ze 13-38% váže na plazmatické bílkoviny.
+Po intramuskulární nebo intravenózní aplikaci obvyklých dávek cefotaximu dětem ve věku od 2 týdnů do 2 let s meningitidou není antimikrobiální aktivita antibiotika v mozkomíšním moku detekovatelná nebo je nižší než 1 mikrogram/ml. Po aplikaci cefotaximu v dávce 50 mg/kg každých 4-6 hodin v intravenózní injekci nebo infuzi trvající 30 minut bylo dosaženo antimikrobiální aktivity v mozkomíšním moku v rozmezí 1-13,2 µg/ml za jednu až čtyři hodiny po podání.
+Po intramuskulární nebo intravenózní aplikaci obvyklých dávek cefotaximu dosahuje antimikrobiální aktivita ve žluči 15-75% sérové aktivity a antimikrobiální aktivita ve žlučníku je až třikrát vyšší než aktivita v séru. Antimikrobiální aktivita v ascitické tekutině vykazuje 40% aktivity v krevním séru.
+
+Strana 7 z 9
+
+U pacientů léčených dávkou 2 g cefotaximu intravenózně každých 6 hodin dosahuje průměrná koncentrace cefotaximu v bronchiálním sekretu hodnoty 1,7 µg/ml a průměrná koncentrace desacetylcefotaximu hodnoty 5,8 µg/ml ve vzorcích odebraných za 1-2 hod po čtvrté dávce.
+Cefotaxim proniká placentární bariérou a antimikrobiální aktivita v amniové tekutině po opakovaném přívodu látky je stejná nebo vyšší než antimikrobiální aktivita v krevním séru matky.
+Cefotaxim je částečně metabolizován játry na desacetylcefotaxim, který má antibakteriální účinnost. U  dospělých  osob  s  normální  funkcí  ledvin  je  maximálních  plazmatických  koncentrací desacetylcefotaximu dosaženo za 45 minut po podání a tyto koncentrace se pohybují průměrně mezi 2,7 a 9,8 µg/ml.  Desacetylcefotaxim je v játrech částečně konvertován na inaktivní lakton desacetylcefotaximu, který je dále degradován na 2 neidentifikované inaktivní metabolity, označované jako UP1 a jeho optický isomer UP2.
+Cefotaxim a jeho metabolity jsou převážně vylučovány močí; lék je eliminován tubulární sekrecí. U dospělých pacientů s normální funkcí ledvin je přibližně 40-60% jednorázové intramuskulárně nebo intravenózně podané dávky vyloučeno během 24 hodin močí v nezměněné formě a asi 24% ve formě desacetylcefotaximu. Většina intramuskulárně nebo intravenózně aplikované dávky se vyloučí během prvních dvou hodin po podání.
+U dospělých s normální funkcí ledvin je plazmatická clearance cefotaximu 15 l/hod, renální clearance 9 l/hod a eliminační poločas 1,2 hod; plazmatická clearance desacetylcefotaximu činí 45 l/hod, renální clearance 13,2 l/hod a eliminační poločas 1,6 hod.
+Cefotaxim a jeho metabolity jsou eliminovatelné hemodialýzou.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Studie na zvířatech a testy in vitro neprokázaly mutagenní účinky cefotaximu.
+Studie hodnotící kancerogenní potenciál cefotaximu, nebyly provedeny.
+V reprodukčních studiích byly myším a potkanům aplikovány dávky až třicetkrát vyšší, než je běžná dávka pro člověka. Výsledky těchto studií neprokázány žádné známky nepříznivého vlivu cefotaximu na fertilitu ani na poškození plodu. Mláďata potkanů, kterým byl podáván cefotaxim v dávce 1,2 g/kg, vykázala nižší porodní hmotnost a jejich menší vzrůst přetrvával během prvních 21 dní života ve srovnání s mláďaty potkanů, kteří lék nedostávali. Adekvátně kontrolované studie u těhotných žen však nebyly provedeny. Proto by měl být cefotaxim v těhotenství podáván pouze tehdy, je-li to nezbytně nutné.
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Žádné.
+6.2  Inkompatibility
+Roztok Sefotaku se nesmí mísit s roztoky aminoglykosidů ani s roztoky jiných antibiotik. Pokud mají být Sefotak a aminoglykosidové antibiotikum podávány témuž pacientovi, musí být léky aplikovány odděleně, nikoliv smíšené v jedné injekci.
+6.3  Doba použitelnosti
+2 roky
+Po rekonstituci roztok ihned spotřebujte.
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte při teplotě do 25 ᵒC. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+
+
+Strana 8 z 9
+
+6.5  Druh obalu a obsah balení
+Injekční lahvička z bezbarvého skla, pryžová zátka, hliníkový uzávěr, červené polypropylenové víčko, krabička
+Velikost balení 1x1,0g
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Příprava roztoku pro injekci a aplikace injekce:
+Intramuskulární injekce:
+Pro přípravu intramuskulární injekce se obsah lahvičky rozpustí ve 4 ml vody pro injekci nebo v rozpouštědle obsahujícím 1% roztok lidokainu. Intramuskulární injekce se aplikuje hluboko do oblasti zevního horního kvadrantu musculi glutei maximi. Pokud se podává dávka větší než 2 g cefotaximu, má se rozdělit a aplikovat do dvou různých míst. Vyšší dávky je proto vhodnější podávat intravenózní cestou.
+Sefotak v kombinaci s lidokainem se nepoužívá při hypersenzitivitě na lidokain nebo jiné anestetikum amidového typu, při blokádě srdečního vedení, při závažném srdečním selhání, u dětí mladších 30 měsíců. Roztoky obsahující 1% lidokain se nesmí aplikovat intravenózně (viz bod 4.4. Zvláštní upozornění a opatření pro použití).
+Intravenózní injekce:
+Obsah injekční lahvičky se rozpustí ve 4 ml vody pro injekci. Příslušná dávka se poté podá přímo do žíly. Doba aplikace trvá 3-5 minut.
+Intravenózní infuze:
+Pro přerušovanou nebo kontinuální intravenózní infuzi má být Sefotak 1 g přidán do 50 ml 0,9% roztoku chloridu sodného nebo do 50 ml 5% roztoku glukózy. Aplikace naředěného roztoku má trvat 20 minut.
+Infuzní roztoky vhodné k ředění: 0,9% roztok chloridu sodného, 5% nebo 10% roztok glukózy, 5% roztok glukózy s 0,9% roztokem chloridu sodného, 5% roztok glukózy s 0,45% roztokem chloridu sodného, roztok Ringer-laktátu, roztok laktátu sodného (M/6), 10% roztok invertního cukru.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Bausch Health Ireland Limited
+3013 Lake Drive, Citywest Business Campus Dublin 24, D24PPT3
+Irsko
+
+8.   REGISTRAČNÍ ČÍSLO
+15/611/99-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 22.9.1999
+Datum posledního prodloužení registrace: 30.7.2014
+
+10.  DATUM REVIZE TEXTU
+9. 6. 2020
+
+
+
+Strana 9 z 9

@@ -1,0 +1,437 @@
+Sp. zn. sukls287441/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.   NÁZEV PŘÍPRAVKU
+
+Lanbica 150 mg potahované tablety
+
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna potahovaná tableta obsahuje bicalutamidum 150 mg. Pomocná látka se známým účinkem
+Jedna tableta obsahuje 181,32 mg monohydrátu laktosy.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Potahovaná tableta.
+
+Bílá, kulatá, bikonvexní, potahovaná tableta s vyraženým BCM 150 na jedné straně.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Přípravek Lanbica je indikován buď samostatně, nebo jako adjuvantní léčba k radikální prostatektomii nebo radioterapii u pacientů s lokálně pokročilým karcinomem prostaty s vysokým rizikem progrese nemoci (viz bod 5.1).
+
+Přípravek Lanbica je rovněž indikován k léčbě pacientů s lokálně pokročilým, nemetastazujícím karcinomem prostaty, u kterých se chirurgická kastrace nebo jiný lékařský zásah nepovažují za vhodné nebo přijatelné.
+4.2  Dávkování a způsob podání
+
+Dávkování
+Dospělí muži, včetně těch starších: Obvyklá dávka je jedna 150mg tableta perorálně jednou denně. Přípravek Lanbica má být užíván minimálně 2 roky nebo do progrese onemocnění.
+Speciální populace
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin není nutná žádná úprava dávky.
+
+Porucha funkce jater
+U pacientů s mírnou poruchou funkce jater není nutná žádná úprava dávkování. U pacientů se středně těžkou až těžkou poruchou funkce jater může dojít ke zvýšené kumulaci přípravku (viz bod. 4.4.).
+
+Pediatrická populace
+Bikalutamid není indikován k léčbě dětí a dospívajících (viz bod 4.3).
+
+
+
+1
+
+Způsob podání
+Tablety se polykají celé a zapíjejí se tekutinou.
+
+4.3  Kontraindikace
+
+Bikalutamid je kontraindikován u žen a dětí (viz bod 4.6).
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+Společné podávání terfenadinu, astemizolu nebo cisapridu s přípravkem Lanbica je kontraindikováno
+(viz bod 4.5).
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Zahájení léčby má probíhat pod dohledem specializovaného lékaře.
+Bikalutamid je výrazně metabolizován v játrech. Údaje naznačují, že u osob se závažnou poruchou jaterních funkcí může být eliminace zpomalená, což může vést ke zvýšené kumulaci bikalutamidu. Proto by bikalutamid měl být pacientům se středně těžkou až těžkou poruchou funkce jater podáván s opatrností.
+
+Vzhledem k možnosti jaterních změn je třeba provádět opakovaná vyšetření jaterních testů. Očekává se, že většina změn se objeví v průběhu prvních 6 měsíců léčby bikalutamidem.
+
+Závažná porucha funkce jater a selhání jater byla při užívání bikalutamidu pozorována zřídka a byly hlášeny fatální případy (viz bod 4.8). Léčba bikalutamidem má být ukončena, pokud jsou změny jaterních funkcí závažné.
+U pacientů, kteří mají objektivní progresi choroby spolu se zvýšením PSA, je nutno zvážit ukončení léčby bikalutamidem.
+
+Je prokázáno, že bikalutamid inhibuje cytochrom P450 (CYP 3A4), proto pokud je podáván společně s léky, které jsou metabolizovány zvláště CYP 3A4, je třeba pacientům věnovat zvláštní pozornost (viz bod 4.3 a 4.5).
+Ve vzácných případech byly u pacientů užívajících bikalutamid v dávce 150 mg hlášeny fotosenzitivní reakce. Pacienty je nutno poučit, aby se během léčby bikalutamidem v dávce 150 mg vyhýbali silnému přímému slunečnímu světlu nebo UV záření, přičemž lze zvážit používání opalovacích krémů. Tam, kde fotosenzitivní reakce přetrvává déle a/nebo je závažná, je nutno zahájit příslušnou symptomatickou léčbu.
+
+Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktasy nebo
+malabsorpcí glukosy a galaktosy nemají tento přípravek užívat.
+
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je v podstatě „bez sodíku“.
+Androgen-deprivační léčba může prodlužovat QT interval.
+Před zahájením léčby bikalutamidem má lékař zvážit poměr přínosů a rizik, včetně rizika Torsade de pointes, u pacientů s rizikovými faktory pro prodloužení QT intervalu v anamnéze a u pacientů souběžně užívajících léčivé přípravky, které mohou prodlužovat QT interval (viz bod 4.5).
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+In vitro studie prokázaly, že R-enantiomer bikalutamidu je inhibitor CYP 3A4 s menším inhibičním účinkem na aktivitu CYP 2C9, 2C19 a 2D6.
+
+
+2
+
+Ačkoli klinické studie používající antipyrin jako marker aktivity cytochromu P450 (CYP) neprokázaly žádný průkaz možných lékových interakcí s bikalutamidem, průměrná expozice midazolamu (AUC) byla po společném podávání s bikalutamidem po dobu 28 dnů zvýšena na 80 %. U léků s úzkým terapeutickým indexem může být i takové zvýšení významné. Proto je společné podávání
+s terfenadinem, astemizolem a cisapridem kontraindikováno (viz bod 4.3) a společnému podávání bikalutamidu s přípravky, jako jsou cyklosporin a blokátory kalciových kanálů, má být věnována zvláštní pozornost. U těchto léků může být nutné snížení dávky, zvláště pokud dochází k zesílení účinku nebo k nežádoucím účinkům. U cyklosporinu je po zahájení nebo přerušení léčby bikalutamidem doporučeno pečlivé monitorování plazmatických koncentrací a klinického stavu.
+Pokud je bikalutamid předepisován s dalšími léky, které inhibují oxidaci bicalutamidu, jako je např. cimetidin a ketokonazol, je třeba tomu věnovat zvláštní pozornost. Teoreticky by toto mohlo vést ke zvýšení plazmatických koncentrací bikalutamidu a zvýraznění nežádoucích účinků.
+
+Studie in vitro prokázaly, že bikalutamid může vytěsňovat kumarinové antikoagulans warfarin z jeho vazebného místa. Pokud je nutné zahájit léčbu bikalutamidem u pacientů, kteří již užívají kumarinová antikoagulancia, je třeba pečlivě monitorovat protrombinový čas.
+Kvůli souvislosti androgen-deprivační léčby a prodloužení QT intervalu má být pečlivě zvážena souběžná léčba bikalutamidem s léčivými přípravky, o kterých je známo, že prodlužují QT interval, a léčba přípravky, které mohou vyvolat Torsade de pointes, jako antiarytmika třídy I A (např. chinidin, disopyramid), třídy III (např. amiodaron, sotalol, dofetilid, ibutilid), metadon, moxifloxacin, antipsychotika a další (viz bod 4.4.).
+
+Pediatrická populace
+Interakční studie byly prováděny pouze u dospělých.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Bikalutamid je u žen kontraindikován a nesmí být podáván těhotným ženám.
+
+Kojení
+Bikalutamid je kontraindikován během kojení.
+
+Fertilita
+Během studií na zvířatech bylo pozorováno reverzibilní zhoršení mužské plodnosti (viz bod 5.3). U
+mužů by se mělo počítat s obdobím snížené plodnosti nebo neplodnosti.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Je nepravděpodobné, že by bikalutamid ovlivňoval schopnost řídit a obsluhovat stroje. Je však třeba zmínit, že občas může vyvolávat ospalost. Pacientům, kterých se to týká, má být věnována zvláštní pozornost.
+4.8  Nežádoucí účinky
+
+V tomto bodě jsou nežádoucí účinky definovány následovně: Velmi časté (≥1/10); časté (≥1/100 až
+<1/10); méně časté (≥1/1000 až <1/100); vzácné (≥1/10000 až <1/1000); velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit).
+
+Tabulka     1:     Frekvence     nežádoucích     účinků                  
+
+Třídy orgánových systémů
+Poruchy krve a
+Frekvence        Příhoda
+
+Časté           Anémie
+                  lymfatického        systému                          
+
+3
+
+Poruchy imunitního systému
+Poruchy metabolismu a
+výživy
+Méně časté        Hypersenzitivita, angioedém a kopřivka
+Časté           Snížená chuť k jídlu
+Psychiatrické poruchy     Časté           Snížení libida, deprese
+
+Poruchy nervového systému
+Časté           Závrať, somnolence
+Srdeční poruchy        Není známo        Prodloužení QT intervalu (viz bod
+4.4 a 4.5)
+Cévní poruchy         Časté           Návaly horka
+
+Respirační, hrudní a mediastinální poruchy
+Méně časté        Intersticiální plicní onemocněníᵉ (byly hlášeny fatální případy)
+Gastrointestinální poruchy  Časté           Bolest břicha, zácpa, dyspepsie,
+flatulence, nauzea
+
+
+
+
+Poruchy jater a žlučových
+cest
+Časté           Hepatotoxicita, žloutenka, hypertransaminázémieᵃ
+Vzácné          Jaterní selháníᵈ (byly hlášeny fatální případy)
+
+Poruchy kůže a podkožní tkáně
+Velmi časté Časté
+
+Vzácné
+Vyrážka
+Alopecie, hirsutismus/obnovení růstu vlasů, suchá kůžeᶜ, pruritus Fotosenzitivní reakce
+
+Poruchy ledvin a močových
+cest
+Poruchy reprodukčního systému a prsu
+Časté           Hematurie
+
+Velmi časté       Gynekomastie a pocit pnutí v prsuᵇ
+
+Časté           Erektilní dysfunkce
+
+Celkové poruchy a reakce v místě aplikace
+Velmi časté
+Časté
+Astenie
+Bolest na hrudi, otoky
+Vyšetření           Časté           Nárůst tělesné hmotnosti
+
+ᵃ    Jaterní změny jsou jen zřídka závažné a často byly přechodné, odezněly nebo se zlepšily
+v průběhu léčby nebo po přerušení léčby.
+ᵇ    U většiny pacientů, kteří užívali 150 mg bikalutamidu jako monoterapii, se objevila gynekomastie a/nebo bolest prsů. Tyto příznaky byly ve studiích považovány za závažné přibližně u 5 % pacientů. Gynekomastie se nemusí po skončení léčby spontánně upravit, zvláště po dlouhodobé léčbě.
+ᶜ    Vzhledem ke kódovacím konvencím užitých ve studiích EPC byl nežádoucí účinek „suchá kůže“ zaznamenán pod COSTART pojmem „vyrážka“. Proto nelze oddělit četnosti pro 150 mg bikalutamidu, nicméně se předpokládá stejná frekvence pro dávku 50 mg.
+ᵈ    Zaznamenáno jako nežádoucí účinek přípravku po vyhodnocení post-marketingových údajů.
+Četnost byla stanovena z výskytu hlášení nežádoucího účinku jaterního selhání u pacientů léčených 150 mg bikalutamidu v otevřené větvi studií EPC.
+ᵉ    Zaznamenáno jako nežádoucí účinek přípravku po vyhodnocení post-marketingových údajů.
+Četnost byla stanovena z výskytu hlášení nežádoucího účinku intersticiální pneumonie
+v randomizované 150 mg léčebné periodě studií EPC.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+4
+
+Státní ústav pro kontrolu léčiv Šrobárova 48,
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Nebyl hlášen žádný případ předávkování. Neexistuje specifické antidotum; léčba má být symptomatická. Dialýza pravděpodobně nebude účinná, protože bikalutamid je významně vázán na plazmatické proteiny a není vylučován v nezměněné formě močí. Jsou indikována obecná podpůrná opatření, včetně častého monitorování vitálních známek.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antiandrogeny, ATC kód: L02B B03 Mechanismus účinku
+Bikalutamid je nesteroidní antiandrogen; prostý jiné endokrinní aktivity. Váže se na „divoký“ nebo normální androgenní receptor bez aktivace genové exprese a tím inhibuje androgenní stimul.
+Důsledkem této inhibice je regrese nádoru prostaty. Klinicky může u podsouboru pacientů vést vysazení bikalutamidu k „syndromu z vysazení antiandrogenů“.
+
+Klinická účinnost a bezpečnost
+Bikalutamid 150 mg byl studován jako přípravek k léčbě pacientů s lokalizovaným (T1-T2, N0 nebo NX, M0) nebo lokálně pokročilým (T3-T4, jakékoliv N, M0; T1-T2, N+, M0) nemetastatickým nádorem prostaty v kombinované analýze tří placebem kontrolovaných, dvojitě zaslepených studií, provedených celkem na 8113 pacientech, kdy byl bikalutamid podáván jako okamžitá hormonální léčba nebo jako adjuvantní léčba k radikální prostatektomii nebo radioterapii (především ozařování vnějším svazkem). Při další době sledování s mediánem 9,7 roku došlo u 36,6 % a 38,17 % všech pacientů léčených bikalutamidem a pacientů léčených placebem, v uvedeném pořadí, k objektivní progresi onemocnění.
+
+Snížení rizika objektivní progrese onemocnění bylo pozorováno ve všech skupinách pacientů, nejpatrnější však bylo u pacientů s nejvyšším rizikem progrese onemocnění. Proto se mohou kliničtí lékaři rozhodnout, že optimální léčebná strategie pro pacienta s nízkým rizikem progrese onemocnění, především při adjuvantní léčbě po radikální prostatektomii, může spočívat v odložení hormonální terapie, dokud se neobjeví známky progrese choroby.
+Při délce sledování s mediánem 9,7 roku nebyl pozorován rozdíl v celkovém přežití s mortalitou 31,4
+% (HR = 1,01; 95% CI 0,94 až 1,09). Některé trendy však byly zjevné při výzkumné analýze
+podskupin.
+Údaje vztahující se k přežití bez progrese a celková data vztahující se k přežití v čase založené na Kaplan-Meierových odhadech u pacientů s lokálně pokročilým onemocněním jsou souhrnně uvedeny v následujících tabulkách:
+
+Tabulka 2: Podíl lokálně pokročilého onemocnění pacientů s progresí onemocnění v čase podle
+podskupin léčby
+
+Analyzovaná    Léčebná skupina Příhody (%) za 3 Příhody (%) za Příhody (%) za Příhody (%) za 10
+
+populace
+roky
+5 let
+7 let
+let
+Vyčkávání pod   bikalutamid 150 19,7 %      36,3 %     52,1 %     73,2 %
+
+5
+
+dohledem (n=657)
+
+Radioterapie (n=305)
+
+Radikální prostatektomie (n=1719)
+mg placebo
+bikalutamid 150 mg
+placebo
+bikalutamid 150 mg
+placebo
+
+39,8 %
+13,9 %
+
+30,7 %
+7,5 %
+
+11,7 %
+
+59,7 %
+33,0 %
+
+49,4 %
+14,4 %
+
+19,4 %
+
+70,7 %
+42,1 %
+
+58,6 %
+19,8 %
+
+23,2 %
+
+79,1 %
+62,7 %
+
+72,2 %
+29,9 %
+
+30,9 %
+
+Tabulka 3: Celková míra přežití u lokálně pokročilého onemocnění podle podskupin členěných dle léčby
+
+Analyzovaná
+populace
+Vyčkávání pod dohledem (n=657)
+Radioterapie (n=305)
+
+Radikální prostatektomie (n=1719)
+Léčebná
+skupina
+bikalutamid 150 mg
+placebo
+bikalutamid 150 mg
+placebo
+bikalutamid 150 mg
+placebo
+Příhody(%) za 3 roky
+14,2 %
+
+17,0 %
+8,2 %
+
+12,6 %
+4,6 %
+
+4,2 %
+Příhody (%)
+za 5 let
+29,4 %
+
+36,4 %
+20,9 %
+
+23,1 %
+10,0 %
+
+8,7 %
+Příhody (%) za
+7 let
+42,2 %
+
+53,7 %
+30,0 %
+
+38,1 %
+14,6 %
+
+12,6 %
+Příhody (%) za
+10 let
+65,0 %
+
+67,5 %
+48,5 %
+
+53,3 %
+22,4 %
+
+20,2 %
+
+U pacientů s lokalizovaným onemocněním, jimž byl podáván pouze bikalutamid, nebyl signifikantní rozdíl v přežití bez progrese onemocnění. U pacientů s lokalizovanou chorobou, kteří byli léčeni bikalutamidem jako adjuvantní léčbou, nebyl po radioterapii (HR=0,98; 95% CI 0,80 až 1,20) nebo radikální prostatektomii (HR=1,03; 95% CI 0,85 až 1,25) zjištěn žádný významný rozdíl v celkovém přežití. U pacientů s lokalizovanou chorobou, kteří by jinak byli pod dohledem, byl patrný trend k nižší míře přežití ve srovnání s pacienty dostávajícími placebo (HR = 1,15; 95% CI 1,00 až 1,32).
+Vzhledem k tomu není profil pro užívání bikalutamidu u pacientů s lokalizovanou chorobou
+považován za příznivý.
+
+V samostatném programu byla v kombinované analýze 2 studií se 480 do té doby neléčenými pacienty s nemetastazujícím (M0) karcinomem prostaty prokázána účinnost bikalutamidu při léčbě pacientů s lokálně pokročilým nemetastazujícím karcinomem prostaty, u kterých byla indikována okamžitá kastrace. Při 56% mortalitě a mediánu doby následného pozorování 6,3 roku nebyl mezi bikalutamidem a kastrací žádný významný rozdíl v přežití (poměr rizik = 1,05 [CI 0,81 až 1,36]); nicméně ekvivalence těchto dvou způsobů léčby nemohla být statisticky potvrzena.
+
+V kombinované analýze 2 studií s 805 do té doby neléčenými pacienty s metastatickou (M1) chorobou při 43% mortalitě, bylo prokázáno, že léčba bikalutamidem v dávce 150 mg je méně účinná než kastrace, pokud jde o dobu přežití (poměr rizik = 1,30 [CI 1,04 až1,65]) s odhadovaným rozdílem 42 dnů (6 týdnů) při střední době přežití 2 roky.
+
+Bikalutamid je racemát s antiandrogenním účinkem, který je přítomný téměř výhradně jako R- enantiomer.
+
+Pediatrická populace
+U dětských pacientů nebyly prováděny žádné studie (viz bod 4.3 a 4.6).
+
+
+
+
+
+6
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Bikalutamid je po perorálním podání velmi dobře absorbován. Není prokázáno, že by jídlo mělo klinicky významný účinek na jeho biologickou dostupnost.
+
+Distribuce
+Bikalutamid se silně váže na proteiny (racemát 96 % (R)-enantiomer >99 %) a rozsáhle se metabolizuje (oxidací a glukuronidací): jeho metabolity se eliminují ledvinami a žlučí v přibližně stejných podílech.
+
+Biotransformace
+(S)-enantiomer je relativně rychle odstraňován v porovnání s (R)-enantiomerem, jehož plazmatický poločas eliminace je asi 1 týden.
+Při pravidelném podávání bikalutamidu jednou denně se (R)-enantiomer kumuluje asi desetinásobně v plazmě, v důsledku dlouhého eliminačního poločasu.
+Při každodenním podávání bikalutamidu v dávce 150 mg se v rovnovážném stavu pozorují plasmatické koncentrace (R)-enantiomeru přibližně 22 mikrogramů/ml. V rovnovážném stavu přispívá hlavní aktivní (R)-enantiomer k celkovému počtu obíhajících enantiomerů 99 % .
+
+Eliminace
+V klinické studii střední hodnota koncentrace R-bikalutamidu ve spermatu mužů léčených bikalutamidem v dávce 150 mg byla 4,9 mikrogramu/ml. Množství bikalutamidu potenciálně dodaného během styku partnerce je nízké a rovná se přibližně 0,3 µg/kg. Tato hodnota je pod hodnotou potřebnou k navození změn u potomstva laboratorních zvířat.
+
+Zvláštní populace
+Farmakokinetika (R)-enantiomeru není ovlivněna věkem, poruchou funkce ledvin ani mírnou či středně těžkou poruchou funkce jater. Existují důkazy, že u subjektů s těžkou poruchou funkce jater se (R)-enantiomer z plasmy eliminuje pomaleji.
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Bikalutamid je u zvířat silný antiandrogen a induktor oxidačních enzymů se smíšenou funkcí. Změny cílových orgánů u zvířat včetně indukce tumoru (Leydigových buněk, štítné žlázy, jater) mají vztah k těmto aktivitám. Indukce enzymů nebyla dosud u člověka pozorována a žádný z těchto nálezů nemá zřejmě vliv na léčbu pacientů s rakovinou prostaty. Atrofie semenotvorných tubulů je efekt předpokládaný u třídy antiandrogenů a byla pozorována u všech zkoumaných druhů. Úplná reverze testikulární atrofie byla pozorována 24 týdnů po 12 měsících opakované dávky ve studii toxicity u potkanů, ačkoli funkční zvrat byl evidentní v reprodukční studii sedm týdnů po ukončení 11 týdenního dávkovacího období. V úvahu má být u mužů bráno období subfertility nebo neplodnosti.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Jádro tablety Monohydrát laktosy Krospovidon Povidon K 29-32
+
+
+7
+
+Magnesium-stearát Natrium-lauryl-sulfát
+
+Potah tablety Monohydrát laktosy Hypromelosa Makrogol 4000
+Oxid titaničitý (E171).
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+5 let
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+PVC/PE/PVDC/Al blistr, krabička. Velikost balení
+5, 7, 10, 14, 20, 28, 30, 40, 50, 56, 80, 84, 90, 98, 100, 140, 200 nebo 280 potahovaných tablet.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Žádné zvláštní požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Sandoz s.r.o., Na Pankráci 1724/129, 140 00 Praha 4 - Nusle, Česká republika
+
+8.   REGISTRAČNÍ ČÍSLO
+44/518/07-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 15. 8. 2007
+Datum posledního prodloužení registrace: 28. 7. 2011
+
+10.  DATUM REVIZE TEXTU
+
+21. 12. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+8

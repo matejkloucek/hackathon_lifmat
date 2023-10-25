@@ -1,0 +1,402 @@
+Tento dokument je odbornou informací k léčivému přípravku, který je předmětem specifického léčebného programu. Odborná informace byla předložena žadatelem o specifický léčebný program. Nejedná se o dokument schválený Státním ústavem pro kontrolu léčiv.
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+
+PENTACARINAT 300 mg prášek pro přípravu injekčního roztoku nebo roztoku do rozprašovače
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna lahvička prášku obsahuje 300 mg pentamidin isethionátu. Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Prášek pro přípravu injekčního roztoku nebo roztoku do rozprašovače.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1 Oblast použití
+
+Injekční roztok
+Léčba následujících onemocnění:
+-  Zánět plic způsobený původcem Pneumocystis carinii u oslabených pacientů nebo u pacientů se sníženou obranyschopností organismu, jako např. u pacientů s AIDS. Pentamidin isethionát je vhodný zejména pro pacienty, kteří mají alergii na sulfonamidy a v případech nesnášenlivosti nebo rezistence na kotrimoxazol.
+-  Leishmanióza (viscerální a kožní), včetně případů rezistentních na léčbu pentavalentními sloučeninami antimonu.
+-  Africká trypanosomóza: u časného stadia spavé nemoci s původcem Trypanosoma gambiense.
+
+Roztok do rozprašovače
+Prevence zánětů plic způsobeného původcem Pneumocystis carinii u oslabených pacientů nebo u pacientů se sníženou obranyschopností organismu, jako například v případě závažného snížení imunity v důsledku infekce HIV (viru lidské imunodeficience).
+
+4.2 Dávkování a způsob podání
+
+Způsob podání
+Pentamidin isethionát by měl být vždy podáván pacientům v poloze na zádech, buď hlubokou intramuskulární injekcí nebo pomalou infuzí (zředěný roztok pentamidin isethionátu by měl být podáván pomalou infuzí trvající alespoň 60 minut). Nesmí se podávat intravenózním bolusem.
+Příprava viz bod 6.6. Dávkování
+
+
+1/9
+
+Pro dospělé, děti a kojence je doporučena následující dávka:
+-  Při zápalu plic způsobeného Pneumocystis carinii: 4 mg pentamidin isethionátu na kg tělesné hmotnosti jednou denně po dobu nejméně 14 dnů, nejlépe pomalou infuzí.
+-  Při viscerální leishmanióze (Kala-azar): 3-4 mg pentamidin isethionátu na kg tělesné hmotnosti obden, maximálně 10 injekcí, podání nejlépe intramuskulární injekcí. V případě potřeby lze cyklus opakovat.
+-  Při kožní leishmanióze: 3-4 mg pentamidin isethionátu na kg tělesné hmotnosti 1–2krát týdně intramuskulárně až do vyléčení.
+-  Při trypanosomiáze: 4 mg pentamidin isethionátu na kg tělesné hmotnosti jednou denně nebo obden. Celkem může být podáno 7–10 injekcí. Přípravek může být podáván intramuskulárně nebo jako pomalá infuze.
+U starších pacientů není nutná žádná úprava doporučeného dávkování. V případě renální insuficience (clearance kreatininu <10 ml/min):
+-  Při život ohrožujícím zápalu plic způsobeným Pneumocystis carinii: 4 mg/kg tělesné hmotnosti jednou denně po dobu 7-10 dnů a poté 4 mg/kg tělesné hmotnosti obden až do ukončení léčebného cyklu nejméně 14 dávek. U méně závažných případů je dávka 4 mg/kg tělesné hmotnosti obden až do ukončení léčebného cyklu nejméně 14 dávek.
+Při léčbě leishmaniózy a trypanosomiázy není nutné snižovat dávky. U pacientů s jaterní insuficiencí není nutné žádné specifické dávkování.
+
+Roztok do rozprašovače
+
+Způsob podání
+Aplikace aerosolu musí být prováděna pomocí rozprašovačů schopných dodávat dávku pentamidinu v částicích o průměru menším než 5 μm a nejlépe částicích o velikosti mezi 1 a 2 μm, které zaručují největší distribuci léčiva do plicních sklípků.
+Při použití víceúčelových rozprašovačů je potřeba vyměnit nádržku a hadičku nebo je sterilizovat. Příprava ředěním viz bod 6.6.
+Rozprašovač by se neměl používat k podávání bronchodilatancií.
+Veškerý pentamidin by měl být rozprášen pomocí rozprašovače vybaveného náustkem, který musí být vložený v ústech po dobu nebulizace, obvykle po dobu 15 až 30 minut. Je třeba, aby byl rozprašovač také vybaven vzduchovým filtrem, aby nedocházelo k uvolňování léčivého přípravku do životního prostředí během vydechování.
+
+Dávkování
+Dospělí: doporučená dávka je 300 mg jednou za 4 týdny.
+Pokud potřebujete přerušit inhalaci, je potřeba zařízení vypnout. Chcete-li použít rozprašovač, dodržujte technické vlastnosti související s fungováním zařízení (průtok plynu v pneumatickém inhalátoru, UZ vibrační frekvence křemene).
+Dosud nebyla studována bezpečnost a účinnost přípravku Pentacarinat ve formě aerosolu u pediatrických pacientů.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku uvedenou v bodě 6.1. Dětský věk pouze u přípravku do rozprašovače.
+Těhotenství a kojení (viz bod 4.6).
+4.4 Zvláštní upozornění a opatření při užívání
+Pentamidin isethionát by měl být používán se zvláštní opatrností u pacientů s poškozením funkce jater a/nebo ledvin, s hypertenzí nebo hypotenzí, s hyperglykémií nebo hypoglykémií, leukopenií, trombocytopenií nebo anémií (viz bod 4.8).
+
+
+
+
+
+
+2/9
+
+U pacientů, kterým byl podán pentamidin isethionát intramuskulárně nebo intravenózně, byly hlášeny závažné, někdy smrtelné případy těžké hypotenze, hypoglykémie, akutní pankreatitidy a srdečních arytmií.
+Hodnoty krevního tlaku by měly být zjišťovány na začátku a injekce by měly být pacientovi podávány v poloze na zádech. V průběhu podávání přípravku až po ukončení léčby je třeba pečlivě a v pravidelných intervalech kontrolovat krevní tlak.
+Pacienti, kterým je pentamidin podáván pomocí inhalace, by proto měli být pečlivě sledováni vzhledem k možnému rozvoji závažných nežádoucích účinků.
+
+Pentamidin isethionát může způsobit prodloužení QT intervalu. Při podávání pentamidin isethionátu byly v ojedinělých případech hlášeny srdeční arytmie projevující se prodloužením QT intervalu, jako je torsades de pointes. Proto by měl být lék používán s opatrností u pacientů s onemocněními, o nichž je známo, že zvyšují proarytmické riziko, včetně pacientů se syndromem prodlouženého QT intervalu, srdečním onemocněním (např. ischemickou chorobou srdeční, srdeční insuficiencí), anamnézou komorových arytmií, s hypokalémií a/nebo nekorigovanou hypomagnezémií, s bradykardií (<50 tepů za minutu) nebo u pacientů užívajících pentamidin isethionát souběžně s léky, které prodlužují QT interval (viz také bod 4.5).
+Zvláštní pozornost je nutná, pokud během podávání pentamidin isethionátu QTc interval přesáhne 500 ms. V takovém případě je třeba zvážit nepřetržité monitorování srdečních funkcí. Pokud interval QTc překročí 550 ms, měla by se zvážit jiná terapie.
+
+Laboratorní kontroly: před, během a po léčbě musí být provedeny následující testy:
+1) azotémie a kreatininémie denně v průběhu léčby;
+2) kompletní krevní obraz a počet krevních destiček denně v průběhu léčby;
+3)  glykémie nalačno denně v průběhu léčby a v pravidelných intervalech po ukončení léčby. Hyperglykémie a diabetes mellitus, s hypoglykémií v anamnéze, ale i bez ní, se objevily i za několik měsíců po ukončení léčby;
+4)  testy jaterních funkcí včetně bilirubinu, alkalické fosfatázy, aspartátaminotransferázy (AST) a alaninaminotransferázy (ALT). Pokud bazální hodnoty jsou a zůstanou během léčby v normálu, test by měl být proveden jednou týdně. Pokud jsou bazální hodnoty vysoké nebo se během léčby zvyšují, test by měl být proveden alespoň jednou týdně. Pokud je pacient souběžně léčen jinými hepatotoxickými léky, je třeba provádět testy za 3-5 dnů;
+5) kalcémie každý týden; magnezémie dvakrát týdně;
+6) analýza moči a sérových elektrolytů denně v průběhu léčby;
+7) elektrokardiogram v pravidelných intervalech.
+
+Po podávání pentamidin isethionátu u dětí i dospělých byly hlášeny případy parestézie končetin a případy obličejové a periorální hypestézie. Tyto případy se vyskytly během nebo bezprostředně po podání a odezněly po dokončení nebo přerušení léčby.
+
+Roztok do rozprašovače
+Přínos léčby inhalačním pentamidinem u pacientů s vysokým rizikem pneumotoraxu musí být zvážen s ohledem na klinické důsledky v případě jeho výskytu.
+U pacientů podstupujících profylaxi pomocí přípravku Pentacarinat se stále mohou vyvinout akutní epizody zápalu plic způsobeného P. carinii (PCP).
+Proto by pacienti vykazující příznaky plicní infekce, jako je dušnost, horečka, kašel a další, měli podstoupit důkladné lékařské vyšetření a vhodné diagnostické testy, aby se ověřil možný PCP v akutní fázi nebo přítomnost jiných oportunních a neoportunních patogenů.
+Použití přípravku Pentacarinat může změnit klinický a rentgenový obraz PCP s atypickými výsledky, který může naznačovat mírný projev onemocnění nebo fokální infekci.
+
+
+
+
+
+
+
+
+
+
+
+3/9
+
+Před zahájením profylaxe přípravkem Pentacarinat je třeba se ujistit, že pacienti nemají PCP. Doporučená dávka přípravku Pentacarinat pro prevenci PCP není při léčbě akutní fáze tohoto onemocnění dostačující.
+Vdechování pentamidin isethionátu může vyvolat kašel a/nebo bronchospazmus, a to zejména u astmatiků nebo kuřáků. V tomto případě je nutné inhalaci aerosolu dočasně zastavit a podat bronchodilatátor ve spreji. Po 10 minutách může být inhalace obnovena. 10 minut před zahájením inhalační léčby by se u těchto pacientů měla aplikovat premedikace bronchodilatátorem.
+Dosud není známo, zda existují, a jaké mohou být důsledky akumulace pentamidinu po dlouhodobém lokálním podávání bronchiální cestou.
+Proto je nutná opatrnost u pacientů s respirační dysfunkcí se sklonem k bronchokonstrikci, hypo- nebo hyperglykémii, s dysfunkcí ledvin nebo jater, leukopenií, trombocytopenií nebo anémií.
+Zejména tito pacienti, a obecně všichni pacienti podstupující léčbu, musí být pod přísným lékařským dohledem, aby bylo možné okamžitě detekovat zhoršení výše zmíněných již dříve přítomných onemocněních nebo nástup dalších relevantních vedlejších účinků hlášených po parenterálním podání pentamidinu.
+Byl hlášen vzácný výskyt extrapulmonálních infekcí způsobných Pneumocystis carinii, a téměř vždy se jednalo o pacienty s anamnézou PCP.
+Při vyšetřování pacientů s nevysvětlitelnými symptomy a příznaky je třeba vzít v úvahu možnost extrapulmonální pneumocystózy.
+Environmentální a pracovní rizika – je třeba dbát na to, aby se zabránilo uvolnění pentamidinu do životního prostředí.
+Adekvátní větrání místnosti může pomoci snížit riziko senzibilizace zdravotnického personálu. Pokud dojde k odstranění masky z obličeje v průběhu léčby, měl by být rozprašovač vypnutý. Doporučuje se také dostatečně větrat terapeutické prostředí, aby se minimalizovalo riziko přenosu dalších respiračních patogenů, jako jsou Mycobacterium tuberculosis a Mycobacterium avium- intracellulare, které se mohou mohou náhodným kašláním během léčby dostat do vzduchu.
+Pentamidin isethionát může vyvolat prodloužení QT intervalu. Byly pozorovány vzácné případy prodloužení QT intervalu a srdeční arytmie včetně torsades de pointes. Proto by měl být pentamidin isethionát používán s opatrností u pacientů s ischemickou chorobou srdeční, anamnézou komorových arytmií, neléčenou hypokalémií a/nebo hypomagnezémií, bradykardií (frekvence <50 tepů za minutu) a u pacientů podstupujících souběžnou léčbu s léky, které mohou prodloužit QT interval.
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+
+Nebyly provedeny žádné specifické studie interakcí přípravku Pentacarinat používaným v aerosolové terapii s jinými léčivými přípravky. Souběžné podávání přípravku s ACE inhibitory a beta-blokátory může zvýšit výskyt kašle a bronchokonstrikce, a to zejména u astmatiků.
+Pentamidin isethionát by měl být podáván s opatrností v kombinaci s:
+-  léky, které mohou prodloužit QT interval, jako jsou fenothiaziny, tricyklická antidepresiva, terfenadin a astemizol, intravenózní erytromycin, halofantrin a chinolonová antibiotika (viz také bod 4.4);
+-  foscarnetem - riziko hypokalcémie.
+
+4.6 Plodnost, těhotenství a kojení
+
+Těhotenství
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4/9
+
+Nejsou k dispozici žádné údaje o bezpečnosti užívání pentamidin isethionátu v těhotenství. Po inhalačním podání pro profylaktické účely byl hlášen případ spontánního potratu v prvním trimestru těhotenství. Tento léčivý přípravek by neměl být užíván během těhotenství, pokud to není nezbytně nutné.
+
+Kojení
+Užívání pentamidin isethionátu je kontraindikováno u kojících žen, pokud jeho užívání lékař nevyhodnotí jako naprosto nezbytné.
+
+Plodnost
+Nejsou k dispozici žádné údaje o účincích pentamidinu na plodnost u zvířat nebo lidí.
+
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Nejsou známy žádné účinky pentamidinu na schopnost řídit nebo obsluhovat stroje. Vzhledem k riziku závratí je nutná opatrnost.
+4.8 Nežádoucí účinky
+
+Nežádoucí účinky byly klasifikovány podle jejich četnosti pomocí následující konvence:
+velmi časté (≥1/10); časté (≥1/100, <1/10); méně časté (≥1/1.000, <1/100); vzácné (≥1/10.000,
+<1/1.000); velmi vzácné (<1/10.000); není známo (z dostupných údajů nelze četnost odhadnout)
+
+Parenterální podání
+Poruchy krve a lymfatického systému:
+Časté: leukopenie, trombocytopenie, anémie.
+Poruchy imunitního systému:
+Není známo: hypersenzitivní reakce, včetně anafylaktických reakcí a anafylaktického šoku, angioedém
+Poruchy metabolismu a výživy:
+Velmi časté: hyperazotémie
+Časté: hypoglykémie, hyperglykémie, diabetes mellitus s nebo bez anamnézy hypoglykémie s
+výskytem až několik měsíců po ukončení léčby, hyperkalémie, hypokalcémie, hypomagnezémie.
+Poruchy nervového systému:
+Časté: synkopa, závratě.
+Není známo: při intravenózním podání u dětí i dospělých byla hlášena parestézie končetin a obličejová a periorální hypestézie. Tyto případy se vyskytly během nebo bezprostředně po podání
+i.v. infúze a odezněly po dokončení nebo přerušení léčby.
+Srdeční poruchy:
+Vzácné: prodloužení QT intervalu, srdeční arytmie
+Není známo: torsades de pointes, bradykardie.
+Cévní poruchy:
+Časté: hypotenze, zrudnutí Gastrointestinální poruchy:
+
+
+
+
+
+
+5/9
+
+Časté: nevolnost a zvracení, změny chuti
+Vzácné: pankreatitida
+Hepatobiliární poruchy:
+Časté: abnormální testy jaterních funkcí
+Poruchy kůže a podkožní tkáně:
+Časté: kožní vyrážka
+Není známo: Stevens-Johnsonův syndrom
+
+Poruchy ledvin a močových cest:
+Velmi časté: akutní selhání ledvin, silná hematurie.
+
+Celkové poruchy a reakce v místě aplikace:
+Velmi časté: lokální reakce různé závažnosti, od nepohodlí a bolesti po zatvrdnutí, tvorbu abscesů a nekrózu svalů.
+Není známo: po intramuskulárním podání byla hlášena rabdomyolýza.
+
+Bylo také pozorováno zvýšení sérové kreatinfosfokinázy (CPK) a laktátdehydrogenázy (LDH).
+
+
+Inhalační podání
+Poruchy imunitního systému:
+Není známo: hypersenzitivní reakce, včetně anafylaktických reakcí a anafylaktického šoku, angioedém
+Poruchy metabolismu a výživy:
+Není známo: hypoglykémie
+Poruchy nervového systému:
+Není známo: mírná zmatenost
+
+Srdeční poruchy:
+Vzácné: prodloužení QT intervalu, srdeční arytmie
+Není známo: torsades de pointes, bradykardie.
+Cévní poruchy:
+Není známo: hypotenze
+Respirační, hrudní a mediastinální poruchy:
+Časté: lokální reakce různé závažnosti od kašle, dušnosti, dušnosti, bronchospazmu, zejména u pacientů s anamnézou astmatu nebo kuřáků, které lze obvykle před léčbou regulovat bronchodilatátory
+Vzácné: eozinofilní pneumonie
+Není známo: pneumotorax u pacientů s anamnézou zápalu plic způsobeného Pneumocystis carinii.
+
+Gastrointestinální poruchy:
+Časté: změny chuti, nevolnost a zvracení Není známo: akutní pankreatitida.
+
+Poruchy kůže a podkožní tkáně: Není známo: vyrážka
+
+
+
+
+
+
+
+
+
+6/9
+
+Poruchy ledvin a močových cest:
+Není známo: renální insuficience.
+Celkové poruchy a reakce v místě aplikace:
+Není známo: horečka, snížená chuť k jídlu, únava.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adrese:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48,
+100 41 Praha 10
+webové stránky: https://www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+
+4.9 Předávkování
+
+Léčba je symptomatická.
+Po předávkování pentamidin isethionátem byly pozorovány případy srdečních arytmií včetně torsades de pointes.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antiprotozoany, ATC kód: P01CX01
+Pentamidin isethionát, aromatický diamidin, je antiprotozoální látka, jejíž mechanismus působení, který zasahuje do DNA a transformace folátů a inhibice syntézy RNA a proteinů, není dosud stále objasněn.
+
+5.2 Farmakokinetické vlastnosti
+
+Farmakokinetický profil pentamidin isethionátu se významně liší v závislosti na způsobu podání.
+Injekční roztok
+Po infuzním podání klesají plazmatické hladiny pentamidin isethionátu rychle během prvních 2 hodin na přibližně 1/20 dosaženého maxima, poté dochází k mnohem pomalejšímu snižování hladin. Pentamidin je v těle široce distribuován s pravděpodobnou akumulací v tkáních, zejména v játrech a ledvinách. Pouze malá část léčiva se vylučuje v nezměněné formě močí. Vylučování močí může trvat až osm týdnů od intravenózního podání. Po i.m. hluboké injekci byly naměřeny vysoké maximální koncentrace v krvi, ale poločas eliminace má podobný průběh jako u intravenózního podání.
+Roztok do rozprašovače
+Farmakokinetický profil se významně liší od profilu pozorovaného u parenterálního podání.
+V porovnáním s přítomnými koncentracemi v krvi sníženými na 10 % a 5 % po intramuskulárním a intravenózním podání byly po podání aerosolu pozorovány významně vyšší koncentrace v plicích. Ve srovnání s injekčním podáním jsou koncentrace pentamidinu u bronchoalveolární laváže (BAL) vyšší u supernatantu 10krát a 80krát u sedimentu. Klinická data naznačují, že poločas eliminace pentamidinu v případě BAL přesahuje 10–14 dní, což podporuje hypotézu, že pentamidin ve formě aerosolu je vstřebáván a uvolňován z makrofágů pomaleji, což vysvětluje poločas eliminace 30 a více dnů. Současně byly po inhalaci zaznamenány maximální plazmatické koncentrace
+
+
+
+
+
+
+7/9
+
+dosahující přibližně 10 % z hodnot zaznamenaných při ekvivalentních dávkách podávaných intramuskulárně a méně než 5 % z hodnot při intravenózním podání.
+Dlouhodobé účinky aerosolizovaného pentamidinu na plicní parenchym nejsou známy. Ani při vysokých dávkách pentamidinu podávaných aerosolem pacientům s AIDS se kapacita plic ani alveolo-kapilární difúze nemění.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+
+6.1. Seznam pomocných látek
+
+Přípravek neobsahuje pomocné látky.
+6.2 Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými přípravky, s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3 Doba použitelnosti
+5 let.
+Připravený roztok: 24 hodin, pokud je uchováván při teplotě +2 až +8 °C.
+6.4 Zvláštní opatření pro uchovávání
+Skladujte při teplotě nepřesahující 30 °C.
+Podmínky uchovávání rekonstituovaného léčivého přípravku viz bod 6.3.
+6.5 Druh obalu a obsah balení
+Lahvička z bezbarvého neutrálního skla typu III, 10 ml, uzavřená gumovou zátkou krytou hliníkovým víčkem.
+Balení obsahuje 1 lahvičku.
+6.6 Zvláštní opatření pro likvidaci přípravku a další manipulaci s ním
+
+Pentamidin isethionát nesmí být mísen s žádnými jinými injekčními roztoky kromě vody na injekci, roztoku glukózy a fyziologického roztoku 0,9 %.
+Intramuskulární podání
+Obsah lahvičky musí být rozpuštěn ve 3 ml vody na injekci.
+Intravenózní podání
+Obsah lahvičky je třeba rozpustit ve 3–5 ml vody na injekci. Požadovaná dávka pentamidin isethionátu by měla být dále naředěna v 50-250 ml roztoku glukózy nebo ve fyziologickém roztoku (0,9 %). Výsledný roztok pentamidin isethionátu by měl být podáván pacientovi vleže pomalou infuzí trvající alespoň 60 minut pod lékařským dohledem.
+Roztok do rozprašovače
+Obsah lahvičky se rozpustí v 6 ml vody na injekci a nalijte do nádržky. K rekonstituci roztoku by se neměl používat fyziologický roztok (0,9% fyziologický roztok), protože malý objem způsobuje vysrážení účinné látky. Žádné jiné léky by neměly být míseny s roztokem pentamidinu.
+
+
+
+
+
+
+
+
+
+
+
+8/9
+
+Nepoužitý léčivý přípravek nebo odpad, který pochází z tohoto přípravku, musí být zlikvidován v souladu s místními předpisy.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Sanofi S.r.l.
+Viale L. Bodio, 37/B - 20158 Miláno
+
+
+8.  MARKETINGOVÁ REGISTRAČNÍ ČÍSLA
+
+A.I.C. n. 027625019
+
+
+9.  DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace:        21. prosince 1990
+Datum posledního prodloužení:   1. června 2010
+
+10. DATUM REVIZE TEXTU
+Říjen 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/9

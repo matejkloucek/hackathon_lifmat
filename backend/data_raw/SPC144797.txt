@@ -1,0 +1,202 @@
+sp.zn. sukls147226/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1. NÁZEV PŘÍPRAVKU
+
+Indium (In111) Chloride
+370 MBq/ml, radionuklidový prekurzor, roztok
+
+2. KVALITATIVNÍ I KVANTITATIVNÍ SLOŽENÍ
+
+Obsah lahvičky k datu a hodině kalibrace / 1 ml:
+
+Léčivá látka: 111In Indii chloridum 370 MBq
+
+¹¹¹In se přeměňuje elektronovým záchytem s poločasem asi 67 hodin (2,8 dne) za emise záření gama s energií 172 keV (91 %) a 246 keV (94 %). Vnitřní konverzí vzniká záření rentgenové s energií 23 keV a 26 keV.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3. LÉKOVÁ FORMA
+
+Radionuklidový prekurzor, roztok. Čirý, bezbarvý roztok.
+4. KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+Chlorid inditý(¹¹¹In) se používá pro značení proteinů ve formě vhodných derivátů, které se po následné intravenózní aplikaci využívají při rozličných vyšetřovacích metodách a za využití vhodných zobrazovacích metodik.
+
+Chlorid inditý(¹¹¹In) je široce využíván pro značení monoklonálních protilátek. Patologický proces, který je vyšetřován, je podmíněn použitou značenou protilátkou.
+Chlorid inditý(¹¹¹In) byl také využíván pro značení jako součást injekčních přípravků, např. proteinů značených izotopem ¹¹¹In.
+4.2 Dávkování a způsob podání Dávkování
+Dávkování u dospělých a starších osob:
+Lahvička obsahuje sterilní vodný roztok pro in vitro značení vhodně upravených proteinů, jako jsou monoklonální protilátky, které se po označení aplikují intravenózně.
+
+Množství chloridu inditého (¹¹¹In) požadovaného pro značení a množství aktivity preparátu označeného indiem (¹¹¹In) potřebné k aplikaci je závislé na daném přípravku a na typu vyšetření.
+
+Údaje o doporučené aktivitě a způsobu aplikace jsou předepsány výrobcem daného přípravku určeného pro označení.
+
+Aktivita pro aplikaci dětem se určuje na základě hmotnosti, povrchu těla nebo věku dítěte z aktivity doporučené pro dospělého pacienta. U novorozenců a dětí mladších jednoho roku je nutné vzít v úvahu i velikost vyšetřovaného orgánu vzhledem k velikosti těla.
+4.3 Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo kteroukoli pomocnou látku nebo na některou ze složek značeného radiofarmaka.
+
+Informace o kontraindikacích přípravků značených indiem (¹¹¹In) a připravovaných značením chloridem inditým (¹¹¹In) jsou poskytnuty výrobcem přípravku určeného ke značení.
+4.4 Zvláštní upozornění a opatření pro použití
+
+Informace zahrnující zvláštní upozornění a opatření pro použití přípravků značených indiem (¹¹¹In) a připravovaných značením chloridem inditým (¹¹¹In) jsou poskytnuty výrobcem přípravku určeného ke značení.
+
+Možné hypersenzitivní či anafylaktické reakce.
+V případě výskytu hypersenzitivní či anafylaktické reakce musí být aplikace radiofarmaka okamžitě přerušena a je-li to nutné, má být nasazena intravenózní léčba takové reakce. Pro zajištění odpovídající léčby musí být k okamžité dispozici potřebné léčivé přípravky a vybavení pro akutní zásah jako je endotracheální trubice či prostředky pro podporu dýchacích funkcí.
+Individuální zvážení poměru přínosu a rizika
+Vystavení pacienta ionizujícímu záření musí být vždy odůvodněné v souvislosti s přínosem vyšetření. Aplikovaná aktivita musí být co nejmenší, aniž je ovlivněn správný výsledek vyšetření.
+
+Pediatrická populace
+Informace týkající se aplikace pediatrickým pacientům uvádí bod 4.2.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+Informace o interakcích radiofarmak značených indiem (¹¹¹In) a připravovaných pomocí chloridu inditého(¹¹¹In) jsou poskytnuty výrobcem přípravku určeného ke značení.
+
+4.6 Fertilita, těhotenství a kojení
+
+Informace o použití radiofarmak značených indiem (¹¹¹In) připravovaných pomocí chloridu inditého- (¹¹¹In) v těhotenství nebo během kojení jsou poskytnuty výrobcem přípravku určeného ke značení.
+
+Ženy ve fertilním věku
+Pokud je nezbytné aplikovat radioaktivní látku ženám ve fertilním věku, je nutno vždy pátrat po možném těhotenství. Každá žena, které vynechala menstruace, je v tomto kontextu považována za těhotnou, pokud se neprokáže opak. Kde trvá nejistota ohledně možného těhotenství (vynechání
+
+menstruace, menstruace je velmi nepravidelná apod.), musí být zváženy alternativní metodiky bez ionizujícího záření (existují-li takové).
+
+Těhotenství
+Aplikace radiofarmaka těhotným ženám způsobí i radiační zátěž plodu. Proto se nezbytná vyšetření provádějí v případě, že předpokládaný přínos vyšetření převáží možná rizika pro matku a plod.
+
+Kojení
+Před aplikací kojícím ženám je nutné uvážit, zda je možné vyšetření odložit na dobu, kdy bude kojení ukončeno a zda je vzhledem k možnosti sekrece do mateřského mléka dané radiofarmakum vhodné. Kojení je možné obnovit, pokud hladina v mléce nebude mít za následek radiační zátěž dítěte vyšší než 1 mSv.
+
+Fertilita
+Pokusy na zvířatech prokázaly určité teratogenní účinky india podaných ve velmi vysokých dávkách
+v porovnání s maximálními možnými koncentracemi volného chloridu inditého ve značených přípravcích.
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Nebyly provedeny studie vlivu na schopnost řídit a obsluhovat stroje
+
+4.8 Nežádoucí účinky
+
+Možnost nežádoucích účinků po intravenózní aplikaci radiofarmak značených indiem (¹¹¹In) a připravovaných pomocí chloridu inditého (¹¹¹In) jsou závislé na použité značené sloučenině. Informace o nežádoucích účincích jsou poskytnuty výrobcem přípravku určeného ke značení.
+Vystavení účinkům ionizujícího záření je vždy spojeno s rizikem vzniku nádorových procesů a s možným vznikem dědičných poškození. Jelikož aplikovaná účinná dávka je 10⁻¹ mSv/MBq je frekvence těchto nežádoucích účinků nízká.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to
+pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9 Předávkování
+
+V případě předávkování je možné snížit absorbovanou dávku zvýšením eliminace radionuklidu z
+organismu.
+
+Pokyny pro postup při předávkování přípravkem značeným indiem (¹¹¹In) jsou poskytnuty výrobcem přípravku určeného ke značení.
+
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Diagnostická radiofarmaka, detekce nádorů Sloučeniny india (¹¹¹In), ATC kód: V09HB
+
+V rámci použitých aktivit radiofarmak značených indiem (¹¹¹In) pro diagnostické účely obecně nejsou pozorovány žádné farmakodynamické účinky.
+5.2 Farmakokinetické vlastnosti
+
+Farmakokinetické vlastnosti radiofarmak značených indiem (¹¹¹In) připravovaných pomocí chloridu inditého(¹¹¹In) jsou podmíněny vlastnostmi značené sloučeniny.
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Chlorid inditý(¹¹¹In) je dodáván jako beznosičový s vysokou specifickou aktivitou ¹¹¹In a tedy chemická koncentrace chloridu inditého je velmi nízká (nižší než 1 μg/ml).
+Nejsou k dispozici údaje ze studií na zvířatech týkající se mutagenního a karcinogenního účinku chloridu inditého. Z pokusů na zvířatech jsou patrné určité teratogenní účinky india.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+
+Kyselina chlorovodíková, voda na injekci
+6.2 Inkompatibility
+
+Značení makromolekul, např. monoklonálních protilátek, chloridem inditým(¹¹¹In) je vysoce citlivé na přítomnost stopových kovových nečistot.
+
+Je důležité zajistit úplnou čistotu veškerého skla, injekčních jehel apod. bez přítomnosti stopových kovových nečistot. V zájmu omezení kovových nečistot ve stopovém množství používejte pouze injekční jehly s potvrzenou odolností vůči zředěné kyselině (např. nekovové jehly).
+6.3 Doba použitelnosti
+
+Doba použitelnosti přípravku je 24 hodin od data a hodiny kalibrace.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C .
+
+Přípravek neobsahuje konzervační látky. Je-li obsah lahvičky použit pro více aplikací, každý díl musí být odebrán za aseptických podmínek a během jediného pracovního dne. Po odebrání první dávky se lahvička uchovává při teplotě 2 – 8°C.
+Uchovávání musí být v souladu s příslušnými předpisy pro manipulaci s radioaktivním materiálem.
+
+6.5 Druh obalu a obsah balení
+
+Injekční lahvička 10 ml ze skla třídy I uzavřená pryžovou zátkou a hliníkovou objímkou.
+
+Přípravek Indium Chloride (In111) je dodáván v následujících aktivitách k referenčnímu datu:
+111 MBq v 0,3 ml
+185 MBq v 0,5 ml
+370 MBq v 1,0 ml
+555 MBq v 1,5 ml
+740 MBq ve 2,0 ml
+1850 MBq v 5,0 ml
+
+Na trhu nemusí být všechny velikosti balení
+
+6.6 Zvláštní opatření k likvidaci přípravku a pro zacházení s ním
+Všeobecná upozornění
+Manipulace s radiofarmaky a jejich aplikace je možná pouze osobami patřičně kvalifikovanými na klinických pracovištích k tomu určených. Příjem, skladování, příprava a aplikace radiofarmak a
+likvidace odpadu podléhá předpisům a/nebo příslušným povolením kompetentního úředního orgánu.
+Příprava radiofarmak musí být v souladu jak s příslušnými předpisy pro radiační bezpečnost, tak s požadavky na farmaceutickou kvalitu. Je nutné dodržovat zásady aseptické práce a správné výrobní praxe pro radiofarmaka.
+
+Obsah lahvičky je určen pouze ke značení a nesmí být podán přímo pacientovi. V případě jakéhokoliv poškození lahvičky není možné přípravek použít!
+
+Aplikace radiofarmak představuje riziko pro personál jak z hlediska vystavení radiaci, tak
+kontaminace stopami moči, zvratků apod. Při používání radiofarmak a odstraňování odpadu je nutné dodržovat příslušné předpisy pro ochranu zdraví před ionizujícím zářením.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Curium Netherlands B.V. Westerduinweg 3
+1755 LE Petten Nizozemsko
+Tel:+31 224 567 890
+Fax: +31 224 567 008
+
+
+8. REGISTRAČNÍ ČÍSLO
+
+88/380/93-C
+
+
+9. DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 12. 5. 1993
+
+Datum posledního prodloužení registrace 18. 9. 2013
+
+
+10. DATUM REVIZE TEXTU
+
+15. 5. 2019
+
+11. DOZIMETRIE
+
+Absorbované dávky pro jednotlivé orgány po intravenózní aplikaci radiofarmak značených indiem
+(¹¹¹In) jsou podmíněny vlastnostmi značené sloučeniny.
+Dozimetrické údaje po aplikaci různých nosičových sloučenin označených radioizotopem jsou poskytnuty výrobcem přípravku určeného ke značení.
+Předpokládá se, že efektivní dávkový ekvivalent po intravenózní aplikaci radiofarmak značených indiem (¹¹¹In) bude - vzhledem k hodnotám energie elektromagnetického záření vzniklého při rozpadu india (¹¹¹In) - přibližně řádu 10⁻¹ mSv/MBq.
+
+
+12. NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+Informace o použití radiofarmak značených indiem (¹¹¹In) připravovaných pomocí chloridu inditého- (¹¹¹In) spolu s metodami, jak zjistit účinnost značení a radiochemickou čistotu značeného přípravku jsou poskytnuty výrobcem přípravku určeného ke značení.
+Je důležité zajistit úplnou čistotu veškerého skla, aby se zabránilo zavlečení stopových nečistot, které by mohly narušovat postup značení. Některé plasty mohou ovlivnit značení tím, že absorbují
+nadměrné množství aktivity ¹¹¹In.

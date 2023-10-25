@@ -1,0 +1,422 @@
+sp. zn. sukls287941/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1  NÁZEV PŘÍPRAVKU
+Octaplas LG infuzní roztok
+
+2  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Vak o objemu 200 ml obsahuje 9 - 14 g proteinů lidské plazmy (proteinum plasmatis humani) specificky podle krevních skupin AB0 (45-70 mg/ml). Octaplas LG se dodává v samostatných obalech podle následujících krevních skupin:
+Krevní skupina A Krevní skupina B Krevní skupina AB Krevní skupina 0
+Podrobné informace o důležitých koagulačních faktorech a inhibitorech viz bod 5.1 a tabulka 2.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3  LÉKOVÁ FORMA
+Infuzní roztok.
+Zmrazený roztok je (slabě) nažloutlý.
+
+4  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+•  Komplexní nedostatek koagulačních faktorů jako koagulopatie následkem selhání jater nebo masivní transfuze.
+•  Substituční terapie nedostatku koagulačních faktorů, není-li k dispozici koncentrát specifického koagulačního faktoru (např. faktor V nebo XI) nebo v mimořádných situacích, kdy není možné provést přesnou laboratorní diagnostiku.
+•  Rychlé zvrácení účinků perorálních antikoagulantů (typu kumarinu nebo indandionu), kdy není k dispozici koncentrát protrombinového komplexu nebo nedostačuje podávání vitaminu K kvůli zhoršené funkci jater nebo v nouzových situacích.
+•  Potenciálně nebezpečná krvácení během fibrinolytické terapie využívající např. aktivátory tkáňového plasminogenu u pacientů, kteří neodpovídají na konvenční opatření.
+•  Procedury terapeutické výměny plazmy, včetně výměn u pacientů s trombotickou
+trombocytopenickou purpurou (TTP).
+
+4.2  Dávkování a způsob podání Dávkování:
+
+
+1
+
+Dávkování závisí na klinickém obraze a jeho příčině, obvyklá počáteční dávka je 12-15 ml přípravku Octaplas LG/kg tělesné hmotnosti. To by mělo vést ke zvýšení hladin koagulačních faktorů v plazmě pacienta přibližně o 25 %.
+Je velmi důležité sledovat odezvu, jak klinicky, tak i měřením např. aktivovaného parciálního tromboplastinového času (aPTT), protrombinového času (PT) a/nebo stanovením specifických koagulačních faktorů.
+
+Dávkování při nedostatku koagulačních faktorů:
+Adekvátního  hemostatického  účinku  při  menších  a  středních  krváceních  nebo  při chirurgickém výkonu u pacientů s nedostatkem koagulačních faktorů je za obvyklých podmínek dosaženo po infuzi 5-20 ml přípravku Octaplas LG/kg tělesné hmotnosti. To má vést ke zvýšení hladin koagulačních faktorů v plazmě pacienta přibližně o 10-33 %. Při větších krváceních či chirurgických výkonech má být konzultován hematolog.
+
+Dávkování u TTP a krvácení při intenzivní výměně plazmy:
+Při terapeutických procedurách výměny plazmy má být konzultován hematolog.
+U pacientů s TTP má být nahrazen celý objem vyměněné plazmy přípravkem Octaplas LG.
+
+Způsob podání:
+Podávání přípravku Octaplas LG musí být založeno na specificitě krevní skupiny AB0. V neodkladných případech lze považovat krevní skupinu AB u přípravku Octaplas LG za univerzální plazmu, protože ji lze podávat všem pacientům bez ohledu na krevní skupinu.
+Přípravek Octaplas LG musí být podán prostřednictvím intravenózní infuze po rozmrazení, viz informace v bodě 6.6, přičemž je třeba použít infuzní sadu s filtrem. Během infuze je třeba použít aseptickou techniku.
+Po rozmrazení je roztok čirý až mírně opalizující a neobsahuje žádné pevné ani želatinové částice.
+K toxicitě citrátu může dojít, pokud je podáno více než 0,020-0,025 mmol citrátu/kg za minutu. Proto rychlost infuze nemá přesáhnout 1 ml přípravku Octaplas LG/kg za minutu. Toxické účinky citrátu lze minimalizovat intravenózním podáním kalcium-glukonátu do jiné žíly.
+Pediatrická populace:
+Údaje o dětech a dospívajících (0-16 let) jsou omezené (viz body 4.4, 4.8 a 5.1).
+4.3  Kontraindikace
+-  Nedostatek IgA s dokumentovanými protilátkami proti IgA.
+-  Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě
+6.1 nebo na rezidua z výrobního procesu podle bodu 5.3.
+-  Závažný nedostatek proteinu S.
+
+4.4  Zvláštní upozornění a opatření pro použití Přípravek Octaplas LG nemá být používán:
+•  Jako expandér objemu.
+
+2
+
+•  Při krvácení způsobeném nedostatkem koagulačních faktorů, kdy je k dispozici koncentrát specifického faktoru.
+•  Při nápravě hyperfibrinolýzy při transplantaci jater nebo v jiných situacích s komplexními narušeními hemostázy způsobenými nedostatkem inhibitoru plazminu zvaného též α2- antiplazmin.
+
+Přípravek Octaplas LG má být za níže uvedených podmínek používán s nejvyšší opatrností:
+•  Nedostatek IgA.
+•  Alergie na protein plazmy.
+•  Předchozí reakce na čerstvě zmrazenou plazmu (FFP) nebo přípravek Octaplas LG.
+•  Manifestní nebo latentní dekompenzace srdečního selhání.
+•  Plicní edém.
+
+V zájmu omezení rizika venózního tromboembolismu způsobeného sníženou aktivitou proteinu S přípravku Octaplas LG ve srovnání s běžnou plazmou (viz bod 5.1) má být všem pacientům s rizikem trombotických komplikací věnována zvýšená pozornost a uplatněna příslušná opatření.
+Při intenzivních procedurách výměny plazmy má být přípravek Octaplas LG použit pouze k
+nápravě koagulační abnormality při výskytu abnormálního krvácení.
+Virová bezpečnost
+Standardní opatření pro prevenci infekcí vznikajících následkem použití léčivých přípravků připravených z lidské krve či plazmy zahrnují výběr dárců, screening jednotlivých odběrů a pool plazmy na specifické markery infekce a účinné kroky při výrobě zaměřené na deaktivaci a odstranění virů. I přes tato opatření nelze při podávání léčivých přípravků připravených z lidské krve nebo plazmy zcela vyloučit přenesení původců infekce. Toto se týká i neznámých a nově objevených virů a dalších patogenů.
+Přijatá opatření jsou považována za efektivní pro obalené viry, např. HIV, HBV a HCV. Přijatá opatření mohou mít omezené účinky proti neobaleným virům, např. HAV, HEV a parvoviru B19.
+Infekce parvovirem B19 může být závažná u těhotných žen (infekce plodu) a u osob s imunodeficiencí nebo zvýšenou erytropoézou (např. hemolytickou anemií). Virus HEV může také závažně ovlivnit séronegativní těhotné ženy. Přípravek Octaplas LG má tedy být podáván pouze pacientům, u nichž jsou pro jeho indikaci závažné důvody.
+U pacientů, kteří pravidelně dostávají léčivé přípravky připravené z lidské krve nebo plazmy, je třeba zvážit vhodnou vakcinaci (např. proti HBV a HAV).
+Dále je zaveden krok k odstranění prionů.
+Důrazně se doporučuje zaznamenat při každém podání dávky Octaplas LG pacientovi název přípravku a číslo šarže, aby byly uchovávány záznamy o použitých šaržích a mohl být vysledován vztah mezi pacientem a šarží přípravku.
+Podávání specifické podle krevní skupiny
+
+
+
+
+3
+
+Podávání přípravku Octaplas LG musí být založeno na specificitě krevní skupiny AB0. V neodkladných případech lze považovat krevní skupinu AB u přípravku Octaplas LG za univerzální plazmu, protože ji lze podávat všem pacientům bez pohledu na krevní skupinu.
+Pacienti mají být sledováni alespoň po dobu 20 minut po podání.
+Anafylaktické reakce
+V případě anafylaktické reakce nebo šoku musí být infuze okamžitě přerušena. Poté je třeba postupovat podle pokynů pro šokovou terapii.
+Sledovatelnost
+Aby se zlepšila sledovatelnost biologických léčivých přípravků má se přehledně zaznamenat název podaného přípravku a číslo šarže.
+Pediatrická populace
+Během terapeutické výměny plazmy byly u pediatrické populace pozorovány případy hypokalcémie, jež mohly být způsobeny navázáním citrátu (viz bod 4.8). V průběhu takového používání přípravku Octaplas LG se doporučuje monitorovat hladinu ionizovaného vápníku.
+Interference se sérologickým testováním
+Pasivní  přenos  složek  plazmy  z přípravku  Octaplas  LG  (např.  β-lidský  choriový gonadotropin, β-HCG) může mít za následek zavádějící laboratorní výsledky u příjemce. Po pasivním přenosu β-HCG byl např. hlášen falešně pozitivní těhotenský test.
+
+Tento léčivý přípravek obsahuje maximálně 920 mg sodíku v jednom vaku, což odpovídá maximálně 46 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Interakce:
+Nebyly zjištěny žádné interakce s jinými léčivými přípravky.
+
+Inkompatibility:
+•  Přípravek Octaplas LG lze smísit s červenými krvinkami a krevními destičkami, je-li respektována kompatibilita AB0 obou složek.
+•  Přípravek Octaplas LG nesmí být mísen s ostatními léčivými přípravky, neboť může dojít k inaktivaci a vzniku sraženin.
+•  Případné tvorbě krevních sraženin se předchází tak, že se vyloučí podávání roztoků obsahujících vápník stejnou intravenózní cestou jako přípravek Octaplas LG.
+
+
+4.6  Fertilita, těhotenství a kojení
+Bezpečnost přípravku Octaplas LG v těhotenství nebyla ověřena v kontrolovaných klinických hodnoceních. Není známo, zda může přípravek Octaplas LG ovlivnit reprodukční schopnosti. Přípravek má být podáván těhotným nebo kojícím ženám pouze tehdy, pokud není vhodná žádná alternativní terapie.
+
+
+4
+
+Potenciální rizika přenosu parvoviru B19 a HEV - viz bod 4.4.
+
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Po ambulantní infuzi má pacient hodinu odpočívat.
+Octaplas LG nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+
+
+4.8  Nežádoucí účinky
+Vzácně lze pozorovat hypersenzitivní reakce. Obvykle jde o mírné reakce alergického typu projevující se místně ohraničenou nebo generalizovanou kopřivkou, erytémem, začervenáním a svěděním. Vážnější formy mohou být komplikovány nízkým krevním tlakem nebo angioedémem  obličeje  nebo  hrtanu.  Jsou-li  zasaženy  jiné  orgánové  systémy  – kardiovaskulární, respirační nebo gastrointestinální – je reakce považována za anafylaktickou nebo anafylaktoidní. Anafylaktické reakce mohou mít rychlý nástup a mohou být vážné. Komplex příznaků může zahrnovat hypotenzi, tachykardii, bronchospasmus, sípot, kašel, dušnost, nauzeu, zvracení, průjem, bolest břicha nebo bolest zad. Vážné reakce mohou pokračovat šokem, synkopou, selháním dýchání a velmi vzácně i úmrtím. Vysoká rychlost podávání infuze může vzácně způsobit kardiovaskulární účinky jako následek toxicity citrátu (pokles ionizovaného vápníku), zejména u pacientů s poruchami funkcí jater. V průběhu procedur výměny plazmy lze vzácně pozorovat symptomy zapříčiněné toxicitou citrátu, např. únavu, parestezii, tremor a hypokalcemii.
+
+Během klinických hodnocení prováděných s předchůdcem přípravku Octaplas LG a během používání předchůdce tohoto přípravku po jeho schválení byly pozorovány níže uvedené nežádoucí účinky:
+Frekvence byla vyhodnocena podle následující konvence: velmi časté (≥1/10); časté (≥1/100 až <1/10); méně časté (≥1/1 000 až <1/100); vzácné (≥1/10 000 až <1/1 000); velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+Tabulka 1: Nežádoucí účinky, které byly identifikovány pro přípravek Octaplas LG
+
+Třídy orgánových systémů*
+
+Poruchy krve a lymfatického
+systému
+Poruchy imunitního systému Psychiatrické poruchy
+
+Poruchy nervového systému Srdeční poruchy
+Cévní poruchy
+Časté
+(≥ 1/100 až
+< 1/10)
+Méně časté (≥ 1/1 000 až
+< 1/100)
+
+
+anafylaktoidní reakce
+
+
+
+
+hypestezie
+Vzácné
+(≥ 1/10 000 až
+< 1/1 000)
+
+
+hypersenzitivita
+Velmi vzácné (< 1/10 000)
+hemolytická anemie hemoragická diatéza
+anafylaktický šok anafylaktická reakce úzkost
+agitovanost neklid závratě parestezie
+srdeční zástava arytmie tachykardie
+tromboembolismus (LLT) hypotenze
+hypertenze
+oběhový kolaps
+
+5
+
+
+Respirační, hrudní a
+mediastinální poruchy
+
+
+
+
+Gastrointestinální poruchy
+
+Poruchy kůže a podkožní tkáně
+Poruchy svalové a kosterní
+soustavy a pojivové tkáně
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+Vyšetření
+
+Poranění, otravy a
+procedurální komplikace
+
+
+
+
+
+
+
+
+
+kopřivka, svědění
+
+hypoxie
+
+
+
+
+
+zvracení
+nauzea
+
+
+
+
+
+horečka
+zrudnutí respirační selhání plicní krvácení bronchospasmus plicní edém dušnost
+respirační poruchy bolest břicha
+vyrážka (erytematózní)
+hyperhidróza bolest zad
+bolest na hrudi hrudní diskomfort zimnice lokalizovaný otok malátnost
+reakce v místě aplikace pozitivní test protilátek snížení nasycení kyslíkem oběhové přetížení související s transfuzí toxicita citrátu hemolytická transfuzní reakce
+*Tato tabulka obsahuje preferované termíny MedDRA (PT), pokud není uvedeno jinak. LLT, MedDRA Lowest Level Term.
+Pediatrická populace
+V průběhu procedur terapeutické výměny plazmy může být u pediatrické populace
+pozorována hypokalcémie, a to zejména u pacientů s poruchami funkce jater nebo v případě vysoké rychlosti infuze. Během takového používání přípravku Octaplas LG (viz bod 4.2) se doporučuje monitorovat hladinu ionizovaného vápníku (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické
+pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+•  Vysoké dávky nebo rychlost infuze mohou vyvolat hypervolemii/přetížení oběhového systému, plicní edém a/nebo srdeční selhání.
+•  Vysoká rychlost podávání infuze může způsobit kardiovaskulární účinky jako následek toxicity citrátu (pokles ionizovaného vápníku), zejména u pacientů s poruchami funkce jater.
+
+5  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+6
+
+Farmakoterapeutická skupina: Krevní deriváty, frakce plazmatických bílkovin, náhrady
+plazmy
+ATC kód: B05AA.
+Obsah a zastoupení proteinů plazmy v přípravku Octaplas LG zůstává ve finálním přípravku na srovnatelné úrovni s obsahem a zastoupením těchto součástí v surovém materiálu FFP, tj. 45-70 mg/ml, hlavní proteiny plazmy se všechny nacházejí v rámci referenčních rozsahů pro zdravé dárce krve (viz tabulka 2). Z průměrného obsahu proteinů 58 mg/ml připadá na albumin 50 % (29 mg/ml), zatímco hladiny imunoglobulinů tříd G, A a M jsou na úrovních 8,1, 1,6 a 0,8 mg/ml (v uvedeném pořadí). Následkem použití metody solvent/detergent (S/D) a purifikace je snížen obsah lipidů a lipoproteinů. Z hlediska indikace přípravku Octaplas LG nemá toto žádný význam.
+Během výrobního procesu se vyrovnávají variace způsobené různými dárci a proteiny plazmy jsou uchovány ve funkčním stavu. Octaplas LG tedy disponuje stejnou klinickou aktivitou jako průměrná jednotka FFP od jednoho dárce, ale je více standardizován. Hotový přípravek je testován na koagulační faktory V, VIII a XI a na inhibitory proteinu C, proteinu S a inhibitor plazminu. Pro každý z těchto tří koagulačních faktorů je dosaženo minimální hodnoty 0,5 IU/ml, zatímco hladiny inhibitorů jsou garantovány na minimální úrovni 0,7, 0,3 a 0,2 IU/ml. Obsah fibrinogenu se pohybuje mezi 1,5 a 4,0 mg/ml. Při standardní výrobě se všechny klinicky významné parametry nacházejí v rozmezí 2,5-97,5 percentilů referenčního rozsahu pro FFP od jednoho dárce, kromě inhibitoru plazminu (známého též jako α2- antiplazmin), který je těsně pod touto hodnotou (viz tabulka 2). Přípravek Octaplas LG vykazuje stejné multimerní vzorce von Willebrandova faktoru jako běžná plazma.
+Tabulka 2: Globální koagulační parametry a specifické koagulační faktory a inhibitory v přípravku
+Octaplas LG
+
+
+Parametr
+
+
+Aktivovaný parciální tromboplastinový čas [s] Protrombinový čas [s]
+Fibrinogen [mg/ml]
+Koagulační faktor II [IU/ml] Koagulační faktor V [IU/ml] Koagulační faktor VII [IU/ml] Koagulační faktor VIII [IU/ml] Koagulační faktor IX [IU/ml] Koagulační faktor X [IU/ml] Koagulační faktor XI [IU/ml] Koagulační faktor XII [IU/ml] Koagulační faktor XIII [IU/ml] Antitrombin [IU/ml]
+Heparinový kofaktor II [IU/ml]
+Protein C [IU/ml] Protein S [IU/ml]
+Aktivita ristocetin kofaktoru von Willebrandova faktoru [IU/ml]
+Octaplas LG
+průměr ± směrodatná
+odchylka (n = 5)
+30 ± 1
+11 ± 0
+2,6 ± 0,1
+1,01 ± 0,07
+0,76 ± 0,05
+1,09 ± 0,05
+0,80 ± 0,07
+0,88 ± 0,10
+0,99 ± 0,05
+0,88 ± 0,04
+1,04 ± 0,08
+1,03 ± 0,06
+0,86 ± 0,11
+1,12 ± 0,05
+0,86 ± 0,08
+0,63 ± 0,08
+0,93 ± 0,08
+
+Referenční
+rozsah*
+
+28-41
+10-14**
+1,5-4,0**
+0,65-1,54
+0,54-1,45
+0,62-1,65
+0,45-1,68
+0,45-1,48
+0,68-1,48
+0,42-1,44
+0,40-1,52
+0,65-1,65
+0,72-1,45
+0,65-1,35
+0,58-1,64
+0,56-1,68
+0,45-1,75
+
+
+7
+
+Aktivita ADAMTS13# [IU/ml] Plasminogen [IU/ml]
+Inhibitor plazminu## [IU/ml]
+1,13 ± 0,17
+0,84 ± 0,06
+0,61 ± 0,04
+0,50-1,10**
+0,68-1,44
+0,72-1,32
+*Podle [¹,²] na základě testování 100 zdravých dárců krve a definovaných 2,5 a 97,5 percentily, příp.
+** podle letáku v balení testovací sady.
+#Disintegrin a metaloproteináza s trombospondinovým motivem typu 1, člen 13. Známý též jako proteáza štěpící
+von Willebrandův faktor (VWFCP).
+##Známý též jako α2-antiplazmin.
+Klinické studie:
+Otevřená multicentrická postmarketingová studie zkoumala bezpečnost, snášenlivost a účinnost přípravku Octaplas LG u 37 novorozenců/kojenců (ve věku 0 až 2 roky) a 13 dětí a dospívajících (ve věku > 2 až 16 let). 40 pacientů prodělalo srdeční operaci, 5 pacientů podstoupilo ortotopickou transplantaci jater a 5 vyžadovalo náhradu více koagulačních faktorů (z toho 4 pacienti prodělali sepsi). U 28 pacientů, kteří podstoupili bypass ( všichni ve věku ≤ 2 roky) byla průměrná dávka 20,2 ml/kg. U dalších 20 pacientů ve věku ≤ 2 roky byla průměrná dávka první infuze 16,5 ml/kg a 12,7 ml/kg u pacientů ve věku > 2 roky. Nebyly hlášeny žádné hyperfibrinolytické nebo tromboembolické epizody, které by mohly souviset s léčbou přípravkem Octaplas LG. Výsledky hemostatických testů, které byly provedeny po infuzích přípravku Octaplas LG byly v takovém rozsahu, jaký kliničtí pracovníci očekávali u pacientů vyžadujících infuze plazmy kvůli krvácení.
+
+
+
+5.2  Farmakokinetické vlastnosti
+Octaplas LG má podobné farmakokinetické vlastnosti jako FFP.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Inaktivace viru je prováděna pomocí tri(n-butyl)-fosfátu (TNBP) a octoxynolem (Triton X- 100). Tyto S/D reagenty jsou během procesu čištění odstraněny. Maximální obsah TNBP a octoxynolu v hotovém produktu je < 2 µg/ml a < 5 µg/ml, v příslušném pořadí.
+
+6  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Dihydrát natrium-citrátu.
+Dihydrát dihydrogenfosforečnanu sodného. Glycin.
+6.2  Inkompatibility
+
+
+
+
+[1] Hellstern P, Sachse H, Schwinn H, Oberfrank K. Manufacture and characterization of a solvent/ detergent- treated human plasma. Vox Sang 1992; 63:178-185
+[2] Beeck H, Hellstern P. In vitro characterization of solvent/detergent-treated human plasma and of quarantine fresh frozen plasma. Vox Sang 1998; 74 (Suppl. I):219-223
+
+8
+
+-  Octaplas LG lze smísit s červenými krvinkami a krevními destičkami, je-li respektována
+kompatibilita AB0 obou složek.
+-  Octaplas LG nesmí být mísen s jinými léčivými přípravky, neboť může dojít k inaktivaci a vzniku sraženin.
+-  Případné tvorbě krevních sraženin se předchází tak, že se vyloučí podávání roztoků
+obsahujících vápník stejnou intravenózní cestou jako Octaplas LG.
+6.3  Doba použitelnosti
+4 roky.
+Po rozmrazení byla chemická a fyzikální stabilita po otevření před použitím prokázána na
+dobu 5 dnů při teplotě 2 - 8 °C nebo 8 hodin při pokojové teplotě (20 - 25 °C).
+Z mikrobiologického hlediska má být přípravek použit okamžitě, pokud způsob otevření nevylučuje riziko mikrobiální kontaminace. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele.
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte a přepravujte zmrazené (při teplotě ≤ -18 °C).
+Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a obsah balení
+200ml vak (polyvinylchlorid) přebalený fólií a obsahující proteiny lidské plazmy specificky
+podle krevních skupin AB0. Velikost balení 1 a 10 vaků.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Nepoužívejte po uplynutí doby použitelnosti uvedené na štítku.
+Existuje několik možností rozmrazení zmrazeného přípravku Octaplas LG:
+-  Vodní lázeň:
+Rozmrazujte ve vnějším obalu po dobu nejméně 30 minut ve vodní lázni s dobrou cirkulací při teplotě +30 °C až +37 °C. V případě potřeby lze použít ochranný sáček, který zajistí další ochranu obsahu.
+Zabraňte kontaminaci vstupního otvoru vodou. Minimální doba rozmrazování je 30 minut při 37 °C. Teplota vodní lázně nesmí nikdy přesáhnout +37 °C a nemá být nižší než +30 °C.
+Doba rozmrazování závisí na počtu vaků ve vodní lázni. Jestliže se souběžně rozmrazuje několik vaků s plazmou, doba rozmrazování může být delší, ale nemá trvat déle než 60 minut.
+-  Použití suchého temperovacího systému jako je SAHARA-III:
+Umístěte vaky s přípravkem Octaplas LG na třepačku podle pokynů výrobce a nechte rozmrazit plazmu použitím funkce rychlého temperování. Jakmile se na displeji
+zobrazí teplota +37 °C, ukončete temperační proces a vyjměte vaky.
+Během rozmrazování přípravku Octaplas LG pomocí suchého temperovacího systému se doporučuje zaznamenávat průběh teploty krevní složky a sledovat chybové zprávy v případě poruchy pomocí tiskárny protokolů.
+
+9
+
+-  Ostatní:
+Pro rozmrazení zmrazeného přípravku Octaplas LG lze použít i další systémy za
+předpokladu, že tyto metody jsou pro daný účel schváleny.
+Před infuzí nechte obsah vaku rozehřát na přibližně +37 °C. Teplota přípravku Octaplas LG nesmí přesáhnout +37 °C. Sejměte vnější obal a prohlédněte vak, zda není roztržený nebo neprosakuje.
+Netřeste s ním.
+Po rozmrazení je roztok čirý až mírně opalizující a neobsahuje žádné pevné ani želatinové částice.
+Nepoužívejte roztoky zakalené nebo s částicemi a/nebo zabarvené.
+Rozmrazený přípravek Octaplas LG nesmí být znovu zmrazován. Nepoužitý přípravek musí být zlikvidován.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Octapharma (IP) SPRL Allée de la Recherche 65 1070 Anderlecht
+Belgie
+
+
+8  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+75/266/16-C
+
+9  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 8. 6. 2016
+Datum posledního prodloužení registrace: 25. 9. 2020
+
+10 DATUM REVIZE TEXTU
+11. 3. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

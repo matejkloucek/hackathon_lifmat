@@ -1,0 +1,398 @@
+Sp.zn. sukls304631/2017
+a k sp.zn. sukls240885/2017
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Oxid dusnatý Messer 800 ppm (V/V) medicinální plyn, stlačený
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Nitrogenii oxidum (NO) 800 ppm (V/V).
+Lahev na stlačený plyn o objemu 2 litry plněná při absolutním tlaku 200 barů obsahuje 381 litrů plynu při teplotě 15 °C a tlaku 1 bar.
+Lahev na stlačený plyn o objemu 10 litrů plněná při absolutním tlaku 200 barů obsahuje 1903 litrů plynu při teplotě 15 °C a tlaku 1 bar.
+Lahev na stlačený plyn o objemu 20 litrů plněná při absolutním tlaku 200 barů obsahuje 3806 litrů plynu při teplotě 15 °C a tlaku 1 bar.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.   LÉKOVÁ FORMA
+Medicinální plyn, stlačený.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Přípravek Oxid dusnatý Messer je v kombinaci s ventilační podporou a jinými vhodnými léčivými látkami indikován:
+•  k léčbě novorozenců ≥ 34 týdnů gestačního věku s hypoxickým respiračním selháním spojeným s klinickým nebo echokardiografickým průkazem plicní hypertenze za účelem zlepšení okysličení krve a snížení potřeby mimotělní membránové oxygenace.
+•  jako součást léčby peri- a postoperační plicní hypertenze u dospělých a novorozenců, kojenců a batolat, dětí a dospívajících ve věku 0-17 let v souvislosti s operací srdce, za účelem selektivního snížení plicního arteriálního tlaku a zlepšení funkce pravé komory srdeční a okysličení krve.
+
+4.2  Dávkování a způsob podání
+
+Perzistentní plicní hypertenze novorozenců (PPHN)
+Oxid dusnatý se má předepisovat pod dozorem lékaře, který má zkušenosti s intenzivní péčí o novorozence. Předpis by měl být omezen na taková oddělení péče o novorozence, kde proběhlo řádné školení pracovníků k používání aplikačního systému oxidu dusnatého. Přípravek Oxid dusnatý Messer je možné podávat pouze v souladu s předpisem neonatologa.
+Přípravek Oxid dusnatý Messer se má používat u ventilovaných novorozenců, u kterých se předpokládá nutnost podpory > 24 hodin. Přípravek Oxid dusnatý Messer se má používat pouze po optimalizaci podpory dýchání. Ta zahrnuje dechový objem/tlak a rozepnutí plic (surfaktant, vysokofrekvenční ventilaci a pozitivní tlak na konci výdechu).
+Plicní hypertenze spojená s operací srdce
+Oxid dusnatý se má předepisovat pod dozorem lékaře, který má zkušenosti s kardiotorakální anestezií a intenzivní péčí. Aplikace má být omezena na taková kardiotorakální oddělení, kde proběhlo řádné
+
+školení pracovníků k používání aplikačního systému oxidu dusnatého. Přípravek Oxid dusnatý Messer
+je možné podávat pouze v souladu s předpisem anesteziologa nebo lékaře jednotky intenzivní péče. Dávkování
+Perzistentní plicní hypertenze novorozenců (PPHN)
+Maximální doporučená dávka přípravku Oxid dusnatý Messer je 20 ppm (částic na jeden milion, parts per million) a tato dávka se nemá překračovat. V pivotních klinických studiích byla počáteční dávka 20 ppm. S podáváním se má začít co nejdříve a během 4-24 hodin léčby se má dávka snížit na 5 ppm, pokud je při této nižší dávce dostatečné okysličení arteriální krve. Inhalační terapie oxidem dusnatým v dávce 5 ppm by měla být udržována, dokud nedojde ke zlepšení oxygenace novorozence tak, že FiO2 (inspirační frakce kyslíku) je < 0,60.
+
+Léčba se může udržovat po dobu 96 hodin nebo dokud se nevyřeší příčina desaturace kyslíkem a novorozenec nebude připraven k vysazení léčby přípravkem Oxid dusnatý Messer. Doba léčby je variabilní, ale většinou je to méně než čtyři dny. Pro případ nedostatečné reakce na inhalační oxid dusnatý, viz bod 4.4.
+
+Ukončení podávání
+Ukončit podávání přípravku Oxid dusnatý Messer je možné po výrazném snížení ventilační podpory nebo po 96 hodinách léčby. Pokud je rozhodnuto přerušit léčbu inhalačním oxidem dusnatým, má se dávka snížit na 1 ppm na dobu 30 minut až 1 hodiny. Jestliže nedojde v průběhu podávání přípravku Oxid dusnatý Messer v dávce 1 ppm ke změně oxygenace, má se FiO2 zvýšit o 10 %, podávání přípravku Oxid dusnatý Messer se přeruší a u novorozence se pečlivě sleduje výskyt příznaků hypoxemie. Pokud oxygenace klesne > 20 %, má se obnovit léčba přípravkem Oxid dusnatý Messer v dávce 5 ppm a o přerušení léčby přípravkem Oxid dusnatý Messer je možné uvažovat za 12 až 24 hodin. Děti, u kterých nelze léčbu přípravkem Oxid dusnatý Messer ukončit do 4 dnů, by měly absolvovat pečlivá diagnostická vyšetření na jiná onemocnění.
+Plicní hypertenze spojená s operací srdce
+Přípravek Oxid dusnatý Messer se má použít až po optimalizaci konzervativní podpůrné léčby. V klinických studiích se oxid dusnatý podával navíc k jiným standardním perioperačním léčebným režimům, které zahrnovaly podávání inotropních a vazoaktivních léčivých přípravků. Přípravek Oxid dusnatý Messer se má podávat při pečlivém sledování hemodynamiky a oxygenace.
+
+Novorozenci, kojenci a batolata, děti a dospívající ve věku 0-17 let
+Počáteční dávka inhalačního oxidu dusnatého je 10 ppm. Dávku lze zvýšit až na 20 ppm, jestliže nižší dávka nezajišťuje dostatečné klinické účinky. Má se podávat co nejnižší účinná dávka a ta se má snížit na 5 ppm, pokud tlak v plicnici a systémové okysličení arteriální krve zůstanou při této nižší dávce přiměřené.
+Klinické údaje, které dokládají navrhovanou dávku ve věkovém rozmezí 12-17 let, jsou omezené.
+
+Dospělí
+Počáteční dávka inhalačního oxidu dusnatého je 20 ppm (částic na jeden milion) inhalačního plynu. Dávku lze zvýšit až na 40 ppm, jestliže nižší dávka nezajišťuje dostatečné klinické účinky. Má se podávat co nejnižší účinná dávka a ta se má snížit na 5 ppm, pokud tlak v plicnici a systémové okysličení arteriální krve zůstanou při této nižší dávce přiměřené.
+
+Účinky inhalačního oxidu dusnatého jsou rychlé, za 5-20 minut je patrné snížení tlaku v plicnici a zlepšení oxygenace. V případě nedostatečné odpovědi je možné dávku titrovat po uplynutí minimálně 10 minut.
+
+Pokud nejsou po 30 minutách léčby patrné žádné prospěšné fyziologické účinky, má se zvážit přerušení léčby.
+
+Léčbu za účelem snížení plicního tlaku je možné zahájit kdykoliv v průběhu perioperačního období. V klinických studiích byla léčba často zahajována před odpojením od kardiopulmonálního bypassu.
+Inhalační oxid dusnatý se v perioperačním období podával po dobu až 7 dnů, běžná doba léčby je však
+24-48 hodin.
+Přerušení podávání
+Pokus o přerušení podávání přípravku Oxid dusnatý Messer je možný, jakmile dojde ke stabilizaci hemodynamiky, společně s odpojením od ventilátoru a inotropní podpory. Vysazování léčby inhalačním oxidem dusnatým se má provádět postupně. Dávka se má postupně snižovat až na dávku 1 ppm, která se podává po dobu 30 minut, přičemž je nutné pečlivě sledovat systémový a centrální tlak. Potom se podávání ukončí. Pokus o ukončení podávání se má provést nejméně každých 12 hodin, pokud je pacient stabilní na nízké dávce přípravku Oxid dusnatý Messer.
+
+Při příliš rychlém ukončení léčby inhalačním oxidem dusnatým existuje riziko opětovného zvýšení tlaku v plicnici s následnou oběhovou nestabilitou.
+
+Pediatrická populace
+Bezpečnost a účinnost přípravku Oxid dusnatý Messer u předčasně narozených novorozenců mladších než 34 týdnů gestačního věku nebyla dosud stanovena. V současnosti dostupné údaje jsou popsány v bodě 5.1, ale na jejich základě nelze učinit žádná doporučení ohledně dávkování.
+
+Způsob podání Endotracheopulmonální podání.
+Oxid dusnatý se pacientovi podává po naředění směsí kyslíku/vzduchu mechanickou ventilací za použití schváleného (označeného CE) aplikačního systému oxidu dusnatého. Při sestavování před zahájením léčby zajistěte, aby bylo zařízení nastaveno v souladu s koncentrací uvedenou na tlakové lahvi.
+
+Aplikační systém musí zajišťovat konstantní koncentraci přípravku Oxid dusnatý Messer bez ohledu na ventilátor. U ventilátorů s nepřetržitým průtokem pro novorozence toho lze dosáhnout nastavením nízkého průtoku přípravku Oxid dusnatý Messer do inspirační větve ventilačního okruhu. Ventilace novorozenců s přerušovaným průtokem může být spojena s výkyvy koncentrace oxidu dusnatého.
+Aplikační systém oxidu dusnatého pro ventilaci s přerušovaným průtokem musí být schopen zamezit výkyvům koncentrace oxidu dusnatého.
+
+Koncentraci vdechovaného přípravku Oxid dusnatý Messer je nutné měřit kontinuálně v inspirační větvi ventilačního okruhu blízko pacienta. Ve stejném místě je nutné měřit také koncentraci oxidu dusičitého (NO2) a FiO2 za použití kalibrovaného a schváleného (označeného CE) monitorovacího zařízení. Z důvodu bezpečnosti pacientů musí být nastaveny varovné signály pro přípravek Oxid dusnatý Messer (± 2 ppm od předepsané dávky), NO2 (1 ppm) a FiO2 (± 0,05). Musí být zobrazen tlak v tlakové lahvi přípravku Oxid dusnatý Messer, aby bylo možné vyměnit tlakovou lahev včas, bez neúmyslného přerušení léčby, a k zajištění včasné výměny musí být dostupné náhradní tlakové lahve . Léčba přípravkem Oxid dusnatý Messer musí být dostupná pro manuální ventilaci, např. při odsávání, přepravě pacientů a resuscitaci.
+
+Pro případ selhání systému nebo výpadku elektřiny má být dostupný záložní zdroj energie (baterie) a rezervní aplikační systém oxidu dusnatého. Napájení monitorovacího zařízení má být nezávislé na funkci aplikačního zařízení.
+
+Horní hranice expozice (průměrná expozice) oxidu dusnatému pro personál definovaná pracovními předpisy je ve většině zemí 25 ppm za 8 hodin (30 mg/m³) a odpovídající hranice pro NO2 je 2-3 ppm (4-6 mg/m³).
+Zaškolení k podávání
+Klíčové prvky, které musí být zahrnuty do školení nemocničního personálu, jsou následující.
+
+Správné sestavení a připojení
+-  Připojení k tlakové lahvi a k respiračnímu okruhu ventilátoru pacienta
+
+Obsluha
+-  Kontrola seznamu postupů před použitím (série kroků, které je nutné udělat bezprostředně před zahájením léčby každého pacienta, aby bylo zajištěno správné fungování systému a aby bylo zajištěno, že v systému není přítomen NO2)
+-  Nastavení zařízení na správnou koncentraci oxidu dusnatého, která se má podávat
+-  Nastavení horních a dolních limitů NO, NO2 a O2 pro výstražný signál
+-  Použití záložního manuálního aplikačního systému
+-  Postupy správné výměny tlakových lahví a čištění systému
+-  Výstražná signalizace při potížích
+-  Kalibrace monitorů NO, NO2 a O2
+-  Postup při měsíčních kontrolách fungování systému
+
+Sledování tvorby methemoglobinu (MetHb)
+Je známo, že novorozenci a kojenci mají ve srovnání s dospělými sníženou aktivitu MetHb-reduktázy. Hladina methemoglobinu se má měřit v průběhu jedné hodiny po zahájení léčby přípravkem Oxid dusnatý Messer za použití analyzátoru, který dokáže spolehlivě rozlišit fetální hemoglobin a methemoglobin. Pokud je methemoglobin > 2,5 %, má se dávka přípravku Oxid dusnatý Messer snížit a je možné zvážit podání léčivých přípravků s redukčními vlastnostmi, např. methylenové modři.
+Přestože není obvyklé, aby se hladina methemoglobinu významně zvýšila, pokud byla na začátku nízká, je vhodné opakovat měření hladiny methemoglobinu každý den až obden.
+
+U dospělých, kteří podstupují operaci srdce, se má hladina methemoglobinu měřit v průběhu jedné hodiny po zahájení léčby přípravkem Oxid dusnatý Messer. Jestliže množství methemoglobinu dosáhne hladiny, při které může být ohrožen přiměřený přísun kyslíku, má se dávka přípravku Oxid dusnatý Messer snížit a je možné zvážit podání léčivých přípravků s redukčními vlastnostmi, např. methylenové modři.
+Sledování tvorby oxidu dusičitého (NO2)
+Bezprostředně před zahájením léčby každého pacienta je nutné vhodným postupem zbavit systém NO2. Koncentrace NO2 se má udržet na co nejnižší úrovni, vždy < 0,5 ppm. Jestliže je hladina NO2 > 0,5 ppm, je nutné zjistit, zda aplikační systém nemá závadu, překalibrovat analyzátor NO2 a snížit množství přípravku Oxid dusnatý Messer a/nebo FiO2, pokud je to možné. Jestliže se objeví nečekaná změna koncentrace přípravku Oxid dusnatý Messer, je nutné zjistit, zda aplikační systém nemá závadu, a překalibrovat analyzátor.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Novorozenci závislí na pravolevém nebo významném levopravém cévním zkratu.
+4.4  Zvláštní upozornění a opatření pro použití
+Nedostatečná odpověď
+Pokud je posouzeno, že klinická odpověď po 4-6 hodinách od zahájení podávání přípravku Oxid dusnatý Messer není vyhovující, mají se zvážit následující kroky.
+Pacientům, kteří se budou přesouvat na jiné pracoviště, je nutné zajistit podávání oxidu dusnatého v průběhu přepravy, aby nedošlo ke zhoršení jejich stavu náhlým vysazením přípravku Oxid dusnatý Messer. Pokud se stav dále zhoršuje, nebo pokud se nepodaří stav zlepšit podle definovaných kritérií závislých na místních okolnostech, má se zvážit použití záchranných prostředků, např. extrakorporální membránové oxygenace (ECMO), pokud je k dispozici.
+Zvláštní populace pacientů
+V klinických studiích nebyla prokázána účinnost při použití inhalačního oxidu dusnatého u pacientů s vrozenou brániční kýlou.
+
+Léčba inhalačním oxidem dusnatým může při levopravém cévním zkratu zhoršit srdeční nedostatečnost. Dochází k tomu v důsledku nežádoucí vazodilatace v plicích způsobené inhalačním oxidem dusnatým, což má za následek další vzestup již existující plicní hyperperfúze, která může potenciálně vyvolat dopředné nebo zpětné selhání srdce. Proto se doporučuje před podáním oxidu dusnatého provést katetrizaci plicnice nebo echokardiografické vyšetření centrální hemodynamiky. Inhalační oxid dusnatý se má používat s opatrností u pacientů s komplexní srdeční vadou, u nichž je vysoký tlak v plicnici důležitý pro zachování krevního oběhu.
+Inhalační oxid dusnatý je nutné používat s opatrností také u pacientů s porušenou funkcí levé komory a zvýšeným počátečním plicním kapilárním tlakem (PCWP), protože u nich hrozí vyšší riziko rozvoje srdečního selhání (např. plicní edém).
+
+Přerušení léčby
+Podávání přípravku Oxid dusnatý Messer se nemá přerušovat náhle, protože to může vést ke zvýšení tlaku v plicnici (PAP) a/nebo zhoršení okysličení krve (PaO2). Zhoršení okysličení krve a zvýšení PAP se může objevit také u novorozenců bez zjevné odpovědi na přípravek Oxid dusnatý Messer.
+Ukončení podávání inhalačního oxidu dusnatého se má provádět opatrně. U pacientů, přepravovaných na jiná pracoviště kvůli další léčbě, kteří musí pokračovat v léčbě inhalačním oxidem dusnatým, se mají učinit opatření k zajištění kontinuálního podávání inhalačního oxidu dusnatého při přepravě.
+Lékař má mít u lůžka přístup k rezervnímu aplikačnímu systému oxidu dusnatého.
+Tvorba methemoglobinu
+Velká část oxidu dusnatého k inhalaci se vstřebává systémově. Konečnými produkty oxidu dusnatého, které vstupují do systémového oběhu, jsou především methemoglobin a dusičnany. Koncentrace methemoglobinu v krvi se má sledovat, viz bod 4.2.
+Tvorba oxidu dusičitého (NO2)
+NO2 se rychle tvoří ve směsích plynů, které obsahují oxid dusnatý a O2, přičemž oxid dusičitý může způsobit zánět a poškození dýchacích cest. Dávka oxidu dusnatého se má snížit, pokud koncentrace NO2 překročí 0,5 ppm.
+Účinky na krevní destičky
+Na zvířecích modelech bylo prokázáno, že oxid dusnatý může ovlivňovat hemostázu, což vede k prodloužené době krvácení. Údaje získané u dospělých lidí jsou protichůdné a v randomizovaných kontrolovaných studiích s novorozenci s hypoxickým respiračním selháním narozenými v termínu nebo krátce před termínem nebyl zjištěn nárůst komplikací spojených s krvácením.
+
+Při podávání přípravku Oxid dusnatý Messer po dobu delší než 24 hodin pacientům s funkční nebo kvantitativní odchylkou krevních destiček, nízkým koagulačním faktorem nebo pacientům, kterým je podávána antikoagulační léčba, se doporučuje pravidelné sledování hemostázy a měření doby krvácení.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly provedeny žádné studie interakcí.
+
+Na základě dostupných údajů nelze vyloučit klinicky významné interakce s jinými léčivými přípravky používanými při léčbě hypoxického respiračního selhání. Při podávání přípravku Oxid dusnatý Messer s látkami, které jsou zdrojem oxidu dusnatého, jako je nitroprusid sodný a nitroglycerin, se nežádoucí účinky sčítají a zvyšují riziko rozvoje methemoglobinemie. Inhalační oxid dusnatý byl bezpečně podáván s tolazolinem, dopaminem, dobutaminem, steroidy, surfaktantem a vysokofrekvenční ventilací.
+Kombinované použití s ostatními vazodilatancii (např. sildenafil) nebylo dostatečně studováno. Dostupné údaje naznačují aditivní účinky na centrální oběh, tlak v plicnici a výkon pravé komory
+
+srdeční. Inhalační oxid dusnatý se má v kombinaci s jinými vazodilatancii působícími prostřednictvím systému cGMP nebo cAMP podávat opatrně.
+
+Existuje zvýšené riziko tvorby methemoglobinu, pokud se látky, o nichž je známo, že mají tendenci zvyšovat koncentraci methemoglobinu, podávají souběžně s oxidem dusnatým (např. alkylnitráty a sulfonamidy). Látky, o nichž je známo, že způsobují zvýšení hladiny methemoglobinu, je proto nutné v průběhu léčby inhalačním oxidem dusnatým používat opatrně. Prilokain, ať už podávaný perorálně, parenterálně nebo topicky, může vyvolat methemoglobinemii. Je třeba dbát opatrnosti při podávání přípravku Oxid dusnatý Messer současně s léčivými přípravky obsahujícími prilokain.
+Oxid dusnatý se za přítomnosti kyslíku rychle oxiduje na deriváty, které působí toxicky na bronchiální epitel a alveolokapilární membránu. Oxid dusičitý (NO2) je hlavní látkou, která se tvoří, a může způsobit zánět a poškození dýchacích cest. Existují také údaje zjištěné u zvířat, které naznačují, že při expozici nízkými dávkámi NO2 se zvyšuje náchylnost k infekcím dýchacích cest. V průběhu léčby oxidem dusnatým má být koncentrace NO2 < 0,5 ppm při dávce oxidu dusnatého < 20 ppm. Pokud kdykoliv překročí koncentrace NO2 1 ppm, je nutné dávku oxidu dusnatého okamžitě snížit (informace o sledování NO2 viz bod 4.2).
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání oxidu dusnatého těhotným ženám nejsou dostatečné. Potenciální riziko pro člověka není známé.
+Kojení
+Není známo, zda se oxid dusnatý vylučuje do lidského mateřského mléka. Přípravek Oxid dusnatý Messer se nemá v těhotenství a během kojení používat.
+Fertilita
+Nebyly provedeny žádné studie fertility.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Není relevantní.
+
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+Náhlé přerušení podávání inhalačního oxidu dusnatého může vyvolat rebound reakci; tedy snížené okysličování krve a vzestup centrálního tlaku s následným poklesem systémového krevního tlaku. Rebound reakce je nejčastějším nežádoucím účinkem při klinickém použití inhalačního oxidu dusnatého. Rebound reakce se může objevit v časné, ale i v pozdní fázi léčby.
+
+V jedné klinické studii (NINOS) byly skupiny léčených pacientů podobné s ohledem na výskyt a závažnost intrakraniálního krvácení, krvácení IV. stupně, periventrikulární leukomalácie, cerebrálního infarktu, záchvatů vyžadujících antikolvuzní terapii, pulmonálního krvácení nebo gastrointestinálního krvácení.
+
+Nežádoucí účinky v tabulce
+V níže uvedené tabulce jsou nežádoucí účinky, které byly při použití inhalačního oxidu dusnatého zaznamenány buď ve studii CINGRI s 212 novorozenci nebo v praxi po uvedení přípravku na trh u novorozenců (≤ 1 měsíc věku). Uváděné kategorie frekvencí se řídí následující konvencí:
+Velmi časté (≥1/10) Časté (≥1/100 až <1/10)
+Méně časté (≥1/1000 až <1/100) Vzácné (≥1/10000 až <1/1000) Velmi vzácné (<1/10000)
+
+Není známo (z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů
+Poruchy krve a lymfatického systému
+Poruchy nervového systému
+
+Srdeční poruchy
+
+
+Cévní poruchy
+
+Respirační, hrudní a mediastinální poruchy
+Velmi časté
+
+Trombocyto- penieᵃ
+
+-
+
+
+-
+
+
+-
+
+-
+Časté
+
+-
+
+
+-
+
+
+-
+
+
+Hypotenzeᵃ,ᵇ,
+d
+Atelektázaᵃ
+Méně časté
+
+Methemo- globinemieᵃ
+
+-
+
+
+-
+
+
+-
+Vzácné
+Velmi vzácné
+Nenní známo
+
+-
+
+
+Bolest hlavyᶜ Závraťᶜ Bradykardieᵇ (po náhlém
+ní léčby)
+-
+
+Hypoxieᵇ,ᵈ Dyspnoeᶜ Pocit tísně na
+
+
+
+ᵃ Zjištěno v klinické studii
+ᵇ Zjištěno v praxi po uvedení přípravku na trh
+ᶜ Zjištěno v praxi po uvedení přípravku na trh, ze zkušeností zdravotnického personálu po náhodné
+expozici
+ᵈ Údaje ze sledování po uvedení přípravku na trh (PMSS), účinky spojené s náhlým ukončením podávání léčivého přípravku a/nebo poruchou aplikačního systému. Byl popisován rychlý nástup příznaků rebound reakce, např. zesílená plicní vazokonstrikce a hypoxie po náhlém ukončení léčby inhalačním oxidem dusnatým, vedoucí ke kardiovaskulárnímu kolapsu.
+Popis vybraných nežádoucích účinků
+Léčba inhalačním oxidem dusnatým může způsobit zvýšení hladiny methemoglobinu.
+Sucho v krkuc
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+
+Příznaky
+Předávkování přípravkem Oxid dusnatý Messer se projeví zvýšením hladiny methemoglobinu a NO2. Zvýšená hladina NO2 může způsobit akutní poškození plic. Zvýšené hladiny methemoglobinu snižují kapacitu krevního oběhu pro přenos kyslíku.
+
+Řešení potíží
+V klinických studiích byla hladina NO2 > 3 ppm nebo hladina methemoglobinu > 7 % léčena snížením dávky nebo vysazením inhalačního oxidu dusnatého.
+Methemoglobinemii, která se neupraví po snížení dávky nebo ukončení léčby, je možné v závislosti na klinickém stavu léčit intravenózní aplikací vitaminu C, methylenové modři nebo transfúzí krve.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Jiná léčiva respiračního systému, ATC kód R07AX01.
+
+Mechanismus účinku
+Oxid dusnatý je sloučenina produkovaná mnoha buňkami těla. Způsobuje relaxaci hladkých svalů cév vazbou na hemovou část cytosolové guanylátcyklázy, aktivací guanylátcyklázy a zvýšením intracelulární hladiny cyklického guanosin-3’, 5’-monofosfátu, což vede k vazodilataci. Po inhalaci vyvolává oxid dusnatý selektivní vazodilataci v plicích.
+Farmakodynamické účinky
+Zdá se, že inhalační oxid dusnatý zvyšuje parciální tlak kyslíku v arteriální krvi (PaO2) dilatací plicních cév v lépe ventilovaných částech plic a redistribuuje tok krve v plicích z oblastí s nízkým poměrem ventilace/perfúze (V/Q) do oblastí s normálním poměrem.
+Perzistentní plicní hypertenze novorozenců (PPHN) se objevuje jako primární vývojová vada nebo jako sekundární projev jiných nemocí, jako jsou syndrom aspirace mekonia (MAS), pneumonie, sepse, syndrom hyalinních membrán, vrozená brániční kýla (CDH) a hypoplazie plic. U těchto stavů je vysoký odpor plicních cév (PVR), což vede k sekundární hypoxémii při pravolevému cévním zkratu přes průchodný ductus arteriosus a foramen ovale. U novorozenců s PPHN může inhalační oxid dusnatý zlepšit okysličení krve (což bylo prokázáno významným zvýšením PaO2).
+
+Klinická účinnost a bezpečnost
+Účinnost inhalačního oxidu dusnatého byla zkoumána u novorozenců s hypoxickým respiračním selháním z různých etiologických příčin, narozených v termínu nebo krátce před termínem.
+
+Ve studii NINOS bylo randomizováno 235 novorozenců s hypoxickým respiračním selháním do skupiny, která dostávala 100% O2 a oxid dusnatý (n = 114) nebo do skupiny, která dostávala 100% O2 bez oxidu dusnatého (n = 121), ve většině případů s počáteční koncentrací oxidu dusnatého 20 ppm a s postupným snižováním dávky podle možností na nižší dávky s mediánem délky expozice 40 hodin.
+Cílem této dvojitě zaslepené, randomizované, placebem kontrolované studie bylo stanovit, zda inhalační oxid dusnatý snižuje výskyt úmrtí a/nebo zahájení extrakorporální membránové oxygenace (ECMO). U novorozenců s nižší než úplnou odpovědí při 20 ppm byla hodnocena reakce při 80 ppm oxidu dusnatého nebo kontrolního plynu. Kombinovaný výskyt úmrtí a/nebo zahájení EMCO (prospektivně definovaný primární cílový parametr) prokázal významné zvýhodnění skupiny léčené oxidem dusnatým (46 % vs. 64 %, p = 0,006). Údaje dále prokazují, že vyšší dávka oxidu dusnatého nepřináší žádný další prospěch. Zjištěné nežádoucí účinky se objevovaly s podobnou mírou incidence v obou skupinách. Následná vyšetření ve věku 18-24 měsíců, zaměřená na hodnocení mentálního, motorického, audiologického a neurologického stavu, byla podobná u obou skupin.
+
+Ve studii CINRGI bylo randomizováno 186 novorozenců s hypoxickým respiračním selháním a bez hypoplazie narozených v termínu nebo těsně před termínem buď do skupiny s oxidem dusnatým (n = 97) nebo do skupiny s plynným dusíkem (placebo; n = 89) s počáteční dávkou 20 ppm, která se snížila na 5 ppm během 4 až 24 hodin, s mediánem délky expozice 44 hodin. Prospektivně definovaným primárním cílovým parametrem byla četnost zahájení ECMO. Ve skupině s oxidem dusnatým bylo nutné zahájit ECMO u významně menšího počtu novorozenců ve srovnání s kontrolní skupinou (31 % vs. 57 %, p < 0,001). Ve skupině s oxidem dusnatým bylo významně lepší okysličení krve měřené pomocí PaO2, OI a alveoloarteriálního gradientu (p < 0,001 pro všechny parametry). Z 97 pacientů léčených oxidem dusnatým byli 2 (2 %) vyloučeni ze studie kvůli hladině methemoglobinu > 4 %.
+Frekvence a počet nežádoucích účinků byl v obou studijních skupinách podobný.
+
+U pacientů, kteří podstupují chirurgický zákrok na srdci, je časté zvýšení tlaku v plicnici v důsledku plicní vazokonstrikce. Bylo prokázáno, že inhalační oxid dusnatý selektivně snižuje plicní vaskulární
+
+rezistenci a snižuje zvýšený tlak v plicnici. To může zvýšit ejekční frakci pravé srdeční komory. Tyto účinky následně vedou ke zlepšení krevního oběhu a okysličení v plicním oběhu.
+
+Ve studii INOT27 bylo randomizováno 795 předčasně narozených dětí (gestační věk < 29 týdnů) s hypoxickým respiračním selháním buď do skupiny s oxidem dusnatým (n = 395) v dávce 5 ppm nebo do skupiny s dusíkem (placebo, n = 400), přičemž léčba začala v průběhu prvních 24 hodin života a trvala minimálně 7 dnů, maximálně 21 dnů. Počáteční výsledek kombinovaných konečných parametrů účinnosti sledujících úmrtí nebo bronchopulmonální onemocnění (BPD) ve 36. týdnu gestačního věku, nebyl významně odlišný mezi oběma skupinami, ani s korekcí na gestační věk jako s proměnnou (p = 0,40), ani s porodní hmotností jako s proměnnou (p = 0,41). Celkový výskyt intraventrikulárního krvácení byl 114 (28,9 %) u pacientů léčených NO ve srovnání s 91 (22,9 %) v kontrolní skupině novorozenců. Celkový počet úmrtí ve 36. týdnu byl mírně vyšší ve skupině s NO; 53/395 (13,4 %) ve srovnání s kontrolní skupinou 42/397 (10,6 %). Ve studii INOT25, která hodnotila účinky NO u hypoxických, předčasně narozených novorozenců, nebylo prokázáno zlepšení v přežití bez BDP. V této studii však nebyl prokázán ani žádný rozdíl v incidenci intraventrikulárního krvácení (IVH) ani úmrtí. Studie BALLR1, která také hodnotila účinky NO u předčasně narozených novorozenců, ale podávání inhalačního NO bylo zahájeno v 7 dnech a v dávce 20 ppm, prokázala významné zvýšení počtu přeživších novorozenců bez BPD v 36. týdnu gestačního věku, 121 (45 %) vs. 95 (35,4 %),
+p < 0,028. V této studii nebyly zaznamenány žádné známky nárůstu počtu nežádoucích účinků. Oxid dusnatý chemicky reaguje s kyslíkem za vzniku oxidu dusičitého.
+Oxid dusnatý nese nepárový elektron, což činí jeho molekulu reaktivní. V biologické tkáni může oxid dusnatý tvořit se superoxidem (O2-) peroxynitrit, nestabilní sloučeninu, která může způsobit poškození tkání prostřednictvím dalších redoxních reakcí. Oxid dusnatý má navíc afinitu k metaloproteinům
+a může reagovat s SH-skupinami bílkovin za vzniku nitrososloučenin. Klinický význam chemické reaktivity oxidu dusnatého ve tkáni není znám. Ve studiích bylo prokázáno, že oxid dusnatý má farmakodynamické účinky uvnitř dýchacích cest i při tak nízké koncentraci, jako 1 ppm.
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s inhalačním oxidem dusnatým u všech podskupin pediatrické populace s perzistentní plicní hypertenzí a jiným kardiopulmonálním onemocněním (informace o použití u pediatrické populace viz bod 4.2).
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce a distribuce
+Farmakokinetika oxidu dusnatého se studovala u dospělých. Oxid dusnatý se po inhalaci vstřebává systémově. Většina ho přestoupí přes výstelku plicních kapilár, kde se naváže na hemoglobin, který je ze 60 % až ze 100 % nasycen kyslíkem. Při tomto stupni nasycení kyslíkem se oxid dusnatý váže převážně na oxyhemoglobin za vzniku methemoglobinu a dusičnanu. Při nízké saturaci kyslíkem se může oxid dusnatý vázat na deoxyhemoglobin a přechodně vytvořit nitrosylhemoglobin, který se po expozici kyslíku přeměňuje na oxidy dusíku a methemoglobin. V plicním systému může oxid dusnatý reagovat s kyslíkem a vodou za vzniku oxidu dusičitého, resp. dusitanu, který interaguje s oxyhemoglobinem za vzniku methemoglobinu a dusičnanu. Konečné produkty oxidu dusnatého, které vstupují do systémového oběhu, jsou tedy zejména methemoglobin a dusičnany.
+
+Biotransformace
+Distribuce methemoglobinu se zkoumala jako funkce času a expozice oxidu dusnatému u novorozenců s respiračním selháním. Koncentrace methemoglobinu se zvyšuje v průběhu prvních 8 hodin expozice oxidu dusnatému. Průměrná hladina methemoglobinu zůstala nižší než 1 % ve skupině s placebem a ve skupinách s aplikací 5 ppm a 20 ppm oxidu dusnatého, dosáhla však přibližně 5 % ve skupině s aplikací 80 ppm oxidu dusnatého. Hladiny methemoglobinu > 7 % bylo dosaženo pouze u pacientů, kteří dostávali 80 ppm; což představovalo 35 % ze skupiny. Průměrná doba k dosažení maximální hladiny methemoglobinu byla u těchto 13 pacientů 10 ± 9 (směrodatná odchylka) hodin (medián 8 hodin), ale u jednoho pacienta došlo k překročení 7 % až po 40 hodinách.
+
+Eliminace
+Dusičnan byl identifikovaný jako převládající metabolit oxidu dusnatého vylučovaný močí, tvořící > 70 % dávky vdechnutého oxidu dusnatého. Dusičnany se z plazmy vychytávají v ledvinách v míře, která se blíží míře glomerulární filtrace.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Účinky v neklinických studiích byly pozorovány pouze po expozicích dostatečně převyšujících maximální expozici u člověka, což svědčí o malém významu při klinickém použití.
+Akutní toxicita je spojená s anoxií, která vzniká následkem zvýšené hladiny methemoglobinu.
+
+V některých testovacích systémech je oxid dusnatý genotoxický. Při inhalační expozici odpovídající doporučené dávce (20 ppm) po 20 hod/den po dobu až dvou let nebyly u potkanů zjevné žádné důkazy kancerogenních účinků. Expozice při vyšších dávkách nebyla zkoumána.
+
+Nebyly provedeny žádné studie reprodukční toxicity.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Dusík.
+
+6.2  Inkompatibility
+V přítomnosti kyslíku tvoří NO rychle NO2, viz bod 4.5.
+6.3  Doba použitelnosti
+
+4 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 50 °C.
+
+Je nutné dodržovat všechny předpisy týkající se nakládání s tlakovými nádobami.
+
+Uchovávejte v původní lahvi na stlačený plyn. Nepřemisťujte obsah z původní lahve na stlačený plyn do jiné lahve na stlačený plyn.
+Uchovávejte lahve na stlačený plyn ve vnitřních prostorech v dobře větraných místnostech nebo venku ve větraných přístřešcích, kde jsou chráněny před deštěm a přímým slunečním zářením.
+Chraňte lahve na stlačený plyn před nárazy, pády, oxidačními činidly a hořlavými materiály, vlhkostí,
+zdroji tepla nebo vznícení.
+
+Uchovávání v lékárně
+Lahve na stlačený plyn se mají uchovávat na vzdušném, čistém, uzamčeném místě určeném pouze pro uchovávání medicinálního plynu. Na tomto místě má být vyhrazen samostatný prostor pro uchovávání lahví s oxidem dusnatým.
+
+Uchovávání ve zdravotnickém zařízení
+Lahev na stlačený plyn se má uložit na místo vybavené vhodným zařízením, které ji bude udržovat ve svislé poloze.
+Přeprava tlakových lahví
+Lahve na stlačený plyn se mají přepravovat s vhodným zařízením za účelem jejich ochrany před riziky otřesů a pádů.
+
+Při přepravě pacientů léčených přípravkem Oxid dusnatý Messer uvnitř nemocnice nebo mezi nemocnicemi mají být lahve na stlačený plyn pevně zajištěny ve svislé poloze, aby se zamezilo riziku pádu nebo nežádoucí změně výdeje plynu. Zvláštní pozornost se má také věnovat upevnění regulátoru tlaku, aby se předešlo riziku náhodného poškození.
+
+6.5  Druh obalu a obsah balení
+
+Hliníková lahev na stlačený plyn o objemu 2 litry, 10 litrů a 20 litrů (identifikace pomocí tyrkysově modrého vrchlíku tlakové lahve a bílého těla tlakové lahve) naplněná pod tlakem 200 barů, vybavená ventilem zbytkového tlaku z nerezové oceli se specifickým výstupním připojením.
+
+
+Vodní kapacita nádoby [l]
+
+2
+Ekvivalentní množství plynného oxidu dusnatého v litrech při tlaku 1 bar a teplotě 15 °C
+381
+
+10           1903
+
+20           3806
+
+
+
+Velikosti balení:
+Hliníková lahev na stlačený plyn o objemu 2 litry Hliníková lahev na stlačený plyn o objemu 10 litrů Hliníková lahev na stlačený plyn o objemu 20 litrů
+
+6.6   Zvláštní opatření pro likvidací přípravku a pro zacházení s ním
+Pokyny pro použití přípravku Oxid dusnatý Messer a pro zacházení s ním
+Při připojování lahve na stlačený plyn s přípravkem Oxid dusnatý Messer k aplikačnímu systému se má vždy zajistit, aby koncentrace v lahvi byla stejná jako koncentrace, na kterou je nastaven aplikační systém.
+Aby se předešlo všem mimořádným událostem, je nutné absolutně respektovat následující pokyny.
+-  před použitím se má zkontrolovat, zda je materiál v dobrém stavu
+-  lahve na stlačený plyn mají být dobře upevněny, aby se předešlo nežádoucímu pádu
+-  ventil se nemá otvírat násilím a má se otvírat pomalu
+-  pokud není ventil lahve na stlačený plyn chráněný víčkem nebo krytem, nemá se taková tlaková lahev používat
+-  regulátor tlaku se má před každým novým použitím vyčistit směsí dusíku a oxidu dusnatého, aby se zabránilo vdechnutí oxidu dusičitého
+-  poškozený ventil se nemá používat ani opravovat. Je třeba jej vrátit distributorovi/výrobci.
+-  regulátor tlaku se nemá utahovat kleštěmi kvůli riziku prasknutí těsnění
+
+Veškeré vybavení, včetně konektorů, hadic a elektrických obvodů, používaných při aplikaci oxidu dusnatého, musí být vyrobeno z materiálů kompatibilních s tímto plynem. Z hlediska vzniku koroze lze systém podávání rozdělit do dvou zón: 1) Zóna od ventilu lahve na stlačený plyn ke zvlhčovači (suchý plyn) a 2) zóna od zvlhčovače k výstupnímu připojení (vlhký plyn, jenž může obsahovat NO2). Testy prokázaly, že suché směsi oxidu dusnatého lze použít s většinou materiálů. Přítomnost oxidu dusičitého a vlhkost však vytváří agresivní atmosféru. Z kovových konstrukčních materiálů je možno doporučit pouze nerezovou ocel. Mezi testované polymery, které lze u systémů podávání oxidu dusnatého použít, patří mimo jiné polyethylen (PE) a polypropylen (PP). Je třeba se vyhnout použití butylové pryže, polyamidu a polyuretanu. Polytrifluorochloroethylen, kopolymer vinylidenu
+a hexafluoropropylenu a polytetrafluorethylen se při podávání čistého oxidu dusnatého a dalších
+
+korozivních plynů široce používají a jsou pokládány za natolik inertní, že jejich testování nebylo požadováno.
+
+Instalace potrubního rozvodu k podávání oxidu dusnatého prostřednictvím napájecí stanice sestávající z lahví na stlačený plyn, fixní sítě a terminálních jednotek je zakázána.
+Obvykle není potřeba nadbytečný plyn odvětrávat, je však nutné mít na paměti kvalitu vzduchu na pracovišti; stopové koncentrace NO nebo NO2/NOx tedy nesmí překročit státem stanovený pracovní expoziční limit. Případy, kdy byli zaměstnanci nemocnice nedopatřením vystaveni působení oxidu dusnatého, byly dávány do souvislosti s výskytem nežádoucích příhod (viz bod 4.8).
+Pokyny pro likvidaci tlakové lahve
+Prázdné lahve na stlačený plyn se nemají vyhazovat. Prázdné lahvena stlačený plyn odebírá dodavatel.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Messer Technogas s.r.o.
+Zelený Pruh 99
+140 02 Praha 4
+Česká republika
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+89/370/14-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 5. 11. 2014
+
+
+10.  DATUM REVIZE TEXTU
+
+5. 1. 2018

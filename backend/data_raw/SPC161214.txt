@@ -1,0 +1,821 @@
+Sp. zn. sukls74275/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+Fimodigo 0,5 mg tvrdé tobolky
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tvrdá tobolka obsahuje fingolimodum 0,5 mg (ve formě fingolimodi hydrochloridum).
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Tvrdá tobolka
+Tvrdá želatinová tobolka velikosti 16 mm (velikost 3) s bílým neprůhledným tělem a žlutým neprůhledným víčkem.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Přípravek Fimodigo je indikován v monoterapii jako léčba modifikující průběh onemocnění u vysoce aktivní relabující-remitentní formy roztroušené sklerózy u následujících skupin dospělých a pediatrických pacientů ve věku 10 let a starších:
+-   U pacientů, kteří mají vysoce aktivní formu onemocnění i přes úplnou a odpovídající terapii nejméně jedním chorobu modifikujícím lékem (výjimky a informace o washout periodě viz body 4.4 a 5.1).
+nebo
+-   U pacientů s rychle progredující závažnou relabující-remitentní formou roztroušené sklerózy definovanou 2 nebo více těžkými relapsy během jednoho roku a s 1 nebo více gadolinium enhancující lézí na MRI mozku nebo s významně zvýšeným výskytem T2 lézí ve srovnání s předchozím vyšetřením MRI.
+
+4.2  Dávkování a způsob podání
+Léčbu má zahájit a sledovat lékař se zkušenostmi v diagnostice a léčbě roztroušené sklerózy. Dávkování
+U dospělých je doporučená dávka přípravku Fimodigo jedna 0,5mg tobolka podávaná perorálně jednou denně.
+
+U pediatrických pacientů (ve věku 10 let a starších) závisí doporučená dávka na tělesné hmotnosti:
+•   Pediatričtí pacienti s tělesnou hmotností <40 kg: jedna 0,25mg tobolka podávaná perorálně jednou denně. K dispozici jsou jiné léčivé přípravky jiných farmaceutických společností obsahující fingolimod v nižší dávce (ve formě 0,25mg tobolek)
+•   Pediatričtí pacienti s tělesnou hmotností >40 kg: jedna 0,5mg tobolka podávaná perorálně jednou denně.
+
+
+1
+
+Pediatričtí pacienti, kteří zahájili léčbu 0,25mg tobolkami a následně dosáhli stabilní tělesné hmotnosti nad 40
+kg, mají být převedeni na 0,5mg tobolky.
+
+Při přechodu z denní dávky 0,25 mg na dávku 0,5 mg je doporučeno stejné monitorování jako po podání první dávky při zahájení léčby.
+Přípravek Fimodigo může být užíván s jídlem nebo nalačno. Tobolky je nutné polykat neporušené, bez otevírání.
+Stejné monitorování jako po podání první dávky při zahájení léčby se doporučuje, pokud je léčba přerušena:
+•   na 1 den nebo více během prvních 2 týdnů léčby.
+•   na více než 7 dní během 3. a 4. týdne léčby.
+•   na více než 2 týdny po jednom měsíci léčby.
+Pokud je přerušení léčby kratší, než je uvedeno výše, může léčba pokračovat následující dávkou podle plánu
+(viz bod 4.4).
+
+Zvláštní skupiny pacientů
+Starší pacienti
+Přípravek Fimodigo má být u pacientů ve věku 65 let a starších používán s opatrností vzhledem k
+nedostatku údajů týkajících se bezpečnosti a účinnosti léku v této skupině pacientů (viz bod 5.2).
+
+Porucha funkce ledvin
+Přípravek Fimodigo nebyl v pivotních studiích léčby roztroušené sklerózy hodnocen u pacientů s poruchou funkce ledvin. Na základě klinicko-farmakologických studií není třeba u pacientů s lehkou až těžkou poruchou funkce ledvin upravovat dávky.
+
+Porucha funkce jater
+U pacientů s těžkou poruchou funkce jater (Child-Pugh třída C) nesmí být přípravek Fimodigo používán (viz bod 4.3). Přestože u pacientů s lehkou až středně těžkou poruchou funkce jater není potřeba úprava dávky, je třeba dbát opatrnosti při zahájení léčby u těchto pacientů (viz body 4.4 a 5.2).
+Pediatrická populace
+Bezpečnost a účinnost přípravku Fimodigo u dětí ve věku do 10 let nebyly dosud stanoveny. Nejsou dostupné žádné údaje.
+
+Dostupné jsou velmi omezené údaje u dětí ve věku 10-12 let (viz body 4.4, 4.8 a 5.1).
+
+Způsob podání
+Tento léčivý přípravek je určen k perorálnímu podání.
+
+4.3  Kontraindikace
+
+-   Syndrom imunodeficience.
+-    Pacienti se zvýšeným rizikem oportunních infekcí, včetně pacientů se sníženou imunitou (včetně pacientů, kteří jsou v současné době na imunosupresivní léčbě nebo pacientů s imunitou oslabenou předchozími terapiemi).
+-    Závažné aktivní infekce, aktivní chronické infekce (hepatitida, tuberkulóza).
+-   Aktivní maligní onemocnění.
+-    Těžká porucha funkce jater (Child-Pugh třída C).
+-    Pacienti, kteří měli během předchozích 6 měsíců infarkt myokardu (IM), nestabilní anginu pectoris, cévní mozkovou příhodu/tranzitorní ischemickou ataku (TIA), dekompenzované srdeční selhání (vyžadující hospitalizaci), nebo srdeční selhání třídy III/IV dle New York Heart Association (NYHA) (viz bod 4.4).
+-    Pacienti se závažnou srdeční arytmií vyžadující léčbu antiarytmiky třídy Ia nebo III (viz bod 4.4).
+
+-    Pacienti s atrioventrikulárním (AV) blokem druhého stupně typu Mobitz II nebo AV blokem třetího stupně, nebo se sick-sinus syndromem, pokud nemají zavedený kardiostimulátor (viz bod 4.4).
+-    Pacienti s výchozí hodnotou QTc intervalu ≥500 ms (viz bod 4.4).
+-    Během těhotenství a u žen v plodném věku, které nepoužívají účinnou antikoncepci (viz body 4.4 a
+4.6).
+-    Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Bradyarytmie
+
+Zahájení léčby přípravkem Fimodigo vede k přechodnému poklesu srdeční frekvence a může být také spojeno se zpomalením atrioventrikulárního převodu, včetně výskytu izolovaných hlášení o přechodném, spontánně se upravujícím kompletním AV bloku (viz body 4.8 a 5.1).
+
+Pokles srdeční frekvence po první dávce začíná během jedné hodiny a je nejvyšší během 6 hodin. Tento efekt po podání dávky přetrvává v následujících dnech, i když je obvykle mírnější a obvykle odezní během následujících týdnů. Při pokračujícím podávání se průměrná srdeční frekvence vrací k výchozím hodnotám do jednoho měsíce. Nicméně u některých pacientů se srdeční frekvence nemusí do konce prvního měsíce vrátit k výchozím hodnotám. Abnormality převodního systému byly typicky přechodné a asymptomatické. Většinou nevyžadovaly léčbu a upravily se během prvních 24 hodin léčby. Pokud je to nezbytné, lze pokles srdeční frekvence indukovaný fingolimodem zvrátit atropinem nebo isoprenalinem podaným parenterálně.
+
+Všichni pacienti musí mít provedeno EKG vyšetření a mít změřen krevní tlak před a 6 hodin po podání první dávky přípravku Fimodigo. Všichni pacienti musí být monitorováni po dobu 6 hodin s ohledem na známky a příznaky bradykardie, s měřením srdeční frekvence a krevního tlaku každou hodinu. Během těchto 6 hodin je doporučeno kontinuální monitorování EKG (v reálném čase).
+Stejné preventivní opatření jako při podání první dávky je doporučeno, pokud se pacient převádí z denní dávky 0,25 mg na dávku 0,5 mg.
+Pokud se objeví příznaky bradyarytmie po podání dávky, má být zahájena odpovídající léčba a pacient má být monitorován do doby, než příznaky odezní. Pokud by pacient během monitorování po první dávce vyžadoval farmakologickou intervenci, je nutné zajistit monitorování ve zdravotnickém zařízení přes noc a po podání druhé dávky přípravku Fimodigo je zapotřebí opakovat monitorování jako po podání první dávky.
+
+Pokud je po 6 hodinách srdeční frekvence nejnižší od podání první dávky (což naznačuje, že se maximální farmakodynamický efekt na srdce nemusel dosud projevit), monitorování je nutné prodloužit nejméně o 2 hodiny a do doby, dokud se srdeční frekvence opět nezvýší. Navíc, pokud je po 6 hodinách srdeční frekvence nižší než 45 tepů za minutu u dospělých pacientů, nižší než 55 tepů za minutu u pediatrických pacientů ve věku 12 let a starších, nebo nižší než 60 tepů za minutu u pediatrických pacientů ve věku 10-12 let, nebo pokud EKG ukazuje nový výskyt AV bloku druhého nebo vyššího stupně nebo pokud je QTc interval ≥500 ms, je nutné prodloužené monitorování (nejméně monitoring přes noc) až do úpravy nálezu. Prodloužené monitorování (nejméně monitoring přes noc) je rovněž nezbytné, pokud se v kteroukoliv dobu objeví AV blok třetího stupně.
+
+Účinky na srdeční frekvenci a atrioventrikulární vedení se mohou znovu objevit při opakovaném zahájení léčby přípravkem Fimodigo v závislosti na délce přerušení a době od zahájení léčby přípravkem Fimodigo. Stejné monitorování jako po podání první dávky se doporučuje při zahájení léčby, pokud je léčba přerušena:
+-    na 1 den nebo více během prvních 2 týdnů léčby.
+-    na více než 7 dní během 3. a 4. týdne léčby.
+-    na více než 2 týdny po jednom měsíci léčby.
+Pokud je přerušení léčby kratší, než je uvedeno výše, může léčba pokračovat následující dávkou podle plánu.
+
+U dospělých pacientů léčených fingolimodem byly hlášeny velmi vzácné případy inverze vlny T. V případě inverze vlny T se musí předepisující lékař ujistit, že pacient nemá současně známky nebo příznaky ischemie myokardu. Pokud je podezření na ischemii myokardu, doporučuje se konzultace s kardiologem.
+3
+
+S ohledem na riziko závažných poruch rytmu nebo významnou bradykardii nesmí přípravek Fimodigo užívat pacienti se sino-atriálním srdečním blokem, se symptomatickou bradykardií, rekurentní synkopou nebo srdeční zástavou v anamnéze nebo pacienti s významným prodloužením QT intervalu (QTc >470 ms [dospělé ženy], QTc >460 ms [děti ženského pohlaví] nebo >450 ms [dospělí a děti mužského pohlaví]), dekompenzovanou hypertenzí nebo závažnou spánkovou apnoe (viz též bod 4.3). U těchto pacientů lze uvažovat o léčbě přípravkem Fimodigo pouze tehdy, pokud předpokládaný prospěch vyváží možná rizika a před zahájením léčby je vyžádána konzultace s kardiologem kvůli určení nejvhodnějšího způsobu monitorování. Při zahájení léčby se doporučuje přinejmenším prodloužené monitorování přes noc (viz též bod 4.5).
+
+Přípravek Fimodigo nebyl hodnocen u pacientů s arytmiemi vyžadujícími léčbu antiarytmiky třídy Ia (např. chinidin, disopyramid) nebo třídy III (např. amiodaron, sotalol). Antiarytmika tříd Ia a III jsou spojena s případy torsade de pointes u pacientů s bradykardií (viz bod 4.3).
+Existují pouze omezené zkušenosti s podáváním přípravku Fimodigo u pacientů současně léčených betablokátory, blokátory vápníkových kanálů snižujícími srdeční frekvenci (např. verapamil nebo diltiazem) nebo jinými látkami, které mohou snižovat srdeční frekvenci (např. ivabradin, digoxin, anticholinesterázy nebo pilokarpin). Protože je zahájení léčby přípravkem Fimodigo též spojováno se zpomalením srdeční akce (viz též bod 4.8 Bradyarytmie), současné podání těchto látek při zahájení léčby přípravkem Fimodigo může být spojeno se závažnou bradykardií a srdečním blokem. Vzhledem k možným aditivním účinkům na srdeční frekvenci nesmí být léčba přípravkem Fimodigo zahájena u pacientů, kteří jsou již léčeni těmito látkami (viz též bod 4.5). U těchto pacientů lze uvažovat o léčbě přípravkem Fimodigo pouze tehdy, pokud předpokládaný prospěch vyváží možná rizika. Pokud se uvažuje o léčbě přípravkem Fimodigo, je před zahájením léčby nutná konzultace s kardiologem ohledně převedení na přípravky nezpomalující srdeční frekvenci. Pokud léky zpomalující srdeční frekvenci nelze vysadit, je nezbytná konzultace s kardiologem kvůli určení vhodného způsobu monitorování po podání první dávky, doporučuje se přinejmenším prodloužené monitorování přes noc (viz také bod 4.5).
+
+QT interval
+
+V podrobné studii ovlivnění QT intervalu fingolimodem v dávkách 1,25 mg nebo 2,5 mg v rovnovážném stavu, kdy byl stále přítomen negativně chronotropní účinek fingolimodu, vedla léčba fingolimodem k prodloužení QTc intervalu, s horním limitem 90% CI ≤13,0 ms. Neexistuje žádný vztah mezi dávkou či expozicí fingolimodu a prodloužením QTc intervalu. Není přítomen jednoznačný signál zvýšené incidence dlouhého QTc intervalu při léčbě fingolimodem, ať už absolutně nebo jako změna od výchozích hodnot.
+Klinický význam tohoto nálezu není znám. Ve studiích roztroušené sklerózy nebyly pozorovány klinicky významné účinky na prodloužení QTc intervalu, ale pacienti s rizikem prodloužení QT intervalu nebyli do klinických studií zahrnuti.
+
+U pacientů s relevantními rizikovými faktory, např. hypokalemií nebo vrozeným prodloužením QT intervalu,
+se doporučuje vyhnout se podávání léčivých přípravků, které mohou prodlužovat QTc interval. Imunosupresivní účinky
+Fingolimod vykazuje imunosupresivní účinek, který činí pacienty náchylnými k riziku infekcí, včetně oportunních infekcí, které mohou být fatální, a zvyšuje riziko rozvoje lymfomů a jiných malignit, zejména kožních. Lékaři musí pacienty pečlivě sledovat, zejména pacienty se stávajícími projevy nebo známými faktory, jako je předchozí imunosupresivní léčba. Při podezření na riziko má lékař individuálně zvážit přerušení léčby (viz též bod 4.4 “Infekce” a “Kožní neoplazmata” a bod 4.8
+“Lymfomy”).
+
+Infekce
+
+Klíčovým farmakodynamickým účinkem přípravku Fimodigo je na dávce závislé snížení počtu periferních lymfocytů na 20 - 30 % výchozích hodnot. To je způsobeno reverzibilní sekvestrací lymfocytů v lymfoidních tkáních (viz bod 5.1).
+
+Před zahájením léčby přípravkem Fimodigo má být k dispozici aktuální kompletní krevní obraz (provedený v průběhu posledních 6 měsíců nebo po přerušení předchozí léčby). Doporučuje se pravidelně kontrolovat krevní obraz během léčby, po třech měsících, a poté nejméně jedenkrát ročně, a v případě výskytu známek infekce. Je-li absolutní počet lymfocytů <0,2x10⁹/l, je třeba léčbu až do zotavení přerušit, protože v klinických studiích byla léčba fingolimodem u pacientů s absolutním počtem lymfocytů <0,2x10⁹/l přerušena.
+Zahájení léčby přípravkem Fimodigo je třeba u pacientů se závažnou aktivní infekcí odložit až do jejího vyřešení.
+
+Před zahájením léčby přípravkem Fimodigo je nutné vyhodnotit imunitu pacientů vůči varicelle (plané neštovice). Pacienti bez lékařem potvrzené anamnézy planých neštovic nebo zdokumentované kompletní vakcinace varicellovou vakcínou mají být vyšetřeni před zahájením terapie přípravkem Fimodigo na přítomnost protilátek proti viru varicella zoster (VZV). U pacientů bez protilátek se před zahájením léčby přípravkem Fimodigo doporučuje kompletní vakcinace varicellovou vakcínou (viz bod 4.8). Zahájení léčby přípravkem Fimodigo má být odloženo o 1 měsíc, aby se mohl vyvinout plný účinek vakcinace.
+Účinky přípravku Fimodigo na imunitní systém mohou zvýšit riziko infekcí, včetně oportunních (viz bod 4.8). U pacientů s příznaky infekce během léčby je třeba používat účinné diagnostické a léčebné postupy. Při hodnocení stavu pacienta s podezřením na infekci, která může být závažná, je nutné zvážit konzultaci s lékařem se zkušenostmi v léčbě infekcí. Pacienti léčení přípravkem Fimodigo mají být poučeni, aby během léčby neprodleně hlásili příznaky infekce svému lékaři.
+
+Pokud se u pacienta rozvine závažná infekce, je třeba zvážit přerušení léčby přípravkem Fimodigo a před jejím opětovným zahájením má být provedena rozvaha mezi přínosem a rizikem další léčby.
+Po uvedení na trh byly hlášeny případy kryptokokové meningitidy (mykotická infekce), v některých případech fatální, přibližně po 2-3 letech léčby, ačkoliv jednoznačná souvislost s trváním léčby není známa (viz bod 4.8). Pacienti se známkami a příznaky odpovídajícími kryptokokové meningitidě (tj. bolest hlavy doprovázená mentálními změnami jako zmatenost, halucinace a/nebo změny osobnosti) mají být neprodleně diagnosticky vyšetřeni. Pokud se potvrdí diagnóza kryptokokové meningitidy, fingolimod má být vysazen a má být zahájena vhodná léčba. Pokud je odůvodněno znovuzahájení léčby fingolimodem, je nutná multidisciplinární konzultace (tj. se specialistou na infekční choroby).
+
+Progresivní multifokální leukoencefalopatie (PML) byla hlášena při léčbě fingolimodem po uvedení na trh (viz bod 4.8). PML je oportunní infekce působená John-Cunningham virem (JCV), která může být fatální nebo vést k těžké invaliditě. Případy PML se objevily přibližně po 2-3 letech léčby v monoterapii bez přechozí expozice natalizumabem. Ačkoliv se zdá, že se odhadované riziko zvyšuje s kumulativní expozicí v čase, jasná souvislost s trváním léčby není známa. Další případy PML byly pozorovány u pacientů s předchozí léčbou natalizumabem, u něhož byla souvislost s PML prokázána. PML se může objevit pouze za přítomnosti JCV infekce. Pokud je proveden test na JCV, je nutné vzít v úvahu, že vliv lymfopenie na přesnost testování anti- JCV protilátek nebyl u pacientů léčených fingolimodem studován. Je též nutné zmínit, že negativní test anti- JCV protilátek nevylučuje možnost následné infekce JCV. Před zahájením léčby fingolimodem je nutné mít k dispozici MRI sken (ne starší 3 měsíců) jako referenci. MRI nálezy mohou být zřejmé před klinickými známkami nebo příznaky. Během rutinního MRI (v souladu s národními a místními doporučeními), musí lékař věnovat pozornost lézím svědčícím o možném výskytu PML. MRI se dá považovat za součást opatření zvýšeného dohledu u pacientů s uvažovaným zvýšeným rizikem PML.
+U pacientů léčených fingolimodem byly hlášeny případy asymptomatického PML založené na nálezech MRI a pozitivní JCV DNA v mozkomíšním moku. Pokud je podezření na PML, musí být MRI provedeno neprodleně k diagnostickým účelům a léčba fingolimodem musí být přerušena do vyloučení diagnózy PML.
+Po uvedení na trh byly v souvislosti s léčbou fingolimodem hlášeny infekce humánním papilomavirem (HPV), včetně papilomu, dysplazie, tvorby bradavic a karcinomu souvisejícího s HPV. Vzhledem k imunosupresivním vlastnostem fingolimodu je při zohlednění očkovacích doporučení vhodné před zahájením léčby fingolimodem zvážit vakcinaci proti HPV. Jako standardní opatření se doporučuje pravidelné vyšetření, včetně PAP testu.
+
+
+5
+
+Eliminace fingolimodu po přerušení terapie může trvat až dva měsíce, sledování možných příznaků infekce má tedy pokračovat i v tomto období. Pacienti mají být poučeni o hlášení příznaků infekce až
+2 měsíce po ukončení léčby fingolimodem. Makulární edém
+Makulární edém se zrakovými příznaky nebo bez nich byl hlášen u 0,5 % pacientů léčených fingolimodem 0,5 mg, objevoval se především v prvních 3 - 4 měsících léčby (viz bod 4.8).
+Po 3 - 4 měsících od zahájení léčby se proto doporučuje oční vyšetření. Pokud pacient udává zrakové potíže kdykoliv v průběhu léčby, má být provedeno vyšetření očního pozadí včetně makuly.
+
+Pacienti s anamnézou uveitidy a pacienti s diabetem mellitem mají zvýšené riziko makulárního edému
+(viz bod 4.8). Přípravek Fimodigo nebyl hodnocen u pacientů s roztroušenou sklerózou a současným diabetem mellitem. Doporučuje se, aby pacienti s roztroušenou sklerózou a diabetem mellitem nebo anamnézou uveitidy podstoupili oční vyšetření před zahájením léčby a následná kontrolní vyšetření během léčby.
+
+Pokračování léčby přípravkem Fimodigo u pacientů s makulárním edémem nebylo hodnoceno. Pokud se u pacienta objeví makulární edém, doporučuje se léčbu přípravkem Fimodigo přerušit. Při rozhodnutí, zda léčba přípravkem Fimodigo má nebo nemá být znovu zahájena po vyřešení makulárního edému, je třeba vzít do úvahy možné přínosy a rizika pro každého jednotlivého pacienta.
+
+Jaterní funkce
+
+U pacientů s roztroušenou sklerózou léčených přípravkem Fimodigo byly hlášeny zvýšené hladiny jaterních enzymů,  zejména  alaninaminotransferázy  (ALT),  ale  též  gamaglutamyltranspeptidázy  (GGT)  a aspartátaminotransferázy (AST). V klinických studiích se objevilo zvýšení hodnot ALT na 3násobek horní hranice normálu (ULN) nebo vyšší u 8,0 % dospělých pacientů léčených fingolimodem 0,5 mg ve srovnání s 1,9 % pacientů užívajících placebo. Zvýšení na 5násobek ULN se objevilo u 1,8 % pacientů léčených fingolimodem a 0,9 % pacientů užívajících placebo. V klinických studiích bylo podávání fingolimodu ukončeno, pokud zvýšení přesáhlo 5násobek ULN. Recidiva zvýšení jaterních aminotransrefáz se objevila u některých pacientů po opětovném nasazení léku, což podporuje souvislost s fingolimodem. V klinických studiích se zvýšení jaterních aminotransferáz objevilo kdykoliv během léčby, ačkoliv většinou k tomu došlo během prvních 12 měsíců. Hladiny sérových aminotransferáz se vrátily k normálu přibližně během 2 měsíců po ukončení léčby fingolimodem.
+
+Přípravek Fimodigo nebyl hodnocen u pacientů s již přítomnou těžkou poruchou funkce jater (třída Child- Pugh C) a nesmí se u těchto pacientů používat (viz bod 4.3).
+Kvůli imunosupresivním vlastnostem fingolimodu má být zahájení léčby odloženo u pacientů s aktivní virovou hepatitidou až do jejího vyřešení.
+
+Před zahájením léčby přípravkem Fimodigo mají být k dispozici aktuální (tj. z posledních 6 měsíců) hodnoty aminotransferáz a bilirubinu. Pokud se neobjeví klinické příznaky, je doporučeno monitorovat sérové hladiny jaterních aminotransferáz v 1., 3., 6., 9. a 12. měsíci terapie, a poté v pravidelných intervalech. Kontroly mají být častější a zahrnovat též kontrolu sérového bilirubinu a alkalické fosfatázy (ALP), pokud hladiny jaterních aminotransferáz vzrostou nad 5násobek normy (ULN). Při opakovaném průkazu hodnot jaterních aminotransferáz nad 5násobek ULN má být terapie přípravkem Fimodigo přerušena a může být opětovně zahájena až po normalizaci hladin jaterních aminotransferáz.
+
+U pacientů, u kterých se rozvinou příznaky ukazující na jaterní poškození, jako např. nevysvětlitelná nauzea, zvracení, bolesti břicha, únava, nechutenství nebo žloutenka a/nebo tmavá moč, mají být zkontrolovány hladiny jaterních enzymů a přípravek Fimodigo má být vysazen, pokud se potvrdí významné poškození jater (např. hladiny jaterních aminotransferáz vyšší než 5násobek ULN a/nebo zvýšení bilirubinu v séru). Pokračování léčby bude záviset na tom, zda se zjistí jiná příčina poškození jater či nikoliv, a na přínosu opětovného zahájení léčby pro pacienta v porovnání s riziky návratu jaterního poškození.
+
+I když nejsou dostupné žádné údaje, které by potvrzovaly, že pacienti s již existujícím onemocněním jater mají zvýšené riziko vývoje zvýšených jaterních funkčních testů při užívání přípravku Fimodigo, je třeba dbát opatrnosti při užívání přípravku Fimodigo u pacientů s anamnézou významného onemocnění jater.
+
+Interference se serologickými vyšetřeními
+Protože fingolimod snižuje počet periferních lymfocytů v krvi prostřednictvím redistribuce do sekundárních lymfoidních orgánů, počty periferních lymfocytů nelze u pacientů léčených přípravkem Fimodigo použít k hodnocení populace lymfocytů. Laboratorní vyšetření zahrnující použití cirkulujících mononukleárů vyžadují větší objem krve vzhledem ke sníženému počtu cirkulujících lymfocytů.
+
+Účinky na krevní tlak
+
+Pacienti s hypertenzí, která není kontrolována léčbou, byli vyloučeni z účasti v premarketingových klinických studiích, proto pokud jsou pacienti s nekontrolovanou hypertenzí léčeni přípravkem Fimodigo, je třeba jim věnovat zvláštní pozornost.
+
+V klinických studiích RS měli pacienti léčení fingolimodem 0,5 mg průměrné zvýšení systolického tlaku přibližně o 3 mmHg a diastolického tlaku přibližně o 1 mm Hg, to bylo poprvé zjištěno přibližně 1 měsíc po zahájení léčby, a zvýšení přetrvávalo s pokračující léčbou. Ve dvouleté placebem kontrolované studii byla hypertenze hlášena jako nežádoucí účinek u 6,5 % pacientů užívajících fingolimod 0,5 mg a u 3,3 % pacientů, užívajících placebo. Proto má být krevní tlak během léčby přípravkem Fimodigo pravidelně monitorován.
+Respirační účinky
+
+Po zahájení léčby přípravkem Fimodigo bylo pozorováno v 1. měsíci menší, na dávce závislé snížení hodnot usilovného výdechu za 1 sekundu (FEV1) a difúzní plicní kapacity pro oxid uhelnatý (DLCO), a tyto hodnoty zůstaly dále stabilní. Přípravek Fimodigo má být užíván s opatrností u pacientů se závažným respiračním onemocněním, plicní fibrózou a chronickou obstrukční plicní nemocí (viz také bod 4.8).
+Posteriorní reverzibilní encefalopatický syndrom
+
+Vzácné případy posteriorního reverzibilního encefalopatického syndromu (PRES) byly hlášeny u dávky 0,5 mg v klinických studiích i během sledování po uvedení na trh (viz bod 4.8). Hlášené symptomy zahrnovaly náhlý nástup silných bolestí hlavy, nauzeu, zvracení, změnu duševního stavu, poruchy zraku a křeče. Příznaky PRES jsou obvykle reverzibilní, ale mohou přejít do ischemické cévní mozkové příhody nebo hemoragické cévní mozkové příhody. Opožděná diagnóza a léčba může vést k trvalým neurologickým následkům. Pokud existuje podezření na PRES, je nutné přerušit léčbu přípravkem Fimodigo.
+
+Předchozí léčba imunosupresivy nebo imunomodulačními přípravky
+
+Studie vyhodnocující účinnost a bezpečnost přípravku Fimodigo po převedení pacientů z teriflunomidu, dimetyl-fumarátu nebo alemtuzumabu na přípravek Fimodigo nebyly provedeny. Při převádění z jiných chorobu modifikujících léků na přípravek Fimodigo je nutné zvážit eliminační poločas a mechanismus působení těchto látek, aby se zabránilo aditivním účinkům na imunitu a současně minimalizovalo riziko reaktivace choroby. Před zahájením léčby přípravkem Fimodigo se doporučuje kontrola krevního obrazu k ověření, že vliv předchozí léčby na imunitu (tj. cytopenie) odezněl.
+Léčbu přípravkem Fimodigo lze většinou zahájit bezprostředně po vysazení interferonu nebo glatiramer- acetátu.
+
+U dimethyl-fumarátu je před zahájením léčby přípravkem Fimodigo nutná dostatečně dlouhá washout perioda k normalizaci krevního obrazu.
+
+Vzhledem k dlouhému poločasu natalizumabu trvá obvykle jeho eliminace 2 – 3 měsíce od ukončení léčby. Eliminace teriflunomidu z plazmy je rovněž pomalá. Bez zrychlené eliminační procedury může eliminace 7
+
+teriflunomidu z plazmy trvat několik měsíců až 2 roky. Doporučuje se zrychlená eliminační procedura popsaná v souhrnu informací o přípravku teriflunomidu nebo by případná washout perioda neměla být kratší než 3,5 měsíce. Kvůli možným souběžným účinkům na imunitu je při převádění pacientů z natalizumabu nebo teriflunomidu na přípravek Fimodigo nutná obezřetnost.
+
+Alemtuzumab má výrazné a dlouhodobé imunosupresivní účinky. Protože skutečná doba trvání těchto účinků není známa, zahájení léčby přípravkem Fimodigo po převedení z alemtuzumabu se nedoporučuje, pokud prospěch z této léčby jednoznačně nevyváží riziko pro konkrétního pacienta.
+Rozhodnutí o déletrvající současné léčbě kortikosteroidy je nutné důkladně zvážit. Současné podávání se silnými induktory CYP450
+Při současném podávání fingolimodu se silnými induktory CYP450 je nutná obezřetnost. Současné podávání s přípravky obsahujícími třezalku tečkovanou se nedoporučuje (viz bod 4.5).
+
+Malignity
+
+Kožní neoplazmata
+
+U pacientů léčených přípravkem Fimodigo byl hlášen bazaliom (BCC) a jiná kožní neoplazmata, včetně maligního melanomu, karcinomu z dlaždicových buněk, Kaposiho sarkomu a karcinomu z Merkelových buněk (viz bod 4.8). Pozornost vůči kožním lézím je zcela namístě a doporučuje se vyhodnocení stavu pokožky ošetřujícím lékařem při zahájení léčby, a poté každých 6 až 12 měsíců s ohledem na klinický stav. Pokud jsou zjištěny podezřelé kožní léze, je nutné pacienta odeslat na kontrolu k dermatologovi.
+Vzhledem k možnému riziku maligního růstu v oblasti pokožky je nutné varovat pacienty léčené finglimodem před expozicí slunečnímu záření bez ochranných prostředků. Tito pacienti nesmí být současně léčení fototerapií UV-B světlem nebo PUVA-fotochemoterapií.
+
+Lymfomy
+
+V klinických studiích a po uvedení přípravku na trh se vyskytly případy lymfomu (viz bod 4.8). Hlášené případy byly heterogenní povahy, zejména non-Hodgkinův lymfom, včetně B-buněčných a T-buněčných lymfomů. Byly pozorovány případy kožního T-buněčného lymfomu (mycosis fungoides). Byl také pozorován fatální případ B-buněčného lymfomu pozitivního na virus Epsteina-Barrové (EBV). V případě podezření na lymfom má být léčba fingolimodem přerušena.
+Ženy v plodném věku
+
+Vzhledem k riziku pro plod je fingolimod kontraindikován během těhotenství a u žen v plodném věku, které nepoužívají účinnou antikoncepci. Před zahájením léčby musí být ženy v plodném věku informovány o riziku pro plod, musí mít negativní těhotenský test a musí používat účinnou antikoncepci během léčby a ještě po dobu 2 měsíců po ukončení léčby (viz body 4.3 a 4.6 a informace obsažené v souboru informací pro lékaře).
+
+Tumoriformní léze
+
+Po uvedení na trh byly hlášeny vzácné případy tumoriformních lézí se vztahem k relapsu RS. V případě těžkých relapsů musí být provedeno MRI vyšetření k vyloučení tumoriformních lézí.
+Lékař musí případ od případu zvážit přerušení léčby přípravkem Fimodigo při zohlednění individuálního prospěchu a rizika.
+
+Návrat aktivity onemocnění (rebound fenomén) po přerušení léčby fingolimodem
+
+Po uvedení na trh byly po přerušení léčby fingolimodem u některých pacientů vzácně pozorovány závažné exacerbace onemocnění. Obvykle k nim došlo během 12 týdnů po ukončení léčby fingolimodem, byly však též hlášeny až 24 týdnů po ukončení léčby fingolimodem. Při ukončování léčby fingolimodem je proto nutná
+
+obezřetnost. Pokud je ukončení léčby fingolimodem považováno za nezbytné, má být zvážena možnost vzplanutí výjimečně vysoké aktivity onemocnění a pacienti mají být sledováni kvůli odpovídajícím známkám a příznakům a v případě potřeby má být zahájena vhodná léčba (viz “Ukončení léčby” níže).
+
+Ukončení léčby
+
+Pokud je rozhodnuto ukončit léčbu přípravkem Fimodigo, je nutno dodržet 6týdenní interval bez terapie, aby na základě poločasu fingolimodu mohlo dojít k jeho vyloučení z oběhu (viz bod 5.2). Počet lymfocytů se u většiny pacientů postupně vrací k normálu během 1 - 2 měsíců od vysazení terapie (viz bod 5.1), ačkoli kompletní zotavení může u některých pacientů trvat významně déle. Zahájení jiné léčby během tohoto období povede k současné expozici fingolimodu. Použití imunosupresiv krátce po ukončení léčby přípravkem Fimodigo může vést k aditivnímu účinku na imunitní systém, a proto je na místě opatrnost.
+
+Opatrnosti je též zapotřebí při ukončení léčby fingolimodem kvůli riziku rebound fenoménu (viz “Návrat aktivity onemocnění (rebound fenomén) po přerušení léčby fingolimodem“ výše). Pokud je přerušení léčby přípravkem Fimodigo považováno za nezbytné, je nutné pacienty během této doby sledovat kvůli odpovídajícím příznakům možného výskytu rebound fenoménu.
+
+Pediatrická populace
+
+Bezpečnostní profil u pediatrické populace je podobný jako u dospělých, a proto se zvláštní upozornění a opatření pro použití týkají i pediatrických pacientů.
+
+Při předepisování přípravku Fimodigo pediatrickým pacientům je nutné mít na paměti zejména:
+•   Při podání první dávky jsou nutná preventivní opatření (viz oddíl “Bradyarytmie” výše). Stejná opatření jako u první dávky jsou doporučena, pokud jsou pacienti převádění z denní dávky 0,25 mg na dávku 0,5 mg.
+•   V kontrolované pediatrické studii D2311 byly hlášeny u pacientů léčených fingolimodem s vyšší incidencí případy křečí, úzkosti, depresivních nálad a depresí než u pacientů léčených interferonem beta- 1a. U této podskupiny populace je nutná obezřetnost (viz část “Pediatrická populace” v bodě 4.8).
+•   U pediatrických pacientů léčených přípravkem Fimodigo byly pozorovány izolované případy mírného zvýšení bilirubinu.
+•   Před zahájením léčby přípravkem Fimodigo je u pediatrických pacientů doporučeno dokončit kompletní imunizaci v souladu s platnými imunizačními směrnicemi (viz část “Infekce” výše).
+•   Dostupné jsou velmi omezené údaje u dětí ve věku 10-12 let, s tělesnou hmotností do 40 kg nebo ve stadiu <2 Tannerovy stupnice (viz body 4.8 a 5.1). V těchto podskupinách je nutná obezřetnost kvůli velmi omezeným znalostem z klinického hodnocení.
+•   Dlouhodobé údaje o bezpečnosti v pediatrické populaci nejsou k dispozici.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Antineoplastika, imunomodulační nebo imunosupresivní přípravky
+
+Antineoplastické, imunomodulační nebo imunosupresivní přípravky nemají být podávány současně s přípravkem Fimodigo vzhledem k riziku aditivních účinků na imunitní systém (viz body 4.3 a 4.4).
+
+Opatrnost je nutná též v případě, že pacient přechází z dlouhodobě působící léčby s účinky na imunitní systém, jako je například natalizumab, teriflunomid nebo mitoxantron (viz bod 4.4). V klinických studiích léčby roztroušené sklerózy nebyla současná léčba relapsů krátkým pulzem kortikosteroidů spojena se zvýšenou incidencí infekcí.
+
+Vakcinace
+
+Během léčby přípravkem Fimodigo a až dva měsíce po jejím ukončení může být vakcinace méně účinná. Použití živých oslabených vakcín může vést k riziku infekcí a je třeba se mu vyhnout (viz body 4.4 a 4.8).
+
+9
+
+Látky vyvolávající bradykardii
+
+Fingolimod byl studován v kombinaci s atenololem a diltiazemem. Pokud byl fingolimod v interaktivní studii na zdravých dobrovolnících užíván s atenololem, bylo přítomno přídatné 15% snížení srdeční frekvence při zahájení léčby fingolimodem, tento účinek není pozorován u diltiazemu. Léčba přípravkem Fimodigo nesmí být zahájena u pacientů léčených betablokátory nebo jinými látkami, které mohou snižovat srdeční frekvenci, jako například antiarytmika třídy Ia a III, blokátory kalciových kanálů (jako verapamil nebo diltiazem), ivabradin, digoxin, inhibitory cholinesterázy nebo pilokarpin kvůli možným aditivním účinkům na srdeční frekvenci (viz body 4.4 a 4.8). Pokud se u těchto pacientů uvažuje o léčbě přípravkem Fimodigo, je nutná konzultace s kardiologem ohledně převedení na přípravky nezpomalující srdeční akci nebo ohledně vhodného monitoringu pacienta při zahájení léčby, pokud léky zpomalující srdeční akci nelze vysadit, doporučuje se přinejmenším monitorování přes noc.
+
+Farmakokinetické interakce ostatních látek s fingolimodem
+
+Fingolimod je metabolizován převážně CYP4F2. Ostatní enzymy jako CYP3A4 se mohou také podílet na jeho metabolismu, zejména v případech silné indukce CYP3A4. Neočekává se, že by silné inhibitory transportních proteinů ovlivňovaly dispozici fingolimodu. Současné podávání fingolimodu a ketokonazolu vedlo k 1,7násobnému vzestupu expozice (AUC) fingolimodu a fingolimod-fosfátu díky inhibici CYP4F2. Je třeba dbát opatrnosti u látek, které mohou inhibovat CYP3A4 (inhibitory proteáz, azolová antimykotika, některé makrolidy jako například klarithromycin nebo telithromycin).
+Současné podání karbamazepinu 600 mg dvakrát denně v ustáleném stavu a jedné dávky fingolimodu 2 mg snížilo AUC fingolimodu a jeho metabolitů přibližně o 40 %. Jiné silné induktory CYP3A4, například rifampicin, fenobarbital, fenytoin, efavirenz a třezalka tečkovaná, mohou snižovat AUC fingolimodu a jeho metabolitů v nejméně stejném rozsahu. Protože by to mohlo případně ovlivnit jejich účinnost, je při jejich současném podání nutná obezřetnost. Současné podávání s přípravky obsahujícími třezalku tečkovanou se však nedoporučuje (viz bod 4.4).
+
+Farmakokinetické interakce fingolimodu s ostatními látkami
+
+Není pravděpodobné, že by fingolimod interagoval s látkami, které jsou eliminovány především pomocí enzymů CYP450 nebo substráty hlavních transportních proteinů.
+Současné podávání fingolimodu s cyklosporinem nevedlo ke změnám expozice cyklosporinu nebo fingolimodu. Proto se neočekává, že by fingolimod měnil farmakokinetiku léčivých přípravků, které jsou substráty CYP3A4.
+
+Současné podávání fingolimodu s perorálními kontraceptivy (ethinylestradiol a levonorgestrel) nevedlo k žádným změnám expozice perorálním kontraceptivům. Nebyly provedeny žádné studie interakce s perorálními kontraceptivy obsahujícími jiné progestageny, avšak účinek fingolimodu na jejich expozici se neočekává.
+
+4.6  Fertilita, těhotenství a kojení
+Ženy ve fertilním věku/Antikoncepce u žen
+
+Fingolimod je kontraindikován u žen ve fertilním věku, které nepoužívají účinnou antikoncepci (viz bod 4.3). Proto musí být před zahájením léčby žen ve fertilním věku k dispozici negativní výsledek těhotenského testu a pacientky mají být poučeny ohledně závažných rizik pro plod. Ženy ve fertilním věku musí používat účinnou antikoncepci během léčby a po dobu 2 měsíců po ukončení léčby přípravkem Fimodigo, protože trvá přibližně 2 měsíce, než se fingolimod po ukončení léčby vyloučí z těla (viz bod 4.4).
+Zvláštní opatření jsou rovněž zahrnuta do balíčku informací pro lékaře. Tato opatření musí být zavedena před předepsáním fingolimodu pacientkám a během léčby.
+Při ukončování léčby fingolimodem z důvodu plánovaného těhotenství je nutné mít na paměti možnost návratu aktivity onemocnění (viz bod 4.4).
+
+Těhotenství
+
+Na základě zkušeností u člověka naznačují postmarketingové údaje, že použití fingolimodu je spojeno s dvojnásobně vyšším rizikem závažných vrozených malformací při podání v těhotenství ve srovnání s podílem pozorovaným v běžné populaci (2-3 %; EUROCAT).
+
+Nejčastěji byly hlášeny následující závažné malformace:
+−  Vrozené srdeční onemocnění, jako jsou defekty síňového a komorového septa, Fallotova tetralogie
+− Renální abnormality
+−  Poruchy svalové a kosterní soustavy
+
+Nejsou k dispozici žádné údaje týkající se účinků fingolimodu na porod.
+
+Studie na zvířatech ukázaly reprodukční toxicitu, včetně ztráty plodu a orgánových defektů, zejména perzistující truncus arteriosus a defekt komorového septa (viz bod 5.3). O receptoru ovlivněném fingolimodem (receptor pro sfingosin-1-fosfát) je také známo, že se účastní tvorby cév během embryogeneze.
+Tudíž je fingolimod kontraindikován během těhotenství (viz bod 4.3). Léčba fingolimodem má být vysazena 2 měsíce před plánovaným těhotenstvím (viz bod 4.4). Pokud žena otěhotní během léčby, fingolimod musí být vysazen. Lékař má poradit ohledně rizika škodlivých účinků na plod spojených s léčbou a mají být provedena následná lékařská vyšetření, např. ultrasonografické vyšetření.
+
+Kojení
+
+Fingolimod je v období kojení vylučován do mléka léčených zvířat (viz bod 5.3). S ohledem na možnost závažných nežádoucích účinků fingolimodu na kojené děti, nemají ženy léčené přípravkem Fimodigo kojit.
+Fertilita
+
+Údaje z předklinických studií neukazují, že by měl být fingolimod spojen se zvýšeným rizikem snížené fertility
+(viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Fimodigo nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje.
+
+Při zahájení léčby přípravkem Fimodigo se však občas mohou vyskytnout závratě nebo ospalost. Při zahajování léčby přípravkem Fimodigo se doporučuje sledování pacientů po dobu 6 hodin (viz bod 4.4, Bradyarytmie).
+4.8  Nežádoucí účinky
+
+Souhrn bezpečnostního profilu
+
+Nežádoucí účinky hlášené ve studiích D2301 (FREEDOMS) a D2309 (FREEDOMS II) při léčbě fingolimodem 0,5 mg jsou uvedeny níže. Zahrnuty jsou též nežádoucí účinky získané ze spontánních nebo literárních hlášení po uvedení na trh. Frekvence jsou definovány dle následující konvence: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1000 až < 1/100), vzácné (≥ 1/10 000 až < 1/1000), velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+Tabulkový seznam nežádoucích účinků
+
+Infekce a infestace
+Velmi časté:         Chřipka
+Sinusitida
+
+
+11
+
+Časté:            Infekce herpetickým virem
+Bronchitida Tinea versicolor
+Méně časté:         Pneumonie
+Není známo:         Progresivní multifokální leukoencefalopatie (PML)** Kryptokokové infekce**
+
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy)
+Časté:            Bazaliom
+Méně časté:         Maligní melanom****
+Vzácné:           Lymfom***
+Karcinom z dlaždicových buněk****
+Velmi vzácné:       Kaposiho sarkom****
+Není známo:        Karcinom z Merkelových buněk***
+
+Poruchy krve a lymfatického systému
+Časté:            Lymfopenie
+Leukopenie
+Méně časté:         Trombocytopenie
+Není známo:         Autoimunitní hemolytická anemie*** Periferní edém***
+
+Poruchy imunitního systému
+Není známo:         Hypersenzitivita, včetně vyrážky, kopřivky a angioedém po zahájení léčby***
+Psychiatrické poruchy
+Časté:            Deprese
+Méně časté:         Zhoršená nálada
+
+Poruchy nervového systému
+Velmi časté:         Bolest hlavy
+Časté:            Závrať
+Migréna
+Méně časté:         Křeče
+Vzácné:           Posteriorní reverzibilní encefalopatický syndrom (PRES)*
+Není známo:         Závažná exacerbace onemocnění po přerušení léčby fingolimodem***
+
+Poruchy oka
+Časté:            Rozmazané vidění
+Méně časté:         Makulární edém
+
+Srdeční poruchy
+Časté:            Bradykardie
+Atrioventrikulární blokáda
+Velmi vzácné:        Inverze T vlny***
+
+Cévní poruchy
+Časté:            Hypertenze
+
+Respirační, hrudní a mediastinální poruchy
+Velmi časté:         Kašel
+Časté:            Dušnost
+
+Gastrointestinální poruchy
+Velmi časté:         Průjem
+Méně časté:         Nauzea***
+
+Poruchy kůže a podkožní tkáně
+Časté:            Ekzém
+Alopecie
+Svědění
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Velmi časté:         Bolest zad
+Časté:            Myalgie
+Artralgie
+Celkové poruchy a reakce v místě aplikace
+Časté:            Astenie
+
+Vyšetření
+Velmi časté:         Zvýšení   hladiny   jaterních   enzymů   (zvýšené   ALT, gamaglutamyltranspeptidáza, aspartátaminotransferáza)
+Časté:            Snížení tělesné hmotnosti*** Zvýšení triacylglycerolů v krvi
+Méně časté:         Snížení počtu neutrofilů
+
+*   Nebylo hlášeno ve studiích FREEDOMS, FREEDOMS II a TRANSFORMS. Kategorie frekvencí byla založena na očekávané expozici přibližně 10 000 pacientů ve všech klinických hodnoceních s fingolimodem.
+**  PML a kryptokokové infekce, včetně případů kryptokokové meningitidy, byly hlášeny po uvedení
+na trh (viz bod 4.4).
+***  Nežádoucí účinky ze spontánních hlášení a literatury
+**** Kategorie frekvencí a hodnocení rizika byly založeny na odhadu expozice fingolimodu v dávce 0,5 mg u více než 24000 pacientů ve všech klinických studiích.
+Popis vybraných nežádoucích účinků
+
+Infekce
+Ve studiích roztroušené sklerózy byla celková incidence infekcí (65,1 %) při léčbě dávkou 0,5 mg podobná incidenci při léčbě placebem. U pacientů léčených přípravkem Fimodigo byly nicméně častější infekce dolních cest dýchacích, zejména bronchitida a v menší míře herpetické infekce a pneumonie.
+Případy diseminované herpetické infekce, včetně fatálních případů, byly hlášeny i u dávky 0,5 mg.
+
+V období po uvedení na trh byly hlášeny případy infekcí oportunními patogeny, jako jsou virové (např. varicella zoster virus [VZV], John Cunningham virus [JCV] vyvolávající progresivní multifokální leukoencefalopatii, herpes simplex virus [HSV]), houbové (např. kryptokoky včetně kryptokokové meningitidy) nebo bakteriální (např. atypické mykobakterie), z nichž některé byly fatální (viz bod 4.4).
+
+Po uvedení na trh byly v souvislosti s léčbou fingolimodem hlášeny infekce humánním papilomavirem (HPV), včetně papilomu, dysplazie, tvorby bradavic a karcinomu souvisejícího s HPV. Vzhledem k imunosupresivním vlastnostem fingolimodu, je při zohlednění očkovacích doporučení vhodné před zahájením léčby fingolimodem zvážit vakcinaci proti HPV. Jako standardní opatření se doporučuje pravidelné vyšetření, včetně PAP testu.
+
+Makulární edém
+Ve studiích roztroušené sklerózy se makulární edém vyskytl u 0,5 % pacientů léčených doporučenou dávkou 0,5 mg a u 1,1 % pacientů léčených vyšší dávkou 1,25 mg. Většina případů se objevila během prvních 3 - 4 měsíců léčby. Někteří pacienti udávali rozmazané vidění nebo zhoršení zrakové ostrosti, ale jiní byli
+13
+
+asymptomatičtí a diagnostikováni při rutinním očním vyšetření. Makulární edém se obecně po vysazení přípravku Fimodigo spontánně zlepšil nebo vymizel. Riziko rekurence po znovunasazení léčby nebylo hodnoceno.
+
+Incidence makulárního edému je zvýšená u pacientů s roztroušenou sklerózou a anamnézou uveitidy (17 % s anamnézou uveitidy vs. 0,6 % bez anamnézy uveitidy). Přípravek Fimodigo nebyl hodnocen u pacientů s roztroušenou sklerózou a diabetem mellitem, onemocněním, které je spojeno se zvýšeným rizikem vzniku makulárního edému (viz bod 4.4). V klinických studiích transplantace ledvin, ve kterých byli zahrnuti pacienti s diabetem mellitem, vedla léčba fingolimodem 2,5 mg a 5 mg ke 2násobnému vzestupu incidence makulárního edému.
+
+Bradyarytmie
+Zahájení léčby přípravkem Fimodigo vede k přechodnému poklesu srdeční frekvence a může být také spojeno se zpomalením atrioventrikulárního převodu. V klinických studiích roztroušené sklerózy bylo maximum poklesu srdeční frekvence pozorováno 6 hodin po zahájení léčby, průměrný pokles srdeční frekvence byl 12- 13 tepů/minutu při léčbě přípravkem Fimodigo 0,5 mg. Vzácně byla při léčbě dávkou 0,5 mg pozorována srdeční frekvence pod 40 tepů za minutu u dospělých a pod 50 tepů za minutu u pediatrických pacientů. Průměrná srdeční frekvence se vrátila k výchozím hodnotám během 1 měsíce chronické léčby. Bradykardie byly obecně asymptomatické, ale u některých pacientů se objevily mírné až středně závažné příznaky včetně hypotenze, závratí, únavy a/nebo palpitací, které se upravily během prvních 24 hodin po zahájení léčby (viz také body 4.4 a 5.1).
+
+V klinických studiích roztroušené sklerózy byl atrioventrikulární blok 1. stupně (prodloužený PR interval na EKG) pozorován po zahájení léčby u dospělých a pediatrických pacientů. V klinických studiích u dospělých se objevil u 4,7 % pacientů léčených fingolimodem 0,5 mg, u 2,8 % pacientů na intramuskulárním interferonu beta-1a a u 1,6 % na placebu. Atrioventrikulární blok 2. stupně byl pozorován u méně než 0,2 % dospělých pacientů léčených přípravkem Fimodigo 0,5 mg. Během sledování po uvedení na trh byly u přípravku Fimodigo v průběhu šestihodinového monitorování po podání první dávky pozorovány izolované případy přechodného spontánně se upravujícího kompletního AV bloku. Pacienti se spontánně zotavili. Abnormality převodního systému pozorované v klinických studiích i během sledování po uvedení na trh byly typicky přechodné, asymptomatické a upravily se během prvních 24 hodin po zahájení léčby. Přestože většina pacientů nevyžadovala lékařskou intervenci, jednomu pacientovi léčenému přípravkem Fimodigo 0,5 mg byl podán isoprenalin pro asymptomatický atrioventrikulární blok 2. stupně (Mobitz I).
+
+Po uvedení na trh se objevily během 24 hodin od první dávky izolované příhody s opožděným nástupem, včetně přechodné asystolie a neobjasněného úmrtí. V těchto případech nelze vyloučit vliv současně podávaných léčivých přípravků a/nebo stávající choroby. Příčinná souvislost mezi těmito příhodami a přípravkem Fimodigo je nejistá.
+Krevní tlak
+V klinických studiích roztroušené sklerózy byla léčba přípravkem Fimodigo 0,5 mg spojena s průměrným vzestupem systolického krevního tlaku přibližně o 3 mmHg a diastolického krevního tlaku přibližně o 1 mmHg, změna se projevila přibližně 1 měsíc po zahájení léčby. Tento vzestup trval při další léčbě. Hypertenze byla hlášena u 6,5 % pacientů léčených fingolimodem 0,5 mg a u 3,3 % pacientů léčených placebem. Během post-marketingového sledování byly hlášeny během prvního měsíce po zahájení léčby a v první den léčby případy hypertenze, které mohou vyžadovat podání antihypertenziv nebo vysazení přípravku Fimodigo (viz také bod 4.4, Účinky na krevní tlak).
+
+Jaterní funkce
+U dospělých a pediatrických pacientů s roztroušenou sklerózou léčených přípravkem Fimodigo byly hlášeny zvýšené jaterní ernzymy. V klinických studiích u dospělých došlo u 8,0 % pacientů léčených přípravkem Fimodigo 0,5 mg k asymptomatickému vzestupu sérových hladin jaterních aminotransferáz na ≥3x ULN (horní limit normy) a u 1,8 % na ≥5x ULN. U některých pacientů došlo po znovuzahájení léčby k opakování elevace jaterních aminotransferáz, což podporuje vztah k léčivému přípravku. V klinických studiích se zvýšení jaterních aminotransferáz objevilo kdykoliv během léčby, ačkoliv většinou k tomu došlo během prvních 12 měsíců. Hladiny ALT se vrátily k normálu přibližně 2 měsíce po ukončení léčby přípravkem Fimodigo. U malého počtu pacientů (n=10 na dávce 1,25 mg, n=2 na dávce 0,5 mg), u kterých došlo k vzestupu hladin ALT
+
+≥5x ULN a kteří pokračovali v léčbě přípravkem Fimodigo, se hladina ALT vrátila k normálu přibližně za 5 měsíců (viz také bod 4.4, Jaterní funkce).
+
+Poruchy nervového systému
+V klinických studiích se u pacientů při podávání vyšších dávek fingolimodu (1,25 nebo 5,0 mg), objevily vzácné příhody postihující nervový systém, včetně ischemické a hemoragické cévní mozkové příhody a atypických neurologických poruch, jako například případy podobné akutní diseminované encefalomyelitidě (ADEM).
+Po užití přípravku Fimodigo v klinických studiích i po uvedení na trh byly hlášeny případy křečí, včetně status
+epilepticus.
+
+Cévní příhody
+Vzácné případy okluzivního onemocnění periferních tepen se objevily u pacientů léčených fingolimodem ve vyšších dávkách (1,25 nebo 5,0 mg).
+
+Respirační systém
+Při léčbě přípravkem Fimodigo byly pozorovány mírné na dávce závislé poklesy hodnot usilovně vydechnutého objemu za 1 vteřinu (FEV1) a difúzní kapacity pro oxid uhelnatý (DLCO), tyto změny začínaly v 1. měsíci a poté zůstaly stabilní. Ve 24. měsíci bylo snížení od výchozích hodnot v procentu predikovaného FEV1 2,7 % při léčbě fingolimodem 0,5 mg a 1,2 % u placeba, tento rozdíl vymizel po ukončení léčby. Snížení DLCO ve 24. měsíci bylo 3,3 % u fingolimodu 0,5 mg a 2,7 % u placeba.
+Lymfomy
+V obou klinických studiích i po uvedení na trh se objevily případy lymfomu různých typů včetně jednoho fatálního případu B-lymfomu pozitivního na virus Epsteina-Barrové (EBV). Výskyt případů non-Hodgkinova lymfomu (B-buněk a T-buněk) byl v klinických studiích vyšší než očekávaná incidence v celkové populaci. Některé případy lymfomu T-buněk byly též hlášeny po uvedení na trh, včetně případů kožního lymfomu T- buněk (mycosis fungoides).
+Hemofagocytární syndrom
+U pacientů léčených fingolimodem byly v souvislosti s infekcí hlášeny velmi vzácné fatální případy hemofagocytárního syndromu (HPS). HPS je vzácný stav popsaný ve spojitosti s infekcí, imunosupresí a řadou autoimunitních chorob.
+Pediatrická populace
+
+V kontrolované pediatrické studii D2311 (viz bod 5.1) byl bezpečnstní profil u pediatrických pacientů (10 až 18 let věku) léčených fingolimodeem v dávce 0,25 mg nebo 0,5 mg celkově podobný jako u dospělých pacientů. Ve studii bylo nicméně pozorováno více neurologických a psychických poruch. Vzhledem k velmi omezeným znalostem z klinického hodnocení je u této podskupiny nutná obezřetnost.
+
+V pediatrické studii byly případy křečí hlášeny u 5,6 % pacientů léčených fingolimodem a u 0,9 % pacientů léčených interferonem beta-1a.
+
+Je známo, že v populaci s roztroušenou sklerózou se deprese a úzkost objevují s rostoucí frekvencí. Deprese a úzkost byly rovněž hlášeny u pediatrických pacientů léčených fingolimodem.
+
+U pediatrických pacientů léčených fingolimodem byly pozorovány izolované případy mírného zvýšení
+bilirubinu.
+
+Hlášení podezření na nežádoucí účinky
+
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+15
+
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Jednotlivé dávky až do 80násobku doporučené dávky (0,5 mg) byly u zdravých dospělých dobrovolníků dobře tolerovány. Při dávce 40 mg hlásilo 5 ze 6 dobrovolníků mírné napětí na hrudi a diskomfort odpovídající klinicky malé reaktivitě dýchacích cest.
+Fingolimod může po zahájení léčby indukovat bradykardii. Pokles srdeční frekvence nastává obvykle během hodiny od podání první dávky a je nejstrmější během 6 hodin. Negativní chronotropní efekt přípravku Fimodigo přetrvává i po 6 hodinách a postupně slábne během následujících dnů léčby (podrobnosti viz bod 4.4). Byly hlášeny případy zpomaleného atrioventrikulárního převodu včetně výskytu izolovaných hlášení o přechodném spontánně se upravujícím kompletním AV bloku (viz body 4.4 a 4.8).
+
+Pokud je předávkování první expozicí přípravku Fimodigo, je důležité monitorovat pacienty pomocí kontinuálního EKG (v reálném čase) a každou hodinu měřit srdeční frekvenci a krevní tlak, nejméně během prvních 6 hodin (viz bod 4.4).
+Navíc, pokud je po 6 hodinách srdeční frekvence nižší než 45 tepů za minutu u dospělých, nižší než
+55 tepů za minutu u pediatrických pacientů ve věku 12 let a starších nebo nižší než 60 tepů za minutu u pediatrických pacientů ve věku 10-12 let, nebo pokud EKG po 6 hodinách od podání první dávky ukazuje na AV blok druhého nebo vyššího stupně nebo pokud je QTc interval ≥500 ms, je nutné prodloužit monitorování na nejméně monitoring přes noc a do úpravy nálezu. Prodloužené monitorování, včetně monitoringu přes noc, je rovněž nezbytné, pokud se v kteroukoliv dobu objeví AV blok třetího stupně.
+Dialýza ani výměna plazmy neodstraňují fingolimod z těla.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Imunosupresiva, selektivní imunosupresiva ATC kód: L04AA27
+Mechanismus účinku
+
+Fingolimod je modulátorem receptoru pro sfingosin-1-fosfát. Fingolimod je metabolizován sfingosin kinázou na aktivní metabolit fingolimod-fosfát. Fingolimod-fosfát se váže v nízkých nanomolárních koncentracích na receptor 1 pro sfingosin-1-fosfát (S1P), umístěný na lymfocytech, a snadno přechází přes hematoencefalickou bariéru, aby se navázal na S1P receptor 1 na nervových buňkách centrálního nervového systému (CNS). Působením jako funkční antagonista S1P receptoru na lymfocytech blokuje fingolimod-fosfát schopnost lymfocytů vystupovat z lymfatických uzlin, což vede k redistribuci lymfocytů, spíše než k jejich depleci. Studie na zvířatech prokázaly, že tato redistribuce snižuje infiltraci patogenních lymfocytů, včetně prozánětlivých Th17 buněk, do CNS, kde by byly zapojeny do zánětlivých dějů a poškození nervové tkáně. Studie na zvířatech a in vitro experimenty ukazují, že fingolimod může také působit prostřednictvím interakce s S1P receptory na nervových buňkách.
+Farmakodynamické účinky
+
+Během 4 - 6 hodin po první 0,5 mg dávce fingolimodu se počet lymfocytů v periferní krvi sníží na přibližně 75 % výchozích hodnot. Při pokračujícím denním dávkování pokračuje pokles počtu lymfocytů po dva týdny a dosáhne minima přibližně 500 buněk/mikrolitr, tedy asi 30 % výchozích hodnot. Osmnáct procent pacientů dosáhlo minimálního počtu pod 200 buněk/mikrolitr při alespoň jednom vyšetření. Nízký počet lymfocytů je při denním dávkování udržen. Většina T a B lymfocytů pravidelně přestupuje mezi lymfoidními orgány a tyto buňky jsou nejvíce ovlivněny fingolimodem. Přibližně 15 - 20 % T lymfocytů má fenotyp efektorové
+
+paměťové buňky, která je důležitá pro periferní imunitní dohled. Protože tato populace lymfocytů typicky nepřechází do lymfoidních orgánů, není fingolimodem ovlivněna. Vzestup počtu periferních lymfocytů je patrný během dnů po vysazení fingolimodu a typicky se normální počty obnoví během jednoho až dvou měsíců. Chronická léčba fingolimodem vede k mírnému poklesu počtu neutrofilů na přibližně 80 % výchozích hodnot. Monocyty nejsou fingolimodem ovlivněny.
+
+Fingolimod způsobuje při zahájení léčby přechodný pokles srdeční frekvence a atrioventrikulárního převodu (viz body 4.4 a 4.8). Maximální pokles srdeční frekvence je pozorován během 6 hodin po dávce, z toho 70 % negativně chronotropního účinku se objeví během prvního dne. Při pokračujícím podávání se srdeční frekvence vrací k výchozím hodnotám do jednoho měsíce. Pokles srdeční frekvence vyvolaný fingolimodem může být zrušen parenterálními dávkami atropinu nebo isoprenalinu. Ukázalo se, že inhalační salmeterol má také mírný pozitivně chronotropní účinek. Při zahájení léčby fingolimodem je zvýšený výskyt předčasných atriálních kontrakcí, ale není zvýšená incidence fibrilace/flutteru síní ani ventrikulárních arytmií či ektopií. Léčba fingolimodem není spojena se snížením srdečního výdeje. Autonomní odpověď srdce, včetně diurnální variace srdeční frekvence a odpovědi na zátěž, není fingolimodem ovlivněna.
+
+K účinku může částečně přispět S1P4, nejedná se však o hlavní receptor zodpovědný za lymfoidní depleci. Mechanizmus účinku bradykardie a vazokonstrikce byly rovněž studovány in vitro na morčatech a izolované králičí aortě a koronární arterii. Závěr byl, že bradykardie může být primárně mediována aktivací inward- rectifying draslíkového kanálu nebo inward-rectifying K⁺ kanálu aktivovaného G-proteinem (IKACh/GIRK) a že vazokonstrikce se zdá být mediována Rho kinázou a mechanismem závislým na vápníku.
+Léčba fingolimodem s jednotlivými nebo opakovanými dávkami 0,5 mg a 1,25 mg po dva týdny není spojena s detekovatelným vzestupem rezistence dýchacích cest měřené pomocí FEV1 a usilovného expiračního průtoku (FEF) 25 - 75. Nicméně, jednotlivé dávky fingolimodu ≥5 mg (10násobek doporučené dávky) jsou spojeny se zvýšením rezistence dýchacích cest, závislým na dávce. Léčba fingolimodem s více dávkami 0,5; 1,25 nebo 5 mg není spojena se zhoršením oxygenace nebo desaturace kyslíku při zátěži nebo se zvýšením reaktivity dýchacích cest na metacholin. Pacienti léčení fingolimodem měli normální bronchodilatační reakci na inhalační beta-agonisty. Třetí klinické hodnocení zaměřené na stejnou populaci pacientů bylo dokončeno po registraci fingolimodu.
+Klinická účinnost a bezpečnost
+
+Účinnost fingolimidu byla prokázána ve dvou studiích, které hodnotily denní užívání fingolimodu 0,5 mg a 1,25 mg u dospělých pacientů s relabující-remitentní formou roztroušené sklerózy (RRRS). Obě studie zahrnovaly dospělé pacienty, u kterých došlo ke ≥2 relapsům v předchozích 2 letech nebo ≥1 relapsu během předchozího roku. Expanded Disability Status Score (EDSS) bylo mezi 0 a 5,5. Třetí studie zahrnující stejnou populaci dospělých pacientů byla dokončena po registraci fingolimodu.
+Studie D2301 (FREEDOMS) byla 2letá randomizovaná dvojitě zaslepená placebem kontrolovaná studie III. fáze zahrnující 1 272 pacientů (n=425 na 0,5 mg, 429 na 1,25 mg, 418 na placebu). Střední hodnoty pro základní charakteristiku byly: věk 37 let, trvání nemoci 6,7 let a EDSS skóre 2,0.
+Konečné výsledky jsou uvedeny v tabulce 1. Ani v jednom hodnoceném parametru nebyly žádné významné rozdíly mezi dávkami 0,5 mg a 1,25 mg.
+
+Tabulka 1 Studie D2301 (FREEDOMS): hlavní výsledky
+
+
+
+
+Klinické koncové parametry
+Roční nárůst počtu relapsů (primární cíl) Procento pacientů bez relapsu po 24 měsících
+Podíl pacientů s progresí disability perzistující po dobu 3 měsíců†
+Poměr rizik (95% CI)
+Fingolimod 0,5 mg
+
+0,18**
+70 %**
+17 %
+
+0,70 (0,52; 0,96)*
+Placebo
+
+
+0,40
+46 %
+24 %
+
+17
+
+MRI koncové parametry
+Medián (průměr) počtu nových nebo nově zvětšených T2 lézí během 24 měsíců
+Medián (průměr) počtu Gd-enhancujících lézí ve 24. měsíci
+Medián (průměr) změny objemu mozku v % během 24 měsíců
+
+0,0 (2,5)**
+
+0,0 (0,2)**
+
+-0,7 (-0,8)**
+
+5,0 (9,8)
+
+0,0 (1,1)
+
+-1,0 (-1,3)
+†   Progrese disability definovaná jako zvýšení EDSS o 1 stupeň, potvrzené po 3 měsících
+**  p<0,001, *p<0,05 v porovnání s placebem
+Všechny analýzy klinických koncových parametrů byly intent-to-treat. MRI analýzy používaly hodnotitelný
+soubor dat.
+
+Pacienti, kteří ukončili 24 měsíců základní studie FREEDOMS, mohli vstoupit do dávkově zaslepeného prodloužení studie (D2301E1) a dostávat fingolimod. Celkem se účastnilo 920 pacientů (n=331 pokračovalo s dávkou 0,5 mg, 289 pokračovalo s dávkou 1,25 mg, 155 bylo převedeno z placeba na 0,5 mg a 145 převedeno z placeba na 1,25 mg). Po 12 měsících (měsíc 36) bylo ve studii stále 856 pacientů (93 %). Mezi měsíci 24 a 36 byl roční nárůst výskytu relapsů (ARR) u pacientů s fingolimodem 0,5 mg v základní studii a pokračující s dávkou 0,5 mg 0,17 (0,21 v základní studii). ARR u pacientů převedených z placeba na fingolimod 0,5 mg činil 0,22 (0,42 v základní studii).
+Srovnatelné výsledky byly pozorovány v opakované 2leté randomizované, dvojitě zaslepené, placebem kontrolované studii fáze III s fingolimodem (D2309; FREEDOMS 2) u 1083 pacientů s relabující-remitentní formou roztroušené sklerózy (n=358 s dávkou 0,5 mg, 370 s dávkou 1,25 mg, 355 na placebu). Střední hodnoty pro základní charakteristiku byly: věk 41 let, trvání nemoci 8,9 let, EDSS skóre 2,5.
+
+Tabulka 2 Studie D2309 (FREEDOMS 2): hlavní výsledky
+
+
+
+
+Cíle hodnocení
+Roční nárůst počtu relapsů (primární cílový
+parametr)
+Procento pacientů bez relapsů po 24 měsících Podíl  s  potvrzenou  progresí  disability  po 3měsících†
+Poměr rizik (95% CI)
+MRI cíl
+Medián (průměr) počtu nových nebo zvětšených T2 lézí po uplynutí 24 měsíců
+Medián (průměr) počtu Gd-zvětšených lézí v měsíci 24
+Medián (průměr) % změn v objemu mozku po uplynutí 24 měsíců
+Fingolimod 0,5 mg
+
+0,21**
+
+71,5 %**
+25 %
+
+0,83 (0,61; 1,12)
+
+0,0 (2,3)**
+
+0,0 (0,4)**
+
+-0,71 (-0,86)**
+Placebo
+
+
+0,40
+
+52,7 %
+29 %
+
+
+
+4,0 (8,9)
+
+0,0 (1,2)
+
+-1,02 (-1,28)
+†    Progrese disability je definována jako nárůst EDSS o 1 bod potvrzený po 3 měsících
+**   p<0,001 v porovnání s placebem
+Všechny  analýzy  klinických  cílů  byly  „intent-to-treat“.  MRI  analýza  používala vyhodnotitelný soubor dat.
+
+Studie D2302 (TRANSFORMS) byla jednoroční randomizovaná, dvojitě zaslepená, dvojitě maskovaná studie fáze III s aktivní kontrolou (interferon beta-1a), zahrnující 1 280 pacientů (n=429 na 0,5 mg, 420 na 1,25 mg, 431 na interferonu beta-1a, 30 µg podávaných intramuskulární injekcí jednou týdně).
+Mediánové hodnoty pro základní charakteristiku byly: věk 36 let, trvání nemoci 5,9 let a EDSS skóre 2,0. Konečné výsledky jsou uvedeny v tabulce 3. Ani v jednom sledovaném parametru nebyly žádné významné rozdíly mezi dávkami 0,5 mg a 1,25 mg.
+
+Tabulka 3 Studie D2302 (TRANSFORMS): hlavní výsledky
+
+
+
+
+Klinické cílové parametry
+Roční nárůst počtu relapsů (primární cílový
+parametr)
+Procento pacientů bez relapsu po 12 měsících Podíl pacientů s progresí disability perzistující po dobu 3 měsíců†
+Poměr rizik (95 % CI)
+MRI koncové parametry
+Medián  (průměr)  počtu nových  nebo  nově zvětšených T2 lézí během 12 měsíců
+Medián (průměr) počtu Gd-enhancujících lézí ve
+12. měsíci
+Medián (průměr) změny objemu mozku v % během 12 měsíců
+Fingolimod 0,5 mg
+
+0,16**
+
+83 %**
+6 %
+
+0,71 (0,42; 1,21)
+
+0,0 (1,7)*
+
+0,0 (0,2)**
+
+-0,2 (-0,3)**
+Interferon
+beta1a, 30 μg
+
+0,33
+
+71 %
+8 %
+
+
+
+1,0 (2,6)
+
+0,0 (0,5)
+
+-0,4 (0,5)
+†   Progrese disability definovaná jako zvýšení EDSS o 1 stupeň, potvrzené po 3 měsících
+*   p<0,01;** p<0,001; v porovnání s interferonem beta-1a
+Všechny analýzy klinických koncových parametrů byly intent-to-treat. MRI analýzy používaly hodnotitelný soubor dat.
+
+Pacienti, kteří ukončili 12 měsíců základní studie TRANSFORMS, mohli vstoupit do zaslepeného prodloužení studie (D2302E1) a dostávat fingolimod. Celkem se účastnilo 1030 pacientů, nicméně 3 z nich nebyli léčeni (n=356 pokračovalo s dávkou 0,5 mg, 330 pokračovalo s dávkou 1,25 mg, 167 bylo převedeno z interferonu beta-1a na 0,5 mg a 174 z interferonu beta-1a na 1.25 mg). Po 12 měsících (měsíc 24) bylo ve studii stále 882 pacientů (86 %). Mezi měsíci 12 a 24 činil ARR u pacientů s fingolimodem 0,5 mg v základní studii a pokračující s dávkou 0,5 mg 0,20 (0,19 v základní studii). ARR u pacientů převedených z interferon beta-1a na fingolimod 0,5 mg činil 0,33 (0,48 v základní studii).
+
+Sdružené výsledky studií D2301 a D2302 ukázaly konzistentní a statisticky významné snížení ročního počtu relapsů ve srovnání s komparátory u podskupin definovaných na základě pohlaví, věku, předchozí terapie roztroušené sklerózy, aktivity onemocnění nebo výchozího skóre disability.
+
+Další analýzy dat z klinických studií ukazují konzistentní účinky léčby u podskupin pacientů s vysoce aktivní formou relabující-remitentní roztroušené sklerózy.
+Pediatrická populace
+
+Účinnost a bezpečnost jednou denně podané dávky fingolimodu 0,25 mg nebo 0,5 mg (dávka volena podle tělesné hmotnosti a měření expozice) byly stanoveny u pediatrických pacientů ve věku 10 až
+<18 věku s relabující remitentní roztroušenou sklerózou.
+
+Studie D2311 (PARADIGMS) byla dvojitě zaslepená, dvojitě maskovaná studie s aktivní kontrolou s proměnlivou délkou trvání až do 24 měsíců, s 215 pacienty 10 až <18 let věku (n=107 u fingolimodu, 108 u interferonu beta-1a 30 µg podávaných intramuskulární injekce jednou týdně).
+Medián hodnot pro charakterizaci stavu před léčbou byl: věk 16 let, medián doby trvání choroby 1,5 roku a EDSS skóre 1,5. Většina pacientů byla ve stadiu 2 Tannerovy stupnice nebo vyšším
+(94,4 %) a byla nad >40 kg (95,3 %). Celkově, 180 (84 %) pacientů dokončilo základní část studie se studijní medikací (n=99 [92,5 %] fingolimod, 81 [75 %] s interferonem beta-1a). Výsledky jsou uvedeny v tabulce 4.
+
+
+19
+
+Tabulka 4 Studie D2311 (PARADIGMS): hlavní výsledky
+
+
+
+
+
+Klinické koncové parametry
+Roční nárůst počtu relapsů (primární cíl) Procento pacientů bez relapsu po 12 měsících MRI koncové parametry
+Roční nárůst počtu nových nebo nově zvětšených T2 lézí
+Upravený průměr
+Počet Gd-enhancujících T1 lézí v jednom skenu až
+do 24. měsíce Upravený průměr
+Roční nárůst četnosti výskytu mozkové atrofie z hodnot před léčbou až do 24. měsíce
+Průměr nejmenších čtverců
+Fingolimod 0,25 mg nebo
+0,5 mg n=107 0,122**
+85,7**
+
+n=106
+
+4,393** n=105
+
+0,436** n=96
+
+-0,48*
+Interferon beta-1a
+30 µg
+
+n=107# 0,675
+38,8
+
+n=102
+
+9,269 n=95
+
+1,282 n=89
+
+-0,80
+#   Jeden pacient randomizovaný na interferon beta-1a intramuskulární injekce nebyl schopen spolknout dvojitě maskovanou medikaci a studii nedokončil. Tento pacient nebyl zahrnut do kompletní analýzy a bezpečnostní sady.
+*   p<0,05;** p<0,001, v porovnání s interferonem beta-1a.
+Všechny analýzy klinických cílů byly součástí kompletního souboru testů.
+
+5.2  Farmakokinetické vlastnosti
+
+Farmakokinetické údaje byly získány od zdravých dospělých dobrovolníků, dospělých pacientů po transplantaci ledvin a dospělých pacientů s roztroušenou sklerózou.
+
+Farmakologicky aktivní metabolit zodpovědný za účinnost je fingolimod-fosfát.
+
+Absorpce
+
+Absorpce fingolimodu je pomalá (tmax 12 - 16 hodin) a extenzivní (≥85 %). Zjevná absolutní perorální biologická dostupnost je 93 % (95 % interval spolehlivosti: 79-111 %). Rovnovážný stav krevních koncentrací je dosažen během 1 až 2 měsíců při dávkování jednou denně a hladiny v rovnovážném stavu jsou přibližně 10krát vyšší než po iniciální dávce.
+Příjem potravy neovlivňuje Cmax ani expozici (AUC) fingolimodu. Cmax fingolimod-fosfátu byla mírně snížená o 34 %, ale AUC nebyla změněna. Proto může být přípravek Fimodigo užíván bez ohledu na jídlo (viz bod 4.2).
+Distribuce
+Fingolimod se významně distribuuje do erytrocytů, frakce v krevních buňkách je 86 %. Fingolimod-fosfát má menší uptake do krevních buněk <17 %. Fingolimod a fingolimod-fosfát jsou z velké míry vázány na bílkoviny (>99 %).
+
+Fingolimod je významně distribuován do tkání těla s distribučním objemem kolem 1200±260 litrů. Studie na čtyřech zdravých dobrovolnících, kteří dostali jednorázovou intravenózní dávku radioaktivně značeného analogu fingolimodu, demonstrovala, že fingolimod prostupuje do mozku. Ve studii s 13 pacienty mužského pohlaví s roztroušenou sklerózou, kteří dostávali dávku fingolimodu 0,5 mg/den, bylo průměrné množství fingolimodu (a fingolimod-fosfátu) v ejakulátu v ustáleném stavu přibližně 10 000krát nižší než po podání dávky per os (0,5 mg).
+
+Biotransformace
+
+Fingolimod je transformován u lidí reverzibilní stereoselektivní fosforylací na farmakologicky aktivní
+(S)-enantiomer fingolimod-fosfátu. Fingolimod je eliminován oxidativní biotransformací katalyzovanou především prostřednictvím CYP4F2 a možná též dalších izoenzymů a následně degradací podobnou degradaci mastných kyselin na inaktivní metabolity. Byla rovněž pozorována tvorba farmakologicky neaktivních nepolárních ceramidových analog fingolimodu. Hlavní enzym účastnící se metabolismu fingolimodu je částečně identifikován. Je to buď CYP4F2 nebo CYP3A4.
+Po jednotlivém perorálním podání [¹⁴C] značeného fingolimodu jsou hlavní složky v krvi související s fingolimodem, hodnoceno dle jejich příspěvku k celkové AUC radioaktivně značených složek po 34 dnech po dávce, samotný fingolimod (23 %), fingolimod-fosfát (10 %) a neaktivní metabolity (M3 metabolit – karboxylová kyselina [8 %], M29 ceramidový metabolit [9 %] a M30 ceramidový metabolit [7 %]).
+
+Eliminace
+
+Krevní clearance fingolimodu je 6,3  2,3 l/h a průměrný zdánlivý terminální poločas (t1/2) je 6 - 9 dní. Krevní hladiny fingolimodu a fingolimod-fosfátu klesají v terminální fázi paralelně, což vede k podobným poločasům u obou.
+Po perorálním podání je asi 81 % dávky pomalu vyloučeno močí jako neaktivní metabolity.
+Fingolimod a fingolimod-fosfát nejsou vylučovány nezměněny v moči, ale jsou významnou složkou ve stolici, každý v množstvích představujících méně než 2,5 % dávky. Po 34 dnech je vyloučeno 89 % podané dávky.
+Linearita
+
+Koncentrace fingolimodu a fingolimod-fosfátu se po podání několika denních dávek 0,5 mg nebo 1,25 mg zvyšují zjevně proporcionálně k dávce.
+Charakteristiky specifických skupin pacientů
+
+Farmakokinetika fingolimodu a fingolimod-fosfátu se neliší u mužů a žen, u pacientů různého etnického původu ani u pacientů s lehkou až těžkou poruchou funkce ledvin.
+
+U jedinců s lehkou, středně těžkou nebo těžkou poruchou funkce jater (Child-Pugh třída A, B a C) nebyla pozorována žádná změna v Cmax fingolimodu, ale AUC fingolimodu byla zvýšena o 12 %, 44 % a 103 %, podle uvedeného pořadí. U pacientů s těžkou poruchou funkce jater (Child-Pugh třída C) byla snížena Cmax fingolimod fosfátu o 22 % a AUC nebyla podstatně změněna. Farmakokinetika fingolimod-fosfátu nebyla hodnocena u pacientů s lehkou nebo středně těžkou poruchou funkce jater.
+Zdánlivý poločas eliminace fingolimodu zůstává nezměněn u jedinců s lehkou poruchou funkce jater, ale je prodloužen asi o 50 % u pacientů se středně těžkou nebo těžkou poruchou funkce jater.
+Fingolimod nesmí užívat pacienti s těžkou poruchou funkce jater (Child-Pugh třída C) (viz bod 4.3). Fingolimod je třeba podávat s opatrností u pacientů s lehkou a středně těžkou poruchou funkce jater (viz bod 4.2).
+
+Klinické zkušenosti a informace o farmakokinetice u pacientů starších 65 let jsou omezené. Přípravek
+Fimodigo má být u pacientů ve věku 65 let a více používán s opatrností (viz bod 4.2). Pediatrická populace
+U pediatrických pacientů (10 let věku a starších) rostly koncentrace fingolimod-fosfátu v rozmezí dávek 0,25 mg a 0,5 mg zjevně proporcionálně k dávce.
+
+
+
+21
+
+Koncentrace fingolimod-fosfátu v rovnovážném stavu je po podání denní dávky 0,25 mg nebo 0,5 mg finglimodu pediatrickým pacientům (10 let věku a starších) přibližně o 25 % nižší v porovnání s koncentrací u dospělých pacientů léčených 0,5 mg fingolimodu jednou denně.
+
+Údaje o pediatrických pacientech do 10 let věku nejsou k dispozici.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Předklinický bezpečnostní profil fingolimodu byl hodnocen na myších, potkanech, psech a opicích.
+Hlavními cílovými orgány u několika druhů byly lymfoidní systém (lymfopenie a lymfoidní atrofie), plíce (zvýšená hmotnost, hypertrofie hladkých svalů na bronchio-alveolárním spojení) a srdce (negativně chronotropní účinek, zvýšení krevního tlaku, perivaskulární změny a myokardiální degenerace); u potkanů pak krevní cévy (vaskulopatie) pouze při dávkách 0,15 mg/kg a vyšších ve 2leté studii, představující přibližně 4násobnou hranici na základě systémové expozice (AUC) u lidí při denní dávce 0,5 mg.
+
+Ve 2leté biologické studii na potkanech nebyly pozorovány žádné známky karcinogenity při perorálních dávkách fingolimodu až do maximální tolerované dávky 2,5 mg/kg, což představuje přibližně 50násobnou rezervu ve srovnání s lidskou systémovou expozicí (AUC) při 0,5 mg dávce. Nicméně ve 2leté studii na myších byla pozorována zvýšená incidence maligního lymfomu při dávkách 0,25 mg/kg a více, což představuje přibližně 6násobnou rezervu ve srovnání s lidskou systémovou expozicí (AUC) při denní dávce 0,5 mg.
+Fingolimod nebyl ve studiích na zvířatech ani mutagenní, ani klastogenní.
+
+Fingolimod nemá žádný vliv na počet spermií nebo jejich motilitu či na fertilitu u samců a samic potkanů až do nejvyšší testované dávky (10 mg/kg), což představuje přibližně 150násobnou rezervu ve srovnání s lidskou systémovou expozicí (AUC) při denní dávce 0,5 mg.
+
+Fingolimod byl u potkanů teratogenní při dávkách 0,1 mg/kg a vyšších. Léková expozice u potkanů při této dávce byla podobná expozici u pacientů při terapeutické dávce (0,5 mg). Nejčastější fetální viscerální malformace zahrnovaly perzistující truncus arteriosus a defekt komorového septa.
+Teratogenní potenciál u králíků nemůže být zcela vyhodnocen, avšak byla pozorována zvýšená embryo-fetální mortalita při dávkách 1,5 mg/kg a vyšších a snížení životaschopnosti plodů stejně jako retardace fetálního růstu při dávkách 5 mg/kg. Léková expozice u králíků při těchto dávkách byla podobná expozici u pacientů.
+
+U potkanů bylo sníženo přežívání potomků v generaci F1 v časném poporodním období při dávkách, které nevedly k mateřské toxicitě. Nicméně tělesná hmotnost v generaci F1, její rozvoj, chování ani plodnost nebyly léčbou fingolimodem ovlivněny.
+Fingolimod byl u léčených zvířat během laktace vylučován do mateřského mléka v koncentracích
+2 - 3krát vyšších, než jsou koncentrace v plazmě matky. Fingolimod a jeho metabolity přechází placentární bariéru u březích samic králíků.
+Studie na mladých zvířatech
+
+Výsledky dvou studií toxicity na mladých potkanech ukázaly mírný vliv na neurobehaviorální odpověď, opožděné pohlavní dozrávání a sníženou imunitní odpověď na opakovanou stimulaci keyhole limpet haemocyaninem (KLH), která nebyla považována za nežádoucí. Celkově byly s léčbou související vlivy fingolimodu na mladá zvířata srovnatelné s těmi pozorovanými u dospělých zvířat po podobných dávkách, s výjimkou změn kostní minerální denzity a neurobehaviorálních poruch (snížená odezva na sluchové podněty) pozorované u mladých zvířat při dávkách 1,5 mg/kg a vyšších a nepřítomnost hypertrofie hladké svaloviny v plicích mladých potkanů.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Obsah tobolky
+Monohydrát kalium-citrátu Koloidní bezvodý oxid křemičitý Magnesium-stearát
+
+Tělo tobolky Želatina
+Oxid titaničitý (E171)
+
+Víčko tobolky Želatina
+Oxid titaničitý (E171) Žlutý oxid železitý (E172)
+
+6.2  Inkompatibility
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 30 °C.
+Uchovávejte v původním obalu, aby byl přípravek chráněn před vlhkostí.
+
+6.5  Druh obalu a obsah balení
+
+oPA/Al/PVC-Al (Al-Al) blistry v balení obsahujícím 7, 28 nebo 98 tvrdých tobolek.
+oPA/Al/PVC-Al (Al-Al) perforované jednodávkové blistry v balení obsahujícím 7, 28 nebo 98 tvrdých tobolek. Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Vipharm S.A.
+ul. A. i F. Radziwiłłów 9
+05-850 Ożarów Mazowiecki Polsko
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+59/103/19-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 8. 9. 2020
+Datum posledního prodloužení registrace:
+
+23
+
+10.  DATUM REVIZE TEXTU
+8. 9. 2020

@@ -1,0 +1,535 @@
+Sp.zn. sukls424255/2018
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+Primovist 0,25 mmol/ml injekční roztok v předplněné stříkačce
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml injekčního roztoku obsahuje 0,25 mmol dinatrii gadoxetas (Gd-EOB-DTPA), což odpovídá 181,43 mg dinatrii gadoxetas.
+
+1 předplněná stříkačka s 5,0 ml obsahuje 907 mg dinatrii gadoxetas,
+1 předplněná stříkačka se 7,5 ml obsahuje 1361 mg dinatrii gadoxetas,
+1 předplněná stříkačka s 10,0 ml obsahuje 1814 mg dinatrii gadoxetas. Pomocné látky se známým účinkem: 11,7 mg sodíku/ml.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Injekční roztok - v předplněné stříkačce:
+Čirý, bezbarvý až světle žlutý roztok prakticky prostý částic.
+
+4.   KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Přípravek Primovist je indikován k detekci fokálních jaterních lézí a poskytuje informace o jejich charakteru v T1-váženém zobrazení magnetickou rezonancí (MRI).
+Přípravek Primovist má být použit pouze tehdy, je-li získání diagnostických informací nezbytné, není- li možné tyto informace získat vyšetřením magnetickou rezonancí (MRI) bez použití kontrastní látky a je-li nutné zobrazení fázového opoždění.
+Tento léčivý přípravek je určen pouze k diagnostickým účelům a intravenóznímu podání.
+
+4.2  Dávkování a způsob podání Způsob podání
+Primovist je vodný roztok připravený k použití, který musí být podán injekčně neředěný jako nitrožilní bolus rychlostí aplikace kolem 2 ml/s. Po podání kontrastní látky má být nitrožilní kanyla/hadička propláchnuta sterilním roztokem chloridu sodného 9 mg/ml (0,9%).
+
+
+
+1/14
+
+Detailní informace k zobrazení naleznete v bodě 5.1. Další pokyny viz bod 6.6.
+Dávkování
+Musí být použita nejnižší možná dávka, která zajišťuje dostatečný kontrast pro diagnostické účely. Dávka se má vypočítat na základě tělesné hmotnosti pacienta a nemá překročit doporučenou dávku na kilogram tělesné hmotnosti uvedenou v tomto bodě.
+Doporučené dávkování Primovistu:
+Dospělí:
+0,1 ml Primovistu/kg tělesné hmotnosti.
+
+Opakované podání:
+O opakovaném podání Primovistu nejsou dostupné žádné klinické informace.
+
+Doplňující informace pro speciální populace
+• Pacienti s poruchou funkce ledvin
+Primovist se nesmí podávat u pacientů se závažnou poruchou funkce ledvin
+(GFR < 30 ml/min/1,73 m²) a u pacientů v perioperačním období transplantace jater, nejedná- li se o zcela nepostradatelnou diagnostickou informaci, nedosažitelnou pomocí MRI bez použití kontrastní látky, (viz bod 4.4). Jestliže se nelze podání Primovistu vyhnout, je nutno, aby dávka nepřevýšila 0,025 mmol/kg tělesné hmotnosti. Během vyšetření se nepodává více než jedna dávka. Vzhledem k nedostatku informací o opakovaném podání není možné injekce Primovistu opakovat dříve, než interval mezi injekcemi dosáhne alespoň 7 dní.
+
+• Pacienti s poruchou funkce jater
+Úprava dávkování není nutná.
+
+• Pediatrická populace
+Bezpečnost a účinnost přípravku Primovist u pacientů mladších 18 let nebyla stanovena. V
+současnosti dostupné údaje jsou popsány v bodě 5.1.
+• Starší pacienti (ve věku 65 let a více):
+Úprava dávkování není považována za potřebnou. U starších pacientů je třeba zvýšené obezřetnosti (viz bod 4.4).
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+
+
+
+
+2/14
+
+Musí být dodržována obvyklá bezpečnostní opatření pro MRI, např. nevyšetřovat pacienty s
+kardiostimulátory nebo s feromagnetickými implantáty.
+
+Diagnostické postupy, zahrnující použití kontrastních látek, by měly být prováděny pod vedením lékaře, který má praktické zkušenosti a důkladné znalosti o požadovaném vyšetření.
+
+Po injekci by pacient měl být nejméně 30 minut pod dohledem, protože zkušenost s kontrastními látkami ukazuje, že většina nežádoucích účinků se vyskytuje v tomto intervalu.
+
+•  Porucha funkce ledvin
+Před podáním Primovistu se u všech pacientů doporučuje provést screeningové laboratorní vyšetření k odhalení porušené funkce ledvin.
+Byly hlášeny případy nefrogenní systémové fibrózy (NSF) v souvislosti s podáním některého z kontrastních přípravků obsahujících gadolinium u pacientů s akutní nebo závažnou chronickou poruchou funkce ledvin (GFR < 30 ml/min/1,73 m²). Zvlášť ohroženi jsou pacienti podstupující transplantaci jater vzhledem k vysokému výskytu akutního selhání ledvin v této skupině. Vzhledem k možnosti výskytu NSF, se Primovist nesmí podávat u pacientů se závažnou poruchou funkce ledvin a u pacientů v perioperačním období transplantace jater, nejedná-li se o zcela nepostradatelnou diagnostickou informaci, nedosažitelnou pomocí MRI bez použití kontrastní látky.
+
+Hemodialýza krátce po podání Primovistu může být vhodným postupem k jeho odstranění z těla. Neexistují důkazy na podporu zahájení hemodialýzy k prevenci nebo k léčbě NSF u pacientů, kteří hemodialýzu dosud nepodstupují.
+
+• Starší osoby
+
+Vzhledem k možnému zhoršení ledvinové clearance gadoxetátu u starších osob je zvláště důležité provádět u pacientů ve věku 65 let a starších screeningové vyšetření k odhalení porušené funkce ledvin.
+
+•  Pacienti s kardiovaskulárním onemocněním
+Opatrnosti je třeba, je-li Primovist podáván pacientům se závažnými kardiovaskulárními
+obtížemi, protože do této doby jsou dostupné pouze omezené údaje. Primovist by neměl být používán u pacientů s nekorigovanou hypokalemií. Primovist by měl být používán se zvláštní opatrností u pacientů
+-  se známým syndromem vrozeného dlouhého QT intervalu nebo s výskytem syndromu vrozeného dlouhého QT intervalu v rodinné anamnéze
+-  se známým předchozím výskytem arytmií při léčbě léky prodlužujícími srdeční
+repolarizaci
+-  kteří v současné době užívají léky, o kterých je známo, že prodlužují srdeční repolarizaci, např. antiarytmika III. třídy, (např. amiodaron, sotalol).
+
+
+
+
+3/14
+
+Primovist může způsobit přechodné prodloužení QT intervalu u jednotlivých pacientů (viz
+bod 5.3).
+• Hypersenzitivita
+Je známo, že po podání kontrastních látek na bázi gadolinia, užívaných při MRI, se vzácně vyskytují alergii podobné reakce, včetně šoku. Většina těchto reakcí se vyskytuje do půl hodiny po podání kontrastní látky. Nicméně stejně jako u jiných kontrastních látek této třídy se vzácně mohou vyskytnout i opožděné reakce s odstupem hodin i dní od podání kontrastní látky.
+Medikace k léčbě hypersenzitivních reakcí a stejně tak prostředky k poskytnutí okamžité pomoci musí být připraveny.
+Riziko výskytu hypersenzitivních reakcí je vyšší v případě:
+- předchozí reakce na kontrastní látky,
+- bronchiálního astmatu v anamnéze,
+- alergických onemocnění v anamnéze.
+
+U pacientů se sklonem k alergii (zvláště v případě, kdy se v minulosti výše uvedené stavy vyskytly) musí být rozhodnutí o použití Primovistu podloženo obzvláště pečlivým zvážením poměru přínosu-rizika.
+Reakce z přecitlivělosti mohou být intenzivnější u pacientů užívajících beta-blokátory, zejména pokud mají bronchiální astma. Je třeba mít na paměti, že pacienti užívající beta- blokátory nemusejí odpovídat na standardní léčbu reakcí z přecitlivělosti pomocí beta- agonistů.
+Pokud se reakce z přecitlivělosti objeví, injekce kontrastní látky musí být okamžitě přerušena.
+• Lokální nesnášenlivost
+Nitrosvalovému podání je třeba se důsledně vyhnout, protože může způsobit lokální intoleranci včetně ložiskové nekrózy (viz bod 5.3).
+Akumulace v organismu
+Po podání dinatrium-gadoxetátu se gadolinium může ukládat v mozku a jiných tělesných tkáních (kostech, játrech, ledvinách, kůži) a v závislosti na výši dávky vyvolat zvýšení intenzity signálu T1-váženého zobrazení v mozku, zejména v nucleus dentatus, globus pallidus a v thalamu. Klinické důsledky nejsou známy. Možné diagnostické výhody použití dinatrium-gadoxetátu u pacientů, u nichž jsou nutná opakovaná vyšetření, je třeba zvážit
+s ohledem na potenciální depozici gadolinia v mozku a jiných tkáních.
+
+
+Pomocné látky
+
+
+
+
+
+
+
+4/14
+
+Tento léčivý přípravek obsahuje 11,7 mg sodíku na ml, což odpovídá 0,585 % WHO doporučené maximální denní dávky 2 g sodíku pro dospělou osobu (4,1% (82 mg) na základě množství podaného osobě vážící 70 kg). Dávkování je 0,1 ml/kg tělesné hmotnosti.
+
+
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Vzhledem k možnosti, že transport gadoxetátu do jater je zprostředkováván pomocí přenašečů OATP, není možné vyloučit, že účinné inhibitory OATP mohou způsobit lékovou interakci, mající za následek snížení kontrastního účinku v játrech. Nicméně žádná klinická data, která by podporovala tuto teorii, uveřejněna nebyla. Studie interakcí se zdravými dobrovolníky ukázala, že současné podání erythromycinu neovlivnilo účinnost ani farmakokinetiku Primovistu. Žádné další klinické studie na interakce s jinými léčivými přípravky nebyly prováděny.
+•  Vliv zvýšené hladiny bilirubinu a feritinu u pacientů
+Zvýšení hladiny bilirubinu a feritinu může omezit kontrastní účinek Primovistu v játrech (viz bod 5.1).
+
+• Ovlivnění diagnostických testů
+Stanovení železa v séru pomocí komplexometrických metod (např. komplexační metoda s ferrocinem) může přinést falešné hodnoty do 24 hodin po vyšetření Primovistem kvůli volné vazebné složce obsažené v roztoku kontrastní látky.
+4.6  Těhotenství, kojení a fertilita
+Těhotenství
+Nejsou k dispozici údaje o podávání gadoxetátu těhotným ženám. Studie provedené na zvířatech odhalily reprodukční toxicitu po opakovaném podávání vysokých dávek (viz bod 5.3). Primovist se nepodává během těhotenství, pokud klinický stav ženy nevyžaduje použití gadoxetátu.
+Kojení
+
+Kontrastní přípravky obsahující gadolinium jsou ve velmi malých množstvích vylučovány do mateřského mléka (viz bod 5.3). V klinických dávkách se neočekávají žádné účinky na dítě vzhledem k malému množství vylučovanému do mléka a omezenému vstřebávání ze střeva. Rozhodnutí, zda po podání Primovistu v kojení pokračovat nebo ho na 24 hodin přerušit, je na lékaři a kojící matce.
+
+Fertilita
+Studie na zvířatech neprokázaly poškození fertility.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Primovist nemá žádný vliv na schopnost řídit nebo obsluhovat stroje.
+
+
+
+
+5/14
+
+4.8   Nežádoucí účinky
+•  Souhrn bezpečnostního profilu
+Celkový bezpečnostní profil Primovistu je podložen daty z klinických studií, které byly prováděny s více než 1 900 pacienty a z post-marketingového sledování.
+Nejčastěji pozorovanými nežádoucími účinky (≥ 0,5 %) jsou u pacientů po podání Primovistu nauzea, bolest hlavy, pocit horka, zvýšení krevního tlaku, bolest zad a závrať.
+Nejzávažnějším nežádoucím účinkem, který se u pacientů po podání Primovistu vyskytuje, je anafylaktoidní šok.
+Ve vzácných případech byly pozorovány opožděné alergické reakce (po hodinách až po několika dnech).
+Většina nežádoucích účinků byla přechodná a mírné nebo střední intenzity.
+•  Tabulkový přehled nežádoucích účinků
+Nežádoucí účinky, pozorované po Primovistu, jsou uvedeny v tabulce níže. Jsou popsány podle tříd orgánových systémů (MedDRA klasifikace verze 12.1). K popisu jednotlivých reakcí, jejich symptomů a souvisejících stavů jsou použity nejvhodnější termíny dle MedDRA.
+Nežádoucí účinky přípravku, popsané v rámci klinických studií, jsou klasifikovány dle jejich frekvence výskytu. Skupiny frekvencí výskytu jsou definovány dle následující konvence:
+časté : ≥ 1/100 až < 1/10; méně časté: ≥ 1/1 000 až < 1/100; vzácné: ≥ 1/10 000 až < 1/1 000. Nežádoucí účinky, zaznamenané pouze během post-marketingového sledování a pro které frekvence výskytu není známa, jsou uvedeny jako „Není známo“.
+V každé skupině jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+
+Tabulka 1: Nežádoucí účinky hlášené v klinických studiích nebo během post-marketingového sledování u pacientů, kterým byl Primovist podán
+
+
+
+Třídy orgánových systémů (MedDra)
+Časté
+Méně časté
+Vzácné
+Není známo
+
+
+Poruchy imunitního sytému
+
+
+
+
+
+Poruchy nervového systému
+
+
+
+
+
+
+
+Bolesti hlavy
+
+
+
+
+
+
+
+Vertigo Závratě Dysgeuzie
+
+
+
+
+
+
+
+Třes Akatizie
+Hypersenzitivita/anafylaktoidní reakce (např. šok*, hypotenze, faryngolaryngeální edém, urtikarie, otok obličeje, rinitida, konjunktivitida, bolest břicha, hypestezie, kýchání, kašel, bledost)
+Neklid
+
+
+
+6/14
+
+Třídy orgánových systémů (MedDra)
+Časté
+Méně časté
+Vzácné
+Není známo
+
+
+
+
+Srdeční poruchy
+
+
+Cévní poruchy
+
+
+
+Respirační, hrudní a mediastinální poruchy
+
+
+
+Gastrointestinální
+poruchy
+
+
+Poruchy kůže a podkožní tkáně
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nauzea
+Parestezie Parosmie
+
+
+
+Zvýšení krevního tlaku, Zrudnutí Respirační poruchy, (Dušnost*, Dechová tíseň) Zvracení
+
+Sucho v ústech Vyrážka Svědění**
+
+Bolesti zad
+
+
+Bolesti na hrudníku Reakce
+v místě injekce (různé typy reakcí) *** Pocit horka Zimnice Únava Abnormální pocity
+
+
+Raménková blokáda Palpitatace
+
+
+
+
+
+
+
+
+
+Orální diskomfort Hypersekrece slin Makulopapulární vyrážka Hyperhidróza
+
+
+
+Nepohodlí Malátnost
+
+
+Tachykardie
+* Byly hlášeny život ohrožující nebo fatální případy. Tato hlášení pochází z post-marketingového sledování.
+** Svědění (generalizovaný pruritus, svědění očí)
+*** Reakce v místě aplikace (různé typy) zahrnují následující: extravazace v místě injekce, pálení v místě
+injekce, pocit chladu v místě injekce, podráždění v místě injekce a bolest v místě injekce.
+Popis určitých nežádoucích účinků
+V klinických studiích byly hlášeny následující laboratorní změny jako zvýšení hladiny železa v séru, zvýšená hladina bilirubinu, zvýšení hladin jaterních transamináz, pokles hladiny hemoglobinu, zvýšená amyláza, leukocyturie, hyperglykemie, zvýšení hladiny albuminu v moči, hyponatremie, zvýšení hladiny anorganického fosfátu, pokles hladin bílkovin v séru, leukocytóza, hypokalemie a zvýšené hladiny LDH. EKG bylo v průběhu klinických studií sledováno pravidelně, u některých pacientů bylo pozorováno přechodné prodloužení intervalu QT bez spojení s nežádoucími klinickými příhodami.
+
+
+
+
+7/14
+
+Byly hlášeny případy nefrogenní systémové fibrózy (NSF) po jiných kontrastních přípravcích obsahujících gadolinium (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+Žádný případ předávkování nebyl hlášen a nejsou tedy popsány žádné příznaky.
+Jednotlivé dávky Primovistu byly, do dávky až do 0,4 ml/kg (0,1 mmol/kg) tělesné hmotnosti, tolerovány dobře.
+V klinických studiích byla u omezeného počtu pacientů zkoušena dávka 2,0 ml/kg tělesné hmotnosti (0,5 mmol/kg). U těchto pacientů byla shledána vyšší četnost nežádoucích příhod, ale žádný nový nežádoucí účinek.
+Dojde-li k náhodnému předávkování, pacient by měl být pečlivě sledován včetně monitorování srdeční činnosti. V tomto případě je možný vznik prodloužení QT intervalu (viz bod 5.3).
+Primovist může být odstraněn hemodialýzou. Nebyl však podán důkaz, že by hemodialýza byla vhodná k prevenci nefrogenní systémové fibrózy (NSF).
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: paramagnetické kontrastní látky, ATC kód: V08 C A10
+• Mechanismus účinku
+Primovist je paramagnetická kontrastní látka pro zobrazení magnetickou rezonancí.
+Zesílení kontrastního účinku je zprostředkováno dinatrium-gadoxetátem (GdEOB DTPA), iontovým komplexem, který obsahuje gadolinium (III) a ligand kyselinu etoxybenzyl- diethylentriamin-pentaoctovou (EOB-DTPA). Při T1-váženém skenování, v rámci protonové magnetické rezonance indukuje gadoliniový ion zkracování relaxačního času
+
+
+8/14
+
+spinové matrice excitovaných atomových jader. To vede ke zvýšení intenzity signálu a tedy ke zvýšení kontrastu obrazu některých tkání.
+• Farmakodynamické účinky
+Dinatrium-gadoxetát vede k výraznému zkrácení relaxačního času a to dokonce v nízkých koncentracích. Při pH 7, síle magnetického pole 0,47 T a 40°C je relaxivita (r1) (daná vlivem na relaxační čas (T1) spinové matrice protonů v plazmě) přibližně 8,18 l/mmol/s a relaxivita (r2) (daná vlivem na relaxační čas (T2) spinové matrice) je přibližně 8,56 l/mmol/s. Při 1,5 T a 37°C jsou odpovídající relaxivity v plazmě r1 = 6,9 l/mmol/s a r2 = 8,7 l/mmol/s. Relaxivita vykazuje slabou inverzní závislost na síle magnetického pole.
+EOB-DTPA vytváří s paramagnetickým gadoliniovým iontem stabilní komplex s mimořádně vysokou termodynamickou stabilitou (log KGdl = –23,46). Gd-EOB-DTPA je ve vodě vysoce rozpustná, hydrofilní sloučenina s rozdělovacím koeficientem mezi n- butanol a pufr přibližně 0,011 při pH 7,6. Vzhledem k tomu, že dinatrium-gadoxetát je
+z jedné poloviny tvořen lipofilní skupinou etoxybenzylem, vykazuje bifázický model účinku: v první fázi je po injekci bolusu distribuován do extracelulárního prostoru a ve druhé fázi je selektivně absorbován hepatocyty. Relaxivita r1 v jaterní tkáni je přibližně 16,6 l/mmol/s (při 0,47 T) a to má za následek zvýšení intenzity signálu jaterní tkáně. Následně je dinatrium-gadoxetát vylučován žlučí.
+Léze s žádnou nebo s minimální funkcí hepatocytů (cysty, metastázy, většina hepatocelulárních karcinomů) Primovist neakumulují. Dobře diferencovaný hepatocelulární karcinom může obsahovat funkční hepatocyty, může tedy ukázat určité zvýraznění ve fázi zobrazení hepatocytů. Ke stanovení správné diagnózy jsou tudíž nutné další klinické údaje.
+V klinicky relevantních koncentracích nevykazuje látka s enzymy žádné významné inhibiční interakce.
+• Zobrazení
+Po vstříknutí bolusu Primovistu je při dynamickém zobrazení během arteriální, portální a rovnovážné fáze využito přechodných rozdílů ve zvýraznění obrazu v různých jaterních lézích jako základu pro radiologickou charakterizaci lézí.
+Kontrastní zvýraznění jaterního parenchymu během hepatocytové fáze umožňuje určení počtu ložisek, jejich distribuci v segmentech, jejich zviditelnění a zaměření, což zlepšuje jejich diagnostiku. Diferenciální vzorec zvýraznění/vyplavení z jaterní léze přispívá k informaci z dynamické fáze.
+Opožděná (hepatocytová) fáze může být vyšetřována 20 minut po injekci v zobrazovacím intervalu trvajícím nejméně 120 minut. Výsledky klinických studií ukazují, že diagnostická i technická účinnost je ve 20. minutě po injekci jen nepatrně vyšší než v 10. minutě po injekci.
+Zobrazovací interval je zkrácen na 60 minut u pacientů vyžadujících hemodialýzu a u pacientů se zvýšenými hodnotami bilirubinu (> 3 mg/dl).
+Vylučování Primovistu játry vede ke zvýraznění biliárních struktur.
+
+Fyzikálně-chemické vlastnosti roztoku Primovistu připraveného k použití jsou následující:
+
+
+
+
+9/14
+
+Osmolalita při 37 °C (mosmol/kg H2O)
+Viskozita při 37 °C (mPa·s) Denzita při 37 °C (g/ml) pH
+688
+1,19
+1,0881
+7,4
+
+• Pediatrická populace
+Byla provedena observační studie u 52 pediatrických pacientů (ve věku > 2 měsíce a < 18 let). Pacienti byli podrobeni vyšetření jater pomocí MR s použitím Primovistu za účelem detekce suspektních nebo známých fokálních jaterních lézí. Další diagnostické informace byly získány, když byly porovnány výsledky MR bez kontrastní látky samotné s kombinací MR bez kontrastní látky a MR s kontrastní látkou. Byly hlášeny závažné nežádoucí účinky, nebyla ale nalezena souvislost s použitím Primovistu. Vzhledem k retrospektivnímu charakteru studie a malému vzorku populace ve studii nelze jasně zhodnotit účinnost a bezpečnost v této populaci.
+5.2 Farmakokinetické vlastnosti
+• Distribuce
+Po intravenózním podání byl časový profil koncentrací Gd-EOB-DTPA určen biexponenciálním rozkladným modelem.
+Gd-EOB-DTPA se distribuuje v extracelulárním prostoru (distribuční objem v rovnovážném
+stavu je kolem 0,21 l/kg).
+
+Látka vykazuje jen slabou vazbu na bílkoviny (méně než 10 %). Sloučenina difunduje placentální bariérou jen v malé míře.
+Dinatrium-gadoxetát je lineární kontrastní látka obsahující gadolinium (GdCA). Studie prokázaly, že po expozici těmto látkám se gadolinium ukládá v organismu. K retenci dochází v mozku a jiných tkáních a orgánech. Po podání lineárních GdCA to může v závislosti na výši dávky vyvolat zvýšení intenzity signálu T1-váženého zobrazení v mozku, zejména v nucleus dentatus, globus pallidus a v thalamu. Zvýšení intenzity signálu a neklinické údaje dokazují, že lineární GdCA uvolňují gadolinium.
+
+• Biotransformace
+Dinatrium-gadoxetát není metabolizován.
+• Eliminace
+Gd-EOB-DTPA je stejnou měrou eliminována ledvinami a hepatobiliárním systémem. Eliminační poločas Gd-EOB-DTPA byl přibližně 1,0 hodinu. Farmakokinetika byla lineárně závislá na dávce až do výše dávky 0,4 ml/kg (100 μmol/kg).
+Celková sérová clearance (Cltot) byla určena kolem 250 ml/min, zatímco ledvinná clearance
+(Clr) odpovídá zhruba 120 ml/min.
+
+
+
+
+
+10/14
+
+•  Charakteristiky pro zvláštní skupiny pacientů Starší pacienti (ve věku 65 let a vyšším)
+V souladu se změnou fyziologických funkcí ledvin, ke které dochází s věkem, byla u starších osob, ve věku 65 a vyšším, plazmatická clearance dinatrium-gadoxetátu redukována z 210 ml/min (zjišťovaná u mladších osob) na 163 ml/min. U starších osob bylo
+pozorováno zvýšení terminálního poločasu a systémové expozice (2,3 h a 197 µmol*h/l , oproti odpovídajícím hodnotám 1,6 h and 153 µmol*h/l ). Renální exkrece byla kompletně dokončena po 24 h u všech osob, nebyl pozorován žádný rozdíl mezi mladšími a staršími zdravými dobrovolníky.
+Porucha funkce ledvin/jater
+U pacientů s lehkou až středně těžkou poruchou funkce jater bylo v porovnání se subjekty s normální funkcí jater pozorováno mírné až střední zvýšení plazmatické koncentrace, eliminačního poločasu a renální exkrece, stejně jako snížení hepatobiliární exkrece. Nebyly však pozorovány žádné klinicky relevantní rozdíly v zesílení signálu z jater. U pacientů
+s těžkou poruchou funkce jater, zejména u pacientů s abnormálně vysokými hladinami sérového bilirubinu (> 3 mg/dl), byla křivka AUC zvýšena na 259 µmol*h/l oproti hodnotě 160 µmol*h/l, která byla zjištěna v kontrolní skupině. Poločas eliminace byl zvýšený na 2,6 h oproti 1,8 h, který byl zjištěný v kontrolní skupině. Hepatobiliární exkrece výrazně poklesla na 5,7 % podané dávky. U těchto pacientů také dochází k redukci zesílení signálu jater.
+U pacientů s konečným stadiem renálního selhání je AUC zvýšena 6násobně na přibližně 903 µmol*h/l a terminální poločas je prodloužený na přibližně 20 h. Hemodialýza zvýšila clearance dinatrium-gadoxetátu (viz bod 4.4). Během průměrné aplikace hemodialýzy, která trvá okolo 3 hodin, je hemodialýzou odstraněno kolem 30 % dávky dinatrium-gadoxetátu, jestliže začne 1 hodinu po injekci. Navíc se ukázalo, že kromě clearance pomocí dialýzy, je u těchto pacientů významná část podané dávky dinatrium-gadoxetátu vylučována biliární cestou, přibližně 50 % je vyloučeno se stolicí během 4 dnů (rozmezí 24,6 až 74,0 %, n=6 pacientů).
+
+5.3 Předklinické údaje vztahující se k bezpečnosti
+Předklinické údaje získané na základě konvenčních farmakologických studií akutní a chronické toxicity a genotoxicity a kontaktně senzitizujícího potenciálu, neodhalily žádné zvláštní riziko pro člověka.
+• Ovlivnění srdce
+Při telemetrickém vyšetření psů při plném vědomí bylo pozorováno malé a přechodné prodloužení intervalu QT při nejvyšší zkoumané dávce 0,5 mmol/kg, která představuje 20násobek dávky pro člověka. Při vysokých koncentracích Gd-EOB-DTPA blokoval HERG kanály a prodlužoval trvání akčního potenciálu v izolovaných papilárních svalech morčete. To naznačuje možnost, že předávkování Primovistem by mohlo vyvolat prodloužení intervalu QT.
+Ve farmakologických studiích bezpečnosti nebyly pozorovány žádné nálezy na jiných orgánových systémech.
+
+
+
+
+11/14
+
+•  Reprodukční toxicita a kojení
+Ve studii embryotoxicity prováděné na králících byl pozorován zvýšený počet postimplantačních ztrát a zvýšená četnost potratů po opakovaném podávání 2,0 mmol/kg Gd- EOB-DTPA, což představuje 25,9násobek (vztaženo na plochu povrchu těla) nebo přibližně 80násobek (vztaženo na tělesnou hmotnost) doporučené dávky pro člověka.
+U potkanů během laktace bylo do mléka vyloučeno méně než 0,5 % intravenózně podané dávky (0,1 mmol/kg) radioaktivně značeného gadoxetátu. Po perorálním podání byla u potkanů absorpce velmi malá v množství 0,4%.
+Údaje o juvenilních zvířatech
+Studie toxicity po jednorázovém a opakovaném podání u novorozených a juvenilních potkanů se kvalitativně nelišily od pozorovaných dospělých potkanů, ale juvenilní jsou citlivější.
+• Lokální snášenlivost
+Reakce z lokální nesnášenlivosti byly pozorovány pouze po intramuskulárním podání Gd- EOB-DTPA.
+• Kancerogenita
+Žádné studie kancerogenity nebyly provedeny.
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+trinatrium-kaloxetát
+kyselina chlorovodíková (k úpravě pH) hydroxid sodný (k úpravě pH) trometamol
+voda na injekci
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto přípravek Primovist nesmí být mísen s žádnými dalšími léčivými přípravky.
+
+6.3  Doba použitelnosti
+5 let (skleněné předplněné stříkačky)
+3 roky (plastové předplněné stříkačky). Přípravek musí být použit ihned po otevření.
+6.4  Zvláštní opatření pro uchovávání
+
+
+
+
+12/14
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+
+6.5  Druh obalu a obsah balení
+
+Skleněné stříkačky: 10 ml předplněné stříkačky z bezbarvého skla typu I (PhEur) potaženého silikonem, chlorbutylový uzávěr potažený silikonem, chlorbutylová zátka, polysulfonový adapter Luer Lock a polypropylenový bezpečnostní kryt.
+
+Plastové stříkačky: 10 ml předplněné stříkačky z bezbarvého cykloolefinového polymeru se zalamovacím uzávěrem z termoplastického elastomeru, uzavřené brombutylovým pístem potaženým silikonem.
+
+• Velikosti balení:
+1, 5 a 10 x 5 ml (v 10 ml předplněné stříkačce)
+1, 5 a 10 x 7,5 ml (v 10 ml předplněné stříkačce) (pouze skleněné)
+1, 5 a 10 x 10 ml (v 10 ml předplněné stříkačce) Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+• Vizuální kontrola
+Tento léčivý přípravek je čirý, bezbarvý až světle žlutý roztok. Před podáním musí být vizuálně zkontrolován.
+Primovist nesmí být podáván v případě výrazných barevných změn, při výskytu částic pevné látky nebo při porušeném obalu.
+• Způsob použití
+Předplněná stříkačka musí být vyjmuta z obalu a připravena k injekci bezprostředně před vyšetřením. Zátka z předplněné stříkačky musí být odstraněna až těsně před použitím.
+• Likvidace
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+Oddělitelnou část štítku z předvyplněných stříkaček je třeba vlepit do dokumentace pacienta, aby byl přesně zaznamenán použitý kontrastní přípravek s obsahem gadolinia. Též je nutno poznamenat podanou dávku. Pokud je vedena elektronická dokumentace, měl by být rovněž do záznamů pacienta uveden název podaného léčivého přípravku, číslo šarže a dávka.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Bayer AG
+Kaiser-Wilhelm-Allee 1,
+51373 Leverkusen,
+Německo
+
+
+
+
+
+13/14
+
+8.   REGISTRAČNÍ ČÍSLO
+48/178/04-C
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 18. 11. 2004
+Datum posledního prodloužení registrace: 5. 5. 2014
+
+10.   DATUM REVIZE TEXTU
+2. 10. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14/14

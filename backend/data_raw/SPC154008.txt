@@ -1,0 +1,493 @@
+sp.zn. sukls306886/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+ACECOR 400 mg potahované tablety
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Léčivá látka: Jedna potahovaná tableta obsahuje acebutololum 400 mg ve formě acebutololi hydrochloridum.
+Pomocné látka se známým účinkem: laktosa.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Potahovaná tableta
+Popis přípravku: bílé, kulaté, bikonvexní, potahované tablety s půlicí rýhou na jedné straně, o průměru
+12 mm.
+Tabletu lze rozdělit na stejné dávky.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Přípravek je indikován:
+-  k léčbě esenciální a renální hypertenze všech stupňů, případně v kombinaci s thiazidovými diuretiky nebo i jinými antihypertenzivy,
+-  k dlouhodobé léčbě poruch srdečního rytmu supraventrikulárních (síňová tachykardie, flutter a fibrilace síní, nodální tachykardie) a ventrikulárních (komorové extrasystoly, komorová tachykardie),
+-  k profylaxi záchvatů námahové anginy pectoris,
+-  k dlouhodobé léčbě po infarktu myokardu (acebutolol snižuje riziko vzniku recidiv infarktu
+myokardu, zejména riziko náhlého úmrtí).
+
+Přípravek je určen k léčbě dospělých pacientů.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Hypertenze
+Iniciální dávka je 400 mg/den v jedné dávce ráno nebo ve dvou dílčích dávkách po 200 mg. V případě nedostatečné odpovědi může být denní dávka po dvou týdnech zvýšena na 800 – 1 200 mg/den (2 - 3 dílčí dávky).
+
+Dlouhodobá léčba poruch srdečního rytmu
+Při dlouhodobé léčbě poruch srdečního rytmu se obvykle podává dávka 400 mg/den, která může být
+podle potřeby (podle klinického stavu a EKG) zvýšena až na 800 mg/den. Maximální antiarytmický
+
+1/11
+
+účinek se projeví do 3 hodin po podání přípravku. Jelikož při dlouhodobé léčbě arytmií je nutná rovnoměrná blokáda beta-adrenergních receptorů, je vhodné denní dávku rozdělit do 2 - 3 dílčích dávek.
+Profylaxe záchvatů námahové anginy pectoris
+Denní dávka se pohybuje od 400 mg do 800 mg (průměrná denní dávka je 600 mg) v jedné nebo dvou dílčích dávkách. Léčba se zahajuje nejnižší dávkou 400 mg/den a podle klinického stavu a EKG se zvyšuje na optimální dávku.
+Dlouhodobá léčba po infarktu myokardu
+Optimálně se léčba zahajuje mezi 3. - 21. dnem po infarktu myokardu. Obvyklá dávka je 400 mg/den
+v jedné nebo dvou dílčích dávkách.
+
+Při renální insuficienci je třeba dávku upravit podle hodnoty clearance kreatininu. Při jejím poklesu pod 50 ml/min je nutné snížit dávku o 50 % a poklesne-li její hodnota pod 25 ml/min, je nezbytné snížit dávku o 75 %.
+Objeví-li se výraznější klidová bradykardie pod 50 - 55 tepů za minutu, je třeba dávku snížit. Způsob podání
+Tablety se nerozkousané zapijí malým množstvím vody, nejlépe před jídlem.
+
+4.3  Kontraindikace
+
+Absolutní kontraindikací je kardiogenní šok.
+Obzvláštní pozornost je třeba věnovat pacientům s krevním tlakem 100/60 mmHg nebo nižším.
+
+Další kontraindikace pro podávání přípravku:
+-  hypersenzitivita na léčivou látku nebo na kteroukoliv pomocnou látku uvedenou v bodě 6.1
+nebo na beta-blokátory,
+-  období kojení,
+-  dekompenzovaná či závažná forma bronchiálního astmatu a chronické obstrukční
+bronchopulmonální nemoci,
+-  dekompenzované srdeční selhání,
+-  AV blok 2. a 3. stupně bez zajištění kardiostimulací,
+-  sick sinus syndrom,
+-  Prinzmetalova angina pectoris (při monoterapii acebutololem),
+-  výrazná bradykardie (pod 45 - 50 tepů/min.),
+-  hypotenze,
+-  neléčený feochromocytom,
+-  metabolická acidóza,
+-  současné podávání s floctafeninem a sultopridem (viz bod 4.5),
+-  závažné poruchy periferního oběhu (Raynaudův syndrom a pokročilá stadia ischemické choroby dolních končetin s klidovými bolestmi nebo defekty).
+4.4  Zvláštní upozornění a opatření pro použití
+
+Ukončení léčby
+Jako pro ostatní beta-blokátory i pro Acecor platí, že je třeba se vyvarovat náhlého vysazení přípravku, dávka by měla být postupně snižována zejména u pacientů s ischemickou chorobou srdeční. Náhlé
+vysazení léčby může vyvolat vážné poruchy srdečního rytmu, infarkt myokardu nebo náhlou smrt.
+Při vysazování přípravku musí být dávka snižována nejlépe během 1 - 2 týdnů a, je-li to nezbytné, při současném zahájení alternativní léčby, aby se předešlo zhoršení.
+
+2/11
+
+Chronická obstrukční bronchopulmonální nemoc a astma bronchiale
+Bronchospasmus indukovaný léky je obvykle alespoň zčásti reverzibilní s použitím vhodného agonisty.
+I když kardioselektivní beta-blokátory ovlivňují funkce plic méně než neselektivní beta-blokátory, nemají být podávány, stejně jako všechny beta-blokátory, pacientům s obstrukčním onemocněním dýchacích cest, pokud pro to neexistují závažné klinické důvody. V tomto případě pak musí být
+kardioselektivní beta-blokátory podávány s nejvyšší opatrností. Přípravek může být podáván pouze u lehkých forem bronchospastického onemocnění nebo bronchiálního astmatu s tím, že počáteční
+dávkování je nízké. Před zahájením léčby se doporučuje provedení funkčních testů dýchacího ústrojí. Jestliže během léčby dojde k projevům bronchospazmů, mohou se použít beta-mimetická bronchodilatancia.
+Srdeční insuficience a srdeční selhání
+U srdeční insuficience kompenzované léčbou má být v nezbytných případech acebutolol podáván ve
+velmi nízkých, postupně zvyšovaných dávkách a při zvlášť pečlivém lékařském dohledu.
+Přípravek může být podán se zvýšenou opatrností pacientům s kompenzovaným srdečním selháním
+(viz bod 4.3).
+Bradykardie
+Beta-blokátory mohou vyvolat bradykardii. Jestliže klidová tepová frekvence poklesne pod 50 - 55
+tepů za minutu, je třeba dávkování snížit.
+
+Síňokomorový blok I. stupně
+U těchto pacientů je třeba velké opatrnosti při podávání beta-blokátorů s ohledem na jejich negativně
+dromotropní účinek.
+
+Poruchy periferního prokrvení
+U pacientů s poruchami periferního prokrvení, jako je Raynaudův syndrom, arteriitida nebo ischemická choroba dolních končetin, mohou beta-blokátory způsobit zhoršení onemocnění.
+Pacientům, kteří mají lehčí formou poruchy periferního prokrvení, je možné opatrně podávat acebutolol, který je kardioselektivní beta-blokátor s parciální ISA (Intrinsic sympatomimetic activity) aktivitou (pro podávání při závažné poruše periferního prokrvení, viz bod 4.3).
+Feochromocytom
+Při podávání beta-blokátorů k léčbě hypertenze způsobené feochromocytomem je nezbytná přísná
+kontrola arteriálního tlaku. Nutná je předchozí blokáda alfa-receptorů.
+
+Renální insuficience
+Poruchy ledvin nejsou kontraindikací pro podání acebutololu, který je vylučován jak renální, tak i mimorenální cestou. Pacientům se závažným renálním selháním je třeba podávat vysoké dávky s opatrností, neboť může docházet ke kumulaci.
+Dávkování u pacientů s poškozením ledvin by nemělo přesáhnout jednu dávku denně. Doporučeno je snížení dávky o 50 % při glomerulární filtraci mezi 25 – 50 ml/min a o 75 % při glomerulární filtraci nižší než 25 ml/min (viz bod 4.2).
+
+Starší pacienti
+U starších pacientů je nezbytně nutné absolutně respektovat kontraindikace, zahájit léčbu nízkými dávkami a zajistit přísný dohled.
+
+Diabetes mellitus
+
+
+3/11
+
+Na začátku léčby je třeba upozornit pacienty na nutnost zvýšeného self-monitoringu glykemie. Počáteční příznaky hypoglykemie, zejména tachykardie a palpitace, mohou být při léčbě beta- blokátory maskovány.
+Psoriáza
+Pacientům s psoriázou by měly být beta-blokátory podávány jen po pečlivém uvážení. Pokud dojde
+během užívání přípravku ke zhoršení stavu, měl by být acebutolol podáván pouze v případě, že neexistuje jiná vhodná náhrada.
+Alergické reakce
+Beta-blokátory mohou zvýšit citlivost na alergeny a mohou zvýšit i závažnost anafylaktických reakcí.
+U pacientů náchylných k anafylaktické reakci jakéhokoliv původu, podmíněné zejména podáním jodovaných kontrastních látek, floctafeninem a v průběhu desenzibilizační léčby, mohou beta-
+blokátory způsobit zhoršení této reakce a její rezistenci na obvyklé dávky adrenalinu.
+
+Celková anestézie
+Léčba beta-blokátory snižuje riziko arytmie, ischémie myokardu a hypertenze, riziko hypotenze však může být zvýšeno. Je nezbytné, aby anesteziolog byl informován o tom, že pacient užívá beta-
+blokátory. V případě nezbytného přerušení léčby přípravkem před operací je doba 24 hodin
+považována za dostatečnou.
+Pokud se v léčbě pokračuje, je potřeba podávat některá anestetika se zvýšenou opatrností. Léčba nesmí být přerušena u pacientů s koronární insuficiencí vzhledem k riziku spojenému s náhlým přerušením léčby; je žádoucí pokračovat v léčbě až do výkonu pro rizika spojená s náhlým vysazením beta-
+blokátorů.
+V urgentních případech a při nemožnosti přerušení léčby musí být pacient chráněn před vagovou
+dominancí dostatečnou premedikací intravenózním atropinem, opakovaně dle potřeby. Při anestézii musí být používáno, pokud možno, co nejméně látek působících kardiodepresivně a musí být
+kompenzovány krevní ztráty.
+Musí být pamatováno na riziko anafylaktické reakce.
+
+Thyreotoxikóza
+Beta-blokátory mohou zakrývat příznaky thyreotoxikózy.
+
+Myasthenia gravis
+U pacientů s myastenia gravis může dojít ke zhoršení příznaků onemocnění.
+Deprese
+Opatrnosti je třeba u pacientů s depresí.
+
+Sportovci
+Léčivá látka přípravku může vyvolat pozitivní dopingovou reakci.
+
+Pomocné látky se známým účinkem
+Tento přípravek obsahuje laktosu. Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, vrozeným deficitem laktasy nebo malabsorpcí glukosy a galaktosy by tento přípravek neměli užívat.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Floctafenin
+V případě šoku nebo hypotenze způsobené floctafeninem je kardiovaskulární kompenzační reakce
+beta-blokátorů snížená, a proto je souběžné podání kontraindikováno (viz bod 4.3).
+
+
+4/11
+
+Sultoprid
+Při současném podání sultopridu a acebutololu může dojít k poruchám automacie (excesivní bradykardie), protože dojde k adici bradykardizujících účinků. Tato kombinace je kontraindikována (viz bod 4.3).
+
+Blokátory kalciového kanálu
+Acebutolol nesmí být podáván s verapamilem. Je nutné nejdříve přerušit podávání verapamilu a další
+terapie může být zahájena po několika dnech.
+Velké opatrnosti je třeba při současném podávání jiných blokátorů kalciového kanálu, zejména při
+podávání diltiazemu (zvýšení negativně inotropních účinků).
+Současné podávání s blokátory kalciového kanálu (např. s bepridilem, diltiazemem a verapamilem) může způsobit poruchy automacie (těžké bradykardie, srdeční zástava), poruchy síňokomorového vedení a možnost srdečního selhání.
+Podávání acebutololu s jinými blokátory kalciového kanálu (s dihydropyridiny, jako např.
+s amlodipinem, felodipinem, lacidipinem, nifedipinem, nicardipinem, nimodipinem a nitrendipinem) může způsobit hypotenzi, srdeční slabost u pacientů trpících skrytou nebo nekontrolovanou srdeční insuficiencí (zvýšení negativně inotropních účinků).
+Tyto lékové kombinace mohou být podávány pouze za přísného kardiologického dohledu a monitorování EKG, zejména u osob starších nebo na počátku léčby.
+
+Antiarytmika
+Antiarytmika třídy I.a (jako disopyramid) a amiodaron mohou při současném podání s beta-blokátory prodloužit dobu vedení vzruchu v síních a vyvolat negativní inotropní účinky.
+Při současném podání acebutololu s amiodaronem nebo dalšími antiarytmiky (s propafenonem a s antiarytmiky I.a: s chinidinem, hydrochinidinem nebo disopyramidem) může dojít k poruchám kontraktility, automacie (excesivní bradykardie) a vedení vzruchu (potlačení kompenzačních
+mechanismů), proto není současné podání doporučeno. Pokud jsou přesto současně podávány, je nutný přísný klinický dohled a monitorování EKG.
+
+Morfin
+Opatrnosti je třeba při současném podávání acebutololu a morfinu.
+
+Anestetika
+Anesteziolog má být informován o léčbě pacienta acebutololem před aplikací celkové anestezie (viz bod 4.4). Pokud není léčba přerušena, je třeba věnovat zvýšenou pozornost při užití anestetických prostředků, které mohou vyvolat myokardiální depresi, jako je například éter, cyklopropan a trichlóretylén. Těkavá halogenovaná anestetika mohou způsobit snížení kardiovaskulárních
+kompenzačních reakcí, proto se nedoporučuje léčbu beta-blokátory přerušovat.
+
+Fingolimod
+Souběžné podávání fingolimodu s beta-blokátory může zvýšit bradykardizující účinek, a proto není tato kombinace doporučena. Pokud je tato kombinace nezbytná, je doporučeno náležité monitorování na začátku léčby, tzn. alespoň monitorování přes noc.
+
+Inzulin a perorální antidiabetika
+U diabetiků s labilním či inzulin-dependentním diabetem může být zapotřebí snížit dávku
+hypoglygemik (inzulinu nebo perorálních antidiabetik). Je také známo, že beta-blokátory snižují
+účinek glibenklamidu. Beta-adrenergní blokáda může překrýt známky hypoglykémie (tachykardie, viz
+bod 4.4).
+Zejména na začátku léčby je třeba upozornit pacienty na nutnost častější sebekontroly glykémie.
+
+Meflochin
+Meflochin zvyšuje riziko bradykardie.
+
+5/11
+
+Ovlivnění výsledků vyšetření moči
+Vyšetření 17-ketosteroidů a derivátů methoxykatecholaminů v moči může u pacientů léčených přípravkem Acecor vykazovat falešně vysoké hodnoty.
+Interakce na plazmatických bílkovinách
+Vzhledem k tomu, že acebutolol a diacetolol vykazují nízkou afinitu k plazmatickým proteinům, není pravděpodobné, že by vytěsňovaly jiná léčiva z jejich vazebných míst.
+Klonidin
+V případě současného podávání beta-blokátorů a klonidinu by měl být klonidin podáván ještě po
+několik dalších dnů po ukončení léčby beta-blokátory.
+
+Bronchodilatancia
+Acebutolol může působit proti účinku sympatomimetických a xanthinových bronchodilatancií.
+
+Digoxin
+Současné podávání digoxinu a betablokátorů může příležitostně vyvolat závažnou bradykardii.
+Nesteroidní antiflogistika
+Nesteroidní protizánětlivé přípravky mohou zeslabovat antihypertenzní účinek betablokátorů (prostřednictvím inhibice tvorby vazodilatačních prostaglandinů a retence sodíku).
+
+Kortikoidy, tetrakosaktid
+Kortikoidy a tetrakosaktid způsobují retenci sodíku a snižují tak antihypertenzní účinek beta- blokátorů.
+Antidepresiva, barbituráty, neuroleptika a další antihypertenziva
+Současné podávání tricyklických antidepresiv, barbiturátů a fenothiazinových neuroleptik, stejně jako další antihypertenziva, může zvýšit antihypertenzní účinek beta-blokátorů i zvyšovat riziko
+ortostatické hypotenze.
+
+Inhibitory monoaminooxidázy
+Při současném podávání inhibitorů monoaminooxidázy a vysokých dávek beta-blokátorů, i v případě, že jsou kardioselektivní, je zde teoretické riziko vzniku hypertenze.
+Baklofen
+Baclofen může potencovat antihypertenzní účinek. Je nutné sledování arteriálního tlaku a přizpůsobení dávek antihypertenziv, jsou-li nezbytná.
+Lidokain
+Některé beta-blokátory (propranolol, metoprolol, nadolol) zvyšují plazmatické hladiny lidokainu, čímž se zvyšuje i možnost výskytu jeho nežádoucích neurologických a kardiálních účinků. Proto je nutná úprava dávek lidokainu, klinický dohled s monitorováním EKG a eventuálně sledování plazmatické koncentrace během léčby beta-blokátory i po jejím ukončení.
+
+Jódové rentgen-kontrastní látky
+Způsobí-li kontrastní jodované látky šok nebo hypotenzi, beta-blokátory snižují kardiovaskulární kompenzační reakce. Z toho důvodu by před RTG kontrastním vyšetřením měla být léčba beta- blokátory přerušena, je-li to možné. Pokud ne, musí radiolog disponovat možnostmi resuscitační léčby.
+
+4.6  Fertilita, těhotenství a kojení
+
+6/11
+
+Těhotenství
+Acebutolol má být podáván v prvním trimestru pouze v nezbytných případech pod dohledem lékaře a
+za použití nejnižší možné dávky.
+Podávání beta-blokátorů v pozdějších stadiích těhotenství může vyvolat u plodu/novorozence
+bradykardii, hypoglykémii a srdeční či plicní komplikace.
+Beta-blokátory mohou redukovat placentární perfuzi, což může mít za následek intrauterinní smrt
+plodu, nezralost a předčasný porod.
+U novorozenců matek léčených beta-blokátory mohou jejich účinky přetrvávat několik dnů po narození, proto se doporučuje sledovat stav novorozence (srdeční frekvence, glykemie) během 3 - 5 dnů na specializovaném pracovišti.
+
+Protože neexistují kontrolované klinické studie podávání acebutololu těhotným ženám, doporučuje se podávat přípravek Acecor v těhotenství jen ze zvlášť závažných důvodů.
+Studie provedené na zvířatech neukázaly žádné riziko teratogenity. Kojení
+Acebutolol a jeho aktivní metabolity jsou vylučovány do mateřského mléka a jejich účinky byly
+pozorovány u novorozenců kojených matkami léčenými acebutololem. Acebutolol nesmí být používán
+v době kojení.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit nebo obsluhovat stroje nebyly provedeny. Stejně jako po podání všech ostatních beta-blokátorů, i po podání acetobutololu se mohou objevit závratě nebo
+únava, což by mělo být vzato v úvahu při řízení či obsluze strojů.
+
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky spojené s podáváním acetobutololu pacientům s hypertenzí, anginou pectoris nebo arytmií v kontrolovaných klinických studiích (1 002 pacientů léčených acetobutololem) jsou členěny dle systému orgánových tříd a dle klesající četnosti výskytu.
+Četnost výskytu „antinukleárních protilátek“ a „lupus like syndromu“ byla určena dle výskytu u 1 440 pacientů s hypertenzí, anginou pectoris nebo arytmií léčených acebutololem zařazených do otevřené nebo dvojitě zaslepené studie, které byly provedeny v USA.
+
+Hodnocení frekvence výskytu je následující: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1 000); velmi vzácné (< 1/10 000).
+V případech, kdy frekvence nežádoucích účinků nebyla hlášena, byla použita kategorie “není známo”
+(nežádoucí účinky označené *).
+
+Nežádoucí účinky z postmarketingového sledování jsou rovněž uvedeny. Tyto nežádoucí účinky jsou odvozeny ze spontánních zpráv, a proto je jejich četnost označena jako “není známo” (z dostupných údajů nelze určit).
+
+Nejčastější a nejzávažnější nežádoucí účinky acebutololu jsou spojeny s beta-adrenergní blokací.
+Nejčastěji hlášené klinické nežádoucí účinky jsou únava a gastrointestinální poruchy.
+Mezi nejzávaznější nežádoucí účinky patří srdeční selhání, atrioventrikulární blok a bronchospasmus. Náhlé vysazení léku může způsobit exacerbaci anginy pectoris, což platí pro všechny beta-blokátory, a u pacientů s ischemickou chorobou srdeční je nutno aplikovat příslušná opatření (viz bod 4.4).
+
+
+
+7/11
+
+Poruchy imunitního systému
+Velmi časté Méně časté
+Antinukleární protilátky
+Lupus like syndrom
+
+
+
+
+
+
+Poruchy metabolismu
+a výživy
+Psychiatrické poruchy
+Vzácné
+
+
+Méně časté Časté
+Není známo
+Ačkoliv se u některých pacientů zvýšily titry antinukleárního faktoru, výskyt přidružených klinických syndromů je vzácný a pokud jsou přítomny, je nutné
+okamžité přerušení léčby.
+Hypoglykemie
+
+Deprese, noční můry
+Psychózy, halucinace, zmatenost, ztráta libida*, poruchy
+spánku
+
+
+Poruchy nervového systému
+Velmi časté Časté
+Není známo
+Únava
+Závratě, bolest hlavy
+Parestezie*, poruchy centrálního nervového sytému
+
+
+Poruchy oka
+Časté
+Není známo
+Poruchy vidění
+Pocit suchosti v oku*
+
+
+Srdeční poruchy
+Není známo
+Srdeční selhání*, atrioventrikulární blok prvního stupně, zhoršení již existujícího atrioventrikulárního bloku, bradykardie*
+
+
+Cévní poruchy
+Méně časté
+Posturální hypotenze
+
+
+
+Není známo
+Intermitentní klaudikace, Raynaudův syndrom, periferní cyanóza a chladné končetiny, hypotenze*
+
+
+Respirační, hrudní a mediastinální poruchy
+Časté
+Není známo
+Dyspnoe
+Pneumonie, plicní infiltrát, bronchospasmus
+
+
+Gastrointestinální
+poruchy
+Velmi časté Časté
+Není známo
+Gastrointestinální poruchy Nauzea, průjem
+Zvracení*
+
+
+Poruchy jater a žlučových cest Poruchy kůže a podkožní tkáně
+Není známo Časté
+Zvýšení hladin jaterních enzymů, poškození jater (především hepatocelulární)
+Vyrážka
+
+
+
+
+Celkové poruchy a reakce v místě aplikace
+Méně časté Časté
+
+Není známo
+Kožní projevy včetně psoriziformních kožních změn nebo exacerbace psoriázy (viz bod 4.4)
+Astenie
+
+
+Syndrom z vysazení (viz bod 4.4)
+
+
+8/11
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+V případě vážné bradykardie nebo hypotenze se doporučuje podat ihned intravenózně 1 mg sulfátu atropinu. Pokud toto opatření není dostatečné, měla by následovat pomalá intravenózní injekce
+isoprenalinu (5 µg/min) za stálého monitorování pacienta až do odezvy. V závažných případech otravy s cirkulačním kolapsem nereagujícím na atropin a katecholaminy, může intravenózní injekce 10 - 20 mg glukagonu vést ke dramatickému zlepšení. Pokud se bradykardie stane závažnou, může být
+zapotřebí aplikovat kardiostimulátor.
+V závislosti na stavu pacienta je možné zvážit i přiměřené použití vasopresorů, diazepamu, fenytoinu,
+lidokainu, digoxinu a bronchodilatátorů.
+Acebutolol může být odstraněn z krve hemodialýzou.
+Další symptomy a známky předávkování zahrnují kardiogenní šok, AV blok, poruchy vedení,
+pulmonární otok, snížení úrovně vědomí, bronchospamus, hypoglykémie a vzácně hyperkalémie. U dětí se podává atropin v dávce 0,015 mg/kg i.v., opakovaně 1 mg glukagonu a je-li to nezbytné, podá se pomalu injekčně isoprenalin nebo orciprenalin.
+V případě srdeční dekompenzace u novorozence matky užívající beta-blokátory se podává glukagon
+v dávce 0,3 mg/kg a novorozenec se hospitalizuje na JIP.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Beta-blokátory selektivní, ATC kód: C07A B04
+
+Hydrochlorid acebutololu, léčivá látka přípravku Acecor, vykazuje antagonistický účinek na beta- adrenergní receptory s vyšší selektivitou k beta-1-adrenergním subtypům (srdeční) než k beta-2- adrenergním subtypům (bronchiální, cévní).
+Kromě toho je acebutolol charakterizován mírným sympatomimetickým (ISA), antiarytmickým a
+membrány stabilizujícím účinkem.
+5.2  Farmakokinetické vlastnosti
+
+
+Po perorálním podání je acebutolol rychle a téměř kompletně absorbován; pro efekt prvního průchodu játry je biologická dostupnost 40 %. Maximální plazmatická koncentrace je dosažena přibližně po 2 až 4 hodinách. U dětí je maximální plazmatická koncentrace mírně vyšší než u dospělých.
+Většina acebutololu je metabolizována v játrech na aktivní N-acetylovaný metabolit diacetolol. Maximální  plazmatická  koncentrace  tohoto  metabolitu  je  dosahována  za  4 hodiny  a plazmatická koncentrace diacetololu představuje dvojnásobek koncentrace acebutololu.
+Vazba na plazmatické proteiny je slabá: 9-11 % pro acebutolol a 6-9 % pro diacetolol. Poločas
+
+
+9/11
+
+eliminace z plazmy je pro acebutolol přibližně 3-4 hodiny a 8-13 hodin pro diacetolol.
+Acebutolol a diacetolol jsou z cirkulace vylučovány převážně ledvinami. Distribuční a eliminační parametry zůstávají i pro rizikovou populaci přijatelné.
+Rizikové skupiny populace
+
+Renální insuficience
+Vylučovací schopnost ledvin je snížena, biologický poločas acebutololu, a ještě více diacetololu, se prodlužuje.
+Existuje velmi významná korelace mezi clearance kreatininu a renální clearance diacetololu.
+U renální insuficience je riziko kumulace, a to zvláště při podávání dvou dávek denně. Doporučuje se snížení dávek a pečlivé klinické sledování možného bradykardizujícího působení.
+
+Starší pacienti
+Fyziologické snížení renálních funkcí může vést k prodloužení biologického poločasu acebutololu a diacetololu.
+Těhotenství
+Acebutolol prochází placentou. Poměr vzájemné koncentrace acetobutololu, resp. aktivního metabolitu diacetololu v pupečníkové krvi a v krvi matky je přibližně 1:6 pro dávky 200 a 400 mg.
+Maximální koncentrace acebutololu a diacetololu jsou dosaženy za 4 až 5 hodin, respektive za 5 až 7 hodin po podání poslední dávky přípravku.
+Kojení
+Acebutolol je vylučován do lidského mateřského mléka; maximální koncentrace acebutololu v mléce se dosáhne mezi 4,5 až 6 hodinami po užití dávky. Poměr vzájemné koncentrace v mateřském mléce a v krvi matky se pohybuje od 4 do 5,5 pro dávky 200 až 400 mg. Pro diacetolol se tento poměr pohybuje mezi hodnotami 3 až 4, s maximální pozorovanou koncentrací 7 hodin po užití 200 mg a 12 hodin po dávce
+
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Studie akutní a chronické toxicity demonstrují dobrou snášenlivost přípravku jak po perorálním, tak i
+po intravenózním podání.
+Výsledky studií teratogenity, mutagenity, kancerogenity a fertility neobsahují signifikantní údaje o možných negativních účincích acebutololu. Co se týče diacetololu, hlavního metabolitu acebutololu, jeho farmako-toxikologické charakteristiky jsou stejné.
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Laktosa Kukuřičný škrob Povidon Magnesium-stearát Mastek Hypromelosa
+Koloidní bezvodý oxid křemičitý
+Propylenglykol Oxid titaničitý
+
+10/11
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+3 roky.
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C.
+
+6.5  Druh obalu a obsah balení
+
+Al/PVDC/PVC bílý neprůhledný blistr, krabička Velikost balení: 30 potahovaných tablet
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními
+požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+SPA - Societa Prodotti Antibiotici S.p.A., Via Biella 8, 20143 Milano, Itálie
+
+
+8.  REGISTRAČNÍ ČÍSLO
+58/051/96-B/C
+
+
+9.  DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 31.1.1996
+Datum posledního prodloužení: 29.2.2012
+
+10.  DATUM REVIZE TEXTU
+
+26. 2. 2020
+
+
+
+
+
+
+
+
+
+
+
+11/11

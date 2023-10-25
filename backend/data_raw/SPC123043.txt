@@ -1,0 +1,215 @@
+sp.zn. sukls62825/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Ardeanutrisol G 5% infuzní roztok Ardeanutrisol G 10% infuzní roztok Ardeanutrisol G 20% infuzní roztok Ardeanutrisol G 40% infuzní roztok
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+1000 ml infuzního roztoku obsahuje:
+
+Ardeanutrisol
+Glucosum:
+Osmotický tlak: Energetická hodnota pH
+G 5%
+50,0 g
+670 kPa
+858 kJ/l
+3,0 - 6,5
+G 10%
+100,0 g
+1342 kPa
+1716 kJ/l
+3,0 - 6,5
+G 20%
+200,0 g
+2684 kPa
+3432 kJ/l
+3,0 - 6,5
+G 40%
+400,0 g
+5369 kPa
+6864 kJ/l
+3,0 - 6,5
+Pomocná látka se známým účinkem: disiřičitan sodný E 222 (G 20%, G 40%)
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+Infuzní roztok
+Popis přípravku: čirý, bezbarvý nebo nejvýše slabě nažloutlý roztok
+
+4. KLINICKÉ ÚDAJE
+
+4.1. Terapeutické indikace
+Krytí energetických potřeb a potřeb tekutin v rámci parenterální infuzní terapie při pooperačních stavech, šoku, intoxikacích, jaterních onemocněních, při protrahovaném zvracení a průjmech, u intoxikací jako součást forsírované diurézy.
+Profylaxe hypoglykémie při předávkování perorálními antidiabetiky nebo inzulínem.
+Roztok glukózy 50 g/l je izoosmotický s krevní plazmou, používá se k doplnění objemu tělesných tekutin zejména při ztrátě tzv. „čisté vody“, v kombinaci s elektrolyty k doplnění tekutin při izotonické dehydrataci, jako nosný roztok pro další léčiva.
+Roztok glukózy 100 g/l se používá jako nosný roztok pro další léčiva, jako zdroj energie a vody při parenterální výživě.
+Roztoky glukózy 200 g/l a 400 g/l se používají jako energetický zdroj při parenterální výživě, jako součást směsí all-in-one, k léčení hypoglykemických stavů, při osmoterapii edému plic, při nitrolební hypertenzi a eklampsii.
+
+4.2. Dávkování a způsob podání
+
+Nitrožilní kapénková infuze v uzavřeném systému.
+Dávkování je nutno přizpůsobit věku, hmotnosti, a klinickému stavu pacienta, je individuální.
+Celková dávka a rychlost podání se řídí indikací a klinickým stavem pacienta. V terapii hypoglykemických stavů je nutné podávanou dávku řídit podle průběžných hodnot glykémie a klinického stavu pacienta.
+Doporučené dávkování:
+Roztok 50 g/l:  max. 40 ml/kg t.hm./den, obvykle 2 - 4 ml/kg/hod., celkem 500 - 2000 ml denně
+Roztok 100 g/l:  max. 30 ml/kg t.hm./den, obvykle 2 ml/kg/hod., celkem 500 - 1000 ml denně
+Roztok 200 g/l:  max. 30 ml/kg t.hm./den, obvykle 1 - 1,5 ml/kg/hod., celkem 500 - 1000 ml denně
+Roztok 400 g/l:  max. 20 ml/kg t.hm./den, obvykle 0,5 ml/kg/hod., celkem 500 ml denně
+Roztoky 50 g/l a 100 g/l se podávají zpravidla do periferní žíly, koncentrovanější roztoky centrálním žilním katétrem.
+V nebezpečí hypoglykémie lze i roztok 400 g/l podat pomalu do periferní žíly, max. rychlost podání je
+3 ml/min.
+
+4.3. Kontraindikace
+Hyperglykémie, diabetes mellitus bez patřičné kompenzace, akutní fáze při ischémii mozku, hypoxémie,  hypotonická  dehydratace,  hyperhydratační  stavy,  těžší  poruchy  funkce  ledvin, hypokalémie
+Roztok 50 g/l: hyperhydratace, hypoosmolalita, edémy
+Hypertonické roztoky: hyperosmolalita, intrakraniální a intraspinální krvácení, dehydratace.
+
+4.4. Zvláštní upozornění a opatření pro použití
+•  Je třeba dodržovat odpovídající rychlost infuze, průběžně sledovat klinický stav pacientů a zejména u diabetiků hladinu glykémie.
+•  Před podáním a během podávání přípravku je nutné monitorovat bilanci tekutin, hladiny sérové glukózy, sérového sodíku a dalších elektrolytů, zejména u pacientů se zvýšeným neosmotickým uvolňováním vazopresinu (syndrom nepřiměřené sekrece antidiuretického hormonu, SIADH) a u pacientů souběžně léčených agonisty vazopresinu, a to z důvodu rizika hyponatrémie.
+Intravenózní infuze glukózy jsou obvykle izotonické roztoky. V těle se nicméně roztoky obsahující glukózu stávají díky rychlé metabolizaci glukózy extrémně hypotonické (viz bod 4.2, 4.5 a 4.8).
+U fyziologicky hypotonických roztoků je zvláště významné monitorovat sérový sodík. Hyponatrémie:
+Akutní hyponatrémie může vést k akutní hyponatremické encefalopatii (edému mozku).
+Zvýšené riziko závažného a život ohrožujícího edému mozku způsobeného akutní hyponatrémií je u dětí, žen ve fertilním věku a u pacientů se sníženou cerebrální compliance (např. meningitida, intrakraniální krvácení a kontuze mozku).
+•  Zvláštní opatrnosti je třeba při podávání koncentrovaných roztoků glukózy u pacientů s pokročilou cerebrální aterosklerózou.
+•  Aplikace roztoků glukózy o koncentraci vyšší než 10 % při léčení hypoglykemických stavů u kojenců a dětí do 3 let není doporučováno pro nezanedbatelný osmotický účinek a pro nebezpečí vyvolání výrazné hyperglykémie a stimulace sekrece inzulínu.
+
+•  Roztok nesmí být aplikován současně před nebo po krevní transfuzi tímtéž infuzním setem
+vzhledem k nebezpečí pseudoaglutinace.
+•  Přípravky Ardeanutrisol G 20% a Ardeanutrisol G 40% obsahují antioxidační pomocnou látku disiřičitan sodný, který může vzácně způsobovat těžké alergické reakce a bronchospasmus. Celková prevalence přecitlivělosti na disiřičitany je v běžné populaci nízká a není známa (dle některých pramenů se odhaduje do 0,5 %). Výskyt přecitlivělosti na disiřičitany je častější u astmatiků (zejména u kortikoid-dependentního astmatu) a ještě častější u dětských astmatiků. Před aplikací infuze glukózy je nutné provést pečlivou anamnézu a v případě astmatických pacientů nebo pacientů se známou potravinovou intolerancí na disiřičitany je vhodnější zvolit infuzi glukózy bez disiřičitanů.
+
+4.5. Interakce s jinými léčivými přípravky a jiné formy interakce
+Vysoké dávky katecholaminů a steroidů mohou ovlivnit stav inzulinorezistence.
+V důsledku užívání perorálních antidiabetik nebo inzulínu dochází ke snížení hladiny glukózy v krvi.
+Léčiva vedoucí ke zvýšenému účinku vazopresinu
+Níže uvedená léčiva zvyšují účinek vazopresinu, což vede ke snížené renální exkreci vody bez elektrolytů a zvýšenému riziku hyponatrémie po nevhodně vyvážené léčbě i.v. roztoky (viz body 4.2, 4.4 a 4.8).
+• Léčiva stimulující uvolnění vazopresinu, např.:
+chlorpropamid, klofibrát, karbamazepin, vinkristin, selektivní inhibitory zpětného vychytávání
+serotoninu, methyltenamfetamin, ifosfamid, antipsychotika, narkotika.
+• Léčiva zesilující působení vazopresinu, např.:
+chlorpropamid, NSAID, cyklofosfamid.
+• Analogy vazopresinu, např.:
+desmopresin, oxytocin, vazopresin, terlipresin.
+Mezi další léčivé přípravky zvyšující riziko hyponatrémie také patří obecně diuretika a antiepileptika, např. oxkarbazepin.
+
+4.6. Fertilita, těhotenství a kojení
+Přípravek Ardeanutrisol G 5% (G 10%, G 20%, G 40%) je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména při podání v kombinaci s oxytocinem, z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8).
+
+4.7. Účinky na schopnost řídit a obsluhovat stroje
+Vzhledem k povaze přípravku, způsobu aplikace a jeho indikacím nemá žádný vliv na schopnost řídit
+a obsluhovat stroje.
+
+4.8. Nežádoucí účinky
+Obecná charakteristika – po aplikaci vyšších koncentrací (G 20%, G 40%) lze očekávat hyperglykémii, případně lokální dráždění cévní stěny v místě aplikace.
+Dlouhodobé podávání nebo rychlá infuze velkých objemů izoosmotických roztoků (G 5%) může mít za následek edémy a intoxikaci vodou. Tomu lze předejít snížením rychlosti infuze.
+Dlouhodobé nebo rychlé podávání hypertonických roztoků může mít za následek hyperglykémii, glykosurii a dehydrataci. K prevenci glykosurie a hyperglykémie je při podávání vyšších koncentrací možný současný přívod inzulínu.
+Při hypoxémii hrozí konverze podané glukózy na laktát a riziko hyperlaktátémie.
+Frekvence nežádoucích účinků, uvedených níže, je definována podle následující konvence:
+
+Velmi časté (≥ 1/10); časté (≥ 1/100, < 1/10); méně časté (≥ 1/1000, < 1/100); vzácné (≥ 1/10 000,
+< 1/1000); velmi vzácné (< 1/10 000); není známo (z dostupných údajů nelze určit).
+
+
+Třída orgánových systémů podle
+databáze MedDRA
+Poruchy metabolismu a výživy Srdeční poruchy
+Cévní poruchy
+Poruchy ledvin a močových cest Poruchy nervového systému
+Typ nežádoucího účinku
+
+Hyperglykémie Hyperlaktátémie Hyponatrémie*
+Edémy
+Lokální podráždění cévní stěny
+Dehydratace Glykosurie Intoxikace vodou
+Hyponatremická encefalopatie*
+Frekvence výskytu
+
+
+Není známo
+
+Není známo Není známo
+
+Není známo
+
+Není známo
+*Hyponatrémie může způsobit nevratné poškození mozku a smrt z důvodu rozvoje akutní hyponatremické encefalopatie (viz body 4.2 a 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9. Předávkování
+Při respektování kontraindikací a správného dávkování nepřichází předávkování v úvahu.
+Při náhodném předávkování může dojít k hyperglykémii, glykosurii, hyperosmolaritě, hyponatrémii, hyperglykemickému a hyperosmolárnímu komatu. Primární léčba spočívá v okamžitém přerušení infuze. V případě převodnění je možno zahájit diuretickou léčbu.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1. Farmakodynamické vlastnosti
+•  Farmakoterapeutická skupina: infundabilium, ATC kód: B05BA03 (Intravenózní roztoky -
+roztoky pro parenterální výživu - cukry).
+•  Mechanismus účinku: Glukóza je důležitým zdrojem energie téměř pro všechny buňky organismu. Za spolupůsobení inzulínu vstupuje do buněk, kde je metabolizována na pyruvát a za anaerobních podmínek na laktát. Obě tyto látky jsou v Krebsově cyklu oxidovány na oxid uhličitý a vodu. Glukóza volně prochází glomerulární filtrací a v tubulech je plně absorbována, není-li překročen tzv. ledvinný práh při glykémii cca nad 10 mmol/l.
+•  Farmakodynamické vlastnosti: Infuzní roztoky glukózy jsou určené ke krytí energetických potřeb a doplnění vody v organismu. 1 g glukózy odpovídá energii 17,16 kJ (4 kcal).
+
+5.2. Farmakokinetické vlastnosti
+
+a)  Všeobecná  informace:  Glukóza  je  monosacharid,  který  je  základním  zdrojem  energie nitrobuněčného metabolizmu. Glukóza se v organismu rovnoměrně distribuuje, její vstup do většiny buněk je závislý na působení inzulínu. Aktivní metabolity nevznikají. Glukóza je rozpustná ve vodě, nerozpustná v tucích.
+b) Charakteristika léčivé látky:
+•  Po intravenózním podání se glukóza v organismu rovnoměrně distribuuje, dostává se nejprve do intravaskulárního a posléze do intracelulárního prostoru. Její vstup do většiny buněk je závislý na působení inzulínu – do mozku a některých dalších orgánů proniká glukóza na inzulinu nezávisle.
+•  Biotransformace: všechny buňky těla mají schopnost oxidovat glukózu buď aerobně na pyruvát, nebo anaerobně na laktát. Pyruvát a laktát mohou být dále oxidovány v Krebsově cyklu na oxid uhličitý a vodu za uvolnění energie. Finální produkty metabolizace glukózy se tedy vylučují plícemi a ledvinami.
+•  Vylučování: glukóza volně prochází glomerulární filtrací a v tubulech je kompletně reabsorbována. U zdravých lidí se prakticky žádná glukóza nevylučuje pomocí ledvin. Maximální rychlost utilizace glukózy je 500 až 750 mg/kg tělesné hmotnosti/hod. Při překročení ledvinového prahu (přibližně při glykémii nad 10 mmol/l) dochází ke glykosurii a glukóza působí jako osmotické diuretikum.
+c) Charakteristika po podání u pacientů:
+•  Vztahy mezi koncentrací účinné látky a případnými nežádoucími účinky: vyšší koncentrace
+(G 20%, G 40%) mohou způsobovat hyperglykémii, glykosurii a dehydrataci.
+•  Další faktory (věk, pohlaví, kouření) nemají na účinnost infuzních roztoků glukózy vliv.
+
+5.3. Předklinické údaje vztahující se k bezpečnosti
+Vzhledem k složení, způsobu užití přípravku a vlastnostem glukózy jako účinné látky tělu vlastní, nemá otázka bezpečnosti pro organismus opodstatnění. Roztok je řadu let bezproblémově používán.
+
+6. FARMACEUTICKÉ ÚDAJE
+
+6.1. Seznam pomocných látek
+Voda pro injekci
+Monohydrát kyseliny citronové (G 20%, G 40%)
+Disiřičitan sodný (G 20%, G 40%)
+
+6.2. Inkompatibility
+Nepodává se infuzní soupravou současně s plasmatickými a krevními deriváty.
+Při použití infuzních roztoků glukózy jako vehikula je nutno vzít v úvahu pH roztoku glukózy. Vzhledem ke kyselé reakci je nutno zvažovat konkrétní kompatibility s různými účinnými látkami.
+
+6.3. Doba použitelnosti
+V neporušeném obalu 2 roky.
+Doba použitelnosti po prvním otevření:
+Chemická a fyzikální stabilita po otevření před použitím byla prokázána na dobu 48 hodin při 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě po otevření. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a
+
+normálně by doba neměla být delší než 24 hodin při 2-8 °C, pokud otevření neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4. Zvláštní opatření pro uchovávání
+Chraňte před mrazem.
+
+6.5. Druh obalu a obsah balení
+Skleněná infuzní láhev s pryžovou zátkou a kovovým uzávěrem, kartonová krabice. Velikost balení: 1x 80 ml, 1x 100 ml, 1x 250 ml, 1x 500 ml
+20x 80 ml, 20x 100 ml, 10x 250 ml, 10x 500 ml
+Na trhu nemusí být všechny velikosti balení.
+
+6.6. Zvláštní opatření pro likvidaci přípravku (a pro zacházení s ním)
+K intravenóznímu podání.
+Návod k použití – pokud jsou přípravky (G 5% nebo G 10%) použity jako nosný roztok pro další léčiva, je nutné po smíchání a před použitím této směsi zkontrolovat, zda se netvoří sraženina nebo zákal, v tomto případě nelze podat takové léčivo v roztoku glukózy!
+Roztok použijte pouze, pokud je čirý, bez viditelných částic a je-li obal neporušen. Přípravek je určen pouze k jednorázovému použití.
+Výdej přípravku je vázán na lékařský předpis.
+Veškerý nespotřebovaný léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+ARDEAPHARMA, a.s., Třeboňská 229, 373 63 Ševětín, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+Ardeanutrisol G 5%: 76/232/95-A/C Ardeanutrisol G 10%: 76/232/95-B/C Ardeanutrisol G 20%: 76/232/95-C/C Ardeanutrisol G 40%: 76/232/95-D/C
+9. DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 19.4.1995
+Datum posledního prodloužení registrace: 29.7.2015
+
+10. DATUM REVIZE TEXTU
+13. 4. 2018

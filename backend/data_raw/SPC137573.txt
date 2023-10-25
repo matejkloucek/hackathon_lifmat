@@ -1,0 +1,440 @@
+sp.zn. sukls442884/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.  NÁZEV PŘÍPRAVKU
+Stabilised Ceretec 500 mikrogramů kit pro radiofarmakum
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna lahvička obsahuje exametazimum 500 mikrogramů.
+
+Přípravek Stabilised Ceretec se rekonstituuje injekcí technecistanu-(⁹⁹ᵐTc) sodného Ph.Eur. za vzniku stabilizované injekce exametazimu značeného techneciem-(⁹⁹ᵐTc). Radionuklid není součástí tohoto kitu.
+
+Pomocná látka se známým účinkem:
+Přípravek před rekonstitucí obsahuje sodík: 1,77 mg/lahvička. Nutno vzít v úvahu u pacientů s dietou s nízkým obsahem sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Kit pro radiofarmakum
+Bílý prášek
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Tento přípravek je určen pouze k diagnostickým účelům.
+Po označení injekčním roztokem technecistanu-(⁹⁹ᵐTc) sodného je roztok exametazimu značeného
+techneciem-(⁹⁹ᵐTc) indikován k léčbě dospělých pro:
+Neurologie
+Injekce exametazimu značeného techneciem-(⁹⁹ᵐTc) je indikována pro použití při jednofotonové emisní výpočetní tomografii (SPECT). Při perfuzní SPECT mozku je diagnostickým cílem odhalení abnormalit místního mozkového průtoku, včetně:
+•  vyhodnocení pacientů s cerebrovaskulárním onemocněním (obzvláště akutní mozkovou mrtvicí, chronickou ischémií a přechodným ischemickým záchvatem),
+• předoperační lateralizace a lokalizace epileptogenního ložiska,
+•  vyhodnocení pacientů s podezřením na demenci (obzvláště na Alzheimerovu chorobu a
+frontotemporální demenci),
+• adjuvantní techniky při diagnostice mozkové smrti.
+4.2  Dávkování a způsob podání
+
+
+1/10
+
+Dávkování
+
+Dospělí
+•  přímá intravenózní injekce:     555–1 110 MBq Obvykle je použit pouze jeden diagnostický postup.
+Pediatrická populace
+Podání exametazimu značeného techneciem-(⁹⁹ᵐTc) s roztokem chloridu kobaltnatého dětem se
+nedoporučuje. Bezpečnost a účinnost roztoku kobaltu nebyla u pediatrické populace stanovena.
+
+Způsob podání
+Tento léčivý přípravek musí být před podáním pacientovi rekonstituován. Návod k rekonstituci léčivého přípravku před jeho podáním je uveden v bodě 12.
+
+Návod pro přípravu pacienta viz bod 4.4.
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Možnost hypersenzitivity nebo anafylaktických reakcí
+Vždy musí být brána v úvahu možnost hypersenzitivity, včetně anafylaktických/anafylaktoidních reakcí. Pokud jsou pozorovány příznaky hypersenzitivity nebo anafylaktických reakcí, podání léčivého přípravku musí být okamžitě přerušeno a pokud je to nezbytné, zahájena intravenózní léčba. Pro okamžitá opatření při pohotovostním zásahu musí být okamžitě dostupné potřebné léčivé přípravky a zařízení k podpoře životních funkcí, jako například endotracheální trubice a zařízení pro umělou ventilaci.
+
+Odůvodnění individuálního přínosu/rizika
+Vystavení  každého  pacienta  ionizujícímu  záření  musí  být  opodstatněné  na  základě  jeho pravděpodobného přínosu. Aplikovaná aktivita musí být vždy taková, aby výsledná dávka záření byla tak nízká, jak je jen možné, aby byla zároveň získána požadovaná diagnostická informace.
+
+Porucha funkce ledvin a jater
+U těchto pacientů je možná zvýšená expozice záření, proto je vyžadováno pečlivé zvážení poměru přínosů a rizik.
+Pediatrická populace
+Informace o použití u pediatrické populace viz bod 4.2.
+
+Příprava pacienta
+Před zahájením vyšetření by měl být pacient dobře hydratován a s ohledem na snížení radiace vyzván k co nejčastějšímu vyprazdňování během prvních hodin po vyšetření.
+
+Zvláštní upozornění
+V závislosti na době podání injekce pacientovi může být obsah podaného sodíku v některých případech vyšší než 1 mmol. Nutno vzít v úvahu u pacientů s dietou s nízkým obsahem sodíku.
+
+
+2/10
+
+Opatření vztahující se k ohrožení životního prostředí viz bod 6.6.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Nebyly provedeny žádné studie interakcí a ani žádné interakce s jinými léčivými přípravky doposud
+nebyly hlášeny.
+
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku
+Pokud je uvažováno o podání radiofarmak ženě, která může být těhotná, vždy je nutné se o tom přesvědčit. Každá žena, které vynechala perioda, má být považována za těhotnou, dokud se neprokáže opak. V případě nejistoty (když ženě vynechala perioda, pokud je perioda velmi nepravidelná atd.) by měly být pacientce nabídnuty, pokud existují, alternativní metody bez ionizujícího záření.
+
+Těhotenství
+Nejsou dostupné žádné informace o použití tohoto léčivého přípravku v průběhu těhotenství u člověka. Studie vlivu na rozmnožování u zvířat nebyly provedeny. Radionuklidová vyšetření těhotných žen představují také radiační dávku pro plod. V těhotenství by proto měla být prováděna pouze nezbytná vyšetření v případě, že prospěch vysoce převyšuje riziko způsobené matce a plodu.
+
+Kojení
+Před podáním radiofarmaka kojící matce je třeba uvážit možnost pozdržení podání radionuklidu do chvíle, než matka kojení přeruší, a také nejvhodnější volbu radiofarmaka s ohledem na vylučování aktivity do mléka. Pokud je podání nutné, kojení je třeba na dobu 12 hodin přerušit a odsáté mléko zlikvidovat.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie účinků na schopnost řídit a obsluhovat stroje nebyly provedeny.
+
+4.8  Nežádoucí účinky
+
+Frekvence nežádoucích účinků jsou definovány takto:
+Velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné
+(≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10 000) a není známo (z dostupných údajů nelze určit).
+
+Poruchy imunitního systému
+-    není známo      -    hypersenzitivita, včetně vyrážky, erytému, kopřivky, angioedému, pruritu
+
+Poruchy nervového systému
+-    není známo      -    bolest hlavy, závrať, parestezie
+Cévní poruchy
+-    není známo      -    návaly
+Gastrointestinální poruchy
+-    není známo      -    nauzea, zvracení
+
+
+3/10
+
+Celkové poruchy a reakce v místě aplikace
+-    není známo      -    astenické stavy (např. malátnost, únava)
+Vystavení ionizujícímu záření je spojeno se vznikem rakoviny a s možným vývojem dědičných vad. Vzhledem k tomu, že při podání maximální doporučené aktivity 1 110 MBq dospělému člověku o hmotnosti 70 kg je efektivní dávka přibližně 10,3 mSv, je výskyt těchto nežádoucích účinků očekáván jen s nízkou pravděpodobností.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+V případě předávkování radiací má být podporováno časté močení a vylučování stolicí, aby byla minimalizována dávka záření absorbovaná pacientem.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina:   diagnostická radiofarmaka, centrální nervový systém
+ATC kód:              V09AA01
+
+Farmakodynamické účinky
+Exametazim značený techneciem-(⁹⁹ᵐTc) nevykazuje v chemických koncentracích a aktivitách používaných pro diagnostické postupy žádné farmakodynamické účinky.
+
+5.2  Farmakokinetické vlastnosti
+
+Komplex  technecia-(⁹⁹ᵐTc) s aktivní látkou je bez náboje, lipofilní  a s dostatečně nízkou molekulovou hmotností, aby procházel hematoencefalickou bariérou. Po intravenózní injekci je rychle vylučován z krve. Během 1 minuty po injekci je dosaženo maxima vychytání podané dávky v mozku (3,5–7,0 %). Do 2 minut po injekci je z mozku vymyto maximálně 15 % aktivity, po dobu následujících 24 hodin je další ztráta aktivity, pokud se nepočítá fyzikální přeměna technecia- (⁹⁹ᵐTc), malá. Aktivita přítomná mimo mozkovou tkáň se v organismu rozšíří, obzvláště do svalů a měkkých tkání. Ihned po injekci se asi 20 % podané dávky odstraňuje játry a vylučuje hepatobiliárním systémem. Během 48 hodin po injekci je asi 40 % podané dávky vyloučeno ledvinami a močí, čímž je sníženo i pozadí aktivity ve svalech a měkké tkáni.
+
+In vitro stabilizace injekce exametazimu značeného techneciem-(⁹⁹ᵐTc) chloridem kobaltnatým neovlivňuje in vivo farmakokinetiku komplexu.
+
+
+
+
+4/10
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Neexistují žádné předklinické údaje o bezpečnosti přípravku, které by byly pro uživatele důležité pro posouzení bezpečnostního profilu přípravku používaného v daných indikacích.
+
+Neexistují indikace vykazující hrubou toxicitu stabilizovaného přípravku exametazimu značeného
+techneciem-(⁹⁹ᵐTc), které by byly zřetelně rozdílné od nestabilizovaného přípravku.
+
+Mutagenní studie in vitro svědčí o tom, že stabilizovaná forma exametazimu značeného techneciem-(⁹⁹ᵐTc) je podle Amesova testu (bakteriální mutace), zkoušky aberace lidských lymfocytárních chromozomů a testu thymidin kinázy lymfomu slabě mutagenní. Stabilizovaná forma neprokázala mutagenitu ve dvou in vivo zkouškách (mikrojádra kostní dřeně potkanů a mikrojádra jater potkanů).
+
+V množstvích, se kterými se setkáváme u přípravků stabilizovaného exametazimu značného techneciem-(⁹⁹ᵐTc), nevykazují kobaltnaté ionty nebo komplexované formy kobaltu známé nežádoucí účinky a rychle se dostávají z oběhu vylučováním močí.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Konečný přípravek obsahuje:
+
+Složka s přípravkem Ceretec:
+Chlorid sodný
+Dihydrát chloridu cínatého
+
+Roztok stabilizujícího kobaltu:
+Hexahydrát chloridu kobaltnatého
+Voda na injekci
+
+6.2  Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou
+uvedeny v bodě 12.
+
+6.3  Doba použitelnosti
+Kit před rekonstitucí:    52 týdnů od data výroby.
+Stabilizovaný rekonstituovaný přípravek:  musí být injekčně podán mezi 30 minutami a 5
+hodinami po přípravě. Uchovávejte při teplotě do 25
+°C. Chraňte před mrazem.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Chraňte před mrazem.
+
+Podmínky uchovávání rekonstituovaného léčivého přípravku viz bod 6.3.
+
+
+5/10
+
+Uchovávejte v souladu s národními předpisy pro radioaktivní látky.
+
+6.5  Druh obalu a obsah balení
+
+Lyofilizovaná složka přípravku je dodávána v injekční skleněné lahvičce uzavřené zátkou z chlorobutylkaučuku  a  hliníkovou  objímkou  s  modrým  odtrhávacím  uzávěrem.  Roztok stabilizujícího  kobaltu  je  dodáván  v  injekční  skleněné  lahvičce  uzavřené  zátkou  z chlorobutylkaučuku a kovovou objímkou.
+
+Velikost balení:
+Kit obsahuje 2 nebo 5 lahviček.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Obecné varování
+Radiofarmaka mohou být přijímána, používána a podávána pouze oprávněnými osobami v určených zdravotnických zařízeních. Způsob jejich příjmu, skladování, používání, manipulace a likvidace je dán předpisy a/nebo příslušnými povoleními místních kompetentních úřadů.
+
+Radiofarmaka by měla být připravována způsobem, který vyhovuje požadavkům na radiační bezpečnost a farmaceutickou kvalitu. Musí být dodržována příslušná aseptická opatření.
+
+Obsah lahvičky je určen pouze pro přípravu injekce exametazimu značeného techneciem-(⁹⁹ᵐTc) a
+nesmí být přímo podáván pacientovi bez provedení přípravy radiofarmaka.
+
+Pokyny pro rekonstituci tohoto přípravku před podáním viz bod 12.
+
+Pokud je v kterémkoli okamžiku přípravy narušena celistvost lahvičky, nesmí být přípravek použit. Postupy by měly být provedeny tak, aby bylo minimalizováno riziko kontaminace přípravku a ozáření personálu. Je povinné adekvátní stínění.
+
+Obsah kitu před rekonstitucí není radioaktivní. Po přidání roztoku technecistanu-(⁹⁹ᵐTc) sodného
+Ph.Eur. však musí být pro konečný přípravek zachováváno přiměřené stínění.
+
+Podávání radiofarmak představuje pro ostatní osoby riziko z vnějšího ozáření nebo kontaminace z úniku moči, zvracení atd. Proto musí být, v souladu s národními předpisy, přijata bezpečnostní opatření radiační ochrany.
+
+Veškerý materiál použitý k přípravě a podávání radiofarmak, včetně nepoužitého radiofarmaka a jeho obalu, má být dekontaminován, nebo s ním má být zacházeno jako s radioaktivním odpadem podle předpisů místních kompetentních úřadů.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+GE Healthcare AS Nycoveien 1
+NO-0485 Oslo
+
+
+6/10
+
+Norsko
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+88/160/01-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace:               18.04.2001
+Datum posledního prodloužení registrace:     23.08.2006
+10.  DATUM REVIZE TEXTU
+13. 2. 2019
+11.  DOZIMETRIE
+Technecium-(⁹⁹ᵐTc) se získává z (⁹⁹Mo/⁹⁹ᵐTc) generátoru a přeměňuje se emisí záření gama s energií 140 keV a s poločasem 6,02 hodin na technecium-(⁹⁹Tc), které je, vzhledem ke svému dlouhému poločasu přeměny 2,13 x 10⁵ roků, považováno za téměř stabilní.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7/10
+
+Níže uvedená tabulka ukazuje údaje o dozimetrii převzaté z Publikace ICRP 128 (International Commission of Radiological Protection, Radiation Dose to Patients from Radiopharmaceuticals: A Compendium of Current Information Related to Frequently Used Substances, Ann ICRP 2015).
+
+
+
+
+
+
+
+nadledviny
+povrchy kostí
+mozek prs
+
+
+Orgán
+Absorbovaná dávka na jednotku podané aktivity (mGy/MBq)
+Dospělý
+0,005 3
+0,005 1
+0,006 8
+0,002
+
+žlučník – stěna
+GI trakt
+žaludek – stěna
+tenké střevo – stěna tlusté střevo – stěna
+(tlusté střevo – stěna horní část (tlusté střevo – stěna dolní část
+srdce – stěna
+ledviny
+játra plíce svaly jícen
+vaječníky
+pankreas
+červená dřeň kůže
+slezina varlata brzlík
+štítná žláza
+močový měchýř – stěna děloha
+ostatní orgány
+
+Efektivní dávka (mSv/MBq)
+0,018
+0,006 4
+0,012
+0,017
+0,018)
+0,015)
+0,003 7
+0,034
+0,008 6
+0,011
+0,002 8
+0,002 6
+0,006 6
+0,005 1
+0,003 4
+0,001 6
+0,004 3
+0,002 4
+0,002 6
+0,026
+0,023
+0,006 6
+0,003 2
+
+0,009 3
+
+Po podání (maximální doporučené) aktivity 1 110 MBq dospělému člověku o hmotnosti 70 kg je efektivní dávka (E) přibližně 10,3 mSv. Pro podávanou aktivitu 740 MBq je charakteristická radiační dávka do cílového orgánu (mozku) 5 mGy a charakteristická radiační dávka(y) do kritického orgánu (ledvin) je 25,2 mGy.
+
+Biodistribuce, a tudíž ani radiační dozimetrie, exametazimu značeného techneciem-(⁹⁹ᵐTc) nejsou
+významně ovlivněny in vitro stabilizací kobaltem.
+
+
+12.  NÁVOD PRO PŘÍPRAVU RADIOFARMAK
+
+
+
+8/10
+
+Natažení roztoku musí být provedeno za aseptických podmínek. Injekční lahvičky nesmí být otevřeny před dezinfekcí zátky, roztok by měl být natažen přes zátku pomocí injekční stříkačky na jednu dávku s vhodným ochranným krytím a pomocí sterilní jehly nebo s využitím schváleného automatického aplikačního systému. Pokud je celistvost této lahvičky narušena, přípravek se nesmí použít.
+Způsob přípravy exametazimu značeného techneciem-(99mTc) pro intravenózní podání
+Za všech okolností se použije aseptická technika.
+
+(1)   Lahvička se vloží do stínícího kontejneru a zátka se otře desinfekčním tampónem, který je příslušenstvím kitu.
+(2)   Injekční stříkačkou o objemu 10 ml se do stíněné lahvičky přidá 5 ml sterilního eluátu z generátoru technecia-(⁹⁹ᵐTc) (viz poznámka 1–6). Před vytažením stříkačky z lahvičky se odebere 5 ml plynu z prostoru nad roztokem, aby se vyrovnal tlak v lahvičce. Stíněnou lahvičkou se zatřese po dobu 10 sekund, aby se lyofilizát zcela rozpustil.
+
+(3)   Použitím 3ml injekční stříkačky se v rozmezí 1–5 minut po rozpuštění lyofilizátu přidají do stíněné lahvičky 2 ml stabilizátoru kobaltu. Před vytažením stříkačky z lahvičky se odebere z prostoru nad roztokem 2 ml plynu, aby se vyrovnal tlak v lahvičce. Stíněnou lahvičkou se zatřese po dobu 10 sekund, aby se obsah dobře promíchal.
+
+(4)  Změří se celková aktivita a vypočítá objem potřebný k injekci.
+
+(5)  Vyplní se štítek a nalepí se na lahvičku.
+
+(6)   Stabilizovaný produkt se použije v období mezi 30 minut a 5 hodin po označení. Pokud je to potřebné, dávky pro jednotlivé pacienty se uchovávají asepticky ve stříkačkách uzavřených krytem (viz poznámka 7).
+
+(7)  Nepoužitý materiál se odstraní.
+
+Poznámka:
+
+(1)   Pro dosažení nejvyšší radiochemické čistoty se pro značení použije eluát čerstvě získaný z generátoru technecia-(⁹⁹ᵐTc).
+
+(2)   Eluát z generátoru technecia-(⁹⁹ᵐTc) se musí použít v období do 4 hodin po eluci generátoru, který byl eluován v průběhu předchozích 24 hodin.
+
+(3)  Do lahvičky se může přidat 0,37–1,11 GBq technecia-(⁹⁹ᵐTc).
+
+(4)   Před označením může být eluát z generátoru upraven na požadovanou radioaktivní
+koncentraci (0,37–1,11 GBq v 5 ml) zředěním injekčním roztokem chloridu sodného.
+
+(5)   Použitý eluát technecia-(⁹⁹ᵐTc) by měl vyhovovat požadavkům uvedeným v článku Sodium
+Pertechnate (⁹⁹ᵐTc) Injection v USP a BP/Ph.Eur.
+
+(6)   Kobaltem stabilizovaný exametazim značený techneciem-(⁹⁹ᵐTc) je světlý, slámově zbarvený roztok, jehož pH je v rozmezí 5,0–8,0.
+
+
+
+
+9/10
+
+(7)   Po natažení přípravku stabilizovaného exametazimu značeného techneciem-(⁹⁹ᵐTc) do stříkačky pro pacienta se musí natáhnout nad roztok ve stříkačce malý objem plynu z lahvičky, aby se před podáním pacientovi zamezilo kontaktu roztoku s injekční jehlou na stříkačce.
+
+(8)   Doba použitelnosti rozpuštěné složky exametazimu bez přidání stabilizační přísady kobaltu
+je pouze 30 minut.
+
+Měření radiochemické čistoty
+V připravené injekci exametazimu značeného techneciem-(⁹⁹ᵐTc) mohou být přítomny tři možné radiochemické nečistoty. Jsou to sekundární komplex exametazimu s techneciem-(⁹⁹ᵐTc), volný technecistan-(⁹⁹ᵐTc) a redukované, hydrolyzované technecium-(⁹⁹ᵐTc). Pro určení radiochemické čistoty injekce je potřebná kombinace dvou chromatografických systémů.
+
+Hodnocené vzorky se nanášejí jehlou na dva proužky GMCP-SA (2 cm (± 2 mm) x 20 cm) přibližně 2,5 cm od dolního okraje. Proužky se okamžitě vloží do chromatografických van se vzestupným uspořádáním, jedna obsahuje mobilní fázi butan-2-on, druhá 0,9% vodný roztok chloridu sodného. Obě čerstvě připravené mobilní fáze dosahují výšky 1 cm. Chromatogramy se vyvinou do vzdálenosti 15 cm, potom se vyjmou, označí se čelo rozpouštědla, proužky se usuší a vhodným zařízením se určí rozdělení radioaktivity.
+
+Vyhodnocení chromatogramů
+
+Systém 1 (GMCP-SA: butan-2-on (methylethylketon))
+Sekundární komplex exametazimu s techneciem-(⁹⁹ᵐTc) a redukované, hydrolyzované technecium- (⁹⁹ᵐTc) zůstávají na startu.
+Lipofilní komplex exametazimu s techneciem-(⁹⁹ᵐTc) a technecistan-(⁹⁹ᵐTc) migrují do Rf 0,8–1,0. Systém 2 (GMCP-SA: 0,9% chlorid sodný)
+Lipofilní komplex exametazimu s techneciem-(⁹⁹ᵐTc), sekundární komplex exametazimu s
+techneciem-(⁹⁹ᵐTc) a redukované, hydrolyzované technecium-(⁹⁹ᵐTc) zůstávají na startu.
+Technecistan-(⁹⁹ᵐTc) migruje do Rf 0,8–1,0.
+
+(1)   Vypočítá se % aktivity sekundárního komplexu exametazimu s techneciem-(⁹⁹ᵐTc) a redukovaného, hydrolyzovaného technecia-(⁹⁹ᵐTc) ze systému 1 (A %). Vypočítá se % aktivity technecistanu-(⁹⁹ᵐTc) ze systému 2 (B %).
+
+(2)   Radiochemická  čistota  (vyjádřená  procentem  lipofilního  komplexu  exametazimu
+s techneciem-(⁹⁹ᵐTc)) je dána:
+
+100 - (A % + B %) ,
+
+kde:  A % představují množství sekundárního komplexu exametazimu s techneciem-(⁹⁹ᵐTc) a
+redukovaného, hydrolyzovaného technecia-(⁹⁹ᵐTc), B % představují množství technecistanu-(⁹⁹ᵐTc).
+
+Radiochemická čistota by měla být nejméně 80 %, jestliže se vzorky odeberou a analyzují během 5 hodin od přípravy stabilizovaného produktu.
+
+
+
+
+
+10/10

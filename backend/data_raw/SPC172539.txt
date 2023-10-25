@@ -1,0 +1,628 @@
+sp.zn. sukls113211/2021
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1  NÁZEV PŘÍPRAVKU
+Sevoflurane Baxter 100% tekutina k inhalaci parou
+
+
+2  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Sevofluranum 100%
+Pomocná látka se známým účinkem:
+Žádná
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3  LÉKOVÁ FORMA
+
+Tekutina k inhalaci parou
+Popis přípravku: čirá, bezbarvá tekutina
+
+4 KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+Úvod a vedení celkové anestezie u dospělých a dětí.
+4.2 Dávkování a způsob podání
+Premedikace má být zvolena s ohledem na potřeby konkrétního pacienta a uvážení
+anesteziologa.
+
+Anestezie v chirurgii
+Koncentrace sevofluranu podaného inhalátorem má být v průběhu anestezie známa. To se může zajistit použitím inhalátoru kalibrovaného specificky pro sevofluran.
+
+Úvod do anestezie
+Dávkování musí být individualizováno a titrováno pro dosažení požadovaného účinku
+s ohledem na věk a klinický stav pacienta.
+Lze podat krátkodobě působící barbituráty nebo jiné intravenózní indukční látky
+s následným inhalačním podáním sevofluranu.
+
+
+
+1/16
+
+Úvod do anestezie sevofluranem lze dosáhnout inhalací 0,5 – 1,0 % sevofluranu ve
+směsi s kyslíkem (O2) s nebo bez oxidu dusného (N2O), se zvyšováním koncentrace v krocích po 0,5 – 1,0 % sevofluranu až do maximální hodnoty 8 % u dospělých a dětí do dosažení požadované hloubky anestezie.
+U dospělých obvykle vyvolá inhalovaná koncentrace až 5 % sevofluranu chirurgickou
+anestezii za méně než dvě minuty. U dětí obvykle vyvolá inhalovaná koncentrace až
+7 % sevofluranu chirurgickou anestezii za méně než dvě minuty.
+
+Vedení anestezie
+Chirurgickou úroveň anestezie je možné udržovat inhalací 0,5 – 3 % sevofluranu v O2
+s nebo bez současného použití N2O.
+
+Tabulka 1
+MAC (minimální alveolární koncentrace) hodnoty pro dospělé a dětské pacienty vzhledem k věku
+
+Věk pacienta
+(roky)
+Sevofluranum
+v kyslíku
+Sevofluranum
+v 65% N20/35%02
+0 - 1 měsíců *         3,3%
+1 - < 6měsíců         3,0%
+6 měsíců - < 3 roky        2,8%             2,0%@
+3 - 12            2,5%
+25             2,6%              1,4%
+40             2,1%              1,1%
+60             1,7%              0,9%
+80             1,4%              0,7%
+* Novorozenci narození v termínu. MAC nebyly určovány pro nedonošené děti.
+@ Pro pediatrické pacienty ve věku1 - <3 let byla použita směs 60% N20/40% 02.
+
+Probuzení z narkózy
+Čas potřebný k probuzení z narkózy sevofluranem je obecně krátký. Proto mohou pacienti dříve potřebovat léky tlumící pooperační bolest.
+
+Starší lidé
+MAC se snižuje se zvyšujícím se věkem. Průměrná koncentrace sevofluranu k
+dosažení MAC je v 80 letech přibližně 50 % než koncentrace požadovaná ve věku 20
+let.
+
+Pediatrická populace
+Viz Tabulka 1 MAC hodnoty dětských pacientů dle věku, pokud bude současně podávána směs kyslíku s nebo bez oxidu dusného.
+
+4.3 Kontraindikace
+Přípravek Sevoflurane Baxter se nesmí používat u pacientů se známou
+hypersenzitivitou na sevofluran nebo na jiná halogenovaná anestetika nebo u pacientů s podezřením na hypersenzitivitu na sevofluran nebo na jiná halogenovaná anestetika (např. v anamnéze porucha funkce jater, horečka nebo leukocytóza neznámé příčiny po anestezii jedním z těchto preparátů).
+2/16
+
+Přípravek Sevoflurane Baxter se nesmí používat u pacientů s potvrzenou diagnózou hepatitidy po podání halogenového inhalačního anestetika v anamnéze nebo neobjasněnou středně těžkou až závažnou poruchou funkce jater se žloutenkou, horečkou a eosinofilií po anestezii pomocí sevofluranu v anamnéze.
+
+Přípravek Sevoflurane Baxter se nesmí používat u pacientů se známou maligní hypertermií nebo se suspektním genetickým předpokladem k maligní hypertermii.
+Přípravek Sevoflurane Baxter je kontraindikován u pacientů, u kterých je obecně
+anestezie kontraindikována.
+
+4.4 Zvláštní upozornění a opatření pro použití
+Přípravek Sevoflurane Baxter mohou podávat pouze osoby vyškolené v podávání celkové anestezie. K dispozici musí okamžitě být prostředky pro udržování
+průchodných dýchacích cest, umělou plicní ventilaci, obohacování kyslíkem a kardiopulmonální resuscitaci. Všichni pacienti uspávaní sevofluranem musí být
+nepřetržitě monitorováni: sledován musí být mj. jejich elektrokardiogram (EKG), krevní tlak (TK), saturace kyslíkem a exspirační koncentrace oxidu uhličitého (CO2).
+Koncentrace sevofluranu aplikovaného z respirátoru musí být přesně známa. Vzhledem k tomu, že těkavá anestetika se liší svými fyzikálními vlastnostmi, musí být použit pouze respirátor kalibrovaný na sevofluran. Aplikace celkové anestezie musí být individualizována na základě odpovědi pacienta. Při prohlubování anestezie dochází k zvýšení hypotenze a depresi respirace.
+Během vedení anestezie má zvýšení koncentrace sevofluranu za následek snížení krevního tlaku v závislosti na dávce. Nadměrný pokles krevního tlaku může souviset s hloubkou anestezie a v takových případech je možné toto korigovat snížením nadechované koncentrace sevofluranu. Vzhledem k nerozpustnosti sevofluranu v krvi, mohou hemodynamické změny proběhnout rychleji než s některými jinými těkavými anestetiky. Probuzení z celkové anestezie je nutné pečlivě zhodnotit před propuštěním pacientů z post- anestetické jednotky intenzivní péče.
+
+Znovunabytí vědomí po anestézie sevofluranem je většinou rychlé, proto u pacientů bude potřeba včasné zmírnění pooperační bolesti.
+
+Ačkoli k probuzení z narkózy po podání sevofluranu dochází obvykle během několika minut, vliv na intelektuální funkce dva nebo tři dny po anestézii nebyl zkoumán.
+Podobně jako u jiných anestetik, drobné změny nálady mohou přetrvávat několik dnů po podání (viz bod 4.7).
+
+Pacienti s koronárním onemocněním
+Podobně jako u všech anestetik je u pacientů s koronárním onemocněním důležité zachování hemodynamické stability, aby se zabránilo ischemii myokardu.
+
+Pacientky podstupující porodnické operace
+
+3/16
+
+U pacientek v porodní anestézii je třeba opatrnosti vzhledem k relaxačnímu účinku sevofluranu na dělohu a zvýšení děložního krvácení (viz bod 4.6).
+
+Pacienti podstupující neurochirurgické zákroky
+U pacientů s rizikem zvýšení intrakraniálního tlaku (ICP) má být sevofluran podáván s opatrností ve spojení se zákroky snižující ICP, jako je hyperventilace.
+Záchvaty
+V souvislosti s podáním sevofluranu byly hlášeny vzácné případy záchvatů.
+
+Použití sevofluranu bylo spojeno se záchvaty vyskytující se u dětí a dospívajících stejně jako u starších dospělých s i bez predisponujících faktorů. Před podáním sevofluranu pacientům s rizikem záchvatů je třeba klinické posouzení. U dětí má být omezena hloubka anestézie. EEG může umožnit optimalizaci dávky sevofluranu, čímž pomůže zabránit rozvoji aktivity záchvatů u pacientů s predispozicí k záchvatům (viz bod 4.4 – pediatrická populace).
+
+Pacienti s poškozením ledvin
+Ačkoliv jsou údaje z kontrolovaných klinických studií při nízkých průtocích omezené, výsledky získané ze studií na pacientech a zvířatech naznačují možnost poruchy funkce ledvin vlivem „sloučeniny A“ (pentafluorisopropenyl fluoromethyl éter - PIFE). Studie provedené na zvířatech a u lidí ukazují, že sevofluran podávaný v dávce vyšší než 2 MAC hodin při průtoku čerstvé směsi plynu < 2 l/min může být spojen s proteinurií a glykosurií. Viz také bod 5.1.
+Expozice hladinou „sloučeniny A“, u které by se mohla očekávat klinická nefrotoxicita, nebyla stanovena. U lidí je třeba vzít v úvahu všechny faktory vedoucí k expozici
+„sloučeninou A“, zvláště dobu expozice, průtok čerstvé směsi plynu a koncentraci
+sevofluranu.
+Vdechnutá koncentrace sevofluranu a průtok čerstvé směsi plynu se má upravit, aby se minimalizovala expozice „sloučeninou A“. Expozice sevofluranem nemá překročit 2 MAC hodiny s průtokem čerstvé směsi plynu 1 až < 2 l/min. Průtok čerstvé směsi plynu
+< 1 l/min se nedoporučuje.
+
+Pacienti s poruchou funkce ledvin
+Pacientům s poruchou funkce ledvin má být sevofluran podáván s opatrností (GFR ≤ 60
+ml/min); pooperačně má být monitorována funkce ledvin.
+
+Pacienti s poruchou funkce jater
+Z postmarketingových zkušeností byly hlášeny velmi vzácné případy mírné, středně těžké či závažné pooperační jaterní dysfunkce či hepatitidy (s nebo bez žloutenky). Při použití sevofluranu u pacientů s přidruženými jaterními problémy, nebo u pacientů užívajících léky, způsobující jaterní dysfunkce, je třeba posoudit klinický stav. U pacientů s poškozením jater, žloutenkou, neobjasněnými horečkami nebo eosinofílií po podání jiných inhalačních anestetik se podávání sevofluranu nedoporučuje, je-li možné vést anestezii intravenózními přípravky nebo pomocí lokální anestezie (viz bod 4.8).
+4/16
+
+Pacienti s mitochondriálními poruchami
+Celková anestezie, včetně sevofluranu, se má podávat pacientům s mitochondriálními
+poruchami se zvýšenou opatrností.
+
+Stavy pacienta, které vyžadují pozornost
+Zvláštní pozornost je nutné věnovat volbě dávky u hypovolemických, hypotenzních a oslabených pacientů nebo jinak hemodynamicky ovlivněných, např. kvůli současně podávané medikaci.
+
+U pacientů s opakovanou expozicí halogenovanými uhlovodíky, včetně sevofluranu,
+může dojít v průběhu relativně krátké ke zvýšení rizika poškození jater.
+
+Byly popsány ojedinělé případy prodloužení QT intervalu, které byly velice zřídka
+spojené s torsade de pointes (ve výjimečných případech fatální). U citlivých pacientů je třeba podávat sevofluran se zvýšenou opatrností.
+
+Maligní hypertermie:
+U citlivých jedinců mohou silná inhalační anestetika vyvolat hypermetabolický stav kosterního svalstva, který vede k vysokým nárokům na kyslík a ke klinickému syndromu známému jako maligní hypertermie. Při použití sevofluranu byly hlášeny vzácné případy vzniku maligní hypertermie (viz také bod 4.8). Klinický syndrom je
+charakterizován hyperkapnií a může zahrnovat ztuhnutí svalů, tachykardii, tachypnoi, cyanózu, arytmie a/ nebo nestabilní krevní tlak. Některé z těchto nespecifických projevů se mohou objevit i v průběhu lehké anestezie, akutní hypoxie, hyperkapnie a hypovolémie. U sevofluranu byla hlášena fatální maligní hypertermie. Léčba zahrnuje přerušení podávání vyvolávajících látek (např. sevofluran), podání intravenózního dantrolenu sodného a použití podpůrné léčby. Později se může objevit renální selhání, a proto je nutné monitorovat a udržovat tvorbu moči (je-li to možné). Použití
+inhalačních anestetik bylo vzácně spojováno s výskytem zvýšení hladin draslíku v
+séru, který může způsobit arytmie a smrt u pediatrických pacientů v průběhu pooperační doby.
+
+Pacienti s latentním stejně jako s patrným neuromuskulárním onemocněním, zejména Duchenneovou svalovou dystrofií, se zdají být nejvíce náchylnými. Současné užívání sukcinylcholinu bylo spojováno s většinou, ale ne všemi případy. Tito pacienti mají zvýšenou hladinu sérové keratin kinázy a, v některých případech, mohou mít změny v moči související s myoglobinurií. Přes podobnost projevů s maligní hypertermií, žádný z těchto pacientů nevykazoval znaky nebo symptomy svalové rigidity nebo
+hypermetabolického stavu. Doporučuje se včasná a razantní léčba hyperkalémie a rezistentní arytmie, stejně jako následné hodnocení latentního neuromuskulárního onemocnění.
+Náhrada vyschlých absorbentů CO2
+Exotermická reakce mezi sevofluranem a absorbentem CO2 se zvyšuje vyschnutím
+absorbentu CO2, např. po delší době proudění suchého plynu přes láhev
+s absorbentem CO2. Byly hlášeny vzácné případy tvorby nadměrného tepla, kouře
+5/16
+
+a/nebo spontánního vznícení anesteziologického odpařovače během použití sevofluranu spolu s vyschlou nádobou absorbentu, zvláště těch, které obsahují hydroxid draselný. Neočekávané zpoždění ve zvýšení vdechované koncentrace
+sevofluranu nebo neočekávané snížení koncentrace vdechovaného sevofluranu v porovnání s nastavením odpařovače může být příznakem přehřátí láhve s absorbentem CO2.
+Exotermické reakce, urychlené degradace sevofluranu, a tvorba degradačních produktů se mohou objevit v případě, že CO2 absorbent vyschne, jako po delší době průtoku suchého plynu přes CO2 absorpčních nádob. Degradační produkty sevofluranu (methanol, formaldehyde, CO a komponenty A, B, C a D) byly
+pozorovány v respiračním okruhu u experimentálního anestetizačního přístroje v
+případě užití vysušených CO2 absorbentů a maximální koncentraci sevofluranu (8%) po prodlouženou dobu (≥ 2 hodiny). Koncentrace formaldehydu pozorované v
+anesteziologickém respiračním okruhu (za využití hydroxidu sodného v absorbentu)
+byly konzistentní s hladinami, o kterých je známo, že působí jen mírné respirační podráždění. Klinická závažnost degradačních produktů pozorovaná za těchto
+extrémních podmínek není známa.
+Má-li ošetřující lékař podezření na vyschnutí absorbentu CO2, musí před podáním
+sevofluranu nádobu vyměnit. Barevný indikátor na většině nádob s absorbentem CO2 se při vyschnutí nemusí nezbytně změnit. Z tohoto důvodu není možné brát fakt, že
+nedošlo ke změně barvy, jako bezpečnou známku dostatečné hydratace. Nádobu s absorbentem CO2 vyměňujte pravidelně bez ohledu na barevný indikátor (viz bod 6.6).
+Pediatrická populace
+Použití sevofluranu bylo spojováno s možnými záchvaty. Řada z nich se objevila u dětí a mladých dospělých, počínaje 2 měsíci věku, z nichž většina neměla
+predispozice k rizikovým faktorům. Použití sevofluranu u pacientů s rizikem rozvoje záchvatů je nutné klinicky zvážit (viz bod 4.4- Záchvaty).
+
+Rychlé procitnutí u dětí může krátce vyvolat stav rozrušení a omezené spolupráce (v případě asi 25 % dětí po anestezii).
+
+Ojedinělé případy ventrikulární arytmie byly popsány u pediatrických pacientů
+s Pompeho nemocí.
+
+Dystonické pohyby, které vymizí bez léčby, byly pozorovány u dětí, kterým byl podán sevofluran v úvodu do anestezie. Vztah k sevofluranu je nejasný.
+
+Downův syndrom
+Významně vyšší výskyt a míra bradykardie byla hlášena u dětí s Downovým syndromem během a následně po indukci sevofluranu.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce Sevofluran byl prokázán jako bezpečný a účinný, pokud se podává současně se širokou škálou léků používaných v chirurgické praxi, jako jsou přípravky pro centrální nervový systém, autonomní drogy, myorelaxancia kosterních svalů,
+6/16
+
+antiinfektiva včetně aminoglykosidů, hormony a syntetické náhrady, deriváty krve a kardiovaskulární přípravky včetně epinefrinu.
+
+Oxid dusný
+Stejně jako u jiných těkavých anestetik, MAC sevofluranu je snížen při použití v
+kombinaci s oxidem dusným. MAC ekvivalent je snížen na zhruba 50% u dospělých a na 25% u dětských pacientů (viz bod 4.2- Vedení anestezie)
+Neuromuskulární blokátory
+Stejně jako jiná inhalační anestetika, sevofluran ovlivňuje jak intenzitu, tak trvání neuromuskulární blokády nedepolarizujícími relaxanty svalů. Pokud nahrazuje alfentanil-N2O anestezi, sevofluran potencuje neurosvalový blok indukovaný
+pankuroniem, verokuroniem a atrakuriem. Úprava dávkování pro tyto relaxanty svalů podávané současně se sevofluranem jsou podobná jako u isofluranu. Účinek sevofluranu na sukcinylcholin a doba depolarizace neurosvalové blokády nebyla
+předmětem studia.
+Snížení dávky nervosvalových blokátorů v průběhu navození anestezie může vést k
+oddálení podmínek vhodných pro endotracheální intubaci nebo neadekvátní svalové relaxaci, protože k potenci účinku neurosvalových blokátorů dochází za několik minut po začátku podávání sevofluranu.
+
+Byly studovány interakce nedepolarizujících činidel, vekuronia, pankuronia a
+atrakuronia. Za nepřítomnosti specifických závazných směrnic pro: 1) intratracheální intubaci nesnižujte dávku nedepolarizujících relaxantů svalů: a 2) v průběhu vedení anestezie by se dávka nedepolarizujících relaxantů svalů měla pravděpodobně snížit ve srovnání s dávkou podávanou během anestézie N2O/opioidy. Podávání
+doplňujících dávek relaxancií svalů by se mělo řídit podle odpovědi na nervovou
+stimulaci.
+
+Benzodiazepiny a opioidy
+U benzodiazepinů a opioidů se očekává snížení hodnoty MAC pro sevofluran ve stejném rozsahu jako u jiných inhalačních anestetik. Použití sevofluranu je
+kompatibilní s benzodiazepiny a opioidy, což se běžně využívá v chirurgické praxi.
+
+Kombinace sevofluranu s opoidy jako fentanyl, alfentanil a sufentail může vést k synergistickému poklesu srdečního rytmu, krevního tlaku a dechového rytmu.
+
+Beta blokátory
+Sevofluran může zvyšovat negativní ionotropní, chronotropní a dromotropní účinky betablokátorů blokádou kardiovaskulárních kompenzačních mechanismů.
+
+Epinefriny/Adrenaliny
+Sevofluran má podobné účinky jako isofluran na senzbilizaci myokardu k
+arytmogennímu účinku exogenně podávaného adrenalinu. Prahová dávka adrenalinu vyvolávající vícečetné komorové arytmie byla stanovena na 5 μg/kg.
+
+7/16
+
+Induktory CYP2E1
+Léčivé přípravky a látky zvyšující aktivitu cytochromu P450, izoenzym CYP2E1, jako např. isoniazid a alkohol, mohou zvyšovat metabolismus sevofluranu a vést k výrazně vyšším plazmatickým koncentracím fluoridů.
+Současné použití sevofluranu a isoniazidu může potenciovat hepatotoxický vliv
+isonoazidu.
+Nepřímo-působící sympathomimetika
+Při současném použití sevofluranu s nepřímými sympatomimetiky (amfetaminy, efedrin) existuje riziko akutních hypertenzních epizod.
+
+Verapamil
+Porucha atrioventrikulárního vedení byla pozorována při současném podávání
+verapamilu a sevofluranu.
+
+Třezalka tečkovaná
+U pacientů, kteří užívali dlouhodobě třezalku tečkovanou, byla popsána závažná
+hypotenze a zpožděný nástup anestezie halogenovými inhalačními anestetiky.
+
+Barbituráty
+Aplikace sevofluranu je kompatibilní s barbituráty, propofolem a dalšími běžně používanými intravenózními anestetiky. Nižší koncentrace sevofluranu může být požadována po použití intravenózního anestetika.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Neexistují žádné nebo pouze omezené údaje o použití sevofluranu u těhotných žen. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3); takže se má sevofluran použít u těhotných a u žen nepoužívajících antikoncepci ve fertilním věku jen v případě nezbytné nutnosti.
+
+Porod
+V klinické studii byla prokázána bezpečnost sevofluranu jako anestezie pro matky a
+děti v případě císařského řezu. Zatím nebyla prokázána bezpečnost použití
+sevofluranu při vaginálním porodu.
+
+Je třeba opatrnosti při porodní anestezii vzhledem k relaxačním účinkům sevofluranu na dělohu a zvýšení děložního krvácení.
+
+
+
+Kojení
+Není známo, zda se sevofluran vylučuje do mateřského mléka. Je třeba tudíž zvýšené opatrnosti při aplikaci sevofluranu kojícím matkám.
+
+Fertilita
+
+8/16
+
+Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Nejsou k dispozici
+žádné údaje o účincích na fertilitu u člověka.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+Pacienti mají být upozorněni, že provádění činností vyžadující plnou pozornost, jako je řízení motorového vozidla nebo obsluha strojů, může být po anestezii určitou dobu narušeno (viz kap. 4.4).
+Po dobu, kterou určí anesteziolog, nesmí pacienti po anestezii sevofluranem řídit.
+4.8 Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Stejně jako všechna silná inhalační anestetika, může sevofluran vyvolávat kardiální respirační útlum v závislosti na dávce. Většina nežádoucích účinků má mírnou až
+středně těžkou závažnost a přechodné trvání. V pooperačním období byla hlášena nauzea a zvracení, časté symptomy po chirurgickém zákroku a celkové anestezii, které mohou být způsobeny reakcí na inhalační anestetikum, na jiné přípravky
+podávané během nebo po chirurgickém zákroku nebo vlivem reakce pacienta na chirurgický zákrok.
+
+Nejčastější nežádoucí reakce byly následující:
+U dospělých pacientů: hypotenze, nauzea a zvracení. U starších pacientů: bradykardie, hypotenze a nauzea U dětí: agitovanost, kašel, zvracení a nauzea.
+
+Tabulka celkových nežádoucích účinků
+Všechny reakce, přinejmenším v možné souvislosti k sevofluranu z klinických studií a post-marketingového sledování, jsou uvedeny níže v Tabulce řazené podle MedDRA orgánových systémů, preferovaných termínů a četnosti. Jsou použity následující
+skupiny frekvencí: Velmi časté (≥ 1/10), Časté (≥ 1/100 to <1/10), Méně časté (≥ 1/1 000 to <1/100), Vzácné (≥ 1/10 000 to <1/1 000), Velmi vzácné (< 1/10 000) včetně ojedinělých případů. Post-marketingové nežádoucí účinky jsou hlášeny dobrovolně populací s neznámou mírou expozice. Z tohoto důvodu je nemožné odhadnout
+skutečnou incidenci nežádoucích účinků a frekvence se označuje jako „není známo“. Typ, závažnost a frekvence nežádoucích účinků sevofluranu pacientů v klinické studii byly srovnatelné s nežádoucími účinky pacientů, kteří užívali referenční přípravek.
+Nežádoucí účinky získané z klinických studií a post-marketingového sledování
+
+
+Přehled nejčastějších nežádoucích účinků sevofluranu z klinických studií a post- marketingového sledování
+
+Třída orgánového systému
+Poruchy imunitního systému
+Četnost
+
+Není známo
+Nežádoucí účinky
+
+Anafylaktická reakce ¹ Anafylaktoidní reakce Hypersenzitivita ¹
+
+9/16
+
+Psychiatrické poruchy
+
+Poruchy nervového systému
+
+
+
+
+Srdeční poruchy
+Velmi časté Méně časté Časté
+
+Není známo
+
+
+Velmi časté Časté
+Méně časté
+
+
+
+
+
+
+Není známo
+Agitovanost Zmatenost Somnolence Závratě Bolest hlavy Křeče ² ³ Dystonie
+Zvýšený intrakraniální tlak
+Bradykardie Tachykardie
+Kompletní atrioventrikulární blok Srdeční arytmie (včetně
+ventrikulární arytmie)
+Fibrilace síní
+Extrasystoly (ventrikulární, supra- ventrikulární, ve spojitosti s bigeminy arytmií)
+Srdeční zástava ⁴
+Ventrikulární fibrilace
+Torsades de pointes
+Ventrikulární tachykardie
+EKG – prodloužení QT
+
+
+Cévní poruchy
+
+Respirační, hrudní a mediastinální poruchy
+
+
+
+
+
+
+
+
+
+Gastrointestinální poruchy
+
+
+
+Poruchy metabolismu a
+výživy
+Poruchy svalové a kosterní soustavy
+Velmi časté Časté
+Velmi časté Časté
+
+
+
+Méně časté Není známo
+Velmi časté Časté
+Není známo
+Není známo Není známo
+Hypotenze Hypertenze Kašel
+Poruchy dýchání Respirační deprese Laryngospazmus
+Obstrukce dýchacích cest
+Apnoe Astma Hypoxie
+Bronchospazmus Dyspnoe ¹
+Sípot ¹
+Zkrácený dech Nauzea Zvracení
+Zvýšená sekrece slin
+Pankreatitida
+Hyperkalémie Svalová rigidita
+
+
+10/16
+
+Poruchy jater a žlučových
+cest
+
+
+Poruchy ledvin a
+močových cest
+Poruchy kůže a podkožní tkáně
+Není známo
+
+
+
+Není známo Není známo
+Hepatitida ¹ ²
+Selhání jater ¹ ²
+Nekróza jater ¹ ²
+Žloutenka
+Tubulointersticiální nefritida
+
+Kontaktní dermatitida ¹
+Svědění Vyrážka ¹
+Otok tváře ¹
+Kopřivka
+
+
+Celkové poruchy a reakce
+v místě aplikace
+
+
+
+Vyšetření
+
+
+
+
+Poranění, otravy a
+procedurální komplikace
+Časté
+
+Není známo
+
+
+Časté
+
+
+
+Méně časté Časté
+Třesavka
+Pyrexie
+Hrudní diskomfort ¹
+Maligní hypertermie ¹ ²
+Edém
+Abnormální glykémie Abnormální test funkce jater ⁵
+Abnormální počet bílých krvinek Zvýšená hladina fluoridu v krvi¹ Zvýšený sérový kreatinin Hypotermie
+
+ 1   viz  bod  4.8  –  Popis  vybraných  nežádoucích  účinků.             
+² viz bod 4.4
+³ viz bod 4.8 – Pediatrická populace.
+⁴ V post-marketingových hlášeních byla při použití sevofluranu zástava srdce velmi vzácná.
+⁵ V souvislosti s podávání sevofluranu a referenčních přípravků byly hlášeny případy přechodných změn v testech zaměřených na funkci jater.
+
+Popis vybraných nežádoucích reakcí
+Přechodné zvýšení hladin anorganického fluoridu v séru se může objevit v průběhu a
+po sevofluranové anestezii. Obecně hladiny anorganického fluoridu v séru jsou
+maximální 2 hodiny po sevofluranové anestezii a na předoperační hladinu se vrací do 48 hodin po operaci. V klinické studii nebyl vzestup zvýšené hladiny anorganického fluoridu spojen se sníženou renální funkcí.
+
+Existují vzácné případy pooperační hepatitidy. Navíc byl v post-marketingových
+studiích popsán vzácný případ selhání jater a jaterní nekrózy v souvislosti s použitím těkavých inhalačních přípravků včetně sevofluoranu. Nicméně, aktuální výskyt a vztah k sevofluranu v těchto případech není možno s určitostí potvrdit. (viz bod 4.4)
+Byly hlášeny vzácné případy hypersenzitivity (zahrnující kontaktní dermatitidu, vyrážku, dyspnoi, sípot, hrudníkový diskomfort, otok tváře, otok víček, erytém,
+11/16
+
+kopřivka, svědění, bronchospasmus, anafylaktické a anafylaktoidní reakce) zvláště ve spojitosti s dlouhodobou expozicí inhalačními anestetiky včetně sevofluranu.
+
+U citlivých jedinců mohou silná inhalační anestetika vyvolat hypermetabolický skeleto-muskulární stav, který může vést ke zvýšené spotřebě kyslíku a klinickému syndromu známému jako maligní hypertermie (viz bod 4.4).
+Pediatrická populace
+Použití sevofluranu bylo spojováno s možnými záchvaty. Řada z nich se objevila u dětí a mladých dospělých, počínaje 2. měsícem věku, z nichž většina neměla predispozice k rizikovým faktorům.
+Několik případů neuvádí žádnou souběžnou medikaci a minimálně jeden případ byl potvrzen pomocí elektroencefalografie (EEG). Ačkoli mnoho případů byly ojedinělé záchvaty, které odezněly spontánně nebo po léčbě, byly rovněž hlášeny případy
+vícečetných záchvatů. Záchvaty se objevily během nebo těsně po úvodu do anestezie sevofluranem, během probouzení a během pooperační péče až do doby jednoho dne po anestezii. Použití sevofluranu u pacientů s rizikem rozvoje záchvatů je nutné
+klinicky zvážit (viz bod 4.4).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+Symptomy předávkování zahrnují respirační depresi a oběhovou nedostatečnost.
+
+V případě zjevného předávkování mají být zajištěny následující kroky:
+Podání sevofluranu je nutné přerušit a zavést podpůrná opatření: je nutné udržet průchodné dýchací cesty a umělou nebo řízenou ventilaci čistým kyslíkem spolu s opatřeními udržující stabilní kardiovaskulární funkci.
+
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: anestetika, celková; halogenované uhlovodíky.
+ATC kód: N01AB08
+
+Sevofluran je halogenované metyl-izopropyl éterové inhalační anestetikum s rychlým úvodem a ukončením anestezie. Hodnota MAC (minimální alveolární koncentrace) závisí na věku (viz část 4.2).
+
+12/16
+
+Sevofluran způsobuje ztrátu vědomí, reverzibilní odstranění bolesti a motorické aktivity, potlačení autonomních reflexů, depresi kardiorespiračních funkcí. Tyto účinky
+jsou závislé na dávce.
+
+Sevofluran má nízký koeficient krev/plyn (0,65) vedoucí k rychlému probuzení
+z anestezie.
+Kardiovaskulární účinky: Sevofluran může vyvolávat snížení krevního tlaku závislé na koncentraci. Sevofluran vyvolává senzitizaci myokardu k arytmogenním účinkům exogenně podávaného adrenalinu. Tato senzitizace je podobná jako u isofluranu.
+
+5.2 Farmakokinetické vlastnosti
+Sevofluran je slabě rozpustný v krvi a ve tkáních, což má za následek rychlé dosažení dostatečné alveolární koncentrace pro vyvolání anestezie a následnou rychlou eliminaci až do ukončení anestezie.
+
+U lidí je < 5 % absorbovaného sevofluranu metabolizováno v játrech na
+hexafluoroisopropanol (HFIP) s uvolněním anorganického fluoridu a oxidu uhličitého (nebo jednoho uhlíkového zbytku). Po vytvoření se HFIP rychle konjuguje s kyselinou glukuronovou a eliminuje ledvinami do moči.
+
+Rychlá a rozsáhlá plicní eliminace sevofluranu minimalizuje množství látky dostupné pro metabolizaci. Metabolismus sevofluranu není indukován barbituráty.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+Předklinické údaje o toxicitě jedné a opakované dávky sevofluranu neprokazují žádnou specifickou orgánovou toxicitu.
+Studie vlivu na reprodukční systém: Studie vlivu na fertilitu provedené na potkanech ukázaly snížení četnosti implantace a březosti po opakované expozici anestetickými dávkami. Studie vývojové toxicity provedené na potkanech a králících neodhalila žádné teratogenní účinky. V subanestetických koncentracích během perinatální fáze bylo u potkanů prokázáno prodloužení gestace.
+
+Studie na samcích potkanů prokázala sníženou motilitu a koncentraci spermií a také zvýšenou testikulární degeneraci po chronické expozici sevofluranem (v dávce inhalace 1 MAC sevofluranu po dobu 7 nebo 14 dnů) ve srovnání s kontrolami.
+
+Publikované studie na zvířatech (včetně primátů) v dávkách vedoucích k lehké až
+středně silné anestezii prokázaly, že použití anestetik v období rychlého růstu mozku nebo synaptogeneze vedlo ke ztrátě buněk ve vyvíjejícím se mozku, což může být spojeno s dlouhodobými kognitivními poruchami. Klinický význam těchto
+preklinických zjištění není znám.
+
+Rozsáhlé in-vitro a in-vivo studie mutagenních účinků sevofluranu přinesly negativní výsledky. Studie kancerogenních účinků nebyly provedeny.
+13/16
+
+Účinky na oběhové funkce a spotřebu kyslíku: Výsledky studií prováděných na psech prokazují, že sevofluran nezpůsobuje coronary steal syndrom a neprohlubuje dříve
+přítomnou ischemii myokardu. Studie na zvířatech prokázaly, že byl zachován oběh v játrech a ledvinách během podání sevofluranu.
+
+Sevofluran snižuje rychlost mozkového metabolismu kyslíku (CMRO2) ve formě podobné jako isofluran. Přibližně 50% snížení CMRO2 bylo pozorováno při
+koncentracích blížících se 2,0 MAC. Studie na zvířatech prokázaly, že sevofluran nemá významné účinky na průtok krve mozkem.
+Účinky sevofluranu na centrální nervový systém: u zvířat sevofluran výrazně
+potlačuje elektroencefalografickou (EEG) aktivitu srovnatelnou se stejně účinnými
+dávkami isofluranu. Neexistuje žádný důkaz, že by použití sevofluranu bylo spojeno s epileptiformní aktivitou během normokapnie nebo hypokapnie. Na rozdíl od enfluranu pokusy o vyvolání záchvatům podobné aktivity na EEG během hypokapnie s rytmickými zvukovými stimuly byly negativní.
+
+Substance A: Substance A je degradační produkt sevofluranu, tvořený v absorbentu CO2. Její koncentrace se normálně zvyšuje při zvyšování teploty absorbentu, koncentrace sevofluranu a snižování průtoku čerstvého vzduchu.
+Studie prováděné na potkanech ukázaly reverzibilní nefrotoxicitu (nekrózu
+jednotlivých buněk v proximálních tubulech ledvin) závislou na dávce a době podání.
+U potkanů byla nefrotoxicita prokázána při koncentraci 25-50 ppm po 6 až 12 hodinách expozice. Význam pro lidi není znám.
+V klinických studiích byla nejvyšší koncentrace substance A (pomocí natronového vápna jako absorbentu CO2 v okruhu) 15 ppm u dětí a 32 ppm u dospělých. U
+systémů využívajících jako absorbent CO2 barium byly zjištěny koncentrace až 61 ppm. Ačkoli jsou zkušenosti s nízkoprůtokovou anestézií omezené, aktuálně nejsou žádné důkazy o narušení ledvinných funkcí vlivem substance A.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1 Seznam pomocných látek
+Žádné
+
+6.2 Inkompatibility
+V klinickém prostředí při přímém kontaktu s absorbenty CO2 (natronové vápno nebo hydroxid baria) se může sevofluran rozkládat za tvorby nízkých hladin sloučeniny A (pentafluoroisopropenyl fluorometyl éter (PIFE)), a stopových množství sloučeniny B
+(pentafluoromethoxy isopropyl fluorometyl éter (PMFE)). Interakce s absorbenty CO2
+není unikátní pro sevofluran. Tvorba rozpadových látek v anesteziologických okruzích vzniká vlivem extrakce kyselého protonu v přítomnosti silné zásady (hydroxid draselný (KOH) a/nebo hydroxid sodný (NaOH)) za tvorby alkenu
+(substance A) ze sevofluranu. Při použití okruhů s opětovným vdechováním není
+14/16
+
+nutná žádná úprava dávky nebo změna klinického postupu.
+
+Vyšších hladin substance A je dosaženo při použití hydroxidu baria ve větší míře než při použití natronového vápna.
+
+6.3 Doba použitelnosti
+2 roky
+6.4 Zvláštní opatření pro uchovávání
+Uchovávejte ve vzpřímené poloze s upevněným uzávěrem.
+
+6.5  Druh obalu a obsah balení
+Hliníkové láhve o objemu 250 ml, potažené vnitřním ochranným lakem z epoxyfenolové pryskyřice. Láhve jsou uzavřeny plastovým šroubovacím uzávěrem nebo integrovaným uzavíracím ventilem.
+
+Velikost balení je 1 a 6 lahví.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Návod k použití přípravku a k zacházení s ním
+Přípravek Sevoflurane Baxter je nutné podávat pomocí odpařovače kalibrovaného speciálně pro sevofluran. Obsah přechází přímo z lahve přes integrovaný ventil nebo, pokud je láhev bez integrovaného ventilu, za použití vhodného adaptéru, který je speciálně navržen pro použití se sevofluranovým odpařovačem. Pro podání tohoto léčivého přípravku je možné používat pouze odpařovače s prokázanou kompatibilitou. U sevofluranu byla zjištěna degradace v přítomnosti silných Lewisových kyselin, které se mohou tvořit na kovových nebo skleněných površích za ztížených podmínek a je nutné se vyhnout použití odpařovačů obsahujících silné Lewisovy kyseliny, příp. při jejich tvorbě za podmínek normálního použití.
+Absorbenty oxidu uhličitého se nesmí nechat vyschnout při podávání inhalačních anestetik. Pokud máte podezření na vyschnutí absorbentu CO2, vyměňte jej.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+BAXTER CZECH spol. s r.o., Karla Engliše 3201/6, 150 00 Praha 5, Česká republika
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+05/283/10-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+
+Datum první registrace: 7. 4. 2010
+
+
+15/16
+
+Datum posledního prodloužení: 26. 6. 2014
+
+
+10.  DATUM REVIZE TEXTU
+17. 5. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16/16

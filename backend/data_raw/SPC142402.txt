@@ -1,0 +1,820 @@
+sp. zn. sukls441368/2018
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+Gemcitabine Kabi 38 mg/ml koncentrát pro infuzní roztok
+
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jeden ml koncentrátu pro infuzní roztok obsahuje gemcitabini hydrochloridum odpovídající
+gemcitabinum 38 mg.
+
+Kvantitativní složení všech velikostí balení je uvedeno v tabulce níže.
+
+
+Velikost balení
+
+200 mg/5,26 ml
+1000 mg/26,3 ml
+2000 mg/52,6 ml
+Síla
+
+38 mg/ml
+38 mg/ml
+38 mg/ml
+Množství gemcitabinu (jako hydrochloridu) 200 mg
+1000 mg
+2000 mg
+Množství roztoku
+
+5,26 ml
+26,3 ml
+52,6 ml
+
+Pomocná látka se známým účinkem:
+3,16 mg/ml až 3,74 mg/ml (0,14 mmol/ml až 0,16 mmol/ml) sodíku.
+30% v/v (310,8 mg/ml) propylenglykolu.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3. LÉKOVÁ FORMA
+
+Koncentrát pro infuzní roztok
+Čirý, bezbarvý až světle žlutý roztok bez viditelných částic.
+pH: 7,0 – 9,0
+
+4. KLINICKÉ ÚDAJE
+
+4.1 Terapeutické indikace
+
+Gemcitabin je v kombinaci s cisplatinou indikován k léčbě pacientů s lokálně pokročilým nebo metastazujícím karcinomem močového měchýře.
+Gemcitabin je indikován k léčbě pacientů s lokálně pokročilým nebo metastazujícím adenokarcinomem
+pankreatu.
+
+Gemcitabin je v kombinaci s cisplatinou indikován v první linii k léčbě pacientů s lokálně pokročilým nebo metastazujícím nemalobuněčným karcinomem plic (NSCLC). Monoterapie gemcitabinem může být zvážena u starších pacientů nebo u pacientů se stavem výkonnosti (performance status) 2.
+
+Gemcitabin je v kombinaci s karboplatinou indikován k léčbě pacientek s lokálně pokročilým nebo metastazujícím epiteliálním karcinomem ovaria relabujícím po období 6 a více měsíců bez relapsu po terapii první linie založené na platině.
+
+Gemcitabin je v kombinaci s paklitaxelem indikován k léčbě pacientů s neresekabilním, lokálně relabujícím nebo metastazujícím karcinomem prsu, který zrelaboval po adjuvantní nebo neoadjuvantní chemoterapii. Předchozí chemoterapie má zahrnovat antracykliny, nejsou-li klinicky kontraindikovány.
+
+4.2 Dávkování a způsob podání
+
+Gemcitabin smí být předepsán pouze lékařem se zkušenostmi v používání protinádorové chemoterapie. Dávkování
+Karcinom močového měchýře Použití v kombinaci
+Doporučená dávka gemcitabinu je 1000 mg/m² podávaná 30minutovou infuzí. Dávka má být podávána 1., 8. a 15. den každého 28denního cyklu v kombinaci s cisplatinou. Doporučená dávka cisplatiny je 70 mg/m² podaná 1. den po dávce gemcitabinu nebo 2. den každého 28denního cyklu. Tento čtyřtýdenní cyklus je potom opakován. Snížení dávek u všech cyklů nebo u jednoho z cyklů je možno provést individuálně dle míry toxicity u pacienta.
+
+Karcinom pankreatu
+Doporučená dávka gemcitabinu je 1000 mg/m² podávaná 30minutovou intravenózní infuzí. Toto má být opakováno jednou týdně po dobu až 7 týdnů, poté následuje jednotýdenní přestávka. Následný cyklus sestává z injekce podávané jednou týdně po dobu tří za sebou jdoucích týdnů s přestávkou každý 4. týden. Snížení dávek u všech cyklů nebo u jednoho z cyklů je možno provést individuálně dle míry toxicity u pacienta.
+
+Nemalobuněčný karcinom plic
+Monoterapie
+Doporučená dávka gemcitabinu je 1000 mg/m² podávaná 30minutovou intravenózní infuzí. Toto má být opakováno jednou týdně po dobu tří týdnů a poté má následovat jeden týden bez léčby. Tento čtyřtýdenní cyklus je potom opakován. Ke snížení dávek ve všech cyklech nebo u jednoho z cyklů je možno přistoupit individuálně dle míry toxicity u pacienta.
+
+Použití v kombinaci
+Doporučená dávka gemcitabinu je 1250 mg/m² plochy tělesného povrchu podávaná 30minutovou intravenózní infuzí 1. a 8. den cyklu (21 dní). Ke snížení dávek ve všech cyklech nebo u jednoho z cyklů je možno přistoupit individuálně dle míry toxicity u pacienta. Cisplatina byla užita v dávkách 75 – 100 mg/m² jednou za 3 týdny.
+Karcinom prsu
+Použití v kombinaci
+Použití gemcitabinu v kombinaci s paklitaxelem je doporučováno ve schématu: paklitaxel (175 mg/ m²) aplikován 1. den ve zhruba tříhodinové intravenózní infuzi následován gemcitabinem (1250 mg/m²) v 30minutové intravenózní infuzi 1. a 8. den 21denního cyklu. Snížení dávek u všech cyklů nebo u jednoho z cyklů je možno provést individuálně dle míry toxicity u pacienta. Pacienti mají mít před podáním kombinace gemcitabin + paklitaxel absolutní počet granulocytů nejméně 1 500 (x 10⁶/l).
+Karcinom ovaria
+Použití v kombinaci
+Doporučená dávka gemcitabinu používaného v kombinaci s karboplatinou je 1000 mg/m² podávaná 30minutovou intravenózní infuzí 1. a 8. den každého 21denního cyklu. Po podání gemcitabinu je 1. den podána karboplatina v dávce potřebné k dosažení plochy pod křivkou (AUC) 4,0 mg/ml/min. Snížení dávek u všech cyklů nebo u jednoho z cyklů je možno provést individuálně dle míry toxicity u pacienta.
+Sledování toxicity a úpravy dávky z důvodu toxicity
+
+Úpravy dávky z důvodu nehematologické toxicity
+Mají být prováděna pravidelná fyzikální vyšetření a kontroly renálních a jaterních funkcí, aby se zjistila případná nehematologická toxicita. Ke snížení dávek ve všech cyklech nebo u jednoho z cyklů je možno přistoupit individuálně na základě stupně toxicity u pacienta. Obecně platí, že u závažné (stupeň 3 nebo 4) nehematologické toxicity, mimo nauzeu/zvracení, má být terapie gemcitabinem přerušena nebo mají být sníženy dávky v závislosti na rozhodnutí ošetřujícího lékaře. Další dávky nemají být podány, dokud příznaky toxicity podle mínění lékaře nevymizí.
+
+Pro úpravu dávky cisplatiny, karboplatiny a paklitaxelu podávaných v kombinované terapii viz
+odpovídající souhrn údajů o přípravku.
+
+Úpravy dávky z důvodu hematologické toxicity Zahájení cyklu
+U všech indikací musí být pacientům před každou aplikací provedeno vyšetření počtu trombocytů a granulocytů. Před zahájením cyklu mají pacienti mít absolutní počet granulocytů nejméně 1 500 (x 10⁶/l) a počet trombocytů 100 000 (x 10⁶/l).
+V průběhu cyklu
+V průběhu cyklu mají být dávky gemcitabinu upraveny podle následujících tabulek:
+
+Úpravy dávky gemcitabinu v monoterapii nebo v kombinaci s cisplatinou v průběhu cyklu při léčbě karcinomu močového měchýře, NSCLC a karcinomu pankreatu
+
+Absolutní počet granulocytů
+(x 10⁶/l)
+> 1 000 a
+500 - 1 000 nebo
+<500 nebo
+Počet trombocytů
+(x 10⁶/l)
+> 100 000
+50 000 - 100 000
+< 50 000
+Procento standardní dávky
+gemcitabinu (%)
+100
+75
+Vynechaná dávka*
+*Vynechaná dávka nebude v cyklu podána před dosažením absolutního počtu granulocytů nejméně 500
+(x 10⁶/l) a počtu trombocytů 50 000 (x 10⁶/l).
+
+Úpravy dávky gemcitabinu v kombinaci s paklitaxelem v průběhu cyklu při léčbě karcinomu
+prsu
+
+Absolutní počet granulocytů
+(x 10⁶/l)
+≥ 1 200 a
+1 000 - <1 200 nebo
+700 - <1 000 a
+<700 nebo
+Počet trombocytů
+(x 10⁶/l)
+> 75 000
+50 000 - 75 000
+≥ 50 000
+< 50 000
+Procento standardní dávky
+gemcitabinu (%)
+100
+75
+50
+Vynechaná dávka*
+*Vynechaná dávka nebude v cyklu podána. Léčba bude zahájena 1. den následujícího cyklu, jakmile absolutní počet granulocytů dosáhne nejméně 1 500 (x 10⁶/l) a počet trombocytů 100 000 (x 10⁶/l).
+
+Úpravy dávky gemcitabinu v kombinaci s karboplatinou v průběhu cyklu při léčbě karcinomu
+ovaria
+
+Absolutní počet granulocytů
+(x 10⁶/l)
+> 1 500 a
+1000 - 1 500 nebo
+< 1000 nebo
+Počet trombocytů
+(x 10⁶/l)
+≥ 100 000
+75 000-100 000
+< 75 000
+Procento standardní dávky
+gemcitabinu (%)
+100
+50
+Vynechaná dávka
+*Vynechaná dávka nebude v cyklu podána. Léčba bude zahájena 1. den následujícího cyklu, jakmile absolutní počet granulocytů dosáhne nejméně 1 500 (x 10⁶/l) a počet trombocytů 100 000 (x 10⁶/l).
+
+Úpravy dávky z důvodu hematologické toxicity v následujících cyklech, pro všechny indikace
+
+Dávka gemcitabinu má být snížena na 75 % původní dávky v zahajovacím cyklu v případě následujících hematologických toxicit:
+−  Absolutní počet granulocytů < 500 x 10⁶/l po dobu více než 5 dnů
+−  Absolutní počet granulocytů < 100 x 10⁶/l po dobu více než 3 dnů
+− Febrilní neutropenie
+−  Počet trombocytů < 25 000 x 10⁶/l
+−  Odložení cyklu o více než 1 týden z důvodu toxicity Způsob podání
+Gemcitabin je během infuze dobře snášen a může být podáván ambulantně. Obecně platí, že v případě extravazálního podání má být infuze ihned přerušena a opět zahájena aplikací do jiné cévy. Pacienti mají být po podání pečlivě sledováni.
+
+Návod k naředění tohoto léčivého přípravku před jeho podáním je uveden v bodě 6.6. Zvláštní skupiny pacientů
+Pacienti s poruchou funkce ledvin nebo jater
+Vzhledem k nedostatečným informacím z klinických studií, které by dovolovaly jasné doporučení pro dávkování pacientům s poruchou funkce jater nebo ledvin, má být gemcitabin těmto pacientům podáván se zvýšenou opatrností (viz body 4.4 a 5.2).
+
+Starší pacienti (> 65 let)
+Gemcitabin byl u pacientů starších 65 let dobře tolerován. Nejsou žádné důkazy o nutnosti jiných úprav dávek pro starší pacienty, než jsou běžně doporučovány pro všechny pacienty (viz bod 5.2).
+Pediatrická populace (< 18 let)
+Použití gemcitabinu se u dětí mladších 18 let vzhledem k nedostatečným údajům o bezpečnosti a účinnosti nedoporučuje.
+
+4.3 Kontraindikace
+
+Hypersensitivita na léčivou látku nebo na kteroukoli pomocnou látku tohoto přípravku uvedenou v bodě
+6.1.
+
+Kojení (viz bod 4.6).
+
+4.4 Zvláštní upozornění a opatření pro použití
+Bylo prokázáno, že prodloužení doby infuze a zvýšená dávková frekvence zvyšují toxicitu. Hematologická toxicita
+Gemcitabin může utlumit funkci kostní dřeně, což se projevuje leukopenií, trombocytopenií a anemií.
+U pacientů používajích gemcitabin má být před každou dávkou prováděna kontrola počtu trombocytů, leukocytů a granulocytů. Pokud se potvrdí útlum kostní dřeně vyvolaný léčbou, měla by se zvážit modifikace dávek přípravku nebo přerušení léčby (viz bod 4.2). Myelosuprese je nicméně krátkodobá a obvykle nevede k redukci dávky a jen vzácně vede k přerušení léčby.
+
+Po ukončení léčby gemcitabinem může pokračovat zhoršování krevního obrazu z periferní krve. U pacientů s poškozenou funkcí kostní dřeně má být léčba zahájena se zvýšenou opatrností. Podobně jako
+
+u jiné cytotoxické léčby musí být v případě podání gemcitabinu společně s jiným chemoterapeutikem zváženo riziko kumulativní suprese kostní dřeně.
+
+Porucha funkce jater a ledvin
+Gemcitabin má být podáván se zvýšenou opatrností pacientům s poruchou funkce jater nebo s poruchou funkce ledvin vzhledem k nedostatečným informacím z klinických studií, které by dovolovaly stanovit jasná doporučení pro dávkování této populaci pacientů (viz bod 4.2).
+
+Podávání gemcitabinu pacientům s metastázami v játrech nebo s hepatitidou, alkoholismem nebo jaterní cirhózou v anamnéze může vést k exacerbaci poruchy funkce jater.
+Pravidelně má být prováděna laboratorní kontrola renálních a jaterních funkcí (včetně virologických testů).
+Souběžná radioterapie
+Souběžná radioterapie (aplikovaná společně nebo ≤ 7 dnů od podání gemcitabinu): Byla hlášena toxicita (pro více informací a doporučení pro použití viz bod 4.5).
+
+Vakcinace živou vakcínou
+U pacientů léčených gemcitabinem není doporučeno podání vakcíny proti žluté zimnici nebo očkování jinými živými atenuovanými vakcínami (viz bod 4.5).
+Zvratná encefalopatie při syndromu zadní jámy lební
+U pacientů, kterým byl podáván gemcitabin v monoterapii či v kombinaci s jinými chemoterapeutiky, byly hlášeny výskyty zvratné encefalopatie při syndromu zadní jámy lební (PRES – posterior reversible encephalopathy syndrome) s možnými závažnými důsledky. U většiny pacientů, kteří prodělali PRES, byla hlášena akutní hypertenze a záchvaty, stejně tak můžou být přítomny symptomy jako je bolest hlavy, letargie, zmatenost a slepota. Diagnóza je nejlépe stanovena pomocí magnetické rezonance (MRI). Jestliže byla k dispozici vhodná podpůrná opatření, byl PRES typicky reverzibilní. V případě, že se během terapie PRES vyvine, by mělo být podávání gemcitabinu trvale přerušeno a zároveň učiněna podpůrná opatření, včetně měření krevního tlaku a léčby záchvatů.
+Kardiovaskulární poruchy
+Z důvodu rizika srdečních a/nebo vaskulárních poruch při podávání gemcitabinu musí být věnována zvláštní pozornost pacientům s předchozí anamnézou kardiovaskulárních příhod.
+Syndrom kapilárního úniku
+U pacientů, kterým byl podáván gemcitabin v monoterapii či v kombinaci s jinými chemoterapeutiky, byly hlášeny případy syndromu kapilárního úniku (viz bod 4.8). Tento stav je při včasné diagnostice a vhodném terapeutickém zásahu obvykle léčitelný, ale byly hlášeny případy končící úmrtím. Při tomto stavu dochází k systémové kapilární hyperpermeabilitě, během které uniká tekutina a proteiny z intravaskulárního prostoru do intersticia. Klinické známky zahrnují generalizovaný edém, nárůst tělesné hmotnosti, hypoalbuminémii, závažnou hypotenzi, akutní poškození ledvin a plicní edém. Jestliže se tento syndrom během terapie gemcitabinem vyvine, podávání gemcitabinu se má přerušit a je třeba zahájit podpůrné kroky. Syndrom kapilárního úniku se může objevit v pozdějších cyklech a v literatuře je spojován se syndromem respirační tísně dospělých.
+
+Plicní poruchy
+V souvislosti s léčbou gemcitabinem byl zaznamenán výskyt plicních poruch, někdy závažných (jako je plicní edém, intersticiální pneumonitida nebo syndrom respirační tísně dospělých - ARDS). V těchto případech má být zváženo přerušení léčby gemcitabinem. Včasné zahájení podpůrné léčby může napomoci zmírnění těchto stavů.
+Porucha funkce ledvin
+Hemolyticko-uremický syndrom
+
+U pacientů léčených gemcitabinem byl zřídka zaznamenán klinický nález odpovídající hemolyticko- uremickému syndromu (HUS, viz bod 4.8). HUS je život ohrožující onemocnění. Terapie gemcitabinem má být přerušena při jakýchkoli prvních známkách mikroangiopatické hemolytické anemie, jako je například rychlý pokles hemoglobinu se současnou trombocytopenií, zvýšení sérových hladin bilirubinu, sérového kreatininu, dusíku urey v krvi nebo LDH. Renální selhání může být nevratné i po ukončení léčby a může pak být nezbytná dialýza.
+
+Fertilita
+Ve studiích fertility způsoboval gemcitabin u myších samců hypospermatogenezi (viz bod 5.3). Z tohoto důvodu má být mužům léčeným gemcitabinem doporučeno odložit otcovství během léčby a po dobu až 6 měsíců po léčbě a z důvodu možné neplodnosti po léčbě gemcitabinem vyhledat před léčbou odbornou pomoc týkající se možnosti uchování spermatu zmrazením (viz bod 4.6).
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné 200 mg injekční lahvičce, to
+znamená, že je v podstatě „bez sodíku“.
+
+Tento léčivý přípravek obsahuje 98,36 mg sodíku v jedné 1000 mg injekční lahvičce, což odpovídá 4,92
+% doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Tento léčivý přípravek obsahuje 196,72 mg sodíku v jedné 2000 mg injekční lahvičce, což odpovídá 9,84 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Gemcitabine Kabi obsahuje propylenglykol, který může způsobit příznaky opilosti.
+
+4.5 Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Specifické studie interakcí nebyly provedeny (viz bod 5.2).
+
+Radioterapie
+Souběžná radioterapie (aplikovaná společně nebo ≤ 7 dnů od podání gemcitabinu) - toxicita spojená s multimodální léčbou je závislá na mnoha různých faktorech, mezi které patří velikost dávky gemcitabinu, frekvence podávání gemcitabinu, dávka radiace, plánovaný způsob radioterapie, cílová tkáň a cílový objem. Preklinické a klinické studie prokázaly, že gemcitabin má radiosenzibilizační potenciál. V jedné studii, ve které byl gemcitabin podáván v dávce 1000 mg/m² souběžně s terapeutickým ozářením hrudníku nepřetržitě po dobu až 6 týdnů pacientům s nemalobuněčným karcinomem plic, byla pozorována významná toxicita v podobě těžké a potenciálně život ohrožující mukozitidy, zejména ezofagitidy a pneumonitidy, a to zejména u pacientů léčených velkými dávkami radioterapie (medián cílového objemu 4795 cm³). Následující studie, jako je studie fáze II u nemalobuněčného karcinomu plic, kde bylo v průběhu 6 týdnů prováděno ozařování hrudníku v dávkách 66 Gy společně se současnou léčbou gemcitabinem (600 mg/m², čtyřikrát) a cisplatinou (80 mg/m², dvakrát) naznačily, že společně s radioterapií je možné podávat gemcitabin v nižších dávkách s předpověditelnou toxicitou.
+Optimální schéma pro bezpečné podávání gemcitabinu při terapeutickém ozařování nebylo dosud u všech typů nádorů stanoveno.
+
+Nesouběžná radioterapie (aplikovaná > 7 dnů od podání gemcitabinu) – analýzy dat nenaznačují zvýšení toxicity, s výjimkou kožní reakce na ozáření (radiation recall), pokud je gemcitabin podán více než 7 dnů před ozařováním nebo po něm. Data naznačují, že podávání gemcitabinu může být zahájeno po odeznění akutních účinků ozařování nebo alespoň jeden týden po ozařování.
+
+Radiační poškození cílové tkáně (např. ezofagitida, kolitida a pneumonitida) bylo hlášeno jak ve spojitosti se souběžným, tak i s nesouběžným podáním gemcitabinu.
+
+Ostatní
+Vzhledem k riziku systémové, možné letální, reakce, zejména u imunosuprimovaných pacientů, se nedoporučuje podávat vakcínu proti žluté zimnici a jiné živé atenuované vakcíny.
+4.6 Fertilita, těhotenství a kojení
+
+Těhotenství
+Adekvátní údaje o podávání gemcitabinu těhotným ženám nejsou k dispozici. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Vzhledem k výsledkům získaných ve studiích na zvířatech a vzhledem k mechanismu účinku gemcitabinu nemá být tento přípravek v těhotenství používán, pokud to není nezbytně nutné. Ženy mají být poučeny o nutnosti vyvarovat se otěhotnění v průběhu léčby gemcitabinem a nutnosti oznámit okamžitě svému lékaři, pokud k těhotenství přesto dojde.
+
+Kojení
+Není známo, zda je gemcitabin vylučován do mateřského mléka, a proto nemohou být vyloučeny nežádoucí účinky u kojence. Po dobu léčby gemcitabinem musí být kojení přerušeno.
+
+Fertilita
+Ve studiích fertility způsoboval gemcitabin u myších samců hypospermatogenezi (viz bod 5.3). Z tohoto důvodu má být mužům léčeným gemcitabinem doporučeno odložit otcovství během léčby a po dobu až 6 měsíců po léčbě a z důvodu možné neplodnosti po léčbě gemcitabinem vyhledat před léčbou odbornou pomoc týkající se možnosti uchování spermatu zmrazením.
+
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit a obsluhovat stroje nebyly provedeny. Ukázalo se však, že gemcitabin způsobuje mírnou až střední ospalost, obzvláště v kombinaci s konzumací alkoholu. Pacienti mají být varováni před řízením motorových vozidel a obsluhováním strojů do doby, než se prokáže, že jim přípravek nezpůsobuje ospalost.
+
+4.8 Nežádoucí účinky
+
+Nejčastěji hlášené nežádoucí účinky spojené s léčbou gemcitabinem zahrnují: u přibližně 60 % pacientů byla hlášena nauzea se zvracením nebo bez zvracení, zvýšené hodnoty jaterních transamináz (AST/ALT) a alkalické fosfatázy; u přibližně 50 % pacientů proteinurie a hematurie; u 10 - 40 % pacientů byla hlášena dyspnoe (nejvyšší výskyt u pacientů s plicním nádorem); alergické kožní vyrážky se vyskytly přibližně u 25 % pacientů a u 10 % pacientů byly spojeny se svěděním.
+Frekvence výskytu nežádoucích účinků a jejich závažnost jsou ovlivněny dávkou, rychlostí infuze a intervaly mezi dávkami (viz bod 4.4). Snížení počtu trombocytů, leukocytů a granulocytů patří mezi nežádoucí účinky, které limitují dávku (viz bod 4.2).
+
+Údaje z klinických studií
+Frekvence nežádoucích účinků jsou definovány takto: velmi časté (≥ 1/10), časté (≥ 1/100 a < 1/10),
+méně časté (≥ 1/1 000 a < 1/100), vzácné (≥ 1/10 000 a < 1/1 000), velmi vzácné (< 1/10 000).
+
+Následující tabulka nežádoucích účinků a frekvence výskytu je založena na údajích z klinických studií. V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+
+Třídy orgánových systémů
+Frekvence výskytu
+
+Infekce a infestace
+
+
+
+
+Poruchy krve a
+lymfatického systému
+Časté
+− Infekce
+Není známo
+− Sepse
+Velmi časté
+−  Leukopenie (neutropenie stupeň 3 = 19,3 %, stupeň 4 = 6 %)
+Útlum funkce kostní dřeně je obvykle mírný až středně závažný a většinou ovlivňuje počet granulocytů (viz bod 4.2)
+
+−   Trombocytopenie
+−   Anémie
+Časté
+− Febrilní neutropenie
+Velmi vzácné
+− Trombocytóza
+− Trombotická mikroangiopatie
+
+
+Poruchy imunitního systému
+Velmi vzácné
+− Anafylaktoidní reakce
+
+
+Poruchy metabolismu a
+výživy
+Poruchy nervového systému
+Časté
+− Anorexie
+Časté
+− Bolest hlavy
+− Nespavost
+− Ospalost
+Méně časté
+− Cévní mozková příhoda
+Velmi vzácné
+−  Zvratná encefalopatie při syndromu zadní jámy lební (viz bod 4.4)
+
+
+Srdeční poruchy
+Méně časté:
+−  Arytmie, převážně supraventrikulární povahy
+− Srdeční selhání
+Vzácné
+− Infarkt myokardu
+
+
+Cévní poruchy
+Vzácné
+−  Klinické známky periferní vaskulitidy a gangrény
+− Hypotenze
+
+Velmi vzácné
+−  Syndrom kapilárního úniku (viz bod 4.4)
+
+Respirační, hrudní a mediastinální poruchy
+Velmi časté
+−  Dyspnoe – obvykle mírná a rychle ustupující bez nutnosti léčby
+Časté
+− Kašel
+− Rinitida
+Méně časté
+−  Intersticiální pneumonitida (viz bod 4.4)
+−  Bronchospasmus – obvykle mírný a přechodný, ale může vyžadovat parenterální léčbu
+Vzácné
+− Plicní edém
+−  Syndrom dechové tísně dospělých (viz bod 4.4)
+
+
+Gastrointestinální poruchy
+Velmi časté
+− Zvracení
+− Nauzea
+Časté
+− Průjem
+−  Stomatitida a ulcerace v ústech
+− Zácpa
+Velmi vzácné
+− Ischemická kolitida
+
+
+Poruchy jater a žlučových
+cest
+
+
+
+
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+Velmi časté
+−  Zvýšení hladiny jaterních transamináz (AST a ALT) a alkalické fosfatázy
+Časté
+− Zvýšená hladina bilirubinu
+Méně časté
+−  Závažná hepatotoxicita, včetně jaterního selhání a úmrtí
+Vzácné
+−  Zvýšená hladina gamaglutamyl transferázy (GGT) Velmi časté
+−  Alergická kožní reakce často spojená s pruritem
+− Alopecie
+Časté
+− Svědění
+− Pocení
+
+Vzácné
+−  Závažné kožní reakce, včetně deskvamace a bulózních kožních výsevů
+− Ulcerace
+−  Tvorba puchýřků a boláků
+
+− Šupinatění kůže
+Velmi vzácné
+− Toxická epidermální nekrolýza
+− Stevens-Johnsonův syndrom
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Není známo:
+− Pseudocelulitida
+Časté
+− Bolest zad
+− Bolest svalů
+
+
+Poruchy ledvin a močových
+cest
+Velmi časté
+− Hematurie
+− Mírná proteinurie
+Méně časté
+−  Renální selhání (viz bod 4.4)
+−  Hemolyticko-uremický syndrom (viz bod 4.4)
+
+
+Celkové poruchy a reakce v místě aplikace
+Velmi časté
+−  Symptomy podobné chřipce – nejčastějšími příznaky jsou horečka, bolest hlavy, zimnice, bolest svalů, slabost a anorexie. Byly hlášeny také kašel, rinitida, malátnost, pocení a problémy se spánkem.
+−  Edém/periferní edém – včetně edému obličeje. Edém je obvykle reverzibilní po ukončení léčby.
+Časté
+− Horečka
+− Slabost
+− Zimnice
+Vzácné
+−  Reakce v místě podání – obvykle mírné povahy
+
+
+Poranění, otravy a procedurální komplikace
+Vzácné
+−  Radiační toxicita (viz bod 4.5). Radiační recall
+
+
+Použití v kombinaci při léčbě karcinomu prsu
+Frekvence výskytu hematologické toxicity stupně 3 a 4, převážně neutropenie, se zvyšuje, pokud je gemcitabin použit v kombinaci s paklitaxelem. Zvýšení těchto nežádoucích účinků však není spojeno se zvýšeným výskytem infekcí nebo krvácivých příhod. Při podání gemcitabinu v kombinaci s paklitaxelem se častěji objevuje únava a febrilní neutropenie. Únava, která není spojena s anemií, obvykle odezní po prvním cyklu.
+Nežádoucí účinky stupně 3 a 4
+Paklitaxel versus gemcitabin + paklitaxel
+
+Počet (%) pacientů
+
+Paklitaxel (N=259)
+Stupeň 3      Stupeň 4
+Gemcitabin + paklitaxel (N=262)
+Stupeň 3    Stupeň 4
+
+
+Laboratorní Anemie Trombocytopenie Neutropenie Nelaboratorní
+
+5 (1,9)        1 (0,4)       15 (5,7)      3 (1,1)
+0           0        14 (5,3)      1 (0,4)
+11 (4,2)       17 (6,6)*      82 (31,3)    45 (17,2)*
+
+Febrilní neutropenie Únava
+Průjem
+Motorická neuropatie
+Senzorická neuropatie
+3 (1,2)
+3 (1,2)
+5 (1,9)
+2 (0,8)
+9 (3,5)
+0
+1 (0,4)
+0
+0
+0
+12 (4,6)
+15 (5,7)
+8 (3,1)
+6 (2,3)
+14 (5,3)
+1(0,4)
+2 (0,8)
+0
+1(0,4)
+1 (0,4)
+*Neutropenie stupně 4 trvající déle než 7 dnů se projevila u 12,6 % pacientů ve skupině kombinované léčby a u 5 % pacientů ve skupině samotného paklitaxelu.
+Použití v kombinaci při léčbě karcinomu močového měchýře
+Nežádoucí účinky stupně 3 a 4
+MVAC versus gemcitabin + cisplatina
+Počet (%) pacientů
+
+
+
+
+
+
+Laboratorní
+MVAC (methotrexát, vinblastin, doxorubicin a cisplatina)
+(N=196)
+Stupeň 3    Stupeň 4
+Gemcitabin + cisplatina (N=200)
+
+
+Stupeň 3      Stupeň 4
+
+Anemie Trombocytopenie Nelaboratorní
+30 (16)      4 (2)      47 (24)        7 (4)
+15 (8)      25 (13)     57 (29)        57 (29)
+
+Nauzea a zvracení
+Průjem Infekce Stomatitida
+37 (19)
+15 (8)
+19 (10)
+34 (18)
+3 (2)
+1 (1)
+10 (5)
+8 (4)
+44 (22)
+6 (3)
+4 (2)
+2 (1)
+0 (0)
+0 (0)
+1 (1)
+0 (0)
+
+Použití v kombinaci při léčbě karcinomu ovaria
+Nežádoucí účinky stupně 3 a 4
+Karboplatina versus gemcitabin + karboplatina
+Počet (%) pacientů
+
+Karboplatina (N=174)
+Gemcitabin+karboplatina (N=175)
+Stupeň 3     Stupeň 4     Stupeň 3      Stupeň 4
+Laboratorní
+
+Anemie Neutropenie Trombocytopenie Leukopenie Nelaboratorní
+10 (5,7)
+19 (10,9)
+18 (10,3)
+11 (6,3)
+4 (2,3)
+2 (1,1)
+2 (1,1)
+1 (0,6)
+39 (22,3)
+73 (41,7)
+53 (30,3)
+84 (48,0)
+9 (5,1)
+50 (28,6)
+8 (4,6)
+9 (5,1)
+Krvácení        0 (0,0)      0 (0,0)       3 (1,8)        (0,0)
+
+Febrilní neutropenie Infekce bez neutropenie
+0 (0,0)
+
+0 (0)
+0 (0,0)
+
+0 (0,0)
+2 (1,1)
+
+(0,0)
+(0,0)
+
+1 (0,6)
+
+Senzorická neuropatie byla také častější ve skupině kombinované léčby oproti skupině samotné
+karboplatiny.
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41, Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9 Předávkování
+
+Není známo žádné antidotum proti předávkování gemcitabinem. Dávky až 5700 mg/m² byly podávány intravenózní infuzí po dobu 30 minut každé 2 týdny s klinicky akceptovatelnou toxicitou. Při podezření na předávkování má být u pacientů kontrolován krevní obraz a v případě potřeby zahájena podpůrná léčba.
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1 Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Cytostatika; analoga pyrimidinu; ATC kód: L01BC05 Cytotoxická aktivita v buněčných kulturách
+Gemcitabin vykazuje signifikantní cytotoxický účinek proti různým myším i lidským kulturám nádorových buněk. Vykazuje specifitu vůči buněčnému cyklu, jelikož gemcitabin primárně zabíjí buňky, ve kterých probíhá syntéza DNA (S-fáze), a za určitých podmínek blokuje přechod buněk z G1 do S fáze. In vitro je cytotoxický účinek gemcitabinu závislý na koncentraci a času.
+
+Protinádorový účinek v preklinických modelech
+Ve zvířecích modelech nádorů je protinádorová aktivita gemcitabinu závislá na schématu dávkování. Pokud je gemcitabin podáván každý den, je dosaženo vysoké mortality zvířat, ale s minimálním protinádorovým účinkem. Pokud je však gemcitabin podáván každý třetí nebo čtvrtý den, může být podáván v neletálních dávkách se značným protinádorovým účinkem proti širokému spektru nádorů u myší.
+
+Mechanismus účinku
+Buněčný metabolismus a mechanismus účinku: Gemcitabin (dFdC) je antimetabolitem pyrimidinu, je metabolizován intracelulárně pomocí nukleosid kinázy na aktivní difosfát (dFdCDP) a trifosfát (dFdCTP) nukleosid. Cytotoxický účinek gemcitabinu spočívá v inhibici syntézy DNA dvojím mechanismem pomocí dFdCDP a dFdCTP. Nejprve dFdCDP inhibuje ribonukleotid reduktázu, která je jediná odpovědná za katalýzu reakcí generujících deoxynukleosidtrifosfáty (dCTP) pro syntézu DNA. Inhibice tohoto enzymu pomocí dFdCDP je příčinou snížení koncentrací deoxynukleotidů obecně, v tomto případě především koncentrace dCTP. Za druhé dFdCTP soutěží s dCTP o zařazení do řetězce DNA (autopotenciace).
+
+Podobně může být také malé množství gemcitabinu inkorporováno do RNA. Tím tedy snížená intracelulární koncentrace dCTP potencuje inkorporaci dFdCTP do DNA. DNA polymeráza epsilon není schopna odstraňovat gemcitabin a opravit rostoucí vlákna DNA. Po inkorporaci gemcitabinu do DNA je do rostoucího řetězce DNA připojen ještě jeden nukleotid. Po tomto připojení nastává kompletní inhibice další syntézy DNA (skrytá terminace řetězců). Po inkorporaci do DNA se zdá, že gemcitabin indukuje programovanou buněčnou smrt známou jako apoptóza.
+
+Klinické údaje
+Karcinom močového měchýře
+Randomizovaná studie fáze III provedená u 405 pacientů s pokročilým nebo metastazujícím karcinomem z přechodných buněk urotelu, neprokázala rozdíl mezi dvěma léčebnými rameny, gemcitabin/cisplatina oproti methotrexát/vinblastin/adriamycin/cisplatina (MVAC), pokud jde o střední dobu přežití (12,8, respektive 14,8 měsíců, p=0,547), dobu do progrese nemoci (7,4, respektive 7,6 měsíců, p=0,842) a četnost odpovědi na léčbu (49,4%, respektive 45,7%, p=0,512). Kombinace gemcitabinu a cisplatiny měla ovšem lepší profil toxicity oproti MVAC.
+
+Karcinom pankreatu
+
+V randomizované studii fáze III u 126 pacientů s pokročilým nebo metastazujícím karcinomem pankreatu prokázal gemcitabin statisticky významně vyšší poměr klinické odpovědi oproti 5- fluoruracilu (23,8 %, respektive 4,8 %, p=0,0022). U pacientů léčených gemcitabinem bylo ve srovnání s 5-fluoruracilem také pozorováno statisticky významné prodloužení doby do progrese z 0,9 na 2,3 měsíce (log-rank p<0,0002) a statisticky významné prodloužení střední doby přežití ze 4,4 na 5,7 měsíců (log-rank p<0,0024).
+Nemalobuněčný karcinom plic
+V randomizované studii fáze III u 522 pacientů s inoperabilním, lokálně pokročilým nebo metastazujícím NSCLC prokázal gemcitabin v kombinaci s cisplatinou statisticky významnou vyšší četnost odpovědi oproti samotné cisplatině (31,0 %, respektive 12,0 %, p<0,0001). U pacientů léčených gemcitabinem a cisplatinou bylo ve srovnání s pacienty léčenými cisplatinou pozorováno statisticky významné prodloužení doby do progrese z 3,7 na 5,6 měsíců (log-rank p<0,0012) a statisticky významné prodloužení střední doby přežití ze 7,6 na 9,1 měsíců (log-rank p<0,004).
+V další randomizované studii fáze III u 135 pacientů s NSCLC ve stadiu IIIB nebo IV byla kombinace gemcitabinu a cisplatiny spojena se statisticky vyšší četností odpovědi na léčbu než kombinace cisplatiny a etoposidu (40,6 %, respektive 21,2 %, p=0,025). Statisticky významné prodloužení doby do progrese ze 4,3 na 6,9 měsíců (p=0,014) bylo pozorováno u pacientů léčených gemcitabinem a cisplatinou ve srovnání s pacienty léčenými etoposidem a cisplatinou. V obou studiích byla tolerabilita podobná u obou léčebných ramen.
+
+Karcinom ovaria
+V randomizované studii fáze III bylo 356 pacientek s pokročilým epiteliálním karcinomem ovaria relabujícím po 6 a více měsících po ukončené terapii založené na platině randomizováno k léčbě gemcitabinem a karboplatinou (GCb), nebo pouze karboplatinou (Cb). U pacientek léčených GCb bylo ve srovnání s pacientkami léčenými Cb pozorováno statisticky významné prodloužení doby do progrese nemoci z 5,8 na 8,6 měsíců (log-rank p= 0,0038). Rozdíly v četnosti odpovědi 47,2 % ve skupině GCb oproti 30,9 % u Cb skupiny (p=0,0016) a střední době přežití 18 měsíců (GCb) oproti 17,3 (Cb) (p=0,73) upřednostňují GCb skupinu.
+Karcinom prsu
+V randomizované studii fáze III u 529 pacientů s inoperabilním, lokálně rekurentním nebo metastazujícím karcinomem prsu relabujícím po adjuvantní nebo neoadjuvantní chemoterapii prokázal gemcitabin v kombinaci s paklitaxelem statisticky významné prodloužení doby do dokumentované
+
+progrese nemoci z 3,98 na 6,14 měsíců (log-rank p=0,0002) ve srovnání s paklitaxelem samotným. Po 377 úmrtích byla celková doba přežití 18,6 měsíců u pacientů léčených gemcitabinem a paklitaxelem oproti 15,8 měsícům (log rank p=0,0489, HR 0,82) u pacientů léčených paklitaxelem a celková četnost odpovědi byla 41,4 %, respektive 26,2 % (p= 0,0002).
+
+5.2 Farmakokinetické vlastnosti
+
+Farmakokinetika gemcitabinu byla zkoumána v sedmi studiích u 353 pacientů. Věkové rozmezí 121 žen a 232 mužů se pohybovalo od 29 do 79 let. Přibližně 45 % z těchto pacientů mělo nemalobuněčný karcinom plic a u 35 % pacientů byl diagnostikovaný karcinom pankreatu. Následující farmakokinetické parametry byly získány na základě dávek pohybujících se od 500 do 2592 mg/m², které byly podávány infuzí trvající od 0,4 do 1,2 hodin.
+Maximální plazmatické koncentrace (získané v průběhu 5 minut po dokončení infuze) se pohybovaly od 3,2 do 45,5 μg/ml. Plazmatické koncentrace nepřeměněné látky po infuzi dávky 1000 mg/m²/30 minut byly větší než 5 μg/ml přibližně 30 minut po ukončení infuze a větší než 0,4 μg/ml po další následující hodinu.
+
+Distribuce
+Distribuční objem centrálního kompartmentu byl u žen 12,4 l/m² a 17,5 l/m² u mužů (interindividuální variabilita činila 91,9 %). Distribuční objem periferního kompartmentu byl 47,4 l/m². Objem periferního kompartmentu nebyl citlivý na pohlaví.
+Vazba na plazmatické proteiny se ukázala být zanedbatelnou.
+Biologický poločas: Pohyboval se v rozmezí od 42 do 94 minut v závislosti na věku a pohlaví. U doporučeného dávkovacího schématu by se eliminace gemcitabinu měla prakticky dokončit v rozmezí 5 až 11 hodin od začátku infuze. Při podání jednou týdně se gemcitabin neakumuluje.
+
+Metabolismus
+Gemcitabin je rychle metabolizován prostřednictvím cytidin-deaminázy v játrech, ledvinách, krvi a dalších tkáních. Intracelulární metabolismus gemcitabinu produkuje gemcitabin mono-, di- a trifosfát (dFdCMP, dFdCDP a dFdCTP), ze kterých dFdCDP a dFdCTP jsou považovány za aktivní metabolity. Tyto intracelulární metabolity nebyly nalezeny v plazmě nebo v moči. Primární metabolit 2'-deoxy-2',2'- difluoruridin (dFdU) není aktivní a objevuje se v plazmě a v moči.
+
+Exkrece
+Systémová clearance se pohybuje v rozmezí od 29,2 l/hod/m² do 92,2 l/hod/m² v závislosti na věku a pohlaví (interindividuální variabilita byla 52,2 %). Clearance u žen je nižší přibližně o 25% ve srovnání s hodnotami u mužů. Ačkoliv je clearance vysoká, zdá se, že se u mužů i u žen s věkem snižuje. Při doporučené dávce gemcitabinu 1000 mg/m² podané jako 30minutová infuze nevyžadují nižší hodnoty clearance u žen nebo mužů snížení dávky gemcitabinu.
+
+Exkrece močí: v nezměněné formě se vyloučí méně než 10 % podané látky.
+
+Renální clearance se pohybovala od 2 do 7 l/hod/m².
+V průběhu týdne následujícího po podání je vyloučeno 92 až 98 % podané dávky gemcitabinu, 99 % močí, převážně ve formě dFdU a 1 % dávky je vyloučeno ve stolici.
+
+Kinetika dFdCTP
+Tento metabolit může být nalezen v mononukleárních buňkách periferní krve a níže uvedené informace se týkají těchto buněk. Intracelulární koncentrace se zvyšují úměrně dávce gemcitabinu od 35 do 350 mg/m²/30 minut, kdy je dosaženo koncentrací v ustáleném stavu 0,4-5 μg/ml. Při koncentraci gemcitabinu v plazmě nad 5 μg/ml se hladiny dFdCTP nezvyšují, což naznačuje, že přeměna je v těchto buňkách saturována.
+
+Eliminační poločas: 0,7 – 12 hodin.
+
+Kinetika dFdU
+Maximální plazmatické koncentrace (3-15 minut po ukončení 30minutové infuze, 1000 mg/m²): 28-52
+μg/ml.
+Minimální koncentrace po podání jednou týdně: 0,07-1,12 μg/ml bez zjevné kumulace.
+Třífázová plazmatická koncentrace oproti časové křivce, průměrný eliminační poločas terminální fáze – 65 hodin (rozmezí 33–84 hodin).
+Vznik dFdU z původní látky: 91 - 98 %.
+Průměrný distribuční objem centrálního kompartmentu: 18 l/m² (rozmezí 11-22 l/m²). Průměrný distribuční objem (Vss) v ustáleném stavu: 150 l/m² (rozmezí 96-228 l/m²). Tkáňová distribuce: rozsáhlá.
+Průměrná zdánlivá clearance: 2,5 l/hod/m² (rozmezí 1-4 l/hod/m²).
+Exkrece močí: kompletní.
+
+Gemcitabin a paklitaxel v kombinované terapii
+
+Kombinovaná terapie neovlivňuje farmakokinetické parametry gemcitabinu ani paklitaxelu. Gemcitabin a karboplatina v kombinované terapii
+Při podání v kombinaci s karboplatinou nebyla farmakokinetika gemcitabinu ovlivněna.
+
+Porucha funkce ledvin
+Mírná až středně závažná porucha funkce ledvin (GFR od 30 ml/min do 80 ml/min) nemá žádný stálý významný vliv na farmakokinetiku gemcitabinu.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Ve studiích po opakovaném podání u myší a psů, trvajících až 6 měsíců, byl hlavním nálezem reverzibilní útlum krvetvorby závisející na dávkovacím schématu a dávce.
+Gemcitabin je mutagenní v in vitro testu mutace a v in vivo mikronukleárním testu kostní dřeně. Dlouhodobé studie na zvířatech stanovující kancerogenní potenciál gemcitabinu nebyly provedeny.
+
+Ve fertilitních studiích způsoboval gemcitabin u myších samců reverzibilní hypospermatogenezi. Vliv na fertilitu u samic nebyl zjištěn.
+Vyhodnocení experimentálních studií na zvířatech prokázalo reprodukční toxicitu, např. vrozené vady a jiné účinky na vývoj embrya a plodu, na průběh březosti nebo peri- a postnatální vývoj.
+
+
+6. FARMACEUTICKÉ ÚDAJE
+6.1 Seznam pomocných látek
+
+Propylenglykol Makrogol 400
+Hydroxid sodný (E524) (k úpravě pH)
+Kyselina chlorovodíková, koncentrovaná (E507) (k úpravě pH)
+Voda pro injekci
+
+6.2 Inkompatibility
+
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jsou uvedeny v bodě 6.6.
+
+6.3 Doba použitelnosti
+Neotevřená injekční lahvička:
+2 roky
+
+Doba použitelnost po naředění (infuzní roztok):
+Chemická a fyzikální stabilita po naředění roztokem chloridu sodného 9 mg/ml na koncentraci 0,1 mg/ml a 5 mg/ml byla prokázána po dobu 7 dnů při teplotě 2 °C až 8 °C nebo při teplotě 25 °C.
+Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele a normálně by tato doba neměla být delší než 24 hodin při teplotě 2 až 8 °C, pokud naředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 °C. Chraňte před chladem nebo mrazem. Podmínky uchovávání po naředění přípravku: viz bod 6.3
+6.5 Druh obalu a obsah balení
+
+Gemcitabine 200 mg/5,26 ml koncentrát pro infuzní roztok:
+6ml injekční lahvička z bezbarvého skla třídy I, uzavřená chlorobutylovou gumovou zátkou se zeleným hliníkovým flip-off uzávěrem. Lahvička může a nemusí být zabalena spolu s plastovým krytem.
+Jedna lahvička 200mg balení obsahuje 5,26 ml koncentrátu. Balení obsahuje 1 lahvičku.
+
+Gemcitabine 1000 mg/26,3 ml koncentrát pro infuzní roztok:
+30ml injekční lahvička z bezbarvého skla třídy I uzavřená chlorobutylovou gumovou zátkou s modrým hliníkovým flip-off uzávěrem. Lahvička může a nemusí být zabalena spolu s plastovým krytem.
+Jedna lahvička 1000mg balení obsahuje 26,3 ml koncentrátu. Balení obsahuje 1 lahvičku.
+Gemcitabine 2000 mg/52,6 ml koncentrát pro infuzní roztok:
+100ml injekční lahvička z bezbarvého skla třídy I uzavřená chlorobutylovou gumovou zátkou se žlutým hliníkovým flip-off uzávěrem. Lahvička může a nemusí být zabalena spolu s plastovým krytem.
+Jedna lahvička 2000mg balení obsahuje 52,6 ml koncentrátu. Balení obsahuje 1 lahvičku. Na trhu nemusí být všechny velikosti balení.
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Zacházení s přípravkem
+Při přípravě a likvidaci infuzního roztoku mají být dodržovány běžné bezpečnostní zásady pro práci s cytostatiky. Těhotné ženy s tímto přípravkem nesmí zacházet. S infuzním roztokem se má pracovat v bezpečnostním boxu, je nutno použít ochranný oděv a rukavice. Není-li bezpečnostní box k dispozici, ochranné prostředky musejí být doplněny o masku a ochranné brýle.
+
+Pokud se dostane přípravek do kontaktu s očima, může způsobit vážné podráždění. Postižené oko ihned důkladně vypláchněte vodou. Pokud podráždění přetrvává, kontaktujte lékaře. Pokud dojde ke kontaktu roztoku s kůží, důkladně ji opláchněte vodou.
+
+Pokyny pro naředění přípravku
+
+Jediným schváleným ředícím roztokem pro naředění přípravku Gemcitabine Kabi je injekční roztok chloridu sodného 9 mg/ml (0,9%) (bez konzervačních látek).
+
+Aby bylo dosaženo klinicky významné koncentrace, musí být celkové množství přípravku Gemcitabine Kabi požadované pro daného pacienta naředěno alespoň v 500 ml injekčního roztoku chloridu sodného 9 mg/ml.
+
+Na základě doporučené dávky (1000 mg/m² a 1250 mg/m²) a tělesného povrchu (mezi 1,0 m² a 2,0 m²)
+je získán rozsah koncentrací od 2 mg/ml do 5 mg/ml, jak je vysvětleno v tabulce níže.
+
+Osmolalita a rozsah pH zředěného roztoku jsou zde pro ukázku uvedeny také.
+
+Tělesný povrch (m²) (A)
+
+1,0
+1,0
+1,2
+1,4
+1,5
+1,6
+1,8
+2,0
+2,0
+Doporučená dávka (mg/m²) (B)
+
+1000
+1250
+1250
+1250
+1000
+1250
+1250
+1000
+1250
+Vypočtená celková dávka (mg) (AxB) 1000
+1250
+1500
+1750
+1500
+2000
+2250
+2000
+2500
+Vypočtený objem léčiva (ml) [(AxB)/38)] 26,3
+32,9
+39,5
+46,1
+39,5
+52,6
+59,2
+52,6
+65,8
+Zředěný objem*(ml) (C)
+
+500
+500
+500
+500
+500
+500
+500
+500
+500
+Konečná koncentrace (mg/ml) (AxB)/(C)
+2,0
+2,5
+3,0
+3,5
+3,0
+4,0
+4,5
+4,0
+5,0
+Osmolalita (mOsm/kg)
+
+
+520 - 620
+600 - 700
+680 - 780
+760 - 860
+680 - 780
+830 - 930
+930 - 1030
+830 - 930
+1020 - 1120
+pH
+
+
+
+6,0-9,0
+* Může být provedeno další ředění se stejným rozpouštědlem
+
+Následující pokyny pro naředění přípravku musí být přesně dodržovány, aby se předešlo nežádoucím účinkům.
+
+1. Při ředění gemcitabinu k podání intravenózní infuzí dodržujte aseptickou techniku.
+2. Parenterální léčivé přípravky musí být před podáním vizuálně zkontrolovány, zda neobsahují částice nebo zda nedošlo ke změně barvy. Pokud je zjištěna přítomnost částic, roztok nepodávejte.
+
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+
+Fresenius Kabi s.r.o., Na Strži 1702/65, Nusle, 140 00 Praha 4, Česká republika
+
+8. REGISTRAČNÍ ČÍSLO(A)
+
+44/077/15-C
+
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 04.02.2015
+
+10. DATUM REVIZE TEXTU
+
+6. 5. 2019

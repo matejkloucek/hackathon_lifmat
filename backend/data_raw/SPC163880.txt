@@ -1,0 +1,677 @@
+Sp. zn. sukls108551/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+
+Panzyga 100 mg/ml infuzní roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Immunoglobulinum humanum normale ad usum intravenosum (IVIg) Jeden ml roztoku obsahuje:
+immunoglobulinum humanum normale ad usum intravenosum         100 mg
+
+(čistota nejméně 95 % IgG)
+Jedna injekční lahvička (10 ml) obsahuje: immunoglobulinum humanum normale ad usum intravenosum 1 g
+Jedna injekční lahvička (25 ml) obsahuje: immunoglobulinum humanum normale ad usum intravenosum 2,5 g
+Jedna lahvička (50 ml) obsahuje: immunoglobulinum humanum normale ad usum intravenosum 5 g Jedna lahvička (60 ml) obsahuje: immunoglobulinum humanum normale ad usum intravenosum 6 g Jedna lahvička (100 ml) obsahuje: immunoglobulinum humanum normale ad usum intravenosum 10 g Jedna lahvička (200 ml) obsahuje: immunoglobulinum humanum normale ad usum intravenosum 20 g Jedna lahvička (300 ml) obsahuje: immunoglobulinum humanum normale ad usum intravenosum 30 g
+Rozdělení podtříd IgG (přibližné hodnoty):
+
+IgG₁  65 %
+IgG₂  28 %
+IgG₃  3 %
+IgG₄  4 %
+Maximální obsah IgA je 300 mikrogramů/ml Vyrobeno z plazmy lidských dárců.
+Pomocná látka se známým účinkem
+Tento léčivý přípravek obsahuje 69 mg sodíku v jedné injekční lahvičce o objemu 100 ml, což odpovídá 3,45 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Infuzní roztok
+
+Roztok je čirý nebo lehce opalizující a bezbarvý až nažloutlý o pH 4,5 - 5,0, osmolalita je ≥ 240 mosmol/kg.
+
+
+
+1
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Substituční léčba dospělých, dětí a dospívajících (0-18 let věku):
+•   Syndromy primární imunodeficience (PID) se sníženou tvorbou protilátek.
+•   Sekundární imunodeficience (SID) u pacientů se závažnými nebo opakovanými infekcemi, neúčinnou antimikrobiální léčbou a buď prokázaným selháním specifických protilátek (proven specific antibody failure, PSAF)* nebo hladinou IgG v séru < 4 g/l.
+*PSAF = neschopnost dosáhnout alespoň dvojnásobného zvýšení titru protilátek IgG v odezvě na pneumokokovou polysacharidovou a polypeptidovou antigenovou vakcínu
+
+Imunomodulace u dospělých, dětí a dospívajících (0-18 let věku):
+•   Primární imunitní trombocytopenie (ITP) u pacientů s vysokým rizikem krvácení nebo před chirurgickými výkony k úpravě počtu trombocytů
+•  Guillain-Barré syndrom
+•   Kawasakiho nemoc (v kombinaci s kyselinou acetylsalicylovou; viz 4.2)
+•  Chronická zánětlivá demyelinizační polyradikuloneuropatie (CIDP)
+•  Multifokální motorická neuropatie (MMN)
+
+4.2  Dávkování a způsob podání
+
+Substituční terapie má být zahájena a sledována pod dohledem lékaře se zkušenostmi s léčbou imunodeficience.
+Dávkování
+Dávka a režim dávkování závisí na indikaci.
+
+Dávkování může být individuální pro každého pacienta v závislosti na klinické odezvě. Dávku vycházející z tělesné hmotnosti může být potřeba upravit u pacientů s podváhou nebo nadváhou. U pacientů s nadváhou dávka má vycházet z fyziologické standardní tělesné hmotnosti.
+Níže uvedené režimy dávkování slouží jako vodítko. Substituční léčba u syndromů primární imunodeficience (PID)
+Dávkování je třeba upravit tak, aby hladina IgG (stanoveno před další infuzí) dosáhla hodnoty alespoň 6 g/l nebo byla v normálním referenčním rozmezí pro daný věk populace. Dosažení rovnovážného stavu (hladina IgG v ustáleném stavu) trvá tři až šest měsíců od zahájení léčby. Doporučená počáteční dávka je 0,4 – 0,8 g/kg podána jednorázově a dále alespoň 0,2 g/kg každé tři až čtyři týdny.
+
+K dosažení minimální hladiny 6 g/l je třeba podávat 0,2 – 0,8 g/kg/měsíc. Po dosažení rovnovážného stavu se interval mezi dávkami pohybuje od 3 do 4 týdnů.
+Minimální hladiny IgG mají být měřeny a hodnoceny v souvislosti s výskytem infekce. Za účelem snížení míry bakteriálních infekcí může být nutné zvýšit dávkování a zvýšit minimální hladiny.
+Sekundární imunodeficience (podle definice v 4.1.) Doporučená dávka je 0,2–0,4 g/kg každé tři až čtyři týdny.
+Minimální hladiny IgG mají být měřeny a hodnoceny v souvislosti s výskytem infekce. Dávka má být podle potřeby upravena k dosažení optimální ochrany proti infekcím; může ji být třeba zvýšit
+u pacientů s přetrvávající infekcí; snížení dávky lze zvážit, pokud je pacient setrvale bez infekce.
+Primární imunitní trombocytopenie (ITP) Jsou možné dva alternativní režimy léčby:
+•   0,8 – 1 g/kg první den léčby; tuto dávku je možné opakovat jednou za tři dny
+•   0,4 g/kg každý den po dobu dvou až pěti dnů.
+
+2
+
+Léčbu je možno opakovat, dojde-li k relapsu.
+Guillain-Barré syndrom
+0,4 g/kg/den po dobu 5 dnů (dávkování lze opakovat, dojde-li k relapsu).
+
+Kawasakiho nemoc
+2,0 g/kg má být podáváno v jednorázové dávce. Pacienti mají současně dostávat kyselinu acetylsalicylovou.
+Chronická zánětlivá demyelinizační polyneuropatie (CIDP) Počáteční dávka: 2 g/kg rozdělená do 2–5 po sobě jdoucích dnů. Udržovací dávky:
+1 g/kg v průběhu 1–2 po sobě jdoucích dnů každé 3 týdny.
+V každém cyklu je třeba vyhodnotit léčebný účinek; pokud není žádný léčebný účinek patrný po 6 měsících, léčba má být ukončena.
+Pokud je léčba účinná, lékař rozhodne o dlouhodobé léčbě na základě odpovědi pacienta a odpovědi na udržovací léčbu. Dávkování a intervaly podávání může být třeba upravit podle individuálního klinického průběhu onemocnění.
+Multifokální motorická neuropatie (MMN)
+Počáteční dávka: 2 g/kg podávaná v průběhu 2–5 po sobě jdoucích dnů Udržovací dávka: 1 g/kg každé 2 až 4 týdny nebo 2 g/kg každých 4 až 8 týdnů.
+V každém cyklu je třeba vyhodnotit léčebný účinek; pokud není žádný léčebný účinek patrný po 6 měsících, léčba má být ukončena.
+Pokud je léčba účinná, lékař rozhodne o dlouhodobé léčbě na základě odpovědi pacienta a odpovědi na udržovací léčbu. Dávkování a intervaly podávání může být třeba upravit podle individuálního klinického průběhu onemocnění.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+Doporučené dávkování je shrnuto v následující tabulce:
+
+Indikace Substituční léčba Syndromy primární imunodeficience
+
+
+Sekundární imunodeficience (podle definice v 4.1.)
+Imunomodulace
+Primární imunitní trombocytopenie
+
+
+
+
+Guillain-Barré syndrom Kawasakiho nemoc
+Chronická zánětlivá demyelinizační polyneuropatie (CIDP)
+
+
+
+
+Multifokální motorická neuropatie (MMN)
+Dávka
+
+Počáteční dávka: 0,4–0,8 g/kg:
+Udržovací dávka: 0,2–0,8 g/kg
+0,2–0,4 g/kg
+
+
+0,8–1 g/kg nebo
+0,4 g/kg/den
+0,4 g/kg/den
+
+2 g/kg
+Počáteční dávka: 2 g/kg
+
+Udržovací dávka: 1 g/kg
+Počáteční dávka: 2 g/kg
+
+Udržovací dávka: 1 g/kg
+
+nebo 2 g/kg
+Frekvence podání
+
+
+každé 3–4 týdny
+
+
+
+každé 3–4 týdny
+
+
+1. den, možno opakovat jednou během 3 dnů
+
+
+po dobu 2–5 dnů po dobu 5 dnů
+v jedné dávce současně s podáváním kyseliny acetylsalicylové
+v rozdělených dávkách v průběhu 2–5 dnů
+
+
+každé 3 týdny v průběhu 1–2 dnů
+v průběhu 2–5 po sobě jdoucích dnů
+
+
+
+každé 2–4 týdny nebo
+každých 4–8 týdnů v průběhu 2–5 dnů
+Pediatrická populace
+Dávkování u dětí a dospívajících (0 – 18 let věku) se neliší od dávkování u dospělých, protože dávkování pro každou indikaci je dáno tělesnou hmotností a upravuje se podle klinických výsledků u výše zmíněných stavů.
+
+Porucha funkce jater
+Není k dispozici žádný důkaz, který by vyžadoval úpravu dávky.
+
+Porucha funkce ledvin
+Žádná úprava dávky, pokud to není klinicky vyžadováno, viz bod 4.4.
+Starší pacienti
+Žádná úprava dávky, pokud to není klinicky vyžadováno, viz bod 4.4.
+
+Způsob podání Intravenózní podání.
+
+
+4
+
+Normální lidský imunoglobulin má být podáván intravenózně počáteční rychlostí 0,6 ml/kg/h po dobu 30 minut. Viz bod 4.4. V případě nežádoucího účinku se musí buď snížit rychlost podávání, nebo zastavit infuze. V případě, že je přípravek dobře snášen, lze zvýšit rychlost podání postupně na maximálně 4,8 ml/kg/h.
+
+U pacientů s PID, kteří dobře snáší rychlost infuze 4,8 ml/kg/h lze rychlost dále postupně zvyšovat až na maximálně 8,4 ml/kg/h.
+K infudování přípravku zbývajícího v hadičce infuzní soupravy na konci infuze lze hadičku propláchnout buď 0,9% fyziologickým roztokem, nebo 5% roztokem dextrózy.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku (lidské imunoglobuliny) nebo na kteroukoli pomocnou látku (viz body 4.4 a 6.1).
+
+Pacienti se selektivním deficitem IgA, u kterých se vytvořily protilátky proti IgA, protože podávání přípravku obsahujícího IgA může mít za následek anafylaxi.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Sledovatelnost
+Aby se zlepšila sledovatelnost biologických léčivých přípravků má se přehledně zaznamenat název podaného přípravku a číslo šarže.
+
+Opatření pro použití
+Případným komplikacím lze často předejít, když zajistíte, že pacienti:
+•   nejsou citliví na normální lidský imunoglobulin pomalým počátečním podáváním přípravku (0,6 až 1,2 ml/kg/h);
+•   jsou pečlivě sledováni s ohledem na jakékoli symptomy po celou dobu infuze. Zvláště pacienti, kteří dostávají normální lidský imunoglobulin poprvé, pacienti, kteří přešli z alternativního přípravku IVIg, nebo pokud od předchozí infuze uplynul dlouhý interval. Tito pacienti mají být monitorováni během první infuze a první hodinu po první infuzi, aby mohly být vysledovány případné známky nežádoucích účinků. Všichni ostatní pacienti mají být sledováni po dobu alespoň 20 minut po podání.
+U všech pacientů podání přípravku IVIg vyžaduje:
+•   adekvátní hydrataci před začátkem infuze IVIg
+•  sledování diurézy
+•   sledování hladin kreatininu v séru
+•   zamezení současného použití kličkových diuretik (viz 4.5).
+
+V případě nežádoucího účinku se musí buď snížit rychlost podávání, nebo zastavit infuze. Léčba závisí na povaze a závažnosti nežádoucího účinku.
+
+Reakce na infuzi
+Některé nežádoucí účinky (např. bolest hlavy, zrudnutí, třesavka, myalgie, sípot, tachykardie, bolest v dolní části zad, nauzea a hypotenze) mohou souviset s rychlostí infuze. Musí být pečlivě dodržena doporučená rychlost podávání infuze popsaná v bodě 4.2. Během infuze je nutno pacienty důkladně monitorovat a pečlivě sledovat výskyt jakýchkoliv symptomů.
+
+Nežádoucí účinky se mohou vyskytnout častěji:
+•   u pacientů, kteří dostávají normální lidský imunoglobulin poprvé nebo, ve vzácných případech, když je přípravek s normálním lidským imunoglobulinem vyměněn za jiný nebo pokud od předchozí infuze uplynul dlouhý interval.
+•   u pacientů s neléčenou infekcí nebo základním chronickým zánětem
+
+5
+
+Hypersenzitivita
+Hypersenzitivní reakce jsou vzácné. Anafylaxe se může rozvinout u pacientů
+•  s nedetekovatelnou hladinou IgA, kteří mají protilátky proti IgA
+•  kteří tolerovali předchozí léčbu normálním lidským imunoglobulinem V případě šoku má být zaveden standardní lékařský postup pro jeho léčbu.
+Tromboembolizace
+Existuje klinický důkaz spojitosti mezi podáním IVIg a tromboembolickými příhodami, např. infarktem myokardu, cévní mozkovou příhodou, plicní embolií a hlubokými žilními trombózami, které pravděpodobně souvisí s relativním zvýšením krevní viskozity následkem vyššího přívodu imunoglobulinu u rizikových pacientů. Při předepisování intravenózně podávaných imunoglobulinů a jejich podávání infuzí u obézních pacientů a pacientů s již preexistujícími rizikovými faktory trombotických příhod (jako jsou pokročilý věk, hypertenze, diabetes mellitus a vaskulární onemocnění nebo trombotické epizody v anamnéze, pacienti se získanými či zděděnými trombofilickými poruchami, pacienti s prodlouženými dobami imobilizace, pacienti s hypovolemií závažného stupně a pacienti s onemocněními, která zvyšují viskozitu krve) je třeba postupovat opatrně.
+
+U pacientů s rizikem tromboembolických nežádoucích účinků má být infuze přípravků IVIg podávána co nejmenší rychlostí a v minimální možné dávce.
+
+Akutní renální selhání
+U pacientů léčených intravenózními imunoglobuliny byly hlášeny případy akutního renálního selhání. Ve většině případů byly identifikovány rizikové faktory, např. předcházející renální insuficience, diabetes mellitus, hypovolemie, nadváha, současné podávání nefrotoxických léčivých přípravků nebo věk nad 65 let.
+Před infuzí přípravků IVIg mají být vyhodnoceny renální parametry, a to zejména u pacientů, u nichž se má za to, že u nich je potenciálně zvýšené riziko rozvoje akutního renálního selhání, a dále ve vhodných intervalech. U pacientů s rizikem akutního renálního selhání má být infuze přípravků IVIg podávána co nejmenší rychlostí a v nejnižší možné dávce. V případě poruchy funkce ledvin je třeba zvážit přerušení podávání IVIg.
+Tato hlášení renální dysfunkce a akutního renálního selhání byla spojena s použitím mnoha licencovaných přípravků IVIg obsahujících různé pomocné látky jako sacharózu, glukózu a maltózu, přičemž přípravky obsahující jako stabilizátor sacharózu byly příčinou disproporčního podílu z celkového počtu. U rizikových pacientů může být zváženo použití přípravků IVIg neobsahujících tyto pomocné látky. Přípravek Panzyga neobsahuje sacharózu, maltózu ani glukózu.
+
+Syndrom aseptické meningitidy (AMS)
+V souvislosti s léčbou IVIg byl hlášen výskyt syndromu aseptické meningitidy. Syndrom aseptické meningitidy se obvykle objeví v časovém období od několika hodin až do 2 dnů po zahájení léčby IVIg. Vyšetření mozkomíšního moku často vykazuje pleocytózu až několik tisíc buněk na mm³, zejména z granulocytárních řad, a zvýšené hladiny proteinů až na několik set mg/dl.
+AMS se může vyskytovat častěji v případě léčby IVIg za použití vysokých dávek (2 g/kg).
+U pacientů, kteří vykazují tyto známky a příznaky, má být k vyloučení jiných příčin meningitidy provedeno důkladné neurologické vyšetření včetně vyšetření mozkomíšního moku.
+Přerušení léčby IVIg mělo během několika dní za následek vymizení příznaků AMS bez dalších následků.
+
+Hemolytická anemie
+Přípravky IVIg mohou obsahovat protilátky krevní skupiny, které se mohou chovat jako hemolyziny a způsobit navázání imunoglobulinu na erytrocyty in vivo, a způsobit tak přímou antiglobulinovou reakci (Coombsův test) a vzácně hemolýzu. Sekundárně k léčbě IVIg se může rozvinout hemolytická anemie kvůli snazší sekvestraci erytrocytů (RBC). U pacientů léčených IVIg je třeba sledovat klinické známky a příznaky hemolýzy (viz bod 4.8.).
+
+6
+
+Neutropenie/leukopenie
+Po léčbě přípravky IVIg bylo hlášeno přechodné snížení počtu neutrofilů a/nebo epizody neutropenie, v některých případech závažné. Dochází k nim obvykle během několika hodin nebo dní po podání IVIg a do 7 až 14 dní spontánně odezní.
+
+Akutní plicní poškození v souvislosti s transfuzí (TRALI)
+Bylo hlášeno několik případů akutního nekardiogenního plicního edému [akutní plicní poškození v souvislosti s transfuzí (TRALI)] u pacientů, kteří dostávají IVIg. Pro TRALI je charakteristická těžká hypoxie, dyspnoe, tachypnoe, cyanóza, horečka a hypotenze. Příznaky TRALI se obvykle rozvinou během transfuze nebo do 6 hodin po ní, často během 1–2 hodin. Příjemci IVIg, proto musí být monitorování na přítomnost plicních nežádoucích účinků a při jejich výskytu musí být infuze IVIg okamžitě zastavena. TRALI je potenciálně život ohrožující stav, který vyžaduje bezodkladnou léčbu na jednotce intenzivní péče.
+
+Interference se sérologickým testováním
+Po podání imunoglobulinu může mít přechodný vzestup různých pasivně přenesených protilátek v krvi pacienta za následek falešně pozitivní výsledky sérologického testování.
+Pasivní přenos protilátek proti erytrocytárním antigenům, například A, B, D, může ovlivnit některé sérologické testy na protilátky proti erytrocytům, například přímý antiglobulinový test (DAT, přímý Coombsův test).
+
+Přenosné látky
+Standardní opatření zabraňující přenosu infekce v souvislosti s používáním léčivých přípravků vyrobených z lidské krve nebo plazmy zahrnují pečlivý výběr dárců, testování jednotlivých odběrů krve a plazmatických poolů na specifické ukazatele infekce a účinné výrobní kroky, při nichž jsou inaktivovány nebo odstraněny viry. Navzdory tomu, když se podávají léčivé přípravky připravené z lidské krve či plazmy, nelze zcela vyloučit možnost přenosu infekčních agens. Totéž platí pro jakékoli neznámé nebo nově vznikající viry nebo jiné patogeny.
+Přijatá opatření jsou považována za účinná u obalených virů, jako je HIV, HBV a HCV, a u neobalených virů, jako je HAV a parvovirus B19.
+
+Klinická zkušenost potvrdila absenci přenosu hepatitidy A nebo parvoviru B19 imunoglobuliny a také se předpokládá, že obsah protilátek ve velké míře přispívá k obraně proti virům.
+Důležité informace o některých složkách přípravku Panzyga
+Tento léčivý přípravek obsahuje 69 mg sodíku v jedné injekční lahvičce o objemu 100 ml, což odpovídá 3,45 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Pediatrická populace
+Uvedená upozornění a opatření platí jak pro dospělé, tak pro děti.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Živé oslabené virové vakcíny
+Po podání imunoglobulinu může dojít ke snížení účinnosti živých oslabených virových vakcín, jako jsou vakcíny proti spalničkám, zarděnkám, příušnicím a planým neštovicím, po dobu minimálně
+6 týdnů až 3 měsíců. Po podání tohoto léčivého přípravku má očkování živými oslabenými virovými vakcínami proběhnout za 3 měsíce. U spalniček může toto snížení účinnosti trvat až 1 rok. Proto mají být pacienti očkovaní proti spalničkám vyšetřeni na protilátky.
+
+Kličková diuretika
+Zamezte současnému používání kličkových diuretik.
+Pediatrická populace
+7
+
+Uvedené interakce platí jak pro dospělé, tak pro děti.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Bezpečnost tohoto léčivého přípravku během těhotenství nebyla stanovena v kontrolovaných klinických studiích, proto má být přípravek těhotným ženám a kojícím matkám podáván jen s opatrností. U přípravků IVIg bylo prokázáno, že prochází placentou, a to vzrůstající měrou během třetího trimestru. Klinická zkušenost s imunoglobuliny naznačuje, že se neočekávají žádné škodlivé účinky na průběh těhotenství, na plod ani na novorozence.
+
+Kojení
+Imunoglobuliny se vylučují do mateřského mléka. Neočekávají se žádné negativní účinky na kojené novorozence/děti.
+Fertilita
+Klinická zkušenost s imunoglobuliny naznačuje, že se neočekávají žádné škodlivé účinky na fertilitu.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Přípravek Panzyga nemá žádný nebo má zanedbatelný vliv na schopnost řídit nebo obsluhovat stroje. Pacienti, u kterých se během léčby vyskytnou nežádoucí účinky, však musí před řízením a obsluhováním strojů počkat, než dokud neodezní.
+
+4.8  Nežádoucí účinky
+
+Shrnutí bezpečnostního profilu
+Nežádoucí účinky způsobené normálními lidskými imunoglobuliny (sestupně dle frekvence výskytu) zahrnují (viz též bod 4.4):
+•   třesavku, bolest hlavy, závratě, horečku, zvracení, alergické reakce, nauzeu, artralgii, nízký krevní tlak a středně těžkou bolest dolní části zad.
+•   reverzibilní hemolytické reakce, zejména u pacientů s krevními skupinami A, B a AB a (vzácně) hemolytickou anemii vyžadující transfuzi.
+•   (vzácně) náhlý pokles krevního tlaku a v ojedinělých případech anafylaktický šok, a to i v případech, kdy se při předchozím podání u pacienta nevyskytly žádné známky hypersenzitivity.
+•   (vzácně) přechodné kožní reakce (včetně kožního lupus erythematodes – frekvence není známa).
+•   (velmi vzácně) tromboembolické reakce jako infarkt myokardu, cévní mozkovou příhodu, plicní embolii, hluboké žilní trombózy.
+•  případy reverzibilní aseptické meningitidy.
+•   případy zvýšení hladiny sérového kreatininu a/nebo výskyt akutního selhání ledvin.
+•   případy akutního plicního poškození v souvislosti s transfuzí (TRALI).
+Tabulkový seznam nežádoucích účinků
+Tabulka uvedená níže odpovídá klasifikaci orgánových systémů podle MedDRA (SOC a preferovaná úroveň termínů).
+
+Četnosti byly vyhodnoceny za použití následující konvence: velmi časté (≥ 1/10); časté (≥ 1/100 až
+< 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10000 až < 1/1000); velmi vzácné (< 1/10000), není známo (z dostupných údajů nelze určit).
+
+V každé třídě orgánových systémů jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+
+
+
+
+
+8
+
+Frekvence nežádoucích účinků v klinických studiích s přípravkem Panzyga:
+
+Třídy orgánových systémů podle MedDRA (SOC) podle pořadí:
+Poruchy krve a lymfatického systému
+Poruchy nervového systému
+Nežádoucí účinek
+
+
+Hemolýza†, anemie, leukopenie Bolest hlavy
+Frekvence na infuzi
+
+
+Méně časté Časté
+Frekvence na pacienta
+
+
+Časté Velmi časté
+
+
+
+Poruchy oka
+Poruchy ucha a labyrintu Srdeční poruchy
+Cévní poruchy Respirační, hrudní a mediastinální poruchy Gastrointestinální poruchy
+Aseptická meningitida, hypestezie, závrať Svědění oka
+Bolest ucha Tachykardie Hypertenze Kašel
+Nauzea
+Méně časté
+
+Méně časté Méně časté Méně časté Méně časté Méně časté
+Časté
+Časté
+
+Časté Časté Časté Časté Časté
+Velmi časté
+
+
+
+
+Poruchy kůže a podkožní tkáně
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Celkové poruchy a reakce v místě aplikace
+
+
+
+Vyšetření
+
+† subklinický případ
+Zvracení, bolest břicha, břišní diskomfort
+Vyrážka
+
+Artralgie, myalgie, muskuloskeletální bolest nebo ztuhlost
+Pyrexie
+
+Třesavka, bolest na hrudi, bolest, pocit chladu, astenie, únava, svědění v místě infuze Zvýšené hodnoty jaterních enzymů
+Méně časté Méně časté Méně časté
+
+Časté Méně časté
+
+Méně časté
+Časté Časté Časté
+
+Velmi časté Časté
+
+Časté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+Následující nežádoucí účinky byly hlášeny po uvedení přípravku Panzyga na trh
+Frekvenci výskytu nežádoucích účinků hlášených po uvedení přípravku na trh nelze z dostupných údajů určit.
+
+Třídy orgánových systémů podle MedDRA (SOC) podle pořadí:
+Poruchy imunitního systému Psychiatrické poruchy Poruchy nervového systému Srdeční poruchy
+Cévní poruchy
+Respirační, hrudní a mediastinální poruchy
+Gastrointestinální poruchy Poruchy kůže a podkožní tkáně
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Celkové poruchy a reakce v místě aplikace
+Nežádoucí účinek (preferovaný termín)
+Anafylaktická reakce, přecitlivělost Úzkost
+Hypestezie, parestezie, tremor Tachykardie
+Hypertenze Kašel, dyspnoe
+
+Bolest břicha, průjem
+Erytém, pruritus, vyrážka, kopřivka
+Svalové spasmy, bolest krku, bolest v končetině
+Astenie, hrudní diskomfort, bolest na hrudi, únava, pocit horka, malátnost
+Frekvence
+
+Není známo Není známo Není známo Není známo Není známo Není známo
+
+Není známo Není známo Není známo
+
+Není známo
+
+Následující nežádoucí účinky byly hlášeny při léčbě IVIg a mohou se rovněž vyskytnout po podání přípravku Panzyga:
+
+Třídy orgánových systémů podle MedDRA
+Poruchy krve a lymfatického systému Poruchy imunitního systému
+Poruchy metabolismu a výživy Psychiatrické poruchy Poruchy nervového systému
+Srdeční poruchy Cévní poruchy
+Respirační, hrudní a mediastinální poruchy
+Poruchy jater a žlučových cest Poruchy kůže a podkožní tkáně
+
+Poruchy ledvin a močových cest Celkové poruchy a reakce v místě aplikace
+
+Vyšetření
+Nežádoucí účinky
+Pancytopenie
+Anafylaktoidní reakce, angioedém, edém obličeje Hyperhydratace, (pseudo)hyponatremie Agitovanost, stav zmatenosti, nervozita
+Cévní mozková příhoda, kóma, ztráta vědomí, křeče, encefalopatie, migréna, porucha řeči, fotofobie Srdeční zástava, angina pectoris, bradykardie, palpitace, cyanóza
+Periferní oběhové selhání nebo kolaps, flebitida, bledost
+Respirační selhání, apnoe, syndrom akutní respirační tísně, plicní edém, bronchospasmus, hypoxie, sípot Jaterní dysfunkce
+Stevensův-Johnsonův syndrom, epidermolýza, kožní exfoliace, ekzém, (bulózní) dermatitida, alopecie Renální bolest
+Reakce v místě injekce, nával horka, onemocnění podobající se chřipce, zrudnutí, edém, letargie, pálivý pocit, hyperhidróza
+Přímý Coombsův test pozitivní, falešně zvýšená sedimentace červených krvinek, saturace kyslíkem snížená
+
+Popis vybraných nežádoucích účinků
+Pro popis vybraných nežádoucích účinků, jako jsou hypersenzitivní reakce, embolizace, akutní selhání ledvin, syndrom aseptické meningitidy a hemolytická anemie, viz bod 4.4.
+
+Pediatrická populace
+10
+
+Frekvence, typ a závažnost nežádoucích účinků u dětí byly stejné jako u dospělých.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Předávkování může vést k hyperhydrataci a hyperviskozitě, zvláště u rizikových pacientů, včetně starších pacientů nebo pacientů se srdeční poruchou nebo s poruchou funkce ledvin (viz bod 4.4).
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: hyperimunní séra a imunoglobuliny: imunoglobuliny, normální lidské, pro intravaskulární aplikaci
+ATC kód: J06BA02.
+Normální lidský imunoglobulin obsahuje převážně imunoglobulin G (IgG) se širokým spektrem protilátek proti infekčním agens.
+
+Normální lidský imunoglobulin obsahuje protilátky IgG přítomné v běžné populaci. Zpravidla se připravuje ze směsi lidské plazmy od minimálně 1000 dárců. Jeho rozložení IgG podtříd je velmi podobné jako v nativní lidské plazmě. Správně zvolené dávky tohoto léčivého přípravku mohou upravit i velmi nízkou hladinu IgG na normální hodnotu.
+Mechanismus účinku v jiných indikacích, než je substituční léčba, není zcela objasněn. Klinické studie
+Prospektivní, otevřená, nekontrolovaná studie byla provedena u 51 pacientů se syndromy primární imunodeficience. Pacienti byli zařazeni do 3 věkových skupin (≥2 roky až < 12 let, ≥12 let až < 16 let a ≥16 let až ≤75 let). Primárním cílovým parametrem studie byla míra výskytu závažných bakteriálních onemocnění (SBI) na osobu a rok léčby. Pacienti obdrželi celkem 17 nebo 13 infuzí přípravku Panzyga v průběhu této studie v závislosti na tom, zda jejich intervaly řádné léčby byly 3 nebo 4 týdny. Dávka 0,2-0,8 g/kg se podávala při rostoucích rychlostech infuze až do maxima
+0,08 ml/kg/min. U dvou pacientů došlo ke čtyřem SBI. Výsledkem u tohoto primárního cílového parametru bylo 0,08 SBI/pacientroků expozice u celkem 50,2 pacientroků expozice s horním hranicí 99% intervalu spolehlivosti 0,5. Rovněž další parametry účinnosti vypočítané pomocí pacientroků expozice, jako jsou jiné infekce a dny s používáním antibiotik, nepřítomnost ve škole nebo v práci a hospitalizace způsobená infekcí, byly v souladu s tím, co bylo zveřejněno pro jiné IVIG vyvinuté již dříve.
+Po této studii následovala rozšířená studie, která byla prováděna s cílem vyhodnotit snášenlivost přípravku Panzyga při podání při vyšších rychlostech infuze (od 0,08 ml/kg/min až do
+0,14 ml/kg/min). Celkem bylo zařazeno 21 pacientů. Přípravek je dobře snášen a všichni pacienti dokončili studii podle plánu. Nežádoucí účinky související se studovaným léčivem byly hlášeny u 2 dětí a 2 dospělých; nejčastěji hlášenými nežádoucími účinky byly nauzea a bolest hlavy.
+
+Další prospektivní, otevřená, nekontrolovaná studie byla provedena u 40 pacientů s imunitní trombocytopenickou purpurou v trvání nejméně 12 měsíců. Pacienti obdrželi denní dávku 1 g/kg po 2
+11
+
+po sobě jdoucí dny. Alternativní odpověď (AR) podle pokynů EMA byla definována jako zvýšení počtu krevních destiček na ≥ 30 x 10⁹/l a na nejméně dvojnásobek výchozího počtu trombocytů, což bude potvrzeno nejméně při 2 samostatných příležitostech v intervalu nejméně 7 dnů a za nepřítomnosti krvácení. AR byla pozorována u 24 pacientů (66,7 %).
+
+Úplná odpověď (CR) podle pokynu EMA byla definována jako dosažení počtu trombocytů
+≥ 100 x 10⁹/l, čehož bude dosaženo při nejméně 2 samostatných návštěvách v intervalu nejméně 7 dnů bez nových krvácení. CR byla pozorována u 18 pacientů (50,0 %).
+
+Ztráta AR/CR byla uplatněna v případě, že byla splněna kritéria pro AR/CR, ale následně se zhoršila s tím, jak poklesl počet trombocytů na < 30 x 10⁹/l (AR) nebo < 100 x 10⁹/l (CR), případně poklesl počet trombocytů na méně než dvojnásobek výchozího počtu nebo když se vyskytlo krvácení. Pokud jde o ztrátu AR, 11 z 24 pacientů (45,8 %), kteří splnili kritéria AR, mělo ztrátu odpovědi. Ztráta CR byla pozorována u 14 z 18 pacientů (77,8 %), kteří splňovali kritéria CR.
+Informace o bezpečnosti získané z klinických studií naleznete v bodě 4.8. Pediatrická populace
+Neobjevily se žádné velké rozdíly v poměru pediatrických nebo dospívajících pacientů s nežádoucími
+účinky v porovnání s dospělými. Nežádoucí účinky týkající se třídy orgánových systémů „infekce a infestace“ byly nejčastějšími nežádoucími účinky, které se objevovaly ve všech věkových skupinách, avšak byly hlášeny ve větším procentuálním zastoupení u pediatrických a dospívajících pacientů.
+Stejný rozdíl byl zaznamenán u nežádoucích účinků spadajících do gastrointestinálních poruch. Byl také zaznamenán vyšší procentuální podíl pacientů v dětské věkové skupině, kteří měli nežádoucí účinky v třídě orgánových systémů „poruchy kůže a podkožní tkáně“.
+
+5.2  Farmakokinetické vlastnosti
+
+Normální lidský imunoglobulin je v krevním oběhu příjemce po intravenózním podání okamžitě a plně biologicky dostupný. Relativně rychle je distribuován mezi plazmu a extravaskulární tekutinu; přibližně po 3 – 5 dnech je dosažena rovnováha mezi intravaskulárním a extravaskulárním prostorem.
+
+Přípravek Panzyga má průměrný poločas přibližně 26 – 39 dnů. Tento poločas může kolísat u jednotlivých pacientů, zvláště s primárním imunodeficitem.
+IgG a komplexy IgG jsou odbourávány v buňkách retikuloendoteliálního systému. Pediatrická populace
+Výsledky farmakokinetických studií v různých pediatrických věkových skupinách jsou shrnuty v
+následující tabulce se srovnáním vůči dospělým.
+Přehled farmakokinetických charakteristik celkového IgG pro přípravek Panzyga rozdělených podle různých věkových skupin (střední hodnoty)
+
+
+Pediatrická populace
+Dospělí
+
+
+
+
+Parametr
+Cmax Cmin [rozsah] AUC0-tau t½
+
+
+
+Jednot ka
+g/l g/l
+
+h•g/l dny
+Děti
+≥ 2 až
+< 12 let
+N = 13
+18,6
+10,7
+[7,2 – 16,8]
+6957
+36
+Dospívající
+≥ 12 až
+< 16 let
+N = 12
+19,3
+9,3
+[7,4 – 20,4]
+6826
+33
+
+≥ 16 až
+≤ 75 let
+N = 26
+17,1
+10,1
+[6,8 – 20,6]
+7224
+37
+Všechny věkové skupiny
+
+N = 51
+18,2
+9,9
+[6,8 – 20,6]
+7182
+36
+
+
+12
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Imunoglobuliny jsou normálními složkami lidského těla.
+
+Bezpečnost přípravku Panzyga byla prokázána v několika neklinických farmakologických studiích bezpečnosti (kardiovaskulární, respirační a bronchospastické účinky, trombogenní potenciál) a toxikologických studiích (akutní toxicita, lokální tolerance). Neklinické údaje získané na základě těchto konvenčních farmakologických studií bezpečnosti a toxicity neodhalily žádné zvláštní riziko pro člověka. Studie toxicity po opakovaném podávání, genotoxicity a reprodukční toxicity u zvířat nelze provést vzhledem k indukci a interferenci vznikajících protilátek proti heterologním proteinům. Jelikož klinické zkušenosti neposkytují žádný důkaz kancerogenního potenciálu imunoglobulinů, nebyly prováděny žádné experimentální studie genotoxicity/kancerogenity u heterogenních druhů.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Glycin, voda pro injekci
+
+6.2  Inkompatibility
+
+Studie inkompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky ani s žádnými jinými přípravky IVIg.
+
+6.3  Doba použitelnosti
+
+3 roky
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 ºC – 8 ºC). Chraňte před mrazem. Uchovávejte injekční lahvičku/lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+
+Přípravek může být uchováván při teplotě nad +8 °C a do +25 °C až 12 měsíců bez opakovaného uchovávání v chladničce, a pokud nebyl použit, musí být po této době zlikvidován.
+6.5  Druh obalu a obsah balení
+
+Velikost balení:
+1 g      v       10 ml     v 20ml injekční lahvičce 2,5 g     ve      25 ml     v 30ml injekční lahvičce
+5 g     v      50 ml     v 70ml lahvičce
+6 g      v       60 ml     v 70ml lahvičce 10 g     ve      100 ml     ve 100ml lahvičce 3 x 10 g   v       3 x 100 ml   ve 100ml lahvičce 20 g     ve      200 ml     ve 250ml lahvičce 3 x 20 g   v       3 x 200 ml   ve 250ml lahvičce 30 g     v       300 ml     v 300ml lahvičce
+
+Na trhu nemusí být všechny velikosti balení.
+Injekční lahvičky/lahvičky jsou vyrobeny ze skla třídy II a jsou uzavřeny brombutylovými pryžovými zátkami a utěsněny hliníkovým odtrhovacím víčkem.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+13
+
+Přípravek je třeba před použitím ohřát na pokojovou teplotu nebo tělesnou teplotu. Roztok má být čirý nebo lehce opalizující a bezbarvý až nažloutlý.
+Roztoky, které jsou zakalené nebo obsahují usazeniny, se nesmí používat.
+Všechen nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+Vzhledem k možnosti bakteriální kontaminace musí být veškerý nepoužitý přípravek zlikvidován.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Octapharma (IP) SPRL Allée de la Recherche 65 1070 Anderlecht
+Belgie
+
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+59/643/15-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 29. 3. 2017
+Datum posledního prodloužení registrace: 24. 9. 2020
+
+
+10.  DATUM REVIZE TEXTU
+10. 11. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

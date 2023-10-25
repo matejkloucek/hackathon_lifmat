@@ -1,0 +1,435 @@
+sp.zn. sukls26313/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+
+1.  NÁZEV PŘÍPRAVKU
+Doxorubicin Pharmagen 2 mg/ml koncentrát pro infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ¨
+
+Jeden ml obsahuje doxorubicini hydrochloridum 2 mg.
+Jedna 5ml injekční lahvička obsahuje doxorubicini hydrochloridum 10 mg. Jedna 10ml injekční lahvička obsahuje doxorubicini hydrochloridum 20 mg. Jedna 25ml injekční lahvička obsahuje doxorubicini hydrochloridum 50 mg. Jedna 50ml injekční lahvička obsahuje doxorubicini hydrochloridum 100 mg. Jedna 75ml injekční lahvička obsahuje doxorubicini hydrochloridum 150 mg. Jedna 100ml injekční lahvička obsahuje doxorubicini hydrochloridum 200 mg.
+
+Pomocná látka se známým účinkem: sodík 3,54 mg/ml koncentrátu (0,154 mmol/ml). Úplný seznam pomocných látek viz bod 6.1.
+3.  LÉKOVÁ FORMA
+Koncentrát pro infuzní roztok.
+Čirý červený roztok s pH 3 (2,8-3,2) a osmolalitou 286 mosm/kg.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+Doxorubicin Pharmagen je určen k léčbě následujících nádorů:
+
+-  akutní lymfoblastická leukemie
+-  akutní myeloidní leukemie
+-  chronická leukemie
+-  Hodgkinova nemoc a non-Hodgkinovy lymfomy
+-  mnohočetný myelom
+-  osteosarkom
+-  Ewingův sarkom
+-  sarkom měkkých tkání
+-  neuroblastom
+-  rabdomyosarkom
+-  Wilmsův tumor
+-  karcinom prsu včetně užití jako součásti adjuvantní terapie u žen se známkami postižení axilárních lymfatických uzlin po resekci primárního tumoru prsu
+-  karcinom endometria
+-  karcinom vaječníků
+-  testikulární neseminomy
+-  karcinom prostaty
+-  karcinom močového měchýře z přechodných buněk
+-  karcinom plic
+
+
+1
+
+-  karcinom žaludku
+-  primární hepatocelulární karcinom
+-  nádory hlavy a krku
+-  karcinom štítné žlázy
+
+4.2  Dávkování a způsob podání
+
+Doxoubicin Pharmagen se podává intravenozně. V určitých indikacích může být použita též intravezikální a intraarteriální cesta podání.
+
+
+Intravenózní (i.v.) podání:
+Celková dávka doxorubicinu v jednom cyklu se může lišit v závislosti na konkrétním léčebném režimu (např. podávání v monoterapii nebo v kombinaci s dalšími cytotoxickými látkami) a v závislosti na indikaci.
+Roztok se podává do infuzního setu s volně tekoucí nitrožilní infuzí (0,9% chlorid sodný nebo 5% glukóza) ne kratší dobu, než jsou 3 minuty, a ne déle než 10 minut, aby se minimalizovalo riziko trombózy nebo perivenózní extravazace. Přímé podání se nedoporučuje vzhledem k riziku extravazace, ke které může dojít i v přítomnosti dostatečného návratu krve při aspiraci (viz bod 4.4).
+Standardní iniciální dávkovací režimy
+Doporučovaná standardní iniciální dávka doxorubicinu na jeden cyklus v monoterapii u dospělých pacientů je 60-90 mg/m2 plochy povrchu těla. Celková počáteční dávka na jeden cyklus může být podána jako jednorázová dávka, nebo rozdělena do 3 následujících dnů, nebo podána 1. a 8. den.
+V případě normálního zotavení z lékové toxicity (především z útlumu kostní dřeně a stomatitidy) je možno léčebný cyklus opakovat vždy každé 3 až 4 týdny. Bylo prokázáno, že podávání doxorubicinu v týdenním režimu 10-20 mg/m2 je také účinné. Pokud je doxorubicin používán v kombinaci s jinými cytotoxickými látkami s potenciálně se překrývajícími toxicitami, je doporučená dávka podaná během jednoho cyklu v rozmezí 30-60 mg/m2.
+
+Adjuvantní terapie
+Ve velké randomizované studii B-15 provedené National Surgical Adjuvant Breast and Bowel Project (NSABP) sledující pacienty s časnou rakovinou prsu postihující axilární lymfatické uzliny (viz bod 4.8 a 5.1) byl v 1. dni každého 21denního cyklu intravenózně podáván kombinovaný režim AC (doxorubicin 60 mg/m2 a cyklofosfamid 600 mg/m2). Byly podány 4 cykly léčby.
+Úprava dávkování
+Porucha funkce jater
+Redukce dávky se doporučuje u pacientů s následujícími sérovými hodnotami:
+•  bilirubin 20 až 50 μmol/l (1,2 až 3 mg/dl): polovina doporučené úvodní dávky
+•  bilirubin > 50 μmol/l (>3 mg/dl): čtvrtina doporučené úvodní dávky
+
+Doxorubicin se nesmí podávat pacientům s těžkou poruchou funkce jater (viz bod 4.3).
+Ostatní zvláštní skupiny pacientů.
+U intenzivně předléčených pacientů, dětí, starších pacientů, obézních pacientů či pacientů s neoplastickou infiltrací kostní dřeně může být nutné zvážit nižší úvodní dávky či delší intervaly mezi cykly (viz bod 4.4).
+Intravezikální podání:
+Intravezikálně podaný doxorubicin se může použít k léčbě superficiálních tumorů močového měchýře nebo jako profylaxe ke snížení rekurence po transuretrální resekci (TUR). Intravezikální podání není vhodné k léčbě invazivních tumorů, které penetrovaly svalovou vrstvu stěny močového měchýře.
+Doporučuje se instilace 30-50 mg v 25-50 ml fyziologického roztoku. V případě lokální toxicity (chemická cystitida) by dávka měla být podána v 50-100 ml fyziologického roztoku. Pacienti mohou dostávat instilace v týdenních až měsíčních intervalech (viz bod 4.4).
+
+
+2
+
+Doxorubicin by měl být instilován za použití katetru a ponechán v měchýři 1 až 2 hodiny. Během instilace má pacient měnit polohu, aby bylo zajištěno, že pánevní sliznice močového měchýře bude nejvíce vystavena působení roztoku. Aby se předešlo nepřiměřenému naředění močí, má být pacient poučen, aby 12 hodin před instalací nepil žádné tekutiny. Pacient má být instruován, aby se na konci instilace volně vymočil.
+
+Intraarteriální podání:
+Doxorubicin je také používán cestou intraarteriálního podání ve snaze dosáhnout vysoké lokální aktivity při omezené systémové toxicitě u pacientů s hepatocelulárním karcinomem. Protože tato technika je potenciálně riziková a může vést k rozsáhlé nekróze perfundované tkáně, měl by být intraarteriální způsob podání prováděn jen lékaři dostatečně vyškolenými v této technice. Pacientům může být infuze v dávce 30 až 150 mg/m2 aplikována do hlavní jaterní arterie v intervalech 3 týdnů až 3 měsíců, užití vyšších dávek je přitom rezervováno pro podávání při současné extrakorporální eliminaci léku. Nižší dávky jsou vhodné pro aplikaci doxorubicinu s jodizovaným olejem.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo kteroukoli pomocnou látku uvedenou v bodě 6.1. Hypersenzitivita na jiné antracykliny nebo antracendiony.
+Intravenózní (i.v.) podání:
+-  přetrvávající myelosuprese
+-  těžká porucha funkce jater
+-  těžká insuficience myokardu
+-  nedávný infarkt myokardu
+-  závažné arytmie
+-  předchozí léčba s maximální kumulativní dávkou doxorubicinu, daunorubicinu, epirubicinu,
+idarubicinu a/nebo jiných antracyklinů či antracendionů (viz bod 4.4)
+
+Intravezikální podání:
+-  infekce močového traktu
+-  záněty močového měchýře
+-  hematurie
+
+4.4  Zvláštní upozornění a opatření pro použití
+Obecné: Doxorubicin se má podávat pouze pod dohledem lékaře se zkušenostmi s cytotoxickou
+léčbou.
+Pacienti se mají před zahájením léčby doxorubicinem zotavit z akutní toxicity předchozí cytotoxické léčby (jako je stomatitida, neutropenie, trombocytopenie a generalizované infekce).
+Systémová clearance doxorubicinu je snížena u obézních pacientů (> 130 % ideální tělesné
+hmotnosti), (viz bod 4.2).
+Srdeční funkce
+Kardiotoxicita představuje riziko léčby antracykliny, které se může manifestovat časnými (tedy akutními) nebo pozdními změnami.
+Časné (akutní) změny. Časná kardiotoxicita doxorubicinu je představována především sinusovou tachykardií a/nebo abnormalitami na EKG, jako jsou nespecifické změny ST úseku a T vlny. Byly popsány také tachyarytmie, včetně předčasných komorových stahů a komorové tachykardie, bradykardie, stejně tak atrioventrikulární a raménkové blokády. Tyto změny většinou nepředznamenávají rozvoj pozdní toxicity, zřídka jsou klinicky významné a obecně nepředstavují důvod k přerušení léčby doxorubicinem.
+
+Pozdní (opožděné) změny. Pozdní kardiotoxicita se většinou objevuje pozdě v průběhu léčby doxorubicinem nebo 2 až 3 měsíce po jejím ukončení, byly však popsány i změny pozdější, několik měsíců až let po ukončení terapie. Pozdní kardiomyopatie se projevuje snížením ejekční frakce levé
+
+
+3
+
+komory (LVEF) a/nebo příznaky kongestivního srdečního selhání, jako jsou dyspnoe, plicní edém, gravitační otoky, kardiomegalie a hepatomegalie, oligurie, ascites, pleurální výpotek a galop. Byly popsány i změny subakutní, jako je perikarditida/myokarditida. Život ohrožující městnavé srdeční selhání je nejzávažnější formou antracykliny vyvolané kardiomyopatie a představuje toxicitu limitující kumulativní dávku přípravku.
+
+Předtím, než pacienti podstoupí léčbu doxorubicinem, se mají zhodnotit jejich srdeční funkce, které pak musí být sledovány po celou dobu terapie, aby se snížilo riziko vzniku závažného srdečního postižení. Riziko může být sníženo pravidelným monitorováním LVEF v průběhu léčby s jejím okamžitým přerušením v případě prvního příznaku zhoršení funkce. Příslušné kvantitativní metody pro opakované hodnocení srdečních funkcí (hodnocení LVEF) zahrnují radionuklidovou ventrikulografii (MUGA) nebo echokardiografii (ECHO). Doporučuje se zhodnocení výchozího stavu srdeční funkce pomocí EKG a buď MUGA nebo ECHO vyšetření, hlavně u pacientů s rizikovými faktory pro zvýšenou kardiotoxicitu. Opakované ECHO nebo MUGA zhodnocení LVEF by mělo být prováděno hlavně u vyšších kumulativních dávek antracyklinů. Technika užitá k hodnocení funkcí má být konzistentní po celou dobu sledování pacienta.
+
+Pravděpodobnost rozvoje městnavého srdečního selhání, odhadovaná kolem 1 % až 2 % při kumulativní dávce 300 mg/m2, pomalu roste až do celkové kumulativní dávky 450 – 550 mg/m2, poté se riziko srdečního selhání prudce zvyšuje - nedoporučuje se tedy překračovat maximální kumulativní dávku 550 mg/m2.
+Rizikové faktory pro srdeční toxicitu zahrnují aktivní či latentní kardiovaskulární onemocnění, předchozí či současnou radioterapii mediastinální/perikardiální oblasti, předchozí terapii antracykliny nebo antracendiony a současné užívání léčivých přípravků potlačujících srdeční kontraktilitu nebo kardiotoxických léků (např. trastuzumab) a věk nad 70 let. Antracykliny včetně doxorubicinu nemají být podávány v kombinaci s dalšími kardiotoxickými léky, pokud nejsou pacientovy srdeční funkce pečlivě monitorovány (viz bod 4.5). Pacienti, kterým jsou podávány antracykliny po ukončení léčby jinými kardiotoxickými přípravky, zvláště takovými, které mají dlouhý biologický poločas, jako je trastuzumab, mohou být také vystaveni zvýšenému riziku rozvoje kardiotoxicity. Hlášený biologický poločas trastuzumabu je proměnlivý. Trastuzumab může přetrvávat v oběhu až 7 měsíců. Proto se lékaři mají vyhnout zahájení terapie antracykliny až 7 měsíců po ukončení terapie trastuzumabem, pokud je to možné. Pokud toto není možné, mají být srdeční funkce pacienta důkladně monitorovány. U pacientů léčených vysokými kumulativními dávkami a u těch s rizikovými faktory musí být srdeční funkce pečlivě sledovány. Kardiotoxicita doxorubicinu se však může projevit i při nižších kumulativních dávkách či u pacientů bez rizikových faktorů.
+Děti a dospívající mají zvýšené riziko rozvoje pozdní kardiotoxicity po léčbě doxorubicinem. Ženy mají vyšší riziko než muži. Ke sledování těchto účinků se doporučuje následné pravidelné sledování srdečních funkcí.
+Je pravděpodobné, že toxicita doxorubicinu a ostatních antracyklinů a antracendionů se sčítá.
+Hematologická toxicita
+Stejně jako ostatní cytotoxické látky i doxorubicin může vést k myelosupresi. Před každým cyklem terapie doxorubicinem a během něj má být vyhodnocen hematologický profil pacienta, včetně diferenciálního počtu leukocytů. Hlavním projevem hematologické toxicity doxorubicinu je přechodná na dávce závislá leukopenie a/nebo granulocytopenie (neutropenie), které představují nejčastější akutní toxicitu limitující dávku tohoto přípravku. Leukopenie a neutropenie obecně dosahují svého maxima mezi 10. a 14. dnem po aplikaci. Počet leukocytů/neutrofilů se ve většině případů navrací k normálním hodnotám do 21. dne. Může se též objevit trombocytopenie a anémie. Klinické důsledky závažné myelosuprese zahrnují horečku, infekce, sepsi/septikémii, septický šok, krvácení, hypoxii tkání či úmrtí.
+Sekundární leukemie
+Sekundární leukemie, s preleukemickou fází či bez ní, byla popsána u pacientů léčených antracykliny (včetně doxorubicinu). Sekundární leukemie je častější, pokud jsou tyto léky podávány spolu
+s cytostatickými látkami poškozujícími DNA, v kombinaci s radioterapií či pokud byli pacienti předléčeni cytotoxickými látkami, případně pokud byly dávky antracyklinu postupně zvyšovány. Tyto leukemie mohou mít 1 až 3letou latenci.
+
+
+4
+
+Gastrointestinální
+Doxorubicin je emetogenní. Mukozitida/stomatitida se obecně objevují časně po podání přípravku a pokud jsou závažné, mohou během několika dnů progredovat do slizničních ulcerací. Většina pacientů se z těchto nežádoucích účinků zotaví do třetího týdne terapie.
+Jaterní funkce
+Hlavní cestou eliminace doxorubicinu je hepatobiliární systém. Před léčbou doxorubicinem a během ní má být sledována sérová hladina celkového bilirubinu. Pacienti se zvýšenou hladinou bilirubinu mohou mít nižší clearance léku, která může vést k vyšší celkové toxicitě. U takovýchto pacientů jsou doporučovány nižší dávky (viz bod 4.2). Pacienti s těžkým jaterním postižením nesmí být doxorubicinem léčeni (viz bod 4.3).
+
+Účinky v místě aplikace
+Aplikace do malé žíly či opakovaná aplikace do téže žíly mohou vést ke vzniku flebosklerózy. Riziko vzniku flebitidy/tromboflebitidy v místě injekce lze snížit dodržováním doporučeného způsobu aplikace (viz bod 4.2).
+Extravazace
+Extravazace doxorubicinu během intravenózního podání může vést k lokální bolesti, závažnému poškození tkání (tvorba puchýřů, závažná celulitida) a nekróze. Pokud se během intravenózního podávání doxorubicinu objeví příznaky či známky extravazace, musí být infuze okamžitě ukončena.
+Syndrom nádorového rozpadu
+Doxorubicin může způsobovat hyperurikemii jako důsledek rozsáhlého katabolismu purinů, který doprovází lékem způsobenou rychlou lýzu neoplastických buněk (syndrom nádorového rozpadu). Po zahájení léčby mají být vyhodnoceny krevní hladiny kyseliny močové, draslíku, vápníku, fosfátu a kreatininu. Hydratace, alkalizace moči a profylaxe alopurinolem k prevenci hyperurikemie mohou snížit riziko možných komplikací syndromu nádorového rozpadu.
+
+Imunosupresivní účinky/zvýšená vnímavost vůči infekcím
+Podání živých či atenuovaných vakcín pacientům imunokompromitovaným podáním chemoterapeutických látek včetně doxorubicinu může mít za následek vážné či fatální infekce. Pacienti užívající doxorubicin se mají vyvarovat vakcinací živou vakcínou. Usmrcené či inaktivované vakcíny mohou být použity, nicméně odpověď na tyto vakcíny může být zmenšená.
+Ostatní
+Doxorubicin může potencovat toxicitu ostatní protinádorové léčby. Byla popsána exacerbace cyklofosfamidové hemoragické cystitidy a zvýraznění hepatotoxicity merkaptopurinu. Též byla popsána postradiační toxicita (myokard, sliznice, kůže a játra).
+Stejně jako u ostatních cytotoxických látek byly během léčby doxorubicinem hlášeny případy tromboflebitidy a trombembolické příhody, včetně plicní embolie (v některých případech fatální).
+Další varování a upozornění pro ostatní způsoby aplikace
+
+Intravezikální podání
+Podání doxorubicinu intravezikálně může vést k příznakům chemické cystitidy (jako je dysurie, polyurie, nykturie, strangurie, hematurie, potíže s močovým měchýřem, nekróza stěny měchýře) a konstrikci měchýře. Obtíže při katetrizaci vyžadují zvláštní pozornost (např. uretrální obstrukce rozsáhlým intravezikálním tumorem).
+Intraarteriální podání
+Intraarteriální podání doxorubicinu (transkatetrová arteriální embolizace) může být použito
+k lokalizované nebo regionální léčbě primárního hepatocelulárního karcinomu nebo jaterních metastáz. Intraarteriální podání může vést (kromě systémové toxicity kvalitativně srovnatelné
+s toxicitou pozorovanou po intravenózním podání doxorubicinu) ke vzniku gastroduodenálních vředů
+
+
+
+5
+
+(pravděpodobně refluxem léku do arteria gastrica) a k zúžení žlučovodu sklerotizující cholangitidou vyvolanou lékem. Tento způsob podání může vést k rozsáhlé nekróze perfundované tkáně.
+Doxorubicin Pharmagen obsahuje 3,54 mg (< 1 mmol) sodíku v 1 ml koncentrátu. Vzhledem k různé velikosti dávky je to nutno vzít v úvahu u pacientů na dietě s nízkým obsahem sodíku.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Použití trastuzumabu v kombinaci s antracykliny (jako je doxorubicin-hydrochlorid) je spojeno se zvýšeným rizikem kardiotoxicity. Kombinace trastuzumabu a antracyklinů se v současné době nemá používat, s výjimkou dobře kontrolovaných klinických studií s monitorováním srdečních funkcí (viz bod 4.4)
+
+Doxorubicin je hlavním substrátem cytochromu P450 CYP3A4 a CYP2D6 a P-glykoproteinu (P-gp). Byly hlášeny klinicky významné interakce s inhibitory CYP3A4, CYP2D6, a/nebo P-gp (např, verapamil) vedoucí ke zvýšené koncentraci a zvýšenému klinickému účinku doxorubicinu. Induktory CYP3A4 (např. fenobarbital, fenytoin, třezalka tečkovaná) a induktory P-gp mohou snížit koncentraci doxorubicinu.
+Přidání cyklosporinu k doxorubicinu může vést ke zvýšení plochy pod křivkou plazmatické koncentrace v čase (AUC) jak u cyklosporinu tak u doxorubicinolu, pravděpodobně vzhledem
+k snížené clearance doxorubicinu a zvýšení metabolismu doxorubicinolu. Literární údaje naznačují, že přidání cyklosporinu k doxorubicinu vede k hematologické toxicitě silnější a delší než té, která byla pozorována u doxorubicinu samotného. Při současném podání cyklosporinu a doxorubicinu byly rovněž zaznamenány kóma a epileptické záchvaty.
+Doxorubicin je užíván především v kombinacích s jinými cytotoxickými látkami. Může dojít k aditivní toxicitě postihující především kostní dřeň, krev a zažívací trakt (viz bod 4.4). Použití doxorubicinu v kombinované chemoterapii s jinými potenciálně kardiotoxickými látkami, podobně jako souběžná léčba léky ovlivňujícími srdce (např. blokátory vápníkového kanálu) vyžaduje sledování srdečních funkcí v celém průběhu terapie. Změny jaterních funkcí vyvolané současnou terapií jinými léky mohou ovlivnit metabolismus doxorubicinu, jeho farmakokinetiku a terapeutickou účinnost a/nebo toxicitu.
+
+Paklitaxel, pokud je podán dříve než doxorubicin, může způsobit zvýšení plazmatických koncentrací doxorubicinu a/nebo jeho metabolitů. Určité údaje ukazují, že tento účinek se sníží, je-li antracyklin podán dříve než paklitaxel.
+
+Při současné léčbě sorafenibem v dávce 400 mg dvakrát denně byly pozorovány jak zvětšení plochy pod koncentrační křivkou AUC (21% - 47%) doxorubicinu, tak hodnota AUC beze změny. Klinický význam těchto nálezů není znám.
+
+4.6  Fertilita, těhotenství a kojení
+Fertilita
+U žen může podávání doxorubicinu způsobit neplodnost. Doxorubicin může způsobit amenoreu. Ovulace a menstruace se po ukončení terapie může upravit, ale může dojít i k předčasné menopauze.
+U mužů je doxorubicin mutagenní a může způsobit poškození chromozomů v lidských spermiích. Oligospermie nebo azoospermie mohou být trvalé, i když v některých případech byl popsán návrat počtu spermií do normálních hodnot. K tomu může dojít i několik let po ukončení léčby. Muži léčení doxorubicinem mají používat účinné antikoncepční metody.
+Těhotenství
+Embryotoxický účinek doxorubicinu byl potvrzen in vitro i in vivo. Pokud byl podáván samicím potkanů před a během páření, gravidity a laktace, byl doxorubicin toxický jak pro matky, tak pro plody.
+
+
+
+6
+
+Existují náznaky, že doxorubicin způsobuje poškození plodu, pokud je podáván těhotným ženám. Pokud žena užívá doxorubicin během těhotenství nebo během léčby otěhotní, musí být informována o možných rizicích pro plod.
+
+Kojení
+Doxorubicin je vylučován do mateřského mléka (viz bod 5.2). Ženy léčené doxorubicinem nemají
+kojit.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Účinky doxorubicinu na schopnost řídit nebo obsluhovat stroje nebyly systematicky hodnoceny.
+4.8  Nežádoucí účinky
+
+Nežádoucí účinky hlášené v souvislosti s léčbou doxorubicinem jsou uvedeny níže a řazeny podle tříd orgánových systémů databáze MedDRA. Četnosti jsou definovány jako: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10000 až < 1/1000); velmi vzácné (< 1/10000), není známo (z dostupných údajů nelze určit).
+
+Infekce a infestace
+Velmi časté       infekce
+Časté          sepse
+
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy)
+Není známo       akutní lymfatická leukemie, akutní myeloidní leukemie
+
+Poruchy krve a lymfatického systému
+Velmi časté       leukopenie, neutropenie, trombocytopenie, anemie
+
+Poruchy imunitního systému
+Není známo       anafylaktické reakce
+
+Poruchy metabolismu a výživy
+Velmi časté       snížení chuti k jídlu
+Není známo       dehydratace, hyperurikemie
+
+Poruchy oka
+Časté          konjunktivitida
+Není známo       keratitida, zvýšené slzení
+
+Srdeční poruchy
+Časté          městnavé srdeční selhání, sinusová tachykardie
+Není známo       atrioventrikulární blok, tachyarytmie, raménkové blokády
+
+Cévní poruchy
+Méně časté       embolie
+Není známo       šok, hemoragie, tromboflebitida, flebitida, návaly horka
+
+Gastrointestinální poruchy
+
+Velmi časté Časté
+Není známo
+mukozitida/stomatitida, průjem, zvracení, nauzea
+esofagitida, bolest břicha
+gastrointestinální krvácení, žaludeční eroze, kolitida, hyperpigmentace ústní sliznice
+
+Poruchy kůže a podkožní tkáně
+Velmi časté       palmoplantární erytrodysestezie, alopecie
+
+7
+
+Časté          urtikarie, vyrážka, hyperpigmentace kůže a nehtů
+Není známo       fotosenzitivní reakce, hypersenzitivita ozářené kůže, pruritus, změny kůže
+
+Poruchy ledvin a močových cest
+Není známo       chromaturiea
+
+Poruchy reprodukčního systému a prsu
+Není známo       amenorea; oligospermie; azoospermie
+
+Celkové poruchy a reakce v místě aplikace
+Velmi časté       pyrexie, astenie, zimnice
+Časté          reakce v místě infuze
+Není známo       malátnost
+
+Vyšetření
+Velmi časté       snížení ejekční frakce, abnormality na EKG, změny hladin
+transamináz, nárůst tělesné hmotnostib
+
+aPo dobu jednoho až dvou dní po podání
+bHlášeno u pacientek s časným karcinomem prsu léčených adjuvantní terapií obsahující
+doxorubicin
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+Akutní předávkování doxorubicinem vede k závažné myelosupresi (především leukopenii a trombocytopenii), ke gastrointestinálním toxickým účinkům (především mukozitidě) a akutním změnám srdečních funkcí.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: cytostatická antibiotika a příbuzné látky, antracykliny a příbuzné látky ATC kód: L01DB01
+Doxorubicin je cytotoxické antracyklinové antibiotikum izolované z kultur Streptomyces peuceutius,
+var. caesius.
+Předpokládá se, že cytotoxický účinek doxorubicinu na maligní buňky a jeho toxické účinky na různé orgány spočívají v interkalaci doxorubicinu mezi nukleotidové páry a jeho vazbě na lipidy buněčné membrány. Interkalace inhibuje replikaci nukleotidů a působení DNA a RNA polymeráz. Zdá se, že interakce doxorubicinu s topoizomerázou II za tvorby DNA-štěpitelných komplexů je důležitým mechanismem cytocidní aktivity doxorubicinu.
+
+Klinické studie
+
+
+8
+
+Účinnost léčebných režimů obsahujících doxorubicin v adjuvantní terapii časné rakoviny prsu byla primárně stanovena na základě dat shromážděných metaanalýzou publikovanou v roce 1998 skupinou EBCTCG (Early Breast Cancer Trialists Collaborative Group). EBCTCG získává primární data ze všech relevantních studií, jak publikovaných, tak nepublikovaných, studujících časnou rakovinu prsu. Tato data jsou pravidelně aktualizována. Hlavní sledované cílové parametry studií adjuvantní terapie byly čas bez známek onemocnění (DFS, disease-free survival) a celkové přežití (OS, overall survival). Metaanalýza umožnila srovnání cyklofosfamidu, methotrexatu a fluoruracilu (CMF) oproti žádné chemoterapii (19 studií zahrnujících 7 523 pacientů) a srovnání režimů obsahujících doxorubicin oproti CMF jako aktivní kontrole (6 studií zahrnujících 3 510 pacientů). Shromážděné odhady DFS a OS z těchto studií byly použity k výpočtu účinku CMF ve srovnání s žádnou léčbou. Poměr rizika pro DFS u CMF ve srovnání s žádnou chemoterapií byl 0,76 (95% CI 0,71-0,82) a pro OS byl 0,86 (95% CI 0,80-0,93). Na základě konzervativních odhadů vlivu CMF (dolní dvoustranný 95% interval spolehlivosti poměru rizika) a 75% udržení účinku CMF na DFS bylo stanoveno, že režimy obsahující doxorubicin lze považovat za alespoň rovnocenné k CMF, pokud je horní dvoustranný 95% interval spolehlivosti poměru rizik nižší než 1,06, tedy ne víc než o 6 % horší než CMF. Podobný výpočet pro OS vyžaduje hranici noninferiority 1,02.
+
+Šest randomizovaných studií v metaanalýze EBCTCG srovnávalo režimy obsahující doxorubicin s CMF. Bylo sledováno celkem 3 510 žen s časnou rakovinou prsu postihující axilární lymfatické uzliny, přibližně 70 % bylo premenopauzálních a 30 % postmenopauzálních. V čase metaanalýzy došlo k 1 745 prvním rekurencím a k 1 348 úmrtím. Analýzy ukázaly, že režimy s doxorubicinem
+udržely alespoň 75 % původního adjuvantního účinku CMF na DFS a jsou účinné. Poměr rizika pro
+DFS (dox:CMF) byl 0,91 (95% CI 0,82-1,01), pro OS byl 0,91 (95% CI 0,81-1,03).
+Největší z 6 studií v EBCTCG metaanalýze, randomizovaná otevřená multicentrická studie (NSABP B-15) zahrnovala přibližně 2 300 žen (80 % premenopauzálních, 20 % postmenopauzálních) s časnou rakovinou prsu postihující axilární lymfatické uzliny. V této studii bylo srovnáváno 6 cyklů konvenční CMF se 4 cykly doxorubicinu a cyklofosfamidu (AC) a 4 cykly AC následovanými 3 cykly CMF. Nebyly pozorovány žádné statisticky významné rozdíly v DFS nebo OS.
+
+5.2  Farmakokinetické vlastnosti
+Distribuce
+Úvodní poločas distribuce, který je přibližně 5 minut, ukazuje na rychlý uptake doxorubicinu do tkání, zatímco v jeho terminálním poločasu 20 až 48 hodin se odráží jeho pomalá eliminace z tkání.
+Distribuční objem v rovnovážném stavu, který se pohybuje od 809 do 1 214 l/m2, též ukazuje na intenzivní ukládání v tkáních. Vazba doxorubicinu a jeho hlavního metabolitu doxorubicinolu na plazmatické proteiny je přibližně 74 až 76 % a je až do hodnot 1,1 µg/ml nezávislá na plazmatické koncentraci doxorubicinu.
+Doxorubicin byl u jedné kojící pacientky vylučován do mateřského mléka s maximální koncentrací v mléku za 24 hodin po podání léku, která byla přibližně 4,4x vyšší než odpovídající plazmatická koncentrace. Doxorubicin byl v mléce detekovatelný až 72 hodin po léčbě 70 mg/m2 doxorubicinu podaného 15minutovou nitrožilní infuzí a 100 mg/m2 cisplatiny podané jako 26hodinová nitrožilní infuze. Maximální koncentrace doxorubicinolu v mléce za 24 hodin byla 0,11 µg/ml a AUC do 24 hodin byla 9 µg.h/ml, zatímco AUC doxorubicinu byla 5,4 µg.h/ml.
+
+Doxorubicin nepřestupuje přes hematoencefalickou bariéru.
+Biotransformace
+Enzymatická redukce na pozici 7 a odštípnutí daunosaminového cukru dává aglykony doprovázené tvorbou volných radikálů, jejichž lokální tvorba může přispívat ke kardiotoxicitě doxorubicinu. Obsah doxorubicinolu (DOX-OL) v těle pacienta je limitován mírou tvorby, jeho terminální poločas je podobný poločasu doxorubicinu. Relativní expozice DOX-OL, tedy poměr mezi AUC DOX-OL a AUC doxorubicinu, se ve srovnání s doxorubicinem pohybuje mezi 0,4 a 0,6.
+Eliminace
+
+
+9
+
+Plazmatická clearance je mezi 324 a 809 ml/min/m2 a je představována především metabolizací a biliární exkrecí. Zdá se, že přibližně 40 % dávky je vyloučeno žlučí během 5 dní, zatímco jen 5 až 12 % léku a jeho metabolitů se objeví v té samé době v moči. Během 7 dnů bylo v moči detekováno
+< 3% podané dávky ve formě DOX-OL.
+
+Systémová clearance doxorubicinu je významně snížena u obézních žen s tělesnou hmotností větší než 130 % ideální hmotnosti. Ve srovnání s normálními pacienty s méně než 115 % ideální tělesné hmotnosti bylo u obézních pacientů pozorováno významné snížení clearance bez změny distribučního objemu (viz bod 4.2).
+Farmakokinetika u zvláštních populací
+Pediatrická populace
+Po podání dávky doxorubicinu 10 až 75 mg/m2 60 dětem a dospívajícím ve věkovém rozmezí 2 měsíce až 20 let byla průměrná clearance doxorubicinu 1 443 ± 114 ml/min/m2. Další analýza ukázala, že clearance u 52 dětí nad 2 roky (1 540 ml/min/m2) byla ve srovnání s dospělými vyšší. Nicméně clearance u dětí do 2 let (813 ml/min/m2) byla nižší ve srovnání se staršími dětmi a blížila se clearance stanovené u dospělých (viz body 4.2 a 4.4).
+
+Geriatričtí pacienti
+Farmakokinetika u starších pacientů (≥65 let) byla studována, žádná úprava dávky v závislosti na věku však není zapotřebí.
+Pohlaví
+Publikovaná klinická studie zahrnující 6 mužů a 21 žen bez předchozí antracyklinové léčby popisuje signifikantně vyšší medián clearance doxorubicinu u mužů ve srovnání se ženami (1 088 ml/min/m2 oproti 433 ml/min/m2). Nicméně terminální poločas doxorubicinu byl u mužů delší než u žen (54 oproti 35 hodinám).
+Rasa
+Vliv rasy na farmakokinetiku doxorubicinu nebyl studován.
+Porucha funkce jater
+Clearance doxorubicinu a doxorubicinolu byla u pacientů se zhoršenou funkcí jater snížena (viz 4.2).
+
+Porucha funkce ledvin
+Vliv renálních funkcí na farmakokinetiku doxorubicinu nebyl sledován.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Kancerogenita & mutagenita
+Doxorubicin byl genotoxický v sérii in vivo a in vitro testů. U potkanů byl pozorován nárůst incidence tumorů prsu, u samic psů bylo pozorováno zpomalení nebo zástava dozrávání folikulů.
+Snížení plodnosti
+Doxorubicin byl ve studiích na zvířatech toxický pro samčí reprodukční orgány, vedl k testikulární atrofii, difuzní degeneraci semenotvorných tubulů a hypospermii.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Chlorid sodný, kyselina chlorovodíková (k úpravě pH), voda pro injekci.
+
+6.2  Inkompatibility
+
+
+
+
+10
+
+Doxorubicin se nesmí míchat s jinými léky. Je vhodné předejít kontaktu s alkalickými roztoky, protože může vést k hydrolýze doxorubicinu. Vzhledem k chemické inkompatibilitě, která může vést
+k precipitaci, se doxorubicin nesmí míchat s heparinem.
+Doxorubicin se nesmí míchat s fluoruracilem (např. ve stejném i.v. infuzním vaku nebo v místě Y infuzní linky), neboť bylo zaznamenáno, že tyto léky jsou inkompatibilní do té míry, že by mohlo dojít k tvorbě sraženiny. Pokud je současná léčba doxorubicinem a fluoruracilem vyžadována, doporučuje se, aby byla infuzní linka mezi podáním těchto léků propláchnuta.
+
+6.3  Doba použitelnosti
+Neotevřené injekční lahvičky: 2 roky
+
+Otevřené injekční lahvičky: Chemická a fyzikální stabilita přípravku po otevření před použitím byla prokázána na dobu 28 dnů při teplotě 2 °C – 8 °C. Z mikrobiologického hlediska, pokud způsob otevření nevyloučí riziko mikrobiální kontaminace, má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele.
+Připravené infuzní roztoky: Chemická a fyzikální stabilita přípravku po naředění byla prokázána při teplotě 2 °C – 8 °C a 25 °C, při ochraně před světlem, na:
+-  24 hodin v 5% roztoku glukózy v PP láhvi v koncentracích 1,25 mg/ml a 0,5 mg/ml
+-  48 hodin v 0,9% roztoku chloridu sodného v PE láhvi v koncentracích 1,25 mg/ml a 0,5 mg/ml Z mikrobiologického hlediska má být přípravek použit okamžitě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku před použitím jsou v odpovědnosti uživatele a neměla by být delší než 24 hodin při teplotě 2 °C – 8 °C, pokud ředění neproběhlo za kontrolovaných a validovaných aseptických podmínek.
+Doby uchovávání otevřené lahvičky a naředěného infuzního roztoku se nesčítají.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte v chladničce (2 °C – 8 °C).
+Uchovávejte injekční lahvičky v krabičce, aby byl přípravek chráněn před světlem. Podmínky uchovávání naředěného přípravku jsou uvedeny v bodě 6.3.
+6.5  Druh obalu a obsah balení
+
+Injekční lahvička z bezbarvého skla (třída I), pryžová zátka (třída I), hliníkový odtrhovací uzávěr
+s polypropylenovým diskem.
+
+Velikosti balení:
+injekční lahvičky
+1 x 5 ml
+10 x 5 ml
+1 x 10 ml
+10 x 10 ml
+1 x 25 ml
+1 x 50 ml
+1 x 75 ml
+1 x 100 ml
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Doxorubicin se obvykle podává intravenózní cestou. Před aplikací je třeba se ujistit, zda je jehla správně umístěna v žíle. Roztok má být aplikován do kanyly s volně protékající infuzí fyziologického
+
+
+11
+
+roztoku. Aplikace má trvat 3-5 minut. Tento postup snižuje riziko vzniku trombózy a perivenózní extravazace přípravku, jež může vést k závažné celulitidě a nekróze tkáně a zároveň zajišťuje opláchnutí žíly po podání přípravku. Podání do malých žil a opakovaná aplikace do téže žíly mohou vést ke vzniku venózní sklerózy. Pokyny týkající se intravezikální instilace jsou uvedeny v bodě 4.2.
+
+Kvůli toxické povaze této látky platí následující ochranná doporučení:
+Pro manipulaci s přípravkem Doxorubicin Pharmagen platí obecná pravidla pro manipulaci
+s cytostatiky. Kontaminovaný odpad je nutno ukládat izolovaně a likvidovat jako toxický odpad.
+
+Bezpečnostní opatření. Následující bezpečnostní doporučení jsou dána toxickou povahou léčivé látky a jsou platná pro všechny cytostatické látky:
+-  Personál musí být vyškolen ve správných technikách rekonstituce a zacházení s přípravkem.
+-  Těhotné ženy nesmí pracovat s tímto léčivým přípravkem.
+-  Personál manipulující s doxorubicinem musí nosit ochranné prostředky: ochranné brýle, plášť,
+rukavice na jedno použití a respirátor.
+-  Pro rekonstituci musí být určen/vyhrazen zvláštní/oddělený prostor (pokud možno s laminárním prouděním vzduchu). Pracovní plochy musí být chráněny absorpčním papírem na jedno použití s vrstvou plastu na spodní straně.
+-  Veškerý materiál použitý pro rekonstituci, aplikaci přípravku nebo čištění, včetně rukavic, musí být umístěn do odpadních nádob pro vysoce nebezpečný odpad, určený ke spalování za vysokých teplot.
+-  Povrch pokapaný nebo politý přípravkem nebo jeho roztokem je třeba očistit 1 % roztokem chlornanu sodného a omýt vodou.
+-  Veškeré předměty použité při čištění je nutné zlikvidovat výše uvedeným způsobem.
+-  Náhodný kontakt roztoku s kůží nebo s očima je nutné okamžitě ošetřit opakovaným výplachem vodou, mýdlem a vodou nebo roztokem hydrogenuhličitanu sodného a je nutné vyhledat lékařskou pomoc.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+PHARMAGEN CZ s.r.o., Reinerova 1712/9, 163 00 Praha 6 - Řepy, Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+44/315/15-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 1. 7. 2015
+Datum posledního prodloužení registrace: 5. 5. 2020
+
+
+10.  DATUM REVIZE TEXTU
+4. 3. 2021
+
+
+
+
+
+
+
+
+
+
+
+12

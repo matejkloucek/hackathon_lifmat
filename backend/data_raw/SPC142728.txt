@@ -1,0 +1,499 @@
+Sp. zn. sukls57055/2019
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+
+Apleria 25 mg potahované tablety Apleria 50 mg potahované tablety
+
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+25 mg: Jedna potahovaná tableta obsahuje eplerenonum 25 mg. 50 mg: Jedna potahovaná tableta obsahuje eplerenonum 50 mg.
+
+Pomocná látka se známým účinkem:
+25 mg: Jedna potahovaná tableta obsahuje 34,5 mg monohydrátu laktosy. 50 mg: Jedna potahovaná tableta obsahuje 69 mg monohydrátu laktosy.
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Potahovaná tableta (Tableta)
+
+25 mg: žlutá, kulatá, bikonvexní potahovaná tableta s vyraženým „25“ na jedné straně. Rozměry: průměr
+6 mm.
+50 mg: žlutá, kulatá, bikonvexní potahovaná tableta s vyraženým „50“ na jedné straně. Rozměry: průměr
+7,5 mm.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Eplerenon je indikován:
+-   jako doplněk standardní terapie, včetně terapie beta-blokátory, ke snížení rizika kardiovaskulární (KV) mortality a morbidity u stabilizovaných pacientů s dysfunkcí levé komory (LVEF ≤ 40 %) a s klinickými známkami srdečního selhání po nedávno prodělaném infarktu myokardu (IM).
+-   jako doplněk standardní terapie ke snížení rizika KV mortality a morbidity u dospělých pacientů s (chronickým) srdečním selháním třídy New York Heart Association (NYHA) II a se systolickou dysfunkcí levé komory (LVEF ≤ 30 %) (viz bod 5.1).
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+Pro individuální úpravu dávky jsou dostupné tablety o síle 25 mg a 50 mg. Maximální dávka je 50 mg denně.
+
+Pacienti se srdečním selháním po prodělaném IM
+Doporučovaná udržovací dávka eplerenonu je 50 mg 1x denně. Léčba se má zahájit dávkou 25 mg 1x denně, která by měla být v průběhu nejlépe 4 následujících týdnů zvýšena na cílovou denní dávku 50
+1
+
+mg 1x denně s ohledem na plazmatickou hladinu draslíku (viz tabulka 1). Léčba eplerenonem se má obvykle zahájit během 3 - 14 dnů po prodělaném akutním IM.
+
+Pacienti s chronickým srdečním selháním třídy NYHA II
+U pacientů s chronickým srdečním selháním třídy NYHA II má být léčba zahájena dávkou 25 mg 1x denně, která je titrována na cílovou dávku 50 mg 1x denně nejlépe během 4 týdnů; je však nutné vzít v úvahu sérové hladiny draslíku (viz tabulka 1 a bod 4.4).
+
+U pacientů s hladinou draslíku v séru > 5,0 mmol/l nemá být léčba eplerenonem zahájena (viz bod 4.3).
+
+Hladina draslíku v séru má být stanovena před zahájením léčby eplerenonem, v průběhu prvního týdne léčby a za měsíc po zahájení léčby nebo po každé úpravě dávky. V průběhu další léčby se má sérová hladina draslíku stanovovat pravidelně podle potřeby.
+Po zahájení léčby má být dávka upravena v závislosti na hladině draslíku v séru tak, jak znázorňuje
+tabulka 1.
+Tab. 1: Úprava dávky po zahájení léčby
+
+
+Hladina draslíku v séru (mmol/l)
+< 5,0
+
+5,0 – 5,4
+5,5 – 5,9
+
+
+≥ 6,0
+Postup
+Zvýšit Ponechat
+Snížit
+
+
+Vysadit
+Úprava dávky
+
+25 mg obden až 25 mg 1x denně 25 mg 1x denně až 50 mg 1x denně Bez úpravy dávky
+50 mg 1x denně až 25 mg 1x denně 25 mg 1x denně až 25 mg obden 25 mg obden až do vysazení Neuplatňuje se
+
+Pokud bylo podávání eplerenonu zastaveno z důvodu hladiny draslíku v séru dosahující ≥ 6,0 mmol/l, eplerenon může být znovu nasazen až tehdy, když hladina draslíku v séru poklesne pod 5,0 mmol/l, a to v dávce 25 mg, podávané obden.
+Pediatrická populace
+Bezpečnost a účinnost eplerenonu u dětí a dospívajících nebyla stanovena. V současnosti dostupné údaje jsou popsány v bodech 5.1 a 5.2.
+Starší pacienti
+U starších pacientů není nutná počáteční úprava dávky. Vzhledem k věkem podmíněnému poklesu funkce ledvin je u starších pacientů vyšší riziko vzniku hyperkalemie. Toto riziko může být dále zvýšeno, je-li spolu se zvýšenou systémovou expozicí přítomna komorbidita, a to zejména lehká až středně těžká porucha funkce jater. Doporučuje se pravidelné sledování hladiny draslíku v séru (viz bod 4.4).
+Porucha funkce ledvin
+U pacientů s mírnou poruchou funkce ledvin není nutná počáteční úprava dávky. Doporučuje se pravidelné sledování hladiny draslíku v séru s úpravou dávek podle tabulky 1.
+
+Pacienti se středně těžkou poruchou funkce ledvin (CrCl 30-60 ml/min) mají začínat dávkou 25 mg obden, poté je dávka upravena dle hladiny draslíku (viz tabulka 1). Je doporučováno pravidelné sledování sérové hladiny draslíku (viz bod 4.4).
+
+S podávání eplerenonu u pacientů s CrCl < 50 ml/min se srdečním selháním po prodělaném infarktu myokardu nejsou zkušenosti. Užití eplerenonu u těchto pacientů musí být pečlivě zváženo. U pacientů s CrCl <50 ml/min nebyly studovány dávky nad 25 mg denně.
+
+2
+
+Užití u pacientů s těžkou poruchou funkce ledvin (CrCl < 30 ml/min) je kontraindikováno (viz bod 4.3).
+Eplerenon nelze odstranit dialýzou.
+
+Porucha funkce jater
+U pacientů s lehkou až středně těžkou poruchou funkce jater není nutná počáteční úprava dávky. Vzhledem ke zvýšené systémové expozici eplerenonu u pacientů s lehkou až středně těžkou poruchou funkce jater se u těchto pacientů, a to zejména u starších, doporučuje časté a pravidelné sledování hladiny draslíku v séru (viz bod 4.4).
+Souběžná léčba
+V případě souběžné léčby mírnými až středně silnými inhibitory CYP3A4, např. amiodaronem, diltiazemem a verapamilem, může být léčba zahájena dávkou 25 mg 1x denně. Dávka nemá překročit 25 mg 1x denně (viz bod 4.5).
+
+Eplerenon se může podávat s jídlem nebo na lačno (viz bod 5.2).
+4.3  Kontraindikace
+
+-   Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+-   Pacienti s hladinou draslíku v séru > 5,0 mmol/l při zahájení léčby
+-   Pacienti s těžkou renální insuficiencí (eGRF < 30 ml/min/1,73 m²)
+-   Pacienti s těžkou jaterní insuficiencí (třída C podle Child-Pugha)
+-   Pacienti užívající draslík šetřící diuretika nebo silné inhibitory enzymu CYP3A4 (např. itrakonazol, ketokonazol, ritonavir, nelfinavir, klarithromycin, telithromycin a nefazodon) (viz bod 4.5)
+-   Kombinace inhibitoru angiotenzin konvertujícího enzymu (ACE) a blokátoru receptoru pro
+angiotenzin (ARB) s eplerenonem
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Hyperkalemie
+V souvislosti s mechanismem účinku eplerenonu může v průběhu jeho užívání dojít ke vzniku hyperkalemie. Hladiny draslíku v séru mají být sledovány u všech pacientů před zahájením léčby a při úpravě dávky. Během léčby je doporučováno pravidelné sledování hladiny draslíku v séru, zejména u pacientů s rizikem rozvoje hyperkalemie, jako jsou starší pacienti, pacienti s renální insuficiencí (viz bod 4.2) a pacienti s diabetem. Vzhledem ke zvýšenému riziku vzniku hyperkalemie se užívání doplňků stravy obsahujících draslík po zahájení léčby eplerenonem nedoporučuje. Bylo prokázáno, že snížení dávky eplerenonu snižuje hladiny draslíku v séru. V jedné studii bylo prokázáno, že přidání hydrochlorothiazidu k eplerenonu zamezuje zvýšení hladiny draslíku v séru.
+
+Riziko hyperkalemie se může zvýšit při použití eplerenonu v kombinaci s inhibitorem ACE a/nebo s
+ARB. Tato kombinace inhibitoru ACE a ARB s eplerenonem nesmí být použita (viz body 4.3 a 4.5).
+Porucha funkce ledvin
+U pacientů s poruchou funkce ledvin včetně diabetické mikroalbuminurie mají být pravidelně sledovány hladiny draslíku. Riziko hyperkalemie se zvyšuje se snižující se funkcí ledvin. Ačkoli jsou údaje ze studie Eplerenone Post-acute Myocardial Infarction Heart failure Efficacy and Survival Study (EPHESUS) u pacientů s diabetem 2. typu a mikroalbuminurií omezeny malým počtem pacientů, byl u nich pozorován zvýšený výskyt hyperkalemie. Proto mají být tito pacienti léčeni s opatrností. Eplerenon není odstranitelný hemodialýzou.
+
+Porucha funkce jater
+U pacientů s lehkou až středně těžkou poruchou funkce jater nebylo pozorováno zvýšení hladiny draslíku
+1
+
+v séru nad 5,5 mmol/l (třída A a B podle Child Pugha). U pacientů s lehkou až středně těžkou poruchou funkce jater je třeba monitorovat hladiny iontů. Použití eplerenonu u pacientů s těžkou poruchou funkce jater nebylo hodnoceno, a proto je u těchto pacientů jeho použití kontraindikováno (viz body 4.2 a 4.3).
+
+Induktory enzymu CYP3A4
+Současné podávání eplerenonu se silnými induktory enzymu CYP3A4 se nedoporučuje (viz bod 4.5). Lithium, cyklosporin, takrolimus nemají být v průběhu léčby eplerenonem užívány (viz bod 4.5).
+Laktosa
+Přípravek Apleria obsahuje laktosu. Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktasy nebo malabsorpcí glukosy a galaktosy nemají tento přípravek užívat.
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je
+v podstatě „bez sodíku“.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+Farmakodynamické interakce
+
+Draslík šetřící diuretika a doplňky stravy obsahující draslík
+
+Vzhledem ke zvýšenému riziku vzniku hyperkalemie nemá být eplerenon podáván pacientům užívajícím jiná draslík šetřící diuretika a doplňky stravy obsahující draslík (viz bod 4.3). Draslík šetřící
+diuretika mohou zesilovat účinek antihypertenziv a jiných diuretik.
+
+ACE inhibitory, ARB
+Riziko vzniku hyperkalemie může být zvýšené, je-li eplerenon podáván v kombinaci s inhibitorem
+ACE a/nebo ARB. Je doporučováno pečlivé sledování sérových hladin draslíku a renální funkce, speciálně u pacientů s rizikem poruchy funkce ledvin, jako jsou např. starší pacienti. Trojkombinace inhibitoru ACE a ARB s eplerenonem nesmí být použita (viz body 4.3 a 4.4).
+Lithium
+
+Nebyly provedeny studie lékových interakcí eplerenonu s lithiem. Nicméně u pacientů užívajících lithium současně s diuretiky a inhibitory ACE byla zjištěna toxicita lithia (viz bod 4.4). Eplerenon
+proto nemá být podáván současně s lithiem. Pokud je tato kombinace nezbytná, mají být sledovány plazmatické hladiny lithia (viz bod 4.4).
+Cyklosporin, takrolimus
+
+Cyklosporin a takrolimus mohou způsobit poruchu funkce ledvin a zvyšují riziko vzniku hyperkalemie. Eplerenon se proto nemá podávat současně s cyklosporinem nebo takrolimem. Pokud je potřeba, má být pečlivě sledována plazmatická hladina draslíku a renální funkce (viz bod 4.4).
+
+Nesteroidní protizánětlivé látky (NSAID)
+
+Použití NSAID může způsobit, zejména u rizikových pacientů (starších a/nebo dehydratovaných), akutní selhání ledvin, a to účinkem přímo na glomerulární filtraci. Pacienti užívající eplerenon a NSAID mají být přiměřeně hydratováni a před zahájením léčby se jim má vyšetřit renální funkce.
+Trimethoprim
+
+Souběžné podávání trimethoprimu s eplerenonem zvyšuje riziko vzniku hyperkalemie. Proto má být
+2
+
+sledována hladina draslíku v séru a funkce ledvin, a to zejména u pacientů s poruchou funkce ledvin a u
+starších pacientů.
+
+Alfa-1-blokátory (např. prazosin, alfuzosin)
+
+Při kombinaci alfa-1-blokátorů s eplerenonem existuje riziko zvýšení hypotenzního účinku a/nebo posturální hypotenze. V průběhu současného podávání alfa-1-blokátorů se doporučuje sledování
+vzniku možné posturální hypotenze.
+
+Tricyklická antidepresiva, neuroleptika, amifostin, baklofen
+Současné podávání těchto léčivých látek s eplerenonem může potencovat antihypertenzní účinek a riziko posturální hypotenze.
+
+Glukokortikoidy, tetrakosaktid
+
+Současné podávání těchto léčivých látek s eplerenonem může potenciálně snižovat antihypertenzní účinky eplerenonu (retence sodíku a tekutin).
+Farmakokinetické interakce
+
+Studie in vitro naznačují, že eplerenon neinhibuje izoenzymy CYP1A2, CYP2C19, CYP2C9,
+CYP2D6 nebo CYP3A4. Eplerenon není substrátem ani inhibitorem P-glykoproteinu.
+
+Digoxin
+
+Systémová expozice (AUC) digoxinu se zvýšila o 16 % (90% CI: 4% - 30%), pokud byl podáván spolu s eplerenonem. Při podávání digoxinu v dávkách blížících se horní hranici terapeutického rozmezí je nutná opatrnost.
+Warfarin
+
+Při současném podávání warfarinu nebyly zaznamenány žádné klinicky významné farmakokinetické interakce. Při podávání warfarinu v dávkách blížících se horní hranici terapeutického rozmezí je nutná opatrnost.
+
+Substráty enzymu CYP3A4
+Výsledky farmakokinetických studií s pokusnými substráty enzymu CYP3A4, tj. s midazolamem a cisapridem, neprokázaly při podávání těchto léčivých látek současně s eplerenonem žádné významné farmakokinetické interakce.
+
+Inhibitory enzymu CYP3A4
+-   Silné inhibitory enzymu CYP3A4: Je-li eplerenon podáván současně s léčivými přípravky inhibujícími enzym CYP3A4, může dojít k významným farmakokinetickým interakcím. Při současném podání eplerenonu se silným inhibitorem enzymu CYP3A4 (ketokonazol 200 mg dvakrát denně) došlo ke 441% zvýšení AUC eplerenonu (viz bod 4.3). Současné užívání eplerenonu a silných inhibitorů enzymu CYP3A4, jako je např. ketokonazol, itrakonazol, ritonavir, nelfinavir, klarithromycin, telithromycin a nefazadon, je kontraindikováno (viz bod 4.3).
+-   Mírné až střední inhibitory enzymu CYP3A4: Současné podávání erythromycinu, sachinaviru, amiodaronu, diltiazemu, verapamilu nebo flukonazolu vedlo k významným farmakokinetickým interakcím s řádovým zvýšením AUC pohybujícím se od 98 % do 187 %. Při současném podávání těchto inhibitorů enzymu CYP3A4 nemá denní dávka eplerenonu překročit 25 mg (viz bod 4.2).
+Induktory enzymu CYP3A4
+3
+
+Současné podávání třezalky tečkované (silného induktoru enzymu CYP3A4) spolu s eplerenonem způsobilo 30% snížení AUC eplerenonu. Výraznější snížení AUC eplerenonu může nastat při použití silnějších induktorů enzymu CYP3A4, jako je rifampicin. Vzhledem k riziku snížené účinnosti eplerenonu při současném podávání silných induktorů enzymu CYP3A4 (rifampicin, karbamazepin, fenytoin, fenobarbital, třezalka tečkovaná) se tato kombinace nedoporučuje (viz bod 4.4).
+
+Antacida
+
+Na základě výsledků farmakokinetické klinické studie se při současném použití antacid a eplerenonu
+nepředpokládají žádné zvláštní interakce.
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Potřebné údaje o použití eplerenonu u těhotných žen nejsou k dispozici. Studie na zvířatech neprokázaly přímé nebo nepřímé nežádoucí účinky na průběh těhotenství, embryofetální vývoj, porod a postnatální vývoj dítěte (viz bod 5.3). Eplerenon se má těhotným ženám předepisovat se zvýšenou opatrností.
+
+Kojení
+Není známo, zda dochází po perorálním podání eplerenonu k jeho vylučování do lidského mateřského mléka. Nicméně předklinické údaje ukázaly, že eplerenon a jeho metabolity jsou přítomny v mateřském mléce potkanů a že mláďata vystavená eplerenonu touto cestou se vyvíjela normálně. Vzhledem k neznámým potenciálním nežádoucím účinkům na kojence, je nutno zvážit, zda přerušit kojení, nebo přerušit užívání léčivého přípravku s ohledem na důležitost přípravku pro matku.
+
+Fertilita
+Nejsou k dispozici žádné údaje týkající se fertility u člověka.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky eplerenonu na schopnost řídit nebo obsluhovat stroje nebyly provedeny. Eplerenon nezpůsobuje ospalost nebo poruchu kognitivních funkcí, ale při řízení a obsluze strojů by se mělo počítat s možným rizikem vzniku závratí, které se mohou v průběhu léčby vyskytnout.
+4.8  Nežádoucí účinky
+
+Ve dvou studiích (EPHESUS a Eplerenon in Mild Patients Hospitalization and Survival Study in Heart Failure studie (EMPHASIS-HF)) byla celková incidence nežádoucích účinků zaznamenaná ve skupině léčené eplerenonem srovnatelná s incidencí nežádoucích účinků ve skupině s placebem.
+
+Níže jsou uvedené ty nežádoucí účinky, u nichž existuje pravděpodobná příčinná souvislost s léčbou a jejich incidence zde byla vyšší v porovnání se skupinou užívající placebo nebo jsou závažné a jejich incidence zde byla významně vyšší v porovnání se skupinou užívající placebo, nebo byly pozorovány po uvedení přípravku na trh. Nežádoucí účinky jsou uvedeny podle tříd orgánových systémů a s absolutní frekvencí. Frekvence výskytu je definována jako:
+
+-   Velmi časté (≥1/10)
+-   Časté (≥ 1/100 až < 1/10)
+-   Méně časté (≥ 1/1 000 až < 1/100)
+-   Vzácné (≥ 1/10 000 až < 1/1 000)
+-   Velmi vzácné (<1/10 000)
+-   Není známo (z dostupných údajů nelze určit)
+
+Tabulka 2: Frekvence nežádoucích účinků v placebem kontrolovaných studiích s
+4
+
+eplerenonem
+Třídy orgánových systémů
+Infekce a infestace
+Méně časté
+Poruchy krve a lymfatického systému
+Méně časté
+Endokrinní poruchy
+Méně časté
+Poruchy metabolismu a výživy
+Časté
+
+Méně časté
+Psychiatrické poruchy
+Časté
+Poruchy nervového systému
+Časté
+
+Méně časté
+Srdeční poruchy
+Časté
+
+Méně časté
+Cévní poruchy
+Časté
+
+Méně časté
+Respirační, hrudní a mediastinální poruchy
+Časté
+Gastrointestinální poruchy
+Časté
+Méně časté
+Poruchy kůže a podkožní tkáně
+Časté
+
+Méně časté
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Časté
+Méně časté
+Poruchy ledvin a močových cest
+Časté
+Poruchy jater a žlučových cest
+Méně časté
+Poruchy reprodukčního systému a prsu
+Méně časté
+Celkové poruchy a reakce v místě aplikace
+Časté
+
+Méně časté
+
+Nežádoucí účinky
+pyelonefritida, infekce, faryngitida eozinofilie
+hypotyreóza
+hyperkalemie  (viz   body   4.3   a   4.4), hypercholesterolemie
+hyponatremie, dehydratace, hypertriglyceridemie insomnie
+synkopa, závrať, bolest hlavy
+
+hypoestezie
+
+selhání levé komory, fibrilace síní tachykardie
+hypotenze
+arteriální trombóza končetin, ortostatická hypotenze kašel
+průjem, nauzea, zácpa, zvracení flatulence
+vyrážka, svědění angioedém, hyperhidróza
+svalové křeče, bolest zad muskuloskeletální bolest
+porucha funkce ledvin (viz body 4.4 a 4.5) cholecystitida
+gynekomastie astenie malátnost
+5
+
+Vyšetření
+Časté
+Méně časté
+zvýšení hladiny močoviny v krvi, zvýšení hladiny kreatininu v krvi
+snížení exprese receptoru epidermálního růstového faktoru, zvýšená glykemie
+
+Ve studii EPHESUS bylo zaznamenáno číselně více případů cévní mozkové příhody u velmi starých pacientů (> 75 let věku). Nicméně v incidenci cévní mozkové příhody u této věkové kategorie nebyl statisticky významný rozdíl mezi skupinou pacientů léčených eplerenonem (30) a skupinou užívající placebo (22). Ve studii EMPHASIS-HF bylo zaznamenáno 9 případů cévní mozkové příhody u starších pacientů (> 75 let věku) ve skupině užívající eplerenon a 8 případů cévní mozkové příhody u pacientů ve skupině užívající placebo.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv
+Šrobárova 48
+100 41 Praha 10
+webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+
+Nebyly  hlášeny  nežádoucí  účinky  spojené  s  předávkováním  eplerenonem  u  lidí.  Jako nejpravděpodobnější  klinická  manifestace  předávkování  by  se  dala  očekávat  hypotenze  nebo hyperkalemie. Eplerenon není odstranitelný hemodialýzou. Bylo prokázáno, že se eplerenon významně váže na aktivní uhlí. Vyskytne-li se symptomatická hypotenze, je třeba zahájit podpůrnou léčbu. V případě výskytu hyperkalemie je nutné zahájit standardní léčbu.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Diuretika; antagonisté aldosteronu, ATC kód: C03DA04. Mechanismus účinku
+Eplerenon je selektivnější ve vazbě na rekombinantní lidské mineralokortikoidní receptory ve srovnání s vazbou na rekombinantní lidské glukokortikoidní receptory, receptory pro progesteron a androgeny.
+Eplerenon brání vazbě aldosteronu na mineralokortikoidní receptory; aldosteron je klíčový hormon
+v systému  renin-angiotenzin-aldosteron (RAAS), který se účastní regulace  krevního tlaku a patofyziologie kardiovaskulárních chorob.
+
+Farmakodynamické účinky
+
+Bylo prokázáno, že eplerenon způsobuje trvalý vzestup plazmatické hladiny reninu a aldosteronu v důsledku inhibice negativní zpětné vazby aldosteronu na sekreci reninu. Z toho vyplývající zvýšená plazmatická reninová aktivita a cirkulující hladiny aldosteronu nepřevyšují účinek eplerenonu.
+Ve studiích zabývajících se stanovením velikosti léčebné dávky u chronického srdečního selhání (NYHA klasifikace II-IV) mělo přidání eplerenonu ke standardní terapii za následek předpokládané, na dávce závislé zvýšení aldosteronu. Stejně tak v kardiorenální vedlejší studii studie EPHESUS vedla terapie eplerenonem  k  významnému  vzestupu  hladiny  aldosteronu.  Tyto  výsledky  potvrzují  blokádu 6
+
+mineralokortikoidních receptorů u pacientů s chronickým srdečním selháním.
+
+Eplerenon byl hodnocen ve studii EPHESUS. EPHESUS byla dvojitě zaslepená, placebem kontrolovaná studie trvající 3 roky a bylo do ní zařazeno 6 632 subjektů s akutním IM, dysfunkcí levé komory (která byla stanovena pomocí měření ejekční frakce levé komory [LVEF] ≤ 40 %) a s klinickými známkami srdečního selhání. Během 3 až 14 dnů (medián 7 dnů) po prodělání akutního IM dostávaly subjekty eplerenon nebo placebo navíc ke standardní léčbě, a to v počáteční dávce 25 mg 1x denně. Tato dávka byla zvyšována po dobu 4 týdnů na cílovou dávku 50 mg 1x denně, pokud hladiny draslíku v séru dosahovaly hodnot < 5,0 mmol/l. V průběhu studie dostávaly subjekty standardní léčbu včetně kyseliny acetylsalicylové (92 %), inhibitorů ACE (90 %), beta-blokátorů (83 %), nitrátů (72 %), kličkových diuretik (66 %) nebo inhibitorů HMG CoA reduktázy (60 %).
+
+Ve studii EPHESUS byly dva primární cílové hodnocené parametry (endpointy): celková mortalita a kombinace úmrtí na KV onemocnění nebo hospitalizace z KV příčin; 14,4 % subjektů užívajících eplerenon a 16,7 % subjektů užívajících placebo zemřelo (ze všech příčin), zatímco 26,7 % subjektů užívajících eplerenon a 30,0 % subjektů užívajících placebo zemřelo nebo bylo hospitalizováno z KV příčin. Podle studie EPHESUS snižoval tedy eplerenon celkovou mortalitu o 15 % (relativní riziko - RR 0,85; 95% interval spolehlivosti CI 0,75 - 0,96; p = 0,008) ve srovnání s placebem, a to zejména snížením KV mortality. Riziko KV smrti nebo KV hospitalizace bylo s eplerenonem sníženo o 13 % (RR 0,87; 95% CI, 0,79 - 0,95; p = 0,002). Absolutní snížení rizika celkové mortality a KV smrti/hospitalizace činilo 2,3 % resp. 3,3 %. Klinická účinnost byla prokázána primárně při zahájení léčby u subjektů < 75 let věku. Přínos léčby u subjektů ve věku nad 75 let nebyl zjevný. Funkční klasifikace NYHA se zlepšila nebo zůstala stejná u statisticky významně většího počtu subjektů užívajících eplerenon oproti subjektům užívajícím placebo. Incidence hyperkalemie byla 3,4 % ve skupině s eplerenonem oproti 2,0 % ve skupině s placebem (p < 0,001). Incidence hypokalemie byla 0,5 % ve skupině s eplerenonem oproti 1,5 % ve skupině s placebem (p < 0,001).
+
+V průběhu farmakokinetických studií byly hodnoceny elektrokardiografické změny u 147 zdravých jedinců a byly zaznamenány nejednoznačné účinky eplerenonu na srdeční frekvenci, šíři QRS, PR nebo QT interval.
+
+Ve studii EMPHASIS-HF byl hodnocen účinek eplerenonu jako doplňku standardní terapie na klinický výsledek u subjektů se systolickým srdečním selháním a mírnými symptomy (funkční třída NYHA II).
+Subjekty byly zahrnuty do studie, pokud dosáhly 55 let věku, měly LVEF ≤ 30 % nebo LVEF ≤ 35% a dobu trvání QRS >130 ms, byly buď hospitalizovány z KV důvodů 6 měsíců před zahrnutím do studie nebo měly plazmatickou hladinu natriuretického peptidu typu B (BNP) alespoň 250 pg/ml nebo plazmatickou hladinu N-terminálního propeptidu typu B (NT-proBNP) alespoň 500 pg/ml u mužů (750 pg/ml u žen). Počáteční dávka eplerenonu byla 25 mg 1x denně. Po 4 týdnech byla dávka navýšena na 50 mg 1x denně, pokud sérové hladiny draslíku byly < 5,0 mmol/l. Eventuálně, pokud odhad glomerulární filtrace (GFR) byl v rozmezí 30-49 ml/min/1,73 m², byla počáteční dávka eplerenonu 25 mg každý druhý den. Tato dávka pak byla navýšena na 25 mg 1x denně.
+
+Celkem bylo randomizováno pro léčbu eplerenonem nebo placebem 2 737 subjektů (dvojité zaslepení) s výchozí léčbou diuretiky (85 %), ACE inhibitory (78 %), blokátory receptoru pro angiotenzin II (19 %), beta-blokátory (87 %), antitrombotiky (88 %), hypolipidemiky (63 %) a glykosidy (27 %). Průměrná hodnota LVEF byla ~ 26 % a průměrná doba trvání QRS byla ~ 122 ms. Většina subjektů (83,4 %) byla již hospitalizována z kardiovakulárních příčin během 6 měsíců randomizace, z toho okolo 50 % z nich z důvodu srdečního selhání. Okolo 20 % subjektů mělo implantováno defibrilátory nebo bylo na srdeční resynchronizační terapii.
+
+Primární cílový parametr, úmrtí z KV příčin nebo hospitalizace v důsledku srdečního selhání, se vyskytl u 249 (18,3 %) subjektů ve skupině léčené eplerenonem a u 356 (25,9 %) subjektů ve skupině léčené placebem (RR 0,63, 95% CI, 0,54-0,74; p<0,001). Účinek eplerenonu na primární cílový parametr byl shodný u všech předem stanovených podskupin.
+7
+
+Sekundární cílový parametr celkové mortality byl ve skupině užívající eplerenon u 171 (12,5 %) subjektů a u 213 (15,5 %) subjektů ve skupině užívající placebo (RR 0,76; 95% CI, 0,62-0,93; p = 0,008). Úmrtí z KV příčin bylo hlášeno u 147 (10,8 %) subjektů ve skupině užívající eplerenon a u 185 (13,5 %) subjektů ve skupině užívající placebo (RR 0,76; 95% CI, 0,61-0,94; p = 0,01).
+
+Během studie byla hlášena hyperkalemie (sérová hladina draslíku > 5,5 mmol/l) u 158 (11,8 %) subjektů ve skupině užívající eplerenon a u 96 (7,2 %) subjektů ve skupině užívající placebo (p <
+0,001). Hypokalemie, definovaná jako sérové hladiny draslíku < 4,0 mmol/l, byla statisticky nižší u eplerenonu v porovnání s placebem (38,9 % u eplerenonu v porovnání s 48,4 % u placeba, p <
+0,0001).
+
+Pediatrická populace
+
+Eplerenon nebyl studován u pediatrických subjektů se srdečním selháním.
+
+V 10týdenní studii pediatrických subjektů s hypertenzí (ve věku od 4 do 16 let, n=304), eplerenon v dávkách (od 25 mg až do 100 mg za den), které představovaly stejnou expozici jako u dospělých, účinně nesnižoval krevní tlak. V této studii a v 1leté studii pediatrické bezpečnosti u 149 subjektů (ve věku od 5 do 17 let) byl bezpečnostní profil podobný jako u dospělých. Eplerenon nebyl zkoumán u subjektů s hypertenzí mladších 4 let, protože studie u starších pediatrických subjektů prokázala nedostatek účinnosti (viz bod 4.2).
+Jakýkoliv (dlouhodobý) účinek na hormonální stav u pediatrických subjektů nebyl studován.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+
+Absolutní biologická dostupnost eplerenonu je 69 % při podání 100mg tablety perorálně.
+
+Maximální plazmatické koncentrace jsou dosaženy přibližně za 1,5 až 2 hodiny. Jak vrcholová plazmatická koncentrace (Cmax), tak plocha pod křivkou (AUC), rostou úměrné v rozmezí dávek 10 mg až 100 mg s méně významnou úměrou při dávkách nad 100 mg. Ustálený stav je dosažen v průběhu 2 dnů. Absorpce není ovlivněna jídlem.
+Distribuce
+Vazba eplerenonu na plazmatické proteiny je okolo 50 % a eplerenon se primárně váže na alfa 1-
+kyselé glykoproteiny. Zdánlivý distribuční objem v ustáleném stavu je odhadován na 42-90 litrů. Eplerenon se neváže přednostně na erytrocyty.
+
+Biotransformace
+
+Metabolismus eplerenonu je primárně zprostředkován CYP3A4. V lidské plazmě nebyly nalezeny aktivní
+metabolity eplerenonu.
+
+Eliminace
+
+Méně než 5 % dávky eplerenonu se vylučuje v nezměněné podobě močí a stolicí. Po jednorázovém perorálním podání radioaktivně značeného léčivého přípravku bylo vyloučeno přibližně 32 % dávky stolicí a přibližně 67 % močí. Eliminační poločas eplerenonu činí přibližně 3 až 6 hodin. Zdánlivá plazmatická clearance je přibližně 10 l/hod.
+
+Zvláštní skupiny pacientů
+8
+
+Věk, pohlaví a rasa
+
+Farmakokinetika eplerenonu v dávce 100 mg 1x denně byla studována u starších pacientů (≥ 65 let), mužů, žen a u černochů. Farmakokinetika eplerenonu se významně nelišila mezi muži a ženami. V ustáleném stavu měli starší pacienti ve srovnání s mladšími (18 až 45 let) zvýšenou Cmax (22 %) a AUC (45 %). U černochů byla v ustáleném stavu Cmax o 19 % a AUC o 26 % nižší (viz bod 4.2.).
+
+Pediatrická populace
+
+Populační farmakokinetický model koncentrací eplerenonu ze dvou studií u 51 pediatrických pacientů s hypertenzí ve věku 4–16 let ukázal, že tělesná hmotnost pacienta měla statisticky významný vliv na distribuční objem eplerenonu, ale ne na jeho clearance. Distribuční objem eplerenonu a vrcholová expozice u těžších pediatrických pacientů jsou předpokládány stejné jako u dospělých s podobnou tělesnou hmotností; u lehčího pacienta s tělesnou hmotností 45 kg je distribuční objem přibližně o 40 % nižší a vrcholová expozice je předpokládána vyšší než u typických dospělých. Léčba eplerenonem byla u pediatrických pacientů zahájena dávkami 25 mg jednou denně a navýšena na 25 mg dvakrát denně po 2 týdnech případně na 50 mg dvakrát denně, pokud to bylo klinicky indikováno. Při těchto dávkách nebyly nejvyšší pozorované koncentrace eplerenonu u pediatrických subjektů podstatně vyšší než u dospělých se zahájením dávky 50 mg jednou denně.
+
+Renální insuficience
+Farmakokinetika eplerenonu byla hodnocena u pacientů s různým stupněm renální insuficience a u pacientů podstupujících hemodialýzu. Ve srovnání s kontrolními jedinci byla v ustáleném stavu AUC o 38 % vyšší a Cmax o 24 % vyšší u pacientů se závažnou renální insuficiencí a o 26 % resp. 3 % nižší u pacientů na hemodialýze. Nebyl zjištěn žádný vztah mezi plazmatickou clearance eplerenonu a clearance kreatininu. Eplerenon není odstranitelný hemodialýzou (viz bod 4.4.).
+Jaterní insuficience
+
+Farmakokinetika eplerenonu 400 mg byla zkoumána a srovnávána u pacientů s mírnou jaterní insuficiencí (třída B podle Child-Pugha) a u jedinců s normálními jaterními funkcemi. V ustáleném stavu byla Cmax zvýšena o 3,6 % a AUC o 42 % (viz bod 4.2). Protože použití eplerenonu nebylo hodnoceno u pacientů se závažnou jaterní insuficiencí, je eplerenon u této skupiny pacientů kontraindikován (viz bod 4.3).
+Srdeční selhání
+
+Farmakokinetika eplerenonu 50 mg byla zkoumána u pacientů se srdečním selháním (II. – IV. stupně podle NYHA klasifikace). Ve srovnání se zdravými jedinci odpovídajícího věku, hmotnosti a pohlaví byla AUC a Cmax v ustáleném stavu u pacientů se srdečním selháním o 38 % resp. 30 % vyšší. Ve shodě s těmito výsledky prokázala populační farmakokinetická analýza eplerenonu v podskupině pacientů ze studie EPHESUS, že clearance eplerenonu byla u pacientů se srdečním selháním podobná jako u zdravých starších subjektů.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Předklinické údaje získané na základě farmakologických studií bezpečnosti, genotoxicity, hodnocení kancerogenního potenciálu a reprodukční toxicity neodhalily žádné zvláštní riziko pro člověka.
+Ve farmakologických studiích toxicity byla po opakovaném podávání u potkanů a psů zaznamenána atrofie prostaty po expozicích mírně převyšujících klinické expoziční hladiny. Změny prostaty nebyly spojeny s nežádoucími funkčními následky. Klinický význam těchto nálezů není znám.
+
+9
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Jádro tablety Monohydrát laktosy
+Mikrokrystalická celulosa Sodná sůl kroskarmelosy Hypromelosa
+Magnesium-stearát Natrium-lauryl-sulfát
+Potahová vrstva Hypromelosa Makrogol 400
+Oxid titaničitý (E171) Polysorbát 80
+Žlutý oxid železitý (E172)
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+6.3  Doba použitelnosti
+
+3 roky
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+Blistry (bílé neprůhledné PVC/PVDC/Al blistr): 10, 20, 28, 30, 50, 90 a 100 potahovaných tablet,
+v krabičce.
+Jednodávkové perforované blistry (bílé neprůhledné PVC/PVDC/Al blistr): 10 x 1, 20 x 1, 28 x 1, 30 x 1,
+50 x 1, 90 x 1 a 100 x 1 potahovaných tablet, v krabičce. Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Žádné zvláštní požadavky.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovinsko
+
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+
+Apleria 25 mg: 34/041/17-C Apleria 50 mg: 34/042/17-C
+10
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 1. 8. 2018
+
+10.  DATUM REVIZE TEXTU
+
+17. 5. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11

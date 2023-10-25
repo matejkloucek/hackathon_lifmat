@@ -1,0 +1,418 @@
+Sp. zn. sukls103571/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+1.   NÁZEV PŘÍPRAVKU
+
+Gammanorm 165 mg/ml injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Immunoglobulinum humanum normale (SCIg/IMIg) Jeden ml obsahuje:
+Immunoglobulinum humanum normale     165 mg
+(čistota nejméně 95 % IgG)
+
+Jedna injekční lahvička o obsahu 6 ml obsahuje: immunoglobulinum humanum normale 1 g. Jedna injekční lahvička o obsahu 10 ml obsahuje: immunoglobulinum humanum normale 1,65 g. Jedna injekční lahvička o obsahu 12 ml obsahuje: immunoglobulinum humanum normale 2 g.
+Jedna injekční lahvička o obsahu 20 ml obsahuje: immunoglobulinum humanum normale 3,3 g. Jedna injekční lahvička o obsahu 24 ml obsahuje: immunoglobulinum humanum normale 4 g. Jedna injekční lahvička o obsahu 48 ml obsahuje: immunoglobulinum humanum normale 8 g.
+Zastoupení podtříd IgG (přibližné hodnoty): IgG₁      59 %
+IgG₂     36 %
+IgG₃     4,9 %
+IgG₄     0,5 %
+
+Maximální obsah IgA je 82,5 mikrogramů/ml
+
+Vyrobeno z plazmy lidských dárců.
+
+Pomocné látky se známým účinkem
+Injekční lahvička o obsahu 6 ml:
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné injekční lahvičce, to znamená, že je v podstatě „bez sodíku“.
+Injekční lahvičky o obsahu 10 ml, 12 ml, 20 ml, 24 ml a 48 ml:
+Tento léčivý přípravek obsahuje
+25 mg (1,1 mmol) sodíku v injekční lahvičce o obsahu 10 ml, 30 mg (1,30 mmol) sodíku v injekční lahvičce o obsahu 12 ml, 50 mg (2,17 mmol) sodíku v injekční lahvičce o obsahu 20 ml, 60 mg (2,61 mmol) sodíku v injekční lahvičce o obsahu 24 ml, 120 mg (5,22 mmol) sodíku v injekční lahvičce o obsahu 48 ml.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Injekční roztok.
+
+Tekutý přípravek je čirý nebo slabě zakalený a bezbarvý nebo bledožlutý či světle hnědý.
+1
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Indikace k subkutánnímu podání (SCIg)
+Substituční léčba dospělých, dětí a dospívajících (0–18 let) při:
+•  syndromech primárního imunodeficitu s narušenou tvorbou protilátek (viz bod 4.4).
+•  hypogamaglobulinemii a opakovaných bakteriálních infekcích u pacientů s chronickou
+lymfocytickou leukemií, u nichž profylaktická léčba antibiotiky selhala nebo je
+kontraindikovaná.
+•  hypogamaglobulinemii a opakovaných bakteriálních infekcích u pacientů s mnohočetným
+myelomem.
+•  hypogamaglobulinemii u pacientů před alogenní transplantací hematopoetických kmenových buněk nebo po ní.
+4.2  Dávkování a způsob podání
+
+Substituční léčbu je třeba zahájit a kontrolovat pod dohledem lékaře zkušeného v léčbě imunodeficitů. Dávkování
+Dávka a režim dávkování závisí na indikaci.
+
+Substituční léčba
+Léčivý přípravek se podává subkutánně.
+Při substituční léčbě může být potřeba dávku určit pro každého pacienta individuálně v závislosti na farmakokinetické a klinické odpovědi. Následující dávkování je uvedeno pouze jako vodítko.
+
+Dávkovacím režimem se má dosáhnout minimální hladiny IgG (měřené před další infuzí) alespoň 5 až 6 g/l a s cílem zajistit, že hladiny budou v referenčním intervalu IgG pro daný věk. Počáteční nárazová dávka dosahuje zpravidla nejméně 0,2–0,5 g/kg. Může ji být potřeba rozdělit do několika dnů s maximální denní dávkou v rozmezí 0,1 až 0,15 g/kg.
+Po dosažení dynamické rovnováhy hladin IgG se podávají opakovaně (přibližně jednou za týden) udržovací dávky tak, aby bylo dosaženo kumulativní měsíční dávky v řádu 0,4-0,8 g/kg. Každou jednotlivou dávku může být potřeba injekčně podat do jiného místa.
+Minimální hladiny je třeba měřit a vyhodnocovat v souvislosti s výskytem infekcí. V zájmu snížení četnosti infekcí může být nutné zvýšit dávku a snažit se dosáhnout vyšších minimálních hladin.
+
+Pediatrická populace
+Dávkování se u dětí a dospívajících (0–18 let) neliší od dospělých, jelikož dávkování se pro každou indikaci uvádí vztažené na tělesnou hmotnost s úpravou na klinický výsledek pro indikace substituční léčby.
+
+Způsob podání
+Subkutánní použití.
+Subkutánní infuze při domácí léčbě musí být zahájena a monitorována lékařem, který má zkušenosti s vedením pacientů v průběhu domácí léčby. Pacient musí být informován o použití dávkovací pumpy, o infuzních technikách, o vedení záznamů o léčbě, rozpoznání závažných nežádoucích účinků a o opatřeních, která je třeba provést, pokud se závažné nežádoucí účinky vyskytnou.
+
+2
+
+Subkutánní infuze pomocí pumpy
+
+Gammanorm lze injikovat do míst jako jsou břicho, stehno, horní část paže a zevní strana boku. Doporučuje se zpočátku použít rychlost podání 15 ml/h/místo. Při dobrém snášení (viz bod 4.4) lze pro další infuze rychlost podle tolerance postupně zvyšovat o 1–2 ml/h/místo až na 25 ml za hodinu na místo. Maximální rychlost podávání, pokud je tolerována, je 100 ml/h v souhrnu pro všechna
+místa. Lze používat více infuzních zařízení zároveň. U dospělých lze dávky nad 30 ml podle
+preference pacienta rozdělit. Maximální objem infudovaný jedním místem vpichu nemá před
+10. infuzí překročit 25 ml. Po 10. infuzi lze maximální objem na místo vpichu postupně zvyšovat na
+35 ml, pokud je zvyšování snášeno.
+Množství přípravku infudovaného do konkrétního místa se liší.
+U kojenců a dětí lze místo infuze změnit po podání každých 5–15 ml.
+Počet infuzních míst není omezen.
+
+Subkutánní infuze pomocí stříkačky
+Gammanorm lze podávat pomocí stříkačky v jednom infuzním místě. Navrhovaná maximální rychlost infuze je stanovena na přibližně 1–2 ml/min.
+Týdenní dávku lze rozdělit na tři díly podávané obden. U dospělých nemá maximální objem infudovaný jedním místem vpichu překročit 25 ml přípravku Gammanorm. U dětí nemá maximální objem infudovaný jedním místem vpichu překročit 5–15 ml přípravku Gammanorm.
+
+Denní dávku může být nutné podat do více než jednoho místa vpichu.
+Maximální rychlost podávání, pokud je tolerována, může být 120 ml/h v souhrnu pro všechna místa.
+Intramuskulární použití.
+Intramuskulární injekce musí být podána lékařem nebo zdravotní sestrou.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. (viz bod 4.4).
+
+Gammanorm nesmí být podáván intravaskulárně.
+Nesmí být podáván ani intramuskulárně v případě závažné trombocytopenie a při jiných poruchách krevní srážlivosti.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Sledovatelnost
+Aby se zlepšila sledovatelnost biologických léčivých přípravků, má se přehledně zaznamenat název podaného přípravku a číslo šarže.
+Pokud je Gammanorm náhodně podán do krevní cévy, může u pacienta dojít k šoku. Je třeba pečlivě dodržovat infuzní rychlost doporučenou v bodě 4.2 „Způsob podání“.
+Pacienty je třeba po celou dobu infuze pečlivě sledovat a pozorovat, zda se u nich neprojevují žádné příznaky.
+
+K některým nežádoucím účinkům dochází častěji u pacientů, kteří dostávají lidský normální imunoglobulin poprvé nebo, ve vzácných případech, pokud se mění přípravek lidského normálního imunoglobulinu popřípadě pokud od předchozí infuze uplynula dlouhá doba.
+
+
+3
+
+Možným komplikacím se lze často vyhnout dodržením těchto pravidel:
+
+•  zpočátku aplikovat přípravek pomalu (viz 4.2);
+•  ujistit se, že u pacientů jsou pečlivě sledovány jakékoli symptomy po celou dobu infuze. Zvláště jde o pacienty, kteří dostávají lidský normální imunoglobulin poprvé, kteří přecházejí z jiného alternativního přípravku imunoglobulinu, nebo když od předchozí infuze uplynula dlouhá doba. V těchto případech je třeba je sledovat v průběhu celé první infuze a po dobu jedné hodiny po ní, aby bylo možno zjistit potenciální nežádoucí účinky.
+Všichni ostatní pacienti mají být sledováni nejméně 20 minut po podání.
+
+Pokud se vyskytnou nežádoucí účinky, je třeba snížit rychlost podávání nebo infuzi ukončit. Nutná léčba se liší v závislosti na charakteru a závažnosti nežádoucího účinku.
+
+V případě šoku se provádí standardní protišoková léčba.
+Hypersenzitivta
+
+Skutečné alergické reakce jsou vzácné. Může k nim docházet zejména u pacientů s protilátkami proti IgA, které je třeba léčit zvlášť opatrně. Pacienty s protilátkami proti IgA, u nichž léčba subkutánními přípravky s IgG zůstává jedinou možností, lze přípravkem Gammanorm léčit pouze pod přísným lékařským dohledem.
+Lidský normální imunoglobulin může vzácně vyvolat pokles krevního tlaku s anafylaktickou reakcí, a to dokonce i u pacientů, kteří předchozí léčbu lidským normálním imunoglobulinem snášeli.
+
+Tromboembolické příhody
+Tepenné a žilní tromboembolické příhody včetně infarktu myokardu, mozkové příhody, hluboké žilní trombózy a pulmonální embolie jsou spojeny s používáním imunoglobulinů. Před podáním imunoglobulinů mají být pacienti dostatečně hydratováni. Opatrně je třeba postupovat u pacientů s existujícími rizikovými faktory tromboembolických příhod (například pokročilý věk, vysoký tlak, cukrovka a anamnéza s vaskulárními onemocněními nebo trombotickými příhodami, u pacientů se získaným nebo zděděným sklonem k trombofilickým onemocněním, u pacientů s dlouhým obdobím nehybnosti, u silně hypovolemických pacientů, pacientů s nemocemi zvyšujícími viskozitu krve).
+
+Pacienti  musí  být  informováni  o  prvních  příznacích  tromboembolických  událostí  včetně dýchavičnosti, bolesti a otékání končetin, ložiskových neurologických deficitů a bolesti na hrudi, a měli by dostat pokyn, aby se při výskytu kteréhokoliv z uvedených příznaků neprodleně obrátili na svého lékaře.
+
+Syndrom aseptické meningitidy (SAM)
+V souvislosti se subkutánní imunoglobulinovou léčbou byl hlášen výskyt syndromu aseptické meningitidy; příznaky se obvykle začínají projevovat za několik hodin až za dva dny po léčbě. Vysazení imunoglobulinové léčby může během několika dní vést k remisi SAM bez následků.
+
+Pacienty je třeba informovat o prvních příznacích, které zahrnují silné bolesti hlavy, ztuhlost krku, ospalost, horečku, fotofobii, nauzeu a zvracení.
+Důležité informace o některých složkách přípravku Gammanorm
+
+Injekční lahvička o obsahu 6 ml:
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné injekční lahvičce, to znamená, že je v podstatě „bez sodíku“.
+Injekční lahvičky o obsahu 10 ml, 12 ml, 20 ml, 24 ml a 48 ml:
+4
+
+Tento léčivý přípravek obsahuje
+25 mg (1,1 mmol) sodíku v injekční lahvičce o obsahu 10 ml, 30 mg (1,30 mmol) sodíku v injekční lahvičce o obsahu 12 ml, 50 mg (2,17 mmol) sodíku v injekční lahvičce o obsahu 20 ml, 60 mg (2,61 mmol) sodíku v injekční lahvičce o obsahu 24 ml, 120 mg (5,22 mmol) sodíku v injekční lahvičce o obsahu 48 ml,
+což odpovídá 1,25 %, 1,5 %, 2,5 %, 3,0 % a 6,0 % (v uvedeném pořadí) doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+Ovlivnění sérologického testování
+
+Po aplikaci imunoglobulinu může přechodný vzestup různých pasivně přenášených protilátek v krvi pacienta mít za následek falešně pozitivní výsledky sérologického testování.
+Pasivní přenos protilátek proti erytrocytárním antigenům, např. A, B a D, může ovlivňovat některé sérologické testy na protilátky červených krvinek, například přímý antiglobulinový test (PAT, přímý Coombsův test).
+
+Přenosná agens
+Standardní opatření k prevenci infekcí vzniklých v důsledku užívání léčivých přípravků vyrobených z lidské krve nebo plazmy zahrnují výběr dárců, vyšetřování jednotlivých odběrů a plazmatických poolů na specifické ukazatele infekce a zařazení účinných výrobních postupů k inaktivaci/odstranění virů. Přesto, když jsou podávány léčivé přípravky z lidské krve nebo plazmy, nelze zcela vyloučit možnost přenosu infekčního agens. To se rovněž týká neznámých nebo nově vznikajících virů a jiných patogenů.
+
+Přijatá opatření jsou považována za účinná u obalených virů jako např. virus lidské imunodeficience
+(HIV), virus hepatitidy B (HBV) a virus hepatitidy C (HCV).
+Tato opatření mohou mít omezenou účinnost proti neobaleným virům jako např. HAV a
+parvovirus B19.
+
+Klinická zkušenost nám dává pocit jistoty, že hepatitida A a parvovirus B19 nejsou imunoglobuliny
+přenášeny. Rovněž se předpokládá, že obsah protilátek významně přispívá k virové bezpečnosti.
+Důrazně doporučujeme zaznamenávat název a číslo šarže přípravku pokaždé, když je Gammanorm pacientovi podáván, aby bylo později možné číslo použité šarže zjistit.
+
+Gammanorm nechrání proti hepatitidě A.
+Pediatrická populace
+
+Uvedená upozornění a opatření platí pro dospělé i pro děti.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Živé oslabené virové vakciny
+Podání imunoglobulinu může po dobu nejméně 6 týdnů až 3 měsíců zhoršit účinnost vakcin obsahujících živé oslabené viry jako např.vakciny proti spalničkám, zarděnkám, příušnicím a planým neštovicím. Po podání tohoto přípravku by měly před vakcinací živou oslabenou virovou vakcinou uplynout tři měsíce. V případě spalniček může toto snížení účinnosti trvat až jeden rok. U pacientů kteří mají dostat vakcinu proti spalničkám by proto měla být překontrolována hladina protilátek.
+
+Pediatrická populace
+U pediatrické populace nebyly pozorovány žádné specifické ani další interakce.
+
+5
+
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Bezpečnost toho léčivého přípravku při používání v průběhu těhotenství nebyla stanovena v kontrolovaných klinických studiích. Proto by měl být Gammanorm podáván těhotným ženám a kojícím matkám opatrně. Bylo prokázáno, že imunoglobulinové přípravky procházejí placentou, ve třetím trimestru ve zvýšené míře. Klinická zkušenost s imunoglobuliny naznačuje, že není třeba očekávat škodlivý vliv na průběh těhotenství, plod a novorozence.
+
+Kojení
+Imunoglobuliny jsou vylučovány do mléka a mohou pomoci chránit novorozence před patogeny, které vstupují do těla sliznicemi.
+
+Fertilita
+Klinické zkušenosti s imunoglobuliny ukazují, že není třeba se obávat žádných škodlivých účinků na
+plodnost.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Schopnost řídit a obsluhovat stroje může být zhoršena některými nežádoucími účinky spojovanými s přípravkem Gammanorm. Pacienti, u nichž se v průběhu léčby vyskytnou nežádoucí účinky, musí počkat, než vymizí, a teprve potom mohou řídit nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+
+Příležitostně se mohou vyskytnout nežádoucí účinky jako např. třesavka, bolest hlavy, závratě, horečka, zvracení, alergické reakce, nauzea, artralgie, nízký krevní tlak a středně silná bolest dolní části zad.
+Ve vzácných případech mohou normální lidské imunoglobuliny způsobit náhlý pokles krevního tlaku a v ojedinělých případech anafylaktický šok, ačkoli pacient nevykazoval žádnou přecitlivělost při předchozím podání.
+
+Často se mohou vyskytnout lokální reakce v místech infuze: otok, bolestivost, zčervenání, ztvrdnutí, místní pocit horka, svědění, zhmoždění a vyrážka.
+Tabulkový seznam nežádoucích účinků
+
+Níže uvedená tabulka uvádí přehled nežádoucích účinků hlášených v klinických studiích, poregistračních studiích bezpečnosti a jiných poregistračních zdrojích, seřazený podle tříd orgánových systémů podle databáze MedDRA, preferovaného termínu a frekvence.
+Frekvence byly vyhodnoceny podle následující konvence:
+Velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1 000 až < 1/100);
+vzácné (≥ 1/10 000 až < 1/1 000); velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+U spontánních poregistračních hlášení nežádoucích účinků je frekvence výskytu uvedena jako „není známo“.
+
+
+
+
+
+
+
+
+6
+
+Třídy orgánových systémů podle databáze MedDRA Poruchy imunitního systému
+
+Poruchy nervového systému
+
+
+
+Cévní poruchy
+
+
+Respirační, hrudní
+a mediastinální poruchy Gastrointestinální poruchy
+
+
+Poruchy kůže a podkožní tkáně
+
+Poruchy svalové a kosterní
+soustavy a pojivové tkáně
+
+Celkové poruchy
+a reakce v místě aplikace
+Nežádoucí účinek
+
+přecitlivělost anafylaktický šok
+aseptická meningitida#
+závratě tremor bolest hlavy
+tromboembolická příhoda* #
+bledost hypotenze bronchospasmus dušnost
+kašel
+bolest břicha průjem nauzea
+zvracení kopřivka vyrážka pruritus bolest zad myalgie artralgie pyrexie
+třesavka únava
+reakce v místě injekce malátnost
+zrudnutí astenie pocit horka pocit chladu
+onemocnění podobné chřipce edém obličeje
+Frekvence
+
+méně časté
+velmi vzácné není známo časté
+méně časté časté
+velmi vzácné méně časté
+vzácné
+méně časté méně časté není známo méně časté méně časté časté
+časté
+není známo není známo není známo není známo časté
+velmi vzácné velmi vzácné velmi vzácné časté
+velmi časté méně časté není známo méně časté méně časté méně časté není známo není známo
+# Viz též bod 4.4    *Termín nižší úrovně (LLT) v databázi MedDRA Bezpečnostní informace ohledně přenosných agens viz bod 4.4.
+Pediatrická populace
+Frekvence, typ a závažnost nežádoucích účinků jsou u dětí stejné jako u dospělých.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+4.9  Předávkování
+
+Důsledky předávkování nejsou známy.
+7
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: imunoséra a imunoglobuliny: imunoglobuliny, normální lidské, pro extravaskulární podávání, ATC kód: J06BA01
+Lidský normální imunoglobulin obsahuje hlavně imunoglobulin G (IgG) se širokým spektrem
+protilátek proti infekčním činitelům.
+
+Lidský normální imunoglobulin obsahuje IgG protilátky přítomné v normální populaci. Obvykle je připravován ze směsi plazmy od minimálně 1000 dárců. Má distribuci podtříd imunoglobulinu G, která je proporcionální s tou, která se vyskytuje v nativní lidské plazmě. Odpovídající dávky tohoto léčivého přípravku mohou u pacientů s abnormálně nízkými hladinami imunoglobulinu G obnovit normální hladinu.
+
+Klinické studie
+Ve studii bylo léčeno Gammanormem 43 subjektů s primárními imunodeficitními syndromy od 22 do 79 let věku. Každý subjekt byl léčen po dvě po sobě jdoucí tříměsíční období podle sekvence přiřazené na základě zkříženého návrhu (stříkačka a potom pumpa, nebo pumpa a potom stříkačka) bez žádné vymývací periody mezi těmito obdobími. Celková doba léčby v rámci studie byla tedy 6 měsíců pro každý subjekt.
+Průměrná dávka podaná za jeden měsíc byla 502,1 mg/kg tělesné hmotnosti při podávání pomocí pumpy a 475,0 mg/kg tělesné hmotnosti při podávání pomocí stříkačky. Během sekvence léčby s pumpou bylo dosaženo setrvalých minimálních hladin IgG s průměrnými koncentracemi 9,7 g/l a při podávání léčby stříkačkou bylo dosaženo průměrných koncentrací IgG 9,4 g/l. Subjekty v průměru dostaly 12,4 infuzí přípravku Gammanorm za tříměsíční období léčby během sekvence s pumpou a 34,8 infuzí za tříměsíční období léčby, když byl Gammanorm podáván pomocí stříkačky.
+
+Pediatrická populace
+S přípravkem Gammanorm nebyly prováděny žádné specifické studie v pediatrické populaci.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce a distribuce
+Po subkutánním podávání přípravku Gammanorm jsou nejvyšší hladiny v séru dosaženy za 4–6 dní.
+
+Výsledky klinických studií ukazují, že průměrné hladiny mohou být udržovány podáváním 0,1 g/kg
+týdně.
+Při intramuskulárním podávání je lidský normální imunoglobulin biologicky dostupný v krvi příjemce
+po 2–3 dnech.
+
+Eliminace
+IgG a IgG komplexy jsou odbourávány v buňkách retikuloendoteliálního systému.
+
+Pediatrická populace
+S přípravkem Gammanorm nebyly prováděny žádné specifické studie v pediatrické populaci.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Neexistují žádné relevantní údaje.
+
+
+8
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Glycin, chlorid sodný, natrium-acetát, polysorbát 80 a voda pro injekci.
+
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být léčivý přípravek mísen s jinými léčivými přípravky.
+
+6.3  Doba použitelnosti
+
+3 roky.
+Přípravek se musí spotřebovat okamžitě po prvním otevření.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v chladničce (2 °C–8 °C). Chraňte před mrazem.
+Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+Během doby použitelnosti, může být přípravek uchováván po dobu 1 měsíce při teplotě do 25 °C, aniž by byl během této doby znovu uložen do chladničky, nebude-li použit, musí být po této době odborně znehodnocen.
+Podmínky uchovávání tohoto léčivého přípravku po jeho prvním otevření jsou uvedeny v bodě 6.3.
+6.5  Druh obalu a obsah balení
+
+6 ml, 10 ml, 12 ml, 20 ml, 24 ml nebo 48 ml roztoku v injekční lahvičce (sklo třídy I) se zátkou (bromobutylová pryž) –velikost balení 1,10 nebo 20.
+Na trhu nemusí být všechny velikosti balení.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Léčivý přípravek je třeba před použitím ohřát na pokojovou nebo tělesnou teplotu.
+Roztok má být čirý nebo slabě zakalený a bezbarvý nebo bledožlutý či světle hnědý. Nepoužívejte roztoky, které jsou zakalené nebo obsahují usazeniny.
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Octapharma (IP) SPRL Allée de la Recherche 65 1070 Anderlecht
+Belgie
+
+
+8.   REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+59/487/05-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+9
+
+Datum první registrace: 14. 12. 2005
+Datum posledního prodloužení registrace: 4. 3. 2015
+
+10.  DATUM REVIZE TEXTU
+
+15. 10. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

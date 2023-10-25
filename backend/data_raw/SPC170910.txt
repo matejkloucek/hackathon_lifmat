@@ -1,0 +1,468 @@
+sp. zn. sukls344/2021
+a k sp. zn. sukls16274/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Melphalan Zentiva 50 mg prášek a rozpouštědlo pro injekční/infuzní roztok
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička s práškem obsahuje melphalanum hydrochloridum odpovídající melphalanum 50 mg.
+Jedna injekční lahvička s rozpouštědlem obsahuje 10 ml rozpouštědla.
+
+Po rekonstituci obsahuje jeden ml rekonstituovaného roztoku melphalanum 5 mg.
+
+Pomocné látky se známým účinkem:
+Po rekonstituci jedna injekční lahvička obsahuje 53,5 mg sodíku, 0,4 g ethanolu a 6,2 g propylenglykolu.
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+
+Prášek a rozpouštědlo pro injekční/infuzní roztok Prášek: Bílý až světle žlutý lyofilizovaný prášek
+Rozpouštědlo: Čirý bezbarvý roztok bez viditelných částic pH rekonstituovaného roztoku je mezi 6,0 a 7,0
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+1)   Melfalan je při konvenční intravenózní dávce indikován k léčbě mnohočetného myelomu a pokročilého karcinomu ovaria.
+
+2)   Vysoké intravenózní dávky melfalanu jsou indikovány k léčbě mnohočetného myelomu a neuroblastomu dětského věku, a to jak při transplantaci hematopoetických kmenových buněk, tak bez ní.
+3)  Melfalan podávaný regionální arteriální perfuzí je indikován k léčbě lokalizovaného maligního melanomu končetin a lokalizovaného sarkomu měkkých tkání končetin.
+Ve výše uvedených indikacích se může melfalan použit v monoterapii nebo v kombinaci s jinými cytotoxickými léčivými přípravky.
+
+4.2  Dávkování a způsob podání
+
+Léčba melfalanem má probíhat pod dohledem lékaře se zkušenostmi s použitím protinádorových terapií.
+
+1
+
+Obecná informace
+Melfalan je určen pouze k intravenóznímu podání a k regionální arteriální perfuzi. V dávkách nad 140
+mg/m² by melfalan neměl být podáván bez záchranné medikace pro hematopoetické kmenové buňky.
+
+Pro intravenózní podání se doporučuje, aby byl melfalan vstřikován pomalu do rychle tekoucího infuzního roztoku injekčním portem, který je otřený. Pokud přímá injekce do rychle tekoucí infuze není vhodná, může být melfalan podáván naředěný v infuzním vaku.
+
+Je třeba dbát na to, aby nedošlo k extravazaci melfalanu, a v případech špatného přístupu do periferní žíly má být zváženo použití centrálního žilního katétru.
+Při vysokých dávkách melfalanu, při autologní transplantaci kostní dřeně nebo bez ní, se doporučuje podání pomocí centrálního žilního katétru. Vzhledem k existujícím rizikům a požadované úrovni podpůrné péče (viz bod 4.4) má být podávání vysokých dávek melfalanu omezeno na specializovaná pracoviště s příslušným zařízením a prováděno pouze zkušenými lékaři.
+
+V případě regionální arteriální perfuze je třeba pro podrobnou metodiku nahlédnout do literatury.
+
+Během intravenózního podání chraňte pacienta před vnějším kontaktem s injekčním/infuzním
+roztokem melfalanu (viz bod 4.4).
+
+Tromboembolické příhody
+Tromboprofylaxe má být podávána nejméně prvních 5 měsíců léčby, zejména u pacientů s dalšími trombotickými rizikovými faktory. Rozhodnutí o zavedení antitrombotických profylaktických opatření má být provedeno po pečlivém posouzení existujících rizikových faktorů u každého pacienta (viz body 4.4 a 4.8).
+
+Pokud se u pacienta objeví jakékoliv tromboembolické příhody, musí být léčba přerušena a zahájena standardní antikoagulační léčba. Jakmile byl pacient stabilizován na antikoagulační léčbě a byly zvládnuty jakékoliv komplikace thromboembolické příhody, podávání melfalanu v kombinaci s lenalidomidem a prednisonem nebo thalidomidem a prednisonem nebo dexamethasonem může být znovu zahájeno v původní dávce v závislosti na posouzení přínosu a rizika. Během léčby melfalanem má pacient pokračovat v antikoagulační léčbě.
+Dávkování
+
+Mnohočetný myelom
+
+Běžná dávka
+
+Melfalan se podává intermitentně, a to v monoterapii nebo v kombinaci s jinými cytotoxickými přípravky. Podávání prednisonu bylo také zahrnuto do řady režimů.
+Při použití v monoterapii je typický intravenózní dávkovací režim melfalanu 0,4 mg/kg tělesné hmotnosti (16 mg/m² plochy povrchu těla) opakovaný ve vhodných intervalech (např. každé 4 týdny) za předpokladu, že v tomto období došlo k zotavení periferního krevního obrazu.
+
+Vysoká dávka
+Vysokodávkové režimy obvykle používají jednotlivé intravenózní dávky v rozmezí 100 až 200 mg/m² plochy tělesného povrchu (přibližně 2,5 až 5,0 mg/kg tělesné hmotnosti), ovšem záchranná medikace pro hematopoetické kmenové buňky se stává nezbytnou při dávkách vyšších než 140 mg/m² plochy povrchu těla.
+Adenokarcinom ovaria
+Při intravenózním podání v monoterapii je obvykle použita dávka 1 mg/kg tělesné hmotnosti (přibližně 40 mg/m² plochy povrchu těla) podávaná ve 4týdenních intervalech.
+
+2
+
+V kombinaci s jinými cytotoxickými přípravky se užívají intravenózní dávky mezi 0,3 a 0,4 mg/kg tělesné hmotnosti (12 až 16 mg/m² plochy povrchu těla) v intervalech 4 až 6 týdnů.
+
+Pokročilý neuroblastom
+Dávky mezi 100 a 240 mg/m² plochy tělesného povrchu (někdy rozděleny rovnoměrně po 3 po sobě následující dny) spolu se záchranou hematopoetických kmenových buněk byly použity buď v monoterapii nebo v kombinaci s radioterapií a/nebo s jinými cytotoxickými přípravky.
+
+Maligní melanom
+Hypertermická regionální perfuze melfalanem se používá jako adjuvans k operaci časného maligního melanomu a jako paliativní léčba pokročilého, ale lokalizovaného onemocnění. Podrobnosti o perfuzní technice a použité dávce je třeba vyhledat ve vědecké literatuře. Typické rozmezí dávek pro perfuzi horní končetiny je 0,6 až 1,0 mg/kg tělesné hmotnosti a pro dolní končetinu 0,8 až 1,5 mg/kg tělesné hmotnosti.
+
+Sarkom měkkých tkání
+Hypertermická regionální perfuze melfalanem se používá k léčbě všech stadií lokalizovaného sarkomu měkkých tkání, obvykle v kombinaci s chirurgickým zákrokem. Podrobnosti o perfuzní technice a použité dávce je třeba vyhledat ve vědecké literatuře. Typické rozmezí dávek pro perfuzi horní končetiny je 0,6-1,0 mg/kg tělesné hmotnosti a pro dolní končetinu 1-1,4 mg/kg tělesné hmotnosti.
+
+Zvláštní skupiny pacientů
+
+Pediatrická populace
+Melfalan je v konvenčních dávkách u dětí pouze vzácně indikován a pokyny pro dávkování nelze
+stanovit.
+
+U  dětského  neuroblastomu  byly  užity  vysoké  dávky  melfalanu  ve  spojení  se  záchranou hematopoetických kmenových buněk. Je možno použít pokyny pro dávkování založené na ploše povrchu těla.
+Viz také odstavec o propylenglykolu v bodu 4.4.
+
+Starší pacienti
+Přestože se melfalan v konvenční dávce často užívá u starších pacientů, nejsou k dispozici žádné specifické informace týkající se jeho podávání této podskupině pacientů.
+
+Zkušenosti s použitím vysoké dávky melfalanu u starších pacientů jsou omezené. Před použitím vysokých dávek melfalanu u starších pacientů se má proto zvážit a potvrdit adekvátní výkonnostní stav a funkce orgánů.
+Pacienti s poruchou funkce ledvin
+Přestože je clearance melfalanu proměnlivá, může být při renálním poškození snížena.
+Aktuální dostupné farmakokinetické údaje nepodporují absolutní doporučení ke snížení dávky při podávání melfalanu pacientům s poruchou funkce ledvin, ale může být rozumné použít zpočátku sníženou dávku, dokud nebude stanovena míra tolerance. Pokud se melfalan používá v konvenční intravenózní dávce (8-40 mg/m² plochy povrchu těla), doporučuje se, aby počáteční dávka byla snížena o 50 % a následné dávkování určeno podle stupně hematologické suprese.
+
+U vysokých intravenózních dávek melfalanu (100 až 240 mg/m² plochy povrchu těla) závisí potřeba snížení dávky na stupni poškození ledvin, na tom, zda jsou znovu podávány hematopoetické kmenové buňky, a na terapeutické potřebě. Jako vodítko při léčbě vysokými dávkami melfalanu bez záchrany hematopoetických kmenových buněk u pacientů se středně těžkou poruchou funkce ledvin (clearance kreatininu 30 až 50 ml/min) je obvyklé snížení dávky o 50 %.
+
+3
+
+Vysoké dávky melfalanu se záchranou hematopoetických kmenových buněk byly úspěšně použity i u dialyzovaných pacientů s terminálním selháním ledvin. Podrobnosti naleznete v příslušné literatuře.
+Viz také odstavec o propylenglykolu v bodu 4.4. Pacienti s poruchou funkce jater
+Viz odstavec o propylenglykolu v bodu 4.4.
+
+Způsob podání
+
+Injekce/infuze
+Pokyny pro rekonstituci a případné ředění léčivého přípravku před podáním jsou uvedeny v bodu 6.6. Po rekonstituci má být léčivý přípravek čirý, viz bod 6.6.
+4.3  Kontraindikace
+1) Přecitlivělost na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+
+2) Kojení (viz bod 4.6)
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Melfalan je cytotoxický lék, který spadá do obecné třídy alkylačních látek. Přípravek má předepisovat pouze lékař se zkušenostmi v léčbě zhoubných onemocnění těmito látkami. Stejně jako u všech vysokodávkových chemoterapií je třeba zabránit syndromu nádorového rozpadu.
+
+Imunizace pomocí živé vakcíny může u imunokompromitovaných pacientů způsobit infekci. Proto se imunizace živými vakcínami nedoporučuje.
+
+Oči, kůže a sliznice pacientů musí být chráněny před kontaktem s injekčním/infuzním roztokem
+melfalanu nebo rekonstituovaným roztokem.
+
+Vzhledem k tomu, že je melfalan myelosupresivní, je v průběhu léčby nezbytný častý krevní obraz a v případě potřeby má být dávkování odloženo nebo upraveno.
+Pokud dojde k extravazaci, může melfalan způsobit lokální poškození tkání, a proto se nemá podávat přímou injekcí do periferní žíly.
+U pacientů používajících vysoké dávky mefalanu je třeba zvážit profylaktické podávání antiinfekčních látek a podávání krevních produktů podle potřeby. Před použitím vysokých dávek melfalanu má být zvážen a potvrzen adekvátní výkonnostní stav a funkce orgánů.
+
+S ohledem na zvýšenou toxicitu kostní dřeně se má melfalan používat s opatrností u pacientů, kteří podstoupili nedávnou radioterapii nebo chemoterapii.
+Pokud jeden z partnerů užívá melfalan, mají být zavedena odpovídající antikoncepční opatření, stejně jako u všech cytotoxických chemoterapií, a to až do doby tří měsíců po ukončení léčby. U karcinomu ovaria se doporučuje nehormonální antikoncepce.
+
+Monitorování
+Vzhledem k tomu, že je melfalan účinnou myelosupresivní látkou, je nezbytné, aby byla věnována zvýšená pozornost monitorování krevního obrazu, aby se zabránilo možnosti nadměrné myelosuprese a rizika nevratné aplazie kostní dřeně. Po ukončení léčby může krevní obraz dále klesat, takže při prvním příznaku abnormálně velkého poklesu počtu leukocytů nebo trombocytů se má léčba dočasně přerušit.
+
+4
+
+Výskyt průjmu, zvracení a stomatitidy je toxicitou omezující dávku u pacientů, kterým byly podány vysoké intravenózní dávky melfalanu v souvislosti s autologní transplantací kostní dřeně. Zdá se, že předchozí léčba cyklofosfamidem snižuje závažnost gastrointestinálního poškození vyvolaného vysokými dávkami melfalanu, podrobnosti by měly být vyhledány v literatuře.
+
+Porucha funkce ledvin
+Clearance melfalanu může být snížena u pacientů s poruchou funkce ledvin, kteří mohou také trpět uremickou supresí kostní dřeně. Proto může být nutné snížení dávky (viz bod 4.2). Zvýšení urey v krvi viz bod 4.8. U pacientů s poruchou funkce ledvin mají být pečlivě sledovány příznaky/projevy předávkování.
+
+Tromboembolické příhody
+Pacienti léčení melfalanem v kombinaci s lenalidomidem a prednisonem nebo thalidomidem a prednisonem nebo dexamethasonem mají zvýšené riziko tromboembolických příhod (viz bod 4.8). Zejména u pacientů s dalšími trombotickými rizikovými faktory je třeba zvážit antitrombotická profylaktická opatření (viz body 4.2 a 4.8).
+Mutagenita
+Melfalan je mutagenní u zvířat a u pacientů léčených tímto přípravkem byly pozorovány
+chromozomální aberace.
+
+Kancerogenita
+Melfalan je uváděn jako leukemogenní. Byly hlášeny případy akutní leukemie po léčbě melfalanem u onemocnění, jako je amyloid, maligní melanom, mnohočetný myelom, makroglobulinemie, syndrom studeného aglutininu a karcinom ovaria.
+
+Srovnání pacientek s ovariálním karcinomem, které dostávaly alkylační látky, s těmi, které je nedostávaly, ukázalo, že použití alkylačních látek včetně melfalanu významně zvýšilo výskyt akutní leukemie.
+
+Při rozhodnutí o použití melfalanu musí být leukemogenní riziko zváženo oproti potenciálnímu terapeutickému přínosu.
+
+5% ethanol (alkohol)
+Tento léčivý přípravek obsahuje 5 % ethanolu (alkoholu), tj. 0,4 g v injekční lahvičce. Je škodlivý pro alkoholiky.
+Toto je nutno vzít v úvahu u těhotných žen, dětí a vysoce rizikových skupin, jako jsou pacienti s jaterním onemocněním nebo epilepsií.
+
+Propylenglykol
+Tento léčivý přípravek obsahuje propylenglykol, který může způsobit příznaky podobné alkoholu. Je nutné lékařské sledování, pokud se používá u pacientů s poruchou funkce ledvin nebo jater.
+Současné podávání s jakýmkoli substrátem alkoholdehydrogenázy, jako je ethanol, může vyvolat nežádoucí účinky u dětí mladších 5 let.
+Sodík
+Tento léčivý přípravek obsahuje 53,5 mg sodíku v jedné injekční lahvičce, což odpovídá 2,7 % doporučeného maximálního denního příjmu sodíku potravou podle WHO pro dospělého, který činí 2 g sodíku.
+
+Sedm lahviček představuje nejnižší počet injekčních lahviček, kdy je dosažena/překročena prahová
+hodnota 17 mmol (391 mg) sodíku.
+
+5
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+U imunokompromitovaných jedinců se očkování živými vakcínami nedoporučuje (viz bod 4.4).
+
+Kyselina nalidixová spolu s vysokodávkovým intravenózním melfalanem způsobila úmrtí dětí v důsledku hemoragické enterokolitidy. Je třeba se vyhnout kombinované léčbě melfalanem s kyselinou nalidixovou.
+
+U pediatrické populace bylo v režimu busulfan-melfalan hlášeno, že podání melfalanu méně než 24 hodin po posledním perorálním podání busulfanu může ovlivnit vývoj toxicity.
+Porucha funkce ledvin byla popsána u pacientů po transplantaci kostní dřeně, kteří dostávali intravenózně podávaný melfalan, a kteří následně dostávali cyklosporin k zamezení reakce štěpu proti hostiteli.
+
+Ethanol: viz odstavec o propylenglykolu v bodu 4.4.
+4.6  Fertilita, těhotenství a kojení
+
+Antikoncepce u mužů a žen ve fertilním věku
+Stejně jako u každé cytotoxické léčby mají muži a ženy, kteří používají melfalan, používat účinné a spolehlivé antikoncepční metody, a to až do tří měsíců po ukončení léčby. U ovariálního karcinomu se nemá používat hormonální antikoncepce.
+Těhotenství
+Údaje o podávání melfalanu těhotným ženám nejsou k dispozici nebo jsou omezené. Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Riziko pro člověka není známo, ale vzhledem k mutagenním vlastnostem a strukturní podobnosti melfalanu se známými teratogenními sloučeninami je možné, že melfalan může způsobit vrozené malformace u potomků léčených pacientů. Melfalan nesmí být během těhotenství podáván, pokud klinický stav ženy nevyžaduje léčbu melfalanem.
+Kojení
+Není známo, zda se melfalan nebo jeho metabolity vylučují do lidského mateřského mléka. Vzhledem ke svým mutagenním vlastnostem je melfalan kontraindikován během kojení (viz bod 4.3).
+
+Fertilita
+Melfalan způsobuje potlačení funkce vaječníků u premenopauzálních žen, což má u mnoha pacientek za následek amenoreu.
+Studie na zvířatech prokázaly, že melfalan může mít nežádoucí účinky na spermatogenezi (viz bod 5.3). Je proto možné, že melfalan může mít dočasné nebo trvalé nežádoucí účinky na mužskou fertilitu. Doporučuje se, aby muži, kteří jsou léčeni melfalanem, nepočali dítě během léčby a až 3 měsíce po jejím ukončení. Doporučuje se kryokonzervace spermatu před léčbou.
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Neexistují žádné údaje o účinku léčby melfalanem na schopnost řídit a obsluhovat stroje. Na základě farmakologického profilu se takový účinek nepředpokládá. U pacientů léčených kvůli malignímu onemocnění se doporučuje zvážit jejich celkový zdravotní stav.
+
+4.8  Nežádoucí účinky
+
+Pro tento přípravek neexistuje moderní klinická dokumentace, která by mohla být použita jako podpora pro stanovení četnosti nežádoucích účinků. Četnost nežádoucích účinků se může lišit v závislosti na indikaci a podané dávce a také, pokud se podává v kombinaci s jinými terapeutickými látkami.
+
+6
+
+Pro klasifikaci frekvence byla použita následující konvence: velmi časté (≥1/10), časté (≥1/100 až
+<1/10), méně časté (≥1/1000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (<1/10 000),
+neznámo (z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů
+podle MedDRA
+Frekvence   Nežádoucí účinky
+
+
+Novotvary benigní, maligní a
+blíže neurčené (zahrnující cysty a polypy)
+Není známo
+sekundární akutní myeloidní leukemie a
+myelodysplastický syndrom (viz bod 4.4)
+
+
+Poruchy krve a lymfatického systému
+Velmi časté Vzácné
+deprese kostní dřeně vedoucí k leukopenii, trombocytopenii, neutropenii a anémii.
+hemolytická anémie
+
+Poruchy imunitního systému
+Vzácné
+alergické reakce¹ (viz Poruchy kůže a podkožní tkáně).
+
+
+Respirační, hrudní a mediastinální poruchy
+Gastrointestinální poruchy
+Vzácné Velmi časté Vzácné
+intersticiální pneumonitida a plicní fibróza (včetně fatálních hlášení).
+nauzea, průjem a zvracení, stomatitida při vysokých dávkách.
+stomatitida při konvenční dávce.
+
+Poruchy jater a žlučových cest
+
+
+
+Poruchy kůže a podkožní tkáně
+Vzácné
+
+
+
+Velmi časté
+poruchy jater v rozmezí od abnormálních testů jaterních funkcí po klinické projevy, jako je
+hepatitida a žloutenka; venookluzivní onemocnění po léčbě vysokými dávkami.
+alopecie při vysoké dávce.
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně²
+Časté Vzácné
+Velmi časté
+alopecia při konvenční dávce
+makulopapulózní vyrážky a svědění (viz také Poruchy imunitního systému).
+svalová atrofie, svalová fibróza, myalgie, zvýšení kreatinfosfokinázy v krvi.
+
+
+
+
+Poruchy ledvin a močových cest Poruchy reprodukčního systému
+a prsu
+Cévní poruchy⁴
+Celkové poruchy a reakce
+v místě aplikace
+Časté
+Není známo Časté
+Není známo
+
+Není známo Velmi časté
+kompartment syndrom
+svalová nekróza, rhabdomyolýza. zvýšení urey v krvi³
+azoospermie a amenorea
+
+hluboká žilní trombóza a plicní embolie subjektivní a přechodný pocit tepla a/nebo brnění
+
+¹Alergické reakce na melfalan, jako je kopřivka, edém, kožní vyrážky a anafylaktický šok, byly hlášeny méně často po počátečním nebo následném podání, zejména po intravenózním podání. Ve spojení s takovými příhodami byla vzácně hlášena také srdeční zástava.
+²Pouze s infuzí melfalanu po podání regionální perfuze do končetiny
+
+
+7
+
+³U pacientů s renálním poškozením léčených kvůli myelomu bylo v časných stadiích léčby
+melfalanem pozorováno dočasné významné zvýšení urey v krvi
+
+⁴Klinicky významné nežádoucí účinky spojené s použitím melfalanu v kombinaci s thalidomidem a prednisonem nebo dexamethasonem a v menší míře melfalanu s lenalidomidem a prednisonem zahrnují: hlubokou žilní trombózu a plicní embolii (viz body 4.2 a 4.4).
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+
+4.9  Předávkování
+
+Příznaky a projevy
+Gastrointestinální účinky, včetně nauzey, zvracení a průjmu, jsou nejpravděpodobnějšími příznaky akutního perorálního předávkování. Bezprostředním následkem akutního intravenózního předávkování jsou nauzea a zvracení. Může také dojít k poškození gastrointestinální sliznice a po předávkování byly hlášeny průjmy, někdy hemoragické. Hlavním toxickým účinkem je suprese kostní dřeně vedoucí k leukopenii, trombocytopenii a anémii.
+
+Léčba
+Je-li to nutné, mají být zavedena obecná podpůrná opatření spolu s vhodnou transfuzí krve a trombocytů a zvážena hospitalizace, krytí antibiotiky a použití hematologických růstových faktorů.
+Neexistuje žádné specifické antidotum. Krevní obraz má být pečlivě sledován po dobu nejméně čtyř týdnů po předávkování, dokud nebude prokázáno zotavení.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: cytostatika a imunomodulační látky, cytostatika. Alkylační látky. Analoga dusíkatého yperitu; ATC kód: L01AA03
+Mechanismus účinku
+Melfalan je bifunkční alkylační látka. Tvorba karboniových meziproduktů z každé ze dvou bis-2- chlorethylových skupin umožňuje alkylaci pomocí kovalentní vazby s dusíkem v poloze 7 guaninu na DNA, což následně vede k propojení dvou řetězců DNA a tím k zabránění replikace buněk.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Absorpce perorálního melfalanu je vysoce variabilní s ohledem na čas do prvního výskytu přípravku v
+plazmě a na maximální plazmatickou koncentraci.
+Ve studiích absolutní biologické dostupnosti melfalanu se průměrná absolutní biologická dostupnost
+pohybovala od 56 do 85 %.
+
+Intravenózní podání může být použito, aby se zabránilo variabilitě absorpce spojené s myeloablativní léčbou.
+Distribuce
+
+8
+
+Melfalan se středně silně váže na plazmatické proteiny, přičemž procenta vazby se pohybují od 69 % do 78 %. Bylo dokázáno, že vazba na proteiny je lineární v rozmezí plazmatických koncentrací, kterých se obvykle dosahuje při léčbě standardní dávkou, vazba ale může být závislá na koncentraci v koncentracích pozorovaných při léčbě vysokými dávkami. Hlavním vazebným proteinem je sérový albumin, který tvoří přibližně 55 až 60 % vazby a 20 % je vázáno na α1-kyselý glykoprotein. Vazebné studie  melfalanu  navíc  odhalily  existenci  ireverzibilní  složky  přičítané  alkylační  reakci  s plazmatickými proteiny.
+
+Po podání dvouminutové infuze dávek v rozmezí od 5 do 23 mg/m² plochy tělesného povrchu (přibližně 0,1 až 0,6 mg/kg tělesné hmotnosti) 10 pacientům s karcinomem ovaria nebo mnohočetným myelomem byly průměrné distribuční objemy v ustáleném stavu 29,1 ± 13,6 litrů a v centrálním kompartmentu 12,2 ± 6,5 litrů.
+
+U 28 pacientů s různými malignitami, kterým byly podávány dávky v rozmezí 70 až 200 mg/m² plochy tělesného povrchu ve formě 2- až 20minutové infuze, byly průměrné distribuční objemy v ustáleném stavu 40,2 ± 18,3 litrů a v centrálním kompartmentu 18,2 ± 11,7 litrů.
+U 11 pacientů s pokročilým maligním melanomem byly po hypertermické (39 °C) perfuzi dolní končetiny dávkou 1,75 mg/kg tělesné hmotnosti průměrné distribuční objemy v ustáleném stavu 2,87
+± 0,8 litrů a v centrálním kompartmentu 1,01 ± 0,28 litrů.
+
+Melfalan vykazuje omezený průnik hematoencefalickou bariérou. Několik zkoušejících odebralo vzorek mozkomíšního moku a nenašlo žádný měřitelný přípravek. Nízké koncentrace (~ 10% koncentrace v plazmě) byly pozorovány v jedné studii s vysokými dávkami u dětí.
+
+Biotransformace
+In vivo a in vitro údaje naznačují, že určujícím faktorem pro poločas rozpadu přípravku u člověka je spíše spontánní degradace než enzymatický metabolismus.
+Metabolity monohydroxymelfalan a dihydroxymelfalan byly detekovány v plazmě s maximálními hodnotami po 60 minutách a 105 minutách (v tomto pořadí).
+Eliminace
+U 13 pacientů, kterým byl podán perorální melfalan v dávce 0,6 mg/kg tělesné hmotnosti, byl průměrný konečný poločas eliminace v plazmě 90 ± 57 minut, přičemž 11% přípravku bylo získáno v moči během 24 hodin.
+U 8 pacientů, kterým byla podána jedna bolusová dávka 0,5 až 0,6 mg/kg tělesné hmotnosti, byl zjištěn složený počáteční poločas 7,7 ± 3,3 min a terminální poločas 108 ± 20,8 min. Po podání dvouminutové infuze dávek v rozmezí od 5 do 23 mg/m² plochy tělesného povrchu (přibližně 0,1 až 0,6 mg/kg tělesné hmotnosti) 10 pacientům s karcinomem ovaria nebo mnohočetným myelomem byly souhrnné počáteční poločasy 8,1 ± 6,6 min a terminální poločasy 76,9 ± 40,7 min. Byla naměřena průměrná clearance 342,7 ± 96,8 ml/min.
+
+U 15 dětí a 11 dospělých pacientů, kterým byla intravenózně podána vysoká dávka melfalanu (140 mg/m² plochy tělesného povrchu) s forsírovanou diurézou, byly zjištěny průměrné počáteční poločasy v hodnotách 6,5 ± 3,6 min a terminální poločasy v hodnotách 41,4 ± 16,5 min. Hodnoty průměrného počátečního a terminálního poločasu 8,8 ± 6,6 min a 73,1 ± 45,9 min (v tomto pořadí) byly naměřeny u 28 pacientů s různými malignitami, kterým byly podány dávky v rozmezí od 70 do 200 mg/m² plochy tělesného povrchu formou 2- až 20minutové infuze. Průměrná clearance byla 581,5 ± 182,9 ml/min.
+Po hypertermické (39 °C) perfuzi dolní končetiny dávkou 1,75 mg/kg tělesné hmotnosti byly u 11 pacientů s pokročilým maligním melanomem zaznamenány průměrné počáteční poločasy 3,6 ± 1,5 min a konečné poločasy 46,5 ± 17,2 min. Průměrná clearance byla 55,0 ± 9,4 ml/min.
+
+Zvláštní populace pacientů
+
+9
+
+Porucha funkce ledvin
+Při poruše funkce ledvin může být clearance melfalanu snížena (viz body 4.2 a 4.4).
+
+Starší pacienti
+Nebyla prokázána žádná korelace mezi věkem a clearance melfalanu nebo terminálním eliminačním poločasem melfalanu (viz bod 4.2).
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Mutagenita
+Melfalan je cytostatikum a mutagenita proto nebyla v předklinických studiích důkladně zkoumána. Melfalan byl mutagenní in vivo a způsoboval chromozomální aberace. Klinické informace o potenciální toxicitě melfalanu jsou uvedeny v bodech 4.4 a 4.6.
+Reprodukční toxicita a fertilita
+Ve studiích reprodukční toxicity na potkanech byl melfalan teratogenní po expozici jednorázovou dávkou. Ve studiích reprodukční toxicity při opakovaných dávkách byl melfalan toxický pro matku a vyvolal vrozené malformace, intrauterinní úmrtí, růstovou retardaci a narušený vývoj.
+Jedna dávka melfalanu u samců myší způsobila cytotoxicitu a chromozomální aberace ve spermiích. U samic myší bylo pozorováno snížení počtu mláďat ve vrhu. I po zotavení byl dlouhodobě snížen počet mláďat ve vrhu, což souviselo se sníženým počtem folikulů.
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Prášek
+Povidon
+Zředěná kyselina chlorovodíková (k úpravě pH)
+
+Rozpouštědlo:
+Dihydrát natrium-citrátu Propylenglykol
+Ethanol
+Voda pro injekci
+
+6.2  Inkompatibility
+
+Melfalan není kompatibilní s infuzními roztoky obsahujícími glukózu a doporučuje se, aby byl použit POUZE injekční roztok chloridu sodného o koncentraci 9 mg/ml (0,9 %).
+6.3  Doba použitelnosti
+
+Neotevřený prášek a rozpouštědlo: 2 roky
+
+Rekonstituovaný roztok: Po rekonstituci je třeba přípravek okamžitě použít. Všechen nepoužitý přípravek musí být zlikvidován. Melfalan má omezenou dobu použitelnosti a rozklad se rychle zvyšuje s rostoucí teplotou.
+Rekonstituovaný a dále naředěný infuzní roztok: Maximální doba od začátku rekonstituce do konce infuze nesmí překročit 1,5 hodiny při pokojové teplotě (přibližně 25 °C).
+
+6.4  Zvláštní opatření pro uchovávání
+
+
+10
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky uchovávání. Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem. Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci a naředění jsou uvedeny v bodě 6.3.
+
+6.5  Druh obalu a obsah balení
+
+Prášek: Čirá lahvička ze skla třídy I uzavřená bromobutylovou pryžovou zátkou potaženou fluorovaným polymerem a hliníkovým odtrhovacím víčkem s oranžovým terčem z polypropylenu. Lahvičky mohou, ale nemusí, být zabaleny ve smršťovací fólii.
+
+Velikost balení: 1 injekční lahvička obsahující 50 mg melfalanu
+Rozpouštědlo: Čirá injekční lahvička ze skla třídy I uzavřená bromobutylovou pryžovou zátkou a hliníkovým odtrhovacím víčkem s oranžovým terčem z polypropylenu.
+Velikost balení: 1 lahvička obsahující 10 ml
+
+Balení obsahuje 1 injekční lahvičku s práškem a 1 injekční lahvičku s rozpouštědlem.
+
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Musí být dodrženy postupy pro správné zacházení a likvidaci cytotoxických léčivých přípravků:
+•   Zaměstnanci musí být poučeni o rekonstituci přípravku.
+•   Těhotné ženy musí být vyloučeny ze zacházení s tímto přípravkem.
+•   Při rekonstituci přípravku má personál používat vhodný ochranný oděv s obličejovými maskami, ochrannými brýlemi a rukavicemi.
+•   Veškeré předměty používané při podávání nebo čištění, včetně rukavic, mají být zlikvidovány v nádobách na odpady pro kontaminovaný materiál určený ke spálení za vysoké teploty. Kapalný odpad může být vypouštěn s velkým množstvím vody.
+V případě náhodného kontaktu očí s melfalanem okamžitě vypláchněte očním roztokem chloridu sodného nebo velkým množstvím vody a okamžitě vyhledejte lékaře. V případě kontaktu s kůží okamžitě umyjte postižené místo mýdlem a velkým množstvím studené vody a okamžitě vyhledejte lékaře. Rozlitý roztok má být okamžitě otřen vlhkou papírovou utěrkou, která musí být bezpečně zlikvidována. Kontaminované plochy se musí omýt velkým množstvím vody.
+
+Rekonstituce
+Melfalan se má připravovat při pokojové teplotě (přibližně 25 °C) rekonstitucí prášku přiloženým rozpouštědlem.
+Je důležité, aby jak prášek, tak dodané rozpouštědlo byly před zahájením rekonstituce při pokojové teplotě (přibližně 25 °C).
+
+10 ml rozpouštědla se přidá rychle a najednou do injekční lahvičky obsahující prášek pomocí sterilní jehly a stříkačky. Na propíchnutí zátky lahvičky během rekonstituce se má použít jehla velikosti 21G nebo vyšší. Pro hladký a účinný průnik má být jehla vpravena kolmo do zátky, a to ne příliš rychle a bez kroucení. Injekční lahvičku okamžitě důkladně protřepejte (přibližně 5 minut), až vznikne čirý roztok bez viditelných částic. Rychlé přidání rozpouštědla a následné okamžité intenzivní protřepávání je důležité pro správné rozpuštění.
+Protřepáváním přípravku vznikne velké množství velmi malých vzduchových bublin. Tyto bubliny mohou zůstat 2 až 3 minuty, protože výsledný roztok je značně viskózní. To může ztížit posouzení čirosti roztoku.
+
+Každá injekční lahvička se musí tímto způsobem jednotlivě rekonstituovat. Výsledný roztok obsahuje ekvivalent 5 mg na ml bezvodého melfalanu. Nedodržení výše uvedených kroků přípravy může vést k neúplnému rozpuštění melfalanu.
+
+11
+
+Roztok melfalanu má omezenou stabilitu a má se připravit bezprostředně před použitím. Rekonstituovaný roztok nesmí být chlazen, protože by to způsobilo vysrážení.
+Smíchání
+Přidejte 10 ml výše uvedeného rekonstituovaného roztoku o koncentraci 5 mg/ml bezvodého melfalanu do infuzního vaku obsahujícího 100 ml 0,9 % injekčního roztoku chloridu sodného. Tento zředěný roztok důkladně promíchejte, čímž se získá nominální koncentrace 0,45 mg/ml bezvodého melfalanu.
+
+Při dalším zředění v infuzním roztoku má melfalan sníženou stabilitu a rychlost degradace se rychle zvyšuje s nárůstem teploty. Pokud je melfalan podáván za pokojové teploty přibližně 25 °C, nesmí maximální doba od přípravy roztoku po dokončení infuze překročit 1,5 hodiny.
+Melfalan není kompatibilní s infuzními roztoky obsahujícími glukózu a doporučuje se používat pouze
+injekční roztok chloridu sodného o koncentraci 9 mg/ml (0,9 %).
+Pokud se v rekonstituovaných nebo naředěných roztocích objeví viditelný zákal nebo krystalizace, musí být přípravek zlikvidován.
+Likvidace
+Jakýkoliv roztok, který se nepoužije, se po 1,5 hodině musí zlikvidovat podle standardních pokynů pro zacházení s cytotoxickými léčivými přípravky a jejich likvidaci.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky na cytotoxické léčivé přípravky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Zentiva, k. s., U Kabelovny 130, 102 37 Praha 10, Česká republika
+
+
+
+8.  REGISTRAČNÍ ČÍSLO
+
+44/109/18-C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 29. 5. 2019
+
+10.  DATUM REVIZE TEXTU
+
+20. 4. 2021
+
+
+
+
+
+
+
+
+
+
+12

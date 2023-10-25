@@ -1,0 +1,1918 @@
+Sp. zn. sukls67490/2021
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+Bortega 3,5 mg prášek pro injekční roztok
+2. KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje bortezomibum 3,5 mg (jako mannitolester bortezomibu). Po rekonstituci obsahuje 1 ml subkutánního injekčního roztoku bortezomibum 2,5 mg.
+Po rekonstituci obsahuje 1 ml intravenózního injekčního roztoku bortezomibum 1 mg.
+Úplný seznam pomocných látek viz bod 6.1.
+3. LÉKOVÁ FORMA
+Prášek pro injekční roztok
+Bílý až téměř bílý koláč nebo prášek.
+4. KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Bortega je v monoterapii nebo v kombinaci s pegylovaným liposomálním doxorubicinem nebo s dexamethasonem indikována k léčbě dospělých pacientů s progresivním mnohočetným myelomem, kteří již prodělali nejméně jednu předchozí léčbu a kteří již podstoupili transplantaci hematopoetických kmenových buněk nebo nejsou pro tuto transplantaci vhodní.
+
+Bortega je v kombinaci s melfalanem a prednisonem indikována k léčbě dospělých pacientů s dříve neléčeným mnohočetným myelomem, u kterých není vhodná vysokodávková chemoterapie s transplantací hematopoetických kmenových buněk.
+Bortega je v kombinaci s dexamethasonem nebo s dexamethasonem a thalidomidem indikována k indukční léčbě dospělých pacientů s dosud neléčeným mnohočetným myelomem, u kterých je vhodná vysokodávková chemoterapie s transplantací hematopoetických kmenových buněk.
+Bortega je v kombinaci s rituximabem, cyklofosfamidem, doxorubicinem a prednisonem indikována k léčbě dospělých pacientů s dosud neléčeným lymfomem z plášťových buněk, u kterých není vhodná transplantace hematopoetických kmenových buněk.
+4.2  Dávkování a způsob podání
+Léčba musí být zahájena pod dohledem lékaře se zkušenostmi s léčbou onkologických pacientů, nicméně Bortega může být podávána zdravotnickým pracovníkem se zkušenostmi s používáním chemoterapeutických látek. Rekonstituci přípravku Bortega musí provádět zdravotnický pracovník (viz bod 6.6).
+
+Dávkování při léčbě progresivního mnohočetného myelomu (pacienti, kteří dostávali minimálně jednu předchozí terapii)
+
+Monoterapie
+Bortega se podává intravenózní nebo subkutánní injekcí v doporučené dávce je 1,3 mg/m² tělesného povrchu, dvakrát týdně po dobu dvou týdnů 1., 4., 8. a 11. den 21denního léčebného cyklu. Toto 3týdenní období je považováno za léčebný cyklus. Doporučuje se, aby pacienti po potvrzení kompletní odpovědi podstoupili 2 léčebné cykly s přípravkem Bortega. Doporučuje se rovněž, aby pacienti, kteří odpovídají na léčbu a u kterých nebylo dosaženo kompletní remise, podstoupili celkem 8 léčebných
+
+1
+
+cyklů s přípravkem Bortega. Odstup mezi po sobě jdoucími dávkami přípravku Bortega musí činit nejméně 72 hodin.
+
+Úprava dávkování během léčby a při opětovném zahájení léčby v monoterapii
+Léčba přípravkem Bortega musí být přerušena při výskytu jakékoli nehematologické toxicity stupně 3 nebo jakékoli hematologické toxicity stupně 4 s výjimkou neuropatie, jak je uvedeno níže (viz také bod 4.4). Jakmile projevy toxicity ustoupí, může být léčba přípravkem Bortega znovu zahájena dávkou sníženou o 25 % (1,3 mg/m² snížit na 1,0 mg/m²; 1,0 mg/m² snížit na 0,7 mg/m²). Jestliže toxicita neodezněla, nebo pokud se objeví i při nejnižší dávce, musí se uvažovat o vysazení léčby přípravkem Bortega, pokud přínos léčby prokazatelně nepřevýší riziko.
+
+Neuropatická bolest a/nebo periferní neuropatie
+Pacienti, u kterých se v souvislosti s léčbou bortezomibem objevila neuropatická bolest a/nebo periferní neuropatie, mají být léčeni, jak uvádí Tabulka 1 (viz bod 4.4). Pacienti s již existující závažnou neuropatií mohou být léčeni přípravkem Bortega pouze po pečlivém zhodnocení poměru rizika/přínosu.
+
+Tabulka 1: Doporučené* úpravy dávkování u neuropatie související s bortezomibem
+
+Závažnost neuropatie
+Stupeň 1 (asymptomatická; ztráta hlubokých šlachových reflexů nebo parestezie) bez bolesti nebo ztráty funkce
+Stupeň 1 s bolestí nebo stupeň 2 (středně závažné příznaky; omezení instrumentálních aktivit denního života (Activities of Daily Living, ADL)**)
+Stupeň 2 s bolestí nebo stupeň 3 (závažné příznaky, omezení sebeobslužných ADL***)
+
+
+Stupeň 4 (život ohrožující následky, nutná okamžitá intervence) a/nebo závažná autonomní neuropatie
+Úprava dávkování
+Žádná
+
+
+Snížit dávku přípravku Bortega na 1,0 mg/m² nebo
+změnit dávkovací režim přípravku Bortega
+na 1,3 mg/m² jednou týdně
+Přerušit léčbu přípravkem Bortega, dokud projevy toxicity neustoupí. Po ústupu toxicity obnovit léčbu přípravkem Bortega a snížit dávku na 0,7 mg/m² jednou týdně.
+Vysadit léčbu přípravkem Bortega
+* Založeno na úpravě dávkování ve studiích mnohočetného myelomu fáze II a III a na zkušenosti po uvedení přípravku na trh.
+Stupnice podle NCI Common Toxicity Criteria CTCAE v 4.0;
+** Instrumentální ADL: vztahuje se k přípravě pokrmů, nákupu potravin nebo oděvů, používání telefonu, zacházení s penězi apod.;
+*** Sebeobslužné ADL: vztahuje se ke koupání, oblékání a svlékání, konzumaci potravy, použití toalety, užívání léků, nikoli k upoutání na lůžko.
+
+Kombinovaná léčba s pegylovaným liposomálním doxorubicinem
+Bortega se podává formou nitrožilní nebo subkutánní injekce v doporučené dávce 1,3 mg/m² tělesného povrchu dvakrát týdně po dobu dvou týdnů, 1., 4., 8. a 11. den 21denního léčebného cyklu. Toto 3týdenní období je považováno za jeden léčebný cyklus. Odstup mezi po sobě jdoucími dávkami přípravku Bortega musí činit nejméně 72 hodin.
+Pegylovaný liposomální doxorubicin se podává v dávce 30 mg/m² 4. den léčebného cyklu přípravku Bortega ve formě jednohodinové intravenózní infuze podávané po injekci přípravku Bortega. Této kombinované léčby se může podat až 8 cyklů, pokud pacient neprogredoval a toleruje léčbu. Pacienti, kteří dosáhnou kompletní odpovědi, mohou pokračovat v léčbě nejméně 2 cykly po prvním zaznamenání kompletní odpovědi, i když to vyžaduje léčbu delší než 8 cyklů. Pacienti, kterým se hladiny paraproteinů po 8 cyklech nadále snižují, mohou také pokračovat v léčbě po tak dlouhou dobu, dokud tolerují léčbu a nadále na ni odpovídají.
+Podrobnější informace týkající se pegylovaného liposomálního doxorubicinu jsou uvedené v příslušném souhrnu údajů o přípravku.
+
+2
+
+Kombinace s dexamethasonem
+Bortega se podává formou nitrožilní nebo subkutánní injekce v doporučené dávce 1,3 mg/m² tělesného povrchu dvakrát týdně po dobu dvou týdnů, 1., 4., 8. a 11. den 21denního léčebného cyklu. Toto 3týdenní období je považováno za jeden léčebný cyklus. Odstup mezi po sobě jdoucími dávkami přípravku Bortega musí činit nejméně 72 hodin.
+Dexamethason se podává perorálně v dávce 20 mg 1., 2., 4., 5., 8., 9., 11. a 12. den léčebného cyklu přípravku Bortega.
+Pacienti, kteří dosáhnou odpovědi, nebo se jejich onemocnění stabilizuje po 4 cyklech této kombinované léčby, mohou nadále dostávat stejnou kombinaci nejvýše po další 4 cykly. Podrobnější informace týkající se dexamethasonu jsou uvedené v příslušném souhrnu údajů o přípravku.
+Úpravy dávkování kombinované léčby u pacientů s progresivním mnohočetným myelomem
+Při úpravách dávkování přípravku Bortega při kombinované léčbě se postupuje podle pokynů k úpravě dávkování, které jsou uvedené v případě monoterapie výše.
+
+Dávkování u dříve neléčených pacientů s mnohočetným myelomem, u nichž není vhodná transplantace hematopoetických kmenových buněk
+Kombinovaná léčba s melfalanem a prednisonem
+Bortega se podává intravenózní nebo subkutánní injekcí v kombinaci s perorálním melfalanem a perorálním prednisonem tak, jak je uvedeno v Tabulce 2. Za jeden léčebný cyklus se považuje 6týdenní období. V cyklech 1–4 se Bortega podává dvakrát týdně ve dnech 1, 4, 8, 11, 22, 25, 29 a 32. V cyklech 5–9 se Bortega podává jednou týdně ve dnech 1, 8, 22 a 29. Odstup mezi po sobě jdoucími dávkami přípravku Bortega musí činit nejméně 72 hodin.
+Jak melfalan tak i prednison se podávají perorálně ve dnech 1, 2, 3 a 4 v prvním týdnu každého cyklu přípravku Bortega.
+Podává se devět léčebných cyklů této kombinované léčby.
+
+Tabulka 2: Doporučené dávkování pro přípravek Bortega v kombinaci s melfalanem a prednisonem u
+pacientů s dříve neléčeným mnohočetným myelomem
+
+Bortega dvakrát týdně (cykly 1-4)
+
+Týden
+B (1,3 mg/m²)
+
+
+Den 1
+1
+-   -  Den 4
+2
+Den 8
+
+
+Den 11
+3
+klidové období
+4
+De  Den
+n  25
+22
+Den 29
+5
+Den 32
+6
+klidové období
+
+M (9 mg/m²)
+P (60 mg/m²)
+Den 1
+Den 2
+Den 3
+Den 4
+--   --
+klidové období
+--   --
+--   --
+klidové období
+Bortega jednou týdně (cykly 5-9)
+
+Týden
+B (1,3 mg/m²)
+1
+Den  --    --   -- 1
+2
+Den 8
+3
+klidové období
+4
+Den 22
+5
+Den 29
+6
+klidové období
+
+M (9 mg/m²)
+P (60 mg/m²)
+Den 1
+Den 2
+Den 3
+Den   -
+4
+klidové   --
+období
+klidové období
+3
+
+
+B = Bortega; M = melfalan; P = prednison
+
+Úprava dávkování během léčby a při opakovaném zahájení léčby u kombinované terapie s melfalanem
+a prednisonem
+Před zahájením nového cyklu léčby:
+•  Počet krevních destiček má být ≥ 70x 10⁹/l a celkový počet neutrofilů má být ≥ 1,0x 10⁹/l
+•  Nehematologické toxicity mají ustoupit na stupeň 1 nebo se navrátit k výchozímu stavu
+Tabulka 3: Úprava dávkování během následujících cyklů přípravku Bortega v kombinaci s melfalanem a prednisonem
+
+Toxicita
+Hematologická toxicita během cyklu:
+•  V případě výskytu prolongované neutropenie stupně 4, trombocytopenie nebo trombocytopenie s krvácením v předešlém cyklu
+•  V případě počtu krevních destiček
+≤ 30 x 10⁹/l nebo ANC ≤ 0,75 x 10⁹/l v den
+podání přípravku Bortega (kromě dne 1)
+•  V případě vynechání více dávek přípravku Bortega v jednom cyklu (≥ 3 dávky při podávání dvakrát týdně nebo ≥ 2 dávky při podávání jednou týdně)
+Stupeň nehematologických toxicit ≥ 3
+Úprava nebo odložení dávkování
+Zvážit snížení dávky melfalanu o 25 % v příštím cyklu.
+
+
+
+Léčbu přípravkem Bortega vynechat.
+
+
+Dávku přípravku Bortega je nutno snížit o 1 dávkovou úroveň (z 1,3 mg/m² na 1 mg/m² nebo z 1 mg/m² na 0,7 mg/m²)
+
+Léčba přípravkem Bortega se má přerušit do ustoupení příznaků toxicity na stupeň 1 nebo k výchozímu stavu. Poté je možno znovu zahájit podání přípravku Bortega s dávkou o jednu úroveň nižší (z 1,3 mg/m² na 1 mg/m² nebo
+z 1 mg/m² na 0,7 mg/m²). Při neuropatické bolesti a/nebo periferní neuropatii spojené s přípravkem Bortega pozastavte a/nebo upravte dávku přípravku Bortega, jak je uvedeno v Tabulce 1.
+
+Další informace týkající se melfalanu a prednisonu jsou uvedeny v odpovídajících souhrnech údajů o
+přípravku.
+Dávkování u dříve neléčených pacientů s mnohočetným myelomem, u nichž je vhodná transplantace hematopoetických kmenových buněk (indukční terapie)
+
+Kombinovaná léčba s dexamethasonem
+Bortega se podává intravenózní nebo subkutánní injekcí v doporučené dávce 1,3 mg/m² tělesného povrchu dvakrát týdně po dobu dvou týdnů ve dnech 1, 4, 8 a 11 během 21denního léčebného cyklu. Toto 3týdenní období se považuje za léčebný cyklus. Odstup mezi po sobě jdoucími dávkami přípravku Bortega musí činit nejméně 72 hodin.
+Dexamethason se podává perorálně v dávce 40 mg ve dnech 1, 2, 3, 4, 8, 9, 10 a 11 léčebného cyklu přípravku Bortega.
+Podávají se čtyři léčebné cykly této kombinované léčby.
+
+Kombinovaná léčba s dexamethasonem a thalidomidem
+Bortega se podává intravenózní nebo subkutánní injekcí v doporučené dávce 1,3 mg/m² tělesného povrchu dvakrát týdně po dobu dvou týdnů ve dnech 1, 4, 8 a 11 během 28denního léčebného cyklu. Toto 4týdenní období se považuje za léčebný cyklus. Odstup mezi po sobě jdoucími dávkami přípravku Bortega musí činit nejméně 72 hodin.
+Dexamethason se podává perorálně v dávce 40 mg ve dnech 1, 2, 3, 4, 8, 9, 10 a 11 léčebného cyklu přípravku Bortega.
+
+
+4
+
+Thalidomid se podává perorálně v dávce 50 mg denně ve dnech 1–14 a je-li dobře snášen, dávka se poté zvýší na 100 mg denně ve dnech 15–28, a může se poté dále zvyšovat na 200 mg denně od 2. cyklu (viz tabulka 4).
+Podávají se čtyři cykly této kombinace. Doporučuje se, aby pacienti s alespoň částečnou odpovědí dostali další 2 cykly.
+
+Tabulka 4: Dávkování přípravku Bortega v kombinované léčbě u dříve neléčených pacientů s
+mnohočetným myelomem, u nichž je vhodná transplantace hematopoetických kmenových buněk
+
+B + Dx
+
+Týden
+Cykly 1 až 4
+1             2             3
+
+
+
+
+B + Dx + T
+B (1,3 mg/m²)
+Dx 40 mg
+Den 1, 4
+Den 1, 2, 3, 4
+Den 8, 11
+Den 8, 9, 10, 11
+Cyklus 1
+Klidové období
+-
+
+Týden
+B (1,3 mg/m²)
+T 50 mg
+T 100 mgᵃ
+Dx 40 mg
+
+
+B (1,3 mg/m²)
+T 200 mgᵃ
+Dx 40 mg
+1
+Den 1, 4
+Denně
+-
+Den 1, 2, 3, 4
+
+
+Den 1, 4
+Denně
+Den 1, 2, 3, 4
+2
+Den 8, 11
+Denně
+-
+Den 8, 9, 10, 11
+Cyklus 2 až 4ᵇ
+Den 8, 11
+Denně
+Den 8, 9, 10, 11
+3
+Klidové období
+-
+Denně
+-
+
+
+Klidové období Denně
+-
+4
+Klidové období
+-
+Denně
+-
+
+
+Klidové období Denně
+-
+B=Bortega; Dx=dexamethason; T=thalidomid
+ᵃ Dávka thalidomidu se zvýší na 100 mg od týdne 3 cyklu 1, pouze pokud je tolerována dávka 50 mg, a na
+200 mg od cyklu 2, pouze pokud je tolerována dávka 100 mg.
+ᵇ Pacientům, kteří dosáhnou po 4 cyklech alespoň částečné odpovědi, lze podat až 6 cyklů
+
+Úprava dávkování u pacientů vhodných k transplantaci
+Při úpravě dávkování přípravku Bortega je třeba se řídit pokyny pro úpravu dávek v monoterapii.
+Je-li přípravek Bortega podáván v kombinaci s dalšími chemoterapeutiky, je dále v případě toxicity nutno zvážit snížení dávky těchto léčivých přípravků podle doporučení v souhrnu údajů o přípravku.
+Dávkování u pacientů s dosud neléčeným lymfomem z plášťových buněk (MCL)
+
+Kombinovaná léčba s rituximabem, cyklofosfamidem, doxorubicinem a prednisonem (VcR-CAP) Bortega se podává intravenózní nebo subkutánní injekcí v doporučené dávce 1,3 mg/m² tělesného povrchu dvakrát týdně po dobu dvou týdnů ve dnech 1, 4, 8 a 11, poté od 12. do 21. dne následuje 10denní klidové období. Toto 3týdenní období se považuje za léčebný cyklus. Doporučuje se 6 cyklů léčby přípravkem Bortega, i když u pacientů s první doloženou odpovědí v 6. cyklu lze podat další dva cykly léčby přípravkem Bortega. Mezi dvěma po sobě jdoucími dávkami přípravku Bortega musí uplynout nejméně 72 hodin.
+1. den každého 3týdenního léčebného cyklu přípravkem Bortega se ve formě intravenózních infuzí podávají následující léčivé přípravky: rituximab v dávce 375 mg/m², cyklofosfamid v dávce
+750 mg/m² a doxorubicin v dávce 50 mg/m².
+Prednison se podává perorálně v dávce 100 mg/m² 1., 2., 3., 4. a 5. den každého cyklu léčby přípravkem Bortega.
+
+Úprava dávkování během léčby pacientů s dosud neléčeným lymfomem z plášťových buněk
+Před zahájením nového cyklu léčby:
+
+5
+
+•  počty krevních destiček mají být ≥ 100000 buněk/µl a absolutní počty neutrofilů (ANC) mají být ≥ 1500 buněk/µl
+•  u pacientů s infiltrací kostní dřeně nebo se sekvestrací sleziny mají být počty krevních destiček ≥ 75000 buněk/µl
+•  hemoglobin ≥ 8 g/dl
+•  nehematologické toxicity musí být zlepšeny na stupeň 1 nebo na výchozí hodnoty
+Léčbu přípravkem Bortega je nutno vysadit při vzniku jakékoli nehematologické toxicity stupně 3 a vyššího související s přípravkem Bortega (s výjimkou neuropatie) nebo jakékoli hematologické toxicity stupně 3 a vyššího (viz také bod 4.4). Doporučené úpravy dávkování jsou v Tabulce 5 níže. Při hematologických toxicitách lze v souladu s místní standardní praxí podávat faktory stimulující kolonie granulocytů. Použití faktorů stimulujících kolonie granulocytů v profylaxi má být zváženo v případě opakovaných prodlev v cyklu dávkování. Je-li to klinicky vhodné, je třeba k léčbě trombocytopenie zvážit transfuzi krevních destiček.
+
+Tabulka 5: Úpravy dávkování během léčby pacientů s dosud neléčeným lymfomem z plášťových buněk
+Toxicita                 Úprava nebo odklad dávkování
+Hematologická toxicita
+
+•  neuropenie stupně 3 nebo vyššího
+s horečkou, neuropenie stupně 4 trvající déle než 7 dní, počty krevních destiček < 10000 buněk/μl
+
+
+
+
+
+
+
+•  jsou-li v den podávání přípravku Bortega (kromě 1. dne každého cyklu) počty krevních destiček < 25000 buněk/μl nebo ANC < 750 buněk/μl
+Nehematologické toxicity stupně 3 nebo vyššího, o nichž se má za to, že souvisí s přípravkem Bortega
+Léčbu přípravkem Bortega je nutno vysadit na dobu až 2 týdnů, dokud pacient nebude mít ANC ≥ 750 buněk/μl a počty krevních destiček ≥ 25000 buněk/μl.
+• pokud po pozastavení podávání přípravku Bortega toxicita neodezní, jak je definováno výše, musí se léčba přípravkem Bortega ukončit
+• pokud toxicita odezní, tj. pacient má ANC ≥ 750 buněk/μl a počty krevních destiček ≥ 25000 buněk/μl, lze přípravek Bortega znovu nasadit v dávce snížené o jednu dávkovací úroveň (z 1,3 mg/m² na 1 mg/m², nebo z 1 mg/m² na 0.7 mg/m²)
+Léčbu přípravkem Bortega je nutno vysadit
+
+
+
+Léčbu přípravkem Bortega je nutno vysadit, dokud se symptomy toxicity nezlepší na stupeň 2 nebo nižší. Poté lze přípravek Bortega znovu nasadit v dávce snížené o jednu dávkovací úroveň (z 1,3 mg/m² na 1 mg/m² nebo z 1 mg/m² na 0,7 mg/m²). Při neuropatické bolesti a/nebo periferní neuropatii souvisejících s přípravkem Bortega, podávání přípravku Bortega pozastavte a/nebo upravte podle tabulky 1.
+
+Navíc, pokud se přípravek Bortega podává v kombinaci s dalšími chemoterapeutickými léčivými přípravky, je nutno v případě toxicit zvážit vhodné snížení dávek těchto léčivých přípravků, a to podle doporučení v příslušném souhrnu údajů o přípravku.
+
+Zvláštní skupiny pacientů
+Starší pacienti
+Neexistují údaje, které by nasvědčovaly nutnosti úpravy dávkování u pacientů starších 65 let věku s
+mnohočetným myelomem nebo lymfomem z plášťových buněk.
+K dispozici nejsou studie týkající se použití bortezomibu u starších pacientů s dříve neléčeným mnohočetným myelomem, u nichž je vhodná vysokodávková chemoterapie s transplantací hematopoetických kmenových buněk. Proto nelze pro tuto skupinu pacientů uvést žádné doporučení pro dávkování.
+
+6
+
+Ve studii u dříve neléčených pacientů s lymfomem z plášťových buněk bylo bortezomibu vystaveno 42,9 % a 10,4 % pacientů ve věkovém rozmezí 65-74 let a ≥ 75 let, v uvedeném pořadí. U pacientů ve věku ≥ 75 let byly oba režimy jak VcR-CAP tak R-CHOP méně tolerovány (viz bod 4.8).
+
+Porucha funkce jater
+Pacienti s mírnou poruchou funkce jater nevyžadují úpravu dávkování a léčí se doporučenou dávkou. U pacientů se středně těžkou nebo těžkou poruchou funkce jater se léčba zahájí sníženou dávkou přípravku Bortega 0,7 mg/m² v injekci během prvního léčebného cyklu; v závislosti na pacientově snášenlivosti je možné zvážit zvýšení dávky na 1,0 mg/m² nebo další snížení na 0,5 mg/m² (viz Tabulka 6 a body 4.4 a 5.2).
+Tabulka 6: Doporučená modifikace počáteční dávky přípravku Bortega u pacientů s poruchou funkce jater
+
+Stupeň poruchy funkce jater* Mírná
+
+Středně těžká Těžká
+Hladina bilirubinu
+
+≤ 1,0x ULN
+> 1,0x-1,5x ULN
+> 1,5x-3x ULN
+> 3x ULN
+Hladiny SGOT (AST)
+> ULN
+Jakákoliv Jakákoliv Jakákoliv
+Modifikace počáteční dávky
+Žádná Žádná
+Snižte dávku přípravku Bortega na 0,7 mg/m² v prvním léčebném cyklu. Podle snášenlivosti pacienta zvažte v dalších cyklech zvýšení dávky na 1,0 mg/m² nebo další snížení dávky na 0,5 mg/m².
+Zkratky: SGOT= sérová glutamát-oxalacetotransamináza; AST = aspartátaminotransferáza; ULN = horní hranice normálního rozmezí
+* Založeno na klasifikaci NCI Organ Dysfunction Working Group pro kategorizaci poruchy funkce jater (mírná, středně těžká, těžká).
+
+Porucha funkce ledvin
+U pacientů s mírnou nebo středně těžkou poruchou funkce ledvin (clearance kreatininu (CrCl)
+> 20 ml/min/1,73 m²) není farmakokinetika bortezomibu ovlivněna, proto u těchto pacientů není nutná úprava dávky. Není známo, zda u pacientů s těžkou poruchou funkce ledvin
+(CrCl < 20 ml/min/1,73 m²), kteří nepodstupují dialýzu, dochází k ovlivnění farmakokinetiky bortezomibu. Protože dialýza může koncentrace bortezomibu snížit, je nutno přípravek Bortega podávat po provedení dialýzy (viz bod 5.2).
+Pediatrická populace
+Bezpečnost a účinnost bortezomibu u dětí mladších 18 let nebyla stanovena (viz body 5.1 a 5.2). Současně dostupné údaje jsou popsány v bodě 5.1, ale na jejich základě nelze doporučit dávkování u dětí.
+
+Způsob podání
+Přípravek Bortega je určen k intravenóznímu nebo subkutánnímu podání. Bortega se nesmí podávat jinou cestou. Intratekální podání vedlo k úmrtí.
+
+Intravenózní injekce
+Rekonstituovaný roztok přípravku Bortega se podává jako 3–5sekundový bolus intravenózní injekcí periferním nebo centrálním intravenózním katétrem s následným výplachem injekčním roztokem chloridu sodného o koncentraci 9 mg/ml (0,9%). Mezi 2 dávkami přípravku Bortega musí být odstup alespoň 72 hodin.
+
+7
+
+Subkutánní injekce
+Rekonstituovaný roztok přípravku Bortega se podává subkutánně do stehna (pravého nebo levého) nebo do břicha (pravé nebo levé části). Roztok se vstříkne subkutánně pod úhlem 45-90º. Při opakovaných injekcích je nutno místa vpichu měnit.
+Objeví-li se po subkutánní injekci přípravku Bortega lokální reakce, lze buď podat subkutánně roztok přípravku Bortega o nižší koncentraci (Bortega se rekonstituuje na 1 mg/ml místo 2,5 mg/ml), nebo se doporučuje přejít k intravenózní injekci.
+Návod k rekonstituci léčivého přípravku před podáním, viz bod 6.6.
+Pokud se bortezomib podává v kombinaci s dalšími léčivými přípravky, pokyny k jejich podávání naleznete v souhrnech údajů o těchto přípravcích.
+4.3  Kontraindikace
+
+•  Hypersenzitivita na léčivou látku, bór nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+•  Akutní difúzní infiltrativní plicní a perikardiální nemoc.
+
+Pokud je přípravek Bortega podáván v kombinaci s jinými léčivými přípravky, je třeba se odkázat na
+jejich souhrny údajů o přípravku pro další kontraindikace.
+4.4.  Zvláštní upozornění a opatření pro použití
+Pokud je přípravek Bortega podáván v kombinaci s jinými přípravky, je třeba nahlédnout do jejich souhrnů údajů o přípravku předtím, než bude zahájena léčba přípravkem Bortega. Pokud je podáván thalidomid, je nutné věnovat zvláštní pozornost testování těhotenství a jeho předcházení (viz bod 4.6).
+
+Intratekální podání
+Při neúmyslném intratekálním podání bortezomibu došlo k úmrtím. Přípravek Bortega je určen k
+intravenóznímu nebo subkutánnímu podání. Přípravek Bortega se nesmí podávat intratekálně.
+
+Gastrointestinální toxicita
+Při léčbě bortezomibem je velmi častá gastrointestinální toxicita zahrnující nauzeu, průjem, zvracení a zácpu. Méně často byly hlášeny případy ileu (viz bod 4.8). Proto pacienti, kteří trpí zácpou, mají být pečlivě sledováni.
+Hematologická toxicita
+Léčba bortezomibem je velmi často provázena hematologickou toxicitou (trombocytopenií, neutropenií a anemií). Ve studiích u pacientů s recidivujícím mnohočetným myelomem, léčených bortezomibem, a u pacientů s dosud neléčeným lymfomem z plášťových buněk léčených bortezomibem v kombinaci s rituximabem, cyklofosfamidem, doxorubicinem a prednisonem (VcR- CAP), byla jednou z nejčastějších hematologických toxicit přechodná trombocytopenie. Počty krevních destiček byly nejnižší 11. den každého cyklu léčby bortezomibem a obvykle se do dalšího cyklu vrátily na výchozí hodnoty. Nebyla prokázána kumulativní trombocytopenie. Naměřená dolní hodnota průměrného počtu krevních destiček činila ve studiích léčby mnohočetného myelomu jediným léčivem přibližně 40 % výchozí hodnoty a ve studii léčby lymfomu z plášťových buněk to bylo 50 %. U pacientů s pokročilým myelomem souvisela závažnost trombocytopenie s počtem krevních destiček před zahájením léčby; při výchozí hodnotě počtu krevních destiček < 75 000/μl, 90 % z 21 pacientů mělo během studie počet ≤ 25 000/μl, včetně 14 % < 10 000/μl; proti tomu při výchozí hodnotě počtu krevních destiček > 75 000/μl, pouze 14 % z 309 pacientů mělo během studie počet krevních destiček ≤ 25 000/µl.
+
+U pacientů s MCL (studie LYM-3002) byla ve skupině léčené bortezomibem v porovnání se skupinou bortezomibem neléčenou (rituximab, cyklofosfamid, doxorubicin, vinkristin, prednison a [R-CHOP]) vyšší incidence (56,7 % versus 5,8 %) trombocytopenie stupně 3 a vyššího. Tyto dvě skupiny pacientů si byly podobné pokud jde o celkovou incidenci krvácivých příhod všech stupňů (6,3 % ve skupině
+
+8
+
+VcR-CAP a 5,0% ve skupině R-CHOP) i o krvácivé příhody stupně 3 a vyššího (VcR-CAP: 4 pacienti [1,7%], R-CHOP: 3 pacienti [1,2%]). Ve skupině VcR-CAP dostalo transfuzi krevních destiček
+22,5 % pacientů v porovnání se 2,9 % pacientů ve skupině R-CHOP.
+
+V souvislosti s léčbou bortezomibem bylo hlášeno gastrointestinální a intracerebrální krvácení. Proto je před každou aplikací přípravku Bortega nutno stanovit počet krevních destiček. Pokud je počet krevních destiček < 25 000/μl nebo, v případě kombinace s melfalanem a prednisonem, pokud je počet krevních destiček ≤ 30 000/μl, léčba přípravkem Bortega má být zastavena (viz bod 4.2). Potenciální přínos léčby musí být pečlivě posouzen proti rizikům, zvláště v případě středně závažné až závažné trombocytopenie s rizikovými faktory krvácení.
+V průběhu léčby přípravkem Bortega musí být proto často sledován kompletní krevní obraz a diferenciál včetně počtu krevních destiček. Pokud je to klinicky vhodné, je nutno zvážit transfuzi krevních destiček (viz bod 4.2).
+
+U pacientů s lymfomem z plášťových buněk byla pozorována přechodná neutropenie, která byla mezi cykly reverzibilní, přičemž zde nebyl žádný průkaz kumulativní neutropenie. Hladiny neutrofilů byly nejnižší 11. den každého cyklu léčby bortezomibem a obvykle se do dalšího cyklu vrátily na výchozí hodnoty. Ve studii LYM-3002 byla podávána podpora pomocí kolonie stimulujících faktorů 78 % pacientů v rameni VcR-CAP a 61 % pacientů v rameni R-CHOP. Jelikož jsou pacienti s neutropenií více ohroženi infekcemi, je nutno je sledovat na známky a příznaky infekce a bezodkladně léčit.
+Faktory stimulující granulocytární kolonie lze podávat při hematologické toxicitě podle místní standardní praxe. Použití faktorů stimulujících granulocytární kolonie v profylaxi má být zváženo v případě opakovaných prodlev v cyklu dávkování (viz bod 4.2).
+
+Reaktivace viru herpes zoster
+U pacientů léčených přípravkem Bortega se doporučuje antivirová profylaxe. Ve studii fáze III u pacientů s dříve neléčeným mnohočetným myelomem byl celkový výskyt reaktivace viru herpes zoster častější ve skupině pacientů léčených kombinací bortezomib + melfalan + prednison ve srovnání
+s kombinací melfalan + prednison (14 % vs. 4 %).
+U pacientů s lymfomem z plášťových buněk (studie LYM-3002) byla incidence infekce herpes zoster 6,7 % v rameni VcR-CAP a 1,2 % v rameni R-CHOP (viz bod 4.8).
+
+Reaktivace a infekce virem hepatitidy B (HBV)
+Pokud se v kombinaci s přípravkem Bortega používá rituximab, musí se u pacientů ohrožených infekcí HBV před zahájením léčby vždy provést screening na HBV. Přenašeči hepatitidy B a pacienti s hepatitidou B v anamnéze musí být během kombinované léčby rituximabem a přípravkem Bortega a po ní pečlivě sledováni na klinické a laboratorní známky aktivní infekce HBV. Je nutno zvážit antivirovou profylaxi. Více informací o rituximabu naleznete v jeho souhrnu údajů o přípravku.
+
+Progresivní multifokální leukoencefalopatie (PML)
+U pacientů léčených bortezomibem byly velmi vzácně hlášeny případy infekce John Cunninghamovým virem (JC) s neznámou kauzalitou, které vedly k PML a úmrtí. Pacienti s diagnostikovanou PML dostávali dříve nebo současně imunosupresivní léčbu. Většina případů PML byla diagnostikována během 12 měsíců po podání první dávky bortezomibu. U pacientů je nutno v pravidelných intervalech monitorovat jakékoli nové neurologické příznaky nebo známky nebo zhoršení stávajících neurologických příznaků nebo známek, které mohou ukazovat na PML jako součást diferenciální diagnostiky problémů CNS. Je-li podezření na diagnózu PML, je nutno pacienty předat specialistovi na PML a zahájit příslušnou diagnostiku PML. Je-li diagnostikována PML, léčbu přípravkem Bortega ukončete.
+
+Periferní neuropatie
+Léčba bortezomibem je velmi často spojena s výskytem periferní neuropatie, která je převážně senzorická. Byly však hlášeny případy závažné motorické neuropatie s vyjádřenou nebo nevyjádřenou senzorickou periferní neuropatií. Incidence periferní neuropatie se zvyšuje v počátku léčby a dosahuje vrcholu během 5. cyklu.
+9
+
+Doporučuje se, aby pacienti byli pečlivě sledováni pro možné projevy neuropatie, k nimž patří pocit pálení, hyperestezie, hypestezie, parestezie, nepříjemné pocity, neuropatická bolest nebo slabost.
+Ve studii fáze III srovnávající bortezomib podávaný intravenózně oproti subkutánnímu podání byla incidence příhod periferní neuropatie stupně ≥ 2 24 % u skupiny se subkutánní injekcí a 41 % u skupiny s intravenózní injekcí (p = 0,0124). Periferní neuropatie stupně ≥ 3 se vyskytla u 6 % pacientů ve skupině se subkutánní léčbou ve srovnání s 16 % ve skupině s intravenózní léčbou (p = 0,0246).
+Výskyt všech stupňů periferní neuropatie po podání bortezomibu intravenózně byl v dřívějších studiích s bortezomibem nižší než ve studii MMY-3021.
+
+U pacientů s novým výskytem nebo zhoršením stávající periferní neuropatie má být provedeno neurologické vyšetření a může být nutná změna dávky, režimu podávání nebo způsobu podání na subkutánní (viz bod 4.2). Neuropatie byla zvládnutelná podpůrnou nebo jinou léčbou.
+U pacientů léčených přípravkem Bortega v kombinaci s léčivými přípravky, o nichž je známo, že jsou spojeny s neuropatií (např. thalidomid), je nutno zvážit včasné a pravidelné monitorování příznaků neuropatie spojené s léčbou spolu s neurologickým zhodnocením, případně příslušné snížení dávky nebo ukončení léčby.
+K rozvoji některých nežádoucích účinků, k nimž patří posturální hypotenze a závažná zácpa až ileus, by kromě periferní neuropatie mohla přispívat i autonomní neuropatie. Informace o autonomní neuropatii a jejím podílu na těchto nežádoucích účincích jsou omezené.
+Záchvaty
+Méně často byly hlášeny záchvaty u pacientů bez předchozího výskytu záchvatů nebo epilepsie. U pacientů s rizikovými faktory pro výskyt záchvatů je zapotřebí zvláštní péče.
+Hypotenze
+Léčba bortezomibem je často provázena ortostatickou/posturální hypotenzí. Většina nežádoucích účinků je mírného až středně závažného charakteru a byla pozorována v celém průběhu léčby. U pacientů, u kterých se během léčby (intravenózně podaným) bortezomibem objevila ortostatická hypotenze, nebyla ortostatická hypotenze pozorována před léčbou bortezomibem. U většiny pacientů bylo nutné ortostatickou hypotenzi léčit. U menší části pacientů s ortostatickou hypotenzí se objevily synkopy. Ortostatická/posturální hypotenze s podáním bolusu bortezomibu bezprostředně nesouvisela. Mechanismus tohoto účinku není znám, ačkoli jedním z důvodů může být autonomní neuropatie.
+Autonomní neuropatie může souviset s bortezomibem nebo bortezomib může zhoršit základní onemocnění jako je diabetická nebo amyloidózní neuropatie. Opatrnost se doporučuje při léčbě pacientů s anamnézou synkop při podávání léků, u kterých je známa souvislost s hypotenzí, nebo u dehydratovaných pacientů s recidivujícími průjmy nebo zvracením. Zvládnutí ortostatické/posturální hypotenze může vyžadovat úpravu dávkování antihypertenzních léčivých přípravků, rehydrataci nebo podání mineralokortikoidů a/nebo sympatomimetik. Pacienti mají být informováni o tom, že v případě výskytu závratí, točení hlavy nebo mdloby musejí vyhledat lékaře.
+
+Syndrom posteriorní reversibilní encefalopatie (PRES)
+U pacientů léčených bortezomibem byly hlášeny případy PRES. PRES je vzácný, často reversibilní, rychle se vyvíjející neurologický stav, který se může projevit záchvaty, hypertenzí, bolestí hlavy, letargií, zmateností, slepotou a dalšími zrakovými a neurologickými poruchami. Pro potvrzení diagnózy se používá zobrazení mozku, preferenčně magnetická rezonance (MRI). U pacientů, u kterých se objeví PRES, má být léčba přípravkem Bortega ukončena.
+
+Srdeční selhání
+V průběhu léčby bortezomibem byl pozorován akutní rozvoj nebo exacerbace městnavého srdečního selhání a/nebo nový pokles ejekční frakce levé komory. Predisponujícím faktorem pro známky a příznaky srdečního selhání může být retence tekutin. Pacienti s rizikovými faktory kardiovaskulárního onemocnění nebo se stávající srdeční chorobou mají být pečlivě sledováni.
+
+Vyšetření elektrokardiogramu
+10
+
+V klinických studiích se vyskytly ojedinělé případy prodloužení QT intervalu, kauzalita nebyla stanovena.
+
+Plicní poruchy
+U pacientů léčených bortezomibem byla vzácně hlášena akutní difúzní infiltrativní choroba plic neznámé etiologie jako např. pneumonitida, intersticiální pneumonie, plicní infiltrace a syndrom akutní respirační tísně (ARDS) (viz bod 4.8). Některé z těchto příhod byly fatální. Před zahájením léčby se doporučuje provést radiologické vyšetření hrudníku, aby se určil výchozí stav pro potenciální změny na plicích po léčbě.
+Při objevení se nových nebo při zhoršení stávajících plicních příznaků (např. kašle, dyspnoe) má být neprodleně stanovena diagnóza a pacienti mají podstoupit vhodnou léčbu. Před pokračováním léčby přípravkem Bortega je nutno zhodnotit poměr prospěch/riziko.
+Dva pacienti (ze dvou), kterým byla během klinické studie podána vysoká dávka cytarabinu (2 g/m² za den) nepřetržitou 24hodinovou infúzí společně s daunorubicinem a bortezomibem k léčbě relapsu akutní myeloidní leukémie, zemřeli na ARDS krátce po zahájení léčby a studie byla ukončena. Tento zvláštní léčebný režim se současným podáváním vysoké dávky cytarabinu (2 g/m² za den) nepřetržitou 24hodinovou infúzí se proto nedoporučuje.
+
+Porucha funkce ledvin
+U pacientů s mnohočetným myelomem jsou časté ledvinové komplikace, a proto je nutné pacienty s
+poruchou funkce ledvin pečlivě sledovat (viz body 4.2 a 5.2).
+
+Porucha funkce jater
+Bortezomib je metabolizován jaterními enzymy. Expozice bortezomibu se u pacientů se středně těžkou nebo těžkou poruchou funkce jater zvyšuje; tyto pacienty je nutno léčit sníženými dávkami přípravku Bortega a pečlivě sledovat, zda u nich nedochází k rozvoji toxicity (viz body 4.2 a 5.2).
+
+Jaterní nežádoucí účinky
+U pacientů, kterým byl podáván bortezomib a souběžně podávané léčivé přípravky, a kteří byli ve vážném zdravotním stavu, byly hlášeny vzácné případy jaterního selhání. K dalším hlášeným jaterním nežádoucím účinkům patří zvýšení hladin jaterních enzymů, hyperbilirubinemie a hepatitida. Tyto změny mohou být po vysazení bortezomibu reverzibilní (viz bod 4.8).
+
+Syndrom nádorového rozpadu
+Vzhledem ke skutečnosti, že bortezomib je cytotoxická látka a může rychle ničit maligní plazmatické buňky a buňky lymfomu z plášťových buněk, může se jako komplikace objevit syndrom nádorového rozpadu. K pacientům s rizikem syndromu nádorového rozpadu patří pacienti s rozsáhlou nádorovou zátěží před léčbou. Tyto pacienty je nutné pečlivě sledovat a učinit odpovídající opatření.
+Současné podávání některých léčivých přípravků
+Pacienti léčení bortezomibem v kombinaci se silnými inhibitory CYP3A4 mají být pečlivě sledováni. Při kombinaci bortezomibu se substráty CYP3A4 nebo CYP2C19 je zapotřebí postupovat opatrně (viz bod 4.5).
+U pacientů léčených perorálními antidiabetiky mají být potvrzeny normální jaterní funkce a pacientům má být věnována zvýšená pozornost (viz bod 4.5).
+Reakce potenciálně zprostředkované imunokomplexy
+Méně často byly hlášeny nežádoucí účinky potenciálně související s tvorbou imunokomplexů, jako např. reakce podobná sérová nemoci, polyartritida s vyrážkou a proliferativní glomerulonefritida. Pokud se vyskytnou závažné nežádoucí účinky, přípravek Bortega je třeba vysadit.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Studie in vitro naznačují, že bortezomib je slabý inhibitor izoenzymů 1A2, 2C9, 2C19, 2D6 a 3A4
+cytochromu P450 (CYP). Na základě omezeného podílu (7 %) isoenzymu CYP2D6 na metabolismu
+11
+
+bortezomibu nelze očekávat, že by slabý metabolický fenotyp CYP2D6 ovlivnil celkový metabolismus bortezomibu.
+
+Studie lékových interakcí, která posuzovala účinek ketokonazolu, silného inhibitoru CYP3A4, na farmakokinetiku bortezomibu, ukázala, že u bortezomibu (podávaného intravenózně) došlo ke střednímu zvýšení hodnoty AUC o 35 % (CI₉₀% [1,032 až 1,772]) na základě údajů od 12 pacientů. Proto pacienti léčení bortezomibem v kombinaci se silnými inhibitory CYP3A4 (např. ketokonazolem, ritonavirem) mají být pečlivě sledováni.
+
+Ve studii lékových interakcí, která posuzovala účinek omeprazolu, silného inhibitoru CYP2C19, na farmakokinetiku bortezomibu (podávaného intravenózně), se neprokázal významný vliv na farmakokinetiku bortezomibu na základě údajů od 17 pacientů.
+
+Studie lékových interakcí hodnotící vliv rifampicinu, silného induktoru CYP3A4, na farmakokinetiku bortezomibu (podávaného intravenózně), ukázala na základě údajů od 6 pacientů průměrné snížení AUC bortezomibu o 45 %. Současné používání bortezomibu se silnými induktory CYP3A4 (např. rifampicinem, karbamazepinem, fenytoinem, fenobarbitalem a třezalkou tečkovanou) se tedy nedoporučuje, protože může být snížena účinnost.
+
+V téže studii lékových interakcí byl hodnocen účinek dexamethasonu, slabšího induktoru CYP3A4, na farmakokinetiku bortezomibu (podávaného intravenózně). Na základě údajů od 7 pacientů nebyl pozorován významný vliv na farmakokinetiku bortezomibu.
+
+Studie lékových interakcí hodnotící účinek melfalanu – prednisonu na farmakokinetiku bortezomibu ukázala 17% zvýšení střední AUC bortezomibu (podávaného intravenózně) na základě údajů od 21 pacientů. Toto není považováno za klinicky významné.
+
+V průběhu klinických studií byly u pacientů s diabetem, kteří užívali perorální antidiabetika, méně často a často hlášeny případy hypoglykemie a hyperglykemie. U pacientů, kteří užívají perorální antidiabetika a jsou léčeni bortezomibem, je nutné pečlivě sledovat glykemii a upravovat dávkování antidiabetik.
+4.6  Fertilita, těhotenství a kojení
+Antikoncepce u mužů a žen
+Muži i ženy ve fertilním věku musí používat účinnou antikoncepci po dobu léčby a další 3 měsíce po jejím ukončení.
+Těhotenství
+Pro bortezomib neexistují klinické údaje týkající se expozice v těhotenství. Teratogenní potenciál bortezomibu nebyl plně prozkoumán.
+V neklinických studiích nevykazoval bortezomib vliv na embryonální/fetální vývoj u potkanů a králíků po podání nejvyšších dávek tolerovaných matkou. Studie na zvířatech zaměřené na vliv bortezomibu na průběh porodu a postnatální vývoj nebyly provedeny (viz bod 5.3). Přípravek Bortega nemá být během těhotenství podáván, pokud klinický stav ženy nevyžaduje léčbu přípravkem Bortega. Jestliže je přípravek Bortega podáván během těhotenství nebo pokud žena během léčby tímto přípravkem otěhotní, je nutno ji seznámit s možnými riziky pro plod.
+
+Thalidomid je známá lidská teratogenní léčivá látka, která způsobuje těžké život ohrožující vrozené vady. Thalidomid je kontraindikován v těhotenství a u žen ve fertilním věku, pokud nejsou splněny všechny podmínky programu prevence početí pro thalidomid. Pacienti léčení přípravkem Bortega v kombinaci s thalidomidem musí dodržovat program prevence početí pro thalidomid. Pro další informace viz souhrn údajů o přípravku pro thalidomid.
+
+
+12
+
+Kojení
+Není známo, zda se bortezomib vylučuje do lidského mateřského mléka. Z důvodu možných závažných nežádoucích účinků přípravku Bortega pro kojené dítě je nutno v průběhu léčby přípravkem Bortega ukončit kojení.
+
+Fertilita
+S bortezomibem nebyly provedeny studie fertility (viz bod 5.3).
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Bortega může mít mírný vliv na schopnost řídit nebo obsluhovat stroje. Používání přípravku Bortega může souviset velmi často s únavou, často se závratěmi, méně často se synkopami a ortostatickou/posturální hypotenzí nebo často s rozmazaným viděním. Pacienti musejí proto být při řízení nebo obsluze strojů opatrní a mají být upozorněni, že nesmí řídit nebo obsluhovat stroje, pokud se u nich tyto příznaky objeví (viz bod 4.8).
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Mezi závažné nežádoucí účinky, které byly při léčbě bortezomibem hlášeny méně často, patří srdeční selhání, syndrom nádorového rozpadu, plicní hypertenze, syndrom posteriorní reverzibilní encefalopatie, akutní difuzní infiltrativní choroba plic a vzácně autonomní neuropatie. Nejčastěji hlášenými nežádoucími účinky během léčby bortezomibem jsou nauzea, průjem, zácpa, zvracení, únava, pyrexie, trombocytopenie, anemie, neutropenie, periferní neuropatie (včetně senzorické), bolest hlavy, parestezie, snížení chuti k jídlu, dyspnoe, vyrážka, pásový opar a bolest svalů.
+
+Souhrn nežádoucích účinků v tabulce
+Mnohočetný myelom
+Nežádoucí účinky uvedené v Tabulce 7 mají podle hodnocení zkoušejících přinejmenším možný nebo pravděpodobný příčinný vztah k léčbě bortezomibem. Tyto nežádoucí účinky jsou odvozeny ze sloučených údajů od 5476 pacientů, z nichž 3996 pacientů bylo léčeno bortezomibem v dávce
+1,3 mg/m² a jsou zahrnuty v Tabulce 7. Celkem byl bortezomib podán k léčbě mnohočetného myelomu 3974 pacientům.
+Nežádoucí účinky jsou uvedeny níže ve skupinách podle tříd orgánových systémů a četnosti výskytu.
+Četnosti výskytu jsou definovány jako: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1000); velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit). V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti. Tabulka 7 byla vytvořena s použitím verze 14.1 MedDRA.
+Zahrnuty jsou také nežádoucí účinky zaznamenané po uvedení přípravku na trh, které nebyly pozorovány v klinických studiích.
+
+Tabulka 7: Nežádoucí účinky u pacientů s mnohočetným myelomem léčených bortezomibem v
+klinických studiích a všechny nežádoucí účinky po uvedení přípravku na trh bez ohledu na indikaci# .
+
+
+Třída orgánových systémů
+Infekce a infestace
+Četnost Časté Méně časté
+Nežádoucí účinek
+
+Pásový opar (vč. diseminovaného a očního), pneumonie*, herpes simplex*, mykotické infekce* Infekce*, bakteriální infekce*, virové infekce*, sepse (včetně septického šoku)*, bronchopneumonie, infekce herpetickým virem*, herpetická meningoencefalitida#, bakteriemie (vč. stafylokokové), hordeolum, chřipka, celulitida, infekce spojené se zdravotnickým prostředkem, infekce kůže*, infekce ucha*, stafylokoková infekce*, zubní infekce*
+13
+
+
+
+
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy) Poruchy krve a lymfatického systému
+
+
+
+
+
+
+Poruchy imunitního systému
+Endokrinní poruchy
+
+
+Poruchy metabolismu
+a výživy
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy oka
+
+
+
+
+
+
+
+
+
+Poruchy ucha a labyrintu
+
+
+
+Psychiatrické
+poruchy
+Vzácné
+
+
+Vzácné
+
+
+
+Velmi časté Časté
+Méně časté Vzácné
+
+
+
+Méně časté Vzácné
+
+Méně časté
+Vzácné Velmi časté Časté
+
+Méně časté
+
+
+Vzácné
+
+
+
+
+
+Časté Méně časté
+
+
+
+Vzácné
+
+
+
+
+Časté Méně časté
+Vzácné Časté Méně časté
+Meningitida (vč. bakteriální), infekce virem Epstein- Barrové, genitální herpes simplex, tonzilitida, mastoiditida, únavový syndrom po virové infekci Novotvar maligní, plasmocytární leukemie, karcinom ledvin, novotvar, mycosis fungoides, benigní novotvar*
+
+Thrombocytopenie*, neutropenie*, anaemie* Leukopenie*, lymfopenie*
+Pancytopenie*, febrilní neutropenie, koagulopatie*, leukocytóza*, lymfadenopatie, hemolytická anemie# Diseminovaná intravaskulární koagulace, trombocytóza*, syndrom hyperviskozity, porucha krevních destiček NOS, trombotická mikroangiopatie (včetně trombocytopenické purpury)*, poruchy krve NOS, hemoragická diatéza, lymfocytická infiltrace Angioedém#, hypersenzitivita*
+Anafylaktický šok, amyloidóza, reakce typu III
+zprostředkovaná imunitními komplexy
+Cushingův syndrom*, hypertyreóza*, nepřiměřená sekrece antidiuretického hormonu
+Hypotyreóza Snížení chuti k jídlu
+Dehydratace, hypokalemie*, hyponatremie*, abnormální hladina glukózy v krvi*, hypokalcemie*, enzymové abnormality*
+Syndrom nádorového rozpadu, neprospívání*, hypomagnesemie*, hypofosfatemie*, hyperkalemie*, hyperkalcemie*, hypernatremie*, abnormální hodnoty kyseliny močové*, diabetes mellitus*, retence tekutin Hypermagnesemie*, acidóza, porucha rovnováhy elektrolytů*, přetížení tekutinami, hypochloremie*, hypovolemie, metabolické poruchy, hyperchloremie*, hyperfosfatemie*deficit vitaminů řady B, deficit vitaminu B12, dna, zvýšení chuti k jídlu, intolerance alkoholu
+Otok oka*, abnormální vidění*, konjunktivitida* Krvácení oka*, infekce očních víček*, chalazion#, blefaritida#, zánět oka*, diplopie, suché oko*, podráždění oka*, bolest oka, zvýšená tvorba slz, výtok z oka
+Korneální léze*, exoftalmus, retinitida, skotom, porucha oka (vč. očních víček) NOS, získaná dakryoadenitida, fotofobie, fotopsie, neuropatie optického nervu#, různé stupně postižení zraku (až po slepotu)*
+Vertigo*
+Dysakuzie (vč. tinitu)*, poškození sluchu (až po
+hluchotu), ušní diskomfort*
+Krvácení z ucha, vestibulární neuronitida, porucha
+ucha NOS
+Porucha a narušení nálady*, úzkostná porucha*, porucha a narušení spánku*
+Duševní porucha*, halucinace*, psychotická porucha*,
+14
+
+
+
+
+Poruchy nervového systému
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Srdeční poruchy
+
+
+
+
+
+
+
+
+
+
+Cévní poruchy
+
+
+
+
+
+
+
+Respirační, hrudní a mediastinální poruchy
+
+Vzácné Velmi časté Časté
+Méně časté
+
+
+
+
+
+
+
+Vzácné
+
+
+
+
+
+
+
+
+
+
+
+Méně časté
+
+
+
+
+
+Vzácné
+
+
+
+
+Časté Méně časté
+
+
+
+
+Vzácné Časté Méně časté
+
+
+
+Vzácné
+zmatenost*, neklid
+Sebevražedné myšlenky*, porucha přizpůsobení, delirium, snížené libido
+Neuropatie*, periferní senzorická neuropatie,
+dysestesie*, neuralgie*
+Motorická neuropatie*, ztráta vědomí (vč. synkopy), závrať*, dysgeusie*, letargie, bolest hlavy*
+Třes, periferní senzomotorická neuropatie, dyskineze*, poruchy cerebelární koordinace a rovnováhy*, porucha paměti (s výjimkou demence)*, encefalopatie*, syndrom posteriorní reverzibilní encefalopatie#, neurotoxicita, záchvatovité poruchy*, postherpetická neuralgie, porucha řeči*, syndrom neklidných nohou, migréna, ischias, porucha pozornosti, abnormální reflexy*, parosmie
+Cerebrální krvácení, nitrolební krvácení (vč. subarachnoidálního)*, otok mozku, transitorní ischemická ataka, kóma, porucha autonomního nervového systému, autonomní neuropatie, paréza hlavových nervů*, paralýza*, paréza*, presynkopa, syndrom mozkového kmene, cerebrovaskulární porucha, léze nervových kořenů, psychomotorická hyperaktivita, míšní komprese, kognitivní porucha NOS, motorická dysfunkce, porucha nervového systému NOS, radikulitida, slinění, hypotonie, Guillainův–Barrého syndrom#, demyelinizační polyneuropatie#
+Srdeční tamponáda#, kardio-pulmonární zástava*, srdeční fibrilace (vč. síní), srdeční selhání (vč. levého a pravého ventrikulárního)*, arytmie*, tachykardie*, palpitace, angina pectoris, perikarditida (vč. perikardiální efuze)*, kardiomyopatie*, ventrikulární dysfunkce*, bradykardie
+Flutter síní, srdeční infarkt*, atrioventrikulární blokáda*, kardiovaskulární porucha (vč. kardiogenního šoku), torsade de pointes, nestabilní angina pectoris, poruchy srdečních chlopní*, nedostatečnost koronárních arterií, sinusová zástava
+Hypotenze*, ortostatická hypotenze, hypertenze Cerebrovaskulární příhoda#, hluboká žilní trombóza*, hemoragie*, tromboflebitida (vč. povrchové), oběhové selhání (vč. hypovolemického šoku), flebitida, zrudnutí*, hematom (vč. perirenálního)*, špatná periferní cirkulace*, vaskulitida, hyperemie (vč.oční)* Periferní embolie, lymfedém, bledost, erytromelalgie, vazodilatace, změna zbarvení žil, žilní insuficience Dyspnoe*, epistaxe, infekce horních/dolních cest dýchacích*, kašel*
+Plicní embolie, pleurální efuze, plicní otok (vč. akutního), plicní alveolární krvácení#, bronchospasmus, chronická obstrukční plicní nemoc*, hypoxemie*, kongesce respiračního traktu*, hypoxie, pleuritida*, škytavka, rinorea, dysfonie, sípot Respirační selhání, syndrom akutní respirační tísně, apnoe, pneumotorax, atelektáza, plicní hypertenze,
+15
+
+
+
+
+
+
+
+
+Poruchy jater a
+žlučových cest
+
+
+
+
+Gastrointestinální
+poruchy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+
+
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+
+
+
+
+
+
+Časté Méně časté
+
+Vzácné
+
+
+Velmi časté Časté
+
+
+
+
+Méně časté
+
+
+
+
+
+
+
+
+
+Vzácné
+
+
+
+
+
+
+Časté Méně časté
+
+
+
+
+
+
+Vzácné
+
+
+
+
+Velmi časté Časté
+Méně časté Vzácné
+hemoptýza, hyperventilace, ortopnoe, pneumonitida, respirační alkalóza, tachypnoe, plicní fibróza, porucha průdušek*, hypokapnie*, intersticiální plicní onemocnění, infiltrace plic, pocit přiškrcení v hrdle, sucho v hrdle, zvýšená sekrece do horních cest dýchacích, podráždění hrdla, syndrom kašle horních cest dýchacích
+Abnormální hodnoty jaterních enzymů* Hepatotoxicita (vč. poruchy jater), hepatitida*, cholestáza
+Selhání jater, hepatomegalie, Budd-Chiariho syndrom, cytomegalovirová hepatitida, krvácení do jater, cholelitiáza
+Příznaky nauzey a zvracení*, průjem*, zácpa Krvácení do gastrointestinálního traktu (vč. slizničního)*, dyspepsie, stomatitida*, distenze břicha, orofaryngeální bolest*, bolest břicha (vč. gastrointestinální bolesti a bolestí sleziny)*, poruchy v ústech*, flatulence
+Pankreatitida (vč. chronické) *, hematemeza, otok rtů*, gastrointestinální obstrukce (vč. ileu)*, abdominální diskomfort, ulcerace v ústech*, enteritida*, gastritida*, krvácení dásní, refluxní choroba jícnu*, kolitida (vč. kolitidy způsobené Clostridium difficile)*, ischemická kolitida#, gastrointestinální zánět*, dysfagie, syndrom dráždivého tračníku, porucha gastrointestinálního traktu NOS, povlak jazyka, porucha motility gastrointestinálního traktu*, porucha slinných žláz* Akutní pankreatitida, peritonitida*, otok jazyka*, ascites, esofagitida, cheilitida, inkontinence stolice, atonie análního svěrače, fekalom*, gastrointestinální ulcerace a perforace*, hypertrofie dásní, megakolon, únik stolice, puchýře v orofaryngu*, bolest rtů, periodontitida, anální fisura, změna způsobu vyprazdňování stolice, proktalgie, abnormální stolice Vyrážka*, pruritus*, erytém, suchá kůže
+Erythema multiforme, kopřivka, akutní febrilní neutrofilní dermatóza, toxický kožní výsev, toxická epidermální nekrolýza#, Stevens-Johnsonův syndrom#, dermatitida*, porucha vlasů*, petechie, ekchymóza, kožní léze, purpura, kožní rezistence*, psoriáza, hyperhidróza, noční pocení, dekubitální vřed#, akné*, puchýře,* porucha pigmentace*
+Kožní reakce, Jessnerova lymfocytární infiltrace, syndrom palmoplantární erytrodysestezie, podkožní krvácení, livedo reticularis, zatvrdnutí kůže, papuly, fotosenzitivní reakce, seborea, studený pot, kožní porucha NOS, erytróza, kožní ulcerace, porucha nehtů Muskuloskeletální bolest*
+Svalové spasmy*, bolest končetin, svalová slabost Svalové záškuby, otok kloubů, artritida*, ztuhlost kloubů, myopatie*, pocit tíhy
+Rhabdomyolýza, syndrom temporomandibulárního
+16
+
+
+
+
+Poruchy ledvin a
+močových cest
+
+
+
+
+
+Poruchy reprodukčního systému a prsu
+
+
+Vrozené, familiální a genetické vady Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+
+
+
+
+Vyšetření
+
+
+
+
+
+
+
+
+Poranění, otravy a procedurální komplikace
+
+Chirurgické a léčebné
+postupy
+NOS = blíže neurčené
+
+
+
+Časté Méně časté
+
+
+
+
+Vzácné Méně časté
+Vzácné
+
+
+Vzácné
+
+Velmi časté Časté
+Méně časté
+
+
+
+
+
+Vzácné
+
+
+
+
+Časté Méně časté
+
+
+Vzácné
+
+
+
+
+Méně časté Vzácné
+
+
+Vzácné
+skloubení, fistule, kloubní efuze, bolest čelisti, porucha kostí, infekce a zánět svalové a kosterní soustavy a pojivové tkáně*, synoviální cysta
+Porucha funkce ledvin*
+Akutní selhání ledvin, chronické selhání ledvin*, infekce močových cest*, známky a příznaky v močových cestách*, hematurie*, retence moči, porucha mikce*, proteinurie, azotemie, oligurie*, polakisurie
+Podrážděný močový měchýř
+Vaginální krvácení, bolest genitálu*, erektilní
+dysfunkce
+Porucha varlat*, prostatitida, onemocnění prsů u žen, citlivost nadvarlat, epididymitida, bolest pánve, ulcerace vulvy
+Aplazie, gastrointestinální malformace, ichtyóza
+
+Pyrexie*, únava, astenie
+Otok (vč. periferního), zimnice, bolest*, malátnost* Narušení celkového fyzického zdraví*, otok obličeje*, reakce v místě injekce*, porucha sliznic*, bolest na hrudi, porucha chůze, pocit chladu, extravazace*, komplikace spojené se zavedením katetru*, změna pocitu žízně*, nepříjemný pocit na hrudi, pocit změny tělesné teploty*, bolest v místě injekce*
+Úmrtí (vč. náhlého), multiorgánové selhání, krvácení v místě injekce*, hernie (vč. hiátové)*, špatné hojení*, zánět, felbitida v místě injekce*, citlivost, vřed, podráždění, bolest na hrudi nekardiálního původu, bolest v místě zavedení katetru, pocit cizího tělesa Snížení tělesné hmotnosti
+Hyperbilirubinemie*, abnormální výsledky analýz proteinů*, zvýšení tělesné hmotnosti, abnormální krevní testy*, zvýšení C-reaktivního proteinu Abnormální krevní plyny*, abnormality EKG (vč. prodloužení QT)*, abnormální INR*, snížení pH žaludku, zvýšení agregace krevních destiček, zvýšení hladiny troponinu I, virová identifikace a sérologie, abnormální výsledky analýz moči*
+Pád, zhmoždění
+Transfuzní reakce, zlomeniny*, rigor*, poranění obličeje, poranění kloubů, popáleniny, lacerace, bolest spojená s aplikací, radiační poškození*
+Aktivace makrofágů
+* Zahrnutí více než jednoho preferovaného MedDRA termínu
+# Hlášení nežádoucího účinku po uvedení přípravku na trh bez ohledu na indikaci
+
+Lymfom z plášťových buněk (MCL)
+Bezpečnostní profil bortezomibu u pacientů s lymfomem z plášťových buněk byl hodnocen u
+240 pacientů léčených bortezomibem v doporučené dávce 1,3 mg/m² v kombinaci s rituximabem, cyklofosfamidem, doxorubicinem a prednisonem (VcR-CAP) v porovnání s 242 pacienty léčenými rituximabem, cyklofosfamidem, doxorubicinem, vinkristinem a prednisonem [R-CHOP] a byl relativně konzistentní s bezpečnostním profilem pozorovaným u pacientů s mnohočetným myelomem,
+17
+
+přičemž hlavní rozdíly jsou popsány dále. Dalšími zjištěnými nežádoucími účinky spojenými
+s podáváním kombinované léčby (VcR-CAP) byla infekce virem hepatitidy B (< 1 %) a ischemie myokardu (1,3 %). Podobné incidence těchto příhod v obou léčebných ramenech naznačily, že nežádoucí účinky nelze přisoudit bortezomibu samotnému. Významnými rozdíly u skupiny pacientů s lymfomem z plášťových buněk v porovnání s pacienty ze studií s mnohočetným myelomem byla o
+≥ 5 % vyšší incidence hematologických nežádoucích účinků (neutropenie, trombocytopenie, leukopenie, anemie, lymfopenie), periferní senzorické neuropatie, hypertenze, pyrexie, pneumonie, stomatitidy a poruchy vlasů.
+Nežádoucí účinky identifikované s ≥ 1 % incidencí, s podobnou nebo vyšší incidencí v rameni VcR- CAP a s přinejmenším možnou nebo pravděpodobnou příčinnou souvislostí se složkami použitými v rameni VcR-CAP jsou uvedeny v tabulce 8 dále. Zařazeny jsou rovněž nežádoucí účinky identifikované v rameni VcR-CAP, které zkoušející na základě historických údajů ze studií s mnohočetným myelomem považoval za přinejmenším možná nebo pravděpodobně příčinně související s bortezomibem.
+Nežádoucí účinky jsou uvedeny níže ve skupinách podle tříd orgánových systémů a četnosti výskytu.
+Četnosti výskytu jsou definovány jako: velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10 000 až < 1/1000); velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit). V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti. Tabulka 8 byla vytvořena s použitím MedDRA verze 16.
+
+Tabulka 8: Nežádoucí účinky u pacientů a MCL léčených VcR-CAP v klinické studii.
+
+Třída orgánových systémů
+Infekce a infestace
+
+
+
+
+
+Poruchy krve a lymfatického systému Poruchy imunitního systému Poruchy metabolismu a výživy
+
+Psychiatrické
+poruchy
+Poruchy nervového systému
+
+
+
+
+
+Poruchy oka Poruchy ucha a labyrintu Srdeční poruchy
+Četnost
+
+Velmi časté Časté
+
+
+
+Méně časté Velmi časté
+Méně časté Časté Méně časté
+
+Velmi časté Časté
+Méně časté Časté
+
+Velmi časté Časté
+
+
+Méně časté Časté Časté Méně časté Časté
+Nežádoucí účinek
+
+Pneumonie*
+Sepse (včetně septického šoku)*, pásový opar (vč. diseminovaného a očního), infekce herpetickým virem*, bakteriální infekce*, infekce horních a dolních dýchacích cest*, mykotická infekce*, herpes simplex* Infekce virem hepatitidy B*, bronchopneumonie Thrombocytopenie*, febrilní neutropenie, neutropenie*, leukopenie*, anemie*, lymfopenie* Pancytopenie*
+Hypersenzitivita* Anafylaktická reakce
+
+Snížení chuti k jídlu
+Hypokalemie*, abnormální hladina glukózy v krvi*, hyponatremie*, diabetes mellitus*, retence tekutin Syndrom nádorového rozpadu
+Poruchy a narušení spánku*
+
+Periferní senzorická neuropatie, dysestesie*, neuralgie*
+Neuropatie*, motorická neuropatie*, ztráta vědomí (vč. synkopy), encefalopatie*, periferní senzomotorická neuropatie, závrať*, dysgeusie*, autonomní neuropatie,
+Nerovnováha autonomního nervového systému
+Abnormální vidění*
+Dysakuzie (vč. tinitu)*
+Vertigo*, porucha sluchu (až do a včetně hluchoty) Srdeční fibrilace (vč. síňové), arytmie*, srdeční selhání (vč. selhání levé a pravé komory)*, ischemie myokardu, komorová dysfunkce*
+
+18
+
+
+Cévní poruchy Respirační, hrudní a mediastinální poruchy
+
+Gastrointestinální
+poruchy
+
+
+
+
+
+
+
+Poruchy jater a žlučových cest Poruchy kůže a podkožní tkáně Poruchy svalové a kosterní soustavy a pojivové tkáně Poruchy ledvin a močových cest Celkové poruchy a reakce v místě aplikace
+Vyšetření
+Méně časté Časté Časté Méně časté
+
+
+Velmi časté Časté
+
+
+
+Méně časté Časté Méně časté
+Velmi časté Časté
+Časté
+
+
+Časté
+
+Velmi časté Časté
+
+Časté
+Kardiovaskulární porucha (vč. kardiogenního šoku) Hypertenze*, hypotenze*, ortostatická hypotenze Dušnost*, kašel*, škytavka
+Syndrom akutní respirační tísně, plicní embolie, pneumonitida, plicní hypertenze, plicní edém (vč. akutního)
+Symptomy nauzey a zvracení*, průjem*, stomatitida*,
+zácpa
+Krvácení do gastrointestinálního traktu (vč. slizničního)*, distenze břicha, dyspepsie, orofaryngeální bolesti*, gastritida*, vředy v ústech*, abdominální diskomfort *, dysfagie, gastrointestinální zánět*, bolesti břicha (vč. gastrointestinálních bolestí a bolestí sleziny)*, orální poruchy*
+Kolitida (včetně Clostridium difficile)* Hepatotoxicita (vč. jaterních poruch) Selhání jater
+Poruchy vlasů*
+Svědění*, dermatitida*, vyrážka*
+Svalové spasmy*, muskuloskeletální bolesti*, bolest v
+končetinách
+Infekce močových cest* Pyrexie*, únava, astenie
+Edém (vč. periferního), zimnice, reakce v místě
+injekce*, malátnost*
+Hyperbilirubinemie*, abnormální výsledky analýz proteinů*, snížení tělesné hmotnosti, zvýšení tělesné hmotnosti
+* Zahrnutí více než jednoho preferovaného MedDRA termínu
+
+Popis vybraných nežádoucích účinků Reaktivace viru herpes zoster Mnohočetný myelom
+Antivirová profylaxe byla podávána 26 % pacientů v rameni Vc+M+P. Incidence herpes zoster mezi pacienty ve skupině Vc+M+P léčby byla 17 % u pacientů, kterým nebyla podávána antivirová profylaxe, ve srovnání s 3 % pacientů, kterým antivirová profylaxe byla podávána.
+
+Lymfom z plášťových buněk
+V rameni VcR-CAP byla 137 pacientům z 240 (57 %) podávána antivirová profylaxe. Incidence herpes zoster mezi pacienty v rameni VcR-CAP byla 10,7 % u pacientů, kterým se antivirová profylaxe nepodávala, v porovnání s 3,6 % u pacientů, kterým se antivirová profylaxe podávala (viz bod 4.4).
+
+Reaktivace a infekce virem hepatitidy B (HBV)
+Lymfom z plášťových buněk
+Infekce HBV s fatálními důsledky se objevila u 0,8 % (n=2) pacientů ve skupině neléčené bortezomibem (rituximab, cyklofosfamid, doxorubicin, vinkristin a prednison; R-CHOP ) a u 0,4 % (n=1) pacientů léčených bortezomibem v kombinaci s rituximabem, cyklofosfamidem, doxorubicinem a prednisonem (VcR-CAP). Celková incidence infekcí virem hepatitidy B byla u pacientů léčených VcR-CAP nebo R-CHOP podobná (0,8 % vs 1,2 %, v uvedeném pořadí).
+Periferní neuropatie u kombinovaných režimů Mnohočetný myelom
+19
+
+Incidence periferní neuropatie u kombinovaných režimů ze studií, kde byl bortezomib podáván jako indukční léčba v kombinaci s dexamethasonem (studie IFM-2005-01) a dexamethasonem - thalidomidem (studie MMY-3010), je uvedena v následující tabulce:
+
+Tabulka 9: Incidence periferní neuropatie během indukční léčby podle toxicity a ukončení léčby
+v důsledku periferní neuropatie
+IFM-2005-01            MMY-3010
+
+
+
+Incidence PN (%)
+Všechny stupně PN
+≥ stupeň 2 PN
+≥ stupeň 3 PN
+Ukončení kvůli PN (%)
+VDDx (N = 239)
+
+3
+1
+˂ 1
+˂ 1
+BDx (N = 239)
+
+15
+10
+5
+2
+TDx (N = 126)
+
+12
+2
+0
+1
+BTDx (N = 130)
+
+45
+31
+5
+5
+VDDx = vinkristin, doxorubicin, dexamethason; BDx = bortezomib, dexamethason; TDx = thalidomid, dexamethason; BTDx = bortezomib, thalidomid, dexamethason; PN = periferní neuropatie
+Poznámka: Periferní neuropatie zahrnuje preferované termíny: neuropatie periferní, periferní motorická neuropatie, periferní senzorická neuropatie a polyneuropatie.
+
+Lymfom z plášťových buněk
+Ve studii LYM-3002, ve které byl bortezomib podáván s cyklofosfamidem, doxorubicinem a prednisonem (R-CAP), je incidence periferní neuropatie u kombinovaných režimů uvedena v následující tabulce:
+
+Tabulka 10: Incidence periferní neuropatie ve studii LYM-3002 podle toxicity a ukončení léčby
+v důsledku periferní neuropatie
+
+
+
+Incidence PN (%)
+Všechny stupně PN
+≥ stupeň 2 PN
+≥ stupeň 3 PN
+Ukončení kvůli PN (%)
+VcR-CAP (N = 240)
+
+30
+18
+8
+2
+R-CHOP (N = 242)
+
+29
+9
+4
+< 1
+VcR-CAP = bortezomib, rituximab, cyklofosfamid, doxorubicin a prednison; R-CHOP = rituximab, cyklofosfamid, doxorubicin, vinkristin a prednison; PN = periferní neuropatie
+Periferní neuropatie zahrnovala preferované termíny: periferní senzorická neuropatie, neuropatie periferní, periferní motorická neuropatie a periferní senzomotorická neuropatie
+
+Starší pacienti s lymfomem z plášťových buněk
+V rameni VcR-CAP bylo 42,9 % a 10,4 % pacientů ve věkovém rozmezí 65-74 let a ≥ 75 let,
+v uvedeném pořadí. I když u pacientů ve věku ≥75 let byly oba režimy jak VcR-CAP tak R-CHOP méně tolerovány, výskyt závažných nežádoucích účinků ve skupině VcR-CAP byl 68 % v porovnání se 42 % ve skupině R-CHOP.
+
+Zaznamenané rozdíly v profilu bezpečnosti bortezomibu podaného subkutánně oproti intravenóznímu podání u monoterapie
+Pacienti, kteří dostávali bortezomib ve studii fáze III subkutánně, měli ve srovnání s intravenózním podáním o 13 % nižší celkový výskyt nežádoucích účinků spojených s léčbou stupně 3 nebo vyššího a o 5 % nižší výskyt ukončení léčby bortezomibem. Celkový výskyt průjmu, gastrointestinální bolesti a bolesti břicha, astenie, infekcí horních cest dýchacích a periferní neuropatie byl o 12-15 % nižší ve skupině se subkutánním podáním než u intravenózního podání. Dále byl výskyt periferní neuropatie stupně 3 nebo vyššího o 10 % nižší a podíl ukončení léčby kvůli periferní neuropatii byl o 8 % nižší u subkutánního podání než u intravenózního podání.
+U šesti procent pacientů byly po subkutánním podání hlášeny lokální nežádoucí účinky, většinou zarudnutí. Případy se vrátily k normálu za střední dobu 6 dní; u 2 pacientů bylo nutno změnit dávku. U dvou (1 %) pacientů byly hlášeny závažné reakce; v 1 případě pruritus a v 1 případě zarudnutí.
+
+20
+
+Výskyt úmrtí během léčby byl 5 % u subkutánního podání a 7 % u intravenózního podání. Incidence úmrtí kvůli progresi onemocnění byla 18 % u subkutánního podání a 9 % u intravenózního podání.
+
+Opětovná léčba pacientů s relapsem mnohočetného myelomu
+Ve studii, ve které byl bortezomib podáván jako opětovná léčba u 130 pacientů s recidivujícím mnohočetným myelomem, u kterých již dříve byla alespoň částečná odpověď na režim obsahující bortezomib, byly nejčastější nežádoucí účinky všech stupňů vyskytující se nejméně u 25 % pacientů trombocytopenie (55 %), neuropatie (40 %), anemie (37 %), průjem (35 %), a zácpa (28 %). Periferní neuropatie všech stupňů byla pozorována u 40 % pacientů a periferní neuropatie stupně ≥ 3 byla pozorována u 8,5 % pacientů.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Předávkování pacientů více než dvojnásobnou dávkou, než která je doporučena, bylo provázeno akutní symptomatickou hypotenzí a trombocytopenií s fatálními důsledky. Předklinické studie kardiovaskulární bezpečnosti, viz bod 5.3.
+
+Specifické antidotum pro předávkování bortezomibem není známo. V případě předávkování by měly být monitorovány pacientovy vitální funkce a musí mu být poskytnuta podpůrná terapie k udržení krevního tlaku (např. tekutiny, hypertenziva, a/nebo inotropní látky) a tělesné teploty (viz body 4.2 a 4.4).
+
+5. FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Cytostatika, jiná cytostatika, ATC kód: L01XX32.
+
+Mechanismus účinku
+Bortezomib je proteazomový inhibitor. Byl specificky navržen tak, aby inhiboval chymotrypsinu podobnou aktivitu proteazomu 26S v savčích buňkách. Proteazom 26S je rozsáhlý proteinový komplex, který odbourává proteiny označené ubikvitinem. Ubikvitin-proteazomová cesta hraje nepostradatelnou úlohu v řízení odbourávání specifických proteinů a tím udržení homeostázy uvnitř buněk. Inhibice proteazomu 26S zabraňuje této cílené proteolýze a ovlivňuje mnohočetnou signalizační kaskádu v buňce, což nakonec vede k odumření nádorové buňky.
+
+Bortezomib je vysoce selektivní pro proteazom. Při koncentraci 10 µM bortezomib neinhibuje žádný ze širokého spektra sledovaných receptorů a proteáz a je více než 1 500krát selektivnější pro proteazom než pro další preferovaný enzym. Kinetika inhibice proteazomu byla hodnocena in vitro a bylo zjištěno, že bortezomib disociuje z proteazomu s t₁/₂ 20 minut, což prokazuje, že inhibic proteazomu bortezomibem je reverzibilní.
+Inhibice proteazomu vyvolaná bortezomibem ovlivňuje nádorové buňky mnoha způsoby, které zahrnují, ale nejsou omezeny na alteraci regulačních proteinů, které kontrolují progresi buněčného
+
+21
+
+cyklu a aktivaci nukleárního faktoru kappa B (NF-kB). Inhibice proteazomu vede k zastavení buněčného cyklu a apoptóze. NF-kB je transkripční faktor, jehož aktivace je vyžadována pro mnoho aspektů tumorogeneze, včetně buněčného růstu a přežívání, angiogeneze, interakcí mezi buňkami a tvorby metastáz. U myelomu ovlivňuje bortezomib schopnost myelomových buněk interagovat s mikroprostředím kostní dřeně.
+
+Experimenty ukázaly, že bortezomib je cytotoxický pro různé druhy nádorových buněk a že nádorové buňky jsou citlivější na proapoptotický účinek proteazomové inhibice než buňky normální.
+Bortezomib vyvolává snížení růstu nádorů in vivo u mnoha modelových nádorů používaných
+v preklinických studiích včetně mnohočetného myelomu.
+
+Údaje z in vitro, ex-vivo a zvířecích modelů s bortezomibem naznačují, že bortezomib zvyšuje diferenciaci a aktivitu osteoblastů a inhibuje funkci osteoklastů. Tyto účinky byly pozorovány u pacientů s mnohočetným myelomem při pokročilém osteolytickém onemocnění a léčbě bortezomibem.
+Klinická účinnost u pacientů s dosud neléčeným mnohočetným myelomem
+Prospektivní mezinárodní randomizovaná (1 : 1) otevřená klinická studie (MMY-3002VISTA) fáze III u 682 pacientů byla provedena, aby se stanovilo, zda u pacientů s dosud neléčeným mnohočetným myelomem při podání bortezomibu (1,3 mg/m² intravenózně) v kombinaci s melfalanem (9 mg/m²) a prednisonem (60 mg/m²) dojde ve srovnání s melfalanem (9 mg/m²) a prednisonem (60 mg/m²) ke zlepšení času do progrese (time to progression = TTP). Léčba byla podávána po dobu maximálně
+9 cyklů (přibližně 54 týdnů) a předčasně byla ukončena z důvodu progrese onemocnění nebo nepřijatelné toxicity. Střední věk pacientů ve studii byl 71 let, 50 % byli muži, 88 % byli běloši a střední hodnota výkonnostního stavu podle Karnofského byla 80. Pacienti trpěli myelomem IgG/IgA/lehkých řetězců v 63 %/25 %/8 % případů se střední hodnotou hemoglobinu 105 g/l a středním počtem krevních destiček 221,5x 10⁹/l. Podobný podíl pacientů měl clearance kreatininu
+≤ 30 ml/min (3 % v každém rameni).
+V předem specifikované době průběžné analýzy bylo dosaženo primárního cílového parametru, doby do progrese, a pacientům v rameni s M+P byla nabídnuta léčba B+M+P. Střední doba dalšího sledování byla 16,3 měsíců. Konečné vyhodnocení přežití bylo provedeno po střední době dalšího sledování 60,1 měsíce. Byl pozorován statisticky signifikantní přínos u přežití ve skupině B+M+P (HR = 0,695; p = 0,00043) bez ohledu na další terapie včetně režimů založených na bortezomibu.
+Medián přežití pro skupinu léčenou B+M+P byl 56,4 měsíce ve srovnání s 43,1 měsíce ve skupině M+P. Výsledky účinnosti jsou uvedeny v Tabulce 11.
+Tabulka 11: Výsledky účinnosti po konečném vyhodnocení přežití ve studii VISTA
+
+Cílový parametr účinnosti
+Doba do progrese
+Příhody n (%)
+
+Mediánᵃ (95% CI)
+B + M + P (N = 344)
+
+
+101 (29)
+20,7 měsíce (17,6; 24,7)
+M + P (N = 338)
+
+
+152 (45)
+15.0 měsíce (14,1; 17,9)
+
+Poměr rizikᵇ (95% CI) Hodnota pᶜ
+Přežití bez progrese
+Příhody n (%)
+0,54 (0,42; 0,70)
+0,000002
+
+
+135 (39)          190 (56)
+
+Mediánᵃ (95% CI)
+18,3 měsíce (16,6; 21,7)
+14,0 měsíce (11,1; 15,0)
+
+Poměr rizikᵇ (95% CI) Hodnota pᶜ
+Celkové přežití*
+Příhody (úmrtí) n (%)
+0,61 (0,49; 0,76)
+0,00001
+176 (51,2)         211 (62,4)
+
+22
+
+Mediánᵃ (95% CI) Poměr rizikᵇ (95% CI) Hodnota pᶜ
+56,4 měsíce (52,8; 60,9)   43,1 měsíce (35,3; 48,3)
+0,695 (0,567; 0,852)
+0,00043
+
+Výskyt odpovědi Populaceᵉ n = 668 CRᶠ n (%)
+PRᶠ n (%) nCR n (%)
+CR + PRᶠ n (%)
+Hodnota pᵈ
+Snížení sérového M-proteinu
+Populaceᵍ n = 667
+
+≥90% n (%)
+Doba do první odezvy u CR + PR
+Medián
+Středníᵃ trvání odezvy
+CRᶠ
+CR + PRᶠ
+Doba do další léčby
+Příhody n (%)
+n = 337
+
+102 (30)
+136 (40)
+5 (1)
+238 (71)
+
+
+
+n = 336
+151 (45)
+
+
+1,4 měsíce
+
+
+24,0 měsíce
+19,9 měsíce
+224 (65,1)
+
+
+
+
+
+
+
+
+
+
+
+
+< 10-10
+n = 331
+
+12 (4)
+103 (31)
+0
+115 (35)
+
+
+
+n = 331
+34 (10)
+
+
+4,2 měsíce
+
+
+12,8 měsíce
+13,1 měsíce
+260 (76,9)
+
+Mediánᵃ (95% CI)
+27,0 měsíce (24,7; 31,1)
+19,2 měsíce (17,0; 21,0)
+
+Poměr rizikᵇ (95% CI)
+Hodnota pᶜ
+ᵃ odhad podle Kaplan-Meiera.
+0,557 (0,462; 0,671)
+< 0,000001
+ᵇ odhad poměru rizik je založen na Coxově modelu proporcionálního rizika přizpůsobeném pro stratifikační
+faktory:
+β₂-mikroglobulin, albumin a oblast. Poměr rizik menší než 1 naznačuje výhodu pro BMP
+c hodnota p založená na stratifikovaném log-rank testu přizpůsobeném pro stratifikační faktory: β₂- mikroglobulin, albumin a oblast
+ᵈ hodnota p pro výskyt odpovědi (CR + PR) z Cochran-Mantel-Haenszelova chi-kvadrátového testu přizpůsobeného pro stratifikační faktory
+ᵉ reagující populace zahrnuje pacienty, kteří měli prokazatelné onemocnění na počátku
+ᶠ CR = úplná odpověď; PR = částečná odpověď. EBMT kritéria
+ᵍ všichni randomizovaní pacienti se sekretorickým onemocněním
+* aktualizace přežití je založena na střední době dalšího sledování 60,1 měsíce
+CI = interval spolehlivosti
+
+Pacienti, u nichž je vhodná transplantace kmenových buněk
+K průkazu bezpečnosti a účinnosti bortezomibu ve dvojkombinaci nebo trojkombinaci s dalšími chemoterapeutiky byly provedeny dvě randomizované otevřené multicentrické studie fáze III (IFM- 2005-01, MMY-3010) u pacientů s dříve neléčeným mnohočetným myelomem v indukční léčbě před transplantací kmenových buněk.
+
+Ve studii IFM-2005-01 byl bortezomib v kombinaci s dexamethasonem (BDx, n = 240) srovnáván s kombinací vinkristin/doxorubicin/dexamethason (VDDx, n = 242). Pacienti ve skupině s BDx dostali čtyři 21denní cykly, z nichž každý sestával z bortezomibu (1,3 mg/m² podávaného intravenózně dvakrát týdně ve dnech 1, 4, 8 a 11) a dexamethasonu (40 mg/den podávaného perorálně ve dnech 1 až
+4 a ve dnech 9 až 12 v 1. a 2. cyklu a ve dnech 1 až 4 ve 3. a 4. cyklu).
+
+23
+
+Autologní transplantáty kmenových buněk byly přijaty u 198 (82 %) pacientů ve skupině VDDx a 208 (87 %) pacientů ve skupině BDx, většina pacientů podstoupila jednu transplantační proceduru.
+Demografické charakteristiky a počáteční charakteristiky onemocnění byly u obou skupin pacientů podobné. Medián věku pacientů ve studii byl 57 let, 55 % byli muži a 48 % pacientů mělo vysoce rizikovou cytogenetiku. Medián trvání léčby byl 13 týdnů u skupiny s VDDx a 11 týdnů u skupiny s BDx. Medián počtu podaných cyklů byl u obou skupin 4 cykly.
+Primárním cílovým parametrem účinnosti studie byl poměr odpovědí CR + nCR po indukci.
+Statisticky významný rozdíl odpovědí (CR + nCR) byl pozorován ve prospěch skupiny
+s bortezomibem v kombinaci s dexamethasonem. Sekundární cílové parametry účinnosti zahrnovaly výskyt odpovědi (CR+nCR, CR+nCR+VGPR+PR) po transplantaci, PFS a OS. Hlavní výsledky účinnosti jsou uvedeny v Tabulce 12.
+
+Tabulka 12: Výsledky účinnosti ze studie IFM-2005-01
+
+Cílové parametry
+IFM-2005-01
+RR (po indukci)
+*CR + nCR CR+nCR+VGPR+PR
+% (95% CI)
+RR (po transplantaci)ᵇ CR + nCR CR+nCR+VGPR+PR
+% (95% CI)
+BDx
+N = 240 (ITT populace)
+
+14,6 (10,4; 19,7)
+77,1 (71,2; 82,2)
+
+
+37,5 (31,4; 44,0)
+79,6 (73,9; 84,5)
+VDDx
+N = 242 (ITT populace)
+
+6,2 (3,5; 10,0)
+60,7 (54,3; 66,9)
+
+
+23,1 (18,0; 29,0)
+74,4 (68,4; 79,8)
+OR; 95% CI; hodnota Pᵃ
+
+
+2,58 (1,37; 4,85); 0,003
+2,18 (1,46; 3,24); < 0,001
+
+
+1,98 (1,33; 2,95); 0,001
+1,34 (0,87; 2,05); 0,179
+CI = interval spolehlivosti; CR = kompletní odpověď; nCR = téměř kompletní odpověď; ITT= intent to treat; RR=výskyt odpovědi; B = bortezomib; BDx = bortezomib, dexamethason; VDDx = vinkristin, doxorubicin, dexamethason; VGPR = velmi dobrá částečná odpověď; PR = částečná odpověď; OR = odds ratio
+* Primární cílový parametr
+ᵃ OR pro výskyt odpovědi založený na Mantel-Haenszelově stanovení poměru rizik pro stratifikované tabulky; p- hodnoty podle Cochran Mantel-Haenszelova testu.
+ᵇ Výskyt odpovědi po druhé transplantaci u subjektů, které podstoupily druhou transplantaci (42/240 [18% ] u BDx skupiny a 52/242 [21%] u skupiny VDDx).
+Poznámka: OR > 1 ukazuje na výhodu indukční léčby obsahující B.
+
+Ve studii MMY-3010 byla srovnávána indukční léčba s bortezomibem v kombinaci s thalidomidem a dexamethasonem (BTDx, n = 130) s kombinací thalidomid/dexamethason (TDx, n = 127). Pacienti ve skupině s BTDx dostali 6 čtyřtýdenních cyklů, z nichž se každý skládal z bortezomibu (1,3 mg/m² podávaného dvakrát týdně ve dnech 1, 4, 8 a 11 s následným 17denním obdobím klidu ode dne 12 do dne 28), dexamethasonu (40 mg podávaných perorálně ve dnech 1 až 4 a dnech 8 až 11) a thalidomidu (podávaného perorálně v dávce 50 mg denně ve dnech 1–14, se zvýšením na 100 mg ve dnech 15–28 a dále na 200 mg denně).
+Jednorázová autologní transplantace kmenových buněk byla podána 105 (81 %) pacientům ve skupině s BTDx a 78 (61 %) pacientům ve skupině s TDx. Demografické charakteristiky a počáteční charakteristiky onemocnění byly u obou skupin pacientů podobné. Medián věku pacientů ve skupině s BTDx byl 57 let, ve skupině s TDx 56 let, 99 %, resp. 98 % pacientů byli běloši a 58 %, resp. 54 % byli muži. Ve skupině s BTDx bylo 12 % pacientů cytogeneticky klasifikováno jako vysoce rizikoví oproti 16 % pacientů ve skupině s TDx. Medián trvání léčby byl 24 týdnů a medián počtu přijatých léčebných cyklů byl 6 a byl konzistentní ve všech léčebných skupinách.
+Primárním cílovým parametrem účinnosti studie byl výskyt odpovědi po indukci a po transplantaci (CR + nCR). Statisticky významný rozdíl (CR + nCR) byl pozorován ve prospěch skupiny s bortezomibem v kombinaci s dexamethasonem a thalidomidem. Sekundární cílové parametry účinnosti zahrnovaly PFS a OS. Hlavní výsledky účinnosti jsou uvedeny v Tabulce 13.
+
+Tabulka 13: Výsledky účinnosti ze studie MMY 3010
+
+Cílové parametry
+MMY-3010
+
+*RR (po-indukci)
+BTDx
+N = 130
+(ITT populace)
+TDx
+N = 127
+(ITT populace)
+
+24
+OR; 95% CI; hodnota Pᵃ
+
+CR + nCR
+CR + nCR + PR % (95% CI)
+*RR (po transplantaci) CR + nCR
+CR + nCR + PR % (95% CI)
+49,2 (40,4; 58,1)
+84,6 (77,2; 90,3)
+
+55,4 (46,4; 64,1)
+77,7 (69,6; 84,5)
+17,3 (11,2; 25,0)
+61,4 (52,4; 69,9)
+
+34,6 (26,4; 43,6)
+56,7 (47,6; 65,5)
+4,63 (2,61; 8,22); < 0,001ᵃ
+3,46 (1,90; 6,27); < 0,001ᵃ
+
+2,34 (1,42; 3,87); 0,001ᵃ
+2,66 (1,55; 4,57); < 0,001ᵃ
+CI = interval spolehlivosti; CR = kompletní odpověď; nCR = téměř kompletní odpověď; ITT=intent to treat; RR=výskyt odpovědi; B = bortezomib; BTDx = bortezomib, thalidomid, dexamethason; TDx = thalidomid, dexamethason; PR = částečná odpověď, OR = odds ratio
+* Primární cílový parametr
+ᵃ OR pro výskyt odpovědí založený na Mantel-Haenszelově stanovení poměru rizik pro stratifikované tabulky; p- hodnoty podle Cochran Mantel-Haenszelova testu.
+Poznámka: OR > 1 ukazuje na výhodu indukční léčby obsahující B.
+
+Klinická účinnost u pacientů s relabujícím nebo refrakterním mnohočetným myelomem Bezpečnost a účinnost bortezomibu (podaného intravenózně) byly hodnoceny ve dvou studiích při doporučené dávce 1,3 mg/m²: v randomizované, srovnávací studii fáze III (APEX), versus
+dexamethason (dex) u 669 pacientů s relabujícím nebo refrakterním mnohočetným myelomem, kteří podstoupili 1–3 předchozí léčby a v jednoramenné studii fáze II, do které bylo zahrnuto 202 pacientů s relabujícím nebo refrakterním mnohočetným myelomem, kteří podstoupili nejméně 2 předchozí léčby, a u kterých nastala při poslední léčbě progrese onemocnění.
+
+Ve studii fáze III vedla léčba bortezomibem k prodloužení doby do progrese onemocnění, významně prodloužila přežití a významně zvýšila výskyt odpovědi ve srovnání s léčbou dexamethasonem (viz Tabulka 14) u všech pacientů včetně pacientů, kteří obdrželi jednu předchozí léčbu. Dle výsledku předem plánované průběžné analýzy bylo na doporučení monitorovací komise uzavřeno rameno s dexamethasonem a všem pacientům zařazeným do skupiny s dexamethasonem byla nabídnuta léčba bortezomibem bez ohledu na stav jejich onemocnění. Z důvodů této časné změny byl medián trvání dalšího sledování (follow-up) žijících pacientů 8,3 měsíce. U obou skupin pacientů, jak u těch, kteří nereagovali na svou poslední předcházející léčbu, tak i těch, kteří byli citliví k léčbě, bylo celkové přežití významně delší a výskyt odpovědi na léčbu byl významně vyšší v rameni pacientů, kteří dostávali bortezomib.
+
+Z 669 pacientů zařazených do studie bylo 245 (37 %) ve věku 65 let nebo starších. Nezávisle na věku byly parametry odpovědi i TTP významně lepší u bortezomibu. Bez ohledu na výchozí hladiny β₂- mikroglobulinu byly všechny parametry účinnosti (čas do progrese, celková doba přežití i výskyt odpovědi) významně zlepšeny v rameni s bortezomibem.
+
+U refrakterní populace pacientů studie fáze II byly odpovědi hodnoceny nezávislou hodnotitelskou komisí podle kriterií Evropské komise pro transplantaci kostní dřeně, European Bone Marrow Transplant Group. Medián přežití všech zařazených pacientů byl 17 měsíců (rozmezí < 1 až 36+ měsíců). Tato doba přežití byla delší než medián 6 až 9 měsíců předpokládaný pro stejnou populaci pacientů konzultanty zkoušejících. Multivariační analýzou bylo zjištěno, že poměr odpovědí byl nezávislý na typu myelomu, stupni výkonnosti (performance status), stavu delece 13. chromozomu, počtu nebo typu předchozích terapií. U pacientů, kteří dostali 2 až 3 předchozí léčby, byl výskyt odpovědi 32 % (10/32) a u pacientů, kteří dostali více než 7 předchozích terapií, byl výskyt odpovědi 31 % (21/67).
+
+Tabulka 14: Souhrn výsledků onemocnění ze studií fáze III (APEX) a fáze II
+
+Fáze III
+Všichni pacienti
+Fáze III
+1 předchozí léčba
+Fáze III
+> 1 předchozí léčba
+Fáze II
+≥ 2 předchozí léčby
+
+Události závislé na čase
+TTP, dny [95% CI]
+B
+n = 333ᵃ
+189ᵇ
+[148, 211]
+Dex
+n = 336ᵃ
+106ᵇ
+[86, 128]
+B
+n = 132ᵃ
+212ᵈ
+[188, 267]
+Dex
+n = 119ᵃ
+169ᵈ
+[105, 191]
+B
+n = 200ᵃ
+148ᵇ
+[129, 192]
+Dex
+n = 217ᵃ
+87ᵇ
+[84, 107]
+B
+n = 202ᵃ
+210
+[154, 281]
+
+25
+
+Přežití 1 rok, % [95% CI]
+80ᵈ [74,85]
+66ᵈ [59,72]
+89ᵈ [82,95]
+72ᵈ [62,83]
+73
+[64,82]
+62     60
+[53,71]
+
+
+Nejlepší odpověď
+(%)
+CR
+CR + nCR
+CR + nCR + PR
+CR + nCR + PR + M R
+Medián trvání Dny (měsíce) Doba do odpovědi CR + PR (dny)
+B
+n = 315ᶜ
+20 (6)ᵇ
+41 (13)ᵇ
+121 (38)ᵇ
+146 (46)
+
+242 (8,0)
+
+43
+Dex
+n = 312ᶜ
+2 (< 1)ᵇ
+5 (2)ᵇ
+56 (18)ᵇ
+108 (35)
+
+169 (5,6)
+
+43
+B
+n = 128
+8 (6)
+16 (13)
+57 (45)ᵈ
+66 (52)
+
+246 (8,1)
+
+44
+Dex
+n = 110
+2 (2)
+4 (4)
+29 (26)ᵈ
+45 (41)
+
+189 (6,2)
+
+46
+B
+n = 187
+12 (6)
+25 (13)
+64 (34)ᵇ
+80 (43)
+
+238 (7,8)
+
+41
+Dex
+n = 202
+0 (0)
+1 (< 1)
+27 (13)ᵇ
+63 (31)
+
+126 (4,1)
+
+27
+B
+n = 193
+(4)**
+(10)**
+(27)**
+(35)** 385*
+38*
+ᵃ populace se záměrem léčení (Intent to treat - ITT)
+ᵇ hodnota p ze stratifikovaného log-rank testu; analýza podle léčby s vyloučením stratifikace pro léčebnou anamnézu p< 0,0001
+ᶜ reagující populace, včetně pacientů, kteří měli patrné onemocnění na začátku léčby a obdrželi alespoň 1 dávku sledovaného léčivého přípravku
+ᵈ hodnota p z Cochran-Mentel-Haenszelova chi-kvadrátového testu přizpůsobeného pro stratifikační faktory; analýza podle léčby s vyloučením stratifikace pro léčebnou anamnézu
+* CR+PR+MR **CR=CR, (IF-); nCR=CR (IF+)
+NA = neuplatňuje se, NE = nestanoveno
+TTP = doba do progrese CI = interval spolehlivosti
+B = bortezomib; Dex = dexamethason
+CR = úplná odpověď; nCR = téměř úplná odpověď PR = částečná odpověď; MR = minimální odpověď
+
+Ve studii fáze II mohli pacienti, u kterých nebylo dosaženo optimální odpovědi při samostatné léčbě bortezomibem, dostat vysokou dávku dexamethasonu společně s bortezomibem. Protokol dovoloval, pokud nebylo u pacientů léčených samostatně bortezomibem dosaženo optimální léčebné odpovědi, přidat dexamethason. Dexamethason v kombinaci s bortezomibem dostávalo celkem 74 hodnotitelných pacientů. Při kombinované léčbě vykázalo nebo dosáhlo zlepšení odpovědi 18 % pacientů [MR (11 %) nebo PR (7 %)].
+Klinická účinnost bortezomibu po subkutánním podání u pacientů s relabujícím/refrakterním mnohočetným myelomem
+Účinnost a bezpečnost subkutánního podání bortezomibu oproti intravenóznímu podání srovnávala otevřená randomizovaná non-inferiorní studie fáze III. Tato studie zahrnovala 222 pacientů s relabujícím/refrakterním mnohočetným myelomem, kteří byli randomizováni v poměru 2 : 1 tak, že dostávali 1,3 mg/m² bortezomibu buď subkutánně, nebo intravenózně po dobu 8 cyklů. U pacientů, u kterých nedošlo po 4 cyklech k optimální odpovědi [nižší než kompletní odpověď (Complete response
+= CR)] na léčbu samotným bortezomibem, bylo povoleno užívat dexamethason v dávce 20 mg denně v den podání bortezomibu a následující den. Vyloučeni byli pacienti s výchozí periferní neuropatií stupně ≥ 2 nebo počtem krevních destiček < 50 000/μl. Odpověď bylo možné vyhodnotit u
+218 pacientů.
+Tato studie dosáhla primárního cíle non-inferiority odpovědi (CR + PR) po 4 cyklech monoterapie bortezomibem jak u subkutánního, tak i intravenózního podání, 42 % v obou skupinách. Také sekundární cílové parametry účinnosti související s odpovědí na léčbu a dobou do příhody byly konzistentní pro subkutánní a intravenózní podání (Tabulka 15).
+Tabulka 15: Souhrn analýzy účinnosti srovnávající subkutánní a intravenózní podání bortezomibu
+
+
+
+Populace s hodnotitelnou odpovědí Výskyt léčebné odpovědi po 4
+Bortezomib intravenózní
+rameno
+n = 73
+Bortezomib subkutánní
+rameno
+n = 145
+
+26
+
+cyklech n (%)
+ORR (CR + PR)
+hodnota pᵃ
+
+31 (42)             61 (42)
+0,00201
+
+CR n (%)
+PR n (%) nCR n (%)
+Výskyt léčebné odpovědi po 8 cyklech n (%)
+ORR (CR + PR)
+hodnota pᵃ CR n (%)
+PR n (%) nCR n (%)
+Populace Intent to Treatᵇ TTP, měsíce
+(95% CI)
+poměr rizik (95% CI)ᶜ hodnota pᵈ
+6 (8)
+25 (34)
+4 (5)
+
+
+38 (52)
+
+9 (12)
+29 (40)
+7 (10)
+n = 74
+9,4
+(7,6; 10,6)
+
+
+
+
+
+
+0,0001
+
+
+
+
+
+
+0,839 (0,564; 1,249)
+0,38657
+9 (6)
+52 (36)
+9 (6)
+
+
+76 (52)
+
+15 (10)
+61 (42)
+14 (10)
+n = 148
+10,4
+(8,5; 11,7)
+
+Přežití bez progrese, měsíce
+(95% CI)
+poměr rizik (95% CI)ᶜ hodnota pᵈ
+Celkové jednoleté přežití (%)ᵉ
+(95% CI)
+8,0               10,2
+(6,7; 9,8)            (8,1; 10,8)
+0,824 (0,574; 1,183)
+0,295
+76,7               72,6
+(64,1; 85,4)           (63,1; 80,0)
+ᵃ hodnota p je pro non-inferioritní hypotézu, že rameno s.c. udrží alespoň 60 % odpovědi ramene i.v.
+ᵇ Studie se účastnilo 222 pacientů, 221 pacientů bylo léčeno bortezomibem.
+ᶜ Odhad poměru rizik je založen na Coxově modelu přizpůsobeném pro stratifikační faktory: ISS staging a počet předchozích linií léčby.
+ᵈ Log rank test přizpůsobený pro stratifikační faktory: ISS staging a počet předchozích linií léčby.
+ᵉ Střední doba sledování je 11,8 měsíce.
+
+Kombinovaná léčba bortezomibem s pegylovaným liposomálním doxorubicinem (studie DOXIL MMY- 3001)
+Byla provedena randomizovaná, otevřená, multicentrická klinická studie fáze III s paralelními skupinami, do níž bylo zařazeno 646 pacientů. V této klinické studii se porovnávala bezpečnost a účinnost bortezomibu v kombinaci pegylovaným liposomálním doxorubicinem a monoterapie bortezomibu u pacientů s mnohočetným myelomem, kteří absolvovali nejméně jednu předchozí léčbu, a u nichž nedošlo k progresi při léčbě na bázi antracyklinů. Primárním cílovým parametrem účinnosti byla TTP, sekundární cílové parametry účinnosti byly OS a ORR (CR+PR) za použití kritérií European Group for Blood and Marrow Transplantation (EBMT, Evropská skupina pro transplantace krve a kostní dřeně).
+Na základě předběžné analýzy definované protokolem (po výskytu 249 příhod TTP) bylo přistoupeno k předčasnému ukončení klinického hodnocení z důvodu účinnosti. Tato předběžná analýza prokázala snížení rizika TTP o 45 % (95% CI; 29-57%, p<0,0001) u pacientů s kombinovanou léčbou bortezomibem a pegylovaným liposomálním doxorubicinem. Medián TTP byl 6,5 měsíců v případě pacientů na monoterapii s bortezomibem v porovnání s 9,3 měsíci u pacientů s kombinovanou terapií bortezomib plus pegylovaný liposomální doxorubicin. Tyto výsledky, přestože byly zjištěny před vlastním dokončením, představovaly finální analýzu definovanou protokolem.
+Závěrečná analýza u OS byla provedena při mediánu doby sledování 8,6 roku a neprokázala významný rozdíl v OS mezi oběma léčebnými rameny. Medián OS byl 30,8 měsíců (95 % CI; 25,2- 36,5 měsíců) u pacientů na monoterapii s bortezomibem a 33,0 měsíců (95 % CI; 28,9- 37,1 měsíců) s kombinovanou terapií bortezomibem a pegylovaným liposomálním doxorubicinem.
+
+Kombinovaná léčba bortezomibem s dexamethasonem
+Za nepřítomnosti přímého srovnání bortezomibu a bortezomibu v kombinaci s dexamethasonem u
+pacientů s progresivním mnohočetným myelomem byla za účelem porovnání výsledků z
+27
+
+nerandomizovaného ramene bortezomibu v kombinaci s dexamethasonem (otevřená klinická studie fáze II, MMY-2045) s výsledky z ramen s monoterapií bortezomibem z různých randomizovaných klinických studií fáze III (M34101-039 [APEX] a DOXIL MMY-3001) při stejné indikaci provedena statistická analýza párové shody.
+Analýza párové shody je statistická metoda, jejímž prostřednictvím se dosáhne srovnatelnosti pacientů v léčebné skupině (např. bortezomib v kombinaci s dexamethasonem) a pacientů ve srovnávací skupině (např. bortezomib) vůči matoucím faktorům, a sice prostřednictvím spárování studijních subjektů. Tím dojde k minimalizaci vlivu pozorovaných matoucích faktorů při odhadu účinků léčby za použití nerandomizovaných dat.
+Bylo identifikováno sto dvacet sedm párových shod pacientů. Tato analýza prokázala zlepšení ORR (CR+PR) (odds ratio [relativní riziko] 3,769; 95% CI 2,045-6,947; p<0,001), PFS (hazard ratio [poměr rizik] 0,511; 95% CI 0,309-0,845; p=0,008), TTP (hazard ratio 0,385; 95% CI 0,212-0,698; p=0,001)
+pro bortezomib v kombinaci s dexamethasonem v porovnání s monoterapií bortezomibem.
+
+Jsou k dispozici omezené informace o opakované léčbě relabujícího mnohočetného myelomu
+bortezomibem.
+Byla provedena jednoramenná, otevřená klinická studie fáze II MMY-2036 (RETRIEVE) za účelem stanovení účinnosti a bezpečnosti opakované léčby bortezomibem. Sto třicet pacientů (≥ 18 let věku) s mnohočetným myelomem, kteří již dříve měli alespoň částečnou odpověď na léčebný režim obsahující bortezomib, bylo opakovaně léčeno až do progrese. Nejméně 6 měsíců po předchozí léčbě, byla zahájena léčba bortezomibem na poslední tolerované dávce 1,3 mg/m² (n = 93) nebo ≤ 1,0 g/m² (n = 37), ve dnech 1, 4, 8 a 11 každé 3 týdny pro maximálně 8 cyklů buď jako monoterapie, nebo v kombinaci s dexamethasonem dle standardu péče. Dexamethason byl podáván v kombinaci s bortezomibem až 83 pacientům v cyklu 1 a dalších 11 pacientů dostávali dexamethason v průběhu opakovaných cyklů léčby bortezomibem.
+Primárním cílovým parametrem byla nejlepší odpověď na opakovanou léčbu podle hodnocení EMBT kritérií. Celková nejlepší odpověď (CR + PR) na opakovanou léčbu u 130 pacientů byla 38,5 % (95% CI: 30,1, 47,4).
+
+Klinická účinnost u dosud neléčeného lymfomu z plášťových buněk (MCL)
+Studie LYM-3002 byla randomizovanou, otevřenou studií fáze III porovnávající účinnost a bezpečnost kombinace bortezomibu, rituximabu, cyklofosfamidu, doxorubicinu a prednisonu (VcR-CAP; n=243) s kombinací rituximabu, cyklofosfamidu, doxorubicinu, vinkristinu a prednisonu (R-CHOP; n=244) u dospělých pacientů s dosud neléčeným lymfomem z plášťových buněk (stadia II, III nebo IV). Pacienti v rameni VcR-CAP dostávali bortezomib (1,3 mg/m²; 1., 4., 8., 11. den, klidové období bylo mezi 12.
+a 21. dnem), rituximab 375 mg/m² i.v. 1. den; cyklofosfamid 750 mg/m² i.v. 1. den; doxorubicin 50 mg/m² i.v. 1. den a prednison 100 mg/m² perorálně 1. až 5. den 21denního léčebného cyklu s bortezomibem. Pacientům s odpovědí poprvé doloženou v 6. cyklu byly podány dva další cykly.
+Primárním cílovým parametrem účinnosti bylo přežití bez progrese nemoci, které bylo založeno na hodnocení nezávislou posudkovou komisí. Sekundární cílové parametry hodnocení zahrnovaly dobu do progrese nemoci (TTP), dobu do další protilymfomové léčby (TNT), trvání intervalu bez léčby (TFI), celkový výskyt odpovědi (ORR) a výskyt úplné odpovědi (CR/CRu), celkové přežití (OS) a trvání odpovědi.
+
+Demografické a výchozí charakteristiky nemoci byly mezi dvěma léčebnými rameny dobře vyváženy: medián věku pacientů byl 66 let, 74 % byli muži, 66 % byli běloši a 32 % Asiaté, 69 % pacientů mělo pozitivní aspirát kostní dřeně a/nebo pozitivní biopsii kostní dřeně, pokud jde o lymfom z plášťových buněk, 54 % pacientů mělo skóre mezinárodního prognostického indexu (International Prognostic Index - IPI) ≥ 3 a 76 % mělo nemoc ve stadiu IV. Trvání léčby (medián = 17 týdnů) a trvání následného sledování (medián = 40 měsíců) byly v obou léčebných ramenech srovnatelné. Pacienti
+v obou léčebných ramenech dostali léčbu s mediánem 6 cyklů, přičemž 14 % subjektů ve skupině VcR-CAP a 17 % pacientů ve skupině R-CHOP dostalo dva další cykly. Většina pacientů v obou skupinách léčbu dokončila, 80 % ve skupině VcR-CAP a 82 % ve skupině R-CHOP. Výsledky účinnosti jsou uvedeny v Tabulce 16:
+
+28
+
+Tabulka 16: Výsledky účinnosti ze studie LYM 3002
+Cílový parametr účinnosti     VcR-CAP     R-CHOP
+
+n: všichni zařazeni pacienti
+(ITT populace)
+Přežití bez progrese nemoci (IRC)ᵃ
+243        244
+Příhody n (%)            133 (54,7%)     165 (67,6%)   HRᵇ (95% CI) = 0,63 (0,50; 0,79)
+
+Medián ᶜ (95% CI) (měsíce)   24,7 (19,8; 31,8)   14,4 (12; 16,9)
+Výskyt odpovědi
+hodnota pᵈ < 0,001
+
+n: pacienti s hodnotitelnou
+odpovědí
+Celková úplná odpověď
+(CR+CRu)ᶠ n(%)
+
+Celková radiologická odpověď
+(CR+CRu+PR)ʰ n(%)
+229
+
+122 (53,3%)
+
+
+211 (92,1%)
+228
+
+95 (41,7%)
+
+
+204 (89,5%)
+
+
+ORᵉ (95% CI) = 1,688 (1,148;
+2,481)
+hodnota pᵍ = 0,007
+ORᵉ (95% CI) = 1,428 (0,749;
+2,722)
+hodnota pᵍ = 0,275
+ᵃ Na základě vyhodnocení nezávislou posudkovou komisí (pouze radiologické údaje).
+ᵇ Odhad poměru rizik je založen na Coxově modelu stratifikovaném podle rizika dle mezinárodního prognostického indexu a stadia choroby. Poměr rizik < 1 ukazuje na výhodu VcR-CAP.
+ᶜ Na základě Kaplan-Meierova odhadu funkce přežití (odhadu limitním součinem).
+ᵈ Založeno na log rank testu stratifikovaném pomocí rizika dle mezinárodního prognostického indexu a stadia
+choroby.
+ᵉ Použil se Mantel-Haenszelův odhad běžného odds ratio pro stratifikované tabulky, s rizikem dle mezinárodního prognostického indexu a stadiem choroby jako stratifikačními faktory. Odds ratio (OR) > 1 ukazuje na výhodu VcR-CAP.
+ᶠ Zahrnuje všechny CR + CRu, podle nezávislé posudkové komise, kostní dřeně a LDH.
+ᵍ Hodnota p z Cochran-Mentel-Haenszelova chi-kvadrátového testu s mezinárodním prognostickým indexem a stadiem choroby jako stratifikačními faktory.
+ʰ Zahrnuje všechny radiologické CR + CRu+PR, podle nezávislé posudkové komise, bez ohledu na verifikaci z
+kostní dřeně a LDH.
+CR=úplná odpověď; CRu=nepotvrzená úplná odpověď; PR=částečná odpověď; CI=interval spolehlivosti, HR=poměr rizik; OR= Odds Ratio; ITT=intent to treat
+
+Medián PFS podle hodnocení zkoušejícího byl 30,7 měsíce ve skupině VcR-CAP a 16,1 měsíců ve skupině R-CHOP (poměr rizik [HR]=0,51; p < 0,001). Statisticky významný přínos (p< 0,001) ve prospěch skupiny léčené VcR-CAP oproti R-CHOP byl pozorován u TTP (medián 30,5 oproti 16,1 měsíců), TNT (medián 44,5 oproti 24,8 měsíce) a TFI (medián 40,6 oproti 20,5 měsíce). Medián trvání úplné odpovědi byl ve skupině VcR-CAP 42,1 měsíce v porovnání se skupinou R-CHOP 18 měsíců. Trvání celkové odpovědi bylo o 21,4 měsíce delší ve skupině VcR-CAP (medián 36,5 měsíce oproti 15,1 měsíce ve skupině R-CHOP). Po mediánu následného sledování v délce 82 měsíců byla provedena konečná analýza celkového přežití. Medián celkového přežití byl 90,7 měsíce ve skupině léčené VcR-CAP v porovnání s 55,7 měsíce ve skupině léčené R-CHOP (HR=0,66; p=0,001).
+Pozorovaný konečný medián rozdílu v celkovém přežití mezi těmito dvěma léčebnými skupinami byl 35 měsíců.
+
+Pacienti s dříve léčenou amyloidózou s produkcí lehkých řetězců (AL)
+Byla provedena otevřená nerandomizovaná studie fáze I/II, aby se stanovila bezpečnost a účinnost bortezomibu u pacientů s dříve léčenou amyloidózou s produkcí lehkých řetězců. Během studie nebyla pozorována nová bezpečnostní rizika a bortezomib nezhoršoval poškození cílových orgánů (srdce, ledvin a jater). U 49 hodnotitelných pacientů léčených maximální povolenou dávkou 1,6 mg/m² za týden a 1,3 mg/m² dvakrát týdně došlo k odpovědi na léčbu, měřené jako hematologická odpověď (M- protein), u 67,3 % pacientů (včetně 28,6 % pacientů s kompletní remisí). Kombinovaná četnost jednoletého přežití byla v těchto kohortách s výše uvedeným dávkováním 88,1 %.
+
+Pediatrická populace
+
+
+
+29
+
+Evropská agentura pro léčivé přípravky rozhodla o zproštění povinnosti předložit výsledky studií s bortezomibem u všech podskupin pediatrické populace v indikaci mnohočetný myelom a lymfom z plášťových buněk (informace o použití u dětí viz bod 4.2).
+
+V jednoramenné klinické studii účinnosti, bezpečnosti a farmakokinetiky fáze II provedenou skupinou Children’s Oncology Group byla hodnocena účinnost přídavku bortezomibu ke kombinované reindukční chemoterapii u pediatrických a mladých dospělých pacientů s lymfoidními malignitami (pre-B buněčná forma akutní lymfoblastické leukemie [ALL] s T-buněčnou ALL a T-lymfoblastický lymfom [LL]). Účinný reindukční kombinovaný režim chemoterapie byl podáván ve 3 blocích.
+Bortezomib byl podáván pouze v bloku1 a 2, aby se zabránilo případnému překrývání toxických účinků se souběžně podávanými léky v bloku 3.
+
+Úplná odpověď (CR) byla hodnocena na konci bloku 1. U B-ALL pacientů s relapsem v průběhu 18 měsíců od stanovení diagnózy (n = 27) byla CR 67 % (95% CI: 46, 84); míra přežití bez onemocnění po 4 měsících byla 44 % (95% CI: 26, 62). U B-ALL pacientů s relapsem 18-36 měsíců od stanovení diagnózy (n = 33), byla CR 79 % (95% CI: 61, 91) a míra přežití po 4 měsících bez onemocnění byla 73 % (95% CI: 54, 85). CR v prvním relapsu u pacientů s T-buněčnou ALL (n = 22) byla 68 % (95%
+CI: 45, 86) a míra přežití po 4 měsících bez onemocnění byla 67 % (95% CI: 42, 83). Údaje uváděné účinnosti jsou považovány za neprůkazné (viz bod 4.2).
+
+Bylo přijato 140 pacientů s ALL nebo LL hodnocených z hlediska bezpečnosti; průměrný věk byl 10 let (rozmezí 1 až 26). Pokud byl bortezomib přidán k základní chemoterapeutické léčbě u pediatrických pacientů s pre-B-buněčnou ALL, nebyla pozorována žádná nová bezpečnostní rizika. Následující nežádoucí účinky (stupeň ≥ 3) byly pozorovány s vyšší incidencí v léčebném režimu s bortezomibem ve srovnání s historickou kontrolní studií, ve které byl jen základní chemoterapeutický režim léčby: v bloku 1 periferní senzorická neuropatie (3 % ve srovnání s 0 %); ileus (2,1 % ve srovnání s 0 %); hypoxie (8 % oproti 2 %). Žádné informace o možných následcích
+nebo míře periferní neuropatie nebyly v této studii k dispozici. Byl pozorován vyšší výskyt infekcí u
+neuropenie stupně ≥ 3 (24 % oproti 19 % v bloku 1 a 22 % oproti 11 % v bloku 2), zvýšení hladin
+ALT (17 % oproti 8 % v bloku 2), hypokalemie (18 % versus 6 % v bloku 1 a 21 % ve srovnání
+s 12 % v bloku 2) a hyponatremie (12 % versus 5 % ve skupině 1 a 4 % ve srovnání s 0 % v bloku 2).
+5.2  Farmakokinetické vlastnosti
+Absorpce
+Po podání intravenózního bolusu v dávce 1,0 mg/m² a 1,3 mg/m² 11 pacientům s mnohočetným myelomem a hodnotami clearance kreatininu vyššími než 50 ml/min byly průměrné vrcholové plazmatické koncentrace bortezomibu po první dávce 57 resp. 112 ng/ml. Po následných dávkách se průměrné vrcholové plazmatické koncentrace bortezomibu pohybovaly v rozmezí od 67 do 106 ng/ml pro dávku 1,0 mg/m² a od 89 do 120 ng/ml pro dávku 1,3 mg/m².
+
+Po intravenózním bolusu nebo subkutánní injekci dávky 1,3 mg/m² pacientům s mnohočetným myelomem (n = 14 v intravenózní skupině, n = 17 v subkutánní skupině) byla celková systémová expozice po opakovaném podání (AUClₐst) stejná pro subkutánní i intravenózní podání. Cmₐₓ po s.c. podání (20,4 ng/ml) byla nižší než po i.v. (223 ng/ml). Geometrický průměr AUClₐst byl 0,99 a 90% CI byl 80,18-122,80 %.
+
+Distribuce
+Průměrný distribuční objem (Vd) bortezomibu se pohyboval v rozmezí od 1 659 l do 3 294 l po jednorázovém nebo opakovaném intravenózním podání dávek 1,0 mg/m² nebo 1,3 mg/m² pacientům s mnohočetným myelomem. Tyto údaje svědčí o tom, že je bortezomib významně distribuován do periferních tkání. V koncentracích bortezomibu v rozmezí od 0,01 do 1,0 μg/ml činila vazba na lidské plazmatické proteiny in vitro v průměru 82,9 %. Frakce bortezomibu vázaného na plazmatické proteiny nebyla závislá na koncentraci.
+
+
+30
+
+Biotransformace
+Studie in vitro s lidskými jaterními mikrozomy a lidskými izoenzymy cytochromu P450 vzniklými expresí cDNA ukazují, že bortezomib je přednostně oxidativně metabolizován enzymy 3A4, 2C19 a 1A2 cytochromu P450. Hlavní metabolickou cestou je deboronace na dva deboronované metabolity, které následně podléhají hydroxylaci na několik metabolitů. Deboronované metabolity bortezomibu nevykazují aktivitu jako inhibitory proteazomu 26S.
+
+Eliminace
+Průměrný eliminační poločas (t₁/₂) bortezomibu po opakovaném podání se pohyboval v rozmezí 40- 193 hodin. Bortezomib je eliminován rychleji po první dávce ve srovnání s následnými dávkami.
+Průměrná celková tělesná clearance byla 102 a 112 l/h po první dávce u dávek 1,0 mg/m² a 1,3 mg/m²
+a pohybovala se v rozmezí od 15 do 32 l/h a od 18 do 32 l/h po následných dávkách 1,0 mg/m² a 1,3 mg/m².
+
+Zvláštní skupiny pacientů
+Porucha funkce jater
+Vliv poruchy funkce jater na farmakokinetiku bortezomibu byl hodnocen ve studii fáze I během prvního léčebného cyklu, do níž bylo zahrnuto 61 pacientů primárně se solidními nádory a různými stupni poruchy funkce jater, s dávkami bortezomibu od 0,5 do 1,3 mg/m².
+Ve srovnání s pacienty s normální funkcí jater neměnila mírná porucha funkce jater AUC bortezomibu při normalizované dávce. AUC bortezomibu při normalizované dávce však byly u pacientů se středně těžkou nebo těžkou poruchou funkce jater zvýšeny o přibližně 60 %. U pacientů se středně těžkou nebo těžkou poruchou funkce jater se doporučuje nižší počáteční dávka a tyto pacienty je nutno pečlivě sledovat (viz bod 4.2 Tabulka 6).
+
+Porucha funkce ledvin
+U pacientů s různým stupněm poruchy funkce ledvin, kteří byli podle hodnot clearance kreatininu (CrCl) rozděleni do následujících skupin: normální (CrCl ≥ 60 ml/min/1,73 m², n = 12), mírná porucha (CrCl = 40–59 ml/min/1,73 m², n = 10), středně těžká porucha (CrCl = 20–39 ml/min/1,73 m², n = 9) a těžká porucha (CrCl < 20 ml/min/1,73 m², n = 3), byla provedena farmakokinetická studie. Do této studie byla zahrnuta také skupina dialyzovaných pacientů, kterým byl přípravek podáván po dialýze (n
+= 8). Pacientům byl podáván bortezomib intravenózně v dávkách 0,7 až 1,3 mg/m² dvakrát týdně. Expozice bortezomibu (dávkou normalizovaná AUC a Cmₐₓ) byla srovnatelná mezi všemi skupinami (viz bod 4.2).
+
+Věk
+Farmakokinetika bortezomibu byla charakterizována po intravenózním bolusovém podáním dávky 1,3 mg/m² dvakrát týdně 104 pediatrickým pacientům (2-16 let) s akutní lymfoblastickou leukemií (ALL) nebo akutní myeloidní leukemií (AML). Na základě analýzy populační farmakokinetiky se clearance bortezomibu zvyšuje s rostoucí plochou povrchu těla (BSA). Geometrický průměr (% CV) clearance byl 7,79 (25 %) l/h/m², distribuční objem v ustáleném stavu byl 834 (39 %) l/m², a poločas eliminace byl 100 (44 %) hodin. Po korekci vlivu BSA, neměly další demografické údaje, jako je věk, tělesná hmotnost a pohlaví klinicky významný vliv na clearance bortezomibu. BSA normalizovaná clearance bortezomibu u pediatrických pacientů byla podobná jako u dospělých.
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Bortezomib vykazoval pozitivní klastogenní účinek (strukturální chromozomální aberace) při in vitro stanovení chromozomální aberace na ovariálních buňkách čínských křečků (CHO) v nízkých koncentracích jako je 3,125 μg/ml, která byla nejnižší hodnocenou koncentrací. Při stanovování mutagenicity in vitro (Amesův test) a in vivo mikronukleolárním testem na myších nebyla zjištěna genotoxicita bortezomibu.
+
+Studie vývojové toxicity u potkanů a králíků prokázaly embryo-fetální letalitu při toxických dávkách pro matku, avšak nikoli přímou embryo-fetální toxicitu při dávkách nižších než dávkách toxických pro
+
+31
+
+matku. Studie fertility nebyly provedeny, ale hodnocení reprodukčních tkání bylo provedeno při obecných studiích toxicity. V 6měsíční studii na potkanech bylo pozorováno degenerativní působení na testes i na ovaria. Je proto pravděpodobné, že by bortezomib mohl mít vliv na samčí i samičí fertilitu. Perinatální a postnatální vývojové studie nebyly provedeny.
+
+Ve studiích celkové toxicity po opakovaném podání na potkanech a opicích patřily k základním cílovým orgánům gastrointestinální trakt s výsledným zvracením a/nebo průjmem, hematopoetická a lymfatická tkáň s výslednou cytopenií v periferní krvi, atrofií lymfatické tkáně a hematopoetickou hypocelularitou kostní dřeně, periferní neuropatie (pozorovaná u opic, myší a psů) postihující senzorická nervová zakončení a mírné změny v ledvinách. Po skončení léčby bylo možné u všech těchto cílových orgánů pozorovat částečnou až úplnou regeneraci.
+Na základě studií na zvířatech se prostup bortezomibu hematoencefalickou bariérou zdá být omezený, pokud k němu vůbec dochází, a význam tohoto zjištění pro člověka není znám.
+
+Farmakologické studie kardiovaskulární bezpečnosti na opicích a psech ukazují, že intravenózní dávky přibližně dva až třikrát vyšší než doporučené klinické dávky (vztaženo na mg/m²) jsou provázené zvýšenou srdeční frekvencí, snížením kontraktility, hypotenzí a smrtí. Snížení srdeční kontraktility a hypotenze u psů odpovídaly na akutní léčbu pozitivně inotropními látkami nebo hypertenzivy. U psů bylo navíc pozorováno mírné prodloužení korigovaného QT intervalu.
+6. FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Mannitol (E 421)
+Dusík
+6.2  Inkompatibility
+Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky s výjimkou těch, které jso uvedeny v bodě 6.6.
+6.3  Doba použitelnosti
+Neotevřená injekční lahvička
+3 roky
+
+Roztok po rekonstituci
+Rekonstituovaný roztok má být použit okamžitě po přípravě. Není-li použit okamžitě, doba a podmínky uchovávání přípravku po otevření před použitím jsou v odpovědnosti uživatele. Chemická a fyzikální stabilita však byla prokázána po dobu 8 hodin při teplotě 25 °C při uchovávání v originální injekční lahvičce a/nebo stříkačce. Celková doba uchovávání rekonstituovaného léčivého přípravku nesmí přesáhnout 8 hodin před aplikací.
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte injekční lahvičku v krabičce, aby byl přípravek chráněn před světlem.
+Podmínky uchovávání tohoto léčivého přípravku po jeho rekonstituci jsou uvedeny v bodě 6.3.
+6.5  Druh obalu a obsah balení
+Bezbarvá 8ml skleněná injekční lahvička (sklo třídy 1) s šedou brombutylovou zátkou a hliníkovým odtrhovacím víčkem s plastovým krytem obsahující bortezomibum 3,5 mg.
+Jedno balení obsahuje 1 injekční lahvičku k jednorázovému použití.
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+32
+
+Obecná opatření
+Bortezomib je cytotoxická látka. Z tohoto důvodu musí být při manipulaci a přípravě přípravku Bortega dodržována zvýšená opatrnost. K zamezení kontaktu s kůží použijte rukavice a jiné ochranné oděvy.
+
+Při manipulaci s přípravkem Bortega musí být přísně dodržovány aseptické podmínky, protože přípravek neobsahuje žádné konzervační látky.
+Při neúmyslném intratekálním podání přípravku Bortega došlo k fatálním případům. Bortega je k
+intravenóznímu nebo subkutánnímu podání. Bortega se nesmí podávat intratekálně.
+
+Návod pro rekonstituci
+Rekonstituci přípravku Bortega musí provádět zdravotnický pracovník.
+
+Intravenózní injekce
+Jedna 8ml injekční lahvička přípravku Bortega musí být rekonstituována s 3,5 ml injekčního roztoku chloridu sodného o koncentraci 9 mg/ml (0,9 %). Rozpuštění lyofilizovaného prášku je dokončeno do 2 minut.
+Po rekonstituci obsahuje jeden ml roztoku 1 mg bortezomibu. Rekonstituovaný roztok je čirý a bezbarvý s výsledným pH od 4 do 7.
+Rekonstituovaný roztok musí být před aplikací vizuálně prohlédnut s ohledem na přítomnost částic a zabarvení. Při zabarvení nebo výskytu částic musí být rekonstituovaný roztok zlikvidován.
+Subkutánní injekce
+Jedna 8ml injekční lahvička přípravku Bortega má být rekonstituována s 1,4 ml injekčního roztoku chloridu sodného o koncentraci 9 mg/ml (0,9 %). Rozpuštění lyofilizovaného prášku je dokončeno do 2 minut.
+Po rekonstituci obsahuje jeden ml roztoku 2,5 mg bortezomibu. Rekonstituovaný roztok je čirý a bezbarvý s výsledným pH od 4 do 7. Rekonstituovaný roztok musí být před aplikací vizuálně prohlédnut s ohledem na přítomnost částic a zabarvení. Při zabarvení nebo výskytu částic musí být rekonstituovaný roztok zlikvidován.
+Likvidace
+Bortega je pouze k jednorázovému použití. Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+HEATON k.s.
+Na Pankráci 14
+140 00 Praha 4
+Česká republika
+
+8. REGISTRAČNÍ ČÍSLO
+44/370/15-C
+
+
+9. DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 5. 8. 2015
+Datum posledního prodloužení registrace: 19. 3. 2020
+
+
+33
+
+10. DATUM REVIZE TEXTU
+
+12. 2. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34

@@ -1,0 +1,368 @@
+sp.zn.sukls71199/2020
+
+
+1.   NÁZEV PŘÍPRAVKU
+Arduan 2 mg/ml prášek a rozpouštědlo pro injekční roztok
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna injekční lahvička obsahuje pipecuronii bromidum 4 mg. Jeden ml injekčního roztoku obsahuje pipecuronii bromidum 2 mg. Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Prášek a rozpouštědlo pro injekční roztok Popis přípravku:
+a) Prášek: bílý lyofilizát.
+b) Rozpouštědlo pro injekční roztok: čirý, bezbarvý roztok.
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+Přípravek Arduan je indikován:
+-  Endotracheální intubace a relaxace kosterního svalstva během celkové anestezie. Může se použít
+v průběhu různých chirurgických výkonů, kde je třeba svalová relaxace trvající více než 20-30 minut.
+-  Jako jedna ze součástí pro adaptaci pacienta na umělé plicní ventilaci.
+
+4.2  Dávkování a způsob podání
+Dávkování
+Podobně jako u jiných nervosvalových blokátorů i dávkování přípravku Arduan je přísně individuální. Je třeba zvážit způsob celkové anestézie, očekávanou délku chirurgického výkonu, možné interakce s dalšími léčivými přípravky podávanými před anestezií a v jejím průběhu, průvodní onemocnění a aktuální stav pacienta. Doporučuje se užití periferního nervového stimulátoru, kterým lze sledovat nervosvalovou blokádu.
+Přípravek Arduan se podává intravenózně jako počáteční bolus, který je následován dalšími injekcemi s dávkami potřebnými pro udržení svalové relaxace nebo kapací infuzí zajišťující potřebnou dobu trvání relaxace.
+Stejně jako jiné nervosvalové blokátory má být přípravek Arduan aplikovaný zkušeným lékařem nebo pod
+jeho dohledem a je třeba mít k dispozici potřebné vybavení pro umělou plicní ventilaci.
+Následující uvedené dávkování může sloužit jako obecné doporučení pro počáteční a udržovací dávky přípravku Arduan k zajištění dostatečné svalové relaxace během středně dlouhých a dlouhodobých
+
+
+
+1/11
+
+chirurgických výkonů při balancované anestézii za použití nebo bez použití přípravku Arduan pro
+usnadnění endotrachální intubace.
+
+Dospělí
+U dospělých je doporučeno následující dávkování:
+-  Úvodní dávky pro intubaci a následující chirurgický výkon:
+Doporučená dávka: 0,06 - 0,10 mg/kg tělesné hmotnosti v závislosti na délce chirurgického výkonu, anestetiku použitém během chirurgického výkonu a charakteristikách pacienta.
+Při těchto dávkách nastanou za 150-180 sekund dobré až výborné podmínky pro intubaci, svalová relaxace trvá přibližně 60 až 90 minut.
+-  Úvodní dávky pro svalovou relaxaci u chirurgických výkonů po intubaci s použitím sukcinylcholinu:
+Doporučená dávka: 0,05 mg/kg tělesné hmotnosti.
+Při těchto dávkách trvá relaxace kosterního svalstva 30 až 60 minut.
+-  Dávky pro udržení svalové relaxace:
+Doporučené dávky: 0,01-0,02 mg/kg tělesné hmotnosti.
+Tyto udržovací dávky zajistí svalovou relaxaci přiměřenou pro chirurgický výkon na zhruba 30 až 60 minut.
+
+Zvláštní skupiny pacientů Starší pacienti
+V porovnání s mladými pacienty se u starších nemocných nelišil ani účinek nebo potřebné dávkování, ani farmakokinetické nebo časové parametry. Z tohoto důvodu lze předpokládat, že úprava dávkování u starší populace není nutná.
+
+Porucha funkce ledvin
+U pacientů se zhoršenou funkcí ledvin se nedoporučuje dávka vyšší než 0,04 mg/kg tělesné hmotnosti. (Může se projevit prodloužení účinku.) (Viz bod 5.2).
+
+Porucha funkce jater
+U pacientů s cirhózou jater a s extrahepatální cholestázou nebyl účinek přípravku Arduan v čase významně ovlivněn (viz bod 5.2).
+
+Pediatrická populace
+V případě kombinované balancované anestézie jsou u dětí doporučovány dávky 0,08-0,09 mg/kg. U novorozenců jsou doporučované dávky nižší než u dětí, tj. 0,05-0,06 mg/kg. Tyto dávky zajišťují dostatečnou relaxaci pro chirurgické výkony trvající 25-35 minut. Pokud je to třeba, může být svalová relaxace prodloužena o dalších 25-35 minut dodatečným podáním jedné třetiny dávky úvodní.
+
+
+
+
+2/11
+
+Prodloužená neuromuskulární blokáda
+Prodloužení účinku může být očekáváno v následujících případech:
+- Pacienti s nadváhou, obézní pacienti. (V závislosti na podávaných dávkách, je třeba vzít v úvahu ideální tělesnou hmotnost.)
+- Současné podání inhalačních anestetik. (Může být třeba snížit dávky přípravku Arduan).
+- Endotracheální intubace po podání sukcinylcholinu. Arduan se má podat až po odeznění klinických známek účinku sukcinylcholinu. Jako u jiných nedepolarizujících svalových relaxancií může být nástup neuromuskulární blokády vyvolaný přípravkem Arduan při podání po depolarizujícím svalovém relaxancii zkrácen, ale maximální trvání účinku může být prodlouženo.
+- Je třeba opatrnosti při podání přípravku Arduan u pacientů s neuromuskulárním onemocněním, protože u těchto pacientů může dojít jak ke zvýšení, tak ke snížení účinku na nervosvalovou blokádu. U pacientů s onemocněním mystenia gravis nebo s myastenickým syndromem (Eatonův-Lambertův syndrom) můžeme očekávat nestandardní odpověď i na nízké dávky přípravku Arduan. Proto jsou u těchto pacientů doporučovány po důkladném zvážení mnohem nižší dávky přípravku Arduan (viz bod 4.4).
+
+Ukončení účinku
+Při 80-85% blokádě (měřené periferním nervovým stimulátorem) nebo v případě parciální blokády (určené na základě klinických symptomů) může být svalově relaxační účinek zrušen podáním 1 až 3 mg neostigminu v kombinaci s 0,5 až 1,25 mg atropinu nebo podáním 10-30 mg galantaminu.
+
+Způsob podání
+Přípravek Arduan se má podávat intravenózně. Může být použitý jen čerstvě připravený roztok.
+Tento léčivý přípravek není možné vzhledem k nedostatku studií kompatibility mísit s jinými roztoky nebo léky ve stejné injekční stříkačce nebo infuzním vaku.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+4.4  Zvláštní upozornění a opatření pro použití
+- Vzhledem k účinku přípravku Arduan na dýchací svaly je možné přípravek podávat jen za přítomnosti odborníka na umělou plicní ventilaci v zařízení, kde je dostupné vybavení pro provádění umělé plicní ventilace.
+- V literatuře byly obecně popsány anafylaktické a anafylaktoidní reakce na nervosvalové blokátory. Ačkoli v souvislosti s přípravkem Arduan bylo hlášeno jen několik obdobných případů, může být léčivý přípravek podán jen v takových podmínkách, kdy tyto reakce mohou být neprodleně léčeny. Při podání přípravku Arduan je třeba zvláštní opatrnosti zvláště v případě známé předchozí anafylaktické reakce na nervosvalový blokátor, protože mezi neuromuskulárními blokátory je možná alergická zkřížená reaktivita.
+
+
+
+3/11
+
+- Při podání pipekuronium-bromidu v dávce 0,10 mg/kg tělesné hmotnosti nebylo zaznamenáno zvýšení plasmatické hladiny histaminu.
+- Arduan má v rozmezí dávek podávaných k vyvolání svalové relaxace mírný hemodynamický účinek. Obvyklými změnami je malé snížení srdeční frekvence, systolického a diastolického krevního tlaku a srdečního výdeje. Tyto změny mají pravděpodobně vztah k účinkům jiných léčiv (fentanyl, thiopental, halothan), které se používají současně při úvodu do anestezie. Pravděpodobně díky těmto spolupůsobícím faktorům se příležitostně mohou vyskytnout arytmie. Pipecuronium-bromid nemá ganglioplegický, vagolytický ani sympatomimetický účinek. (Viz bod 4.8)
+- S ohledem na výše uvedené informace je třeba zvážit podání vagolytik v premedikaci a jejich dávek. (V úvahu je třeba samozřejmě vzít vagostimulační účinek současně používaných anestetik a typ chirurgického výkonu.)
+- Aby se předešlo relativnímu předávkování a bylo možné řádně zhodnotit obnovování nervosvalového přenosu a svalový tonus, je doporučeno používat stimulátor periferních nervů.
+
+Následující faktory mohou mít vliv na farmakokinetiku a/nebo na svalovou relaxaci navozenou přípravkem Arduan:
+Porucha funkce ledvin
+Při selhávání ledvin může být nervosvalová blokáda navozená přípravkem Arduan a následný čas pro obnovení svalového tonu prodloužen.
+Nervosvalové poruchy
+U pacientů s nervosvalovými poruchami je třeba opatrnosti při použití přípravku Arduan, protože se může objevit jak zesílení, tak zeslabení jeho účinku. U pacientů s myasthenia gravis a s myasthenickým syndromem (Lambert-Eatonův syndrom) může i malá dávka přípravku Arduan vyvolat znatelnou odpověď. Proto jsou u těchto pacientů i velmi malé dávky přípravku Arduan doporučeny jen po řádném zvážení.  U  těchto  pacientů  je  doporučena  před  chirurgickým  výkonem  optimalizace  léčby anticholinesterázovými přípravky lékařem zkušeným a kvalifikovaným v této oblasti. Nesmí se použít nedepolarizující svalová relaxancia pro endotracheální inkubaci. Jsou doporučovány několikanásobně nižší dávky, protože tito pacienti jsou v „auto-neuromuskulární blokádě“. Není doporučeno paralelní podání anestetik a léků ovlivňujících nervosvalový přenos (benzodiazepiny). Anticholinesterázové látky je třeba podat na konci chirurgického výkonu 10-15 minut před očekávaným účinkem. Je třeba počítat s plánovanou prodlouženou umělou plicní ventilací po výkonu. Při přechodu na spontánní ventilaci je třeba monitorovat nervosvalovou blokádu a parametry respirace.
+Porucha funkce jater
+Ohledně pacientů s poruchou funkce jater jsou dostupné jen omezené informace. Přípravek Arduan je možné použít jen tehdy, pokud potenciální přínosy převáží nad potenciálními riziky.
+Maligní hypertermie
+Maligní hypertermie nebyla hlášena v souvislosti s přípravkem Arduan ani při experimentálních ani při klinických podmínkách. Vzhledem k tomu, že se svalové relaxans nikdy nepodává v monoterapii a protože během celkové anestézie je možný výskyt maligní hypertermie i v případě absence známých spouštěcích činitelů, má být lékař obeznámen s časnými příznaky, diagnostickými metodami a léčbou maligní hypertermie.
+Jiné
+Stejně jako u jiných nervosvalových blokátorů je třeba před anestezií upravit acidobazickou rovnováhu
+elektrolytovou homeostázu.
+
+
+4/11
+
+Hypotermie může účinek přípravku Arduan prodloužit.
+Hypokalemie, digitalizace, léčba diuretiky, hypermagnezemie, hypokalcemie (transfuze), dehydratace,
+acidóza, hypoproteinemie, hyperkapnie a kachexie mohou účinek přípravku Arduan zesílit a prodloužit.
+Stejně  jako  jiná  nedepolarizující  svalová  relaxancia  může  přípravek  Arduan  snížit  parciální tromboplastinový a protrombinový čas.
+Protože hořečnaté soli zesilují nervosvalovou blokádu, může být odeznívání nervosvalové blokády navozené svalovými relaxancii nedostatečné u žen, které dostávají síran hořečnatý pro těhotenskou toxemii. V těchto případech je třeba užít periferní nervový stimulátor.
+
+Pomocná látka
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné ampulce s rozpouštědlem, to
+znamená, že je v podstatě „bez sodíku“.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Následující léčivé přípravky mohou ovlivnit účinek přípravku Arduan:
+Zesílení a/nebo prodloužení účinku
+- inhalační anestetika (halothan, metoxyfluran, ether, enfluran, isofluran, cyklopropan);
+- intravenózní anestetika (ketamin, fentanyl, propanidid, barbituráty, etomidát, gamahydroxy-butyrát);
+- vysoké dávky lokálních anestetik;
+- další nedepolarizující myorelaxancia, předchozí podání sukcinylcholinu;
+- některá antibiotika a chemoterapeutika (aminoglykosidy a polypeptidová antibiotika, imidazoly, metronidazol aj.);
+- diuretika, blokátory beta receptorů, thiamin, inhibitory MAO, guanidin, protamin, fenytoin, blokátory alfa receptorů, blokátory vápníkových kanálů, soli hořčíku;
+- většina antiarytmik včetně chinidinu a intravenózně podaného lidokainu zesiluje blokádu vyvolanou nedepolarizujícími svalovými relaxancii.
+Zeslabení účinku
+Chronické podávání kortikosteroidů, neostigminu, edrofonia, pyridostigminu, noradrenalinu, azathioprinu, theofylinu; KCl, NaCl, chlorid vápenatý (CaCl₂) před podáním přípravku Arduan. Depolarizující svalová relaxancia snižují účinek nedepolarizujících svalových relaxancií.
+Zesílení nebo zeslabení účinku
+Předchozí podání depolarizujících svalových relaxancií (v závislosti na dávce, době aplikace a individuální citlivosti).
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Studie na zvířatech nejsou dostatečné pro posouzení reprodukční toxicity. Pro posouzení potenciální škodlivosti pro plod nejsou k dispozici dostatečné údaje o použití přípravku Arduan během těhotenství u člověka. V těhotenství lze přípravek Arduan podat jen tehdy, pokud přínosy převáží rizika.
+
+
+5/11
+
+Sectio caesarea
+Z klinických studií s přípravkem Arduan jako doplňkem celkové anestézie u sectio caesarea je zřejmé, že přípravek Arduan neovlivňuje hodnoty skóre podle Apgarové, svalový tonus nebo kardiovaskulární adaptaci novorozence. Nebyly pozorovány ani jiné nepříznivé účinky na novorozence.
+Farmakokinetické studie prokazují, že malé množství pipekuronium-bromidu prostupuje placentární bariérou a objevuje se v pupečníkové krvi.
+Kojení
+Nejsou dostupné údaje o užití přípravku Arduan během kojení u člověka.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Přípravek Arduan výrazně ovlivňuje schopnost řídit dopravní prostředky a obsluhovat stroje.
+Nedoporučuje se řídit dopravní prostředky a obsluhovat nebezpečné stroje 24 hodin od vymizení svalové
+relaxace vyvolané přípravkem Arduan.
+
+4.8  Nežádoucí účinky
+Frekvence nežádoucích účinků je uvedena následovně:
+Velmi časté  (≥1/10)
+Časté      (≥1/100 až <1/10) Méně časté   (≥1/1 000 až <1/100) Vzácné (≥1/10 000 až <1/1 000)
+Velmi vzácné (<1/10 000)
+Není známo:  z dostupných údajů nelze určit.
+
+Následující nežádoucí účinky byly hlášeny ve spojení s pipekuronium-bromidem, vyskytly se velmi
+vzácně.
+
+Třídy orgánových systémů
+Poruchy imunitního systému Poruchy metabolismu a výživy Poruchy nervového systému
+Poruchy oka
+
+Srdeční poruchy
+(viz bod 4.4)
+
+
+
+Cévní poruchy
+
+
+Respirační, hrudní a mediastinální poruchy
+Velmi vzácné
+anafylaktické reakce (viz bod 4.4) tetanie
+somnolence, paralýza blefaritida,
+ptóza očního víčka arytmie, bradykardie, tachykardie, deprese myokardu,
+komorová fibrilace a komorová tachykardie
+hypertenze, hypotenze, vazodilatace apnoe,
+
+6/11
+
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+dyspnoe, hypoventilace, bronchospasmus, kašel
+svalová slabost
+
+
+Vyšetření
+snížená hladina kalia v krvi,
+snížená hladina magnezia v krvi, snížená hladina kalcia v krvi, zvýšená hladina glukosy v krvi, zvýšená hladina urey v krvi
+
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Při případném předávkování a prolongované nervosvalové blokádě musí pacient zůstat na umělé plicní ventilaci do návratu spontánní respirace. V průběhu zotavovací fáze je třeba podat jako antidotum inhibitor cholinesterázy (tj. neostigmin, pyridostigmin, edrofonium) v přiměřených dávkách. Do návratu spontánní respirace je třeba respiraci pečlivě monitorovat.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: periferně působící myorelaxancia ATC kód: M03AC06
+
+Mechanismus účinku
+Přípravek Arduan je nedepolarizující nervosvalový blokátor s dlouhou dobou účinku.
+Blokuje transmisi mezi zakončením motorického nervu a příčně pruhovaným svalem tím, že kompetitivně blokuje cholinergní nikotinový receptor nervosvalové ploténky příčně pruhovaného svalu. Podání inhibitorů  acetylcholinesterázy,  jako  je  neostigmin,  pyridostigmin  nebo  edrofonium,  převáží neuromuskulárně blokující účinek přípravku Arduan. Na rozdíl od depolarizujících myorelaxancií přípravek Arduan nevyvolává svalové fascikulace.
+
+Klinická účinnost a bezpečnost
+
+7/11
+
+Přípravek Arduan nemá hormonální aktivitu.
+Přípravek Arduan nemá ganglioplegický, parasympatolytický ani sympatomimetický účinek, a to ani v dávkách několikanásobně vyšších, než je ED₉₀ (dávka vyvolávající 90% depresi svalového stahu).
+Podání inhibitorů acetylcholinesterázy, jako je neostigmin, pyridostigmin nebo edrofonium, zruší
+nervosvalovou blokádu navozenou přípravkem Arduan.
+Neuromuskulární blokáda navozená přípravkem Arduan je vysoce selektivní pro příčně pruhované
+svalstvo.
+Ze studií sledujících odpověď na dávku je zřejmé, že ED₅₀ a ED₉₀ přípravku Arduan při balancované anestézii jsou 0,03 a 0,05 mg/kg tělesné hmotnosti. Dávka 0,05 mg/kg tělesné hmotnosti vyvolá svalovou relaxaci vhodnou pro velké množství chirurgických výkonů trvající v průměru 40-50 minut.
+Doba, která uplyne od podání látky k maximální nervosvalové blokádě (doba jejího nástupu), záleží na podané dávce a pohybuje se v rozsahu 1,5-5 minut. Nejkratší doba nástupu účinku je při dávce 0,07- 0,08 mg/kg tělesné hmotnosti. Další zvyšování dávky dobu nástupu účinku jen nepatrně zkrátí, ale významně prodlouží účinek.
+
+5.2  Farmakokinetické vlastnosti
+Distribuce
+Po  intravenózní  aplikaci  pipekuronium-bromidu  je  možné  naměřit  nebo  vypočítat  následující farmakokinetické parametry týkající se distribuce:
+Počáteční distribuční objem (Vdc): 67±30,2 ml/kg tělesné hmotnosti. Distribuční objem v ustáleném stavu (Vdss): 309±103 ml/kg tělesné hmotnosti. Distribuční poločas: 16,3±10,1 minut.
+
+Při neuroleptanestezii byly hodnoty:
+Distribuční objem v ustáleném stavu (Vdss): 353±83 ml/kg tělesné hmotnosti. Distribuční poločas: 7,6 minut.
+
+Kumulativní účinek opakovaných udržovacích dávek je zanedbatelný nebo nulový, pokud jsou tyto podávány v rozmezí 0,01-0,02 mg/kg tělesné hmotnosti.
+
+Eliminace
+Po  intravenózní  aplikaci  pipekuronium-bromidu  je  možné  naměřit  nebo  vypočítat  následující
+farmakokinetické parametry týkající se eliminace:
+Plasmatická clearance (CL): 2,4±0,5 ml/min/kg tělesné hmotnosti. Střední eliminační poločas (t₁/₂b): 137±68 minut.
+Střední reziduální čas (MRT): 140±63 minut.
+
+Při neuroleptanestezii byly hodnoty:
+
+
+8/11
+
+Plasmatická clearance (CL): 1,8±0,4 ml/min/kg tělesné hmotnosti. Střední eliminační poločas (t₁/₂b): 161 minut.
+
+Pipekuronium se vylučuje převážně ledvinami, 56 % podané dávky během prvních 24 hodin, z toho 75 % v nezměněné formě, zbytek jako metabolit 3-desacetyl-pipekuronium. Pipikuronium je v zanedbatelném množství vylučováno do žluči.
+Ve studii s malým množstvím případů i pacientů s cirhózou nebyl pozorován relevantní rozdíl ve farmakokinetických parametrech; ve srovnání s pacienty bez cirhózy byl opožděný nástup neuro- muskulární blokády, trvání účinku a doba eliminace nebyly změněny.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Toxikologický potenciál pipekuronia byl zkoumán v detailních studiích po jednorázovém i opakovaném
+podání u různých laboratorních zvířat po dobu až 4 týdnů.
+Změny pozorované v souvislosti s podáním léku byly prodloužením farmakologického účinku látky podané ve vysokých dávkách.  Navíc ve většině studií na psech a kočkách byla použita anestezovaná zvířata na umělé plicní ventilaci. Bylo vyprovokováno několik kardiovaskulárních změn před podáním pipekuronia, které bylo možno přičíst na vrub anestézie. Po jednorázovém podání pipekuronia byly změny různé: u koček, které dostaly dávku 4000 µg/kg byla navíc vyvolána tachykardie. U psů se vyskytlo po kumulativní dávce 3720 µg/kg mírné snížení srdeční frekvence a po celkové dávce 14880 µg/kg došlo k signifikantní bradykardii.
+Studie s opakovaným podáním u psů a koček ukázaly málo účinků spojených s léčivou látkou. Při nejvyšších dávkách, které byly hodnoceny v těchto studiích, došlo k mírným změnám na EKG; tyto změny byly obecně výsledkem celkové anestézie.
+Potenciál reprodukční toxicity byl hodnocen ve dvou studiích Segment II, kdy bylo pipekuronium podáváno potkanům, nebyla zaznamenána teratogenita, fetotoxicita ani embryotoxicita.
+Na standardní sadě bakteriálních a savčích systémů nebyl zaznamenán žádný mutagenní potenciál léčivé
+látky.
+Pipekuronium bylo kompatibilní se suspenzí plné krve a erytrocytů; nedošlo k opalescenci, flokulaci ani hemolýze. Léčivá látka nevyvolala ani žádné lokální dráždění při aplikaci do ocasních žil u potkanů a nezpůsobilo maligní hypertermii po aplikaci u vnímavých prasat.
+Celkově je pipekuronium tolerováno u zvířecích druhů v dávkách několikrát vyšších, než jsou dávky podávané u člověka. Nálezy v těchto studiích byly v souladu se známým farmakologickým profilem léčivé látky.
+Nebylo zaznamenáno lokální dráždění po jednorázovém podání přípravku Arduan v dávce 0,2 ml/králíka podané novozélandským bílým králíkům obou pohlaví intravenózně, intraarteriálně a paravenózně.
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Lyofilizát: mannitol, chlorid sodný 10% (k úpravě pH), kyselina chlorovodíková (k úpravě pH). Ampulka s rozpouštědlem: chlorid sodný, voda pro injekci.
+
+
+
+9/11
+
+6.2  Inkompatibility
+Studie kompatibility nejsou k dispozici, a proto tento léčivý přípravek nesmí být mísen s žádnými dalšími léčivými přípravky.
+
+6.3  Doba použitelnosti
+3 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte v chladničce (2 °C-8 °C). Uchovávejte v původním obalu, aby byl přípravek chráněn před světlem.
+
+6.5  Druh obalu a obsah balení
+Lyofilizát: bezbarvá skleněná injekční lahvička se zesíleným okrajem, propichovací zátka ze šedé brombutylové pryže.
+Rozpouštědlo: 2 ml odlamovací ampulka z bezbarvého skla.
+
+Velikosti balení:
+25 injekčních lahviček s práškem pro injekční roztok + 25 ampulek s rozpouštědlem v krabičce.
+
+6.6   Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+Žádné zvláštní požadavky.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Gedeon Richter Plc.
+Gyömrői út 19-21
+1103 Budapešť,
+Maďarsko
+
+8.   REGISTRAČNÍ ČÍSLO
+63/025/82-S/C
+
+9.   DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 28. 4. 1982
+Datum posledního prodloužení: 19. 12. 2012
+
+10.  DATUM REVIZE TEXTU
+
+
+10/11
+
+18. 3. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11

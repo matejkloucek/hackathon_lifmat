@@ -1,0 +1,459 @@
+Sp. zn. sukls13802/2021
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+Lamegom 25 mg potahované tablety
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna potahovaná tableta obsahuje agomelatinum et acidum citricum odpovídající agomelatinum 25 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+Potahovaná tableta (tableta)
+
+Žluté, podlouhlé, bikonvexní potahované tablety, 9,0 mm dlouhé, 4,5 mm široké.
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Agomelatin je indikován k léčbě depresivních epizod u dospělých.
+
+4.2  Dávkování a způsob podání
+Dávkování
+Doporučená dávka je 25 mg jednou denně užitá perorálně před spaním.
+Po dvou týdnech léčby, pokud nedojde ke zlepšení příznaků, může být dávka zvýšena na 50 mg jednou denně, tedy dvě 25mg tablety, užité najednou před spaním.
+Rozhodnutí zvýšit dávku musí být učiněno s přihlédnutím k vyššímu riziku zvýšení aminotransferáz. Jakékoliv zvýšení dávky na 50 mg má být provedeno na základě zhodnocení poměru přínos/riziko pro pacienta a s pečlivým monitorováním jaterních funkcí.
+U všech pacientů mají být provedeny testy jaterních funkcí před zahájením léčby. Léčba nemá být zahájena, pokud aminotransferázy přesahují 3násobek horního limitu normálního rozmezí (viz body 4.3 a 4.4). Během léčby mají být aminotransferázy pravidelně monitorovány po přibližně třech týdnech, šesti týdnech léčby (konec akutní fáze), dvanácti týdnech a dvaceti čtyřech týdnech (konec udržovací fáze) a poté, pokud je to klinicky indikováno (viz také bod 4.4). Léčba má být zastavena, pokud aminotransferázy dosáhnou 3násobku horního limitu normálního rozmezí (viz body 4.3 a 4.4). Při zvýšení dávky mají být znovu provedeny testy jaterních funkcí se stejnou četností, jako při zahájení léčby.
+
+Délka léčby
+Pacienti trpící depresí mají být léčeni dostatečně dlouhou dobu, nejméně 6 měsíců, aby bylo zajištěno, že již nemají žádné příznaky.
+
+Převedení léčby z antidepresiv SSRI/SNRI na agomelatin
+
+1
+
+Po vysazení antidepresiva ze skupiny SSRI/SNRI mohou pacienti zaznamenat příznaky z vysazení. O ukončení léčby je třeba se informovat v SmPC aktuálního SSRI/SNRI, aby se těmto příznakům předešlo. Léčba agomelatinem může být zahájena ihned, jakmile se začne s postupným vysazováním SSRI/SNRI (viz bod 5.1).
+
+Ukončení léčby
+Při ukončení léčby není nutné postupné snižování dávky.
+Zvláštní populace
+
+Starší pacienti
+Účinnost a bezpečnost agomelatinu (25 až 50 mg/den) byla stanovena u starších depresivních pacientů (< 75 let). U pacientů starších ≥75 let nebyl účinek agomelatinu prokázán. Proto pacienti této věkové skupiny nemají agomelatin užívat (viz body 4.4 a 5.1). Není třeba úprava dávkování v souvislosti s věkem (viz bod 5.2).
+Porucha funkce ledvin
+U  pacientů  s  těžkou  poruchou  funkce  ledvin  nebyly  pozorovány  významné  změny farmakokinetických parametrů agomelatinu. Existují však pouze omezené údaje o použití agomelatinu u depresivních pacientů s těžkou nebo středně těžkou poruchou funkce ledvin. Proto je nutná opatrnost, je-li agomelatin předepisován těmto pacientům.
+Porucha funkce jater
+Agomelatin je kontraindikován u pacientů s poruchou funkce jater (viz body 4.3, 4.4 a 5.2).
+
+Pediatrická populace
+Bezpečnost a účinnost agomelatinu u dětí od 2 let v léčbě depresivních epizod nebyla dosud stanovena. Nejsou dostupné žádné údaje (viz bod 4.4).
+Neexistuje žádné relevantní použití agomelatinu u dětí od narození do 2 let při léčbě depresivních epizod.
+Způsob podání
+Perorální podání.
+Přípravek Lamegom potahované tablety může být užíván nezávisle na jídle.
+
+4.3  Kontraindikace
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1. Porucha funkce jater (tj. cirhóza nebo aktivní jaterní onemocnění) nebo aminotransferázy převyšující 3násobek horního limitu normálního rozmezí (viz body 4.2 a 4.4).
+Souběžné podávání silných inhibitorů CYP1A2 (např. fluvoxamin, ciprofloxacin) (viz bod 4.5).
+4.4  Zvláštní upozornění a opatření pro použití
+
+Monitorování jaterních funkcí
+Po uvedení na trh byly u pacientů léčených agomelatinem hlášeny případy poškození jater včetně jaterního selhání (u pacientů s jaterními rizikovými faktory bylo výjimečně hlášeno několik případů s fatálním následkem nebo transplantací jater), zvýšení hladiny jaterních enzymů na více než 10násobek horní hranice normálního rozmezí, hepatitidy a žloutenky (viz bod 4.8). K většině případů došlo během prvních měsíců léčby. Forma jaterního poškození je převážně hepatocelulární se zvýšenou koncentrací aminotransferáz v séru, které se obvykle vrátí k normálním hodnotám po ukončení léčby agomelatinem.
+Opatrnosti je třeba před zahájením léčby a pečlivé monitorování má být prováděno po celou dobu léčby u všech pacientů, zvláště u pacientů s rizikovými faktory poškození jater nebo se souběžným užíváním léčivých přípravků spojených s rizikem poškození jater.
+
+
+
+2
+
+•  Před zahájením léčby
+Léčba agomelatinem má být předepsána pouze po pečlivém zvážení přínosu a rizika u pacientů
+s rizikovými faktory poškození jater např. s:
+-   obezitou/ nadváhou/ nealkoholovým steatotickým postižením jater, diabetem,
+-   abúzem alkoholu a/nebo značným příjmem alkoholu a u pacientů souběžně užívající léčivé přípravky spojené s rizikem poškození jater.
+Vstupní testy jaterních funkcí mají být provedeny u všech pacientů a léčba nesmí být zahájena u pacientů se vstupními hodnotami ALT a/nebo AST > 3násobek horního limitu normálního rozmezí (viz  bod  4.3).  Opatrnosti  je  třeba  při  podávání  agomelatinu  pacientům  se  zvýšenými aminotransferázami před léčbou (> horní limit normálního rozmezí a ≤ 3násobek horního limitu normálního rozmezí).
+
+•  Frekvence jaterních testů
+- před zahájením léčby
+- a poté:
+-  po přibližně 3 týdnech,
+-  po přibližně 6 týdnech (konec akutní fáze),
+-  po přibližně 12 a 24 týdnech (konec udržovací fáze)
+-  a poté, pokud je to klinicky indikováno.
+- Při zvýšení dávky mají být znovu provedeny testy jaterních funkcí se stejnou četností, jako při zahájení léčby.
+
+U každého pacienta, u něhož dojde ke zvýšení koncentrací sérových aminotransferáz, mají být testy jaterních funkcí opakovány do 48 hodin.
+
+•  Během léčby
+Léčba agomelatinem má být okamžitě ukončena, jestliže:
+-   se u pacienta objeví symptomy nebo projevy možného jaterního poškození (např. tmavá moč, světlé zbarvení stolice, zežloutnutí kůže/očí, bolest v pravé horní části břicha, neustupující nově vzniklá a nevysvětlitelná únava).
+-   zvýšení koncentrací sérových aminotransferáz převýší 3násobek horního limitu normálního
+rozmezí.
+Po ukončení léčby agomelatinem mají být opakovány testy jaterních funkcí do té doby, dokud se hladiny sérových aminotransferáz nevrátí do normálního rozmezí.
+Pediatrická populace
+Agomelatin se nedoporučuje k léčbě deprese u pacientů do 18 let, jelikož bezpečnost a účinnost agomelatinu v této věkové skupině nebyla stanovena. V klinických studiích u dětí a dospívajících, léčených jinými antidepresivy, bylo častěji pozorováno suicidální chování (sebevražedné pokusy a myšlenky na sebevraždu) a hostilní chování (především agresivita, projevy odporu a hněv) ve srovnání s těmi, kteří byli léčeni placebem (viz bod 4.2).
+
+Starší pacienti
+U pacientů starších ≥ 75 let nebyl účinek agomelatinu prokázán, proto pacienti této věkové skupiny
+nemají agomelatin užívat (viz také body 4.2 a 5.1).
+
+Použití u starších pacientů s demencí
+Agomelatin nemá být užíván k léčbě depresivních epizod u starších pacientů s demencí vzhledem k tomu, že u těchto pacientů nebyla stanovena bezpečnost a účinnost agomelatinu.
+Bipolární porucha / mánie / hypománie
+Agomelatin má být používán s opatrností u pacientů s bipolární poruchou, manickou nebo hypomanickou epizodou v anamnéze a má být vysazen, pokud se u pacienta rozvinou manické příznaky (viz bod 4.8).
+
+
+
+3
+
+Sebevražda / myšlenky na sebevraždu
+Depresivní porucha je spojena se zvýšeným rizikem myšlenek na sebevraždu, sebepoškozování a sebevraždy (příhody související se sebevraždou). Toto riziko přetrvává až do nástupu významné remise depresivní poruchy. Jelikož ke zlepšení nemusí dojít během několika prvních týdnů léčby nebo déle, pacienti mají být pečlivě sledováni, dokud k takovému zlepšení nedojde. Všeobecná klinická zkušenost je, že riziko sebevraždy se může zvýšit v časných fázích uzdravování.
+Pacienti, kteří mají v anamnéze před zahájením léčby příhody související se sebevraždou, nebo ti, kteří vykazují významný stupeň sebevražedných představ, mají vyšší riziko myšlenek na sebevraždu nebo pokusů o sebevraždu a musí být během léčby pečlivě sledováni. Metaanalýza placebem kontrolovaných klinických studií prováděných na dospělých pacientech trpících psychiatrickými poruchami prokázala u antidepresiv vyšší riziko sebevražedného chování u pacientů do 25 let ve srovnání s placebem.
+Pacienti a zvláště ti, kteří mají vysoké riziko, mají být během léčby pečlivě sledováni, a to především na začátku léčby a po změně dávkování. Pacienti (a jejich ošetřovatelé) mají být upozorněni na to, že je nutné sledovat jakékoliv zhoršení jejich stavu, známky sebevražedného chování nebo myšlenek na sebevraždu a neobvyklé změny chování, a že pokud se tyto příznaky objeví, musí okamžitě vyhledat lékařskou pomoc.
+
+Kombinace s inhibitory CYP1A2 (viz body 4.3 a 4.5)
+Opatrnosti je třeba, pokud je agomelatin předepsán se středně silnými inhibitory CYP1A2 (např. propranolol, enoxacin), což může vést ke zvýšení expozice agomelatinu.
+
+Sodík
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je
+v podstatě „bez sodíku“.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Možné interakce ovlivňující agomelatin
+Agomelatin je metabolizován zejména prostřednictvím cytochromu P450, izoenzymu 1A2 (CYP1A2) (90 %) a CYP2C9/19 (10 %). Léčiva, která interagují s těmito izoenzymy, mohou snížit nebo zvýšit biologickou dostupnost agomelatinu.
+
+Fluvoxamin, což je silný inhibitor CYP1A2 a středně silný inhibitor CYP2C9, významně inhibuje metabolismus agomelatinu, což vede k 60násobnému (rozmezí 12-412) zvýšení expozice agomelatinu.
+Proto je souběžné podávání agomelatinu se silnými inhibitory CYP1A2 (např. fluvoxamin,
+ciprofloxacin) kontraindikováno.
+
+Kombinace  agomelatinu  s  estrogeny  (středně  silnými  inhibitory  CYP1A2)  vede k několikanásobnému zvýšení expozice agomelatinu. Ačkoli se u 800 pacientů léčených v kombinaci s estrogeny neobjevily specifické bezpečnostní signály, je třeba opatrnosti, pokud je předepsán agomelatin s ostatními středně silnými inhibitory CYP1A2 (např. propranolol, enoxacin), a to až do doby, kdy bude získáno více zkušeností (viz bod 4.4).
+Rifampicin, který je induktorem všech tří cytochromů podílejících se na metabolismu agomelatinu,
+může snížit biologickou dostupnost agomelatinu.
+Kouření indukuje CYP1A2 a bylo prokázáno, že snižuje biologickou dostupnost agomelatinu,
+zejména u těžkých kuřáků (> 15 cigaret/den) (viz bod 5.2).
+Potenciál agomelatinu ovlivňovat jiné léčivé přípravky
+In vivo agomelatin neindukuje izoenzymy cytochromu P450. Agomelatin neinhibuje in vivo CYP1A2 ani ostatní izoenzymy cytochromu P450 in vitro. Proto agomelatin neovlivňuje expozici léčivých přípravků metabolizovaných prostřednictvím cytochromu P450.
+
+Ostatní léčivé přípravky
+V cílové populaci v I. fázi klinického hodnocení nebyly zjištěny důkazy o farmakokinetické nebo
+
+4
+
+farmakodynamické interakci s léčivými přípravky, které by mohly být předepsány souběžně s agomelatinem: benzodiazepiny, lithium, paroxetin, flukonazol a theofylin.
+Alkohol
+Kombinace agomelatinu a alkoholu se nedoporučuje.
+
+Elektrokonvulzivní terapie (ECT)
+Nejsou zkušenosti se souběžným používáním agomelatinu a ECT. Studie na zvířatech neprokázaly prokonvulzivní vlastnosti (viz bod 5.3). Z toho důvodu jsou klinické dopady ECT se souběžnou léčbou agomelatinem považovány za nepravděpodobné.
+
+Pediatrická populace
+Studie interakcí byly provedeny pouze u dospělých.
+
+4.6  Fertilita, těhotenství a kojení
+Těhotenství
+Údaje o podávání agomelatinu těhotným ženám jsou omezené (méně než 300 ukončených těhotenství) nebo nejsou k dispozici. Studie na zvířatech nenaznačují přímé ani nepřímé škodlivé účinky na průběh těhotenství, embryonální/fetální vývoj, porod nebo postnatální vývoj (viz bod 5.3). Podávání agomelatinu v těhotenství se z preventivních důvodů nedoporučuje.
+
+Kojení
+Není známo, zda se agomelatin/metabolity vylučují do lidského mateřského mléka. Dostupné farmakodynamické/toxikologické údaje u zvířat prokázaly vylučování agomelatinu/metabolitů do mléka (viz bod 5.3). Riziko pro novorozence/kojence nelze vyloučit. Na základě posouzení prospěšnosti kojení pro dítě a prospěšnosti léčby pro matku je nutno rozhodnout, zda přerušit kojení nebo ukončit/přerušit podávání agomelatinu.
+Fertilita
+Reprodukční studie na potkanech a králících neprokázaly žádný účinek agomelatinu na fertilitu (viz
+bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Agomelatin na malý vliv na schopnost řídit nebo obsluhovat stroje.
+Vzhledem k tomu, že závrať a ospalost jsou časté nežádoucí účinky, pacienti mají být upozorněni, aby sledovali svou schopnost řídit nebo obsluhovat stroje.
+4.8  Nežádoucí účinky
+Souhrn bezpečnostního profilu
+Nežádoucí účinky byly obvykle lehké nebo středně těžké a vyskytovaly se v průběhu prvních dvou týdnů léčby.
+Nejčastějšími nežádoucími účinky byly bolest hlavy, nauzea a závrať.
+Tyto nežádoucí účinky byly obvykle přechodné a obecně nevedly k ukončení léčby.
+Tabulkový přehled nežádoucích účinků
+Nežádoucí účinky uvedené v tabulce níže byly pozorovány v placebem kontrolovaných nebo aktivně
+kontrolovaných klinických studiích.
+Nežádoucí účinky jsou uvedeny níže podle následujícího systému: velmi časté (≥ 1/10); časté (≥ 1/100 až <1/10); méně časté (≥ 1/1000 až <1/100); vzácné (≥ 1/10000 až <1/1000); velmi vzácné (<1/10000), není známo (z dostupných údajů nelze určit). Četnosti nebyly upraveny pro placebo.
+
+
+Třídy orgánových systémů
+Četnost   Preferovaný termín
+Psychiatrické poruchy    Časté     Úzkost
+
+
+5
+
+
+Méně časté
+Abnormální sny*
+Sebevražedné myšlenky nebo chování (viz bod 4.4)
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy nervového systému
+
+
+
+
+
+
+Poruchy oka
+Poruchy ucha a labyrintu Gastrointestinální poruchy
+
+
+
+Poruchy jater a žlučových cest
+
+
+
+
+
+
+
+
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+
+Poruchy   ledvin   a močových cest
+Celkové poruchy a reakce v místě aplikace
+
+
+
+
+
+
+
+
+Vzácné Velmi časté Časté
+
+
+Méně časté
+
+
+Vzácné Méně časté Méně časté Časté
+
+
+
+
+Časté
+
+
+
+
+
+Méně časté Vzácné
+
+
+Méně časté
+
+
+Vzácné
+
+Časté Méně časté
+Vzácné
+
+Časté
+Agitovanost  a  související  symptomy*  (jako podrážděnost a neklid)
+Agresivita* Noční můry* Stav zmatenosti*
+Mánie/hypománie*
+Tyto symptomy mohou být také způsobeny základním onemocněním (viz bod 4.4).
+Halucinace* Bolest hlavy Závrať
+Somnolence Insomnie Parestezie
+Syndrom neklidných nohou* Migréna
+Akatizie* Rozmazané vidění Tinitus*
+Nauzea Průjem Zácpa
+Bolest břicha Zvracení*
+Zvýšené hladiny ALT a/nebo AST (v klinických studiích, vyšší hodnoty než >3násobek horní hranice normálních hodnot pro ALT a/nebo AST byly zaznamenány u 1,2 % pacientů  léčených agomelatinem v dávce 25 mg/den a u 2,6 % pacientů léčených agomelatinem v dávce 50 mg/den versus 0,5 % pacientů užívajících placebo.
+Zvýšení hladiny gamaglutamyltransferázy* (GGT) (> 3násobek horní hranice normálních hodnot)
+Hepatitida
+Zvýšení hladiny alkalické fosfatázy* (> 3násobek horní hranice normálních hodnot)
+Jaterní selhání*(1) Žloutenka* Hyperhidróza
+Ekzém Pruritus* Kopřivka*
+Erytematózní vyrážka
+Otok obličeje a angioedém* Bolest zad
+Myalgie* Retence moči* Únava
+
+6
+
+Vyšetření           Časté     Zvýšení tělesné hmotnosti*
+Méně časté  Snížení tělesné hmotnosti*
+*Frekvence je vypočtena z klinických studií na nežádoucí účinky zjištěných ze spontánního hlášení
+(1) U pacientů s jaterními rizikovými faktory bylo výjimečně hlášeno několik případů s fatálním
+následkem nebo transplantací jater.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: http://www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Symptomy
+Existují pouze omezené zkušenosti s předávkováním agomelatinem. Zkušenosti ukázaly, že při předávkování agomelatinem byly hlášeny bolesti epigastria, somnolence, únava, agitovanost, úzkost, napětí, závrať, cyanóza nebo malátnost.
+Jedna osoba, která užila 2450 mg agomelatinu, se spontánně uzdravila bez kardiovaskulárních a
+biologických abnormalit.
+Léčba předávkování
+Specifické antidotum agomelatinu není známo. Léčba předávkování má spočívat v léčbě klinických symptomů a v běžném monitorování. Doporučuje se lékařský dohled na specializovaném pracovišti.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Psychoanaleptika, jiná antidepresiva, ATC kód: N06AX22 Mechanismus účinku
+Agomelatin je melatoninergní agonista (receptorů MT₁ a MT₂) a antagonista 5-HT₂C receptorů. Studie zjišťující vazbu na receptory ukazují, že agomelatin nemá účinek na vychytávání monoaminů a nemá afinitu vůči α, β adrenergním, histaminergním, cholinergním, dopaminergním a benzodiazepinovým receptorům.
+Agomelatin resynchronizuje cirkadiánní rytmy u zvířecích modelů s narušením cirkadiánní rytmicity. Agomelatin zvyšuje uvolňování noradrenalinu a dopaminu specificky ve frontální kůře a nemá žádný vliv na extracelulární hladiny serotoninu.
+Farmakodynamické účinky
+Agomelatin prokázal antidepresivům podobný účinek na zvířecích modelech deprese (test naučené bezmocnosti, test beznaděje, chronický mírný stres) i na modelech s desynchronizací cirkadiánního rytmu a na modelech souvisejících se stresem a úzkostí.
+U lidí má agomelatin pozitivní vliv na posun fází; vyvolává předsunutí fáze spánku, pokles tělesné teploty a uvolňování melatoninu.
+
+Klinická účinnost a bezpečnost
+Účinnost a bezpečnost agomelatinu u depresivních epizod byla testována v klinickém programu
+zahrnujícím 7 900 pacientů léčených agomelatinem.
+
+Bylo provedeno deset placebem kontrolovaných studií ke zhodnocení krátkodobé účinnosti
+
+7
+
+agomelatinu u depresivních poruch u dospělých, s fixní dávkou a/nebo zvýšením dávky. Na konci léčby (6 nebo 8 týdnů) byla v šesti z deseti krátkodobých, dvojitě zaslepených placebem kontrolovaných studií prokázána signifikantní účinnost agomelatinu v dávce 25-50 mg. Primární cílový parametr byl změna v HAMD-17 skóre oproti vstupním hodnotám. Ve dvou studiích agomelatin neprokázal rozdíl proti placebu, v těchto dvou studiích prokázal aktivní komparátor paroxetin a fluoxetin citlivost vůči testu. Agomelatin nebyl přímo porovnán s paroxetinem a fluoxetinem, protože tyto komparátory byly přidány, aby zajistily zkoušku senzitivity ve studii. V dalších dvou studiích nebylo možno dospět k žádnému závěru, jelikož aktivní komparátory, paroxetin a fluoxetin, neprokázaly rozdíl oproti placebu. Nicméně v těchto studiích nebylo povoleno zvýšit počáteční dávku agomelatinu, paroxetinu nebo fluoxetinu, i když odpověď nebyla adekvátní.
+
+Účinnost byla také prokázána u pacientů s těžšími depresivními epizodami (vstupní HAM-D ≥ 25)
+ve všech pozitivních, placebem kontrolovaných studiích.
+
+Procenta terapeutických odpovědí byla statisticky signifikantně vyšší u agomelatinu v porovnání s placebem.
+
+Superiorita (2 studie) nebo noninferiorita (4 studie) byly prokázány v šesti ze sedmi studií účinnosti u heterogenní populace depresivních dospělých pacientů versus SSRI/SNRI (sertralin, escitalopram, fluoxetin, venlafaxin nebo duloxetin). Antidepresivní účinek byl zhodnocen pomocí HAMD-17 skóre jako primární nebo sekundární cílový parametr.
+Zachování antidepresivní účinnosti bylo prokázáno ve studii prevence relapsu. Pacienti odpovídající na akutní otevřenou léčbu agomelatinem v dávce 25-50 mg jednou denně během 8/10 týdnů byli randomizováni k léčbě agomelatinem v dávce 25-50 mg jednou denně nebo placebem po dobu dalších 6 měsíců. Agomelatin v dávce 25-50 mg jednou denně prokázal statisticky signifikantní superioritu ve srovnání s placebem (p=0,0001) v primárním parametru účinnosti v prevenci relapsu deprese, hodnoceným na základě doby do relapsu. Výskyt relapsu během šestiměsíčního dvojitě zaslepeného období následného sledování byl 22 % ve skupině léčené agomelatinem a 47 % u placeba.
+Agomelatin nemění bdělost během dne a paměť u zdravých dobrovolníků. U pacientů s depresí léčba agomelatinem v dávce 25 mg zvýšila podíl spánku pomalých vln bez ovlivnění zastoupení a latence REM spánku (Rapid Eye Movement). Agomelatin v dávce 25 mg také vyvolal zvýšení rychlosti nástupu spánku a v minimální míře zvýšení srdeční frekvence. Na základě hodnocení pacientů agomelatin od prvního týdne léčby významně zkrátil spánkovou latenci, zlepšil kvalitu spánku, a to bez výskytu ospalosti během dne.
+Ve specifické srovnávací studii sexuálních dysfunkcí, kde bylo porovnáváno skóre navození vzrušení nebo orgasmu pomocí stupnice SEXFX (Sex Effects Scale), byl u pacientů v remisi deprese léčených agomelatinem zjištěn numerický trend (ne statisticky signifikantní) k nižšímu výskytu sexuálních dysfunkcí oproti pacientům léčeným venlafaxinem. Souhrnná analýza studií pomocí stupnice ASEX (Arizona Sexual Experience Scale) prokázala, že agomelatin nezpůsoboval sexuální dysfunkce. U zdravých dobrovolníků agomelatin zachovával sexuální funkce ve srovnání s paroxetinem.
+
+Agomelatin měl v klinických studiích neutrální účinek na srdeční frekvenci a krevní tlak.
+Ve studii navržené ke zhodnocení symptomů z vysazení pomocí seznamu Discontinuation Emergent Signs and Symptoms (DESS) u pacientů v remisi deprese agomelatin nevyvolal syndrom z vysazení po náhlém ukončení léčby.
+Na základě hodnocení studií na zdravých dobrovolnících pomocí zvláštní vizuální analogové stupnice nebo podle dotazníku ARCI (Addiction Research Center Inventory 49 check-list) nemá agomelatin potenciál k tomu, aby byl zneužíván.
+Placebem kontrolovaná 8týdenní studie s agomelatinem v dávce 25-50 mg/den u starších depresivních pacientů (≥ 65 let, n=222, z toho 151 pacientů léčených agomelatinem) prokázala statisticky signifikantní rozdíl 2,67 bodů celkového skóre HAM-D, primárního sledovaného ukazatele. Analýza poměru respondérů byla ve prospěch agomelatinu. Žádné zlepšení nebylo pozorováno u velmi starých pacientů (≥ 75 let, n=69, z toho 48 pacientů léčených agomelatinem).
+
+8
+
+Tolerance agomelatinu u starších pacientů byla srovnatelná s tolerancí u mladších dospělých.
+
+Specifická, kontrolovaná, 3týdenní studie byla provedena u pacientů trpících depresivním onemocněním, u nichž nedošlo k dostatečnému zlepšení při léčbě paroxetinem (SSRI) nebo venlafaxinem (SNRI). Pokud byla léčba převedena z těchto antidepresiv na agomelatin, po ukončení léčby SSRI nebo SNRI se objevují příznaky z vysazení, a to po náhlém ukončení nebo postupném vysazování předchozí léčby. Tyto příznaky z vysazení mohou být zaměněny s nedostatečnou ranou účinností agomelatinu.
+Procento pacientů s nejméně jedním příznakem z vysazení za jeden týden po ukončení léčby SSRI/SNRI bylo nižší ve skupině s dlouhým vysazováním (postupné vysazování předchozího SSRI/SNRI během 2 týdnů) než ve skupině s krátkým vysazováním (postupné vysazování předchozího SSRI/SNRI během 1 týdne) a ve skupině s náhlou změnou léčby (náhlé vysazení): 56,1
+%, 62,6 % a 79,8 %, v daném pořadí.
+
+Pediatrická populace
+Evropská agentura pro léčivé přípravky udělila odklad povinnosti předložit výsledky studií s referenčním přípravkem obsahujícím agomelatin u jedné nebo více podskupin pediatrické populace v léčbě depresivních epizod (informace o použití u pediatrické populace viz bod 4.2).
+5.2  Farmakokinetické vlastnosti
+Absorpce a biologická dostupnost
+Po perorálním podání je agomelatin rychle a dobře (≥ 80 %) absorbován. Absolutní biologická dostupnost je nízká (< 5 % při terapeutické perorální dávce) a interindividuální variabilita je značná. Biologická dostupnost je vyšší u žen ve srovnání s muži. Biologická dostupnost se zvyšuje užíváním perorálních kontraceptiv a snižuje kouřením. Maximálních plazmatických koncentrací je dosaženo za 1 až 2 hodiny.
+V terapeutickém dávkovacím rozmezí se systémová expozice agomelatinu zvyšuje proporcionálně s dávkou. Při vyšších dávkách dochází k saturaci efektu prvního průchodu játry.
+Příjem potravy (běžné jídlo nebo jídlo s vysokým obsahem tuku) nemění biologickou dostupnost
+nebo rychlost absorpce. Variabilita se zvyšuje s hodně tučným jídlem.
+
+Distribuce
+Distribuční objem v ustáleném stavu je přibližně 35 litrů a vazba na proteiny krevní plazmy je 95 % bez ohledu na koncentraci a nemění se s věkem ani u pacientů s poruchou funkce ledvin, ale volná frakce je dvojnásobná u pacientů s poruchou funkce jater.
+Biotransformace
+Po perorálním podání je agomelatin rychle metabolizován, především cestou jaterního CYP1A2; izoenzymy CYP2C9 a CYP2C19 jsou také zahrnuty, ale s nízkým přispěním.
+Hlavní metabolity, hydroxylovaný a demetylovaný agomelatin, jsou neúčinné, rychle se konjugují a vylučují močí.
+Eliminace
+Eliminace je rychlá, průměrný plazmatický poločas činí 1 až 2 hodiny a clearance je vysoká (přibližně 1100 ml/min) a převážně metabolická.
+Exkrece probíhá převážně močí (80 %), a to ve formě metabolitů, zatímco množství nezměněného agomelatinu v moči je zanedbatelné.
+Kinetika se při opakovaném podávání nemění.
+
+Porucha funkce ledvin
+U  pacientů  s  těžkou  poruchou  funkce  ledvin  nebyly  pozorovány  významné  změny farmakokinetických parametrů agomelatinu (n=8, jediná dávka 25 mg), ale opatrnost je nutná u pacientů s těžkou nebo středně těžkou poruchou funkce ledvin, protože jsou u těchto pacientů k dispozici pouze omezené klinické údaje (viz bod 4.2).
+
+
+
+9
+
+Porucha funkce jater
+Ve specifické studii zahrnující cirhotické pacienty s chronickou lehkou (Child-Pugh typ A) nebo středně těžkou (Child-Pugh typ B) poruchou funkce jater byla expozice agomelatinu v dávce 25 mg výrazně zvýšena (70krát u pacientů s Child-Pugh typ A a 140krát s Child-Pugh typ B) ve srovnání se srovnatelnými zdravými dobrovolníky (věk, tělesná hmotnost a kouření) bez poruchy funkce jater (viz bod 4.2, 4.3 a 4.4).
+Starší pacienti
+Ve farmakokinetické studii u starších pacientů (≥ 65 let) bylo prokázáno, že při dávce 25 mg byly průměrné hodnoty AUC přibližně 4krát vyšší a průměrné hodnoty Cmax 13krát vyšší u starších pacientů ≥ 75 let v porovnání s pacienty mladšími < 75 let. Celkový počet pacientů užívajících dávku 50 mg byl příliš nízký na vyvození jakýchkoliv závěrů. Není třeba žádná úprava dávkování u starších pacientů.
+Etnické skupiny
+Nejsou k dispozici údaje o vlivu rasy na farmakokinetiku agomelatinu.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Po jednorázovém a opakovaném podání vysokých dávek byly pozorovány sedativní účinky u myší, potkanů a opic.
+U hlodavců byla pozorována výrazná indukce CYP2B a středně silná indukce CYP1A a CYP3A od dávky 125 mg/kg/den, zatímco u opic byla indukce mírná u CYP2B a CYP3A v dávce 375 mg/kg/den. Ve studiích toxicity po opakovaném podávání nebyla u hlodavců ani u opic pozorována hepatotoxicita.
+Agomelatin prostupuje do placenty a plodů březích potkaních samic.
+Reprodukční studie provedené na potkanech a králících neprokázaly žádný účinek agomelatinu na
+fertilitu, embryofetální vývoj a prenatální a postnatální vývoj.
+Řada standardních in vitro a in vivo testů genotoxicity neprokázala mutagenní nebo klastogenní
+potenciál agomelatinu.
+Ve studiích kancerogenity agomelatin vyvolal zvýšení výskytu jaterních nádorů u potkanů a myší při dávce nejméně 110krát vyšší, než je terapeutická dávka. Jaterní nádory nejpravděpodobněji souvisí s indukcí enzymů specifickou pro hlodavce. Četnost benigních fibroadenomů mammy pozorovaná u potkanů byla zvýšená u vysokých expozicí (60násobek expozice terapeutické dávky), ale zůstala ve stejných rozmezích jako u kontrol.
+
+Farmakologické studie bezpečnosti neprokázaly účinek agomelatinu na hERG (human Ether à-go-go Related Gene) proud nebo na akční potenciál Purkyňových buněk u psů. Agomelatin neprokázal prokonvulzivní vlastnosti u myší a potkanů při dávkách až do 128 mg/kg aplikovaných intraperitoneálně.
+Nebyly pozorovány žádné účinky agomelatinu na chování mláďat, na zrakové a reprodukční funkce. Byly zaznamenány mírné na dávce nezávislé poklesy tělesné hmotnosti v závislosti na farmakologických vlastnostech a zanedbatelné vlivy na mužský reprodukční systém bez poškození reprodukční schopnosti.
+
+6.  FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+Jádro tablety:
+Koloidní bezvodý oxid křemičitý Mikrokrystalická celulosa Mannitol
+Povidon 30
+Koloidní bezvodý oxid křemičitý
+
+10
+
+Krospovidon
+Natrium-stearyl-fumarát Magnesium-stearát Kyselina stearová
+
+Potahová vrstva:
+Hypromelosa Makrogol
+Oxid titaničitý (E 171) Mastek
+Žlutý oxid železitý (E 172)
+
+6.2  Inkompatibility
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+
+2 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Uchovávejte v původním obalu, aby byl přípravek chráněn před vlhkostí. Tento léčivý přípravek nevyžaduje žádné zvláštní teplotní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+
+Blistr (OPA/Al/PVC/Al)
+Velikost balení: 28, 30, 56, 84 a 98 tablet.
+
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+Žádné zvláštní požadavky na likvidaci.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovinsko
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+30/039/18-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 12. 9. 2018
+
+10.  DATUM REVIZE TEXTU
+7. 4. 2021
+Podrobné informace o tomto léčivém přípravku jsou k dispozici na webových stránkách Státního ústavu pro kontrolu léčiv (www.sukl.cz).
+
+
+11

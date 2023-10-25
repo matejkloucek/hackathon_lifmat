@@ -1,0 +1,617 @@
+Sp.zn.sukls35685/2019
+
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.  NÁZEV PŘÍPRAVKU
+Urizia 6 mg/0,4 mg tablety s řízeným uvolňováním
+
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Jedna tableta obsahuje vrstvu solifenacini succinas 6 mg, což odpovídá solifenacinum 4,5 mg, a vrstvu tamsulosini hydrochloridum 0,4 mg, což odpovídá tamsulosinum 0,37 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+
+3.  LÉKOVÁ FORMA
+Tableta s řízeným uvolňováním
+
+Tableta je kulatá, cca 9 mm v průměru, červeně potahovaná s vyraženým „6/0,4“.
+
+
+4.  KLINICKÉ ÚDAJE
+
+4.1  Terapeutické indikace
+
+Léčba středně těžkých až těžkých jímacích symptomů (urgence, zvýšená frekvence močení)
+a mikčních symptomů spojených s benigní hyperplazií prostaty (BPH) u mužů, kteří adekvátně nereagují na léčbu monoterapií.
+4.2  Dávkování a způsob podání
+Dospělí muži, včetně starších lidí
+Jedna tableta přípravku Urizia (6 mg/0,4 mg) jednou denně, podávaná perorálně spolu s jídlem nebo nezávisle na jídle. Maximální denní dávka je jedna tableta přípravku Urizia (6 mg/0,4 mg).
+Tableta se musí polykat celá, neporušená bez kousání nebo žvýkání. Tabletu nedrťte.
+
+Pacienti s poruchou funkce ledvin
+Vliv poruchy funkce ledvin na farmakokinetiku přípravku Urizia nebyl studován. Avšak vliv
+na farmakokinetiku jednotlivých léčivých látek je dobře znám (viz bod 5.2). Přípravek Urizia lze používat u pacientů s mírnou až středně těžkou poruchou funkce ledvin (clearance kreatininu
+> 30 ml/min). Pacienty s těžkou poruchou funkce ledvin (clearance kreatininu ≤ 30 ml/min) je třeba léčit s opatrností a maximální denní dávka u těchto pacientů je jedna tableta Urizia (6 mg/0,4 mg) (viz bod 4.4).
+
+Pacienti s poruchou funkce jater
+Vliv poruchy funkce jater na farmakokinetiku přípravku Urizia nebyl studován. Avšak vliv
+na farmakokinetiku jednotlivých léčivých látek je dobře znám (viz bod 5.2). Urizia lze používat u pacientů s lehkou poruchou funkce jater (Child-Pugh skóre ≤ 7). Pacienty se středně těžkou
+poruchou funkce jater (Child-Pugh skóre 7 – 9) je třeba léčit s opatrností a maximální denní dávka
+
+1
+
+u těchto pacientů je jedna tableta Urizia (6 mg/0,4 mg). U pacientů s těžkou poruchou funkce jater (Child-Pugh skóre > 9) je použití přípravku Urizia kontraindikováno (viz bod 4.3).
+Středně a vysoce účinné inhibitory cytochromu P450 3A4
+Maximální denní dávka přípravku Urizia má být omezena na jednu tabletu (6 mg/0,4 mg). Přípravek Urizia má být používán s opatrností u pacientů současně léčených středně nebo vysoce účinnými inhibitory CYP3A4, jako jsou např. verapamil, ketokonazol, ritonavir, nelfinavir, itrakonazol (viz bod 4.5).
+
+Pediatrická populace
+Neexistuje žádná relevantní indikace k použití přípravku Urizia u dětí a dospívajících.
+
+4.3  Kontraindikace
+-  pacienti s hypersenzitivitou na léčivou látku(y) nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1
+-  pacienti podstupující hemodialýzu (viz bod 5.2)
+-  pacienti s těžkou poruchou jater (viz bod 5.2)
+-  pacienti s těžkou poruchou funkce ledvin, kteří jsou současně léčeni vysoce účinným inhibitorem cytochromu P450 (CYP) 3A4, např. ketokonazolem (viz bod 4.5)
+-  pacienti se středně těžkým poškozením jater, kteří jsou současně léčeni vysoce účinným inhibitorem CYP3A4, např. ketokonazolem (viz bod 4.5)
+-  pacienti se závažnými gastrointestinálními poruchami (včetně toxického megakolonu) myasthenia gravis nebo glaukomem s úzkým úhlem a pacienti s rizikem těchto onemocnění
+-  pacienti s anamnézou ortostatické hypotenze.
+
+4.4  Zvláštní upozornění a opatření pro použití
+Přípravek Urizia by měl být používán s opatrností u pacientů s:
+-  těžkou poruchou funkce ledvin
+-  rizikem retence moči
+-  gastrointestinálními obstrukčními poruchami
+-  rizikem snížení gastrointestinální motility
+-  hiátovou hernií/gastroezofageálním refluxem nebo ti, kteří současně užívají léčivé přípravky (jako jsou bisfosfonáty), které mohou vyvolat nebo zhoršit ezofagitidu
+-  autonomní neuropatií.
+
+Pacient má být pečlivě vyšetřen s cílem vyloučit ostatní onemocnění, jejichž příznaky mohou být shodné s příznaky benigní hyperplazie prostaty.
+Před zahájením léčby přípravkem Urizia mají být posouzeny jiné možné příčiny častého močení (srdeční selhání nebo onemocnění ledvin). Je-li přítomna infekce močových cest, má být zahájena odpovídající antibakteriální léčba.
+U pacientů s rizikovými faktory, jako jsou předcházející výskyt syndromu dlouhého QT intervalu
+a hypokalemie, kteří jsou léčeni solifenacin sukcinátem, bylo pozorováno prodloužení QT intervalu a výskyt Torsade de pointes.
+
+U pacientů, kteří užívají solifenacin sukcinát a tamsulosin, byl hlášen výskyt angioedému s obstrukcí dýchacích cest. Pokud dojde k výskytu angioedému, podávání přípravku Urizia má být okamžitě
+ukončeno a nemá být znovu zahajováno. Má být zavedena příslušná léčba a/nebo jiná opatření.
+
+U některých pacientů užívajících solifenacin sukcinát byla hlášena anafylaktická reakce. U pacientů, u kterých dojde k anafylaktické reakci, musí být podávání přípravku Urizia okamžitě ukončeno a má být zavedena příslušná léčba a/nebo jiná opatření.
+
+
+
+2
+
+Stejně jako u jiných antagonistů α₁-adrenoreceptorů může při léčbě tamsulosinem dojít v jednotlivých případech k poklesu krevního tlaku a v důsledku toho může ve vzácných případech dojít ke mdlobě. Pacienti, kteří zahajují léčbu přípravkem Urizia, mají být upozorněni, aby si při prvních příznacích ortostatické hypotenze (závrať, slabost) sedli nebo lehli, dokud tyto příznaky neodezní.
+
+Peroperační syndrom plovoucí duhovky (IFIS – Intraoperative Floppy Iris Syndrome, varianta syndromu malé zornice) byl pozorován během operací katarakty a glaukomu u některých pacientů současně či v minulosti léčených tamsulosin hydrochloridem. IFIS může zvýšit riziko očních
+komplikací během operace a po operaci. Zahajování léčby přípravkem Urizia u pacientů plánovaných k operaci katarakty nebo glaukomu se nedoporučuje. Přerušení léčby přípravkem Urizia 1-2 týdny před operací katarakty nebo glaukomu je považováno za užitečné, nicméně skutečný přínos tohoto přerušení nebyl stanoven. Během předoperační rozvahy mají oční specialisté vzít v úvahu, zda pacient indikovaný k operaci katarakty nebo glaukomu je nebo byl léčen přípravkem Urizia, aby byla
+zajištěna příslušná opatření k případnému zvládnutí IFIS během operace.
+Přípravek Urizia má být používán s opatrností v kombinaci se středně a vysoce účinnými inhibitory CYP3A4 (viz bod 4.5) a neměl by být používán v kombinaci s vysoce účinnými inhibitory CYP3A4, např. ketokonazolem, u pacientů se slabým metabolickým fenotypem CYP2D6 nebo těch, kteří
+užívají vysoce účinné inhibitory CYP2D6, např. paroxetin.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Současné podávání s jinými léčivými přípravky s anticholinergními vlastnostmi může mít za následek výraznější léčebný účinek i nežádoucí účinky. Mezi ukončením léčby přípravkem Urizia
+a zahájením jiné anticholinergní terapie je nutná přestávka přibližně 1 týden. Léčebný účinek solifenacinu může být snížen současným podáváním agonistů cholinergních receptorů.
+Interakce s inhibitory CYP3A4 a CYP2D6
+Současné podávání solifenacinu s ketokonazolem (silný inhibitor CYP3A4) (200 mg/den) vedlo
+k 1,4násobnému vzestupu Cmₐₓ a dvojnásobnému vzestupu plochy pod křivkou (AUC) solifenacinu, zatímco ketokonazol v dávce 400 mg/den vedl k 1,5násobnému vzestupu Cmₐₓ a 2,8násobnému vzestupu AUC solifenacinu.
+Souběžné podávání tamsulosinu s ketokonazolem v dávce 400 mg/den vedlo k 2,2násobnému vzestupu Cmₐₓ a 2,8násobnému vzestupu AUC tamsulosinu.
+
+Vzhledem k tomu, že souběžné podávání s vysoce účinnými inhibitory CYP3A4, jako jsou ketokonazol, ritonavir, nelfinavir a itrakonazol, může vést k zvýšené expozici solifenacinu
+i tamsulosinu, má být přípravek Urizia v kombinaci s vysoce účinnými inhibitory CYP3A4 používán s opatrností.
+Přípravek Urizia nemá být podáván společně s vysoce účinnými inhibitory CYP3A4 u pacientů, kteří jsou také slabým metabolickým fenotypem CYP2D6 nebo kteří již užívají vysoce účinné inhibitory CYP2D6.
+Souběžné podávání přípravku Urizia s verapamilem (středně účinný inhibitor CYP3A4) vedlo
+k přibližně 2,2násobnému vzestupu Cmₐₓ a AUC tamsulosinu a přibližně k 1,6násobnému vzestupu Cmₐₓ a AUC solifenacinu. Přípravek Urizia má být v kombinaci se středně účinnými inhibitory CYP3A4 používán s opatrností.
+
+Souběžné podávání tamsulosinu se slabým inhibitorem CYP3A4 cimetidinem (400 mg každých 6 hodin) vedlo k 1,44násobnému vzestupu AUC tamsulosinu, zatímco hodnota Cmₐₓ se významně nezměnila. Urizia se v kombinaci se slabými inhibitory CYP3A4 může používat.
+
+
+
+3
+
+Souběžné podávání tamsulosinu s vysoce účinnými inhibitorem CYP2D6 paroxetinem (20 mg/den) vedlo k 1,3 násobnému vzestupu Cmₐₓ tamsulosinu a 1,6 násobnému vzestupu AUC. Urizia se může používat s inhibitory CYP2D6.
+Vliv enzymové indukce na farmakokinetiku solifenacinu a tamsulosinu nebyl studován. Vzhledem k tomu, že solifenacin a tamsulosin jsou metabolizovány cytochromem CYP3A4, jsou možné farmakokinetické interakce s induktory CYP3A4 (např. rifampicin), neboť ty mohou snižovat
+plazmatické koncentrace solifenacinu a tamsulosinu.
+
+Další interakce
+Následná tvrzení vycházejí z informací dostupných pro jednotlivé léčivé látky. Solifenacin
+-  Solifenacin může snižovat účinek léčivých přípravků, které stimulují motilitu gastrointestinálního
+traktu, jako jsou metoklopramid a cisaprid.
+-  Studie in vitro se solifenacinem prokázaly, že solifenacin v terapeutických koncentracích neinhibuje CYP1A1/2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 ani 3A4. Proto se neočekávají žádné interakce mezi solifenacinem a léky metabolizovanými těmito enzymy CYP.
+-  Užívání solifenacinu neovlivnilo farmakokinetiku R-warfarinu nebo S-warfarinu ani jejich účinek na protrombinový čas.
+-  Užívání solifenacinu neprokázalo žádný účinek na farmakokinetiku digoxinu.
+Tamsulosin
+-  Současné podávání s jiným antagonistou α₁₋adrenoreceptorů může snižovat krevní tlak.
+-  Při studii in vitro se volná frakce tamsulosinu v lidské plazmě nezměnila vlivem diazepamu, propranololu, trichlormethiazidu, chlormadinonu, amitriptylinu, diklofenaku, glibenklamidu, simvastatinu nebo warfarinu. Tamsulosin nemění volnou frakci diazepamu, propranololu, trichlormethiazidu nebo chlormadinonu. Diklofenak a warfarin však mohou zvýšit rychlost eliminace tamsulosinu.
+-  Současné podávání s furosemidem způsobuje pokles plazmatických hladin tamsulosinu, ale pokud hladiny zůstanou v normálním rozmezí, je souběžné použití přípustné.
+-  Studie in vitro s tamsulosinem prokázaly, že tamsulosin v terapeutických koncentracích neinhibuje CYP1A2, 2C9, 2C19, 2D6, 2E1 ani 3A4. Proto se neočekávají žádné interakce mezi tamsulosinem a léky metabolizovanými těmito enzymy CYP.
+-  Při současném podávání tamsulosinu s atenololem, enalaprilem nebo theofylinem nebyly pozorovány žádné interakce.
+
+4.6  Fertilita, těhotenství a kojení
+Fertilita
+Vliv přípravku Urizia na fertilitu nebyl stanoven. Studie na zvířatech se solifenacinem nebo tamsulosinem nenaznačují škodlivé účinky na fertilitu a časný embryonální vývoj (viz bod 5.3).
+Na základě krátkodobých i dlouhodobých studií s tamsulosinem byly pozorovány poruchy ejakulace.
+Po uvedení přípravku na trh byly hlášeny příhody jako porucha ejakulace, retrográdní ejakulace a selhání ejakulace.
+Těhotenství a kojení
+Přípravek Urizia není určen k použití u žen.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+Nebyly provedeny žádné studie, které by stanovily účinky přípravku Urizia na schopnost řídit nebo obsluhovat stroje. Pacienti mají však být informováni o možném výskytu závratě, rozmazaného
+vidění, únavy a méně často ospalosti, což může mít negativní vliv na schopnost řídit nebo obsluhovat stroje (viz bod 4.8).
+4
+
+4.8  Nežádoucí účinky
+Shrnutí bezpečnostního profilu
+Urizia může způsobit anticholinergní nežádoucí účinky obecně mírné až střední závažnosti.
+Nejčastěji hlášenými nežádoucími účinky v klinických studiích provedených při vývoji přípravku Urizia bylo sucho v ústech (9,5 %), následuje zácpa (3,2 %) a dyspepsie (včetně bolesti břicha,
+2,4 %). Další časté nežádoucí účinky jsou závratě (včetně vertiga, 1,4 %), rozmazané vidění (1,2 %), únava (1,2 %) a poruchy ejakulace (včetně retrográdní ejakulace, 1,5 %). Nejzávažnější nežádoucí
+účinek, který byl pozorován v klinických studiích při léčbě přípravkem Urizia, je akutní retence moči (0,3 %, méně časté).
+
+Souhrnná tabulka nežádoucích účinků
+V níže uvedené tabulce uvádí sloupec „četnost Urizia“ nežádoucí účinky, které byly pozorovány během dvojitě zaslepených klinických studií provedených při vývoji přípravku Urizia (na základě hlášení nežádoucích účinků souvisejících s léčbou, které byly hlášeny nejméně dvěma pacienty
+a jejichž četnost výskytu byla vyšší než u placeba ve dvojitě zaslepených studiích).
+Sloupce „četnost solifenacin“ a „četnost tamsulosin“ odráží nežádoucí účinky (NÚ) dříve hlášené u jedné z jednotlivých složek (jak je uvedeno v souhrnu údajů o přípravku (SPC) solifenacinu
+5 a 10 mg a tamsulosinu 0,4 mg), které mohou nastat při užívání přípravku Urizia (některé z nich nebyly během programu klinického vývoje přípravku Urizia pozorovány).
+Četnost výskytu nežádoucích účinků je definována takto: velmi časté (≥1/10); časté (≥1/100 až
+<1/10); méně časté (≥1/1,000 až <1/100); vzácné (≥1/10 000 až <1/1000); velmi vzácné (<1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů (SOC) / Preferovaný termín (PT)
+Četnost NÚ pozorovaná
+Četnost NÚ pozorovaná u jednotlivých složek
+
+
+
+Infekce a infestace
+během vývoje
+přípravku Urizia
+Solifenacin 5 mg
+a 10 mg#
+Tamsulosin 0,4 mg#
+Infekce močových cest                   Méně časté
+Cystitida                          Méně časté
+Poruchy imunitního systému
+
+Anafylaktická reakce
+Poruchy metabolismu a výživy Snížená chuť k jídlu Hyperkalemie
+Psychiatrické poruchy
+Halucinace Stav zmatenosti Delirium
+Poruchy nervového systému
+Závrať Somnolence Dysgeuzie Bolest hlavy Synkopa
+
+
+
+
+
+
+
+
+
+
+
+Časté
+Není známo*
+
+Není známo* Není známo*
+
+Velmi vzácné* Velmi vzácné * Není známo*
+
+Vzácné * Méně časté Méně časté Vzácné *
+
+
+
+
+
+
+
+
+
+
+
+Časté
+
+
+Méně časté Vzácné
+5
+
+Třídy orgánových systémů (SOC) / Preferovaný termín (PT)
+Četnost NÚ pozorovaná
+Četnost NÚ pozorovaná u jednotlivých složek
+
+
+
+Poruchy oka
+Rozmazané vidění
+Peroperační syndrom plovoucí duhovky (IFIS)
+Suché oči Glaukom
+Postižení zraku
+Srdeční poruchy
+Palpitace
+Torsade de pointes
+Prodloužení QT intervalu na EKG Fibrilace síní
+Arytmie Tachykardie
+Cévní poruchy
+během vývoje
+přípravku Urizia
+
+Časté
+Solifenacin 5 mg
+a 10 mg#
+
+Časté
+
+
+Méně časté Není známo*
+
+
+Není známo* Není známo* Není známo* Není známo*
+
+Není známo*
+Tamsulosin 0,4 mg#
+
+Není známo* Není
+známo**
+
+
+Není známo* Méně časté
+
+Není známo* Není známo* Není známo*
+Ortostatická hypotenze                              Méně časté
+Respirační, hrudní a mediastinální poruchy
+
+Rinitida Suchost v nose Dyspnoe Dysfonie Epistaxe
+Gastrointestinální poruchy Sucho v ústech Dyspepsie
+Zácpa Nauzea
+Bolest břicha
+Refluxní choroba jícnu Průjem
+Sucho v krku Zvracení
+Obstrukce tlustého střeva Fekální impakce
+Ileus
+Břišní diskomfort
+Poruchy jater a žlučových cest
+
+
+
+
+
+
+
+Časté Časté Časté
+
+Méně časté Není známo*
+
+Velmi časté Časté
+Časté Časté Časté
+Méně časté
+
+Méně časté Vzácné * Vzácné Vzácné
+Není známo* Není známo*
+Méně časté Není známo* Není známo*
+
+
+Méně časté Méně časté
+
+
+Méně časté Méně časté
+Poruchy jater                        Není známo*
+
+Abnormální výsledky jaterních testů
+6
+Není známo*
+
+Třídy orgánových systémů (SOC) / Preferovaný termín (PT)
+Četnost NÚ pozorovaná
+Četnost NÚ pozorovaná u jednotlivých složek
+
+
+
+Poruchy kůže a podkožní tkáně
+Pruritus
+Suchá kůže Vyrážka Kopřivka Angioedém
+Stevens-Johnsonův syndrom Erythema multiforme Exfoliativní dermatitida
+během vývoje
+přípravku Urizia
+
+Méně časté
+Solifenacin 5 mg
+a 10 mg#
+
+Vzácné * Méně časté Vzácné*
+Velmi vzácné * Velmi vzácné *
+
+Velmi vzácné * Není známo*
+Tamsulosin 0,4 mg#
+
+Méně časté
+
+Méně časté Méně časté Vzácné Velmi vzácné Není známo* Není známo*
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Svalová slabost                       Není známo*
+Poruchy ledvin a močových cest
+
+Retence moči*** Obtížné močení
+Porucha funkce ledvin
+Poruchy reprodukčního systému a prsu
+Poruchy ejakulace včetně
+retrográdní ejakulace a selhání ejakulace
+Priapismus
+Celkové poruchy a reakce v místě aplikace
+Únava Periferní edém Astenie
+Méně časté
+
+
+
+
+Časté
+
+
+
+
+Časté
+Vzácné
+Méně časté Není známo*
+
+
+
+
+
+
+
+Méně časté Méně časté
+
+
+
+
+
+Časté
+
+
+Velmi vzácné
+
+
+
+
+Méně časté
+#: Nežádoucí účinky (NÚ) solifenacinu a tamsulosinu uvedené v této tabulce jsou NÚ uvedené v souhrnu údajů o přípravku obou přípravků.
+*: zaznamenáno po uvedení přípravku na trh. Protože tyto spontánně hlášené účinky jsou
+z celosvětových post-marketingových zkušeností, četnost těchto účinků a úlohu solifenacinu nebo tamsulosinu a jejich příčinných souvislostí nelze spolehlivě určit.
+**: zaznamenáno po uvedení přípravku na trh, pozorované během operace katarakty a glaukomu
+***: viz bod 4.4 Zvláštní upozornění a opatření pro použití.
+
+Dlouhodobá bezpečnost přípravku Urizia
+Profil nežádoucích účinků pozorovaných při léčbě až do 1 roku byl podobný jako u 12týdenních
+studií. Přípravek je dobře snášen a s dlouhodobým užíváním nebyly spojeny žádné zvláštní nežádoucí účinky.
+
+Popis vybraných nežádoucích účinků
+Pro retenci moči viz bod 4.4 Zvláštní upozornění a opatření pro použití.
+
+Starší populace
+Terapeutická indikace přípravku Urizia, středně těžké a těžké příznaky zadržování moči (urgence, zvýšená frekvence močení) a příznaky obtížného močení spojeného s BPH, je onemocnění
+postihující starší muže. Klinický vývoj přípravku Urizia byl proveden u pacientů ve věku 45 až 91 let,
+
+7
+
+přičemž věkový průměr činil 65 let. Nežádoucí účinky u starší populace byly podobné jako u mladší populace.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické
+pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+
+4.9  Předávkování
+Příznaky
+Předávkování kombinace solifenacinu a tamsulosinu může potenciálně vést k těžkému
+anticholinergnímu účinku a akutní hypotenzi. Nejvyšší dávka náhodně užitá v průběhu klinické studie odpovídala 126 mg solifenacin-sukcinátu a 5,6 mg tamsulosin hydrochloridu. Tato dávka byla dobře snášena po dobu 16 dnů, s mírným suchem v ústech, jakožto jediným hlášeným nežádoucím účinkem.
+Léčba
+V případě předávkování solifenacinem a tamsulosinem má být pacient léčen aktivním živočišným uhlím. Výplach žaludku je užitečný, pokud je proveden do 1 hodiny po požití, ale zvracení se nemá vyvolávat.
+Příznaky předávkování mohou být, stejně jako u jiných anticholinergik, vzhledem k solifenacinové složce léčeny následovně:
+-  Těžké centrální anticholinergní účinky jako halucinace nebo výrazná excitace: léčit fysostigminem nebo karbacholem.
+-  Křeče nebo výrazná excitace: léčit benzodiazepiny.
+-  Respirační insuficience: léčit umělou ventilací.
+-  Tachykardie: léčit symptomaticky v případě potřeby. Beta-blokátory mají být používány
+s opatrností, protože současné předávkování tamsulosinem by mohlo potenciálně vyvolat těžkou hypotenzi.
+-  Retence moči: léčit katetrizací.
+
+Stejně jako u ostatních antimuskarinik je třeba při předávkování věnovat zvláštní pozornost pacientům se známým rizikem prodloužení QT intervalu (tj. s hypokalemií, bradykardií nebo
+současným podáváním léků, které prodlužují QT interval) a relevantních již existujících srdečních chorob (tj. ischémie myokardu, arytmie, městnavého srdečního selhání).
+Akutní hypotenzi, která se může objevit po předávkování kvůli složce tamsulosin, je třeba léčit
+symptomaticky. Je nepravděpodobné, že by mohla pomoci hemodialýza, protože tamsulosin se ve vysoké míře váže na bílkoviny krevní plazmy.
+
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: antagonisté α-adrenergních receptorů ATC kód: G04CA53
+
+
+
+8
+
+Mechanismus účinku
+Urizia je kombinovaná tableta s fixní dávkou obsahující dvě léčivé látky, solifenacin a tamsulosin. Tyto léky mají nezávislé a vzájemně se doplňující mechanismy účinku při léčbě příznaků dolních cest močových (LUTS – lower urinary tract symptoms) spojených s benigní hyperplazií prostaty (BPH),
+s příznaky zadržování moči.
+
+Solifenacin je kompetitivní a selektivní antagonista muskarinových receptorů a nemá relevantní afinitu k různým ostatním testovaným receptorům, enzymům a iontovým kanálům. Solifenacin má nejvyšší afinitu k muskarinovým M₃-receptorům, následovaným muskarinovými receptory M₁ a M₂.
+
+Tamsulosin je antagonista α₁-adrenoreceptoru (AR). Selektivně a kompetitivně se váže na
+postsynaptické α₁-AR, zejména na podtypy α₁A a α₁D, a je to silný antagonista v tkáních dolních cest močových.
+Farmakodynamické účinky
+Tablety Urizia obsahují dvě léčivé látky s nezávislými a vzájemně se doplňujícími účinky při LUTS spojenými s BPH, s jímacími symptomy:
+Solifenacin zmírňuje potíže spojené s funkcí zadržování moči, které se vztahují k non-neuronálně
+uvolněnému acetylcholinu aktivujícímu M₃-receptory v močovém měchýři. Non-neuronálně uvolněný acetylcholin zvyšuje citlivost senzorické funkce urotelu a projevuje se jako nucení na močení (urgence) a zvýšená frekvence močení.
+Tamsulosin zlepšuje mikční symptomy (zvyšuje maximální průtok moči) tím, že zmírňuje obstrukci prostřednictvím uvolnění hladkého svalstva v prostatě, hrdla močového měchýře a močové trubice. Také zlepšuje příznaky zadržování moči (jímací symptomy).
+
+Klinická účinnost a bezpečnost
+Účinnost byla prokázána v pivotní studii fáze 3 u pacientů s LUTS spojených s BPH s mikčními (obstrukčními) symptomy s alespoň následující úrovní jímacích (iritačních) symptomů:
+≥ 8 mikcí/24 hodin a ≥ 2 epizody urgence/24 hodin.
+
+Přípravek Urizia prokázal ke konci studie statisticky významná zlepšení oproti výchozímu stavu
+v porovnání s placebem v obou cílových parametrech, v celkovém mezinárodním skóre prostatických symptomů (IPSS – International Prostate Symptoms Score) a celkovém skóre urgence a frekvence,
+a rovněž v sekundárních cílových parametrech urgence, mikce, frekvence, průměrně vyloučeného objemu, nykturie, podskóre IPSS močení, podskóre IPSS zadržování moči, IPSS QoL, OAB-q skóre obtěžování a OABq skóre kvality života související se zdravím (HRQoL – Health Related Quality of Life) zahrnující všechna podskóre (zvládání problému, obavy, spánek a sociální aspekt).
+Přípravek Urizia prokázal významné zlepšení ve srovnání s tamsulosinem OCAS v celkovém skóre urgence a frekvence, stejně jako ve frekvenci močení, v průměrném vyloučeném objemu moči
+za jednu mikci a podskóre IPSS zadržování moči. To bylo doprovázeno výrazným zlepšením v IPSS QoL a OAB-Q HRQoL celkovém skóre včetně všech podskóre. Přípravek Urizia navíc dle očekávání nebyl horší než tamsulosin OCAS v celkovém IPSS (p <0,001) skóre.
+5.2  Farmakokinetické vlastnosti
+Urizia
+Níže uvedené informace uvádějí farmakokinetické parametry po opakovaném podávání přípravku.
+Studie relativní biologické dostupnosti po více dávkách prokázala, že podávání přípravku Urizia vede ke srovnatelné expozici jako při současném podání samostatných tablet solifenacinu a tamsulosinu OCAS ve stejných dávkách.
+
+Absorpce
+Po opakovaném podání přípravku Urizia se tmₐₓ solifenacinu pohyboval mezi 4,27 hodinami a 4,76 hodinami v různých studiích; tmₐₓ tamsulosinu se pohyboval mezi 3,47 hodinami
+9
+
+a 5,65 hodinami. Odpovídající Cmₐₓ hodnoty solifenacinu se pohybovaly mezi 26,5 ng/ml
+a 32,0 ng/ml, zatímco hodnota Cmₐₓ tamsulosinu se pohybovala mezi 6,56 ng/ml a 13,3 ng/ml. Hodnoty AUC solifenacinu se pohybovaly mezi 528 ng.h/ml a 601 ng.h/ml, a tamsulosinu mezi 97,1 ng.h/ml a 222 ng.h/ml. Absolutní biologická dostupnost solifenacinu je přibližně 90%, zatímco tamsulosinu se podle odhadu absorbuje 70 % až 79 %.
+Studie vlivu jedné dávky jídla byla provedena s přípravkem Urizia dávkovaným nalačno,
+po nízkotučné, nízkokalorické snídani a po vysoce kalorické snídani s vysokým obsahem tuku.
+Po vysoce kalorické snídani s vysokým obsahem tuku bylo pozorováno 54% zvýšení u hodnoty Cmₐₓ pro složku tamsulosinu přípravku Urizia ve srovnání se stavem nalačno, zatímco AUC bylo zvýšeno o 33 %. Nízkotučná, nízkokalorická snídaně neovlivnila farmakokinetiku tamsulosinu.
+Farmakokinetika solifenacinové složky nebyla ovlivněna ani nízkotučnou, nízkokalorickou snídaní, ani vysoce kalorickou snídaní s vysokým obsahem tuku.
+Souběžné podávání solifenacinu a tamsulosinu OCAS vedlo k 1,19násobnému zvýšení Cmₐₓ a 1,24násobnému zvýšení AUC tamsulosinu ve srovnání s AUC samostatně podaných tablet tamsulosinu OCAS. Nebyl zaznamenán žádný náznak svědčící o vlivu tamsulosinu na farmakokinetiku solifenacinu.
+
+Eliminace
+Po jednorázovém podání přípravku Urizia se biologický poločas t₁/₂ solifenacinu pohyboval v rozmezí od 49,5 hodiny do 53,0 hodin a u tamsulosinu od 12,8 hodin do 14,0 hodin.
+
+Opakované dávky verapamilu 240 mg jednou denně podávané s přípravkem Urizia vedly k 60% nárůstu Cmₐₓ a 63% nárůstu AUC u solifenacinu, zatímco u tamsulosinu se Cmₐₓ zvýšil o 115 % a AUC o 122 %. Změny v Cmₐₓ a AUC nejsou považovány za klinicky relevantní.
+Populační farmakokinetické analýzy dat studií fáze 3 ukázaly, že intraindividuální variabilita farmakokinetiky tamsulosinu souvisela s rozdíly ve věku, tělesné výšce a plazmatické koncentraci α1- kyselého glykoproteinu. Vyšší věk a α₁-kyselý glykoprotein byly spojeny se zvýšením AUC, zatímco větší výška byla spojena se snížením AUC. Stejné faktory vedly k podobným změnám ve farmakokinetice solifenacinu. Kromě toho bylo zvýšení gama-glutamyl-transpeptidázy spojeno
+s vyššími hodnotami AUC. Tyto změny v AUC nejsou považovány za klinicky relevantní.
+
+Informace o jednotlivých léčivých látkách používaných jako jednotlivé samostatné přípravky dotváří úplnost farmakokinetických vlastností přípravku Urizia:
+Solifenacin
+Absorpce
+U tablet solifenacinu je hodnota tmₐₓ nezávislá na dávce a dochází k ní 3 až 8 hodin po opakovaném podání dávky. Cmₐₓ a AUC se zvyšují v poměru k dávce mezi 5 a 40 mg. Absolutní biologická
+dostupnost je přibližně 90%.
+
+Distribuce
+Zdánlivý distribuční objem solifenacinu po nitrožilním podání je přibližně 600 l. Přibližně 98 % solifenacinu se váže na plazmatické bílkoviny, hlavně α₁-kyselý glykoprotein.
+Biotransformace
+Solifenacin má nízký „first pass effect“, je metabolizován pomalu. Solifenacin je ve velké míře metabolizován v játrech, primárně enzymem CYP3A4. Existují však také jiné metabolické cesty, které mohou přispět k metabolismu solifenacinu. Systémová clearance solifenacinu je přibližně 9,5 l/h. Po perorálním podání byl v plazmě kromě solifenacinu zjištěn ještě jeden farmakologicky aktivní metabolit (4R-hydroxy solifenacin) a tři neaktivní metabolity (N-glukuronid, N-oxid a 4R- hydroxyl-N-oxid solifenacinu).
+
+
+
+10
+
+Eliminace
+Po jednorázovém podání 10 mg [¹⁴C-značeného]-solifenacinu bylo detekováno přibližně 70 % radioaktivity v moči a 23 % ve stolici více než 26 dní. V moči je přibližně 11 % radioaktivity získáno zpět jako nezměněná léčivá látka; přibližně 18 % jako metabolit N-oxid, 9 % jako metabolit
+4R-hydroxy-N-oxid a 8 % jako 4R-hydroxy metabolit (aktivní metabolit).
+Tamsulosin
+Absorpce
+U tamsulosinu OCAS dochází k tmₐₓ 4 až 6 hodin po opakovaném podání dávky 0,4 mg/den. Cmₐₓ
+a AUC se zvyšují v poměru k dávce mezi 0,4 a 1,2 mg. Absolutní biologická dostupnost je přibližně 57 %.
+Distribuce
+Distribuční objem tamsulosinu po nitrožilním podání je přibližně 16 l. Přibližně 99 % tamsulosinu se váže na plazmatické bílkoviny, hlavně α₁-kyselý glykoprotein.
+
+Biotransformace
+Tamsulosin má nízký „first pass effect“, je metabolizován pomalu. Tamsulosin je ve velké míře
+metabolizován v játrech, primárně enzymy CYP3A4 a CYP2D6. Systémová clearance tamsulosinu je přibližně 2,9 l/h. Většina tamsulosinu je přítomna v plazmě ve formě nezměněné léčivé látky.
+Žádný z metabolitů nebyl účinnější než původní sloučenina.
+
+Eliminace
+Po jednorázovém podání 0,2 mg [¹⁴C-značeného]-tamsulosinu bylo po 1 týdnu vyloučeno přibližně 76 % radioaktivity v moči a 21 % ve stolici. V moči je přibližně 9 % radioaktivity získáno zpět jako nezměněný tamsulosin; přibližně 16 % jako sulfát o-deetylovaného tamsulosinu a 8 % jako kyselina o-ethoxyfenoxy octová.
+
+Charakteristika u specifických skupin pacientů
+Starší populace
+V klinických farmakologických a biofarmaceutických studiích se věk pacientů pohyboval mezi 19 a 79 lety. Po podání přípravku Urizia byly nejvyšší průměrné hodnoty expozice nalezeny u starších pacientů, ačkoli došlo k téměř úplnému překrytí s jednotlivými hodnotami nalezenými u mladších
+pacientů. Toto bylo potvrzeno údaji populační farmakokinetické analýzy studií fáze 2 a 3. Přípravek Urizia se může používat u starších pacientů.
+
+Porucha funkce ledvin
+Urizia
+Přípravek Urizia se může používat u pacientů s mírnou až středně těžkou poruchou funkce ledvin, ale má se používat s opatrností u pacientů s těžkou poruchou funkce ledvin.
+
+Farmakokinetika přípravku Urizia nebyla studována u pacientů s poruchou funkce ledvin. Následující tvrzení odráží dostupné informace o jednotlivých složkách, pokud jde o poruchu funkce ledvin.
+Solifenacin
+Hodnoty AUC a Cmₐₓ solifenacinu u pacientů s mírnou až středně těžkou poruchou funkce ledvin nebyly výrazně odlišné od hodnot zjištěných u zdravých dobrovolníků. U pacientů s těžkou poruchou funkce ledvin (clearance kreatininu ≤ 30 ml/min) byla expozice solifenacinu významně větší než
+u kontrolní skupiny, s nárůstem Cmₐₓ přibližně o 30 %, AUC o více než 100 % a prodloužením t₁/₂ o více než 60 %. Statisticky významný vztah byl pozorován mezi clearancí kreatininu a clearancí solifenacinu.
+Farmakokinetika u pacientů podstupujících hemodialýzu nebyla studována.
+
+
+
+11
+
+Tamsulosin
+Farmakokinetika tamsulosinu byla porovnána u 6 pacientů s mírnou až středně těžkou (30 ≤ CrCl
+< 70 ml/min/1,73 m²) nebo těžkou (< 30 ml/min/1,73 m²) poruchou funkce ledvin s 6 zdravými subjekty (CrCl > 90 ml/min/1,73 m²). Zatímco byla pozorována změna v celkové plazmatické koncentraci tamsulosinu v důsledku pozměněné vazby na α₁-kyselý glykoprotein, koncentrace
+nenavázaného (aktivní) tamsulosin hydrochloridu, stejně jako vnitřní clearance, zůstaly relativně konstantní. Pacienti v konečném stádiu poruchy funkce ledvin (CrCl < 10 ml/min/1,73 m²) nebyli studováni.
+Porucha funkce jater
+Urizia
+Přípravek Urizia se může používat u pacientů s mírným až středně těžkým poškozením funkce jater, ale je kontraindikován u pacientů s těžkým poškozením funkce jater.
+Farmakokinetika přípravku Urizia nebyla studována u pacientů s poškozením funkce jater. Následující tvrzení odráží dostupné informace o jednotlivých složkách, pokud jde o poškození funkce jater.
+
+Solifenacin
+U pacientů se středně těžkým poškozením funkce jater (Child-Pugh skóre 7 až 9) nebyla hodnota Cmₐₓ ovlivněna, hodnota AUC se zvýšila o 60 % a t½ se zdvojnásobil. Farmakokinetika solifenacinu
+u pacientů s těžkým poškozením funkce jater nebyla studována.
+
+Tamsulosin
+Farmakokinetika tamsulosinu byla porovnána u 8 pacientů s mírným poškozením funkce jater (Child- Pugh skóre 7 až 9) a 8 zdravých subjektů. Zatímco byla pozorována změna v celkové plazmatické koncentraci tamsulosinu v důsledku pozměněné vazby na α₁-kyselý glykoprotein, koncentrace
+nenavázaného (aktivní) tamsulosinu se významně nezměnila a došlo jen k malé (32%) změně vnitřní clearance nenavázaného tamsulosinu. Tamsulosin nebyl studován u pacientů s těžkým poškozením funkce jater.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+S přípravkem Urizia nebyly prováděny neklinické studie. Solifenacin a tamsulosin byly jednotlivě rozsáhle hodnoceny v testech toxicity na zvířatech a zjištění byla v souladu se známými
+farmakologickými účinky. Neklinické údaje neodhalily žádné zvláštní riziko pro lidi na základě konvenčních farmakologických studií bezpečnosti, toxicity po opakovaném podání, fertility,
+embryofetálního vývoje, genotoxicity a kancerogenního potenciálu a nevyvolávají obavy o zesílení nebo synergismu nežádoucích účinků při kombinaci solifenacinu a tamsulosinu.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+Mannitol (E421) Maltosa
+Makrogol 7000000
+Makrogol 8000
+Magnesium-stearát (E470b) Butylhydroxytoluen (E321)
+Koloidní bezvodý oxid křemičitý (E551) Hypromelosa (E464)
+Oxid železitý červený (E172)
+
+
+
+12
+
+6.2  Inkompatibility
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+3 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+Aluminiové blistry obsahující 10, 14, 20, 28, 30, 50, 56, 60, 90, 100 nebo 200 tablet. Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+Astellas Pharma s.r.o Rohanské nábřeží 678/29 186 00 Praha 8 - Karlín Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO(A)
+73/439/13-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 13. listopadu 2013
+Datum posledního prodloužení registrace: 21. 3. 2018
+
+10.  DATUM REVIZE TEXTU
+
+1. 2. 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13

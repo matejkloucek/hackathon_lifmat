@@ -1,0 +1,507 @@
+Sp. zn. sukls247327/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+Uroflow 1 mg potahované tablety
+Uroflow 2 mg potahované tablety
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Uroflow 1 mg: Jedna potahovaná tableta obsahuje tolterodini hydrogenotartras 1 mg. Uroflow 2 mg: Jedna potahovaná tableta obsahuje tolterodini hydrogenotartras 2 mg.
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Potahovaná tableta.
+Uroflow 1 mg: žluté kulaté bikonvexní potahované tablety. Uroflow 2 mg: bílé kulaté bikonvexní potahované tablety.
+
+
+4.   KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Symptomatická léčba hyperaktivního močového měchýře se symptomy naléhavého a častého močení nebo naléhavé inkontinence.
+
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Dospělí (včetně starších pacientů)
+Doporučená dávka je 2 mg dvakrát denně s výjimkou pacientů s poruchou funkce jater nebo s těžkou poruchou funkce ledvin (GFR ≤ 30 ml/ min), u nichž je doporučená dávka 1 mg dvakrát denně (viz bod 4.4). V případě nepříjemných nežádoucích účinků je možné dávku snížit z 2 mg na 1 mg podávaný dvakrát denně.
+Účinnost léčby má být po 2 – 3 měsících znovu zhodnocena (viz bod 5.1).
+Pediatrická populace
+Účinnost tolterodinu u dětí a dospívajících nebyla prokázána (viz bod 5.1). Vzhledem k této skutečnosti se nedoporučuje tolterodin dětem podávat.
+4.3  Kontraindikace
+
+Tolterodin je kontraindikován u pacientů s:
+-   známou hypersenzitivitou na léčivou látku nebo na kteroukoliv pomocnou látku uvedenou v bodě 6.1,
+-   retencí moči,
+-   nekompenzovaným glaukomem s uzavřeným úhlem,
+
+1
+
+-   myasthenií gravis,
+-   závažnou ulcerózní kolitidou,
+-   toxickým megakolon.
+
+4.4  Zvláštní upozornění a zvláštní opatření pro použití
+
+Tolterodin se má podávat s opatrností u pacientů s:
+-   významnou obstrukcí močových cest s rizikem retence moče,
+-   obstrukční poruchou zažívacího ústrojí, např. stenózou pyloru,
+-   poruchou funkce ledvin (viz bod 4.2),
+-   jaterním onemocněním (viz body 4.2 a 5.2),
+-   autonomní neuropatií,
+-   hiátovou hernií,
+-   rizikem snížené gastrointestinální motility.
+
+Opakované perorální podání celkové denní dávky tolterodinu s okamžitým uvolňováním v dávkách 4 mg (terapeutická) a 8 mg (supraterapeutická) vedlo k prodloužení QT intervalu (viz bod 5.1). Klinický význam těchto nálezů není jasný a závisí na individuálních rizikových faktorech a vnímavosti pacienta. Tolterodin má být podáván s opatrností pacientům s rizikovými faktory pro prodloužení QT intervalu, které zahrnují:
+-   vrozené nebo prokázaně získané prodloužení QT intervalu,
+-   poruchy elektrolytové rovnováhy jako hypokalemie, hypomagnezemie a hypokalcemie,
+-  bradykardii,
+-   závažná již existující srdeční onemocnění (tj. kardiomyopatie, ischemie myokardu, arytmie, městnavé srdeční selhání),
+-   současné podávání léků, o kterých je známo, že prodlužují QT interval včetně antiarytmik skupiny IA (např. chinidin, prokainamid) a skupiny III (např. amiodaron, sotalol).
+Toto platí zvláště při užívání silných inhibitorů CYP3A4 (viz bod 5.1). Současná léčba silnými
+inhibitory CYP3A4 má být vyloučena (viz bod 4.5).
+
+Stejně jako u všech léků určených pro léčbu hyperaktivního močového měchýře je třeba před zahájením léčby vyloučit organickou příčinu urgence a frekvence močení.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tabletě, to znamená, že je
+v podstatě „bez sodíku“.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Souběžné systémové podávání silných inhibitorů CYP3A4 jako makrolidových antibiotik (např. erythromycin a klarithromycin), antimykotik (např. ketokonazol a itrakonazol) a inhibitorů proteáz se nedoporučuje  vzhledem  ke  zvýšení  sérových  koncentrací  tolterodinu  u  slabých  CYP2D6 metabolizátorů a z toho plynoucího rizika předávkování (viz bod 4.4).
+Současná léčba jinými léky s antimuskarinovými vlastnostmi může mít za následek výraznější terapeutický efekt a nežádoucí účinky. Naopak, terapeutický účinek tolterodinu může být snížen současným užíváním agonistů muskarinových cholinergních receptorů.
+Tolterodin může snižovat účinek prokinetik, jako jsou metoklopramid a cisaprid.
+Současná léčba fluoxetinem (silný CYP2D6 inhibitor) nevede ke klinicky významné interakci, jelikož tolterodin a jeho CYP2D6 dependentní metabolit 5-hydroxymethyl tolterodin jsou ekvivalentní.
+Studie lékových interakcí neprokázaly interakce s warfarinem nebo kombinovanými perorálními
+kontraceptivy (ethinylestradiol/levonorgestrel).
+Klinická studie naznačuje, že tolterodin není metabolickým inhibitorem CYP2D6, 2C19, 2C9, 3A4 nebo 1A2. Proto se nepředpokládá zvýšení plazmatických hladin léků, které se metabolizují pomocí těchto izoenzymatických systémů a podávají se současně s tolterodinem.
+4.6  Fertilita, těhotenství a kojení
+
+2
+
+Těhotenství
+O užívání tolterodinu u těhotných žen nejsou k dispozici adekvátní data.
+Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3). Možné riziko pro člověka není známo.
+Proto se užívání tolterodinu během těhotenství nedoporučuje.
+
+Kojení
+Nejsou dostupná data týkající se vylučování tolterodinu do mateřského mléka. Užívání tolterodinu v době kojení je třeba se vyvarovat.
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Protože tento přípravek může vyvolávat poruchy akomodace oka a ovlivňovat reakční čas, může být negativně ovlivněna schopnost řídit motorová vozidla nebo obsluhovat stroje.
+
+4.8  Nežádoucí účinky
+
+Vzhledem ke svému farmakologickému účinku může tolterodin vyvolávat slabé až středně silné
+antimuskarinové účinky, jako je sucho v ústech, dyspepsie nebo sucho v očích.
+
+Níže uvedená tabulka uvádí údaje získané v klinických studiích a při poregistračním sledování tolterodinu. Nejčastěji hlášené účinky jsou sucho v ústech, které se objevilo u 35 % pacientů užívajících tolterodin, zatímco v případě pacientů ošetřovaných placebem to bylo u 10 %. Jako velmi časté byly také hlášeny bolesti hlavy, které se vyskytovaly u 10,1 % pacientů léčených tolterodinem a u 7,4 % pacientů léčených placebem.
+Nežádoucí účinky se uvádějí podle orgánových systémů následujícím způsobem: velmi časté ( ≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+MedDRA třídy orgánových systémů Infekce a infestace Poruchy imunitního systému
+
+Psychiatrické
+poruchy
+
+Poruchy nervového systému
+Poruchy oka
+
+
+Poruchy ucha a labyrintu Srdeční poruchy
+
+Cévní poruchy Gastrointestinální poruchy
+
+
+Poruchy kůže a
+Velmi časté
+
+
+
+
+
+
+
+
+Bolesti hlavy
+
+
+
+
+
+
+
+
+
+Sucho v ústech
+Časté
+
+Bronchitida
+
+
+
+
+
+
+Závratě, ospalost,
+parestézie,
+Suché oči, změny vidění – včetně změn akomodace oka Vertigo
+
+Palpitace
+
+
+Dyspepsie, zácpa, bolesti břicha, nadýmání, zvracení, průjem
+Suchá pokožka
+Méně časté
+
+
+Hypersenzitivita (šířeji nespecifikováno) Nervozita
+
+
+Zhoršení paměti
+
+
+
+
+
+
+Tachykardie, srdeční selhání, arytmie
+
+Gastroezofageální
+reflux
+Není známo
+
+
+Anafylaktoidní
+reakce
+
+Zmatenost, halucinace, dezorientace
+
+
+
+
+
+
+
+
+
+Návaly
+
+
+
+
+Angioedém
+
+3
+
+podkožní tkáně Poruchy ledvin a močových cest Celkové poruchy a reakce v místě aplikace
+Vyšetření
+
+Dysurie, retence moči
+
+Únava, bolest na hrudi, periferní edém
+
+Zvýšení tělesné
+hmotnosti
+
+Byly hlášeny případy zhoršení příznaků demence (např. zmatenost, dezorientace, přeludy) po zahájení léčby tolterodinem u pacientů, kteří užívali k léčbě demence inhibitory cholinesterázy.
+Pediatrická populace
+Ve dvou pediatrických randomizovaných a placebem kontrolovaných studiích fáze III s dvojitým zaslepením, které se prováděly po dobu 12 týdnů na celkovém počtu 710 zařazených pediatrických pacientů, byl podíl pacientů s infekcemi močového ústrojí, průjmem a neobvyklým chováním vyšší u těch, kteří byli ošetřeni tolterodinem, než u těch, kteří se léčili placebem (infekce močového ústrojí: tolterodin 6,8 %, placebo 3,6 %; průjem: tolterodin 3,3 %, placebo 0,9 %; neobvyklé chování: tolterodin 1,6 %, placebo 0,4 %) - (viz bod 5.1).
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+Nejvyšší jednorázová dávka tolterodinu podaná dobrovolníkům byla 12,8 mg. Nejzávažnější nežádoucí účinky vyskytující se při tomto dávkování zahrnovaly poruchy akomodace oka a poruchy močení.
+V případě předávkování tolterodinem aplikujte výplach žaludku a podejte aktivního uhlí. Symptomatická léčba je následující:
+-   závažné centrální anticholinergní účinky (např. halucinace, silná excitace): podání fysostigminu.
+-   křeče a výrazná excitace: podání benzodiazepinu.
+-   respirační insuficience: léčba umělým dýcháním.
+-   tachykardie: podání beta-blokátorů.
+-   retence moči: katetrizace.
+-   mydriáza: ošetření očními kapkami s pilokarpinem a/nebo převedení pacienta do tmavé místnosti.
+
+Při celkové denní dávce 8 mg tolterodinu s okamžitým uvolňováním podávaných po čtyřech dnech (což je dvojnásobek doporučeného denního dávkování lékové formy s okamžitým uvolňováním a ekvivalent trojnásobku maximální dávky lékové formy tobolek s prodlouženým uvolňováním) bylo pozorováno zvýšení QT intervalu. V případě předávkování tolterodinem je třeba zahájit standardní podpůrnou léčbu pro úpravu prodlouženého QT intervalu.
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+4
+
+5.1  Farmakodynamické vlastnosti
+Farmakoterapeutická skupina: Jiná urologika, včetně spasmolytik, ATC kód: G04B D07 Mechanismus účinku
+Tolterodin je in vivo kompetitivní specifický antagonista muskarinových receptorů s vyšší selektivitou
+pro močový měchýř než pro slinné žlázy. Jeden z metabolitů tolterodinu (5-hydroxymethyl derivát) vykazuje podobný farmakologický profil jako mateřská látka. U pacientů, silných metabolizátorů, tento metabolit výrazně přispívá k léčebnému účinku (viz bod 5.2).
+Účinek léčby lze očekávat do čtyř týdnů.
+
+Srovnání účinku léčby při podávání tolterodinu v dávce 2 mg 2x denně po dobu 4 a 12 týdnů s podáváním placeba (sloučená data); absolutní průměrné změny a percentuální změny ve srovnání s výchozími hodnotami.
+
+
+Proměnná
+4týdenní sledování
+12týdenní sledování
+
+
+
+
+
+Počet močení na
+24 hodin
+Počet epizod inkontinence na 24 hodin
+Průměrný objem na 1 močení (ml)
+Počet pacientů bez potíží nebo s minimálními potížemi s močovým měchýřem po léčbě (%)
+Tolterodin 2 mg
+2x denně
+-1,6
+(-14 %)
+N = 392
+- 1,3
+(-38 %)
+N = 288
++25
+(+17 %)
+N = 385
+
+
+16 %
+N = 394
+
+Placebo
+
+- 0,9
+(-8 %)
+N = 189
+-1,0
+(-26 %)
+N = 151
++12
+(+8 %)
+N = 185
+
+
+7 %
+N = 190
+Statistická průkaznost versus placebo
+
+*
+
+Nespecifikov
+áno
+
+***
+
+
+
+
+**
+Tolterodin 2 mg
+2x denně
+-2,2
+(-20 %)
+N = 354
+-1,6
+(-47 %)
+N = 299
++35
+(+22 %)
+N = 354
+
+
+19 %
+N = 356
+
+Placebo
+
+-1,4
+(-12 %)
+N = 176
+-1,1
+(-32 %)
+N = 145
++10
+(+6 %)
+N = 176
+
+
+15 %
+N = 177
+Statistická průkaznost versus placebo
+
+**
+
+
+*
+
+
+***
+
+
+
+
+Neprůkazné
+* = p≤ 0,05; ** = p≤ 0,01; *** = p≤ 0,001
+
+Účinek tolterodinu byl hodnocen u pacientů s urodynamickým vyšetřením, kteří byli poté rozděleni podle výsledků do skupiny urodynamicky pozitivních (motorická urgence) a urodynamicky negativních (senzorická urgence). V každé skupině byli pacienti dále randomizováni k užívání tolterodinu nebo placeba. Studie neposkytla přesvědčivý důkaz, že by byl tolterodin u pacientů se senzorickou urgencí účinnější než placebo.
+Stanovení klinického efektu tolterodinu na QT interval je založeno na analýze EKG vyšetření získaných od více než 600 léčených pacientů zahrnujících i osoby vyššího věku a pacientů s již přítomným kardiovaskulárním onemocněním. Změny QT intervalu se u pacientů užívajících placebo a pacientů léčených tolterodinem významně nelišily.
+Vliv tolterodinu na prodloužení QT intervalu byl dále testován na 48 zdravých dobrovolnících mužského i ženského pohlaví ve věku 18-55 let. Probandům byl podáván tolterodin v lékové formě s okamžitým uvolňováním v dávkách 2 mg a 4 mg dvakrát denně. Výsledky (s korekcí Fridericia) měření provedeného během dosažení maximálních koncentrací tolterodinu (za 1 hodinu) ukázaly průměrné prodloužení QT intervalu o 5,0 ms při dávkách tolterodinu 2 mg dvakrát denně, 11,8 ms při dávkách tolterodinu 4 mg dvakrát denně a 19,3 ms u moxifloxacinu (400 mg), který se použil jako
+
+5
+
+aktivní, vnitřní kontrola. Farmakokinetický/farmakodynamický model odhadl, že nárůsty QT intervalu u slabých metabolizátorů (postrádajících CYP2D6) léčených tolterodinem v dávce 2 mg dvakrát denně jsou srovnatelné s nárůsty pozorovanými u extenzivních metabolizátorů, kterým byla podávána dávka 4 mg dvakrát denně. Ani po jedné z obou dávek tolterodinu nedošlo u účastníků k překročení klinicky významné hranice 500 ms pro QTcF ani k prodloužení o více než 60 ms oproti výchozí hodnotě, a to bez ohledu na metabolický profil. Dávka 4 mg dvakrát denně odpovídá trojnásobku Cmₐₓ dosažené po podání nejvyšší terapeutické dávky 4 mg tolterodinu v tabletách.
+
+Pediatrická populace
+Účinnost u pediatrické populace nebyla prokázána. Byly provedeny dvě randomizované, placebem kontrolované studie u pediatrické populace ve fázi 3, které byly dvojitě zaslepené a prováděly se po dobu 12 týdnů při použití tolterodinu v tobolkách s prodlouženým uvolňováním. Sledovalo se celkem 710 pediatrických pacientů (486 na tolterodinu a 224 na placebo) ve věku 5-10 let s častým močením a nutkavou inkontinencí moče. Ani v jedné z uvedených studií nebyl mezi oběma skupinami zjištěn žádný průkazný rozdíl, pokud jde o změnu ve srovnání s výchozími hodnotami co do celkového počtu epizod inkontinence na jeden týden (viz bod 4.8).
+
+5.2  Farmakokinetické vlastnosti
+
+Farmakokinetické vlastnosti specifické pro tuto lékovou formu
+Tolterodin se vstřebává rychle. Tolterodin, včetně svého 5-hydroxymethyl metabolitu, dosahuje maximálních sérových koncentrací během 1-3 hodin po podání. Poločas vylučování tolterodinu ve formě tablet je u pacientů - silných metabolizátorů 2-3 hodiny a přibližně 10 hodin u slabých metabolizátorů (postrádajících CYP2D6). Ustálená plazmatická koncentrace je dosažena do dvou dnů po podání tablet.
+Ačkoli se hladina tolterodinu při užití s jídlem zvyšuje, jídlo hladinu volného tolterodinu a jeho aktivního 5-hydroxymethyl metabolitu u silných metabolizátorů nikterak výrazně neovlivňuje. Ani u slabých metabolizátorů se však nepředpokládají klinicky významné změny.
+Absorbce
+Po perorálním podání se tolterodin v rámci metabolizmu prvního průchodu játry metabolizuje pomocí systému CYP2D6 na svůj 5-hydroxymethyl derivát, což je jeho hlavní metabolit se stejnou farmakologickou účinností.
+U silných metabolizátorů (což je většina pacientů) je absolutní biologická dostupnost tolterodinu 17
+%, zatímco u slabých metabolizátorů (postrádajících CYP2D6) je tato hodnota 65 %.
+
+Distribuce
+Tolterodin a jeho 5-hydroxymethyl metabolit se primárně váží na orosomukoid. Volná frakce dosahuje v případě vlastní léčivé látky 3,7 % a 36 % v případě metabolitu. Distribuční objem tolterodinu je 113 litrů.
+
+Biotransformace
+Po perorálním podání se tolterodin metabolizuje významně v játrech. Primárně se metabolizuje polymorfním enzymem CYP2D6 na 5-hydroxymethyl metabolit. Další metabolizmus pak vede ke vzniku kyseliny 5-karboxylové a N-dealkylovaných metabolitů kyseliny 5-karboxylové, které činí 51
+% a 29 % metabolitů vylučovaných močí. Část populace (asi 7 %) nevykazuje žádnou aktivitu CYP2D6. U těchto osob (tzv. slabých metabolizátorů) dochází k metabolizaci dealkylací pomocí enzymu CYP3A4 na N-dealkylovaný tolterodin, který se na klinickém účinku nikterak nepodílí. Zbytek populace je považována za silné metabolizátory. Systémová clearance tolterodinu u silných metabolizátorů dosahuje přibližně hodnoty 30 l/hod. U slabých metabolizátorů vede snížení clearance k výraznému  zvýšení  sérových  koncentrací  tolterodinu  (asi  na  sedminásobnou  hodnotu)  při zanedbatelných koncentracích jeho 5-hydroxylmethyl metabolitu.
+5-hydroxymethyl metabolit je farmakologicky aktivní a ekvivalentní s tolterodinem. Vzhledem k rozdílným charakteristikám proteinové vazby tolterodinu a jeho 5-hydroxymethyl metabolitu je při stejném dávkování hodnota (AUC) volného tolterodinu u slabých metabolizátorů podobná jako při
+
+6
+
+kombinované expozici volnému tolterodinu a 5-hydroxymethyl metabolitu u pacientů s aktivním CYP2D6. Bezpečnost, tolerance a klinická odezva jsou obdobné bez ohledu na fenotyp.
+
+Eliminace
+Vylučování radioaktivity po podání tolterodinu značeného [¹⁴C] dosahuje v moči asi 77 %, zatímco ve stolici to je 17 %. Necelé 1 % dávky se vylučuje ve formě nezměněného léčiva a přibližně 4 % se vylučují ve formě 5-hydroxymethyl metabolitu. Karboxylovaný metabolit je zastoupen 51 % a odpovídající dealkylovaný metabolit činí 29 % objemu léčivé látky vyloučené močí.
+
+Linearita/nelinearita
+Farmakokinetika je při terapeutickém dávkovacím rozpětí lineární.
+Zvláštní skupiny pacientů
+Porucha funkce jater
+U osob s cirhózou jater bylo zjištěno přibližně dvojnásobné množství volného tolterodinu a jeho 5- hydroxymethyl metabolitu (viz body 4.2 a 4.4).
+
+Porucha funkce ledvin
+U pacientů se závažnou poruchou funkce ledvin (clearance inulinu GFR ≤ 30 ml/min) je průměrné množství volného tolterodinu a jeho 5-hydroxymethyl metabolitu dvojnásobné. Plazmatické hladiny dalších metabolitů byly u těchto pacientů výrazně zvýšené (a to až dvanáctinásobně). Klinický význam zvýšené expozice těmto metabolitům není znám. Pokud jde o mírné a středně závažné poruchy funkce ledvin, nejsou k dispozici žádné údaje (viz body 4.2 a 4.4).
+
+Pediatrická populace
+Expozice léčivé látce na mg dávky u dospělých a dospívajících je podobné. Průměrná expozice léčivé látce na mg dávky je u dětí ve věku od 5 do 10 let přibližně dvakrát vyšší než u dospělých (viz body 4.2 a 5.1).
+
+5.3  Předklinické údaje vztahující se k bezpečnosti přípravku
+
+Ve farmakologických studiích nebyly prokázány žádné klinicky významné účinky z hlediska toxicity, genotoxicity, karcinogenity a bezpečnosti s výjimkou těch, které souvisejí s farmakologickým účinkem léčiv.
+Reprodukční studie byly prováděny na myších a králících.
+U myší tolterodin nevykazoval žádný vliv na plodnost a reprodukční funkce. Embryonální úmrtnost a malformace vyvolané tolterodinem byly zjištěny při plazmatických koncentrací (Cmₐₓ nebo AUC), a to v hodnotách dvacetinásobně, resp. sedminásobně vyšších, než u léčených pacientů.
+U králíků nebyl zjištěn žádný malformační účinek navzdory skutečnosti, že se studie prováděla při plazmatických koncentrací (Cmₐₓ nebo AUC) 20násobně nebo 3-násobně vyšších než ty, které se předpokládají u léčených osob.
+Tolterodin – stejně jako jeho aktivní metabolity u člověka – prodlužuje trvání akčního potenciálu (90% repolarizace) v Purkyněho vláknech u psů (při 14 – 75násobku terapeutické hodnoty) a blokuje proud K⁺ v kanálech klonovaných lidských genů hERG (ether-a-go-go-related genes) (při 0,5 – 26,1- násobku terapeutických hladin). Po podání tolterodinu a jeho metabolitů bylo zjištěno prodloužení intervalu QT (při 3,1 – 61,0násobku terapeutických hladin). Klinický význam těchto zjištění není znám (viz bod 5.1).
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Jádro tablety mikrokrystalická celulosa
+
+7
+
+sodná sůl karboxymethylškrobu (Typ A) koloidní bezvodý oxid křemičitý natrium-stearyl-fumarát
+
+Potahová vrstva tablety Uroflow 1 mg: hypromelosa 2910/5 makrogol 6000
+oxid titaničitý (E 171) žlutý oxid železitý (E 172) mastek
+
+Uroflow 2 mg:
+hypromelosa 2910/5 makrogol 6000
+oxid titaničitý (E 171) mastek
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3  Doba použitelnosti
+2 roky.
+
+6.4  Zvláštní opatření pro uchovávání
+Uchovávejte v původním obalu, aby byl přípravek chráněn před vlhkostí.
+
+6.5  Druh obalu a obsah balení
+
+Průhledný PVC/PVdC/Al blistry.
+Velikost balení:  28 potahovaných tablet
+56 potahovaných tablet Na trhu nemusí být všechny velikosti balení.
+6.6   Zvláštní opatření při likvidaci přípravku a pro zacházení s ním
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Zentiva, k. s., U Kabelovny 130, 102 37 Praha 10, Česká republika
+
+
+8.   REGISTRAČNÍ ČÍSLO
+Uroflow 1 mg: 53/165/08-C Uroflow 2 mg: 53/166/08-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+
+8
+
+Datum první registrace: 16. 4. 2008
+Datum posledního prodloužení registrace: 14. 4. 2011
+
+
+10.  DATUM REVIZE TEXTU
+21. 1. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9

@@ -1,0 +1,865 @@
+Sp. zn. sukls253122/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Entecavir Sandoz 0,5 mg potahované tablety
+Entecavir Sandoz 1 mg potahované tablety
+
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+Entecavir Sandoz 0,5 mg potahované tablety
+Jedna potahovaná tableta obsahuje entecavirum 0,5 mg (jako entecavirum monohydricum).
+
+Pomocná látka se známým účinkem
+Jedna 0,5mg potahovaná tableta obsahuje 114,4 mg laktosy (jako monohydrát).
+Entecavir Sandoz 1 mg potahované tablety
+Jedna potahovaná tableta obsahuje entecavirum 1 mg (jako entecavirum monohydricum).
+
+Pomocná látka se známým účinkem
+Jedna 1mg potahovaná tableta obsahuje 228,9 mg laktosy (jako monohydrát). Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+Potahovaná tableta
+
+Entecavir Sandoz 0,5 mg potahované tablety
+Bílá, kulatá, potahovaná tableta, s vyražením po obou stranách, se “SZ” na jedné straně a “108” na straně druhé, o průměru přibližně 8,0 mm.
+
+Entecavir Sandoz 1 mg potahované tablety
+Růžová, kulatá, potahovaná tableta, s vyražením po obou stranách, se “SZ” na jedné straně a “109” na straně druhé, o průměru přibližně 10,0 mm.
+
+
+4.   KLINICKÉ ÚDAJE
+
+4.1.  Terapeutické indikace
+Entecavir je indikován k léčbě chronické infekce virem hepatitidy B (HBV, viz bod 5.1) u dospělých pacientů s:
+•  kompenzovaným jaterním onemocněním a prokázanými známkami aktivní virové replikace, přetrvávajícími zvýšenými hodnotami sérové alaninaminotransferázy (ALT) a histologicky prokázaným aktivním zánětem a/nebo fibrózou.
+•  dekompenzovaným jaterním onemocněním (viz bod 4.4).
+
+1/21
+
+Tato indikace je založena, jak pro pacienty s kompenzovaným, tak dekompenzovaným jaterním onemocněním, na výsledcích klinických studií u pacientů dosud neléčených nukleosidy s HBeAg pozitivní a HBeAg negativní HBV infekcí. Pokud jde o pacienty s hepatitidou B refrakterní na lamivudin, viz body 4.2, 4.4 a 5.1.
+
+Pediatrická populace
+Entecavir je také indikován k léčbě chronické infekce HBV u dětských pacientů dosud neléčených nukleosidy ve věku od 2 do < 18 let s kompenzovaným onemocněním jater, s prokázanými známkami aktivní virové replikace a s trvale zvýšenými hodnotami ALT v séru, nebo s histologicky prokázaným středně těžkým až těžkým zánětem a/nebo fibrózou. S ohledem na rozhodnutí o zahájení léčby u pediatrických pacientů, viz body 4.2, 4.4 a 5.1.
+4.2.  Dávkování a způsob podání
+Terapii má zahájit lékař, který má zkušenosti s léčbou chronické hepatitidy B. Dávkování
+Kompenzované jaterní onemocnění
+Pacienti dosud neléčeni nukleosidy: doporučená dávka u dospělých je 0,5 mg jednou denně s jídlem nebo
+bez jídla.
+
+Pacienti refrakterní na lamivudin (tj. s průkazem viremie při užívání lamivudinu nebo s přítomností mutací rezistence na lamivudin [LVDr]) (viz body 4.4 a 5.1): doporučená dávka u dospělých je 1 mg jednou denně, která se musí užívat na lačno (více než 2 hodiny před jídlem a více než 2 hodiny po jídle) (viz bod 5.2). Pokud jsou přítomny mutace LVDr, má být dána přednost kombinaci entekaviru s druhým antivirovým přípravkem (který nevykazuje zkříženou rezistenci ani s lamivudinem ani s entekavirem) před monoterapií entekavirem (viz bod 4.4).
+Dekompenzované jaterní onemocnění
+Doporučená dávka pro dospělé pacienty s dekompenzovaným jaterním onemocněním je 1 mg denně, která se užívá nalačno (tzn. dříve než 2 hodiny před jídlem a déle než 2 hodiny po jídle) (viz bod 5.2). Pro pacienty s hepatitidou B refrakterní na lamivudin - viz body 4.4 a 5.1.
+
+Trvání léčby
+Optimální trvání léčby není známo. O ukončení léčby může být rozhodnuto v následujících případech:
+•  u HBeAg pozitivních dospělých pacientů má léčba trvat alespoň 12 měsíců po dosažení sérokonverze HBe (ztráta HBeAg a ztráta HBV DNA s průkazem anti-HBe ve 2 vzorcích séra po sobě v intervalu alespoň 3-6 měsíců) nebo do sérokonverze HBs nebo do ztráty účinnosti (viz bod 4.4).
+•  u HBeAg negativních dospělých pacientů má léčba trvat alespoň do sérokonverze HBs, případně do ztráty účinnosti. U dlouhodobé léčby trvající více než 2 roky se doporučuje provádět pravidelné přehodnocení k potvrzení, že je vhodné pokračovat v odopovídající terapii.
+Pacientům s dekompenzovaným jaterním onemocněním nebo cirhózou se nedoporučuje léčbu přerušovat.
+
+Pediatrická populace
+Pro odpovídající dávkování u pediatrické populace je dostupný přípravek Entecavir Sandoz 0,5 mg potahované tablety a pro dávky nižší než 0,5 mg je k dispozici entekavir ve formě perorálního roztoku jiného výrobce.
+Rozhodnutí o léčbě pediatrických pacientů má být založeno na pečlivém zvážení individuálních potřeb pacienta a s odkazem na aktuální pediatrické léčebné postupy, včetně znalosti počátečních výsledků
+
+
+2/21
+
+histologického vyšetření. Přínosy dlouhodobé virové suprese s pokračující léčbou musí být zváženy v porovnání s rizikem prodloužené léčby, včetně možnosti vzniku rezistentního viru hepatitidy B. Hodnoty ALT v séru mají být trvale zvýšené po dobu nejméně 6 měsíců před léčbou dětských pacientů s kompenzovaným onemocněním jater v důsledku HBeAg pozitivní chronické hepatitidy B; a po dobu alespoň 12 měsíců u pacientů s HBeAg-negativním onemocněním.
+Pediatrickým pacientům s tělesnou hmotností alespoň 32,6 kg má být podávána jedna 0,5mg tableta jednou denně, s jídlem nebo bez něj. Pro pacienty s tělesnou hmotností nižší než 32,6 kg má být dostupný perorální roztok entekaviru jiného výrobce.
+Délka léčby u pediatrických pacientů
+Optimální délka léčby není známa. V souladu s platnými směrnicemi pediatrické praxe mohou být důvody pro ukončení léčby následující:
+•  U HBeAg pozitivních dětských pacientů má léčba trvat po dobu nejméně 12 měsíců po dosažení nedetekovatelné HBV DNA a sérokonverze HBeAg (ztráta HBeAg a detekce anti-HBe ve dvou po sobě jdoucích vzorcích séra alespoň v rozmezí 3-6 měsíců) či do sérokonverze HBs, nebo pokud dojde ke ztrátě účinnosti. Hodnoty ALT a HBV DNA v séru mají být po ukončení léčby pravidelně sledovány (viz bod 4.4).
+•  U HBeAg negativních dětských pacientů má léčba trvat do dosažení sérokonverze HBs, nebo pokud
+dojde ke ztrátě účinnosti.
+Farmakokinetika u pediatrických pacientů s poruchou funkce ledvin nebo jater nebyla studována.
+
+Starší pacienti: Není třeba upravovat dávkování podle věku. Dávkování se má upravit podle renální funkce pacienta (viz doporučené dávkování u poruchy funkce ledvin a bod 5.2).
+Pohlaví a etnická příslušnost: Není třeba upravovat dávkování podle pohlaví nebo etnické příslušnosti.
+
+Porucha funkce ledvin: Clearance entekaviru se snižuje s klesající clearance kreatininu (viz bod 5.2). U pacientů s clearance kreatininu < 50 ml/min, včetně pacientů na hemodialýze nebo kontinuální peritoneální dialýze (CAPD), je doporučeno upravit dávkování. Doporučuje se snížení denní dávky použitím entekaviru ve formě perorálního roztoku, jak je uvedeno v tabulce. Pokud není perorální roztok k dispozici, jako alternativa úpravy dávky se může prodloužit interval mezi dávkami, jak je také uvedeno v tabulce. Navrhované úpravy dávky jsou založeny na extrapolaci omezených dat a jejich bezpečnost a účinnost nebyly klinicky hodnoceny. Proto se má pečlivě monitorovat virologická odpověď.
+
+
+
+Clearance kreatininu (ml/min)
+>= 50
+30-49
+
+
+
+
+10-29
+
+Pacienti dosud
+neléčeni nukleosidy 0,5 mg jednou denně 0,25 mg jednou denně*
+NEBO
+0,5 mg každých 48
+hodin 0,15 mg jednou
+denně*
+NEBO
+0,5 mg každých 72
+hodin
+Dávkování entekaviru*
+Lamivudin-refrakterní pacienti nebo pacienti s
+dekompenzovaným jaterním onemocněním
+1 mg jednou denně 0,5 mg jednou denně
+
+
+
+
+0,3 mg jednou denně*
+NEBO
+0,5 mg každých 48 hodin
+
+
+
+
+3/21
+
+< 10
+hemodialýza nebo
+CAPD**
+0,05 mg jednou denně* NEBO
+0,5 mg každých 5-7 dní
+0,1 mg jednou denně *
+NEBO
+0,5 mg každých 72 hodin
+*Pro dávky < 0,5 mg se doporučuje entekavir ve formě perorálního roztoku
+**Ve dnech, kdy se provádí hemodialýza, se entekavir podává po hemodialýze.
+Porucha funkce jater: U pacientů s poruchou funkce jater není třeba dávkování upravovat. Způsob podání
+Entecavir Sandoz se užívá perorálně.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+4.4  Zvláštní upozornění a opatření pro použití
+
+Porucha funkce ledvin: U pacientů s poruchou funkce ledvin se doporučuje úprava dávky (viz bod 4.2). Navrhované úpravy dávky jsou založeny na extrapolaci omezených dat a jejich bezpečnost a účinnost nebyla klinicky hodnocena. Proto se má pečlivě monitorovat virologická odpověď.
+Exacerbace hepatitidy: Spontánní exacerbace chronické hepatitidy B je relativně běžná a je charakterizovaná přechodným zvýšením hodnot ALT v séru. Po zahájení protivirové terapie se mohou hodnoty ALT v séru u některých pacientů zvýšit, přičemž sérové hodnoty HBV DNA klesají (viz bod 4.8). U pacientů léčených entekavirem má exacerbace při léčbě medián doby nástupu 4-5 týdnů. U pacientů s kompenzovaným jaterním onemocněním nebývají obvykle tyto vzestupy hodnot ALT v séru doprovázeny zvýšením sérové koncentrace bilirubinu nebo jaterní dekompenzací. Pacienti s pokročilým jaterním onemocněním nebo s cirhózou mohou mít zvýšené riziko jaterní dekompenzace po exacerbaci hepatitidy, a proto mají být v průběhu terapie pečlivě sledováni.
+Akutní exacerbace hepatitidy byla hlášena také u pacientů, u nichž byla léčba hepatitidy B ukončena (viz bod 4.2). Exacerbace po léčbě bývá obvykle spojena se zvýšenými hodnotami HBV DNA a většinou spontánně odezní. Byly však hlášeny i případy těžké exacerbace včetně úmrtí.
+U pacientů léčených entekavirem, kteří doposud nedostávali nukleosidy, byl medián doby do nástupu exacerbace po léčbě 23-24 týdnů a nejčastěji byla hlášena u HBeAg negativních pacientů (viz bod 4.8). Po ukončení terapie hepatitidy B je třeba opakovaně monitorovat po dobu alespoň 6 měsíců jaterní funkce, a to jak klinicky, tak i laboratorně. V případě potřeby může být opodstatněno obnovení léčby hepatitidy B.
+
+Pacienti s dekompenzovaným jaterním onemocněním: U pacientů s dekompenzovaným jaterním onemocněním, zejména u těch pacientů s klasifikačním skóre Child-Turcotte-Pugh (CTP) třídy C, byla v porovnání s pacienty s kompenzovanými jaterními funkcemi pozorována vyšší četnost závažných jaterních nežádoucích účinků (bez ohledu na příčinu). Rovněž pacienti s dekompenzovaným jaterním onemocněním mohou mít vyšší riziko laktátové acidózy a specifických nežádoucích účinků na ledviny, jako např. hepatorenální syndrom. Z toho důvodu mají být u těchto pacientů pečlivě monitorovány klinické a laboratorní parametry (viz také body 4.8 a 5.1).
+
+Laktátová acidóza a těžká hepatomegalie se steatózou: Při používání nukleosidových analog byl zaznamenán výskyt laktátové acidózy (při absenci hypoxeemie), někdy fatální, která byla obvykle spojena s těžkou hepatomegalií a jaterní steatózou. Protože entekavir je nukleosidový analogon, nelze toto riziko
+
+4/21
+
+vyloučit. Léčbu nukleosidovými analogy je třeba přerušit, jestliže se hodnoty aminotransferázy rychle zvyšují, objeví-li se progresivní hepatomegalie nebo metabolická / laktátová acidóza neznámé etiologie. Na rozvoj laktátové acidózy mohou ukazovat benigní zažívací problémy, jako jsou nauzea, zvracení a bolesti břicha. Těžké případy, někdy s fatálním koncem, byly spojeny s pankreatitidou, selháním jater / jaterní steatózou, selháním ledvin a vysokými hodnotami laktátu v séru. Při předepisování nukleosidových analog pacientům (zejména obézním ženám) s hepatomegalií, hepatitidou nebo jinými známými rizikovými faktory pro onemocnění jater je nutná zvýšená opatrnost. Tito pacienti musí být pozorně sledováni.
+Aby mohl lékař rozlišit, zda ke zvýšení aminotransferáz došlo v rámci odpovědi na léčbu, nebo zda by to mohlo ukazovat na laktátovou acidózu, musí se ujistit, že změny hodnot ALT jsou spojeny se zlepšením dalších laboratorních markerů chronické hepatitidy B.
+
+Rezistence a specifické upozornění u pacientů refrakterních na lamivudin: Mutace u HBV polymeráz, které kódují substituce rezistence na lamivudin, mohou vést k následnému objevení sekundárních substitucí, včetně substitucí spojených s rezistencí na entekavir (ETVr). U malého procenta pacientů refrakterních na lamivudin ETVr substituce na reziduích rtT184, rtS202 nebo rtM250 byly přítomny na začátku léčby. U pacientů s HBV, kteří jsou rezistentní na lamivudin, je vyšší riziko rozvoje následné rezistence na entekavir než u pacientů bez rezistence na lamivudin. Kumulativní pravděpodobnost vzniku genotypové rezistence na entekavir po 1, 2, 3,4 a 5 letech léčby ve studiích u lamivudin-refrakterních byla postupně 6%, 15%, 36%, 47% a 51%. Virologická odpověď má být běžně sledována u populace refrakterní na lamivudin a mají být prováděny příslušné testy na rezistenci. U pacientů se suboptimální virologickou odpovědí po 24 týdnech léčby entekavirem má být zvážena modifikace léčby. (viz body 4.5 a 5.1). Pokud se zahajuje léčba u pacientů s HBV rezistentní na lamivudin v anamnéze, má být upřednostněno užití kombinace entekaviru s druhým antivirotikem (které nevykazuje zkříženou rezistenci ani s lamivudinem ani s entekavirem) před entekavirem v monoterapii.
+Dřívější rezistence HBV na lamivudin je spojena se zvýšeným rizikem pro následnou rezistenci na entekavir bez ohledu na stupeň onemocnění jater; virologický průlom u pacientů s dekompenzovaným jaterním onemocněním může být spojen s vážnými klinickými komplikacemi daného onemocnění jater. Proto by u pacientů jak s dekompenzovaným onemocněním jater, tak s rezistentním HBV na lamivudin měl být upřednostněn entekavir s dalším antivirotikem (které nevykazuje zkříženou rezistenci ani s lamivudinem ani entekavirem) před entekavirem v monoterapii.
+
+Pediatrická populace: Byla pozorována nižší míra virologické odpovědi (HBV DNA < 50 IU/ml) u pediatrických pacientů s výchozí hodnotou HBV DNA ≥ 8,0 log₁₀ IU/ml (viz bod 5.1). Entekavir má být podáván těmto pacientům pouze tehdy, pokud potenciální přínos léčby převyšuje potenciální riziko pro dítě (např. rezistence). Protože někteří pediatričtí pacienti mohou vyžadovat dlouhodobou nebo dokonce celoživotní léčbu chronické aktivní hepatitidy B, má být věnována pozornost vlivu entekaviru na budoucí možnosti léčby.
+
+Příjemci transplantátů jater: U příjemců transplantátů jater užívajících cyklosporin nebo takrolimus je třeba před terapií entekavirem a v jejím průběhu pečlivě hodnotit renální funkce (viz bod 5.2).
+Souběžná infekce s hepatitidou C nebo D: Nejsou k dispozici žádné údaje o účinnosti entekaviru u pacientů souběžně infikovaných virem hepatitidy C nebo D.
+Pacienti koinfikovaní virem lidské imunodeficience (HIV)/HVB, kteří souběžně neužívají antiretrovirovou léčbu: U pacientů koinfikovaných HIV/HBV, kteří souběžně nedostávali účinnou léčbu HIV, nebyl entekavir hodnocen. U pacientů s infekcí HIV, kterým byl podáván entekavir k léčbě chronické hepatitidy B a kteří nedostávali vysoce účinnou antiretrovirovou léčbu (HAART), se objevila rezistence HIV (viz bod 5.1). Proto se entekavir nemá použít u pacientů koinfikovaných HIV/HBV, kteří nejsou léčeni HAART. Entekavir nebyl zkoušen v léčbě infekce HIV a pro toto použití se nedoporučuje.
+
+
+5/21
+
+Pacienti koinfikovaní HIV/HVB, kteří souběžně užívají antiretrovirovou léčbu: Entekavir byl hodnocen u 68 dospělých s koinfekcí HIV/HBV, kterým byla podávána léčba HAART obsahující lamivudin (viz bod 5.1). Nejsou k dispozici žádná data ohledně účinnosti entekaviru u HBeAg-negativních pacientů koinfikovaných HIV. Existují pouze omezená data týkající se pacientů koinfikovaných HIV, kteří mají nízký počet CD4 buněk (< 200 buněk/mm³).
+
+Obecně: Pacienty je třeba upozornit, že nebylo prokázáno, že by léčba entekavirem snižovala riziko přenosu HBV a že je tedy třeba i nadále dodržovat příslušná opatření.
+Entecavir Sandoz obsahuje laktosu. Pacienti se vzácnými dědičnými problémy s intolerancí galaktosy, úplným nedostatkem laktázy nebo malabsorpcí glukosy a galaktosy nemají tento přípravek užívat.
+
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+Protože se entekavir vylučuje převážně ledvinami (viz bod 5.2), souběžné podávání jiných léků, snižujících renální funkce nebo s ním kompetujících o aktivní tubulární sekreci, může zvyšovat koncentrace těchto léků v séru. S výjimkou lamivudinu, adefovir-dipivoxilu a tenofovir-disoproxil- fumarátu nebyly účinky souběžného podávání entekaviru s léčivy, jež se vylučují ledvinami nebo ovlivňují renální funkce, hodnoceny. Je-li entekavir podáván souběžně s takovými léky, je třeba pacienty pečlivě monitorovat kvůli výskytu nežádoucích účinků.
+Mezi entekavirem a lamivudinem, adefovirem nebo tenofovirem nebyly pozorovány žádné farmakokinetické interakce.
+Entekavir není substrátem, induktorem ani inhibitorem enzymů cytochromu P450 (CYP450) (viz bod 5.2). Není tedy pravděpodobné, že by při užívání entekaviru mohlo dojít k lékovým interakcím zprostředkovaným cytochromem CYP450.
+Pediatrická populace
+Studie interakcí byly provedeny pouze u dospělých.
+4.6  Fertilita, těhotenství a kojení
+
+Ženy ve fertilním věku: vzhledem k tomu, že potenciální rizika pro vyvíjející se plod nejsou známa, mají ženy ve fertilním věku používat účinnou antikoncepci.
+
+Těhotenství: adekvátní údaje o podávání entekaviru těhotným ženám nejsou k dispozici. Studie na zvířatech prokázaly reprodukční toxicitu při vysokých dávkách (viz bod 5.3). Potenciální riziko pro člověka není známé. Entekavir nemá být během těhotenství podáván, pokud to není nezbytně nutné.Neexistují žádné údaje o vlivu entekaviru na přenos HBV z matky na novorozence. Proto je třeba podniknout příslušná opatření, aby nedošlo k neonatální akvizici HBV.
+Kojení: není známo, zda se entekavir u lidí vylučuje do mateřského mléka. Dostupné toxikologické údaje u zvířat prokázaly vylučování entekaviru do mateřského mléka (podrobnosti viz bod 5.3). Riziko pro kojené novorozence nelze vyloučit. Kojení má být během léčby přípravkem Entecavir Sandoz přerušeno.
+
+Fertilita: toxikologické studie u zvířat, kterým byl podáván entakavir, neprokázaly známky poškození
+fertility (viz bod 5.3).
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Studie hodnotící účinky na schopnost řídit a obsluhovat stroje nebyly provedeny. Závratě, únava a
+somnolence jsou časté nežádoucí účinky, které mohou zhoršit schopnost řídit a obsluhovat stroje.
+
+6/21
+
+4.8  Nežádoucí účinky
+a. Přehled bezpečnostního profilu
+V klinických studiích u pacientů s kompenzovaným jaterním onemocněním byly mezi nejčastějšími nežádoucími účinky různého stupně závažnosti s alespoň možnou souvislostí s entekavirem bolest hlavy (9 %), únava (6 %), závratě (4 %) a nauzea (3 %). Během léčby entekavirem a po jejím přerušení byla také hlášena exacerbace hepatitidy (viz bod 4.4 a c. Popis vybraných nežádoucích účinků).
+
+b. Tabulkový přehled nežádoucích účinků
+Hodnocení nežádoucích účinků vychází ze zkušeností postmarketingového sledování a čtyř klinických studií, při nichž 1720 pacientů s chronickou infekcí virem hepatitidy B a kompenzovaným jaterním onemocněním užívalo ve dvojitě zalepeném režimu entekavir (n = 862) nebo lamivudin (n = 858) po dobu až 107 týdnů (viz bod 5.1). V těchto studiích byl porovnáván bezpečnostní profil včetně abnormalit laboratorních hodnot entekaviru 0,5 mg denně (679 pacientů doposud neužívajících nukleosidy HBeAg pozitivních nebo negativních léčených po medián doby 53 týdnů), entekaviru 1 mg denně (183 pacientů refrakterních na lamivudin léčených po medián doby 69 týdnů) a lamivudinu.
+Nežádoucí účinky, které je možné alespoň považovat za související s léčbou entekavirem, jsou seřazeny podle jednotlivých orgánů a tělesných funkcí. Jejich frekvence je definována jako velmi časté (≥ 1/10); časté (≥ 1/100 až < 1/10); méně časté (≥ 1/1000 až < 1/100); vzácné (≥ 1/10000 až < 1/1000). V každé skupině četností jsou nežádoucí účinky seřazeny podle klesající závažnosti.
+
+Poruchy imunitního systému
+Vzácné: anafylaktoidní reakce.
+Psychiatrické poruchy
+Časté: insomnie.
+
+Poruchy nervového systému
+Časté: bolesti hlavy, závratě, somnolence.
+
+Gastrointestinální poruchy
+Časté: zvracení, průjem, nauzea, dyspepsie.
+
+Poruchy jater a žlučových cest
+Časté: zvýšené hladiny aminotransferázy.
+
+Poruchy kůže a podkožní tkáně
+Méně časté: vyrážka, alopecie.
+Celkové poruchy a reakce v místě aplikace
+Časté: únava.
+
+Byly hlášeny případy laktátové acidózy často ve spojení s jaterní dekompenzací, další závažné zdravotní stavy nebo lékové projevy (viz bod 4.4).
+Léčba trvající déle než 48 týdnů: při pokračující léčbě entekavirem po medián doby 96 týdnů se neobjevily žádné nové bezpečnostní signály.
+c. Popis vybraných nežádoucích účinků
+Abnormality laboratorních hodnot: Ve studiích u pacientů dosud neléčených nukleosidy byly u 5 %
+zjištěny zvýšené hodnoty ALT na více než 3násobek oproti výchozí hodnotě a u < 1 % byly zjištěny
+
+7/21
+
+zvýšené hodnoty ALT na více než 2násobek oproti výchozí hodnotě společně se zvýšením celkového bilirubinu o více než 2násobek horního limitu normálního rozsahu a o více než 2násobek oproti výchozí hodnotě. Hodnoty albuminu < 2,5 g/dl se vyskytly u < 1 % pacientů, hodnoty amylázy o více než 3násobek oproti výchozí hodnotě u 2 % pacientů, hodnoty lipázy o více než 3násobek oproti výchozí hodnotě u 11 % a trombocyty < 50000/mm³ u < 1 % pacientů.
+V klinických studiích u pacientů refrakterních na lamivudin byly u 4 % zjištěny zvýšené hodnoty ALT o více než 3násobek oproti výchozí hodnotě a u < 1 % byly zjištěny zvýšené hodnoty ALT o více než 2násobek oproti výchozí hodnotě společně se zvýšením celkového bilirubinu o více než 2násobek horního limitu normálního rozsahu a o více než 2násobek oproti výchozí hodnotě. Hodnoty amylázy o více než 3násobek oproti výchozí hodnotě se vyskytly u 2 % pacientů, hodnoty lipázy o více než 3násobek oproti výchozí hodnotě u 18 % a trombocyty< 50000/mm³ u < 1 % pacientů.
+
+Exacerbace v průběhu léčby: Ve studiích u pacientů, kteří doposud neužívali nukleosidy, se objevily zvýšené hodnoty ALT v průběhu léčby o více než 10násobek horního limitu normálního rozsahu a o více než 2násobek oproti výchozí hodnotě u 2 % pacientů léčených entekavirem oproti 4 % pacientů léčených lamivudinem. Ve studiích s pacienty refrakterními na lamivudin se objevily zvýšené hodnoty ALT v průběhu léčby o více než 10násobek horního limitu normálního rozsahu a o více než 2násobek oproti výchozí hodnotě u 2 % pacientů léčených entekavirem oproti 11 % pacientů léčených lamivudinem. U pacientů léčených entekavirem se zvýšení hodnot ALT objevilo se střední dobou nástupu 4-5 týdnů a stav se při pokračující léčbě obvykle upravil. Ve většině případů šlo o snížení virové nálože o ≥ 2 log₁₀/ml před zvýšením hodnot ALT nebo v průběhu tohoto zvýšení. Doporučuje se po dobu léčby pravidelně sledovat hepatální funkce.
+
+Exacerbace po přerušení léčby: Akutní exacerbace hepatitidy byla hlášena u pacientů, kteří přerušili protivirovou léčbu hepatitidy B včetně terapie entekavirem (viz bod 4.4). Ve studiích s pacienty, kteří doposud neužívali nukleosidy, se při sledování po léčbě objevily zvýšené hodnoty ALT u 6 % pacientů léčených entekavirem a u 10 % pacientů léčených lamivudinem (o více než 10násobek horního limitu normálního rozsahu a o více než 2násobek oproti referenční hodnotě [minimální výchozí hodnota nebo poslední měření při ukončení podávání léku]). Střední doba nástupu zvýšení hodnot ALT činila u pacientů léčených entekavirem, kteří doposud neužívali nukleosidy, 23-24 týdnů a 86 % (24/28) případů zvýšení hodnot ALT bylo zaznamenáno u HBeAg negativních pacientů. Ve studiích s pacienty refrakterními na lamivudin, jež zahrnovaly pouze omezený počet sledovaných pacientů, se zvýšené hodnoty ALT objevily u 11 % pacientů léčených entekavirem a u žádného pacienta léčeného lamivudinem během sledování po léčbě.
+V klinických studiích byla léčba entekavirem ukončena, jestliže pacient dosáhl předem specifikovanou odpověď. Při ukončení léčby bez ohledu na odpověď na terapii může být četnost zvýšení hodnot ALT vyšší.
+d. Pediatrická populace
+Bezpečnost entekaviru u pediatrických pacientů ve věku od 2 do < 18 let věku je založeno na dvou klinických studiích u pacientů s chronickou HBV infekcí; jedna farmakokinetická studie fáze 2 (studie 028) a jedna studie fáze 3 (studie 189). Tyto studie poskytují zkušenosti se 195 HBeAg- pozitivními pacienty dosud neléčenými nukleosidy léčenými entekavirem se střední dobou léčby 99 týdnů. Nežádoucí účinky pozorované u dětských pacientů, kteří podstupovali léčbu entekavirem, byly shodné s těmi, které byly pozorovány v klinických studiích entekaviru u dospělých (viz a. Přehled bezpečnostního profilu a bod 5.1), s následující výjimkou pro pediatrické pacienty:
+•  velmi časté nežádoucí účinky: neutropenie.
+e. Další zvláštní populace
+Zkušenost u pacientů s dekompenzovaným jaterním onemocněním: bezpečnostní profil entekaviru u pacientů s dekompenzovaným jaterním onemocněním byl zhodnocen v randomizované otevřené
+
+8/21
+
+komparativní studii, ve které byl pacientům podáván entekavir 1 mg denně (n = 102) nebo adefovir- dipivoxil 10 mg denně (n = 89) (studie 048). Ve srovnání s nežádoucími účinky zmíněnými v bodě b. Tabulkový přehled nežádoucích účinků byl u pacientů léčených entekavirem pozorován ještě další nežádoucí účinek (pokles krevního bikarbonátu o 2 %) ve 48. týdnu. Kumulativní výskyt mortality ve studii byl 23 % (23/102), a případy úmrtí souvisely s onemocněním jater, očekávatelně v této populaci. Kumulativní výskyt hepatocelulárního karcinomu (HCC) ve studii byl 12 % (12/102). Závažné nežádoucí účinky byly obecně spojeny s jaterním onemocněním s kumulativní frekvencí 69 %. Pacienti s vysokými počátečními hodnotami CTP skóre byli ve vyšším riziku rozvoje závažných nežádoucích účinků (viz bod 4.4).
+Abnormality laboratorních hodnot: až do 48. týdne žádný z pacientů s dekompenzovaným jaterním onemocněním léčených entekavirem neměl zvýšené hodnoty ALT o více než 10násobek horního limitu normálního rozsahu ani o více než 2násobek oproti výchozí hodnotě, a 1 % pacientů mělo zvýšené hodnoty ALT o více než 2násobek oproti výchozí hodnotě společně se zvýšením celkového bilirubinu o více než 2násobek horního limitu normálního rozsahu a o více než 2násobek oproti výchozí hodnotě.
+Hodnoty albuminu < 2,5 g/dl se vyskytly u 30 % pacientů, hodnoty lipázy o více než 3násobek oproti výchozí hodnotě u 10 % a trombocyty < 50000/mm³ u < 20 % pacientů.
+Zkušenosti u pacientů se souběžnou HIV infekcí: bezpečnostní profil entekaviru byl u omezeného počtu pacientů souběžně infikovaných HIV/HBV, kteří byli léčeni v režimu HAART zahrnujícím lamivudin (vysoce aktivní antiretrovirová terapie), podobný bezpečnostnímu profilu pacientů s monoinfekcí HBV (viz bod 4.4).
+Pohlaví/věk: v bezpečnostním profilu entekaviru se v souvislosti s pohlavím (~ 25 % žen v klinických studiích) nebo věkem (~ 5 % pacientů starších 65 let) neobjevil žádný zjevný rozdíl.
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit- nezadouci-ucinek.
+
+4.9  Předávkování
+
+Zkušenosti s předávkováním pacientů entekavirem jsou omezené. U zdravých jedinců, kteří užívali do 20 mg/den po dobu 14 dnů a jednorázové dávky do 40 mg, se neobjevily žádné neočekávané nežádoucí reakce. Jestliže dojde k předávkování, pacient musí být sledován kvůli projevům toxicity a v případě potřeby se musí zahájit standardní podpůrná terapie.
+
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antivirotika pro systémovou aplikaci, nukleosidové a nukleotidové inhibitory reverzní transkriptázy
+ATC kód: J05AF10
+Mechanizmus působení: Entekavir, nukleosidový analog guanosinu působící proti HBV polymeráze, je účinně fosforylován na aktivní trifosfátovou (TP) formu, která má nitrobuněčný poločas 15 hodin.
+Kompeticí s přirozeným substrátem deoxyguanosinem TP entekavir-TP funkčně inhibuje 3 aktivity virové polymerázy: (1) priming polymerázy HBV, (2) reverzní transkripci negativního vlákna DNA z pregenomové messenger-RNA a (3) syntézu pozitivního vlákna HBV DNA. Entekavir -TP Ki pro
+
+9/21
+
+polymerázu HBV DNA je 0,0012 μM. Entekavir-TP je slabým inhibitorem buněčných DNA polymeráz alfa, beta a delta s hodnotami Ki 18 až 40 μM. Kromě toho působení vysokých dávek entekaviru nemělo žádné relevantní nežádoucí účinky na syntézu polymerázy gama ani mitochondriální DNA v buňkách HepG2 (Ki > 160 µM).
+
+Protivirové působení: Entekavir inhibuje v lidských buňkách HepG2 infikovaných divokým typem HBV syntézu HBV DNA (snížení o 50 %, EC50) při koncentraci 0,004 µM. Medián hodnoty EC50 pro entekavir proti LVDr HBV (rtL180M a rtM204V) byla 0,026 µM (rozsah 0,010-0,059 µM).
+Rekombinantní viry kódující adefovir-rezistentní substituce na rtN236T nebo rtA181V zůstaly na entekavir plně vnímavé.
+Analýza inhibiční aktivity entekaviru proti panelu laboratorních a klinických HIV-1 izolátů za použití různých buněk a metod ukázala hodnoty EC50 v rozsahu od 0,026 do > 10 µM; nižší hodnoty EC50 byly pozorovány při použití snížených hladin viru v testu. V buněčné kultuře entekavir v mikromolárních koncentracích selektoval M184I substituci, což potvrzuje inhibiční tlak při vysokých koncentracích entekaviru. HIV varianty obsahující M184V substituci vykázaly ztrátu citlivosti na entekavir (viz bod 4.4).
+U kombinovaných studií HBV v buněčné kultuře, abakavir, didanosin, lamivudin, stavudin, tenofovir ani zidovudin se nechovaly antagonisticky vůči anti-HBV účinkům entekaviru v širokém rozsahu koncentrací. U antivirových testů HIV nebyl entekavir v mikromolárních koncentracích antagonistický vůči anti-HIV účinkům v buněčné kultuře těchto šesti NRTI nebo emtricitabinu.
+
+Rezistence v buněčné kultuře: Ve vztahu k divokému typu HBV vykazují LVDr viry obsahující substituce rtM204V a rtL180M v reverzní transkriptáze osminásobně nižší citlivost na entekavir. Inkorporace dalších změn ETVr aminokyselin rtT184, rtS202 nebo rtM250 snižuje citlivost na entekavir v buněčné kultuře. Substituce pozorované v klinických izolátech (rtT184A, C, F, G, I, L, M nebo S; rtS202 C, G nebo I; a/nebo rtM250I, L nebo V) dále snižovaly citlivost na entekavir 16 - 741krát ve srovnání s divokým typem viru. Kmeny rezistentní na lamivudin obsahující rtL180M a rtM204V v kombinaci se substitucí aminokyseliny rtA181C vedly k 16 až 122násobnému snížení citlivosti fenotypů na entekavir. ETVr substituce na rezidujících rtT184, rtS202 a rtM250 měly pouze mírný vliv na citlivost na entekavir a v nepřítomnosti LVDr substitucí nebyly pozorovány u více než 1000 sekvencovaných vzorků pacientů. Rezistence je zprostředkovaná redukovanou vazbou inhibitoru na pozměněnou HBV reverzní transkriptázu a rezistentní HBV vykazuje sníženou replikační kapacitu v buněčné kultuře.
+
+Klinická zkušenost: Prokázaný přínos vychází z histologických, virologických, biochemických a sérologických odpovědí po 48 týdnech léčby v aktivně kontrolovaných klinických studiích, jež zahrnovaly 1633 dospělých pacientů s chronickou hepatitidou B s průkazem virové replikace a kompenzovaným jaterním onemocněním. Bezpečnost a účinnost entekaviru byla také hodnocena v aktivně kontrolované klinické studii u 191 pacientů infikovaných HBV s dekompenzovaným jaterním onemocněním a v klinické studii u 68 pacientů koinfikovaných HBV i HIV.
+Ve studiích u pacientů s kompenzovaným jaterním onemocněním bylo histologické zlepšení definováno jako snížení skóre nekrózy/zánětu podle Knodella o ≥ 2 body oproti výchozí hodnotě bez zhoršení Knodellova skóre fibrózy. Odpověď pacientů s výchozím skóre cirhózy 4 podle Knodella (cirhóza) byla srovnatelná s celkovou odpovědí u všech měřítek účinnosti (všichni pacienti měli kompenzované jaterní onemocnění). Vysoké výchozí hodnoty Knodellova skóre nekrózy/zánětu (> 10) souvisely s větším histologickým zlepšením u pacientů, kteří doposud neužívali nukleosidy. Výchozí hodnoty ALT ≥ 2násobek ULN a výchozí hodnoty HBV DNA ≤ 9.0 log₁₀ kopií/ml byly spojeny s vyššími stupni virologické odpovědi (týden 48 HBV DNA < 400 kopií/ml) u HBeAg-pozitivních pacientů dosud neléčených nukleosidy. Bez ohledu na výchozí hodnoty u většiny pacientů došlo k histologické a virologické odpovědi na léčbu.
+Zkušenosti u pacientů s kompenzovaným jaterním onemocněním, kteří doposud neužívali nukleosidy:
+
+10/21
+
+Výsledky 48týdenních randomizovaných, dvojitě zaslepených studií srovnávajících entekavir (ETV) s lamivudinem (LVD) u HBeAg pozitivních (022) a HBeAg negativních (027) pacientů jsou uvedeny v následující tabulce.
+
+Bez předchozí léčby nukleosidy
+HBeAg pozitivní (studie 022) HBeAg negativní (studie 027)
+
+
+
+n
+Histologické zlepšení⁽ᵇ⁾ Zlepšení skóre fibrózy podle Ishaka
+Zhoršení skóre fibrózy podle Ishaka
+n
+Snížení virové nálože (log₁₀kopií/ml)⁽ᶜ⁾ Nedetekovatelná HBV DNA (<300 kopií/ml podle PCR)⁽ᶜ⁾
+Normalizace ALT (≤ 1násobek ULN)
+sérokonverze HBeAg
+ETV 0,5 mg
+jednou denně
+314(a)
+72 %*
+39 %
+
+8 %
+354
+-6,86*
+
+67 %*
+
+68 %*
+
+21 %
+LVD 100 mg
+jednou denně
+314(a)
+62 %
+35 %
+
+10 %
+355
+-5,39
+
+36 %
+
+60 %
+
+18 %
+ETV 0,5 mg
+jednou denně
+296(a)
+70 %*
+36 %
+
+12 %
+325
+-5,04* 90 %*
+78 %*
+
+-
+LVD 100 mg
+jednou denně
+287(a)
+61 %
+38 %
+
+15 %
+313
+-4,53
+
+72 %
+
+71 %
+
+-
+*p hodnota v porovnání s lamivudinem < 0,05
+⁽ᵃ⁾ pacienti s hodnotitelnou výchozí histologií (výchozí skóre nekrózy / zánětu podle Knodella ≥ 2)
+⁽ᵇ⁾ primární cílový parametr
+⁽ᶜ⁾ Roche Cobas Amplicor PCR Assay (LLOQ = 300 kopií/ml)
+
+Zkušenosti u pacientů refrakterních na lamivudin s kompenzovaným jaterním onemocněním:
+V randomizované, dvojitě zaslepené studii s pacienty s pozitivním HBeAg, kteří byli rezistentní na lamivudin (026), kdy u 85 % pacientů na začátku byla přítomna mutace LVDr, pacienti užívající lamivudin při vstupu do studie buď přešli na entekavir 1 mg jednou denně, a to bez washout období a overlap období (n = 141), nebo pokračovali v léčbě lamivudinem 100 mg jednou denně (n = 145).
+Výsledky po 48 týdnech jsou uvedeny v následující tabulce.
+
+Lamivudin-refrakterní HBeAg pozitivní (studie 026)
+
+
+
+n
+Histologické zlepšení⁽ᵇ⁾
+Zlepšení skóre fibrózy podle Ishaka Zhoršení skóre fibrózy podle Ishaka n
+Snížení virové nálože (log₁₀kopií/ml)⁽ᶜ⁾ Nedetekovatelná HBV DNA (<300 kopií/ml podle PCR)⁽ᶜ⁾
+Normalizace ALT (≤ 1násobek ULN)
+Sérokonverze HBeAg
+ETV 1,0 mg
+jednou denně
+124(a)
+55 %*
+34 %*
+11 %
+141
+-5,11* 19 %*
+61 %*
+
+8 %
+LVD 100 mg
+jednou denně
+116(a)
+28 %
+16 %
+26 %
+145
+-0,48
+
+1 %
+
+15 %
+
+3 %
+
+
+11/21
+
+*p hodnota v porovnání s lamivudinem < 0,05
+⁽ᵃ⁾ pacienti s hodnotitelnou výchozí histologií (výchozí skóre nekrózy / zánětu podle Knodella ≥ 2)
+⁽ᵇ⁾ primární cílový parametr
+⁽ᶜ⁾ Roche Cobas Amplicor PCR Assay (LLOQ = 300 kopií/ml)
+
+Výsledky po 48 týdnech léčby:
+Léčba byla ukončena, když byla po 48 týdnech nebo v druhém roce léčby dosažena předem stanovená kritéria odpovědi. Jako kritéria odpovědi byla stanovena virologická suprese HBV (HBV DNA < 0,7 mekv/ml podle bDNA) a ztráta HBeAg (u HBeAg pozitivních pacientů) nebo ALT < 1,25krát ULN (u HBeAg negativních pacientů). Pacienti s odpovědí byli sledováni dalších 24 týdnů po ukončení léčby. Pacienti, kteří měli virologickou, ale nikoli sérologickou nebo biochemickou odpověď, pokračovali v léčbě v zaslepeném režimu. Pacientům, kteří neměli virologickou odpověď, byla nabídnuta alternativní léčba.
+Pacienti, kteří doposud neužívali nukleosidy:
+HBeAg pozitivní (studie 022): při léčbě entekavirem po dobu až 96 týdnů (n = 354) mělo kumulativní četnost odpovědí 80 % u HBV DNA < 300 kopií/ml podle PCR, 87 % u normalizace ALT, 31 % u sérokonverze HBeAg a 2 % u sérokonverze HBsAg (5% u ztráty HBsAg). U lamivudinu (n = 355) činila kumulativní četnost odpovědí 39 % u HBV DNA < 300 kopií/ml podle PCR, 79 % u normalizace ALT, 26 % u sérokonverze HBeAg a 2 % u sérokonverze HBsAg (3 % u ztráty HBsAg). Na konci dávkování mezi pacienty, kteří pokračovali v léčbě po 52 týdnech (medián 96 týdnů), mělo 81 % z 243 léčených entekavirem a 39 % ze 164 léčených lamivudinem HBV DNA < 300 kopií/ml podle PCR, zatímco k normalizaci ALT (≤ 1krát ULN) došlo u 79% pacientů léčených entekavirem a u 68 % pacientů léčených lamivudinem.
+HBeAg negativní (studie 027): při léčbě entekavirem po dobu až 96 týdnů (n = 325) mělo kumulativní četnost odpovědí 94 % u HBV DNA < 300 kopií/ml podle PCR a 89% u normalizace ALT oproti 77 % u HBV DNA < 300 kopií/ml podle PCR a 84 % u normalizace ALT u pacientů léčených lamivudinem (n = 313).
+Z 26 pacientů léčených entekavirem a 28 pacientů léčených lamivudinem, kteří pokračovali v léčbě po 52 týdnech (medián 96 týdnů), mělo 96 % pacientů léčených entekavirem a 64 % pacientů léčených lamivudinem při ukončení léčby HBV DNA < 300 kopií/ml podle PCR. K normalizaci ALT (≤ 1krát ULN) došlo při ukončení léčby u 27 % pacientů léčených entekavirem a 21% pacientů léčených lamivudinem.
+U pacientů, kteří splnili kritéria odpovědi definovaná v protokolu, přetrvávala odpověď po dobu 24 týdnů v sledování po léčbě u 75 % (83/111) respondentů léčených entekavirem oproti 73 % (68/93) respondentů léčených lamivudinem ve studii 022 a ve studii 027 u 46 % (131/286) respondentů léčených entekavirem oproti 31 % (79/253) respondentů léčených lamivudinem. Během 48 týdnů sledování po ukončení léčby došlo ke ztrátě odpovědi u značného počtu HBeAg-negativních pacientů.
+Výsledky biopsie jater: u 57 pacientů, kteří doposud neužívali nukleosidy z pivotních studií 022 (HBeAg pozitivní) a 027 (HBeAg negativní) a kteří byli dále zařazeni do dlouhodobé navazující studie, byly hodnoceny dlouhodobé výsledky biopsie jater. Dávka entekaviru byla 0,5 mg denně v pivotních studiích (průměrná expozice 85 týdnů) a 1 mg denně v navazující studii (průměrná expozice 177 týdnů), ve které 51 pacientů dostávalo zpočátku lamivudin (medián doby trvání 29 týdnů). Z těchto pacientů 55/57 (96
+%) mělo histologické zlepšení, jak bylo předem definováno (viz výše), a 50/57 (88 %) mělo ≥ 1-bodové snížení skóre fibrózy podle Ishaka. Z pacientů, s výchozí hodnotou skóre fibrózy podle Ishaka ≥ 2, mělo 25/43 (58 %) ≥ 2bodové snížení. Všichni pacienti (10/10) s pokročilou fibrózou nebo cirhózou na počátku (Ishak skóre 4, 5 nebo 6) měli ≥ 1bodové snížení (průměrné snížení oproti výchozímu stavu bylo 1,5 bodu).
+V čase dlouhodobé biopsie měli všichni pacienti HBV DNA < 300 kopií/ml a 49/57 (86 %) pacientů mělo sérové hodnoty ALT ≤ 1krát ULN. Všech 57 pacientů zůstalo HBsAg pozitivních.
+
+
+12/21
+
+Lamivudin-refrakterní:
+HBeAg pozitivní (studie 026): při léčbě entekavirem po dobu až 96 týdnů (n = 141) byla kumulativní četnost odpovědí 30 % u HBV DNA < 300 kopií/ml podle PCR a 85 % u normalizace ALT a 17 % u sérokonverze HBeAg.
+Ze 77 pacientů, kteří pokračovali v léčbě po 52 týdnech (medián 96 týdnů), mělo 40 % pacientů při ukončení léčby HBV DNA < 300 kopií/ml podle PCR a k normalizaci ALT (≤ 1krát ULN) došlo při ukončení léčby u 81 % pacientů.
+Věk / pohlaví:
+Nebyl žádný patrný rozdíl v účinnosti entekaviru s ohledem na pohlaví (~ 25 % žen v klinických studiích) nebo věk (~ 5 % pacientů starších než 65 let).
+
+Dlouhodobá studie s následným sledováním
+Studie 080 byla randomizovaná, observační otevřená studie fáze 4 k posouzení dlouhodobých rizik léčby entekavirem (ETV, n = 6216) nebo jiné standardní léčby nukleosidovými kyselinami HBV (non-ETV) (n
+= 6162) po dobu až 10 let u subjektů s chronickou infekcí HBV (CHB). Hlavními hodnocenými událostmi klinického hodnocení byl celkový počet maligních nádorů (kombinovaný počet HCC maligních nádorů a maligních nádorů bez HCC), progrese onemocnění HBV související s játry, maligní nádory bez HCC, HCC, a úmrtí, včetně úmrtí souvisejících s jaterními onemocněními. V této studii nebyl ETV spojen se zvýšeným rizikem výskytu maligních nádorů ve srovnání s použitím léčby bez ETV, podle hodnocení buď kombinovaným koncovým ukazatelem celkových maligních nádorů (ETV n = 331, bez ETV n = 337; HR = 0,93 [0,8-1,1]) nebo individuálním koncovým ukazatelem maligního nádoru jiného než HCC (ETV n = 95, bez ETV n = 81; HR = 1,1 [0,82-1,5]). Hlášené události týkající se progrese onemocnění HBV související s játry a HCC byly srovnatelné ve skupinách ETV i bez ETV. Nejčastěji hlášenou malignitou v obou skupinách ETV i bez ETV byl HCC následovaný zhoubnými nádory gastrointestinálního traktu.
+
+Zvláštní populace
+Pacienti s dekompenzovaným jaterním onemocněním: Studie 048 zahrnovala 191 pacientů s HBeAg pozitivní nebo negativní chronickou HBV infekcí a projevy jaterní dekompenzace definovanými jako CTP skóre 7 a vyšší. Pacienti užívali entekavir 1 mg jednou denně nebo adefovir-dipivoxil 10 mg jednou denně. Pacienti nebyli dříve léčeni pro HBV nebo byli předléčeni (s vyloučením předchozí léčby entekavirem, adefovir-dipivoxilem, nebo tenofovir-disoproxil-fumarátem). Na počátku měli pacienti průměrnou hodnotu skóre CTP 8,59 a u 26 % z nich bylo stanoveno CTP třídy C. Průměrná výchozí hodnota skóre MELD (Model for End Stage Liver Disease) byla 16,23. Průměrná hodnota HBV DNA v séru, stanoveno PCR, byla 7,83 log₁₀ kopií/ml a průměrná hodnota ALT v séru byla 100 U/l; 54 % pacientů bylo HBeAg pozitivních a 35 % pacientů mělo na začátku substituce LVDr. Entekavir vykázal vyšší účinnost než adefovir-dipivoxil v primárním cílovém parametru účinnosti, kterým byla změna průměrné hodnoty HBV DNA v séru, stanoveno PCR, ve 24. týdnu ve srovnání s výchozím stavem.
+Výsledky vybraných cílových parametrů studie v týdnech 24 a 48 jsou uvedeny v tabulce:
+
+
+
+
+
+
+
+n
+HBV DNA⁽ᵃ⁾
+
+ETV
+1 mg 1x denně 100
+24. týden
+Adefovir- dipivoxil 10 mg
+1x denně
+91
+
+ETV
+1 mg 1x denně 100
+48. týden
+Adefovir- dipivoxil 10 mg
+1x denně
+91
+Pod hranicí detekovatelnosti(<300 kopií/ml)⁽ᵇ⁾  49 %*     16 %     57 %*     20 %
+
+
+
+13/21
+
+Průměrná změna oproti výchozí hodnotě
+(log₁₀kopií/ml) ⁽ᶜ⁾
+Stálé nebo zlepšené CTP skóre⁽ᵇ,ᵈ⁾
+MELD skóre, průměrná změna oproti výchozí hodnotě⁽ᶜ,ᵉ⁾
+Ztráta HBsAg⁽ᵇ⁾
+Normalizace: ⁽ᶠ⁾
+ALT (≤1 X ULN)⁽ᵇ⁾
+
+Albumin (≥ 1 X LLN)⁽ᵇ⁾ Bilirubin (≤ 1 X ULN)⁽ᵇ⁾ Protrombinvý čas (≤ 1 X ULN)⁽ᵇ⁾
+-4.48*
+
+66 %
+-2,0
+
+1 %
+
+46/78 (59
+%)* 20/82 (24 %) 12/75 (16 %) 9/95 (9 %)
+-3.40
+
+71 %
+-0,9
+
+0
+
+28/71 (39 %)
+
+
+14/69 (20 %)
+
+10/65 (15 %)
+
+6/82 (7 %)
+-4.66
+
+61 %
+-2,6
+
+5 %
+
+49/78 (63
+%)* 32/82 (39 %) 15/75 (20 %) 8/95 (8 %)
+-3.90
+
+67 %
+-1,7
+
+0
+
+33/71 (46 %)
+
+
+20/69 (29 %)
+
+18/65 (28 %)
+
+7/82 (9 %)
+⁽ᵃ⁾ Roche COBAS Amplicor PCR assay (LLOQ = 300 kopií/ml).
+⁽ᵇ⁾ NC=F (noncompleters = failure - osoba, která nedokončila studii = selhání léčby, tzn. ukončení léčby před týdnem analýzy, včetně důvodů jako úmrtí, nedostatečná účinnost, nežádoucí účinky, noncompliance / ztráta sledování, se počítají jako selhání (např. HBV DNA >= 300 kopií/ml))
+⁽ᶜ⁾ NC=M (noncompleters=missing - osoba, která nedokončila studii = ztracená)
+⁽ᵈ⁾ Definované jako pokles nebo žádná změna oproti výchozím hodnotám CTP skóre.
+⁽ᵉ⁾ Průměrná výchozí hodnota MELD skóre byla 17,1 pro entekavir a 15,3 pro adefovir-dipivoxil.
+⁽ᶠ⁾ Jmenovatelem jsou pacienti s abnormálními hodnotami na počátku sledování.
+* p<0,05
+ULN=horní limit normálního rozsahu, LLN=dolní limit normálního rozsahu.
+Čas do vzniku hepatocelulárního karcinomu (HCC) nebo úmrtí (cokoli nastalo dříve) byl srovnatelný v obou léčených skupinách; kumulativní výskyt mortality byl u pacientů léčených entekavirem 23 % (23/102), resp. 33 % (29/89) u pacientů léčených adefovir-dipivoxilem a kumulativní výskyt hepatocelulárního karcinomu (HCC) byl 12 % (12/102), resp. 20 % (18/89).
+Z pacientů se substitucemi LVDr na počátku studie bylo pacientů s HBV DNA < 300 kopií/ml 44 % pro entekavir a 20 % pro adefovirem ve 24. týdnu, ve 48. týdnu jich bylo 50 % pro entekavir a 17 % pro adefovir.
+
+HIV/HBV koinfikovaní pacienti, kteří souběžně užívají HAART: Studie 038 zahrnovala 67 pacientů HBeAg pozitivních a 1 pacienta HBeAg negativního koinfikovaných HIV. Pacienti měli stabilně kontrolovaný HIV (HIV RNA < 400 kopií/ml) s relapsem viremie HBV v režimu HAART zahrnujícím lamivudin. Režimy HAART nezahrnovaly emtricitabin nebo tenofovir disoproxil-fumarát. Na začátku studie měli pacienti léčení entekavirem po medián doby před léčbou lamivudinem 4,8 roku a medián počtu CD4 494 buněk/mm³ (pouze 5 subjektů mělo počet CD4 buněk < 200 buněk/mm³). Pacienti pokračovali ve svém lamivudinovém režimu a byli zařazeni do skupiny, která navíc dostávala entekavir 1 mg jednou denně (n = 51), nebo placebo (n = 17) po dobu 24 týdnů, po které následovalo období dalších 24 týdnů, kdy všichni pacienti dostávali entekavir. Po 24 týdnech bylo snížení virové nálože HBV významně vyšší u entekaviru (-3,65 v porovnání se zvýšením 0,11 log₁₀ kopií/ml). U pacientů, kteří byli původně zařazeni do skupiny léčené entekavirem, bylo snížení HBV DNA po 48 týdnech -4,20 log₁₀ kopií/ml, k normalizaci ALT došlo u 37 % pacientů s abnormálními výchozími hodnotami ALT a u žádného z těchto pacientů nedošlo k sérokonverzi HBeAg.
+
+
+
+
+14/21
+
+Pacienti koinfikovaní HIV / HVB, kteří souběžně neužívají HAART: Entekavir nebyl hodnocen u pacientů koinfikovaných HIV/HBV, kteří souběžně nedostávali účinnou léčbu HIV. U pacientů koinfikovaných HIV/HBV, kteří dostávali entekavir v monoterapii bez léčby HAART, bylo hlášeno snížení HIV RNA. V některých případech byla pozorována selekce varianty HIV M184V, což má dopad na selekci režimů HAART, které mohou pacienti brát později. Proto se entekavir nemá za těchto podmínek užívat kvůli možnosti vývoje rezistence na léčbu HIV (viz bod 4.4).
+
+Pacienti s transplantací jater: Bezpečnost a účinnost entekaviru v dávce 1 mg jednou denně byla hodnocena v jednoramenné studii u 65 pacientů, kteří prodělali transplantaci jater z důvodu komplikací chronické infekce HBV a kteří měli v době transplantace hladiny HBV DNA <172 IU/ml (přibližně 1000 kopií/ml). Studovanou populaci tvořilo 82 % mužů, 39 % bělochů a 37 % Asiatů, v průměrném věku 49 let; 89 % pacientů bylo v době transplantace onemocnění HBeAg negativních. Z toho 61 pacientů, u kterých se dala hodnotit účinnost, dostávalo entekavir po dobu alespoň 1 měsíce, 60 pacientů rovněž dostávalo imunoglobulin (HBIg) proti hepatitidě B jako součást potransplantační profylaxe. Z těchto 60 pacientů dostávalo 49 léčbu HBIg víc než 6 měsíců. V týdnu 72 po transplantaci neměl žádný z 55 sledovaných případů virologického relapsu HBV [definovanou jako HBV DNA ≥50 IU/ml (přibližně 300 kopií/ml)] a ani u zbývajících 6 pacientů nebyla virologický relaps hlášena. Všech 61 pacientů bylo po transplantaci HBsAG negativních, 2 z nich se později stali HBsAg pozitivní navzdory nedetekovatelné hladině HBV DNA (<6 IU/ml). Četnost výskytu a povaha nežádoucích účinků v této studii byly v souladu s tím,co se u pacientů s transplantací jater očekávalo, a v souladu se známým bezpečnostním profilem entekaviru.
+
+Pediatrická populace: Studie 189 je studie o účinnosti a bezpečnosti entekaviru u 180 dětí a dospívajících dosud neléčených nukleosidy ve věku od 2 do < 18 let s HBeAg-pozitivní chronickou hepatitidou B, kompenzovaným onemocněním jater a zvýšenou ALT. Pacienti byli randomizováni v poměru 2:1, první skupina užívala zaslepenou léčbu entekavirem 0,015 mg/kg až do 0,5 mg/den (N=120) a druhá skupina užívala placebo (N=60). Randomizace byla stratifikována podle věku (2 až 6 let, > 6-12 let, a > 12 až < 18 let). Vstupní demografické údaje a charakteristiky HBV onemocnění byly mezi oběma léčebnými rameny i napříč věkovými skupinami srovnatelné. Při vstupu do studie byla průměrná HBV DNA 8,1 log₁₀ IU/ml a průměrná ALT byla 103 U/l napříč skupinami pacientů v této studii. Výsledky hlavních parametrů účinnosti ve 48. týdnu a 96. týdnu jsou uvedeny v tabulce níže.
+
+Entekavir       Placebo*
+
+
+n
+HBV DNA < 50 IU/ml⁽ᵃ⁾ a sérokonverze HBeAg⁽ᵃ⁾
+HBV DNA < 50 IU/ml⁽ᵃ⁾
+sérokonverze HBeAg⁽ᵃ⁾ ALT normalizace⁽ᵃ⁾ HBV DNA < 50 IU/ml⁽ᵃ⁾
+48. týden
+120
+24,2 %
+49,2 %
+24,2 %
+67,5 %
+96. týden
+120
+35,8 %
+64,2 %
+36,7 %
+81,7 %
+48. týden
+60
+3,3 %
+3,3 %
+10,0 %
+23,3 %
+
+
+Výchozí HBV DNA<8 log₁₀IU/ml Výchozí HBV DNA
+>= 8 log₁₀IU/ml
+82,6 % (38/46)
+28,4 % (21/74)
+82,6 % (38/46)
+52,7 %(39/74)
+6,5 % (2/31)
+0 % (0/29)
+⁽ᵃ⁾ NC=F (pacient s nedokončenou léčbou=selhání)
+* Pacienti, kteří byli randomizováni na placebo a kteří nedosáhli sérokonverze HBe v 48. týdnu byli pro 2. rok trvání studie převedeni do otevřené studie entekaviru; proto jsou dostupná randomizovaná komparativní data jen do 48. týdne.
+
+
+
+15/21
+
+Zhodnocení pediatrické rezistence je založeno na údajích ze dvou klinických studií (028 a 189) u HBeAG-pozitivních pediatrických pacientů dosud neléčených nukleosidy s chronickou infekcí HBV. Tyto dvě studie obsahují údaje o rezistenci u 183 pacientů léčených a monitorovaných v 1. roce a u 180 pacientů léčených a monitorovaných v 2. roce. Genotypové hodnocení bylo provedeno u všech pacientů s dostupnými vzorky, kteří dosáhli virologického průlomu v 96. týdnu, nebo dosáhli hodnot HBV DNA >= 50 IU/ml ve 48. nebo 96. týdnu. Během 2. roku byla genotypová rezistence na ETV zjištěna u 2 pacientů (1,1 % kumulativní pravděpodobnost rezistence ve 2. roce).
+Klinická rezistence u dospělých: Pacienti v klinických studiích iniciálně léčení entekavirem v dávce 0,5 mg (dosud neléčení nukleosidy) nebo dávkou 1 mg (refrakterní na lamivudin), u kterých byla v průběhu léčby, v nebo po 24. týdnu, měřena PCR HBV DNA, byli monitorováni na rezistenci. Až do konce 240. týdne ve studiích s pacienty dosud neléčenými nukleosidy, genotypový důkaz ETVr substitucí na rtT184, rtS202 nebo rtM250 byl identifikován u pacientů léčených entekavirem, u 2 z nich došlo k virologickému průlomu(viz tabulka). Tyto substituce byly pozorovány pouze v přítomnosti LVDr substitucí (rtM204V a rtL180M).
+
+
+Vznikající genotypové rezistence na entekavir až do konce 5. roku, studie bez předchozí léčby
+nukleosidy
+Rok 1  Rok 2  Rok 3⁽ᵃ⁾  Rok 4⁽ᵃ⁾  Rok 5⁽ᵃ⁾
+
+Pacienti léčeni a monitorováni na
+rezistenci⁽ᵇ⁾
+Pacienti ve specifickém roce s/se:
+663   278   149    121    108
+-vznikající genotypovou ETVr⁽ᶜ⁾              1    1     1     0     0
+-genotypovou ETVrc s virologickým průlomem ⁽ᵈ⁾     1    0     1     0     0
+Kumulativní pravděpodobnost:
+-vznikající genotypové ETVr⁽ᶜ⁾             0,2 %  0,5 %  1,2 %   1,2 %   1,2 %
+
+-genotypové ETVrc s virologickým průlomem⁽ᵈ⁾
+0,2 %  0,2 %  0,8 %   0,8 %   0,8 %
+⁽ᵃ⁾ Výsledky odrážejí užívání entekaviru v dávce 1 mg u 147 ze 149 pacientů ve 3. roce a všechny pacienty ve 4. - 5. roce a kombinovanou léčbu entekavir/lamivudin (následovanou dlouhodobou terapií entekavirem) po dobu (medián) 20 týdnů u 130 ze 149 pacientů ve 3. roce a po dobu 1 týdne u 1 ze 121 pacientů ve 4. roce v klinické studii.
+⁽ᵇ⁾ Zahrnuje pacienty s alespoň jedním měřením HBV DNA pomocí PCR v anebo po týdnu 24 léčby až do 58. týdne (1. rok), po 58. týdnu až do 102. týdne 102 (2. rok), po 102. týdnu až do 156.
+týdne (3. rok), po 156. týdnu až do 204. týdne (4. rok), nebo po 204. týdnu až do 252. týdne (5. rok
+).
+⁽ᶜ⁾ Pacienti měli také LVDr substituce.
+⁽ᵈ⁾ ≥ 1 log₁₀ zvýšení nad nejnižší hodnotu u HBV DNA podle PCR, potvrzeno následnými měřeními nebo na konci otevřeného časového bodu.
+ETVr substituce (kromě LVDr substitucí rtM204V/I +- rtL180M) byly pozorovány na začátku sledování v izolátech u 10/187 (5 %) pacientů refrakterních na lamivudin léčených entekavirem a monitorovaných na rezistenci, což naznačuje, že předchozí léčba lamivudinem může selektovat tyto substituce vedoucí k rezistenci a že v malém počtu mohou existovat před léčbou entekavirem. Až do konce 240. týdne došlo k virologickému průlomu (≥ 1 log₁₀ zvýšení nad nejnižší hodnotu) u 3 z 10 pacientů. Vznikající rezistenci na entekavir ve studiích s pacienty rezistentními k lamivudinu až do konce 240. týdne shrnuje tabulka.
+
+Genotypové rezistence na entekavir až do konce 5. roku, studie s pacienty refrakterními na léčbu
+lamivudinem
+Rok 1  Rok 2  Rok 3 ⁽ᵃ⁾  Rok 4 ⁽ᵃ⁾  Rok 5⁽ᵃ⁾
+
+
+16/21
+
+Pacienti léčeni a monitorováni na rezistenci⁽ᵇ⁾     187   146    80     52     33
+Pacienti ve specifickém roce s/se:
+-vznikající genotypovou ETVr⁽ᶜ⁾            11    12    16     6      2
+
+-genotypovou ETVr⁽ᶜ⁾ s virologickým průlomem⁽ᵈ⁾
+Kumulativní pravděpodobnost:
+2(e)    14(e)    13(e)     9(e)     1(e)
+- vznikající genotypové ETVr⁽ᶜ⁾            6,2 %   15 %  36,3 %  46,6 %  51,45 %
+- genotypové ETVr⁽ᶜ⁾ s virologickým průlomem⁽ᵈ⁾  1,1 %⁽ᵉ⁾  10,7 %  27 %⁽ᵉ⁾  41,3 %⁽ᵉ⁾  43,6 %⁽ᵉ⁾
+⁽ᵃ⁾ Výsledky se týkají užívání kombinované léčby entekavir-lamivudin po kterém následovala dlouhodobá terapie entekavirem) pro medián 13 týdnů u 48 z 80 pacientů ve 3. roce, medián 38 týdnů u 10 z 52 pacientů ve 4. roce, a po 16 týdnech u 1 z 33 pacientů v 5. roce v klinické studii.
+⁽ᵇ⁾ Zahrnuje pacienty s alespoň jedním měřením HBV DNA pomocí PCR v anebo po týdnu 24 léčby až do 58. týdne (1. rok), po 58. týdnu až do 102. týdne 102 (2. rok), anebo po 102. týdnu až
+do 156. týdne (3. rok), po 156. týdnu až do 204. týdne (4. rok) nebo po 204. týdnu až do 252. týdne
+(5. rok).
+⁽ᶜ⁾ Pacienti měli také LVDr substituce.
+⁽ᵈ⁾ ≥ 1 log₁₀ zvýšení nad nejnižší hodnotu u HBV DNA podle PCR, potvrzeno následnými měřeními nebo na konci otevřeného časového bodu.
+⁽ᵉ⁾ ETVr vyskytlá ve kterémkoliv roce; virologický průlom v daném roce.
+Mezi pacienty refrakterními na lamivudin s výchozí hodnotou HBV DNA <107 log₁₀ kopií/ml, 64% (9/14) dosáhlo HBV DNA <300 kopií/ml ve 48. týdnu. Těchto 14 pacientů mělo nižší míru genotypové rezistence na entekavir (kumulativní pravděpodobnost 18,8 % během 5 let sledování) než v celé studované populaci (viz tabulka). Pacienti refrakterní na lamivudin, kteří dosáhli HBV DNA <104 log₁₀ kopií/ml stanoveno metodou PCR ve 24. týdnu, měli také nižší výskyt rezistence než ti, kteří toho nedosáhli (5letá kumulativní pravděpodobnost 17,6 % [n=50] versus 60,5 % [n=135]).
+
+Integrovaná analýza klinických studií fáze 2 a 3: Ze 17 klinických studií fáze 2 a 3 byla v integrované analýze údajů rezistence na entekavir po schválení registrace zjištěna po dobu léčby entekavirem vznikající rezistence na entekavir související se substitucí rtA181C u 5 z 1 461 pacientů. Tato substituce byla detekovaná pouze v přítomnosti rezistence na lamivudin související se substitucemi rtL180M a rtM204V.
+
+5.2  Farmakokinetické vlastnosti
+Absorpce: Entekavir se rychle vstřebává, přičemž vrcholové koncentrace v plazmě dosahuje mezi 0,5-1,5 hodinou. Absolutní biologická dostupnost nebyla stanovena. Podle vylučování léku v nezměněné formě v moči byla biologická dostupnost odhadnuta na minimálně 70 %. Po opakovaných dávkách v rozsahu od 0,1 mg do 1 mg dochází ke zvýšení Cmₐₓ a hodnot AUC úměrně dávce. Ustálený stav je dosažen za 6-10 dnů při dávkování jednou denně s ~ 2násobnou kumulací. Cmₐₓ a Cmin v ustáleném stavu činí 4,2, respektive 0,3 ng/ml u dávky 0,5 mg a 8,2, respektive 0,5 ng/ml u dávky 1 mg. Tablety a perorální roztok byly bioekvivalentní u zdravých subjektů; obě formy jsou tedy vzájemně zaměnitelné.
+Při podávání 0,5 mg entekaviru se standardní stravou s vysokým obsahem tuků (945 kcal, 54,6 g tuků) nebo nízkotučnou stravou (379 kcal, 8,2 g tuků) bylo zpoždění absorpce minimální (1-1,5 hodiny po jídle oproti 0,75 hodiny na lačno), snížení Cmₐₓ činilo 44-46 % a snížení AUC 18-20 %. Nižší hodnoty Cmₐₓ a AUC při užívání s jídlem nejsou u pacientů, kteří doposud neužívali nukleosidy, považovány za klinicky významné, ale mohly by ovlivnit účinnost u pacientů refrakterních na lamivudin (viz bod 4.2).
+
+Distribuce: Odhadovaný objem distribuce je u entekaviru vyšší než celkový objem vody v organizmu. Vazba na lidské sérové bílkoviny in vitro činí ~ 13 %.
+
+
+
+17/21
+
+Biotransformace: Entekavir není substrátem, inhibitorem ani induktorem enzymového systému CYP450. Po podání ¹⁴C-entekaviru nebyly pozorovány žádné oxidační ani acetylované metabolity a bylo zjištěno jen menší množství metabolitů fáze II, konjugátů glukoronidů a sulfátů.
+Eliminace: Entekavir se vylučuje převážně ledvinami, přičemž v moči je při stabilním stavu zjištěno zhruba 75 % dávky léku v nezměněné podobě. Renální clearance nezávisí na dávce a pohybuje se od 360 do 471 ml/min, což naznačuje, že entekavir prochází jak glomerulární filtrací, tak i tubulární sekrecí. Po dosažení vrcholové hladiny se koncentrace entekaviru v plazmě snižuje biexponenciálně s terminálním eliminačním poločasem ~ 128-149 hodin. Pozorovaný index kumulace léčiva je u dávkování jednou denně ~ 2násobný, což ukazuje na efektivní poločas kumulace přibližně 24 hodin.
+
+Porucha funkce jater: Farmakokinetické parametry u pacientů se středně těžkou nebo těžkou poruchou
+funkce jater byly podobné jako u pacientů s normální funkcí jater.
+Porucha funkce ledvin: Clearance entekaviru klesá s klesající clearance kreatininu. Při hemodialýze v délce 4 hodin bylo odstraněno ~ 13 % dávky a 0,3 % bylo odstraněno pomocí CAPD. Farmakokinetika entekaviru po jednorázové dávce 1 mg u pacientů (bez chronické infekce virem hepatitidy B) je uvedena v následující tabulce:
+
+Výchozí clearance kreatininu (ml/min)
+
+
+
+
+
+
+Cmₐₓ (ng/ml) (CV%) AUC(0-T)
+(ng h/ml) (CV) CLR
+(ml/min) (SD) CLT/F
+(ml/min) (SD)
+Normální funkce ledvin
+> 80
+(n = 6)
+8,1
+(30,7)
+27,9
+(25,6)
+
+383,2
+(101,8)
+
+588,1
+(153,7)
+Lehká
+porucha
+> 50;
+≤ 80
+(n = 6)
+10,4
+(37,2)
+51,5
+(22,8)
+
+197,9
+(78,1)
+
+309,2
+(62,6)
+Středně těžká
+porucha
+30-50
+
+(n = 6)
+10,5
+(22,7)
+69,5
+(22,7)
+
+135,6
+(31,6)
+
+226,3
+(60,1)
+Těžká porucha 20-
+<30
+(n = 6)
+15,3
+(33,8)
+145,7
+(31,5)
+
+40,3
+(10,1)
+
+100,6
+(29,1)
+Těžká porucha léčená hemodialýzou
+
+(n = 6)
+15,4
+(56,4)
+233,9
+(28,4)
+
+NA
+-
+
+50,6
+(16,5)
+Těžká porucha léčená CAPD (n = 4)
+16,6
+(29,7)
+221,8
+(11,6)
+
+NA
+-
+
+35,7
+(19,6)
+Po transplantaci jater: Expozice entekaviru u příjemců transplantátů jater infikovaných HBV byla při stabilní dávce cyklosporinu A nebo takrolimu (n = 9) ~ 2násobná v porovnání se zdravými subjekty s normální funkcí ledvin. Změněná renální funkce přispívá u těchto pacientů k vyšší expozici entekaviru (viz bod 4.4).
+
+Pohlaví: AUC byla o 14 % vyšší u žen než u mužů, a to v důsledku rozdílů v renální funkci a tělesné hmotnosti. Po úpravě podle rozdílů v clearance kreatininu a tělesné hmotnosti nebyl mezi mužskými a ženskými subjekty zjištěn žádný rozdíl v expozici.
+
+Starší pacienti: Vliv věku na farmakokinetiku entekaviru byl hodnocen podle srovnání starších jedinců ve věku od 65 do 83 let (průměrný věk žen byl 69 let, střední věk mužů 74 let) s mladými subjekty ve věku od 20 do 40 let (průměrný věk žen byl 29 let, střední věk mužů 25 let). AUC byla u starších subjektů o 29
+% vyšší než u mladých subjektů, a to zejména z důvodu rozdílů v renální funkci a tělesné hmotnosti. Po
+
+
+18/21
+
+úpravě podle rozdílů v clearance kreatininu a tělesné hmotnosti měly starší subjekty AUC o 12,5 % vyšší než mladé subjekty. Populační farmakokinetická analýza zahrnující pacienty ve věku od 16 do 75 let neidentifikovala věk jako faktor významně ovlivňující farmakokinetiku entekaviru.
+Etnická příslušnost: Populační farmakokinetická analýza neidentifikovala etnickou příslušnost jako faktor významně ovlivňující farmakokinetiku entekaviru. Závěry lze však činit pouze pro bělochy a Asiaty, protože v ostatních kategoriích bylo jen velmi málo subjektů.
+
+Pediatrická populace: Byla hodnocena farmakokinetika entekaviru v ustáleném stavu (studie 028) u 24 pediatrických subjektů dosud neléčených nukleosidy HBeAg-pozitivních pediatrických subjektů ve věku od 2 do < 18 let s kompenzovaným onemocněním jater. Expozice entekaviru u pacientů dosud neléčených nukleosidy léčených jednou denně v dávce entekaviru 0,015 mg/kg až do maximální dávky 0,5 mg byla podobná expozici dosažené u dospělých, léčených jednou denně v dávce 0,5 mg. Hodnoty Cmₐₓ, AUC₍₀₋₂₄₎ a Cmin pro tyto subjekty byly 6,31 ng/ml; 18,33 ng h/ml a 0,28 ng/ml.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+
+Při toxikologických studiích opakovaného podávání na psech byl pozorován reverzibilní perivaskulární zánět v centrálním nervovém systému, u nějž dávky s nulovým účinkem odpovídaly expozici 19krát a 10krát vyšší než u lidí (při dávce 0,5 mg, respektive 1 mg). Toto zjištění nebylo pozorováno ve studiích s opakovaným podáváním na jiných druzích včetně opic, jimž byl entekavir podáván denně po dobu 1 roku při expozici ≥ 100krát vyšší než u lidí.
+
+Při reprodukčních toxikologických studiích, při nichž byl zvířatům podáván entekavir po dobu až 4 týdnů, nebyly pozorovány známky snížené fertility u potkaních samců nebo samic při vysokých expozicích.
+Testikulární změny (seminiferósní tubulární degenerace) byly patrné při toxikologických studiích opakovaného podávání na hlodavcích a psech při expozicích ≥ 26krát vyšších než u lidí. V jednoleté studii na opicích nebyly zjištěny žádné změny varlat.
+U březích potkanů a králíků, jimž byl podán entekavir, hladiny s nulovým efektem na embryotoxicitu nebo mateřskou toxicitu odpovídaly expozicím ≥ 21krát vyšším než u lidí. U potkanů byla při vysoké expozici pozorována mateřská toxicita, embryofetální toxicita (resorpce), nižší tělesná hmotnost plodu, malformace ocasu a obratlů, snížená osifikace (obratle, hrudní kost a články prstů) a nadbytečné lumbární obratle a žebra. U králíků byla při vysoké expozici pozorována embryofetální toxicita (resorpce), snížená osifikace (jazylka) a vyšší incidence 13. žebra. Při peri-postnatální studii na potkanech nebyly na mláďatech pozorovány žádné nežádoucí účinky. V samostatné studii, při níž byl entekavir podáván březím a kojícím potkanům v dávce 10 mg/kg, byla prokázána jak fetální expozice entekaviru, tak i jeho vylučování do mateřského mléka. U mláďat potkanů byl podáván entekavir 4. až 80. den po narození a byla zjištěna mírně snížená akustická úleková reakce v období zotavování (110. - 114. den po narození), ale ne v průběhu podávání přípravku v daném období, a to s AUC hodnotami ≥ 92krát vyššími než u lidí užívajících 0,5 mg dávku nebo u dětí s ekvivalentní dávkou. Vzhledem k rozpětí dané expozice je význam tohoto zjištění pravděpodobně klinicky nevýznamný.
+
+Při Amesově mikrobiálním testu mutagenity, testu genových mutací savčích buněk a transformačním testu s embryonálními buňkami syrského křečka nebyly zjištěny žádné známky genotoxicity. Také mikronukleární studie a studie oprav DNA na potkanech byla negativní. Entekavir byl při koncentracích značně vyšších, než jsou koncentrace dosahované klinicky, klastogenní pro lidské lymfocytové kultury.
+
+Dvouleté studie kancerogenity: u myších samců byla při expozicích ≥ 4 a ≥ 2krát vyšších než u lidí při dávce 0,5 mg, respektive 1 mg pozorována vyšší incidence tumorů plic. Vzniku tumoru předcházela proliferace pneumocytů v plicích, která nebyla pozorována u potkanů, psů ani opic, což naznačuje, že
+
+19/21
+
+hlavní faktor při vzniku tumoru plic u myší je pravděpodobně druhově specifický. Vyšší incidence jiných tumorů včetně mozkových gliomů u potkaních samců a samic, karcinomů jater u myších samců, benigních vaskulárních tumorů u myších samic a adenomů jater a karcinomů u potkaních samic byly pozorovány pouze při vysoké celoživotní expozici. Nebylo však možné přesně stanovit hladiny s nulovým účinkem. Prediktivita těchto zjištění pro lidi není známa. Pro klinická data viz bod 5.1.
+
+
+6.   FARMACEUTICKÉ ÚDAJE
+6.1  Seznam pomocných látek
+
+Jádro tablety Monohydrát laktosy
+Mikrokrystalická celulosa Krospovidon typ A Magnesium-stearát
+
+Potahová vrstva tablety Hypromelosa 2910
+Makrogol 6000
+Oxid titaničitý (E171) Mastek
+
+Entecavir Sandoz 1 mg potahované tablety navíc obsahuje:
+Červený oxid železitý (E172) Žlutý oxid železitý (E172)
+
+6.2  Inkompatibility
+
+Neuplatňuje se.
+
+6.3   Doba použitelnosti
+
+Blistr:
+3 roky
+HDPE lahvička:
+2 roky.
+Po prvním otevření: 6 měsíců.
+6.4   Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+6.5  Druh obalu a obsah balení
+Potahované tablety jsou baleny v OPA/Al/PVC-Al blistrech nebo HDPE lahvičce s PP dětským bezpečnostním uzávěrem, vložených do krabičky.
+
+Velikosti balení
+Blistry:10, 30 a 90 potahovaných tablet
+
+20/21
+
+Lahvička: 30 potahovaných tablet
+Na trhu nemusí být všechny velikosti balení.
+
+6.6  Zvláštní opatření pro likvidaci přípravku
+
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+Sandoz s.r.o., Na Pankráci 1724/129, 140 00 Praha 4 – Nusle
+
+8.   REGISTRAČNÍ ČÍSLO(A)
+
+Entecavir Sandoz 0,5 mg potahované tablety: 42/762/16-C Entecavir Sandoz 1 mg potahované tablety:  42/763/16-C
+
+9.   DATUM PRVNÍ REGISTRACE / PRODLOUŽENÍ REGISTRACE
+
+Datum první registrace: 28. 6. 2017
+
+10.  DATUM REVIZE TEXTU
+
+19. 2. 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21/21

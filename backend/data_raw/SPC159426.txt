@@ -1,0 +1,499 @@
+Sp. zn. sukls111284/2020
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1.  NÁZEV PŘÍPRAVKU
+
+Zemplar 2 mikrogramy/ml injekční roztok
+Zemplar 5 mikrogramů/ml injekční roztok
+
+2.  KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Zemplar 2 mikrogramy/ml injekční roztok:
+Jeden ml injekčního roztoku obsahuje paricalcitolum 2 mikrogramy.
+Jedna 1ml ampule obsahuje paricalcitolum 2 mikrogramy.
+Jedna 1ml injekční lahvička obsahuje paricalcitolum 2 mikrogramy.
+
+Zemplar 5 mikrogramů/ml injekční roztok:
+Jeden ml injekčního roztoku obsahuje paricalcitolum 5 mikrogramů.
+
+Jedna 1ml ampule obsahuje paricalcitolum 5 mikrogramů.
+Jedna 2ml ampule obsahuje paricalcitolum 10 mikrogramů.
+
+Jedna 1ml injekční lahvička obsahuje paricalcitolum 5 mikrogramů. Jedna 2ml injekční lahvička obsahuje paricalcitolum 10 mikrogramů.
+Pomocné látky se známým účinkem:
+Ethanol (20% v/v) a propylenglykol (30% v/v)
+
+Úplný seznam pomocných látek viz bod 6.1.
+
+3.  LÉKOVÁ FORMA
+
+Injekční roztok
+Čirý a bezbarvý vodný roztok bez viditelných částic.
+
+
+4.  KLINICKÉ ÚDAJE
+4.1  Terapeutické indikace
+
+Parikalcitol je indikován u dospělých k prevenci a léčbě sekundárního hyperparathyroidismu
+u hemodialyzovaných pacientů s chronickým onemocněním ledvin stadia 5.
+4.2  Dávkování a způsob podání
+
+Dávkování
+
+Dospělí
+1) Úvodní dávka se vypočítá podle výchozích hladin parathormonu (PTH)
+Úvodní dávka parikalcitolu se vypočítá podle následujícího vzorce:
+
+
+1
+
+Úvodní dávka (mikrogramy) = výchozí hladina intaktního PTH v pmol/l
+8
+
+nebo
+
+= výchozí hladina intaktního PTH v pg/ml 80
+
+a podá se intravenózním (i.v.) bolusem ne častěji než obden kdykoli během dialýzy.
+
+V klinických studiích byla maximální bezpečně podaná dávka až 40 mikrogramů.
+
+2) Titrační dávka
+
+V současné době akceptovaný cílový rozptyl hladin PTH u pacientů na dialýze v konečném stadiu selhání ledvin jsou hladiny maximálně 1,5 až 3x vyšší, než je horní hranice normální hodnoty u neuremických pacientů, tj. 15,9 až 31,8 pmol/l (150–300 pg/ml) pro intaktní PTH. K dosažení příslušných fyziologických výsledných parametrů jsou nutné pečlivé sledování a individuální titrace dávek. Pokud je zjištěna hyperkalcemie nebo přetrvává zvýšení upraveného kalcio-fosfátového součinu Ca x P nad 5,2 mmol²/l² (65 mg²/dl²), je nutné snížit dávku nebo léčbu přerušit do doby, než dojde k normalizaci těchto parametrů. Poté se opět zahájí podávání parikalcitolu, a to nižší dávkou. Může být nezbytné dávky snížit v souladu s poklesem hladin PTH jako odpověď na léčbu.
+V tabulce je uveden navrhovaný postup pro titraci dávky:
+
+Navrhované dávkovací doporučení
+(Úprava dávkování ve 2 až 4týdenních intervalech)
+
+Hladina  iPTH  ve  vztahu k výchozím hodnotám
+Stejná nebo zvýšená Snížení o < 30 %
+Snížení o ≥ 30 %, ≤ 60 %
+Snížení o > 60 %
+iPTH < 15,9 pmol/l (150 pg/ml)
+Úprava dávky parikalcitolu
+
+Zvýšení o 2 až 4 mikrogramy
+Beze změny
+Snížení o 2 až 4 mikrogramy
+
+Jakmile je určena dávka, je nutné stanovovat hladiny kalcia a fosfátů v séru nejméně v měsíčních intervalech. Měření intaktního PTH v séru se doporučuje každé 3 měsíce. Během úpravy dávky parikalcitolu může být potřeba provádět častější laboratorní vyšetření.
+Porucha funkce jater
+Koncentrace nevázaného parikalcitolu u pacientů s mírnou až středně těžkou poruchou funkce jater jsou obdobné jako u zdravých osob. U této populace pacientů není zapotřebí provádět úpravu dávky. U pacientů s těžkou poruchou funkce jater nejsou žádné zkušenosti s podáváním.
+Pediatrická populace
+Bezpečnost a účinnost přípravku Zemplar u dětí nebyla dosud stanovena. Nejsou dostupné žádné zkušenosti s podáváním u dětí do 5 let věku. V současnosti dostupné údaje o užití přípravku u pediatrických pacientů jsou uvedeny v bodě 5.1, ale na jejich základě nelze učinit žádná doporučení ohledně dávkování.
+
+Starší pacienti
+U pacientů ve věku 65 let a starších jsou jenom omezené zkušenosti s užíváním parikalcitolu během klinických studií fáze III. V těchto studiích nebyl pozorován žádný celkový rozdíl v účinnosti nebo bezpečnosti mezi pacienty ve věku 65 let a staršími a pacienty mladšími.
+
+
+
+
+2
+
+Způsob podání
+
+Přípravek Zemplar injekční roztok je podáván centrálním žilním katetrem během hemodialýzy.
+
+4.3  Kontraindikace
+
+Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+Intoxikace vitaminem D. Hyperkalcemie.
+
+4.4  Zvláštní upozornění a zvláštní opatření pro použití
+Nadměrná suprese parathormonu může mít za následek zvýšení hladin kalcia v séru a může vést k metabolickému kostnímu onemocnění. Pro dosažení potřebných fyziologických výsledků je nutné monitorování pacienta a individuální titrace dávky.
+
+Pokud dojde k rozvoji klinicky významné hyperkalcemie u pacientů užívajících vazače fosfátů na bázi vápníku, je vhodné dávku kalciového vazače fosfátů snížit nebo jeho podávání přerušit.
+
+Chronická hyperkalcemie může být spojena s generalizovanou cévní kalcifikací a kalcifikací jiných měkkých tkání.
+Fosfát nebo léčivé přípravky příbuzné vitaminu D se nesmí podávat společně s parikalcitolem vzhledem
+ke zvýšenému riziku hyperkalcemie a zvýšení součinu Ca x P (viz bod 4.5).
+
+Toxicita digitalisu je potencována hyperkalcemií z jakékoli příčiny, proto je při podávání digitalisu souběžně s parikalcitolem nutná opatrnost (viz bod 4.5).
+Opatrnosti je zapotřebí při současném užívání parikalcitolu spolu s ketokonazolem (viz bod 4.5).
+
+Upozornění týkající se pomocných látek
+
+Dávka 40 mikrogramů tohoto léčivého přípravku podaná dospělému s tělesnou hmotností 70 kg vede k expozici přibližně 18 mg/kg ethanolu, což může způsobit zvýšení koncentrace alkoholu v krvi přibližně o 3 mg/100 ml.
+Pro srovnání u dospělého člověka, který vypije sklenici vína nebo 500 ml piva, je koncentrace alkoholu v krvi přibližně 50 mg/100 ml.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Žádné studie interakcí nebyly s parikalcitolem v injekční formě provedeny. Nicméně interakční studie zaměřená na současné užívání ketokonazolu a parikalcitolu byla provedena u lékové formy tobolek.
+Ketokonazol: ketokonazol je známým nespecifickým inhibitorem několika enzymů cytochromu P450. Dostupné in vivo a in vitro údaje naznačují, že ketokonazol může interagovat s enzymy, které jsou odpovědné za metabolismus parikalcitolu a jiných analogů vitaminu D. Při podávání parikalcitolu spolu s ketokonazolem je zapotřebí opatrnosti (viz bod 4.4). U zdravých jedinců byl sledován vliv vícečetného podání ketokonazolu, podávaného v dávce 200 mg dvakrát denně po dobu 5 dní na farmakokinetiku parikalcitolu ve formě tobolek. V přítomnosti ketokonazolu byla Cmax parikalcitolu ovlivněna jen minimálně, zato AUC0-∞ se přibližně zdvojnásobila. Průměrný poločas parikalcitolu v přítomnosti ketokonazolu byl 17 hodin v porovnání s 9,8 hodinami, kdy byl parikalcitol podáván samostatně. Výsledky této studie naznačují, že po perorálním podání parikalcitolu pravděpodobně není maximální zvýšení AUC∞ parikalcitolu, pramenící z jeho interakce s ketokonazolem, větší než přibližně dvojnásobné.
+
+
+
+
+3
+
+Specifické interakční studie nebyly u parikalcitolu v injekční formě provedeny. Toxicita digitalisu je znásobena při hyperkalcemii jakéhokoli původu, proto je třeba opatrnosti, je-li digitalis předepsán současně s parikalcitolem (viz bod 4.4).
+
+Fosfát nebo léčivé přípravky příbuzné vitaminu D se nesmí podávat společně s parikalcitolem vzhledem
+ke zvýšenému riziku hyperkalcemie a zvýšení součinu Ca x P (viz bod 4.4).
+Vysoké dávky přípravků s obsahem kalcia nebo thiazidová diuretika mohou zvyšovat riziko
+hyperkalcemie.
+
+Přípravky s obsahem hořčíku (např. antacida) se nesmí používat současně s přípravky s obsahem
+vitaminu D, protože se může vyskytnout hypermagnezémie.
+
+Přípravky s obsahem hliníku (např. antacida, léky vázající fosfáty) se nesmí dlouhodobě podávat s léčivými přípravky s obsahem vitaminu D, protože se mohou vyskytovat zvýšené hladiny hliníku v krvi a může dojít k hliníkové kostní toxicitě.
+4.6  Fertilita, těhotenství a kojení
+
+Těhotenství
+Údaje o podávání parikalcitolu těhotným ženám jsou omezené nebo nejsou k dispozici.
+Studie na zvířatech prokázaly reprodukční toxicitu (viz bod 5.3).
+
+Podávání přípravku Zemplar se v těhotenství a u žen v reprodukčním věku, které nepoužívají antikoncepci, nedoporučuje.
+
+Kojení
+Není známo, zda se parikalcitol/metabolity vylučují do lidského mateřského mléka. Dostupné farmakodynamické/toxikologické údaje u zvířat prokázaly vylučování parikalcitolu/metabolitů do mléka (pro bližší údaje viz bod 5.3).
+
+Riziko pro kojené novorozence/děti nelze vyloučit.
+Na základě posouzení prospěšnosti kojení pro dítě a prospěšnosti léčby pro matku je nutno rozhodnout, zda přerušit kojení nebo ukončit/přerušit podávání přípravku Zemplar.
+
+Fertilita
+Studie na zvířatech neukázaly žádný vliv parikalcitolu na fertilitu (viz bod 5.3).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Po podání parikalcitolu se mohou vyskytnout závratě, které mohou mít malý vliv na schopnost řídit nebo
+obsluhovat stroje (viz bod 4.8).
+
+4.8  Nežádoucí účinky
+
+Souhrnný bezpečnostní profil
+Parikalcitolem bylo ve fázi II/III/IV klinických studií léčeno přibližně 600 pacientů. Celkově hlásilo nežádoucí účinky 6 % pacientů léčených parikalcitolem.
+Nejčastější nežádoucí reakcí související s léčbou parikalcitolem byla hyperkalcemie u 4,7 % pacientů. Hyperkalcemie je závislá na nadměrném snížení hladiny PTH a lze ji minimalizovat správnou titrací dávky.
+
+
+
+
+
+
+4
+
+Tabulkový seznam nežádoucích účinků
+Klinické a laboratorní nežádoucí účinky, jejichž výskyt v souvislosti s parikalcitolem je přinejmenším možný, jsou uvedeny dle tříd orgánových systémů MedDRA, nežádoucích účinků a frekvence. Jsou používány tyto kategorie četnosti: velmi časté (≥ 1/10), časté (≥ 1/100 až < 1/10), méně časté (≥ 1/1 000 až < 1/100), vzácné (≥ 1/10 000 až < 1/1 000), velmi vzácné (< 1/10 000), není známo (z dostupných údajů nelze určit).
+
+
+Třídy orgánových systémů
+Infekce a infestace
+
+Novotvary benigní, maligní a blíže neurčené (zahrnující cysty a polypy) Poruchy  krve  a  lymfatického systému
+Poruchy imunitního systému Endokrinní poruchy
+Poruchy metabolismu a výživy Psychiatrické poruchy Poruchy nervového systému
+
+
+Poruchy oka
+Poruchy ucha a labyrintu
+Srdeční poruchy Cévní poruchy
+Respirační, hrudní a mediastinální
+poruchy
+Gastrointestinální poruchy
+
+
+
+
+Poruchy kůže a podkožní tkáně
+
+
+Poruchy svalové a kosterní soustavy a pojivové tkáně
+Poruchy reprodukčního systému a
+prsu
+Celkové poruchy a reakce v místě
+aplikace
+
+
+Vyšetření
+Nežádoucí účinek
+Sepse,  pneumonie,  infekční  faryngitida, vaginální infekce, chřipka
+Karcinom prsu
+
+Anémie, leukopenie, lymfadenopatie
+
+Hypersensitivita
+Laryngeální edém, angioedém, urtikarie Hypoparathyroidismus Hyperparathyroidismus Hyperkalcemie, hyperfosfatemie Hyperkalemie, hypokalcemie, anorexie
+Stav zmatenosti, delirium, depersonalizace, agitovanost, nespavost, nervozita
+Bolest hlavy, dysgeuzie
+Kóma, cévní mozková příhoda, tranzitorní ischemická  ataka,  synkopa,  myoklonus, hypestezie, parestezie, závratě
+Glaukom, konjunktivitida Poruchy ucha
+Srdeční zástava, arytmie, flutter síní
+Hypertenze, hypotenze
+Plicní edém, astma, dyspnoe, epistaxe, kašel
+
+Krvácení z rekta, kolitida, průjem, gastritida, dyspepsie, dysfagie, bolest břicha, zácpa, nausea,   zvracení,   sucho   v ústech, gastrointestinální poruchy
+Gastrointestinální krvácení
+Pruritus
+Bulózní dermatitida, alopecie, hirsutismus, vyrážka, hyperhidróza
+Artralgie, ztuhlost kloubů, bolest zad, bodání
+ve svalech, myalgie
+Bolest prsou, erektilní dysfunkce
+
+Poruchy chůze, edém, periferní edém, bolest, bolest v místě injekčního vpichu, horečnaté stavy, bolest na hrudi, celkové zhoršení stavu, astenie, malátnost, žíznivost
+Prodloužená  doba  krvácivosti,  zvýšení aspartataminotransferázy,    abnormality v laboratorních výsledcích, úbytek hmotnosti
+Frekvence
+Méně časté Méně časté Méně časté
+Méně časté Není známo* Časté
+Méně časté Časté Méně časté Méně časté
+
+Časté Méně časté
+
+
+Méně časté Méně časté Méně časté Méně časté Méně časté
+Méně časté
+
+
+
+Není známo* Časté
+Méně časté Méně časté Méně časté Méně časté
+
+
+Méně časté
+* Frekvence nežádoucích účinků z postmarketingových zkušeností nelze určit a byly hlášeny jako „Není známo“.
+
+
+
+
+
+5
+
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+Webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Nebyl hlášen žádný případ předávkování.
+
+Předávkování parikalcitolem může vést k hyperkalcemii, hyperkalciurii, hyperfosfatemii a nadměrné
+supresi PTH (viz bod 4.4).
+
+V případě předávkování je třeba příznaky a symptomy hyperkalcemie (hladiny sérového kalcia) monitorovat a hlásit lékaři. Je třeba zahájit vhodnou léčbu.
+
+Parikalcitol není při dialýze významně eliminován. Léčba pacientů s klinicky významnou hyperkalcemií zahrnuje okamžitou redukci dávek nebo přerušení léčby parikalcitolem a dále dietu s nízkým obsahem kalcia, vysazení kalciových suplementů, mobilizaci  pacienta, pozorné sledování vodních či elektrolytových  dysbalancí,  analýzu  elektrokardiografických  abnormalit (především u pacientů užívajících digitalis) a hemodialýzu nebo peritoneální dialýzu s využitím dialyzátu bez obsahu kalcia, jak je doporučováno.
+
+Jakmile se hladiny sérového kalcia vrátí do normálních hodnot, může být znovu zahájena léčba parikalcitolem v nižší dávce. Pokud dojde k přetrvávání a výrazně zvýšeným hladinám sérového kalcia, existuje řada dalších terapeutických možností, které je třeba zvážit. Tyto zahrnují užití léčivých přípravků, jako jsou fosfáty a kortikosteroidy, stejně jako opatření k podpoře diurézy.
+Přípravek Zemplar injekční roztok obsahuje 30% v/v pomocné látky propylenglykolu. Byly hlášeny izolované případy deprese centrálního nervového systému, hemolýzy a laktátové acidózy, spojené s toxickým působením propylenglykolu, podávaným ve vysokých dávkách. Ačkoli se výskyt těchto příhod v souvislosti s podáváním přípravku Zemplar neočekává, vzhledem k tomu, že propylenglykol je v průběhu dialyzačního procesu eliminován, riziko toxického působení v případě předávkování je třeba vzít v úvahu.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: antiparathyreoidální léčiva, ATC kód: H05BX02 Mechanismus účinku
+Parikalcitol je syntetický, biologicky aktivní analog vitaminu D kalcitriolu s úpravou na postranním řetězci (D2) a kruhu A (19-nor). Na rozdíl od kalcitriolu je parikalcitol selektivní aktivátor receptoru vitaminu D (VDR). Parikalcitol selektivně zvyšuje aktivaci VDR v příštítných tělíscích, aniž by zvyšoval VDR ve střevě, a je méně účinný na kostní resorpci. Parikalcitol rovněž zvyšuje regulaci receptoru citlivého na kalcium (CaSR) v příštítných tělíscích. Výsledkem této regulace je snížení hladin parathormonu (PTH) parikalcitolem inhibicí proliferace příštítných tělísek a snížením syntézy a sekrece PTH s minimálním dopadem na hladiny kalcia a fosforu. Parikalcitol může také účinkovat přímo na kostní buňky s cílem zachovat kostní objem a zlepšit mineralizační povrchy. Úprava patologických hladin PTH s normalizací homeostázy kalcia a fosforu může zabránit vzniku metabolického kostního onemocnění při chronickém renálním onemocnění nebo ho léčit.
+
+
+6
+
+Pediatrická populace
+
+Bezpečnost a účinnost parikalcitolu v injekční formě byla zkoumána ve 12týdenní randomizované, dvojitě zaslepené, placebem kontrolované studii s 29 pediatrickými pacienty ve věku 5–19 let v posledním stadiu onemocnění ledvin na dialýze. Šest nejmladších pacientů léčených parikalcitolem bylo  ve  věku  5–12  let.  Počáteční  dávkování  při  hodnotách  iPTH  pod  500 pg/ml  činilo 0,04 mikrogramů/kg parikalcitolu 3x týdně a při hodnotách iPTH ≥ 500 pg/ml činilo dávkování 0,08 mikrogramů/kg 3x týdně. Dávky parikalcitolu byly zvyšovány po přírůstcích 0,04 mikrogramů/kg v závislosti na sérových hladinách iPTH, vápníku a poměru Ca x P v séru. Studii dokončilo 67 % pacientů léčených parikalcitolem a 14 % pacientů léčených placebem. Ve skupině léčené parikalcitolem byly u 60 % pacientů zaznamenány 2 po sobě jdoucí poklesy hladin iPTH o 30 % oproti výchozím hladinám iPTH ve srovnání s 21 % pacientů ve skupině léčené placebem. 71 % pacientů ze skupiny léčené placebem léčbu přerušilo z důvodu excesívní elevace hladin iPTH. Jak ve skupině léčené parikalcitolem, tak i ve skupině léčené placebem se nevyskytl žádný případ rozvoje hyperkalcemie. Údaje o podávání pacientům pod 5 let věku nejsou k dispozici.
+5.2  Farmakokinetické vlastnosti
+
+Distribuce
+
+Farmakokinetika parikalcitolu byla studována u pacientů s chronickou renální insuficiencí (ChRI) (CKD stadia 5), u kterých byla nutná hemodialýza. Parikalcitol se podává jako intravenózní bolus. Za dvě hodiny po podání dávek v rozmezí od 0,04 do 0,24 mikrogramů/kg koncentrace parikalcitolu výrazně poklesly a poté klesaly logaritmicko-lineárně s průměrným poločasem asi 15 hodin. Při opakovaném podání parikalcitolu nebyla pozorována jeho akumulace. Plazmatická vazba parikalcitolu na bílkoviny in vitro byla velmi výrazná (> 99,9 %) a nesaturovatelná v koncentračním rozmezí 1 až 100 ng/ml.
+Biotransformace
+
+V moči a ve stolici bylo detekováno několik neznámých metabolitů, přičemž v moči nebyl detekován žádný parikalcitol. Nebyla prováděna charakterizace a identifikace těchto metabolitů. Tyto metabolity představovaly dohromady 51 % radioaktivity v moči a 59 % radioaktivity ve stolici.
+
+Farmakokinetická charakteristika parikalcitolu u pacientů s ChRI (dávka 0,24 μg/kg)
+
+Parametr             N
+Cmax (5 minut po podání bolusu)  6 AUC0-∞                 5
+CL                5
+Vss                    5
+Hodnoty (průměr ± SD)
+1 850 ± 664 (pg/ml)
+27 382 ± 8 230 (pg·hod/ml)
+0,72 ± 0,24 (l/hod)
+6 ± 2 (l)
+
+Eliminace
+
+V klinické studii u zdravých osob se plazmatická radioaktivita po jednorázovém intravenózním podání 0,16 mikrogramů/kg bolusové dávky ³H-parikalcitolu (n=4) přičítala mateřské látce. Parikalcitol byl vylučován primárně hepatobiliárně, protože 74 % podané radioaktivní dávky bylo vylučováno stolicí a pouze 16 % bylo zjištěno v moči.
+
+Speciální populace
+
+Pohlaví, rasa a věk
+U dospělých sledovaných pacientů nebyly pozorovány žádné farmakokinetické rozdíly z hlediska věku nebo pohlaví. Nebyly zjištěny farmakokinetické rozdíly z hlediska rasy.
+
+
+
+
+
+7
+
+Porucha funkce jater
+Koncentrace nevázaného parikalcitolu u pacientů s mírnou až středně těžkou poruchou funkce jater jsou obdobné jako u zdravých osob. U těchto pacientů není tedy zapotřebí žádná úprava dávek. U pacientů s těžkou poruchou funkce jater nejsou s léčbou parikalcitolem žádné zkušenosti.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Charakteristické nálezy u studií toxicity s opakovanými dávkami u hlodavců a psů se obecně připisovaly kalcemické aktivitě parikalcitolu. K účinkům nejednoznačně souvisejícím s hyperkalcemií patřilo snížení počtu leukocytů a atrofie thymu u psů a změny hodnot APTT (zvýšení u psů a snížení u potkanů). Změny bílého krevního obrazu nebyly pozorovány v klinických studiích s parikalcitolem.
+
+Parikalcitol neovlivňoval fertilitu u samců nebo samic potkanů a nebyly zjištěny důkazy jeho teratogenní aktivity u potkanů nebo králíků. Vysoké dávky jiných přípravků s vitaminem D podávaných během březosti u zvířat vedly k teratogenezi. Bylo prokázáno, že parikalcitol při podání v dávkách toxických pro matku ovlivňuje životaschopnost plodů a podporuje významný vzestup perinatální a postnatální mortality novorozených potkanů.
+
+V souboru analýz genotoxicity in vitro a in vivo nebyl zjištěn genotoxický potenciál parikalcitolu.
+
+Studie kancerogenity u hlodavců neukázaly na žádná speciální rizika při používání u lidí.
+Podávané dávky parikalcitolu a/nebo jeho systémová expozice byly mírně vyšší než terapeutické dávky nebo systémová expozice parikalcitolu.
+
+
+6.  FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Ethanol (20% v/v)
+Propylenglykol (30% v/v) Voda pro injekci
+6.2  Inkompatibility
+
+Studie kompatibility nejsou k dispozici, a proto nesmí být tento léčivý přípravek mísen s jinými léčivými přípravky.
+
+Mezi propylenglykolem a heparinem dochází k interakci, přičemž se neutralizuje účinek heparinu. Přípravek Zemplar injekční roztok obsahuje jako pomocnou látku propylenglykol, a proto se má podávat jiným injekčním portem než heparin.
+
+6.3  Doba použitelnosti 3 roky – injekční lahvička 2 roky – ampule
+Po otevření ihned spotřebujte.
+
+6.4  Zvláštní opatření pro uchovávání
+
+Tento léčivý přípravek nevyžaduje žádné zvláštní podmínky uchovávání.
+
+
+
+
+
+
+8
+
+6.5  Druh obalu a obsah balení
+
+Zemplar 2 mikrogramy/ml injekční roztok
+Jedna ampule ze skla typu I obsahuje 1 ml injekčního roztoku.
+Jedna injekční lahvička ze skla typu I obsahuje 1 ml injekčního roztoku.
+
+Typy balení přípravku Zemplar jsou:
+Balení obsahující 5 ampulí po 1 ml injekčního roztoku.
+Balení obsahující 5 injekčních lahviček po 1 ml injekčního roztoku.
+
+Zemplar 5 mikrogramů/ml injekční roztok
+Jedna ampule ze skla typu I obsahuje 1 ml nebo 2 ml injekčního roztoku.
+Jedna injekční lahvička ze skla typu I obsahuje 1 ml nebo 2 ml injekčního roztoku.
+
+Typy balení přípravku Zemplar jsou:
+Balení obsahující 5 ampulí po 1 ml injekčního roztoku. Balení obsahující 5 ampulí po 2 ml injekčního roztoku.
+Balení obsahující 5 injekčních lahviček po 1 ml injekčního roztoku. Balení obsahující 5 injekčních lahviček po 2 ml injekčního roztoku.
+Na trhu nemusí být všechny velikosti balení.
+6.6  Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Parenterální léčivé přípravky mají být před podáním vizuálně zkontrolovány na obsah cizorodých látek a změnu barvy. Roztok je čirý a bezbarvý.
+
+Pouze pro jednorázové použití.
+Veškerý nepoužitý léčivý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7.  DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+AbbVie s.r.o.
+Metronom Business Center
+Bucharova 2817/13
+158 00 Praha 5 – Stodůlky Česká republika
+
+8.  REGISTRAČNÍ ČÍSLO/REGISTRAČNÍ ČÍSLA
+
+Zemplar 2 mikrogramy/ml injekční roztok: 56/391/10-C Zemplar 5 mikrogramů/ml injekční roztok: 56/198/04-C
+
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Zemplar 2 mikrogramy/ml injekční roztok Datum první registrace: 19. 5. 2010
+Datum posledního prodloužení registrace: 20. 1. 2012
+
+Zemplar 5 mikrogramů/ml, injekční roztok Datum první registrace: 29. 12. 2004
+Datum posledního prodloužení registrace: 2. 6. 2010
+
+
+
+
+9
+
+10.  DATUM REVIZE TEXTU
+
+29. 6. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10

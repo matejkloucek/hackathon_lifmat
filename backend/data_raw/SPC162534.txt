@@ -1,0 +1,331 @@
+sp.zn. sukls174120/2020
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+
+1.   NÁZEV PŘÍPRAVKU
+
+Calciumfolinat Ebewe 15 mg tvrdé tobolky
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Jedna tobolka obsahuje acidum folinicum 15 mg jako calcii folinas pentahydricus 19,06 mg.
+Pomocné látky se známým účinkem: obsahuje monohydrát laktózy. Úplný seznam pomocných látek viz bod 6.1.
+
+3.   LÉKOVÁ FORMA
+
+Tvrdá tobolka
+Popis přípravku: želatinové tobolky se spodní částí bílou, vrchní olivově zelenou, obsahující bílý prášek.
+
+
+4.   KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+
+Přípravek Calciumfolinat Ebewe je indikován:
+
+•     v případech, kdy je zapotřebí omezit toxické účinky a neutralizovat působení antagonistů kyseliny listové (jako je methotrexát) při cytotoxické léčbě a předávkování u dospělých i u dětí. Tato metoda používaná při cytotoxické léčbě se obecně nazývá ochranná léčba kalcium-folinátem.
+•    ke kombinaci s fluoruracilem při cytotoxické léčbě.
+4.2 Dávkování a způsob podání
+Calciumfolinat Ebewe je určen k perorálnímu podání.
+
+Dávky nad 50 mg se mají podávat parenterálně, protože vyšší dávky podávané perorálně nevedou k vyšším hladinám látky v krvi v důsledku nasycení při vstřebávání kalcium-folinátu.
+
+U pacientů s malabsorpčním syndromem nebo dalšími gastrointestinálními poruchami (zvracení, průjmy, subileus atd.), kde není zajištěna enterální absorpce, je potřeba provádět ochrannou léčbu kalcium-folinátem parenterálně.
+Ochranná léčba kalcium-folinátem při léčbě methotrexátem
+Protože dávkovací schéma pro ochrannou léčbu kalcium-folinátem závisí značně na dávkování a způsobu podání střední nebo vysoké dávky methotrexátu, bude methotrexátový protokol určovat dávkovací schéma kalcium-folinátu pro léčbu. Proto je nejlepší se podívat do protokolu používané střední nebo vysoké dávky methotrexátu na dávkování a způsoby podávání kalcium-folinátu.
+
+Následující pokyny mohou sloužit jako ilustrace schémat použitých u dospělých, starších lidí a u dětí:
+
+
+1/8
+
+Ochranná léčba kalcium-folinátem je nezbytná, pokud je methotrexát podáván v dávkách vyšších než
+500 mg/m² tělesného povrchu a má se zvážit u dávek v rozmezí 100 – 500 mg/m² tělesného povrchu.
+
+Dávkování a délka léčby kalcium-folinátem závisí primárně na dávkování methotrexátu a/nebo
+výskytu toxických symptomů. Obvykle se podá první dávka kalcium-folinátu 15 mg (6 - 12 mg/m²) 12
+- 24 hodin (nejpozději 24 hodin) po začátku infuze methotrexátu. Stejná dávka se aplikuje každých 6 hodin v průběhu 72 hodin. Vyskytne-li se více toxických nežádoucích příznaků, léčba kalcium- folinátem se zintenzivní a prodlouží. Později se může přejít na perorální podávání.
+
+Nezbytnou součástí ochranné léčby kalcium-folinátem je zajištění rychlé exkrece methotrexátu (udržování vysoké produkce moči a její alkalinizace). Funkce ledvin musí být denně sledována měřením sérových hladin kreatininu.
+
+Zbytková hladina methotrexátu v krvi se má změřit 48 hodin po začátku infuze methotrexátu. Pokud je hladina zbytkového methotrexátu > 0,5 μmol/l, dávkování kalcium-folinátu má být upraveno dle následující tabulky:
+
+
+Zbytková hladina methotrexátu 48 hodin po zahájení infuze:
+
+> 0,5 μmol/l
+> 1,0 μmol/l
+> 2,0 μmol/l
+Dodatečná dávka kalcium-folinátu, která má být podána každých 6 hodin po dobu 48 hodin, než hladina methotrexátu klesne pod 0,05 μmol/l
+15 mg/m²
+100 mg/m²
+200 mg/m²
+
+Kombinovaná chemoterapie s fluoruracilem
+Používají se různá dávkovací schémata a různé dávky, aniž by se prokázalo, že je kterákoli dávka
+optimální.
+Dávkování kalcium-folinátu při kombinované léčbě s fluoruracilem: viz příslušné souhrny údajů o přípravku pro kalcium-folinát v injekční formě a fluoruracil.
+Určení počtu opakování terapeutických cyklů se ponechává na úvaze klinického lékaře.
+
+Antidotum antagonistů kyseliny listové trimetrexátu, trimethoprimu a pyrimethaminu
+
+Toxicita trimetrexátu:
+Prevence: Kalcium-folinát se má podávat během léčby s trimetrexátem každý den a 72 hodin po poslední dávce trimetrexátu. Kalcium-folinát může být podáván buď intravenózně v dávce 20 mg/m² po dobu 5 až 10 minut každých 6 hodin do celkové denní dávky 80 mg/m² nebo perorálně ve čtyřech dávkách 20 mg/m² podaných ve stejných časových intervalech. Denní dávky kalcium-folinátu mají být upraveny v závislosti na hematologické toxicitě trimetrexátu.
+Předávkování (možné u dávek trimetrexátu nad 90 mg/m² bez současného podávání kalcium-folinátu): Po dokončení podávání trimetrexátu podáme kalcium-folinát v dávce 40 mg/m² intravenózně každých 6 hodin po dobu 3 dnů.
+
+Toxicita trimethoprimu:
+Po přerušení podávání trimethoprimu podáváme denně 3-10 mg kalcium-folinátu, dokud se neupraví krevní obraz.
+Toxicita pyrimethaminu:
+V případě podávání vysokých dávek pyrimethaminu nebo při prodloužené léčbě nižšími dávkami se
+má současně podávat kalcium-folinát v množství 5 až 50 mg denně.
+
+4.3 Kontraindikace
+
+Hypersenzitivita na kalcium-folinát nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1.
+
+
+
+2/8
+
+Onemocnění perniciózní anemií nebo jinými druhy anemií vzniklých na základě karence vitamínu B12.
+Pokud jde o používání kalcium-folinátu s methotrexátem nebo fluoruracilem v době těhotenství, viz
+bod 4.6 a souhrn údajů o přípravku pro methotrexát a fluoruracil.
+4.4 Zvláštní upozornění a zvláštní opatření pro použití
+
+Přípravek Calciumfolinat Ebewe je určen k perorálnímu podání.
+
+Kalcium-folinát se má používat s methotrexátem nebo fluoruracilem pouze pod přímým dohledem
+klinického lékaře, který má zkušenosti s léčbou nádorů.
+
+Léčba kalcium-folinátem může maskovat perniciózní anemii a ostatní druhy anemií vzniklých na podkladě karence vitamínu B12.
+Používání mnoha cytotoxických přípravků – přímé nebo nepřímé inhibitory syntézy DNA – vede k makrocytóze (hydroxykarbamid, cytarabin, merkaptopurin, thioguanin). Taková makrocytóza nesmí být léčena kyselinou folinovou.
+U epileptických pacientů léčených fenobarbitalem, fenytoinem, primidonem a sukcinimidy existuje riziko zvýšeného výskytu záchvatů vlivem snížení plazmatické koncentrace antiepileptik. Doporučuje se klinické sledování, případné sledování plazmatických koncentrací, a jestliže je to nutné, úprava dávek antiepileptik během podávání kalcium-folinátu a po jeho přerušení (viz také bod 4.5 Interakce).
+
+Kalcium-folinát / fluoruracil
+Kalcium-folinát může zvýšit riziko toxicity fluoruracilu, obzvláště u starších nebo oslabených pacientů. Nejběžnějšími projevy limitujícími dávku jsou leukopenie, mukozitida, stomatitida a/nebo průjem. Jestliže se kalcium-folinát a fluoruracil používají společně, musí se v případech projevů toxicity dávka fluoruracilu snížit více, než kdyby se fluoruracil používal samostatně.
+
+Kombinovaná léčba fluoruracilem/kalcium-folinátem se nemá zahajovat nebo udržovat u pacientů s příznaky gastrointestinální toxicity (zmíněny výše) bez ohledu na jejich intenzitu až do jejich vymizení.
+Protože průjem může být projevem gastrointestinální toxicity, pacienti, kteří mají průjem, musí být pečlivě sledováni až do jeho vymizení, protože by mohlo dojít k rychlému klinickému zhoršení vedoucímu k úmrtí. Jestliže se objeví průjem a/nebo stomatitida, doporučuje se snížit dávku fluoruracilu, dokud příznaky zcela nevymizí. Zvláště starší lidé a pacienti se sníženým fyzickým výkonem způsobeným onemocněním mají sklony k těmto toxicitám. Proto se musí jejich léčbě věnovat zvláštní pozornost.
+
+U starších pacientů a pacientů, kteří se podrobili předběžné radioterapii, se doporučuje zahájit léčbu sníženou dávkou fluoruracilu (viz SmPC fluoruracilu).
+
+U pacientů, kteří dostávají kombinovanou léčbu fluoruracilem/kalcium-folinátem, se má sledovat
+hladina kalcia, a v případě, že je jeho hladina nízká, má se provést doplnění.
+
+Kalcium-folinát / methotrexát
+Detaily o snížení toxicity methotrexátu naleznete v příslušném souhrnu údajů o přípravku.
+
+Kalcium-folinát nemá vliv na nehematologické toxicity methotrexátu, jako je nefrotoxicita vyplývající z precipitace methotrexátu a/nebo jeho metabolitů v ledvinách. U pacientů, kteří prodělají opožděné počáteční vylučování methotrexátu, se pravděpodobně vyvine reverzibilní renální selhání a všechny toxicity spojené s methotrexátem (prostudujte si prosím Souhrn údajů o přípravku methotrexát). Existující  či  methotrexátem  vyvolaná renální  insuficience bývá často spojena s opožděným
+
+
+3/8
+
+vylučováním methotrexátu, což může zvýšit potřebu aplikace vyšších dávek kalcium-folinátu nebo
+prodloužit jeho používání.
+
+Je potřeba se vyhnout aplikaci příliš vysokých dávek kalcium-folinátu, protože by tak mohlo být oslabeno protinádorové působení methotrexátu, a to obzvláště u tumorů CNS, kde se po opakovaných léčebných kúrách kalcium-folinát hromadí.
+Rezistence vůči methotrexátu jako výsledek sníženého membránového transportu zahrnuje také rezistenci vůči ochranné léčbě kyselinou folinovou, protože přípravky sdílejí stejný transportní systém.
+Náhodné předávkování antagonistou kyseliny listové, jako je methotrexát, se má léčit jako náhlá příhoda. Protože se zvyšuje časový interval mezi podáním methotrexátu a ochrannou léčbou kalcium- folinátem, účinnost kalcium-folinátu při potlačování toxicity se snižuje.
+
+V případě výskytu abnormálních laboratorních výsledků nebo při projevech toxicity je vždy nutné zvážit možnost, že si pacient bere další léky interagující s methotrexátem (např. léky, které mohou zasahovat do jeho vylučování nebo se vázat na sérový albumin).
+
+Tento léčivý přípravek obsahuje monohydrát laktózy. Pacienti se vzácnými dědičnými problémy s intolerancí galaktózy, úplným nedostatkem laktázy nebo malabsorpcí glukózy a galaktózy nemají tento přípravek užívat.
+Tento léčivý přípravek obsahuje méně než 1 mmol (23 mg) sodíku v jedné tvrdé tobolce, to znamená, že je v podstatě „bez sodíku“.
+4.5   Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Když  se  kalcium-folinát  kombinuje  s antagonistou  kyseliny  listové  (např.  kotrimoxazolem, pyrimethaminem), účinnost působení antagonisty kyseliny listové se buď sníží nebo se zcela neutralizuje.
+
+Kalcium-folinát může snížit účinek antiepileptických látek: fenobarbitalu, primidonu, fenytoinu a sukcinimidů  a  může  zvýšit  četnost  výskytu  záchvatů  (můžeme  pozorovat  snížení  hladin enzymatických induktorů protikřečových léků, protože jaterní metabolismus je zvýšený, jelikož foláty jsou jedním ze spolufaktorů) (viz také body 4.4 a 4.8).
+
+Bylo prokázáno, že současné podávání kalcium-folinátu s fluoruracilem posiluje účinnost a toxicitu fluoruracilu (viz také body 4.4, 4.5 a 4.8).
+4.6   Fertilita, těhotenství a kojení
+
+Těhotenství
+Neexistují odpovídající a dobře kontrolované klinické studie prováděné u těhotných a kojících žen. S kalcium-folinátem se také neprováděly žádné reprodukční studie toxicity na zvířatech. Neexistují žádné náznaky, že by kyselina folinová podávaná v těhotenství vyvolávala škodlivé účinky. Během těhotenství má být methotrexát podáván pouze v jasně indikovaných případech, v nichž prospěšné účinky léku pro matku převáží nad možnými riziky pro plod. V případě, že se provádí léčba methotrexátem nebo jinými antagonisty kyseliny listové navzdory těhotenství nebo kojení, nejsou žádná omezení pro podávání kalcium-folinátu, protože jeho používání snižuje toxicitu nebo působí proti účinkům takové léčby.
+
+Používání fluoruracilu je všeobecně kontraindikováno v době těhotenství a kojení. To se týká také kombinovaného používání kalcium-folinátu s fluoruracilem.
+Prostudujte si, prosím, také informace týkající se methotrexátu, ostatních folátových antagonistů a fluoruracilu (viz příslušná SmPC).
+
+
+4/8
+
+Kojení
+Není známo, zda je kalcium-folinát vylučován do mateřského mléka. Proto může být kalcium-folinát používán během kojení jen tehdy, když se to s ohledem na léčebné indikace považuje za nezbytné.
+4.7 Účinky na schopnost řídit a obsluhovat stroje
+
+Neexistují žádné důkazy o tom, že by používání kalcium-folinátu ovlivňovalo schopnost řídit motorová vozidla nebo obsluhovat stroje.
+4.8 Nežádoucí účinky
+
+Nežádoucí účinky jsou uspořádány podle tříd orgánových systémů, upřednostňovaného termínu dle MedDRA a frekvence s použitím následujících kategorií frekvence: velmi časté (≥1/10), časté (≥1/100 až < 1/10), méně časté (≥1/1 000 až <1/100), vzácné (≥1/10 000 až <1/1 000), velmi vzácné (< 1/10 000) a není známo (z dostupných údajů nelze určit).
+
+
+Pro obě léčebné indikace
+
+Poruchy imunitního systému
+Velmi vzácné: alergické reakce, včetně anafylaktoidních/anafylaktických reakcí a kopřivky.
+
+Psychiatrické poruchy
+Vzácné: insomnie, neklid a depresivní stavy po vysokých dávkách.
+
+Gastrointestinální poruchy
+Vzácné: gastrointestinální poruchy po vysokých dávkách.
+
+Poruchy nervového systému
+Vzácné: zvýšení počtu epileptických záchvatů (viz také bod 4.5).
+
+
+Kombinovaná léčba s fluoruracilem
+
+Bezpečnost léčby obecně závisí na použitém schématu dávkování fluoruracilu s ohledem na zvýšení výskytu toxicit způsobených fluoruracilem.
+Poruchy metabolismu a výživy
+Není známo: hyperamonemie.
+
+Poruchy krve a lymfatického systému
+Velmi časté: porucha tvorby kostní dřeně včetně fatálních případů.
+Celkové poruchy a reakce v místě aplikace
+Velmi časté: mukozitida, včetně stomatitidy a cheilitidy. Vyskytly se i fatální případy jako důsledek
+mukozitidy.
+
+Poruchy kůže a podkožní tkáně
+Časté: palmoplantární erytrodysestesie. Při měsíčním schématu dávkování:
+
+
+5/8
+
+Gastrointestinální poruchy
+Velmi časté: zvracení a nauzea.
+
+Výskyt ostatních toxicit vyvolaných fluoruracilem (např. neurotoxicita) není zvýšený. Při týdenním schématu dávkování:
+Gastrointestinální poruchy
+Velmi časté: průjem u vyšších stupňů toxicity a dehydratace, což má za následek přijetí pacienta do nemocničního léčení, a dokonce i úmrtí.
+Hlášení podezření na nežádoucí účinky
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické pracovníky, aby hlásili podezření na nežádoucí účinky na adresu: Státní ústav pro kontrolu léčiv, Šrobárova 48, 100 41 Praha 10, webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek.
+4.9 Předávkování
+
+Nebyly hlášeny žádné následky u pacientů, kterým byla podána výrazně vyšší dávka kalcium-folinátu, než je doporučeno. Nicméně vysoké dávky kalcium-folinátu mohou chemoterapeutický účinek antagonistů kyseliny listové anulovat.
+
+V případě, kdy by došlo k předávkování kombinací fluoruracilu a kalcium-folinátu, se má postupovat
+podle pokynů pro předávkování fluoruracilem.
+
+5.  FARMAKOLOGICKÉ VLASTNOSTI
+
+Farmakoterapeutická skupina: antidota, léčiva ke snížení toxicity protinádorové léčby; ATC kód:
+V03AF03
+5.1 Farmakodynamické vlastnosti
+
+Kalcium-folinát je vápenatá sůl kyseliny 5-formyltetrahydrofolové. Je to aktivní metabolit kyseliny folinové a základní koenzym pro syntézu nukleové kyseliny při cytotoxické terapii.
+
+Kalcium-folinát se často používá pro snížení toxicity a působení proti účinku folátových antagonistů, jako je methotrexát. Kalcium-folinát a folátoví antagonisté sdílejí stejné membránové transportní nosiče a soutěží o transport do buněk, čímž stimulují eliminaci folátových antagonistů. To také chrání buňky před účinky folátových antagonistů doplněním sníženého folátového poolu. Kalcium-folinát slouží jako předem redukovaný zdroj folátu H4; může tedy obejít blokádu folátových antagonistů a poskytnout zdroj pro různé formy koenzymů, jako je kyselina listová.
+Kalcium-folinát se také často používá při biochemické modulaci fluoropyridinu (fluoruracilu) pro zvýšení jeho cytotoxického účinku. Fluoruracil (5-FU) inhibuje syntézu thymidylátu (TS), klíčového enzymu zapojeného do pyrimidinové biosyntézy, a kalcium-folinát zvyšuje inhibici syntézy thymidylatu zvýšením vnitrobuněčné zásoby folátu, tedy stabilizuje komplex 5-FU-TS a zvyšuje jeho aktivitu.
+
+Konečně, kalcium-folinát může být podán intravenózně pro prevenci a léčbu nedostatku folátu tehdy, když mu není možno zabránit nebo ho upravit dodáním kyseliny listové perorálně. K tomu dochází v případě plné parenterální výživy a při těžkých poruchách vstřebávání (malabsorpční syndrom). Intravenózně je také indikován při léčbě megaloblastické anemie s ohledem na nedostatek kyseliny listové tehdy, když není možné perorální podávání.
+
+
+6/8
+
+5.2 Farmakokinetické vlastnosti
+
+Absorpce
+Po perorálním podání je kalcium-folinát rychle prakticky celý absorbován. K nasycení perorální absorpce kalcium-folinátu dochází při dávkách vyšších než 25 mg. Biologická dostupnost po perorálním podání závisí na dávce: 97% pro 25 mg, 75% pro 50 mg, 37,5% pro 100 mg a 31% pro 200 mg.
+Metabolismus
+Kalcium-folinát je racemát, kde L-forma (L-formyl-tetrahydrofolát, L-5-formyl-THF) je aktivním optickým izomerem.
+
+Hlavní metabolický produkt kalcium-folinátu je 5-methyl-tetrahydrolistová kyselina (5-methyl-THF), která se převážně produkuje v játrech a střevní mukóze.
+
+Distribuce
+Distribuční objem kyseliny folinové není znám.
+
+Exkrece
+80-90 % se vyučuje močí (5- a 10-formyl-tetrahydrofoláty jako neaktivní metabolity) a 5-8 % stolicí.
+5.3 Předklinické údaje vztahující se k bezpečnosti
+
+Neexistují žádné předklinické údaje považované za relevantní z hlediska klinické bezpečnosti, kromě údajů uvedených v jiném bodu souhrnu údajů o přípravku.
+
+
+6. FARMACEUTICKĚ ÚDAJE
+
+6.1 Seznam pomocných látek
+Monohydrát laktózy, koloidní bezvodý oxid křemičitý, magnesium-stearát, sodná sůl kroskarmelózy, želatina, oxid titaničitý, žlutý oxid železitý, indigokarmín.
+
+6.2 Inkompatibility
+
+Neuplatňuje se.
+6.3 Doba použitelnosti
+
+3 roky
+
+6.4 Zvláštní opatření pro uchovávání
+
+Uchovávejte při teplotě do 25 ºC v původním obalu, aby byl přípravek chráněn před světlem.
+
+
+6.5 Druh obalu a obsah balení
+
+Polypropylenová lahvička s LDPE pojistným uzávěrem, krabička
+nebo
+PVC/PVDC/Al blistr, krabička.
+Velikost balení: 20 tvrdých tobolek.
+
+
+7/8
+
+6.6 Zvláštní opatření pro likvidaci přípravku a pro zacházení s ním
+
+Veškerý nepoužitý přípravek nebo odpad musí být zlikvidován v souladu s místními požadavky.
+
+7. DRŽITEL ROZHODNUTÍ O REGISTRACI
+
+EBEWE Pharma Ges.m.b.H. Nfg.KG, Mondseestrasse 11, 4866 Unterach, Rakousko
+
+8. REGISTRAČNÍ ČÍSLO
+
+19/842/94-C
+
+
+9.   DATUM PRVNÍ REGISTRACE/ PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 27.07.1994
+Datum posledního prodloužení registrace: 14.10.2009
+
+
+10.  DATUM REVIZE TEXTU
+
+1. 10. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8/8

@@ -1,0 +1,466 @@
+Sp.zn. sukls273964/2019
+
+SOUHRN ÚDAJŮ O PŘÍPRAVKU
+
+1. NÁZEV PŘÍPRAVKU
+
+NIONTIX 100% medicinální plyn, zkapalněný
+
+2.   KVALITATIVNÍ A KVANTITATIVNÍ SLOŽENÍ
+
+Léčivý přípravek obsahuje oxid dusný 100 % (v/v).
+
+3.   LÉKOVÁ FORMA
+
+Medicinální plyn zkapalněný.
+Oxid dusný je plyn bez barvy a zápachu. Přípravek obsahuje 100 % oxidu dusného (v/v) ve
+formě zkapalněného plynu pod tlakem (cca 44,5 bar při 15 °C).
+
+
+4.   KLINICKÉ ÚDAJE
+4.1 Terapeutické indikace
+Oxid dusný je indikován
+-   jako anestetikum, pro užití v kombinaci s jinými anestetiky podanými intravenózně nebo inhalačně.
+-   pro léčbu krátkodobých bolestivých stavů mírné až střední intenzity, pokud je vyžadován rychlý nástup analgetického a kompenzačního účinku.
+Může být užíván u pacientů všech věkových kategorií.
+
+
+4.2  Dávkování a způsob podání
+Oxid dusný je podáván zdravotnickým personálem s odpovídajícím vzděláním a znalostmi o
+používání tohoto medicinálního plynu.
+NIONTIX, plyn pro inhalaci smí být podáván jen, je-li okamžitě dostupné vybavení k zajištění volných dýchacích cest a zahájení resuscitace.
+
+
+
+1/12
+
+Dávkování
+Oxid dusný vykazuje v závislosti na dávce různé analgetické a sedativní vlastnosti a účinek na kognitivní funkce.
+
+Analgezie/sedace
+Při vdechování koncentrací do 50 % vyvolává oxid dusný analgezii/sedaci/anxiolýzu, ale obvykle
+bez narušení vědomí a reakcí na verbální příkazy.
+Je zdokumentováno, že pro analgezii je v některých případech efektivní koncentrace 30 %, obecně dostačující koncentrace je 50 % (vyšší koncentrace např. 70 % jsou používány při anestéziích/při určitých sedativních aplikacích např. v zubním lékařství 70 %).
+Dýchání, krevní oběh, obranné reflexy jsou při těchto koncentracích obvykle bezpečně zachovány.
+
+Anestézie
+Pro anestézii jsou obvykle používány koncentrace oxidu dusného v rozmezí 35 až 75 % objemu
+ve směsi s kyslíkem.
+Oxid dusný samostatně obvykle nevyvolává dostatečný anestetický účinek, proto, pokud je používán v celkové anestézii, by se měl používat v kombinaci s vhodnými dávkami jiných anestetik. Oxid dusný má aditivní účinek k většině dalších anestetik (viz také interakce s jinými léčivými přípravky a jiné formy interakce, bod 4.5).
+Je obvykle používán v kombinaci s kyslíkem v poměru 1 díl kyslíku a 2 díly oxidu dusného za vzniku směsi 66 % oxidu dusného/33 % kyslíku, která je anestetickým dýchacím zařízením
+dodávána po celou dobu operace. Minimální alveolární koncentrace (MAC) oxidu dusného je
+okolo 104 %. 66 % oxidu dusného je ekvivalentní přibližně 63 % MAC.
+Účinky oxidu dusného nejsou závislé na věku, ale v interakci s dalšími anestetiky se účinek podle věku liší. Výraznější účinek lze pozorovat u starších věkových skupin s relativním redukčním efektem MAC, který se zvyšuje ve věku kolem 40-45 let.
+Oxid dusný nesmí být podán ve vyšší koncentraci než 70 % - 75 %, kdy už nemůže být zaručen bezpečný podíl kyslíku. U pacientů se sníženou oxygenací je třeba podávat bezpečný podíl kyslíku.
+Medicinální oxid dusný může být podáván u pacientů bez rizikových faktorů až 6 hodin bez hematologického monitorování (viz bod 4.4).
+Pediatrická populace
+Doporučené dávkování pro dětskou populaci se neliší. Je nutné zvážit potenciální riziko zvýšené
+sedace a ohrožení obranných reflexů při použití oxidu dusného pro dětskou populaci.
+
+Způsoby podání
+Oxid dusný musí být podáván inhalačně, buď spontánní nebo řízenou ventilací. Musí být
+
+
+2/12
+
+podáván v kombinaci s kyslíkem, pomocí speciálního zařízení provádějícího míchání oxidu dusného s medicinálním kyslíkem. Zařízení musí být vybaveno monitorováním obsahu kyslíku a alarmem, pro případ poklesu koncentrace kyslíku pod 21 %.
+Oxid dusný smí být podáván jen v místech s řádnou ventilací a/nebo s odsávacím zařízením zabraňujícím vzniku nadměrné koncentrace oxidu dusného v okolním vzduchu. (viz bod 4.4.).
+
+4.3  Kontraindikace
+Během inhalace oxidu dusného může dojít k expanzi plynových bublin (plynová embolie) a uzavřených prostorů naplněných plynem vzhledem k vyššímu difuznímu koeficientu oxidu dusného.
+Oxid dusný je proto kontraindikován:
+-    U pacientů s prokázaným nebo suspektním pneumotoraxem, plynovou embolií, nebo v dalších případech, kdy jsou tělní dutiny naplněny plynem např.:
+-    bezprostředně po potápění (riziko dekompresní nemoci)
+-    po kardiopulmonárním by-passu při použití mimotělního oběhu
+-   při vážném poranění hlavy
+-    u pacientů s nitrooční injekcí plynu (např. SF6, C3F8), dokud se zmíněný plyn kompletně neabsorbuje, vzhledem k riziku další expanze plynové bubliny, která může vést k oslepnutí
+-   během nebo krátce po operaci středního ucha
+-   u pacientů s těžkou břišní distenzí plyny
+-   U pacientů se srdeční nedostatečností nebo těžkou srdeční dysfunkcí (např. po operaci srdce), kdy drobný kardiodepresivní účinek oxidu dusného může zapříčinit zhoršení srdečního výkonu.
+-   U pacientů se známkami zmatenosti, změn kognitivních funkcí nebo dalšími příznaky zvýšeného intrakraniálního tlaku, protože oxid dusný může způsobit další zvýšení intrakraniálního tlaku.
+-   Při analgezii u pacientů se sníženým vědomím a/nebo schopnosti spolupracovat z důvodu
+rizika ztráty obranných reflexů.
+-  V těhotenství (viz bod 4.6)
+
+4.4  Zvláštní upozornění a opatření pro použití
+
+Zvláštní upozornění pro použití
+
+Účinky  oxidu  dusného  na kardiovaskulární  systém  jsou  u zdravých pacientů s dobrou kardiovaskulární funkcí zanedbatelné. Bylo prokázáno, že oxid dusný má mírný depresivní účinek na kontrakci srdečního svalu, ale toto je kompenzováno mírným zvýšením sympatické
+
+3/12
+
+stimulace srdce, takže obvykle nemá žádný významný účinek na oběh. Nicméně, vzhledem k potenciální depresi myokardu má být oxid dusný používán s opatrností u pacientů s mírnou až středně těžkou srdeční dysfunkcí a je kontraindikován u pacientů s těžkou srdeční dysfunkcí nebo výrazným srdečním selháním.
+V pracovním prostředí by měla být udržována co možná nejnižší koncentrace oxidu dusného odpovídající místním předpisům.
+V současné době není možné jednoznačně určit negativní účinky nízkých koncentrací oxidu dusného na zdravotní stav. Riziko poškození plodnosti, které bylo hlášeno při chronické expozici nízkým  koncentracím  oxidu  dusného  ve  špatně  větraných  prostorách  u  lékařského  a zdravotnického personálu nelze úplně vyloučit,
+Operační místnosti, kde je často používán oxid dusný musí mít ventilaci nebo systém pro odtah přebytečného plynu, který umožní udržení koncentrací oxidu dusného v okolním prostředí pod limity národních směrnic.
+
+NIONTIX smí být podáván pouze tam, kde je možné ho kombinovat s kyslíkem a v přítomnosti personálu se znalostí poskytnutí první pomoci.
+
+Zneužívání a riziko závislosti
+Je nutné vzít na vědomí možnost návyku. Opakované podávání oxidu dusného nebo expozice této látce mohou vést k závislosti. U pacientů se zneužíváním návykových látek v anamnéze nebo u odborníků ve zdravotnictví, kteří jsou vystaveni působení oxidu dusného v zaměstnání, je třeba postupovat s opatrností.
+Oxid dusný způsobuje inaktivaci vitaminu B12, což je ko-faktor metionin syntázy. Následně je narušen metabolismus folátů a po dlouhodobém podávání oxidu dusného je rovněž narušena syntéza DNA. Medicinální oxid dusný může být podáván u pacientů bez rizikových faktorů až 6 hodin bez hematologického monitorování. Dlouhodobé nebo časté užívání oxidu dusného může vést k megaloblastickým změnám dřeně, myeloneuropatii a subakutní kombinované degeneraci míchy. Oxid dusný nemá být používán bez důkladného klinického a hematologického sledování. V takových případech má být vyžádána odborná konzultace hematologa.
+Hematologické hodnocení má zahrnovat hodnocení megaloblastické změny v červených krvinkách a hypersegmentace neutrofilů. Neurologická toxicita se může vyskytnout bez anémie nebo  makrocytózy  a  s  hladinami  vitamínu  B12  v  normálním  rozmezí.  U  pacientů  s nediagnostikovaným subklinickým deficitem vitamínu B12 došlo k výskytu neurologické toxicity po jednorázové expozici oxidu dusnému během anestézie.
+Oxid dusný interferuje s metabolismem vitaminu B12/kyseliny listové. Přípravek NIONTIX má být následně používán s opatrností u pacientů s rizikem deficitu vitamínu B12 nebo kyseliny listové, tj. pacientů s nedostatečným příjmem nebo absorpcí vitaminu B12/kyseliny listové nebo genetickými perturbacemi v tomto systému a u pacientů s oslabeným imunitním systémem. Má být zvážena možnost substituce nebo substituční léčby vitamínem B12/kyselina listová.
+Oxid dusný může ve vysokých koncentracích (> 50 %) vést ke ztrátě laryngeálních reflexů a ke snížení úrovně vědomí. V koncentracích vyšších než 60 – 70 % často způsobuje bezvědomí a
+
+4/12
+
+riziko poškození laryngeálních reflexů se zvyšuje.
+Podávání NIONTIXU může zvýšit tlak v katetrizačních balóncích, např. při tracheální intubaci.
+
+Oxid dusný nemá být používán v průběhu laserové chirurgie v dýchacích cestách z důvodů rizika
+explozivního požáru.
+Po celkové anestézii skládající se z vysoko procentního oxidu dusného je riziko hypoxémie (difusní hypoxémie) všeobecně známým klinickým problémem závislým nejen na složení alveolárních plynů, ale také na reakci pacienta na hypoxii, hyperkapnii a hypoventilaci. Po celkové anestézii je doporučeno dodávat kyslík a monitorovat saturaci kyslíkem pulsním oxymetrem, dokud pacient nejeví adekvátní známky zotavení.
+Oxid dusný způsobuje zvýšení tlaku ve středouší.
+Pediatrická populace
+Oxid dusný difunduje do vzduchem vyplněných prostorů a může tak zvyšovat objem/tlak v těchto prostorech, např. plyn ve středním uchu.
+
+4.5  Interakce s jinými léčivými přípravky a jiné formy interakce
+
+Kombinace s anestetiky, sedativy a analgetiky
+Oxid dusný má aditivní účinky, pokud se používá v kombinaci s jinými inhalačními anestetiky nebo léky, které mají centrální depresivní účinek (např. opiáty, benzodiazepiny a další psychotropní látky). Tyto interakce mají v klinické praxi jasný efekt, snižují potřebné dávky pro další látky kombinované s oxidem dusným, snižují kardiovaskulární funkce a způsobují útlum dechu a zvyšují rychlost procitnutí.
+Kombinace s methotraxátem
+Pokud je oxid dusný podáván s methotrexátem, má synergický účinek na metabolismus kyseliny listové. Z pokusů na zvířatech vyplývá, že chemoterapeutické účinky methotrexátu se zvyšují stejně jako jeho toxicita. Přesto je v klinické praxi zaznamenáno u lidí jen velmi málo takových případů.
+
+4.6  Plodnost, těhotenství a kojení
+Těhotenství
+Oxid dusný může narušit metabolizmus kyseliny listové (viz bod 4.4).
+Studie na zvířatech prokázaly teratogenní efekt, pokud byl oxid dusný podáván v průběhu počátečního stádia těhotenství ve vysokých koncentracích a/nebo dlouhodobě (viz bod 5.3).
+Teratogenní efekt nebyl nikdy pozorován na lidech. Epidemiologické údaje jsou k vyhodnocení potenciálních škodlivých vlivů na embryo/fetální vývoj nedostatečné. Proto se nedoporučuje
+
+5/12
+
+používání NIONTIX v průběhu prvních dvou trimestrů těhotenství. Může být bezpečně používán v průběhu porodu.
+Kojení
+NIONTIX, plyn k inhalaci může být použit u kojících žen.
+Fertilita
+Neklinické údaje ukazují, že účinky oxidu dusného na fertilitu nejsou jednoznačné. Přechodné snížení fertility bylo prokázáno při dávkách, které jsou mnohem vyšší než doporučená klinická dávka (viz bod 5.3).
+Nelze vyloučit potenciální riziko poškození fertility spojené s dlouhodobou expozicí na pracovišti
+(viz bod 4.4).
+
+4.7  Účinky na schopnost řídit a obsluhovat stroje
+
+Oxid dusný ovlivňuje kognitivní a psychomotorické funkce.
+Oxid dusný je po inhalaci rychle vyloučen z těla a nepříznivé psychometrické účinky jsou jen zřídka prokázány 20 minut po ukončení expozice.
+Pokud je oxid dusný používán jako jediné analgetické nebo sedativní agens nedoporučuje se řízení a obsluha strojů nejméně 30 minut po ukončení jeho podávání a pokud není uznán lékařem za způsobilého.
+
+4.8  Nežádoucí účinky
+Použití oxidu dusného jako jediného agens:
+Časté (≥1/100 až <1/10):
+Obecné poruchy: závrať, pocit intoxikace
+Gastrointestinální poruchy: nevolnost a zvracení
+Méně časté (≥1/1000 až <1/100):
+Poruchy ucha a labyrintu: pocit tlaku ve středním uchu Gastrointestinální poruchy: nadýmání, plynatost
+Není známo:
+Závislost, myeloneuropatie, neuropatie, subakutní degenerace míchy, generalizované záchvaty
+
+Použití oxidu dusného jako části celkové anestézie:
+Časté (≥1/100 až <1/10):
+
+
+6/12
+
+Gastrointestinální poruchy: nevolnost a zvracení
+Méně časté (≥1/1000 až <1/100):
+Poruchy ucha a labyrintu: pocit tlaku ve středním uchu Gastrointestinální poruchy: nadýmání, plynatost
+Velmi vzácné (<1/10,000):
+Poruchy způsobené nedostatkem vitamínu B12, nebo narušení syntézy methioninu.
+Poruchy krve a lymfatického systému: megaloblastická anémie, leukopénie Psychické problémy: psychóza
+Při podezření nebo při prokázání nedostatku vitamínu B12, nebo v případě příznaků poruchy
+syntézy methioninu, měla by být zahájena substituční terapie vitaminu B.
+Není známo:
+Závislost, myeloneuropatie, neuropatie, subakutní degenerace míchy, generalizované záchvaty
+
+Hlášení podezření na nežádoucí účinky:
+Hlášení podezření na nežádoucí účinky po registraci léčivého přípravku je důležité. Umožňuje to pokračovat ve sledování poměru přínosů a rizik léčivého přípravku. Žádáme zdravotnické
+pracovníky, aby hlásili podezření na nežádoucí účinky na adresu:
+Státní ústav pro kontrolu léčiv Šrobárova 48
+100 41 Praha 10
+webové stránky: www.sukl.cz/nahlasit-nezadouci-ucinek
+
+4.9  Předávkování
+
+Oxid dusný musí být vždy podáván v kombinaci s dostatečným množstvím kyslíku z důvodu zajištění dostatečného zásobování organismu kyslíkem. Přístroje musí dodávat koncentrace kyslíku vyšší než 21 %.
+Přebytek inhalovaného oxidu dusného způsobí hypoxii a bezvědomí.
+V případě náhodného předávkování (tj. koncentrace ohrožující adekvátní přísun kyslíku), se může rozvíjet hypoxie a ischémie. V tomto případě má být koncentrace oxidu dusného snížena nebo podávání přerušeno. Frakce kyslíku má být zvýšena a podávána, dokud pacient plně nesplňuje kritéria adekvátní oxygenace.
+
+
+
+
+
+
+
+7/12
+
+5.   FARMAKOLOGICKÉ VLASTNOSTI
+5.1  Farmakodynamické vlastnosti
+
+Farmakoterapeutická skupina: Jiná celková anestetika, ATC skupina: N01AX13
+
+Přesný farmakologický mechanizmus zprostředkování analgezie oxidem dusným nebyl dosud plně objasněn, ale je známo, že má řadu modulačních účinků na neurotransmiterové systémy CNS včetně endogenních opioidních a noradrenergních přenosů v míše.
+Oxid dusný má také vliv na GABA-receptorové systémy.
+Intenzita analgetického účinku závisí na psychickém stavu pacienta. Účinek na vnímání bolesti a
+kognitivní funkce je závislý na dávce oxidu dusného.
+Při inhalaci koncentrací do 50-60 objem. % vykazuje rostoucí analgetické účinky a účinky na kognitivní funkce. To vede k analgezii a sedaci: pacient je relaxovaný v útlumu vědomí.
+Koncentrace mezi 60-70 objem. % způsobují lehkou anestézii charakterizovanou ztrátou vědomí, ztrátou reakce na verbální příkazy A lehkou dotykovou stimulaci.
+Pokud je oxid dusný kombinován s dalšími anestetiky nebo analgetiky, vykazuje hlubší anestézii.
+
+5.2  Farmakokinetické vlastnosti
+
+Absorpce
+Oxid dusný je podáván inhalačně a jeho absorpce je závislá na tlakovém gradientu mezi inhalovaným vzduchem a krví protékající ventilovanými alveoly.
+Distribuce
+Distribuce v tělesných tkáních je závislá na jeho rozpustnosti, která je určena distribučním koeficientem pro jednotlivé tkáně. Jeho nízká rozpustnost v krvi stejně tak jako i v dalších kompartmentech vede k rychlému vyrovnání mezi vdechovanou a konečnou vydechovanou koncentrací plynu. Do rovnováhy je oxid dusný uveden rychleji než jiná inhalační anestetika.
+Eliminace
+Oxid dusný není metabolizován, ale následně alveoly vyloučen a vydýchán. Eliminace je výhradně závislá na alveolární exkreci a ventilaci. Čas nutný k eliminaci oxidu dusného po přerušení podávání je podobný času saturace plynem. Kvůli nízké rozpustnosti v krvi stejně jako v jiných tkáních je jak absorpce, tak eliminace rychlá, relativně rychlejší než u dalších inhalačních anestetických agens.
+
+5.3  Předklinické údaje vztahující se k bezpečnosti
+Předklinické údaje týkající se bezpečnosti oxidu dusného jsou založeny na publikovaných farmakologických studiích.
+
+
+8/12
+
+Dlouhodobá kontinuální expozice 15 – 50 % oxidu dusnému způsobuje neuropatii.
+Teratogenní efekt oxidu dusného byl pozorován u potkanů, po expozicích dávkám vyšším než
+500 ppm.
+
+6.   FARMACEUTICKÉ ÚDAJE
+
+6.1  Seznam pomocných látek
+
+Žádné
+
+6.2  Inkompatibility
+
+NIONTIX, plyn k inhalaci může být podáván v kombinaci se vzduchem, medicinálním kyslíkem a halogenovými inhalačními agens.
+
+6.3  Doba použitelnosti
+
+3 roky pro lahve na stlačený plyn o vodní kapacitě 5 l a menší
+5 let pro lahve na stlačený plyn o vodní kapacitě větší než 5 l
+
+6.4  Zvláštní opatření pro uchovávání
+
+Pro dlouhodobé skladování je doporučená teplota od – 20 °C do +40 °C. Lahve na stlačený plyn mohou být krátkodobě vystaveny teplotám až do +60°C.
+Lahve na stlačený plyn musí být uchovávány na dobře větraných místech určených pro uchovávání medicinálních plynů.
+Lahve na stlačený plyn musí být skladovány pod zastřešením, chráněny proti vlivům počasí a
+větru, drženy v suchu a čistotě, prosty hořlavých materiálů. Mají být přijata opatření k zabránění otřesů a pádu.
+Lahve na stlačený plyn obsahující různé druhy plynů musí být uchovávány odděleně. Plné a prázdné lahve na stlačený plyn musí být uchovávány odděleně.
+Nekuřte a nepoužívejte otevřený oheň v místnostech, kde jsou medicinální plyny skladovány.
+Skladujte a přepravujte lahve ve svislé poloze se zavřenými ventily, a tam, kde je přítomen použijte ochranný klobouček a krytí.
+Transport lahví na stlačený plyn
+
+9/12
+
+Větší lahve na stlačený plyn musí být transportovány vhodným typem vozidla. Zvláštní pozornost musí být věnována k zabezpečení toho, aby se připojená zařízení náhodně neuvolnila.
+
+6.5  Druh obalu a velikost balení
+
+Obaly a ventily (včetně materiálu):
+
+
+Velikost lahve
+(vodní kapacita v l)
+
+2
+
+3
+3
+
+3
+
+5
+
+5
+5
+
+10
+
+10
+
+14.3
+
+40
+
+46.7
+
+50
+
+50
+
+Svazek 12x40 Svazek 12x50
+Typ ventilu
+
+
+Ventil zap/vyp
+Pin index
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Pin index
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Ventil zap/vyp
+Materiál lahve
+
+
+Ocel
+
+Ocel nebo hliník
+Ocel nebo hliník
+
+Ocel
+
+Ocel nebo hliník
+
+Ocel nebo hliník
+Ocel
+
+Ocel nebo hliník
+
+Ocel
+
+Ocel nebo hliník
+
+Ocel Ocel Ocel Ocel Ocel Ocel
+Plnící množství (kg)
+1,5
+
+2,0
+2,0
+
+2,25
+
+3,0
+
+3,0
+3,75
+
+7,0
+
+7,5
+
+10,0
+
+30,0
+
+35,0
+
+37,0
+
+37,5
+
+360
+
+450
+Plnící objem (litry)
+při tlaku 1.013 bar a teplotě
+15 °C
+812
+
+1 082
+1 082
+
+1 218
+
+1 623
+
+1 623
+2 029
+
+3 788
+
+4 058
+
+5 411
+
+16 234
+
+18 939
+
+20 022
+
+20 292
+
+194 805
+
+243 506
+
+10/12
+
+Ventily lahví jsou vyrobeny z pochromované nebo nikl-pochromované mosazi. Ventil svazku
+lahví je vyroben z mosazi.
+Na trhu nemusí být všechny velikosti balení.
+Barevné značení
+Horní zaoblená část lahve     modrá          číslo odstínu RAL: 5010
+Tělo lahve             bílá           číslo odstínu RAL: 9010
+
+6.6  Zvláštní opatření pro likvidaci přípravku a zacházení s ním
+
+Bezpečnostní pokyny
+- Při práci s oxidem dusným mají být učiněna zvláštní opatření (viz bod 4.4).
+-  NIONTIX smí být používán pouze v prostorech s vhodným ventilačním nebo čistícím systémem umožňujícím udržovat koncentraci oxidu dusného pod limitem stanoveným národní legislativou.
+- Oxid dusný nesmí být používán během laserových operací horních cest dýchacích, protože hrozí nebezpečí výbuchu.
+-  Opakované podávání nebo expozice oxidu dusnému může vést k závislosti. U zdravotnických pracovníků, kteří jsou v zaměstnání vystaveni působení oxidu dusného, je třeba postupovat opatrně.
+
+Manipulace s lahví
+- Lahev na stlačený plyn připojujte pouze k zařízením určeným pro připojení medicinálního oxidu dusného.
+- Vypněte zařízení v případě požáru nebo pokud se nepoužívá.
+- Lahev na stlačený plyn nesmí být vystavena nadměrným teplotám.
+- V případě nebezpečí požáru musí být lahve na stlačené plyny přepraveny na bezpečné místo.
+- Nikdy nepoužívejte maziva, olej nebo podobné látky k mazání zablokovaných závitů. Je zde
+riziko samovznícení v kontaktu s přípravkem NIONTIX.
+- Regulátor tlaku musí být otevírán pomalu a opatrně.
+- Zacházejte s lahví na stlačený plyn s opatrností. Ujistěte se, že není vystavena otřesům a nemůže spadnout.
+-  Lahev s přípravkem NIONTIX musí být vždy ve svislé poloze tak, aby byl regulátor tlaku nahoře. Medicinální oxid dusný je odebírán z lahve v plynném stavu, ale jinak je v lahvi v kapalném stavu, a to díky tlaku uvnitř lahve. Pokud by během použití byla lahev na stlačený
+
+
+
+11/12
+
+plyn v horizontální poloze, mohla by kapalina unikat a způsobit poškození. Tlakový regulátor musí být otevírán pomalu a opatrně, aby se zabránilo úniku kapalného oxidu dusného.
+- Udržujte lahev na stlačený plyn čistou a suchou.
+- Lahev na stlačený plyn musí být uchovávána a přepravována s uzavřeným ventilem opatřeným ochranným kloboukem a krytím.
+- Během používání by měla být lahev vhodně upevněna.
+- Pokud zůstane v lahvi malé množství plynu, ventil musí být uzavřen. Je důležité ponechat v
+lahvi zbytkový tlak, aby se zabránilo kontaminaci.
+- Po použití uzavřete ventil běžnou silou. Odtlakujte regulátor nebo přípojku.
+
+7.   DRŽITEL ROZHODNUTÍ O REGISTRACI
+Linde Gas a.s.
+U Technoplynu 1324
+Praha 9, Kyje
+198 00 Česká republika
+Telefon: +420 272 100 111
+Fax:  +420 272 100 790
+
+8.   REGISTRAČNÍ ČÍSLO
+89/137/08 – C
+
+9.  DATUM PRVNÍ REGISTRACE/PRODLOUŽENÍ REGISTRACE
+Datum první registrace: 26. 3. 2008
+Datum posledního prodloužení registrace: 12. 6. 2013
+
+10.  DATUM REVIZE TEXTU
+
+31. 1. 2020
+
+
+
+
+
+
+
+
+
+
+
+12/12
