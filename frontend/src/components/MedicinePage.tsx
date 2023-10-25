@@ -136,7 +136,7 @@ export const MedicinePage = ({ medicine }: Props) => {
           </Stack>
         ))}
       <Dialog open={dialogOpen} onClose={handleClose}>
-        <Stack padding={2} width={"300px"} height={"300px"} alignItems={"center"} justifyContent={"center"}>
+        <Stack padding={2} width={"300px"} height={"350px"} alignItems={"center"} justifyContent={"center"}>
           <QRCode value={pdfPath} size={250} />
           <Stack marginTop={2}>
             <Link to={pdfPath}>
