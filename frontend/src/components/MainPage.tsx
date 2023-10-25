@@ -14,6 +14,8 @@ import { ActiveIngredientDetail } from "../model/ActiveIngredientDetail";
 import { ActiveIngredientPage } from "./ActiveIngredientPage";
 import { getFunFact } from "../services/getFunFact";
 import { FunFact } from "../model/FunFact";
+import { getChatAnswer } from "../services/getChatAnswer";
+import { ChatResponsePage } from "./ChatResponsePage";
 
 export const MainPage = () => {
   const [drugsAndIngredients, setDrugsAndIngredients] = useState<DrugsAndIngredients[]>([]);
@@ -22,6 +24,9 @@ export const MainPage = () => {
   const [funFact, setFunFact] = useState<FunFact | null>(null);
   const [activeIngredientDetail, setActiveIngredientDetail] = useState<ActiveIngredientDetail | null>(null);
   const [loading, setLoading] = useState<boolean>(false);
+  const [useChatBot, setUseChatBot] = useState<boolean>(false);
+  const [chatResponse, setChatResponse] = useState<string>("");
+
   useEffect(() => {
     console.log("Loading all drugs");
     loadFunFact();
@@ -57,11 +62,32 @@ export const MainPage = () => {
     setLoading(false);
   };
 
+  const loadChatAnswer = async (query: string) => {
+    if (firstLoad) {
+      setFirstLoad(false);
+    }
+    setDrugDetail(null);
+    setLoading(true);
+    setChatResponse("");
+    const response = await getChatAnswer(query);
+    console.log("Chat response", response);
+    setChatResponse(response);
+    setLoading(false);
+  };
+
+  console.log("Chatbot status:", useChatBot);
+
   return (
     <>
       <PageHeader />
       <Stack alignItems={"center"} marginTop={2}>
-        <SearchBar options={drugsAndIngredients} onSearchClick={loadDrugDetail} />
+        <SearchBar
+          options={drugsAndIngredients}
+          onSearchClick={loadDrugDetail}
+          onChatClick={loadChatAnswer}
+          onChatModeSelect={() => setUseChatBot(true)}
+          onSearchModeSelect={() => setUseChatBot(false)}
+        />
         {firstLoad && funFact && <InitialLoadPage funFact={funFact} />}
         {loading && (
           <Box display="flex" alignItems="center" justifyContent="center" height="500px">
@@ -70,6 +96,7 @@ export const MainPage = () => {
         )}
         {drugDetail && <MedicinePage medicine={drugDetail} />}
         {activeIngredientDetail && <ActiveIngredientPage activeIngredient={activeIngredientDetail} />}
+        {chatResponse.length > 0 && <ChatResponsePage response={chatResponse} />}
       </Stack>
     </>
   );
