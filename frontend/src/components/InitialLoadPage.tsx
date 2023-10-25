@@ -2,8 +2,13 @@ import { Box, Stack, Typography } from "@mui/material";
 import { Colors } from "../theme/colors";
 import { FontWeight } from "../theme/utils";
 import { Medication } from "@mui/icons-material";
+import { FunFact } from "../model/FunFact";
 
-export const InitialLoadPage = () => {
+type Props = {
+  funFact: FunFact;
+};
+
+export const InitialLoadPage = ({ funFact }: Props) => {
   return (
     <>
       <Box
@@ -21,20 +26,20 @@ export const InitialLoadPage = () => {
             mezi vedlejší účinky léku{" "}
           </Typography>
           <Typography color={Colors.grey500} fontSize={18} fontWeight={FontWeight.Bold} marginX={"6px"}>
-            Paralen
+            {funFact.medicineName}
           </Typography>
           <Typography color={Colors.grey500} fontSize={18}>
             patří{" "}
           </Typography>
           <Typography color={Colors.grey500} fontSize={18} fontWeight={FontWeight.Bold} marginLeft={"6px"}>
-            smrt
+            {funFact.sideEffect}
           </Typography>
           <Typography color={Colors.grey500} fontSize={18}>
             ?
           </Typography>
         </Stack>
       </Box>
-      <Stack direction={"row"} alignItems={"center"} marginLeft={-5} marginTop={20}>
+      <Stack direction={"row"} alignItems={"center"} marginLeft={-5} marginTop={10}>
         <Medication style={{ fontSize: 100, color: Colors.grey300 }} />
         <Typography fontWeight={FontWeight.Bold} fontSize={50} color={Colors.grey300}>
           SPICY WIZARD

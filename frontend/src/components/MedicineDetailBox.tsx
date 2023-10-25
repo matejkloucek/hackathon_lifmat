@@ -5,9 +5,10 @@ import ScienceIcon from "@mui/icons-material/Science";
 import SickIcon from "@mui/icons-material/Sick";
 import LocalHospitalIcon from "@mui/icons-material/LocalHospital";
 import FiberManualRecordIcon from "@mui/icons-material/FiberManualRecord";
+import { MedicineSimple } from "../model/MedicineSimple";
 
 type Props = {
-  medicine: Medicine;
+  medicine: Medicine | MedicineSimple;
 };
 
 export const MedicineDetailBox = ({ medicine }: Props) => {
