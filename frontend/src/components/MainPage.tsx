@@ -8,11 +8,16 @@ import { getDrugDetail } from "../services/getDrugDetail";
 import { Medicine } from "../model/Medicine";
 import { InitialLoadPage } from "./InitialLoadPage";
 import { MedicinePage } from "./MedicinePage";
+import { DrugType } from "../enums/DrugType";
+import { getActiveIngredientDetail } from "../services/getActiveIngredientDetail";
+import { ActiveIngredientDetail } from "../model/ActiveIngredientDetail";
+import { ActiveIngredientPage } from "./ActiveIngredientPage";
 
 export const MainPage = () => {
   const [drugsAndIngredients, setDrugsAndIngredients] = useState<DrugsAndIngredients[]>([]);
   const [firstLoad, setFirstLoad] = useState<boolean>(true);
   const [drugDetail, setDrugDetail] = useState<Medicine | null>(null);
+  const [activeIngredientDetail, setActiveIngredientDetail] = useState<ActiveIngredientDetail | null>(null);
   const [loading, setLoading] = useState<boolean>(false);
   useEffect(() => {
     console.log("Loading all drugs");
@@ -28,12 +33,18 @@ export const MainPage = () => {
     if (firstLoad) {
       setFirstLoad(false);
     }
-    setDrugDetail(null);
-    // todo: separate cases for drugs and ingredients
     setLoading(true);
-    const response = await getDrugDetail(drug.id);
-    console.log("Response:", response);
-    setDrugDetail(response);
+    setDrugDetail(null);
+    setActiveIngredientDetail(null);
+    if (drug.type === DrugType.Drug) {
+      const response = await getDrugDetail(drug.id);
+      console.log("Response:", response);
+      setDrugDetail(response);
+    } else {
+      const response = await getActiveIngredientDetail(drug.id);
+      console.log("Response:", response);
+      setActiveIngredientDetail(response);
+    }
     setLoading(false);
   };
 
@@ -44,16 +55,12 @@ export const MainPage = () => {
         <SearchBar options={drugsAndIngredients} onSearchClick={loadDrugDetail} />
         {firstLoad && <InitialLoadPage />}
         {loading && (
-          <Box
-            display="flex"
-            alignItems="center"
-            justifyContent="center"
-            height="500px" // Adjust as needed
-          >
+          <Box display="flex" alignItems="center" justifyContent="center" height="500px">
             {loading && <CircularProgress />}
           </Box>
         )}
         {drugDetail && <MedicinePage medicine={drugDetail} />}
+        {activeIngredientDetail && <ActiveIngredientPage activeIngredient={activeIngredientDetail} />}
       </Stack>
     </>
   );
