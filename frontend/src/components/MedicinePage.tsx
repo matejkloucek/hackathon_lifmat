@@ -103,7 +103,7 @@ export const MedicinePage = ({ medicine }: Props) => {
           size={"large"}
           onClick={() => {
             setDialogOpen(true);
-            setPdfPath(medicine.name); //todo: replace name with actual pdf path
+            setPdfPath(medicine.pdfDropboxLink);
           }}
         >
           <LinkIcon />
@@ -124,7 +124,7 @@ export const MedicinePage = ({ medicine }: Props) => {
                 size={"large"}
                 onClick={() => {
                   setDialogOpen(true);
-                  setPdfPath(entry.name); //todo: replace name with actual pdf path
+                  setPdfPath(entry.pdfDropboxLink);
                 }}
               >
                 <LinkIcon sx={{ marginTop: "3px" }} />

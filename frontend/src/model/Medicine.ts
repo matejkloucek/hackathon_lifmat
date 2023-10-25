@@ -6,6 +6,7 @@ export type Medicine = {
   id: number;
   name: string;
   suklCode: number;
+  pdfDropboxLink: string;
   contraindications: string[];
   adverseEffects: string[];
   alternativeMedicines: AlternativeMedicine[];

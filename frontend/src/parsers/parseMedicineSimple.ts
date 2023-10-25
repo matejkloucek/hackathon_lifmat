@@ -6,6 +6,7 @@ export const parseMedicineSimple = (data: any[]): MedicineSimple[] => {
     id: entry.id,
     name: entry.name,
     suklCode: entry.sukl_code,
+    pdfDropboxLink: entry.pdf_dropbox_link,
     contraindications: entry.contraindications,
     adverseEffects: entry.adverse_effects,
     activeIngredients: parseActiveIngredients(entry.active_ingredients),

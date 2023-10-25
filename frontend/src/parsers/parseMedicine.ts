@@ -8,6 +8,7 @@ export const parseMedicine = (data: any): Medicine => {
     id: data.id,
     name: data.name,
     suklCode: data.sukl_code,
+    pdfDropboxLink: data.pdf_dropbox_link,
     contraindications: data.contraindications,
     adverseEffects: data.adverse_effects,
     alternativeMedicines: parseAlternativeMedicine(data.alternative_medicines),
