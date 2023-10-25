@@ -1,0 +1,49 @@
+{
+  "nazev_pripravku": "Betiatidum",
+  "slozeni": [
+    {
+      "nazev": "Betiatidum",
+      "mnozstvi": 1,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Sodné ionty"
+    },
+    {
+      "nazev": "Dihydrát natrium-tartarátu"
+    },
+    {
+      "nazev": "Dihydrát chloridu cínatého"
+    },
+    {
+      "nazev": "Kyselina chlorovodíková"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Nebyly popsány interakce",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Je-li nutné podat radioaktivní přípravek ženě ve fertilním věku, vždy je nutno pátrat po možném těhotenství. Každá žena, které vynechala menstruace, má být považována za těhotnou, dokud se neprokáže opak. V případě nejistoty (pokud  ženě vynechala menstruace, nebo je velmi nepravidelná) měly by být pacientce nabídnuty alternativní techniky bez použití ionizujícího záření (pokud jsou k dispozici). Během těhotenství by měla být prováděna pouze naléhavá vyšetření, kdy předpokládaný přínos významně převažuje riziko způsobené matce a plodu. Před podáním radioaktivního přípravku kojící matce je třeba zvážit, zda lze vyšetření odložit až do ukončení kojení a zda byl proveden výběr nejvhodnějšího radiofarmaka s ohledem na sekreci radioaktivity do mateřského mléka. Je-li podání považováno za nutné, kojení by mělo být přerušeno na 4 hodin a odsáté mléko zlikvidováno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Poruchy nervového systému",
+      "frekvence_vyskytu": "Není známo (z dostupných údajů nelze určit)"
+    },
+    {
+      "nazev": "Poruchy imunitního systému",
+      "frekvence_vyskytu": "Vzácné až velmi vzácné (˂1/1 000)"
+    }
+  ],
+  "inkompatibility": "Tento léčivý přípravek nesmí být mísen s jinými léčivými přípravky, s výjimkou těch, které jsou uvedeny v bodě 12."
+}

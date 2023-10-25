@@ -1,0 +1,69 @@
+{
+  "nazev_pripravku": "Clotrimazole Recordati 10 mg/g krém",
+  "slozeni": [
+    {
+      "nazev": "Clotrimazolum",
+      "mnozstvi": 10,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "propylparaben",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "methylparaben",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "cetylalkohol",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "propylenglykol",
+      "mnozstvi": null,
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "stearomakrogol 100"
+    },
+    {
+      "nazev": "stearomakrogol 1050"
+    },
+    {
+      "nazev": "lehký tekutý parafin"
+    },
+    {
+      "nazev": "čištěná voda"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na klotrimazol nebo kteroukoli pomocnou látku uvedenou v bodu 6.1."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "antibiotik polyenové řady (nystatinu a natamycinu)",
+      "druh_interakce": "snižování účinku"
+    }
+  ],
+  "tehotenstvi": [
+    "Podávání klotrimazolu v prvním trimestru těhotenství se z preventivních důvodů nedoporučuje."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "alergická reakce",
+      "frekvence_vyskytu": "velmi vzácné"
+    },
+    {
+      "nazev": "podráždění kůže (pálení, svědění anebo přechodné zarudnutí)",
+      "frekvence_vyskytu": "méně časté"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

@@ -1,0 +1,36 @@
+{
+  "nazev_pripravku": "Water for Injection Fresenius Kabi rozpouštědlo pro parenterální použití",
+  "slozeni": [
+    {
+      "nazev": "Aqua pro iniectione",
+      "mnozstvi": 100,
+      "jednotky": "ml"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Bez antimikrobiální přísady"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Nadměrné použití vody může vést k intoxikaci vodou s poruchou elektrolytové bilance."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Nejsou známy.",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Použití přípravku u těhotných a kojících žen není kontraindikováno."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Při používání podle doporučení nejsou známy.",
+      "frekvence_vyskytu": ""
+    }
+  ],
+  "inkompatibility": "Nejsou známy."
+}

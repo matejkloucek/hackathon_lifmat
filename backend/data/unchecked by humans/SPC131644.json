@@ -1,0 +1,119 @@
+{
+  "nazev_pripravku": "Androfin 5 mg potahované tablety",
+  "slozeni": [
+    {
+      "nazev": "finasteridum",
+      "mnozstvi": 5,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "monohydrát laktosy",
+      "mnozstvi": 75,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "mikrokrystalická celulosa",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "předbobtnalý kukuřičný škrob",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "sodná sůl karboxymethylškrobu (typ A)",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "magnesium-stearát",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "natrium-lauryl-sulfát",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "hypromelosa",
+      "mnozstvi": null,
+      "jednotky": ""
+    },
+    {
+      "nazev": "makrogol-stearát",
+      "mnozstvi": null,
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "celulóza, mikrokrystalická"
+    },
+    {
+      "nazev": "karboxymethylškrob sodný (typ A)"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "monohydrát laktosy"
+    },
+    {
+      "nazev": "natrium-lauryl-sulfát"
+    },
+    {
+      "nazev": "předbobtnalý kukuřičný škrob"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1, těhotenství"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Androfin 5 mg je kontraindikován u žen, které jsou nebo mohou být těhotné."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "impotence",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "snížení libida",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "deprese",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "úzkost",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "palpitace",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "elevace jaterních enzymů",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "vyrážka",
+      "frekvence_vyskytu": "Méně časté"
+    },
+    {
+      "nazev": "pruritus",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "kopřivka",
+      "frekvence_vyskytu": "

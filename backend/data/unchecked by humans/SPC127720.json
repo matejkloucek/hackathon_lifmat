@@ -1,0 +1,68 @@
+{
+  "nazev_pripravku": "Ardeaosmosol Ma 10% infuzní roztok, Ardeaosmosol Ma 15% infuzní roztok, Ardeaosmosol Ma 20% infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Mannitolum",
+      "mnozstvi": 100.0,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Mannitolum",
+      "mnozstvi": 150.0,
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Mannitolum",
+      "mnozstvi": 200.0,
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Progresivní renální selhání s rostoucí azotemií, kardiální dekompenzace, zejména levostranná, těžká dehydratace, iontový rozvrat, hyperosmolární stav, metabolické edémy spojené se zvýšenou cévní permeabilitou a fragilitou, intrakraniální krvácení s výjimkou kraniotomie, těžká hypertenze. Anurie, která přetrvává při dostatečné hydrataci po testovací dávce mannitolu."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Digoxin",
+      "druh_interakce": "Zvyšuje nebezpečí digitalisové toxicity."
+    }
+  ],
+  "tehotenstvi": ["Použití přípravku během těhotenství a laktace není kontraindikováno."],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Iontová dysbalance",
+      "frekvence_vyskytu": "Vyskytuje se vzácně s frekvencí výskytu > 1/10000 a < 1/1000."
+    },
+    {
+      "nazev": "Dehydratace tkání",
+      "frekvence_vyskytu": "Vyskytuje se vzácně s frekvencí výskytu > 1/10000 a < 1/1000."
+    },
+    {
+      "nazev": "Hypervolemie, zvýšení nitrolebního tlaku",
+      "frekvence_vyskytu": "Vyskytuje se vzácně s frekvencí výskytu > 1/10000 a < 1/1000."
+    },
+    {
+      "nazev": "Tachykardie",
+      "frekvence_vyskytu": "Vyskytuje se vzácně s frekvencí výskytu > 1/10000 a < 1/1000."
+    },
+    {
+      "nazev": "Dráždění žilního endotelu",
+      "frekvence_vyskytu": "Vyskytuje se vzácně s frekvencí výskytu > 1/10000 a < 1/1000."
+    },
+    {
+      "nazev": "Nauzea, zvracení",
+      "frekvence_vyskytu": "Vyskytuje se vzácně s frekvencí výskytu > 1/10000 a < 1/1000."
+    },
+    {
+      "nazev": "Horečka, bolesti hlavy, svalová ztuhlost",
+      "frekvence_vyskytu": "Vyskytuje se vzácně s frekvencí výskytu > 1/10000 a < 1/1000."
+    }
+  ],
+  "inkompatibility": "Vzhledem k vysoké koncentraci mannitolu, zejména u 20% roztoku, není vhodné do přípravku přidávat žádná další léčiva! Nepodává se infuzní soupravou a jednopramenným katétrem současně s plasmatickými a krevními deriváty."
+}

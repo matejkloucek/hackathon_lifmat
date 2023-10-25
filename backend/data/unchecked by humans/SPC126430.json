@@ -1,0 +1,85 @@
+{
+  "nazev_pripravku": "Metalcaptase 150 mg enterosolventní tablety Metalcaptase 300 mg enterosolventní tablety",
+  "slozeni": [
+    {
+      "nazev": "penicillaminum",
+      "mnozstvi": 150,
+      "jednotky": "mg"
+    },
+    {
+      "nazev": "penicillaminum",
+      "mnozstvi": 300,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "dihydrát hydrogenfosforečnanu vápenatého"
+    },
+    {
+      "nazev": "kukuřičný škrob"
+    },
+    {
+      "nazev": "celulosový prášek"
+    },
+    {
+      "nazev": "mikrokrystalická celulóza"
+    },
+    {
+      "nazev": "kopovidon"
+    },
+    {
+      "nazev": "hydrogenovaný ricinový olej"
+    },
+    {
+      "nazev": "koloidní bezvodý oxid křemičitý"
+    },
+    {
+      "nazev": "kalcium-behenát"
+    },
+    {
+      "nazev": "disperze methakrylátového kopolymeru L 30%"
+    },
+    {
+      "nazev": "mastek"
+    },
+    {
+      "nazev": "oxid titaničitý"
+    },
+    {
+      "nazev": "makrogol 6000"
+    },
+    {
+      "nazev": "roztok methakrylátového kopolymeru L 12,5%"
+    },
+    {
+      "nazev": "polysorbat 80"
+    },
+    {
+      "nazev": "triacetin"
+    },
+    {
+      "nazev": "dimetikon"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivou látku a na penicilin nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1, poruchy funkce ledvin, poruchy kostní dřeně, systémový lupus erythematodes (SLE) nebo přítomnost vyššího titru antinukleárních protilátek, porucha funkce jater, současná léčba deriváty zlata nebo chlorochinem"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "indometacin",
+      "druh_interakce": "zvýšení plazmatické hladiny penicilaminu"
+    },
+    {
+      "nazev_latky": "azathioprin",
+      "druh_interakce": "zhoršení snášenlivosti přípravku Metalcaptase"
+    },
+    {
+      "nazev_latky": "přípravky obsahující železo",
+      "druh_interakce": "snížení absorpce penicilaminu až o 70 %"
+    },
+    {
+      "nazev_latky": "antacida obsahující hořčík nebo hliník a sukralfát",
+      "druh_interakce": "snížení absorpce penicilamin

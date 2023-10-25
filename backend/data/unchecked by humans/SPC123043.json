@@ -1,0 +1,138 @@
+{
+  "nazev_pripravku": "Ardeanutrisol G 5% infuzní roztok Ardeanutrisol G 10% infuzní roztok Ardeanutrisol G 20% infuzní roztok Ardeanutrisol G 40% infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Ardeanutrisol",
+      "mnozstvi": "50,0 g (G 5%), 100,0 g (G 10%), 200,0 g (G 20%), 400,0 g (G 40%)",
+      "jednotky": ""
+    },
+    {
+      "nazev": "Glucosum",
+      "mnozstvi": "670 kPa (G 5%), 1342 kPa (G 10%), 2684 kPa (G 20%), 5369 kPa (G 40%)",
+      "jednotky": ""
+    },
+    {
+      "nazev": "Osmotický tlak",
+      "mnozstvi": "858 kJ/l (G 5%), 1716 kJ/l (G 10%), 3432 kJ/l (G 20%), 6864 kJ/l (G 40%)",
+      "jednotky": ""
+    },
+    {
+      "nazev": "pH",
+      "mnozstvi": "3,0 - 6,5",
+      "jednotky": ""
+    },
+    {
+      "nazev": "disiřičitan sodný",
+      "mnozstvi": "pomocná látka se známým účinkem (G 20%, G 40%)",
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Monohydrát kyseliny citronové",
+    },
+    {
+      "nazev": "Voda pro injekci",
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hyperglykémie"
+    },
+    {
+      "nazev_kontraindikace": "Diabetes mellitus bez patřičné kompenzace"
+    },
+    {
+      "nazev_kontraindikace": "Akutní fáze při ischémii mozku"
+    },
+    {
+      "nazev_kontraindikace": "Hypoxémie"
+    },
+    {
+      "nazev_kontraindikace": "Hypotonická dehydratace"
+    },
+    {
+      "nazev_kontraindikace": "Hyperhydratační stavy"
+    },
+    {
+      "nazev_kontraindikace": "Těžší poruchy funkce ledvin"
+    },
+    {
+      "nazev_kontraindikace": "Hypokalémie"
+    },
+    {
+      "nazev_kontraindikace": "Hyperhydratace (roztoč 50 g/l)"
+    },
+    {
+      "nazev_kontraindikace": "Hypoosmolalita (roztoč 50 g/l)"
+    },
+    {
+      "nazev_kontraindikace": "Edémy (hypertonické roztoky)"
+    },
+    {
+      "nazev_kontraindikace": "Hyperosmolalita (hypertonické roztoky)"
+    },
+    {
+      "nazev_kontraindikace": "Intrakraniální a intraspinální krvácení (hypertonické roztoky)"
+    },
+    {
+      "nazev_kontraindikace": "Dehydratace (hypertonické roztoky)"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Vysoké dávky katecholaminů a steroidů",
+      "druh_interakce": "Ovlivnění stavu inzulinorezistence"
+    },
+    {
+      "nazev_latky": "Perorální antidiabetika nebo inzulín",
+      "druh_interakce": "Snížení hladiny glukózy v krvi"
+    },
+    {
+      "nazev_latky": "Léčiva vedoucí ke zvýšenému účinku vazopresinu",
+      "druh_interakce": "Zvýšené riziko hyponatrémie"
+    },
+    {
+      "nazev_latky": "Léčiva stimulující uvolnění vazopresinu",
+      "druh_interakce": "Zvýšené riziko hyponatrémie"
+    },
+    {
+      "nazev_latky": "Léčiva zesilující působení vazopresinu",
+      "druh_interakce": "Zvýšené riziko hyponatrémie"
+    },
+    {
+      "nazev_latky": "Analogy vazopresinu",
+      "druh_interakce": "Zvýšené riziko hyponatrémie"
+    },
+    {
+      "nazev_latky": "Diuretika a antiepileptika",
+      "druh_interakce": "Zvýšené riziko hyponatrémie"
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Ardeanutrisol G 5% (G 10%, G 20%, G 40%) je nutno podávat se zvláštní opatrností u těhotných žen během porodu, zejména při podání v kombinaci s oxytocinem, z důvodu rizika hyponatrémie (viz body 4.4, 4.5 a 4.8)."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Hyperglykémie",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Lokální dráždění cévní stěny",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Edémy",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Intoxikace vodou",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Hyponatrémická encefalopatie",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Nepodává se infuzní soupravou současně s plasmatickými a krevními deriváty."
+}

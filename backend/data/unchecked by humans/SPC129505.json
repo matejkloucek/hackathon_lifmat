@@ -1,0 +1,88 @@
+{
+  "nazev_pripravku": "Injectio procainii chlorati Ardeapharma 0,2% injekční roztok / Injectio procainii chlorati Ardeapharma 0,5% injekční roztok",
+  "slozeni": [
+    {
+      "nazev": "Procaini hydrochloridum",
+      "mnozstvi": "2 mg / 5 mg",
+      "jednotky": "ml"
+    },
+    {
+      "nazev": "Chlorid sodný",
+      "mnozstvi": "",
+      "jednotky": "ml"
+    },
+    {
+      "nazev": "Disiřičitan sodný",
+      "mnozstvi": "",
+      "jednotky": "ml"
+    },
+    {
+      "nazev": "Kyselina chlorovodíková",
+      "mnozstvi": "1 mol/l",
+      "jednotky": "ml"
+    },
+    {
+      "nazev": "Voda pro injekci",
+      "mnozstvi": "",
+      "jednotky": "ml"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "Sodík"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    },
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na jiná lokální anestetika esterového typu"
+    },
+    {
+      "nazev_kontraindikace": "Současná léčba sulfonamidovými přípravky"
+    },
+    {
+      "nazev_kontraindikace": "Srdeční dekompenzace"
+    },
+    {
+      "nazev_kontraindikace": "Nitrožilní podání je kontraindikováno při vážnějších onemocněních jater a ledvin, hypotyreóze, myasthenii gravis, závažném šokovém stavu a u hypotenze"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Sulfonamidy",
+      "druh_interakce": "Vytěsňuje z vazby, a tím znehodnocuje jejich účinek"
+    }
+  ],
+  "tehotenstvi": [
+    "Je-li dávka podaná těhotné ženě nižší než 4 mg/kg, prokain vůbec do fetální krve neproniká, protože se rychleji rozloží."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Chvění končetin, bezvědomí, křeče, hyporeflexie",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Vzrušení, neklid",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Pokles krevního tlaku, oběhové selhání",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Tinitus, Nauzea",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Nepravidelné dýchání, tachypnoe",
+      "frekvence_vyskytu": "Vzácné"
+    },
+    {
+      "nazev": "Anafylaktický šok, alergická reakce kožní a na sliznici, Urtika, svědění, erytém, angioneurotický edém",
+      "frekvence_vyskytu": "Vzácné"
+    }
+  ],
+  "inkompatibility": "V indikacích, při kterých se používá přípravek Injectio procainii chlorati Ardeapharma, se jako příměsi používají pouze vasokonstrikční látky. Při jejich použití nejsou známy žádné fyzikálně-chemické inkompatibility."
+}

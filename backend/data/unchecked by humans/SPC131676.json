@@ -1,0 +1,36 @@
+{
+  "nazev_pripravku": "Cefepim Noridem 1 g prášek pro injekční/infuzní roztok Cefepim Noridem 2 g prášek pro injekční/infuzní roztok",
+  "slozeni": [
+    {
+      "nazev": "Cefepim dihydrochlorid monohydrát",
+      "mnozstvi": 1.189, 
+      "jednotky": "g"
+    },
+    {
+      "nazev": "Cefepim dihydrochlorid monohydrát",
+      "mnozstvi": 2.378, 
+      "jednotky": "g"
+    }
+  ],
+  "ostatni_latky":[
+    {
+      "nazev": "Arginin"
+    }
+  ],
+  "kontraindikace": [
+    {
+       "nazev_kontraindikace": "Hypersenzitivita na cefalosporiny, peniciliny a jiná beta-laktamová antibiotika (monobaktamy a karbapenemy), hypersenzitivita na arginin, acidóza, hyperkalemie"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "None",
+      "druh_interakce": "Nebyly provedeny žádné studie interakce"
+    }
+  ],
+  "tehotenstvi": ["Použití během těhotenství pouze v případě, že je to jednoznačně nutné"],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Orální kandidóza, vaginální infekce, pozitivní Coombsův test, prodloužený protrombinový čas, prodloužený parciální tromboplastinový čas, anémie, eozinofilie, trombocytopenie, leukopenie, neutropenie, anafylaktická reakce, angioedém, anafylaktický šok, falešně pozitivní nález glukózy v moči, stav zmatenosti, halucinace, bolesti hlavy, křeče, parestezie, dysgeuzie, závratě, kóma, stupor, encefalopatie, změna stavu vědomí, myoklonus, flebitida v místě aplikace infuze, vazodilatace, hemoragie, dyspnoe, průjem, pseudomembranózní kolitida, kolitida, nauzea, zvracení, bolesti břicha, zácpa, gastrointestinální onemocnění, zvýšení koncentrace alaninaminotransferázy a aspartátaminotransferázy, snížení koncentrace bilirubinu v krvi, vyrážka, erytém, urtikarie, pruritus, toxická epidermální nekrolýza, Stevens-Johnsonův syndrom, erythema multiforme, zvýšení koncentrace močoviny a kreatininu v krvi, selhání ledvin, toxická nefropatie, genitální pruritus, reakce v místě aplikace infuze, bolesti v místě injekce, zánět v místě injekce, teploty, zánět v místě infuze, zvýšení koncentrace alkalické fosfatázy"],
+  "inkompatibility": "Cefepim Noridem se nemá mísit s roztokem metronidazolu, vankomycinu, gentamicinu, tobramycin-sulfátu nebo netilmicin-sulfátu kvůli fyzické nebo chemické inkompatibilitě. Pokud je indikována souběžná léčba přípravkem Cefepim Noridem, každé z těchto antibiotik má být podáno odděleně."
+}

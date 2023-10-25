@@ -1,0 +1,83 @@
+{
+  "nazev_pripravku": "Lexaurin 1,5 mg tablety Lexaurin 3 mg tablety",
+  "slozeni": [
+    {
+      "nazev": "bromazepamum",
+      "mnozstvi": "1,5 mg",
+      "jednotky": "tableta"
+    },
+    {
+      "nazev": "bromazepamum",
+      "mnozstvi": "3 mg",
+      "jednotky": "tableta"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "monohydrát laktózy"
+    },
+    {
+      "nazev": "kukuřičný škrob"
+    },
+    {
+      "nazev": "povidon"
+    },
+    {
+      "nazev": "magnesium-stearát"
+    },
+    {
+      "nazev": "mastek"
+    },
+    {
+      "nazev": "sodná sůl erythrozinu"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1."
+    },
+    {
+      "nazev_kontraindikace": "Pacienti se známou přecitlivělostí na benzodiazepiny, těžkou dechovou nedostatečností, s těžkou poruchou funkce jater (benzodiazepiny nejsou indikovány k léčbě pacientů se závažnou poruchou funkce jater, protože mohou způsobit encefalopatii), s myasthenií gravis nebo se syndromem spánkové apnoe."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "alkohol",
+      "druh_interakce": "aditivní účinek"
+    },
+    {
+      "nazev_latky": "antipsychotika (neuroleptika), anxiolytika/sedativa, některá antidepresiva, opioidy, antiepileptika, sedativní H1-antihistaminika",
+      "druh_interakce": "zvýšení centrálního depresivního účinku"
+    }
+  ],
+  "tehotenstvi": [
+    "Bromazepam se může podávat během těhotenství, pokud jsou přísně dodržovány léčebné indikace a dávkování. V posledním trimestru těhotenství je nutné se vyvarovat podání vysokých dávek a u novorozence je nutné monitorovat abstinenční příznaky a/nebo „floppy infant syndrom“."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Nauzea*, zvracení*, zácpa",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Vyrážka, pruritus, kopřivka",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Svalová slabost*",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Retence moči",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Únava*",
+      "frekvence_vyskytu": "Není známo"
+    },
+    {
+      "nazev": "Pády, fraktury***",
+      "frekvence_vyskytu": "Není známo"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}

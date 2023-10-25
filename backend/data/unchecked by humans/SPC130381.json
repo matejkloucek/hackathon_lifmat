@@ -1,0 +1,93 @@
+{
+  "nazev_pripravku": "PHYSIONEAL 40 CLEAR-FLEX GLUCOSE 13,6 MG/ML, PHYSIONEAL 40 CLEAR-FLEX GLUCOSE 22,7 MG/ML, PHYSIONEAL 40 CLEAR-FLEX GLUCOSE 38,6 MG/ML",
+  "slozeni": [
+    {
+      "nazev": "glucosum monohydricum",
+      "mnozstvi": "13,6 mg/ml",
+      "jednotky": ""
+    },
+    {
+      "nazev": "calcii chloridum dihydricum",
+      "mnozstvi": "20,0 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "magnesii chloridum hexahydricum",
+      "mnozstvi": "18,2 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "glucosum monohydricum",
+      "mnozstvi": "22,7 mg/ml",
+      "jednotky": ""
+    },
+    {
+      "nazev": "calcii chloridum dihydricum",
+      "mnozstvi": "33,3 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "magnesii chloridum hexahydricum",
+      "mnozstvi": "30,3 g",
+      "jednotky": ""
+    },
+    {
+      "nazev": "natrii chloridum",
+      "mnozstvi": "132 mmol/l",
+      "jednotky": ""
+    },
+    {
+      "nazev": "natrii hydrogenocarbonas",
+      "mnozstvi": "25 mmol/l",
+      "jednotky": ""
+    },
+    {
+      "nazev": "natrii lactatis S solutio",
+      "mnozstvi": "15 mmol/l",
+      "jednotky": ""
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "kyselina chlorovodíková, zředěná (k úpravě pH)",
+    },
+    {
+      "nazev": "hydroxid sodný (k úpravě pH)",
+    },
+    {
+      "nazev": "voda na injekci",
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "Hypersenzitivita na léčivé látky nebo kteroukoli pomocnou látku uvedenou v bodě 6.1. Přípravek Physioneal 40 se nesmí používat u pacientů s neodstranitelnými mechanickými defekty, které zabraňují efektivní peritoneální dialýze nebo zvyšují riziko infekce, zdokumentovanou ztrátou funkce peritonea nebo rozsáhlými srůsty, které funkci peritonea narušují."
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "Žádné",
+      "druh_interakce": ""
+    }
+  ],
+  "tehotenstvi": [
+    "Přípravek Physioneal 40 není doporučován během těhotenství a u žen ve fertilním věku, které nepoužívají antikoncepci."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "Alkalóza",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Hypokalémie",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Retence tekutin",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Hyperkalcémie",
+      "frekvence_vyskytu": "Časté"
+    },
+    {
+      "nazev": "Hypertenze

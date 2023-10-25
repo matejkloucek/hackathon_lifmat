@@ -1,0 +1,85 @@
+{
+  "nazev_pripravku": "Momanose 50 mikrogramů/dávka nosní sprej, suspenze",
+  "slozeni": [
+    {
+      "nazev": "mometasoni furoas monohydricus",
+      "mnozstvi": 50,
+      "jednotky": "mikrogramů"
+    },
+    {
+      "nazev": "benzalkonium-chlorid",
+      "mnozstvi": 0.02,
+      "jednotky": "mg"
+    }
+  ],
+  "ostatni_latky": [
+    {
+      "nazev": "mikrokrystalická celulosa"
+    },
+    {
+      "nazev": "sodná sůl karmelosy"
+    },
+    {
+      "nazev": "glycerol"
+    },
+    {
+      "nazev": "monohydrát kyseliny citronové"
+    },
+    {
+      "nazev": "dihydrát natrium-citrátu"
+    },
+    {
+      "nazev": "polysorbát 80"
+    },
+    {
+      "nazev": "voda pro injekci"
+    }
+  ],
+  "kontraindikace": [
+    {
+      "nazev_kontraindikace": "hypersenzitivita na léčivou látku nebo na kteroukoli pomocnou látku uvedenou v bodě 6.1"
+    },
+    {
+      "nazev_kontraindikace": "přítomnost neléčené lokální infekce postihující nosní sliznici, jako je infekce herpes simplex virem"
+    },
+    {
+      "nazev_kontraindikace": "pacienti, kteří v nedávné době podstoupili rinochirurgický výkon nebo prodělali úraz nosu, nesmí používat nosní kortikosteroidy, dokud se rána nezahojí"
+    }
+  ],
+  "negativni_interakce": [
+    {
+      "nazev_latky": "inhibitory CYP3A",
+      "druh_interakce": "zvyšuje riziko systémových nežádoucích účinků"
+    },
+    {
+      "nazev_latky": "kobicistat",
+      "druh_interakce": "zvyšuje riziko systémových nežádoucích účinků"
+    }
+  ],
+  "tehotenstvi": [
+    "Tento léčivý přípravek by neměl být používán v těhotenství, pokud potenciální prospěch pro matku nepřevýší jakékoli potenciální riziko pro matku, plod nebo kojené dítě."
+  ],
+  "nezadouci_ucinky": [
+    {
+      "nazev": "epistaxe",
+      "frekvence_vyskytu": "velmi časté"
+    },
+    {
+      "nazev": "pálení v nose",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "podráždění nosu",
+      "frekvence_vyskytu": "časté"
+    },
+    {
+      "nazev": "ulcerace v nose",
+      "frekvence_vyskytu": "méně časté"
+    },
+    {
+      "nazev": "perforace nosního septa",
+      "frekvence_vyskytu": "méně časté"
+    }
+  ],
+  "inkompatibility": "Neuplatňuje se."
+}
