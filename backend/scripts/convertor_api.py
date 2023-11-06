@@ -2,11 +2,11 @@ from os import listdir
 from os.path import isfile, join
 
 import convertapi
-key = "EeOvkHwkOOBEfmBw" #your-api-secret
+key = "ualb4VgOzTYu4qOV" #your-api-secret
 
 
-folder_path = ''
-final_file_path = ''
+folder_path = 'C:/Users/katka/Downloads/SPC'
+final_file_path = 'C:/Users/katka/Downloads/SPC_final'
 
 onlyfiles = [f for f in listdir(folder_path) if isfile(join(folder_path, f))]
 
